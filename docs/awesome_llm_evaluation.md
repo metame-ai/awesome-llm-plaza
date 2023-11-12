@@ -124,10 +124,9 @@
 - **Generating Benchmarks for Factuality Evaluation of Language Models**, `arXiv, 2307.06908`, [arxiv](http://arxiv.org/abs/2307.06908v1), [pdf](http://arxiv.org/pdf/2307.06908v1.pdf), cication: [**6**](https://scholar.google.com/scholar?cites=5608570652501844927&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Dor Muhlgay, Ori Ram, Inbal Magar, Yoav Levine, Nir Ratner, Yonatan Belinkov, Omri Abend, Kevin Leyton-Brown, Amnon Shashua, Yoav Shoham*
-	-  [GitHub - AI21Labs/factor: Code and data for the FACTOR paper](https://github.com/AI21Labs/factor)
-- [**opencompass**](https://github.com/InternLM/opencompass) - InternLM ![Star](https://img.shields.io/github/stars/InternLM/opencompass.svg?style=social&label=Star)
 
-	 *OpenCompass is an LLM evaluation platform, supporting a wide range of models (LLaMA, ChatGLM2, ChatGPT, Claude, etc) over 50+ datasets.* · [[opencompass.org](https://opencompass.org.cn/MMBench)]
+	 · ([factor](https://github.com/AI21Labs/factor) - AI21Labs) ![Star](https://img.shields.io/github/stars/AI21Labs/factor.svg?style=social&label=Star)
+
 - **PromptBench: Towards Evaluating the Robustness of Large Language Models
   on Adversarial Prompts**, `arXiv, 2306.04528`, [arxiv](http://arxiv.org/abs/2306.04528v4), [pdf](http://arxiv.org/pdf/2306.04528v4.pdf), cication: [**32**](https://scholar.google.com/scholar?cites=6727691362756502405&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
@@ -177,6 +176,9 @@
 
 
 ## Projects
+- [**opencompass**](https://github.com/InternLM/opencompass) - InternLM ![Star](https://img.shields.io/github/stars/InternLM/opencompass.svg?style=social&label=Star)
+
+	 *OpenCompass is an LLM evaluation platform, supporting a wide range of models (LLaMA, ChatGLM2, ChatGPT, Claude, etc) over 50+ datasets.* · [[opencompass.org](https://opencompass.org.cn/MMBench)]
 - [**FlagAI**](https://github.com/FlagAI-Open/FlagAI/tree/master/examples/Aquila) - FlagAI-Open ![Star](https://img.shields.io/github/stars/FlagAI-Open/FlagAI.svg?style=social&label=Star)
 
 	 · [[qbitai](https://www.qbitai.com/2023/06/64469.html)]
