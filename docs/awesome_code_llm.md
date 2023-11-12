@@ -2,13 +2,13 @@
 
 
 ## Paper
-- **Leveraging Large Language Models for Automated Proof Synthesis in Rust**, arXiv, 2311.03739, [arxiv](http://arxiv.org/abs/2311.03739v1), [pdf](http://arxiv.org/pdf/2311.03739v1.pdf), cication: [**-1**](None)
+- **Leveraging Large Language Models for Automated Proof Synthesis in Rust**, `arXiv, 2311.03739`, [arxiv](http://arxiv.org/abs/2311.03739v1), [pdf](http://arxiv.org/pdf/2311.03739v1.pdf), cication: [**-1**](None)
 
 	 *Jianan Yao, Ziqiao Zhou, Weiteng Chen, Weidong Cui*
-- **MFTCoder: Boosting Code LLMs with Multitask Fine-Tuning**, arXiv, 2311.02303, [arxiv](http://arxiv.org/abs/2311.02303v1), [pdf](http://arxiv.org/pdf/2311.02303v1.pdf), cication: [**-1**](None)
+- **MFTCoder: Boosting Code LLMs with Multitask Fine-Tuning**, `arXiv, 2311.02303`, [arxiv](http://arxiv.org/abs/2311.02303v1), [pdf](http://arxiv.org/pdf/2311.02303v1.pdf), cication: [**-1**](None)
 
 	 *Bingchang Liu, Chaoyu Chen, Cong Liao, Zi Gong, Huan Wang, Zhichao Lei, Ming Liang, Dajun Chen, Min Shen, Hailian Zhou*
-	 · [github](https://github.com/codefuse-ai/MFTCOder)![Star](https://img.shields.io/github/stars/codefuse-ai/MFTCoder.svg?style=social&label=Star)
+	 · [[github](https://github.com/codefuse-ai/MFTCOder)]![Star](https://img.shields.io/github/stars/codefuse-ai/MFTCoder.svg?style=social&label=Star)
 - **Personalised Distillation: Empowering Open-Sourced LLMs with Adaptive
   Learning for Code Generation**, arXiv, 2310.18628, [arxiv](http://arxiv.org/abs/2310.18628v1), [pdf](http://arxiv.org/pdf/2310.18628v1.pdf), cication: [**-1**](None)
 
@@ -138,7 +138,7 @@
 - [**sqlcoder**](https://github.com/defog-ai/sqlcoder) - defog-ai ![Star](https://img.shields.io/github/stars/defog-ai/sqlcoder.svg?style=social&label=Star)
 
 	 *SoTA LLM for converting natural language questions to SQL queries*
-	 · [jiqizhixin](https://www.jiqizhixin.com/articles/2023-08-23-5)
+	 · [[jiqizhixin](https://www.jiqizhixin.com/articles/2023-08-23-5)]
 
 - [**DeciCoder-1b**](https://huggingface.co/Deci/DeciCoder-1b) - Deci 🤗
 
@@ -151,7 +151,7 @@
 - [**continue**](https://github.com/continuedev/continue) - continuedev ![Star](https://img.shields.io/github/stars/continuedev/continue.svg?style=social&label=Star)
 
 	 *⏩ the open-source autopilot for software development—a VS Code extension that brings the power of ChatGPT to your IDE*
-	 · [jiqizhixin](https://www.jiqizhixin.com/articles/2023-07-29-4)
+	 · [[jiqizhixin](https://www.jiqizhixin.com/articles/2023-07-29-4)]
 - [**CodeGeeX2**](https://github.com/THUDM/CodeGeeX2) - THUDM ![Star](https://img.shields.io/github/stars/THUDM/CodeGeeX2.svg?style=social&label=Star)
 
 	 *CodeGeeX2: A More Powerful Multilingual Code Generation Model*
