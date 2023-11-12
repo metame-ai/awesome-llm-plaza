@@ -14,7 +14,7 @@
 - **NExT-Chat: An LMM for Chat, Detection and Segmentation**, `arXiv, 2311.04498`, [arxiv](http://arxiv.org/abs/2311.04498v1), [pdf](http://arxiv.org/pdf/2311.04498v1.pdf), cication: [**-1**](None)
 
 	 *Ao Zhang, Liming Zhao, Chen-Wei Xie, Yun Zheng, Wei Ji, Tat-Seng Chua*
-	 · [[NExT-Chat](https://github.com/NExT-ChatV/NExT-Chat) - NExT-ChatV] ![Star](https://img.shields.io/github/stars/NExT-ChatV/NExT-Chat.svg?style=social&label=Star) · [[20d12192149d0748e2.gradio](https://20d12192149d0748e2.gradio.live/)]
+	 · ([NExT-Chat](https://github.com/NExT-ChatV/NExT-Chat) - NExT-ChatV) ![Star](https://img.shields.io/github/stars/NExT-ChatV/NExT-Chat.svg?style=social&label=Star) · [[20d12192149d0748e2.gradio](https://20d12192149d0748e2.gradio.live/)]
 - **LanguageBind: Extending Video-Language Pretraining to N-modality by
   Language-based Semantic Alignment**, `arXiv, 2310.01852`, [arxiv](http://arxiv.org/abs/2310.01852v5), [pdf](http://arxiv.org/pdf/2310.01852v5.pdf), cication: [**-1**](None)
 
@@ -334,7 +334,7 @@
   Text Integration**, `arXiv, 2306.09093`, [arxiv](http://arxiv.org/abs/2306.09093v1), [pdf](http://arxiv.org/pdf/2306.09093v1.pdf), cication: [**9**](https://scholar.google.com/scholar?cites=15696066130009507422&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Chenyang Lyu, Minghao Wu, Longyue Wang, Xinting Huang, Bingshuai Liu, Zefeng Du, Shuming Shi, Zhaopeng Tu*
-	 · [[macaw-llm#macaw-llm-multi-modal-language-modeling-with-image-audio-video-and-text-integration](https://github.com/lyuchenyang/macaw-llm#macaw-llm-multi-modal-language-modeling-with-image-audio-video-and-text-integration) - lyuchenyang] ![Star](https://img.shields.io/github/stars/lyuchenyang/macaw-llm#macaw-llm-multi-modal-language-modeling-with-image-audio-video-and-text-integration.svg?style=social&label=Star)
+	 · [[macaw-llm](https://github.com/lyuchenyang/macaw-llm#macaw-llm-multi-modal-language-modeling-with-image-audio-video-and-text-integration) - lyuchenyang] ![Star](https://img.shields.io/github/stars/lyuchenyang/macaw-llm#macaw-llm-multi-modal-language-modeling-with-image-audio-video-and-text-integration.svg?style=social&label=Star)
 - **Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video
   Understanding**, `arXiv, 2306.02858`, [arxiv](http://arxiv.org/abs/2306.02858v4), [pdf](http://arxiv.org/pdf/2306.02858v4.pdf), cication: [**39**](https://scholar.google.com/scholar?cites=243345481669305195&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
