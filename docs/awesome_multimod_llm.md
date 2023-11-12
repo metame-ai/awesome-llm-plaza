@@ -14,13 +14,11 @@
 - **NExT-Chat: An LMM for Chat, Detection and Segmentation**, `arXiv, 2311.04498`, [arxiv](http://arxiv.org/abs/2311.04498v1), [pdf](http://arxiv.org/pdf/2311.04498v1.pdf), cication: [**-1**](None)
 
 	 *Ao Zhang, Liming Zhao, Chen-Wei Xie, Yun Zheng, Wei Ji, Tat-Seng Chua*
-
 	 · [[NExT-Chat](https://github.com/NExT-ChatV/NExT-Chat) - NExT-ChatV] ![Star](https://img.shields.io/github/stars/NExT-ChatV/NExT-Chat.svg?style=social&label=Star) · [[20d12192149d0748e2.gradio](https://20d12192149d0748e2.gradio.live/)]
 - **LanguageBind: Extending Video-Language Pretraining to N-modality by
   Language-based Semantic Alignment**, `arXiv, 2310.01852`, [arxiv](http://arxiv.org/abs/2310.01852v5), [pdf](http://arxiv.org/pdf/2310.01852v5.pdf), cication: [**-1**](None)
 
 	 *Bin Zhu, Bin Lin, Munan Ning, Yang Yan, Jiaxi Cui, HongFa Wang, Yatian Pang, Wenhao Jiang, Junwu Zhang, Zongwei Li*
-
 	 · [[LanguageBind](https://github.com/PKU-YuanGroup/LanguageBind) - PKU-YuanGroup] ![Star](https://img.shields.io/github/stars/PKU-YuanGroup/LanguageBind.svg?style=social&label=Star) · [[jiqizhixin](https://www.jiqizhixin.com/articles/2023-11-09-3)]
 - **OtterHD: A High-Resolution Multi-modality Model**, `arXiv, 2311.04219`, [arxiv](http://arxiv.org/abs/2311.04219v1), [pdf](http://arxiv.org/pdf/2311.04219v1.pdf), cication: [**-1**](None)
 
@@ -29,7 +27,6 @@
   Modality Collaboration**, `arXiv, 2311.04257`, [arxiv](http://arxiv.org/abs/2311.04257v1), [pdf](http://arxiv.org/pdf/2311.04257v1.pdf), cication: [**-1**](None)
 
 	 *Qinghao Ye, Haiyang Xu, Jiabo Ye, Ming Yan, Haowei Liu, Qi Qian, Ji Zhang, Fei Huang, Jingren Zhou*
-
 	 · [[mPLUG-Owl](https://github.com/X-PLUG/mPLUG-Owl/blob/main/mPLUG-Owl2) - X-PLUG] ![Star](https://img.shields.io/github/stars/X-PLUG/mPLUG-Owl.svg?style=social&label=Star)
 - **GLaMM: Pixel Grounding Large Multimodal Model**, `arXiv, 2311.03356`, [arxiv](http://arxiv.org/abs/2311.03356v1), [pdf](http://arxiv.org/pdf/2311.03356v1.pdf), cication: [**-1**](None)
 
@@ -56,7 +53,6 @@
   Understanding**, `arXiv, 2306.02858`, [arxiv](http://arxiv.org/abs/2306.02858v4), [pdf](http://arxiv.org/pdf/2306.02858v4.pdf), cication: [**39**](https://scholar.google.com/scholar?cites=243345481669305195&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Hang Zhang, Xin Li, Lidong Bing*
-
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 - **Multimodal ChatGPT for Medical Applications: an Experimental Study of
   GPT-4V**, `arXiv, 2310.19061`, [arxiv](http://arxiv.org/abs/2310.19061v1), [pdf](http://arxiv.org/pdf/2310.19061v1.pdf), cication: [**-1**](None)
@@ -69,12 +65,10 @@
   Models**, `arXiv, 2310.16045`, [arxiv](http://arxiv.org/abs/2310.16045v1), [pdf](http://arxiv.org/pdf/2310.16045v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=522629295517903693&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Shukang Yin, Chaoyou Fu, Sirui Zhao, Tong Xu, Hao Wang, Dianbo Sui, Yunhang Shen, Ke Li, Xing Sun, Enhong Chen*
-
 	 · [[woodpecker](https://github.com/bradyfu/woodpecker) - bradyfu] ![Star](https://img.shields.io/github/stars/bradyfu/woodpecker.svg?style=social&label=Star) · [[qbitai](https://www.qbitai.com/2023/10/93715.html)]
 - **PaLI-3 Vision Language Models: Smaller, Faster, Stronger**, `arXiv, 2310.09199`, [arxiv](http://arxiv.org/abs/2310.09199v2), [pdf](http://arxiv.org/pdf/2310.09199v2.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=14650423215196634958&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Xi Chen, Xiao Wang, Lucas Beyer, Alexander Kolesnikov, Jialin Wu, Paul Voigtlaender, Basil Mustafa, Sebastian Goodman, Ibrahim Alabdulmohsin, Piotr Padlewski*
-
 	 · [[mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652396354&idx=4&sn=deaf17ff855ad0c103d07d432b1a33d9)]
 - **Large Language Models are Visual Reasoning Coordinators**, `arXiv, 2310.15166`, [arxiv](http://arxiv.org/abs/2310.15166v1), [pdf](http://arxiv.org/pdf/2310.15166v1.pdf), cication: [**-1**](None)
 
@@ -82,7 +76,6 @@
 - **Set-of-Mark Prompting Unleashes Extraordinary Visual Grounding in GPT-4V**, `arXiv, 2310.11441`, [arxiv](http://arxiv.org/abs/2310.11441v2), [pdf](http://arxiv.org/pdf/2310.11441v2.pdf), cication: [**2**](https://scholar.google.com/scholar?cites=15918217840843846675&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Jianwei Yang, Hao Zhang, Feng Li, Xueyan Zou, Chunyuan Li, Jianfeng Gao*
-
 	 · [[SoM](https://github.com/microsoft/SoM) - microsoft] ![Star](https://img.shields.io/github/stars/microsoft/SoM.svg?style=social&label=Star) · [[jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-23-13)]
 
 - **Set-of-Mark Prompting Unleashes Extraordinary Visual Grounding in GPT-4V**, `arXiv, 2310.11441`, [arxiv](http://arxiv.org/abs/2310.11441v2), [pdf](http://arxiv.org/pdf/2310.11441v2.pdf), cication: [**2**](https://scholar.google.com/scholar?cites=15918217840843846675&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
@@ -92,12 +85,10 @@
   Models**, `arXiv, 2310.08825`, [arxiv](http://arxiv.org/abs/2310.08825v2), [pdf](http://arxiv.org/pdf/2310.08825v2.pdf), cication: [**-1**](None)
 
 	 *Dongsheng Jiang, Yuchen Liu, Songlin Liu, Xiaopeng Zhang, Jin Li, Hongkai Xiong, Qi Tian*
-
 	 · [[comm](https://github.com/yuchenliu98/comm) - yuchenliu98] ![Star](https://img.shields.io/github/stars/yuchenliu98/comm.svg?style=social&label=Star)
 - **PaLI-3 Vision Language Models: Smaller, Faster, Stronger**, `arXiv, 2310.09199`, [arxiv](http://arxiv.org/abs/2310.09199v2), [pdf](http://arxiv.org/pdf/2310.09199v2.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=14650423215196634958&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Xi Chen, Xiao Wang, Lucas Beyer, Alexander Kolesnikov, Jialin Wu, Paul Voigtlaender, Basil Mustafa, Sebastian Goodman, Ibrahim Alabdulmohsin, Piotr Padlewski*
-
 	 · [[jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-17-6)]
 - **MiniGPT-v2: large language model as a unified interface for
   vision-language multi-task learning**, `arXiv, 2310.09478`, [arxiv](http://arxiv.org/abs/2310.09478v3), [pdf](http://arxiv.org/pdf/2310.09478v3.pdf), cication: [**-1**](None)
@@ -114,29 +105,24 @@
 - **CogVLM: Visual Expert for Pretrained Language Models**, `arXiv, 2311.03079`, [arxiv](http://arxiv.org/abs/2311.03079v1), [pdf](http://arxiv.org/pdf/2311.03079v1.pdf), cication: [**-1**](None)
 
 	 *Weihan Wang, Qingsong Lv, Wenmeng Yu, Wenyi Hong, Ji Qi, Yan Wang, Junhui Ji, Zhuoyi Yang, Lei Zhao, Xixuan Song*
-
 	 · [[CogVLM](https://github.com/THUDM/CogVLM) - THUDM] ![Star](https://img.shields.io/github/stars/THUDM/CogVLM.svg?style=social&label=Star) · [[qbitai](https://www.qbitai.com/2023/10/88782.html)]
 - **Making LLaMA SEE and Draw with SEED Tokenizer**, `arXiv, 2310.01218`, [arxiv](http://arxiv.org/abs/2310.01218v1), [pdf](http://arxiv.org/pdf/2310.01218v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=14781111967367961466&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Yuying Ge, Sijie Zhao, Ziyun Zeng, Yixiao Ge, Chen Li, Xintao Wang, Ying Shan*
-
 	 · [[SEED](https://github.com/AILab-CVC/SEED) - AILab-CVC] ![Star](https://img.shields.io/github/stars/AILab-CVC/SEED.svg?style=social&label=Star)
 - **Improved Baselines with Visual Instruction Tuning**, `arXiv, 2310.03744`, [arxiv](http://arxiv.org/abs/2310.03744v1), [pdf](http://arxiv.org/pdf/2310.03744v1.pdf), cication: [**11**](https://scholar.google.com/scholar?cites=3728182044736997490&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Haotian Liu, Chunyuan Li, Yuheng Li, Yong Jae Lee*
-
 	 · [[mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652387513&idx=1&sn=6ce09815e418582eaa1b4bf5302a6cb9&poc_token=HJs5I2Wj6qIOmBuS1VELumrD9cgAWsWNBRC0g0IE)] · [[llava-vl.github](https://llava-vl.github.io/)]
 - **Investigating the Catastrophic Forgetting in Multimodal Large Language
   Models**, `arXiv, 2309.10313`, [arxiv](http://arxiv.org/abs/2309.10313v3), [pdf](http://arxiv.org/pdf/2309.10313v3.pdf), cication: [**4**](https://scholar.google.com/scholar?cites=13813400105448769431&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Yuexiang Zhai, Shengbang Tong, Xiao Li, Mu Cai, Qing Qu, Yong Jae Lee, Yi Ma*
-
 	 · [[mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652385812&idx=2&sn=326d6c259ca7491af814798254b30889)]
 - **MiniGPT-5: Interleaved Vision-and-Language Generation via Generative
   Vokens**, `arXiv, 2310.02239`, [arxiv](http://arxiv.org/abs/2310.02239v2), [pdf](http://arxiv.org/pdf/2310.02239v2.pdf), cication: [**3**](https://scholar.google.com/scholar?cites=1997615847083584812&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Kaizhi Zheng, Xuehai He, Xin Eric Wang*
-
 	 · [[minigpt-5](https://github.com/eric-ai-lab/minigpt-5) - eric-ai-lab] ![Star](https://img.shields.io/github/stars/eric-ai-lab/minigpt-5.svg?style=social&label=Star)
 - **Leveraging Unpaired Data for Vision-Language Generative Models via Cycle
   Consistency**, `arXiv, 2310.03734`, [arxiv](http://arxiv.org/abs/2310.03734v1), [pdf](http://arxiv.org/pdf/2310.03734v1.pdf), cication: [**-1**](None)
@@ -149,17 +135,14 @@
   Text-image Comprehension and Composition**, `arXiv, 2309.15112`, [arxiv](http://arxiv.org/abs/2309.15112v4), [pdf](http://arxiv.org/pdf/2309.15112v4.pdf), cication: [**2**](https://scholar.google.com/scholar?cites=16508322221918671254&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Pan Zhang, Xiaoyi Dong, Bin Wang, Yuhang Cao, Chao Xu, Linke Ouyang, Zhiyuan Zhao, Shuangrui Ding, Songyang Zhang, Haodong Duan*
-
 	 · [[mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652388609&idx=1&sn=82aec0ed78ea4153d389bee1644084cb)] · [[internlm-xcomposer](https://github.com/internlm/internlm-xcomposer) - internlm] ![Star](https://img.shields.io/github/stars/internlm/internlm-xcomposer.svg?style=social&label=Star)
 - **AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model**, `arXiv, 2309.16058`, [arxiv](http://arxiv.org/abs/2309.16058v1), [pdf](http://arxiv.org/pdf/2309.16058v1.pdf), cication: [**4**](https://scholar.google.com/scholar?cites=4437915502458784872&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Seungwhan Moon, Andrea Madotto, Zhaojiang Lin, Tushar Nagarajan, Matt Smith, Shashank Jain, Chun-Fu Yeh, Prakash Murugesan, Peyman Heidari, Yue Liu*
-
 	 · [[jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-03-2)]
 - **The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision)**, `arXiv, 2309.17421`, [arxiv](http://arxiv.org/abs/2309.17421v2), [pdf](http://arxiv.org/pdf/2309.17421v2.pdf), cication: [**20**](https://scholar.google.com/scholar?cites=15832597276306837362&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Zhengyuan Yang, Linjie Li, Kevin Lin, Jianfeng Wang, Chung-Ching Lin, Zicheng Liu, Lijuan Wang*
-
 	 · [[qbitai](https://www.qbitai.com/2023/10/87661.html)]
 - **DeepSpeed-VisualChat: Multi-Round Multi-Image Interleave Chat via
   Multi-Modal Causal Attention**, `arXiv, 2309.14327`, [arxiv](http://arxiv.org/abs/2309.14327v2), [pdf](http://arxiv.org/pdf/2309.14327v2.pdf), cication: [**-1**](None)
@@ -209,56 +192,46 @@
 - **PointLLM: Empowering Large Language Models to Understand Point Clouds**, `arXiv, 2308.16911`, [arxiv](http://arxiv.org/abs/2308.16911v1), [pdf](http://arxiv.org/pdf/2308.16911v1.pdf), cication: [**3**](https://scholar.google.com/scholar?cites=5467745697550987528&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Runsen Xu, Xiaolong Wang, Tai Wang, Yilun Chen, Jiangmiao Pang, Dahua Lin*
-
 	 · [[pointllm](https://github.com/openrobotlab/pointllm) - openrobotlab] ![Star](https://img.shields.io/github/stars/openrobotlab/pointllm.svg?style=social&label=Star)
 - **InstructionGPT-4: A 200-Instruction Paradigm for Fine-Tuning MiniGPT-4**, `arXiv, 2308.12067`, [arxiv](http://arxiv.org/abs/2308.12067v2), [pdf](http://arxiv.org/pdf/2308.12067v2.pdf), cication: [**5**](https://scholar.google.com/scholar?cites=9653142586779586757&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Lai Wei, Zihao Jiang, Weiran Huang, Lichao Sun*
-
 	 · [[minigpt-v2.github](https://minigpt-v2.github.io/)] · [[jiqizhixin](https://www.jiqizhixin.com/articles/2023-08-29-4)]
 - **BLIVA: A Simple Multimodal LLM for Better Handling of Text-Rich Visual
   Questions**, `arXiv, 2308.09936`, [arxiv](http://arxiv.org/abs/2308.09936v1), [pdf](http://arxiv.org/pdf/2308.09936v1.pdf), cication: [**3**](https://scholar.google.com/scholar?cites=10363074134135382704&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Wenbo Hu, Yifan Xu, Yi Li, Weiyue Li, Zeyuan Chen, Zhuowen Tu*
-
 	 · [[bliva](https://github.com/mlpc-ucsd/bliva) - mlpc-ucsd] ![Star](https://img.shields.io/github/stars/mlpc-ucsd/bliva.svg?style=social&label=Star)
 - **Qwen-VL: A Versatile Vision-Language Model for Understanding,
   Localization, Text Reading, and Beyond**, `arXiv, 2308.12966`, [arxiv](http://arxiv.org/abs/2308.12966v3), [pdf](http://arxiv.org/pdf/2308.12966v3.pdf), cication: [**17**](https://scholar.google.com/scholar?cites=8374957261235476914&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Jinze Bai, Shuai Bai, Shusheng Yang, Shijie Wang, Sinan Tan, Peng Wang, Junyang Lin, Chang Zhou, Jingren Zhou*
-
 	 · [[Qwen-VL](https://github.com/QwenLM/Qwen-VL) - QwenLM] ![Star](https://img.shields.io/github/stars/QwenLM/Qwen-VL.svg?style=social&label=Star) · [[jiqizhixin](https://www.jiqizhixin.com/articles/2023-08-25)]
 - **Generating Images with Multimodal Language Models**, `arXiv, 2305.17216`, [arxiv](http://arxiv.org/abs/2305.17216v3), [pdf](http://arxiv.org/pdf/2305.17216v3.pdf), cication: [**27**](https://scholar.google.com/scholar?cites=18125197563162628220&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Jing Yu Koh, Daniel Fried, Ruslan Salakhutdinov*
-
 	 · [[mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652369597&idx=4&sn=cc541b279b064a97fcdfb4dfa24e354c)]
 - **Link-Context Learning for Multimodal LLMs**, `arXiv, 2308.07891`, [arxiv](http://arxiv.org/abs/2308.07891v1), [pdf](http://arxiv.org/pdf/2308.07891v1.pdf), cication: [**-1**](None)
 
 	 *Yan Tai, Weichen Fan, Zhao Zhang, Feng Zhu, Rui Zhao, Ziwei Liu*
-
 	 · [[Link-Context-Learning](https://github.com/isekai-portal/Link-Context-Learning) - isekai-portal] ![Star](https://img.shields.io/github/stars/isekai-portal/Link-Context-Learning.svg?style=social&label=Star)
 - **Visual Instruction Tuning**, `arXiv, 2304.08485`, [arxiv](http://arxiv.org/abs/2304.08485v1), [pdf](http://arxiv.org/pdf/2304.08485v1.pdf), cication: [**301**](https://scholar.google.com/scholar?cites=9083483030705185424&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Haotian Liu, Chunyuan Li, Qingyang Wu, Yong Jae Lee*
-
 	 · [[llava-vl.github](https://llava-vl.github.io/)]
 - **Fine-tuning Multimodal LLMs to Follow Zero-shot Demonstrative
   Instructions**, `arXiv, 2308.04152`, [arxiv](http://arxiv.org/abs/2308.04152v3), [pdf](http://arxiv.org/pdf/2308.04152v3.pdf), cication: [**2**](https://scholar.google.com/scholar?cites=11040006820313015524&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Juncheng Li, Kaihang Pan, Zhiqi Ge, Minghe Gao, Hanwang Zhang, Wei Ji, Wenqiao Zhang, Tat-Seng Chua, Siliang Tang, Yueting Zhuang*
-
 	 · [[cheetah](https://github.com/dcdmllm/cheetah) - dcdmllm] ![Star](https://img.shields.io/github/stars/dcdmllm/cheetah.svg?style=social&label=Star)
 - **OpenFlamingo: An Open-Source Framework for Training Large Autoregressive
   Vision-Language Models**, `arXiv, 2308.01390`, [arxiv](http://arxiv.org/abs/2308.01390v2), [pdf](http://arxiv.org/pdf/2308.01390v2.pdf), cication: [**31**](https://scholar.google.com/scholar?cites=17957043568315120670&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Anas Awadalla, Irena Gao, Josh Gardner, Jack Hessel, Yusuf Hanafy, Wanrong Zhu, Kalyani Marathe, Yonatan Bitton, Samir Gadre, Shiori Sagawa*
-
 	 · [[open_flamingo](https://github.com/mlfoundations/open_flamingo) - mlfoundations] ![Star](https://img.shields.io/github/stars/mlfoundations/open_flamingo.svg?style=social&label=Star)
 - **UniVTG: Towards Unified Video-Language Temporal Grounding**, `ICCV, 2023`, [arxiv](http://arxiv.org/abs/2307.16715v2), [pdf](http://arxiv.org/pdf/2307.16715v2.pdf), cication: [**-1**](None)
 
 	 *Kevin Qinghong Lin, Pengchuan Zhang, Joya Chen, Shraman Pramanick, Difei Gao, Alex Jinpeng Wang, Rui Yan, Mike Zheng Shou*
-
 	 · [[UniVTG](https://github.com/showlab/UniVTG) - showlab] ![Star](https://img.shields.io/github/stars/showlab/UniVTG.svg?style=social&label=Star)
 - **Backdooring Instruction-Tuned Large Language Models with Virtual Prompt
   Injection**, `arXiv, 2307.16888`, [arxiv](http://arxiv.org/abs/2307.16888v2), [pdf](http://arxiv.org/pdf/2307.16888v2.pdf), cication: [**2**](https://scholar.google.com/scholar?cites=9126439675689346864&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
@@ -282,18 +255,15 @@
 - **BuboGPT: Enabling Visual Grounding in Multi-Modal LLMs**, `arXiv, 2307.08581`, [arxiv](http://arxiv.org/abs/2307.08581v1), [pdf](http://arxiv.org/pdf/2307.08581v1.pdf), cication: [**11**](https://scholar.google.com/scholar?cites=15466553126669319734&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Yang Zhao, Zhijie Lin, Daquan Zhou, Zilong Huang, Jiashi Feng, Bingyi Kang*
-
 	 · [[bubogpt](https://github.com/magic-research/bubogpt) - magic-research] ![Star](https://img.shields.io/github/stars/magic-research/bubogpt.svg?style=social&label=Star)
 - **Vision-Language Models for Vision Tasks: A Survey**, `arXiv, 2304.00685`, [arxiv](http://arxiv.org/abs/2304.00685v1), [pdf](http://arxiv.org/pdf/2304.00685v1.pdf), cication: [**27**](https://scholar.google.com/scholar?cites=15920918924905530692&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Jingyi Zhang, Jiaxing Huang, Sheng Jin, Shijian Lu*
-
 	 · [[vlm_survey](https://github.com/jingyi0000/vlm_survey) - jingyi0000] ![Star](https://img.shields.io/github/stars/jingyi0000/vlm_survey.svg?style=social&label=Star)
 - **What Matters in Training a GPT4-Style Language Model with Multimodal
   Inputs?**, `arXiv, 2307.02469`, [arxiv](http://arxiv.org/abs/2307.02469v2), [pdf](http://arxiv.org/pdf/2307.02469v2.pdf), cication: [**10**](https://scholar.google.com/scholar?cites=4132439189633573873&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Yan Zeng, Hanbo Zhang, Jiani Zheng, Jiangnan Xia, Guoqiang Wei, Yang Wei, Yuchen Zhang, Tao Kong*
-
 	 · [[jiqizhixin](https://www.jiqizhixin.com/articles/2023-07-15-3)] · [[lynx-llm](https://github.com/bytedance/lynx-llm) - bytedance] ![Star](https://img.shields.io/github/stars/bytedance/lynx-llm.svg?style=social&label=Star)
 - **Generative Pretraining in Multimodality**, `arXiv, 2307.05222`, [arxiv](http://arxiv.org/abs/2307.05222v1), [pdf](http://arxiv.org/pdf/2307.05222v1.pdf), cication: [**19**](https://scholar.google.com/scholar?cites=15140367052685955488&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
@@ -308,7 +278,6 @@
 - **GPT4RoI: Instruction Tuning Large Language Model on Region-of-Interest**, `arXiv, 2307.03601`, [arxiv](http://arxiv.org/abs/2307.03601v2), [pdf](http://arxiv.org/pdf/2307.03601v2.pdf), cication: [**15**](https://scholar.google.com/scholar?cites=7500549576538416374&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Shilong Zhang, Peize Sun, Shoufa Chen, Min Xiao, Wenqi Shao, Wenwei Zhang, Yu Liu, Kai Chen, Ping Luo*
-
 	 · [[GPT4RoI](https://github.com/jshilong/GPT4RoI) - jshilong] ![Star](https://img.shields.io/github/stars/jshilong/GPT4RoI.svg?style=social&label=Star)
 - **mPLUG-DocOwl: Modularized Multimodal Large Language Model for Document
   Understanding**, `arXiv, 2307.02499`, [arxiv](http://arxiv.org/abs/2307.02499v1), [pdf](http://arxiv.org/pdf/2307.02499v1.pdf), cication: [**5**](https://scholar.google.com/scholar?cites=6566181958221003013&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
@@ -325,7 +294,6 @@
 - **Shikra: Unleashing Multimodal LLM's Referential Dialogue Magic**, `arXiv, 2306.15195`, [arxiv](http://arxiv.org/abs/2306.15195v2), [pdf](http://arxiv.org/pdf/2306.15195v2.pdf), cication: [**26**](https://scholar.google.com/scholar?cites=17373863579289672244&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Keqin Chen, Zhao Zhang, Weili Zeng, Richong Zhang, Feng Zhu, Rui Zhao*
-
 	 · [[shikra](https://github.com/shikras/shikra) - shikras] ![Star](https://img.shields.io/github/stars/shikras/shikra.svg?style=social&label=Star)
 - **Towards Language Models That Can See: Computer Vision Through the LENS
   of Natural Language**, `arXiv, 2306.16410`, [arxiv](http://arxiv.org/abs/2306.16410v1), [pdf](http://arxiv.org/pdf/2306.16410v1.pdf), cication: [**11**](https://scholar.google.com/scholar?cites=8194990482450812506&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
@@ -335,7 +303,6 @@
 - **PandaGPT: One Model To Instruction-Follow Them All**, `arXiv, 2305.16355`, [arxiv](http://arxiv.org/abs/2305.16355v1), [pdf](http://arxiv.org/pdf/2305.16355v1.pdf), cication: [**42**](https://scholar.google.com/scholar?cites=3148713146598870294&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Yixuan Su, Tian Lan, Huayang Li, Jialu Xu, Yan Wang, Deng Cai*
-
 	 · [[panda-gpt.github](https://panda-gpt.github.io/)] · [[mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652343523&idx=3&sn=7ca64f18eacae061b815c9d53003803e)]
 - **Macaw-LLM: Multi-Modal Language Modeling with Image, Audio, Video, and
   Text Integration**, `arXiv, 2306.09093`, [arxiv](http://arxiv.org/abs/2306.09093v1), [pdf](http://arxiv.org/pdf/2306.09093v1.pdf), cication: [**9**](https://scholar.google.com/scholar?cites=15696066130009507422&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
@@ -344,13 +311,11 @@
 - **Otter: A Multi-Modal Model with In-Context Instruction Tuning**, `arXiv, 2305.03726`, [arxiv](http://arxiv.org/abs/2305.03726v1), [pdf](http://arxiv.org/pdf/2305.03726v1.pdf), cication: [**69**](https://scholar.google.com/scholar?cites=14453137911172739574&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Bo Li, Yuanhan Zhang, Liangyu Chen, Jinghao Wang, Jingkang Yang, Ziwei Liu*
-
 	 · [[Otter](https://github.com/Luodian/Otter) - Luodian] ![Star](https://img.shields.io/github/stars/Luodian/Otter.svg?style=social&label=Star) · [[mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652339033&idx=1&sn=77048c8ae9d2c401ae7da24477665bfd)]
 - **Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and
   Language Models**, `arXiv, 2306.05424`, [arxiv](http://arxiv.org/abs/2306.05424v1), [pdf](http://arxiv.org/pdf/2306.05424v1.pdf), cication: [**30**](https://scholar.google.com/scholar?cites=13699030569069918768&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Muhammad Maaz, Hanoona Rasheed, Salman Khan, Fahad Shahbaz Khan*
-
 	 · [[video-chatgpt](https://github.com/mbzuai-oryx/video-chatgpt) - mbzuai-oryx] ![Star](https://img.shields.io/github/stars/mbzuai-oryx/video-chatgpt.svg?style=social&label=Star)
 - **Revisiting the Role of Language Priors in Vision-Language Models**, `arXiv, 2306.01879`, [arxiv](http://arxiv.org/abs/2306.01879v2), [pdf](http://arxiv.org/pdf/2306.01879v2.pdf), cication: [**4**](https://scholar.google.com/scholar?cites=13754762341203173877&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
@@ -364,28 +329,25 @@
 - **Kosmos-2: Grounding Multimodal Large Language Models to the World**, `arXiv, 2306.14824`, [arxiv](http://arxiv.org/abs/2306.14824v3), [pdf](http://arxiv.org/pdf/2306.14824v3.pdf), cication: [**52**](https://scholar.google.com/scholar?cites=15444663084916607877&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Zhiliang Peng, Wenhui Wang, Li Dong, Yaru Hao, Shaohan Huang, Shuming Ma, Furu Wei*
-
 	 · [[huggingface](https://huggingface.co/spaces/ydshieh/Kosmos-2)] · [[unilm](https://github.com/microsoft/unilm/tree/master/kosmos-2) - microsoft] ![Star](https://img.shields.io/github/stars/microsoft/unilm.svg?style=social&label=Star) · [[thegenerality](https://thegenerality.com/agi/)]
 - **Macaw-LLM: Multi-Modal Language Modeling with Image, Audio, Video, and
   Text Integration**, `arXiv, 2306.09093`, [arxiv](http://arxiv.org/abs/2306.09093v1), [pdf](http://arxiv.org/pdf/2306.09093v1.pdf), cication: [**9**](https://scholar.google.com/scholar?cites=15696066130009507422&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Chenyang Lyu, Minghao Wu, Longyue Wang, Xinting Huang, Bingshuai Liu, Zefeng Du, Shuming Shi, Zhaopeng Tu*
-
 	 · [[macaw-llm#macaw-llm-multi-modal-language-modeling-with-image-audio-video-and-text-integration](https://github.com/lyuchenyang/macaw-llm#macaw-llm-multi-modal-language-modeling-with-image-audio-video-and-text-integration) - lyuchenyang] ![Star](https://img.shields.io/github/stars/lyuchenyang/macaw-llm#macaw-llm-multi-modal-language-modeling-with-image-audio-video-and-text-integration.svg?style=social&label=Star)
 - **Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video
   Understanding**, `arXiv, 2306.02858`, [arxiv](http://arxiv.org/abs/2306.02858v4), [pdf](http://arxiv.org/pdf/2306.02858v4.pdf), cication: [**39**](https://scholar.google.com/scholar?cites=243345481669305195&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Hang Zhang, Xin Li, Lidong Bing*
-
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
- - [[2305.05665] ImageBind: One Embedding Space To Bind Them All](https://arxiv.org/abs/2305.05665)
+- **ImageBind: One Embedding Space To Bind Them All**, `CVPR, 2023`, [arxiv](http://arxiv.org/abs/2305.05665v2), [pdf](http://arxiv.org/pdf/2305.05665v2.pdf), cication: [**36**](https://scholar.google.com/scholar?cites=1657173986906232916&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
+	 *Rohit Girdhar, Alaaeldin El-Nouby, Zhuang Liu, Mannat Singh, Kalyan Vasudev Alwala, Armand Joulin, Ishan Misra*
 	 · [[facebookresearch.github](https://facebookresearch.github.io/ImageBind/paper)] · [[ImageBind](https://github.com/facebookresearch/ImageBind) - facebookresearch] ![Star](https://img.shields.io/github/stars/facebookresearch/ImageBind.svg?style=social&label=Star)
 - **InstructBLIP: Towards General-purpose Vision-Language Models with
   Instruction Tuning**, `arXiv, 2305.06500`, [arxiv](http://arxiv.org/abs/2305.06500v2), [pdf](http://arxiv.org/pdf/2305.06500v2.pdf), cication: [**301**](https://scholar.google.com/scholar?cites=9083483030705185424&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Wenliang Dai, Junnan Li, Dongxu Li, Anthony Meng Huat Tiong, Junqi Zhao, Weisheng Wang, Boyang Li, Pascale Fung, Steven Hoi*
-
 	 · [[LAVIS](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip) - salesforce] ![Star](https://img.shields.io/github/stars/salesforce/LAVIS.svg?style=social&label=Star) · [[LAVIS](https://github.com/salesforce/LAVIS/tree/main) - salesforce] ![Star](https://img.shields.io/github/stars/salesforce/LAVIS.svg?style=social&label=Star)
 - **Language Is Not All You Need: Aligning Perception with Language Models**, `arXiv, 2302.14045`, [arxiv](http://arxiv.org/abs/2302.14045v2), [pdf](http://arxiv.org/pdf/2302.14045v2.pdf), cication: [**133**](https://scholar.google.com/scholar?cites=17880336204125555846&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
@@ -399,11 +361,11 @@
 - **SALMONN: Towards Generic Hearing Abilities for Large Language Models**, `arXiv, 2310.13289`, [arxiv](http://arxiv.org/abs/2310.13289v1), [pdf](http://arxiv.org/pdf/2310.13289v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=10631342040411306525&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Changli Tang, Wenyi Yu, Guangzhi Sun, Xianzhao Chen, Tian Tan, Wei Li, Lu Lu, Zejun Ma, Chao Zhang*
-
 	 · [[SALMONN](https://github.com/bytedance/SALMONN/) - bytedance] ![Star](https://img.shields.io/github/stars/bytedance/SALMONN.svg?style=social&label=Star)
- - [[2308.15930] LLaSM: Large Language and Speech Model](https://arxiv.org/abs/2308.15930)
+- **LLaSM: Large Language and Speech Model**, `arXiv, 2308.15930`, [arxiv](http://arxiv.org/abs/2308.15930v3), [pdf](http://arxiv.org/pdf/2308.15930v3.pdf), cication: [**2**](https://scholar.google.com/scholar?cites=2920079584099209720&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
-	 · [[llasm](https://github.com/linksoul-ai/llasm) - linksoul-ai] ![Star](https://img.shields.io/github/stars/linksoul-ai/llasm.svg?style=social&label=Star)
+	 *Yu Shu, Siwei Dong, Guangyao Chen, Wenhao Huang, Ruihua Zhang, Daochen Shi, Qiqi Xiang, Yemin Shi*
+	· [[llasm](https://github.com/linksoul-ai/llasm) - linksoul-ai] ![Star](https://img.shields.io/github/stars/linksoul-ai/llasm.svg?style=social&label=Star)
 - **Prompting Large Language Models with Speech Recognition Abilities**, `arXiv, 2307.11795`, [arxiv](http://arxiv.org/abs/2307.11795v1), [pdf](http://arxiv.org/pdf/2307.11795v1.pdf), cication: [**11**](https://scholar.google.com/scholar?cites=1465389802386940744&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Yassir Fathullah, Chunyang Wu, Egor Lakomkin, Junteng Jia, Yuan Shangguan, Ke Li, Jinxi Guo, Wenhan Xiong, Jay Mahadeokar, Ozlem Kalinli*
