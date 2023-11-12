@@ -1,6 +1,9 @@
 # Awesome-llm-evaluation
 
 ## Survey
+- **Evaluating Large Language Models: A Comprehensive Survey**, `arXiv, 2310.19736`, [arxiv](http://arxiv.org/abs/2310.19736v2), [pdf](http://arxiv.org/pdf/2310.19736v2.pdf), cication: [**-1**](None)
+
+	 *Zishan Guo, Renren Jin, Chuang Liu, Yufei Huang, Dan Shi, Supryadi, Linhao Yu, Yan Liu, Jiaxuan Li, Bojian Xiong* · ([Awesome-LLMs-Evaluation-Papers](https://github.com/tjunlp-lab/Awesome-LLMs-Evaluation-Papers) - tjunlp-lab) ![Star](https://img.shields.io/github/stars/tjunlp-lab/Awesome-LLMs-Evaluation-Papers.svg?style=social&label=Star)
 - **Trustworthy LLMs: a Survey and Guideline for Evaluating Large Language
   Models' Alignment**, `arXiv, 2308.05374`, [arxiv](http://arxiv.org/abs/2308.05374v1), [pdf](http://arxiv.org/pdf/2308.05374v1.pdf), cication: [**12**](https://scholar.google.com/scholar?cites=9999906366581522663&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
