@@ -1,5 +1,13 @@
 # Awesome-robotics-llm
 
+- [Awesome-robotics-llm](#awesome-robotics-llm)
+	- [Papers](#papers)
+	- [Projects](#projects)
+	- [Other](#other)
+	- [Reference](#reference)
+
+## Papers
+
 - **LLaMA Rider: Spurring Large Language Models to Explore the Open World**, arXiv, 2310.08922, [arxiv](http://arxiv.org/abs/2310.08922v1), [pdf](http://arxiv.org/pdf/2310.08922v1.pdf), cication: [**-1**](None)
 
 	 *Yicheng Feng, Yuxuan Wang, Jiazheng Liu, Sipeng Zheng, Zongqing Lu*
