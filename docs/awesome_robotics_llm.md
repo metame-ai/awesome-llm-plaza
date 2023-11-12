@@ -57,10 +57,10 @@
 - **GenSim: Generating Robotic Simulation Tasks via Large Language Models**, arXiv, 2310.01361, [arxiv](http://arxiv.org/abs/2310.01361v1), [pdf](http://arxiv.org/pdf/2310.01361v1.pdf), cication: [**-1**](None)
 
 	 *Lirui Wang, Yiyang Ling, Zhecheng Yuan, Mohit Shridhar, Chen Bao, Yuzhe Qin, Bailin Wang, Huazhe Xu, Xiaolong Wang*
-- **A Data Source for Reasoning Embodied Agents**, proceedings of the aaai conference on artificial intelligence, 2023, [arxiv](http://arxiv.org/abs/2309.07974v1), [pdf](http://arxiv.org/pdf/2309.07974v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=3832761011527185747&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+- **A Data Source for Reasoning Embodied Agents**, AAAI, 2023, [arxiv](http://arxiv.org/abs/2309.07974v1), [pdf](http://arxiv.org/pdf/2309.07974v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=3832761011527185747&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Jack Lanchantin, Sainbayar Sukhbaatar, Gabriel Synnaeve, Yuxuan Sun, Kavya Srinet, Arthur Szlam*
-- **Language Embedded Radiance Fields for Zero-Shot Task-Oriented Grasping**, 7th annual conference on robot learning, 2023, [arxiv](http://arxiv.org/abs/2309.07970v2), [pdf](http://arxiv.org/pdf/2309.07970v2.pdf), cication: [**3**](https://scholar.google.com/scholar?cites=10160617997986232830&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+- **Language Embedded Radiance Fields for Zero-Shot Task-Oriented Grasping**, CoRL, 2023, [arxiv](http://arxiv.org/abs/2309.07970v2), [pdf](http://arxiv.org/pdf/2309.07970v2.pdf), cication: [**3**](https://scholar.google.com/scholar?cites=10160617997986232830&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Adam Rashid, Satvik Sharma, Chung Min Kim, Justin Kerr, Lawrence Chen, Angjoo Kanazawa, Ken Goldberg*
 - **Thought Cloning: Learning to Think while Acting by Imitating Human
