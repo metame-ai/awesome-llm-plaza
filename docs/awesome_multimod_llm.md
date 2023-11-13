@@ -10,7 +10,12 @@
 	- [Reference](#reference)
 
 ## Vision
+- **u-LLaVA: Unifying Multi-Modal Tasks via Large Language Model**, `arXiv, 2311.05348`, [arxiv](http://arxiv.org/abs/2311.05348v1), [pdf](http://arxiv.org/pdf/2311.05348v1.pdf), cication: [**-1**](None)
 
+	 *Jinjin Xu, Liwu Xu, Yuzhe Yang, Xiang Li, Yanchun Xie, Yi-Jie Huang, Yaqian Li*
+- **LLaVA-Plus: Learning to Use Tools for Creating Multimodal Agents**, `arXiv, 2311.05437`, [arxiv](http://arxiv.org/abs/2311.05437v1), [pdf](http://arxiv.org/pdf/2311.05437v1.pdf), cication: [**-1**](None)
+
+	 *Shilong Liu, Hao Cheng, Haotian Liu, Hao Zhang, Feng Li, Tianhe Ren, Xueyan Zou, Jianwei Yang, Hang Su, Jun Zhu* · ([LLaVA-Plus-Codebase](https://github.com/LLaVA-VL/LLaVA-Plus-Codebase) - LLaVA-VL) ![Star](https://img.shields.io/github/stars/LLaVA-VL/LLaVA-Plus-Codebase.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/datasets/LLaVA-VL/llava-plus-data))
 - **NExT-Chat: An LMM for Chat, Detection and Segmentation**, `arXiv, 2311.04498`, [arxiv](http://arxiv.org/abs/2311.04498v1), [pdf](http://arxiv.org/pdf/2311.04498v1.pdf), cication: [**-1**](None)
 
 	 *Ao Zhang, Liming Zhao, Chen-Wei Xie, Yun Zheng, Wei Ji, Tat-Seng Chua*
@@ -381,7 +386,9 @@
 - [**Mini-DALLE3**](https://github.com/Zeqiang-Lai/Mini-DALLE3) - Zeqiang-Lai ![Star](https://img.shields.io/github/stars/Zeqiang-Lai/Mini-DALLE3.svg?style=social&label=Star)
 
 	 *Mini-DALLE3: Interactive Text to Image by Prompting Large Language Models*
-- [Introducing IDEFICS: An Open Reproduction of State-of-the-art Visual Langage Model](https://huggingface.co/blog/idefics)
+- [**idefics-80b-instruct**](https://huggingface.co/HuggingFaceM4/idefics-80b-instruct) - HuggingFaceM4 🤗
+
+	 · ([huggingface](https://huggingface.co/blog/idefics))
 - [**LLaMA2-Accessory**](https://github.com/Alpha-VLLM/LLaMA2-Accessory) - Alpha-VLLM ![Star](https://img.shields.io/github/stars/Alpha-VLLM/LLaMA2-Accessory.svg?style=social&label=Star)
 
 	 *An Open-source Toolkit for LLM Development*

@@ -177,7 +177,6 @@
 
 	 *Lianmin Zheng, Wei-Lin Chiang, Ying Sheng, Siyuan Zhuang, Zhanghao Wu, Yonghao Zhuang, Zi Lin, Zhuohan Li, Dacheng Li, Eric. P Xing*
 
-
 ## Projects
 - [**opencompass**](https://github.com/InternLM/opencompass) - InternLM ![Star](https://img.shields.io/github/stars/InternLM/opencompass.svg?style=social&label=Star)
 
