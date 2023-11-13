@@ -1,5 +1,10 @@
 # Awesome opengpt
 
+- [Awesome opengpt](#awesome-opengpt)
+	- [English](#english)
+	- [Mulitlingual (chinese)](#mulitlingual-chinese)
+
+
 ## English
 - **GPT4All: An Ecosystem of Open Source Compressed Language Models**, `arXiv, 2311.04931`, [arxiv](http://arxiv.org/abs/2311.04931v1), [pdf](http://arxiv.org/pdf/2311.04931v1.pdf), cication: [**-1**](None)
 

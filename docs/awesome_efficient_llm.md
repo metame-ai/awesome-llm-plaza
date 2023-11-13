@@ -1,8 +1,7 @@
 # Awesome efficient llm
 
-- **Prompt Cache: Modular Attention Reuse for Low-Latency Inference**, `arXiv, 2311.04934`, [arxiv](http://arxiv.org/abs/2311.04934v1), [pdf](http://arxiv.org/pdf/2311.04934v1.pdf), cication: [**-1**](None)
-
-	 *In Gim, Guojun Chen, Seung-seob Lee, Nikhil Sarda, Anurag Khandelwal, Lin Zhong*
+- [Awesome efficient llm](#awesome-efficient-llm)
+	- [Efficient transformer](#efficient-transformer)
 
 ## Efficient transformer
 - **Simplifying Transformer Blocks**, `arXiv, 2311.01906`, [arxiv](http://arxiv.org/abs/2311.01906v1), [pdf](http://arxiv.org/pdf/2311.01906v1.pdf), cication: [**-1**](None)

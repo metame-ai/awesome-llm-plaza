@@ -1,5 +1,13 @@
 # Awesom long-context llm
 
+- [Awesom long-context llm](#awesom-long-context-llm)
+	- [Survey](#survey)
+	- [Papers](#papers)
+	- [Projects](#projects)
+	- [Other](#other)
+	- [Extra reference](#extra-reference)
+
+
 ## Survey
 - [The Transformer Family | Lil'Log](https://lilianweng.github.io/posts/2020-04-07-the-transformer-family/#adaptive-computation-time-act)
 - [The Transformer Family Version 2.0 | Lil'Log](https://lilianweng.github.io/posts/2023-01-27-the-transformer-family-v2/)
@@ -59,7 +67,10 @@
   Interpolation**, `arXiv, 2306.15595`, [arxiv](http://arxiv.org/abs/2306.15595v2), [pdf](http://arxiv.org/pdf/2306.15595v2.pdf), cication: [**36**](https://scholar.google.com/scholar?cites=16329089917044170292&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Shouyuan Chen, Sherman Wong, Liangjian Chen, Yuandong Tian* · ([qbitai](https://www.qbitai.com/2023/06/64516.html))
- - [[2305.19466] The Impact of Positional Encoding on Length Generalization in Transformers](https://arxiv.org/abs/2305.19466)
+- **The Impact of Positional Encoding on Length Generalization in
+  Transformers**, `arXiv, 2305.19466`, [arxiv](http://arxiv.org/abs/2305.19466v2), [pdf](http://arxiv.org/pdf/2305.19466v2.pdf), cication: [**5**](https://scholar.google.com/scholar?cites=4006212005145195153&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Amirhossein Kazemnejad, Inkit Padhi, Karthikeyan Natesan Ramamurthy, Payel Das, Siva Reddy*
 - **Long-range Language Modeling with Self-retrieval**, `arXiv, 2306.13421`, [arxiv](http://arxiv.org/abs/2306.13421v1), [pdf](http://arxiv.org/pdf/2306.13421v1.pdf), cication: [**3**](https://scholar.google.com/scholar?cites=13798183978039596966&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Ohad Rubin, Jonathan Berant*

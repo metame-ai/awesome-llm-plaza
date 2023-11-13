@@ -1,6 +1,6 @@
 # Awesome llm plaza ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-- [awesome open llms](./docs/awesome_openllms.md)
+- [awesome open llms](./docs/awesome_openllm.md)
 - [awesome llm agents](./docs/awesome_llm_agents.md)
 - [awesome efficient llm](./docs/awesome_efficient_llm.md)
 - [awesome llm hallucination](./docs/awesome_llm_hallucination.md)

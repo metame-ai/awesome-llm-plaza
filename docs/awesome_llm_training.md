@@ -1,5 +1,13 @@
 # Awesome llm training
 
+- [Awesome llm training](#awesome-llm-training)
+	- [Alignment](#alignment)
+	- [RLHF](#rlhf)
+		- [Projects](#projects)
+		- [Other](#other)
+	- [Extra reference](#extra-reference)
+
+
 ## Alignment
 - **Zephyr: Direct Distillation of LM Alignment**, `arXiv, 2310.16944`, [arxiv](http://arxiv.org/abs/2310.16944v1), [pdf](http://arxiv.org/pdf/2310.16944v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=5826276281263581161&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
@@ -51,9 +59,6 @@
   Feedback**, `arXiv, 2309.00267`, [arxiv](http://arxiv.org/abs/2309.00267v1), [pdf](http://arxiv.org/pdf/2309.00267v1.pdf), cication: [**24**](https://scholar.google.com/scholar?cites=7995210232742152683&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Harrison Lee, Samrat Phatale, Hassan Mansoor, Kellie Lu, Thomas Mesnard, Colton Bishop, Victor Carbune, Abhinav Rastogi* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652372872&idx=1&sn=c1a543c792bf3dfc891729f04236c549))
-- [**awesome-RLHF**](https://github.com/opendilab/awesome-RLHF) - opendilab ![Star](https://img.shields.io/github/stars/opendilab/awesome-RLHF.svg?style=social&label=Star)
-
-	 *A curated list of reinforcement learning with human feedback resources (continually updated)*
 - **Reinforced Self-Training (ReST) for Language Modeling**, `arXiv, 2308.08998`, [arxiv](http://arxiv.org/abs/2308.08998v2), [pdf](http://arxiv.org/pdf/2308.08998v2.pdf), cication: [**12**](https://scholar.google.com/scholar?cites=3263533902860525796&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Caglar Gulcehre, Tom Le Paine, Srivatsan Srinivasan, Ksenia Konyushkova, Lotte Weerts, Abhishek Sharma, Aditya Siddhant, Alex Ahern, Miaosen Wang, Chenjie Gu* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-08-22-6))
@@ -96,3 +101,7 @@
 
 
 ## Extra reference
+
+- [**awesome-RLHF**](https://github.com/opendilab/awesome-RLHF) - opendilab ![Star](https://img.shields.io/github/stars/opendilab/awesome-RLHF.svg?style=social&label=Star)
+
+	 *A curated list of reinforcement learning with human feedback resources (continually updated)*

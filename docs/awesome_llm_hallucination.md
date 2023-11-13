@@ -1,5 +1,12 @@
 # Awesome llm hallucination (truth-gpt)
 
+- [Awesome llm hallucination (truth-gpt)](#awesome-llm-hallucination-truth-gpt)
+	- [Survey](#survey)
+	- [Papers](#papers)
+	- [Other](#other)
+	- [Extra reference](#extra-reference)
+
+
 ## Survey
 - **A Survey on Hallucination in Large Language Models: Principles,
   Taxonomy, Challenges, and Open Questions**, `arXiv, 2311.05232`, [arxiv](http://arxiv.org/abs/2311.05232v1), [pdf](http://arxiv.org/pdf/2311.05232v1.pdf), cication: [**-1**](None)

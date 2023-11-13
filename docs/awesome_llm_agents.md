@@ -1,5 +1,14 @@
 # Awesome llm agents
 
+- [Awesome llm agents](#awesome-llm-agents)
+	- [Agents](#agents)
+	- [Web browsing](#web-browsing)
+	- [Chat with files](#chat-with-files)
+	- [Code Interpreter](#code-interpreter)
+	- [Other](#other)
+	- [Extra reference](#extra-reference)
+
+
 ## Agents
 - [**OpenAI_Agent_Swarm**](https://github.com/daveshap/OpenAI_Agent_Swarm) - daveshap ![Star](https://img.shields.io/github/stars/daveshap/OpenAI_Agent_Swarm.svg?style=social&label=Star)
 

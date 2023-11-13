@@ -1,5 +1,10 @@
 # Awesome llm misc
 
+- [Awesome llm misc](#awesome-llm-misc)
+  - [LLM detection](#llm-detection)
+  - [Generaliazation](#generaliazation)
+
+
 ## LLM detection
 - [‘ChatGPT detector’ catches AI-generated papers with unprecedented accuracy](https://www.nature.com/articles/d41586-023-03479-4)
 

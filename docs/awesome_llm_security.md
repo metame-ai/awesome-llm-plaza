@@ -1,4 +1,12 @@
-#  Awesome llm ecurity
+#  Awesome llm security
+
+- [Awesome llm security](#awesome-llm-security)
+	- [Survey](#survey)
+	- [Papers](#papers)
+	- [Projects](#projects)
+	- [Other](#other)
+	- [Extra reference](#extra-reference)
+
 
 ## Survey
 - [**Adversarial Attacks on LLMs | Lil'Log**](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/)
