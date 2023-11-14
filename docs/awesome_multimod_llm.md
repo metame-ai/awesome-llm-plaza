@@ -10,6 +10,13 @@
 	- [Reference](#reference)
 
 ## Vision
+- **Florence-2: Advancing a Unified Representation for a Variety of Vision
+  Tasks**, `arXiv, 2311.06242`, [arxiv](http://arxiv.org/abs/2311.06242v1), [pdf](http://arxiv.org/pdf/2311.06242v1.pdf), cication: [**-1**](None)
+
+	 *Bin Xiao, Haiping Wu, Weijian Xu, Xiyang Dai, Houdong Hu, Yumao Lu, Michael Zeng, Ce Liu, Lu Yuan*
+- **SILC: Improving Vision Language Pretraining with Self-Distillation**, `arXiv, 2310.13355`, [arxiv](http://arxiv.org/abs/2310.13355v1), [pdf](http://arxiv.org/pdf/2310.13355v1.pdf), cication: [**-1**](None)
+
+	 *Muhammad Ferjad Naeem, Yongqin Xian, Xiaohua Zhai, Lukas Hoyer, Luc Van Gool, Federico Tombari*
 - **u-LLaVA: Unifying Multi-Modal Tasks via Large Language Model**, `arXiv, 2311.05348`, [arxiv](http://arxiv.org/abs/2311.05348v1), [pdf](http://arxiv.org/pdf/2311.05348v1.pdf), cication: [**-1**](None)
 
 	 *Jinjin Xu, Liwu Xu, Yuzhe Yang, Xiang Li, Yanchun Xie, Yi-Jie Huang, Yaqian Li*
@@ -331,6 +338,9 @@
 - **Flamingo: a Visual Language Model for Few-Shot Learning**, `NeurIPS, 2022`, [arxiv](http://arxiv.org/abs/2204.14198v2), [pdf](http://arxiv.org/pdf/2204.14198v2.pdf), cication: [**989**](https://scholar.google.com/scholar?cites=2325917221075842848&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Jean-Baptiste Alayrac, Jeff Donahue, Pauline Luc, Antoine Miech, Iain Barr, Yana Hasson, Karel Lenc, Arthur Mensch, Katie Millican, Malcolm Reynolds*
+- **Revisiting the Role of Language Priors in Vision-Language Models**, `arXiv, 2306.01879`, [arxiv](http://arxiv.org/abs/2306.01879v2), [pdf](http://arxiv.org/pdf/2306.01879v2.pdf), cication: [**4**](https://scholar.google.com/scholar?cites=13754762341203173877&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Zhiqiu Lin, Xinyue Chen, Deepak Pathak, Pengchuan Zhang, Deva Ramanan*
 - **Kosmos-2: Grounding Multimodal Large Language Models to the World**, `arXiv, 2306.14824`, [arxiv](http://arxiv.org/abs/2306.14824v3), [pdf](http://arxiv.org/pdf/2306.14824v3.pdf), cication: [**52**](https://scholar.google.com/scholar?cites=15444663084916607877&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Zhiliang Peng, Wenhui Wang, Li Dong, Yaru Hao, Shaohan Huang, Shuming Ma, Furu Wei*
@@ -428,6 +438,9 @@
 - [从零训练一个多模态LLM](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494284&idx=2&sn=f3a4bbc3e1f5f0061e7da945ef7c88f6)
 
 ## Reference
+- [**Awesome-Multimodal-Assistant**](https://github.com/zjr2000/Awesome-Multimodal-Assistant) - zjr2000 ![Star](https://img.shields.io/github/stars/zjr2000/Awesome-Multimodal-Assistant.svg?style=social&label=Star)
+
+	 *Awesome Multimodal Assistant is a curated list of multimodal chatbots/conversational assistants that utilize various modes of interaction, such as text, speech, images, and videos, to provide a seamless and versatile user experience.*
 - [**Awesome-Multimodal-Large-Language-Models**](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) - BradyFU ![Star](https://img.shields.io/github/stars/BradyFU/Awesome-Multimodal-Large-Language-Models.svg?style=social&label=Star)
 
 	 *:sparkles::sparkles:Latest Papers and Datasets on Multimodal Large Language Models, and Their Evaluation.*

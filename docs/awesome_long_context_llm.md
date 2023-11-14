@@ -17,6 +17,9 @@
 - **Ultra-Long Sequence Distributed Transformer**, `arXiv, 2311.02382`, [arxiv](http://arxiv.org/abs/2311.02382v2), [pdf](http://arxiv.org/pdf/2311.02382v2.pdf), cication: [**-1**](None)
 
 	 *Xiao Wang, Isaac Lyngaas, Aristeidis Tsaris, Peng Chen, Sajal Dash, Mayanka Chandra Shekar, Tao Luo, Hong-Jun Yoon, Mohamed Wahib, John Gouley*
+- **HyperAttention: Long-context Attention in Near-Linear Time**, `arXiv, 2310.05869`, [arxiv](http://arxiv.org/abs/2310.05869v2), [pdf](http://arxiv.org/pdf/2310.05869v2.pdf), cication: [**2**](https://scholar.google.com/scholar?cites=12733927342294964560&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Insu Han, Rajesh Jayaram, Amin Karbasi, Vahab Mirrokni, David P. Woodruff, Amir Zandieh*
 - **CLEX: Continuous Length Extrapolation for Large Language Models**, `arXiv, 2310.16450`, [arxiv](http://arxiv.org/abs/2310.16450v1), [pdf](http://arxiv.org/pdf/2310.16450v1.pdf), cication: [**-1**](None)
 
 	 *Guanzheng Chen, Xin Li, Zaiqiao Meng, Shangsong Liang, Lidong Bing*
@@ -41,6 +44,10 @@
   Narrative Text Generation**, `arXiv, 2310.08185`, [arxiv](http://arxiv.org/abs/2310.08185v1), [pdf](http://arxiv.org/pdf/2310.08185v1.pdf), cication: [**-1**](None)
 
 	 *Wang You, Wenshan Wu, Yaobo Liang, Shaoguang Mao, Chenfei Wu, Maosong Cao, Yuzhe Cai, Yiduo Guo, Yan Xia, Furu Wei*
+- **CoCA: Fusing position embedding with Collinear Constrained Attention for
+  fine-tuning free context window extending**, `arXiv, 2309.08646`, [arxiv](http://arxiv.org/abs/2309.08646v2), [pdf](http://arxiv.org/pdf/2309.08646v2.pdf), cication: [**-1**](None)
+
+	 *Shiyi Zhu, Jing Ye, Wei Jiang, Qi Zhang, Yifan Wu, Jianguo Li* · ([Collinear-Constrained-Attention](https://github.com/codefuse-ai/Collinear-Constrained-Attention) - codefuse-ai) ![Star](https://img.shields.io/github/stars/codefuse-ai/Collinear-Constrained-Attention.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-11-13-9))
 - **Effective Long-Context Scaling of Foundation Models**, `arXiv, 2309.16039`, [arxiv](http://arxiv.org/abs/2309.16039v2), [pdf](http://arxiv.org/pdf/2309.16039v2.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=11499544443437070837&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Wenhan Xiong, Jingyu Liu, Igor Molybog, Hejia Zhang, Prajjwal Bhargava, Rui Hou, Louis Martin, Rashi Rungta, Karthik Abinav Sankararaman, Barlas Oguz* · ([qbitai](https://www.qbitai.com/2023/09/87178.html))
@@ -48,6 +55,10 @@
   Models**, `arXiv, 2308.16137`, [arxiv](http://arxiv.org/abs/2308.16137v4), [pdf](http://arxiv.org/pdf/2308.16137v4.pdf), cication: [**3**](https://scholar.google.com/scholar?cites=12333597550468686714&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Chi Han, Qifan Wang, Wenhan Xiong, Yu Chen, Heng Ji, Sinong Wang*
+- **DeepSpeed Ulysses: System Optimizations for Enabling Training of Extreme
+  Long Sequence Transformer Models**, `arXiv, 2309.14509`, [arxiv](http://arxiv.org/abs/2309.14509v2), [pdf](http://arxiv.org/pdf/2309.14509v2.pdf), cication: [**-1**](None)
+
+	 *Sam Ade Jacobs, Masahiro Tanaka, Chengming Zhang, Minjia Zhang, Shuaiwen Leon Song, Samyam Rajbhandari, Yuxiong He*
 - **YaRN: Efficient Context Window Extension of Large Language Models**, `arXiv, 2309.00071`, [arxiv](http://arxiv.org/abs/2309.00071v2), [pdf](http://arxiv.org/pdf/2309.00071v2.pdf), cication: [**9**](https://scholar.google.com/scholar?cites=4031663212894418290&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Bowen Peng, Jeffrey Quesnelle, Honglu Fan, Enrico Shippole* · ([yarn](https://github.com/jquesnelle/yarn) - jquesnelle) ![Star](https://img.shields.io/github/stars/jquesnelle/yarn.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-09-13-10))

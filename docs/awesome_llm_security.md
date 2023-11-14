@@ -56,7 +56,10 @@
 - **Jailbroken: How Does LLM Safety Training Fail?**, `arXiv, 2307.02483`, [arxiv](http://arxiv.org/abs/2307.02483v1), [pdf](http://arxiv.org/pdf/2307.02483v1.pdf), cication: [**54**](https://scholar.google.com/scholar?cites=14029412962367612376&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Alexander Wei, Nika Haghtalab, Jacob Steinhardt*
+- **PromptBench: Towards Evaluating the Robustness of Large Language Models
+  on Adversarial Prompts**, `arXiv, 2306.04528`, [arxiv](http://arxiv.org/abs/2306.04528v4), [pdf](http://arxiv.org/pdf/2306.04528v4.pdf), cication: [**32**](https://scholar.google.com/scholar?cites=6727691362756502405&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
+	 *Kaijie Zhu, Jindong Wang, Jiaheng Zhou, Zichen Wang, Hao Chen, Yidong Wang, Linyi Yang, Wei Ye, Yue Zhang, Neil Zhenqiang Gong*
 ## Projects
 - [**cipherchat**](https://github.com/robustnlp/cipherchat) - robustnlp ![Star](https://img.shields.io/github/stars/robustnlp/cipherchat.svg?style=social&label=Star)
 

@@ -11,11 +11,12 @@
 
 
 ## Datasets
-- [**cerebras**](https://huggingface.co/datasets/cerebras/SlimPajama-627B) - datasets 🤗
+- [**pii-masking-200k**](https://huggingface.co/datasets/ai4privacy/pii-masking-200k) - ai4privacy 🤗
+- [**SlimPajama-627B**](https://huggingface.co/datasets/cerebras/SlimPajama-627B) - cerebras  🤗
 
 	 · ([modelzoo](https://github.com/Cerebras/modelzoo/tree/main/modelzoo/transformers/data_processing/slimpajama) - Cerebras) ![Star](https://img.shields.io/github/stars/Cerebras/modelzoo.svg?style=social&label=Star)
-- [**allenai**](https://huggingface.co/datasets/allenai/MADLAD-400) - datasets 🤗
-- [**allenai**](https://huggingface.co/datasets/allenai/peS2o) - datasets 🤗
+- [**MADLAD-400**](https://huggingface.co/datasets/allenai/MADLAD-400) - allenai 🤗
+- [**peS2o**](https://huggingface.co/datasets/allenai/peS2o) - allenai 🤗
 
 ### Misc
 - **What's In My Big Data?**, `arXiv, 2310.20707`, [arxiv](http://arxiv.org/abs/2310.20707v1), [pdf](http://arxiv.org/pdf/2310.20707v1.pdf), cication: [**-1**](None)

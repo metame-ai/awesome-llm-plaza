@@ -22,6 +22,8 @@
   Interference Challenges**, `arXiv, 2311.03287`, [arxiv](http://arxiv.org/abs/2311.03287v2), [pdf](http://arxiv.org/pdf/2311.03287v2.pdf), cication: [**-1**](None)
 
 	 *Chenhang Cui, Yiyang Zhou, Xinyu Yang, Shirley Wu, Linjun Zhang, James Zou, Huaxiu Yao* · ([Bingo](https://github.com/gzcch/Bingo) - gzcch) ![Star](https://img.shields.io/github/stars/gzcch/Bingo.svg?style=social&label=Star)
+
+	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-11-13-12))
 - **The Perils & Promises of Fact-checking with Large Language Models**, `arXiv, 2310.13549`, [arxiv](http://arxiv.org/abs/2310.13549v1), [pdf](http://arxiv.org/pdf/2310.13549v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=2141835654434627141&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Dorian Quelle, Alexandre Bovet*

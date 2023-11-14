@@ -1,15 +1,294 @@
 # Awesome llm misc
 
 - [Awesome llm misc](#awesome-llm-misc)
-  - [LLM detection](#llm-detection)
-  - [Generaliazation](#generaliazation)
+	- [Survey](#survey)
+	- [Toolkits](#toolkits)
+	- [Unlearning](#unlearning)
+	- [Personality](#personality)
+	- [World Model](#world-model)
+	- [Red teaming](#red-teaming)
+	- [Chat arena](#chat-arena)
+	- [New launguage model](#new-launguage-model)
+	- [LLM detection](#llm-detection)
+	- [Explanation](#explanation)
+	- [Generaliazation](#generaliazation)
+	- [LLM editting](#llm-editting)
+	- [AGI insights](#agi-insights)
+	- [Callibration](#callibration)
+	- [Books](#books)
+	- [Privacy](#privacy)
+	- [Misc](#misc)
+	- [Extra reference](#extra-reference)
+
+## Survey
+- [Transformer Taxonomy (the last lit review) | kipply's blog](https://kipp.ly/transformer-taxonomy/?continueFlag=a897a8d0eb16dcae5398f1b58cc5e06f)
+
+	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-08-14-9))
+- [Catching up on the weird world of LLMs](https://simonwillison.net/2023/Aug/3/weird-world-of-llms/)
+- **On the Origin of LLMs: An Evolutionary Tree and Graph for 15,821 Large
+  Language Models**, `arXiv, 2307.09793`, [arxiv](http://arxiv.org/abs/2307.09793v1), [pdf](http://arxiv.org/pdf/2307.09793v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=10725945032792348366&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Sarah Gao, Andrew Kean Gao* · ([constellation.sites.stanford](https://constellation.sites.stanford.edu/))
+- **A Survey of Large Language Models**, `arXiv, 2303.18223`, [arxiv](http://arxiv.org/abs/2303.18223v12), [pdf](http://arxiv.org/pdf/2303.18223v12.pdf), cication: [**285**](https://scholar.google.com/scholar?cites=4202230929734215725&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Wayne Xin Zhao, Kun Zhou, Junyi Li, Tianyi Tang, Xiaolei Wang, Yupeng Hou, Yingqian Min, Beichen Zhang, Junjie Zhang, Zican Dong* · ([LLMSurvey](https://github.com/RUCAIBox/LLMSurvey) - RUCAIBox) ![Star](https://img.shields.io/github/stars/RUCAIBox/LLMSurvey.svg?style=social&label=Star)
+
+
+## Toolkits
+- [**langflow**](https://github.com/logspace-ai/langflow) - logspace-ai ![Star](https://img.shields.io/github/stars/logspace-ai/langflow.svg?style=social&label=Star)
+
+	 *⛓️ LangFlow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.*
+- [**torchscale**](https://github.com/microsoft/torchscale) - microsoft ![Star](https://img.shields.io/github/stars/microsoft/torchscale.svg?style=social&label=Star)
+
+	 *Foundation Architecture for (M)LLMs*
+- [**LLM-As-Chatbot**](https://github.com/deep-diver/LLM-As-Chatbot) - deep-diver ![Star](https://img.shields.io/github/stars/deep-diver/LLM-As-Chatbot.svg?style=social&label=Star)
+
+	 *LLM as a Chatbot Service*
+- [**Llama-2-Open-Source-LLM-CPU-Inference**](https://github.com/kennethleungty/Llama-2-Open-Source-LLM-CPU-Inference) - kennethleungty ![Star](https://img.shields.io/github/stars/kennethleungty/Llama-2-Open-Source-LLM-CPU-Inference.svg?style=social&label=Star)
+
+	 *Running Llama 2 and other Open-Source LLMs on CPU Inference Locally for Document Q&A*
+- [**ollama**](https://github.com/jmorganca/ollama) - jmorganca ![Star](https://img.shields.io/github/stars/jmorganca/ollama.svg?style=social&label=Star)
+
+	 *Get up and running with large language models locally*
+- [**OpenLLM**](https://github.com/bentoml/OpenLLM) - bentoml ![Star](https://img.shields.io/github/stars/bentoml/OpenLLM.svg?style=social&label=Star)
+
+	 *An open platform for operating large language models (LLMs) in production. Fine-tune, serve, deploy, and monitor any LLMs with ease.*
+- [**litellm**](https://github.com/BerriAI/litellm) - BerriAI ![Star](https://img.shields.io/github/stars/BerriAI/litellm.svg?style=social&label=Star)
+
+	 *Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs)*
+- [**ollama**](https://github.com/jmorganca/ollama) - jmorganca ![Star](https://img.shields.io/github/stars/jmorganca/ollama.svg?style=social&label=Star)
+
+	 *Get up and running with Llama 2 and other large language models locally*
+- [**gpu_poor**](https://github.com/RahulSChand/gpu_poor) - RahulSChand ![Star](https://img.shields.io/github/stars/RahulSChand/gpu_poor.svg?style=social&label=Star)
+
+	 *Calculate GPU memory requirement & breakdown for training/inference of LLM models. Supports ggml/bnb quantization*
+- [**leptonai**](https://github.com/leptonai/leptonai) - leptonai ![Star](https://img.shields.io/github/stars/leptonai/leptonai.svg?style=social&label=Star)
+
+	 *A Pythonic framework to simplify AI service building*
+- [**exllamav2**](https://github.com/turboderp/exllamav2) - turboderp ![Star](https://img.shields.io/github/stars/turboderp/exllamav2.svg?style=social&label=Star)
+
+	 *A fast inference library for running LLMs locally on modern consumer-class GPUs*
+- [**outlines**](https://github.com/normal-computing/outlines) - normal-computing ![Star](https://img.shields.io/github/stars/normal-computing/outlines.svg?style=social&label=Star)
+
+	 *Generative Model Programming*
+- [**one-api**](https://github.com/songquanpeng/one-api) - songquanpeng ![Star](https://img.shields.io/github/stars/songquanpeng/one-api.svg?style=social&label=Star)
+
+	 *OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知以及阿里通义千问，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.*
+- [**LLaMA2-Accessory**](https://github.com/Alpha-VLLM/LLaMA2-Accessory) - Alpha-VLLM ![Star](https://img.shields.io/github/stars/Alpha-VLLM/LLaMA2-Accessory.svg?style=social&label=Star)
+
+	 *An Open-source Toolkit for LLM Development*
+- [**Flowise**](https://github.com/FlowiseAI/Flowise) - FlowiseAI ![Star](https://img.shields.io/github/stars/FlowiseAI/Flowise.svg?style=social&label=Star)
+
+	 *Drag & drop UI to build your customized LLM flow*
+- [**simpleaichat**](https://github.com/minimaxir/simpleaichat) - minimaxir ![Star](https://img.shields.io/github/stars/minimaxir/simpleaichat.svg?style=social&label=Star)
+
+	 *Python package for easily interfacing with chat apps, with robust features and minimal code complexity.*
+- [**TypeChat**](https://github.com/Microsoft/TypeChat) - Microsoft ![Star](https://img.shields.io/github/stars/Microsoft/TypeChat.svg?style=social&label=Star)
+
+	 *TypeChat is a library that makes it easy to build natural language interfaces using types.*
+- [**petals**](https://github.com/bigscience-workshop/petals) - bigscience-workshop ![Star](https://img.shields.io/github/stars/bigscience-workshop/petals.svg?style=social&label=Star)
+
+	 *🌸 Run large language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading*
+- [**chatbox**](https://github.com/Bin-Huang/chatbox) - Bin-Huang ![Star](https://img.shields.io/github/stars/Bin-Huang/chatbox.svg?style=social&label=Star)
+
+	 *Chatbox is a desktop app for GPT/LLM that supports Windows, Mac, Linux & Web Online*
+- [**h2o-llmstudio**](https://github.com/h2oai/h2o-llmstudio) - h2oai ![Star](https://img.shields.io/github/stars/h2oai/h2o-llmstudio.svg?style=social&label=Star)
+
+	 *H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs*
+- [**LMFlow**](https://github.com/OptimalScale/LMFlow) - OptimalScale ![Star](https://img.shields.io/github/stars/OptimalScale/LMFlow.svg?style=social&label=Star)
+
+	 *An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Model for All.*
+- [**FlagAI**](https://github.com/FlagAI-Open/FlagAI) - FlagAI-Open ![Star](https://img.shields.io/github/stars/FlagAI-Open/FlagAI.svg?style=social&label=Star)
+
+	 *FlagAI (Fast LArge-scale General AI models) is a fast, easy-to-use and extensible toolkit for large-scale model.*
+
+## Unlearning
+- **Improving Language Plasticity via Pretraining with Active Forgetting**, `arXiv, 2307.01163`, [arxiv](http://arxiv.org/abs/2307.01163v2), [pdf](http://arxiv.org/pdf/2307.01163v2.pdf), cication: [**-1**](None)
+
+	 *Yihong Chen, Kelly Marchisio, Roberta Raileanu, David Ifeoluwa Adelani, Pontus Stenetorp, Sebastian Riedel, Mikel Artetxe*
+- [Announcing the first Machine Unlearning Challenge – Google Research Blog](https://ai.googleblog.com/2023/06/announcing-first-machine-unlearning.html)
+
+## Personality
+- **Large Language Models Understand and Can be Enhanced by Emotional
+  Stimuli**, `arXiv, 2307.11760`, [arxiv](http://arxiv.org/abs/2307.11760v7), [pdf](http://arxiv.org/pdf/2307.11760v7.pdf), cication: [**6**](https://scholar.google.com/scholar?cites=5825846437972489885&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Cheng Li, Jindong Wang, Yixuan Zhang, Kaijie Zhu, Wenxin Hou, Jianxun Lian, Fang Luo, Qiang Yang, Xing Xie*
+- **When Large Language Models Meet Personalization: Perspectives of
+  Challenges and Opportunities**, `arXiv, 2307.16376`, [arxiv](http://arxiv.org/abs/2307.16376v1), [pdf](http://arxiv.org/pdf/2307.16376v1.pdf), cication: [**7**](https://scholar.google.com/scholar?cites=801122460433394373&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Jin Chen, Zheng Liu, Xu Huang, Chenwang Wu, Qi Liu, Gangwei Jiang, Yuanhao Pu, Yuxuan Lei, Xiaolong Chen, Xingmei Wang*
+- **Personality Traits in Large Language Models**, `arXiv, 2307.00184`, [arxiv](http://arxiv.org/abs/2307.00184v3), [pdf](http://arxiv.org/pdf/2307.00184v3.pdf), cication: [**17**](https://scholar.google.com/scholar?cites=3059704921021154305&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Greg Serapio-García, Mustafa Safdari, Clément Crepy, Luning Sun, Stephen Fitz, Peter Romero, Marwa Abdulhai, Aleksandra Faust, Maja Matarić*
+
+## World Model
+- **The Geometry of Truth: Emergent Linear Structure in Large Language Model
+  Representations of True/False Datasets**, `arXiv, 2310.06824`, [arxiv](http://arxiv.org/abs/2310.06824v1), [pdf](http://arxiv.org/pdf/2310.06824v1.pdf), cication: [**-1**](None)
+
+	 *Samuel Marks, Max Tegmark* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652393580&idx=2&sn=31bcdd233c49fb79e78d06045df491dc))
+- **Language Models Represent Space and Time**, `arXiv, 2310.02207`, [arxiv](http://arxiv.org/abs/2310.02207v1), [pdf](http://arxiv.org/pdf/2310.02207v1.pdf), cication: [**2**](https://scholar.google.com/scholar?cites=2674847876149703750&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Wes Gurnee, Max Tegmark* · ([world-models](https://github.com/wesg52/world-models) - wesg52) ![Star](https://img.shields.io/github/stars/wesg52/world-models.svg?style=social&label=Star)
+- [How far are we from AGI?](https://aisupremacy.substack.com/p/how-far-are-we-from-agi)
+
+	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652366759&idx=2&sn=48422d1a7ffae891ea61108761f4d582))
+## Red teaming
+- **Moral Foundations of Large Language Models**, `arXiv, 2310.15337`, [arxiv](http://arxiv.org/abs/2310.15337v1), [pdf](http://arxiv.org/pdf/2310.15337v1.pdf), cication: [**7**](https://scholar.google.com/scholar?cites=2033876937451648547&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Marwa Abdulhai, Gregory Serapio-Garcia, Clément Crepy, Daria Valter, John Canny, Natasha Jaques*
+- **FLIRT: Feedback Loop In-context Red Teaming**, `arXiv, 2308.04265`, [arxiv](http://arxiv.org/abs/2308.04265v1), [pdf](http://arxiv.org/pdf/2308.04265v1.pdf), cication: [**3**](https://scholar.google.com/scholar?cites=3679628265599247085&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Ninareh Mehrabi, Palash Goyal, Christophe Dupuy, Qian Hu, Shalini Ghosh, Richard Zemel, Kai-Wei Chang, Aram Galstyan, Rahul Gupta*
+- **Explore, Establish, Exploit: Red Teaming Language Models from Scratch**, `arXiv, 2306.09442`, [arxiv](http://arxiv.org/abs/2306.09442v3), [pdf](http://arxiv.org/pdf/2306.09442v3.pdf), cication: [**16**](https://scholar.google.com/scholar?cites=17596552078024127407&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Stephen Casper, Jason Lin, Joe Kwon, Gatlen Culp, Dylan Hadfield-Menell*
+
+## Chat arena
+- [**GodMode**](https://github.com/smol-ai/GodMode) - smol-ai ![Star](https://img.shields.io/github/stars/smol-ai/GodMode.svg?style=social&label=Star)
+
+	 *AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.*
+- [**ChatALL**](https://github.com/sunner/ChatALL) - sunner ![Star](https://img.shields.io/github/stars/sunner/ChatALL.svg?style=social&label=Star)
+
+	 *Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers*
+
+## New launguage model
+- **Text Rendering Strategies for Pixel Language Models**, `arXiv, 2311.00522`, [arxiv](http://arxiv.org/abs/2311.00522v1), [pdf](http://arxiv.org/pdf/2311.00522v1.pdf), cication: [**-1**](None)
+
+	 *Jonas F. Lotz, Elizabeth Salesky, Phillip Rust, Desmond Elliott*
+- **Retentive Network: A Successor to Transformer for Large Language Models**, `arXiv, 2307.08621`, [arxiv](http://arxiv.org/abs/2307.08621v4), [pdf](http://arxiv.org/pdf/2307.08621v4.pdf), cication: [**14**](https://scholar.google.com/scholar?cites=14499954689213944503&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Yutao Sun, Li Dong, Shaohan Huang, Shuming Ma, Yuqing Xia, Jilong Xue, Jianyong Wang, Furu Wei*
+- **Copy Is All You Need**, `arXiv, 2307.06962`, [arxiv](http://arxiv.org/abs/2307.06962v1), [pdf](http://arxiv.org/pdf/2307.06962v1.pdf), cication: [**217**](https://scholar.google.com/scholar?cites=15114021291138625040&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Tian Lan, Deng Cai, Yan Wang, Heyan Huang, Xian-Ling Mao*
+- **BiPhone: Modeling Inter Language Phonetic Influences in Text**, `arXiv, 2307.03322`, [arxiv](http://arxiv.org/abs/2307.03322v1), [pdf](http://arxiv.org/pdf/2307.03322v1.pdf), cication: [**-1**](None)
+
+	 *Abhirut Gupta, Ananya B. Sai, Richard Sproat, Yuri Vasilevski, James S. Ren, Ambarish Jash, Sukhdeep S. Sodhi, Aravindan Raghuveer*
+- **Deep Language Networks: Joint Prompt Training of Stacked LLMs using
+  Variational Inference**, `arXiv, 2306.12509`, [arxiv](http://arxiv.org/abs/2306.12509v1), [pdf](http://arxiv.org/pdf/2306.12509v1.pdf), cication: [**4**](https://scholar.google.com/scholar?cites=14503894489688541656&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Alessandro Sordoni, Xingdi Yuan, Marc-Alexandre Côté, Matheus Pereira, Adam Trischler, Ziang Xiao, Arian Hosseini, Friederike Niedtner, Nicolas Le Roux*
+- **Backpack Language Models**, `arXiv, 2305.16765`, [arxiv](http://arxiv.org/abs/2305.16765v1), [pdf](http://arxiv.org/pdf/2305.16765v1.pdf), cication: [**4**](https://scholar.google.com/scholar?cites=6150502937498838062&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *John Hewitt, John Thickstun, Christopher D. Manning, Percy Liang* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-06-25-5)) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI1MjQ2OTQ3Ng==&mid=2247608689&idx=2&sn=ed29c1ee1f571f98b191805472feb79a))
 
 
 ## LLM detection
 - [‘ChatGPT detector’ catches AI-generated papers with unprecedented accuracy](https://www.nature.com/articles/d41586-023-03479-4)
+
+## Explanation
+- **Pretraining Data Mixtures Enable Narrow Model Selection Capabilities in
+  Transformer Models**, `arXiv, 2311.00871`, [arxiv](http://arxiv.org/abs/2311.00871v1), [pdf](http://arxiv.org/pdf/2311.00871v1.pdf), cication: [**-1**](None)
+
+	 *Steve Yadlowsky, Lyric Doshi, Nilesh Tripuraneni* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-11-07-6))
+- **The Generative AI Paradox: "What It Can Create, It May Not Understand"**, `arXiv, 2311.00059`, [arxiv](http://arxiv.org/abs/2311.00059v1), [pdf](http://arxiv.org/pdf/2311.00059v1.pdf), cication: [**-1**](None)
+
+	 *Peter West, Ximing Lu, Nouha Dziri, Faeze Brahman, Linjie Li, Jena D. Hwang, Liwei Jiang, Jillian Fisher, Abhilasha Ravichander, Khyathi Chandu*
+- **The Impact of Depth and Width on Transformer Language Model
+  Generalization**, `arXiv, 2310.19956`, [arxiv](http://arxiv.org/abs/2310.19956v1), [pdf](http://arxiv.org/pdf/2310.19956v1.pdf), cication: [**-1**](None)
+
+	 *Jackson Petty, Sjoerd van Steenkiste, Ishita Dasgupta, Fei Sha, Dan Garrette, Tal Linzen*
+- **Can Large Language Models Explain Themselves? A Study of LLM-Generated
+  Self-Explanations**, `arXiv, 2310.11207`, [arxiv](http://arxiv.org/abs/2310.11207v1), [pdf](http://arxiv.org/pdf/2310.11207v1.pdf), cication: [**-1**](None)
+
+	 *Shiyuan Huang, Siddarth Mamidanna, Shreedhar Jangam, Yilun Zhou, Leilani H. Gilpin*
+- [Towards Monosemanticity: Decomposing Language Models With Dictionary Learning](https://transformer-circuits.pub/2023/monosemantic-features/index.html)
+
+	 · ([qbitai](https://www.qbitai.com/2023/10/87969.html))
+- **Representation Engineering: A Top-Down Approach to AI Transparency**, `arXiv, 2310.01405`, [arxiv](http://arxiv.org/abs/2310.01405v3), [pdf](http://arxiv.org/pdf/2310.01405v3.pdf), cication: [**5**](https://scholar.google.com/scholar?cites=7486178775253953945&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Andy Zou, Long Phan, Sarah Chen, James Campbell, Phillip Guo, Richard Ren, Alexander Pan, Xuwang Yin, Mantas Mazeika, Ann-Kathrin Dombrowski* · ([representation-engineering](https://github.com/andyzoujm/representation-engineering) - andyzoujm) ![Star](https://img.shields.io/github/stars/andyzoujm/representation-engineering.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652386851&idx=1&sn=0c828b9880d272e367c5810f82120bdc))
+- **Attention Satisfies: A Constraint-Satisfaction Lens on Factual Errors of
+  Language Models**, `arXiv, 2309.15098`, [arxiv](http://arxiv.org/abs/2309.15098v1), [pdf](http://arxiv.org/pdf/2309.15098v1.pdf), cication: [**-1**](None)
+
+	 *Mert Yuksekgonul, Varun Chandrasekaran, Erik Jones, Suriya Gunasekar, Ranjita Naik, Hamid Palangi, Ece Kamar, Besmira Nushi*
+- **Language Modeling Is Compression**, `arXiv, 2309.10668`, [arxiv](http://arxiv.org/abs/2309.10668v1), [pdf](http://arxiv.org/pdf/2309.10668v1.pdf), cication: [**7**](https://scholar.google.com/scholar?cites=8098408536892148709&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Grégoire Delétang, Anian Ruoss, Paul-Ambroise Duquenne, Elliot Catt, Tim Genewein, Christopher Mattern, Jordi Grau-Moya, Li Kevin Wenliang, Matthew Aitchison, Laurent Orseau*
+- **Sorted LLaMA: Unlocking the Potential of Intermediate Layers of Large
+  Language Models for Dynamic Inference Using Sorted Fine-Tuning (SoFT)**, `arXiv, 2309.08968`, [arxiv](http://arxiv.org/abs/2309.08968v1), [pdf](http://arxiv.org/pdf/2309.08968v1.pdf), cication: [**-1**](None)
+
+	 *Parsa Kavehzadeh, Mojtaba Valipour, Marzieh Tahaei, Ali Ghodsi, Boxing Chen, Mehdi Rezagholizadeh*
+- **Sparse Autoencoders Find Highly Interpretable Features in Language
+  Models**, `arXiv, 2309.08600`, [arxiv](http://arxiv.org/abs/2309.08600v3), [pdf](http://arxiv.org/pdf/2309.08600v3.pdf), cication: [**5**](https://scholar.google.com/scholar?cites=3171773312943220036&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Hoagy Cunningham, Aidan Ewart, Logan Riggs, Robert Huben, Lee Sharkey*
+- [Human Language Understanding & Reasoning](https://direct.mit.edu/daed/article/151/2/127/110621/Human-Language-Understanding-amp-Reasoning)
+
+	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652372005&idx=2&sn=9d5025db51ff939bf39e8cf861938a34))
+- [Do Machine Learning Models Memorize or Generalize?](https://pair.withgoogle.com/explorables/grokking/)
+
+	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652371869&idx=5&sn=e05c029912da214a6592d9e5f2418aa9))
+- [**CIMI**](https://github.com/Daftstone/CIMI) - Daftstone ![Star](https://img.shields.io/github/stars/Daftstone/CIMI.svg?style=social&label=Star)
+
+	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-08-11-5))
+- [Do Machine Learning Models Memorize or Generalize?](https://pair.withgoogle.com/explorables/grokking/)
+
+	 · ([qbitai](https://www.qbitai.com/2023/08/76083.html))
+- **Studying Large Language Model Generalization with Influence Functions**, `arXiv, 2308.03296`, [arxiv](http://arxiv.org/abs/2308.03296v1), [pdf](http://arxiv.org/pdf/2308.03296v1.pdf), cication: [**12**](https://scholar.google.com/scholar?cites=4154155767169928682&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Roger Grosse, Juhan Bae, Cem Anil, Nelson Elhage, Alex Tamkin, Amirhossein Tajdini, Benoit Steiner, Dustin Li, Esin Durmus, Ethan Perez*
+- [Can foundation models label data like humans?](https://huggingface.co/blog/llm-leaderboard)
+- **Scan and Snap: Understanding Training Dynamics and Token Composition in
+  1-layer Transformer**, `arXiv, 2305.16380`, [arxiv](http://arxiv.org/abs/2305.16380v4), [pdf](http://arxiv.org/pdf/2305.16380v4.pdf), cication: [**6**](https://scholar.google.com/scholar?cites=10559864520549789725&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Yuandong Tian, Yiping Wang, Beidi Chen, Simon Du* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652339033&idx=3&sn=7c45e1f38e8ce0bd91869ac2a47078fa))
 
 ## Generaliazation
 - **Pretraining Data Mixtures Enable Narrow Model Selection Capabilities in
   Transformer Models**, `arXiv, 2311.00871`, [arxiv](http://arxiv.org/abs/2311.00871v1), [pdf](http://arxiv.org/pdf/2311.00871v1.pdf), cication: [**-1**](None)
 
 	 *Steve Yadlowsky, Lyric Doshi, Nilesh Tripuraneni*
+
+## LLM editting
+- **Evaluating the Ripple Effects of Knowledge Editing in Language Models**, `arXiv, 2307.12976`, [arxiv](http://arxiv.org/abs/2307.12976v1), [pdf](http://arxiv.org/pdf/2307.12976v1.pdf), cication: [**5**](https://scholar.google.com/scholar?cites=3039858131654435599&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Roi Cohen, Eden Biran, Ori Yoran, Amir Globerson, Mor Geva*
+- **Editing Large Language Models: Problems, Methods, and Opportunities**, `arXiv, 2305.13172`, [arxiv](http://arxiv.org/abs/2305.13172v2), [pdf](http://arxiv.org/pdf/2305.13172v2.pdf), cication: [**12**](https://scholar.google.com/scholar?cites=15387184595402526264&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Yunzhi Yao, Peng Wang, Bozhong Tian, Siyuan Cheng, Zhoubo Li, Shumin Deng, Huajun Chen, Ningyu Zhang* · ([easyedit](https://github.com/zjunlp/easyedit) - zjunlp) ![Star](https://img.shields.io/github/stars/zjunlp/easyedit.svg?style=social&label=Star)
+- [**ModelEditingPapers**](https://github.com/zjunlp/ModelEditingPapers) - zjunlp ![Star](https://img.shields.io/github/stars/zjunlp/ModelEditingPapers.svg?style=social&label=Star)
+
+	 *Must-read Papers on Model Editing.*
+
+## AGI insights
+- **Levels of AGI: Operationalizing Progress on the Path to AGI**, `arXiv, 2311.02462`, [arxiv](http://arxiv.org/abs/2311.02462v1), [pdf](http://arxiv.org/pdf/2311.02462v1.pdf), cication: [**-1**](None)
+
+	 *Meredith Ringel Morris, Jascha Sohl-dickstein, Noah Fiedel, Tris Warkentin, Allan Dafoe, Aleksandra Faust, Clement Farabet, Shane Legg*
+- **Consciousness in Artificial Intelligence: Insights from the Science of
+  Consciousness**, `arXiv, 2308.08708`, [arxiv](http://arxiv.org/abs/2308.08708v3), [pdf](http://arxiv.org/pdf/2308.08708v3.pdf), cication: [**15**](https://scholar.google.com/scholar?cites=8239061011717183910&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Patrick Butlin, Robert Long, Eric Elmoznino, Yoshua Bengio, Jonathan Birch, Axel Constant, George Deane, Stephen M. Fleming, Chris Frith, Xu Ji* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-08-22-4))
+- [Collective Intelligence for Deep Learning: A Survey of Recent Developments | 大トロ](https://blog.otoro.net/2022/10/01/collectiveintelligence/)
+- [好问题比好答案更重要｜沈向洋大模型五问](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494275&idx=1&sn=4860205e6043435fe7ff871c8fb4c9c1)
+
+## Callibration
+- **Do Large Language Models Know What They Don't Know?**, `arXiv, 2305.18153`, [arxiv](http://arxiv.org/abs/2305.18153v2), [pdf](http://arxiv.org/pdf/2305.18153v2.pdf), cication: [**16**](https://scholar.google.com/scholar?cites=18069947573459721243&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Zhangyue Yin, Qiushi Sun, Qipeng Guo, Jiawen Wu, Xipeng Qiu, Xuanjing Huang*
+
+## Books
+- [大规模语言模型：从理论到实践](https://intro-llm.github.io/)
+
+## Privacy
+- [PIISA](http://piisa.org/)
+
+## Misc
+- **Prompt2Model: Generating Deployable Models from Natural Language
+  Instructions**, `arXiv, 2308.12261`, [arxiv](http://arxiv.org/abs/2308.12261v1), [pdf](http://arxiv.org/pdf/2308.12261v1.pdf), cication: [**-1**](None)
+
+	 *Vijay Viswanathan, Chenyang Zhao, Amanda Bertsch, Tongshuang Wu, Graham Neubig* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652381740&idx=3&sn=ea1973275259430a24f3a086a82ca617))
+- **xVal: A Continuous Number Encoding for Large Language Models**, `arXiv, 2310.02989`, [arxiv](http://arxiv.org/abs/2310.02989v1), [pdf](http://arxiv.org/pdf/2310.02989v1.pdf), cication: [**-1**](None)
+
+	 *Siavash Golkar, Mariel Pettee, Michael Eickenberg, Alberto Bietti, Miles Cranmer, Geraud Krawezik, Francois Lanusse, Michael McCabe, Ruben Ohana, Liam Parker* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652393209&idx=5&sn=d2bd7eabf982afe4b8643b0ef9ff467c))
+- **GraphGPT: Graph Instruction Tuning for Large Language Models**, `arXiv, 2310.13023`, [arxiv](http://arxiv.org/abs/2310.13023v1), [pdf](http://arxiv.org/pdf/2310.13023v1.pdf), cication: [**2**](https://scholar.google.com/scholar?cites=2388076328359031272&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Jiabin Tang, Yuhao Yang, Wei Wei, Lei Shi, Lixin Su, Suqi Cheng, Dawei Yin, Chao Huang* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652396739&idx=2&sn=c992b43cb881ac14b6b6402248568854))
+- [A taxonomy and review of generalization research in NLP | Nature Machine Intelligence](https://www.nature.com/articles/s42256-023-00729-y?utm_source=twitter&utm_medium=organic_social&utm_campaign=research&utm_content=link)
+- **Neurons in Large Language Models: Dead, N-gram, Positional**, `arXiv, 2309.04827`, [arxiv](http://arxiv.org/abs/2309.04827v1), [pdf](http://arxiv.org/pdf/2309.04827v1.pdf), cication: [**-1**](None)
+
+	 *Elena Voita, Javier Ferrando, Christoforos Nalmpantis*
+- [ACL 2023最佳论文出炉！CMU西交大等摘桂冠，杰出论文奖华人学者占半壁江](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652350213&idx=3&sn=01843319b9d89fcfda5096af994b2050)山
+
+
+## Extra reference
