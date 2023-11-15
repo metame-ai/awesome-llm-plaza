@@ -119,7 +119,9 @@
 
 
 ## Projects
+- [**wizardlm**](https://github.com/nlpxucan/wizardlm) - nlpxucan ![Star](https://img.shields.io/github/stars/nlpxucan/wizardlm.svg?style=social&label=Star)
 
+	 *Family of instruction-following LLMs powered by Evol-Instruct: WizardLM, WizardCoder*
 - [**codellama-13b-oasst-sft-v10**](https://huggingface.co/OpenAssistant/codellama-13b-oasst-sft-v10) - OpenAssistant 🤗
 
 - [**DeepSeek-Coder**](https://github.com/deepseek-ai/DeepSeek-Coder) - deepseek-ai ![Star](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-Coder.svg?style=social&label=Star)

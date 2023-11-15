@@ -52,6 +52,12 @@
 	 *Tianhao Shen, Renren Jin, Yufei Huang, Chuang Liu, Weilong Dong, Zishan Guo, Xinwei Wu, Yan Liu, Deyi Xiong* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-07-11)) · ([llm-alignment-survey](https://github.com/Magnetic2014/llm-alignment-survey) - Magnetic2014) ![Star](https://img.shields.io/github/stars/Magnetic2014/llm-alignment-survey.svg?style=social&label=Star)
 
 ### Paper & Projects
+- [**wizardlm**](https://github.com/nlpxucan/wizardlm) - nlpxucan ![Star](https://img.shields.io/github/stars/nlpxucan/wizardlm.svg?style=social&label=Star)
+
+	 *Family of instruction-following LLMs powered by Evol-Instruct: WizardLM, WizardCoder*
+- **Trusted Source Alignment in Large Language Models**, `arXiv, 2311.06697`, [arxiv](http://arxiv.org/abs/2311.06697v1), [pdf](http://arxiv.org/pdf/2311.06697v1.pdf), cication: [**-1**](None)
+
+	 *Vasilisa Bashlovkina, Zhaobin Kuang, Riley Matthews, Edward Clifford, Yennie Jun, William W. Cohen, Simon Baumgartner*
 - **Zephyr: Direct Distillation of LM Alignment**, `arXiv, 2310.16944`, [arxiv](http://arxiv.org/abs/2310.16944v1), [pdf](http://arxiv.org/pdf/2310.16944v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=5826276281263581161&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Lewis Tunstall, Edward Beeching, Nathan Lambert, Nazneen Rajani, Kashif Rasul, Younes Belkada, Shengyi Huang, Leandro von Werra, Clémentine Fourrier, Nathan Habib* · ([alignment-handbook](https://github.com/huggingface/alignment-handbook) - huggingface) ![Star](https://img.shields.io/github/stars/huggingface/alignment-handbook.svg?style=social&label=Star)
@@ -205,6 +211,12 @@
 - [模块化大模型来了！IBM公开WastonX核心架构技术细节](https://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&mid=2247522084&idx=3&sn=ceba2b0c3e6434599101f7604ff109c4)
 
 ## Toolkits
+- [**gpt-llm-trainer**](https://github.com/mshumer/gpt-llm-trainer) - mshumer ![Star](https://img.shields.io/github/stars/mshumer/gpt-llm-trainer.svg?style=social&label=Star)
+
+	 · ([qbitai](https://www.qbitai.com/2023/08/78155.html))
+- [**LLaMA-Factory**](https://github.com/hiyouga/LLaMA-Factory) - hiyouga ![Star](https://img.shields.io/github/stars/hiyouga/LLaMA-Factory.svg?style=social&label=Star)
+
+	 *Easy-to-use LLM fine-tuning framework (LLaMA, BLOOM, Mistral, Baichuan, Qwen, ChatGLM)*
 - [**Megatron-LLaMA**](https://github.com/alibaba/Megatron-LLaMA) - alibaba ![Star](https://img.shields.io/github/stars/alibaba/Megatron-LLaMA.svg?style=social&label=Star)
 
 	 *Best practice for training LLaMA models in Megatron-LM* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-09-12-5))

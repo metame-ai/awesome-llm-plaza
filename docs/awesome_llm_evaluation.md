@@ -21,6 +21,13 @@
 	 *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang*
 
 ## Papers
+- **MEGAVERSE: Benchmarking Large Language Models Across Languages,
+  Modalities, Models and Tasks**, `arXiv, 2311.07463`, [arxiv](http://arxiv.org/abs/2311.07463v1), [pdf](http://arxiv.org/pdf/2311.07463v1.pdf), cication: [**-1**](None)
+
+	 *Sanchit Ahuja, Divyanshu Aggarwal, Varun Gumma, Ishaan Watts, Ashutosh Sathe, Millicent Ochieng, Rishav Hada, Prachi Jain, Maxamed Axmed, Kalika Bali*
+- **Generative Judge for Evaluating Alignment**, `arXiv, 2310.05470`, [arxiv](http://arxiv.org/abs/2310.05470v1), [pdf](http://arxiv.org/pdf/2310.05470v1.pdf), cication: [**-1**](None)
+
+	 *Junlong Li, Shichao Sun, Weizhe Yuan, Run-Ze Fan, Hai Zhao, Pengfei Liu* · ([auto-j](https://github.com/GAIR-NLP/auto-j) - GAIR-NLP) ![Star](https://img.shields.io/github/stars/GAIR-NLP/auto-j.svg?style=social&label=Star) · ([gair-nlp.github](https://gair-nlp.github.io/auto-j/))
 - **Can LLMs Follow Simple Rules?**, `arXiv, 2311.04235`, [arxiv](http://arxiv.org/abs/2311.04235v1), [pdf](http://arxiv.org/pdf/2311.04235v1.pdf), cication: [**-1**](None)
 
 	 *Norman Mu, Sarah Chen, Zifan Wang, Sizhe Chen, David Karamardian, Lulwa Aljeraisy, Dan Hendrycks, David Wagner*
@@ -186,6 +193,7 @@
 	 *Lianmin Zheng, Wei-Lin Chiang, Ying Sheng, Siyuan Zhuang, Zhanghao Wu, Yonghao Zhuang, Zi Lin, Zhuohan Li, Dacheng Li, Eric. P Xing*
 
 ## Projects
+- [LLM Leaderboard best models ❤️‍🔥 - a open-llm-leaderboard Collection](https://huggingface.co/collections/open-llm-leaderboard/llm-leaderboard-best-models-652d6c7965a4619fb5c27a03)
 - [**opencompass**](https://github.com/InternLM/opencompass) - InternLM ![Star](https://img.shields.io/github/stars/InternLM/opencompass.svg?style=social&label=Star)
 
 	 *OpenCompass is an LLM evaluation platform, supporting a wide range of models (LLaMA, ChatGLM2, ChatGPT, Claude, etc) over 50+ datasets.* · [[opencompass.org](https://opencompass.org.cn/MMBench)]

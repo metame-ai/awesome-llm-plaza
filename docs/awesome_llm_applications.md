@@ -35,6 +35,9 @@
 - [Navigating the Jagged Technological Frontier: Field Experimental Evidence of the Effects of AI on Knowledge Worker Productivity and Quality](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4573321)
 
 ## Toolkits
+- [**LLM-As-Chatbot**](https://github.com/deep-diver/LLM-As-Chatbot) - deep-diver ![Star](https://img.shields.io/github/stars/deep-diver/LLM-As-Chatbot.svg?style=social&label=Star)
+
+	 *LLM as a Chatbot Service*
 - [**mirror**](https://github.com/cocktailpeanut/mirror) - cocktailpeanut ![Star](https://img.shields.io/github/stars/cocktailpeanut/mirror.svg?style=social&label=Star)
 - [**lobe-chat**](https://github.com/lobehub/lobe-chat) - lobehub ![Star](https://img.shields.io/github/stars/lobehub/lobe-chat.svg?style=social&label=Star)
 
@@ -103,6 +106,9 @@
 
 
 ## Medical
+- [**disc-medllm**](https://github.com/fudandisc/disc-medllm) - fudandisc ![Star](https://img.shields.io/github/stars/fudandisc/disc-medllm.svg?style=social&label=Star)
+
+	 *Repository of DISC-MedLLM, it is a comprehensive solution that leverages Large Language Models (LLMs) to provide accurate and truthful medical response in end-to-end conversational healthcare services.*
 - **LLaVA-Med: Training a Large Language-and-Vision Assistant for
   Biomedicine in One Day**, `arXiv, 2306.00890`, [arxiv](http://arxiv.org/abs/2306.00890v1), [pdf](http://arxiv.org/pdf/2306.00890v1.pdf), cication: [**34**](https://scholar.google.com/scholar?cites=17907075843876440465&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
@@ -200,6 +206,9 @@
 	 *Survey: A collection of AWESOME papers and resources on the large language model (LLM) related recommender system topics.*
 
 ## Role play
+- **ChatAnything: Facetime Chat with LLM-Enhanced Personas**, `arXiv, 2311.06772`, [arxiv](http://arxiv.org/abs/2311.06772v1), [pdf](http://arxiv.org/pdf/2311.06772v1.pdf), cication: [**-1**](None)
+
+	 *Yilin Zhao, Xinbin Yuan, Shanghua Gao, Zhijie Lin, Qibin Hou, Jiashi Feng, Daquan Zhou* · ([chatanything.github](https://chatanything.github.io/))
 - **Character-LLM: A Trainable Agent for Role-Playing**, `arXiv, 2310.10158`, [arxiv](http://arxiv.org/abs/2310.10158v1), [pdf](http://arxiv.org/pdf/2310.10158v1.pdf), cication: [**-1**](None)
 
 	 *Yunfan Shao, Linyang Li, Junqi Dai, Xipeng Qiu* · ([trainable-agents](https://github.com/choosewhatulike/trainable-agents) - choosewhatulike) ![Star](https://img.shields.io/github/stars/choosewhatulike/trainable-agents.svg?style=social&label=Star)
@@ -241,6 +250,9 @@
 - [小扎发布虚拟聊天AI，竟「1:1复刻」Character.AI？用户吐槽：设定太老土了](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652382135&idx=3&sn=b7e8ff8f375772a1bf71989d8e2f4565)
 
 ## Law
+- [**chatlaw**](https://github.com/pku-yuangroup/chatlaw) - pku-yuangroup ![Star](https://img.shields.io/github/stars/pku-yuangroup/chatlaw.svg?style=social&label=Star)
+
+	 *中文法律大模型*
 - **DISC-LawLLM: Fine-tuning Large Language Models for Intelligent Legal
   Services**, `arXiv, 2309.11325`, [arxiv](http://arxiv.org/abs/2309.11325v2), [pdf](http://arxiv.org/pdf/2309.11325v2.pdf), cication: [**2**](https://scholar.google.com/scholar?cites=9312568803183098075&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
@@ -261,6 +273,9 @@
 	 *Patrick Fernandes, Daniel Deutsch, Mara Finkelstein, Parker Riley, André F. T. Martins, Graham Neubig, Ankush Garg, Jonathan H. Clark, Markus Freitag, Orhan Firat*
 
 ## Vision
+- **LayoutPrompter: Awaken the Design Ability of Large Language Models**, `arXiv, 2311.06495`, [arxiv](http://arxiv.org/abs/2311.06495v1), [pdf](http://arxiv.org/pdf/2311.06495v1.pdf), cication: [**-1**](None)
+
+	 *Jiawei Lin, Jiaqi Guo, Shizhao Sun, Zijiang James Yang, Jian-Guang Lou, Dongmei Zhang* · ([LayoutGeneration](https://github.com/microsoft/LayoutGeneration/tree/main/LayoutPrompter) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/LayoutGeneration.svg?style=social&label=Star)
 - **S3-DST: Structured Open-Domain Dialogue Segmentation and State Tracking
   in the Era of LLMs**, `arXiv, 2309.08827`, [arxiv](http://arxiv.org/abs/2309.08827v1), [pdf](http://arxiv.org/pdf/2309.08827v1.pdf), cication: [**-1**](None)
 
@@ -282,6 +297,10 @@
 	 *Official repo for LayoutGPT*
 
 ## Science
+- **The Impact of Large Language Models on Scientific Discovery: a
+  Preliminary Study using GPT-4**, `arXiv, 2311.07361`, [arxiv](http://arxiv.org/abs/2311.07361v1), [pdf](http://arxiv.org/pdf/2311.07361v1.pdf), cication: [**-1**](None)
+
+	 *Microsoft Research AI4Science, Microsoft Azure Quantum*
 - **Large Language Model for Science: A Study on P vs. NP**, `arXiv, 2309.05689`, [arxiv](http://arxiv.org/abs/2309.05689v1), [pdf](http://arxiv.org/pdf/2309.05689v1.pdf), cication: [**2**](https://scholar.google.com/scholar?cites=10209613850404633620&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Qingxiu Dong, Li Dong, Ke Xu, Guangyan Zhou, Yaru Hao, Zhifang Sui, Furu Wei*
@@ -290,7 +309,11 @@
 	 *Chemcrow*
 
 ## Finance
-- **Data-Centric Financial Large Language Models**, `arXiv, 2310.17784`, [arxiv](http://arxiv.org/abs/2310.17784v1), [pdf](http://arxiv.org/pdf/2310.17784v1.pdf), cication: [**-1**](None)
+- [**fingpt**](https://github.com/ai4finance-foundation/fingpt) - ai4finance-foundation ![Star](https://img.shields.io/github/stars/ai4finance-foundation/fingpt.svg?style=social&label=Star)
+
+	 *Data-Centric FinGPT. Open-source for open finance! Revolutionize 🔥 We'll soon release the trained model.*
+- [**FinGLM**](https://github.com/MetaGLM/FinGLM) - MetaGLM ![Star](https://img.shields.io/github/stars/MetaGLM/FinGLM.svg?style=social&label=Star)
+- **Data-Centric Financial Large Language Models**, `arXiv, 2310.17784`, [arxiv](http://arxiv.org/abs/2310.17784v2), [pdf](http://arxiv.org/pdf/2310.17784v2.pdf), cication: [**-1**](None)
 
 	 *Zhixuan Chu, Huaiyu Guo, Xinyuan Zhou, Yijia Wang, Fei Yu, Hong Chen, Wanqing Xu, Xin Lu, Qing Cui, Longfei Li*
 - **Can GPT models be Financial Analysts? An Evaluation of ChatGPT and GPT-4
@@ -312,9 +335,9 @@
 	 *Tongshuang Wu, Haiyi Zhu, Maya Albayrak, Alexis Axon, Amanda Bertsch, Wenxing Deng, Ziqi Ding, Bill Guo, Sireesh Gururaja, Tzu-Sheng Kuo*
 
 ## Misc
-- **ChipNeMo: Domain-Adapted LLMs for Chip Design**, `arXiv, 2311.00176`, [arxiv](http://arxiv.org/abs/2311.00176v1), [pdf](http://arxiv.org/pdf/2311.00176v1.pdf), cication: [**-1**](None)
+- **ChipNeMo: Domain-Adapted LLMs for Chip Design**, `arXiv, 2311.00176`, [arxiv](http://arxiv.org/abs/2311.00176v2), [pdf](http://arxiv.org/pdf/2311.00176v2.pdf), cication: [**-1**](None)
 
-	 *Mingjie Liu, Teo Ene, Robert Kirby, Chris Cheng, Nathaniel Pinckney, Rongjian Liang, Jonah Alben, Himyanshu Anand, Sanmitra Banerjee, Ismet Bayraktaroglu*
+	 *Mingjie Liu, Teodor-Dumitru Ene, Robert Kirby, Chris Cheng, Nathaniel Pinckney, Rongjian Liang, Jonah Alben, Himyanshu Anand, Sanmitra Banerjee, Ismet Bayraktaroglu*
 - **InstructExcel: A Benchmark for Natural Language Instruction in Excel**, `arXiv, 2310.14495`, [arxiv](http://arxiv.org/abs/2310.14495v1), [pdf](http://arxiv.org/pdf/2310.14495v1.pdf), cication: [**-1**](None)
 
 	 *Justin Payan, Swaroop Mishra, Mukul Singh, Carina Negreanu, Christian Poelitz, Chitta Baral, Subhro Roy, Rasika Chakravarthy, Benjamin Van Durme, Elnaz Nouri*

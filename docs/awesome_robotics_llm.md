@@ -7,7 +7,9 @@
 	- [Reference](#reference)
 
 ## Papers
+- **GOAT: GO to Any Thing**, `arXiv, 2311.06430`, [arxiv](http://arxiv.org/abs/2311.06430v1), [pdf](http://arxiv.org/pdf/2311.06430v1.pdf), cication: [**-1**](None)
 
+	 *Matthew Chang, Theophile Gervet, Mukul Khanna, Sriram Yenamandra, Dhruv Shah, So Yeon Min, Kavit Shah, Chris Paxton, Saurabh Gupta, Dhruv Batra*
 - **LLaMA Rider: Spurring Large Language Models to Explore the Open World**, arXiv, 2310.08922, [arxiv](http://arxiv.org/abs/2310.08922v1), [pdf](http://arxiv.org/pdf/2310.08922v1.pdf), cication: [**-1**](None)
 
 	 *Yicheng Feng, Yuxuan Wang, Jiazheng Liu, Sipeng Zheng, Zongqing Lu*

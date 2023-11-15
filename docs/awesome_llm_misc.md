@@ -21,6 +21,7 @@
 	- [Extra reference](#extra-reference)
 
 ## Survey
+- [A Survey of Techniques for Maximizing LLM Performance](https://www.youtube.com/watch?v=ahnGLM-RC1Y&ab_channel=OpenAI)
 - [Transformer Taxonomy (the last lit review) | kipply's blog](https://kipp.ly/transformer-taxonomy/?continueFlag=a897a8d0eb16dcae5398f1b58cc5e06f)
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-08-14-9))
@@ -175,6 +176,21 @@
 
 ## LLM detection
 - [‘ChatGPT detector’ catches AI-generated papers with unprecedented accuracy](https://www.nature.com/articles/d41586-023-03479-4)
+- **GPT detectors are biased against non-native English writers**, `arXiv, 2304.02819`, [arxiv](http://arxiv.org/abs/2304.02819v3), [pdf](http://arxiv.org/pdf/2304.02819v3.pdf), cication: [**42**](https://scholar.google.com/scholar?cites=517481798147034142&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Weixin Liang, Mert Yuksekgonul, Yining Mao, Eric Wu, James Zou*
+- **Three Bricks to Consolidate Watermarks for Large Language Models**, `arXiv, 2308.00113`, [arxiv](http://arxiv.org/abs/2308.00113v2), [pdf](http://arxiv.org/pdf/2308.00113v2.pdf), cication: [**3**](https://scholar.google.com/scholar?cites=10192059197680159637&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Pierre Fernandez, Antoine Chaffin, Karim Tit, Vivien Chappelier, Teddy Furon*
+- **Robust Distortion-free Watermarks for Language Models**, `arXiv, 2307.15593`, [arxiv](http://arxiv.org/abs/2307.15593v2), [pdf](http://arxiv.org/pdf/2307.15593v2.pdf), cication: [**9**](https://scholar.google.com/scholar?cites=8195690178514933158&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Rohith Kuditipudi, John Thickstun, Tatsunori Hashimoto, Percy Liang*
+- **Can AI-Generated Text be Reliably Detected?**, `arXiv, 2303.11156`, [arxiv](http://arxiv.org/abs/2303.11156v2), [pdf](http://arxiv.org/pdf/2303.11156v2.pdf), cication: [**93**](https://scholar.google.com/scholar?cites=6956709800612024780&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Vinu Sankar Sadasivan, Aounon Kumar, Sriram Balasubramanian, Wenxiao Wang, Soheil Feizi* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652358133&idx=4&sn=79515be33a6c66221480408134193581))
+- [Digital tool spots academic text spawned by ChatGPT with 99% accuracy | The University of Kansas](http://today.ku.edu/2023/05/19/digital-tool-spots-academic-text-spawned-chatgpt-99-percent-accuracy)
+
+	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652345558&idx=4&sn=95686435d5cad05d44cbe02bc26d6859))
 
 ## Explanation
 - **Pretraining Data Mixtures Enable Narrow Model Selection Capabilities in

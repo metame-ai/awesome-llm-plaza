@@ -3,6 +3,7 @@
 - [Awesome llm hallucination (truth-gpt)](#awesome-llm-hallucination-truth-gpt)
 	- [Survey](#survey)
 	- [Papers](#papers)
+	- [Evalution](#evalution)
 	- [Other](#other)
 	- [Extra reference](#extra-reference)
 
@@ -57,6 +58,11 @@
 
 	 *Boxin Wang, Weixin Chen, Hengzhi Pei, Chulin Xie, Mintong Kang, Chenhui Zhang, Chejian Xu, Zidi Xiong, Ritik Dutta, Rylan Schaeffer*
 
+## Evalution
+- [**hallucination-leaderboard**](https://github.com/vectara/hallucination-leaderboard) - vectara ![Star](https://img.shields.io/github/stars/vectara/hallucination-leaderboard.svg?style=social&label=Star)
+
+	 *Leaderboard Comparing LLM Performance at Producing Hallucinations when Summarizing Short Documents* · ([t](https://twitter.com/DrJimFan/status/1724464105371939301))
+ 
 ## Other
 - [大模型幻觉问题调研](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494247&idx=2&sn=a1614fa0f58c153330bb7f3c11652ad3)
 

@@ -10,6 +10,18 @@
 	- [Reference](#reference)
 
 ## Vision
+- **SPHINX: The Joint Mixing of Weights, Tasks, and Visual Embeddings for
+  Multi-modal Large Language Models**, `arXiv, 2311.07575`, [arxiv](http://arxiv.org/abs/2311.07575v1), [pdf](http://arxiv.org/pdf/2311.07575v1.pdf), cication: [**-1**](None)
+
+	 *Ziyi Lin, Chris Liu, Renrui Zhang, Peng Gao, Longtian Qiu, Han Xiao, Han Qiu, Chen Lin, Wenqi Shao, Keqin Chen* · ([LLaMA2-Accessory](https://github.com/Alpha-VLLM/LLaMA2-Accessory) - Alpha-VLLM) ![Star](https://img.shields.io/github/stars/Alpha-VLLM/LLaMA2-Accessory.svg?style=social&label=Star)
+- **To See is to Believe: Prompting GPT-4V for Better Visual Instruction
+  Tuning**, `arXiv, 2311.07574`, [arxiv](http://arxiv.org/abs/2311.07574v1), [pdf](http://arxiv.org/pdf/2311.07574v1.pdf), cication: [**-1**](None)
+
+	 *Junke Wang, Lingchen Meng, Zejia Weng, Bo He, Zuxuan Wu, Yu-Gang Jiang* · ([LVIS-INSTRUCT4V](https://github.com/X2FD/LVIS-INSTRUCT4V) - X2FD) ![Star](https://img.shields.io/github/stars/X2FD/LVIS-INSTRUCT4V.svg?style=social&label=Star)
+- **Q-Instruct: Improving Low-level Visual Abilities for Multi-modality
+  Foundation Models**, `arXiv, 2311.06783`, [arxiv](http://arxiv.org/abs/2311.06783v1), [pdf](http://arxiv.org/pdf/2311.06783v1.pdf), cication: [**-1**](None)
+
+	 *Haoning Wu, Zicheng Zhang, Erli Zhang, Chaofeng Chen, Liang Liao, Annan Wang, Kaixin Xu, Chunyi Li, Jingwen Hou, Guangtao Zhai* · ([q-future.github](https://q-future.github.io/Q-Instruct))
 - **Florence-2: Advancing a Unified Representation for a Variety of Vision
   Tasks**, `arXiv, 2311.06242`, [arxiv](http://arxiv.org/abs/2311.06242v1), [pdf](http://arxiv.org/pdf/2311.06242v1.pdf), cication: [**-1**](None)
 
@@ -369,6 +381,10 @@
 	 *Shaohan Huang, Li Dong, Wenhui Wang, Yaru Hao, Saksham Singhal, Shuming Ma, Tengchao Lv, Lei Cui, Owais Khan Mohammed, Barun Patra*
 
 ## Audio
+- **Towards General-Purpose Speech Abilities for Large Language Models Using
+  Unpaired Data**, `arXiv, 2311.06753`, [arxiv](http://arxiv.org/abs/2311.06753v1), [pdf](http://arxiv.org/pdf/2311.06753v1.pdf), cication: [**-1**](None)
+
+	 *Yassir Fathullah, Chunyang Wu, Egor Lakomkin, Junteng Jia, Yuan Shangguan, Jay Mahadeokar, Ozlem Kalinli, Christian Fuegen, Mike Seltzer*
 - **Attention or Convolution: Transformer Encoders in Audio Language Models
   for Inference Efficiency**, `arXiv, 2311.02772`, [arxiv](http://arxiv.org/abs/2311.02772v1), [pdf](http://arxiv.org/pdf/2311.02772v1.pdf), cication: [**-1**](None)
 
@@ -387,6 +403,9 @@
 
 
 ## Projects
+- [**mic**](https://github.com/haozhezhao/mic) - haozhezhao ![Star](https://img.shields.io/github/stars/haozhezhao/mic.svg?style=social&label=Star)
+
+	 *MMICL, a state-of-the-art VLM with the in context learning ability from ICL, PKU*
 - [**awesome-openai-vision-api-experiments**](https://github.com/roboflow/awesome-openai-vision-api-experiments) - roboflow ![Star](https://img.shields.io/github/stars/roboflow/awesome-openai-vision-api-experiments.svg?style=social&label=Star)
 
 	 *Examples showing how to use the OpenAI vision API to run inference on images, video files and webcam streams*
