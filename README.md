@@ -133,6 +133,7 @@ Source: [huggingface daily papers](https://huggingface.co/papers), [twitter(x)](
 - [Datasets](./docs/awesome_multimod_llm.md#datasets)
 
 ### [Awesome code LLM](./docs/awesome_code_llm.md)
+- [Survey](./docs/awesome_code_llm.md#survey)
 - [Paper](./docs/awesome_code_llm.md#paper)
 - [Projects](./docs/awesome_code_llm.md#projects)
 

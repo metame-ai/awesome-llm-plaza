@@ -1,6 +1,7 @@
 # Awesome-code-llm
 
 - [Awesome-code-llm](#awesome-code-llm)
+	- [Survey](#survey)
 	- [Paper](#paper)
 	- [Projects](#projects)
 	- [Other](#other)
