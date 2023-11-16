@@ -21,6 +21,9 @@
 	 *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang*
 
 ## Papers
+- **Instruction-Following Evaluation for Large Language Models**, `arXiv, 2311.07911`, [arxiv](http://arxiv.org/abs/2311.07911v1), [pdf](http://arxiv.org/pdf/2311.07911v1.pdf), cication: [**-1**](None)
+
+	 *Jeffrey Zhou, Tianjian Lu, Swaroop Mishra, Siddhartha Brahma, Sujoy Basu, Yi Luan, Denny Zhou, Le Hou* · ([google-research](https://github.com/google-research/google-research/tree/master/instruction_following_eval) - google-research) ![Star](https://img.shields.io/github/stars/google-research/google-research.svg?style=social&label=Star)
 - **MEGAVERSE: Benchmarking Large Language Models Across Languages,
   Modalities, Models and Tasks**, `arXiv, 2311.07463`, [arxiv](http://arxiv.org/abs/2311.07463v1), [pdf](http://arxiv.org/pdf/2311.07463v1.pdf), cication: [**-1**](None)
 

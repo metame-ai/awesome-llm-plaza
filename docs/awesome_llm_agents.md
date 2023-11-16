@@ -350,6 +350,8 @@
   GUI Navigation**, `arXiv, 2311.07562`, [arxiv](http://arxiv.org/abs/2311.07562v1), [pdf](http://arxiv.org/pdf/2311.07562v1.pdf), cication: [**-1**](None)
 
 	 *An Yan, Zhengyuan Yang, Wanrong Zhu, Kevin Lin, Linjie Li, Jianfeng Wang, Jianwei Yang, Yiwu Zhong, Julian McAuley, Jianfeng Gao* · ([MM-Navigator](https://github.com/zzxslp/MM-Navigator) - zzxslp) ![Star](https://img.shields.io/github/stars/zzxslp/MM-Navigator.svg?style=social&label=Star)
+
+	 · ([qbitai](https://www.qbitai.com/2023/11/98316.html))
 - [**vimGPT**](https://github.com/ishan0102/vimGPT) - ishan0102 ![Star](https://img.shields.io/github/stars/ishan0102/vimGPT.svg?style=social&label=Star)
 
 	 *Browse the web with GPT-4V and Vimium*
@@ -430,6 +432,9 @@
 	 *OpenAI's Code Interpreter in your terminal, running locally*
 
 ## GPTs
+- [**Awesome-GPTs**](https://github.com/ai-boost/Awesome-GPTs) - ai-boost ![Star](https://img.shields.io/github/stars/ai-boost/Awesome-GPTs.svg?style=social&label=Star)
+
+	 *Curated list of awesome GPTs 👍.*
 - [**Awesome-GPT-Agents**](https://github.com/fr0gger/Awesome-GPT-Agents) - fr0gger ![Star](https://img.shields.io/github/stars/fr0gger/Awesome-GPT-Agents.svg?style=social&label=Star)
 
 	 *A curated list of GPT agents for cybersecurity*

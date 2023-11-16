@@ -194,6 +194,9 @@
 - [**RLMRec**](https://github.com/HKUDS/RLMRec) - HKUDS ![Star](https://img.shields.io/github/stars/HKUDS/RLMRec.svg?style=social&label=Star)
 
 	 *"RLMRec: Representation Learning with Large Language Models for Recommendation"*
+- **On Generative Agents in Recommendation**, `arXiv, 2310.10108`, [arxiv](http://arxiv.org/abs/2310.10108v1), [pdf](http://arxiv.org/pdf/2310.10108v1.pdf), cication: [**-1**](None)
+
+	 *An Zhang, Leheng Sheng, Yuxin Chen, Hao Li, Yang Deng, Xiang Wang, Tat-Seng Chua* · ([Agent4Rec](https://github.com/LehengTHU/Agent4Rec) - LehengTHU) ![Star](https://img.shields.io/github/stars/LehengTHU/Agent4Rec.svg?style=social&label=Star)
 - **LLM-Rec: Personalized Recommendation via Prompting Large Language Models**, `arXiv, 2307.15780`, [arxiv](http://arxiv.org/abs/2307.15780v2), [pdf](http://arxiv.org/pdf/2307.15780v2.pdf), cication: [**3**](https://scholar.google.com/scholar?cites=4356677214877592971&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Hanjia Lyu, Song Jiang, Hanqing Zeng, Qifan Wang, Si Zhang, Ren Chen, Chris Leung, Jiajie Tang, Yinglong Xia, Jiebo Luo*
@@ -273,6 +276,9 @@
 	 *Patrick Fernandes, Daniel Deutsch, Mara Finkelstein, Parker Riley, André F. T. Martins, Graham Neubig, Ankush Garg, Jonathan H. Clark, Markus Freitag, Orhan Firat*
 
 ## Vision
+- **MM-VID: Advancing Video Understanding with GPT-4V(ision)**, `arXiv, 2310.19773`, [arxiv](http://arxiv.org/abs/2310.19773v1), [pdf](http://arxiv.org/pdf/2310.19773v1.pdf), cication: [**3**](https://scholar.google.com/scholar?cites=12286689398194122588&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Kevin Lin, Faisal Ahmed, Linjie Li, Chung-Ching Lin, Ehsan Azarnasab, Zhengyuan Yang, Jianfeng Wang, Lin Liang, Zicheng Liu, Yumao Lu* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-11-15-7)) · ([multimodal-vid.github](https://multimodal-vid.github.io))
 - **LayoutPrompter: Awaken the Design Ability of Large Language Models**, `arXiv, 2311.06495`, [arxiv](http://arxiv.org/abs/2311.06495v1), [pdf](http://arxiv.org/pdf/2311.06495v1.pdf), cication: [**-1**](None)
 
 	 *Jiawei Lin, Jiaqi Guo, Shizhao Sun, Zijiang James Yang, Jian-Guang Lou, Dongmei Zhang* · ([LayoutGeneration](https://github.com/microsoft/LayoutGeneration/tree/main/LayoutPrompter) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/LayoutGeneration.svg?style=social&label=Star)
@@ -297,6 +303,12 @@
 	 *Official repo for LayoutGPT*
 
 ## Science
+- **MechGPT, a language-based strategy for mechanics and materials modeling
+  that connects knowledge across scales, disciplines and modalities**, `applied mechanics reviews, 2023`, [arxiv](http://arxiv.org/abs/2310.10445v1), [pdf](http://arxiv.org/pdf/2310.10445v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=1194485517931580749&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Markus J. Buehler*
+
+	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-11-15-2))
 - **The Impact of Large Language Models on Scientific Discovery: a
   Preliminary Study using GPT-4**, `arXiv, 2311.07361`, [arxiv](http://arxiv.org/abs/2311.07361v1), [pdf](http://arxiv.org/pdf/2311.07361v1.pdf), cication: [**-1**](None)
 

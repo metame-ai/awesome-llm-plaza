@@ -381,6 +381,10 @@
 	 *Shaohan Huang, Li Dong, Wenhui Wang, Yaru Hao, Saksham Singhal, Shuming Ma, Tengchao Lv, Lei Cui, Owais Khan Mohammed, Barun Patra*
 
 ## Audio
+- **Qwen-Audio: Advancing Universal Audio Understanding via Unified
+  Large-Scale Audio-Language Models**, `arXiv, 2311.07919`, [arxiv](http://arxiv.org/abs/2311.07919v1), [pdf](http://arxiv.org/pdf/2311.07919v1.pdf), cication: [**-1**](None)
+
+	 *Yunfei Chu, Jin Xu, Xiaohuan Zhou, Qian Yang, Shiliang Zhang, Zhijie Yan, Chang Zhou, Jingren Zhou*
 - **Towards General-Purpose Speech Abilities for Large Language Models Using
   Unpaired Data**, `arXiv, 2311.06753`, [arxiv](http://arxiv.org/abs/2311.06753v1), [pdf](http://arxiv.org/pdf/2311.06753v1.pdf), cication: [**-1**](None)
 

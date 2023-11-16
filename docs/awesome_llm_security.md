@@ -12,6 +12,10 @@
 - [**Adversarial Attacks on LLMs | Lil'Log**](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/)
 
 ## Papers
+- **Frontier Language Models are not Robust to Adversarial Arithmetic, or
+  "What do I need to say so you agree 2+2=5?**, `arXiv, 2311.07587`, [arxiv](http://arxiv.org/abs/2311.07587v1), [pdf](http://arxiv.org/pdf/2311.07587v1.pdf), cication: [**-1**](None)
+
+	 *C. Daniel Freeman, Laura Culp, Aaron Parisi, Maxwell L Bileschi, Gamaleldin F Elsayed, Alex Rizkowsky, Isabelle Simpson, Alex Alemi, Azade Nova, Ben Adlam*
 - **Unveiling Safety Vulnerabilities of Large Language Models**, `arXiv, 2311.04124`, [arxiv](http://arxiv.org/abs/2311.04124v1), [pdf](http://arxiv.org/pdf/2311.04124v1.pdf), cication: [**-1**](None)
 
 	 *George Kour, Marcel Zalmanovici, Naama Zwerdling, Esther Goldbraich, Ora Nova Fandina, Ateret Anaby-Tavor, Orna Raz, Eitan Farchi*

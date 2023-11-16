@@ -50,6 +50,9 @@
 - **Large Language Model Alignment: A Survey**, `arXiv, 2309.15025`, [arxiv](http://arxiv.org/abs/2309.15025v1), [pdf](http://arxiv.org/pdf/2309.15025v1.pdf), cication: [**3**](https://scholar.google.com/scholar?cites=12166333814159585377&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Tianhao Shen, Renren Jin, Yufei Huang, Chuang Liu, Weilong Dong, Zishan Guo, Xinwei Wu, Yan Liu, Deyi Xiong* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-07-11)) · ([llm-alignment-survey](https://github.com/Magnetic2014/llm-alignment-survey) - Magnetic2014) ![Star](https://img.shields.io/github/stars/Magnetic2014/llm-alignment-survey.svg?style=social&label=Star)
+- **Aligning Large Language Models with Human: A Survey**, `arXiv, 2307.12966`, [arxiv](http://arxiv.org/abs/2307.12966v1), [pdf](http://arxiv.org/pdf/2307.12966v1.pdf), cication: [**29**](https://scholar.google.com/scholar?cites=2762352632434587623&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Yufei Wang, Wanjun Zhong, Liangyou Li, Fei Mi, Xingshan Zeng, Wenyong Huang, Lifeng Shang, Xin Jiang, Qun Liu* · ([AlignLLMHumanSurvey](https://github.com/GaryYufei/AlignLLMHumanSurvey) - GaryYufei) ![Star](https://img.shields.io/github/stars/GaryYufei/AlignLLMHumanSurvey.svg?style=social&label=Star)
 
 ### Paper & Projects
 - [**wizardlm**](https://github.com/nlpxucan/wizardlm) - nlpxucan ![Star](https://img.shields.io/github/stars/nlpxucan/wizardlm.svg?style=social&label=Star)
@@ -134,6 +137,9 @@
 - [领域大模型-训练Trick&落地思考](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494320&idx=2&sn=8edd6ea37bbd73768caa306d9daa2cf7)
 
 ## Scaling
+- **DiLoCo: Distributed Low-Communication Training of Language Models**, `arXiv, 2311.08105`, [arxiv](http://arxiv.org/abs/2311.08105v1), [pdf](http://arxiv.org/pdf/2311.08105v1.pdf), cication: [**-1**](None)
+
+	 *Arthur Douillard, Qixuan Feng, Andrei A. Rusu, Rachita Chhaparia, Yani Donchev, Adhiguna Kuncoro, Marc'Aurelio Ranzato, Arthur Szlam, Jiajun Shen*
 - **Microscaling Data Formats for Deep Learning**, `arXiv, 2310.10537`, [arxiv](http://arxiv.org/abs/2310.10537v3), [pdf](http://arxiv.org/pdf/2310.10537v3.pdf), cication: [**-1**](None)
 
 	 *Bita Darvish Rouhani, Ritchie Zhao, Ankit More, Mathew Hall, Alireza Khodamoradi, Summer Deng, Dhruv Choudhary, Marius Cornea, Eric Dellinger, Kristof Denolf*
@@ -164,10 +170,13 @@
 - [How to Train Really Large Models on Many GPUs? | Lil'Log](https://lilianweng.github.io/posts/2021-09-25-train-large/)
 - [Chinchilla之死：只要训练足够长时间，小模型也能超过大模型 | 机器之心](https://www.jiqizhixin.com/articles/2023-10-03-9)
 
-## Finetuning
+## Fine-tuning
 - **Parameter-Efficient Orthogonal Finetuning via Butterfly Factorization**, `arXiv, 2311.06243`, [arxiv](http://arxiv.org/abs/2311.06243v1), [pdf](http://arxiv.org/pdf/2311.06243v1.pdf), cication: [**-1**](None)
 
 	 *Weiyang Liu, Zeju Qiu, Yao Feng, Yuliang Xiu, Yuxuan Xue, Longhui Yu, Haiwen Feng, Zhen Liu, Juyeon Heo, Songyou Peng*
+
+### Other
+- [Fine-tuning GPT3.5-turbo based on 140k slack messages · Ross Lazerowitz](https://rosslazer.com/posts/fine-tuning/)
 
 ## Architectures
 - **How to Build Low-cost Networks for Large Language Models (without
