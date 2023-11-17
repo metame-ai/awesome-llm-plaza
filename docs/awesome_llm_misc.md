@@ -279,6 +279,10 @@
 - [好问题比好答案更重要｜沈向洋大模型五问](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494275&idx=1&sn=4860205e6043435fe7ff871c8fb4c9c1)
 
 ## Callibration
+- **Llamas Know What GPTs Don't Show: Surrogate Models for Confidence
+  Estimation**, `arXiv, 2311.08877`, [arxiv](http://arxiv.org/abs/2311.08877v1), [pdf](http://arxiv.org/pdf/2311.08877v1.pdf), cication: [**-1**](None)
+
+	 *Vaishnavi Shrivastava, Percy Liang, Ananya Kumar*
 - **Do Large Language Models Know What They Don't Know?**, `arXiv, 2305.18153`, [arxiv](http://arxiv.org/abs/2305.18153v2), [pdf](http://arxiv.org/pdf/2305.18153v2.pdf), cication: [**16**](https://scholar.google.com/scholar?cites=18069947573459721243&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Zhangyue Yin, Qiushi Sun, Qipeng Guo, Jiawen Wu, Xipeng Qiu, Xuanjing Huang*
@@ -306,5 +310,9 @@
 	 *Elena Voita, Javier Ferrando, Christoforos Nalmpantis*
 - [ACL 2023最佳论文出炉！CMU西交大等摘桂冠，杰出论文奖华人学者占半壁江](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652350213&idx=3&sn=01843319b9d89fcfda5096af994b2050)山
 
+
+## Course & Tutorial
+- [ML 2023 Spring](https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php)
+- [80分鐘快速了解大型語言模型 (5:30 有咒術迴戰雷) - YouTube](https://www.youtube.com/watch?v=wG8-IUtqu-s&t=5s&ab_channel=Hung-yiLee)
 
 ## Extra reference

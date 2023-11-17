@@ -13,6 +13,10 @@
 	 *Ziyin Zhang, Chaoyu Chen, Bingchang Liu, Cong Liao, Zi Gong, Hang Yu, Jianguo Li, Rui Wang*
 
 ## Paper
+- **ML-Bench: Large Language Models Leverage Open-source Libraries for
+  Machine Learning Tasks**, `arXiv, 2311.09835`, [arxiv](http://arxiv.org/abs/2311.09835v1), [pdf](http://arxiv.org/pdf/2311.09835v1.pdf), cication: [**-1**](None)
+
+	 *Yuliang Liu, Xiangru Tang, Zefan Cai, Junjie Lu, Yichi Zhang, Yanjun Shao, Zexuan Deng, Helan Hu, Zengxian Yang, Kaikai An* · ([ML-bench](https://github.com/gersteinlab/ML-bench) - gersteinlab) ![Star](https://img.shields.io/github/stars/gersteinlab/ML-bench.svg?style=social&label=Star) · ([drive.google](https://drive.google.com/drive/folders/1e86FhLjxXK837SgR8a29cztx9UfxPQzS?usp=drive_link)) · ([ml-bench.github](https://ml-bench.github.io/))
 - **Leveraging Large Language Models for Automated Proof Synthesis in Rust**, `arXiv, 2311.03739`, [arxiv](http://arxiv.org/abs/2311.03739v1), [pdf](http://arxiv.org/pdf/2311.03739v1.pdf), cication: [**-1**](None)
 
 	 *Jianan Yao, Ziqiao Zhou, Weiteng Chen, Weidong Cui*
@@ -30,6 +34,8 @@
 - **ChatCoder: Chat-based Refine Requirement Improves LLMs' Code Generation**, arXiv, 2311.00272, [arxiv](http://arxiv.org/abs/2311.00272v1), [pdf](http://arxiv.org/pdf/2311.00272v1.pdf), cication: [**-1**](None)
 
 	 *Zejun Wang, Jia Li, Ge Li, Zhi Jin*
+
+	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652406768&idx=4&sn=5fd9390749237dce28388477bada222b))
 - **Large Language Models for Software Engineering: Survey and Open Problems**, arXiv, 2310.03533, [arxiv](http://arxiv.org/abs/2310.03533v3), [pdf](http://arxiv.org/pdf/2310.03533v3.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=2498460800692651473&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Angela Fan, Beliz Gokkaya, Mark Harman, Mitya Lyubarskiy, Shubho Sengupta, Shin Yoo, Jie M. Zhang*

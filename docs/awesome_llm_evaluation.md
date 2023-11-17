@@ -21,6 +21,13 @@
 	 *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang*
 
 ## Papers
+- **Fusion-Eval: Integrating Evaluators with LLMs**, `arXiv, 2311.09204`, [arxiv](http://arxiv.org/abs/2311.09204v1), [pdf](http://arxiv.org/pdf/2311.09204v1.pdf), cication: [**-1**](None)
+
+	 *Lei Shu, Nevan Wichers, Liangchen Luo, Yun Zhu, Yinxiao Liu, Jindong Chen, Lei Meng*
+- **Llamas Know What GPTs Don't Show: Surrogate Models for Confidence
+  Estimation**, `arXiv, 2311.08877`, [arxiv](http://arxiv.org/abs/2311.08877v1), [pdf](http://arxiv.org/pdf/2311.08877v1.pdf), cication: [**-1**](None)
+
+	 *Vaishnavi Shrivastava, Percy Liang, Ananya Kumar*
 - **Instruction-Following Evaluation for Large Language Models**, `arXiv, 2311.07911`, [arxiv](http://arxiv.org/abs/2311.07911v1), [pdf](http://arxiv.org/pdf/2311.07911v1.pdf), cication: [**-1**](None)
 
 	 *Jeffrey Zhou, Tianjian Lu, Swaroop Mishra, Siddhartha Brahma, Sujoy Basu, Yi Luan, Denny Zhou, Le Hou* · ([google-research](https://github.com/google-research/google-research/tree/master/instruction_following_eval) - google-research) ![Star](https://img.shields.io/github/stars/google-research/google-research.svg?style=social&label=Star)

@@ -9,6 +9,10 @@
 
 
 ## Survey
+- **Open-Sourcing Highly Capable Foundation Models: An evaluation of risks,
+  benefits, and alternative methods for pursuing open-source objectives**, `arXiv, 2311.09227`, [arxiv](http://arxiv.org/abs/2311.09227v1), [pdf](http://arxiv.org/pdf/2311.09227v1.pdf), cication: [**-1**](None)
+
+	 *Elizabeth Seger, Noemi Dreksler, Richard Moulange, Emily Dardaman, Jonas Schuett, K. Wei, Christoph Winter, Mackenzie Arnold, Seán Ó hÉigeartaigh, Anton Korinek*
 - [**Adversarial Attacks on LLMs | Lil'Log**](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/)
 
 ## Papers
@@ -65,6 +69,9 @@
 
 	 *Kaijie Zhu, Jindong Wang, Jiaheng Zhou, Zichen Wang, Hao Chen, Yidong Wang, Linyi Yang, Wei Ye, Yue Zhang, Neil Zhenqiang Gong*
 ## Projects
+- [**chatgpt_system_prompt**](https://github.com/LouisShark/chatgpt_system_prompt) - LouisShark ![Star](https://img.shields.io/github/stars/LouisShark/chatgpt_system_prompt.svg?style=social&label=Star)
+
+	 *store all chatgpt's system prompt*
 - [**cipherchat**](https://github.com/robustnlp/cipherchat) - robustnlp ![Star](https://img.shields.io/github/stars/robustnlp/cipherchat.svg?style=social&label=Star)
 
 	 *A framework to evaluate the generalization capability of safety alignment for LLMs*

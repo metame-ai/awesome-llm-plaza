@@ -15,6 +15,12 @@
 
 
 ## Reasoning
+- **Thread of Thought Unraveling Chaotic Contexts**, `arXiv, 2311.08734`, [arxiv](http://arxiv.org/abs/2311.08734v1), [pdf](http://arxiv.org/pdf/2311.08734v1.pdf), cication: [**-1**](None)
+
+	 *Yucheng Zhou, Xiubo Geng, Tao Shen, Chongyang Tao, Guodong Long, Jian-Guang Lou, Jianbing Shen*
+- **UNcommonsense Reasoning: Abductive Reasoning about Uncommon Situations**, `arXiv, 2311.08469`, [arxiv](http://arxiv.org/abs/2311.08469v1), [pdf](http://arxiv.org/pdf/2311.08469v1.pdf), cication: [**-1**](None)
+
+	 *Wenting Zhao, Justin T Chiu, Jena D. Hwang, Faeze Brahman, Jack Hessel, Sanjiban Choudhury, Yejin Choi, Xiang Lorraine Li, Alane Suhr*
 - **The ART of LLM Refinement: Ask, Refine, and Trust**, `arXiv, 2311.07961`, [arxiv](http://arxiv.org/abs/2311.07961v1), [pdf](http://arxiv.org/pdf/2311.07961v1.pdf), cication: [**-1**](None)
 
 	 *Kumar Shridhar, Koustuv Sinha, Andrew Cohen, Tianlu Wang, Ping Yu, Ram Pasunuru, Mrinmaya Sachan, Jason Weston, Asli Celikyilmaz*
@@ -332,6 +338,9 @@
 	 *Tianlu Wang, Ping Yu, Xiaoqing Ellen Tan, Sean O'Brien, Ramakanth Pasunuru, Jane Dwivedi-Yu, Olga Golovneva, Luke Zettlemoyer, Maryam Fazel-Zarandi, Asli Celikyilmaz* · ([shepherd](https://github.com/facebookresearch/shepherd) - facebookresearch) ![Star](https://img.shields.io/github/stars/facebookresearch/shepherd.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652366759&idx=3&sn=f183f4c8080a338c4c9fad0f026b14af))
 
 ## Prompting
+- **Contrastive Chain-of-Thought Prompting**, `arXiv, 2311.09277`, [arxiv](http://arxiv.org/abs/2311.09277v1), [pdf](http://arxiv.org/pdf/2311.09277v1.pdf), cication: [**-1**](None)
+
+	 *Yew Ken Chia, Guizhen Chen, Luu Anh Tuan, Soujanya Poria, Lidong Bing*
 - **Fast Chain-of-Thought: A Glance of Future from Parallel Decoding Leads
   to Answers Faster**, `arXiv, 2311.08263`, [arxiv](http://arxiv.org/abs/2311.08263v1), [pdf](http://arxiv.org/pdf/2311.08263v1.pdf), cication: [**-1**](None)
 

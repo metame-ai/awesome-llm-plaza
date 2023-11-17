@@ -179,6 +179,9 @@
 - [Fine-tuning GPT3.5-turbo based on 140k slack messages · Ross Lazerowitz](https://rosslazer.com/posts/fine-tuning/)
 
 ## Architectures
+- **UT5: Pretraining Non autoregressive T5 with unrolled denoising**, `arXiv, 2311.08552`, [arxiv](http://arxiv.org/abs/2311.08552v1), [pdf](http://arxiv.org/pdf/2311.08552v1.pdf), cication: [**-1**](None)
+
+	 *Mahmoud G. Salem, Jiayu Ye, Chu-Cheng Lin, Frederick Liu*
 - **How to Build Low-cost Networks for Large Language Models (without
   Sacrificing Performance)?**, `arXiv, 2307.12169`, [arxiv](http://arxiv.org/abs/2307.12169v3), [pdf](http://arxiv.org/pdf/2307.12169v3.pdf), cication: [**-1**](None)
 
@@ -197,6 +200,10 @@
 	 *Yang Luo, Xiaozhe Ren, Zangwei Zheng, Zhuo Jiang, Xin Jiang, Yang You* · ([qbitai](https://www.qbitai.com/2023/07/67814.html))
  
 ## Ensemble
+- **Routing to the Expert: Efficient Reward-guided Ensemble of Large
+  Language Models**, `arXiv, 2311.08692`, [arxiv](http://arxiv.org/abs/2311.08692v1), [pdf](http://arxiv.org/pdf/2311.08692v1.pdf), cication: [**-1**](None)
+
+	 *Keming Lu, Hongyi Yuan, Runji Lin, Junyang Lin, Zheng Yuan, Chang Zhou, Jingren Zhou*
 - **Language Models are Super Mario: Absorbing Abilities from Homologous
   Models as a Free Lunch**, `arXiv, 2311.03099`, [arxiv](http://arxiv.org/abs/2311.03099v1), [pdf](http://arxiv.org/pdf/2311.03099v1.pdf), cication: [**-1**](None)
 
@@ -220,6 +227,9 @@
 - [模块化大模型来了！IBM公开WastonX核心架构技术细节](https://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&mid=2247522084&idx=3&sn=ceba2b0c3e6434599101f7604ff109c4)
 
 ## Toolkits
+- [**SynapseML**](https://github.com/microsoft/SynapseML) - microsoft ![Star](https://img.shields.io/github/stars/microsoft/SynapseML.svg?style=social&label=Star)
+
+	 *Simple and Distributed Machine Learning*
 - [**gpt-llm-trainer**](https://github.com/mshumer/gpt-llm-trainer) - mshumer ![Star](https://img.shields.io/github/stars/mshumer/gpt-llm-trainer.svg?style=social&label=Star)
 
 	 · ([qbitai](https://www.qbitai.com/2023/08/78155.html))

@@ -68,6 +68,10 @@
 	 *A ChatGPT plugin that allows you to load and edit your local files in a controlled way, as well as run any Python, JavaScript, and bash script.*
 
 ## Writing
+- **PEARL: Personalizing Large Language Model Writing Assistants with
+  Generation-Calibrated Retrievers**, `arXiv, 2311.09180`, [arxiv](http://arxiv.org/abs/2311.09180v1), [pdf](http://arxiv.org/pdf/2311.09180v1.pdf), cication: [**-1**](None)
+
+	 *Sheshera Mysore, Zhuoran Lu, Mengting Wan, Longqi Yang, Steve Menezes, Tina Baghaee, Emmanuel Barajas Gonzalez, Jennifer Neville, Tara Safavi*
 - **Can large language models provide useful feedback on research papers? A
   large-scale empirical analysis**, `arXiv, 2310.01783`, [arxiv](http://arxiv.org/abs/2310.01783v1), [pdf](http://arxiv.org/pdf/2310.01783v1.pdf), cication: [**-1**](None)
 
@@ -209,6 +213,9 @@
 	 *Survey: A collection of AWESOME papers and resources on the large language model (LLM) related recommender system topics.*
 
 ## Role play
+- **GRIM: GRaph-based Interactive narrative visualization for gaMes**, `arXiv, 2311.09213`, [arxiv](http://arxiv.org/abs/2311.09213v1), [pdf](http://arxiv.org/pdf/2311.09213v1.pdf), cication: [**-1**](None)
+
+	 *Jorge Leandro, Sudha Rao, Michael Xu, Weijia Xu, Nebosja Jojic, Chris Brockett, Bill Dolan*
 - **ChatAnything: Facetime Chat with LLM-Enhanced Personas**, `arXiv, 2311.06772`, [arxiv](http://arxiv.org/abs/2311.06772v1), [pdf](http://arxiv.org/pdf/2311.06772v1.pdf), cication: [**-1**](None)
 
 	 *Yilin Zhao, Xinbin Yuan, Shanghua Gao, Zhijie Lin, Qibin Hou, Jiashi Feng, Daquan Zhou* · ([chatanything.github](https://chatanything.github.io/))
@@ -313,6 +320,8 @@
   Preliminary Study using GPT-4**, `arXiv, 2311.07361`, [arxiv](http://arxiv.org/abs/2311.07361v1), [pdf](http://arxiv.org/pdf/2311.07361v1.pdf), cication: [**-1**](None)
 
 	 *Microsoft Research AI4Science, Microsoft Azure Quantum*
+
+	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-11-16-3))
 - **Large Language Model for Science: A Study on P vs. NP**, `arXiv, 2309.05689`, [arxiv](http://arxiv.org/abs/2309.05689v1), [pdf](http://arxiv.org/pdf/2309.05689v1.pdf), cication: [**2**](https://scholar.google.com/scholar?cites=10209613850404633620&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Qingxiu Dong, Li Dong, Ke Xu, Guangyan Zhou, Yaru Hao, Zhifang Sui, Furu Wei*

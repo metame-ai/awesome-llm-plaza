@@ -370,6 +370,9 @@
 - [GPT-4V学会用键鼠上网，人类眼睁睁看着它发帖玩游戏 | 量子位](https://www.qbitai.com/2023/11/95456.html)
 
 ## Retrieval agumented generation
+- [**gpt-crawler**](https://github.com/BuilderIO/gpt-crawler) - BuilderIO ![Star](https://img.shields.io/github/stars/BuilderIO/gpt-crawler.svg?style=social&label=Star)
+
+	 *Crawl a site to generate knowledge files to create your own custom GPT from a URL*
 - [**Langchain-Chatchat**](https://github.com/chatchat-space/Langchain-Chatchat) - chatchat-space ![Star](https://img.shields.io/github/stars/chatchat-space/Langchain-Chatchat.svg?style=social&label=Star)
 
 	 *Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM 等语言模型的本地知识库问答 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM) QA app with langchain*
@@ -432,6 +435,12 @@
 	 *OpenAI's Code Interpreter in your terminal, running locally*
 
 ## GPTs
+- [**gpts-works**](https://github.com/all-in-aigc/gpts-works) - all-in-aigc ![Star](https://img.shields.io/github/stars/all-in-aigc/gpts-works.svg?style=social&label=Star)
+
+	 *A Third-party GPTs store*
+- [**gpt-crawler**](https://github.com/BuilderIO/gpt-crawler) - BuilderIO ![Star](https://img.shields.io/github/stars/BuilderIO/gpt-crawler.svg?style=social&label=Star)
+
+	 *Crawl a site to generate knowledge files to create your own custom GPT from a URL*
 - [**Awesome-GPTs**](https://github.com/ai-boost/Awesome-GPTs) - ai-boost ![Star](https://img.shields.io/github/stars/ai-boost/Awesome-GPTs.svg?style=social&label=Star)
 
 	 *Curated list of awesome GPTs 👍.*

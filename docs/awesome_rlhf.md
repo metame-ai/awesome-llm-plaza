@@ -98,6 +98,7 @@
 - [**trl**](https://github.com/huggingface/trl) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/trl.svg?style=social&label=Star)
 
 	 *Train transformer language models with reinforcement learning.*
+- [**tril**](https://github.com/cornell-rl/tril) - cornell-rl ![Star](https://img.shields.io/github/stars/cornell-rl/tril.svg?style=social&label=Star)
 
 ## Other
 - [Fine-tune Llama 2 with DPO](https://huggingface.co/blog/dpo-trl)

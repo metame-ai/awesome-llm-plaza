@@ -10,6 +10,10 @@
 	- [Reference](#reference)
 
 ## Vision
+- **Monkey: Image Resolution and Text Label Are Important Things for Large
+  Multi-modal Models**, `arXiv, 2311.06607`, [arxiv](http://arxiv.org/abs/2311.06607v1), [pdf](http://arxiv.org/pdf/2311.06607v1.pdf), cication: [**-1**](None)
+
+	 *Zhang Li, Biao Yang, Qiang Liu, Zhiyin Ma, Shuo Zhang, Jingxu Yang, Yabo Sun, Yuliang Liu, Xiang Bai* · ([monkey](https://github.com/yuliang-liu/monkey) - yuliang-liu) ![Star](https://img.shields.io/github/stars/yuliang-liu/monkey.svg?style=social&label=Star)
 - **SPHINX: The Joint Mixing of Weights, Tasks, and Visual Embeddings for
   Multi-modal Large Language Models**, `arXiv, 2311.07575`, [arxiv](http://arxiv.org/abs/2311.07575v1), [pdf](http://arxiv.org/pdf/2311.07575v1.pdf), cication: [**-1**](None)
 

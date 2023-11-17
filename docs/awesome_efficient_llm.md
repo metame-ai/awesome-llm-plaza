@@ -17,6 +17,12 @@
 	- [Efficient transformer](#efficient-transformer)
 
 ## Efficient finetuning
+- **Tied-Lora: Enhacing parameter efficiency of LoRA with weight tying**, `arXiv, 2311.09578`, [arxiv](http://arxiv.org/abs/2311.09578v1), [pdf](http://arxiv.org/pdf/2311.09578v1.pdf), cication: [**-1**](None)
+
+	 *Adithya Renduchintala, Tugrul Konuk, Oleksii Kuchaiev*
+- **SiRA: Sparse Mixture of Low Rank Adaptation**, `arXiv, 2311.09179`, [arxiv](http://arxiv.org/abs/2311.09179v1), [pdf](http://arxiv.org/pdf/2311.09179v1.pdf), cication: [**-1**](None)
+
+	 *Yun Zhu, Nevan Wichers, Chu-Cheng Lin, Xinyi Wang, Tianlong Chen, Lei Shu, Han Lu, Canoee Liu, Liangchen Luo, Jindong Chen*
 - **Parameter-Efficient Orthogonal Finetuning via Butterfly Factorization**, `arXiv, 2311.06243`, [arxiv](http://arxiv.org/abs/2311.06243v1), [pdf](http://arxiv.org/pdf/2311.06243v1.pdf), cication: [**-1**](None)
 
 	 *Weiyang Liu, Zeju Qiu, Yao Feng, Yuliang Xiu, Yuxuan Xue, Longhui Yu, Haiwen Feng, Zhen Liu, Juyeon Heo, Songyou Peng* · ([boft.wyliu](https://boft.wyliu.com/))
@@ -53,6 +59,9 @@
 - [**LLaMA-Efficient-Tuning**](https://github.com/hiyouga/LLaMA-Efficient-Tuning) - hiyouga ![Star](https://img.shields.io/github/stars/hiyouga/LLaMA-Efficient-Tuning.svg?style=social&label=Star)
 
 	 *Fine-tuning LLaMA with PEFT (PT+SFT+RLHF with QLoRA)*
+- **InRank: Incremental Low-Rank Learning**, `arXiv, 2306.11250`, [arxiv](http://arxiv.org/abs/2306.11250v1), [pdf](http://arxiv.org/pdf/2306.11250v1.pdf), cication: [**2**](https://scholar.google.com/scholar?cites=11715677115240227852&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Jiawei Zhao, Yifei Zhang, Beidi Chen, Florian Schäfer, Anima Anandkumar* · ([inrank](https://github.com/jiaweizzhao/inrank) - jiaweizzhao) ![Star](https://img.shields.io/github/stars/jiaweizzhao/inrank.svg?style=social&label=Star)
 - **One-for-All: Generalized LoRA for Parameter-Efficient Fine-tuning**, `arXiv,  2306.07967`, [arxiv](http://arxiv.org/abs/2306.07967v2), [pdf](http://arxiv.org/pdf/2306.07967v2.pdf), cication: [**-1**](None)
 
 	 *Arnav Chavan, Zhuang Liu, Deepak Gupta, Eric Xing, Zhiqiang Shen* · ([ViT-Slim](https://github.com/Arnav0400/ViT-Slim/tree/master/GLoRA) - Arnav0400) ![Star](https://img.shields.io/github/stars/Arnav0400/ViT-Slim.svg?style=social&label=Star)
