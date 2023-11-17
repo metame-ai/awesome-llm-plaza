@@ -32,7 +32,9 @@
 
 	 *Llama 2 Everywhere (L2E)* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-07-14))
 	
- - [GitHub - cpacker/MemGPT: Teaching LLMs memory management for unbounded context 📚🦙](https://github.com/cpacker/MemGPT)
+- [**MemGPT**](https://github.com/cpacker/MemGPT) - cpacker ![Star](https://img.shields.io/github/stars/cpacker/MemGPT.svg?style=social&label=Star)
+
+	 *Teaching LLMs memory management for unbounded context 📚🦙*
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-18-4))
 ## Agents
