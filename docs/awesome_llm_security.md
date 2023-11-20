@@ -16,6 +16,9 @@
 - [**Adversarial Attacks on LLMs | Lil'Log**](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/)
 
 ## Papers
+- **Removing RLHF Protections in GPT-4 via Fine-Tuning**, `arXiv, 2311.05553`, [arxiv](http://arxiv.org/abs/2311.05553v2), [pdf](http://arxiv.org/pdf/2311.05553v2.pdf), cication: [**-1**](None)
+
+	 *Qiusi Zhan, Richard Fang, Rohan Bindu, Akul Gupta, Tatsunori Hashimoto, Daniel Kang* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&mid=2247534723&idx=3&sn=5d812e7f65334a9dbbdaf052c21a58ce))
 - **Frontier Language Models are not Robust to Adversarial Arithmetic, or
   "What do I need to say so you agree 2+2=5?**, `arXiv, 2311.07587`, [arxiv](http://arxiv.org/abs/2311.07587v1), [pdf](http://arxiv.org/pdf/2311.07587v1.pdf), cication: [**-1**](None)
 
@@ -69,6 +72,9 @@
 
 	 *Kaijie Zhu, Jindong Wang, Jiaheng Zhou, Zichen Wang, Hao Chen, Yidong Wang, Linyi Yang, Wei Ye, Yue Zhang, Neil Zhenqiang Gong*
 ## Projects
+- [**ai-exploits**](https://github.com/protectai/ai-exploits) - protectai ![Star](https://img.shields.io/github/stars/protectai/ai-exploits.svg?style=social&label=Star)
+
+	 *A collection of real world AI/ML exploits for responsibly disclosed vulnerabilities*
 - [**chatgpt_system_prompt**](https://github.com/LouisShark/chatgpt_system_prompt) - LouisShark ![Star](https://img.shields.io/github/stars/LouisShark/chatgpt_system_prompt.svg?style=social&label=Star)
 
 	 *store all chatgpt's system prompt*

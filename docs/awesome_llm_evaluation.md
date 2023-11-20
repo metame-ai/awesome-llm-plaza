@@ -21,6 +21,14 @@
 	 *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang*
 
 ## Papers
+- **SelfEval: Leveraging the discriminative nature of generative models for
+  evaluation**, `arXiv, 2311.10708`, [arxiv](http://arxiv.org/abs/2311.10708v1), [pdf](http://arxiv.org/pdf/2311.10708v1.pdf), cication: [**-1**](None)
+
+	 *Sai Saketh Rambhatla, Ishan Misra*
+- **Rethinking Benchmark and Contamination for Language Models with
+  Rephrased Samples**, `arXiv, 2311.04850`, [arxiv](http://arxiv.org/abs/2311.04850v2), [pdf](http://arxiv.org/pdf/2311.04850v2.pdf), cication: [**-1**](None)
+
+	 *Shuo Yang, Wei-Lin Chiang, Lianmin Zheng, Joseph E. Gonzalez, Ion Stoica* · ([llm-decontaminator](https://github.com/lm-sys/llm-decontaminator) - lm-sys) ![Star](https://img.shields.io/github/stars/lm-sys/llm-decontaminator.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-11-18-7))
 - **Fusion-Eval: Integrating Evaluators with LLMs**, `arXiv, 2311.09204`, [arxiv](http://arxiv.org/abs/2311.09204v1), [pdf](http://arxiv.org/pdf/2311.09204v1.pdf), cication: [**-1**](None)
 
 	 *Lei Shu, Nevan Wichers, Liangchen Luo, Yun Zhu, Yinxiao Liu, Jindong Chen, Lei Meng*

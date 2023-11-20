@@ -133,7 +133,10 @@
 - [How far are we from AGI?](https://aisupremacy.substack.com/p/how-far-are-we-from-agi)
 
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652366759&idx=2&sn=48422d1a7ffae891ea61108761f4d582))
-## Red teaming
+## Red teaming (safety)
+- **MART: Improving LLM Safety with Multi-round Automatic Red-Teaming**, `arXiv, 2311.07689`, [arxiv](http://arxiv.org/abs/2311.07689v1), [pdf](http://arxiv.org/pdf/2311.07689v1.pdf), cication: [**-1**](None)
+
+	 *Suyu Ge, Chunting Zhou, Rui Hou, Madian Khabsa, Yi-Chia Wang, Qifan Wang, Jiawei Han, Yuning Mao*
 - **Moral Foundations of Large Language Models**, `arXiv, 2310.15337`, [arxiv](http://arxiv.org/abs/2310.15337v1), [pdf](http://arxiv.org/pdf/2310.15337v1.pdf), cication: [**7**](https://scholar.google.com/scholar?cites=2033876937451648547&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Marwa Abdulhai, Gregory Serapio-Garcia, Clément Crepy, Daria Valter, John Canny, Natasha Jaques*
@@ -175,6 +178,9 @@
 
 
 ## LLM detection
+- **Ghostbuster: Detecting Text Ghostwritten by Large Language Models**, `arXiv, 2305.15047`, [arxiv](http://arxiv.org/abs/2305.15047v2), [pdf](http://arxiv.org/pdf/2305.15047v2.pdf), cication: [**6**](https://scholar.google.com/scholar?cites=13263500511172823777&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Vivek Verma, Eve Fleisig, Nicholas Tomlin, Dan Klein* · ([bair.berkeley](https://bair.berkeley.edu/blog/2023/11/14/ghostbuster/))
 - [‘ChatGPT detector’ catches AI-generated papers with unprecedented accuracy](https://www.nature.com/articles/d41586-023-03479-4)
 - **GPT detectors are biased against non-native English writers**, `arXiv, 2304.02819`, [arxiv](http://arxiv.org/abs/2304.02819v3), [pdf](http://arxiv.org/pdf/2304.02819v3.pdf), cication: [**42**](https://scholar.google.com/scholar?cites=517481798147034142&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
@@ -268,6 +274,9 @@
 	 *Must-read Papers on Model Editing.*
 
 ## AGI insights
+- [Role play with large language models | Nature](https://www.nature.com/articles/s41586-023-06647-8)
+
+	 · ([qbitai](https://www.qbitai.com/2023/11/99062.html))
 - **Levels of AGI: Operationalizing Progress on the Path to AGI**, `arXiv, 2311.02462`, [arxiv](http://arxiv.org/abs/2311.02462v1), [pdf](http://arxiv.org/pdf/2311.02462v1.pdf), cication: [**-1**](None)
 
 	 *Meredith Ringel Morris, Jascha Sohl-dickstein, Noah Fiedel, Tris Warkentin, Allan Dafoe, Aleksandra Faust, Clement Farabet, Shane Legg*
@@ -316,3 +325,7 @@
 - [80分鐘快速了解大型語言模型 (5:30 有咒術迴戰雷) - YouTube](https://www.youtube.com/watch?v=wG8-IUtqu-s&t=5s&ab_channel=Hung-yiLee)
 
 ## Extra reference
+- [**how-to-optim-algorithm-in-cuda**](https://github.com/BBuf/how-to-optim-algorithm-in-cuda) - BBuf ![Star](https://img.shields.io/github/stars/BBuf/how-to-optim-algorithm-in-cuda.svg?style=social&label=Star)
+
+	 *how to optimize some algorithm in cuda.*
+- [MLC-LLM 支持RWKV-5推理以及对RWKV-5的一些思考](https://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&mid=2247534749&idx=2&sn=74ee2be683af033e5e39422240ca6e39)

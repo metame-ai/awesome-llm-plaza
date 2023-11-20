@@ -338,6 +338,9 @@
 	 *Tianlu Wang, Ping Yu, Xiaoqing Ellen Tan, Sean O'Brien, Ramakanth Pasunuru, Jane Dwivedi-Yu, Olga Golovneva, Luke Zettlemoyer, Maryam Fazel-Zarandi, Asli Celikyilmaz* · ([shepherd](https://github.com/facebookresearch/shepherd) - facebookresearch) ![Star](https://img.shields.io/github/stars/facebookresearch/shepherd.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652366759&idx=3&sn=f183f4c8080a338c4c9fad0f026b14af))
 
 ## Prompting
+- [**plum**](https://github.com/research4pan/plum) - research4pan ![Star](https://img.shields.io/github/stars/research4pan/plum.svg?style=social&label=Star)
+
+	 *Prompt Learning using Metaheuristics*
 - **Contrastive Chain-of-Thought Prompting**, `arXiv, 2311.09277`, [arxiv](http://arxiv.org/abs/2311.09277v1), [pdf](http://arxiv.org/pdf/2311.09277v1.pdf), cication: [**-1**](None)
 
 	 *Yew Ken Chia, Guizhen Chen, Luu Anh Tuan, Soujanya Poria, Lidong Bing*

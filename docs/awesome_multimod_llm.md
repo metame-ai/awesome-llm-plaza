@@ -10,6 +10,17 @@
 	- [Reference](#reference)
 
 ## Vision
+- **UnifiedVisionGPT: Streamlining Vision-Oriented AI through Generalized
+  Multimodal Framework**, `arXiv, 2311.10125`, [arxiv](http://arxiv.org/abs/2311.10125v1), [pdf](http://arxiv.org/pdf/2311.10125v1.pdf), cication: [**-1**](None)
+
+	 *Chris Kelly, Luhui Hu, Cindy Yang, Yu Tian, Deshun Yang, Bang Yang, Zaoshan Huang, Zihao Li, Yuexian Zou* · ([SA-Segment-Anything](https://github.com/LHBuilder/SA-Segment-Anything) - LHBuilder) ![Star](https://img.shields.io/github/stars/LHBuilder/SA-Segment-Anything.svg?style=social&label=Star)
+- **VideoCon: Robust Video-Language Alignment via Contrast Captions**, `arXiv, 2311.10111`, [arxiv](http://arxiv.org/abs/2311.10111v1), [pdf](http://arxiv.org/pdf/2311.10111v1.pdf), cication: [**-1**](None)
+
+	 *Hritik Bansal, Yonatan Bitton, Idan Szpektor, Kai-Wei Chang, Aditya Grover*
+- **Video-LLaVA: Learning United Visual Representation by Alignment Before
+  Projection**, `arXiv, 2311.10122`, [arxiv](http://arxiv.org/abs/2311.10122v1), [pdf](http://arxiv.org/pdf/2311.10122v1.pdf), cication: [**-1**](None)
+
+	 *Bin Lin, Bin Zhu, Yang Ye, Munan Ning, Peng Jin, Li Yuan*
 - **Monkey: Image Resolution and Text Label Are Important Things for Large
   Multi-modal Models**, `arXiv, 2311.06607`, [arxiv](http://arxiv.org/abs/2311.06607v1), [pdf](http://arxiv.org/pdf/2311.06607v1.pdf), cication: [**-1**](None)
 

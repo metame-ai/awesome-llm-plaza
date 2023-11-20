@@ -92,6 +92,9 @@
 
 	 *Yuntao Bai, Andy Jones, Kamal Ndousse, Amanda Askell, Anna Chen, Nova DasSarma, Dawn Drain, Stanislav Fort, Deep Ganguli, Tom Henighan* · ([hh-rlhf](https://github.com/anthropics/hh-rlhf) - anthropics) ![Star](https://img.shields.io/github/stars/anthropics/hh-rlhf.svg?style=social&label=Star)
 ## Projects
+- [**OpenRLHF**](https://github.com/OpenLLMAI/OpenRLHF) - OpenLLMAI ![Star](https://img.shields.io/github/stars/OpenLLMAI/OpenRLHF.svg?style=social&label=Star)
+
+	 *A Ray-based High-performance RLHF framework (for 7B on RTX4090 and 34B on A100)*
 - [**direct-preference-optimization**](https://github.com/eric-mitchell/direct-preference-optimization) - eric-mitchell ![Star](https://img.shields.io/github/stars/eric-mitchell/direct-preference-optimization.svg?style=social&label=Star)
 
 	 *Reference implementation for DPO (Direct Preference Optimization)*

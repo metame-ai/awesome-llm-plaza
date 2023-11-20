@@ -35,6 +35,7 @@
 - [Navigating the Jagged Technological Frontier: Field Experimental Evidence of the Effects of AI on Knowledge Worker Productivity and Quality](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4573321)
 
 ## Toolkits
+- [**create_llama_projects**](https://github.com/jerryjliu/create_llama_projects) - jerryjliu ![Star](https://img.shields.io/github/stars/jerryjliu/create_llama_projects.svg?style=social&label=Star)
 - [**LLM-As-Chatbot**](https://github.com/deep-diver/LLM-As-Chatbot) - deep-diver ![Star](https://img.shields.io/github/stars/deep-diver/LLM-As-Chatbot.svg?style=social&label=Star)
 
 	 *LLM as a Chatbot Service*
@@ -94,6 +95,12 @@
 	 *Yizhe Zhang, Jiatao Gu, Zhuofeng Wu, Shuangfei Zhai, Josh Susskind, Navdeep Jaitly*
 
 ## WebUI
+- [**make-real-starter**](https://github.com/tldraw/make-real-starter) - tldraw ![Star](https://img.shields.io/github/stars/tldraw/make-real-starter.svg?style=social&label=Star)
+
+	 *Make it real*
+- [**screenshot-to-code**](https://github.com/abi/screenshot-to-code) - abi ![Star](https://img.shields.io/github/stars/abi/screenshot-to-code.svg?style=social&label=Star)
+
+	 *Drop in a screenshot and convert it to clean HTML/Tailwind/JS code*
 - [**ChatGPT-Next-Web**](https://github.com/Yidadaa/ChatGPT-Next-Web) - Yidadaa ![Star](https://img.shields.io/github/stars/Yidadaa/ChatGPT-Next-Web.svg?style=social&label=Star)
 
 	 *A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。*
@@ -228,6 +235,9 @@
 	 *RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models*
 
 ## Chat bots
+- [**SillyTavern**](https://github.com/SillyTavern/SillyTavern) - SillyTavern ![Star](https://img.shields.io/github/stars/SillyTavern/SillyTavern.svg?style=social&label=Star)
+
+	 *LLM Frontend for Power Users.*
 - [**Chat-Haruhi-Suzumiya**](https://github.com/LC1332/Chat-Haruhi-Suzumiya) - LC1332 ![Star](https://img.shields.io/github/stars/LC1332/Chat-Haruhi-Suzumiya.svg?style=social&label=Star)
 
 	 *Chat凉宫春日, 由李鲁鲁, 冷子昂等同学开发的模仿二次元对话的聊天机器人。*
@@ -330,6 +340,10 @@
 	 *Chemcrow*
 
 ## Finance
+- **Technical Report: Large Language Models can Strategically Deceive their
+  Users when Put Under Pressure**, `arXiv, 2311.07590`, [arxiv](http://arxiv.org/abs/2311.07590v1), [pdf](http://arxiv.org/pdf/2311.07590v1.pdf), cication: [**-1**](None)
+
+	 *Jérémy Scheurer, Mikita Balesni, Marius Hobbhahn*
 - [**fingpt**](https://github.com/ai4finance-foundation/fingpt) - ai4finance-foundation ![Star](https://img.shields.io/github/stars/ai4finance-foundation/fingpt.svg?style=social&label=Star)
 
 	 *Data-Centric FinGPT. Open-source for open finance! Revolutionize 🔥 We'll soon release the trained model.*

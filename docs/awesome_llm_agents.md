@@ -372,6 +372,13 @@
 - [GPT-4V学会用键鼠上网，人类眼睁睁看着它发帖玩游戏 | 量子位](https://www.qbitai.com/2023/11/95456.html)
 
 ## Retrieval agumented generation
+- **Chain-of-Note: Enhancing Robustness in Retrieval-Augmented Language
+  Models**, `arXiv, 2311.09210`, [arxiv](http://arxiv.org/abs/2311.09210v1), [pdf](http://arxiv.org/pdf/2311.09210v1.pdf), cication: [**-1**](None)
+
+	 *Wenhao Yu, Hongming Zhang, Xiaoman Pan, Kaixin Ma, Hongwei Wang, Dong Yu*
+- **Learning to Filter Context for Retrieval-Augmented Generation**, `arXiv, 2311.08377`, [arxiv](http://arxiv.org/abs/2311.08377v1), [pdf](http://arxiv.org/pdf/2311.08377v1.pdf), cication: [**-1**](None)
+
+	 *Zhiruo Wang, Jun Araki, Zhengbao Jiang, Md Rizwan Parvez, Graham Neubig* · ([filco](https://github.com/zorazrw/filco) - zorazrw) ![Star](https://img.shields.io/github/stars/zorazrw/filco.svg?style=social&label=Star)
 - [**gpt-crawler**](https://github.com/BuilderIO/gpt-crawler) - BuilderIO ![Star](https://img.shields.io/github/stars/BuilderIO/gpt-crawler.svg?style=social&label=Star)
 
 	 *Crawl a site to generate knowledge files to create your own custom GPT from a URL*
@@ -463,6 +470,9 @@
 - [各路大神献出自定义GPT，24小时Top 9名单在这 | 机器之心](https://www.jiqizhixin.com/articles/2023-11-13-13)
 
 ## Evaluation
+- **Testing Language Model Agents Safely in the Wild**, `arXiv, 2311.10538`, [arxiv](http://arxiv.org/abs/2311.10538v1), [pdf](http://arxiv.org/pdf/2311.10538v1.pdf), cication: [**-1**](None)
+
+	 *Silen Naihin, David Atkinson, Marc Green, Merwane Hamadi, Craig Swift, Douglas Schonholtz, Adam Tauman Kalai, David Bau*
 - **BOLAA: Benchmarking and Orchestrating LLM-augmented Autonomous Agents**, `arXiv, 2308.05960`, [arxiv](http://arxiv.org/abs/2308.05960v1), [pdf](http://arxiv.org/pdf/2308.05960v1.pdf), cication: [**7**](https://scholar.google.com/scholar?cites=7461840210213149264&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Zhiwei Liu, Weiran Yao, Jianguo Zhang, Le Xue, Shelby Heinecke, Rithesh Murthy, Yihao Feng, Zeyuan Chen, Juan Carlos Niebles, Devansh Arpit* · ([BOLAA](https://github.com/salesforce/BOLAA) - salesforce) ![Star](https://img.shields.io/github/stars/salesforce/BOLAA.svg?style=social&label=Star)

@@ -7,6 +7,10 @@
 	- [Reference](#reference)
 
 ## Papers
+- **Distilling and Retrieving Generalizable Knowledge for Robot Manipulation
+  via Language Corrections**, `arXiv, 2311.10678`, [arxiv](http://arxiv.org/abs/2311.10678v1), [pdf](http://arxiv.org/pdf/2311.10678v1.pdf), cication: [**-1**](None)
+
+	 *Lihan Zha, Yuchen Cui, Li-Heng Lin, Minae Kwon, Montserrat Gonzalez Arenas, Andy Zeng, Fei Xia, Dorsa Sadigh*
 - **GOAT: GO to Any Thing**, `arXiv, 2311.06430`, [arxiv](http://arxiv.org/abs/2311.06430v1), [pdf](http://arxiv.org/pdf/2311.06430v1.pdf), cication: [**-1**](None)
 
 	 *Matthew Chang, Theophile Gervet, Mukul Khanna, Sriram Yenamandra, Dhruv Shah, So Yeon Min, Kavit Shah, Chris Paxton, Saurabh Gupta, Dhruv Batra*

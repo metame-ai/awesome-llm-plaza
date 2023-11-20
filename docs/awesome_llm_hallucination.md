@@ -19,7 +19,10 @@
 	 *Cunxiang Wang, Xiaoze Liu, Yuanhao Yue, Xiangru Tang, Tianhang Zhang, Cheng Jiayang, Yunzhi Yao, Wenyang Gao, Xuming Hu, Zehan Qi* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-19-2))
 
 ## Papers
-- [Fetching Title#zvod](https://arxiv.org/abs/2311.07590)
+- **Technical Report: Large Language Models can Strategically Deceive their
+  Users when Put Under Pressure**, `arXiv, 2311.07590`, [arxiv](http://arxiv.org/abs/2311.07590v1), [pdf](http://arxiv.org/pdf/2311.07590v1.pdf), cication: [**-1**](None)
+
+	 *Jérémy Scheurer, Mikita Balesni, Marius Hobbhahn*
 - **Fine-tuning Language Models for Factuality**, `arXiv, 2311.08401`, [arxiv](http://arxiv.org/abs/2311.08401v1), [pdf](http://arxiv.org/pdf/2311.08401v1.pdf), cication: [**-1**](None)
 
 	 *Katherine Tian, Eric Mitchell, Huaxiu Yao, Christopher D. Manning, Chelsea Finn*
