@@ -15,6 +15,12 @@
 
 
 ## Reasoning
+- **System 2 Attention (is something you might need too)**, `arXiv, 2311.11829`, [arxiv](http://arxiv.org/abs/2311.11829v1), [pdf](http://arxiv.org/pdf/2311.11829v1.pdf), cication: [**-1**](None)
+
+	 *Jason Weston, Sainbayar Sukhbaatar*
+- **Orca 2: Teaching Small Language Models How to Reason**, `arXiv, 2311.11045`, [arxiv](http://arxiv.org/abs/2311.11045v1), [pdf](http://arxiv.org/pdf/2311.11045v1.pdf), cication: [**-1**](None)
+
+	 *Arindam Mitra, Luciano Del Corro, Shweti Mahajan, Andres Codas, Clarisse Simoes, Sahaj Agrawal, Xuxi Chen, Anastasia Razdaibiedina, Erik Jones, Kriti Aggarwal*
 - **Thread of Thought Unraveling Chaotic Contexts**, `arXiv, 2311.08734`, [arxiv](http://arxiv.org/abs/2311.08734v1), [pdf](http://arxiv.org/pdf/2311.08734v1.pdf), cication: [**-1**](None)
 
 	 *Yucheng Zhou, Xiubo Geng, Tao Shen, Chongyang Tao, Guodong Long, Jian-Guang Lou, Jianbing Shen*

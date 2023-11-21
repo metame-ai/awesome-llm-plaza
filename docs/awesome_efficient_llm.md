@@ -17,6 +17,9 @@
 	- [Efficient transformer](#efficient-transformer)
 
 ## Efficient finetuning
+- **MultiLoRA: Democratizing LoRA for Better Multi-Task Learning**, `arXiv, 2311.11501`, [arxiv](http://arxiv.org/abs/2311.11501v1), [pdf](http://arxiv.org/pdf/2311.11501v1.pdf), cication: [**-1**](None)
+
+	 *Yiming Wang, Yu Lin, Xiaodong Zeng, Guannan Zhang*
 - **Tied-Lora: Enhacing parameter efficiency of LoRA with weight tying**, `arXiv, 2311.09578`, [arxiv](http://arxiv.org/abs/2311.09578v1), [pdf](http://arxiv.org/pdf/2311.09578v1.pdf), cication: [**-1**](None)
 
 	 *Adithya Renduchintala, Tugrul Konuk, Oleksii Kuchaiev*
@@ -75,6 +78,10 @@
 - [AI and Memory Wall. (This blogpost has been written in… | by Amir Gholami | riselab | Medium](https://medium.com/riselab/ai-and-memory-wall-2cb4265cb0b8)
 
 ### Adapter
+- **Adapters: A Unified Library for Parameter-Efficient and Modular Transfer
+  Learning**, `arXiv, 2311.11077`, [arxiv](http://arxiv.org/abs/2311.11077v1), [pdf](http://arxiv.org/pdf/2311.11077v1.pdf), cication: [**-1**](None)
+
+	 *Clifton Poth, Hannah Sterz, Indraneil Paul, Sukannya Purkayastha, Leon Engländer, Timo Imhof, Ivan Vulić, Sebastian Ruder, Iryna Gurevych, Jonas Pfeiffer* · ([adapterhub](https://adapterhub.ml/adapters))
 - **Cheap and Quick: Efficient Vision-Language Instruction Tuning for Large
   Language Models**, `arXiv, 2305.15023`, [arxiv](http://arxiv.org/abs/2305.15023v3), [pdf](http://arxiv.org/pdf/2305.15023v3.pdf), cication: [**18**](https://scholar.google.com/scholar?cites=4819532122205705554&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
@@ -330,6 +337,9 @@
 	 *DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.*
 
 ## Efficient transformer
+- **Exponentially Faster Language Modelling**, `arXiv, 2311.10770`, [arxiv](http://arxiv.org/abs/2311.10770v1), [pdf](http://arxiv.org/pdf/2311.10770v1.pdf), cication: [**-1**](None)
+
+	 *Peter Belcak, Roger Wattenhofer*
 - **Simplifying Transformer Blocks**, `arXiv, 2311.01906`, [arxiv](http://arxiv.org/abs/2311.01906v1), [pdf](http://arxiv.org/pdf/2311.01906v1.pdf), cication: [**-1**](None)
 
 	 *Bobby He, Thomas Hofmann*

@@ -38,6 +38,13 @@
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-18-4))
 ## Agents
+- **ToolTalk: Evaluating Tool-Usage in a Conversational Setting**, `arXiv, 2311.10775`, [arxiv](http://arxiv.org/abs/2311.10775v1), [pdf](http://arxiv.org/pdf/2311.10775v1.pdf), cication: [**-1**](None)
+
+	 *Nicholas Farn, Richard Shin* · ([ToolTalk](https://github.com/microsoft/ToolTalk) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/ToolTalk.svg?style=social&label=Star)
+- **TPTU-v2: Boosting Task Planning and Tool Usage of Large Language
+  Model-based Agents in Real-world Systems**, `arXiv, 2311.11315`, [arxiv](http://arxiv.org/abs/2311.11315v1), [pdf](http://arxiv.org/pdf/2311.11315v1.pdf), cication: [**-1**](None)
+
+	 *Yilun Kong, Jingqing Ruan, Yihong Chen, Bin Zhang, Tianpeng Bao, Shiwei Shi, Guoqing Du, Xiaoru Hu, Hangyu Mao, Ziyue Li*
 - [**multi-agent-postgres-data-analytics**](https://github.com/disler/multi-agent-postgres-data-analytics) - disler ![Star](https://img.shields.io/github/stars/disler/multi-agent-postgres-data-analytics.svg?style=social&label=Star)
 
 	 *The way we interact with our data is changing.*
@@ -295,6 +302,9 @@
 - [AgentGPT](https://agentgpt.reworkd.ai/)
 
 ## Augmented LLM
+- **Memory Augmented Language Models through Mixture of Word Experts**, `arXiv, 2311.10768`, [arxiv](http://arxiv.org/abs/2311.10768v1), [pdf](http://arxiv.org/pdf/2311.10768v1.pdf), cication: [**-1**](None)
+
+	 *Cicero Nogueira dos Santos, James Lee-Thorp, Isaac Noble, Chung-Ching Chang, David Uthus*
 - **ControlLLM: Augment Language Models with Tools by Searching on Graphs**, `arXiv, 2310.17796`, [arxiv](http://arxiv.org/abs/2310.17796v2), [pdf](http://arxiv.org/pdf/2310.17796v2.pdf), cication: [**-1**](None)
 
 	 *Zhaoyang Liu, Zeqiang Lai, Zhangwei Gao, Erfei Cui, Zhiheng Li, Xizhou Zhu, Lewei Lu, Qifeng Chen, Yu Qiao, Jifeng Dai*

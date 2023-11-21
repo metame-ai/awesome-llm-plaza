@@ -21,6 +21,9 @@
 	 *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang*
 
 ## Papers
+- **GPQA: A Graduate-Level Google-Proof Q&A Benchmark**, `arXiv, 2311.12022`, [arxiv](http://arxiv.org/abs/2311.12022v1), [pdf](http://arxiv.org/pdf/2311.12022v1.pdf), cication: [**-1**](None)
+
+	 *David Rein, Betty Li Hou, Asa Cooper Stickland, Jackson Petty, Richard Yuanzhe Pang, Julien Dirani, Julian Michael, Samuel R. Bowman*
 - **SelfEval: Leveraging the discriminative nature of generative models for
   evaluation**, `arXiv, 2311.10708`, [arxiv](http://arxiv.org/abs/2311.10708v1), [pdf](http://arxiv.org/pdf/2311.10708v1.pdf), cication: [**-1**](None)
 
