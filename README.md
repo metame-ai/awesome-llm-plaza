@@ -1,7 +1,7 @@
 # Awesome LLM plaza ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 Daily tracking of awesome LLM papers, projects, and resources.
-Source: [huggingface daily papers](https://huggingface.co/papers), [twitter(x)](https://twitter.com/_akhaliq?lang=en), [github trending](https://github.com/trending), [paper with code](https://github.com/ml-feeds/pwc-feeds), weixin, etc.
+Source: [huggingface daily papers](https://huggingface.co/papers), [twitter(X)](https://twitter.com/_akhaliq?lang=en), [github trending](https://github.com/trending), [paper with code](https://github.com/ml-feeds/pwc-feeds), weixin, etc.
 
 ---
 
