@@ -12,6 +12,10 @@
 
 
 ## Papers
+- **Black-Box Prompt Optimization: Aligning Large Language Models without
+  Model Training**, `arXiv, 2311.04155`, [arxiv](http://arxiv.org/abs/2311.04155v2), [pdf](http://arxiv.org/pdf/2311.04155v2.pdf), cication: [**-1**](None)
+
+	 *Jiale Cheng, Xiao Liu, Kehan Zheng, Pei Ke, Hongning Wang, Yuxiao Dong, Jie Tang, Minlie Huang* · ([bpo](https://github.com/thu-coai/bpo) - thu-coai) ![Star](https://img.shields.io/github/stars/thu-coai/bpo.svg?style=social&label=Star)
 - **Towards Understanding Sycophancy in Language Models**, `arXiv, 2310.13548`, [arxiv](http://arxiv.org/abs/2310.13548v3), [pdf](http://arxiv.org/pdf/2310.13548v3.pdf), cication: [**-1**](None)
 
 	 *Mrinank Sharma, Meg Tong, Tomasz Korbak, David Duvenaud, Amanda Askell, Samuel R. Bowman, Newton Cheng, Esin Durmus, Zac Hatfield-Dodds, Scott R. Johnston* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-25-4))

@@ -194,6 +194,7 @@
 	 *Sarah J. Zhang, Samuel Florin, Ariel N. Lee, Eamon Niknafs, Andrei Marginean, Annie Wang, Keith Tyser, Zad Chin, Yann Hicke, Nikhil Singh*
 
 ### Other
+- [大模型将如何重塑教育科技？](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495079&idx=1&sn=9de2538e89e13ac6c2de9ef3c9485849&poc_token=HKGfW2Wjxt97Kx-SL9trVy0vcjiIk55sTn_aWI01)
 - [首个大模型教育产品开箱："最聪明"国产大模型加持的学习机，质变了吗 | 量子位](https://www.qbitai.com/2023/08/79632.html)
 
 
@@ -220,6 +221,10 @@
 	 *Survey: A collection of AWESOME papers and resources on the large language model (LLM) related recommender system topics.*
 
 ## Role play
+- **Does Role-Playing Chatbots Capture the Character Personalities?
+  Assessing Personality Traits for Role-Playing Chatbots**, `arXiv, 2310.17976`, [arxiv](http://arxiv.org/abs/2310.17976v2), [pdf](http://arxiv.org/pdf/2310.17976v2.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=16027786210079608892&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Xintao Wang, Quan Tu, Yaying Fei, Ziang Leng, Cheng Li* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI1MjQ2OTQ3Ng==&mid=2247623182&idx=3&sn=fbdd75510a5ffb9312e900aed634897e)) · ([Chat-Haruhi-Suzumiya](https://github.com/LC1332/Chat-Haruhi-Suzumiya) - LC1332) ![Star](https://img.shields.io/github/stars/LC1332/Chat-Haruhi-Suzumiya.svg?style=social&label=Star)
 - **GRIM: GRaph-based Interactive narrative visualization for gaMes**, `arXiv, 2311.09213`, [arxiv](http://arxiv.org/abs/2311.09213v1), [pdf](http://arxiv.org/pdf/2311.09213v1.pdf), cication: [**-1**](None)
 
 	 *Jorge Leandro, Sudha Rao, Michael Xu, Weijia Xu, Nebosja Jojic, Chris Brockett, Bill Dolan*
@@ -293,6 +298,10 @@
 	 *Patrick Fernandes, Daniel Deutsch, Mara Finkelstein, Parker Riley, André F. T. Martins, Graham Neubig, Ankush Garg, Jonathan H. Clark, Markus Freitag, Orhan Firat*
 
 ## Vision
+- **GPT4Motion: Scripting Physical Motions in Text-to-Video Generation via
+  Blender-Oriented GPT Planning**, `arXiv, 2311.12631`, [arxiv](http://arxiv.org/abs/2311.12631v1), [pdf](http://arxiv.org/pdf/2311.12631v1.pdf), cication: [**-1**](None)
+
+	 *Jiaxi Lv, Yi Huang, Mingfu Yan, Jiancheng Huang, Jianzhuang Liu, Yifan Liu, Yafei Wen, Xiaoxin Chen, Shifeng Chen*
 - **MM-VID: Advancing Video Understanding with GPT-4V(ision)**, `arXiv, 2310.19773`, [arxiv](http://arxiv.org/abs/2310.19773v1), [pdf](http://arxiv.org/pdf/2310.19773v1.pdf), cication: [**3**](https://scholar.google.com/scholar?cites=12286689398194122588&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Kevin Lin, Faisal Ahmed, Linjie Li, Chung-Ching Lin, Ehsan Azarnasab, Zhengyuan Yang, Jianfeng Wang, Lin Liang, Zicheng Liu, Yumao Lu* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-11-15-7)) · ([multimodal-vid.github](https://multimodal-vid.github.io))
@@ -523,6 +532,7 @@
 - [顺网科技发布AI引擎"SPICE"以及个人陪伴应用"顺网灵悉" | 量子位](https://www.qbitai.com/2023/07/72178.html)
 
 ## Other
+-[ 大模型badcase修复方案思考](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495163&idx=2&sn=839b561bcc583ae813cffaf2686ad658)
 - [大模型落地应用架构的一种模式](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494829&idx=2&sn=45b033900b589cd960479c1f8c52f287)
 - [领域大模型-训练Trick&落地思考](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494320&idx=2&sn=8edd6ea37bbd73768caa306d9daa2cf7&poc_token=HHnX8GSjlZWMp0JU8WwdwPTmPLYtaqYEMl6TlWkB)
 
