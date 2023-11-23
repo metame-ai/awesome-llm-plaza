@@ -278,6 +278,7 @@
 	 *⚡LLM Zoo is a project that provides data, models, and evaluation benchmark for large language models.⚡*
 
 # Extra reference
+- [LLM Collection | Prompt Engineering Guide](https://www.promptingguide.ai/models/collection)
 - [**open-llms**](https://github.com/eugeneyan/open-llms) - eugeneyan ![Star](https://img.shields.io/github/stars/eugeneyan/open-llms.svg?style=social&label=Star)
 
 	 *📋 A list of open LLMs available for commercial use.*

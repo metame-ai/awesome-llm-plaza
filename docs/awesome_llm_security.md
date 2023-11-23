@@ -16,6 +16,9 @@
 - [**Adversarial Attacks on LLMs | Lil'Log**](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/)
 
 ## Papers
+- **DeepInception: Hypnotize Large Language Model to Be Jailbreaker**, `arXiv, 2311.03191`, [arxiv](http://arxiv.org/abs/2311.03191v1), [pdf](http://arxiv.org/pdf/2311.03191v1.pdf), cication: [**-1**](None)
+
+	 *Xuan Li, Zhanke Zhou, Jianing Zhu, Jiangchao Yao, Tongliang Liu, Bo Han* · ([DeepInception](https://github.com/tmlr-group/DeepInception) - tmlr-group) ![Star](https://img.shields.io/github/stars/tmlr-group/DeepInception.svg?style=social&label=Star) · ([deepinception.github](https://deepinception.github.io/))
 - **Removing RLHF Protections in GPT-4 via Fine-Tuning**, `arXiv, 2311.05553`, [arxiv](http://arxiv.org/abs/2311.05553v2), [pdf](http://arxiv.org/pdf/2311.05553v2.pdf), cication: [**-1**](None)
 
 	 *Qiusi Zhan, Richard Fang, Rohan Bindu, Akul Gupta, Tatsunori Hashimoto, Daniel Kang* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&mid=2247534723&idx=3&sn=5d812e7f65334a9dbbdaf052c21a58ce))

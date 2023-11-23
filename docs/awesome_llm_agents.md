@@ -38,6 +38,10 @@
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-18-4))
 ## Agents
+- **Igniting Language Intelligence: The Hitchhiker's Guide From
+  Chain-of-Thought Reasoning to Language Agents**, `arXiv, 2311.11797`, [arxiv](http://arxiv.org/abs/2311.11797v1), [pdf](http://arxiv.org/pdf/2311.11797v1.pdf), cication: [**-1**](None)
+
+	 *Zhuosheng Zhang, Yao Yao, Aston Zhang, Xiangru Tang, Xinbei Ma, Zhiwei He, Yiming Wang, Mark Gerstein, Rui Wang, Gongshen Liu* · ([CoT-Igniting-Agent](https://github.com/Zoeyyao27/CoT-Igniting-Agent) - Zoeyyao27) ![Star](https://img.shields.io/github/stars/Zoeyyao27/CoT-Igniting-Agent.svg?style=social&label=Star)
 - **ToolTalk: Evaluating Tool-Usage in a Conversational Setting**, `arXiv, 2311.10775`, [arxiv](http://arxiv.org/abs/2311.10775v1), [pdf](http://arxiv.org/pdf/2311.10775v1.pdf), cication: [**-1**](None)
 
 	 *Nicholas Farn, Richard Shin* · ([ToolTalk](https://github.com/microsoft/ToolTalk) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/ToolTalk.svg?style=social&label=Star)
@@ -244,6 +248,7 @@
 	 *Tanmay Gupta, Aniruddha Kembhavi*
 
 ### Other
+- [AI最大赛道Agent机遇全解析](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495167&idx=1&sn=f9151855988a1cc29f01cf8658c23c3f)
 - [Chat 向左，Agent 向右 - 知乎](https://zhuanlan.zhihu.com/p/662704254)
 - [功能超全的AI Agents开源库来了，能写小说，还能当导购、销售 | 机器之心](https://www.jiqizhixin.com/articles/2023-09-21-2)
 - [AI革新之路：14篇AI Agents论文，探讨人工智能未来](https://mp.weixin.qq.com/s?__biz=MzIyMzk1MDE3Nw==&mid=2247609813&idx=2&sn=668922b98c7891b569a78ff4c2a32280)
@@ -454,6 +459,7 @@
 	 *OpenAI's Code Interpreter in your terminal, running locally*
 
 ## GPTs
+- [**GPT-Baker**](https://huggingface.co/spaces/abidlabs/GPT-Baker) - abidlabs 🤗
 - [**gpts-works**](https://github.com/all-in-aigc/gpts-works) - all-in-aigc ![Star](https://img.shields.io/github/stars/all-in-aigc/gpts-works.svg?style=social&label=Star)
 
 	 *A Third-party GPTs store*
@@ -475,11 +481,16 @@
 - [**opengpts**](https://github.com/langchain-ai/opengpts) - langchain-ai ![Star](https://img.shields.io/github/stars/langchain-ai/opengpts.svg?style=social&label=Star)
 
 ### Plugins
-- [GPT-4调用插件40次都没成功，果断放弃，无效调用、拒绝回答时有发生 | 机器之心](https://www.jiqizhixin.com/articles/2023-08-12)
+- [GPT-4调用插件40次都没成功，果断放弃，无效调用、拒绝回答时有发生 | 机器之心](https://www.jiqizhixin.com/articles/2023-08-12)k
 ### Other 
+- [Discover the Best GPTs](https://supertools.therundown.ai/gpts)
+- [AI of the day by SamurAI](https://www.thesamur.ai/ai-of-the-day)
 - [各路大神献出自定义GPT，24小时Top 9名单在这 | 机器之心](https://www.jiqizhixin.com/articles/2023-11-13-13)
 
 ## Evaluation
+- **GAIA: a benchmark for General AI Assistants**, `arXiv, 2311.12983`, [arxiv](http://arxiv.org/abs/2311.12983v1), [pdf](http://arxiv.org/pdf/2311.12983v1.pdf), cication: [**-1**](None)
+
+	 *Grégoire Mialon, Clémentine Fourrier, Craig Swift, Thomas Wolf, Yann LeCun, Thomas Scialom* · ([huggingface](https://huggingface.co/gaia-benchmark))
 - **Testing Language Model Agents Safely in the Wild**, `arXiv, 2311.10538`, [arxiv](http://arxiv.org/abs/2311.10538v1), [pdf](http://arxiv.org/pdf/2311.10538v1.pdf), cication: [**-1**](None)
 
 	 *Silen Naihin, David Atkinson, Marc Green, Merwane Hamadi, Craig Swift, Douglas Schonholtz, Adam Tauman Kalai, David Bau*
@@ -496,6 +507,19 @@
 
 ## Other
 - [Rapidly build an application in Gradio power by a Generative AI Agent | Google Cloud Blog](https://cloud.google.com/blog/products/ai-machine-learning/rapidly-build-an-application-in-gradio-power-by-a-generative-ai-agent)
+
+
+## Vector Database
+- [**awesome-vector-database**](https://github.com/dangkhoasdc/awesome-vector-database) - dangkhoasdc ![Star](https://img.shields.io/github/stars/dangkhoasdc/awesome-vector-database.svg?style=social&label=Star)
+
+	 *A curated list of awesome works related to high dimensional structure/vector search & database*
+- [How to choose your vector database in 2023?](https://www.sicara.fr/blog-technique/how-to-choose-your-vector-database-in-2023)
+
+	 · ([youtube](https://www.youtube.com/watch?v=0g4w3xgLoVE&ab_channel=DVCorg))
+
+### Other
+- [GPT成功背后的秘密--向量数据库简介 - 知乎](https://zhuanlan.zhihu.com/p/627254037)
+- [7个向量数据库对比：Milvus、Pinecone、Vespa、Weaviate、Vald、GSI 和 Qdrant - 墨天轮](https://www.modb.pro/db/516016#:~:text=%E8%BF%99%E7%AF%87%E5%8D%9A%E6%96%87%E6%80%BB%E7%BB%93%E4%BA%86%207,%E4%B8%AA%E5%90%91%20%E9%87%8F%20%E6%95%B0%E6%8D%AE%E5%BA%93%E4%B9%8B%E9%97%B4%E7%9A%84%E5%85%B1%E6%80%A7%E5%92%8C%E5%B7%AE%E5%BC%82%EF%BC%8C%E6%AF%8F%E4%B8%AA%E9%83%BD%E6%8F%90%E4%BE%9B%E5%95%86%E4%B8%9A%E4%BA%91%E6%94%AF%E6%8C%81%E3%80%82)
 
 ## Extra reference
 - [**llm-agent-survey**](https://github.com/paitesanshi/llm-agent-survey) - paitesanshi ![Star](https://img.shields.io/github/stars/paitesanshi/llm-agent-survey.svg?style=social&label=Star)

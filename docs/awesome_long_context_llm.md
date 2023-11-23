@@ -7,8 +7,11 @@
 	- [Other](#other)
 	- [Extra reference](#extra-reference)
 
-
 ## Survey
+- **Advancing Transformer Architecture in Long-Context Large Language
+  Models: A Comprehensive Survey**, `arXiv, 2311.12351`, [arxiv](http://arxiv.org/abs/2311.12351v1), [pdf](http://arxiv.org/pdf/2311.12351v1.pdf), cication: [**-1**](None)
+
+	 *Yunpeng Huang, Jingwei Xu, Zixu Jiang, Junyu Lai, Zenan Li, Yuan Yao, Taolue Chen, Lijuan Yang, Zhou Xin, Xiaoxing Ma* · ([long-llms-learning](https://github.com/Strivin0311/long-llms-learning) - Strivin0311) ![Star](https://img.shields.io/github/stars/Strivin0311/long-llms-learning.svg?style=social&label=Star)
 - [The Transformer Family | Lil'Log](https://lilianweng.github.io/posts/2020-04-07-the-transformer-family/#adaptive-computation-time-act)
 - [The Transformer Family Version 2.0 | Lil'Log](https://lilianweng.github.io/posts/2023-01-27-the-transformer-family-v2/)
 - [Attention? Attention! | Lil'Log](https://lilianweng.github.io/posts/2018-06-24-attention/#a-family-of-attention-mechanisms)
@@ -97,6 +100,9 @@
 - **Augmenting Language Models with Long-Term Memory**, `arXiv, 2306.07174`, [arxiv](http://arxiv.org/abs/2306.07174v1), [pdf](http://arxiv.org/pdf/2306.07174v1.pdf), cication: [**7**](https://scholar.google.com/scholar?cites=10032266285163330345&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Weizhi Wang, Li Dong, Hao Cheng, Xiaodong Liu, Xifeng Yan, Jianfeng Gao, Furu Wei* · ([aka](https://aka.ms/LongMem))
+- **Sequence Parallelism: Long Sequence Training from System Perspective**, `arXiv, 2105.13120`, [arxiv](http://arxiv.org/abs/2105.13120v3), [pdf](http://arxiv.org/pdf/2105.13120v3.pdf), cication: [**2**](https://scholar.google.com/scholar?cites=1387350093305756276&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Shenggui Li, Fuzhao Xue, Chaitanya Baranwal, Yongbin Li, Yang You*
 
 ## Projects
 - [**long-context**](https://github.com/abacusai/long-context) - abacusai ![Star](https://img.shields.io/github/stars/abacusai/long-context.svg?style=social&label=Star)

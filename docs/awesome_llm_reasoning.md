@@ -463,6 +463,7 @@
 	 *Jifan Yu, Xiaozhi Wang, Shangqing Tu, Shulin Cao, Daniel Zhang-Li, Xin Lv, Hao Peng, Zijun Yao, Xiaohan Zhang, Hanming Li*
 
 ## Tutorials
+- [Prompt Engineering Guide | Prompt Engineering Guide](https://www.promptingguide.ai/)
 - [**prompt-engineering-for-developers**](https://github.com/datawhalechina/prompt-engineering-for-developers) - datawhalechina ![Star](https://img.shields.io/github/stars/datawhalechina/prompt-engineering-for-developers.svg?style=social&label=Star)
 
 	 *吴恩达大模型系列课程中文版，包括《Prompt Engineering》、《Building System》和《LangChain》*

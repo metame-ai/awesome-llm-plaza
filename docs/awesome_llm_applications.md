@@ -117,6 +117,7 @@
 
 
 ## Medical
+- [**medagents**](https://github.com/gersteinlab/medagents) - gersteinlab ![Star](https://img.shields.io/github/stars/gersteinlab/medagents.svg?style=social&label=Star)
 - [**disc-medllm**](https://github.com/fudandisc/disc-medllm) - fudandisc ![Star](https://img.shields.io/github/stars/fudandisc/disc-medllm.svg?style=social&label=Star)
 
 	 *Repository of DISC-MedLLM, it is a comprehensive solution that leverages Large Language Models (LLMs) to provide accurate and truthful medical response in end-to-end conversational healthcare services.*

@@ -17,6 +17,7 @@
 	- [Efficient transformer](#efficient-transformer)
 
 ## Efficient finetuning
+- [Practical Tips for Finetuning LLMs Using LoRA (Low-Rank Adaptation)](https://magazine.sebastianraschka.com/p/practical-tips-for-finetuning-llms)
 - **MultiLoRA: Democratizing LoRA for Better Multi-Task Learning**, `arXiv, 2311.11501`, [arxiv](http://arxiv.org/abs/2311.11501v1), [pdf](http://arxiv.org/pdf/2311.11501v1.pdf), cication: [**-1**](None)
 
 	 *Yiming Wang, Yu Lin, Xiaodong Zeng, Guannan Zhang*
@@ -237,6 +238,9 @@
 	 *A simple and effective LLM pruning approach.*
 
 ## Efficient Inference
+- [Break the Sequential Dependency of LLM Inference Using Lookahead Decoding | LMSYS Org](https://lmsys.org/blog/2023-11-21-lookahead-decoding/)
+
+	 · ([LookaheadDecoding](https://github.com/hao-ai-lab/LookaheadDecoding) - hao-ai-lab) ![Star](https://img.shields.io/github/stars/hao-ai-lab/LookaheadDecoding.svg?style=social&label=Star)
 - **FlashDecoding++: Faster Large Language Model Inference on GPUs**, `arXiv, 2311.01282`, [arxiv](http://arxiv.org/abs/2311.01282v3), [pdf](http://arxiv.org/pdf/2311.01282v3.pdf), cication: [**-1**](None)
 
 	 *Ke Hong, Guohao Dai, Jiaming Xu, Qiuli Mao, Xiuhong Li, Jun Liu, Kangdi Chen, Yuhan Dong, Yu Wang*

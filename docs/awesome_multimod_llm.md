@@ -10,10 +10,10 @@
 	- [Reference](#reference)
 
 ## Vision
-- **UnifiedVisionGPT: Streamlining Vision-Oriented AI through Generalized
-  Multimodal Framework**, `arXiv, 2311.10125`, [arxiv](http://arxiv.org/abs/2311.10125v1), [pdf](http://arxiv.org/pdf/2311.10125v1.pdf), cication: [**-1**](None)
+### Video
+- **PG-Video-LLaVA: Pixel Grounding Large Video-Language Models**, `arXiv, 2311.13435`, [arxiv](http://arxiv.org/abs/2311.13435v1), [pdf](http://arxiv.org/pdf/2311.13435v1.pdf), cication: [**-1**](None)
 
-	 *Chris Kelly, Luhui Hu, Cindy Yang, Yu Tian, Deshun Yang, Bang Yang, Zaoshan Huang, Zihao Li, Yuexian Zou* · ([SA-Segment-Anything](https://github.com/LHBuilder/SA-Segment-Anything) - LHBuilder) ![Star](https://img.shields.io/github/stars/LHBuilder/SA-Segment-Anything.svg?style=social&label=Star)
+	 *Shehan Munasinghe, Rusiru Thushara, Muhammad Maaz, Hanoona Abdul Rasheed, Salman Khan, Mubarak Shah, Fahad Khan*
 - **VideoCon: Robust Video-Language Alignment via Contrast Captions**, `arXiv, 2311.10111`, [arxiv](http://arxiv.org/abs/2311.10111v1), [pdf](http://arxiv.org/pdf/2311.10111v1.pdf), cication: [**-1**](None)
 
 	 *Hritik Bansal, Yonatan Bitton, Idan Szpektor, Kai-Wei Chang, Aditya Grover*
@@ -21,6 +21,19 @@
   Projection**, `arXiv, 2311.10122`, [arxiv](http://arxiv.org/abs/2311.10122v1), [pdf](http://arxiv.org/pdf/2311.10122v1.pdf), cication: [**-1**](None)
 
 	 *Bin Lin, Bin Zhu, Yang Ye, Munan Ning, Peng Jin, Li Yuan*
+- **Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video
+  Understanding**, `arXiv, 2306.02858`, [arxiv](http://arxiv.org/abs/2306.02858v4), [pdf](http://arxiv.org/pdf/2306.02858v4.pdf), cication: [**39**](https://scholar.google.com/scholar?cites=243345481669305195&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Hang Zhang, Xin Li, Lidong Bing*
+	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
+### Image
+- **ShareGPT4V: Improving Large Multi-Modal Models with Better Captions**, `arXiv, 2311.12793`, [arxiv](http://arxiv.org/abs/2311.12793v1), [pdf](http://arxiv.org/pdf/2311.12793v1.pdf), cication: [**-1**](None)
+
+	 *Lin Chen, Jisong Li, Xiaoyi Dong, Pan Zhang, Conghui He, Jiaqi Wang, Feng Zhao, Dahua Lin* · ([sharegpt4v.github](https://sharegpt4v.github.io/)) · ([InternLM-XComposer](https://github.com/InternLM/InternLM-XComposer/tree/main/projects/ShareGPT4V) - InternLM) ![Star](https://img.shields.io/github/stars/InternLM/InternLM-XComposer.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/spaces/Lin-Chen/ShareGPT4V-7B))
+- **UnifiedVisionGPT: Streamlining Vision-Oriented AI through Generalized
+  Multimodal Framework**, `arXiv, 2311.10125`, [arxiv](http://arxiv.org/abs/2311.10125v1), [pdf](http://arxiv.org/pdf/2311.10125v1.pdf), cication: [**-1**](None)
+
+	 *Chris Kelly, Luhui Hu, Cindy Yang, Yu Tian, Deshun Yang, Bang Yang, Zaoshan Huang, Zihao Li, Yuexian Zou* · ([SA-Segment-Anything](https://github.com/LHBuilder/SA-Segment-Anything) - LHBuilder) ![Star](https://img.shields.io/github/stars/LHBuilder/SA-Segment-Anything.svg?style=social&label=Star)
 - **Monkey: Image Resolution and Text Label Are Important Things for Large
   Multi-modal Models**, `arXiv, 2311.06607`, [arxiv](http://arxiv.org/abs/2311.06607v1), [pdf](http://arxiv.org/pdf/2311.06607v1.pdf), cication: [**-1**](None)
 
@@ -88,11 +101,7 @@
   Generation and Editing**, `arXiv, 2311.00571`, [arxiv](http://arxiv.org/abs/2311.00571v1), [pdf](http://arxiv.org/pdf/2311.00571v1.pdf), cication: [**-1**](None)
 
 	 *Wei-Ge Chen, Irina Spiridonova, Jianwei Yang, Jianfeng Gao, Chunyuan Li*
-- **Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video
-  Understanding**, `arXiv, 2306.02858`, [arxiv](http://arxiv.org/abs/2306.02858v4), [pdf](http://arxiv.org/pdf/2306.02858v4.pdf), cication: [**39**](https://scholar.google.com/scholar?cites=243345481669305195&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
-	 *Hang Zhang, Xin Li, Lidong Bing*
-	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 - **Multimodal ChatGPT for Medical Applications: an Experimental Study of
   GPT-4V**, `arXiv, 2310.19061`, [arxiv](http://arxiv.org/abs/2310.19061v1), [pdf](http://arxiv.org/pdf/2310.19061v1.pdf), cication: [**-1**](None)
 
@@ -152,7 +161,7 @@
 - **Improved Baselines with Visual Instruction Tuning**, `arXiv, 2310.03744`, [arxiv](http://arxiv.org/abs/2310.03744v1), [pdf](http://arxiv.org/pdf/2310.03744v1.pdf), cication: [**11**](https://scholar.google.com/scholar?cites=3728182044736997490&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Haotian Liu, Chunyuan Li, Yuheng Li, Yong Jae Lee*
-	 · [[mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652387513&idx=1&sn=6ce09815e418582eaa1b4bf5302a6cb9&poc_token=HJs5I2Wj6qIOmBuS1VELumrD9cgAWsWNBRC0g0IE)] · [[llava-vl.github](https://llava-vl.github.io/)]
+	 · [mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652387513&idx=1&sn=6ce09815e418582eaa1b4bf5302a6cb9&poc_token=HJs5I2Wj6qIOmBuS1VELumrD9cgAWsWNBRC0g0IE)] · [[llava-vl.github](https://llava-vl.github.io/)
 - **Investigating the Catastrophic Forgetting in Multimodal Large Language
   Models**, `arXiv, 2309.10313`, [arxiv](http://arxiv.org/abs/2309.10313v3), [pdf](http://arxiv.org/pdf/2309.10313v3.pdf), cication: [**4**](https://scholar.google.com/scholar?cites=13813400105448769431&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
@@ -476,6 +485,9 @@
 - [从零训练一个多模态LLM](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494284&idx=2&sn=f3a4bbc3e1f5f0061e7da945ef7c88f6)
 
 ## Reference
+- [**awesome-foundation-and-multimodal-models**](https://github.com/SkalskiP/awesome-foundation-and-multimodal-models) - SkalskiP ![Star](https://img.shields.io/github/stars/SkalskiP/awesome-foundation-and-multimodal-models.svg?style=social&label=Star)
+
+	 *👁️ + 💬 + 🎧 = 🤖 Curated list of top foundation and multimodal models! [Paper + Code]*
 - [**Awesome-Multimodal-Assistant**](https://github.com/zjr2000/Awesome-Multimodal-Assistant) - zjr2000 ![Star](https://img.shields.io/github/stars/zjr2000/Awesome-Multimodal-Assistant.svg?style=social&label=Star)
 
 	 *Awesome Multimodal Assistant is a curated list of multimodal chatbots/conversational assistants that utilize various modes of interaction, such as text, speech, images, and videos, to provide a seamless and versatile user experience.*

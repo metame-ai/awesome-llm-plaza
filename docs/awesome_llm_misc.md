@@ -321,8 +321,12 @@
 
 
 ## Course & Tutorial
+- [[1hr Talk] Intro to Large Language Models - YouTube](https://www.youtube.com/watch?v=zjkBMFhNj_g&ab_channel=AndrejKarpathy)
+
+	 · ([drive.google](https://drive.google.com/file/d/1pxx_ZI7O-Nwl7ZLNk5hI3WzAsTLwvNU7/view?pli=1)) · ([drive.google](https://drive.google.com/file/d/1FPUpFMiCkMRKPFjhi9MAhby68MHVqe8u/view?pli=1))
 - [ML 2023 Spring](https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php)
 - [80分鐘快速了解大型語言模型 (5:30 有咒術迴戰雷) - YouTube](https://www.youtube.com/watch?v=wG8-IUtqu-s&t=5s&ab_channel=Hung-yiLee)
+- [Stanford CS224N: Natural Language Processing with Deep Learning | 2023 - YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4)
 
 ## Extra reference
 - [**how-to-optim-algorithm-in-cuda**](https://github.com/BBuf/how-to-optim-algorithm-in-cuda) - BBuf ![Star](https://img.shields.io/github/stars/BBuf/how-to-optim-algorithm-in-cuda.svg?style=social&label=Star)
