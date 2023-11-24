@@ -99,6 +99,10 @@
 	 *Xunyu Zhu, Jian Li, Yong Liu, Can Ma, Weiping Wang* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-08-26-5))
 
 ### Papers
+- **LQ-LoRA: Low-rank Plus Quantized Matrix Decomposition for Efficient
+  Language Model Finetuning**, `arXiv, 2311.12023`, [arxiv](http://arxiv.org/abs/2311.12023v1), [pdf](http://arxiv.org/pdf/2311.12023v1.pdf), cication: [**-1**](None)
+
+	 *Han Guo, Philip Greengard, Eric P. Xing, Yoon Kim* · ([lq-lora](https://github.com/hanguo97/lq-lora) - hanguo97) ![Star](https://img.shields.io/github/stars/hanguo97/lq-lora.svg?style=social&label=Star)
 - **QUIK: Towards End-to-End 4-Bit Inference on Generative Large Language
   Models**, `arXiv, 2310.09259`, [arxiv](http://arxiv.org/abs/2310.09259v2), [pdf](http://arxiv.org/pdf/2310.09259v2.pdf), cication: [**-1**](None)
 
@@ -344,6 +348,7 @@
 - **Exponentially Faster Language Modelling**, `arXiv, 2311.10770`, [arxiv](http://arxiv.org/abs/2311.10770v1), [pdf](http://arxiv.org/pdf/2311.10770v1.pdf), cication: [**-1**](None)
 
 	 *Peter Belcak, Roger Wattenhofer*
+	 - [GitHub - pbelcak/UltraFastBERT: The repository for the code of the UltraFastBERT paper](https://github.com/pbelcak/UltraFastBERT)
 - **Simplifying Transformer Blocks**, `arXiv, 2311.01906`, [arxiv](http://arxiv.org/abs/2311.01906v1), [pdf](http://arxiv.org/pdf/2311.01906v1.pdf), cication: [**-1**](None)
 
 	 *Bobby He, Thomas Hofmann*

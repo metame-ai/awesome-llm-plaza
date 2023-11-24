@@ -459,6 +459,7 @@
 	 *OpenAI's Code Interpreter in your terminal, running locally*
 
 ## GPTs
+- [**rags**](https://github.com/run-llama/rags) - run-llama ![Star](https://img.shields.io/github/stars/run-llama/rags.svg?style=social&label=Star)
 - [**GPT-Baker**](https://huggingface.co/spaces/abidlabs/GPT-Baker) - abidlabs 🤗
 - [**gpts-works**](https://github.com/all-in-aigc/gpts-works) - all-in-aigc ![Star](https://img.shields.io/github/stars/all-in-aigc/gpts-works.svg?style=social&label=Star)
 
@@ -483,6 +484,7 @@
 ### Plugins
 - [GPT-4调用插件40次都没成功，果断放弃，无效调用、拒绝回答时有发生 | 机器之心](https://www.jiqizhixin.com/articles/2023-08-12)k
 ### Other 
+- [Featured GPTs | Best Curated Custom GPTs List for your Daily Tasks](https://www.featuredgpts.com/)
 - [Discover the Best GPTs](https://supertools.therundown.ai/gpts)
 - [AI of the day by SamurAI](https://www.thesamur.ai/ai-of-the-day)
 - [各路大神献出自定义GPT，24小时Top 9名单在这 | 机器之心](https://www.jiqizhixin.com/articles/2023-11-13-13)

@@ -238,6 +238,9 @@
 
 	 *Namgyu Ho, Laura Schmid, Se-Young Yun* · ([reasoning-teacher](https://github.com/itsnamgyu/reasoning-teacher) - itsnamgyu) ![Star](https://img.shields.io/github/stars/itsnamgyu/reasoning-teacher.svg?style=social&label=Star)
 
+### Other
+- [大模型Fewshot推理如何选择更好的示例](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495177&idx=2&sn=fe8353efed16a81e35462be06d5a6cea)
+
 ## Math reasoning
 - **LEGO-Prover: Neural Theorem Proving with Growing Libraries**, `arXiv, 2310.00656`, [arxiv](http://arxiv.org/abs/2310.00656v3), [pdf](http://arxiv.org/pdf/2310.00656v3.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=11019300421337297004&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 

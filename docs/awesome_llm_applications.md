@@ -195,6 +195,7 @@
 	 *Sarah J. Zhang, Samuel Florin, Ariel N. Lee, Eamon Niknafs, Andrei Marginean, Annie Wang, Keith Tyser, Zad Chin, Yann Hicke, Nikhil Singh*
 
 ### Other
+- [Paper Brief](https://paperbrief.net/)
 - [大模型将如何重塑教育科技？](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495079&idx=1&sn=9de2538e89e13ac6c2de9ef3c9485849&poc_token=HKGfW2Wjxt97Kx-SL9trVy0vcjiIk55sTn_aWI01)
 - [首个大模型教育产品开箱："最聪明"国产大模型加持的学习机，质变了吗 | 量子位](https://www.qbitai.com/2023/08/79632.html)
 
@@ -524,6 +525,7 @@
 - [AI产生自我意识，「古墓丽影」劳拉觉醒！电子游戏革命来了](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652366159&idx=1&sn=4e2d43b6808138b325e73a86f150ca1f)
 
 ## Products
+- [WhatLetter](https://www.whatletter.com/)
 - [Glide AI | Build and deploy custom AI-powered apps for your business](https://www.glideapps.com/ai)
 - [蚂蚁集团开 “卷” 金融大模型，“四力和一” 解决产业真命题 | 机器之心](https://www.jiqizhixin.com/articles/2023-09-09-4)
 - [全球首个大模型Agent产品爆款出场！动动嘴让PC成为打工人](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652370902&idx=1&sn=1d7939cabeeae5a2260c7b0cf1da6c65)
