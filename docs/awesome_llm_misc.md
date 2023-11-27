@@ -21,6 +21,7 @@
 	- [Extra reference](#extra-reference)
 
 ## Survey
+- [Fetching Title#mvkw](https://cameronrwolfe.substack.com/p/the-history-of-open-source-llms-imitation)
 - [A Survey of Techniques for Maximizing LLM Performance](https://www.youtube.com/watch?v=ahnGLM-RC1Y&ab_channel=OpenAI)
 - [Transformer Taxonomy (the last lit review) | kipply's blog](https://kipp.ly/transformer-taxonomy/?continueFlag=a897a8d0eb16dcae5398f1b58cc5e06f)
 
@@ -199,6 +200,10 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652345558&idx=4&sn=95686435d5cad05d44cbe02bc26d6859))
 
 ## Explanation
+- **White-Box Transformers via Sparse Rate Reduction: Compression Is All
+  There Is?**, `arXiv, 2311.13110`, [arxiv](http://arxiv.org/abs/2311.13110v2), [pdf](http://arxiv.org/pdf/2311.13110v2.pdf), cication: [**-1**](None)
+
+	 *Yaodong Yu, Sam Buchanan, Druv Pai, Tianzhe Chu, Ziyang Wu, Shengbang Tong, Hao Bai, Yuexiang Zhai, Benjamin D. Haeffele, Yi Ma* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652411597&idx=1&sn=a110c3008a6725d424c9baff337cdb16&poc_token=HEt8Y2WjW94eS5ngCe9T1PO8B0ABkk44PoUjOvZj))
 - **Pretraining Data Mixtures Enable Narrow Model Selection Capabilities in
   Transformer Models**, `arXiv, 2311.00871`, [arxiv](http://arxiv.org/abs/2311.00871v1), [pdf](http://arxiv.org/pdf/2311.00871v1.pdf), cication: [**-1**](None)
 

@@ -242,6 +242,9 @@
 	 *A simple and effective LLM pruning approach.*
 
 ## Efficient Inference
+- **PaSS: Parallel Speculative Sampling**, `arXiv, 2311.13581`, [arxiv](http://arxiv.org/abs/2311.13581v1), [pdf](http://arxiv.org/pdf/2311.13581v1.pdf), cication: [**-1**](None)
+
+	 *Giovanni Monea, Armand Joulin, Edouard Grave*
 - [Break the Sequential Dependency of LLM Inference Using Lookahead Decoding | LMSYS Org](https://lmsys.org/blog/2023-11-21-lookahead-decoding/)
 
 	 · ([LookaheadDecoding](https://github.com/hao-ai-lab/LookaheadDecoding) - hao-ai-lab) ![Star](https://img.shields.io/github/stars/hao-ai-lab/LookaheadDecoding.svg?style=social&label=Star)

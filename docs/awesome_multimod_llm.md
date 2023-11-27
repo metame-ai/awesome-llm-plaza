@@ -11,6 +11,10 @@
 
 ## Vision
 ### Video
+- **Mirasol3B: A Multimodal Autoregressive model for time-aligned and
+  contextual modalities**, `arXiv, 2311.05698`, [arxiv](http://arxiv.org/abs/2311.05698v2), [pdf](http://arxiv.org/pdf/2311.05698v2.pdf), cication: [**-1**](None)
+
+	 *AJ Piergiovanni, Isaac Noble, Dahun Kim, Michael S. Ryoo, Victor Gomes, Anelia Angelova*
 - **PG-Video-LLaVA: Pixel Grounding Large Video-Language Models**, `arXiv, 2311.13435`, [arxiv](http://arxiv.org/abs/2311.13435v1), [pdf](http://arxiv.org/pdf/2311.13435v1.pdf), cication: [**-1**](None)
 
 	 *Shehan Munasinghe, Rusiru Thushara, Muhammad Maaz, Hanoona Abdul Rasheed, Salman Khan, Mubarak Shah, Fahad Khan*

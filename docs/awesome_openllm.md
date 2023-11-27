@@ -127,6 +127,9 @@
 	 · ([pythia](https://github.com/EleutherAI/pythia) - EleutherAI) ![Star](https://img.shields.io/github/stars/EleutherAI/pythia.svg?style=social&label=Star)
 
 ### Other
+- [The History of Open-Source LLMs: Imitation and Alignment (Part Three)](https://cameronrwolfe.substack.com/p/the-history-of-open-source-llms-imitation)
+
+	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI1MjQ2OTQ3Ng==&mid=2247623963&idx=1&sn=e4b4be03cf313a55da81384edd8e9283))
 - [**os-llms**](https://huggingface.co/blog/os-llms) - blog 🤗
 - [​A16Z 刚刚官宣支持8个开源人工智能社区](https://mp.weixin.qq.com/s/NdS4uLFq5aKooLBNDJkBfg?poc_token=HAo18GSj4ZMEfny8SxzCNcB19EiSiStV32OiEUJ-)
 - [开源大型语言模型(llm)总结](https://mp.weixin.qq.com/s?__biz=MzI1MjQ2OTQ3Ng==&mid=2247608677&idx=2&sn=55a6b6d710e57527218128efa4107027)

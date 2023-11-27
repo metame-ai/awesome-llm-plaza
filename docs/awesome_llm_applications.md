@@ -525,6 +525,8 @@
 - [AI产生自我意识，「古墓丽影」劳拉觉醒！电子游戏革命来了](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652366159&idx=1&sn=4e2d43b6808138b325e73a86f150ca1f)
 
 ## Products
+- [灵魂拷问：C.ai的终局是什么？会成为平台么？为何国内没有大竞品？。。。](https://mp.weixin.qq.com/s/4jkvS332YPTGdQna3E47Bw)
+- [为什么AI陪伴产品都想抄星野？](https://mp.weixin.qq.com/s/04UNQVMyzv8xyJeyy_J48Q)
 - [WhatLetter](https://www.whatletter.com/)
 - [Glide AI | Build and deploy custom AI-powered apps for your business](https://www.glideapps.com/ai)
 - [蚂蚁集团开 “卷” 金融大模型，“四力和一” 解决产业真命题 | 机器之心](https://www.jiqizhixin.com/articles/2023-09-09-4)

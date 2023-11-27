@@ -33,6 +33,10 @@
 - **Contrastive Preference Learning: Learning from Human Feedback without RL**, `arXiv, 2310.13639`, [arxiv](http://arxiv.org/abs/2310.13639v2), [pdf](http://arxiv.org/pdf/2310.13639v2.pdf), cication: [**-1**](None)
 
 	 *Joey Hejna, Rafael Rafailov, Harshit Sikchi, Chelsea Finn, Scott Niekum, W. Bradley Knox, Dorsa Sadigh*
+- **A General Theoretical Paradigm to Understand Learning from Human
+  Preferences**, `arXiv, 2310.12036`, [arxiv](http://arxiv.org/abs/2310.12036v2), [pdf](http://arxiv.org/pdf/2310.12036v2.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=16028671700226284164&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Mohammad Gheshlaghi Azar, Mark Rowland, Bilal Piot, Daniel Guo, Daniele Calandriello, Michal Valko, Rémi Munos*
 - **Tuna: Instruction Tuning using Feedback from Large Language Models**, `arXiv, 2310.13385`, [arxiv](http://arxiv.org/abs/2310.13385v1), [pdf](http://arxiv.org/pdf/2310.13385v1.pdf), cication: [**-1**](None)
 
 	 *Haoran Li, Yiran Liu, Xingxing Zhang, Wei Lu, Furu Wei*
@@ -91,6 +95,9 @@
   Training**, `arXiv, 2306.01693`, [arxiv](http://arxiv.org/abs/2306.01693v2), [pdf](http://arxiv.org/pdf/2306.01693v2.pdf), cication: [**7**](https://scholar.google.com/scholar?cites=9400790265193597011&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Zeqiu Wu, Yushi Hu, Weijia Shi, Nouha Dziri, Alane Suhr, Prithviraj Ammanabrolu, Noah A. Smith, Mari Ostendorf, Hannaneh Hajishirzi* · ([finegrainedrlhf.github](https://finegrainedrlhf.github.io/)) · ([qbitai](https://www.qbitai.com/2023/06/61691.html))
+- **Let's Verify Step by Step**, `arXiv, 2305.20050`, [arxiv](http://arxiv.org/abs/2305.20050v1), [pdf](http://arxiv.org/pdf/2305.20050v1.pdf), cication: [**76**](https://scholar.google.com/scholar?cites=3594089577812846684&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Hunter Lightman, Vineet Kosaraju, Yura Burda, Harri Edwards, Bowen Baker, Teddy Lee, Jan Leike, John Schulman, Ilya Sutskever, Karl Cobbe*
 - **Training a Helpful and Harmless Assistant with Reinforcement Learning
   from Human Feedback**, `arXiv, 2204.05862`, [arxiv](http://arxiv.org/abs/2204.05862v1), [pdf](http://arxiv.org/pdf/2204.05862v1.pdf), cication: [**109**](https://scholar.google.com/scholar?cites=11199782510491151350&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
@@ -108,6 +115,8 @@
 - [**tril**](https://github.com/cornell-rl/tril) - cornell-rl ![Star](https://img.shields.io/github/stars/cornell-rl/tril.svg?style=social&label=Star)
 
 ## Other
+- [The Q\* hypothesis: Tree-of-thoughts reasoning, process reward models, and supercharging synthetic data](https://www.interconnects.ai/p/q-star)
+- [reverse engineer the Q* fantasy](https://twitter.com/DrJimFan/status/1728100123862004105)
 - [Fine-tune Llama 2 with DPO](https://huggingface.co/blog/dpo-trl)
 - [LLM Training: RLHF and Its Alternatives](https://magazine.sebastianraschka.com/p/llm-training-rlhf-and-its-alternatives)
 

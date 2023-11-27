@@ -459,6 +459,9 @@
 	 *OpenAI's Code Interpreter in your terminal, running locally*
 
 ## GPTs
+- [**GPTs**](https://github.com/linexjlin/GPTs) - linexjlin ![Star](https://img.shields.io/github/stars/linexjlin/GPTs.svg?style=social&label=Star)
+
+	 *leaked prompts of GPTs*
 - [**rags**](https://github.com/run-llama/rags) - run-llama ![Star](https://img.shields.io/github/stars/run-llama/rags.svg?style=social&label=Star)
 - [**GPT-Baker**](https://huggingface.co/spaces/abidlabs/GPT-Baker) - abidlabs 🤗
 - [**gpts-works**](https://github.com/all-in-aigc/gpts-works) - all-in-aigc ![Star](https://img.shields.io/github/stars/all-in-aigc/gpts-works.svg?style=social&label=Star)

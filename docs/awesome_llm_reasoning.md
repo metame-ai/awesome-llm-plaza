@@ -239,6 +239,7 @@
 	 *Namgyu Ho, Laura Schmid, Se-Young Yun* · ([reasoning-teacher](https://github.com/itsnamgyu/reasoning-teacher) - itsnamgyu) ![Star](https://img.shields.io/github/stars/itsnamgyu/reasoning-teacher.svg?style=social&label=Star)
 
 ### Other
+- [Keynote IV: Teaching LLMs to Reason](https://icml.cc/virtual/2023/29160)
 - [大模型Fewshot推理如何选择更好的示例](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495177&idx=2&sn=fe8353efed16a81e35462be06d5a6cea)
 
 ## Math reasoning
@@ -444,6 +445,9 @@
   Language Models**, `arXiv, 2308.00304`, [arxiv](http://arxiv.org/abs/2308.00304v2), [pdf](http://arxiv.org/pdf/2308.00304v2.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=12576437854212500464&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Jiaao Chen, Xiaoman Pan, Dian Yu, Kaiqiang Song, Xiaoyang Wang, Dong Yu, Jianshu Chen*
+- **Large Language Models as General Pattern Machines**, `arXiv, 2307.04721`, [arxiv](http://arxiv.org/abs/2307.04721v2), [pdf](http://arxiv.org/pdf/2307.04721v2.pdf), cication: [**23**](https://scholar.google.com/scholar?cites=9776723022121320548&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Suvir Mirchandani, Fei Xia, Pete Florence, Brian Ichter, Danny Driess, Montserrat Gonzalez Arenas, Kanishka Rao, Dorsa Sadigh, Andy Zeng*
 - **Trained Transformers Learn Linear Models In-Context**, `arXiv, 2306.09927`, [arxiv](http://arxiv.org/abs/2306.09927v3), [pdf](http://arxiv.org/pdf/2306.09927v3.pdf), cication: [**26**](https://scholar.google.com/scholar?cites=9948501466759463012&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Ruiqi Zhang, Spencer Frei, Peter L. Bartlett* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-07-29-3))
