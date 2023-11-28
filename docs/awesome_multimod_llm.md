@@ -482,7 +482,7 @@
 	 *Hugo Laurençon, Lucile Saulnier, Léo Tronchon, Stas Bekman, Amanpreet Singh, Anton Lozhkov, Thomas Wang, Siddharth Karamcheti, Alexander M. Rush, Douwe Kiela*
 
 ## Other
-- [Fetching Title#kw4r](https://blog.roboflow.com/gpt-4-vision-alternatives/)
+- [GPT-4 Vision Alternatives](https://blog.roboflow.com/gpt-4-vision-alternatives/)
 - **Multimodal Neurons in Pretrained Text-Only Transformers**, `ICCV, 2023`, [arxiv](http://arxiv.org/abs/2308.01544v2), [pdf](http://arxiv.org/pdf/2308.01544v2.pdf), cication: [**-1**](None)
 
 	 *Sarah Schwettmann, Neil Chowdhury, Samuel Klein, David Bau, Antonio Torralba*

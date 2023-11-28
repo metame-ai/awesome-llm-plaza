@@ -152,6 +152,7 @@
 
 	 *Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform* · ([huggingface](https://huggingface.co/databricks/dolly-v2-12b)) · ([databricks](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm))
 ### Misc
+- [Starling-7B: Increasing LLM Helpfulness & Harmlessness with RLAIF](https://starling.cs.berkeley.edu/)
 - [**sparse-llama-gsm8k**](https://huggingface.co/spaces/neuralmagic/sparse-llama-gsm8k) - neuralmagic 🤗
 - [**DeciLM-6b**](https://huggingface.co/Deci/DeciLM-6b) - Deci 🤗
 - [**GOAT-7B-Community**](https://huggingface.co/GOAT-AI/GOAT-7B-Community) - GOAT-AI 🤗

@@ -12,6 +12,7 @@
 
 
 ## Papers
+- [Starling-7B: Increasing LLM Helpfulness & Harmlessness with RLAIF](https://starling.cs.berkeley.edu/)
 - **Black-Box Prompt Optimization: Aligning Large Language Models without
   Model Training**, `arXiv, 2311.04155`, [arxiv](http://arxiv.org/abs/2311.04155v2), [pdf](http://arxiv.org/pdf/2311.04155v2.pdf), cication: [**-1**](None)
 

@@ -381,7 +381,10 @@
 	 *WebGLM: An Efficient Web-enhanced Question Answering System (KDD 2023)*
 - [WebArena: A Realistic Web Environment for Building Autonomous Agents](https://webarena.dev/#try-it-yourself)
 
-	 · ([t](https://twitter.com/shuyanzhxyc/status/1683917253597855744))
+	 · ([twitter](https://twitter.com/shuyanzhxyc/status/1683917253597855744))
+- **Query2doc: Query Expansion with Large Language Models**, `arXiv, 2303.07678`, [arxiv](http://arxiv.org/abs/2303.07678v2), [pdf](http://arxiv.org/pdf/2303.07678v2.pdf), cication: [**23**](https://scholar.google.com/scholar?cites=18151428791630750924&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Liang Wang, Nan Yang, Furu Wei* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495205&idx=2&sn=ac64211d4b112ca68b7562ea1e4a5a1f))
 
 ### Other
 - [GPT-4V学会用键鼠上网，人类眼睁睁看着它发帖玩游戏 | 量子位](https://www.qbitai.com/2023/11/95456.html)
@@ -512,6 +515,7 @@
 
 ## Other
 - [Rapidly build an application in Gradio power by a Generative AI Agent | Google Cloud Blog](https://cloud.google.com/blog/products/ai-machine-learning/rapidly-build-an-application-in-gradio-power-by-a-generative-ai-agent)
+- [Agent 将是 AI 最大的赛道！](https://mp.weixin.qq.com/s?__biz=MzIyMzk1MDE3Nw==&mid=2247619501&idx=4&sn=2daf3a6609fb0e73dead22fac0404619)
 
 
 ## Vector Database

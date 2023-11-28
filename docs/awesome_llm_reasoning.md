@@ -15,6 +15,9 @@
 
 
 ## Reasoning
+- **LLMs cannot find reasoning errors, but can correct them!**, `arXiv, 2311.08516`, [arxiv](http://arxiv.org/abs/2311.08516v1), [pdf](http://arxiv.org/pdf/2311.08516v1.pdf), cication: [**-1**](None)
+
+	 *Gladys Tyen, Hassan Mansoor, Peter Chen, Tony Mak, Victor Cărbune* · ([BIG-Bench-Mistake](https://github.com/WHGTyen/BIG-Bench-Mistake) - WHGTyen) ![Star](https://img.shields.io/github/stars/WHGTyen/BIG-Bench-Mistake.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-11-28))
 - **System 2 Attention (is something you might need too)**, `arXiv, 2311.11829`, [arxiv](http://arxiv.org/abs/2311.11829v1), [pdf](http://arxiv.org/pdf/2311.11829v1.pdf), cication: [**-1**](None)
 
 	 *Jason Weston, Sainbayar Sukhbaatar*
@@ -459,6 +462,10 @@
 	 *Xiaochuang Han, Daniel Simig, Todor Mihaylov, Yulia Tsvetkov, Asli Celikyilmaz, Tianlu Wang*
 
 ## Knowledge graph 
+- **Think-on-Graph: Deep and Responsible Reasoning of Large Language Model
+  on Knowledge Graph**, `arXiv, 2307.07697`, [arxiv](http://arxiv.org/abs/2307.07697v5), [pdf](http://arxiv.org/pdf/2307.07697v5.pdf), cication: [**9**](https://scholar.google.com/scholar?cites=17400716338910902015&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Jiashuo Sun, Chengjin Xu, Lumingyuan Tang, Saizhuo Wang, Chen Lin, Yeyun Gong, Lionel M. Ni, Heung-Yeung Shum, Jian Guo* · ([ToG](https://github.com/IDEA-FinAI/ToG) - IDEA-FinAI) ![Star](https://img.shields.io/github/stars/IDEA-FinAI/ToG.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652411844&idx=5&sn=41f06f5d9101904abad348a9128fab96))
 - **Unifying Large Language Models and Knowledge Graphs: A Roadmap**, `arXiv, 2306.08302`, [arxiv](http://arxiv.org/abs/2306.08302v2), [pdf](http://arxiv.org/pdf/2306.08302v2.pdf), cication: [**53**](https://scholar.google.com/scholar?cites=11970242962650523595&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Shirui Pan, Linhao Luo, Yufei Wang, Chen Chen, Jiapu Wang, Xindong Wu*

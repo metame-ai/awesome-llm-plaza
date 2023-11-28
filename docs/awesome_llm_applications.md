@@ -525,6 +525,7 @@
 - [AI产生自我意识，「古墓丽影」劳拉觉醒！电子游戏革命来了](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652366159&idx=1&sn=4e2d43b6808138b325e73a86f150ca1f)
 
 ## Products
+- [万字长文：AI陪伴产品的终极解法?](https://mp.weixin.qq.com/s/WMOhsA6UW37Ov2h4CfIdKg)
 - [灵魂拷问：C.ai的终局是什么？会成为平台么？为何国内没有大竞品？。。。](https://mp.weixin.qq.com/s/4jkvS332YPTGdQna3E47Bw)
 - [为什么AI陪伴产品都想抄星野？](https://mp.weixin.qq.com/s/04UNQVMyzv8xyJeyy_J48Q)
 - [WhatLetter](https://www.whatletter.com/)
@@ -542,3 +543,6 @@
 - [领域大模型-训练Trick&落地思考](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494320&idx=2&sn=8edd6ea37bbd73768caa306d9daa2cf7&poc_token=HHnX8GSjlZWMp0JU8WwdwPTmPLYtaqYEMl6TlWkB)
 
 ## Extra reference
+- [**Awesome-LLMs-in-Graph-tasks**](https://github.com/yhLeeee/Awesome-LLMs-in-Graph-tasks) - yhLeeee ![Star](https://img.shields.io/github/stars/yhLeeee/Awesome-LLMs-in-Graph-tasks.svg?style=social&label=Star)
+
+	 *A curated collection of research papers exploring the utilization of LLMs for graph-related tasks.*

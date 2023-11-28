@@ -21,7 +21,7 @@
 	- [Extra reference](#extra-reference)
 
 ## Survey
-- [Fetching Title#mvkw](https://cameronrwolfe.substack.com/p/the-history-of-open-source-llms-imitation)
+- [The History of Open-Source LLMs: Imitation and Alignment (Part Three)](https://cameronrwolfe.substack.com/p/the-history-of-open-source-llms-imitation)
 - [A Survey of Techniques for Maximizing LLM Performance](https://www.youtube.com/watch?v=ahnGLM-RC1Y&ab_channel=OpenAI)
 - [Transformer Taxonomy (the last lit review) | kipply's blog](https://kipp.ly/transformer-taxonomy/?continueFlag=a897a8d0eb16dcae5398f1b58cc5e06f)
 
