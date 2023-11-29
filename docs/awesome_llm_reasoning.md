@@ -242,6 +242,7 @@
 	 *Namgyu Ho, Laura Schmid, Se-Young Yun* · ([reasoning-teacher](https://github.com/itsnamgyu/reasoning-teacher) - itsnamgyu) ![Star](https://img.shields.io/github/stars/itsnamgyu/reasoning-teacher.svg?style=social&label=Star)
 
 ### Other
+- [陶哲轩支持！AI奥林匹克数学奖来了，奖金500万美元，寻找能得IMO金牌的大模型 | 量子位](https://www.qbitai.com/2023/11/101471.html)
 - [Keynote IV: Teaching LLMs to Reason](https://icml.cc/virtual/2023/29160)
 - [大模型Fewshot推理如何选择更好的示例](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495177&idx=2&sn=fe8353efed16a81e35462be06d5a6cea)
 

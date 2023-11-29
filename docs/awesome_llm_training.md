@@ -130,6 +130,7 @@
 	 *Amanda Askell, Yuntao Bai, Anna Chen, Dawn Drain, Deep Ganguli, Tom Henighan, Andy Jones, Nicholas Joseph, Ben Mann, Nova DasSarma*
 
 ### Other
+- [OpenAI超级对齐负责人Jan Leike：如何破解对齐难题？用可扩展监督](https://mp.weixin.qq.com/s?__biz=MzIyMzk1MDE3Nw==&mid=2247619616&idx=1&sn=fb6bbb82ad3514091fe390e3302834eb)
 - [The History of Open-Source LLMs: Imitation and Alignment (Part Three)](https://cameronrwolfe.substack.com/p/the-history-of-open-source-llms-imitation)
 - [有被混合后的SFT数据伤到](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494859&idx=1&sn=d92a88e6554b86a16e67ec89529916ce)
 - [OpenAI的Superalignment策略：计算为王](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494388&idx=1&sn=ef2dc97c9f05564114b6df6746d16460)

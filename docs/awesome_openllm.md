@@ -177,7 +177,13 @@
 # Mulitlingual (chinese)
 
 ## Foundation
- - [[2311.03301] Ziya2: Data-centric Learning is All LLMs Need](https://arxiv.org/abs/2311.03301)
+- **YUAN 2.0: A Large Language Model with Localized Filtering-based
+  Attention**, `arXiv, 2311.15786`, [arxiv](http://arxiv.org/abs/2311.15786v1), [pdf](http://arxiv.org/pdf/2311.15786v1.pdf), cication: [**-1**](None)
+
+	 *Shaohua Wu, Xudong Zhao, Shenling Wang, Jiangang Luo, Lingjun Li, Xi Chen, Bing Zhao, Wei Wang, Tong Yu, Rongguo Zhang* · ([Yuan-2.0](https://github.com/IEIT-Yuan/Yuan-2.0) - IEIT-Yuan) ![Star](https://img.shields.io/github/stars/IEIT-Yuan/Yuan-2.0.svg?style=social&label=Star)
+- **Ziya2: Data-centric Learning is All LLMs Need**, `arXiv, 2311.03301`, [arxiv](http://arxiv.org/abs/2311.03301v1), [pdf](http://arxiv.org/pdf/2311.03301v1.pdf), cication: [**-1**](None)
+
+	 *Ruyi Gan, Ziwei Wu, Renliang Sun, Junyu Lu, Xiaojun Wu, Dixiang Zhang, Kunhao Pan, Ping Yang, Qi Yang, Jiaxing Zhang*
 
 	 · ([huggingface](https://huggingface.co/IDEA-CCNL/Ziya2-13B-Base))
 - [**Yi**](https://github.com/01-ai/Yi) - 01-ai ![Star](https://img.shields.io/github/stars/01-ai/Yi.svg?style=social&label=Star)

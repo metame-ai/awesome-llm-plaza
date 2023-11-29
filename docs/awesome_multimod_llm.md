@@ -15,6 +15,8 @@
   contextual modalities**, `arXiv, 2311.05698`, [arxiv](http://arxiv.org/abs/2311.05698v2), [pdf](http://arxiv.org/pdf/2311.05698v2.pdf), cication: [**-1**](None)
 
 	 *AJ Piergiovanni, Isaac Noble, Dahun Kim, Michael S. Ryoo, Victor Gomes, Anelia Angelova*
+
+	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-11-28-10))
 - **PG-Video-LLaVA: Pixel Grounding Large Video-Language Models**, `arXiv, 2311.13435`, [arxiv](http://arxiv.org/abs/2311.13435v1), [pdf](http://arxiv.org/pdf/2311.13435v1.pdf), cication: [**-1**](None)
 
 	 *Shehan Munasinghe, Rusiru Thushara, Muhammad Maaz, Hanoona Abdul Rasheed, Salman Khan, Mubarak Shah, Fahad Khan*
@@ -435,6 +437,9 @@
 
 
 ## Projects
+- [**multimodal-maestro**](https://github.com/roboflow/multimodal-maestro) - roboflow ![Star](https://img.shields.io/github/stars/roboflow/multimodal-maestro.svg?style=social&label=Star)
+
+	 *Effective prompting for Large Multimodal Models like GPT-4 Vision or LLaVA. 🔥*
 - [**mic**](https://github.com/haozhezhao/mic) - haozhezhao ![Star](https://img.shields.io/github/stars/haozhezhao/mic.svg?style=social&label=Star)
 
 	 *MMICL, a state-of-the-art VLM with the in context learning ability from ICL, PKU*

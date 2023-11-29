@@ -348,6 +348,9 @@
 	 *DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.*
 
 ## Efficient transformer
+- **Simplifying Transformer Blocks**, `arXiv, 2311.01906`, [arxiv](http://arxiv.org/abs/2311.01906v1), [pdf](http://arxiv.org/pdf/2311.01906v1.pdf), cication: [**-1**](None)
+
+	 *Bobby He, Thomas Hofmann* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-11-28-12))
 - **Exponentially Faster Language Modelling**, `arXiv, 2311.10770`, [arxiv](http://arxiv.org/abs/2311.10770v1), [pdf](http://arxiv.org/pdf/2311.10770v1.pdf), cication: [**-1**](None)
 
 	 *Peter Belcak, Roger Wattenhofer*

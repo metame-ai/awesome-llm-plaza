@@ -304,6 +304,8 @@
   Blender-Oriented GPT Planning**, `arXiv, 2311.12631`, [arxiv](http://arxiv.org/abs/2311.12631v1), [pdf](http://arxiv.org/pdf/2311.12631v1.pdf), cication: [**-1**](None)
 
 	 *Jiaxi Lv, Yi Huang, Mingfu Yan, Jiancheng Huang, Jianzhuang Liu, Yifan Liu, Yafei Wen, Xiaoxin Chen, Shifeng Chen*
+
+	 · ([gpt4motion.github](https://gpt4motion.github.io/)) · ([GPT4Motion](https://github.com/jiaxilv/GPT4Motion) - jiaxilv) ![Star](https://img.shields.io/github/stars/jiaxilv/GPT4Motion.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-11-28-2))
 - **MM-VID: Advancing Video Understanding with GPT-4V(ision)**, `arXiv, 2310.19773`, [arxiv](http://arxiv.org/abs/2310.19773v1), [pdf](http://arxiv.org/pdf/2310.19773v1.pdf), cication: [**3**](https://scholar.google.com/scholar?cites=12286689398194122588&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Kevin Lin, Faisal Ahmed, Linjie Li, Chung-Ching Lin, Ehsan Azarnasab, Zhengyuan Yang, Jianfeng Wang, Lin Liang, Zicheng Liu, Yumao Lu* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-11-15-7)) · ([multimodal-vid.github](https://multimodal-vid.github.io))
