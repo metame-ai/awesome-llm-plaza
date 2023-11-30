@@ -16,6 +16,9 @@
 - [**Adversarial Attacks on LLMs | Lil'Log**](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/)
 
 ## Papers
+- **Scalable AI Safety via Doubly-Efficient Debate**, `arXiv, 2311.14125`, [arxiv](http://arxiv.org/abs/2311.14125v1), [pdf](http://arxiv.org/pdf/2311.14125v1.pdf), cication: [**-1**](None)
+
+	 *Jonah Brown-Cohen, Geoffrey Irving, Georgios Piliouras* · ([debate](https://github.com/google-deepmind/debate) - google-deepmind) ![Star](https://img.shields.io/github/stars/google-deepmind/debate.svg?style=social&label=Star)
 - **DeepInception: Hypnotize Large Language Model to Be Jailbreaker**, `arXiv, 2311.03191`, [arxiv](http://arxiv.org/abs/2311.03191v1), [pdf](http://arxiv.org/pdf/2311.03191v1.pdf), cication: [**-1**](None)
 
 	 *Xuan Li, Zhanke Zhou, Jianing Zhu, Jiangchao Yao, Tongliang Liu, Bo Han* · ([DeepInception](https://github.com/tmlr-group/DeepInception) - tmlr-group) ![Star](https://img.shields.io/github/stars/tmlr-group/DeepInception.svg?style=social&label=Star) · ([deepinception.github](https://deepinception.github.io/))

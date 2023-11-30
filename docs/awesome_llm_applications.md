@@ -196,6 +196,7 @@
 
 ### Other
 - [Paper Brief](https://paperbrief.net/)
+- [Nature｜LLM正在重塑教育，所有学生都需要学习AI，RAG是解决幻觉的关键](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652412307&idx=3&sn=e9c3e1e97e6b83450540cb00ba06a2f0)
 - [大模型将如何重塑教育科技？](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495079&idx=1&sn=9de2538e89e13ac6c2de9ef3c9485849&poc_token=HKGfW2Wjxt97Kx-SL9trVy0vcjiIk55sTn_aWI01)
 - [首个大模型教育产品开箱："最聪明"国产大模型加持的学习机，质变了吗 | 量子位](https://www.qbitai.com/2023/08/79632.html)
 

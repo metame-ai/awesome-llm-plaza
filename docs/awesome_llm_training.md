@@ -240,6 +240,9 @@
 - [模块化大模型来了！IBM公开WastonX核心架构技术细节](https://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&mid=2247522084&idx=3&sn=ceba2b0c3e6434599101f7604ff109c4)
 
 ## Toolkits
+- [**Megatron-LM**](https://github.com/NVIDIA/Megatron-LM) - NVIDIA ![Star](https://img.shields.io/github/stars/NVIDIA/Megatron-LM.svg?style=social&label=Star)
+
+	 *Ongoing research training transformer models at scale*
 - [**saturn**](https://github.com/knagrecha/saturn) - knagrecha ![Star](https://img.shields.io/github/stars/knagrecha/saturn.svg?style=social&label=Star)
 
 	 *Saturn accelerates the training of large-scale deep learning models with a novel joint optimization approach.*

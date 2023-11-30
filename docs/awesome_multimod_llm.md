@@ -11,6 +11,10 @@
 
 ## Vision
 ### Video
+- **Chat-UniVi: Unified Visual Representation Empowers Large Language Models
+  with Image and Video Understanding**, `arXiv, 2311.08046`, [arxiv](http://arxiv.org/abs/2311.08046v1), [pdf](http://arxiv.org/pdf/2311.08046v1.pdf), cication: [**-1**](None)
+
+	 *Peng Jin, Ryuichi Takanobu, Caiwan Zhang, Xiaochun Cao, Li Yuan* · ([Chat-UniVi](https://github.com/PKU-YuanGroup/Chat-UniVi) - PKU-YuanGroup) ![Star](https://img.shields.io/github/stars/PKU-YuanGroup/Chat-UniVi.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/spaces/Chat-UniVi/Chat-UniVi)) · ([qbitai](https://www.qbitai.com/2023/11/101783.html))
 - **Mirasol3B: A Multimodal Autoregressive model for time-aligned and
   contextual modalities**, `arXiv, 2311.05698`, [arxiv](http://arxiv.org/abs/2311.05698v2), [pdf](http://arxiv.org/pdf/2311.05698v2.pdf), cication: [**-1**](None)
 
@@ -464,6 +468,14 @@
 - [**BakLLaVA-1**](https://huggingface.co/SkunkworksAI/BakLLaVA-1) - SkunkworksAI 🤗
 
 ## Benchmarks
+- **MMMU: A Massive Multi-discipline Multimodal Understanding and Reasoning
+  Benchmark for Expert AGI**, `arXiv, 2311.16502`, [arxiv](http://arxiv.org/abs/2311.16502v1), [pdf](http://arxiv.org/pdf/2311.16502v1.pdf), cication: [**-1**](None)
+
+	 *Xiang Yue, Yuansheng Ni, Kai Zhang, Tianyu Zheng, Ruoqi Liu, Ge Zhang, Samuel Stevens, Dongfu Jiang, Weiming Ren, Yuxuan Sun* · ([mmmu-benchmark.github](https://mmmu-benchmark.github.io/)) · ([MMMU](https://github.com/MMMU-Benchmark/MMMU) - MMMU-Benchmark) ![Star](https://img.shields.io/github/stars/MMMU-Benchmark/MMMU.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/datasets/MMMU/MMMU))
+- **Video-Bench: A Comprehensive Benchmark and Toolkit for Evaluating
+  Video-based Large Language Models**, `arXiv, 2311.16103`, [arxiv](http://arxiv.org/abs/2311.16103v2), [pdf](http://arxiv.org/pdf/2311.16103v2.pdf), cication: [**-1**](None)
+
+	 *Munan Ning, Bin Zhu, Yujia Xie, Bin Lin, Jiaxi Cui, Lu Yuan, Dongdong Chen, Li Yuan* · ([video-bench](https://github.com/pku-yuangroup/video-bench) - pku-yuangroup) ![Star](https://img.shields.io/github/stars/pku-yuangroup/video-bench.svg?style=social&label=Star)
 - **SEED-Bench: Benchmarking Multimodal LLMs with Generative Comprehension**, `arXiv, 2307.16125`, [arxiv](http://arxiv.org/abs/2307.16125v2), [pdf](http://arxiv.org/pdf/2307.16125v2.pdf), cication: [**12**](https://scholar.google.com/scholar?cites=16683160716323634121&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Bohao Li, Rui Wang, Guangzhi Wang, Yuying Ge, Yixiao Ge, Ying Shan*
@@ -491,6 +503,7 @@
 - **Multimodal Neurons in Pretrained Text-Only Transformers**, `ICCV, 2023`, [arxiv](http://arxiv.org/abs/2308.01544v2), [pdf](http://arxiv.org/pdf/2308.01544v2.pdf), cication: [**-1**](None)
 
 	 *Sarah Schwettmann, Neil Chowdhury, Samuel Klein, David Bau, Antonio Torralba*
+- [多模态和多模态大模型](https://mp.weixin.qq.com/s?__biz=MzIyMzk1MDE3Nw==&mid=2247619958&idx=1&sn=493798d55e1aa583d103ee10ed04ef55)
 - [中科院自动化所全模态大模型亮相，图文音视频3D传感器信号全能 | 量子位](https://www.qbitai.com/2023/06/61901.html)
 - [从零训练一个多模态LLM](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494284&idx=2&sn=f3a4bbc3e1f5f0061e7da945ef7c88f6)
 

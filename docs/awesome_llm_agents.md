@@ -255,6 +255,7 @@
 - [数字身份智能体的基本原理及应用前景展望](https://mp.weixin.qq.com/s?__biz=MzI1MjQ2OTQ3Ng==&mid=2247611020&idx=1&sn=eeea2012a2bcfe541a138c9a4c42b837)
 
 ## AutoGPT
+- [**self-operating-computer**](https://github.com/OthersideAI/self-operating-computer) - OthersideAI ![Star](https://img.shields.io/github/stars/OthersideAI/self-operating-computer.svg?style=social&label=Star)
 - [**open-interpreter**](https://github.com/KillianLucas/open-interpreter) - KillianLucas ![Star](https://img.shields.io/github/stars/KillianLucas/open-interpreter.svg?style=social&label=Star)
 
 	 *OpenAI's Code Interpreter in your terminal, running locally.*
@@ -515,6 +516,9 @@
 
 ## Other
 - [Rapidly build an application in Gradio power by a Generative AI Agent | Google Cloud Blog](https://cloud.google.com/blog/products/ai-machine-learning/rapidly-build-an-application-in-gradio-power-by-a-generative-ai-agent)
+
+- [首个获得驾照的AI！Agent担任私人助理样样精通，还能帮助考试作弊](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652412307&idx=4&sn=f02fe42f4de8c01cac8c0a719b9966bf)
+- [多智能体(Agents)协作框架：人工智能的下一个方向和挑战](https://mp.weixin.qq.com/s?__biz=MzIyMzk1MDE3Nw==&mid=2247619958&idx=3&sn=8dc113e0eae29f08d1185389588faf8a)
 - [Agent 将是 AI 最大的赛道！](https://mp.weixin.qq.com/s?__biz=MzIyMzk1MDE3Nw==&mid=2247619501&idx=4&sn=2daf3a6609fb0e73dead22fac0404619)
 
 

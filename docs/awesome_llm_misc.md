@@ -279,6 +279,7 @@
 	 *Must-read Papers on Model Editing.*
 
 ## AGI insights
+- [Some intuitions about large language models](https://docs.google.com/presentation/d/1hQUd3pF8_2Gr2Obc89LKjmHL0DlH-uof9M0yFVd3FA4/edit#slide=id.g16197112905_0_0)
 - [Role play with large language models | Nature](https://www.nature.com/articles/s41586-023-06647-8)
 
 	 · ([qbitai](https://www.qbitai.com/2023/11/99062.html))
