@@ -16,6 +16,13 @@
 - [**Adversarial Attacks on LLMs | Lil'Log**](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/)
 
 ## Papers
+- **Scalable and Transferable Black-Box Jailbreaks for Language Models via
+  Persona Modulation**, `arXiv, 2311.03348`, [arxiv](http://arxiv.org/abs/2311.03348v2), [pdf](http://arxiv.org/pdf/2311.03348v2.pdf), cication: [**-1**](None)
+
+	 *Rusheb Shah, Quentin Feuillade--Montixi, Soroush Pour, Arush Tagade, Stephen Casper, Javier Rando*
+- **Scalable Extraction of Training Data from (Production) Language Models**, `arXiv, 2311.17035`, [arxiv](http://arxiv.org/abs/2311.17035v1), [pdf](http://arxiv.org/pdf/2311.17035v1.pdf), cication: [**-1**](None)
+
+	 *Milad Nasr, Nicholas Carlini, Jonathan Hayase, Matthew Jagielski, A. Feder Cooper, Daphne Ippolito, Christopher A. Choquette-Choo, Eric Wallace, Florian Tramèr, Katherine Lee* · ([qbitai](https://www.qbitai.com/2023/11/102130.html))
 - **Scalable AI Safety via Doubly-Efficient Debate**, `arXiv, 2311.14125`, [arxiv](http://arxiv.org/abs/2311.14125v1), [pdf](http://arxiv.org/pdf/2311.14125v1.pdf), cication: [**-1**](None)
 
 	 *Jonah Brown-Cohen, Geoffrey Irving, Georgios Piliouras* · ([debate](https://github.com/google-deepmind/debate) - google-deepmind) ![Star](https://img.shields.io/github/stars/google-deepmind/debate.svg?style=social&label=Star)

@@ -117,6 +117,9 @@
 
 
 ## Medical
+- [**meditron**](https://github.com/epfLLM/meditron) - epfLLM ![Star](https://img.shields.io/github/stars/epfLLM/meditron.svg?style=social&label=Star)
+
+	 *Meditron is a suite of open-source medical Large Language Models (LLMs).*
 - [**medagents**](https://github.com/gersteinlab/medagents) - gersteinlab ![Star](https://img.shields.io/github/stars/gersteinlab/medagents.svg?style=social&label=Star)
 - [**disc-medllm**](https://github.com/fudandisc/disc-medllm) - fudandisc ![Star](https://img.shields.io/github/stars/fudandisc/disc-medllm.svg?style=social&label=Star)
 

@@ -331,6 +331,7 @@
 - [**tvm_mlir_learn**](https://github.com/BBuf/tvm_mlir_learn) - BBuf ![Star](https://img.shields.io/github/stars/BBuf/tvm_mlir_learn.svg?style=social&label=Star)
 
 	 *compiler learning resources collect.* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&mid=2247527916&idx=2&sn=3ea2123d04509704e83486fe8a77ab14))
+- [LLM生成延迟降低50%！DeepSpeed团队发布FastGen：动态SplitFuse技术，提升2.3倍有效吞吐量](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652413447&idx=5&sn=12a0246fd44783e7afc880f7751daa3d)
 - [不用4个H100！340亿参数Code Llama在Mac可跑，每秒20个token，代码生成最拿手](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652371869&idx=3&sn=15310cc5305fa4c19edf318490c2dffc)｜Karpathy转赞
 - [研究完llama.cpp，我发现手机跑大模型竟这么简单 | 机器之心](https://www.jiqizhixin.com/articles/2023-08-17-8)
 
@@ -340,6 +341,12 @@
 	 *Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-05-04)) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-06-05-2))
 
 ## Toolkits
+- [**lit-gpt**](https://github.com/Lightning-AI/lit-gpt) - Lightning-AI ![Star](https://img.shields.io/github/stars/Lightning-AI/lit-gpt.svg?style=social&label=Star)
+
+	 *Hackable implementation of state-of-the-art open-source LLMs based on nanoGPT. Supports flash attention, 4-bit and 8-bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.*
+- [**gpt-fast**](https://github.com/pytorch-labs/gpt-fast) - pytorch-labs ![Star](https://img.shields.io/github/stars/pytorch-labs/gpt-fast.svg?style=social&label=Star)
+
+	 *Simple and efficient pytorch-native transformer text generation in <1000 LOC of python.*
 - [**MS-AMP**](https://github.com/Azure/MS-AMP#ms-amp-microsoft-automatic-mixed-precision) - Azure ![Star](https://img.shields.io/github/stars/Azure/MS-AMP.svg?style=social&label=Star)
 
 	 *Microsoft Automatic Mixed Precision Library*

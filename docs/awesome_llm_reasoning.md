@@ -44,6 +44,10 @@
   Themselves**, `arXiv, 2311.04205`, [arxiv](http://arxiv.org/abs/2311.04205v1), [pdf](http://arxiv.org/pdf/2311.04205v1.pdf), cication: [**-1**](None)
 
 	 *Yihe Deng, Weitong Zhang, Zixiang Chen, Quanquan Gu* · ([Rephrase-and-Respond](https://github.com/uclaml/Rephrase-and-Respond) - uclaml) ![Star](https://img.shields.io/github/stars/uclaml/Rephrase-and-Respond.svg?style=social&label=Star)
+- **Take a Step Back: Evoking Reasoning via Abstraction in Large Language
+  Models**, `arXiv, 2310.06117`, [arxiv](http://arxiv.org/abs/2310.06117v1), [pdf](http://arxiv.org/pdf/2310.06117v1.pdf), cication: [**-1**](None)
+
+	 *Huaixiu Steven Zheng, Swaroop Mishra, Xinyun Chen, Heng-Tze Cheng, Ed H. Chi, Quoc V Le, Denny Zhou*
 - **Learning From Mistakes Makes LLM Better Reasoner**, `arXiv, 2310.20689`, [arxiv](http://arxiv.org/abs/2310.20689v1), [pdf](http://arxiv.org/pdf/2310.20689v1.pdf), cication: [**-1**](None)
 
 	 *Shengnan An, Zexiong Ma, Zeqi Lin, Nanning Zheng, Jian-Guang Lou, Weizhu Chen*

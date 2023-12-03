@@ -218,6 +218,7 @@
 - [**Qwen**](https://github.com/QwenLM/Qwen) - QwenLM ![Star](https://img.shields.io/github/stars/QwenLM/Qwen.svg?style=social&label=Star)
 
 	 *The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.*
+	 - [国产720亿参数开源免费模型来了！对标Llama2 70B，一手实测在此 | 量子位](https://www.qbitai.com/2023/12/102355.html)
 - [**Qwen-7B**](https://github.com/QwenLM/Qwen-7B) - QwenLM ![Star](https://img.shields.io/github/stars/QwenLM/Qwen-7B.svg?style=social&label=Star)
 
 	 *The official repo of Qwen-7B (通义千问-7B) chat & pretrained large language model proposed by Alibaba Cloud.* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494650&idx=1&sn=fbeb1cc57092931966b3e57f8733ed82)) · ([qbitai](https://www.qbitai.com/2023/09/86450.html))
