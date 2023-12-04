@@ -38,6 +38,13 @@
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-18-4))
 ## Agents
+- **Beyond ChatBots: ExploreLLM for Structured Thoughts and Personalized
+  Model Responses**, `arXiv, 2312.00763`, [arxiv](http://arxiv.org/abs/2312.00763v1), [pdf](http://arxiv.org/pdf/2312.00763v1.pdf), cication: [**-1**](None)
+
+	 *Xiao Ma, Swaroop Mishra, Ariel Liu, Sophie Su, Jilin Chen, Chinmay Kulkarni, Heng-Tze Cheng, Quoc Le, Ed Chi*
+- [**taskweaver**](https://github.com/microsoft/taskweaver) - microsoft ![Star](https://img.shields.io/github/stars/microsoft/taskweaver.svg?style=social&label=Star)
+
+	 *A code-first agent framework for seamlessly planning and executing data analytics tasks.*
 - **Igniting Language Intelligence: The Hitchhiker's Guide From
   Chain-of-Thought Reasoning to Language Agents**, `arXiv, 2311.11797`, [arxiv](http://arxiv.org/abs/2311.11797v1), [pdf](http://arxiv.org/pdf/2311.11797v1.pdf), cication: [**-1**](None)
 
@@ -391,6 +398,9 @@
 - [GPT-4V学会用键鼠上网，人类眼睁睁看着它发帖玩游戏 | 量子位](https://www.qbitai.com/2023/11/95456.html)
 
 ## Retrieval agumented generation
+- [**LongContext_vs_RAG_NeedleInAHaystack**](https://github.com/A-Roucher/LongContext_vs_RAG_NeedleInAHaystack) - A-Roucher ![Star](https://img.shields.io/github/stars/A-Roucher/LongContext_vs_RAG_NeedleInAHaystack.svg?style=social&label=Star)
+
+	 *Comparing retrieval abilities from GPT4-Turbo and a RAG system on a toy example for various context lengths*
 - **Chain-of-Note: Enhancing Robustness in Retrieval-Augmented Language
   Models**, `arXiv, 2311.09210`, [arxiv](http://arxiv.org/abs/2311.09210v1), [pdf](http://arxiv.org/pdf/2311.09210v1.pdf), cication: [**-1**](None)
 

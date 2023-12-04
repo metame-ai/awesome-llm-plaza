@@ -55,6 +55,9 @@
 	 *Yufei Wang, Wanjun Zhong, Liangyou Li, Fei Mi, Xingshan Zeng, Wenyong Huang, Lifeng Shang, Xin Jiang, Qun Liu* · ([AlignLLMHumanSurvey](https://github.com/GaryYufei/AlignLLMHumanSurvey) - GaryYufei) ![Star](https://img.shields.io/github/stars/GaryYufei/AlignLLMHumanSurvey.svg?style=social&label=Star)
 
 ### Paper & Projects
+- **Instruction-tuning Aligns LLMs to the Human Brain**, `arXiv, 2312.00575`, [arxiv](http://arxiv.org/abs/2312.00575v1), [pdf](http://arxiv.org/pdf/2312.00575v1.pdf), cication: [**-1**](None)
+
+	 *Khai Loong Aw, Syrielle Montariol, Badr AlKhamissi, Martin Schrimpf, Antoine Bosselut*
 - [**wizardlm**](https://github.com/nlpxucan/wizardlm) - nlpxucan ![Star](https://img.shields.io/github/stars/nlpxucan/wizardlm.svg?style=social&label=Star)
 
 	 *Family of instruction-following LLMs powered by Evol-Instruct: WizardLM, WizardCoder*

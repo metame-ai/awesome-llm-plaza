@@ -9,6 +9,10 @@
 
 
 ## Survey
+- **ChatGPT's One-year Anniversary: Are Open-Source Large Language Models
+  Catching up?**, `arXiv, 2311.16989`, [arxiv](http://arxiv.org/abs/2311.16989v2), [pdf](http://arxiv.org/pdf/2311.16989v2.pdf), cication: [**-1**](None)
+
+	 *Hailin Chen, Fangkai Jiao, Xingxuan Li, Chengwei Qin, Mathieu Ravaut, Ruochen Zhao, Caiming Xiong, Shafiq Joty*
 - **Evaluating Large Language Models: A Comprehensive Survey**, `arXiv, 2310.19736`, [arxiv](http://arxiv.org/abs/2310.19736v2), [pdf](http://arxiv.org/pdf/2310.19736v2.pdf), cication: [**-1**](None)
 
 	 *Zishan Guo, Renren Jin, Chuang Liu, Yufei Huang, Dan Shi, Supryadi, Linhao Yu, Yan Liu, Jiaxuan Li, Bojian Xiong* · ([Awesome-LLMs-Evaluation-Papers](https://github.com/tjunlp-lab/Awesome-LLMs-Evaluation-Papers) - tjunlp-lab) ![Star](https://img.shields.io/github/stars/tjunlp-lab/Awesome-LLMs-Evaluation-Papers.svg?style=social&label=Star)
@@ -214,6 +218,7 @@
 	 *Lianmin Zheng, Wei-Lin Chiang, Ying Sheng, Siyuan Zhuang, Zhanghao Wu, Yonghao Zhuang, Zi Lin, Zhuohan Li, Dacheng Li, Eric. P Xing*
 
 ## Projects
+- [Open LLM Leaderboard: DROP deep dive](https://huggingface.co/blog/leaderboard-drop-dive)
 - [LLM Leaderboard best models ❤️‍🔥 - a open-llm-leaderboard Collection](https://huggingface.co/collections/open-llm-leaderboard/llm-leaderboard-best-models-652d6c7965a4619fb5c27a03)
 - [**opencompass**](https://github.com/InternLM/opencompass) - InternLM ![Star](https://img.shields.io/github/stars/InternLM/opencompass.svg?style=social&label=Star)
 

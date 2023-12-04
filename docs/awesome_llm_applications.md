@@ -117,6 +117,10 @@
 
 
 ## Medical
+- **Can Generalist Foundation Models Outcompete Special-Purpose Tuning? Case
+  Study in Medicine**, `arXiv, 2311.16452`, [arxiv](http://arxiv.org/abs/2311.16452v1), [pdf](http://arxiv.org/pdf/2311.16452v1.pdf), cication: [**-1**](None)
+
+	 *Harsha Nori, Yin Tat Lee, Sheng Zhang, Dean Carignan, Richard Edgar, Nicolo Fusi, Nicholas King, Jonathan Larson, Yuanzhi Li, Weishung Liu*
 - [**meditron**](https://github.com/epfLLM/meditron) - epfLLM ![Star](https://img.shields.io/github/stars/epfLLM/meditron.svg?style=social&label=Star)
 
 	 *Meditron is a suite of open-source medical Large Language Models (LLMs).*
@@ -387,6 +391,9 @@
 	 *Tongshuang Wu, Haiyi Zhu, Maya Albayrak, Alexis Axon, Amanda Bertsch, Wenxing Deng, Ziqi Ding, Bill Guo, Sireesh Gururaja, Tzu-Sheng Kuo*
 
 ## Misc
+- **PoseGPT: Chatting about 3D Human Pose**, `arXiv, 2311.18836`, [arxiv](http://arxiv.org/abs/2311.18836v1), [pdf](http://arxiv.org/pdf/2311.18836v1.pdf), cication: [**-1**](None)
+
+	 *Yao Feng, Jing Lin, Sai Kumar Dwivedi, Yu Sun, Priyanka Patel, Michael J. Black* · ([yfeng95.github](https://yfeng95.github.io/posegpt/))
 - **ChipNeMo: Domain-Adapted LLMs for Chip Design**, `arXiv, 2311.00176`, [arxiv](http://arxiv.org/abs/2311.00176v2), [pdf](http://arxiv.org/pdf/2311.00176v2.pdf), cication: [**-1**](None)
 
 	 *Mingjie Liu, Teodor-Dumitru Ene, Robert Kirby, Chris Cheng, Nathaniel Pinckney, Rongjian Liang, Jonah Alben, Himyanshu Anand, Sanmitra Banerjee, Ismet Bayraktaroglu*

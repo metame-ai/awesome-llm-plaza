@@ -11,6 +11,12 @@
 
 ## Vision
 ### Video
+- **CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any Generation**, `arXiv, 2311.18775`, [arxiv](http://arxiv.org/abs/2311.18775v1), [pdf](http://arxiv.org/pdf/2311.18775v1.pdf), cication: [**-1**](None)
+
+	 *Zineng Tang, Ziyi Yang, Mahmoud Khademi, Yang Liu, Chenguang Zhu, Mohit Bansal* · ([i-Code](https://github.com/microsoft/i-Code/tree/main/CoDi-2) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/i-Code.svg?style=social&label=Star) · ([codi-2.github](https://codi-2.github.io/))
+- **LLaMA-VID: An Image is Worth 2 Tokens in Large Language Models**, `arXiv, 2311.17043`, [arxiv](http://arxiv.org/abs/2311.17043v1), [pdf](http://arxiv.org/pdf/2311.17043v1.pdf), cication: [**-1**](None)
+
+	 *Yanwei Li, Chengyao Wang, Jiaya Jia* · ([llama-vid](https://github.com/dvlab-research/llama-vid) - dvlab-research) ![Star](https://img.shields.io/github/stars/dvlab-research/llama-vid.svg?style=social&label=Star)
 - **Chat-UniVi: Unified Visual Representation Empowers Large Language Models
   with Image and Video Understanding**, `arXiv, 2311.08046`, [arxiv](http://arxiv.org/abs/2311.08046v1), [pdf](http://arxiv.org/pdf/2311.08046v1.pdf), cication: [**-1**](None)
 
@@ -37,6 +43,13 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
+- **Merlin:Empowering Multimodal LLMs with Foresight Minds**, `arXiv, 2312.00589`, [arxiv](http://arxiv.org/abs/2312.00589v1), [pdf](http://arxiv.org/pdf/2312.00589v1.pdf), cication: [**-1**](None)
+
+	 *En Yu, Liang Zhao, Yana Wei, Jinrong Yang, Dongming Wu, Lingyu Kong, Haoran Wei, Tiancai Wang, Zheng Ge, Xiangyu Zhang*
+- **UniIR: Training and Benchmarking Universal Multimodal Information
+  Retrievers**, `arXiv, 2311.17136`, [arxiv](http://arxiv.org/abs/2311.17136v1), [pdf](http://arxiv.org/pdf/2311.17136v1.pdf), cication: [**-1**](None)
+
+	 *Cong Wei, Yang Chen, Haonan Chen, Hexiang Hu, Ge Zhang, Jie Fu, Alan Ritter, Wenhu Chen* · ([UniIR](https://github.com/TIGER-AI-Lab/UniIR) - TIGER-AI-Lab) ![Star](https://img.shields.io/github/stars/TIGER-AI-Lab/UniIR.svg?style=social&label=Star) · ([tiger-ai-lab.github](https://tiger-ai-lab.github.io/UniIR/))
 - **ShareGPT4V: Improving Large Multi-Modal Models with Better Captions**, `arXiv, 2311.12793`, [arxiv](http://arxiv.org/abs/2311.12793v1), [pdf](http://arxiv.org/pdf/2311.12793v1.pdf), cication: [**-1**](None)
 
 	 *Lin Chen, Jisong Li, Xiaoyi Dong, Pan Zhang, Conghui He, Jiaqi Wang, Feng Zhao, Dahua Lin* · ([sharegpt4v.github](https://sharegpt4v.github.io/)) · ([InternLM-XComposer](https://github.com/InternLM/InternLM-XComposer/tree/main/projects/ShareGPT4V) - InternLM) ![Star](https://img.shields.io/github/stars/InternLM/InternLM-XComposer.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/spaces/Lin-Chen/ShareGPT4V-7B))
@@ -415,6 +428,7 @@
 	 *Shaohan Huang, Li Dong, Wenhui Wang, Yaru Hao, Saksham Singhal, Shuming Ma, Tengchao Lv, Lei Cui, Owais Khan Mohammed, Barun Patra*
 
 ## Audio
+
 - **Qwen-Audio: Advancing Universal Audio Understanding via Unified
   Large-Scale Audio-Language Models**, `arXiv, 2311.07919`, [arxiv](http://arxiv.org/abs/2311.07919v1), [pdf](http://arxiv.org/pdf/2311.07919v1.pdf), cication: [**-1**](None)
 
@@ -440,9 +454,14 @@
 - **Prompting Large Language Models with Speech Recognition Abilities**, `arXiv, 2307.11795`, [arxiv](http://arxiv.org/abs/2307.11795v1), [pdf](http://arxiv.org/pdf/2307.11795v1.pdf), cication: [**11**](https://scholar.google.com/scholar?cites=1465389802386940744&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Yassir Fathullah, Chunyang Wu, Egor Lakomkin, Junteng Jia, Yuan Shangguan, Ke Li, Jinxi Guo, Wenhan Xiong, Jay Mahadeokar, Ozlem Kalinli*
+- **Any-to-Any Generation via Composable Diffusion**, `arXiv, 2305.11846`, [arxiv](http://arxiv.org/abs/2305.11846v1), [pdf](http://arxiv.org/pdf/2305.11846v1.pdf), cication: [**-1**](None)
 
+	 *Zineng Tang, Ziyi Yang, Chenguang Zhu, Michael Zeng, Mohit Bansal* · ([codi-gen.github](https://codi-gen.github.io/)) · ([i-Code](https://github.com/microsoft/i-Code/tree/main/i-Code-V3) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/i-Code.svg?style=social&label=Star)
 
 ## Projects
+- [**hermes-llava**](https://github.com/qnguyen3/hermes-llava) - qnguyen3 ![Star](https://img.shields.io/github/stars/qnguyen3/hermes-llava.svg?style=social&label=Star)
+
+	 · ([huggingface](https://huggingface.co/NousResearch/Nous-Hermes-2-Vision-Alpha))
 - [**multimodal-maestro**](https://github.com/roboflow/multimodal-maestro) - roboflow ![Star](https://img.shields.io/github/stars/roboflow/multimodal-maestro.svg?style=social&label=Star)
 
 	 *Effective prompting for Large Multimodal Models like GPT-4 Vision or LLaVA. 🔥*
@@ -501,6 +520,7 @@
 	 *Hugo Laurençon, Lucile Saulnier, Léo Tronchon, Stas Bekman, Amanpreet Singh, Anton Lozhkov, Thomas Wang, Siddharth Karamcheti, Alexander M. Rush, Douwe Kiela*
 
 ## Other
+
 - [GPT-4 Vision Alternatives](https://blog.roboflow.com/gpt-4-vision-alternatives/)
 - **Multimodal Neurons in Pretrained Text-Only Transformers**, `ICCV, 2023`, [arxiv](http://arxiv.org/abs/2308.01544v2), [pdf](http://arxiv.org/pdf/2308.01544v2.pdf), cication: [**-1**](None)
 
