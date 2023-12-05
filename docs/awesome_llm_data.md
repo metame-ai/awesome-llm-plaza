@@ -10,6 +10,11 @@
 	- [Extra reference](#extra-reference)
 
 
+## Survey
+- **Data Management For Large Language Models: A Survey**, `arXiv, 2312.01700`, [arxiv](http://arxiv.org/abs/2312.01700v1), [pdf](http://arxiv.org/pdf/2312.01700v1.pdf), cication: [**-1**](None)
+
+	 *Zige Wang, Wanjun Zhong, Yufei Wang, Qi Zhu, Fei Mi, Baojun Wang, Lifeng Shang, Xin Jiang, Qun Liu*
+
 ## Datasets
 - [**pii-masking-200k**](https://huggingface.co/datasets/ai4privacy/pii-masking-200k) - ai4privacy 🤗
 - [**SlimPajama-627B**](https://huggingface.co/datasets/cerebras/SlimPajama-627B) - cerebras  🤗

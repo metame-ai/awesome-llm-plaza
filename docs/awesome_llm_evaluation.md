@@ -25,6 +25,13 @@
 	 *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang*
 
 ## Papers
+- **Instruction-Following Evaluation for Large Language Models**, `arXiv, 2311.07911`, [arxiv](http://arxiv.org/abs/2311.07911v1), [pdf](http://arxiv.org/pdf/2311.07911v1.pdf), cication: [**-1**](None)
+
+	 *Jeffrey Zhou, Tianjian Lu, Swaroop Mishra, Siddhartha Brahma, Sujoy Basu, Yi Luan, Denny Zhou, Le Hou* · ([google-research](https://github.com/google-research/google-research/tree/master/instruction_following_eval) - google-research) ![Star](https://img.shields.io/github/stars/google-research/google-research.svg?style=social&label=Star)
+- **Unnatural Error Correction: GPT-4 Can Almost Perfectly Handle Unnatural
+  Scrambled Text**, `arXiv, 2311.18805`, [arxiv](http://arxiv.org/abs/2311.18805v1), [pdf](http://arxiv.org/pdf/2311.18805v1.pdf), cication: [**-1**](None)
+
+	 *Qi Cao, Takeshi Kojima, Yutaka Matsuo, Yusuke Iwasawa* · ([qbitai](https://www.qbitai.com/2023/12/103102.html))
 - **GPQA: A Graduate-Level Google-Proof Q&A Benchmark**, `arXiv, 2311.12022`, [arxiv](http://arxiv.org/abs/2311.12022v1), [pdf](http://arxiv.org/pdf/2311.12022v1.pdf), cication: [**-1**](None)
 
 	 *David Rein, Betty Li Hou, Asa Cooper Stickland, Jackson Petty, Richard Yuanzhe Pang, Julien Dirani, Julian Michael, Samuel R. Bowman*

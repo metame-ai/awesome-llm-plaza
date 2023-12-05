@@ -116,6 +116,7 @@
 - [**tril**](https://github.com/cornell-rl/tril) - cornell-rl ![Star](https://img.shields.io/github/stars/cornell-rl/tril.svg?style=social&label=Star)
 
 ## Other
+- [**6bff0fecd65950898eba1bb321cfbd81**](https://gist.github.com/yoavg/6bff0fecd65950898eba1bb321cfbd81) - yoavg ![Star](https://img.shields.io/github/stars/yoavg/6bff0fecd65950898eba1bb321cfbd81.svg?style=social&label=Star)
 - [The Q\* hypothesis: Tree-of-thoughts reasoning, process reward models, and supercharging synthetic data](https://www.interconnects.ai/p/q-star)
 - [reverse engineer the Q* fantasy](https://twitter.com/DrJimFan/status/1728100123862004105)
 - [Fine-tune Llama 2 with DPO](https://huggingface.co/blog/dpo-trl)

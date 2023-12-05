@@ -11,6 +11,8 @@
   Demonstration**, `arXiv, 2311.12015`, [arxiv](http://arxiv.org/abs/2311.12015v1), [pdf](http://arxiv.org/pdf/2311.12015v1.pdf), cication: [**-1**](None)
 
 	 *Naoki Wake, Atsushi Kanehira, Kazuhiro Sasabuchi, Jun Takamatsu, Katsushi Ikeuchi* · ([microsoft.github](https://microsoft.github.io/GPT4Vision-Robot-Manipulation-Prompts))
+
+	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-12-04-3))
 - **Distilling and Retrieving Generalizable Knowledge for Robot Manipulation
   via Language Corrections**, `arXiv, 2311.10678`, [arxiv](http://arxiv.org/abs/2311.10678v1), [pdf](http://arxiv.org/pdf/2311.10678v1.pdf), cication: [**-1**](None)
 

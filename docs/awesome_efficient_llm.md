@@ -16,8 +16,15 @@
 	- [Toolkits](#toolkits)
 	- [Efficient transformer](#efficient-transformer)
 
+## Survey
+- **The Efficiency Spectrum of Large Language Models: An Algorithmic Survey**, `arXiv, 2312.00678`, [arxiv](http://arxiv.org/abs/2312.00678v1), [pdf](http://arxiv.org/pdf/2312.00678v1.pdf), cication: [**-1**](None)
+
+	 *Tianyu Ding, Tianyi Chen, Haidong Zhu, Jiachen Jiang, Yiqi Zhong, Jinxin Zhou, Guangzhi Wang, Zhihui Zhu, Ilya Zharkov, Luming Liang*
+
 ## Efficient finetuning
-- [Practical Tips for Finetuning LLMs Using LoRA (Low-Rank Adaptation)](https://magazine.sebastianraschka.com/p/practical-tips-for-finetuning-llms)
+- [Practical Tips for Finetuning LLMs Using LoRA (Low-Rank Adaptation)](https://magazine.sebastianraschka.com/p/practical-tips-for-finetuning-llms?continueFlag=0c2e38ff6893fba31f1492d815bf928b)
+
+	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-12-04-14))
 - **MultiLoRA: Democratizing LoRA for Better Multi-Task Learning**, `arXiv, 2311.11501`, [arxiv](http://arxiv.org/abs/2311.11501v1), [pdf](http://arxiv.org/pdf/2311.11501v1.pdf), cication: [**-1**](None)
 
 	 *Yiming Wang, Yu Lin, Xiaodong Zeng, Guannan Zhang*
@@ -200,6 +207,9 @@
 - [Quantization](https://huggingface.co/docs/accelerate/usage_guides/quantization)
 
 ## Distillation
+- **Initializing Models with Larger Ones**, `arXiv, 2311.18823`, [arxiv](http://arxiv.org/abs/2311.18823v1), [pdf](http://arxiv.org/pdf/2311.18823v1.pdf), cication: [**-1**](None)
+
+	 *Zhiqiu Xu, Yanjie Chen, Kirill Vishniakov, Yida Yin, Zhiqiang Shen, Trevor Darrell, Lingjie Liu, Zhuang Liu* · ([weight-selection](https://github.com/oscarxzq/weight-selection) - oscarxzq) ![Star](https://img.shields.io/github/stars/oscarxzq/weight-selection.svg?style=social&label=Star)
 - **Tailoring Self-Rationalizers with Multi-Reward Distillation**, `arXiv, 2311.02805`, [arxiv](http://arxiv.org/abs/2311.02805v1), [pdf](http://arxiv.org/pdf/2311.02805v1.pdf), cication: [**-1**](None)
 
 	 *Sahana Ramnath, Brihi Joshi, Skyler Hallinan, Ximing Lu, Liunian Harold Li, Aaron Chan, Jack Hessel, Yejin Choi, Xiang Ren*
@@ -359,6 +369,9 @@
 	 *DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.*
 
 ## Efficient transformer
+- **Mamba: Linear-Time Sequence Modeling with Selective State Spaces**, `arXiv, 2312.00752`, [arxiv](http://arxiv.org/abs/2312.00752v1), [pdf](http://arxiv.org/pdf/2312.00752v1.pdf), cication: [**-1**](None)
+
+	 *Albert Gu, Tri Dao* · ([qbitai](https://www.qbitai.com/2023/12/103440.html))
 - **Simplifying Transformer Blocks**, `arXiv, 2311.01906`, [arxiv](http://arxiv.org/abs/2311.01906v1), [pdf](http://arxiv.org/pdf/2311.01906v1.pdf), cication: [**-1**](None)
 
 	 *Bobby He, Thomas Hofmann* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-11-28-12))
@@ -382,6 +395,8 @@
 
 	 · ([zhuanlan.zhihu](https://zhuanlan.zhihu.com/p/634236135))
 
+##  Other
+- [Dynamic LoRA loading for better performance and optimized resource usage](https://huggingface.co/blog/lora-adapters-dynamic-loading)
 ## Courses
 ### EfficientML
 - [EfficientML.ai Lecture, Fall 2023, MIT 6.5940 - YouTube](https://www.youtube.com/playlist?list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB)

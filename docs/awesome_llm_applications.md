@@ -128,6 +128,10 @@
 - [**disc-medllm**](https://github.com/fudandisc/disc-medllm) - fudandisc ![Star](https://img.shields.io/github/stars/fudandisc/disc-medllm.svg?style=social&label=Star)
 
 	 *Repository of DISC-MedLLM, it is a comprehensive solution that leverages Large Language Models (LLMs) to provide accurate and truthful medical response in end-to-end conversational healthcare services.*
+- **Towards Generalist Foundation Model for Radiology by Leveraging
+  Web-scale 2D&3D Medical Data**, `arXiv, 2308.02463`, [arxiv](http://arxiv.org/abs/2308.02463v5), [pdf](http://arxiv.org/pdf/2308.02463v5.pdf), cication: [**-1**](None)
+
+	 *Chaoyi Wu, Xiaoman Zhang, Ya Zhang, Yanfeng Wang, Weidi Xie* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-12-04-12))
 - **LLaVA-Med: Training a Large Language-and-Vision Assistant for
   Biomedicine in One Day**, `arXiv, 2306.00890`, [arxiv](http://arxiv.org/abs/2306.00890v1), [pdf](http://arxiv.org/pdf/2306.00890v1.pdf), cication: [**34**](https://scholar.google.com/scholar?cites=17907075843876440465&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
@@ -250,6 +254,9 @@
 	 *RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models*
 
 ## Chat bots
+- [**core**](https://github.com/cheshire-cat-ai/core) - cheshire-cat-ai ![Star](https://img.shields.io/github/stars/cheshire-cat-ai/core.svg?style=social&label=Star)
+
+	 *Production ready AI assistant framework*
 - [**SillyTavern**](https://github.com/SillyTavern/SillyTavern) - SillyTavern ![Star](https://img.shields.io/github/stars/SillyTavern/SillyTavern.svg?style=social&label=Star)
 
 	 *LLM Frontend for Power Users.*

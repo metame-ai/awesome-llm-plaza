@@ -43,6 +43,23 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
+- [[2311.16922] Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding](https://arxiv.org/abs/2311.16922)
+
+	 · ([VCD](https://github.com/DAMO-NLP-SG/VCD) - DAMO-NLP-SG) ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/VCD.svg?style=social&label=Star)
+- **ChartLlama: A Multimodal LLM for Chart Understanding and Generation**, `arXiv, 2311.16483`, [arxiv](http://arxiv.org/abs/2311.16483v1), [pdf](http://arxiv.org/pdf/2311.16483v1.pdf), cication: [**-1**](None)
+
+	 *Yucheng Han, Chi Zhang, Xin Chen, Xu Yang, Zhibin Wang, Gang Yu, Bin Fu, Hanwang Zhang* · ([tingxueronghua.github](https://tingxueronghua.github.io/ChartLlama/)) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-12-04-2))
+- **LION : Empowering Multimodal Large Language Model with Dual-Level Visual
+  Knowledge**, `arXiv, 2311.11860`, [arxiv](http://arxiv.org/abs/2311.11860v2), [pdf](http://arxiv.org/pdf/2311.11860v2.pdf), cication: [**-1**](None)
+
+	 *Gongwei Chen, Leyang Shen, Rui Shao, Xiang Deng, Liqiang Nie* · ([JiuTian](https://github.com/rshaojimmy/JiuTian) - rshaojimmy) ![Star](https://img.shields.io/github/stars/rshaojimmy/JiuTian.svg?style=social&label=Star) · ([rshaojimmy.github](https://rshaojimmy.github.io/Projects/JiuTian-LION)) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652414572&idx=5&sn=112bf60707fade37ef1b46a1239a126b))
+- **GPT4Vis: What Can GPT-4 Do for Zero-shot Visual Recognition?**, `arXiv, 2311.15732`, [arxiv](http://arxiv.org/abs/2311.15732v1), [pdf](http://arxiv.org/pdf/2311.15732v1.pdf), cication: [**-1**](None)
+
+	 *Wenhao Wu, Huanjin Yao, Mengxi Zhang, Yuxin Song, Wanli Ouyang, Jingdong Wang* · ([GPT4Vis](https://github.com/whwu95/GPT4Vis) - whwu95) ![Star](https://img.shields.io/github/stars/whwu95/GPT4Vis.svg?style=social&label=Star)
+- **DocPedia: Unleashing the Power of Large Multimodal Model in the
+  Frequency Domain for Versatile Document Understanding**, `arXiv, 2311.11810`, [arxiv](http://arxiv.org/abs/2311.11810v3), [pdf](http://arxiv.org/pdf/2311.11810v3.pdf), cication: [**-1**](None)
+
+	 *Hao Feng, Qi Liu, Hao Liu, Wengang Zhou, Houqiang Li, Can Huang* · ([qbitai](https://www.qbitai.com/2023/12/103190.html))
 - **Merlin:Empowering Multimodal LLMs with Foresight Minds**, `arXiv, 2312.00589`, [arxiv](http://arxiv.org/abs/2312.00589v1), [pdf](http://arxiv.org/pdf/2312.00589v1.pdf), cication: [**-1**](None)
 
 	 *En Yu, Liang Zhao, Yana Wei, Jinrong Yang, Dongming Wu, Lingyu Kong, Haoran Wei, Tiancai Wang, Zheng Ge, Xiangyu Zhang*

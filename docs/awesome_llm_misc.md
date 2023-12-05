@@ -21,6 +21,7 @@
 	- [Extra reference](#extra-reference)
 
 ## Survey
+
 - [The History of Open-Source LLMs: Imitation and Alignment (Part Three)](https://cameronrwolfe.substack.com/p/the-history-of-open-source-llms-imitation)
 - [A Survey of Techniques for Maximizing LLM Performance](https://www.youtube.com/watch?v=ahnGLM-RC1Y&ab_channel=OpenAI)
 - [Transformer Taxonomy (the last lit review) | kipply's blog](https://kipp.ly/transformer-taxonomy/?continueFlag=a897a8d0eb16dcae5398f1b58cc5e06f)
@@ -279,6 +280,9 @@
 	 *Must-read Papers on Model Editing.*
 
 ## AGI insights
+- [AI and Open Source in 2023 - by Sebastian Raschka, PhD](https://magazine.sebastianraschka.com/p/ai-and-open-source-in-2023)
+
+	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652414828&idx=4&sn=7780ba9182ef40d0dac9b076a2d40003))
 - [Some intuitions about large language models](https://docs.google.com/presentation/d/1hQUd3pF8_2Gr2Obc89LKjmHL0DlH-uof9M0yFVd3FA4/edit#slide=id.g16197112905_0_0)
 - [Role play with large language models | Nature](https://www.nature.com/articles/s41586-023-06647-8)
 
