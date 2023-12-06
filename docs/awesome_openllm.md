@@ -152,6 +152,11 @@
 
 	 *Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform* · ([huggingface](https://huggingface.co/databricks/dolly-v2-12b)) · ([databricks](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm))
 ### Misc
+- [**smol-7b**](https://huggingface.co/rishiraj/smol-7b) - rishiraj 🤗
+- **LLM-Blender: Ensembling Large Language Models with Pairwise Ranking and
+  Generative Fusion**, `arXiv, 2306.02561`, [arxiv](http://arxiv.org/abs/2306.02561v3), [pdf](http://arxiv.org/pdf/2306.02561v3.pdf), cication: [**-1**](None)
+
+	 *Dongfu Jiang, Xiang Ren, Bill Yuchen Lin* · ([huggingface](https://huggingface.co/llm-blender/PairRM)) · ([LLM-Blender](https://github.com/yuchenlin/LLM-Blender) - yuchenlin) ![Star](https://img.shields.io/github/stars/yuchenlin/LLM-Blender.svg?style=social&label=Star)
 - [Intel Neural-Chat 7b: Fine-Tuning on Gaudi2 for Top LLM Performance](https://huggingface.co/blog/Andyrasika/neural-chat-intel)
 - [Starling-7B: Increasing LLM Helpfulness & Harmlessness with RLAIF](https://starling.cs.berkeley.edu/)
 - [**sparse-llama-gsm8k**](https://huggingface.co/spaces/neuralmagic/sparse-llama-gsm8k) - neuralmagic 🤗

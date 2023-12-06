@@ -13,6 +13,9 @@
 	 *Ziyin Zhang, Chaoyu Chen, Bingchang Liu, Cong Liao, Zi Gong, Hang Yu, Jianguo Li, Rui Wang*
 
 ## Paper
+- **Magicoder: Source Code Is All You Need**, `arXiv, 2312.02120`, [arxiv](http://arxiv.org/abs/2312.02120v1), [pdf](http://arxiv.org/pdf/2312.02120v1.pdf), cication: [**-1**](None)
+
+	 *Yuxiang Wei, Zhe Wang, Jiawei Liu, Yifeng Ding, Lingming Zhang* · ([magicoder](https://github.com/ise-uiuc/magicoder) - ise-uiuc) ![Star](https://img.shields.io/github/stars/ise-uiuc/magicoder.svg?style=social&label=Star)
 - **ML-Bench: Large Language Models Leverage Open-source Libraries for
   Machine Learning Tasks**, `arXiv, 2311.09835`, [arxiv](http://arxiv.org/abs/2311.09835v1), [pdf](http://arxiv.org/pdf/2311.09835v1.pdf), cication: [**-1**](None)
 

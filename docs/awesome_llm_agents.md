@@ -398,6 +398,10 @@
 - [GPT-4V学会用键鼠上网，人类眼睁睁看着它发帖玩游戏 | 量子位](https://www.qbitai.com/2023/11/95456.html)
 
 ## Retrieval agumented generation
+- **TextGenSHAP: Scalable Post-hoc Explanations in Text Generation with Long
+  Documents**, `arXiv, 2312.01279`, [arxiv](http://arxiv.org/abs/2312.01279v1), [pdf](http://arxiv.org/pdf/2312.01279v1.pdf), cication: [**-1**](None)
+
+	 *James Enouen, Hootan Nakhost, Sayna Ebrahimi, Sercan O Arik, Yan Liu, Tomas Pfister*
 - [**LongContext_vs_RAG_NeedleInAHaystack**](https://github.com/A-Roucher/LongContext_vs_RAG_NeedleInAHaystack) - A-Roucher ![Star](https://img.shields.io/github/stars/A-Roucher/LongContext_vs_RAG_NeedleInAHaystack.svg?style=social&label=Star)
 
 	 *Comparing retrieval abilities from GPT4-Turbo and a RAG system on a toy example for various context lengths*
@@ -525,11 +529,13 @@
 	 *Xiao Liu, Hao Yu, Hanchen Zhang, Yifan Xu, Xuanyu Lei, Hanyu Lai, Yu Gu, Hangliang Ding, Kaiwen Men, Kejuan Yang*
 
 ## Other
+- [**Nexus_Function_Calling_Leaderboard**](https://huggingface.co/spaces/Nexusflow/Nexus_Function_Calling_Leaderboard) - Nexusflow 🤗
 - [Learning few-shot imitation as cultural transmission | Nature Communications](https://www.nature.com/articles/s41467-023-42875-2)
 
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzIyMzk1MDE3Nw==&mid=2247619960&idx=2&sn=1e1e4e21b2a8ffbeb08fc4f7dcd0932c))
 - [Rapidly build an application in Gradio power by a Generative AI Agent | Google Cloud Blog](https://cloud.google.com/blog/products/ai-machine-learning/rapidly-build-an-application-in-gradio-power-by-a-generative-ai-agent)
 
+- [万字长文！何谓Agent，为何Agent？](https://mp.weixin.qq.com/s?__biz=MzIyMzk1MDE3Nw==&mid=2247620278&idx=1&sn=6d0171c6bc1d97fb0872dbaa7aea4e0a)
 - [首个获得驾照的AI！Agent担任私人助理样样精通，还能帮助考试作弊](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652412307&idx=4&sn=f02fe42f4de8c01cac8c0a719b9966bf)
 - [多智能体(Agents)协作框架：人工智能的下一个方向和挑战](https://mp.weixin.qq.com/s?__biz=MzIyMzk1MDE3Nw==&mid=2247619958&idx=3&sn=8dc113e0eae29f08d1185389588faf8a)
 - [Agent 将是 AI 最大的赛道！](https://mp.weixin.qq.com/s?__biz=MzIyMzk1MDE3Nw==&mid=2247619501&idx=4&sn=2daf3a6609fb0e73dead22fac0404619)

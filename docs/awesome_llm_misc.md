@@ -157,7 +157,10 @@
 
 	 *Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers*
 
-## New launguage model
+## New model
+- **GIVT: Generative Infinite-Vocabulary Transformers**, `arXiv, 2312.02116`, [arxiv](http://arxiv.org/abs/2312.02116v1), [pdf](http://arxiv.org/pdf/2312.02116v1.pdf), cication: [**-1**](None)
+
+	 *Michael Tschannen, Cian Eastwood, Fabian Mentzer*
 - **Text Rendering Strategies for Pixel Language Models**, `arXiv, 2311.00522`, [arxiv](http://arxiv.org/abs/2311.00522v1), [pdf](http://arxiv.org/pdf/2311.00522v1.pdf), cication: [**-1**](None)
 
 	 *Jonas F. Lotz, Elizabeth Salesky, Phillip Rust, Desmond Elliott*
@@ -201,6 +204,9 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652345558&idx=4&sn=95686435d5cad05d44cbe02bc26d6859))
 
 ## Explanation
+- [**llm-viz**](https://github.com/bbycroft/llm-viz) - bbycroft ![Star](https://img.shields.io/github/stars/bbycroft/llm-viz.svg?style=social&label=Star)
+
+	 *3D Visualization of an GPT-style LLM*
 - **White-Box Transformers via Sparse Rate Reduction: Compression Is All
   There Is?**, `arXiv, 2311.13110`, [arxiv](http://arxiv.org/abs/2311.13110v2), [pdf](http://arxiv.org/pdf/2311.13110v2.pdf), cication: [**-1**](None)
 

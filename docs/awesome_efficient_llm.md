@@ -252,7 +252,8 @@
 	 *A simple and effective LLM pruning approach.*
 
 ## Efficient Inference
-- [Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://yaofu.notion.site/Towards-100x-Transformer-Inference-Speedup-43124c3688e14cffaf2f1d6cbdf26c6c#b8a5e5fc309c48e5b743c90382b01c62)
+- [Optimum-NVIDIA Unlocking blazingly fast LLM inference in just 1 line of code](https://huggingface.co/blog/optimum-nvidia)
+- [Towards 100x Transformer Inference Speedup](https://yaofu.notion.site/Towards-100x-Transformer-Inference-Speedup-43124c3688e14cffaf2f1d6cbdf26c6c#b8a5e5fc309c48e5b743c90382b01c62)
 - **PaSS: Parallel Speculative Sampling**, `arXiv, 2311.13581`, [arxiv](http://arxiv.org/abs/2311.13581v1), [pdf](http://arxiv.org/pdf/2311.13581v1.pdf), cication: [**-1**](None)
 
 	 *Giovanni Monea, Armand Joulin, Edouard Grave*

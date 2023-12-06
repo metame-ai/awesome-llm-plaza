@@ -43,7 +43,10 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
-- [[2311.16922] Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding](https://arxiv.org/abs/2311.16922)
+- **Mitigating Object Hallucinations in Large Vision-Language Models through
+  Visual Contrastive Decoding**, `arXiv, 2311.16922`, [arxiv](http://arxiv.org/abs/2311.16922v1), [pdf](http://arxiv.org/pdf/2311.16922v1.pdf), cication: [**-1**](None)
+
+	 *Sicong Leng, Hang Zhang, Guanzheng Chen, Xin Li, Shijian Lu, Chunyan Miao, Lidong Bing*
 
 	 · ([VCD](https://github.com/DAMO-NLP-SG/VCD) - DAMO-NLP-SG) ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/VCD.svg?style=social&label=Star)
 - **ChartLlama: A Multimodal LLM for Chart Understanding and Generation**, `arXiv, 2311.16483`, [arxiv](http://arxiv.org/abs/2311.16483v1), [pdf](http://arxiv.org/pdf/2311.16483v1.pdf), cication: [**-1**](None)

@@ -12,6 +12,13 @@
 
 
 ## Papers
+- **Nash Learning from Human Feedback**, `arXiv, 2312.00886`, [arxiv](http://arxiv.org/abs/2312.00886v2), [pdf](http://arxiv.org/pdf/2312.00886v2.pdf), cication: [**-1**](None)
+
+	 *Rémi Munos, Michal Valko, Daniele Calandriello, Mohammad Gheshlaghi Azar, Mark Rowland, Zhaohan Daniel Guo, Yunhao Tang, Matthieu Geist, Thomas Mesnard, Andrea Michi*
+- **RLHF-V: Towards Trustworthy MLLMs via Behavior Alignment from
+  Fine-grained Correctional Human Feedback**, `arXiv, 2312.00849`, [arxiv](http://arxiv.org/abs/2312.00849v1), [pdf](http://arxiv.org/pdf/2312.00849v1.pdf), cication: [**-1**](None)
+
+	 *Tianyu Yu, Yuan Yao, Haoye Zhang, Taiwen He, Yifeng Han, Ganqu Cui, Jinyi Hu, Zhiyuan Liu, Hai-Tao Zheng, Maosong Sun* · ([RLHF-V](https://github.com/RLHF-V/RLHF-V) - RLHF-V) ![Star](https://img.shields.io/github/stars/RLHF-V/RLHF-V.svg?style=social&label=Star)
 - [Starling-7B: Increasing LLM Helpfulness & Harmlessness with RLAIF](https://starling.cs.berkeley.edu/)
 - **Black-Box Prompt Optimization: Aligning Large Language Models without
   Model Training**, `arXiv, 2311.04155`, [arxiv](http://arxiv.org/abs/2311.04155v2), [pdf](http://arxiv.org/pdf/2311.04155v2.pdf), cication: [**-1**](None)
@@ -104,6 +111,7 @@
 
 	 *Yuntao Bai, Andy Jones, Kamal Ndousse, Amanda Askell, Anna Chen, Nova DasSarma, Dawn Drain, Stanislav Fort, Deep Ganguli, Tom Henighan* · ([hh-rlhf](https://github.com/anthropics/hh-rlhf) - anthropics) ![Star](https://img.shields.io/github/stars/anthropics/hh-rlhf.svg?style=social&label=Star)
 ## Projects
+- [**PairRM**](https://huggingface.co/llm-blender/PairRM) - llm-blender 🤗
 - [**OpenRLHF**](https://github.com/OpenLLMAI/OpenRLHF) - OpenLLMAI ![Star](https://img.shields.io/github/stars/OpenLLMAI/OpenRLHF.svg?style=social&label=Star)
 
 	 *A Ray-based High-performance RLHF framework (for 7B on RTX4090 and 34B on A100)*
@@ -116,7 +124,7 @@
 - [**tril**](https://github.com/cornell-rl/tril) - cornell-rl ![Star](https://img.shields.io/github/stars/cornell-rl/tril.svg?style=social&label=Star)
 
 ## Other
-- [**6bff0fecd65950898eba1bb321cfbd81**](https://gist.github.com/yoavg/6bff0fecd65950898eba1bb321cfbd81) - yoavg ![Star](https://img.shields.io/github/stars/yoavg/6bff0fecd65950898eba1bb321cfbd81.svg?style=social&label=Star)
+- [**Reinforcement Learning for Language Models**](https://gist.github.com/yoavg/6bff0fecd65950898eba1bb321cfbd81) - yoavg ![Star](https://img.shields.io/github/stars/yoavg/6bff0fecd65950898eba1bb321cfbd81.svg?style=social&label=Star)
 - [The Q\* hypothesis: Tree-of-thoughts reasoning, process reward models, and supercharging synthetic data](https://www.interconnects.ai/p/q-star)
 - [reverse engineer the Q* fantasy](https://twitter.com/DrJimFan/status/1728100123862004105)
 - [Fine-tune Llama 2 with DPO](https://huggingface.co/blog/dpo-trl)

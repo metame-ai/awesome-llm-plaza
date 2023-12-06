@@ -117,6 +117,10 @@
 
 
 ## Medical
+- **Using Large Language Models to Accelerate Communication for Users with
+  Severe Motor Impairments**, `arXiv, 2312.01532`, [arxiv](http://arxiv.org/abs/2312.01532v1), [pdf](http://arxiv.org/pdf/2312.01532v1.pdf), cication: [**-1**](None)
+
+	 *Shanqing Cai, Subhashini Venugopalan, Katie Seaver, Xiang Xiao, Katrin Tomanek, Sri Jalasutram, Meredith Ringel Morris, Shaun Kane, Ajit Narayanan, Robert L. MacDonald*
 - **Can Generalist Foundation Models Outcompete Special-Purpose Tuning? Case
   Study in Medicine**, `arXiv, 2311.16452`, [arxiv](http://arxiv.org/abs/2311.16452v1), [pdf](http://arxiv.org/pdf/2311.16452v1.pdf), cication: [**-1**](None)
 
@@ -235,6 +239,10 @@
 	 *Survey: A collection of AWESOME papers and resources on the large language model (LLM) related recommender system topics.*
 
 ## Role play
+- **CharacterGLM: Customizing Chinese Conversational AI Characters with
+  Large Language Models**, `arXiv, 2311.16832`, [arxiv](http://arxiv.org/abs/2311.16832v1), [pdf](http://arxiv.org/pdf/2311.16832v1.pdf), cication: [**-1**](None)
+
+	 *Jinfeng Zhou, Zhuang Chen, Dazhen Wan, Bosi Wen, Yi Song, Jifan Yu, Yongkang Huang, Libiao Peng, Jiaming Yang, Xiyao Xiao* · ([CharacterGLM-6B](https://github.com/thu-coai/CharacterGLM-6B) - thu-coai) ![Star](https://img.shields.io/github/stars/thu-coai/CharacterGLM-6B.svg?style=social&label=Star)
 - **Does Role-Playing Chatbots Capture the Character Personalities?
   Assessing Personality Traits for Role-Playing Chatbots**, `arXiv, 2310.17976`, [arxiv](http://arxiv.org/abs/2310.17976v2), [pdf](http://arxiv.org/pdf/2310.17976v2.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=16027786210079608892&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 

@@ -225,6 +225,7 @@
 	 *Lianmin Zheng, Wei-Lin Chiang, Ying Sheng, Siyuan Zhuang, Zhanghao Wu, Yonghao Zhuang, Zi Lin, Zhuohan Li, Dacheng Li, Eric. P Xing*
 
 ## Projects
+- [**Nexus_Function_Calling_Leaderboard**](https://huggingface.co/spaces/Nexusflow/Nexus_Function_Calling_Leaderboard) - Nexusflow 🤗
 - [Open LLM Leaderboard: DROP deep dive](https://huggingface.co/blog/leaderboard-drop-dive)
 - [LLM Leaderboard best models ❤️‍🔥 - a open-llm-leaderboard Collection](https://huggingface.co/collections/open-llm-leaderboard/llm-leaderboard-best-models-652d6c7965a4619fb5c27a03)
 - [**opencompass**](https://github.com/InternLM/opencompass) - InternLM ![Star](https://img.shields.io/github/stars/InternLM/opencompass.svg?style=social&label=Star)
