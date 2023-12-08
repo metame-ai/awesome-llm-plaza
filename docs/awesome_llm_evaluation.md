@@ -25,6 +25,9 @@
 	 *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang*
 
 ## Papers
+- **Evaluating and Mitigating Discrimination in Language Model Decisions**, `arXiv, 2312.03689`, [arxiv](http://arxiv.org/abs/2312.03689v1), [pdf](http://arxiv.org/pdf/2312.03689v1.pdf), cication: [**-1**](None)
+
+	 *Alex Tamkin, Amanda Askell, Liane Lovitt, Esin Durmus, Nicholas Joseph, Shauna Kravec, Karina Nguyen, Jared Kaplan, Deep Ganguli* · ([huggingface](https://huggingface.co/datasets/Anthropic/discrim-eval))
 - **Instruction-Following Evaluation for Large Language Models**, `arXiv, 2311.07911`, [arxiv](http://arxiv.org/abs/2311.07911v1), [pdf](http://arxiv.org/pdf/2311.07911v1.pdf), cication: [**-1**](None)
 
 	 *Jeffrey Zhou, Tianjian Lu, Swaroop Mishra, Siddhartha Brahma, Sujoy Basu, Yi Luan, Denny Zhou, Le Hou* · ([google-research](https://github.com/google-research/google-research/tree/master/instruction_following_eval) - google-research) ![Star](https://img.shields.io/github/stars/google-research/google-research.svg?style=social&label=Star)

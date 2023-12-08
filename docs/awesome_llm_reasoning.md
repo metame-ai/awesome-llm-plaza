@@ -15,6 +15,9 @@
 
 
 ## Reasoning
+- **Training Chain-of-Thought via Latent-Variable Inference**, `arXiv, 2312.02179`, [arxiv](http://arxiv.org/abs/2312.02179v1), [pdf](http://arxiv.org/pdf/2312.02179v1.pdf), cication: [**-1**](None)
+
+	 *Du Phan, Matthew D. Hoffman, David Dohan, Sholto Douglas, Tuan Anh Le, Aaron Parisi, Pavel Sountsov, Charles Sutton, Sharad Vikram, Rif A. Saurous*
 - **LLMs cannot find reasoning errors, but can correct them!**, `arXiv, 2311.08516`, [arxiv](http://arxiv.org/abs/2311.08516v1), [pdf](http://arxiv.org/pdf/2311.08516v1.pdf), cication: [**-1**](None)
 
 	 *Gladys Tyen, Hassan Mansoor, Peter Chen, Tony Mak, Victor Cărbune* · ([BIG-Bench-Mistake](https://github.com/WHGTyen/BIG-Bench-Mistake) - WHGTyen) ![Star](https://img.shields.io/github/stars/WHGTyen/BIG-Bench-Mistake.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-11-28))
@@ -251,6 +254,9 @@
 - [大模型Fewshot推理如何选择更好的示例](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495177&idx=2&sn=fe8353efed16a81e35462be06d5a6cea)
 
 ## Math reasoning
+- **Large Language Models for Mathematicians**, `arXiv, 2312.04556`, [arxiv](http://arxiv.org/abs/2312.04556v1), [pdf](http://arxiv.org/pdf/2312.04556v1.pdf), cication: [**-1**](None)
+
+	 *Simon Frieder, Julius Berner, Philipp Petersen, Thomas Lukasiewicz*
 - **LEGO-Prover: Neural Theorem Proving with Growing Libraries**, `arXiv, 2310.00656`, [arxiv](http://arxiv.org/abs/2310.00656v3), [pdf](http://arxiv.org/pdf/2310.00656v3.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=11019300421337297004&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Haiming Wang, Huajian Xin, Chuanyang Zheng, Lin Li, Zhengying Liu, Qingxing Cao, Yinya Huang, Jing Xiong, Han Shi, Enze Xie* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-30-14))
@@ -476,10 +482,13 @@
 	 *Shirui Pan, Linhao Luo, Yufei Wang, Chen Chen, Jiapu Wang, Xindong Wu*
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-07-03-6))
-- [面向知识图谱构建的垂直微调大模型：KnowLM、TechGPT](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494182&idx=2&sn=5db8ad3a148ce6e2db707f790960ed54)
 - **KoLA: Carefully Benchmarking World Knowledge of Large Language Models**, `arXiv, 2306.09296`, [arxiv](http://arxiv.org/abs/2306.09296v2), [pdf](http://arxiv.org/pdf/2306.09296v2.pdf), cication: [**14**](https://scholar.google.com/scholar?cites=13925067843687558202&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Jifan Yu, Xiaozhi Wang, Shangqing Tu, Shulin Cao, Daniel Zhang-Li, Xin Lv, Hao Peng, Zijun Yao, Xiaohan Zhang, Hanming Li*
+ 
+### Other
+- [再看知识图谱增强大模型问答范式](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495228&idx=2&sn=13e9d1012a44b56ee2d7282d636d4216)
+- [面向知识图谱构建的垂直微调大模型：KnowLM、TechGPT](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494182&idx=2&sn=5db8ad3a148ce6e2db707f790960ed54)
 
 ## Tutorials
 - [Prompt Engineering Guide | Prompt Engineering Guide](https://www.promptingguide.ai/)

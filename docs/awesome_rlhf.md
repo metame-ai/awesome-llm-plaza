@@ -12,6 +12,9 @@
 
 
 ## Papers
+- **Axiomatic Preference Modeling for Longform Question Answering**, `arXiv, 2312.02206`, [arxiv](http://arxiv.org/abs/2312.02206v1), [pdf](http://arxiv.org/pdf/2312.02206v1.pdf), cication: [**-1**](None)
+
+	 *Corby Rosset, Guoqing Zheng, Victor Dibia, Ahmed Awadallah, Paul Bennett* · ([huggingface](https://huggingface.co/corbyrosset/axiomatic_preference_model))
 - **Nash Learning from Human Feedback**, `arXiv, 2312.00886`, [arxiv](http://arxiv.org/abs/2312.00886v2), [pdf](http://arxiv.org/pdf/2312.00886v2.pdf), cication: [**-1**](None)
 
 	 *Rémi Munos, Michal Valko, Daniele Calandriello, Mohammad Gheshlaghi Azar, Mark Rowland, Zhaohan Daniel Guo, Yunhao Tang, Matthieu Geist, Thomas Mesnard, Andrea Michi*

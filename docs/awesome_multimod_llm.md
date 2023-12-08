@@ -11,6 +11,9 @@
 
 ## Vision
 ### Video
+- **OneLLM: One Framework to Align All Modalities with Language**, `arXiv, 2312.03700`, [arxiv](http://arxiv.org/abs/2312.03700v1), [pdf](http://arxiv.org/pdf/2312.03700v1.pdf), cication: [**-1**](None)
+
+	 *Jiaming Han, Kaixiong Gong, Yiyuan Zhang, Jiaqi Wang, Kaipeng Zhang, Dahua Lin, Yu Qiao, Peng Gao, Xiangyu Yue*
 - **CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any Generation**, `arXiv, 2311.18775`, [arxiv](http://arxiv.org/abs/2311.18775v1), [pdf](http://arxiv.org/pdf/2311.18775v1.pdf), cication: [**-1**](None)
 
 	 *Zineng Tang, Ziyi Yang, Mahmoud Khademi, Yang Liu, Chenguang Zhu, Mohit Bansal* · ([i-Code](https://github.com/microsoft/i-Code/tree/main/CoDi-2) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/i-Code.svg?style=social&label=Star) · ([codi-2.github](https://codi-2.github.io/))
@@ -43,6 +46,12 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
+- **Alpha-CLIP: A CLIP Model Focusing on Wherever You Want**, `arXiv, 2312.03818`, [arxiv](http://arxiv.org/abs/2312.03818v1), [pdf](http://arxiv.org/pdf/2312.03818v1.pdf), cication: [**-1**](None)
+
+	 *Zeyi Sun, Ye Fang, Tong Wu, Pan Zhang, Yuhang Zang, Shu Kong, Yuanjun Xiong, Dahua Lin, Jiaqi Wang* · ([aleafy.github](https://aleafy.github.io/alpha-clip/))
+- **LLaVA-Grounding: Grounded Visual Chat with Large Multimodal Models**, `arXiv, 2312.02949`, [arxiv](http://arxiv.org/abs/2312.02949v1), [pdf](http://arxiv.org/pdf/2312.02949v1.pdf), cication: [**-1**](None)
+
+	 *Hao Zhang, Hongyang Li, Feng Li, Tianhe Ren, Xueyan Zou, Shilong Liu, Shijia Huang, Jianfeng Gao, Lei Zhang, Chunyuan Li* · ([LLaVA-Grounding](https://github.com/UX-Decoder/LLaVA-Grounding) - UX-Decoder) ![Star](https://img.shields.io/github/stars/UX-Decoder/LLaVA-Grounding.svg?style=social&label=Star)
 - **Mitigating Object Hallucinations in Large Vision-Language Models through
   Visual Contrastive Decoding**, `arXiv, 2311.16922`, [arxiv](http://arxiv.org/abs/2311.16922v1), [pdf](http://arxiv.org/pdf/2311.16922v1.pdf), cication: [**-1**](None)
 
@@ -448,7 +457,13 @@
 	 *Shaohan Huang, Li Dong, Wenhui Wang, Yaru Hao, Saksham Singhal, Shuming Ma, Tengchao Lv, Lei Cui, Owais Khan Mohammed, Barun Patra*
 
 ## Audio
+- **Multimodal Data and Resource Efficient Device-Directed Speech Detection
+  with Large Foundation Models**, `arXiv, 2312.03632`, [arxiv](http://arxiv.org/abs/2312.03632v1), [pdf](http://arxiv.org/pdf/2312.03632v1.pdf), cication: [**-1**](None)
 
+	 *Dominik Wagner, Alexander Churchill, Siddharth Sigtia, Panayiotis Georgiou, Matt Mirsamadi, Aarshee Mishra, Erik Marchi*
+- **WhisBERT: Multimodal Text-Audio Language Modeling on 100M Words**, `arXiv, 2312.02931`, [arxiv](http://arxiv.org/abs/2312.02931v2), [pdf](http://arxiv.org/pdf/2312.02931v2.pdf), cication: [**-1**](None)
+
+	 *Lukas Wolf, Greta Tuckute, Klemen Kotar, Eghbal Hosseini, Tamar Regev, Ethan Wilcox, Alex Warstadt*
 - **Qwen-Audio: Advancing Universal Audio Understanding via Unified
   Large-Scale Audio-Language Models**, `arXiv, 2311.07919`, [arxiv](http://arxiv.org/abs/2311.07919v1), [pdf](http://arxiv.org/pdf/2311.07919v1.pdf), cication: [**-1**](None)
 

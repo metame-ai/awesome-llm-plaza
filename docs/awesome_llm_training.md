@@ -59,6 +59,8 @@
   Learning**, `arXiv, 2312.01552`, [arxiv](http://arxiv.org/abs/2312.01552v1), [pdf](http://arxiv.org/pdf/2312.01552v1.pdf), cication: [**-1**](None)
 
 	 *Bill Yuchen Lin, Abhilasha Ravichander, Ximing Lu, Nouha Dziri, Melanie Sclar, Khyathi Chandu, Chandra Bhagavatula, Yejin Choi* · ([allenai.github](https://allenai.github.io/re-align/))
+
+	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-12-06-8))
 - **Instruction-tuning Aligns LLMs to the Human Brain**, `arXiv, 2312.00575`, [arxiv](http://arxiv.org/abs/2312.00575v1), [pdf](http://arxiv.org/pdf/2312.00575v1.pdf), cication: [**-1**](None)
 
 	 *Khai Loong Aw, Syrielle Montariol, Badr AlKhamissi, Martin Schrimpf, Antoine Bosselut*

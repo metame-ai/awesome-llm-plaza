@@ -217,6 +217,10 @@
 
 
 ## Recommendation
+- **Rank-without-GPT: Building GPT-Independent Listwise Rerankers on
+  Open-Source Large Language Models**, `arXiv, 2312.02969`, [arxiv](http://arxiv.org/abs/2312.02969v1), [pdf](http://arxiv.org/pdf/2312.02969v1.pdf), cication: [**-1**](None)
+
+	 *Xinyu Zhang, Sebastian Hofstätter, Patrick Lewis, Raphael Tang, Jimmy Lin*
 - **Hiformer: Heterogeneous Feature Interactions Learning with Transformers
   for Recommender Systems**, `arXiv, 2311.05884`, [arxiv](http://arxiv.org/abs/2311.05884v1), [pdf](http://arxiv.org/pdf/2311.05884v1.pdf), cication: [**-1**](None)
 
@@ -323,6 +327,10 @@
 	 *Patrick Fernandes, Daniel Deutsch, Mara Finkelstein, Parker Riley, André F. T. Martins, Graham Neubig, Ankush Garg, Jonathan H. Clark, Markus Freitag, Orhan Firat*
 
 ## Vision
+- **GPT4Point: A Unified Framework for Point-Language Understanding and
+  Generation**, `arXiv, 2312.02980`, [arxiv](http://arxiv.org/abs/2312.02980v1), [pdf](http://arxiv.org/pdf/2312.02980v1.pdf), cication: [**-1**](None)
+
+	 *Zhangyang Qi, Ye Fang, Zeyi Sun, Xiaoyang Wu, Tong Wu, Jiaqi Wang, Dahua Lin, Hengshuang Zhao*
 - **GPT4Motion: Scripting Physical Motions in Text-to-Video Generation via
   Blender-Oriented GPT Planning**, `arXiv, 2311.12631`, [arxiv](http://arxiv.org/abs/2311.12631v1), [pdf](http://arxiv.org/pdf/2311.12631v1.pdf), cication: [**-1**](None)
 
@@ -393,6 +401,9 @@
 	 *Ethan Callanan, Amarachi Mbakwe, Antony Papadimitriou, Yulong Pei, Mathieu Sibue, Xiaodan Zhu, Zhiqiang Ma, Xiaomo Liu, Sameena Shah*
 
 ## Data Related
+- [**superduperdb**](https://github.com/SuperDuperDB/superduperdb) - SuperDuperDB ![Star](https://img.shields.io/github/stars/SuperDuperDB/superduperdb.svg?style=social&label=Star)
+
+	 *🔮 SuperDuperDB: Bring AI to your database: Integrate, train and manage any AI models and APIs directly with your database and your data.*
 - **Data-Copilot: Bridging Billions of Data and Humans with Autonomous
   Workflow**, `arXiv, 2306.07209`, [arxiv](http://arxiv.org/abs/2306.07209v1), [pdf](http://arxiv.org/pdf/2306.07209v1.pdf), cication: [**6**](https://scholar.google.com/scholar?cites=16829871955524981321&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 

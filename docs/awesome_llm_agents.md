@@ -535,6 +535,7 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzIyMzk1MDE3Nw==&mid=2247619960&idx=2&sn=1e1e4e21b2a8ffbeb08fc4f7dcd0932c))
 - [Rapidly build an application in Gradio power by a Generative AI Agent | Google Cloud Blog](https://cloud.google.com/blog/products/ai-machine-learning/rapidly-build-an-application-in-gradio-power-by-a-generative-ai-agent)
 
+- [从第一性原理看大模型Agent技术](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495233&idx=1&sn=a6f99f5ed298dc4dad8477979d0c19a8)
 - [万字长文！何谓Agent，为何Agent？](https://mp.weixin.qq.com/s?__biz=MzIyMzk1MDE3Nw==&mid=2247620278&idx=1&sn=6d0171c6bc1d97fb0872dbaa7aea4e0a)
 - [首个获得驾照的AI！Agent担任私人助理样样精通，还能帮助考试作弊](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652412307&idx=4&sn=f02fe42f4de8c01cac8c0a719b9966bf)
 - [多智能体(Agents)协作框架：人工智能的下一个方向和挑战](https://mp.weixin.qq.com/s?__biz=MzIyMzk1MDE3Nw==&mid=2247619958&idx=3&sn=8dc113e0eae29f08d1185389588faf8a)

@@ -93,6 +93,7 @@
 [[2306.08161] h2oGPT: Democratizing Large Language Models](https://arxiv.org/abs//2306.08161)
 
 ### LLaMA
+- [**Llama-2-7b-chat-mlx**](https://huggingface.co/mlx-llama/Llama-2-7b-chat-mlx) - mlx-llama 🤗
 - [**TinyLlama**](https://github.com/jzhang38/TinyLlama) - jzhang38 ![Star](https://img.shields.io/github/stars/jzhang38/TinyLlama.svg?style=social&label=Star)
 
 	 *The TinyLlama project is an open endeavor to pretrain a 1.1B Llama model on 3 trillion tokens.*
@@ -152,6 +153,9 @@
 
 	 *Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform* · ([huggingface](https://huggingface.co/databricks/dolly-v2-12b)) · ([databricks](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm))
 ### Misc
+- [**stablelm-zephyr-3b**](https://huggingface.co/stabilityai/stablelm-zephyr-3b) - stabilityai 🤗
+
+	 · ([huggingface](https://huggingface.co/spaces/Tonic/TonicsStableLM3B))
 - [**smol-7b**](https://huggingface.co/rishiraj/smol-7b) - rishiraj 🤗
 - **LLM-Blender: Ensembling Large Language Models with Pairwise Ranking and
   Generative Fusion**, `arXiv, 2306.02561`, [arxiv](http://arxiv.org/abs/2306.02561v3), [pdf](http://arxiv.org/pdf/2306.02561v3.pdf), cication: [**-1**](None)
@@ -183,6 +187,9 @@
 # Mulitlingual (chinese)
 
 ## Foundation
+- [**DeepSeek-LLM**](https://github.com/deepseek-ai/DeepSeek-LLM) - deepseek-ai ![Star](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-LLM.svg?style=social&label=Star)
+
+	 *DeepSeek LLM: Let there be answers* · ([huggingface](https://huggingface.co/deepseek-ai)) · ([mp.weixin.qq](https://mp.weixin.qq.com/s/Zj7gPGqJ8UTTxp1umfWjKQ))
 - **SeaLLMs -- Large Language Models for Southeast Asia**, `arXiv, 2312.00738`, [arxiv](http://arxiv.org/abs/2312.00738v1), [pdf](http://arxiv.org/pdf/2312.00738v1.pdf), cication: [**-1**](None)
 
 	 *Xuan-Phi Nguyen, Wenxuan Zhang, Xin Li, Mahani Aljunied, Qingyu Tan, Liying Cheng, Guanzheng Chen, Yue Deng, Sen Yang, Chaoqun Liu*
@@ -280,6 +287,7 @@
 	 *Shaolei Zhang, Qingkai Fang, Zhuocheng Zhang, Zhengrui Ma, Yan Zhou, Langlin Huang, Mengyu Bu, Shangtong Gui, Yunji Chen, Xilin Chen* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-06-30-4)) · ([BayLing](https://github.com/ictnlp/BayLing) - ictnlp) ![Star](https://img.shields.io/github/stars/ictnlp/BayLing.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/ICTNLP/bayling-13b-diff))
 
 ## Other
+- [Gemini: A Family of Highly Capable Multimodal Models](https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf)
 - [**LLMs-In-China**](https://github.com/wgwang/LLMs-In-China) - wgwang ![Star](https://img.shields.io/github/stars/wgwang/LLMs-In-China.svg?style=social&label=Star)
 
 	 *中国大模型*

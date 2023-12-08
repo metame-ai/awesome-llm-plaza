@@ -322,6 +322,8 @@
   Language Models**, `arXiv, 2306.14048`, [arxiv](http://arxiv.org/abs/2306.14048v2), [pdf](http://arxiv.org/pdf/2306.14048v2.pdf), cication: [**-1**](None)
 
 	 *Zhenyu Zhang, Ying Sheng, Tianyi Zhou, Tianlong Chen, Lianmin Zheng, Ruisi Cai, Zhao Song, Yuandong Tian, Christopher Ré, Clark Barrett* · ([H2O](https://github.com/FMInference/H2O) - FMInference) ![Star](https://img.shields.io/github/stars/FMInference/H2O.svg?style=social&label=Star)
+
+	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652415599&idx=3&sn=c515f30e75705c8bcf5fbdc1130862c3))
 - [DeepSpeed ZeRO++: A leap in speed for LLM and chat model training with 4X less communication - Microsoft Research](https://www.microsoft.com/en-us/research/blog/deepspeed-zero-a-leap-in-speed-for-llm-and-chat-model-training-with-4x-less-communication/)
 
 	 · ([zhuanlan.zhihu](https://zhuanlan.zhihu.com/p/639002087))
@@ -370,6 +372,9 @@
 	 *DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.*
 
 ## Efficient transformer
+- **Efficient Monotonic Multihead Attention**, `arXiv, 2312.04515`, [arxiv](http://arxiv.org/abs/2312.04515v1), [pdf](http://arxiv.org/pdf/2312.04515v1.pdf), cication: [**-1**](None)
+
+	 *Xutai Ma, Anna Sun, Siqi Ouyang, Hirofumi Inaguma, Paden Tomasello*
 - **Mamba: Linear-Time Sequence Modeling with Selective State Spaces**, `arXiv, 2312.00752`, [arxiv](http://arxiv.org/abs/2312.00752v1), [pdf](http://arxiv.org/pdf/2312.00752v1.pdf), cication: [**-1**](None)
 
 	 *Albert Gu, Tri Dao* · ([qbitai](https://www.qbitai.com/2023/12/103440.html))

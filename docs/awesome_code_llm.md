@@ -13,6 +13,9 @@
 	 *Ziyin Zhang, Chaoyu Chen, Bingchang Liu, Cong Liao, Zi Gong, Hang Yu, Jianguo Li, Rui Wang*
 
 ## Paper
+- **Chain of Code: Reasoning with a Language Model-Augmented Code Emulator**, `arXiv, 2312.04474`, [arxiv](http://arxiv.org/abs/2312.04474v1), [pdf](http://arxiv.org/pdf/2312.04474v1.pdf), cication: [**-1**](None)
+
+	 *Chengshu Li, Jacky Liang, Andy Zeng, Xinyun Chen, Karol Hausman, Dorsa Sadigh, Sergey Levine, Li Fei-Fei, Fei Xia, Brian Ichter* · ([chain-of-code.github](https://chain-of-code.github.io/))
 - **Magicoder: Source Code Is All You Need**, `arXiv, 2312.02120`, [arxiv](http://arxiv.org/abs/2312.02120v1), [pdf](http://arxiv.org/pdf/2312.02120v1.pdf), cication: [**-1**](None)
 
 	 *Yuxiang Wei, Zhe Wang, Jiawei Liu, Yifeng Ding, Lingming Zhang* · ([magicoder](https://github.com/ise-uiuc/magicoder) - ise-uiuc) ![Star](https://img.shields.io/github/stars/ise-uiuc/magicoder.svg?style=social&label=Star)

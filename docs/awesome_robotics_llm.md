@@ -7,6 +7,13 @@
 	- [Reference](#reference)
 
 ## Papers
+- **Controllable Human-Object Interaction Synthesis**, `arXiv, 2312.03913`, [arxiv](http://arxiv.org/abs/2312.03913v1), [pdf](http://arxiv.org/pdf/2312.03913v1.pdf), cication: [**-1**](None)
+
+	 *Jiaman Li, Alexander Clegg, Roozbeh Mottaghi, Jiajun Wu, Xavier Puig, C. Karen Liu*
+- **Generative agent-based modeling with actions grounded in physical,
+  social, or digital space using Concordia**, `arXiv, 2312.03664`, [arxiv](http://arxiv.org/abs/2312.03664v1), [pdf](http://arxiv.org/pdf/2312.03664v1.pdf), cication: [**-1**](None)
+
+	 *Alexander Sasha Vezhnevets, John P. Agapiou, Avia Aharon, Ron Ziv, Jayd Matyas, Edgar A. Duéñez-Guzmán, William A. Cunningham, Simon Osindero, Danny Karmon, Joel Z. Leibo*
 - **GPT-4V(ision) for Robotics: Multimodal Task Planning from Human
   Demonstration**, `arXiv, 2311.12015`, [arxiv](http://arxiv.org/abs/2311.12015v1), [pdf](http://arxiv.org/pdf/2311.12015v1.pdf), cication: [**-1**](None)
 

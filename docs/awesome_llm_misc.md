@@ -204,6 +204,9 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652345558&idx=4&sn=95686435d5cad05d44cbe02bc26d6859))
 
 ## Explanation
+- **Beyond Surface: Probing LLaMA Across Scales and Layers**, `arXiv, 2312.04333`, [arxiv](http://arxiv.org/abs/2312.04333v1), [pdf](http://arxiv.org/pdf/2312.04333v1.pdf), cication: [**-1**](None)
+
+	 *Nuo Chen, Ning Wu, Shining Liang, Ming Gong, Linjun Shou, Dongmei Zhang, Jia Li*
 - [**llm-viz**](https://github.com/bbycroft/llm-viz) - bbycroft ![Star](https://img.shields.io/github/stars/bbycroft/llm-viz.svg?style=social&label=Star)
 
 	 *3D Visualization of an GPT-style LLM*
@@ -340,6 +343,8 @@
 - [[1hr Talk] Intro to Large Language Models - YouTube](https://www.youtube.com/watch?v=zjkBMFhNj_g&ab_channel=AndrejKarpathy)
 
 	 · ([drive.google](https://drive.google.com/file/d/1pxx_ZI7O-Nwl7ZLNk5hI3WzAsTLwvNU7/view?pli=1)) · ([drive.google](https://drive.google.com/file/d/1FPUpFMiCkMRKPFjhi9MAhby68MHVqe8u/view?pli=1))
+
+	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzIyMzk1MDE3Nw==&mid=2247620373&idx=1&sn=f319bf1583d025e4f191b2f4a3d156ac))
 - [ML 2023 Spring](https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php)
 - [80分鐘快速了解大型語言模型 (5:30 有咒術迴戰雷) - YouTube](https://www.youtube.com/watch?v=wG8-IUtqu-s&t=5s&ab_channel=Hung-yiLee)
 - [Stanford CS224N: Natural Language Processing with Deep Learning | 2023 - YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4)
