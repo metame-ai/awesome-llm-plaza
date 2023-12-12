@@ -29,6 +29,9 @@
 
 
 ## Survey
+- **Large Language Models on Graphs: A Comprehensive Survey**, `arXiv, 2312.02783`, [arxiv](http://arxiv.org/abs/2312.02783v1), [pdf](http://arxiv.org/pdf/2312.02783v1.pdf), cication: [**-1**](None)
+
+	 *Bowen Jin, Gang Liu, Chi Han, Meng Jiang, Heng Ji, Jiawei Han*
 - **Challenges and Applications of Large Language Models**, `arXiv, 2307.10169`, [arxiv](http://arxiv.org/abs/2307.10169v1), [pdf](http://arxiv.org/pdf/2307.10169v1.pdf), cication: [**32**](https://scholar.google.com/scholar?cites=9658592038876097632&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Jean Kaddour, Joshua Harris, Maximilian Mozes, Herbie Bradley, Roberta Raileanu, Robert McHardy* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzIyMzk1MDE3Nw==&mid=2247606793&idx=3&sn=18419cbc44c054126d80ab6f2104c6b9))
@@ -189,6 +192,10 @@
 	 *Yunkang Cao, Xiaohao Xu, Chen Sun, Xiaonan Huang, Weiming Shen* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-11-13))
 
 ## Auto driving
+- **Evaluation of Large Language Models for Decision Making in Autonomous
+  Driving**, `arXiv, 2312.06351`, [arxiv](http://arxiv.org/abs/2312.06351v1), [pdf](http://arxiv.org/pdf/2312.06351v1.pdf), cication: [**-1**](None)
+
+	 *Kotaro Tanahashi, Yuichi Inoue, Yu Yamaguchi, Hidetatsu Yaginuma, Daiki Shiotsuka, Hiroyuki Shimatani, Kohei Iwamasa, Yoshiaki Inoue, Takafumi Yamaguchi, Koki Igari*
 - **On the Road with GPT-4V(ision): Early Explorations of Visual-Language
   Model on Autonomous Driving**, `arXiv, 2311.05332`, [arxiv](http://arxiv.org/abs/2311.05332v1), [pdf](http://arxiv.org/pdf/2311.05332v1.pdf), cication: [**-1**](None)
 
@@ -266,6 +273,12 @@
 	 *RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models*
 
 ## Chat bots
+- [**anything-llm?tab=readme-ov-file**](https://github.com/Mintplex-Labs/anything-llm?tab=readme-ov-file) - Mintplex-Labs ![Star](https://img.shields.io/github/stars/Mintplex-Labs/anything-llm?tab=readme-ov-file.svg?style=social&label=Star)
+
+	 *Open-source ChatGPT equivalent experience for both open and close source LLMs, embedders, and vector databases. Supports unlimited documents, threads, and concurrent users and management all in a very clean UI.*
+- [**voice-assistant**](https://github.com/linyiLYi/voice-assistant) - linyiLYi ![Star](https://img.shields.io/github/stars/linyiLYi/voice-assistant.svg?style=social&label=Star)
+
+	 *一个简单的 Python 脚本，可以通过语音与本地大语言模型进行对话。*
 - [**core**](https://github.com/cheshire-cat-ai/core) - cheshire-cat-ai ![Star](https://img.shields.io/github/stars/cheshire-cat-ai/core.svg?style=social&label=Star)
 
 	 *Production ready AI assistant framework*

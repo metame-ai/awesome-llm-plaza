@@ -114,8 +114,11 @@
 	 *LongLLaMA is a large language model capable of handling long contexts. It is based on OpenLLaMA and fine-tuned with the Focused Transformer (FoT) method.*
 
 ## Other
+- [Fetching Title#3dfu](https://www.anthropic.com/index/claude-2-1-prompting)
 - [The Secret Sauce behind 100K context window in LLMs: all tricks in one place | by Galina Alperovich | May, 2023 | GoPenAI](https://blog.gopenai.com/how-to-speed-up-llms-and-use-100k-context-window-all-tricks-in-one-place-ffd40577b4c)
 - [Extending Context is Hard | kaiokendev.github.io](https://kaiokendev.github.io/context)
+
+- [一句话解锁100k+上下文大模型真实力，27分涨到98，GPT-4、Claude2.1适用 | 量子位](https://www.qbitai.com/2023/12/105450.html)
 - [500万token巨兽，一次读完全套「哈利波特」！比ChatGPT长1000多倍](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652338537&idx=2&sn=8aaf7f6e61ca91fd65a4d42e845f77f5)
 
 ## Extra reference

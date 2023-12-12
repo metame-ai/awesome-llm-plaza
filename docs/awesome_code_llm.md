@@ -13,6 +13,9 @@
 	 *Ziyin Zhang, Chaoyu Chen, Bingchang Liu, Cong Liao, Zi Gong, Hang Yu, Jianguo Li, Rui Wang*
 
 ## Paper
+- **Purple Llama CyberSecEval: A Secure Coding Benchmark for Language Models**, `arXiv, 2312.04724`, [arxiv](http://arxiv.org/abs/2312.04724v1), [pdf](http://arxiv.org/pdf/2312.04724v1.pdf), cication: [**-1**](None)
+
+	 *Manish Bhatt, Sahana Chennabasappa, Cyrus Nikolaidis, Shengye Wan, Ivan Evtimov, Dominik Gabi, Daniel Song, Faizan Ahmad, Cornelius Aschermann, Lorenzo Fontana*
 - **Chain of Code: Reasoning with a Language Model-Augmented Code Emulator**, `arXiv, 2312.04474`, [arxiv](http://arxiv.org/abs/2312.04474v1), [pdf](http://arxiv.org/pdf/2312.04474v1.pdf), cication: [**-1**](None)
 
 	 *Chengshu Li, Jacky Liang, Andy Zeng, Xinyun Chen, Karol Hausman, Dorsa Sadigh, Sergey Levine, Li Fei-Fei, Fei Xia, Brian Ichter* · ([chain-of-code.github](https://chain-of-code.github.io/))

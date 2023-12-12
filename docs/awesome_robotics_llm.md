@@ -7,6 +7,9 @@
 	- [Reference](#reference)
 
 ## Papers
+- **From Text to Motion: Grounding GPT-4 in a Humanoid Robot "Alter3"**, `arXiv, 2312.06571`, [arxiv](http://arxiv.org/abs/2312.06571v1), [pdf](http://arxiv.org/pdf/2312.06571v1.pdf), cication: [**-1**](None)
+
+	 *Takahide Yoshida, Atsushi Masumori, Takashi Ikegami* · ([tnoinkwms.github](https://tnoinkwms.github.io/ALTER-LLM/))
 - **Controllable Human-Object Interaction Synthesis**, `arXiv, 2312.03913`, [arxiv](http://arxiv.org/abs/2312.03913v1), [pdf](http://arxiv.org/pdf/2312.03913v1.pdf), cication: [**-1**](None)
 
 	 *Jiaman Li, Alexander Clegg, Roozbeh Mottaghi, Jiajun Wu, Xavier Puig, C. Karen Liu*
@@ -14,6 +17,8 @@
   social, or digital space using Concordia**, `arXiv, 2312.03664`, [arxiv](http://arxiv.org/abs/2312.03664v1), [pdf](http://arxiv.org/pdf/2312.03664v1.pdf), cication: [**-1**](None)
 
 	 *Alexander Sasha Vezhnevets, John P. Agapiou, Avia Aharon, Ron Ziv, Jayd Matyas, Edgar A. Duéñez-Guzmán, William A. Cunningham, Simon Osindero, Danny Karmon, Joel Z. Leibo*
+
+	 · ([concordia](https://github.com/google-deepmind/concordia) - google-deepmind) ![Star](https://img.shields.io/github/stars/google-deepmind/concordia.svg?style=social&label=Star)
 - **GPT-4V(ision) for Robotics: Multimodal Task Planning from Human
   Demonstration**, `arXiv, 2311.12015`, [arxiv](http://arxiv.org/abs/2311.12015v1), [pdf](http://arxiv.org/pdf/2311.12015v1.pdf), cication: [**-1**](None)
 

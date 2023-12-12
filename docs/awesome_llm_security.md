@@ -18,7 +18,7 @@
 ## Papers
 - [Site Unreachable](https://ai.meta.com/research/publications/llama-guard-llm-based-input-output-safeguard-for-human-ai-conversations/)
 
-	 · ([scontent-xsp1-3.xx.fbcdn](https://scontent-xsp1-3.xx.fbcdn.net/v/t39.2365-6/408725049_3688557441468029_8103913771964668529_n.pdf?_nc_cat=100&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=_gWcFD1K96gAX_s7udO&_nc_ht=scontent-xsp1-3.xx&oh=00_AfAihkcrUuum2SXpzSJ3bpLugpBbzNsVTkOoV7TcSeer2w&oe=65773519))
+	 · ([pdf](https://scontent-xsp1-3.xx.fbcdn.net/v/t39.2365-6/408725049_3688557441468029_8103913771964668529_n.pdf?_nc_cat=100&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=_gWcFD1K96gAX_s7udO&_nc_ht=scontent-xsp1-3.xx&oh=00_AfAihkcrUuum2SXpzSJ3bpLugpBbzNsVTkOoV7TcSeer2w&oe=65773519))
 - **Scalable and Transferable Black-Box Jailbreaks for Language Models via
   Persona Modulation**, `arXiv, 2311.03348`, [arxiv](http://arxiv.org/abs/2311.03348v2), [pdf](http://arxiv.org/pdf/2311.03348v2.pdf), cication: [**-1**](None)
 

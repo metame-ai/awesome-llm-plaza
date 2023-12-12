@@ -31,6 +31,10 @@
 # English
 
 ## Foundation
+- **LLM360: Towards Fully Transparent Open-Source LLMs**, `arXiv, 2312.06550`, [arxiv](http://arxiv.org/abs/2312.06550v1), [pdf](http://arxiv.org/pdf/2312.06550v1.pdf), cication: [**-1**](None)
+
+	 *Zhengzhong Liu, Aurick Qiao, Willie Neiswanger, Hongyi Wang, Bowen Tan, Tianhua Tao, Junbo Li, Yuqi Wang, Suqi Sun, Omkar Pangarkar*
+	- https://www.llm360.ai
 - **GPT4All: An Ecosystem of Open Source Compressed Language Models**, `arXiv, 2311.04931`, [arxiv](http://arxiv.org/abs/2311.04931v1), [pdf](http://arxiv.org/pdf/2311.04931v1.pdf), cication: [**-1**](None)
 
 	 *Yuvanesh Anand, Zach Nussbaum, Adam Treat, Aaron Miller, Richard Guo, Ben Schmidt, GPT4All Community, Brandon Duderstadt, Andriy Mulyar* · ([gpt4all](https://github.com/nomic-ai/gpt4all) - nomic-ai) ![Star](https://img.shields.io/github/stars/nomic-ai/gpt4all.svg?style=social&label=Star)
@@ -44,9 +48,7 @@
 - **H2O Open Ecosystem for State-of-the-art Large Language Models**, `arXiv, 2310.13012`, [arxiv](http://arxiv.org/abs/2310.13012v2), [pdf](http://arxiv.org/pdf/2310.13012v2.pdf), cication: [**-1**](None)
 
 	 *Arno Candel, Jon McKinney, Philipp Singer, Pascal Pfeiffer, Maximilian Jeblick, Chun Ming Lee, Marcos V. Conde*
-- [**mistral-src**](https://github.com/mistralai/mistral-src) - mistralai ![Star](https://img.shields.io/github/stars/mistralai/mistral-src.svg?style=social&label=Star)
 
-	 *Reference implementation of Mistral AI 7B v0.1 model.* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-09-29-2))
 - **BTLM-3B-8K: 7B Parameter Performance in a 3B Parameter Model**, `arXiv, 2309.11568`, [arxiv](http://arxiv.org/abs/2309.11568v1), [pdf](http://arxiv.org/pdf/2309.11568v1.pdf), cication: [**-1**](None)
 
 	 *Nolan Dey, Daria Soboleva, Faisal Al-Khateeb, Bowen Yang, Ribhu Pathria, Hemant Khachane, Shaheer Muhammad, Zhiming, Chen, Robert Myers*
@@ -82,6 +84,28 @@
 
 	 *Kaiyuan Gao, Sunan He, Zhenyu He, Jiacheng Lin, QiZhi Pei, Jie Shao, Wei Zhang* · ([gpt_alternatives](https://github.com/GPT-Alternatives/gpt_alternatives) - GPT-Alternatives) ![Star](https://img.shields.io/github/stars/GPT-Alternatives/gpt_alternatives.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-09-12-3))
 
+### Mistral
+- [**mistral-src**](https://github.com/mistralai/mistral-src) - mistralai ![Star](https://img.shields.io/github/stars/mistralai/mistral-src.svg?style=social&label=Star)
+
+	 *Reference implementation of Mistral AI 7B v0.1 model.* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-09-29-2))
+- [Mixtral of experts | Mistral AI | Open source models](https://mistral.ai/news/mixtral-of-experts/)
+- [Welcome Mixtral - a SOTA Mixture of Experts on Hugging Face](https://huggingface.co/blog/mixtral)
+- [**llama-mistral?tab=readme-ov-file**](https://github.com/dzhulgakov/llama-mistral?tab=readme-ov-file) - dzhulgakov ![Star](https://img.shields.io/github/stars/dzhulgakov/llama-mistral?tab=readme-ov-file.svg?style=social&label=Star)
+
+	 *Inference code for Mistral and Mixtral hacked up into original Llama implementation*
+- [**DiscoLM-mixtral-8x7b-v2**](https://huggingface.co/DiscoResearch/DiscoLM-mixtral-8x7b-v2) - DiscoResearch 🤗
+- [**Mixtral-8x7B-Instruct-v0.1**](https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1) - mistralai 🤗
+- [**mixtral-7b-8expert**](https://huggingface.co/DiscoResearch/mixtral-7b-8expert) - DiscoResearch 🤗
+
+	 · ([huggingface](https://t.co/rFz2hhLWat))
+- [**mixtral-8x7b-32kseqlen**](https://huggingface.co/someone13574/mixtral-8x7b-32kseqlen) - someone13574 🤗
+
+### StripedHyena-7B 
+- [**StripedHyena-Hessian-7B**](https://huggingface.co/togethercomputer/StripedHyena-Hessian-7B) - togethercomputer 🤗
+- [**StripedHyena-Nous-7B**](https://huggingface.co/togethercomputer/StripedHyena-Nous-7B) - togethercomputer 🤗
+
+	 · ([together](https://www.together.ai/blog/stripedhyena-7b))
+ 
 ### BLOOM
 - [**BLOOMChat-176B-v1-GPTQ**](https://huggingface.co/TheBloke/BLOOMChat-176B-v1-GPTQ) - TheBloke 🤗
 
@@ -128,10 +152,12 @@
 	 · ([pythia](https://github.com/EleutherAI/pythia) - EleutherAI) ![Star](https://img.shields.io/github/stars/EleutherAI/pythia.svg?style=social&label=Star)
 
 ### Other
+
 - [The History of Open-Source LLMs: Imitation and Alignment (Part Three)](https://cameronrwolfe.substack.com/p/the-history-of-open-source-llms-imitation)
 
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI1MjQ2OTQ3Ng==&mid=2247623963&idx=1&sn=e4b4be03cf313a55da81384edd8e9283))
 - [**os-llms**](https://huggingface.co/blog/os-llms) - blog 🤗
+
 - [​A16Z 刚刚官宣支持8个开源人工智能社区](https://mp.weixin.qq.com/s/NdS4uLFq5aKooLBNDJkBfg?poc_token=HAo18GSj4ZMEfny8SxzCNcB19EiSiStV32OiEUJ-)
 - [开源大型语言模型(llm)总结](https://mp.weixin.qq.com/s?__biz=MzI1MjQ2OTQ3Ng==&mid=2247608677&idx=2&sn=55a6b6d710e57527218128efa4107027)
 
@@ -153,6 +179,7 @@
 
 	 *Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform* · ([huggingface](https://huggingface.co/databricks/dolly-v2-12b)) · ([databricks](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm))
 ### Misc
+- [**btlm-3b-8k-chat**](https://huggingface.co/cerebras/btlm-3b-8k-chat) - cerebras 🤗
 - [**stablelm-zephyr-3b**](https://huggingface.co/stabilityai/stablelm-zephyr-3b) - stabilityai 🤗
 
 	 · ([huggingface](https://huggingface.co/spaces/Tonic/TonicsStableLM3B))
@@ -205,6 +232,8 @@
 - [**Yi**](https://github.com/01-ai/Yi) - 01-ai ![Star](https://img.shields.io/github/stars/01-ai/Yi.svg?style=social&label=Star)
 
 	 *A series of large language models trained from scratch by developers @01-ai*
+
+	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-12-11-15))
 - **Skywork: A More Open Bilingual Foundation Model**, `arXiv, 2310.19341`, [arxiv](http://arxiv.org/abs/2310.19341v1), [pdf](http://arxiv.org/pdf/2310.19341v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=18152031419581471402&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Tianwen Wei, Liang Zhao, Lichang Zhang, Bo Zhu, Lijie Wang, Haihua Yang, Biye Li, Cheng Cheng, Weiwei Lü, Rui Hu* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-11-09-7)) · ([qbitai](https://www.qbitai.com/2023/10/94060.html)) · ([skywork](https://github.com/skyworkai/skywork) - skyworkai) ![Star](https://img.shields.io/github/stars/skyworkai/skywork.svg?style=social&label=Star)

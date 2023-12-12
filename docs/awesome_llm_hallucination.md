@@ -19,6 +19,10 @@
 	 *Cunxiang Wang, Xiaoze Liu, Yuanhao Yue, Xiangru Tang, Tianhang Zhang, Cheng Jiayang, Yunzhi Yao, Wenyang Gao, Xuming Hu, Zehan Qi* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-19-2))
 
 ## Papers
+- **Unlocking Anticipatory Text Generation: A Constrained Approach for
+  Faithful Decoding with Large Language Models**, `arXiv, 2312.06149`, [arxiv](http://arxiv.org/abs/2312.06149v1), [pdf](http://arxiv.org/pdf/2312.06149v1.pdf), cication: [**-1**](None)
+
+	 *Lifu Tu, Semih Yavuz, Jin Qu, Jiacheng Xu, Rui Meng, Caiming Xiong, Yingbo Zhou*
 - **Technical Report: Large Language Models can Strategically Deceive their
   Users when Put Under Pressure**, `arXiv, 2311.07590`, [arxiv](http://arxiv.org/abs/2311.07590v1), [pdf](http://arxiv.org/pdf/2311.07590v1.pdf), cication: [**-1**](None)
 
@@ -66,6 +70,10 @@
 	 *Boxin Wang, Weixin Chen, Hengzhi Pei, Chulin Xie, Mintong Kang, Chenhui Zhang, Chejian Xu, Zidi Xiong, Ritik Dutta, Rylan Schaeffer*
 
 ## Evalution
+- **HallusionBench: An Advanced Diagnostic Suite for Entangled Language
+  Hallucination & Visual Illusion in Large Vision-Language Models**, `arXiv, 2310.14566`, [arxiv](http://arxiv.org/abs/2310.14566v2), [pdf](http://arxiv.org/pdf/2310.14566v2.pdf), cication: [**-1**](None)
+
+	 *Tianrui Guan, Fuxiao Liu, Xiyang Wu, Ruiqi Xian, Zongxia Li, Xiaoyu Liu, Xijun Wang, Lichang Chen, Furong Huang, Yaser Yacoob* · ([HallusionBench?tab=readme-ov-file](https://github.com/tianyi-lab/HallusionBench?tab=readme-ov-file) - tianyi-lab) ![Star](https://img.shields.io/github/stars/tianyi-lab/HallusionBench?tab=readme-ov-file.svg?style=social&label=Star)
 - [**hallucination-leaderboard**](https://github.com/vectara/hallucination-leaderboard) - vectara ![Star](https://img.shields.io/github/stars/vectara/hallucination-leaderboard.svg?style=social&label=Star)
 
 	 *Leaderboard Comparing LLM Performance at Producing Hallucinations when Summarizing Short Documents* · ([t](https://twitter.com/DrJimFan/status/1724464105371939301))

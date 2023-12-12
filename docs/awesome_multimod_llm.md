@@ -46,6 +46,9 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
+- **Generating Illustrated Instructions**, `arXiv, 2312.04552`, [arxiv](http://arxiv.org/abs/2312.04552v1), [pdf](http://arxiv.org/pdf/2312.04552v1.pdf), cication: [**-1**](None)
+
+	 *Sachit Menon, Ishan Misra, Rohit Girdhar*
 - **Alpha-CLIP: A CLIP Model Focusing on Wherever You Want**, `arXiv, 2312.03818`, [arxiv](http://arxiv.org/abs/2312.03818v1), [pdf](http://arxiv.org/pdf/2312.03818v1.pdf), cication: [**-1**](None)
 
 	 *Zeyi Sun, Ye Fang, Tong Wu, Pan Zhang, Yuhang Zang, Shu Kong, Yuanjun Xiong, Dahua Lin, Jiaqi Wang* · ([aleafy.github](https://aleafy.github.io/alpha-clip/))

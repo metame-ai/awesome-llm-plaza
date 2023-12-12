@@ -12,6 +12,13 @@
 
 
 ## Papers
+- **Beyond Human Data: Scaling Self-Training for Problem-Solving with
+  Language Models**, `arXiv, 2312.06585`, [arxiv](http://arxiv.org/abs/2312.06585v1), [pdf](http://arxiv.org/pdf/2312.06585v1.pdf), cication: [**-1**](None)
+
+	 *Avi Singh, John D. Co-Reyes, Rishabh Agarwal, Ankesh Anand, Piyush Patil, Peter J. Liu, James Harrison, Jaehoon Lee, Kelvin Xu, Aaron Parisi*
+- [**HALOs?tab=readme-ov-file**](https://github.com/ContextualAI/HALOs?tab=readme-ov-file) - ContextualAI ![Star](https://img.shields.io/github/stars/ContextualAI/HALOs?tab=readme-ov-file.svg?style=social&label=Star)
+
+	 *Human-Centered Loss Functions (HALOs)* · ([HALOs](https://github.com/ContextualAI/HALOs/blob/main/assets/report.pdf) - ContextualAI) ![Star](https://img.shields.io/github/stars/ContextualAI/HALOs.svg?style=social&label=Star)
 - **Axiomatic Preference Modeling for Longform Question Answering**, `arXiv, 2312.02206`, [arxiv](http://arxiv.org/abs/2312.02206v1), [pdf](http://arxiv.org/pdf/2312.02206v1.pdf), cication: [**-1**](None)
 
 	 *Corby Rosset, Guoqing Zheng, Victor Dibia, Ahmed Awadallah, Paul Bennett* · ([huggingface](https://huggingface.co/corbyrosset/axiomatic_preference_model))

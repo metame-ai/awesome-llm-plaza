@@ -38,6 +38,9 @@
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-18-4))
 ## Agents
+- **An LLM Compiler for Parallel Function Calling**, `arXiv, 2312.04511`, [arxiv](http://arxiv.org/abs/2312.04511v1), [pdf](http://arxiv.org/pdf/2312.04511v1.pdf), cication: [**-1**](None)
+
+	 *Sehoon Kim, Suhong Moon, Ryan Tabrizi, Nicholas Lee, Michael W. Mahoney, Kurt Keutzer, Amir Gholami* · ([llmcompiler](https://github.com/squeezeailab/llmcompiler) - squeezeailab) ![Star](https://img.shields.io/github/stars/squeezeailab/llmcompiler.svg?style=social&label=Star)
 - **Beyond ChatBots: ExploreLLM for Structured Thoughts and Personalized
   Model Responses**, `arXiv, 2312.00763`, [arxiv](http://arxiv.org/abs/2312.00763v1), [pdf](http://arxiv.org/pdf/2312.00763v1.pdf), cication: [**-1**](None)
 
@@ -398,6 +401,9 @@
 - [GPT-4V学会用键鼠上网，人类眼睁睁看着它发帖玩游戏 | 量子位](https://www.qbitai.com/2023/11/95456.html)
 
 ## Retrieval agumented generation
+- **Context Tuning for Retrieval Augmented Generation**, `arXiv, 2312.05708`, [arxiv](http://arxiv.org/abs/2312.05708v1), [pdf](http://arxiv.org/pdf/2312.05708v1.pdf), cication: [**-1**](None)
+
+	 *Raviteja Anantha, Tharun Bethi, Danil Vodianik, Srinivas Chappidi*
 - **TextGenSHAP: Scalable Post-hoc Explanations in Text Generation with Long
   Documents**, `arXiv, 2312.01279`, [arxiv](http://arxiv.org/abs/2312.01279v1), [pdf](http://arxiv.org/pdf/2312.01279v1.pdf), cication: [**-1**](None)
 
@@ -469,6 +475,7 @@
 	 *Interact privately with your documents using the power of GPT, 100% privately, no data leaks*
 
 ### Other
+- [RAG+GPT-4 Turbo让模型性能飙升！更长上下文不是终局，「大海捞针」实验成本仅4%](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652415774&idx=3&sn=8672aeb9f7cce15c3cb43620873b25bb)
 - [问答场景常用大模型解决方案](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494688&idx=2&sn=d871403a80a7fcf656ce0100f266f939)
 
 ## Code Interpreter

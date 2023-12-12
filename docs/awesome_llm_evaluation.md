@@ -66,6 +66,8 @@
 - **Can LLMs Follow Simple Rules?**, `arXiv, 2311.04235`, [arxiv](http://arxiv.org/abs/2311.04235v1), [pdf](http://arxiv.org/pdf/2311.04235v1.pdf), cication: [**-1**](None)
 
 	 *Norman Mu, Sarah Chen, Zifan Wang, Sizhe Chen, David Karamardian, Lulwa Aljeraisy, Dan Hendrycks, David Wagner*
+
+	 · ([llm_rules](https://github.com/normster/llm_rules) - normster) ![Star](https://img.shields.io/github/stars/normster/llm_rules.svg?style=social&label=Star)
 - **Don't Make Your LLM an Evaluation Benchmark Cheater**, `arXiv, 2311.01964`, [arxiv](http://arxiv.org/abs/2311.01964v1), [pdf](http://arxiv.org/pdf/2311.01964v1.pdf), cication: [**-1**](None)
 
 	 *Kun Zhou, Yutao Zhu, Zhipeng Chen, Wentong Chen, Wayne Xin Zhao, Xu Chen, Yankai Lin, Ji-Rong Wen, Jiawei Han*

@@ -15,7 +15,14 @@
 
 	 *Zige Wang, Wanjun Zhong, Yufei Wang, Qi Zhu, Fei Mi, Baojun Wang, Lifeng Shang, Xin Jiang, Qun Liu*
 
+## Techs
+- **Order Matters in the Presence of Dataset Imbalance for Multilingual
+  Learning**, `arXiv, 2312.06134`, [arxiv](http://arxiv.org/abs/2312.06134v1), [pdf](http://arxiv.org/pdf/2312.06134v1.pdf), cication: [**-1**](None)
+
+	 *Dami Choi, Derrick Xin, Hamid Dadkhahi, Justin Gilmer, Ankush Garg, Orhan Firat, Chih-Kuan Yeh, Andrew M. Dai, Behrooz Ghorbani*
+
 ## Datasets
+- [**wikisource**](https://huggingface.co/datasets/wikimedia/wikisource) - wikimedia 🤗
 - [**pii-masking-200k**](https://huggingface.co/datasets/ai4privacy/pii-masking-200k) - ai4privacy 🤗
 - [**SlimPajama-627B**](https://huggingface.co/datasets/cerebras/SlimPajama-627B) - cerebras  🤗
 

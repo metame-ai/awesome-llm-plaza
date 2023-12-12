@@ -21,13 +21,9 @@
 	- [Extra reference](#extra-reference)
 
 ## Survey
+- **A Survey of Large Language Models Attribution**, `arXiv, 2311.03731`, [arxiv](http://arxiv.org/abs/2311.03731v1), [pdf](http://arxiv.org/pdf/2311.03731v1.pdf), cication: [**-1**](None)
 
-- [The History of Open-Source LLMs: Imitation and Alignment (Part Three)](https://cameronrwolfe.substack.com/p/the-history-of-open-source-llms-imitation)
-- [A Survey of Techniques for Maximizing LLM Performance](https://www.youtube.com/watch?v=ahnGLM-RC1Y&ab_channel=OpenAI)
-- [Transformer Taxonomy (the last lit review) | kipply's blog](https://kipp.ly/transformer-taxonomy/?continueFlag=a897a8d0eb16dcae5398f1b58cc5e06f)
-
-	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-08-14-9))
-- [Catching up on the weird world of LLMs](https://simonwillison.net/2023/Aug/3/weird-world-of-llms/)
+	 *Dongfang Li, Zetian Sun, Xinshuo Hu, Zhenyu Liu, Ziyang Chen, Baotian Hu, Aiguo Wu, Min Zhang* · ([awesome-llm-attributions](https://github.com/HITsz-TMG/awesome-llm-attributions) - HITsz-TMG) ![Star](https://img.shields.io/github/stars/HITsz-TMG/awesome-llm-attributions.svg?style=social&label=Star)
 - **On the Origin of LLMs: An Evolutionary Tree and Graph for 15,821 Large
   Language Models**, `arXiv, 2307.09793`, [arxiv](http://arxiv.org/abs/2307.09793v1), [pdf](http://arxiv.org/pdf/2307.09793v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=10725945032792348366&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
@@ -36,8 +32,21 @@
 
 	 *Wayne Xin Zhao, Kun Zhou, Junyi Li, Tianyi Tang, Xiaolei Wang, Yupeng Hou, Yingqian Min, Beichen Zhang, Junjie Zhang, Zican Dong* · ([LLMSurvey](https://github.com/RUCAIBox/LLMSurvey) - RUCAIBox) ![Star](https://img.shields.io/github/stars/RUCAIBox/LLMSurvey.svg?style=social&label=Star)
 
+### Blogs
+- [Research Papers in November 2023](https://magazine.sebastianraschka.com/p/research-papers-in-november-2023)
+- [AI and Open Source in 2023 - by Sebastian Raschka, PhD](https://magazine.sebastianraschka.com/p/ai-and-open-source-in-2023)
+- [The History of Open-Source LLMs: Imitation and Alignment (Part Three)](https://cameronrwolfe.substack.com/p/the-history-of-open-source-llms-imitation)
+- [Research Papers (October 2023) - by Sebastian Raschka, PhD](https://magazine.sebastianraschka.com/p/research-papers-october-2023)
+- [A Survey of Techniques for Maximizing LLM Performance](https://www.youtube.com/watch?v=ahnGLM-RC1Y&ab_channel=OpenAI)
+- [Transformer Taxonomy (the last lit review) | kipply's blog](https://kipp.ly/transformer-taxonomy/?continueFlag=a897a8d0eb16dcae5398f1b58cc5e06f)
+
+	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-08-14-9))
+- [Catching up on the weird world of LLMs](https://simonwillison.net/2023/Aug/3/weird-world-of-llms/)
 
 ## Toolkits
+- [**vllm**](https://github.com/vllm-project/vllm) - vllm-project ![Star](https://img.shields.io/github/stars/vllm-project/vllm.svg?style=social&label=Star)
+
+	 *A high-throughput and memory-efficient inference and serving engine for LLMs*
 - [**langflow**](https://github.com/logspace-ai/langflow) - logspace-ai ![Star](https://img.shields.io/github/stars/logspace-ai/langflow.svg?style=social&label=Star)
 
 	 *⛓️ LangFlow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.*
@@ -158,6 +167,10 @@
 	 *Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers*
 
 ## New model
+- **TCNCA: Temporal Convolution Network with Chunked Attention for Scalable
+  Sequence Processing**, `arXiv, 2312.05605`, [arxiv](http://arxiv.org/abs/2312.05605v1), [pdf](http://arxiv.org/pdf/2312.05605v1.pdf), cication: [**-1**](None)
+
+	 *Aleksandar Terzic, Michael Hersche, Geethan Karunaratne, Luca Benini, Abu Sebastian, Abbas Rahimi*
 - **GIVT: Generative Infinite-Vocabulary Transformers**, `arXiv, 2312.02116`, [arxiv](http://arxiv.org/abs/2312.02116v1), [pdf](http://arxiv.org/pdf/2312.02116v1.pdf), cication: [**-1**](None)
 
 	 *Michael Tschannen, Cian Eastwood, Fabian Mentzer*
@@ -204,6 +217,9 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652345558&idx=4&sn=95686435d5cad05d44cbe02bc26d6859))
 
 ## Explanation
+- **Using Captum to Explain Generative Language Models**, `arXiv, 2312.05491`, [arxiv](http://arxiv.org/abs/2312.05491v1), [pdf](http://arxiv.org/pdf/2312.05491v1.pdf), cication: [**-1**](None)
+
+	 *Vivek Miglani, Aobo Yang, Aram H. Markosyan, Diego Garcia-Olano, Narine Kokhlikyan*
 - **Beyond Surface: Probing LLaMA Across Scales and Layers**, `arXiv, 2312.04333`, [arxiv](http://arxiv.org/abs/2312.04333v1), [pdf](http://arxiv.org/pdf/2312.04333v1.pdf), cication: [**-1**](None)
 
 	 *Nuo Chen, Ning Wu, Shining Liang, Ming Gong, Linjun Shou, Dongmei Zhang, Jia Li*
@@ -270,6 +286,10 @@
   1-layer Transformer**, `arXiv, 2305.16380`, [arxiv](http://arxiv.org/abs/2305.16380v4), [pdf](http://arxiv.org/pdf/2305.16380v4.pdf), cication: [**6**](https://scholar.google.com/scholar?cites=10559864520549789725&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Yuandong Tian, Yiping Wang, Beidi Chen, Simon Du* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652339033&idx=3&sn=7c45e1f38e8ce0bd91869ac2a47078fa))
+- **Label Words are Anchors: An Information Flow Perspective for
+  Understanding In-Context Learning**, `arXiv, 2305.14160`, [arxiv](http://arxiv.org/abs/2305.14160v2), [pdf](http://arxiv.org/pdf/2305.14160v2.pdf), cication: [**-1**](None)
+
+	 *Lean Wang, Lei Li, Damai Dai, Deli Chen, Hao Zhou, Fandong Meng, Jie Zhou, Xu Sun* · ([qbitai](https://www.qbitai.com/2023/12/105631.html))
 
 ## Generaliazation
 - **Pretraining Data Mixtures Enable Narrow Model Selection Capabilities in

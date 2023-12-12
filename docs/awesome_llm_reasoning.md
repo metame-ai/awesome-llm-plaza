@@ -15,6 +15,9 @@
 
 
 ## Reasoning
+- **PathFinder: Guided Search over Multi-Step Reasoning Paths**, `arXiv, 2312.05180`, [arxiv](http://arxiv.org/abs/2312.05180v1), [pdf](http://arxiv.org/pdf/2312.05180v1.pdf), cication: [**-1**](None)
+
+	 *Olga Golovneva, Sean O'Brien, Ramakanth Pasunuru, Tianlu Wang, Luke Zettlemoyer, Maryam Fazel-Zarandi, Asli Celikyilmaz*
 - **Training Chain-of-Thought via Latent-Variable Inference**, `arXiv, 2312.02179`, [arxiv](http://arxiv.org/abs/2312.02179v1), [pdf](http://arxiv.org/pdf/2312.02179v1.pdf), cication: [**-1**](None)
 
 	 *Du Phan, Matthew D. Hoffman, David Dohan, Sholto Douglas, Tuan Anh Le, Aaron Parisi, Pavel Sountsov, Charles Sutton, Sharad Vikram, Rif A. Saurous*
@@ -436,6 +439,9 @@
 - [ChatGPT 詠唱案例懶人包 - 超過 40 個現實世界的應用範例 (持續更新) - 雷司紀的小道投資 raysky](https://www.rayskyinvest.com/96682/chatgpt-examples)
 
 ## In context learning
+- **In-Context Learning with Iterative Demonstration Selection**, `arXiv, 2310.09881`, [arxiv](http://arxiv.org/abs/2310.09881v2), [pdf](http://arxiv.org/pdf/2310.09881v2.pdf), cication: [**-1**](None)
+
+	 *Chengwei Qin, Aston Zhang, Anirudh Dagar, Wenming Ye* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495177&idx=2&sn=fe8353efed16a81e35462be06d5a6cea&poc_token=HE6fdWWjA3UlhR8UcCAzGYGsTFLzGAxqYc3EV_8T))
 - **In-Context Learning Creates Task Vectors**, `arXiv, 2310.15916`, [arxiv](http://arxiv.org/abs/2310.15916v1), [pdf](http://arxiv.org/pdf/2310.15916v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=587881729416371854&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Roee Hendel, Mor Geva, Amir Globerson*
@@ -471,6 +477,9 @@
 - **Understanding In-Context Learning via Supportive Pretraining Data**, `arXiv, 2306.15091`, [arxiv](http://arxiv.org/abs/2306.15091v1), [pdf](http://arxiv.org/pdf/2306.15091v1.pdf), cication: [**5**](https://scholar.google.com/scholar?cites=3489214222287357008&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Xiaochuang Han, Daniel Simig, Todor Mihaylov, Yulia Tsvetkov, Asli Celikyilmaz, Tianlu Wang*
+
+### Other
+- [大模型Fewshot推理如何选择更好的示例](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495177&idx=2&sn=fe8353efed16a81e35462be06d5a6cea&poc_token=HE6fdWWjA3UlhR8UcCAzGYGsTFLzGAxqYc3EV_8T)
 
 ## Knowledge graph 
 - **Think-on-Graph: Deep and Responsible Reasoning of Large Language Model

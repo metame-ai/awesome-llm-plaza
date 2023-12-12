@@ -148,6 +148,11 @@
 - [领域大模型-训练Trick&落地思考](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494320&idx=2&sn=8edd6ea37bbd73768caa306d9daa2cf7)
 
 ## Scaling
+- [Fetching Title#gs1h](https://arxiv.org/abs/2312.06109)
+- **EE-LLM: Large-Scale Training and Inference of Early-Exit Large Language
+  Models with 3D Parallelism**, `arXiv, 2312.04916`, [arxiv](http://arxiv.org/abs/2312.04916v1), [pdf](http://arxiv.org/pdf/2312.04916v1.pdf), cication: [**-1**](None)
+
+	 *Yanxi Chen, Xuchen Pan, Yaliang Li, Bolin Ding, Jingren Zhou* · ([EE-LLM](https://github.com/pan-x-c/EE-LLM) - pan-x-c) ![Star](https://img.shields.io/github/stars/pan-x-c/EE-LLM.svg?style=social&label=Star)
 - **DiLoCo: Distributed Low-Communication Training of Language Models**, `arXiv, 2311.08105`, [arxiv](http://arxiv.org/abs/2311.08105v1), [pdf](http://arxiv.org/pdf/2311.08105v1.pdf), cication: [**-1**](None)
 
 	 *Arthur Douillard, Qixuan Feng, Andrei A. Rusu, Rachita Chhaparia, Yani Donchev, Adhiguna Kuncoro, Marc'Aurelio Ranzato, Arthur Szlam, Jiajun Shen*
@@ -182,6 +187,10 @@
 - [Chinchilla之死：只要训练足够长时间，小模型也能超过大模型 | 机器之心](https://www.jiqizhixin.com/articles/2023-10-03-9)
 
 ## Fine-tuning
+- **Federated Full-Parameter Tuning of Billion-Sized Language Models with
+  Communication Cost under 18 Kilobytes**, `arXiv, 2312.06353`, [arxiv](http://arxiv.org/abs/2312.06353v1), [pdf](http://arxiv.org/pdf/2312.06353v1.pdf), cication: [**-1**](None)
+
+	 *Zhen Qin, Daoyuan Chen, Bingchen Qian, Bolin Ding, Yaliang Li, Shuiguang Deng*
 - **Camels in a Changing Climate: Enhancing LM Adaptation with Tulu 2**, `arXiv, 2311.10702`, [arxiv](http://arxiv.org/abs/2311.10702v1), [pdf](http://arxiv.org/pdf/2311.10702v1.pdf), cication: [**-1**](None)
 
 	 *Hamish Ivison, Yizhong Wang, Valentina Pyatkin, Nathan Lambert, Matthew Peters, Pradeep Dasigi, Joel Jang, David Wadden, Noah A. Smith, Iz Beltagy*
@@ -222,6 +231,9 @@
 	 *Yang Luo, Xiaozhe Ren, Zangwei Zheng, Zhuo Jiang, Xin Jiang, Yang You* · ([qbitai](https://www.qbitai.com/2023/07/67814.html))
  
 ## Ensemble
+- **LM-Cocktail: Resilient Tuning of Language Models via Model Merging**, `arXiv, 2311.13534`, [arxiv](http://arxiv.org/abs/2311.13534v4), [pdf](http://arxiv.org/pdf/2311.13534v4.pdf), cication: [**-1**](None)
+
+	 *Shitao Xiao, Zheng Liu, Peitian Zhang, Xingrun Xing* · ([FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding/tree/master/LM_Cocktail) - FlagOpen) ![Star](https://img.shields.io/github/stars/FlagOpen/FlagEmbedding.svg?style=social&label=Star)
 - **Routing to the Expert: Efficient Reward-guided Ensemble of Large
   Language Models**, `arXiv, 2311.08692`, [arxiv](http://arxiv.org/abs/2311.08692v1), [pdf](http://arxiv.org/pdf/2311.08692v1.pdf), cication: [**-1**](None)
 
@@ -236,6 +248,13 @@
 	 *Dongfu Jiang, Xiang Ren, Bill Yuchen Lin* · ([LLM-Blender](https://github.com/yuchenlin/LLM-Blender) - yuchenlin) ![Star](https://img.shields.io/github/stars/yuchenlin/LLM-Blender.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652343982&idx=4&sn=ce5c51039d91531178257024d883db90))
 
 ## MoE
+- [Mixture of Experts Explained](https://huggingface.co/blog/moe)
+- [**megablocks-public**](https://github.com/mistralai/megablocks-public) - mistralai ![Star](https://img.shields.io/github/stars/mistralai/megablocks-public.svg?style=social&label=Star)
+
+	 · ([qbitai](https://www.qbitai.com/2023/12/105154.html))
+- [**llama-mistral?tab=readme-ov-file**](https://github.com/dzhulgakov/llama-mistral?tab=readme-ov-file) - dzhulgakov ![Star](https://img.shields.io/github/stars/dzhulgakov/llama-mistral?tab=readme-ov-file.svg?style=social&label=Star)
+
+	 *Inference code for Mistral and Mixtral hacked up into original Llama implementation*
 - [**SmartMoE**](https://github.com/zms1999/SmartMoE) - zms1999 ![Star](https://img.shields.io/github/stars/zms1999/SmartMoE.svg?style=social&label=Star)
 
 	 *A MoE impl for PyTorch, [ATC'23] SmartMoE* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-08-07-7))
@@ -246,6 +265,28 @@
 - [**OpenMoE**](https://github.com/XueFuzhao/OpenMoE) - XueFuzhao ![Star](https://img.shields.io/github/stars/XueFuzhao/OpenMoE.svg?style=social&label=Star)
 
 	 *A family of open-sourced Mixture-of-Experts (MoE) Large Language Models*
+
+- **Mixture-of-Experts Meets Instruction Tuning:A Winning Combination for
+  Large Language Models**, `arXiv, 2305.14705`, [arxiv](http://arxiv.org/abs/2305.14705v2), [pdf](http://arxiv.org/pdf/2305.14705v2.pdf), cication: [**-1**](None)
+
+	 *Sheng Shen, Le Hou, Yanqi Zhou, Nan Du, Shayne Longpre, Jason Wei, Hyung Won Chung, Barret Zoph, William Fedus, Xinyun Chen*
+- **MegaBlocks: Efficient Sparse Training with Mixture-of-Experts**, `proceedings of machine learning and systems, 2023`, [arxiv](http://arxiv.org/abs/2211.15841v1), [pdf](http://arxiv.org/pdf/2211.15841v1.pdf), cication: [**-1**](None)
+
+	 *Trevor Gale, Deepak Narayanan, Cliff Young, Matei Zaharia*
+- **Switch Transformers: Scaling to Trillion Parameter Models with Simple
+  and Efficient Sparsity**, `the journal of machine learning research, 2022`, [arxiv](http://arxiv.org/abs/2101.03961v3), [pdf](http://arxiv.org/pdf/2101.03961v3.pdf), cication: [**-1**](None)
+
+	 *William Fedus, Barret Zoph, Noam Shazeer*
+- **GShard: Scaling Giant Models with Conditional Computation and Automatic
+  Sharding**, `arXiv, 2006.16668`, [arxiv](http://arxiv.org/abs/2006.16668v1), [pdf](http://arxiv.org/pdf/2006.16668v1.pdf), cication: [**-1**](None)
+
+	 *Dmitry Lepikhin, HyoukJoong Lee, Yuanzhong Xu, Dehao Chen, Orhan Firat, Yanping Huang, Maxim Krikun, Noam Shazeer, Zhifeng Chen*
+- **Outrageously Large Neural Networks: The Sparsely-Gated
+  Mixture-of-Experts Layer**, `arXiv, 1701.06538`, [arxiv](http://arxiv.org/abs/1701.06538v1), [pdf](http://arxiv.org/pdf/1701.06538v1.pdf), cication: [**-1**](None)
+
+	 *Noam Shazeer, Azalia Mirhoseini, Krzysztof Maziarz, Andy Davis, Quoc Le, Geoffrey Hinton, Jeff Dean*
+
+### Other
 - [模块化大模型来了！IBM公开WastonX核心架构技术细节](https://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&mid=2247522084&idx=3&sn=ceba2b0c3e6434599101f7604ff109c4)
 
 ## Toolkits

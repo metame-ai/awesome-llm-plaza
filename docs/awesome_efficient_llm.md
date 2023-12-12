@@ -17,6 +17,9 @@
 	- [Efficient transformer](#efficient-transformer)
 
 ## Survey
+- **Efficient Large Language Models: A Survey**, `arXiv, 2312.03863`, [arxiv](http://arxiv.org/abs/2312.03863v1), [pdf](http://arxiv.org/pdf/2312.03863v1.pdf), cication: [**-1**](None)
+
+	 *Zhongwei Wan, Xin Wang, Che Liu, Samiul Alam, Yu Zheng, Zhongnan Qu, Shen Yan, Yi Zhu, Quanlu Zhang, Mosharaf Chowdhury* · ([Efficient-LLMs-Survey](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey) - AIoT-MLSys-Lab) ![Star](https://img.shields.io/github/stars/AIoT-MLSys-Lab/Efficient-LLMs-Survey.svg?style=social&label=Star)
 - **The Efficiency Spectrum of Large Language Models: An Algorithmic Survey**, `arXiv, 2312.00678`, [arxiv](http://arxiv.org/abs/2312.00678v1), [pdf](http://arxiv.org/pdf/2312.00678v1.pdf), cication: [**-1**](None)
 
 	 *Tianyu Ding, Tianyi Chen, Haidong Zhu, Jiachen Jiang, Yiqi Zhong, Jinxin Zhou, Guangzhi Wang, Zhihui Zhu, Ilya Zharkov, Luming Liang*
@@ -252,8 +255,16 @@
 	 *A simple and effective LLM pruning approach.*
 
 ## Efficient Inference
+- [**vllm**](https://github.com/vllm-project/vllm) - vllm-project ![Star](https://img.shields.io/github/stars/vllm-project/vllm.svg?style=social&label=Star)
+
+	 *A high-throughput and memory-efficient inference and serving engine for LLMs*
+- **SparQ Attention: Bandwidth-Efficient LLM Inference**, `arXiv, 2312.04985`, [arxiv](http://arxiv.org/abs/2312.04985v1), [pdf](http://arxiv.org/pdf/2312.04985v1.pdf), cication: [**-1**](None)
+
+	 *Luka Ribar, Ivan Chelombiev, Luke Hudlass-Galley, Charlie Blake, Carlo Luschi, Douglas Orr*
+- [Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://yaofu.notion.site/Towards-100x-Speedup-Full-Stack-Transformer-Inference-Optimization-43124c3688e14cffaf2f1d6cbdf26c6c)
+
+	 · ([yaofu.notion](https://yaofu.notion.site/Towards-100x-Transformer-Inference-Speedup-43124c3688e14cffaf2f1d6cbdf26c6c#b8a5e5fc309c48e5b743c90382b01c62))
 - [Optimum-NVIDIA Unlocking blazingly fast LLM inference in just 1 line of code](https://huggingface.co/blog/optimum-nvidia)
-- [Towards 100x Transformer Inference Speedup](https://yaofu.notion.site/Towards-100x-Transformer-Inference-Speedup-43124c3688e14cffaf2f1d6cbdf26c6c#b8a5e5fc309c48e5b743c90382b01c62)
 - **PaSS: Parallel Speculative Sampling**, `arXiv, 2311.13581`, [arxiv](http://arxiv.org/abs/2311.13581v1), [pdf](http://arxiv.org/pdf/2311.13581v1.pdf), cication: [**-1**](None)
 
 	 *Giovanni Monea, Armand Joulin, Edouard Grave*
@@ -355,6 +366,13 @@
 	 *Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-05-04)) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-06-05-2))
 
 ## Toolkits
+- [**gigaGPT**](https://github.com/Cerebras/gigaGPT) - Cerebras ![Star](https://img.shields.io/github/stars/Cerebras/gigaGPT.svg?style=social&label=Star)
+
+	 *a small code base for training large models* · ([cerebras](https://www.cerebras.net/blog/introducing-gigagpt-gpt-3-sized-models-in-565-lines-of-code))
+- [**EAGLE**](https://github.com/SafeAILab/EAGLE) - SafeAILab ![Star](https://img.shields.io/github/stars/SafeAILab/EAGLE.svg?style=social&label=Star)
+
+	 *EAGLE: Lossless Acceleration of LLM Decoding by Feature Extrapolation* · ([sites.google](https://sites.google.com/view/eagle-llm))
+- [**optimum-nvidia**](https://github.com/huggingface/optimum-nvidia) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/optimum-nvidia.svg?style=social&label=Star)
 - [**unsloth**](https://github.com/unslothai/unsloth) - unslothai ![Star](https://img.shields.io/github/stars/unslothai/unsloth.svg?style=social&label=Star)
 
 	 *5X faster 50% less memory LLM finetuning*
@@ -372,6 +390,7 @@
 	 *DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.*
 
 ## Efficient transformer
+- [Paving the way to efficient architectures: StripedHyena-7B, open source models offering a glimpse into a world beyond Transformers](https://www.together.ai/blog/stripedhyena-7b)
 - **Efficient Monotonic Multihead Attention**, `arXiv, 2312.04515`, [arxiv](http://arxiv.org/abs/2312.04515v1), [pdf](http://arxiv.org/pdf/2312.04515v1.pdf), cication: [**-1**](None)
 
 	 *Xutai Ma, Anna Sun, Siqi Ouyang, Hirofumi Inaguma, Paden Tomasello*
