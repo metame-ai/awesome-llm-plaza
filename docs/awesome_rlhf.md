@@ -113,7 +113,10 @@
   Training**, `arXiv, 2306.01693`, [arxiv](http://arxiv.org/abs/2306.01693v2), [pdf](http://arxiv.org/pdf/2306.01693v2.pdf), cication: [**7**](https://scholar.google.com/scholar?cites=9400790265193597011&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Zeqiu Wu, Yushi Hu, Weijia Shi, Nouha Dziri, Alane Suhr, Prithviraj Ammanabrolu, Noah A. Smith, Mari Ostendorf, Hannaneh Hajishirzi* · ([finegrainedrlhf.github](https://finegrainedrlhf.github.io/)) · ([qbitai](https://www.qbitai.com/2023/06/61691.html))
-- [[2305.18290] Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290)
+- **Direct Preference Optimization: Your Language Model is Secretly a Reward
+  Model**, `arXiv, 2305.18290`, [arxiv](http://arxiv.org/abs/2305.18290v2), [pdf](http://arxiv.org/pdf/2305.18290v2.pdf), cication: [**-1**](None)
+
+	 *Rafael Rafailov, Archit Sharma, Eric Mitchell, Stefano Ermon, Christopher D. Manning, Chelsea Finn*
 	- 
 - **Let's Verify Step by Step**, `arXiv, 2305.20050`, [arxiv](http://arxiv.org/abs/2305.20050v1), [pdf](http://arxiv.org/pdf/2305.20050v1.pdf), cication: [**76**](https://scholar.google.com/scholar?cites=3594089577812846684&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 

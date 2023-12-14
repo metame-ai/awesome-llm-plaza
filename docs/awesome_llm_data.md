@@ -20,7 +20,9 @@
   Learning**, `arXiv, 2312.06134`, [arxiv](http://arxiv.org/abs/2312.06134v1), [pdf](http://arxiv.org/pdf/2312.06134v1.pdf), cication: [**-1**](None)
 
 	 *Dami Choi, Derrick Xin, Hamid Dadkhahi, Justin Gilmer, Ankush Garg, Orhan Firat, Chih-Kuan Yeh, Andrew M. Dai, Behrooz Ghorbani*
-- [[2305.16264] Scaling Data-Constrained Language Models](https://arxiv.org/abs/2305.16264)
+- **Scaling Data-Constrained Language Models**, `arXiv, 2305.16264`, [arxiv](http://arxiv.org/abs/2305.16264v4), [pdf](http://arxiv.org/pdf/2305.16264v4.pdf), cication: [**-1**](None)
+
+	 *Niklas Muennighoff, Alexander M. Rush, Boaz Barak, Teven Le Scao, Aleksandra Piktus, Nouamane Tazi, Sampo Pyysalo, Thomas Wolf, Colin Raffel*
 
 	 · ([datablations](https://github.com/huggingface/datablations) - huggingface) ![Star](https://img.shields.io/github/stars/huggingface/datablations.svg?style=social&label=Star)
 
@@ -34,7 +36,9 @@
 - [**peS2o**](https://huggingface.co/datasets/allenai/peS2o) - allenai 🤗
 
 ### Misc
-- [[2309.04662] MADLAD-400: A Multilingual And Document-Level Large Audited Dataset](https://arxiv.org/abs/2309.04662)
+- **MADLAD-400: A Multilingual And Document-Level Large Audited Dataset**, `arXiv, 2309.04662`, [arxiv](http://arxiv.org/abs/2309.04662v1), [pdf](http://arxiv.org/pdf/2309.04662v1.pdf), cication: [**-1**](None)
+
+	 *Sneha Kudugunta, Isaac Caswell, Biao Zhang, Xavier Garcia, Christopher A. Choquette-Choo, Katherine Lee, Derrick Xin, Aditya Kusupati, Romi Stella, Ankur Bapna*
 
 	 · ([google-research](https://github.com/google-research/google-research/tree/master/madlad_400) - google-research) ![Star](https://img.shields.io/github/stars/google-research/google-research.svg?style=social&label=Star)
 - [Phi-2: The surprising power of small language models - Microsoft Research](https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/)

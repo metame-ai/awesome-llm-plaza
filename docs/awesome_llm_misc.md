@@ -121,7 +121,9 @@
 	 *FlagAI (Fast LArge-scale General AI models) is a fast, easy-to-use and extensible toolkit for large-scale model.*
 
 ## Unlearning
-- [[2310.10683] Large Language Model Unlearning](https://arxiv.org/abs/2310.10683)
+- **Large Language Model Unlearning**, `arXiv, 2310.10683`, [arxiv](http://arxiv.org/abs/2310.10683v1), [pdf](http://arxiv.org/pdf/2310.10683v1.pdf), cication: [**-1**](None)
+
+	 *Yuanshun Yao, Xiaojun Xu, Yang Liu*
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-12-13-6)) · ([llm_unlearn](https://github.com/kevinyaobytedance/llm_unlearn) - kevinyaobytedance) ![Star](https://img.shields.io/github/stars/kevinyaobytedance/llm_unlearn.svg?style=social&label=Star)
 - **Improving Language Plasticity via Pretraining with Active Forgetting**, `arXiv, 2307.01163`, [arxiv](http://arxiv.org/abs/2307.01163v2), [pdf](http://arxiv.org/pdf/2307.01163v2.pdf), cication: [**-1**](None)

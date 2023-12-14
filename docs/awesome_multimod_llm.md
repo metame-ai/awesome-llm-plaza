@@ -46,15 +46,21 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
-- [[2312.06742] Honeybee: Locality-enhanced Projector for Multimodal LLM](https://arxiv.org/abs/2312.06742)
+- **Honeybee: Locality-enhanced Projector for Multimodal LLM**, `arXiv, 2312.06742`, [arxiv](http://arxiv.org/abs/2312.06742v1), [pdf](http://arxiv.org/pdf/2312.06742v1.pdf), cication: [**-1**](None)
+
+	 *Junbum Cha, Wooyoung Kang, Jonghwan Mun, Byungseok Roh*
 
 	 · ([honeybee](https://github.com/kakaobrain/honeybee) - kakaobrain) ![Star](https://img.shields.io/github/stars/kakaobrain/honeybee.svg?style=social&label=Star)
 - **Interfacing Foundation Models' Embeddings**, `arXiv, 2312.07532`, [arxiv](http://arxiv.org/abs/2312.07532v1), [pdf](http://arxiv.org/pdf/2312.07532v1.pdf), cication: [**-1**](None)
 
 	 *Xueyan Zou, Linjie Li, Jianfeng Wang, Jianwei Yang, Mingyu Ding, Zhengyuan Yang, Feng Li, Hao Zhang, Shilong Liu, Arul Aravinthan* · ([FIND](https://github.com/UX-Decoder/FIND) - UX-Decoder) ![Star](https://img.shields.io/github/stars/UX-Decoder/FIND.svg?style=social&label=Star)
-- [[2312.07533] VILA: On Pre-training for Visual Language Models](https://arxiv.org/abs/2312.07533)
+- **VILA: On Pre-training for Visual Language Models**, `arXiv, 2312.07533`, [arxiv](http://arxiv.org/abs/2312.07533v1), [pdf](http://arxiv.org/pdf/2312.07533v1.pdf), cication: [**-1**](None)
+
+	 *Ji Lin, Hongxu Yin, Wei Ping, Yao Lu, Pavlo Molchanov, Andrew Tao, Huizi Mao, Jan Kautz, Mohammad Shoeybi, Song Han*
 	- 
-- [[2312.06109] Vary: Scaling up the Vision Vocabulary for Large Vision-Language Models](https://arxiv.org/abs/2312.06109)
+- **Vary: Scaling up the Vision Vocabulary for Large Vision-Language Models**, `arXiv, 2312.06109`, [arxiv](http://arxiv.org/abs/2312.06109v1), [pdf](http://arxiv.org/pdf/2312.06109v1.pdf), cication: [**-1**](None)
+
+	 *Haoran Wei, Lingyu Kong, Jinyue Chen, Liang Zhao, Zheng Ge, Jinrong Yang, Jianjian Sun, Chunrui Han, Xiangyu Zhang*
 - **Generating Illustrated Instructions**, `arXiv, 2312.04552`, [arxiv](http://arxiv.org/abs/2312.04552v1), [pdf](http://arxiv.org/pdf/2312.04552v1.pdf), cication: [**-1**](None)
 
 	 *Sachit Menon, Ishan Misra, Rohit Girdhar*

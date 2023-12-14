@@ -390,7 +390,10 @@
 	 *DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.*
 
 ## Efficient transformer
-- [[2312.07046] Rethinking Compression: Reduced Order Modelling of Latent Features in Large Language Models](https://arxiv.org/abs/2312.07046)
+- **Rethinking Compression: Reduced Order Modelling of Latent Features in
+  Large Language Models**, `arXiv, 2312.07046`, [arxiv](http://arxiv.org/abs/2312.07046v1), [pdf](http://arxiv.org/pdf/2312.07046v1.pdf), cication: [**-1**](None)
+
+	 *Arnav Chavan, Nahush Lele, Deepak Gupta*
 - [Paving the way to efficient architectures: StripedHyena-7B, open source models offering a glimpse into a world beyond Transformers](https://www.together.ai/blog/stripedhyena-7b)
 - **Efficient Monotonic Multihead Attention**, `arXiv, 2312.04515`, [arxiv](http://arxiv.org/abs/2312.04515v1), [pdf](http://arxiv.org/pdf/2312.04515v1.pdf), cication: [**-1**](None)
 

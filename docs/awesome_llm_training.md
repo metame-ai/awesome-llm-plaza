@@ -151,7 +151,9 @@
 - [领域大模型-训练Trick&落地思考](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494320&idx=2&sn=8edd6ea37bbd73768caa306d9daa2cf7)
 
 ## Scaling
-- [[2312.06109] Vary: Scaling up the Vision Vocabulary for Large Vision-Language Models](https://arxiv.org/abs/2312.06109)
+- **Vary: Scaling up the Vision Vocabulary for Large Vision-Language Models**, `arXiv, 2312.06109`, [arxiv](http://arxiv.org/abs/2312.06109v1), [pdf](http://arxiv.org/pdf/2312.06109v1.pdf), cication: [**-1**](None)
+
+	 *Haoran Wei, Lingyu Kong, Jinyue Chen, Liang Zhao, Zheng Ge, Jinrong Yang, Jianjian Sun, Chunrui Han, Xiangyu Zhang*
 - **EE-LLM: Large-Scale Training and Inference of Early-Exit Large Language
   Models with 3D Parallelism**, `arXiv, 2312.04916`, [arxiv](http://arxiv.org/abs/2312.04916v1), [pdf](http://arxiv.org/pdf/2312.04916v1.pdf), cication: [**-1**](None)
 
@@ -186,7 +188,10 @@
 - **Training Compute-Optimal Large Language Models**, `arXiv, 2203.15556`, [arxiv](http://arxiv.org/abs/2203.15556v1), [pdf](http://arxiv.org/pdf/2203.15556v1.pdf), cication: [**202**](https://scholar.google.com/scholar?cites=4527570165872937408&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Jordan Hoffmann, Sebastian Borgeaud, Arthur Mensch, Elena Buchatskaya, Trevor Cai, Eliza Rutherford, Diego de Las Casas, Lisa Anne Hendricks, Johannes Welbl, Aidan Clark*
-- [[2304.01373] Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling](https://arxiv.org/abs/2304.01373)
+- **Pythia: A Suite for Analyzing Large Language Models Across Training and
+  Scaling**, `ICML, 2023`, [arxiv](http://arxiv.org/abs/2304.01373v2), [pdf](http://arxiv.org/pdf/2304.01373v2.pdf), cication: [**-1**](None)
+
+	 *Stella Biderman, Hailey Schoelkopf, Quentin Anthony, Herbie Bradley, Kyle O'Brien, Eric Hallahan, Mohammad Aflah Khan, Shivanshu Purohit, USVSN Sai Prashanth, Edward Raff*
 	 - [twitter](https://twitter.com/rasbt/status/1734920232173539796)
 
 ### Other

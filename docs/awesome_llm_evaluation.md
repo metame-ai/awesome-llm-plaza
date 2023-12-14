@@ -25,7 +25,10 @@
 	 *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang*
 
 ## Papers
-- [[2312.07424] How Well Does GPT-4V(ision) Adapt to Distribution Shifts? A Preliminary Investigation](https://arxiv.org/abs/2312.07424)
+- **How Well Does GPT-4V(ision) Adapt to Distribution Shifts? A Preliminary
+  Investigation**, `arXiv, 2312.07424`, [arxiv](http://arxiv.org/abs/2312.07424v2), [pdf](http://arxiv.org/pdf/2312.07424v2.pdf), cication: [**-1**](None)
+
+	 *Zhongyi Han, Guanglin Zhou, Rundong He, Jindong Wang, Tailin Wu, Yilong Yin, Salman Khan, Lina Yao, Tongliang Liu, Kun Zhang*
 
 	 · ([gpt-4v-distribution-shift](https://github.com/jameszhou-gl/gpt-4v-distribution-shift) - jameszhou-gl) ![Star](https://img.shields.io/github/stars/jameszhou-gl/gpt-4v-distribution-shift.svg?style=social&label=Star)
 - [Catch me if you can! How to beat GPT-4 with a 13B model | LMSYS Org](https://lmsys.org/blog/2023-11-14-llm-decontaminator/)
@@ -162,7 +165,9 @@
   - [[2306.11698] DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models](https://arxiv.org/abs//2306.11698)
 
 	 · ([decodingtrust.github](https://decodingtrust.github.io/))
-- [[2306.05685] Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena](https://arxiv.org/abs/2306.05685)
+- **Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena**, `arXiv, 2306.05685`, [arxiv](http://arxiv.org/abs/2306.05685v3), [pdf](http://arxiv.org/pdf/2306.05685v3.pdf), cication: [**-1**](None)
+
+	 *Lianmin Zheng, Wei-Lin Chiang, Ying Sheng, Siyuan Zhuang, Zhanghao Wu, Yonghao Zhuang, Zi Lin, Zhuohan Li, Dacheng Li, Eric. P Xing*
 - **The ConceptARC Benchmark: Evaluating Understanding and Generalization in
   the ARC Domain**, `arXiv, 2305.07141`, [arxiv](http://arxiv.org/abs/2305.07141v1), [pdf](http://arxiv.org/pdf/2305.07141v1.pdf), cication: [**10**](https://scholar.google.com/scholar?cites=8946879368609581934&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
