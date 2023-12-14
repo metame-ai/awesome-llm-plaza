@@ -390,6 +390,7 @@
 	 *DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.*
 
 ## Efficient transformer
+- [[2312.07046] Rethinking Compression: Reduced Order Modelling of Latent Features in Large Language Models](https://arxiv.org/abs/2312.07046)
 - [Paving the way to efficient architectures: StripedHyena-7B, open source models offering a glimpse into a world beyond Transformers](https://www.together.ai/blog/stripedhyena-7b)
 - **Efficient Monotonic Multihead Attention**, `arXiv, 2312.04515`, [arxiv](http://arxiv.org/abs/2312.04515v1), [pdf](http://arxiv.org/pdf/2312.04515v1.pdf), cication: [**-1**](None)
 
@@ -421,6 +422,7 @@
 	 · ([zhuanlan.zhihu](https://zhuanlan.zhihu.com/p/634236135))
 
 ##  Other
+- [Schedule | NeurIPS Large Language Model Efficiency Challenge:1 LLM + 1GPU + 1Day](https://llm-efficiency-challenge.github.io/schedule)
 - [Dynamic LoRA loading for better performance and optimized resource usage](https://huggingface.co/blog/lora-adapters-dynamic-loading)
 ## Courses
 ### EfficientML

@@ -6,13 +6,16 @@
 	- [Projects](#projects)
 	- [Other](#other)
 
-
 ## Survey
 - **A Survey on Language Models for Code**, `arXiv, 2311.07989`, [arxiv](http://arxiv.org/abs/2311.07989v1), [pdf](http://arxiv.org/pdf/2311.07989v1.pdf), cication: [**-1**](None)
 
 	 *Ziyin Zhang, Chaoyu Chen, Bingchang Liu, Cong Liao, Zi Gong, Hang Yu, Jianguo Li, Rui Wang*
 
 ## Paper
+- **"I Want It That Way": Enabling Interactive Decision Support Using Large
+  Language Models and Constraint Programming**, `arXiv, 2312.06908`, [arxiv](http://arxiv.org/abs/2312.06908v1), [pdf](http://arxiv.org/pdf/2312.06908v1.pdf), cication: [**-1**](None)
+
+	 *Connor Lawless, Jakob Schoeffer, Lindy Le, Kael Rowan, Shilad Sen, Cristina St. Hill, Jina Suh, Bahar Sarrafzadeh*
 - **Purple Llama CyberSecEval: A Secure Coding Benchmark for Language Models**, `arXiv, 2312.04724`, [arxiv](http://arxiv.org/abs/2312.04724v1), [pdf](http://arxiv.org/pdf/2312.04724v1.pdf), cication: [**-1**](None)
 
 	 *Manish Bhatt, Sahana Chennabasappa, Cyrus Nikolaidis, Shengye Wan, Ivan Evtimov, Dominik Gabi, Daniel Song, Faizan Ahmad, Cornelius Aschermann, Lorenzo Fontana*
@@ -140,6 +143,9 @@
 
 
 ## Projects
+- [**sweep**](https://github.com/sweepai/sweep) - sweepai ![Star](https://img.shields.io/github/stars/sweepai/sweep.svg?style=social&label=Star)
+
+	 *Sweep: AI-powered Junior Developer for small features and bug fixes.*
 - [**wizardlm**](https://github.com/nlpxucan/wizardlm) - nlpxucan ![Star](https://img.shields.io/github/stars/nlpxucan/wizardlm.svg?style=social&label=Star)
 
 	 *Family of instruction-following LLMs powered by Evol-Instruct: WizardLM, WizardCoder*

@@ -31,6 +31,10 @@
 # English
 
 ## Foundation
+- [**DeciLM-7B**](https://huggingface.co/Deci/DeciLM-7B) - Deci 🤗
+- [**DeciLM-7B-instruct**](https://huggingface.co/Deci/DeciLM-7B-instruct) - Deci 🤗
+
+	 · ([huggingface](https://huggingface.co/spaces/Deci/DeciLM-7B-instruct))
 - **LLM360: Towards Fully Transparent Open-Source LLMs**, `arXiv, 2312.06550`, [arxiv](http://arxiv.org/abs/2312.06550v1), [pdf](http://arxiv.org/pdf/2312.06550v1.pdf), cication: [**-1**](None)
 
 	 *Zhengzhong Liu, Aurick Qiao, Willie Neiswanger, Hongyi Wang, Bowen Tan, Tianhua Tao, Junbo Li, Yuqi Wang, Suqi Sun, Omkar Pangarkar*
@@ -84,6 +88,10 @@
 
 	 *Kaiyuan Gao, Sunan He, Zhenyu He, Jiacheng Lin, QiZhi Pei, Jie Shao, Wei Zhang* · ([gpt_alternatives](https://github.com/GPT-Alternatives/gpt_alternatives) - GPT-Alternatives) ![Star](https://img.shields.io/github/stars/GPT-Alternatives/gpt_alternatives.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-09-12-3))
 
+### Phi
+- [**phi-2**](https://huggingface.co/microsoft/phi-2) - microsoft 🤗
+- [**phi-1_5**](https://huggingface.co/microsoft/phi-1_5) - microsoft 🤗
+- [**phi-1**](https://huggingface.co/microsoft/phi-1) - microsoft 🤗
 ### Mistral
 - [**mistral-src**](https://github.com/mistralai/mistral-src) - mistralai ![Star](https://img.shields.io/github/stars/mistralai/mistral-src.svg?style=social&label=Star)
 
@@ -99,6 +107,10 @@
 
 	 · ([huggingface](https://t.co/rFz2hhLWat))
 - [**mixtral-8x7b-32kseqlen**](https://huggingface.co/someone13574/mixtral-8x7b-32kseqlen) - someone13574 🤗
+- [**mixtral-46.7b-chat**](https://huggingface.co/spaces/openskyml/mixtral-46.7b-chat) - openskyml 🤗
+- [**MixtralKit**](https://github.com/open-compass/MixtralKit) - open-compass ![Star](https://img.shields.io/github/stars/open-compass/MixtralKit.svg?style=social&label=Star)
+
+	 *A toolkit for inference and evaluation of 'mixtral-8x7b-32kseqlen' from Mistral AI*
 
 ### StripedHyena-7B 
 - [**StripedHyena-Hessian-7B**](https://huggingface.co/togethercomputer/StripedHyena-Hessian-7B) - togethercomputer 🤗
@@ -114,7 +126,9 @@
 - [**mpt-30b-chat**](https://huggingface.co/spaces/mosaicml/mpt-30b-chat) - mosaicml 🤗
 
 ### h2oGPT
-[[2306.08161] h2oGPT: Democratizing Large Language Models](https://arxiv.org/abs//2306.08161)
+- **h2oGPT: Democratizing Large Language Models**, `arXiv, 2306.08161`, [arxiv](http://arxiv.org/abs/2306.08161v2), [pdf](http://arxiv.org/pdf/2306.08161v2.pdf), cication: [**-1**](None)
+
+	 *Arno Candel, Jon McKinney, Philipp Singer, Pascal Pfeiffer, Maximilian Jeblick, Prithvi Prabhu, Jeff Gambera, Mark Landry, Shivam Bansal, Ryan Chesler*
 
 ### LLaMA
 - [**Llama-2-7b-chat-mlx**](https://huggingface.co/mlx-llama/Llama-2-7b-chat-mlx) - mlx-llama 🤗
@@ -140,6 +154,9 @@
 	 *Run Llama 2 locally with gradio UI on GPU or CPU from anywhere (Linux/Windows/Mac). Supporting Llama-2-7B/13B/70B with 8-bit, 4-bit. Supporting GPU inference (6 GB VRAM) and CPU inference.*
 - [Fine-tune Llama 2 with DPO](https://huggingface.co/blog/dpo-trl)
 - [**Flan-Open-Llama-13b**](https://huggingface.co/conceptofmind/Flan-Open-Llama-13b) - conceptofmind 🤗
+- [**Llama-2**](https://github.com/amitsangani/Llama-2) - amitsangani ![Star](https://img.shields.io/github/stars/amitsangani/Llama-2.svg?style=social&label=Star)
+
+	 *All the projects related to Llama*
 
 ### Falcon
 - [Spread Your Wings: Falcon 180B is here](https://huggingface.co/blog/falcon-180b)

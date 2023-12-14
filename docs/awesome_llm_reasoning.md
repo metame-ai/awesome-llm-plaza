@@ -257,6 +257,9 @@
 - [大模型Fewshot推理如何选择更好的示例](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495177&idx=2&sn=fe8353efed16a81e35462be06d5a6cea)
 
 ## Math reasoning
+- [**LeanCopilot**](https://github.com/lean-dojo/LeanCopilot) - lean-dojo ![Star](https://img.shields.io/github/stars/lean-dojo/LeanCopilot.svg?style=social&label=Star)
+
+	 *LLMs as Copilots for Theorem Proving in Lean*
 - **Large Language Models for Mathematicians**, `arXiv, 2312.04556`, [arxiv](http://arxiv.org/abs/2312.04556v1), [pdf](http://arxiv.org/pdf/2312.04556v1.pdf), cication: [**-1**](None)
 
 	 *Simon Frieder, Julius Berner, Philipp Petersen, Thomas Lukasiewicz*
@@ -365,6 +368,9 @@
 	 *Tianlu Wang, Ping Yu, Xiaoqing Ellen Tan, Sean O'Brien, Ramakanth Pasunuru, Jane Dwivedi-Yu, Olga Golovneva, Luke Zettlemoyer, Maryam Fazel-Zarandi, Asli Celikyilmaz* · ([shepherd](https://github.com/facebookresearch/shepherd) - facebookresearch) ![Star](https://img.shields.io/github/stars/facebookresearch/shepherd.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652366759&idx=3&sn=f183f4c8080a338c4c9fad0f026b14af))
 
 ## Prompting
+- [**promptbase**](https://github.com/microsoft/promptbase) - microsoft ![Star](https://img.shields.io/github/stars/microsoft/promptbase.svg?style=social&label=Star)
+
+	 *All things prompt engineering*
 - [**plum**](https://github.com/research4pan/plum) - research4pan ![Star](https://img.shields.io/github/stars/research4pan/plum.svg?style=social&label=Star)
 
 	 *Prompt Learning using Metaheuristics*
@@ -435,6 +441,7 @@
 	 *Maciej Besta, Nils Blach, Ales Kubicek, Robert Gerstenberger, Lukas Gianinazzi, Joanna Gajda, Tomasz Lehmann, Michal Podstawski, Hubert Niewiadomski, Piotr Nyczyk* · ([graph-of-thoughts](https://github.com/spcl/graph-of-thoughts) - spcl) ![Star](https://img.shields.io/github/stars/spcl/graph-of-thoughts.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-08-25-3))
 
 ### Other
+- [Steering at the Frontier: Extending the Power of Prompting - Microsoft Research](https://www.microsoft.com/en-us/research/blog/steering-at-the-frontier-extending-the-power-of-prompting/)
 - [我用 ChatGPT 寫了一個 ChatGPT 指令大全網站 - 軟體工程師面試、職涯、新加坡生活分享 - ExplainThis](https://www.explainthis.io/zh-hant/chatgpt/website)
 - [ChatGPT 詠唱案例懶人包 - 超過 40 個現實世界的應用範例 (持續更新) - 雷司紀的小道投資 raysky](https://www.rayskyinvest.com/96682/chatgpt-examples)
 

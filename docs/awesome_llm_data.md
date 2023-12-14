@@ -20,6 +20,9 @@
   Learning**, `arXiv, 2312.06134`, [arxiv](http://arxiv.org/abs/2312.06134v1), [pdf](http://arxiv.org/pdf/2312.06134v1.pdf), cication: [**-1**](None)
 
 	 *Dami Choi, Derrick Xin, Hamid Dadkhahi, Justin Gilmer, Ankush Garg, Orhan Firat, Chih-Kuan Yeh, Andrew M. Dai, Behrooz Ghorbani*
+- [[2305.16264] Scaling Data-Constrained Language Models](https://arxiv.org/abs/2305.16264)
+
+	 · ([datablations](https://github.com/huggingface/datablations) - huggingface) ![Star](https://img.shields.io/github/stars/huggingface/datablations.svg?style=social&label=Star)
 
 ## Datasets
 - [**wikisource**](https://huggingface.co/datasets/wikimedia/wikisource) - wikimedia 🤗
@@ -31,6 +34,10 @@
 - [**peS2o**](https://huggingface.co/datasets/allenai/peS2o) - allenai 🤗
 
 ### Misc
+- [[2309.04662] MADLAD-400: A Multilingual And Document-Level Large Audited Dataset](https://arxiv.org/abs/2309.04662)
+
+	 · ([google-research](https://github.com/google-research/google-research/tree/master/madlad_400) - google-research) ![Star](https://img.shields.io/github/stars/google-research/google-research.svg?style=social&label=Star)
+- [Phi-2: The surprising power of small language models - Microsoft Research](https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/)
 - **What's In My Big Data?**, `arXiv, 2310.20707`, [arxiv](http://arxiv.org/abs/2310.20707v1), [pdf](http://arxiv.org/pdf/2310.20707v1.pdf), cication: [**-1**](None)
 
 	 *Yanai Elazar, Akshita Bhagia, Ian Magnusson, Abhilasha Ravichander, Dustin Schwenk, Alane Suhr, Pete Walsh, Dirk Groeneveld, Luca Soldaini, Sameer Singh*

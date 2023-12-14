@@ -46,6 +46,15 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
+- [[2312.06742] Honeybee: Locality-enhanced Projector for Multimodal LLM](https://arxiv.org/abs/2312.06742)
+
+	 · ([honeybee](https://github.com/kakaobrain/honeybee) - kakaobrain) ![Star](https://img.shields.io/github/stars/kakaobrain/honeybee.svg?style=social&label=Star)
+- **Interfacing Foundation Models' Embeddings**, `arXiv, 2312.07532`, [arxiv](http://arxiv.org/abs/2312.07532v1), [pdf](http://arxiv.org/pdf/2312.07532v1.pdf), cication: [**-1**](None)
+
+	 *Xueyan Zou, Linjie Li, Jianfeng Wang, Jianwei Yang, Mingyu Ding, Zhengyuan Yang, Feng Li, Hao Zhang, Shilong Liu, Arul Aravinthan* · ([FIND](https://github.com/UX-Decoder/FIND) - UX-Decoder) ![Star](https://img.shields.io/github/stars/UX-Decoder/FIND.svg?style=social&label=Star)
+- [[2312.07533] VILA: On Pre-training for Visual Language Models](https://arxiv.org/abs/2312.07533)
+	- 
+- [[2312.06109] Vary: Scaling up the Vision Vocabulary for Large Vision-Language Models](https://arxiv.org/abs/2312.06109)
 - **Generating Illustrated Instructions**, `arXiv, 2312.04552`, [arxiv](http://arxiv.org/abs/2312.04552v1), [pdf](http://arxiv.org/pdf/2312.04552v1.pdf), cication: [**-1**](None)
 
 	 *Sachit Menon, Ishan Misra, Rohit Girdhar*
@@ -55,6 +64,10 @@
 - **LLaVA-Grounding: Grounded Visual Chat with Large Multimodal Models**, `arXiv, 2312.02949`, [arxiv](http://arxiv.org/abs/2312.02949v1), [pdf](http://arxiv.org/pdf/2312.02949v1.pdf), cication: [**-1**](None)
 
 	 *Hao Zhang, Hongyang Li, Feng Li, Tianhe Ren, Xueyan Zou, Shilong Liu, Shijia Huang, Jianfeng Gao, Lei Zhang, Chunyuan Li* · ([LLaVA-Grounding](https://github.com/UX-Decoder/LLaVA-Grounding) - UX-Decoder) ![Star](https://img.shields.io/github/stars/UX-Decoder/LLaVA-Grounding.svg?style=social&label=Star)
+- **Q-Instruct: Improving Low-level Visual Abilities for Multi-modality
+  Foundation Models**, `arXiv, 2311.06783`, [arxiv](http://arxiv.org/abs/2311.06783v1), [pdf](http://arxiv.org/pdf/2311.06783v1.pdf), cication: [**-1**](None)
+
+	 *Haoning Wu, Zicheng Zhang, Erli Zhang, Chaofeng Chen, Liang Liao, Annan Wang, Kaixin Xu, Chunyi Li, Jingwen Hou, Guangtao Zhai* · ([Q-Instruct](https://github.com/Q-Future/Q-Instruct) - Q-Future) ![Star](https://img.shields.io/github/stars/Q-Future/Q-Instruct.svg?style=social&label=Star)
 - **Mitigating Object Hallucinations in Large Vision-Language Models through
   Visual Contrastive Decoding**, `arXiv, 2311.16922`, [arxiv](http://arxiv.org/abs/2311.16922v1), [pdf](http://arxiv.org/pdf/2311.16922v1.pdf), cication: [**-1**](None)
 

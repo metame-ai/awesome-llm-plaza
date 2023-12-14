@@ -19,6 +19,7 @@
 	 *Cunxiang Wang, Xiaoze Liu, Yuanhao Yue, Xiangru Tang, Tianhang Zhang, Cheng Jiayang, Yunzhi Yao, Wenyang Gao, Xuming Hu, Zehan Qi* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-19-2))
 
 ## Papers
+- [[2312.06681] Steering Llama 2 via Contrastive Activation Addition](https://arxiv.org/abs/2312.06681)
 - **Unlocking Anticipatory Text Generation: A Constrained Approach for
   Faithful Decoding with Large Language Models**, `arXiv, 2312.06149`, [arxiv](http://arxiv.org/abs/2312.06149v1), [pdf](http://arxiv.org/pdf/2312.06149v1.pdf), cication: [**-1**](None)
 
@@ -68,6 +69,9 @@
   Models**, `arXiv, 2306.11698`, [arxiv](http://arxiv.org/abs/2306.11698v1), [pdf](http://arxiv.org/pdf/2306.11698v1.pdf), cication: [**24**](https://scholar.google.com/scholar?cites=12930725443717311591&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Boxin Wang, Weixin Chen, Hengzhi Pei, Chulin Xie, Mintong Kang, Chenhui Zhang, Chejian Xu, Zidi Xiong, Ritik Dutta, Rylan Schaeffer*
+- [[2305.14292] WikiChat: Stopping the Hallucination of Large Language Model Chatbots by Few-Shot Grounding on Wikipedia](https://arxiv.org/abs/2305.14292)
+
+	 · ([wikichat?tab=readme-ov-file](https://github.com/stanford-oval/wikichat?tab=readme-ov-file) - stanford-oval) ![Star](https://img.shields.io/github/stars/stanford-oval/wikichat?tab=readme-ov-file.svg?style=social&label=Star)
 
 ## Evalution
 - **HallusionBench: An Advanced Diagnostic Suite for Entangled Language

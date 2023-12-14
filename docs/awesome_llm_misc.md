@@ -44,6 +44,12 @@
 - [Catching up on the weird world of LLMs](https://simonwillison.net/2023/Aug/3/weird-world-of-llms/)
 
 ## Toolkits
+- [**BricksLLM**](https://github.com/bricks-cloud/BricksLLM) - bricks-cloud ![Star](https://img.shields.io/github/stars/bricks-cloud/BricksLLM.svg?style=social&label=Star)
+
+	 *Simplifying LLM ops in production*
+- [**skypilot**](https://github.com/skypilot-org/skypilot) - skypilot-org ![Star](https://img.shields.io/github/stars/skypilot-org/skypilot.svg?style=social&label=Star)
+
+	 *SkyPilot: Run LLMs, AI, and Batch jobs on any cloud. Get maximum savings, highest GPU availability, and managed execution—all with a simple interface.*
 - [**vllm**](https://github.com/vllm-project/vllm) - vllm-project ![Star](https://img.shields.io/github/stars/vllm-project/vllm.svg?style=social&label=Star)
 
 	 *A high-throughput and memory-efficient inference and serving engine for LLMs*
@@ -115,6 +121,9 @@
 	 *FlagAI (Fast LArge-scale General AI models) is a fast, easy-to-use and extensible toolkit for large-scale model.*
 
 ## Unlearning
+- [[2310.10683] Large Language Model Unlearning](https://arxiv.org/abs/2310.10683)
+
+	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-12-13-6)) · ([llm_unlearn](https://github.com/kevinyaobytedance/llm_unlearn) - kevinyaobytedance) ![Star](https://img.shields.io/github/stars/kevinyaobytedance/llm_unlearn.svg?style=social&label=Star)
 - **Improving Language Plasticity via Pretraining with Active Forgetting**, `arXiv, 2307.01163`, [arxiv](http://arxiv.org/abs/2307.01163v2), [pdf](http://arxiv.org/pdf/2307.01163v2.pdf), cication: [**-1**](None)
 
 	 *Yihong Chen, Kelly Marchisio, Roberta Raileanu, David Ifeoluwa Adelani, Pontus Stenetorp, Sebastian Riedel, Mikel Artetxe*

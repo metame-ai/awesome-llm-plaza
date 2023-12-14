@@ -25,6 +25,12 @@
 	 *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang*
 
 ## Papers
+- [[2312.07424] How Well Does GPT-4V(ision) Adapt to Distribution Shifts? A Preliminary Investigation](https://arxiv.org/abs/2312.07424)
+
+	 · ([gpt-4v-distribution-shift](https://github.com/jameszhou-gl/gpt-4v-distribution-shift) - jameszhou-gl) ![Star](https://img.shields.io/github/stars/jameszhou-gl/gpt-4v-distribution-shift.svg?style=social&label=Star)
+- [Catch me if you can! How to beat GPT-4 with a 13B model | LMSYS Org](https://lmsys.org/blog/2023-11-14-llm-decontaminator/)
+
+	 · ([youtube](https://www.youtube.com/watch?v=dxH1GFCfdF0&t=2s&ab_channel=MatthewBerman))
 - **Evaluating and Mitigating Discrimination in Language Model Decisions**, `arXiv, 2312.03689`, [arxiv](http://arxiv.org/abs/2312.03689v1), [pdf](http://arxiv.org/pdf/2312.03689v1.pdf), cication: [**-1**](None)
 
 	 *Alex Tamkin, Amanda Askell, Liane Lovitt, Esin Durmus, Nicholas Joseph, Shauna Kravec, Karina Nguyen, Jared Kaplan, Deep Ganguli* · ([huggingface](https://huggingface.co/datasets/Anthropic/discrim-eval))
@@ -152,6 +158,11 @@
 - **Do-Not-Answer: A Dataset for Evaluating Safeguards in LLMs**, `arXiv, 2308.13387`, [arxiv](http://arxiv.org/abs/2308.13387v2), [pdf](http://arxiv.org/pdf/2308.13387v2.pdf), cication: [**3**](https://scholar.google.com/scholar?cites=2648067072454919746&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Yuxia Wang, Haonan Li, Xudong Han, Preslav Nakov, Timothy Baldwin* · [[jiqizhixin](https://www.jiqizhixin.com/articles/2023-09-05-7)]
+	 
+  - [[2306.11698] DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models](https://arxiv.org/abs//2306.11698)
+
+	 · ([decodingtrust.github](https://decodingtrust.github.io/))
+- [[2306.05685] Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena](https://arxiv.org/abs/2306.05685)
 - **The ConceptARC Benchmark: Evaluating Understanding and Generalization in
   the ARC Domain**, `arXiv, 2305.07141`, [arxiv](http://arxiv.org/abs/2305.07141v1), [pdf](http://arxiv.org/pdf/2305.07141v1.pdf), cication: [**10**](https://scholar.google.com/scholar?cites=8946879368609581934&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 

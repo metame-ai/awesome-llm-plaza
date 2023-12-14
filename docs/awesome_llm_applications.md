@@ -38,6 +38,12 @@
 - [Navigating the Jagged Technological Frontier: Field Experimental Evidence of the Effects of AI on Knowledge Worker Productivity and Quality](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4573321)
 
 ## Toolkits
+- [**deploy**](https://github.com/pandora-next/deploy) - pandora-next ![Star](https://img.shields.io/github/stars/pandora-next/deploy.svg?style=social&label=Star)
+
+	 *Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API + Signup Free = PandoraNext. New GPTs(Gizmo) UI, All in one!*
+- [**llmware**](https://github.com/llmware-ai/llmware) - llmware-ai ![Star](https://img.shields.io/github/stars/llmware-ai/llmware.svg?style=social&label=Star)
+
+	 *Providing enterprise-grade LLM-based development framework, tools, and fine-tuned models.*
 - [**create_llama_projects**](https://github.com/jerryjliu/create_llama_projects) - jerryjliu ![Star](https://img.shields.io/github/stars/jerryjliu/create_llama_projects.svg?style=social&label=Star)
 - [**LLM-As-Chatbot**](https://github.com/deep-diver/LLM-As-Chatbot) - deep-diver ![Star](https://img.shields.io/github/stars/deep-diver/LLM-As-Chatbot.svg?style=social&label=Star)
 

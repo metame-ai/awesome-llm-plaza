@@ -7,6 +7,10 @@
 	- [Reference](#reference)
 
 ## Papers
+- **Agent as Cerebrum, Controller as Cerebellum: Implementing an Embodied
+  LMM-based Agent on Drones**, `arXiv, 2311.15033`, [arxiv](http://arxiv.org/abs/2311.15033v1), [pdf](http://arxiv.org/pdf/2311.15033v1.pdf), cication: [**-1**](None)
+
+	 *Haoran Zhao, Fengxing Pan, Huqiuyue Ping, Yaoming Zhou* · ([qbitai](https://www.qbitai.com/2023/12/106007.html))
 - **From Text to Motion: Grounding GPT-4 in a Humanoid Robot "Alter3"**, `arXiv, 2312.06571`, [arxiv](http://arxiv.org/abs/2312.06571v1), [pdf](http://arxiv.org/pdf/2312.06571v1.pdf), cication: [**-1**](None)
 
 	 *Takahide Yoshida, Atsushi Masumori, Takashi Ikegami* · ([tnoinkwms.github](https://tnoinkwms.github.io/ALTER-LLM/))

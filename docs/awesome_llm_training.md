@@ -55,6 +55,9 @@
 	 *Yufei Wang, Wanjun Zhong, Liangyou Li, Fei Mi, Xingshan Zeng, Wenyong Huang, Lifeng Shang, Xin Jiang, Qun Liu* · ([AlignLLMHumanSurvey](https://github.com/GaryYufei/AlignLLMHumanSurvey) - GaryYufei) ![Star](https://img.shields.io/github/stars/GaryYufei/AlignLLMHumanSurvey.svg?style=social&label=Star)
 
 ### Paper & Projects
+- **Alignment for Honesty**, `arXiv, 2312.07000`, [arxiv](http://arxiv.org/abs/2312.07000v1), [pdf](http://arxiv.org/pdf/2312.07000v1.pdf), cication: [**-1**](None)
+
+	 *Yuqing Yang, Ethan Chern, Xipeng Qiu, Graham Neubig, Pengfei Liu* · ([alignment-for-honesty](https://github.com/GAIR-NLP/alignment-for-honesty) - GAIR-NLP) ![Star](https://img.shields.io/github/stars/GAIR-NLP/alignment-for-honesty.svg?style=social&label=Star)
 - **The Unlocking Spell on Base LLMs: Rethinking Alignment via In-Context
   Learning**, `arXiv, 2312.01552`, [arxiv](http://arxiv.org/abs/2312.01552v1), [pdf](http://arxiv.org/pdf/2312.01552v1.pdf), cication: [**-1**](None)
 
@@ -148,7 +151,7 @@
 - [领域大模型-训练Trick&落地思考](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494320&idx=2&sn=8edd6ea37bbd73768caa306d9daa2cf7)
 
 ## Scaling
-- [Fetching Title#gs1h](https://arxiv.org/abs/2312.06109)
+- [[2312.06109] Vary: Scaling up the Vision Vocabulary for Large Vision-Language Models](https://arxiv.org/abs/2312.06109)
 - **EE-LLM: Large-Scale Training and Inference of Early-Exit Large Language
   Models with 3D Parallelism**, `arXiv, 2312.04916`, [arxiv](http://arxiv.org/abs/2312.04916v1), [pdf](http://arxiv.org/pdf/2312.04916v1.pdf), cication: [**-1**](None)
 
@@ -177,9 +180,14 @@
   Training**, `arXiv, 2306.08055`, [arxiv](http://arxiv.org/abs/2306.08055v1), [pdf](http://arxiv.org/pdf/2306.08055v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=7982331810308735377&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Abraham J. Fetterman, Ellie Kitanidis, Joshua Albrecht, Zachary Polizzi, Bryden Fogelman, Maksis Knutins, Bartosz Wróblewski, James B. Simon, Kanjun Qiu*
+- **To Repeat or Not To Repeat: Insights from Scaling LLM under Token-Crisis**, `arXiv, 2305.13230`, [arxiv](http://arxiv.org/abs/2305.13230v2), [pdf](http://arxiv.org/pdf/2305.13230v2.pdf), cication: [**-1**](None)
+
+	 *Fuzhao Xue, Yao Fu, Wangchunshu Zhou, Zangwei Zheng, Yang You*
 - **Training Compute-Optimal Large Language Models**, `arXiv, 2203.15556`, [arxiv](http://arxiv.org/abs/2203.15556v1), [pdf](http://arxiv.org/pdf/2203.15556v1.pdf), cication: [**202**](https://scholar.google.com/scholar?cites=4527570165872937408&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Jordan Hoffmann, Sebastian Borgeaud, Arthur Mensch, Elena Buchatskaya, Trevor Cai, Eliza Rutherford, Diego de Las Casas, Lisa Anne Hendricks, Johannes Welbl, Aidan Clark*
+- [[2304.01373] Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling](https://arxiv.org/abs/2304.01373)
+	 - [twitter](https://twitter.com/rasbt/status/1734920232173539796)
 
 ### Other
 - [Techniques for training large neural networks](https://openai.com/research/techniques-for-training-large-neural-networks)
