@@ -7,6 +7,10 @@
 	- [Reference](#reference)
 
 ## Papers
+- [[2312.09187] Vision-Language Models as a Source of Rewards](https://arxiv.org/abs/2312.09187)
+- [[2312.07843] Foundation Models in Robotics: Applications, Challenges, and the Future](https://arxiv.org/abs/2312.07843)
+
+	 · ([Awesome-Robotics-Foundation-Models](https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models) - robotics-survey) ![Star](https://img.shields.io/github/stars/robotics-survey/Awesome-Robotics-Foundation-Models.svg?style=social&label=Star)
 - **Agent as Cerebrum, Controller as Cerebellum: Implementing an Embodied
   LMM-based Agent on Drones**, `arXiv, 2311.15033`, [arxiv](http://arxiv.org/abs/2311.15033v1), [pdf](http://arxiv.org/pdf/2311.15033v1.pdf), cication: [**-1**](None)
 

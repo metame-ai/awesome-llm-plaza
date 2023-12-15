@@ -11,6 +11,9 @@
 
 ## Vision
 ### Video
+- [[2312.09158] General Object Foundation Model for Images and Videos at Scale](https://arxiv.org/abs/2312.09158)
+
+	 · ([glee-vision.github](https://glee-vision.github.io))
 - **OneLLM: One Framework to Align All Modalities with Language**, `arXiv, 2312.03700`, [arxiv](http://arxiv.org/abs/2312.03700v1), [pdf](http://arxiv.org/pdf/2312.03700v1.pdf), cication: [**-1**](None)
 
 	 *Jiaming Han, Kaixiong Gong, Yiyuan Zhang, Jiaqi Wang, Kaipeng Zhang, Dahua Lin, Yu Qiao, Peng Gao, Xiangyu Yue*
@@ -46,6 +49,7 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
+- [[2312.09251] VL-GPT: A Generative Pre-trained Transformer for Vision and Language Understanding and Generation](https://arxiv.org/abs/2312.09251)
 - **Honeybee: Locality-enhanced Projector for Multimodal LLM**, `arXiv, 2312.06742`, [arxiv](http://arxiv.org/abs/2312.06742v1), [pdf](http://arxiv.org/pdf/2312.06742v1.pdf), cication: [**-1**](None)
 
 	 *Junbum Cha, Wooyoung Kang, Jonghwan Mun, Byungseok Roh*

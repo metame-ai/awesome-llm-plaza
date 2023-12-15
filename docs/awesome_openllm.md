@@ -31,6 +31,7 @@
 # English
 
 ## Foundation
+- [[2312.08688] TigerBot: An Open Multilingual Multitask LLM](https://arxiv.org/abs/2312.08688)
 - [**DeciLM-7B**](https://huggingface.co/Deci/DeciLM-7B) - Deci 🤗
 - [**DeciLM-7B-instruct**](https://huggingface.co/Deci/DeciLM-7B-instruct) - Deci 🤗
 
@@ -92,6 +93,8 @@
 - [**phi-2**](https://huggingface.co/microsoft/phi-2) - microsoft 🤗
 - [**phi-1_5**](https://huggingface.co/microsoft/phi-1_5) - microsoft 🤗
 - [**phi-1**](https://huggingface.co/microsoft/phi-1) - microsoft 🤗
+
+- [**phi-2**](https://huggingface.co/spaces/randomblock1/phi-2) - randomblock1 🤗
 ### Mistral
 - [**mistral-src**](https://github.com/mistralai/mistral-src) - mistralai ![Star](https://img.shields.io/github/stars/mistralai/mistral-src.svg?style=social&label=Star)
 
@@ -108,6 +111,8 @@
 	 · ([huggingface](https://t.co/rFz2hhLWat))
 - [**mixtral-8x7b-32kseqlen**](https://huggingface.co/someone13574/mixtral-8x7b-32kseqlen) - someone13574 🤗
 - [**mixtral-46.7b-chat**](https://huggingface.co/spaces/openskyml/mixtral-46.7b-chat) - openskyml 🤗
+- [**Mixtral-8x7B-v0.1-GPTQ**](https://huggingface.co/TheBloke/Mixtral-8x7B-v0.1-GPTQ) - TheBloke 🤗
+- [Mixtral 8x7B on Fireworks: faster, cheaper, even before the official release | by Fireworks.ai | Dec, 2023 | Medium](https://blog.fireworks.ai/mixtral-8x7b-on-fireworks-faster-cheaper-even-before-the-official-release-ae024b5ad602)
 - [**MixtralKit**](https://github.com/open-compass/MixtralKit) - open-compass ![Star](https://img.shields.io/github/stars/open-compass/MixtralKit.svg?style=social&label=Star)
 
 	 *A toolkit for inference and evaluation of 'mixtral-8x7b-32kseqlen' from Mistral AI*

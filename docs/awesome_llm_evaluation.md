@@ -25,6 +25,12 @@
 	 *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang*
 
 ## Papers
+- [[2312.07910] PromptBench: A Unified Library for Evaluation of Large Language Models](https://arxiv.org/abs/2312.07910)
+
+	 · ([promptbench](https://github.com/microsoft/promptbench) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/promptbench.svg?style=social&label=Star)
+- [[2311.18702] CritiqueLLM: Scaling LLM-as-Critic for Effective and Explainable Evaluation of Large Language Model Generation](https://arxiv.org/abs/2311.18702)
+
+	 · ([critiquellm](https://github.com/thu-coai/critiquellm) - thu-coai) ![Star](https://img.shields.io/github/stars/thu-coai/critiquellm.svg?style=social&label=Star)
 - **How Well Does GPT-4V(ision) Adapt to Distribution Shifts? A Preliminary
   Investigation**, `arXiv, 2312.07424`, [arxiv](http://arxiv.org/abs/2312.07424v2), [pdf](http://arxiv.org/pdf/2312.07424v2.pdf), cication: [**-1**](None)
 
@@ -162,7 +168,7 @@
 
 	 *Yuxia Wang, Haonan Li, Xudong Han, Preslav Nakov, Timothy Baldwin* · [[jiqizhixin](https://www.jiqizhixin.com/articles/2023-09-05-7)]
 	 
-  - [[2306.11698] DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models](https://arxiv.org/abs//2306.11698)
+- [[2306.11698] DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models](https://arxiv.org/abs//2306.11698)
 
 	 · ([decodingtrust.github](https://decodingtrust.github.io/))
 - **Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena**, `arXiv, 2306.05685`, [arxiv](http://arxiv.org/abs/2306.05685v3), [pdf](http://arxiv.org/pdf/2306.05685v3.pdf), cication: [**-1**](None)
@@ -246,6 +252,9 @@
 	 *Lianmin Zheng, Wei-Lin Chiang, Ying Sheng, Siyuan Zhuang, Zhanghao Wu, Yonghao Zhuang, Zi Lin, Zhuohan Li, Dacheng Li, Eric. P Xing*
 
 ## Projects
+- [**deepeval?utm_source=ai-drop.beehiiv.com&utm_medium=referral&utm_campaign=google-unveils-medlm-ai-models-for-health-care**](https://github.com/confident-ai/deepeval?utm_source=ai-drop.beehiiv.com&utm_medium=referral&utm_campaign=google-unveils-medlm-ai-models-for-health-care) - confident-ai ![Star](https://img.shields.io/github/stars/confident-ai/deepeval?utm_source=ai-drop.beehiiv.com&utm_medium=referral&utm_campaign=google-unveils-medlm-ai-models-for-health-care.svg?style=social&label=Star)
+
+	 *The Evaluation Framework for LLMs*
 - [**Nexus_Function_Calling_Leaderboard**](https://huggingface.co/spaces/Nexusflow/Nexus_Function_Calling_Leaderboard) - Nexusflow 🤗
 - [Open LLM Leaderboard: DROP deep dive](https://huggingface.co/blog/leaderboard-drop-dive)
 - [LLM Leaderboard best models ❤️‍🔥 - a open-llm-leaderboard Collection](https://huggingface.co/collections/open-llm-leaderboard/llm-leaderboard-best-models-652d6c7965a4619fb5c27a03)

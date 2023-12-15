@@ -12,6 +12,7 @@
 
 
 ## Papers
+- [[2312.09244] Helping or Herding? Reward Model Ensembles Mitigate but do not Eliminate Reward Hacking](https://arxiv.org/abs/2312.09244)
 - **Beyond Human Data: Scaling Self-Training for Problem-Solving with
   Language Models**, `arXiv, 2312.06585`, [arxiv](http://arxiv.org/abs/2312.06585v1), [pdf](http://arxiv.org/pdf/2312.06585v1.pdf), cication: [**-1**](None)
 
@@ -139,6 +140,7 @@
 - [**tril**](https://github.com/cornell-rl/tril) - cornell-rl ![Star](https://img.shields.io/github/stars/cornell-rl/tril.svg?style=social&label=Star)
 
 ## Other
+- [Reinforcement Learning from Human Feedback - DeepLearning.AI](https://www.deeplearning.ai/short-courses/reinforcement-learning-from-human-feedback/)
 - [**Reinforcement Learning for Language Models**](https://gist.github.com/yoavg/6bff0fecd65950898eba1bb321cfbd81) - yoavg ![Star](https://img.shields.io/github/stars/yoavg/6bff0fecd65950898eba1bb321cfbd81.svg?style=social&label=Star)
 - [The Q\* hypothesis: Tree-of-thoughts reasoning, process reward models, and supercharging synthetic data](https://www.interconnects.ai/p/q-star)
 - [reverse engineer the Q* fantasy](https://twitter.com/DrJimFan/status/1728100123862004105)

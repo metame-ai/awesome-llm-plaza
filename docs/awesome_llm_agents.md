@@ -38,6 +38,12 @@
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-18-4))
 ## Agents
+- [[2312.08914] CogAgent: A Visual Language Model for GUI Agents](https://arxiv.org/abs/2312.08914)
+
+	 · ([CogVLM](https://github.com/THUDM/CogVLM) - THUDM) ![Star](https://img.shields.io/github/stars/THUDM/CogVLM.svg?style=social&label=Star)
+- [[2312.02519] Creative Agents: Empowering Agents with Imagination for Creative Tasks](https://arxiv.org/abs/2312.02519)
+
+	 · ([Creative-Agents](https://github.com/PKU-RL/Creative-Agents) - PKU-RL) ![Star](https://img.shields.io/github/stars/PKU-RL/Creative-Agents.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652418572&idx=5&sn=332ac225c1058c20150f8c18697cabc0))
 - **An LLM Compiler for Parallel Function Calling**, `arXiv, 2312.04511`, [arxiv](http://arxiv.org/abs/2312.04511v1), [pdf](http://arxiv.org/pdf/2312.04511v1.pdf), cication: [**-1**](None)
 
 	 *Sehoon Kim, Suhong Moon, Ryan Tabrizi, Nicholas Lee, Michael W. Mahoney, Kurt Keutzer, Amir Gholami* · ([llmcompiler](https://github.com/squeezeailab/llmcompiler) - squeezeailab) ![Star](https://img.shields.io/github/stars/squeezeailab/llmcompiler.svg?style=social&label=Star)
@@ -401,6 +407,12 @@
 - [GPT-4V学会用键鼠上网，人类眼睁睁看着它发帖玩游戏 | 量子位](https://www.qbitai.com/2023/11/95456.html)
 
 ## Retrieval agumented generation
+- [**CodeFuse-DevOps-Model**](https://github.com/codefuse-ai/CodeFuse-DevOps-Model) - codefuse-ai ![Star](https://img.shields.io/github/stars/codefuse-ai/CodeFuse-DevOps-Model.svg?style=social&label=Star)
+
+	 *DevOps-Models is a series of industrial-first LLMs for theDevOps domain. Asking it for any question in the DevOps domain to get solution!*
+- [**codefuse-chatbot**](https://github.com/codefuse-ai/codefuse-chatbot) - codefuse-ai ![Star](https://img.shields.io/github/stars/codefuse-ai/codefuse-chatbot.svg?style=social&label=Star)
+
+	 *An open-sourced AI assistant/agents for the full-life cycle of AI native software developing, supporting chat interactions plus knowledge base, invoking tools, sandbox execution, etc.* · ([qbitai](https://www.qbitai.com/2023/12/106372.html))
 - **Context Tuning for Retrieval Augmented Generation**, `arXiv, 2312.05708`, [arxiv](http://arxiv.org/abs/2312.05708v1), [pdf](http://arxiv.org/pdf/2312.05708v1.pdf), cication: [**-1**](None)
 
 	 *Raviteja Anantha, Tharun Bethi, Danil Vodianik, Srinivas Chappidi*
@@ -518,6 +530,9 @@
 - [各路大神献出自定义GPT，24小时Top 9名单在这 | 机器之心](https://www.jiqizhixin.com/articles/2023-11-13-13)
 
 ## Evaluation
+- [**codefuse-devops-eval**](https://github.com/codefuse-ai/codefuse-devops-eval) - codefuse-ai ![Star](https://img.shields.io/github/stars/codefuse-ai/codefuse-devops-eval.svg?style=social&label=Star)
+
+	 *Industrial-first evaluation benchmark for LLMs in the DevOps/AIOps domain.*
 - **GAIA: a benchmark for General AI Assistants**, `arXiv, 2311.12983`, [arxiv](http://arxiv.org/abs/2311.12983v1), [pdf](http://arxiv.org/pdf/2311.12983v1.pdf), cication: [**-1**](None)
 
 	 *Grégoire Mialon, Clémentine Fourrier, Craig Swift, Thomas Wolf, Yann LeCun, Thomas Scialom* · ([huggingface](https://huggingface.co/gaia-benchmark))

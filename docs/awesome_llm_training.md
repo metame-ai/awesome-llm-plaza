@@ -55,6 +55,9 @@
 	 *Yufei Wang, Wanjun Zhong, Liangyou Li, Fei Mi, Xingshan Zeng, Wenyong Huang, Lifeng Shang, Xin Jiang, Qun Liu* · ([AlignLLMHumanSurvey](https://github.com/GaryYufei/AlignLLMHumanSurvey) - GaryYufei) ![Star](https://img.shields.io/github/stars/GaryYufei/AlignLLMHumanSurvey.svg?style=social&label=Star)
 
 ### Paper & Projects
+- [**weak-to-strong**](https://github.com/openai/weak-to-strong) - openai ![Star](https://img.shields.io/github/stars/openai/weak-to-strong.svg?style=social&label=Star)
+
+	 · ([openai](https://openai.com/research/weak-to-strong-generalization)) · ([cdn.openai](https://cdn.openai.com/papers/weak-to-strong-generalization.pdf))
 - **Alignment for Honesty**, `arXiv, 2312.07000`, [arxiv](http://arxiv.org/abs/2312.07000v1), [pdf](http://arxiv.org/pdf/2312.07000v1.pdf), cication: [**-1**](None)
 
 	 *Yuqing Yang, Ethan Chern, Xipeng Qiu, Graham Neubig, Pengfei Liu* · ([alignment-for-honesty](https://github.com/GAIR-NLP/alignment-for-honesty) - GAIR-NLP) ![Star](https://img.shields.io/github/stars/GAIR-NLP/alignment-for-honesty.svg?style=social&label=Star)
@@ -151,6 +154,9 @@
 - [领域大模型-训练Trick&落地思考](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494320&idx=2&sn=8edd6ea37bbd73768caa306d9daa2cf7)
 
 ## Scaling
+- [[2312.08361] Distributed Inference and Fine-tuning of Large Language Models Over The Internet](https://arxiv.org/abs/2312.08361)
+
+	 · ([petals](https://github.com/bigscience-workshop/petals) - bigscience-workshop) ![Star](https://img.shields.io/github/stars/bigscience-workshop/petals.svg?style=social&label=Star)
 - **Vary: Scaling up the Vision Vocabulary for Large Vision-Language Models**, `arXiv, 2312.06109`, [arxiv](http://arxiv.org/abs/2312.06109v1), [pdf](http://arxiv.org/pdf/2312.06109v1.pdf), cication: [**-1**](None)
 
 	 *Haoran Wei, Lingyu Kong, Jinyue Chen, Liang Zhao, Zheng Ge, Jinrong Yang, Jianjian Sun, Chunrui Han, Xiangyu Zhang*
@@ -244,6 +250,9 @@
 	 *Yang Luo, Xiaozhe Ren, Zangwei Zheng, Zhuo Jiang, Xin Jiang, Yang You* · ([qbitai](https://www.qbitai.com/2023/07/67814.html))
  
 ## Ensemble
+- [**mergekit**](https://github.com/cg123/mergekit) - cg123 ![Star](https://img.shields.io/github/stars/cg123/mergekit.svg?style=social&label=Star)
+
+	 *Tools for merging pretrained large language models.*
 - **LM-Cocktail: Resilient Tuning of Language Models via Model Merging**, `arXiv, 2311.13534`, [arxiv](http://arxiv.org/abs/2311.13534v4), [pdf](http://arxiv.org/pdf/2311.13534v4.pdf), cication: [**-1**](None)
 
 	 *Shitao Xiao, Zheng Liu, Peitian Zhang, Xingrun Xing* · ([FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding/tree/master/LM_Cocktail) - FlagOpen) ![Star](https://img.shields.io/github/stars/FlagOpen/FlagEmbedding.svg?style=social&label=Star)
@@ -261,6 +270,9 @@
 	 *Dongfu Jiang, Xiang Ren, Bill Yuchen Lin* · ([LLM-Blender](https://github.com/yuchenlin/LLM-Blender) - yuchenlin) ![Star](https://img.shields.io/github/stars/yuchenlin/LLM-Blender.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652343982&idx=4&sn=ce5c51039d91531178257024d883db90))
 
 ## MoE
+- [[2312.07987] SwitchHead: Accelerating Transformers with Mixture-of-Experts Attention](https://arxiv.org/abs/2312.07987)
+
+	 · ([moe_attention](https://github.com/robertcsordas/moe_attention) - robertcsordas) ![Star](https://img.shields.io/github/stars/robertcsordas/moe_attention.svg?style=social&label=Star)
 - [Mixture of Experts Explained](https://huggingface.co/blog/moe)
 - [**megablocks-public**](https://github.com/mistralai/megablocks-public) - mistralai ![Star](https://img.shields.io/github/stars/mistralai/megablocks-public.svg?style=social&label=Star)
 

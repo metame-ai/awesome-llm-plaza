@@ -109,6 +109,7 @@
 	 *Xunyu Zhu, Jian Li, Yong Liu, Can Ma, Weiping Wang* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-08-26-5))
 
 ### Papers
+- [[2312.08583] ZeroQuant(4+2): Redefining LLMs Quantization with a New FP6-Centric Strategy for Diverse Generative Tasks](https://arxiv.org/abs/2312.08583)
 - **LQ-LoRA: Low-rank Plus Quantized Matrix Decomposition for Efficient
   Language Model Finetuning**, `arXiv, 2311.12023`, [arxiv](http://arxiv.org/abs/2311.12023v1), [pdf](http://arxiv.org/pdf/2311.12023v1.pdf), cication: [**-1**](None)
 
@@ -372,6 +373,8 @@
 - [**EAGLE**](https://github.com/SafeAILab/EAGLE) - SafeAILab ![Star](https://img.shields.io/github/stars/SafeAILab/EAGLE.svg?style=social&label=Star)
 
 	 *EAGLE: Lossless Acceleration of LLM Decoding by Feature Extrapolation* · ([sites.google](https://sites.google.com/view/eagle-llm))
+
+	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-12-14-2))
 - [**optimum-nvidia**](https://github.com/huggingface/optimum-nvidia) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/optimum-nvidia.svg?style=social&label=Star)
 - [**unsloth**](https://github.com/unslothai/unsloth) - unslothai ![Star](https://img.shields.io/github/stars/unslothai/unsloth.svg?style=social&label=Star)
 

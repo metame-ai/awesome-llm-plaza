@@ -17,6 +17,7 @@
 - [Attention? Attention! | Lil'Log](https://lilianweng.github.io/posts/2018-06-24-attention/#a-family-of-attention-mechanisms)
 
 ## Papers
+- [[2312.08618] Zebra: Extending Context Window with Layerwise Grouped Local-Global Attention](https://arxiv.org/abs/2312.08618)
 - **Ultra-Long Sequence Distributed Transformer**, `arXiv, 2311.02382`, [arxiv](http://arxiv.org/abs/2311.02382v2), [pdf](http://arxiv.org/pdf/2311.02382v2.pdf), cication: [**-1**](None)
 
 	 *Xiao Wang, Isaac Lyngaas, Aristeidis Tsaris, Peng Chen, Sajal Dash, Mayanka Chandra Shekar, Tao Luo, Hong-Jun Yoon, Mohamed Wahib, John Gouley*

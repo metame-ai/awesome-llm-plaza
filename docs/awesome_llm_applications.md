@@ -38,6 +38,12 @@
 - [Navigating the Jagged Technological Frontier: Field Experimental Evidence of the Effects of AI on Knowledge Worker Productivity and Quality](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4573321)
 
 ## Toolkits
+- [**pandas-ai**](https://github.com/gventuri/pandas-ai) - gventuri ![Star](https://img.shields.io/github/stars/gventuri/pandas-ai.svg?style=social&label=Star)
+
+	 *PandasAI is the Python library that integrates Gen AI into pandas, making data analysis conversational*
+- [**taipy**](https://github.com/Avaiga/taipy) - Avaiga ![Star](https://img.shields.io/github/stars/Avaiga/taipy.svg?style=social&label=Star)
+
+	 *Turns Data and AI algorithms into production-ready web applications in no time.*
 - [**deploy**](https://github.com/pandora-next/deploy) - pandora-next ![Star](https://img.shields.io/github/stars/pandora-next/deploy.svg?style=social&label=Star)
 
 	 *Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API + Signup Free = PandoraNext. New GPTs(Gizmo) UI, All in one!*
@@ -126,6 +132,7 @@
 
 
 ## Medical
+- [[2312.07814] A Foundational Multimodal Vision Language AI Assistant for Human Pathology](https://arxiv.org/abs/2312.07814)
 - **Using Large Language Models to Accelerate Communication for Users with
   Severe Motor Impairments**, `arXiv, 2312.01532`, [arxiv](http://arxiv.org/abs/2312.01532v1), [pdf](http://arxiv.org/pdf/2312.01532v1.pdf), cication: [**-1**](None)
 
