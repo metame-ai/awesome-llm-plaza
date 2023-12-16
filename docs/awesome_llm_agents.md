@@ -41,7 +41,9 @@
 - [[2312.08914] CogAgent: A Visual Language Model for GUI Agents](https://arxiv.org/abs/2312.08914)
 
 	 · ([CogVLM](https://github.com/THUDM/CogVLM) - THUDM) ![Star](https://img.shields.io/github/stars/THUDM/CogVLM.svg?style=social&label=Star)
-- [[2312.02519] Creative Agents: Empowering Agents with Imagination for Creative Tasks](https://arxiv.org/abs/2312.02519)
+- **Creative Agents: Empowering Agents with Imagination for Creative Tasks**, `arXiv, 2312.02519`, [arxiv](http://arxiv.org/abs/2312.02519v1), [pdf](http://arxiv.org/pdf/2312.02519v1.pdf), cication: [**-1**](None)
+
+	 *Chi Zhang, Penglin Cai, Yuhui Fu, Haoqi Yuan, Zongqing Lu*
 
 	 · ([Creative-Agents](https://github.com/PKU-RL/Creative-Agents) - PKU-RL) ![Star](https://img.shields.io/github/stars/PKU-RL/Creative-Agents.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652418572&idx=5&sn=332ac225c1058c20150f8c18697cabc0))
 - **An LLM Compiler for Parallel Function Calling**, `arXiv, 2312.04511`, [arxiv](http://arxiv.org/abs/2312.04511v1), [pdf](http://arxiv.org/pdf/2312.04511v1.pdf), cication: [**-1**](None)

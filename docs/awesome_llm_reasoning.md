@@ -260,7 +260,9 @@
 - [[2312.08926] Modeling Complex Mathematical Reasoning via Large Language Model based MathAgent](https://arxiv.org/abs/2312.08926)
 - [[2312.09241] TinyGSM: achieving >80% on GSM8k with small language models](https://arxiv.org/abs/2312.09241)
 - [FunSearch: Making new discoveries in mathematical sciences using Large Language Models - Google DeepMind](https://deepmind.google/discover/blog/funsearch-making-new-discoveries-in-mathematical-sciences-using-large-language-models/?utm_source=twitter&utm_medium=social)
-- [[2312.07622] Mathematical Language Models: A Survey](https://arxiv.org/abs/2312.07622)
+- **Mathematical Language Models: A Survey**, `arXiv, 2312.07622`, [arxiv](http://arxiv.org/abs/2312.07622v2), [pdf](http://arxiv.org/pdf/2312.07622v2.pdf), cication: [**-1**](None)
+
+	 *Wentao Liu, Hanglei Hu, Jie Zhou, Yuyang Ding, Junsong Li, Jiayi Zeng, Mengliang He, Qin Chen, Bo Jiang, Aimin Zhou*
 - [**LeanCopilot**](https://github.com/lean-dojo/LeanCopilot) - lean-dojo ![Star](https://img.shields.io/github/stars/lean-dojo/LeanCopilot.svg?style=social&label=Star)
 
 	 *LLMs as Copilots for Theorem Proving in Lean*

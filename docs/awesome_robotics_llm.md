@@ -8,7 +8,9 @@
 
 ## Papers
 - [[2312.09187] Vision-Language Models as a Source of Rewards](https://arxiv.org/abs/2312.09187)
-- [[2312.07843] Foundation Models in Robotics: Applications, Challenges, and the Future](https://arxiv.org/abs/2312.07843)
+- **Foundation Models in Robotics: Applications, Challenges, and the Future**, `arXiv, 2312.07843`, [arxiv](http://arxiv.org/abs/2312.07843v1), [pdf](http://arxiv.org/pdf/2312.07843v1.pdf), cication: [**-1**](None)
+
+	 *Roya Firoozi, Johnathan Tucker, Stephen Tian, Anirudha Majumdar, Jiankai Sun, Weiyu Liu, Yuke Zhu, Shuran Song, Ashish Kapoor, Karol Hausman*
 
 	 · ([Awesome-Robotics-Foundation-Models](https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models) - robotics-survey) ![Star](https://img.shields.io/github/stars/robotics-survey/Awesome-Robotics-Foundation-Models.svg?style=social&label=Star)
 - **Agent as Cerebrum, Controller as Cerebellum: Implementing an Embodied

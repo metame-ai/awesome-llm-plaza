@@ -132,7 +132,10 @@
 
 
 ## Medical
-- [[2312.07814] A Foundational Multimodal Vision Language AI Assistant for Human Pathology](https://arxiv.org/abs/2312.07814)
+- **A Foundational Multimodal Vision Language AI Assistant for Human
+  Pathology**, `arXiv, 2312.07814`, [arxiv](http://arxiv.org/abs/2312.07814v1), [pdf](http://arxiv.org/pdf/2312.07814v1.pdf), cication: [**-1**](None)
+
+	 *Ming Y. Lu, Bowen Chen, Drew F. K. Williamson, Richard J. Chen, Kenji Ikamura, Georg Gerber, Ivy Liang, Long Phi Le, Tong Ding, Anil V Parwani*
 - **Using Large Language Models to Accelerate Communication for Users with
   Severe Motor Impairments**, `arXiv, 2312.01532`, [arxiv](http://arxiv.org/abs/2312.01532v1), [pdf](http://arxiv.org/pdf/2312.01532v1.pdf), cication: [**-1**](None)
 

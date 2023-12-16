@@ -25,10 +25,15 @@
 	 *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang*
 
 ## Papers
-- [[2312.07910] PromptBench: A Unified Library for Evaluation of Large Language Models](https://arxiv.org/abs/2312.07910)
+- **PromptBench: A Unified Library for Evaluation of Large Language Models**, `arXiv, 2312.07910`, [arxiv](http://arxiv.org/abs/2312.07910v1), [pdf](http://arxiv.org/pdf/2312.07910v1.pdf), cication: [**-1**](None)
+
+	 *Kaijie Zhu, Qinlin Zhao, Hao Chen, Jindong Wang, Xing Xie*
 
 	 · ([promptbench](https://github.com/microsoft/promptbench) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/promptbench.svg?style=social&label=Star)
-- [[2311.18702] CritiqueLLM: Scaling LLM-as-Critic for Effective and Explainable Evaluation of Large Language Model Generation](https://arxiv.org/abs/2311.18702)
+- **CritiqueLLM: Scaling LLM-as-Critic for Effective and Explainable
+  Evaluation of Large Language Model Generation**, `arXiv, 2311.18702`, [arxiv](http://arxiv.org/abs/2311.18702v1), [pdf](http://arxiv.org/pdf/2311.18702v1.pdf), cication: [**-1**](None)
+
+	 *Pei Ke, Bosi Wen, Zhuoer Feng, Xiao Liu, Xuanyu Lei, Jiale Cheng, Shengyuan Wang, Aohan Zeng, Yuxiao Dong, Hongning Wang*
 
 	 · ([critiquellm](https://github.com/thu-coai/critiquellm) - thu-coai) ![Star](https://img.shields.io/github/stars/thu-coai/critiquellm.svg?style=social&label=Star)
 - **How Well Does GPT-4V(ision) Adapt to Distribution Shifts? A Preliminary
@@ -168,7 +173,10 @@
 
 	 *Yuxia Wang, Haonan Li, Xudong Han, Preslav Nakov, Timothy Baldwin* · [[jiqizhixin](https://www.jiqizhixin.com/articles/2023-09-05-7)]
 	 
-- [[2306.11698] DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models](https://arxiv.org/abs//2306.11698)
+- **DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT
+  Models**, `arXiv, 2306.11698`, [arxiv](http://arxiv.org/abs/2306.11698v2), [pdf](http://arxiv.org/pdf/2306.11698v2.pdf), cication: [**-1**](None)
+
+	 *Boxin Wang, Weixin Chen, Hengzhi Pei, Chulin Xie, Mintong Kang, Chenhui Zhang, Chejian Xu, Zidi Xiong, Ritik Dutta, Rylan Schaeffer*
 
 	 · ([decodingtrust.github](https://decodingtrust.github.io/))
 - **Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena**, `arXiv, 2306.05685`, [arxiv](http://arxiv.org/abs/2306.05685v3), [pdf](http://arxiv.org/pdf/2306.05685v3.pdf), cication: [**-1**](None)

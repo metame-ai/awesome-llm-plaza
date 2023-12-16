@@ -154,7 +154,10 @@
 - [领域大模型-训练Trick&落地思考](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494320&idx=2&sn=8edd6ea37bbd73768caa306d9daa2cf7)
 
 ## Scaling
-- [[2312.08361] Distributed Inference and Fine-tuning of Large Language Models Over The Internet](https://arxiv.org/abs/2312.08361)
+- **Distributed Inference and Fine-tuning of Large Language Models Over The
+  Internet**, `arXiv, 2312.08361`, [arxiv](http://arxiv.org/abs/2312.08361v1), [pdf](http://arxiv.org/pdf/2312.08361v1.pdf), cication: [**-1**](None)
+
+	 *Alexander Borzunov, Max Ryabinin, Artem Chumachenko, Dmitry Baranchuk, Tim Dettmers, Younes Belkada, Pavel Samygin, Colin Raffel*
 
 	 · ([petals](https://github.com/bigscience-workshop/petals) - bigscience-workshop) ![Star](https://img.shields.io/github/stars/bigscience-workshop/petals.svg?style=social&label=Star)
 - **Vary: Scaling up the Vision Vocabulary for Large Vision-Language Models**, `arXiv, 2312.06109`, [arxiv](http://arxiv.org/abs/2312.06109v1), [pdf](http://arxiv.org/pdf/2312.06109v1.pdf), cication: [**-1**](None)
@@ -270,7 +273,9 @@
 	 *Dongfu Jiang, Xiang Ren, Bill Yuchen Lin* · ([LLM-Blender](https://github.com/yuchenlin/LLM-Blender) - yuchenlin) ![Star](https://img.shields.io/github/stars/yuchenlin/LLM-Blender.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652343982&idx=4&sn=ce5c51039d91531178257024d883db90))
 
 ## MoE
-- [[2312.07987] SwitchHead: Accelerating Transformers with Mixture-of-Experts Attention](https://arxiv.org/abs/2312.07987)
+- **SwitchHead: Accelerating Transformers with Mixture-of-Experts Attention**, `arXiv, 2312.07987`, [arxiv](http://arxiv.org/abs/2312.07987v2), [pdf](http://arxiv.org/pdf/2312.07987v2.pdf), cication: [**-1**](None)
+
+	 *Róbert Csordás, Piotr Piękos, Kazuki Irie, Jürgen Schmidhuber*
 
 	 · ([moe_attention](https://github.com/robertcsordas/moe_attention) - robertcsordas) ![Star](https://img.shields.io/github/stars/robertcsordas/moe_attention.svg?style=social&label=Star)
 - [Mixture of Experts Explained](https://huggingface.co/blog/moe)
