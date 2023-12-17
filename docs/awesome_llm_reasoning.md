@@ -257,8 +257,13 @@
 - [大模型Fewshot推理如何选择更好的示例](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495177&idx=2&sn=fe8353efed16a81e35462be06d5a6cea)
 
 ## Math reasoning
-- [[2312.08926] Modeling Complex Mathematical Reasoning via Large Language Model based MathAgent](https://arxiv.org/abs/2312.08926)
-- [[2312.09241] TinyGSM: achieving >80% on GSM8k with small language models](https://arxiv.org/abs/2312.09241)
+- **Modeling Complex Mathematical Reasoning via Large Language Model based
+  MathAgent**, `arXiv, 2312.08926`, [arxiv](http://arxiv.org/abs/2312.08926v1), [pdf](http://arxiv.org/pdf/2312.08926v1.pdf), cication: [**-1**](None)
+
+	 *Haoran Liao, Qinyi Du, Shaohua Hu, Hao He, Yanyan Xu, Jidong Tian, Yaohui Jin*
+- **TinyGSM: achieving >80% on GSM8k with small language models**, `arXiv, 2312.09241`, [arxiv](http://arxiv.org/abs/2312.09241v1), [pdf](http://arxiv.org/pdf/2312.09241v1.pdf), cication: [**-1**](None)
+
+	 *Bingbin Liu, Sebastien Bubeck, Ronen Eldan, Janardhan Kulkarni, Yuanzhi Li, Anh Nguyen, Rachel Ward, Yi Zhang*
 - [FunSearch: Making new discoveries in mathematical sciences using Large Language Models - Google DeepMind](https://deepmind.google/discover/blog/funsearch-making-new-discoveries-in-mathematical-sciences-using-large-language-models/?utm_source=twitter&utm_medium=social)
 - **Mathematical Language Models: A Survey**, `arXiv, 2312.07622`, [arxiv](http://arxiv.org/abs/2312.07622v2), [pdf](http://arxiv.org/pdf/2312.07622v2.pdf), cication: [**-1**](None)
 

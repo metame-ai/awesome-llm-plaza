@@ -7,7 +7,9 @@
 	- [Reference](#reference)
 
 ## Papers
-- [[2312.09187] Vision-Language Models as a Source of Rewards](https://arxiv.org/abs/2312.09187)
+- **Vision-Language Models as a Source of Rewards**, `arXiv, 2312.09187`, [arxiv](http://arxiv.org/abs/2312.09187v1), [pdf](http://arxiv.org/pdf/2312.09187v1.pdf), cication: [**-1**](None)
+
+	 *Kate Baumli, Satinder Baveja, Feryal Behbahani, Harris Chan, Gheorghe Comanici, Sebastian Flennerhag, Maxime Gazeau, Kristian Holsheimer, Dan Horgan, Michael Laskin*
 - **Foundation Models in Robotics: Applications, Challenges, and the Future**, `arXiv, 2312.07843`, [arxiv](http://arxiv.org/abs/2312.07843v1), [pdf](http://arxiv.org/pdf/2312.07843v1.pdf), cication: [**-1**](None)
 
 	 *Roya Firoozi, Johnathan Tucker, Stephen Tian, Anirudha Majumdar, Jiankai Sun, Weiyu Liu, Yuke Zhu, Shuran Song, Ashish Kapoor, Karol Hausman*

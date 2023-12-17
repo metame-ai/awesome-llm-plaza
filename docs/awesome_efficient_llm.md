@@ -109,7 +109,10 @@
 	 *Xunyu Zhu, Jian Li, Yong Liu, Can Ma, Weiping Wang* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-08-26-5))
 
 ### Papers
-- [[2312.08583] ZeroQuant(4+2): Redefining LLMs Quantization with a New FP6-Centric Strategy for Diverse Generative Tasks](https://arxiv.org/abs/2312.08583)
+- **ZeroQuant(4+2): Redefining LLMs Quantization with a New FP6-Centric
+  Strategy for Diverse Generative Tasks**, `arXiv, 2312.08583`, [arxiv](http://arxiv.org/abs/2312.08583v1), [pdf](http://arxiv.org/pdf/2312.08583v1.pdf), cication: [**-1**](None)
+
+	 *Xiaoxia Wu, Haojun Xia, Stephen Youn, Zhen Zheng, Shiyang Chen, Arash Bakhtiari, Michael Wyatt, Yuxiong He, Olatunji Ruwase, Leon Song*
 - **LQ-LoRA: Low-rank Plus Quantized Matrix Decomposition for Efficient
   Language Model Finetuning**, `arXiv, 2311.12023`, [arxiv](http://arxiv.org/abs/2311.12023v1), [pdf](http://arxiv.org/pdf/2311.12023v1.pdf), cication: [**-1**](None)
 

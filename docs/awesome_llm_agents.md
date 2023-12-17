@@ -38,7 +38,9 @@
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-18-4))
 ## Agents
-- [[2312.08914] CogAgent: A Visual Language Model for GUI Agents](https://arxiv.org/abs/2312.08914)
+- **CogAgent: A Visual Language Model for GUI Agents**, `arXiv, 2312.08914`, [arxiv](http://arxiv.org/abs/2312.08914v1), [pdf](http://arxiv.org/pdf/2312.08914v1.pdf), cication: [**-1**](None)
+
+	 *Wenyi Hong, Weihan Wang, Qingsong Lv, Jiazheng Xu, Wenmeng Yu, Junhui Ji, Yan Wang, Zihan Wang, Yuxiao Dong, Ming Ding*
 
 	 · ([CogVLM](https://github.com/THUDM/CogVLM) - THUDM) ![Star](https://img.shields.io/github/stars/THUDM/CogVLM.svg?style=social&label=Star)
 - **Creative Agents: Empowering Agents with Imagination for Creative Tasks**, `arXiv, 2312.02519`, [arxiv](http://arxiv.org/abs/2312.02519v1), [pdf](http://arxiv.org/pdf/2312.02519v1.pdf), cication: [**-1**](None)

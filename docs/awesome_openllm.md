@@ -31,7 +31,9 @@
 # English
 
 ## Foundation
-- [[2312.08688] TigerBot: An Open Multilingual Multitask LLM](https://arxiv.org/abs/2312.08688)
+- **TigerBot: An Open Multilingual Multitask LLM**, `arXiv, 2312.08688`, [arxiv](http://arxiv.org/abs/2312.08688v1), [pdf](http://arxiv.org/pdf/2312.08688v1.pdf), cication: [**-1**](None)
+
+	 *Ye Chen, Wei Cai, Liangmin Wu, Xiaowei Li, Zhanxuan Xin, Cong Fu*
 - [**DeciLM-7B**](https://huggingface.co/Deci/DeciLM-7B) - Deci 🤗
 - [**DeciLM-7B-instruct**](https://huggingface.co/Deci/DeciLM-7B-instruct) - Deci 🤗
 

@@ -12,7 +12,10 @@
 
 
 ## Papers
-- [[2312.09244] Helping or Herding? Reward Model Ensembles Mitigate but do not Eliminate Reward Hacking](https://arxiv.org/abs/2312.09244)
+- **Helping or Herding? Reward Model Ensembles Mitigate but do not Eliminate
+  Reward Hacking**, `arXiv, 2312.09244`, [arxiv](http://arxiv.org/abs/2312.09244v1), [pdf](http://arxiv.org/pdf/2312.09244v1.pdf), cication: [**-1**](None)
+
+	 *Jacob Eisenstein, Chirag Nagpal, Alekh Agarwal, Ahmad Beirami, Alex D'Amour, DJ Dvijotham, Adam Fisch, Katherine Heller, Stephen Pfohl, Deepak Ramachandran*
 - **Beyond Human Data: Scaling Self-Training for Problem-Solving with
   Language Models**, `arXiv, 2312.06585`, [arxiv](http://arxiv.org/abs/2312.06585v1), [pdf](http://arxiv.org/pdf/2312.06585v1.pdf), cication: [**-1**](None)
 
