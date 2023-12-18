@@ -51,6 +51,9 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
+- **Merlin:Empowering Multimodal LLMs with Foresight Minds**, `arXiv, 2312.00589`, [arxiv](http://arxiv.org/abs/2312.00589v1), [pdf](http://arxiv.org/pdf/2312.00589v1.pdf), cication: [**-1**](None)
+
+	 *En Yu, Liang Zhao, Yana Wei, Jinrong Yang, Dongming Wu, Lingyu Kong, Haoran Wei, Tiancai Wang, Zheng Ge, Xiangyu Zhang* · ([qbitai](https://www.qbitai.com/2023/12/106838.html))
 - **VL-GPT: A Generative Pre-trained Transformer for Vision and Language
   Understanding and Generation**, `arXiv, 2312.09251`, [arxiv](http://arxiv.org/abs/2312.09251v1), [pdf](http://arxiv.org/pdf/2312.09251v1.pdf), cication: [**-1**](None)
 
@@ -555,6 +558,7 @@
 - [**BakLLaVA-1**](https://huggingface.co/SkunkworksAI/BakLLaVA-1) - SkunkworksAI 🤗
 
 ## Benchmarks
+- [**MVBench_Leaderboard**](https://huggingface.co/spaces/OpenGVLab/MVBench_Leaderboard) - OpenGVLab 🤗
 - **MMMU: A Massive Multi-discipline Multimodal Understanding and Reasoning
   Benchmark for Expert AGI**, `arXiv, 2311.16502`, [arxiv](http://arxiv.org/abs/2311.16502v1), [pdf](http://arxiv.org/pdf/2311.16502v1.pdf), cication: [**-1**](None)
 

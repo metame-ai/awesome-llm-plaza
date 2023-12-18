@@ -55,9 +55,14 @@
 	 *Yufei Wang, Wanjun Zhong, Liangyou Li, Fei Mi, Xingshan Zeng, Wenyong Huang, Lifeng Shang, Xin Jiang, Qun Liu* · ([AlignLLMHumanSurvey](https://github.com/GaryYufei/AlignLLMHumanSurvey) - GaryYufei) ![Star](https://img.shields.io/github/stars/GaryYufei/AlignLLMHumanSurvey.svg?style=social&label=Star)
 
 ### Paper & Projects
+- [Teach Llamas to Talk: Recent Progress in Instruction Tuning](https://gaotianyu.xyz/blog/2023/11/30/instruction-tuning/)
+
+	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzIyMzk1MDE3Nw==&mid=2247621353&idx=5&sn=2f132a987c097fa38c8c374283903165))
 - [**weak-to-strong**](https://github.com/openai/weak-to-strong) - openai ![Star](https://img.shields.io/github/stars/openai/weak-to-strong.svg?style=social&label=Star)
 
 	 · ([openai](https://openai.com/research/weak-to-strong-generalization)) · ([cdn.openai](https://cdn.openai.com/papers/weak-to-strong-generalization.pdf))
+
+	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-12-15-5))
 - **Alignment for Honesty**, `arXiv, 2312.07000`, [arxiv](http://arxiv.org/abs/2312.07000v1), [pdf](http://arxiv.org/pdf/2312.07000v1.pdf), cication: [**-1**](None)
 
 	 *Yuqing Yang, Ethan Chern, Xipeng Qiu, Graham Neubig, Pengfei Liu* · ([alignment-for-honesty](https://github.com/GAIR-NLP/alignment-for-honesty) - GAIR-NLP) ![Star](https://img.shields.io/github/stars/GAIR-NLP/alignment-for-honesty.svg?style=social&label=Star)
@@ -317,6 +322,8 @@
 	 *Noam Shazeer, Azalia Mirhoseini, Krzysztof Maziarz, Andy Davis, Quoc Le, Geoffrey Hinton, Jeff Dean*
 
 ### Other
+- [**8x7B-MoE-test-NOT-MIXTRAL**](https://huggingface.co/CausalLM/8x7B-MoE-test-NOT-MIXTRAL) - CausalLM 🤗
+
 - [模块化大模型来了！IBM公开WastonX核心架构技术细节](https://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&mid=2247522084&idx=3&sn=ceba2b0c3e6434599101f7604ff109c4)
 
 ## Toolkits

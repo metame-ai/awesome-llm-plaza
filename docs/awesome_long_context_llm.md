@@ -17,6 +17,10 @@
 - [Attention? Attention! | Lil'Log](https://lilianweng.github.io/posts/2018-06-24-attention/#a-family-of-attention-mechanisms)
 
 ## Papers
+- **Extending Context Window of Large Language Models via Semantic
+  Compression**, `arXiv, 2312.09571`, [arxiv](http://arxiv.org/abs/2312.09571v1), [pdf](http://arxiv.org/pdf/2312.09571v1.pdf), cication: [**-1**](None)
+
+	 *Weizhi Fei, Xueyan Niu, Pingyi Zhou, Lu Hou, Bo Bai, Lei Deng, Wei Han*
 - **Zebra: Extending Context Window with Layerwise Grouped Local-Global
   Attention**, `arXiv, 2312.08618`, [arxiv](http://arxiv.org/abs/2312.08618v1), [pdf](http://arxiv.org/pdf/2312.08618v1.pdf), cication: [**-1**](None)
 

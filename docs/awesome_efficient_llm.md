@@ -56,6 +56,8 @@
 - **LoftQ: LoRA-Fine-Tuning-Aware Quantization for Large Language Models**, `arXiv, 2310.08659`, [arxiv](http://arxiv.org/abs/2310.08659v3), [pdf](http://arxiv.org/pdf/2310.08659v3.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=13848184224730711263&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Yixiao Li, Yifan Yu, Chen Liang, Pengcheng He, Nikos Karampatziakis, Weizhu Chen, Tuo Zhao*
+
+	 · ([peft](https://github.com/huggingface/peft/tree/main/examples/loftq_finetuning) - huggingface) ![Star](https://img.shields.io/github/stars/huggingface/peft.svg?style=social&label=Star)
 - **QA-LoRA: Quantization-Aware Low-Rank Adaptation of Large Language Models**, `arXiv, 2309.14717`, [arxiv](http://arxiv.org/abs/2309.14717v2), [pdf](http://arxiv.org/pdf/2309.14717v2.pdf), cication: [**-1**](None)
 
 	 *Yuhui Xu, Lingxi Xie, Xiaotao Gu, Xin Chen, Heng Chang, Hengheng Zhang, Zhengsu Chen, Xiaopeng Zhang, Qi Tian* · ([qa-lora](https://github.com/yuhuixu1993/qa-lora) - yuhuixu1993) ![Star](https://img.shields.io/github/stars/yuhuixu1993/qa-lora.svg?style=social&label=Star)
@@ -370,6 +372,7 @@
 	 *Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-05-04)) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-06-05-2))
 
 ## Toolkits
+- [Winners 🏆 | NeurIPS Large Language Model Efficiency Challenge:1 LLM + 1GPU + 1Day](https://llm-efficiency-challenge.github.io/leaderboard)
 - [**gigaGPT**](https://github.com/Cerebras/gigaGPT) - Cerebras ![Star](https://img.shields.io/github/stars/Cerebras/gigaGPT.svg?style=social&label=Star)
 
 	 *a small code base for training large models* · ([cerebras](https://www.cerebras.net/blog/introducing-gigagpt-gpt-3-sized-models-in-565-lines-of-code))
@@ -396,6 +399,10 @@
 	 *DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.*
 
 ## Efficient transformer
+- **Weight subcloning: direct initialization of transformers using larger
+  pretrained ones**, `arXiv, 2312.09299`, [arxiv](http://arxiv.org/abs/2312.09299v1), [pdf](http://arxiv.org/pdf/2312.09299v1.pdf), cication: [**-1**](None)
+
+	 *Mohammad Samragh, Mehrdad Farajtabar, Sachin Mehta, Raviteja Vemulapalli, Fartash Faghri, Devang Naik, Oncel Tuzel, Mohammad Rastegari*
 - **Rethinking Compression: Reduced Order Modelling of Latent Features in
   Large Language Models**, `arXiv, 2312.07046`, [arxiv](http://arxiv.org/abs/2312.07046v1), [pdf](http://arxiv.org/pdf/2312.07046v1.pdf), cication: [**-1**](None)
 

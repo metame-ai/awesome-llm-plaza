@@ -38,6 +38,10 @@
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-18-4))
 ## Agents
+- **KwaiAgents: Generalized Information-seeking Agent System with Large
+  Language Models**, `arXiv, 2312.04889`, [arxiv](http://arxiv.org/abs/2312.04889v1), [pdf](http://arxiv.org/pdf/2312.04889v1.pdf), cication: [**-1**](None)
+
+	 *Haojie Pan, Zepeng Zhai, Hao Yuan, Yaojia Lv, Ruiji Fu, Ming Liu, Zhongyuan Wang, Bing Qin* · ([kwaiagents](https://github.com/kwaikeg/kwaiagents) - kwaikeg) ![Star](https://img.shields.io/github/stars/kwaikeg/kwaiagents.svg?style=social&label=Star)
 - **CogAgent: A Visual Language Model for GUI Agents**, `arXiv, 2312.08914`, [arxiv](http://arxiv.org/abs/2312.08914v1), [pdf](http://arxiv.org/pdf/2312.08914v1.pdf), cication: [**-1**](None)
 
 	 *Wenyi Hong, Weihan Wang, Qingsong Lv, Jiazheng Xu, Wenmeng Yu, Junhui Ji, Yan Wang, Zihan Wang, Yuxiao Dong, Ming Ding*

@@ -228,6 +228,9 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652345558&idx=4&sn=95686435d5cad05d44cbe02bc26d6859))
 
 ## Explanation
+- **Challenges with unsupervised LLM knowledge discovery**, `arXiv, 2312.10029`, [arxiv](http://arxiv.org/abs/2312.10029v1), [pdf](http://arxiv.org/pdf/2312.10029v1.pdf), cication: [**-1**](None)
+
+	 *Sebastian Farquhar, Vikrant Varma, Zachary Kenton, Johannes Gasteiger, Vladimir Mikulik, Rohin Shah*
 - **Using Captum to Explain Generative Language Models**, `arXiv, 2312.05491`, [arxiv](http://arxiv.org/abs/2312.05491v1), [pdf](http://arxiv.org/pdf/2312.05491v1.pdf), cication: [**-1**](None)
 
 	 *Vivek Miglani, Aobo Yang, Aram H. Markosyan, Diego Garcia-Olano, Narine Kokhlikyan*
@@ -320,6 +323,9 @@
 	 *Must-read Papers on Model Editing.*
 
 ## AGI insights
+- **Perspectives on the State and Future of Deep Learning -- 2023**, `arXiv, 2312.09323`, [arxiv](http://arxiv.org/abs/2312.09323v1), [pdf](http://arxiv.org/pdf/2312.09323v1.pdf), cication: [**-1**](None)
+
+	 *Micah Goldblum, Anima Anandkumar, Richard Baraniuk, Tom Goldstein, Kyunghyun Cho, Zachary C Lipton, Melanie Mitchell, Preetum Nakkiran, Max Welling, Andrew Gordon Wilson*
 - [AI and Open Source in 2023 - by Sebastian Raschka, PhD](https://magazine.sebastianraschka.com/p/ai-and-open-source-in-2023)
 
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652414828&idx=4&sn=7780ba9182ef40d0dac9b076a2d40003))

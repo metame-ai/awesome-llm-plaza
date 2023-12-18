@@ -266,6 +266,10 @@
 	 *Survey: A collection of AWESOME papers and resources on the large language model (LLM) related recommender system topics.*
 
 ## Role play
+- **Faithful Persona-based Conversational Dataset Generation with Large
+  Language Models**, `arXiv, 2312.10007`, [arxiv](http://arxiv.org/abs/2312.10007v1), [pdf](http://arxiv.org/pdf/2312.10007v1.pdf), cication: [**-1**](None)
+
+	 *Pegah Jandaghi, XiangHai Sheng, Xinyi Bai, Jay Pujara, Hakim Sidahmed*
 - **CharacterGLM: Customizing Chinese Conversational AI Characters with
   Large Language Models**, `arXiv, 2311.16832`, [arxiv](http://arxiv.org/abs/2311.16832v1), [pdf](http://arxiv.org/pdf/2311.16832v1.pdf), cication: [**-1**](None)
 

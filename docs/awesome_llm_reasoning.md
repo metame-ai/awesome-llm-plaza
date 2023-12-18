@@ -15,6 +15,13 @@
 
 
 ## Reasoning
+- **Self-Evaluation Improves Selective Generation in Large Language Models**, `arXiv, 2312.09300`, [arxiv](http://arxiv.org/abs/2312.09300v1), [pdf](http://arxiv.org/pdf/2312.09300v1.pdf), cication: [**-1**](None)
+
+	 *Jie Ren, Yao Zhao, Tu Vu, Peter J. Liu, Balaji Lakshminarayanan*
+- **Let's Think Outside the Box: Exploring Leap-of-Thought in Large Language
+  Models with Creative Humor Generation**, `arXiv, 2312.02439`, [arxiv](http://arxiv.org/abs/2312.02439v2), [pdf](http://arxiv.org/pdf/2312.02439v2.pdf), cication: [**-1**](None)
+
+	 *Shanshan Zhong, Zhongzhan Huang, Shanghua Gao, Wushao Wen, Liang Lin, Marinka Zitnik, Pan Zhou* · ([clot](https://github.com/sail-sg/clot) - sail-sg) ![Star](https://img.shields.io/github/stars/sail-sg/clot.svg?style=social&label=Star)
 - **PathFinder: Guided Search over Multi-Step Reasoning Paths**, `arXiv, 2312.05180`, [arxiv](http://arxiv.org/abs/2312.05180v1), [pdf](http://arxiv.org/pdf/2312.05180v1.pdf), cication: [**-1**](None)
 
 	 *Olga Golovneva, Sean O'Brien, Ramakanth Pasunuru, Tianlu Wang, Luke Zettlemoyer, Maryam Fazel-Zarandi, Asli Celikyilmaz*
@@ -242,6 +249,10 @@
 - **Tree of Thoughts: Deliberate Problem Solving with Large Language Models**, `arXiv, 2305.10601`, [arxiv](http://arxiv.org/abs/2305.10601v1), [pdf](http://arxiv.org/pdf/2305.10601v1.pdf), cication: [**188**](https://scholar.google.com/scholar?cites=4359362721511170604&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Shunyu Yao, Dian Yu, Jeffrey Zhao, Izhak Shafran, Thomas L. Griffiths, Yuan Cao, Karthik Narasimhan*
+- **Imitation versus Innovation: What children can do that large language
+  and language-and-vision models cannot (yet)?**, `arXiv, 2305.07666`, [arxiv](http://arxiv.org/abs/2305.07666v1), [pdf](http://arxiv.org/pdf/2305.07666v1.pdf), cication: [**-1**](None)
+
+	 *Eunice Yiu, Eliza Kosoy, Alison Gopnik* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652419464&idx=3&sn=7c2ab936e933e14cc88fae98ea053210&poc_token=HD_bfmWj9pDzGyIzWOOEQ-lqpK0YnSC2-6uHtVw5))
 - [**chameleon-llm**](https://github.com/lupantech/chameleon-llm) - lupantech ![Star](https://img.shields.io/github/stars/lupantech/chameleon-llm.svg?style=social&label=Star)
 - **Boosting Theory-of-Mind Performance in Large Language Models via
   Prompting**, `arXiv, 2304.11490`, [arxiv](http://arxiv.org/abs/2304.11490v3), [pdf](http://arxiv.org/pdf/2304.11490v3.pdf), cication: [**9**](https://scholar.google.com/scholar?cites=8440877199679501480&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
@@ -257,6 +268,9 @@
 - [大模型Fewshot推理如何选择更好的示例](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495177&idx=2&sn=fe8353efed16a81e35462be06d5a6cea)
 
 ## Math reasoning
+- [Mathematical discoveries from program search with large language models | Nature](https://www.nature.com/articles/s41586-023-06924-6)
+
+	 · ([funsearch](https://github.com/google-deepmind/funsearch) - google-deepmind) ![Star](https://img.shields.io/github/stars/google-deepmind/funsearch.svg?style=social&label=Star)
 - **Modeling Complex Mathematical Reasoning via Large Language Model based
   MathAgent**, `arXiv, 2312.08926`, [arxiv](http://arxiv.org/abs/2312.08926v1), [pdf](http://arxiv.org/pdf/2312.08926v1.pdf), cication: [**-1**](None)
 

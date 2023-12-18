@@ -7,6 +7,9 @@
 	- [Reference](#reference)
 
 ## Papers
+- **ReST meets ReAct: Self-Improvement for Multi-Step Reasoning LLM Agent**, `arXiv, 2312.10003`, [arxiv](http://arxiv.org/abs/2312.10003v1), [pdf](http://arxiv.org/pdf/2312.10003v1.pdf), cication: [**-1**](None)
+
+	 *Renat Aksitov, Sobhan Miryoosefi, Zonglin Li, Daliang Li, Sheila Babayan, Kavya Kopparapu, Zachary Fisher, Ruiqi Guo, Sushant Prakash, Pranesh Srinivasan*
 - **Vision-Language Models as a Source of Rewards**, `arXiv, 2312.09187`, [arxiv](http://arxiv.org/abs/2312.09187v1), [pdf](http://arxiv.org/pdf/2312.09187v1.pdf), cication: [**-1**](None)
 
 	 *Kate Baumli, Satinder Baveja, Feryal Behbahani, Harris Chan, Gheorghe Comanici, Sebastian Flennerhag, Maxime Gazeau, Kristian Holsheimer, Dan Horgan, Michael Laskin*
@@ -221,3 +224,4 @@
 - [EmbodiedGPT｜具身智能或将成为实现AGI的最后一公里](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494040&idx=1&sn=c6ada8db1bdf84a1026fd78a636b27c5)
 
 ## Reference
+- [**Awesome-Robotics-Foundation-Models**](https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models) - robotics-survey ![Star](https://img.shields.io/github/stars/robotics-survey/Awesome-Robotics-Foundation-Models.svg?style=social&label=Star)
