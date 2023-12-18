@@ -121,7 +121,6 @@
   Model**, `arXiv, 2305.18290`, [arxiv](http://arxiv.org/abs/2305.18290v2), [pdf](http://arxiv.org/pdf/2305.18290v2.pdf), cication: [**-1**](None)
 
 	 *Rafael Rafailov, Archit Sharma, Eric Mitchell, Stefano Ermon, Christopher D. Manning, Chelsea Finn*
-	- 
 - **Let's Verify Step by Step**, `arXiv, 2305.20050`, [arxiv](http://arxiv.org/abs/2305.20050v1), [pdf](http://arxiv.org/pdf/2305.20050v1.pdf), cication: [**76**](https://scholar.google.com/scholar?cites=3594089577812846684&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Hunter Lightman, Vineet Kosaraju, Yura Burda, Harri Edwards, Bowen Baker, Teddy Lee, Jan Leike, John Schulman, Ilya Sutskever, Karl Cobbe*
