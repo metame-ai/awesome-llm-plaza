@@ -113,6 +113,9 @@
 	 *Shenggui Li, Fuzhao Xue, Chaitanya Baranwal, Yongbin Li, Yang You*
 
 ## Projects
+- [**LLMLingua**](https://github.com/microsoft/LLMLingua) - microsoft ![Star](https://img.shields.io/github/stars/microsoft/LLMLingua.svg?style=social&label=Star)
+
+	 *To speed up LLMs' inference and enhance LLM's perceive of key information, compress the prompt and KV-Cache, which achieves up to 20x compression with minimal performance loss.*
 - [**long-context**](https://github.com/abacusai/long-context) - abacusai ![Star](https://img.shields.io/github/stars/abacusai/long-context.svg?style=social&label=Star)
 
 	 *This repository contains code and tooling for the Abacus.AI LLM Context Expansion project. Also included are evaluation scripts and benchmark tasks that evaluate a model’s information retrieval capabilities with context expansion. We also include key experimental results and instructions for reproducing and building on them.*

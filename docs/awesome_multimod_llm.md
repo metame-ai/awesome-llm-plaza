@@ -51,6 +51,10 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
+- **Silkie: Preference Distillation for Large Visual Language Models**, `arXiv, 2312.10665`, [arxiv](http://arxiv.org/abs/2312.10665v1), [pdf](http://arxiv.org/pdf/2312.10665v1.pdf), cication: [**-1**](None)
+
+	 *Lei Li, Zhihui Xie, Mukai Li, Shunian Chen, Peiyi Wang, Liang Chen, Yazheng Yang, Benyou Wang, Lingpeng Kong*
+- [[2312.11370] G-LLaVA: Solving Geometric Problem with Multi-Modal Large Language Model](https://arxiv.org/abs/2312.11370)
 - **Merlin:Empowering Multimodal LLMs with Foresight Minds**, `arXiv, 2312.00589`, [arxiv](http://arxiv.org/abs/2312.00589v1), [pdf](http://arxiv.org/pdf/2312.00589v1.pdf), cication: [**-1**](None)
 
 	 *En Yu, Liang Zhao, Yana Wei, Jinrong Yang, Dongming Wu, Lingyu Kong, Haoran Wei, Tiancai Wang, Zheng Ge, Xiangyu Zhang* · ([qbitai](https://www.qbitai.com/2023/12/106838.html))
@@ -526,6 +530,11 @@
 - **Any-to-Any Generation via Composable Diffusion**, `arXiv, 2305.11846`, [arxiv](http://arxiv.org/abs/2305.11846v1), [pdf](http://arxiv.org/pdf/2305.11846v1.pdf), cication: [**-1**](None)
 
 	 *Zineng Tang, Ziyi Yang, Chenguang Zhu, Michael Zeng, Mohit Bansal* · ([codi-gen.github](https://codi-gen.github.io/)) · ([i-Code](https://github.com/microsoft/i-Code/tree/main/i-Code-V3) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/i-Code.svg?style=social&label=Star)
+
+## Extra Modalities 
+- **M3DBench: Let's Instruct Large Models with Multi-modal 3D Prompts**, `arXiv, 2312.10763`, [arxiv](http://arxiv.org/abs/2312.10763v1), [pdf](http://arxiv.org/pdf/2312.10763v1.pdf), cication: [**-1**](None)
+
+	 *Mingsheng Li, Xin Chen, Chi Zhang, Sijin Chen, Hongyuan Zhu, Fukun Yin, Gang Yu, Tao Chen*
 
 ## Projects
 - [**hermes-llava**](https://github.com/qnguyen3/hermes-llava) - qnguyen3 ![Star](https://img.shields.io/github/stars/qnguyen3/hermes-llava.svg?style=social&label=Star)

@@ -467,6 +467,8 @@
 
 ### Other
 - [Steering at the Frontier: Extending the Power of Prompting - Microsoft Research](https://www.microsoft.com/en-us/research/blog/steering-at-the-frontier-extending-the-power-of-prompting/)
+
+- [OpenAI官方的Prompt工程指南：你可以这么玩ChatGPT | 机器之心](https://www.jiqizhixin.com/articles/2023-12-18-17)
 - [我用 ChatGPT 寫了一個 ChatGPT 指令大全網站 - 軟體工程師面試、職涯、新加坡生活分享 - ExplainThis](https://www.explainthis.io/zh-hant/chatgpt/website)
 - [ChatGPT 詠唱案例懶人包 - 超過 40 個現實世界的應用範例 (持續更新) - 雷司紀的小道投資 raysky](https://www.rayskyinvest.com/96682/chatgpt-examples)
 

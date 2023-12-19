@@ -208,6 +208,9 @@
 	 *Yunkang Cao, Xiaohao Xu, Chen Sun, Xiaonan Huang, Weiming Shen* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-11-13))
 
 ## Auto driving
+- **LMDrive: Closed-Loop End-to-End Driving with Large Language Models**, `arXiv, 2312.07488`, [arxiv](http://arxiv.org/abs/2312.07488v1), [pdf](http://arxiv.org/pdf/2312.07488v1.pdf), cication: [**-1**](None)
+
+	 *Hao Shao, Yuxuan Hu, Letian Wang, Steven L. Waslander, Yu Liu, Hongsheng Li* · ([lmdrive](https://github.com/opendilab/lmdrive) - opendilab) ![Star](https://img.shields.io/github/stars/opendilab/lmdrive.svg?style=social&label=Star)
 - **Evaluation of Large Language Models for Decision Making in Autonomous
   Driving**, `arXiv, 2312.06351`, [arxiv](http://arxiv.org/abs/2312.06351v1), [pdf](http://arxiv.org/pdf/2312.06351v1.pdf), cication: [**-1**](None)
 

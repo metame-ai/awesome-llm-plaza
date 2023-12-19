@@ -16,6 +16,9 @@
 - [**Adversarial Attacks on LLMs | Lil'Log**](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/)
 
 ## Papers
+- **Control Risk for Potential Misuse of Artificial Intelligence in Science**, `arXiv, 2312.06632`, [arxiv](http://arxiv.org/abs/2312.06632v1), [pdf](http://arxiv.org/pdf/2312.06632v1.pdf), cication: [**-1**](None)
+
+	 *Jiyan He, Weitao Feng, Yaosen Min, Jingwei Yi, Kunsheng Tang, Shuai Li, Jie Zhang, Kejiang Chen, Wenbo Zhou, Xing Xie* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652419855&idx=4&sn=21f7f3da5aedff2af360057d555eb29f))
 - **Llama Guard: LLM-based Input-Output Safeguard for Human-AI Conversations**, `arXiv, 2312.06674`, [arxiv](http://arxiv.org/abs/2312.06674v1), [pdf](http://arxiv.org/pdf/2312.06674v1.pdf), cication: [**-1**](None)
 
 	 *Hakan Inan, Kartikeya Upasani, Jianfeng Chi, Rashi Rungta, Krithika Iyer, Yuning Mao, Michael Tontchev, Qing Hu, Brian Fuller, Davide Testuggine*

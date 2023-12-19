@@ -350,6 +350,7 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s/Lf70i8M0KNDs9ZB8H32h4w))
 
 # Extra
+- [2023, year of open LLMs](https://huggingface.co/blog/2023-in-llms)
 - **FinGPT: Large Generative Models for a Small Language**, `arXiv, 2311.05640`, [arxiv](http://arxiv.org/abs/2311.05640v1), [pdf](http://arxiv.org/pdf/2311.05640v1.pdf), cication: [**-1**](None)
 
 	 *Risto Luukkonen, Ville Komulainen, Jouni Luoma, Anni Eskelinen, Jenna Kanerva, Hanna-Mari Kupari, Filip Ginter, Veronika Laippala, Niklas Muennighoff, Aleksandra Piktus* · ([turkunlp](https://turkunlp.org/gpt3-finnish))

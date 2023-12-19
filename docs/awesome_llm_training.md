@@ -253,6 +253,10 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652375732&idx=2&sn=1cb4cefcd791af2a6ffacdf99e35225c))
 
 ## Optimization
+- **Stabilizing Transformer Training by Preventing Attention Entropy
+  Collapse**, `ICML, 2023`, [arxiv](http://arxiv.org/abs/2303.06296v2), [pdf](http://arxiv.org/pdf/2303.06296v2.pdf), cication: [**-1**](None)
+
+	 *Shuangfei Zhai, Tatiana Likhomanenko, Etai Littwin, Dan Busbridge, Jason Ramapuram, Yizhe Zhang, Jiatao Gu, Josh Susskind* · ([ml-sigma-reparam](https://github.com/apple/ml-sigma-reparam) - apple) ![Star](https://img.shields.io/github/stars/apple/ml-sigma-reparam.svg?style=social&label=Star)
 - **CAME: Confidence-guided Adaptive Memory Efficient Optimization**, `arXiv, 2307.02047`, [arxiv](http://arxiv.org/abs/2307.02047v2), [pdf](http://arxiv.org/pdf/2307.02047v2.pdf), cication: [**-1**](None)
 
 	 *Yang Luo, Xiaozhe Ren, Zangwei Zheng, Zhuo Jiang, Xin Jiang, Yang You* · ([qbitai](https://www.qbitai.com/2023/07/67814.html))

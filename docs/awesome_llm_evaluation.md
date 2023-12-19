@@ -25,6 +25,9 @@
 	 *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang*
 
 ## Papers
+- **Catwalk: A Unified Language Model Evaluation Framework for Many Datasets**, `arXiv, 2312.10253`, [arxiv](http://arxiv.org/abs/2312.10253v1), [pdf](http://arxiv.org/pdf/2312.10253v1.pdf), cication: [**-1**](None)
+
+	 *Dirk Groeneveld, Anas Awadalla, Iz Beltagy, Akshita Bhagia, Ian Magnusson, Hao Peng, Oyvind Tafjord, Pete Walsh, Kyle Richardson, Jesse Dodge* · ([catwalk](https://github.com/allenai/catwalk) - allenai) ![Star](https://img.shields.io/github/stars/allenai/catwalk.svg?style=social&label=Star)
 - **PromptBench: A Unified Library for Evaluation of Large Language Models**, `arXiv, 2312.07910`, [arxiv](http://arxiv.org/abs/2312.07910v1), [pdf](http://arxiv.org/pdf/2312.07910v1.pdf), cication: [**-1**](None)
 
 	 *Kaijie Zhu, Qinlin Zhao, Hao Chen, Jindong Wang, Xing Xie*

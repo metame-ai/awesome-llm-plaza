@@ -12,6 +12,9 @@
 
 
 ## Papers
+- **Silkie: Preference Distillation for Large Visual Language Models**, `arXiv, 2312.10665`, [arxiv](http://arxiv.org/abs/2312.10665v1), [pdf](http://arxiv.org/pdf/2312.10665v1.pdf), cication: [**-1**](None)
+
+	 *Lei Li, Zhihui Xie, Mukai Li, Shunian Chen, Peiyi Wang, Liang Chen, Yazheng Yang, Benyou Wang, Lingpeng Kong*
 - **Helping or Herding? Reward Model Ensembles Mitigate but do not Eliminate
   Reward Hacking**, `arXiv, 2312.09244`, [arxiv](http://arxiv.org/abs/2312.09244v1), [pdf](http://arxiv.org/pdf/2312.09244v1.pdf), cication: [**-1**](None)
 

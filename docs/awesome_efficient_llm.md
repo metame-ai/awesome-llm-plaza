@@ -261,6 +261,10 @@
 	 *A simple and effective LLM pruning approach.*
 
 ## Efficient Inference
+- [[2312.11462] Cascade Speculative Drafting for Even Faster LLM Inference](https://arxiv.org/abs/2312.11462)
+- [**LLMLingua**](https://github.com/microsoft/LLMLingua) - microsoft ![Star](https://img.shields.io/github/stars/microsoft/LLMLingua.svg?style=social&label=Star)
+
+	 *To speed up LLMs' inference and enhance LLM's perceive of key information, compress the prompt and KV-Cache, which achieves up to 20x compression with minimal performance loss.*
 - [**vllm**](https://github.com/vllm-project/vllm) - vllm-project ![Star](https://img.shields.io/github/stars/vllm-project/vllm.svg?style=social&label=Star)
 
 	 *A high-throughput and memory-efficient inference and serving engine for LLMs*
@@ -399,6 +403,9 @@
 	 *DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.*
 
 ## Efficient transformer
+- **Agent Attention: On the Integration of Softmax and Linear Attention**, `arXiv, 2312.08874`, [arxiv](http://arxiv.org/abs/2312.08874v1), [pdf](http://arxiv.org/pdf/2312.08874v1.pdf), cication: [**-1**](None)
+
+	 *Dongchen Han, Tianzhu Ye, Yizeng Han, Zhuofan Xia, Shiji Song, Gao Huang* · ([agent-attention?tab=readme-ov-file](https://github.com/leaplabthu/agent-attention?tab=readme-ov-file) - leaplabthu) ![Star](https://img.shields.io/github/stars/leaplabthu/agent-attention?tab=readme-ov-file.svg?style=social&label=Star)
 - **Weight subcloning: direct initialization of transformers using larger
   pretrained ones**, `arXiv, 2312.09299`, [arxiv](http://arxiv.org/abs/2312.09299v1), [pdf](http://arxiv.org/pdf/2312.09299v1.pdf), cication: [**-1**](None)
 

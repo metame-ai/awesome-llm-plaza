@@ -33,6 +33,7 @@
 	 *Wayne Xin Zhao, Kun Zhou, Junyi Li, Tianyi Tang, Xiaolei Wang, Yupeng Hou, Yingqian Min, Beichen Zhang, Junjie Zhang, Zican Dong* · ([LLMSurvey](https://github.com/RUCAIBox/LLMSurvey) - RUCAIBox) ![Star](https://img.shields.io/github/stars/RUCAIBox/LLMSurvey.svg?style=social&label=Star)
 
 ### Blogs
+- [2023, year of open LLMs](https://huggingface.co/blog/2023-in-llms)
 - [Research Papers in November 2023](https://magazine.sebastianraschka.com/p/research-papers-in-november-2023)
 - [AI and Open Source in 2023 - by Sebastian Raschka, PhD](https://magazine.sebastianraschka.com/p/ai-and-open-source-in-2023)
 - [The History of Open-Source LLMs: Imitation and Alignment (Part Three)](https://cameronrwolfe.substack.com/p/the-history-of-open-source-llms-imitation)
@@ -44,6 +45,9 @@
 - [Catching up on the weird world of LLMs](https://simonwillison.net/2023/Aug/3/weird-world-of-llms/)
 
 ## Toolkits
+- [**GPT_API_free**](https://github.com/chatanywhere/GPT_API_free) - chatanywhere ![Star](https://img.shields.io/github/stars/chatanywhere/GPT_API_free.svg?style=social&label=Star)
+
+	 *Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。*
 - [**BricksLLM**](https://github.com/bricks-cloud/BricksLLM) - bricks-cloud ![Star](https://img.shields.io/github/stars/bricks-cloud/BricksLLM.svg?style=social&label=Star)
 
 	 *Simplifying LLM ops in production*
@@ -155,6 +159,8 @@
 - [How far are we from AGI?](https://aisupremacy.substack.com/p/how-far-are-we-from-agi)
 
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652366759&idx=2&sn=48422d1a7ffae891ea61108761f4d582))
+
+- [OpenAI「登月计划」剑指超级AI！LeCun提出AGI之路七阶段，打造世界模型是首位](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652419855&idx=3&sn=a5f20e0a0061c01e1ec87d4a81c23e68)[https://mp.weixin.qq.com/s?\_\_biz=MzI3MTA0MTk1MA==&mid=2652419855&idx=3&sn=a5f20e0a0061c01e1ec87d4a81c23e68](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652419855&idx=3&sn=a5f20e0a0061c01e1ec87d4a81c23e68)
 ## Red teaming (safety)
 - **MART: Improving LLM Safety with Multi-round Automatic Red-Teaming**, `arXiv, 2311.07689`, [arxiv](http://arxiv.org/abs/2311.07689v1), [pdf](http://arxiv.org/pdf/2311.07689v1.pdf), cication: [**-1**](None)
 

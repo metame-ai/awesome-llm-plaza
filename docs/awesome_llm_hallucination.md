@@ -88,6 +88,7 @@
 	 *Leaderboard Comparing LLM Performance at Producing Hallucinations when Summarizing Short Documents* · ([t](https://twitter.com/DrJimFan/status/1724464105371939301))
  
 ## Other
+- [Site Unreachable](https://www.zdnet.com/article/i-fact-checked-chatgpt-with-bard-claude-and-copilot-and-this-ai-was-the-most-confidently-incorrect/?utm_source=ai-drop.beehiiv.com&utm_medium=referral&utm_campaign=bytedance-s-secret-use-of-openai-s-tech)
 - [Automatic Hallucination detection with SelfCheckGPT NLI](https://huggingface.co/blog/dhuynh95/automatic-hallucination-detection)
 - [大模型幻觉问题调研](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494247&idx=2&sn=a1614fa0f58c153330bb7f3c11652ad3)
 

@@ -332,6 +332,9 @@
 - [AgentGPT](https://agentgpt.reworkd.ai/)
 
 ## Augmented LLM
+- **ProTIP: Progressive Tool Retrieval Improves Planning**, `arXiv, 2312.10332`, [arxiv](http://arxiv.org/abs/2312.10332v1), [pdf](http://arxiv.org/pdf/2312.10332v1.pdf), cication: [**-1**](None)
+
+	 *Raviteja Anantha, Bortik Bandyopadhyay, Anirudh Kashi, Sayantan Mahinder, Andrew W Hill, Srinivas Chappidi*
 - **Memory Augmented Language Models through Mixture of Word Experts**, `arXiv, 2311.10768`, [arxiv](http://arxiv.org/abs/2311.10768v1), [pdf](http://arxiv.org/pdf/2311.10768v1.pdf), cication: [**-1**](None)
 
 	 *Cicero Nogueira dos Santos, James Lee-Thorp, Isaac Noble, Chung-Ching Chang, David Uthus*
