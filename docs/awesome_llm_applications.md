@@ -296,7 +296,7 @@
 	 *RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models*
 
 ## Chat bots
-- [**anything-llm?tab=readme-ov-file**](https://github.com/Mintplex-Labs/anything-llm?tab=readme-ov-file) - Mintplex-Labs ![Star](https://img.shields.io/github/stars/Mintplex-Labs/anything-llm?tab=readme-ov-file.svg?style=social&label=Star)
+- [**anything-llm**](https://github.com/Mintplex-Labs/anything-llm?tab=readme-ov-file) - Mintplex-Labs ![Star](https://img.shields.io/github/stars/Mintplex-Labs/anything-llm?tab=readme-ov-file.svg?style=social&label=Star)
 
 	 *Open-source ChatGPT equivalent experience for both open and close source LLMs, embedders, and vector databases. Supports unlimited documents, threads, and concurrent users and management all in a very clean UI.*
 - [**voice-assistant**](https://github.com/linyiLYi/voice-assistant) - linyiLYi ![Star](https://img.shields.io/github/stars/linyiLYi/voice-assistant.svg?style=social&label=Star)

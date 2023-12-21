@@ -17,6 +17,10 @@
 - [Attention? Attention! | Lil'Log](https://lilianweng.github.io/posts/2018-06-24-attention/#a-family-of-attention-mechanisms)
 
 ## Papers
+- **Cached Transformers: Improving Transformers with Differentiable Memory
+  Cache**, `arXiv, 2312.12742`, [arxiv](http://arxiv.org/abs/2312.12742v1), [pdf](http://arxiv.org/pdf/2312.12742v1.pdf), cication: [**-1**](None)
+
+	 *Zhaoyang Zhang, Wenqi Shao, Yixiao Ge, Xiaogang Wang, Jinwei Gu, Ping Luo*
 - **Extending Context Window of Large Language Models via Semantic
   Compression**, `arXiv, 2312.09571`, [arxiv](http://arxiv.org/abs/2312.09571v1), [pdf](http://arxiv.org/pdf/2312.09571v1.pdf), cication: [**-1**](None)
 

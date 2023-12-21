@@ -103,7 +103,7 @@
 	 *Reference implementation of Mistral AI 7B v0.1 model.* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-09-29-2))
 - [Mixtral of experts | Mistral AI | Open source models](https://mistral.ai/news/mixtral-of-experts/)
 - [Welcome Mixtral - a SOTA Mixture of Experts on Hugging Face](https://huggingface.co/blog/mixtral)
-- [**llama-mistral?tab=readme-ov-file**](https://github.com/dzhulgakov/llama-mistral?tab=readme-ov-file) - dzhulgakov ![Star](https://img.shields.io/github/stars/dzhulgakov/llama-mistral?tab=readme-ov-file.svg?style=social&label=Star)
+- [**llama-mistral**](https://github.com/dzhulgakov/llama-mistral?tab=readme-ov-file) - dzhulgakov ![Star](https://img.shields.io/github/stars/dzhulgakov/llama-mistral?tab=readme-ov-file.svg?style=social&label=Star)
 
 	 *Inference code for Mistral and Mixtral hacked up into original Llama implementation*
 - [**DiscoLM-mixtral-8x7b-v2**](https://huggingface.co/DiscoResearch/DiscoLM-mixtral-8x7b-v2) - DiscoResearch 🤗

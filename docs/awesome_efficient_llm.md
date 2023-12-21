@@ -252,6 +252,9 @@
 	 *Yuxian Gu, Li Dong, Furu Wei, Minlie Huang*
 
 ## Pruning
+- **Mini-GPTs: Efficient Large Language Models through Contextual Pruning**, `arXiv, 2312.12682`, [arxiv](http://arxiv.org/abs/2312.12682v1), [pdf](http://arxiv.org/pdf/2312.12682v1.pdf), cication: [**-1**](None)
+
+	 *Tim Valicenti, Justice Vidal, Ritik Patnaik*
 - **Sheared LLaMA: Accelerating Language Model Pre-training via Structured
   Pruning**, `arXiv, 2310.06694`, [arxiv](http://arxiv.org/abs/2310.06694v1), [pdf](http://arxiv.org/pdf/2310.06694v1.pdf), cication: [**2**](https://scholar.google.com/scholar?cites=9713425200262995197&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
@@ -261,7 +264,16 @@
 	 *A simple and effective LLM pruning approach.*
 
 ## Efficient Inference
-- [[2312.11462] Cascade Speculative Drafting for Even Faster LLM Inference](https://arxiv.org/abs/2312.11462)
+- **LLM in a flash: Efficient Large Language Model Inference with Limited
+  Memory**, `arXiv, 2312.11514`, [arxiv](http://arxiv.org/abs/2312.11514v1), [pdf](http://arxiv.org/pdf/2312.11514v1.pdf), cication: [**-1**](None)
+
+	 *Keivan Alizadeh, Iman Mirzadeh, Dmitry Belenko, Karen Khatamifard, Minsik Cho, Carlo C Del Mundo, Mohammad Rastegari, Mehrdad Farajtabar*
+- **PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU**, `arXiv, 2312.12456`, [arxiv](http://arxiv.org/abs/2312.12456v1), [pdf](http://arxiv.org/pdf/2312.12456v1.pdf), cication: [**-1**](None)
+
+	 *Yixin Song, Zeyu Mi, Haotong Xie, Haibo Chen* · ([PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) - SJTU-IPADS) ![Star](https://img.shields.io/github/stars/SJTU-IPADS/PowerInfer.svg?style=social&label=Star)
+- **Cascade Speculative Drafting for Even Faster LLM Inference**, `arXiv, 2312.11462`, [arxiv](http://arxiv.org/abs/2312.11462v1), [pdf](http://arxiv.org/pdf/2312.11462v1.pdf), cication: [**-1**](None)
+
+	 *Ziyi Chen, Xiaocong Yang, Jiacheng Lin, Chenkai Sun, Jie Huang, Kevin Chen-Chuan Chang*
 - [**LLMLingua**](https://github.com/microsoft/LLMLingua) - microsoft ![Star](https://img.shields.io/github/stars/microsoft/LLMLingua.svg?style=social&label=Star)
 
 	 *To speed up LLMs' inference and enhance LLM's perceive of key information, compress the prompt and KV-Cache, which achieves up to 20x compression with minimal performance loss.*
@@ -405,7 +417,7 @@
 ## Efficient transformer
 - **Agent Attention: On the Integration of Softmax and Linear Attention**, `arXiv, 2312.08874`, [arxiv](http://arxiv.org/abs/2312.08874v1), [pdf](http://arxiv.org/pdf/2312.08874v1.pdf), cication: [**-1**](None)
 
-	 *Dongchen Han, Tianzhu Ye, Yizeng Han, Zhuofan Xia, Shiji Song, Gao Huang* · ([agent-attention?tab=readme-ov-file](https://github.com/leaplabthu/agent-attention?tab=readme-ov-file) - leaplabthu) ![Star](https://img.shields.io/github/stars/leaplabthu/agent-attention?tab=readme-ov-file.svg?style=social&label=Star)
+	 *Dongchen Han, Tianzhu Ye, Yizeng Han, Zhuofan Xia, Shiji Song, Gao Huang* · ([agent-attention](https://github.com/leaplabthu/agent-attention?tab=readme-ov-file) - leaplabthu) ![Star](https://img.shields.io/github/stars/leaplabthu/agent-attention?tab=readme-ov-file.svg?style=social&label=Star)
 - **Weight subcloning: direct initialization of transformers using larger
   pretrained ones**, `arXiv, 2312.09299`, [arxiv](http://arxiv.org/abs/2312.09299v1), [pdf](http://arxiv.org/pdf/2312.09299v1.pdf), cication: [**-1**](None)
 

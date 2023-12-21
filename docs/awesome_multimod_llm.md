@@ -51,10 +51,21 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
+- **Generative Multimodal Models are In-Context Learners**, `arXiv, 2312.13286`, [arxiv](http://arxiv.org/abs/2312.13286v1), [pdf](http://arxiv.org/pdf/2312.13286v1.pdf), cication: [**-1**](None)
+
+	 *Quan Sun, Yufeng Cui, Xiaosong Zhang, Fan Zhang, Qiying Yu, Zhengxiong Luo, Yueze Wang, Yongming Rao, Jingjing Liu, Tiejun Huang* · ([Emu](https://github.com/baaivision/Emu) - baaivision) ![Star](https://img.shields.io/github/stars/baaivision/Emu.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/BAAI/Emu2))
+- **Osprey: Pixel Understanding with Visual Instruction Tuning**, `arXiv, 2312.10032`, [arxiv](http://arxiv.org/abs/2312.10032v1), [pdf](http://arxiv.org/pdf/2312.10032v1.pdf), cication: [**-1**](None)
+
+	 *Yuqian Yuan, Wentong Li, Jian Liu, Dongqi Tang, Xinjie Luo, Chi Qin, Lei Zhang, Jianke Zhu* · ([osprey](https://github.com/circleradon/osprey) - circleradon) ![Star](https://img.shields.io/github/stars/circleradon/osprey.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/sunshine-lwt/Osprey-7b/tree/main))
+- **Gemini: A Family of Highly Capable Multimodal Models**, `arXiv, 2312.11805`, [arxiv](http://arxiv.org/abs/2312.11805v1), [pdf](http://arxiv.org/pdf/2312.11805v1.pdf), cication: [**-1**](None)
+
+	 *Gemini Team, Rohan Anil, Sebastian Borgeaud, Yonghui Wu, Jean-Baptiste Alayrac, Jiahui Yu, Radu Soricut, Johan Schalkwyk, Andrew M. Dai, Anja Hauth*
 - **Silkie: Preference Distillation for Large Visual Language Models**, `arXiv, 2312.10665`, [arxiv](http://arxiv.org/abs/2312.10665v1), [pdf](http://arxiv.org/pdf/2312.10665v1.pdf), cication: [**-1**](None)
 
 	 *Lei Li, Zhihui Xie, Mukai Li, Shunian Chen, Peiyi Wang, Liang Chen, Yazheng Yang, Benyou Wang, Lingpeng Kong*
-- [[2312.11370] G-LLaVA: Solving Geometric Problem with Multi-Modal Large Language Model](https://arxiv.org/abs/2312.11370)
+- **G-LLaVA: Solving Geometric Problem with Multi-Modal Large Language Model**, `arXiv, 2312.11370`, [arxiv](http://arxiv.org/abs/2312.11370v1), [pdf](http://arxiv.org/pdf/2312.11370v1.pdf), cication: [**-1**](None)
+
+	 *Jiahui Gao, Renjie Pi, Jipeng Zhang, Jiacheng Ye, Wanjun Zhong, Yufei Wang, Lanqing Hong, Jianhua Han, Hang Xu, Zhenguo Li*
 - **Merlin:Empowering Multimodal LLMs with Foresight Minds**, `arXiv, 2312.00589`, [arxiv](http://arxiv.org/abs/2312.00589v1), [pdf](http://arxiv.org/pdf/2312.00589v1.pdf), cication: [**-1**](None)
 
 	 *En Yu, Liang Zhao, Yana Wei, Jinrong Yang, Dongming Wu, Lingyu Kong, Haoran Wei, Tiancai Wang, Zheng Ge, Xiangyu Zhang* · ([qbitai](https://www.qbitai.com/2023/12/106838.html))
@@ -532,6 +543,9 @@
 	 *Zineng Tang, Ziyi Yang, Chenguang Zhu, Michael Zeng, Mohit Bansal* · ([codi-gen.github](https://codi-gen.github.io/)) · ([i-Code](https://github.com/microsoft/i-Code/tree/main/i-Code-V3) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/i-Code.svg?style=social&label=Star)
 
 ## Extra Modalities 
+- **AI-Generated Content (AIGC) for Various Data Modalities: A Survey**, `arXiv, 2308.14177`, [arxiv](http://arxiv.org/abs/2308.14177v4), [pdf](http://arxiv.org/pdf/2308.14177v4.pdf), cication: [**-1**](None)
+
+	 *Lin Geng Foo, Hossein Rahmani, Jun Liu*
 - **M3DBench: Let's Instruct Large Models with Multi-modal 3D Prompts**, `arXiv, 2312.10763`, [arxiv](http://arxiv.org/abs/2312.10763v1), [pdf](http://arxiv.org/pdf/2312.10763v1.pdf), cication: [**-1**](None)
 
 	 *Mingsheng Li, Xin Chen, Chi Zhang, Sijin Chen, Hongyuan Zhu, Fukun Yin, Gang Yu, Tao Chen*
@@ -609,6 +623,9 @@
 - [从零训练一个多模态LLM](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494284&idx=2&sn=f3a4bbc3e1f5f0061e7da945ef7c88f6)
 
 ## Reference
+- [**Awesome-LLM-3D**](https://github.com/ActiveVisionLab/Awesome-LLM-3D) - ActiveVisionLab ![Star](https://img.shields.io/github/stars/ActiveVisionLab/Awesome-LLM-3D.svg?style=social&label=Star)
+
+	 *Awesome-LLM-3D: a curated list of Multi-modal Large Language Model in 3D world Resources*
 - [**awesome-foundation-and-multimodal-models**](https://github.com/SkalskiP/awesome-foundation-and-multimodal-models) - SkalskiP ![Star](https://img.shields.io/github/stars/SkalskiP/awesome-foundation-and-multimodal-models.svg?style=social&label=Star)
 
 	 *👁️ + 💬 + 🎧 = 🤖 Curated list of top foundation and multimodal models! [Paper + Code]*

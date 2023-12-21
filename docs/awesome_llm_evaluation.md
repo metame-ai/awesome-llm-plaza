@@ -25,6 +25,16 @@
 	 *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang*
 
 ## Papers
+- **Jack of All Tasks, Master of Many: Designing General-purpose
+  Coarse-to-Fine Vision-Language Model**, `arXiv, 2312.12423`, [arxiv](http://arxiv.org/abs/2312.12423v1), [pdf](http://arxiv.org/pdf/2312.12423v1.pdf), cication: [**-1**](None)
+
+	 *Shraman Pramanick, Guangxing Han, Rui Hou, Sayan Nag, Ser-Nam Lim, Nicolas Ballas, Qifan Wang, Rama Chellappa, Amjad Almahairi* · ([shramanpramanick.github](https://shramanpramanick.github.io/VistaLLM/))
+- **A Challenger to GPT-4V? Early Explorations of Gemini in Visual Expertise**, `arXiv, 2312.12436`, [arxiv](http://arxiv.org/abs/2312.12436v2), [pdf](http://arxiv.org/pdf/2312.12436v2.pdf), cication: [**-1**](None)
+
+	 *Chaoyou Fu, Renrui Zhang, Zihan Wang, Yubo Huang, Zhengye Zhang, Longtian Qiu, Gaoxiang Ye, Yunhang Shen, Mengdan Zhang, Peixian Chen* · ([Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) - BradyFU) ![Star](https://img.shields.io/github/stars/BradyFU/Awesome-Multimodal-Large-Language-Models.svg?style=social&label=Star)
+- **An In-depth Look at Gemini's Language Abilities**, `arXiv, 2312.11444`, [arxiv](http://arxiv.org/abs/2312.11444v1), [pdf](http://arxiv.org/pdf/2312.11444v1.pdf), cication: [**-1**](None)
+
+	 *Syeda Nahida Akter, Zichun Yu, Aashiq Muhamed, Tianyue Ou, Alex Bäuerle, Ángel Alexander Cabrera, Krish Dholakia, Chenyan Xiong, Graham Neubig* · ([gemini-benchmark](https://github.com/neulab/gemini-benchmark) - neulab) ![Star](https://img.shields.io/github/stars/neulab/gemini-benchmark.svg?style=social&label=Star)
 - **Catwalk: A Unified Language Model Evaluation Framework for Many Datasets**, `arXiv, 2312.10253`, [arxiv](http://arxiv.org/abs/2312.10253v1), [pdf](http://arxiv.org/pdf/2312.10253v1.pdf), cication: [**-1**](None)
 
 	 *Dirk Groeneveld, Anas Awadalla, Iz Beltagy, Akshita Bhagia, Ian Magnusson, Hao Peng, Oyvind Tafjord, Pete Walsh, Kyle Richardson, Jesse Dodge* · ([catwalk](https://github.com/allenai/catwalk) - allenai) ![Star](https://img.shields.io/github/stars/allenai/catwalk.svg?style=social&label=Star)
@@ -263,7 +273,8 @@
 	 *Lianmin Zheng, Wei-Lin Chiang, Ying Sheng, Siyuan Zhuang, Zhanghao Wu, Yonghao Zhuang, Zi Lin, Zhuohan Li, Dacheng Li, Eric. P Xing*
 
 ## Projects
-- [**deepeval?utm_source=ai-drop.beehiiv.com&utm_medium=referral&utm_campaign=google-unveils-medlm-ai-models-for-health-care**](https://github.com/confident-ai/deepeval?utm_source=ai-drop.beehiiv.com&utm_medium=referral&utm_campaign=google-unveils-medlm-ai-models-for-health-care) - confident-ai ![Star](https://img.shields.io/github/stars/confident-ai/deepeval?utm_source=ai-drop.beehiiv.com&utm_medium=referral&utm_campaign=google-unveils-medlm-ai-models-for-health-care.svg?style=social&label=Star)
+- [Holistic Evaluation of Language Models (HELM)](https://crfm.stanford.edu/helm/lite/v1.0.0/#/leaderboard)
+- [**deepeval**](https://github.com/confident-ai/deepeval?utm_source=ai-drop.beehiiv.com&utm_medium=referral&utm_campaign=google-unveils-medlm-ai-models-for-health-care) - confident-ai ![Star](https://img.shields.io/github/stars/confident-ai/deepeval?utm_source=ai-drop.beehiiv.com&utm_medium=referral&utm_campaign=google-unveils-medlm-ai-models-for-health-care.svg?style=social&label=Star)
 
 	 *The Evaluation Framework for LLMs*
 - [**Nexus_Function_Calling_Leaderboard**](https://huggingface.co/spaces/Nexusflow/Nexus_Function_Calling_Leaderboard) - Nexusflow 🤗
@@ -289,6 +300,7 @@
 	 · [[huggingface](https://huggingface.co/blog/evaluating-mmlu-leaderboard)]
 
 ## Other
+- [Hugging Face’s Philipp Schmid on Rethinking AI Evaluation](https://analyticsindiamag.com/hugging-faces-philipp-schmid-on-rethinking-ai-evaluation/)
 - [Comparing the Performance of LLMs: A Deep Dive into Roberta, Llama 2, and Mistral for Disaster Tweets Analysis with Lora](https://huggingface.co/blog/Lora-for-sequence-classification-with-Roberta-Llama-Mistral)
 - [Anthropic \\ Challenges in evaluating AI systems](https://www.anthropic.com/index/evaluating-ai-systems)
 

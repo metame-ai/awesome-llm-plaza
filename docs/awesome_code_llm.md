@@ -143,6 +143,9 @@
 
 
 ## Projects
+- [**Mastering-GitHub-Copilot-for-Paired-Programming**](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) - microsoft ![Star](https://img.shields.io/github/stars/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming.svg?style=social&label=Star)
+
+	 *A 6 Lesson course teaching everything you need to know about harnessing GitHub Copilot and an AI Paired Programing resource.*
 - [**sweep**](https://github.com/sweepai/sweep) - sweepai ![Star](https://img.shields.io/github/stars/sweepai/sweep.svg?style=social&label=Star)
 
 	 *Sweep: AI-powered Junior Developer for small features and bug fixes.*

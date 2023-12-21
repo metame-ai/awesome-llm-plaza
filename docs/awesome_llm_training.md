@@ -291,7 +291,7 @@
 - [**megablocks-public**](https://github.com/mistralai/megablocks-public) - mistralai ![Star](https://img.shields.io/github/stars/mistralai/megablocks-public.svg?style=social&label=Star)
 
 	 · ([qbitai](https://www.qbitai.com/2023/12/105154.html))
-- [**llama-mistral?tab=readme-ov-file**](https://github.com/dzhulgakov/llama-mistral?tab=readme-ov-file) - dzhulgakov ![Star](https://img.shields.io/github/stars/dzhulgakov/llama-mistral?tab=readme-ov-file.svg?style=social&label=Star)
+- [**llama-mistral**](https://github.com/dzhulgakov/llama-mistral?tab=readme-ov-file) - dzhulgakov ![Star](https://img.shields.io/github/stars/dzhulgakov/llama-mistral?tab=readme-ov-file.svg?style=social&label=Star)
 
 	 *Inference code for Mistral and Mixtral hacked up into original Llama implementation*
 - [**SmartMoE**](https://github.com/zms1999/SmartMoE) - zms1999 ![Star](https://img.shields.io/github/stars/zms1999/SmartMoE.svg?style=social&label=Star)

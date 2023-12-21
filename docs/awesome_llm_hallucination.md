@@ -76,13 +76,13 @@
 
 	 *Sina J. Semnani, Violet Z. Yao, Heidi C. Zhang, Monica S. Lam*
 
-	 · ([wikichat?tab=readme-ov-file](https://github.com/stanford-oval/wikichat?tab=readme-ov-file) - stanford-oval) ![Star](https://img.shields.io/github/stars/stanford-oval/wikichat?tab=readme-ov-file.svg?style=social&label=Star)
+	 · ([wikichat](https://github.com/stanford-oval/wikichat?tab=readme-ov-file) - stanford-oval) ![Star](https://img.shields.io/github/stars/stanford-oval/wikichat?tab=readme-ov-file.svg?style=social&label=Star)
 
 ## Evalution
 - **HallusionBench: An Advanced Diagnostic Suite for Entangled Language
   Hallucination & Visual Illusion in Large Vision-Language Models**, `arXiv, 2310.14566`, [arxiv](http://arxiv.org/abs/2310.14566v2), [pdf](http://arxiv.org/pdf/2310.14566v2.pdf), cication: [**-1**](None)
 
-	 *Tianrui Guan, Fuxiao Liu, Xiyang Wu, Ruiqi Xian, Zongxia Li, Xiaoyu Liu, Xijun Wang, Lichang Chen, Furong Huang, Yaser Yacoob* · ([HallusionBench?tab=readme-ov-file](https://github.com/tianyi-lab/HallusionBench?tab=readme-ov-file) - tianyi-lab) ![Star](https://img.shields.io/github/stars/tianyi-lab/HallusionBench?tab=readme-ov-file.svg?style=social&label=Star)
+	 *Tianrui Guan, Fuxiao Liu, Xiyang Wu, Ruiqi Xian, Zongxia Li, Xiaoyu Liu, Xijun Wang, Lichang Chen, Furong Huang, Yaser Yacoob* · ([HallusionBench](https://github.com/tianyi-lab/HallusionBench?tab=readme-ov-file) - tianyi-lab) ![Star](https://img.shields.io/github/stars/tianyi-lab/HallusionBench?tab=readme-ov-file.svg?style=social&label=Star)
 - [**hallucination-leaderboard**](https://github.com/vectara/hallucination-leaderboard) - vectara ![Star](https://img.shields.io/github/stars/vectara/hallucination-leaderboard.svg?style=social&label=Star)
 
 	 *Leaderboard Comparing LLM Performance at Producing Hallucinations when Summarizing Short Documents* · ([t](https://twitter.com/DrJimFan/status/1724464105371939301))

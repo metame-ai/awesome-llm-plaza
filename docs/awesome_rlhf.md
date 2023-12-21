@@ -12,6 +12,9 @@
 
 
 ## Papers
+- **InstructVideo: Instructing Video Diffusion Models with Human Feedback**, `arXiv, 2312.12490`, [arxiv](http://arxiv.org/abs/2312.12490v1), [pdf](http://arxiv.org/pdf/2312.12490v1.pdf), cication: [**-1**](None)
+
+	 *Hangjie Yuan, Shiwei Zhang, Xiang Wang, Yujie Wei, Tao Feng, Yining Pan, Yingya Zhang, Ziwei Liu, Samuel Albanie, Dong Ni*
 - **Silkie: Preference Distillation for Large Visual Language Models**, `arXiv, 2312.10665`, [arxiv](http://arxiv.org/abs/2312.10665v1), [pdf](http://arxiv.org/pdf/2312.10665v1.pdf), cication: [**-1**](None)
 
 	 *Lei Li, Zhihui Xie, Mukai Li, Shunian Chen, Peiyi Wang, Liang Chen, Yazheng Yang, Benyou Wang, Lingpeng Kong*
@@ -23,7 +26,7 @@
   Language Models**, `arXiv, 2312.06585`, [arxiv](http://arxiv.org/abs/2312.06585v1), [pdf](http://arxiv.org/pdf/2312.06585v1.pdf), cication: [**-1**](None)
 
 	 *Avi Singh, John D. Co-Reyes, Rishabh Agarwal, Ankesh Anand, Piyush Patil, Peter J. Liu, James Harrison, Jaehoon Lee, Kelvin Xu, Aaron Parisi*
-- [**HALOs?tab=readme-ov-file**](https://github.com/ContextualAI/HALOs?tab=readme-ov-file) - ContextualAI ![Star](https://img.shields.io/github/stars/ContextualAI/HALOs?tab=readme-ov-file.svg?style=social&label=Star)
+- [**HALOs**](https://github.com/ContextualAI/HALOs?tab=readme-ov-file) - ContextualAI ![Star](https://img.shields.io/github/stars/ContextualAI/HALOs?tab=readme-ov-file.svg?style=social&label=Star)
 
 	 *Human-Centered Loss Functions (HALOs)* · ([HALOs](https://github.com/ContextualAI/HALOs/blob/main/assets/report.pdf) - ContextualAI) ![Star](https://img.shields.io/github/stars/ContextualAI/HALOs.svg?style=social&label=Star)
 - **Axiomatic Preference Modeling for Longform Question Answering**, `arXiv, 2312.02206`, [arxiv](http://arxiv.org/abs/2312.02206v1), [pdf](http://arxiv.org/pdf/2312.02206v1.pdf), cication: [**-1**](None)
@@ -37,6 +40,9 @@
 
 	 *Tianyu Yu, Yuan Yao, Haoye Zhang, Taiwen He, Yifeng Han, Ganqu Cui, Jinyi Hu, Zhiyuan Liu, Hai-Tao Zheng, Maosong Sun* · ([RLHF-V](https://github.com/RLHF-V/RLHF-V) - RLHF-V) ![Star](https://img.shields.io/github/stars/RLHF-V/RLHF-V.svg?style=social&label=Star)
 - [Starling-7B: Increasing LLM Helpfulness & Harmlessness with RLAIF](https://starling.cs.berkeley.edu/)
+- **Diffusion Model Alignment Using Direct Preference Optimization**, `arXiv, 2311.12908`, [arxiv](http://arxiv.org/abs/2311.12908v1), [pdf](http://arxiv.org/pdf/2311.12908v1.pdf), cication: [**-1**](None)
+
+	 *Bram Wallace, Meihua Dang, Rafael Rafailov, Linqi Zhou, Aaron Lou, Senthil Purushwalkam, Stefano Ermon, Caiming Xiong, Shafiq Joty, Nikhil Naik*
 - **Black-Box Prompt Optimization: Aligning Large Language Models without
   Model Training**, `arXiv, 2311.04155`, [arxiv](http://arxiv.org/abs/2311.04155v2), [pdf](http://arxiv.org/pdf/2311.04155v2.pdf), cication: [**-1**](None)
 

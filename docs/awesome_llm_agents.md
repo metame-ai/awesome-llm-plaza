@@ -498,6 +498,8 @@
 	 *Interact privately with your documents using the power of GPT, 100% privately, no data leaks*
 
 ### Other
+- [Build a search engine, not a vector DB](https://blog.elicit.com/search-vs-vector-db/)
+
 - [RAG+GPT-4 Turbo让模型性能飙升！更长上下文不是终局，「大海捞针」实验成本仅4%](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652415774&idx=3&sn=8672aeb9f7cce15c3cb43620873b25bb)
 - [问答场景常用大模型解决方案](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494688&idx=2&sn=d871403a80a7fcf656ce0100f266f939)
 
