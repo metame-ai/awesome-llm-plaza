@@ -38,6 +38,9 @@
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-18-4))
 ## Agents
+- **AppAgent: Multimodal Agents as Smartphone Users**, `arXiv, 2312.13771`, [arxiv](http://arxiv.org/abs/2312.13771v1), [pdf](http://arxiv.org/pdf/2312.13771v1.pdf), cication: [**-1**](None)
+
+	 *Zhao Yang, Jiaxuan Liu, Yucheng Han, Xin Chen, Zebiao Huang, Bin Fu, Gang Yu*
 - **KwaiAgents: Generalized Information-seeking Agent System with Large
   Language Models**, `arXiv, 2312.04889`, [arxiv](http://arxiv.org/abs/2312.04889v1), [pdf](http://arxiv.org/pdf/2312.04889v1.pdf), cication: [**-1**](None)
 

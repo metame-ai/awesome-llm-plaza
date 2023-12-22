@@ -581,6 +581,10 @@
 - [**BakLLaVA-1**](https://huggingface.co/SkunkworksAI/BakLLaVA-1) - SkunkworksAI 🤗
 
 ## Benchmarks
+- **BenchLMM: Benchmarking Cross-style Visual Capability of Large Multimodal
+  Models**, `arXiv, 2312.02896`, [arxiv](http://arxiv.org/abs/2312.02896v2), [pdf](http://arxiv.org/pdf/2312.02896v2.pdf), cication: [**-1**](None)
+
+	 *Rizhao Cai, Zirui Song, Dayan Guan, Zhenhao Chen, Xing Luo, Chenyu Yi, Alex Kot* · ([aifeg.github](https://aifeg.github.io/BenchLMM/)) · ([BenchLMM](https://github.com/AIFEG/BenchLMM) - AIFEG) ![Star](https://img.shields.io/github/stars/AIFEG/BenchLMM.svg?style=social&label=Star)
 - [**MVBench_Leaderboard**](https://huggingface.co/spaces/OpenGVLab/MVBench_Leaderboard) - OpenGVLab 🤗
 - **MMMU: A Massive Multi-discipline Multimodal Understanding and Reasoning
   Benchmark for Expert AGI**, `arXiv, 2311.16502`, [arxiv](http://arxiv.org/abs/2311.16502v1), [pdf](http://arxiv.org/pdf/2311.16502v1.pdf), cication: [**-1**](None)

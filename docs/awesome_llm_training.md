@@ -63,6 +63,8 @@
 	 · ([openai](https://openai.com/research/weak-to-strong-generalization)) · ([cdn.openai](https://cdn.openai.com/papers/weak-to-strong-generalization.pdf))
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-12-15-5))
+
+	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495310&idx=1&sn=0711309c1fbf12c3baf304f19195d1d5))
 - **Alignment for Honesty**, `arXiv, 2312.07000`, [arxiv](http://arxiv.org/abs/2312.07000v1), [pdf](http://arxiv.org/pdf/2312.07000v1.pdf), cication: [**-1**](None)
 
 	 *Yuqing Yang, Ethan Chern, Xipeng Qiu, Graham Neubig, Pengfei Liu* · ([alignment-for-honesty](https://github.com/GAIR-NLP/alignment-for-honesty) - GAIR-NLP) ![Star](https://img.shields.io/github/stars/GAIR-NLP/alignment-for-honesty.svg?style=social&label=Star)

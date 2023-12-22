@@ -110,6 +110,9 @@
 	 *Yizhe Zhang, Jiatao Gu, Zhuofeng Wu, Shuangfei Zhai, Josh Susskind, Navdeep Jaitly*
 
 ## WebUI
+- [**GeminiProChat**](https://github.com/babaohuang/GeminiProChat) - babaohuang ![Star](https://img.shields.io/github/stars/babaohuang/GeminiProChat.svg?style=social&label=Star)
+
+	 *Minimal web UI for GeminiPro.*
 - [**make-real-starter**](https://github.com/tldraw/make-real-starter) - tldraw ![Star](https://img.shields.io/github/stars/tldraw/make-real-starter.svg?style=social&label=Star)
 
 	 *Make it real*
@@ -400,6 +403,9 @@
 	 *Official repo for LayoutGPT*
 
 ## Science
+- [Autonomous chemical research with large language models | Nature](https://www.nature.com/articles/s41586-023-06792-0)
+
+	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzIyMzk1MDE3Nw==&mid=2247621818&idx=1&sn=4da19eca9a94c1b90ea245a560c511c9))
 - **MechGPT, a language-based strategy for mechanics and materials modeling
   that connects knowledge across scales, disciplines and modalities**, `applied mechanics reviews, 2023`, [arxiv](http://arxiv.org/abs/2310.10445v1), [pdf](http://arxiv.org/pdf/2310.10445v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=1194485517931580749&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
@@ -453,6 +459,7 @@
 	 *Tongshuang Wu, Haiyi Zhu, Maya Albayrak, Alexis Axon, Amanda Bertsch, Wenxing Deng, Ziqi Ding, Bill Guo, Sireesh Gururaja, Tzu-Sheng Kuo*
 
 ## Misc
+- [**emoji-translator**](https://huggingface.co/spaces/gospacedev/emoji-translator) - gospacedev 🤗
 - **PoseGPT: Chatting about 3D Human Pose**, `arXiv, 2311.18836`, [arxiv](http://arxiv.org/abs/2311.18836v1), [pdf](http://arxiv.org/pdf/2311.18836v1.pdf), cication: [**-1**](None)
 
 	 *Yao Feng, Jing Lin, Sai Kumar Dwivedi, Yu Sun, Priyanka Patel, Michael J. Black* · ([yfeng95.github](https://yfeng95.github.io/posegpt/))

@@ -312,6 +312,9 @@
 	 *Lean Wang, Lei Li, Damai Dai, Deli Chen, Hao Zhou, Fandong Meng, Jie Zhou, Xu Sun* · ([qbitai](https://www.qbitai.com/2023/12/105631.html))
 
 ## Generaliazation
+- **Time is Encoded in the Weights of Finetuned Language Models**, `arXiv, 2312.13401`, [arxiv](http://arxiv.org/abs/2312.13401v1), [pdf](http://arxiv.org/pdf/2312.13401v1.pdf), cication: [**-1**](None)
+
+	 *Kai Nylund, Suchin Gururangan, Noah A. Smith*
 - **Pretraining Data Mixtures Enable Narrow Model Selection Capabilities in
   Transformer Models**, `arXiv, 2311.00871`, [arxiv](http://arxiv.org/abs/2311.00871v1), [pdf](http://arxiv.org/pdf/2311.00871v1.pdf), cication: [**-1**](None)
 

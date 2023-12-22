@@ -106,6 +106,10 @@
 
 ## Quantization
 ### Survey
+- **A Performance Evaluation of a Quantized Large Language Model on Various
+  Smartphones**, `arXiv, 2312.12472`, [arxiv](http://arxiv.org/abs/2312.12472v1), [pdf](http://arxiv.org/pdf/2312.12472v1.pdf), cication: [**-1**](None)
+
+	 *Tolga Çöplü, Marc Loedi, Arto Bendiken, Mykhailo Makohin, Joshua J. Bouw, Stephen Cobb*
 - **A Survey on Model Compression for Large Language Models**, `arXiv, 2308.07633`, [arxiv](http://arxiv.org/abs/2308.07633v3), [pdf](http://arxiv.org/pdf/2308.07633v3.pdf), cication: [**-1**](None)
 
 	 *Xunyu Zhu, Jian Li, Yong Liu, Can Ma, Weiping Wang* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-08-26-5))

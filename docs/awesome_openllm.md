@@ -118,6 +118,7 @@
 - [**MixtralKit**](https://github.com/open-compass/MixtralKit) - open-compass ![Star](https://img.shields.io/github/stars/open-compass/MixtralKit.svg?style=social&label=Star)
 
 	 *A toolkit for inference and evaluation of 'mixtral-8x7b-32kseqlen' from Mistral AI*
+- [**mistral-playground**](https://huggingface.co/spaces/marcofrodl/mistral-playground) - marcofrodl 🤗
 
 ### StripedHyena-7B 
 - [**StripedHyena-Hessian-7B**](https://huggingface.co/togethercomputer/StripedHyena-Hessian-7B) - togethercomputer 🤗
