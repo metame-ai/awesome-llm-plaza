@@ -22,6 +22,9 @@
 	- [Extra reference](#extra-reference)
 
 ## Survey
+- **Retrieval-Augmented Generation for Large Language Models: A Survey**, `arXiv, 2312.10997`, [arxiv](http://arxiv.org/abs/2312.10997v1), [pdf](http://arxiv.org/pdf/2312.10997v1.pdf), cication: [**-1**](None)
+
+	 *Yunfan Gao, Yun Xiong, Xinyu Gao, Kangxiang Jia, Jinliu Pan, Yuxi Bi, Yi Dai, Jiawei Sun, Haofen Wang* · ([rag-survey](https://github.com/tongji-kgllm/rag-survey) - tongji-kgllm) ![Star](https://img.shields.io/github/stars/tongji-kgllm/rag-survey.svg?style=social&label=Star)
 - **[LLM Powered Autonomous Agents | Lil'Log]**(https://lilianweng.github.io/posts/2023-06-23-agent/)
 
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652350213&idx=4&sn=47bef78ae85d99fccc45487e2fb1ff6b))
@@ -41,6 +44,8 @@
 - **AppAgent: Multimodal Agents as Smartphone Users**, `arXiv, 2312.13771`, [arxiv](http://arxiv.org/abs/2312.13771v1), [pdf](http://arxiv.org/pdf/2312.13771v1.pdf), cication: [**-1**](None)
 
 	 *Zhao Yang, Jiaxuan Liu, Yucheng Han, Xin Chen, Zebiao Huang, Bin Fu, Gang Yu*
+
+	 · ([AppAgent](https://github.com/mnotgod96/AppAgent) - mnotgod96) ![Star](https://img.shields.io/github/stars/mnotgod96/AppAgent.svg?style=social&label=Star)
 - **KwaiAgents: Generalized Information-seeking Agent System with Large
   Language Models**, `arXiv, 2312.04889`, [arxiv](http://arxiv.org/abs/2312.04889v1), [pdf](http://arxiv.org/pdf/2312.04889v1.pdf), cication: [**-1**](None)
 
@@ -421,6 +426,9 @@
 - [GPT-4V学会用键鼠上网，人类眼睁睁看着它发帖玩游戏 | 量子位](https://www.qbitai.com/2023/11/95456.html)
 
 ## Retrieval agumented generation
+- **Retrieval-Augmented Generation for Large Language Models: A Survey**, `arXiv, 2312.10997`, [arxiv](http://arxiv.org/abs/2312.10997v1), [pdf](http://arxiv.org/pdf/2312.10997v1.pdf), cication: [**-1**](None)
+
+	 *Yunfan Gao, Yun Xiong, Xinyu Gao, Kangxiang Jia, Jinliu Pan, Yuxi Bi, Yi Dai, Jiawei Sun, Haofen Wang* · ([rag-survey](https://github.com/tongji-kgllm/rag-survey) - tongji-kgllm) ![Star](https://img.shields.io/github/stars/tongji-kgllm/rag-survey.svg?style=social&label=Star)
 - [**CodeFuse-DevOps-Model**](https://github.com/codefuse-ai/CodeFuse-DevOps-Model) - codefuse-ai ![Star](https://img.shields.io/github/stars/codefuse-ai/CodeFuse-DevOps-Model.svg?style=social&label=Star)
 
 	 *DevOps-Models is a series of industrial-first LLMs for theDevOps domain. Asking it for any question in the DevOps domain to get solution!*

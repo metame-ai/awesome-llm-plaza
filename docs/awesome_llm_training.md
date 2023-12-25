@@ -333,6 +333,9 @@
 - [模块化大模型来了！IBM公开WastonX核心架构技术细节](https://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&mid=2247522084&idx=3&sn=ceba2b0c3e6434599101f7604ff109c4)
 
 ## Toolkits
+- [**LLM-FineTuning-Large-Language-Models**](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models) - rohan-paul ![Star](https://img.shields.io/github/stars/rohan-paul/LLM-FineTuning-Large-Language-Models.svg?style=social&label=Star)
+
+	 *LLM (Large Language Model) FineTuning*
 - [**Megatron-LM**](https://github.com/NVIDIA/Megatron-LM) - NVIDIA ![Star](https://img.shields.io/github/stars/NVIDIA/Megatron-LM.svg?style=social&label=Star)
 
 	 *Ongoing research training transformer models at scale*

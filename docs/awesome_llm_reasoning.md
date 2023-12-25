@@ -14,6 +14,12 @@
 	- [Extra reference](#extra-reference)
 
 
+## Survey
+- **A Survey of Reasoning with Foundation Models: Concepts, Methodologies,
+  and Outlook**, `arXiv, 2312.11562`, [arxiv](http://arxiv.org/abs/2312.11562v3), [pdf](http://arxiv.org/pdf/2312.11562v3.pdf), cication: [**-1**](None)
+
+	 *Jiankai Sun, Chuanyang Zheng, Enze Xie, Zhengying Liu, Ruihang Chu, Jianing Qiu, Jiaqi Xu, Mingyu Ding, Hongyang Li, Mengzhe Geng* · ([Awesome-Reasoning-Foundation-Models](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models) - reasoning-survey) ![Star](https://img.shields.io/github/stars/reasoning-survey/Awesome-Reasoning-Foundation-Models.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652421688&idx=3&sn=fcdc24edc7bc89ebcbcca0f7665e40f6))
+
 ## Reasoning
 - **Self-Evaluation Improves Selective Generation in Large Language Models**, `arXiv, 2312.09300`, [arxiv](http://arxiv.org/abs/2312.09300v1), [pdf](http://arxiv.org/pdf/2312.09300v1.pdf), cication: [**-1**](None)
 
@@ -540,6 +546,9 @@
 	 *吴恩达大模型系列课程中文版，包括《Prompt Engineering》、《Building System》和《LangChain》*
 
 ## Extra reference
+- [**Awesome-Reasoning-Foundation-Models**](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models) - reasoning-survey ![Star](https://img.shields.io/github/stars/reasoning-survey/Awesome-Reasoning-Foundation-Models.svg?style=social&label=Star)
+
+	 *✨✨Latest Papers and Benchmarks in Reasoning with Foundation Models*
 - [**OpenPrompt**](https://github.com/thunlp/OpenPrompt) - thunlp ![Star](https://img.shields.io/github/stars/thunlp/OpenPrompt.svg?style=social&label=Star)
 
 	 *An Open-Source Framework for Prompt-Learning.*

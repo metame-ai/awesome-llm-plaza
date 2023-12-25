@@ -27,6 +27,7 @@
 	 · ([datablations](https://github.com/huggingface/datablations) - huggingface) ![Star](https://img.shields.io/github/stars/huggingface/datablations.svg?style=social&label=Star)
 
 ## Datasets
+- [**oasst2**](https://huggingface.co/datasets/OpenAssistant/oasst2) - OpenAssistant 🤗
 - [**wikisource**](https://huggingface.co/datasets/wikimedia/wikisource) - wikimedia 🤗
 - [**pii-masking-200k**](https://huggingface.co/datasets/ai4privacy/pii-masking-200k) - ai4privacy 🤗
 - [**SlimPajama-627B**](https://huggingface.co/datasets/cerebras/SlimPajama-627B) - cerebras  🤗
@@ -36,6 +37,9 @@
 - [**peS2o**](https://huggingface.co/datasets/allenai/peS2o) - allenai 🤗
 
 ### Misc
+- [**openhathi_instruct**](https://github.com/pacman100/openhathi_instruct) - pacman100 ![Star](https://img.shields.io/github/stars/pacman100/openhathi_instruct.svg?style=social&label=Star)
+
+	 *This repository contains the code for dataset curation and finetuning of instruct variant of the Bilingual OpenHathi model. The resulting model is meant to follow instructions and chat in Hindi and Hinglish.*
 - **MADLAD-400: A Multilingual And Document-Level Large Audited Dataset**, `arXiv, 2309.04662`, [arxiv](http://arxiv.org/abs/2309.04662v1), [pdf](http://arxiv.org/pdf/2309.04662v1.pdf), cication: [**-1**](None)
 
 	 *Sneha Kudugunta, Isaac Caswell, Biao Zhang, Xavier Garcia, Christopher A. Choquette-Choo, Katherine Lee, Derrick Xin, Aditya Kusupati, Romi Stella, Ankur Bapna*

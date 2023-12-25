@@ -270,6 +270,9 @@
 - [**awesome-llm-for-recsys**](https://github.com/chiangel/awesome-llm-for-recsys) - chiangel ![Star](https://img.shields.io/github/stars/chiangel/awesome-llm-for-recsys.svg?style=social&label=Star)
 
 	 *Survey: A collection of AWESOME papers and resources on the large language model (LLM) related recommender system topics.*
+- **Advances and Challenges in Conversational Recommender Systems: A Survey**, `arXiv, 2101.09459`, [arxiv](http://arxiv.org/abs/2101.09459v7), [pdf](http://arxiv.org/pdf/2101.09459v7.pdf), cication: [**-1**](None)
+
+	 *Chongming Gao, Wenqiang Lei, Xiangnan He, Maarten de Rijke, Tat-Seng Chua* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495345&idx=2&sn=5e3ac087c792081705dde1c2542c687a))
 
 ## Role play
 - **Faithful Persona-based Conversational Dataset Generation with Large

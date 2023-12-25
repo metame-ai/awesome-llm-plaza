@@ -16,6 +16,9 @@
 - [**Adversarial Attacks on LLMs | Lil'Log**](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/)
 
 ## Papers
+- [**adversarial-random-search-gpt4**](https://github.com/max-andr/adversarial-random-search-gpt4) - max-andr ![Star](https://img.shields.io/github/stars/max-andr/adversarial-random-search-gpt4.svg?style=social&label=Star)
+
+	 *Adversarial Attacks on GPT-4 via Simple Random Search [Dec 2023]* · ([andriushchenko](https://www.andriushchenko.me/gpt4adv.pdf))
 - **Control Risk for Potential Misuse of Artificial Intelligence in Science**, `arXiv, 2312.06632`, [arxiv](http://arxiv.org/abs/2312.06632v1), [pdf](http://arxiv.org/pdf/2312.06632v1.pdf), cication: [**-1**](None)
 
 	 *Jiyan He, Weitao Feng, Yaosen Min, Jingwei Yi, Kunsheng Tang, Shuai Li, Jie Zhang, Kejiang Chen, Wenbo Zhou, Xing Xie* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652419855&idx=4&sn=21f7f3da5aedff2af360057d555eb29f))

@@ -35,6 +35,10 @@
 	 *AJ Piergiovanni, Isaac Noble, Dahun Kim, Michael S. Ryoo, Victor Gomes, Anelia Angelova*
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-11-28-10))
+- **UniRepLKNet: A Universal Perception Large-Kernel ConvNet for Audio,
+  Video, Point Cloud, Time-Series and Image Recognition**, `arXiv, 2311.15599`, [arxiv](http://arxiv.org/abs/2311.15599v1), [pdf](http://arxiv.org/pdf/2311.15599v1.pdf), cication: [**-1**](None)
+
+	 *Xiaohan Ding, Yiyuan Zhang, Yixiao Ge, Sijie Zhao, Lin Song, Xiangyu Yue, Ying Shan*
 - **PG-Video-LLaVA: Pixel Grounding Large Video-Language Models**, `arXiv, 2311.13435`, [arxiv](http://arxiv.org/abs/2311.13435v1), [pdf](http://arxiv.org/pdf/2311.13435v1.pdf), cication: [**-1**](None)
 
 	 *Shehan Munasinghe, Rusiru Thushara, Muhammad Maaz, Hanoona Abdul Rasheed, Salman Khan, Mubarak Shah, Fahad Khan*

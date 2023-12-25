@@ -220,6 +220,9 @@
 - [Quantization](https://huggingface.co/docs/accelerate/usage_guides/quantization)
 
 ## Distillation
+- [Proceedings of the BabyLM Challenge at the 27th Conference on Computational Natural Language Learning - ACL Anthology](https://aclanthology.org/volumes/2023.conll-babylm/)
+
+	 · ([twitter](https://twitter.com/a_stadt/status/1737849248560066794?s=20))
 - **Initializing Models with Larger Ones**, `arXiv, 2311.18823`, [arxiv](http://arxiv.org/abs/2311.18823v1), [pdf](http://arxiv.org/pdf/2311.18823v1.pdf), cication: [**-1**](None)
 
 	 *Zhiqiu Xu, Yanjie Chen, Kirill Vishniakov, Yida Yin, Zhiqiang Shen, Trevor Darrell, Lingjie Liu, Zhuang Liu* · ([weight-selection](https://github.com/oscarxzq/weight-selection) - oscarxzq) ![Star](https://img.shields.io/github/stars/oscarxzq/weight-selection.svg?style=social&label=Star)
@@ -376,6 +379,7 @@
 	 *Port of Facebook's LLaMA model in C/C++* · ([ggml](http://ggml.ai/)) · ([llama.cpp](https://github.com/ggerganov/llama.cpp/discussions/205) - ggerganov) ![Star](https://img.shields.io/github/stars/ggerganov/llama.cpp.svg?style=social&label=Star)
 
 ### Other
+- [How to make LLMs go fast](https://vgel.me/posts/faster-inference/)
 - [Sparse LLM Inference on CPU](https://huggingface.co/blog/mwitiderrick/llm-infrerence-on-cpu)
 - [Optimizing your LLM in production](https://huggingface.co/blog/optimize-llm)
 - [Speculative execution for LLMs is an excellent inference-time optimization.](https://twitter.com/karpathy/status/1697318534555336961)

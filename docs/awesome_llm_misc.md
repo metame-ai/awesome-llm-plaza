@@ -234,6 +234,11 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652345558&idx=4&sn=95686435d5cad05d44cbe02bc26d6859))
 
 ## Explanation
+- [**awesome-llm-interpretability**](https://github.com/JShollaj/awesome-llm-interpretability) - JShollaj ![Star](https://img.shields.io/github/stars/JShollaj/awesome-llm-interpretability.svg?style=social&label=Star)
+
+	 *A curated list of Large Language Model (LLM) Interpretability resources.*
+
+- [Site Unreachable](https://windowsontheory.org/2023/12/22/emergent-abilities-and-grokking-fundamental-mirage-or-both/)
 - **Challenges with unsupervised LLM knowledge discovery**, `arXiv, 2312.10029`, [arxiv](http://arxiv.org/abs/2312.10029v1), [pdf](http://arxiv.org/pdf/2312.10029v1.pdf), cication: [**-1**](None)
 
 	 *Sebastian Farquhar, Vikrant Varma, Zachary Kenton, Johannes Gasteiger, Vladimir Mikulik, Rohin Shah*

@@ -32,6 +32,8 @@
 - **A Challenger to GPT-4V? Early Explorations of Gemini in Visual Expertise**, `arXiv, 2312.12436`, [arxiv](http://arxiv.org/abs/2312.12436v2), [pdf](http://arxiv.org/pdf/2312.12436v2.pdf), cication: [**-1**](None)
 
 	 *Chaoyou Fu, Renrui Zhang, Zihan Wang, Yubo Huang, Zhengye Zhang, Longtian Qiu, Gaoxiang Ye, Yunhang Shen, Mengdan Zhang, Peixian Chen* · ([Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) - BradyFU) ![Star](https://img.shields.io/github/stars/BradyFU/Awesome-Multimodal-Large-Language-Models.svg?style=social&label=Star)
+
+	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495335&idx=1&sn=bd1f60cc04239669203c944824acf171))
 - **An In-depth Look at Gemini's Language Abilities**, `arXiv, 2312.11444`, [arxiv](http://arxiv.org/abs/2312.11444v1), [pdf](http://arxiv.org/pdf/2312.11444v1.pdf), cication: [**-1**](None)
 
 	 *Syeda Nahida Akter, Zichun Yu, Aashiq Muhamed, Tianyue Ou, Alex Bäuerle, Ángel Alexander Cabrera, Krish Dholakia, Chenyan Xiong, Graham Neubig* · ([gemini-benchmark](https://github.com/neulab/gemini-benchmark) - neulab) ![Star](https://img.shields.io/github/stars/neulab/gemini-benchmark.svg?style=social&label=Star)
