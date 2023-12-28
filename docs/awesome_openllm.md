@@ -119,6 +119,8 @@
 
 	 *A toolkit for inference and evaluation of 'mixtral-8x7b-32kseqlen' from Mistral AI*
 - [**mistral-playground**](https://huggingface.co/spaces/marcofrodl/mistral-playground) - marcofrodl 🤗
+- [**Mixtral-8x7B-Instruct-v0.1-bnb-4bit**](https://huggingface.co/ybelkada/Mixtral-8x7B-Instruct-v0.1-bnb-4bit) - ybelkada 🤗
+- [**notux-8x7b-v1**](https://huggingface.co/argilla/notux-8x7b-v1) - argilla 🤗
 
 ### StripedHyena-7B 
 - [**StripedHyena-Hessian-7B**](https://huggingface.co/togethercomputer/StripedHyena-Hessian-7B) - togethercomputer 🤗
@@ -239,6 +241,7 @@
 # Mulitlingual (chinese)
 
 ## Foundation
+- [[2312.14862] YAYI 2: Multilingual Open-Source Large Language Models](https://arxiv.org/abs/2312.14862)
 - [**DeepSeek-LLM**](https://github.com/deepseek-ai/DeepSeek-LLM) - deepseek-ai ![Star](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-LLM.svg?style=social&label=Star)
 
 	 *DeepSeek LLM: Let there be answers* · ([huggingface](https://huggingface.co/deepseek-ai)) · ([mp.weixin.qq](https://mp.weixin.qq.com/s/Zj7gPGqJ8UTTxp1umfWjKQ))
@@ -317,6 +320,9 @@
 	 *TigerBot: A multi-language multi-task LLM* · ([qbitai](https://www.qbitai.com/2023/06/59416.html))
 
 ## Finetuning
+- [[2312.14557] Aurora:Activating Chinese chat capability for Mistral-8x7B sparse Mixture-of-Experts through Instruction-Tuning](https://arxiv.org/abs/2312.14557)
+
+	 · ([Aurora](https://github.com/WangRongsheng/Aurora) - WangRongsheng) ![Star](https://img.shields.io/github/stars/WangRongsheng/Aurora.svg?style=social&label=Star)
 - [**Taiwan-LLaMa**](https://github.com/MiuLab/Taiwan-LLaMa) - MiuLab ![Star](https://img.shields.io/github/stars/MiuLab/Taiwan-LLaMa.svg?style=social&label=Star)
 
 	 *Traditional Mandarin LLMs for Taiwan*

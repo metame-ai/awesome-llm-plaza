@@ -25,6 +25,11 @@
 	 *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang*
 
 ## Papers
+- [[2312.15011] Gemini vs GPT-4V: A Preliminary Comparison and Combination of Vision-Language Models Through Qualitative Cases](https://arxiv.org/abs/2312.15011)
+- [[2312.16171] Principled Instructions Are All You Need for Questioning LLaMA-1/2, GPT-3.5/4](https://arxiv.org/abs/2312.16171)
+
+	 · ([ATLAS](https://github.com/VILA-Lab/ATLAS) - VILA-Lab) ![Star](https://img.shields.io/github/stars/VILA-Lab/ATLAS.svg?style=social&label=Star)
+- [[2312.14206] LLM4VG: Large Language Models Evaluation for Video Grounding](https://arxiv.org/abs/2312.14206)
 - **Jack of All Tasks, Master of Many: Designing General-purpose
   Coarse-to-Fine Vision-Language Model**, `arXiv, 2312.12423`, [arxiv](http://arxiv.org/abs/2312.12423v1), [pdf](http://arxiv.org/pdf/2312.12423v1.pdf), cication: [**-1**](None)
 
@@ -275,6 +280,8 @@
 	 *Lianmin Zheng, Wei-Lin Chiang, Ying Sheng, Siyuan Zhuang, Zhanghao Wu, Yonghao Zhuang, Zi Lin, Zhuohan Li, Dacheng Li, Eric. P Xing*
 
 ## Projects
+- [**llm_contamination_detector**](https://huggingface.co/spaces/Yeyito/llm_contamination_detector) - Yeyito 🤗
+- [**detect-pretrain-code-contamination**](https://github.com/swj0419/detect-pretrain-code-contamination) - swj0419 ![Star](https://img.shields.io/github/stars/swj0419/detect-pretrain-code-contamination.svg?style=social&label=Star)
 - [Holistic Evaluation of Language Models (HELM)](https://crfm.stanford.edu/helm/lite/v1.0.0/#/leaderboard)
 - [**deepeval**](https://github.com/confident-ai/deepeval?utm_source=ai-drop.beehiiv.com&utm_medium=referral&utm_campaign=google-unveils-medlm-ai-models-for-health-care) - confident-ai ![Star](https://img.shields.io/github/stars/confident-ai/deepeval?utm_source=ai-drop.beehiiv.com&utm_medium=referral&utm_campaign=google-unveils-medlm-ai-models-for-health-care.svg?style=social&label=Star)
 

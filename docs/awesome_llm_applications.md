@@ -275,6 +275,9 @@
 	 *Chongming Gao, Wenqiang Lei, Xiangnan He, Maarten de Rijke, Tat-Seng Chua* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495345&idx=2&sn=5e3ac087c792081705dde1c2542c687a))
 
 ## Role play
+- [Role play with large language models | Nature](https://www.nature.com/articles/s41586-023-06647-8)
+
+	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI1MjQ2OTQ3Ng==&mid=2247626854&idx=2&sn=c0a79e31b2e08c0d62b4094661edd657))
 - **Faithful Persona-based Conversational Dataset Generation with Large
   Language Models**, `arXiv, 2312.10007`, [arxiv](http://arxiv.org/abs/2312.10007v1), [pdf](http://arxiv.org/pdf/2312.10007v1.pdf), cication: [**-1**](None)
 
@@ -428,6 +431,7 @@
 
 	 *Chemcrow*
 
+- [2023年科研领域「 科学ChatGPT」有哪些？LLM for Science有哪些探索...... | 机器之心](https://www.jiqizhixin.com/articles/2023-12-26-10)
 ## Finance
 - **Technical Report: Large Language Models can Strategically Deceive their
   Users when Put Under Pressure**, `arXiv, 2311.07590`, [arxiv](http://arxiv.org/abs/2311.07590v1), [pdf](http://arxiv.org/pdf/2311.07590v1.pdf), cication: [**-1**](None)
@@ -462,6 +466,7 @@
 	 *Tongshuang Wu, Haiyi Zhu, Maya Albayrak, Alexis Axon, Amanda Bertsch, Wenxing Deng, Ziqi Ding, Bill Guo, Sireesh Gururaja, Tzu-Sheng Kuo*
 
 ## Misc
+- [[2312.14203] Shai: A large language model for asset management](https://arxiv.org/abs/2312.14203)
 - [**emoji-translator**](https://huggingface.co/spaces/gospacedev/emoji-translator) - gospacedev 🤗
 - **PoseGPT: Chatting about 3D Human Pose**, `arXiv, 2311.18836`, [arxiv](http://arxiv.org/abs/2311.18836v1), [pdf](http://arxiv.org/pdf/2311.18836v1.pdf), cication: [**-1**](None)
 

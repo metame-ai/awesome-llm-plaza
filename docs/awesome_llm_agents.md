@@ -25,7 +25,7 @@
 - **Retrieval-Augmented Generation for Large Language Models: A Survey**, `arXiv, 2312.10997`, [arxiv](http://arxiv.org/abs/2312.10997v1), [pdf](http://arxiv.org/pdf/2312.10997v1.pdf), cication: [**-1**](None)
 
 	 *Yunfan Gao, Yun Xiong, Xinyu Gao, Kangxiang Jia, Jinliu Pan, Yuxi Bi, Yi Dai, Jiawei Sun, Haofen Wang* · ([rag-survey](https://github.com/tongji-kgllm/rag-survey) - tongji-kgllm) ![Star](https://img.shields.io/github/stars/tongji-kgllm/rag-survey.svg?style=social&label=Star)
-- **[LLM Powered Autonomous Agents | Lil'Log]**(https://lilianweng.github.io/posts/2023-06-23-agent/)
+- [**LLM Powered Autonomous Agents | Lil'Log**](https://lilianweng.github.io/posts/2023-06-23-agent/)
 
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652350213&idx=4&sn=47bef78ae85d99fccc45487e2fb1ff6b))
  
@@ -41,6 +41,7 @@
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-18-4))
 ## Agents
+- [[2312.14878] Pangu-Agent: A Fine-Tunable Generalist Agent with Structured Reasoning](https://arxiv.org/abs/2312.14878)
 - **AppAgent: Multimodal Agents as Smartphone Users**, `arXiv, 2312.13771`, [arxiv](http://arxiv.org/abs/2312.13771v1), [pdf](http://arxiv.org/pdf/2312.13771v1.pdf), cication: [**-1**](None)
 
 	 *Zhao Yang, Jiaxuan Liu, Yucheng Han, Xin Chen, Zebiao Huang, Bin Fu, Gang Yu*

@@ -21,6 +21,7 @@
 	- [Extra reference](#extra-reference)
 
 ## Survey
+- [[2312.10868] From Google Gemini to OpenAI Q\* (Q-Star): A Survey of Reshaping the Generative Artificial Intelligence (AI) Research Landscape](https://arxiv.org/abs/2312.10868)
 - **A Survey of Large Language Models Attribution**, `arXiv, 2311.03731`, [arxiv](http://arxiv.org/abs/2311.03731v1), [pdf](http://arxiv.org/pdf/2311.03731v1.pdf), cication: [**-1**](None)
 
 	 *Dongfang Li, Zetian Sun, Xinshuo Hu, Zhenyu Liu, Ziyang Chen, Baotian Hu, Aiguo Wu, Min Zhang* · ([awesome-llm-attributions](https://github.com/HITsz-TMG/awesome-llm-attributions) - HITsz-TMG) ![Star](https://img.shields.io/github/stars/HITsz-TMG/awesome-llm-attributions.svg?style=social&label=Star)

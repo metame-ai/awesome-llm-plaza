@@ -55,6 +55,13 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
+- [[2312.14232] Parrot Captions Teach CLIP to Spot Text](https://arxiv.org/abs/2312.14232)
+- [[2312.14233] VCoder: Versatile Vision Encoders for Multimodal Large Language Models](https://arxiv.org/abs/2312.14233)
+
+	 · ([VCoder](https://github.com/SHI-Labs/VCoder) - SHI-Labs) ![Star](https://img.shields.io/github/stars/SHI-Labs/VCoder.svg?style=social&label=Star) · ([praeclarumjj3.github](https://praeclarumjj3.github.io/vcoder/))
+- [[2312.14238] InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks](https://arxiv.org/abs/2312.14238)
+
+	 · ([internvl](https://github.com/opengvlab/internvl) - opengvlab) ![Star](https://img.shields.io/github/stars/opengvlab/internvl.svg?style=social&label=Star) · ([internvl.opengvlab](https://internvl.opengvlab.com/))
 - **Generative Multimodal Models are In-Context Learners**, `arXiv, 2312.13286`, [arxiv](http://arxiv.org/abs/2312.13286v1), [pdf](http://arxiv.org/pdf/2312.13286v1.pdf), cication: [**-1**](None)
 
 	 *Quan Sun, Yufeng Cui, Xiaosong Zhang, Fan Zhang, Qiying Yu, Zhengxiong Luo, Yueze Wang, Yongming Rao, Jingjing Liu, Tiejun Huang* · ([Emu](https://github.com/baaivision/Emu) - baaivision) ![Star](https://img.shields.io/github/stars/baaivision/Emu.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/BAAI/Emu2))
@@ -534,7 +541,7 @@
 - **SALMONN: Towards Generic Hearing Abilities for Large Language Models**, `arXiv, 2310.13289`, [arxiv](http://arxiv.org/abs/2310.13289v1), [pdf](http://arxiv.org/pdf/2310.13289v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=10631342040411306525&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Changli Tang, Wenyi Yu, Guangzhi Sun, Xianzhao Chen, Tian Tan, Wei Li, Lu Lu, Zejun Ma, Chao Zhang*
-	 · [[SALMONN](https://github.com/bytedance/SALMONN/) - bytedance] ![Star](https://img.shields.io/github/stars/bytedance/SALMONN.svg?style=social&label=Star)
+	 · [SALMONN](https://github.com/bytedance/SALMONN/) - bytedance ![Star](https://img.shields.io/github/stars/bytedance/SALMONN.svg?style=social&label=Star)
 - **LLaSM: Large Language and Speech Model**, `arXiv, 2308.15930`, [arxiv](http://arxiv.org/abs/2308.15930v3), [pdf](http://arxiv.org/pdf/2308.15930v3.pdf), cication: [**2**](https://scholar.google.com/scholar?cites=2920079584099209720&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Yu Shu, Siwei Dong, Guangyao Chen, Wenhao Huang, Ruihua Zhang, Daochen Shi, Qiqi Xiang, Yemin Shi*

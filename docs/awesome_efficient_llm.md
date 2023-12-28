@@ -25,6 +25,7 @@
 	 *Tianyu Ding, Tianyi Chen, Haidong Zhu, Jiachen Jiang, Yiqi Zhong, Jinxin Zhou, Guangzhi Wang, Zhihui Zhu, Ilya Zharkov, Luming Liang*
 
 ## Efficient finetuning
+- [[2312.14327] Parameter Efficient Tuning Allows Scalable Personalization of LLMs for Text Entry: A Case Study on Abbreviation Expansion](https://arxiv.org/abs/2312.14327)
 - [Practical Tips for Finetuning LLMs Using LoRA (Low-Rank Adaptation)](https://magazine.sebastianraschka.com/p/practical-tips-for-finetuning-llms?continueFlag=0c2e38ff6893fba31f1492d815bf928b)
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-12-04-14))
@@ -300,6 +301,9 @@
 - [Break the Sequential Dependency of LLM Inference Using Lookahead Decoding | LMSYS Org](https://lmsys.org/blog/2023-11-21-lookahead-decoding/)
 
 	 · ([LookaheadDecoding](https://github.com/hao-ai-lab/LookaheadDecoding) - hao-ai-lab) ![Star](https://img.shields.io/github/stars/hao-ai-lab/LookaheadDecoding.svg?style=social&label=Star)
+- [[2311.03687] Dissecting the Runtime Performance of the Training, Fine-tuning, and Inference of Large Language Models](https://arxiv.org/abs/2311.03687)
+
+	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-12-27-3))
 - **FlashDecoding++: Faster Large Language Model Inference on GPUs**, `arXiv, 2311.01282`, [arxiv](http://arxiv.org/abs/2311.01282v3), [pdf](http://arxiv.org/pdf/2311.01282v3.pdf), cication: [**-1**](None)
 
 	 *Ke Hong, Guohao Dai, Jiaming Xu, Qiuli Mao, Xiuhong Li, Jun Liu, Kangdi Chen, Yuhan Dong, Yu Wang*

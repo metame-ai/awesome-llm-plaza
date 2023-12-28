@@ -21,6 +21,10 @@
 	 *Jiankai Sun, Chuanyang Zheng, Enze Xie, Zhengying Liu, Ruihang Chu, Jianing Qiu, Jiaqi Xu, Mingyu Ding, Hongyang Li, Mengzhe Geng* · ([Awesome-Reasoning-Foundation-Models](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models) - reasoning-survey) ![Star](https://img.shields.io/github/stars/reasoning-survey/Awesome-Reasoning-Foundation-Models.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652421688&idx=3&sn=fcdc24edc7bc89ebcbcca0f7665e40f6))
 
 ## Reasoning
+- [[2312.14591] Reasons to Reject? Aligning Language Models with Judgments](https://arxiv.org/abs/2312.14591)
+- [[2312.13558] The Truth is in There: Improving Reasoning in Language Models with Layer-Selective Rank Reduction](https://arxiv.org/abs/2312.13558)
+
+	 · ([pratyushasharma.github](https://pratyushasharma.github.io/laser/)) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-12-26-7))
 - **Self-Evaluation Improves Selective Generation in Large Language Models**, `arXiv, 2312.09300`, [arxiv](http://arxiv.org/abs/2312.09300v1), [pdf](http://arxiv.org/pdf/2312.09300v1.pdf), cication: [**-1**](None)
 
 	 *Jie Ren, Yao Zhao, Tu Vu, Peter J. Liu, Balaji Lakshminarayanan*
@@ -479,6 +483,7 @@
 - [ChatGPT 詠唱案例懶人包 - 超過 40 個現實世界的應用範例 (持續更新) - 雷司紀的小道投資 raysky](https://www.rayskyinvest.com/96682/chatgpt-examples)
 
 ## In context learning
+- [[2312.15918] Supervised Knowledge Makes Large Language Models Better In-context Learners](https://arxiv.org/abs/2312.15918)
 - **In-Context Learning with Iterative Demonstration Selection**, `arXiv, 2310.09881`, [arxiv](http://arxiv.org/abs/2310.09881v2), [pdf](http://arxiv.org/pdf/2310.09881v2.pdf), cication: [**-1**](None)
 
 	 *Chengwei Qin, Aston Zhang, Anirudh Dagar, Wenming Ye* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495177&idx=2&sn=fe8353efed16a81e35462be06d5a6cea&poc_token=HE6fdWWjA3UlhR8UcCAzGYGsTFLzGAxqYc3EV_8T))

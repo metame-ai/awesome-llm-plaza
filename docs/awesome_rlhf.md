@@ -40,6 +40,9 @@
 
 	 *Tianyu Yu, Yuan Yao, Haoye Zhang, Taiwen He, Yifeng Han, Ganqu Cui, Jinyi Hu, Zhiyuan Liu, Hai-Tao Zheng, Maosong Sun* · ([RLHF-V](https://github.com/RLHF-V/RLHF-V) - RLHF-V) ![Star](https://img.shields.io/github/stars/RLHF-V/RLHF-V.svg?style=social&label=Star)
 - [Starling-7B: Increasing LLM Helpfulness & Harmlessness with RLAIF](https://starling.cs.berkeley.edu/)
+- [[2311.08045] Adversarial Preference Optimization](https://arxiv.org/abs/2311.08045)
+
+	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495391&idx=1&sn=51407a77e2d0277d958adaf533f6ca5b))
 - **Diffusion Model Alignment Using Direct Preference Optimization**, `arXiv, 2311.12908`, [arxiv](http://arxiv.org/abs/2311.12908v1), [pdf](http://arxiv.org/pdf/2311.12908v1.pdf), cication: [**-1**](None)
 
 	 *Bram Wallace, Meihua Dang, Rafael Rafailov, Linqi Zhou, Aaron Lou, Senthil Purushwalkam, Stefano Ermon, Caiming Xiong, Shafiq Joty, Nikhil Naik*

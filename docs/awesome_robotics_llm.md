@@ -7,6 +7,7 @@
 	- [Reference](#reference)
 
 ## Papers
+- [[2312.08782] Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis](https://arxiv.org/abs/2312.08782)
 - **ReST meets ReAct: Self-Improvement for Multi-Step Reasoning LLM Agent**, `arXiv, 2312.10003`, [arxiv](http://arxiv.org/abs/2312.10003v1), [pdf](http://arxiv.org/pdf/2312.10003v1.pdf), cication: [**-1**](None)
 
 	 *Renat Aksitov, Sobhan Miryoosefi, Zonglin Li, Daliang Li, Sheila Babayan, Kavya Kopparapu, Zachary Fisher, Ruiqi Guo, Sushant Prakash, Pranesh Srinivasan*
@@ -220,6 +221,8 @@
 	 · [[qbitai](https://www.qbitai.com/2023/07/69054.html)]
 
 ## Other
+- [ glimpse of the future foundation models and platforms for robots:](https://twitter.com/DrJimFan/status/1740041712184246314)
+
 - [仅用7500条轨迹数据训练，CMU、Meta就让机器人「上得厅堂、下得厨房」 | 机器之心](https://www.jiqizhixin.com/articles/2023-08-22-5)
 - [EmbodiedGPT｜具身智能或将成为实现AGI的最后一公里](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494040&idx=1&sn=c6ada8db1bdf84a1026fd78a636b27c5)
 
