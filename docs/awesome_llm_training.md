@@ -55,7 +55,10 @@
 	 *Yufei Wang, Wanjun Zhong, Liangyou Li, Fei Mi, Xingshan Zeng, Wenyong Huang, Lifeng Shang, Xin Jiang, Qun Liu* · ([AlignLLMHumanSurvey](https://github.com/GaryYufei/AlignLLMHumanSurvey) - GaryYufei) ![Star](https://img.shields.io/github/stars/GaryYufei/AlignLLMHumanSurvey.svg?style=social&label=Star)
 
 ### Paper & Projects
-- [[2312.14187] WaveCoder: Widespread And Versatile Enhanced Instruction Tuning with Refined Data Generation](https://arxiv.org/abs/2312.14187)
+- **WaveCoder: Widespread And Versatile Enhanced Instruction Tuning with
+  Refined Data Generation**, `arXiv, 2312.14187`, [arxiv](http://arxiv.org/abs/2312.14187v2), [pdf](http://arxiv.org/pdf/2312.14187v2.pdf), cication: [**-1**](None)
+
+	 *Zhaojian Yu, Xin Zhang, Ning Shang, Yangyu Huang, Can Xu, Yishujie Zhao, Wenxiang Hu, Qiufeng Yin*
 - [Teach Llamas to Talk: Recent Progress in Instruction Tuning](https://gaotianyu.xyz/blog/2023/11/30/instruction-tuning/)
 
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzIyMzk1MDE3Nw==&mid=2247621353&idx=5&sn=2f132a987c097fa38c8c374283903165))
@@ -162,7 +165,10 @@
 - [领域大模型-训练Trick&落地思考](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494320&idx=2&sn=8edd6ea37bbd73768caa306d9daa2cf7)
 
 ## Scaling
-- [[2312.15166] SOLAR 10.7B: Scaling Large Language Models with Simple yet Effective Depth Up-Scaling](https://arxiv.org/abs/2312.15166)
+- **SOLAR 10.7B: Scaling Large Language Models with Simple yet Effective
+  Depth Up-Scaling**, `arXiv, 2312.15166`, [arxiv](http://arxiv.org/abs/2312.15166v1), [pdf](http://arxiv.org/pdf/2312.15166v1.pdf), cication: [**-1**](None)
+
+	 *Dahyun Kim, Chanjun Park, Sanghoon Kim, Wonsung Lee, Wonho Song, Yunsu Kim, Hyeonwoo Kim, Yungi Kim, Hyeonju Lee, Jihoo Kim*
 - **Distributed Inference and Fine-tuning of Large Language Models Over The
   Internet**, `arXiv, 2312.08361`, [arxiv](http://arxiv.org/abs/2312.08361v1), [pdf](http://arxiv.org/pdf/2312.08361v1.pdf), cication: [**-1**](None)
 

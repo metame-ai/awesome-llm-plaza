@@ -41,7 +41,9 @@
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-18-4))
 ## Agents
-- [[2312.14878] Pangu-Agent: A Fine-Tunable Generalist Agent with Structured Reasoning](https://arxiv.org/abs/2312.14878)
+- **Pangu-Agent: A Fine-Tunable Generalist Agent with Structured Reasoning**, `arXiv, 2312.14878`, [arxiv](http://arxiv.org/abs/2312.14878v1), [pdf](http://arxiv.org/pdf/2312.14878v1.pdf), cication: [**-1**](None)
+
+	 *Filippos Christianos, Georgios Papoudakis, Matthieu Zimmer, Thomas Coste, Zhihao Wu, Jingxuan Chen, Khyati Khandelwal, James Doran, Xidong Feng, Jiacheng Liu*
 - **AppAgent: Multimodal Agents as Smartphone Users**, `arXiv, 2312.13771`, [arxiv](http://arxiv.org/abs/2312.13771v1), [pdf](http://arxiv.org/pdf/2312.13771v1.pdf), cication: [**-1**](None)
 
 	 *Zhao Yang, Jiaxuan Liu, Yucheng Han, Xin Chen, Zebiao Huang, Bin Fu, Gang Yu*

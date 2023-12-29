@@ -55,8 +55,12 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
-- [[2312.14232] Parrot Captions Teach CLIP to Spot Text](https://arxiv.org/abs/2312.14232)
-- [[2312.14233] VCoder: Versatile Vision Encoders for Multimodal Large Language Models](https://arxiv.org/abs/2312.14233)
+- **Parrot Captions Teach CLIP to Spot Text**, `arXiv, 2312.14232`, [arxiv](http://arxiv.org/abs/2312.14232v1), [pdf](http://arxiv.org/pdf/2312.14232v1.pdf), cication: [**-1**](None)
+
+	 *Yiqi Lin, Conghui He, Alex Jinpeng Wang, Bin Wang, Weijia Li, Mike Zheng Shou*
+- **VCoder: Versatile Vision Encoders for Multimodal Large Language Models**, `arXiv, 2312.14233`, [arxiv](http://arxiv.org/abs/2312.14233v1), [pdf](http://arxiv.org/pdf/2312.14233v1.pdf), cication: [**-1**](None)
+
+	 *Jitesh Jain, Jianwei Yang, Humphrey Shi*
 
 	 · ([VCoder](https://github.com/SHI-Labs/VCoder) - SHI-Labs) ![Star](https://img.shields.io/github/stars/SHI-Labs/VCoder.svg?style=social&label=Star) · ([praeclarumjj3.github](https://praeclarumjj3.github.io/vcoder/))
 - [[2312.14238] InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks](https://arxiv.org/abs/2312.14238)

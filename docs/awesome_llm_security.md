@@ -16,7 +16,9 @@
 - [**Adversarial Attacks on LLMs | Lil'Log**](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/)
 
 ## Papers
-- [[2312.14302] Exploiting Novel GPT-4 APIs](https://arxiv.org/abs/2312.14302)
+- **Exploiting Novel GPT-4 APIs**, `arXiv, 2312.14302`, [arxiv](http://arxiv.org/abs/2312.14302v1), [pdf](http://arxiv.org/pdf/2312.14302v1.pdf), cication: [**-1**](None)
+
+	 *Kellin Pelrine, Mohammad Taufeeque, Michał Zając, Euan McLean, Adam Gleave*
 	- 
 - [**adversarial-random-search-gpt4**](https://github.com/max-andr/adversarial-random-search-gpt4) - max-andr ![Star](https://img.shields.io/github/stars/max-andr/adversarial-random-search-gpt4.svg?style=social&label=Star)
 

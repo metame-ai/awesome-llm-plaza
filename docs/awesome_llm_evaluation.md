@@ -25,11 +25,19 @@
 	 *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang*
 
 ## Papers
-- [[2312.15011] Gemini vs GPT-4V: A Preliminary Comparison and Combination of Vision-Language Models Through Qualitative Cases](https://arxiv.org/abs/2312.15011)
-- [[2312.16171] Principled Instructions Are All You Need for Questioning LLaMA-1/2, GPT-3.5/4](https://arxiv.org/abs/2312.16171)
+- **Gemini vs GPT-4V: A Preliminary Comparison and Combination of
+  Vision-Language Models Through Qualitative Cases**, `arXiv, 2312.15011`, [arxiv](http://arxiv.org/abs/2312.15011v1), [pdf](http://arxiv.org/pdf/2312.15011v1.pdf), cication: [**-1**](None)
+
+	 *Zhangyang Qi, Ye Fang, Mengchen Zhang, Zeyi Sun, Tong Wu, Ziwei Liu, Dahua Lin, Jiaqi Wang, Hengshuang Zhao*
+- **Principled Instructions Are All You Need for Questioning LLaMA-1/2,
+  GPT-3.5/4**, `arXiv, 2312.16171`, [arxiv](http://arxiv.org/abs/2312.16171v1), [pdf](http://arxiv.org/pdf/2312.16171v1.pdf), cication: [**-1**](None)
+
+	 *Sondos Mahmoud Bsharat, Aidar Myrzakhan, Zhiqiang Shen*
 
 	 · ([ATLAS](https://github.com/VILA-Lab/ATLAS) - VILA-Lab) ![Star](https://img.shields.io/github/stars/VILA-Lab/ATLAS.svg?style=social&label=Star)
-- [[2312.14206] LLM4VG: Large Language Models Evaluation for Video Grounding](https://arxiv.org/abs/2312.14206)
+- **LLM4VG: Large Language Models Evaluation for Video Grounding**, `arXiv, 2312.14206`, [arxiv](http://arxiv.org/abs/2312.14206v1), [pdf](http://arxiv.org/pdf/2312.14206v1.pdf), cication: [**-1**](None)
+
+	 *Wei Feng, Xin Wang, Hong Chen, Zeyang Zhang, Zihan Song, Yuwei Zhou, Wenwu Zhu*
 - **Jack of All Tasks, Master of Many: Designing General-purpose
   Coarse-to-Fine Vision-Language Model**, `arXiv, 2312.12423`, [arxiv](http://arxiv.org/abs/2312.12423v1), [pdf](http://arxiv.org/pdf/2312.12423v1.pdf), cication: [**-1**](None)
 

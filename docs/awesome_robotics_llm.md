@@ -7,7 +7,10 @@
 	- [Reference](#reference)
 
 ## Papers
-- [[2312.08782] Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis](https://arxiv.org/abs/2312.08782)
+- **Toward General-Purpose Robots via Foundation Models: A Survey and
+  Meta-Analysis**, `arXiv, 2312.08782`, [arxiv](http://arxiv.org/abs/2312.08782v2), [pdf](http://arxiv.org/pdf/2312.08782v2.pdf), cication: [**-1**](None)
+
+	 *Yafei Hu, Quanting Xie, Vidhi Jain, Jonathan Francis, Jay Patrikar, Nikhil Keetha, Seungchan Kim, Yaqi Xie, Tianyi Zhang, Shibo Zhao*
 - **ReST meets ReAct: Self-Improvement for Multi-Step Reasoning LLM Agent**, `arXiv, 2312.10003`, [arxiv](http://arxiv.org/abs/2312.10003v1), [pdf](http://arxiv.org/pdf/2312.10003v1.pdf), cication: [**-1**](None)
 
 	 *Renat Aksitov, Sobhan Miryoosefi, Zonglin Li, Daliang Li, Sheila Babayan, Kavya Kopparapu, Zachary Fisher, Ruiqi Guo, Sushant Prakash, Pranesh Srinivasan*

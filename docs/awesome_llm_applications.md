@@ -466,7 +466,9 @@
 	 *Tongshuang Wu, Haiyi Zhu, Maya Albayrak, Alexis Axon, Amanda Bertsch, Wenxing Deng, Ziqi Ding, Bill Guo, Sireesh Gururaja, Tzu-Sheng Kuo*
 
 ## Misc
-- [[2312.14203] Shai: A large language model for asset management](https://arxiv.org/abs/2312.14203)
+- **Shai: A large language model for asset management**, `arXiv, 2312.14203`, [arxiv](http://arxiv.org/abs/2312.14203v1), [pdf](http://arxiv.org/pdf/2312.14203v1.pdf), cication: [**-1**](None)
+
+	 *Zhongyang Guo, Guanran Jiang, Zhongdan Zhang, Peng Li, Zhefeng Wang, Yinchun Wang*
 - [**emoji-translator**](https://huggingface.co/spaces/gospacedev/emoji-translator) - gospacedev 🤗
 - **PoseGPT: Chatting about 3D Human Pose**, `arXiv, 2311.18836`, [arxiv](http://arxiv.org/abs/2311.18836v1), [pdf](http://arxiv.org/pdf/2311.18836v1.pdf), cication: [**-1**](None)
 

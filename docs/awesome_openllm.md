@@ -241,7 +241,9 @@
 # Mulitlingual (chinese)
 
 ## Foundation
-- [[2312.14862] YAYI 2: Multilingual Open-Source Large Language Models](https://arxiv.org/abs/2312.14862)
+- **YAYI 2: Multilingual Open-Source Large Language Models**, `arXiv, 2312.14862`, [arxiv](http://arxiv.org/abs/2312.14862v1), [pdf](http://arxiv.org/pdf/2312.14862v1.pdf), cication: [**-1**](None)
+
+	 *Yin Luo, Qingchao Kong, Nan Xu, Jia Cao, Bao Hao, Baoyu Qu, Bo Chen, Chao Zhu, Chenyang Zhao, Donglei Zhang*
 - [**DeepSeek-LLM**](https://github.com/deepseek-ai/DeepSeek-LLM) - deepseek-ai ![Star](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-LLM.svg?style=social&label=Star)
 
 	 *DeepSeek LLM: Let there be answers* · ([huggingface](https://huggingface.co/deepseek-ai)) · ([mp.weixin.qq](https://mp.weixin.qq.com/s/Zj7gPGqJ8UTTxp1umfWjKQ))
@@ -320,7 +322,10 @@
 	 *TigerBot: A multi-language multi-task LLM* · ([qbitai](https://www.qbitai.com/2023/06/59416.html))
 
 ## Finetuning
-- [[2312.14557] Aurora:Activating Chinese chat capability for Mistral-8x7B sparse Mixture-of-Experts through Instruction-Tuning](https://arxiv.org/abs/2312.14557)
+- **Aurora:Activating Chinese chat capability for Mistral-8x7B sparse
+  Mixture-of-Experts through Instruction-Tuning**, `arXiv, 2312.14557`, [arxiv](http://arxiv.org/abs/2312.14557v1), [pdf](http://arxiv.org/pdf/2312.14557v1.pdf), cication: [**-1**](None)
+
+	 *Rongsheng Wang, Haoming Chen, Ruizhe Zhou, Yaofei Duan, Kunyan Cai, Han Ma, Jiaxi Cui, Jian Li, Patrick Cheong-Iao Pang, Yapeng Wang*
 
 	 · ([Aurora](https://github.com/WangRongsheng/Aurora) - WangRongsheng) ![Star](https://img.shields.io/github/stars/WangRongsheng/Aurora.svg?style=social&label=Star)
 - [**Taiwan-LLaMa**](https://github.com/MiuLab/Taiwan-LLaMa) - MiuLab ![Star](https://img.shields.io/github/stars/MiuLab/Taiwan-LLaMa.svg?style=social&label=Star)
