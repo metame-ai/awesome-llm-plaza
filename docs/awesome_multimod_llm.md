@@ -63,7 +63,10 @@
 	 *Jitesh Jain, Jianwei Yang, Humphrey Shi*
 
 	 · ([VCoder](https://github.com/SHI-Labs/VCoder) - SHI-Labs) ![Star](https://img.shields.io/github/stars/SHI-Labs/VCoder.svg?style=social&label=Star) · ([praeclarumjj3.github](https://praeclarumjj3.github.io/vcoder/))
-- [[2312.14238] InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks](https://arxiv.org/abs/2312.14238)
+- **InternVL: Scaling up Vision Foundation Models and Aligning for Generic
+  Visual-Linguistic Tasks**, `arXiv, 2312.14238`, [arxiv](http://arxiv.org/abs/2312.14238v2), [pdf](http://arxiv.org/pdf/2312.14238v2.pdf), cication: [**-1**](None)
+
+	 *Zhe Chen, Jiannan Wu, Wenhai Wang, Weijie Su, Guo Chen, Sen Xing, Muyan Zhong, Qinglong Zhang, Xizhou Zhu, Lewei Lu*
 
 	 · ([internvl](https://github.com/opengvlab/internvl) - opengvlab) ![Star](https://img.shields.io/github/stars/opengvlab/internvl.svg?style=social&label=Star) · ([internvl.opengvlab](https://internvl.opengvlab.com/))
 - **Generative Multimodal Models are In-Context Learners**, `arXiv, 2312.13286`, [arxiv](http://arxiv.org/abs/2312.13286v1), [pdf](http://arxiv.org/pdf/2312.13286v1.pdf), cication: [**-1**](None)
@@ -558,6 +561,10 @@
 	 *Zineng Tang, Ziyi Yang, Chenguang Zhu, Michael Zeng, Mohit Bansal* · ([codi-gen.github](https://codi-gen.github.io/)) · ([i-Code](https://github.com/microsoft/i-Code/tree/main/i-Code-V3) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/i-Code.svg?style=social&label=Star)
 
 ## Extra Modalities 
+- **Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision,
+  Language, Audio, and Action**, `arXiv, 2312.17172`, [arxiv](http://arxiv.org/abs/2312.17172v1), [pdf](http://arxiv.org/pdf/2312.17172v1.pdf), cication: [**-1**](None)
+
+	 *Jiasen Lu, Christopher Clark, Sangho Lee, Zichen Zhang, Savya Khosla, Ryan Marten, Derek Hoiem, Aniruddha Kembhavi*
 - **AI-Generated Content (AIGC) for Various Data Modalities: A Survey**, `arXiv, 2308.14177`, [arxiv](http://arxiv.org/abs/2308.14177v4), [pdf](http://arxiv.org/pdf/2308.14177v4.pdf), cication: [**-1**](None)
 
 	 *Lin Geng Foo, Hossein Rahmani, Jun Liu*

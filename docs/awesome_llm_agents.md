@@ -108,6 +108,10 @@
 - **Octopus: Embodied Vision-Language Programmer from Environmental Feedback**, `arXiv, 2310.08588`, [arxiv](http://arxiv.org/abs/2310.08588v1), [pdf](http://arxiv.org/pdf/2310.08588v1.pdf), cication: [**-1**](None)
 
 	 *Jingkang Yang, Yuhao Dong, Shuai Liu, Bo Li, Ziyue Wang, Chencheng Jiang, Haoran Tan, Jiamu Kang, Yuanhan Zhang, Kaiyang Zhou* · ([Octopus](https://github.com/dongyh20/Octopus) - dongyh20) ![Star](https://img.shields.io/github/stars/dongyh20/Octopus.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652403403&idx=5&sn=8c265c36ba692eb614e537894406b72b))
+- **War and Peace (WarAgent): Large Language Model-based Multi-Agent
+  Simulation of World Wars**, `arXiv, 2311.17227`, [arxiv](http://arxiv.org/abs/2311.17227v1), [pdf](http://arxiv.org/pdf/2311.17227v1.pdf), cication: [**-1**](None)
+
+	 *Wenyue Hua, Lizhou Fan, Lingyao Li, Kai Mei, Jianchao Ji, Yingqiang Ge, Libby Hemphill, Yongfeng Zhang* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652424662&idx=5&sn=9fcf5d95d12d548f806cd5375257f783))
 - **Neural MMO 2.0: A Massively Multi-task Addition to Massively Multi-agent
   Learning**, `arXiv, 2311.03736`, [arxiv](http://arxiv.org/abs/2311.03736v1), [pdf](http://arxiv.org/pdf/2311.03736v1.pdf), cication: [**-1**](None)
 
@@ -283,6 +287,7 @@
 	 *Tanmay Gupta, Aniruddha Kembhavi*
 
 ### Other
+- [从第一性原理看大模型Agent技术](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495233&idx=1&sn=a6f99f5ed298dc4dad8477979d0c19a8&poc_token=HARdjWWjobSAo4kfK_sgvyLGAic2WQe64y8tToVY)
 - [AI最大赛道Agent机遇全解析](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495167&idx=1&sn=f9151855988a1cc29f01cf8658c23c3f)
 - [Chat 向左，Agent 向右 - 知乎](https://zhuanlan.zhihu.com/p/662704254)
 - [功能超全的AI Agents开源库来了，能写小说，还能当导购、销售 | 机器之心](https://www.jiqizhixin.com/articles/2023-09-21-2)

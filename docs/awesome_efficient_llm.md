@@ -263,6 +263,9 @@
 	 *Yuxian Gu, Li Dong, Furu Wei, Minlie Huang*
 
 ## Pruning
+- **The LLM Surgeon**, `arXiv, 2312.17244`, [arxiv](http://arxiv.org/abs/2312.17244v1), [pdf](http://arxiv.org/pdf/2312.17244v1.pdf), cication: [**-1**](None)
+
+	 *Tycho F. A. van der Ouderaa, Markus Nagel, Mart van Baalen, Yuki M. Asano, Tijmen Blankevoort*
 - **Mini-GPTs: Efficient Large Language Models through Contextual Pruning**, `arXiv, 2312.12682`, [arxiv](http://arxiv.org/abs/2312.12682v1), [pdf](http://arxiv.org/pdf/2312.12682v1.pdf), cication: [**-1**](None)
 
 	 *Tim Valicenti, Justice Vidal, Ritik Patnaik*
@@ -401,6 +404,11 @@
 - [研究完llama.cpp，我发现手机跑大模型竟这么简单 | 机器之心](https://www.jiqizhixin.com/articles/2023-08-17-8)
 
 ## Mobile
+- **MobileVLM : A Fast, Reproducible and Strong Vision Language Assistant
+  for Mobile Devices**, `arXiv, 2312.16886`, [arxiv](http://arxiv.org/abs/2312.16886v1), [pdf](http://arxiv.org/pdf/2312.16886v1.pdf), cication: [**-1**](None)
+
+	 *Xiangxiang Chu, Limeng Qiao, Xinyang Lin, Shuang Xu, Yang Yang, Yiming Hu, Fei Wei, Xinyu Zhang, Bo Zhang, Xiaolin Wei* · ([MobileVLM](https://github.com/Meituan-AutoML/MobileVLM) - Meituan-AutoML) ![Star](https://img.shields.io/github/stars/Meituan-AutoML/MobileVLM.svg?style=social&label=Star)
+- 
 - [**mlc-llm**](https://github.com/mlc-ai/mlc-llm) - mlc-ai ![Star](https://img.shields.io/github/stars/mlc-ai/mlc-llm.svg?style=social&label=Star)
 
 	 *Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-05-04)) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-06-05-2))
