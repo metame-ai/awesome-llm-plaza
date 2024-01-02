@@ -246,6 +246,9 @@
 
 
 ## Recommendation
+- **Making Large Language Models A Better Foundation For Dense Retrieval**, `arXiv, 2312.15503`, [arxiv](http://arxiv.org/abs/2312.15503v1), [pdf](http://arxiv.org/pdf/2312.15503v1.pdf), cication: [**-1**](None)
+
+	 *Chaofan Li, Zheng Liu, Shitao Xiao, Yingxia Shao*
 - **Rank-without-GPT: Building GPT-Independent Listwise Rerankers on
   Open-Source Large Language Models**, `arXiv, 2312.02969`, [arxiv](http://arxiv.org/abs/2312.02969v1), [pdf](http://arxiv.org/pdf/2312.02969v1.pdf), cication: [**-1**](None)
 
@@ -275,6 +278,9 @@
 	 *Chongming Gao, Wenqiang Lei, Xiangnan He, Maarten de Rijke, Tat-Seng Chua* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495345&idx=2&sn=5e3ac087c792081705dde1c2542c687a))
 
 ## Role play
+- **LARP: Language-Agent Role Play for Open-World Games**, `arXiv, 2312.17653`, [arxiv](http://arxiv.org/abs/2312.17653v1), [pdf](http://arxiv.org/pdf/2312.17653v1.pdf), cication: [**-1**](None)
+
+	 *Ming Yan, Ruihao Li, Hao Zhang, Hao Wang, Zhilan Yang, Ji Yan* · ([miao-ai-lab.github](https://miao-ai-lab.github.io/LARP/))
 - [Role play with large language models | Nature](https://www.nature.com/articles/s41586-023-06647-8)
 
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI1MjQ2OTQ3Ng==&mid=2247626854&idx=2&sn=c0a79e31b2e08c0d62b4094661edd657))
@@ -606,6 +612,11 @@
 	 *Itzik Malkiel, Uri Alon, Yakir Yehuda, Shahar Keren, Oren Barkan, Royi Ronen, Noam Koenigstein*
 
 ## Game
+- **Large Language Models Play StarCraft II: Benchmarks and A Chain of
+  Summarization Approach**, `arXiv, 2312.11865`, [arxiv](http://arxiv.org/abs/2312.11865v1), [pdf](http://arxiv.org/pdf/2312.11865v1.pdf), cication: [**-1**](None)
+
+	 *Weiyu Ma, Qirui Mi, Xue Yan, Yuqiao Wu, Runji Lin, Haifeng Zhang, Jun Wang* · ([Large-Language-Models-play-StarCraftII](https://github.com/histmeisah/Large-Language-Models-play-StarCraftII) - histmeisah) ![Star](https://img.shields.io/github/stars/histmeisah/Large-Language-Models-play-StarCraftII.svg?style=social&label=Star)
+ 
 - [XG推荐 | 如何做好AI游戏？AutoGame团队分享](https://mp.weixin.qq.com/s/YxYW1YtvESrjc2-aDcwIrg)
 - [不写一行代码，他用GPT-4、DALL·E 3等手搓了《愤怒的南瓜》！ | 量子位](https://www.qbitai.com/2023/11/94797.html)
 - [GPT-4肆虐「谁是卧底」桌游！交谈逼真，类人属性仍有发展空间](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652391398&idx=5&sn=bd8107967b8151926f91628303317144)

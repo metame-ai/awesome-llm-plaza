@@ -238,6 +238,8 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652345558&idx=4&sn=95686435d5cad05d44cbe02bc26d6859))
 
 ## Explanation
+- [Fact Finding: Attempting to Reverse-Engineer Factual Recall on the Neuron Level (Post 1) — AI Alignment Forum](https://www.alignmentforum.org/s/hpWHhjvjn67LJ4xXX/p/iGuwZTHWb6DFY3sKB)
+- [deep learning does approximate Solomonoff induction](https://twitter.com/johnschulman2/status/1741178475946602979)
 - [**awesome-llm-interpretability**](https://github.com/JShollaj/awesome-llm-interpretability) - JShollaj ![Star](https://img.shields.io/github/stars/JShollaj/awesome-llm-interpretability.svg?style=social&label=Star)
 
 	 *A curated list of Large Language Model (LLM) Interpretability resources.*
@@ -395,6 +397,9 @@
 
 
 ## Course & Tutorial
+- [**llm-course**](https://github.com/mlabonne/llm-course) - mlabonne ![Star](https://img.shields.io/github/stars/mlabonne/llm-course.svg?style=social&label=Star)
+
+	 *Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.*
 - [[1hr Talk] Intro to Large Language Models - YouTube](https://www.youtube.com/watch?v=zjkBMFhNj_g&ab_channel=AndrejKarpathy)
 
 	 · ([drive.google](https://drive.google.com/file/d/1pxx_ZI7O-Nwl7ZLNk5hI3WzAsTLwvNU7/view?pli=1)) · ([drive.google](https://drive.google.com/file/d/1FPUpFMiCkMRKPFjhi9MAhby68MHVqe8u/view?pli=1))

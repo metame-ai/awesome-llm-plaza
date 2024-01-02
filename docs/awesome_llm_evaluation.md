@@ -25,10 +25,19 @@
 	 *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang*
 
 ## Papers
+- **Gemini in Reasoning: Unveiling Commonsense in Multimodal Large Language
+  Models**, `arXiv, 2312.17661`, [arxiv](http://arxiv.org/abs/2312.17661v1), [pdf](http://arxiv.org/pdf/2312.17661v1.pdf), cication: [**-1**](None)
+
+	 *Yuqing Wang, Yun Zhao*
+- **Comparing Humans, GPT-4, and GPT-4V On Abstraction and Reasoning Tasks**, `arXiv, 2311.09247`, [arxiv](http://arxiv.org/abs/2311.09247v3), [pdf](http://arxiv.org/pdf/2311.09247v3.pdf), cication: [**-1**](None)
+
+	 *Melanie Mitchell, Alessandro B. Palmarini, Arseny Moskvichev* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652425976&idx=3&sn=bd62c6ce6e66fe581c724935eca5716d&poc_token=HOGvkmWjhD-kCvFC9CTEEaU8I5ShCtege3HP4PyI))
 - **Gemini vs GPT-4V: A Preliminary Comparison and Combination of
   Vision-Language Models Through Qualitative Cases**, `arXiv, 2312.15011`, [arxiv](http://arxiv.org/abs/2312.15011v1), [pdf](http://arxiv.org/pdf/2312.15011v1.pdf), cication: [**-1**](None)
 
 	 *Zhangyang Qi, Ye Fang, Mengchen Zhang, Zeyi Sun, Tong Wu, Ziwei Liu, Dahua Lin, Jiaqi Wang, Hengshuang Zhao*
+
+	 · ([gemini-vs-gpt4v](https://github.com/qi-zhangyang/gemini-vs-gpt4v) - qi-zhangyang) ![Star](https://img.shields.io/github/stars/qi-zhangyang/gemini-vs-gpt4v.svg?style=social&label=Star)
 - **Principled Instructions Are All You Need for Questioning LLaMA-1/2,
   GPT-3.5/4**, `arXiv, 2312.16171`, [arxiv](http://arxiv.org/abs/2312.16171v1), [pdf](http://arxiv.org/pdf/2312.16171v1.pdf), cication: [**-1**](None)
 
@@ -47,6 +56,8 @@
 	 *Chaoyou Fu, Renrui Zhang, Zihan Wang, Yubo Huang, Zhengye Zhang, Longtian Qiu, Gaoxiang Ye, Yunhang Shen, Mengdan Zhang, Peixian Chen* · ([Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) - BradyFU) ![Star](https://img.shields.io/github/stars/BradyFU/Awesome-Multimodal-Large-Language-Models.svg?style=social&label=Star)
 
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495335&idx=1&sn=bd1f60cc04239669203c944824acf171))
+
+	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495335&idx=1&sn=bd1f60cc04239669203c944824acf171&poc_token=HF7ojmWjBpIfrreUuRxQCloV4ajsKbiPcePT5WvD))
 - **An In-depth Look at Gemini's Language Abilities**, `arXiv, 2312.11444`, [arxiv](http://arxiv.org/abs/2312.11444v1), [pdf](http://arxiv.org/pdf/2312.11444v1.pdf), cication: [**-1**](None)
 
 	 *Syeda Nahida Akter, Zichun Yu, Aashiq Muhamed, Tianyue Ou, Alex Bäuerle, Ángel Alexander Cabrera, Krish Dholakia, Chenyan Xiong, Graham Neubig* · ([gemini-benchmark](https://github.com/neulab/gemini-benchmark) - neulab) ![Star](https://img.shields.io/github/stars/neulab/gemini-benchmark.svg?style=social&label=Star)

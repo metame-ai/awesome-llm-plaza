@@ -23,7 +23,9 @@
 - **The Efficiency Spectrum of Large Language Models: An Algorithmic Survey**, `arXiv, 2312.00678`, [arxiv](http://arxiv.org/abs/2312.00678v1), [pdf](http://arxiv.org/pdf/2312.00678v1.pdf), cication: [**-1**](None)
 
 	 *Tianyu Ding, Tianyi Chen, Haidong Zhu, Jiachen Jiang, Yiqi Zhong, Jinxin Zhou, Guangzhi Wang, Zhihui Zhu, Ilya Zharkov, Luming Liang*
+- **Scaling Down to Scale Up: A Guide to Parameter-Efficient Fine-Tuning**, `arXiv, 2303.15647`, [arxiv](http://arxiv.org/abs/2303.15647v1), [pdf](http://arxiv.org/pdf/2303.15647v1.pdf), cication: [**-1**](None)
 
+	 *Vladislav Lialin, Vijeta Deshpande, Anna Rumshisky*
 ## Efficient finetuning
 - **Parameter Efficient Tuning Allows Scalable Personalization of LLMs for
   Text Entry: A Case Study on Abbreviation Expansion**, `arXiv, 2312.14327`, [arxiv](http://arxiv.org/abs/2312.14327v1), [pdf](http://arxiv.org/pdf/2312.14327v1.pdf), cication: [**-1**](None)
@@ -278,6 +280,9 @@
 	 *A simple and effective LLM pruning approach.*
 
 ## Efficient Inference
+- [**mixtral-offloading**](https://github.com/dvmazur/mixtral-offloading) - dvmazur ![Star](https://img.shields.io/github/stars/dvmazur/mixtral-offloading.svg?style=social&label=Star)
+
+	 *Run Mixtral-8x7B models in Colab or consumer desktops*
 - **LLM in a flash: Efficient Large Language Model Inference with Limited
   Memory**, `arXiv, 2312.11514`, [arxiv](http://arxiv.org/abs/2312.11514v1), [pdf](http://arxiv.org/pdf/2312.11514v1.pdf), cication: [**-1**](None)
 
@@ -441,6 +446,10 @@
 	 *DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.*
 
 ## Efficient transformer
+- **PanGu-$π$: Enhancing Language Model Architectures via Nonlinearity
+  Compensation**, `arXiv, 2312.17276`, [arxiv](http://arxiv.org/abs/2312.17276v1), [pdf](http://arxiv.org/pdf/2312.17276v1.pdf), cication: [**-1**](None)
+
+	 *Yunhe Wang, Hanting Chen, Yehui Tang, Tianyu Guo, Kai Han, Ying Nie, Xutao Wang, Hailin Hu, Zheyuan Bai, Yun Wang*
 - **Agent Attention: On the Integration of Softmax and Linear Attention**, `arXiv, 2312.08874`, [arxiv](http://arxiv.org/abs/2312.08874v1), [pdf](http://arxiv.org/pdf/2312.08874v1.pdf), cication: [**-1**](None)
 
 	 *Dongchen Han, Tianzhu Ye, Yizeng Han, Zhuofan Xia, Shiji Song, Gao Huang* · ([agent-attention](https://github.com/leaplabthu/agent-attention?tab=readme-ov-file) - leaplabthu) ![Star](https://img.shields.io/github/stars/leaplabthu/agent-attention?tab=readme-ov-file.svg?style=social&label=Star)

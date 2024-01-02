@@ -55,6 +55,9 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
+- **Learning Vision from Models Rivals Learning Vision from Data**, `arXiv, 2312.17742`, [arxiv](http://arxiv.org/abs/2312.17742v1), [pdf](http://arxiv.org/pdf/2312.17742v1.pdf), cication: [**-1**](None)
+
+	 *Yonglong Tian, Lijie Fan, Kaifeng Chen, Dina Katabi, Dilip Krishnan, Phillip Isola*
 - **Parrot Captions Teach CLIP to Spot Text**, `arXiv, 2312.14232`, [arxiv](http://arxiv.org/abs/2312.14232v1), [pdf](http://arxiv.org/pdf/2312.14232v1.pdf), cication: [**-1**](None)
 
 	 *Yiqi Lin, Conghui He, Alex Jinpeng Wang, Bin Wang, Weijia Li, Mike Zheng Shou*

@@ -16,6 +16,10 @@
 	 *Zige Wang, Wanjun Zhong, Yufei Wang, Qi Zhu, Fei Mi, Baojun Wang, Lifeng Shang, Xin Jiang, Qun Liu*
 
 ## Techs
+- **What Makes Good Data for Alignment? A Comprehensive Study of Automatic
+  Data Selection in Instruction Tuning**, `arXiv, 2312.15685`, [arxiv](http://arxiv.org/abs/2312.15685v1), [pdf](http://arxiv.org/pdf/2312.15685v1.pdf), cication: [**-1**](None)
+
+	 *Wei Liu, Weihao Zeng, Keqing He, Yong Jiang, Junxian He* · ([deita](https://github.com/hkust-nlp/deita) - hkust-nlp) ![Star](https://img.shields.io/github/stars/hkust-nlp/deita.svg?style=social&label=Star)
 - **Order Matters in the Presence of Dataset Imbalance for Multilingual
   Learning**, `arXiv, 2312.06134`, [arxiv](http://arxiv.org/abs/2312.06134v1), [pdf](http://arxiv.org/pdf/2312.06134v1.pdf), cication: [**-1**](None)
 

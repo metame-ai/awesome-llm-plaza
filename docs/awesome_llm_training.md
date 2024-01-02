@@ -293,6 +293,11 @@
 	 *Dongfu Jiang, Xiang Ren, Bill Yuchen Lin* · ([LLM-Blender](https://github.com/yuchenlin/LLM-Blender) - yuchenlin) ![Star](https://img.shields.io/github/stars/yuchenlin/LLM-Blender.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652343982&idx=4&sn=ce5c51039d91531178257024d883db90))
 
 ## MoE
+- **Mixture of Cluster-conditional LoRA Experts for Vision-language
+  Instruction Tuning**, `arXiv, 2312.12379`, [arxiv](http://arxiv.org/abs/2312.12379v1), [pdf](http://arxiv.org/pdf/2312.12379v1.pdf), cication: [**-1**](None)
+
+	 *Yunhao Gou, Zhili Liu, Kai Chen, Lanqing Hong, Hang Xu, Aoxue Li, Dit-Yan Yeung, James T. Kwok, Yu Zhang* · ([qbitai](https://www.qbitai.com/2023/12/110658.html))
+
 - **SwitchHead: Accelerating Transformers with Mixture-of-Experts Attention**, `arXiv, 2312.07987`, [arxiv](http://arxiv.org/abs/2312.07987v2), [pdf](http://arxiv.org/pdf/2312.07987v2.pdf), cication: [**-1**](None)
 
 	 *Róbert Csordás, Piotr Piękos, Kazuki Irie, Jürgen Schmidhuber*

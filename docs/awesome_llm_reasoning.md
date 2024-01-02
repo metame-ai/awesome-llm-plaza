@@ -412,6 +412,10 @@
 	 *Tianlu Wang, Ping Yu, Xiaoqing Ellen Tan, Sean O'Brien, Ramakanth Pasunuru, Jane Dwivedi-Yu, Olga Golovneva, Luke Zettlemoyer, Maryam Fazel-Zarandi, Asli Celikyilmaz* · ([shepherd](https://github.com/facebookresearch/shepherd) - facebookresearch) ![Star](https://img.shields.io/github/stars/facebookresearch/shepherd.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652366759&idx=3&sn=f183f4c8080a338c4c9fad0f026b14af))
 
 ## Prompting
+- **Principled Instructions Are All You Need for Questioning LLaMA-1/2,
+  GPT-3.5/4**, `arXiv, 2312.16171`, [arxiv](http://arxiv.org/abs/2312.16171v1), [pdf](http://arxiv.org/pdf/2312.16171v1.pdf), cication: [**-1**](None)
+
+	 *Sondos Mahmoud Bsharat, Aidar Myrzakhan, Zhiqiang Shen*
 - [**promptbase**](https://github.com/microsoft/promptbase) - microsoft ![Star](https://img.shields.io/github/stars/microsoft/promptbase.svg?style=social&label=Star)
 
 	 *All things prompt engineering*

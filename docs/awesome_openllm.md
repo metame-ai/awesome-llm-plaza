@@ -121,6 +121,9 @@
 - [**mistral-playground**](https://huggingface.co/spaces/marcofrodl/mistral-playground) - marcofrodl 🤗
 - [**Mixtral-8x7B-Instruct-v0.1-bnb-4bit**](https://huggingface.co/ybelkada/Mixtral-8x7B-Instruct-v0.1-bnb-4bit) - ybelkada 🤗
 - [**notux-8x7b-v1**](https://huggingface.co/argilla/notux-8x7b-v1) - argilla 🤗
+- [**mixtral-offloading**](https://github.com/dvmazur/mixtral-offloading) - dvmazur ![Star](https://img.shields.io/github/stars/dvmazur/mixtral-offloading.svg?style=social&label=Star)
+
+	 *Run Mixtral-8x7B models in Colab or consumer desktops*
 
 ### StripedHyena-7B 
 - [**StripedHyena-Hessian-7B**](https://huggingface.co/togethercomputer/StripedHyena-Hessian-7B) - togethercomputer 🤗
