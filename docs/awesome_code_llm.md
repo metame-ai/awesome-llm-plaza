@@ -7,11 +7,26 @@
 	- [Other](#other)
 
 ## Survey
+- **If LLM Is the Wizard, Then Code Is the Wand: A Survey on How Code
+  Empowers Large Language Models to Serve as Intelligent Agents**, `arXiv, 2401.00812`, [arxiv](http://arxiv.org/abs/2401.00812v2), [pdf](http://arxiv.org/pdf/2401.00812v2.pdf), cication: [**-1**](None)
+
+	 *Ke Yang, Jiateng Liu, John Wu, Chaoqi Yang, Yi R. Fung, Sha Li, Zixuan Huang, Xu Cao, Xingyao Wang, Yiquan Wang*
 - **A Survey on Language Models for Code**, `arXiv, 2311.07989`, [arxiv](http://arxiv.org/abs/2311.07989v1), [pdf](http://arxiv.org/pdf/2311.07989v1.pdf), cication: [**-1**](None)
 
 	 *Ziyin Zhang, Chaoyu Chen, Bingchang Liu, Cong Liao, Zi Gong, Hang Yu, Jianguo Li, Rui Wang*
 
 ## Paper
+- **CRUXEval: A Benchmark for Code Reasoning, Understanding and Execution**, `arXiv, 2401.03065`, [arxiv](http://arxiv.org/abs/2401.03065v1), [pdf](http://arxiv.org/pdf/2401.03065v1.pdf), cication: [**-1**](None)
+
+	 *Alex Gu, Baptiste Rozière, Hugh Leather, Armando Solar-Lezama, Gabriel Synnaeve, Sida I. Wang*
+- **AST-T5: Structure-Aware Pretraining for Code Generation and
+  Understanding**, `arXiv, 2401.03003`, [arxiv](http://arxiv.org/abs/2401.03003v1), [pdf](http://arxiv.org/pdf/2401.03003v1.pdf), cication: [**-1**](None)
+
+	 *Linyuan Gong, Mostafa Elhoushi, Alvin Cheung* · ([ast_t5](https://github.com/gonglinyuan/ast_t5) - gonglinyuan) ![Star](https://img.shields.io/github/stars/gonglinyuan/ast_t5.svg?style=social&label=Star)
+- **Astraios: Parameter-Efficient Instruction Tuning Code Large Language
+  Models**, `arXiv, 2401.00788`, [arxiv](http://arxiv.org/abs/2401.00788v1), [pdf](http://arxiv.org/pdf/2401.00788v1.pdf), cication: [**-1**](None)
+
+	 *Terry Yue Zhuo, Armel Zebaze, Nitchakarn Suppattarachai, Leandro von Werra, Harm de Vries, Qian Liu, Niklas Muennighoff*
 - **"I Want It That Way": Enabling Interactive Decision Support Using Large
   Language Models and Constraint Programming**, `arXiv, 2312.06908`, [arxiv](http://arxiv.org/abs/2312.06908v1), [pdf](http://arxiv.org/pdf/2312.06908v1.pdf), cication: [**-1**](None)
 

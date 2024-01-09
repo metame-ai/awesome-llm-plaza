@@ -9,6 +9,10 @@
 
 
 ## Survey
+- **A Comprehensive Survey of Hallucination Mitigation Techniques in Large
+  Language Models**, `arXiv, 2401.01313`, [arxiv](http://arxiv.org/abs/2401.01313v3), [pdf](http://arxiv.org/pdf/2401.01313v3.pdf), cication: [**-1**](None)
+
+	 *S. M Towhidul Islam Tonmoy, S M Mehedi Zaman, Vinija Jain, Anku Rani, Vipula Rawte, Aman Chadha, Amitava Das*
 - **A Survey on Hallucination in Large Language Models: Principles,
   Taxonomy, Challenges, and Open Questions**, `arXiv, 2311.05232`, [arxiv](http://arxiv.org/abs/2311.05232v1), [pdf](http://arxiv.org/pdf/2311.05232v1.pdf), cication: [**-1**](None)
 
@@ -30,6 +34,9 @@
   Users when Put Under Pressure**, `arXiv, 2311.07590`, [arxiv](http://arxiv.org/abs/2311.07590v1), [pdf](http://arxiv.org/pdf/2311.07590v1.pdf), cication: [**-1**](None)
 
 	 *Jérémy Scheurer, Mikita Balesni, Marius Hobbhahn*
+- **Calibrated Language Models Must Hallucinate**, `arXiv, 2311.14648`, [arxiv](http://arxiv.org/abs/2311.14648v2), [pdf](http://arxiv.org/pdf/2311.14648v2.pdf), cication: [**-1**](None)
+
+	 *Adam Tauman Kalai, Santosh S. Vempala* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-01-02-19))
 - **Fine-tuning Language Models for Factuality**, `arXiv, 2311.08401`, [arxiv](http://arxiv.org/abs/2311.08401v1), [pdf](http://arxiv.org/pdf/2311.08401v1.pdf), cication: [**-1**](None)
 
 	 *Katherine Tian, Eric Mitchell, Huaxiu Yao, Christopher D. Manning, Chelsea Finn*
@@ -88,7 +95,7 @@
 	 *Leaderboard Comparing LLM Performance at Producing Hallucinations when Summarizing Short Documents* · ([t](https://twitter.com/DrJimFan/status/1724464105371939301))
  
 ## Other
-- [Site Unreachable](https://www.zdnet.com/article/i-fact-checked-chatgpt-with-bard-claude-and-copilot-and-this-ai-was-the-most-confidently-incorrect/?utm_source=ai-drop.beehiiv.com&utm_medium=referral&utm_campaign=bytedance-s-secret-use-of-openai-s-tech)
+- [I fact-checked ChatGPT with Bard, Claude, and Copilot - and this AI was the most confidently incorrect](https://www.zdnet.com/article/i-fact-checked-chatgpt-with-bard-claude-and-copilot-and-this-ai-was-the-most-confidently-incorrect/?utm_source=ai-drop.beehiiv.com&utm_medium=referral&utm_campaign=bytedance-s-secret-use-of-openai-s-tech)
 - [Automatic Hallucination detection with SelfCheckGPT NLI](https://huggingface.co/blog/dhuynh95/automatic-hallucination-detection)
 - [大模型幻觉问题调研](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494247&idx=2&sn=a1614fa0f58c153330bb7f3c11652ad3)
 

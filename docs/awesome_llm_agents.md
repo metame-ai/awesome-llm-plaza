@@ -41,6 +41,9 @@
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-18-4))
 ## Agents
+- **GitAgent: Facilitating Autonomous Agent with GitHub by Tool Extension**, `arXiv, 2312.17294`, [arxiv](http://arxiv.org/abs/2312.17294v1), [pdf](http://arxiv.org/pdf/2312.17294v1.pdf), cication: [**-1**](None)
+
+	 *Bohan Lyu, Xin Cong, Heyang Yu, Pan Yang, Yujia Qin, Yining Ye, Yaxi Lu, Zhong Zhang, Yukun Yan, Yankai Lin*
 - **Pangu-Agent: A Fine-Tunable Generalist Agent with Structured Reasoning**, `arXiv, 2312.14878`, [arxiv](http://arxiv.org/abs/2312.14878v1), [pdf](http://arxiv.org/pdf/2312.14878v1.pdf), cication: [**-1**](None)
 
 	 *Filippos Christianos, Georgios Papoudakis, Matthieu Zimmer, Thomas Coste, Zhihao Wu, Jingxuan Chen, Khyati Khandelwal, James Doran, Xidong Feng, Jiacheng Liu*
@@ -295,6 +298,9 @@
 - [数字身份智能体的基本原理及应用前景展望](https://mp.weixin.qq.com/s?__biz=MzI1MjQ2OTQ3Ng==&mid=2247611020&idx=1&sn=eeea2012a2bcfe541a138c9a4c42b837)
 
 ## AutoGPT
+- [**crewAI**](https://github.com/joaomdmoura/crewAI) - joaomdmoura ![Star](https://img.shields.io/github/stars/joaomdmoura/crewAI.svg?style=social&label=Star)
+
+	 *Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.*
 - [**self-operating-computer**](https://github.com/OthersideAI/self-operating-computer) - OthersideAI ![Star](https://img.shields.io/github/stars/OthersideAI/self-operating-computer.svg?style=social&label=Star)
 - [**open-interpreter**](https://github.com/KillianLucas/open-interpreter) - KillianLucas ![Star](https://img.shields.io/github/stars/KillianLucas/open-interpreter.svg?style=social&label=Star)
 
@@ -348,6 +354,9 @@
 - [AgentGPT](https://agentgpt.reworkd.ai/)
 
 ## Augmented LLM
+- **LLM Augmented LLMs: Expanding Capabilities through Composition**, `arXiv, 2401.02412`, [arxiv](http://arxiv.org/abs/2401.02412v1), [pdf](http://arxiv.org/pdf/2401.02412v1.pdf), cication: [**-1**](None)
+
+	 *Rachit Bansal, Bidisha Samanta, Siddharth Dalmia, Nitish Gupta, Shikhar Vashishth, Sriram Ganapathy, Abhishek Bapna, Prateek Jain, Partha Talukdar*
 - **ProTIP: Progressive Tool Retrieval Improves Planning**, `arXiv, 2312.10332`, [arxiv](http://arxiv.org/abs/2312.10332v1), [pdf](http://arxiv.org/pdf/2312.10332v1.pdf), cication: [**-1**](None)
 
 	 *Raviteja Anantha, Bortik Bandyopadhyay, Anirudh Kashi, Sayantan Mahinder, Andrew W Hill, Srinivas Chappidi*
@@ -400,6 +409,9 @@
 ### Other
 - [陈丹琦ACL学术报告来了！详解大模型「外挂」数据库7大方向3大挑战，3小时干货满满 | 量子位](https://www.qbitai.com/2023/07/67259.html)
 ## Web browsing
+- **GPT-4V(ision) is a Generalist Web Agent, if Grounded**, `arXiv, 2401.01614`, [arxiv](http://arxiv.org/abs/2401.01614v1), [pdf](http://arxiv.org/pdf/2401.01614v1.pdf), cication: [**-1**](None)
+
+	 *Boyuan Zheng, Boyu Gou, Jihyung Kil, Huan Sun, Yu Su* · ([SeeAct](https://github.com/OSU-NLP-Group/SeeAct) - OSU-NLP-Group) ![Star](https://img.shields.io/github/stars/OSU-NLP-Group/SeeAct.svg?style=social&label=Star) · ([osu-nlp-group.github](https://osu-nlp-group.github.io/SeeAct/))
 - [**webglm**](https://github.com/thudm/webglm) - thudm ![Star](https://img.shields.io/github/stars/thudm/webglm.svg?style=social&label=Star)
 
 	 *WebGLM: An Efficient Web-enhanced Question Answering System (KDD 2023)*
@@ -434,9 +446,20 @@
 - [GPT-4V学会用键鼠上网，人类眼睁睁看着它发帖玩游戏 | 量子位](https://www.qbitai.com/2023/11/95456.html)
 
 ## Retrieval agumented generation
+- **Improving Text Embeddings with Large Language Models**, `arXiv, 2401.00368`, [arxiv](http://arxiv.org/abs/2401.00368v1), [pdf](http://arxiv.org/pdf/2401.00368v1.pdf), cication: [**-1**](None)
+
+	 *Liang Wang, Nan Yang, Xiaolong Huang, Linjun Yang, Rangan Majumder, Furu Wei*
+- [**QAnything**](https://github.com/netease-youdao/QAnything) - netease-youdao ![Star](https://img.shields.io/github/stars/netease-youdao/QAnything.svg?style=social&label=Star)
+
+	 *Question and Answer based on Anything.*
+- [**embedchain**](https://github.com/embedchain/embedchain) - embedchain ![Star](https://img.shields.io/github/stars/embedchain/embedchain.svg?style=social&label=Star)
+
+	 *The Open Source RAG framework*
 - **Retrieval-Augmented Generation for Large Language Models: A Survey**, `arXiv, 2312.10997`, [arxiv](http://arxiv.org/abs/2312.10997v1), [pdf](http://arxiv.org/pdf/2312.10997v1.pdf), cication: [**-1**](None)
 
 	 *Yunfan Gao, Yun Xiong, Xinyu Gao, Kangxiang Jia, Jinliu Pan, Yuxi Bi, Yi Dai, Jiawei Sun, Haofen Wang* · ([rag-survey](https://github.com/tongji-kgllm/rag-survey) - tongji-kgllm) ![Star](https://img.shields.io/github/stars/tongji-kgllm/rag-survey.svg?style=social&label=Star)
+
+	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495441&idx=2&sn=cb2cfb2eab441f8a5262ad5b98c1757f))
 - [**CodeFuse-DevOps-Model**](https://github.com/codefuse-ai/CodeFuse-DevOps-Model) - codefuse-ai ![Star](https://img.shields.io/github/stars/codefuse-ai/CodeFuse-DevOps-Model.svg?style=social&label=Star)
 
 	 *DevOps-Models is a series of industrial-first LLMs for theDevOps domain. Asking it for any question in the DevOps domain to get solution!*
@@ -517,8 +540,12 @@
 	 *Interact privately with your documents using the power of GPT, 100% privately, no data leaks*
 
 ### Other
+- [A Cheat Sheet and Some Recipes For Building Advanced RAG | by Andrei | Jan, 2024 | LlamaIndex Blog](https://blog.llamaindex.ai/a-cheat-sheet-and-some-recipes-for-building-advanced-rag-803a9d94c41b)
 - [Build a search engine, not a vector DB](https://blog.elicit.com/search-vs-vector-db/)
 
+- [大模型RAG问答技术架构及核心模块回顾](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495441&idx=2&sn=cb2cfb2eab441f8a5262ad5b98c1757f)
+- [【大模型外挂知识库(RAG)优化】如何炼成强大的向量化召回模型 - 知乎](https://zhuanlan.zhihu.com/p/661867062)
+- [RAG调优方案](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495402&idx=2&sn=6222df8ddb5e08ac48d946b7f989ff4e)
 - [RAG+GPT-4 Turbo让模型性能飙升！更长上下文不是终局，「大海捞针」实验成本仅4%](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652415774&idx=3&sn=8672aeb9f7cce15c3cb43620873b25bb)
 - [问答场景常用大模型解决方案](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494688&idx=2&sn=d871403a80a7fcf656ce0100f266f939)
 

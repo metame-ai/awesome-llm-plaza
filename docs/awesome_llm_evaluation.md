@@ -25,6 +25,19 @@
 	 *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang*
 
 ## Papers
+- **CRUXEval: A Benchmark for Code Reasoning, Understanding and Execution**, `arXiv, 2401.03065`, [arxiv](http://arxiv.org/abs/2401.03065v1), [pdf](http://arxiv.org/pdf/2401.03065v1.pdf), cication: [**-1**](None)
+
+	 *Alex Gu, Baptiste Rozière, Hugh Leather, Armando Solar-Lezama, Gabriel Synnaeve, Sida I. Wang*
+- **Has Your Pretrained Model Improved? A Multi-head Posterior Based
+  Approach**, `arXiv, 2401.02987`, [arxiv](http://arxiv.org/abs/2401.02987v1), [pdf](http://arxiv.org/pdf/2401.02987v1.pdf), cication: [**-1**](None)
+
+	 *Prince Aboagye, Yan Zheng, Junpeng Wang, Uday Singh Saini, Xin Dai, Michael Yeh, Yujie Fan, Zhongfang Zhuang, Shubham Jain, Liang Wang*
+- **Can AI Be as Creative as Humans?**, `arXiv, 2401.01623`, [arxiv](http://arxiv.org/abs/2401.01623v2), [pdf](http://arxiv.org/pdf/2401.01623v2.pdf), cication: [**-1**](None)
+
+	 *Haonan Wang, James Zou, Michael Mozer, Anirudh Goyal, Alex Lamb, Linjun Zhang, Weijie J Su, Zhun Deng, Michael Qizhe Xie, Hannah Brown*
+- **Task Contamination: Language Models May Not Be Few-Shot Anymore**, `arXiv, 2312.16337`, [arxiv](http://arxiv.org/abs/2312.16337v1), [pdf](http://arxiv.org/pdf/2312.16337v1.pdf), cication: [**-1**](None)
+
+	 *Changmao Li, Jeffrey Flanigan* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652426123&idx=3&sn=4715e6475a7b48c52240b79e03171210))
 - **Gemini in Reasoning: Unveiling Commonsense in Multimodal Large Language
   Models**, `arXiv, 2312.17661`, [arxiv](http://arxiv.org/abs/2312.17661v1), [pdf](http://arxiv.org/pdf/2312.17661v1.pdf), cication: [**-1**](None)
 

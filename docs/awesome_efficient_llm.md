@@ -17,6 +17,9 @@
 	- [Efficient transformer](#efficient-transformer)
 
 ## Survey
+- **Understanding LLMs: A Comprehensive Overview from Training to Inference**, `arXiv, 2401.02038`, [arxiv](http://arxiv.org/abs/2401.02038v2), [pdf](http://arxiv.org/pdf/2401.02038v2.pdf), cication: [**-1**](None)
+
+	 *Yiheng Liu, Hao He, Tianle Han, Xu Zhang, Mengyuan Liu, Jiaming Tian, Yutong Zhang, Jiaqi Wang, Xiaohui Gao, Tianyang Zhong*
 - **Efficient Large Language Models: A Survey**, `arXiv, 2312.03863`, [arxiv](http://arxiv.org/abs/2312.03863v1), [pdf](http://arxiv.org/pdf/2312.03863v1.pdf), cication: [**-1**](None)
 
 	 *Zhongwei Wan, Xin Wang, Che Liu, Samiul Alam, Yu Zheng, Zhongnan Qu, Shen Yan, Yi Zhu, Quanlu Zhang, Mosharaf Chowdhury* · ([Efficient-LLMs-Survey](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey) - AIoT-MLSys-Lab) ![Star](https://img.shields.io/github/stars/AIoT-MLSys-Lab/Efficient-LLMs-Survey.svg?style=social&label=Star)
@@ -27,6 +30,10 @@
 
 	 *Vladislav Lialin, Vijeta Deshpande, Anna Rumshisky*
 ## Efficient finetuning
+- **Astraios: Parameter-Efficient Instruction Tuning Code Large Language
+  Models**, `arXiv, 2401.00788`, [arxiv](http://arxiv.org/abs/2401.00788v1), [pdf](http://arxiv.org/pdf/2401.00788v1.pdf), cication: [**-1**](None)
+
+	 *Terry Yue Zhuo, Armel Zebaze, Nitchakarn Suppattarachai, Leandro von Werra, Harm de Vries, Qian Liu, Niklas Muennighoff*
 - **Parameter Efficient Tuning Allows Scalable Personalization of LLMs for
   Text Entry: A Case Study on Abbreviation Expansion**, `arXiv, 2312.14327`, [arxiv](http://arxiv.org/abs/2312.14327v1), [pdf](http://arxiv.org/pdf/2312.14327v1.pdf), cication: [**-1**](None)
 
@@ -148,6 +155,9 @@
 - **BitNet: Scaling 1-bit Transformers for Large Language Models**, `arXiv, 2310.11453`, [arxiv](http://arxiv.org/abs/2310.11453v1), [pdf](http://arxiv.org/pdf/2310.11453v1.pdf), cication: [**-1**](None)
 
 	 *Hongyu Wang, Shuming Ma, Li Dong, Shaohan Huang, Huaijie Wang, Lingxiao Ma, Fan Yang, Ruiping Wang, Yi Wu, Furu Wei*
+- **Atom: Low-bit Quantization for Efficient and Accurate LLM Serving**, `arXiv, 2310.19102`, [arxiv](http://arxiv.org/abs/2310.19102v2), [pdf](http://arxiv.org/pdf/2310.19102v2.pdf), cication: [**-1**](None)
+
+	 *Yilong Zhao, Chien-Yu Lin, Kan Zhu, Zihao Ye, Lequn Chen, Size Zheng, Luis Ceze, Arvind Krishnamurthy, Tianqi Chen, Baris Kasikci* · ([atom](https://github.com/efeslab/atom) - efeslab) ![Star](https://img.shields.io/github/stars/efeslab/atom.svg?style=social&label=Star)
 - **TEQ: Trainable Equivalent Transformation for Quantization of LLMs**, `arXiv, 2310.10944`, [arxiv](http://arxiv.org/abs/2310.10944v1), [pdf](http://arxiv.org/pdf/2310.10944v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=13502474972419396143&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Wenhua Cheng, Yiyang Cai, Kaokao Lv, Haihao Shen*
@@ -187,11 +197,18 @@
 - **SpQR: A Sparse-Quantized Representation for Near-Lossless LLM Weight
   Compression**, `arXiv, 2306.03078`, [arxiv](http://arxiv.org/abs/2306.03078v1), [pdf](http://arxiv.org/pdf/2306.03078v1.pdf), cication: [**-1**](None)
 
-	 *Tim Dettmers, Ruslan Svirschevski, Vage Egiazarian, Denis Kuznedelev, Elias Frantar, Saleh Ashkboos, Alexander Borzunov, Torsten Hoefler, Dan Alistarh*
-- **SpQR: A Sparse-Quantized Representation for Near-Lossless LLM Weight
-  Compression**, `arXiv, 2306.03078`, [arxiv](http://arxiv.org/abs/2306.03078v1), [pdf](http://arxiv.org/pdf/2306.03078v1.pdf), cication: [**-1**](None)
-
 	 *Tim Dettmers, Ruslan Svirschevski, Vage Egiazarian, Denis Kuznedelev, Elias Frantar, Saleh Ashkboos, Alexander Borzunov, Torsten Hoefler, Dan Alistarh* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-06-07-5))
+- **AWQ: Activation-aware Weight Quantization for LLM Compression and
+  Acceleration**, `arXiv, 2306.00978`, [arxiv](http://arxiv.org/abs/2306.00978v2), [pdf](http://arxiv.org/pdf/2306.00978v2.pdf), cication: [**-1**](None)
+
+	 *Ji Lin, Jiaming Tang, Haotian Tang, Shang Yang, Xingyu Dang, Chuang Gan, Song Han*
+- **GPTQ: Accurate Post-Training Quantization for Generative Pre-trained
+  Transformers**, `arXiv, 2210.17323`, [arxiv](http://arxiv.org/abs/2210.17323v2), [pdf](http://arxiv.org/pdf/2210.17323v2.pdf), cication: [**-1**](None)
+
+	 *Elias Frantar, Saleh Ashkboos, Torsten Hoefler, Dan Alistarh* · ([gptq](https://github.com/IST-DASLab/gptq) - IST-DASLab) ![Star](https://img.shields.io/github/stars/IST-DASLab/gptq.svg?style=social&label=Star)
+-  [[2208.07339] LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale](https://arxiv.org/abs/2208.07339)
+
+	 · ([bitsandbytes](https://github.com/timdettmers/bitsandbytes) - timdettmers) ![Star](https://img.shields.io/github/stars/timdettmers/bitsandbytes.svg?style=social&label=Star)
 
 ### Projects
 - [**exllamav2**](https://github.com/turboderp/exllamav2) - turboderp ![Star](https://img.shields.io/github/stars/turboderp/exllamav2.svg?style=social&label=Star)
@@ -280,6 +297,25 @@
 	 *A simple and effective LLM pruning approach.*
 
 ## Efficient Inference
+- [**SwiftInfer**](https://github.com/hpcaitech/SwiftInfer) - hpcaitech ![Star](https://img.shields.io/github/stars/hpcaitech/SwiftInfer.svg?style=social&label=Star)
+
+	 *Efficient AI Inference & Serving* · ([qbitai](https://www.qbitai.com/2024/01/112437.html))
+- **Infinite-LLM: Efficient LLM Service for Long Context with DistAttention
+  and Distributed KVCache**, `arXiv, 2401.02669`, [arxiv](http://arxiv.org/abs/2401.02669v1), [pdf](http://arxiv.org/pdf/2401.02669v1.pdf), cication: [**-1**](None)
+
+	 *Bin Lin, Tao Peng, Chen Zhang, Minmin Sun, Lanbo Li, Hanyu Zhao, Wencong Xiao, Qi Xu, Xiafei Qiu, Shen Li*
+- [**nitro**](https://github.com/janhq/nitro) - janhq ![Star](https://img.shields.io/github/stars/janhq/nitro.svg?style=social&label=Star)
+
+	 *A fast, lightweight, embeddable inference engine to supercharge your apps with local AI. OpenAI-compatible API*
+- [**jan**](https://github.com/janhq/jan) - janhq ![Star](https://img.shields.io/github/stars/janhq/jan.svg?style=social&label=Star)
+
+	 *Jan is an open source alternative to ChatGPT that runs 100% offline on your computer*
+- **Fairness in Serving Large Language Models**, `arXiv, 2401.00588`, [arxiv](http://arxiv.org/abs/2401.00588v1), [pdf](http://arxiv.org/pdf/2401.00588v1.pdf), cication: [**-1**](None)
+
+	 *Ying Sheng, Shiyi Cao, Dacheng Li, Banghua Zhu, Zhuohan Li, Danyang Zhuo, Joseph E. Gonzalez, Ion Stoica* · ([s-lora](https://github.com/s-lora/s-lora) - s-lora) ![Star](https://img.shields.io/github/stars/s-lora/s-lora.svg?style=social&label=Star)
+- [**tricksy**](https://github.com/austinsilveria/tricksy) - austinsilveria ![Star](https://img.shields.io/github/stars/austinsilveria/tricksy.svg?style=social&label=Star)
+
+	 *Fast approximate inference on a single GPU with sparsity aware offloading*
 - [**mixtral-offloading**](https://github.com/dvmazur/mixtral-offloading) - dvmazur ![Star](https://img.shields.io/github/stars/dvmazur/mixtral-offloading.svg?style=social&label=Star)
 
 	 *Run Mixtral-8x7B models in Colab or consumer desktops*
@@ -339,7 +375,8 @@
 - **Efficient Streaming Language Models with Attention Sinks**, `arXiv, 2309.17453`, [arxiv](http://arxiv.org/abs/2309.17453v1), [pdf](http://arxiv.org/pdf/2309.17453v1.pdf), cication: [**3**](https://scholar.google.com/scholar?cites=12541350049673575482&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Guangxuan Xiao, Yuandong Tian, Beidi Chen, Song Han, Mike Lewis*
-	- https://github.com/mit-han-lab/streaming-llm
+
+	 · ([streaming-llm](https://github.com/mit-han-lab/streaming-llm) - mit-han-lab) ![Star](https://img.shields.io/github/stars/mit-han-lab/streaming-llm.svg?style=social&label=Star)
 
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652386603&idx=2&sn=aed316edfc58beb3eb20c7071d7e55b3&poc_token=HCFiHmWjgjWgmSKY8EIYNnmzjCuQutsQF1Qe4SW8))
 - **Efficient Memory Management for Large Language Model Serving with
@@ -397,6 +434,9 @@
 	 *Port of Facebook's LLaMA model in C/C++* · ([ggml](http://ggml.ai/)) · ([llama.cpp](https://github.com/ggerganov/llama.cpp/discussions/205) - ggerganov) ![Star](https://img.shields.io/github/stars/ggerganov/llama.cpp.svg?style=social&label=Star)
 
 ### Other
+- [Unbelievable! Run 70B LLM Inference on a Single 4GB GPU with This NEW Technique | by Gavin Li | Nov, 2023 | AI Advances](https://ai.gopubby.com/unbelievable-run-70b-llm-inference-on-a-single-4gb-gpu-with-this-new-technique-93e2057c7eeb)
+
+	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI1MjQ2OTQ3Ng==&mid=2247628081&idx=1&sn=d507243342fa7c1ba59e18f909e847a4))
 - [How to make LLMs go fast](https://vgel.me/posts/faster-inference/)
 - [Sparse LLM Inference on CPU](https://huggingface.co/blog/mwitiderrick/llm-infrerence-on-cpu)
 - [Optimizing your LLM in production](https://huggingface.co/blog/optimize-llm)

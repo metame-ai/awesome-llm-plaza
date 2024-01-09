@@ -17,6 +17,13 @@
 - [Attention? Attention! | Lil'Log](https://lilianweng.github.io/posts/2018-06-24-attention/#a-family-of-attention-mechanisms)
 
 ## Papers
+- **Infinite-LLM: Efficient LLM Service for Long Context with DistAttention
+  and Distributed KVCache**, `arXiv, 2401.02669`, [arxiv](http://arxiv.org/abs/2401.02669v1), [pdf](http://arxiv.org/pdf/2401.02669v1.pdf), cication: [**-1**](None)
+
+	 *Bin Lin, Tao Peng, Chen Zhang, Minmin Sun, Lanbo Li, Hanyu Zhao, Wencong Xiao, Qi Xu, Xiafei Qiu, Shen Li*
+- **LLM Maybe LongLM: Self-Extend LLM Context Window Without Tuning**, `arXiv, 2401.01325`, [arxiv](http://arxiv.org/abs/2401.01325v1), [pdf](http://arxiv.org/pdf/2401.01325v1.pdf), cication: [**-1**](None)
+
+	 *Hongye Jin, Xiaotian Han, Jingfeng Yang, Zhimeng Jiang, Zirui Liu, Chia-Yuan Chang, Huiyuan Chen, Xia Hu* · ([qbitai](https://www.qbitai.com/2024/01/112273.html))
 - **Cached Transformers: Improving Transformers with Differentiable Memory
   Cache**, `arXiv, 2312.12742`, [arxiv](http://arxiv.org/abs/2312.12742v1), [pdf](http://arxiv.org/pdf/2312.12742v1.pdf), cication: [**-1**](None)
 

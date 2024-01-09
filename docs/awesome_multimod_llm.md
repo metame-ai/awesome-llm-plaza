@@ -11,11 +11,18 @@
 
 ## Vision
 ### Video
+- **COSMO: COntrastive Streamlined MultimOdal Model with Interleaved
+  Pre-Training**, `arXiv, 2401.00849`, [arxiv](http://arxiv.org/abs/2401.00849v1), [pdf](http://arxiv.org/pdf/2401.00849v1.pdf), cication: [**-1**](None)
+
+	 *Alex Jinpeng Wang, Linjie Li, Kevin Qinghong Lin, Jianfeng Wang, Kevin Lin, Zhengyuan Yang, Lijuan Wang, Mike Zheng Shou*
 - **General Object Foundation Model for Images and Videos at Scale**, `arXiv, 2312.09158`, [arxiv](http://arxiv.org/abs/2312.09158v1), [pdf](http://arxiv.org/pdf/2312.09158v1.pdf), cication: [**-1**](None)
 
 	 *Junfeng Wu, Yi Jiang, Qihao Liu, Zehuan Yuan, Xiang Bai, Song Bai*
 
 	 · ([glee-vision.github](https://glee-vision.github.io))
+- **Video Understanding with Large Language Models: A Survey**, `arXiv, 2312.17432`, [arxiv](http://arxiv.org/abs/2312.17432v2), [pdf](http://arxiv.org/pdf/2312.17432v2.pdf), cication: [**-1**](None)
+
+	 *Yunlong Tang, Jing Bi, Siting Xu, Luchuan Song, Susan Liang, Teng Wang, Daoan Zhang, Jie An, Jingyang Lin, Rongyi Zhu* · ([Awesome-LLMs-for-Video-Understanding](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding) - yunlong10) ![Star](https://img.shields.io/github/stars/yunlong10/Awesome-LLMs-for-Video-Understanding.svg?style=social&label=Star)
 - **OneLLM: One Framework to Align All Modalities with Language**, `arXiv, 2312.03700`, [arxiv](http://arxiv.org/abs/2312.03700v1), [pdf](http://arxiv.org/pdf/2312.03700v1.pdf), cication: [**-1**](None)
 
 	 *Jiaming Han, Kaixiong Gong, Yiyuan Zhang, Jiaqi Wang, Kaipeng Zhang, Dahua Lin, Yu Qiao, Peng Gao, Xiangyu Yue*
@@ -55,6 +62,20 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
+
+- **LLaVA-$φ$: Efficient Multi-Modal Assistant with Small Language Model**, `arXiv, 2401.02330`, [arxiv](http://arxiv.org/abs/2401.02330v1), [pdf](http://arxiv.org/pdf/2401.02330v1.pdf), cication: [**-1**](None)
+
+	 *Yichen Zhu, Minjie Zhu, Ning Liu, Zhicai Ou, Xiaofeng Mou, Jian Tang* · ([llava-phi](https://github.com/zhuyiche/llava-phi) - zhuyiche) ![Star](https://img.shields.io/github/stars/zhuyiche/llava-phi.svg?style=social&label=Star)
+- **A Vision Check-up for Language Models**, `arXiv, 2401.01862`, [arxiv](http://arxiv.org/abs/2401.01862v1), [pdf](http://arxiv.org/pdf/2401.01862v1.pdf), cication: [**-1**](None)
+
+	 *Pratyusha Sharma, Tamar Rott Shaham, Manel Baradad, Stephanie Fu, Adrian Rodriguez-Munoz, Shivam Duggal, Phillip Isola, Antonio Torralba*
+- **DocLLM: A layout-aware generative language model for multimodal document
+  understanding**, `arXiv, 2401.00908`, [arxiv](http://arxiv.org/abs/2401.00908v1), [pdf](http://arxiv.org/pdf/2401.00908v1.pdf), cication: [**-1**](None)
+
+	 *Dongsheng Wang, Natraj Raman, Mathieu Sibue, Zhiqiang Ma, Petr Babkin, Simerjot Kaur, Yulong Pei, Armineh Nourbakhsh, Xiaomo Liu*
+- **V*: Guided Visual Search as a Core Mechanism in Multimodal LLMs**, `arXiv, 2312.14135`, [arxiv](http://arxiv.org/abs/2312.14135v2), [pdf](http://arxiv.org/pdf/2312.14135v2.pdf), cication: [**-1**](None)
+
+	 *Penghao Wu, Saining Xie* · ([vstar](https://github.com/penghao-wu/vstar) - penghao-wu) ![Star](https://img.shields.io/github/stars/penghao-wu/vstar.svg?style=social&label=Star)
 - **Learning Vision from Models Rivals Learning Vision from Data**, `arXiv, 2312.17742`, [arxiv](http://arxiv.org/abs/2312.17742v1), [pdf](http://arxiv.org/pdf/2312.17742v1.pdf), cication: [**-1**](None)
 
 	 *Yonglong Tian, Lijie Fan, Kaifeng Chen, Dina Katabi, Dilip Krishnan, Phillip Isola*
@@ -376,7 +397,7 @@
   Localization, Text Reading, and Beyond**, `arXiv, 2308.12966`, [arxiv](http://arxiv.org/abs/2308.12966v3), [pdf](http://arxiv.org/pdf/2308.12966v3.pdf), cication: [**17**](https://scholar.google.com/scholar?cites=8374957261235476914&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Jinze Bai, Shuai Bai, Shusheng Yang, Shijie Wang, Sinan Tan, Peng Wang, Junyang Lin, Chang Zhou, Jingren Zhou*
-	 · [[Qwen-VL](https://github.com/QwenLM/Qwen-VL) - QwenLM] ![Star](https://img.shields.io/github/stars/QwenLM/Qwen-VL.svg?style=social&label=Star) · [[jiqizhixin](https://www.jiqizhixin.com/articles/2023-08-25)]
+	 · [[Qwen-VL](https://github.com/QwenLM/Qwen-VL) - QwenLM] ![Star](https://img.shields.io/github/stars/QwenLM/Qwen-VL.svg?style=social&label=Star) · [jiqizhixin](https://www.jiqizhixin.com/articles/2023-08-25)
 - **Generating Images with Multimodal Language Models**, `arXiv, 2305.17216`, [arxiv](http://arxiv.org/abs/2305.17216v3), [pdf](http://arxiv.org/pdf/2305.17216v3.pdf), cication: [**27**](https://scholar.google.com/scholar?cites=18125197563162628220&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Jing Yu Koh, Daniel Fried, Ruslan Salakhutdinov*
@@ -527,6 +548,13 @@
 	 *Shaohan Huang, Li Dong, Wenhui Wang, Yaru Hao, Saksham Singhal, Shuming Ma, Tengchao Lv, Lei Cui, Owais Khan Mohammed, Barun Patra*
 
 ## Audio
+- **E-chat: Emotion-sensitive Spoken Dialogue System with Large Language
+  Models**, `arXiv, 2401.00475`, [arxiv](http://arxiv.org/abs/2401.00475v2), [pdf](http://arxiv.org/pdf/2401.00475v2.pdf), cication: [**-1**](None)
+
+	 *Hongfei Xue, Yuhao Liang, Bingshen Mu, Shiliang Zhang, Mengzhe Chen, Qian Chen, Lei Xie*
+- **Boosting Large Language Model for Speech Synthesis: An Empirical Study**, `arXiv, 2401.00246`, [arxiv](http://arxiv.org/abs/2401.00246v1), [pdf](http://arxiv.org/pdf/2401.00246v1.pdf), cication: [**-1**](None)
+
+	 *Hongkun Hao, Long Zhou, Shujie Liu, Jinyu Li, Shujie Hu, Rui Wang, Furu Wei*
 - **Multimodal Data and Resource Efficient Device-Directed Speech Detection
   with Large Foundation Models**, `arXiv, 2312.03632`, [arxiv](http://arxiv.org/abs/2312.03632v1), [pdf](http://arxiv.org/pdf/2312.03632v1.pdf), cication: [**-1**](None)
 

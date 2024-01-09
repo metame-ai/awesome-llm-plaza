@@ -7,6 +7,9 @@
 	- [Reference](#reference)
 
 ## Papers
+- [AutoRT: Embodied Foundation Models for Large Scale Orchestration of Robotic Agents](https://auto-rt.github.io/)
+
+	 · ([auto-rt.github](https://auto-rt.github.io/static/pdf/AutoRT.pdf))
 - **Toward General-Purpose Robots via Foundation Models: A Survey and
   Meta-Analysis**, `arXiv, 2312.08782`, [arxiv](http://arxiv.org/abs/2312.08782v2), [pdf](http://arxiv.org/pdf/2312.08782v2.pdf), cication: [**-1**](None)
 
@@ -226,6 +229,7 @@
 ## Other
 - [ glimpse of the future foundation models and platforms for robots:](https://twitter.com/DrJimFan/status/1740041712184246314)
 
+- [一文读懂具身智能：方法、进展及挑战](https://mp.weixin.qq.com/s?__biz=MzI1MjQ2OTQ3Ng==&mid=2247627902&idx=1&sn=9e68f399edf61e25fd766f8be74c016e)[https://mp.weixin.qq.com/s?\_\_biz=MzI1MjQ2OTQ3Ng==&mid=2247627902&idx=1&sn=9e68f399edf61e25fd766f8be74c016e](https://mp.weixin.qq.com/s?__biz=MzI1MjQ2OTQ3Ng==&mid=2247627902&idx=1&sn=9e68f399edf61e25fd766f8be74c016e)
 - [仅用7500条轨迹数据训练，CMU、Meta就让机器人「上得厅堂、下得厨房」 | 机器之心](https://www.jiqizhixin.com/articles/2023-08-22-5)
 - [EmbodiedGPT｜具身智能或将成为实现AGI的最后一公里](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494040&idx=1&sn=c6ada8db1bdf84a1026fd78a636b27c5)
 

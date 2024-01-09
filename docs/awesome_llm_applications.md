@@ -110,6 +110,12 @@
 	 *Yizhe Zhang, Jiatao Gu, Zhuofeng Wu, Shuangfei Zhai, Josh Susskind, Navdeep Jaitly*
 
 ## WebUI
+- [**copilot-gpt4-service**](https://github.com/aaamoon/copilot-gpt4-service) - aaamoon ![Star](https://img.shields.io/github/stars/aaamoon/copilot-gpt4-service.svg?style=social&label=Star)
+
+	 *Convert Github Copilot to ChatGPT, free to use the GPT-4 model*
+- [**Awesome-gptlike-shellsite**](https://github.com/bleedline/Awesome-gptlike-shellsite) - bleedline ![Star](https://img.shields.io/github/stars/bleedline/Awesome-gptlike-shellsite.svg?style=social&label=Star)
+
+	 *深入探索精选的套壳站和必备API资源。本文为初学者和经验丰富的运营者提供一站式指南，涵盖常见问题解答和基础攻略，助您迈向套壳站副业成功之路。Dive into a curated selection of shell sites and essential APIs. This article offers a comprehensive guide for both beginners and seasoned operators, covering FAQs and basic strategies to propel you towards success in your shell site side hustle.*
 - [**GeminiProChat**](https://github.com/babaohuang/GeminiProChat) - babaohuang ![Star](https://img.shields.io/github/stars/babaohuang/GeminiProChat.svg?style=social&label=Star)
 
 	 *Minimal web UI for GeminiPro.*
@@ -244,6 +250,16 @@
 - [大模型将如何重塑教育科技？](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495079&idx=1&sn=9de2538e89e13ac6c2de9ef3c9485849&poc_token=HKGfW2Wjxt97Kx-SL9trVy0vcjiIk55sTn_aWI01)
 - [首个大模型教育产品开箱："最聪明"国产大模型加持的学习机，质变了吗 | 量子位](https://www.qbitai.com/2023/08/79632.html)
 
+## Text Related
+- **DocGraphLM: Documental Graph Language Model for Information Extraction**, `arXiv, 2401.02823`, [arxiv](http://arxiv.org/abs/2401.02823v1), [pdf](http://arxiv.org/pdf/2401.02823v1.pdf), cication: [**-1**](None)
+
+	 *Dongsheng Wang, Zhiqiang Ma, Armineh Nourbakhsh, Kang Gu, Sameena Shah*
+- **Improving Text Embeddings with Large Language Models**, `arXiv, 2401.00368`, [arxiv](http://arxiv.org/abs/2401.00368v1), [pdf](http://arxiv.org/pdf/2401.00368v1.pdf), cication: [**-1**](None)
+
+	 *Liang Wang, Nan Yang, Xiaolong Huang, Linjun Yang, Rangan Majumder, Furu Wei*
+- **Large Language Models for Generative Information Extraction: A Survey**, `arXiv, 2312.17617`, [arxiv](http://arxiv.org/abs/2312.17617v1), [pdf](http://arxiv.org/pdf/2312.17617v1.pdf), cication: [**-1**](None)
+
+	 *Derong Xu, Wei Chen, Wenjun Peng, Chao Zhang, Tong Xu, Xiangyu Zhao, Xian Wu, Yefeng Zheng, Enhong Chen* · ([awesome-llm4ie-papers](https://github.com/quqxui/awesome-llm4ie-papers) - quqxui) ![Star](https://img.shields.io/github/stars/quqxui/awesome-llm4ie-papers.svg?style=social&label=Star)
 
 ## Recommendation
 - **Making Large Language Models A Better Foundation For Dense Retrieval**, `arXiv, 2312.15503`, [arxiv](http://arxiv.org/abs/2312.15503v1), [pdf](http://arxiv.org/pdf/2312.15503v1.pdf), cication: [**-1**](None)
@@ -278,6 +294,10 @@
 	 *Chongming Gao, Wenqiang Lei, Xiangnan He, Maarten de Rijke, Tat-Seng Chua* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495345&idx=2&sn=5e3ac087c792081705dde1c2542c687a))
 
 ## Role play
+- **From LLM to Conversational Agent: A Memory Enhanced Architecture with
+  Fine-Tuning of Large Language Models**, `arXiv, 2401.02777`, [arxiv](http://arxiv.org/abs/2401.02777v1), [pdf](http://arxiv.org/pdf/2401.02777v1.pdf), cication: [**-1**](None)
+
+	 *Na Liu, Liangyu Chen, Xiaoyu Tian, Wei Zou, Kaijiang Chen, Ming Cui*
 - **LARP: Language-Agent Role Play for Open-World Games**, `arXiv, 2312.17653`, [arxiv](http://arxiv.org/abs/2312.17653v1), [pdf](http://arxiv.org/pdf/2312.17653v1.pdf), cication: [**-1**](None)
 
 	 *Ming Yan, Ruihao Li, Hao Zhang, Hao Wang, Zhilan Yang, Ji Yan* · ([miao-ai-lab.github](https://miao-ai-lab.github.io/LARP/))
@@ -377,7 +397,16 @@
 
 	 *Patrick Fernandes, Daniel Deutsch, Mara Finkelstein, Parker Riley, André F. T. Martins, Graham Neubig, Ankush Garg, Jonathan H. Clark, Markus Freitag, Orhan Firat*
 
+## Audio
+- **DiarizationLM: Speaker Diarization Post-Processing with Large Language
+  Models**, `arXiv, 2401.03506`, [arxiv](http://arxiv.org/abs/2401.03506v1), [pdf](http://arxiv.org/pdf/2401.03506v1.pdf), cication: [**-1**](None)
+
+	 *Quan Wang, Yiling Huang, Guanlong Zhao, Evan Clark, Wei Xia, Hank Liao*
+
 ## Vision
+- **GPT-4V(ision) is a Human-Aligned Evaluator for Text-to-3D Generation**, `arXiv, 2401.04092`, [arxiv](http://arxiv.org/abs/2401.04092v1), [pdf](http://arxiv.org/pdf/2401.04092v1.pdf), cication: [**-1**](None)
+
+	 *Tong Wu, Guandao Yang, Zhibing Li, Kai Zhang, Ziwei Liu, Leonidas Guibas, Dahua Lin, Gordon Wetzstein*
 - **GPT4Point: A Unified Framework for Point-Language Understanding and
   Generation**, `arXiv, 2312.02980`, [arxiv](http://arxiv.org/abs/2312.02980v1), [pdf](http://arxiv.org/pdf/2312.02980v1.pdf), cication: [**-1**](None)
 
@@ -415,6 +444,10 @@
 	 *Official repo for LayoutGPT*
 
 ## Science
+- [快速筛选海量数据，即时做出明智决策，MIT、普林斯顿&卡内基梅隆大学团队利用LLM进行聚变研究 | 机器之心](https://www.jiqizhixin.com/articles/2024-01-04-6)
+- **GeoGalactica: A Scientific Large Language Model in Geoscience**, `arXiv, 2401.00434`, [arxiv](http://arxiv.org/abs/2401.00434v1), [pdf](http://arxiv.org/pdf/2401.00434v1.pdf), cication: [**-1**](None)
+
+	 *Zhouhan Lin, Cheng Deng, Le Zhou, Tianhang Zhang, Yi Xu, Yutong Xu, Zhongmou He, Yuanyuan Shi, Beiya Dai, Yunchong Song*
 - [Autonomous chemical research with large language models | Nature](https://www.nature.com/articles/s41586-023-06792-0)
 
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzIyMzk1MDE3Nw==&mid=2247621818&idx=1&sn=4da19eca9a94c1b90ea245a560c511c9))
@@ -456,6 +489,9 @@
 	 *Ethan Callanan, Amarachi Mbakwe, Antony Papadimitriou, Yulong Pei, Mathieu Sibue, Xiaodan Zhu, Zhiqiang Ma, Xiaomo Liu, Sameena Shah*
 
 ## Data Related
+- **Improving Text Embeddings with Large Language Models**, `arXiv, 2401.00368`, [arxiv](http://arxiv.org/abs/2401.00368v1), [pdf](http://arxiv.org/pdf/2401.00368v1.pdf), cication: [**-1**](None)
+
+	 *Liang Wang, Nan Yang, Xiaolong Huang, Linjun Yang, Rangan Majumder, Furu Wei*
 - [**superduperdb**](https://github.com/SuperDuperDB/superduperdb) - SuperDuperDB ![Star](https://img.shields.io/github/stars/SuperDuperDB/superduperdb.svg?style=social&label=Star)
 
 	 *🔮 SuperDuperDB: Bring AI to your database: Integrate, train and manage any AI models and APIs directly with your database and your data.*
@@ -472,7 +508,6 @@
 	 *Tongshuang Wu, Haiyi Zhu, Maya Albayrak, Alexis Axon, Amanda Bertsch, Wenxing Deng, Ziqi Ding, Bill Guo, Sireesh Gururaja, Tzu-Sheng Kuo*
 
 ## Misc
-
 - **Shai: A large language model for asset management**, `arXiv, 2312.14203`, [arxiv](http://arxiv.org/abs/2312.14203v1), [pdf](http://arxiv.org/pdf/2312.14203v1.pdf), cication: [**-1**](None)
 
 	 *Zhongyang Guo, Guanran Jiang, Zhongdan Zhang, Peng Li, Zhefeng Wang, Yinchun Wang*

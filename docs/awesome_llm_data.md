@@ -190,3 +190,6 @@
 	 *A one-stop data processing system to make data higher-quality, juicier, and more digestible for LLMs! 🍎 🍋 🌽 ➡️ ➡️🍸 🍹 🍷为大语言模型提供更高质量、更丰富、更易”消化“的数据！*
 
 ## Extra reference
+- [**awesome-instruction-datasets**](https://github.com/jianzhnie/awesome-instruction-datasets) - jianzhnie ![Star](https://img.shields.io/github/stars/jianzhnie/awesome-instruction-datasets.svg?style=social&label=Star)
+
+	 *A collection of awesome-prompt-datasets, awesome-instruction-dataset, to train ChatLLM such as chatgpt 收录各种各样的指令数据集, 用于训练 ChatLLM 模型。*

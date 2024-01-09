@@ -12,6 +12,10 @@
 
 
 ## Papers
+- **ICE-GRT: Instruction Context Enhancement by Generative Reinforcement
+  based Transformers**, `arXiv, 2401.02072`, [arxiv](http://arxiv.org/abs/2401.02072v1), [pdf](http://arxiv.org/pdf/2401.02072v1.pdf), cication: [**-1**](None)
+
+	 *Chen Zheng, Ke Sun, Da Tang, Yukun Ma, Yuyu Zhang, Chenguang Xi, Xun Zhou*
 - **InstructVideo: Instructing Video Diffusion Models with Human Feedback**, `arXiv, 2312.12490`, [arxiv](http://arxiv.org/abs/2312.12490v1), [pdf](http://arxiv.org/pdf/2312.12490v1.pdf), cication: [**-1**](None)
 
 	 *Hangjie Yuan, Shiwei Zhang, Xiang Wang, Yujie Wei, Tao Feng, Yining Pan, Yingya Zhang, Ziwei Liu, Samuel Albanie, Dong Ni*

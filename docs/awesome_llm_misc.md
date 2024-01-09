@@ -49,6 +49,9 @@
 - [Catching up on the weird world of LLMs](https://simonwillison.net/2023/Aug/3/weird-world-of-llms/)
 
 ## Toolkits
+- [**jan**](https://github.com/janhq/jan) - janhq ![Star](https://img.shields.io/github/stars/janhq/jan.svg?style=social&label=Star)
+
+	 *Jan is an open source alternative to ChatGPT that runs 100% offline on your computer*
 - [**GPT_API_free**](https://github.com/chatanywhere/GPT_API_free) - chatanywhere ![Star](https://img.shields.io/github/stars/chatanywhere/GPT_API_free.svg?style=social&label=Star)
 
 	 *Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。*
@@ -188,6 +191,15 @@
 	 *Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers*
 
 ## New model
+- **MoE-Mamba: Efficient Selective State Space Models with Mixture of
+  Experts**, `arXiv, 2401.04081`, [arxiv](http://arxiv.org/abs/2401.04081v1), [pdf](http://arxiv.org/pdf/2401.04081v1.pdf), cication: [**-1**](None)
+
+	 *Maciej Pióro, Kamil Ciebiera, Krystian Król, Jan Ludziejewski, Sebastian Jaszczur*
+- [The Annotated S4](https://srush.github.io/annotated-s4/)
+- [Paving the way to efficient architectures: StripedHyena-7B, open source models offering a glimpse into a world beyond Transformers](https://www.together.ai/blog/stripedhyena-7b)
+- **Mamba: Linear-Time Sequence Modeling with Selective State Spaces**, `arXiv, 2312.00752`, [arxiv](http://arxiv.org/abs/2312.00752v1), [pdf](http://arxiv.org/pdf/2312.00752v1.pdf), cication: [**-1**](None)
+
+	 *Albert Gu, Tri Dao* · ([mamba](https://github.com/state-spaces/mamba) - state-spaces) ![Star](https://img.shields.io/github/stars/state-spaces/mamba.svg?style=social&label=Star)
 - **TCNCA: Temporal Convolution Network with Chunked Attention for Scalable
   Sequence Processing**, `arXiv, 2312.05605`, [arxiv](http://arxiv.org/abs/2312.05605v1), [pdf](http://arxiv.org/pdf/2312.05605v1.pdf), cication: [**-1**](None)
 
@@ -237,7 +249,8 @@
 
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652345558&idx=4&sn=95686435d5cad05d44cbe02bc26d6859))
 
-## Explanation
+## Interpretability 
+- [Vayu Robotics Blog - Interpretable End-to-End Robot Navigation](https://www.vayurobotics.com/blog/interpretable-end-to-end-driving-agent-for-robotic-mobility)
 - [Fact Finding: Attempting to Reverse-Engineer Factual Recall on the Neuron Level (Post 1) — AI Alignment Forum](https://www.alignmentforum.org/s/hpWHhjvjn67LJ4xXX/p/iGuwZTHWb6DFY3sKB)
 - [deep learning does approximate Solomonoff induction](https://twitter.com/johnschulman2/status/1741178475946602979)
 - [**awesome-llm-interpretability**](https://github.com/JShollaj/awesome-llm-interpretability) - JShollaj ![Star](https://img.shields.io/github/stars/JShollaj/awesome-llm-interpretability.svg?style=social&label=Star)
@@ -332,6 +345,9 @@
 	 *Steve Yadlowsky, Lyric Doshi, Nilesh Tripuraneni*
 
 ## LLM editting
+- **A Comprehensive Study of Knowledge Editing for Large Language Models**, `arXiv, 2401.01286`, [arxiv](http://arxiv.org/abs/2401.01286v2), [pdf](http://arxiv.org/pdf/2401.01286v2.pdf), cication: [**-1**](None)
+
+	 *Ningyu Zhang, Yunzhi Yao, Bozhong Tian, Peng Wang, Shumin Deng, Mengru Wang, Zekun Xi, Shengyu Mao, Jintian Zhang, Yuansheng Ni*
 - **Evaluating the Ripple Effects of Knowledge Editing in Language Models**, `arXiv, 2307.12976`, [arxiv](http://arxiv.org/abs/2307.12976v1), [pdf](http://arxiv.org/pdf/2307.12976v1.pdf), cication: [**5**](https://scholar.google.com/scholar?cites=3039858131654435599&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Roi Cohen, Eden Biran, Ori Yoran, Amir Globerson, Mor Geva*

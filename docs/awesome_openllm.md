@@ -31,6 +31,9 @@
 # English
 
 ## Foundation
+- **TinyLlama: An Open-Source Small Language Model**, `arXiv, 2401.02385`, [arxiv](http://arxiv.org/abs/2401.02385v1), [pdf](http://arxiv.org/pdf/2401.02385v1.pdf), cication: [**-1**](None)
+
+	 *Peiyuan Zhang, Guangtao Zeng, Tianduo Wang, Wei Lu* · ([TinyLlama](https://github.com/jzhang38/TinyLlama) - jzhang38) ![Star](https://img.shields.io/github/stars/jzhang38/TinyLlama.svg?style=social&label=Star)
 - **TigerBot: An Open Multilingual Multitask LLM**, `arXiv, 2312.08688`, [arxiv](http://arxiv.org/abs/2312.08688v1), [pdf](http://arxiv.org/pdf/2312.08688v1.pdf), cication: [**-1**](None)
 
 	 *Ye Chen, Wei Cai, Liangmin Wu, Xiaowei Li, Zhanxuan Xin, Cong Fu*
@@ -144,6 +147,9 @@
 	 *Arno Candel, Jon McKinney, Philipp Singer, Pascal Pfeiffer, Maximilian Jeblick, Prithvi Prabhu, Jeff Gambera, Mark Landry, Shivam Bansal, Ryan Chesler*
 
 ### LLaMA
+- [**LiteLlama-460M-1T**](https://huggingface.co/ahxt/LiteLlama-460M-1T) - ahxt 🤗
+
+	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-01-08-20))
 - [**Llama-2-7b-chat-mlx**](https://huggingface.co/mlx-llama/Llama-2-7b-chat-mlx) - mlx-llama 🤗
 - [**TinyLlama**](https://github.com/jzhang38/TinyLlama) - jzhang38 ![Star](https://img.shields.io/github/stars/jzhang38/TinyLlama.svg?style=social&label=Star)
 
@@ -244,6 +250,9 @@
 # Mulitlingual (chinese)
 
 ## Foundation
+- **TeleChat Technical Report**, `arXiv, 2401.03804`, [arxiv](http://arxiv.org/abs/2401.03804v1), [pdf](http://arxiv.org/pdf/2401.03804v1.pdf), cication: [**-1**](None)
+
+	 *Zihan Wang, Xinzhang Liu, Shixuan Liu, Yitong Yao, Yuyao Huang, Zhongjiang He, Xuelong Li, Yongxiang Li, Zhonghao Che, Zhaoxi Zhang*
 - **YAYI 2: Multilingual Open-Source Large Language Models**, `arXiv, 2312.14862`, [arxiv](http://arxiv.org/abs/2312.14862v1), [pdf](http://arxiv.org/pdf/2312.14862v1.pdf), cication: [**-1**](None)
 
 	 *Yin Luo, Qingchao Kong, Nan Xu, Jia Cao, Bao Hao, Baoyu Qu, Bo Chen, Chao Zhu, Chenyang Zhao, Donglei Zhang*
@@ -365,6 +374,12 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s/Lf70i8M0KNDs9ZB8H32h4w))
 
 # Extra
+- **Multilingual Instruction Tuning With Just a Pinch of Multilinguality**, `arXiv, 2401.01854`, [arxiv](http://arxiv.org/abs/2401.01854v1), [pdf](http://arxiv.org/pdf/2401.01854v1.pdf), cication: [**-1**](None)
+
+	 *Uri Shaham, Jonathan Herzig, Roee Aharoni, Idan Szpektor, Reut Tsarfaty, Matan Eyal*
+- **LLaMA Beyond English: An Empirical Study on Language Capability Transfer**, `arXiv, 2401.01055`, [arxiv](http://arxiv.org/abs/2401.01055v1), [pdf](http://arxiv.org/pdf/2401.01055v1.pdf), cication: [**-1**](None)
+
+	 *Jun Zhao, Zhihao Zhang, Qi Zhang, Tao Gui, Xuanjing Huang*
 - [2023, year of open LLMs](https://huggingface.co/blog/2023-in-llms)
 - **FinGPT: Large Generative Models for a Small Language**, `arXiv, 2311.05640`, [arxiv](http://arxiv.org/abs/2311.05640v1), [pdf](http://arxiv.org/pdf/2311.05640v1.pdf), cication: [**-1**](None)
 

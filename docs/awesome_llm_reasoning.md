@@ -496,6 +496,10 @@
 - [ChatGPT 詠唱案例懶人包 - 超過 40 個現實世界的應用範例 (持續更新) - 雷司紀的小道投資 raysky](https://www.rayskyinvest.com/96682/chatgpt-examples)
 
 ## In context learning
+- **Towards Truly Zero-shot Compositional Visual Reasoning with LLMs as
+  Programmers**, `arXiv, 2401.01974`, [arxiv](http://arxiv.org/abs/2401.01974v1), [pdf](http://arxiv.org/pdf/2401.01974v1.pdf), cication: [**-1**](None)
+
+	 *Aleksandar Stanić, Sergi Caelles, Michael Tschannen*
 - **Supervised Knowledge Makes Large Language Models Better In-context
   Learners**, `arXiv, 2312.15918`, [arxiv](http://arxiv.org/abs/2312.15918v1), [pdf](http://arxiv.org/pdf/2312.15918v1.pdf), cication: [**-1**](None)
 

@@ -165,6 +165,20 @@
 - [领域大模型-训练Trick&落地思考](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494320&idx=2&sn=8edd6ea37bbd73768caa306d9daa2cf7)
 
 ## Scaling
+- **Blending Is All You Need: Cheaper, Better Alternative to
+  Trillion-Parameters LLM**, `arXiv, 2401.02994`, [arxiv](http://arxiv.org/abs/2401.02994v1), [pdf](http://arxiv.org/pdf/2401.02994v1.pdf), cication: [**-1**](None)
+
+	 *Xiaoding Lu, Adian Liusie, Vyas Raina, Yuwen Zhang, William Beauchamp*
+- **DeepSeek LLM: Scaling Open-Source Language Models with Longtermism**, `arXiv, 2401.02954`, [arxiv](http://arxiv.org/abs/2401.02954v1), [pdf](http://arxiv.org/pdf/2401.02954v1.pdf), cication: [**-1**](None)
+
+	 *DeepSeek-AI, :, Xiao Bi, Deli Chen, Guanting Chen, Shanhuang Chen, Damai Dai, Chengqi Deng, Honghui Ding, Kai Dong*
+- **Beyond Chinchilla-Optimal: Accounting for Inference in Language Model
+  Scaling Laws**, `arXiv, 2401.00448`, [arxiv](http://arxiv.org/abs/2401.00448v1), [pdf](http://arxiv.org/pdf/2401.00448v1.pdf), cication: [**-1**](None)
+
+	 *Nikhil Sardana, Jonathan Frankle*
+- **Unicron: Economizing Self-Healing LLM Training at Scale**, `arXiv, 2401.00134`, [arxiv](http://arxiv.org/abs/2401.00134v1), [pdf](http://arxiv.org/pdf/2401.00134v1.pdf), cication: [**-1**](None)
+
+	 *Tao He, Xue Li, Zhibin Wang, Kun Qian, Jingbo Xu, Wenyuan Yu, Jingren Zhou*
 - **SOLAR 10.7B: Scaling Large Language Models with Simple yet Effective
   Depth Up-Scaling**, `arXiv, 2312.15166`, [arxiv](http://arxiv.org/abs/2312.15166v1), [pdf](http://arxiv.org/pdf/2312.15166v1.pdf), cication: [**-1**](None)
 
@@ -224,6 +238,13 @@
 - [Chinchilla之死：只要训练足够长时间，小模型也能超过大模型 | 机器之心](https://www.jiqizhixin.com/articles/2023-10-03-9)
 
 ## Fine-tuning
+- **LLaMA Pro: Progressive LLaMA with Block Expansion**, `arXiv, 2401.02415`, [arxiv](http://arxiv.org/abs/2401.02415v1), [pdf](http://arxiv.org/pdf/2401.02415v1.pdf), cication: [**-1**](None)
+
+	 *Chengyue Wu, Yukang Gan, Yixiao Ge, Zeyu Lu, Jiahao Wang, Ye Feng, Ping Luo, Ying Shan* · ([LLaMA-Pro](https://github.com/TencentARC/LLaMA-Pro) - TencentARC) ![Star](https://img.shields.io/github/stars/TencentARC/LLaMA-Pro.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/TencentARC/LLaMA-Pro-8B))
+- **Self-Play Fine-Tuning Converts Weak Language Models to Strong Language
+  Models**, `arXiv, 2401.01335`, [arxiv](http://arxiv.org/abs/2401.01335v1), [pdf](http://arxiv.org/pdf/2401.01335v1.pdf), cication: [**-1**](None)
+
+	 *Zixiang Chen, Yihe Deng, Huizhuo Yuan, Kaixuan Ji, Quanquan Gu*
 - **Federated Full-Parameter Tuning of Billion-Sized Language Models with
   Communication Cost under 18 Kilobytes**, `arXiv, 2312.06353`, [arxiv](http://arxiv.org/abs/2312.06353v1), [pdf](http://arxiv.org/pdf/2312.06353v1.pdf), cication: [**-1**](None)
 
@@ -273,6 +294,8 @@
 	 *Yang Luo, Xiaozhe Ren, Zangwei Zheng, Zhuo Jiang, Xin Jiang, Yang You* · ([qbitai](https://www.qbitai.com/2023/07/67814.html))
  
 ## Ensemble
+- [Model Merging - a osanseviero Collection](https://huggingface.co/collections/osanseviero/model-merging-65097893623330a3a51ead66)
+- [Papers about model merging - a julien-c Collection](https://huggingface.co/collections/julien-c/papers-about-model-merging-659596e6fa54621c41cd60b1)
 - [**mergekit**](https://github.com/cg123/mergekit) - cg123 ![Star](https://img.shields.io/github/stars/cg123/mergekit.svg?style=social&label=Star)
 
 	 *Tools for merging pretrained large language models.*
@@ -293,6 +316,13 @@
 	 *Dongfu Jiang, Xiang Ren, Bill Yuchen Lin* · ([LLM-Blender](https://github.com/yuchenlin/LLM-Blender) - yuchenlin) ![Star](https://img.shields.io/github/stars/yuchenlin/LLM-Blender.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652343982&idx=4&sn=ce5c51039d91531178257024d883db90))
 
 ## MoE
+- **Mixtral of Experts**, `arXiv, 2401.04088`, [arxiv](http://arxiv.org/abs/2401.04088v1), [pdf](http://arxiv.org/pdf/2401.04088v1.pdf), cication: [**-1**](None)
+
+	 *Albert Q. Jiang, Alexandre Sablayrolles, Antoine Roux, Arthur Mensch, Blanche Savary, Chris Bamford, Devendra Singh Chaplot, Diego de las Casas, Emma Bou Hanna, Florian Bressand*
+- **MoE-Mamba: Efficient Selective State Space Models with Mixture of
+  Experts**, `arXiv, 2401.04081`, [arxiv](http://arxiv.org/abs/2401.04081v1), [pdf](http://arxiv.org/pdf/2401.04081v1.pdf), cication: [**-1**](None)
+
+	 *Maciej Pióro, Kamil Ciebiera, Krystian Król, Jan Ludziejewski, Sebastian Jaszczur*
 - **Mixture of Cluster-conditional LoRA Experts for Vision-language
   Instruction Tuning**, `arXiv, 2312.12379`, [arxiv](http://arxiv.org/abs/2312.12379v1), [pdf](http://arxiv.org/pdf/2312.12379v1.pdf), cication: [**-1**](None)
 
