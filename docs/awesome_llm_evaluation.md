@@ -25,6 +25,10 @@
 	 *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang*
 
 ## Papers
+- **Narrowing the Knowledge Evaluation Gap: Open-Domain Question Answering
+  with Multi-Granularity Answers**, `arXiv, 2401.04695`, [arxiv](http://arxiv.org/abs/2401.04695v1), [pdf](http://arxiv.org/pdf/2401.04695v1.pdf), cication: [**-1**](None)
+
+	 *Gal Yona, Roee Aharoni, Mor Geva*
 - **CRUXEval: A Benchmark for Code Reasoning, Understanding and Execution**, `arXiv, 2401.03065`, [arxiv](http://arxiv.org/abs/2401.03065v1), [pdf](http://arxiv.org/pdf/2401.03065v1.pdf), cication: [**-1**](None)
 
 	 *Alex Gu, Baptiste Rozière, Hugh Leather, Armando Solar-Lezama, Gabriel Synnaeve, Sida I. Wang*

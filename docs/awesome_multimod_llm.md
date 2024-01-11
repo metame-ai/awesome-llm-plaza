@@ -62,7 +62,6 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
-
 - **LLaVA-$φ$: Efficient Multi-Modal Assistant with Small Language Model**, `arXiv, 2401.02330`, [arxiv](http://arxiv.org/abs/2401.02330v1), [pdf](http://arxiv.org/pdf/2401.02330v1.pdf), cication: [**-1**](None)
 
 	 *Yichen Zhu, Minjie Zhu, Ning Liu, Zhicai Ou, Xiaofeng Mou, Jian Tang* · ([llava-phi](https://github.com/zhuyiche/llava-phi) - zhuyiche) ![Star](https://img.shields.io/github/stars/zhuyiche/llava-phi.svg?style=social&label=Star)
@@ -209,7 +208,9 @@
 - **NExT-Chat: An LMM for Chat, Detection and Segmentation**, `arXiv, 2311.04498`, [arxiv](http://arxiv.org/abs/2311.04498v1), [pdf](http://arxiv.org/pdf/2311.04498v1.pdf), cication: [**-1**](None)
 
 	 *Ao Zhang, Liming Zhao, Chen-Wei Xie, Yun Zheng, Wei Ji, Tat-Seng Chua*
-	 · ([NExT-Chat](https://github.com/NExT-ChatV/NExT-Chat) - NExT-ChatV) ![Star](https://img.shields.io/github/stars/NExT-ChatV/NExT-Chat.svg?style=social&label=Star) · [[20d12192149d0748e2.gradio](https://20d12192149d0748e2.gradio.live/)]
+
+	 · ([NExT-Chat](https://github.com/NExT-ChatV/NExT-Chat) - NExT-ChatV) ![Star](https://img.shields.io/github/stars/NExT-ChatV/NExT-Chat.svg?style=social&label=Star)
+	 · [[20d12192149d0748e2.gradio](https://20d12192149d0748e2.gradio.live/)]
 - **LanguageBind: Extending Video-Language Pretraining to N-modality by
   Language-based Semantic Alignment**, `arXiv, 2310.01852`, [arxiv](http://arxiv.org/abs/2310.01852v5), [pdf](http://arxiv.org/pdf/2310.01852v5.pdf), cication: [**-1**](None)
 

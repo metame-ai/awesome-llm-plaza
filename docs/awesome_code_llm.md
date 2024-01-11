@@ -16,6 +16,9 @@
 	 *Ziyin Zhang, Chaoyu Chen, Bingchang Liu, Cong Liao, Zi Gong, Hang Yu, Jianguo Li, Rui Wang*
 
 ## Paper
+- **DebugBench: Evaluating Debugging Capability of Large Language Models**, `arXiv, 2401.04621`, [arxiv](http://arxiv.org/abs/2401.04621v1), [pdf](http://arxiv.org/pdf/2401.04621v1.pdf), cication: [**-1**](None)
+
+	 *Runchu Tian, Yining Ye, Yujia Qin, Xin Cong, Yankai Lin, Zhiyuan Liu, Maosong Sun*
 - **CRUXEval: A Benchmark for Code Reasoning, Understanding and Execution**, `arXiv, 2401.03065`, [arxiv](http://arxiv.org/abs/2401.03065v1), [pdf](http://arxiv.org/pdf/2401.03065v1.pdf), cication: [**-1**](None)
 
 	 *Alex Gu, Baptiste Rozière, Hugh Leather, Armando Solar-Lezama, Gabriel Synnaeve, Sida I. Wang*

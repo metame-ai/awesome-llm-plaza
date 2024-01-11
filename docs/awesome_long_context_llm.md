@@ -17,6 +17,10 @@
 - [Attention? Attention! | Lil'Log](https://lilianweng.github.io/posts/2018-06-24-attention/#a-family-of-attention-mechanisms)
 
 ## Papers
+- **Lightning Attention-2: A Free Lunch for Handling Unlimited Sequence
+  Lengths in Large Language Models**, `arXiv, 2401.04658`, [arxiv](http://arxiv.org/abs/2401.04658v1), [pdf](http://arxiv.org/pdf/2401.04658v1.pdf), cication: [**-1**](None)
+
+	 *Zhen Qin, Weigao Sun, Dong Li, Xuyang Shen, Weixuan Sun, Yiran Zhong* · ([lightning-attention](https://github.com/OpenNLPLab/lightning-attention) - OpenNLPLab) ![Star](https://img.shields.io/github/stars/OpenNLPLab/lightning-attention.svg?style=social&label=Star)
 - **Infinite-LLM: Efficient LLM Service for Long Context with DistAttention
   and Distributed KVCache**, `arXiv, 2401.02669`, [arxiv](http://arxiv.org/abs/2401.02669v1), [pdf](http://arxiv.org/pdf/2401.02669v1.pdf), cication: [**-1**](None)
 

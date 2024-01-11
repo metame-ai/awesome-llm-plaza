@@ -25,6 +25,10 @@
 - **Retrieval-Augmented Generation for Large Language Models: A Survey**, `arXiv, 2312.10997`, [arxiv](http://arxiv.org/abs/2312.10997v1), [pdf](http://arxiv.org/pdf/2312.10997v1.pdf), cication: [**-1**](None)
 
 	 *Yunfan Gao, Yun Xiong, Xinyu Gao, Kangxiang Jia, Jinliu Pan, Yuxi Bi, Yi Dai, Jiawei Sun, Haofen Wang* · ([rag-survey](https://github.com/tongji-kgllm/rag-survey) - tongji-kgllm) ![Star](https://img.shields.io/github/stars/tongji-kgllm/rag-survey.svg?style=social&label=Star)
+- **Large Language Models Empowered Agent-based Modeling and Simulation: A
+  Survey and Perspectives**, `arXiv, 2312.11970`, [arxiv](http://arxiv.org/abs/2312.11970v1), [pdf](http://arxiv.org/pdf/2312.11970v1.pdf), cication: [**-1**](None)
+
+	 *Chen Gao, Xiaochong Lan, Nian Li, Yuan Yuan, Jingtao Ding, Zhilun Zhou, Fengli Xu, Yong Li* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652430840&idx=5&sn=5a68ba11dce9d88540f297c2aa594e80))
 - [**LLM Powered Autonomous Agents | Lil'Log**](https://lilianweng.github.io/posts/2023-06-23-agent/)
 
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652350213&idx=4&sn=47bef78ae85d99fccc45487e2fb1ff6b))
@@ -41,6 +45,9 @@
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-18-4))
 ## Agents
+- **Bootstrapping LLM-based Task-Oriented Dialogue Agents via Self-Talk**, `arXiv, 2401.05033`, [arxiv](http://arxiv.org/abs/2401.05033v1), [pdf](http://arxiv.org/pdf/2401.05033v1.pdf), cication: [**-1**](None)
+
+	 *Dennis Ulmer, Elman Mansimov, Kaixiang Lin, Justin Sun, Xibin Gao, Yi Zhang*
 - **GitAgent: Facilitating Autonomous Agent with GitHub by Tool Extension**, `arXiv, 2312.17294`, [arxiv](http://arxiv.org/abs/2312.17294v1), [pdf](http://arxiv.org/pdf/2312.17294v1.pdf), cication: [**-1**](None)
 
 	 *Bohan Lyu, Xin Cong, Heyang Yu, Pan Yang, Yujia Qin, Yining Ye, Yaxi Lu, Zhong Zhang, Yukun Yan, Yankai Lin*

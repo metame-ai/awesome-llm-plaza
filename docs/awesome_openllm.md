@@ -100,6 +100,7 @@
 - [**phi-1**](https://huggingface.co/microsoft/phi-1) - microsoft 🤗
 
 - [**phi-2**](https://huggingface.co/spaces/randomblock1/phi-2) - randomblock1 🤗
+- [**phixtral-4x2_8**](https://huggingface.co/mlabonne/phixtral-4x2_8) - mlabonne 🤗
 ### Mistral
 - [**mistral-src**](https://github.com/mistralai/mistral-src) - mistralai ![Star](https://img.shields.io/github/stars/mistralai/mistral-src.svg?style=social&label=Star)
 
@@ -127,6 +128,7 @@
 - [**mixtral-offloading**](https://github.com/dvmazur/mixtral-offloading) - dvmazur ![Star](https://img.shields.io/github/stars/dvmazur/mixtral-offloading.svg?style=social&label=Star)
 
 	 *Run Mixtral-8x7B models in Colab or consumer desktops*
+- [**mixtral-test-46.7b-chat**](https://huggingface.co/spaces/johann22/mixtral-test-46.7b-chat) - johann22 🤗
 
 ### StripedHyena-7B 
 - [**StripedHyena-Hessian-7B**](https://huggingface.co/togethercomputer/StripedHyena-Hessian-7B) - togethercomputer 🤗
@@ -399,3 +401,6 @@
 - [**Awesome-Chinese-LLM**](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) - HqWu-HITCS ![Star](https://img.shields.io/github/stars/HqWu-HITCS/Awesome-Chinese-LLM.svg?style=social&label=Star)
 
 	 *整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。*
+- [**self-llm**](https://github.com/datawhalechina/self-llm) - datawhalechina ![Star](https://img.shields.io/github/stars/datawhalechina/self-llm.svg?style=social&label=Star)
+
+	 *《开源大模型食用指南》基于AutoDL快速部署开源大模型，更适合中国宝宝的部署教程*

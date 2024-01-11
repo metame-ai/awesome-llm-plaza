@@ -486,6 +486,10 @@
 	 *DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.*
 
 ## Efficient transformer
+- [FireAttention — Serving Open Source Models 4x faster than vLLM by quantizing with \~no tradeoffs | by Fireworks.ai | Jan, 2024 | Medium](https://blog.fireworks.ai/fireattention-serving-open-source-models-4x-faster-than-vllm-by-quantizing-with-no-tradeoffs-a29a85ad28d0)
+- [**flash-linear-attention**](https://github.com/sustcsonglin/flash-linear-attention) - sustcsonglin ![Star](https://img.shields.io/github/stars/sustcsonglin/flash-linear-attention.svg?style=social&label=Star)
+
+	 *Fast implementations of causal linear attention for autogressive language modeling (Pytorch)*
 - **PanGu-$π$: Enhancing Language Model Architectures via Nonlinearity
   Compensation**, `arXiv, 2312.17276`, [arxiv](http://arxiv.org/abs/2312.17276v1), [pdf](http://arxiv.org/pdf/2312.17276v1.pdf), cication: [**-1**](None)
 
@@ -530,6 +534,11 @@
 	 *Noam Shazeer*
 
 	 · ([zhuanlan.zhihu](https://zhuanlan.zhihu.com/p/634236135))
+
+## Hardware
+- [2401.03868.pdf](https://arxiv.org/pdf/2401.03868.pdf)
+
+	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-01-10-4))
 
 ##  Other
 - [Schedule | NeurIPS Large Language Model Efficiency Challenge:1 LLM + 1GPU + 1Day](https://llm-efficiency-challenge.github.io/schedule)

@@ -141,6 +141,9 @@
 
 
 ## Medical
+- **Machine Mindset: An MBTI Exploration of Large Language Models**, `arXiv, 2312.12999`, [arxiv](http://arxiv.org/abs/2312.12999v3), [pdf](http://arxiv.org/pdf/2312.12999v3.pdf), cication: [**-1**](None)
+
+	 *Jiaxi Cui, Liuzhenghao Lv, Jing Wen, Rongsheng Wang, Jing Tang, YongHong Tian, Li Yuan* · ([machine-mindset](https://github.com/pku-yuangroup/machine-mindset) - pku-yuangroup) ![Star](https://img.shields.io/github/stars/pku-yuangroup/machine-mindset.svg?style=social&label=Star)
 - **A Foundational Multimodal Vision Language AI Assistant for Human
   Pathology**, `arXiv, 2312.07814`, [arxiv](http://arxiv.org/abs/2312.07814v1), [pdf](http://arxiv.org/pdf/2312.07814v1.pdf), cication: [**-1**](None)
 
@@ -251,6 +254,10 @@
 - [首个大模型教育产品开箱："最聪明"国产大模型加持的学习机，质变了吗 | 量子位](https://www.qbitai.com/2023/08/79632.html)
 
 ## Text Related
+- **Chain-of-Table: Evolving Tables in the Reasoning Chain for Table
+  Understanding**, `arXiv, 2401.04398`, [arxiv](http://arxiv.org/abs/2401.04398v1), [pdf](http://arxiv.org/pdf/2401.04398v1.pdf), cication: [**-1**](None)
+
+	 *Zilong Wang, Hao Zhang, Chun-Liang Li, Julian Martin Eisenschlos, Vincent Perot, Zifeng Wang, Lesly Miculicich, Yasuhisa Fujii, Jingbo Shang, Chen-Yu Lee*
 - **DocGraphLM: Documental Graph Language Model for Information Extraction**, `arXiv, 2401.02823`, [arxiv](http://arxiv.org/abs/2401.02823v1), [pdf](http://arxiv.org/pdf/2401.02823v1.pdf), cication: [**-1**](None)
 
 	 *Dongsheng Wang, Zhiqiang Ma, Armineh Nourbakhsh, Kang Gu, Sameena Shah*

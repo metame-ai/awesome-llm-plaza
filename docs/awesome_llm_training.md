@@ -165,10 +165,6 @@
 - [领域大模型-训练Trick&落地思考](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494320&idx=2&sn=8edd6ea37bbd73768caa306d9daa2cf7)
 
 ## Scaling
-- **Blending Is All You Need: Cheaper, Better Alternative to
-  Trillion-Parameters LLM**, `arXiv, 2401.02994`, [arxiv](http://arxiv.org/abs/2401.02994v1), [pdf](http://arxiv.org/pdf/2401.02994v1.pdf), cication: [**-1**](None)
-
-	 *Xiaoding Lu, Adian Liusie, Vyas Raina, Yuwen Zhang, William Beauchamp*
 - **DeepSeek LLM: Scaling Open-Source Language Models with Longtermism**, `arXiv, 2401.02954`, [arxiv](http://arxiv.org/abs/2401.02954v1), [pdf](http://arxiv.org/pdf/2401.02954v1.pdf), cication: [**-1**](None)
 
 	 *DeepSeek-AI, :, Xiao Bi, Deli Chen, Guanting Chen, Shanhuang Chen, Damai Dai, Chengqi Deng, Honghui Ding, Kai Dong*
@@ -294,6 +290,10 @@
 	 *Yang Luo, Xiaozhe Ren, Zangwei Zheng, Zhuo Jiang, Xin Jiang, Yang You* · ([qbitai](https://www.qbitai.com/2023/07/67814.html))
  
 ## Ensemble
+- **Blending Is All You Need: Cheaper, Better Alternative to
+  Trillion-Parameters LLM**, `arXiv, 2401.02994`, [arxiv](http://arxiv.org/abs/2401.02994v1), [pdf](http://arxiv.org/pdf/2401.02994v1.pdf), cication: [**-1**](None)
+
+	 *Xiaoding Lu, Adian Liusie, Vyas Raina, Yuwen Zhang, William Beauchamp*
 - [Model Merging - a osanseviero Collection](https://huggingface.co/collections/osanseviero/model-merging-65097893623330a3a51ead66)
 - [Papers about model merging - a julien-c Collection](https://huggingface.co/collections/julien-c/papers-about-model-merging-659596e6fa54621c41cd60b1)
 - [**mergekit**](https://github.com/cg123/mergekit) - cg123 ![Star](https://img.shields.io/github/stars/cg123/mergekit.svg?style=social&label=Star)
@@ -372,6 +372,7 @@
 	 *Noam Shazeer, Azalia Mirhoseini, Krzysztof Maziarz, Andy Davis, Quoc Le, Geoffrey Hinton, Jeff Dean*
 
 ### Other
+- [Mixture of Experts - a mlabonne Collection](https://huggingface.co/collections/mlabonne/mixture-of-experts-65980c40330942d1282b76f5)
 - [**8x7B-MoE-test-NOT-MIXTRAL**](https://huggingface.co/CausalLM/8x7B-MoE-test-NOT-MIXTRAL) - CausalLM 🤗
 
 - [模块化大模型来了！IBM公开WastonX核心架构技术细节](https://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&mid=2247522084&idx=3&sn=ceba2b0c3e6434599101f7604ff109c4)

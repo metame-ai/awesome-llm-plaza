@@ -25,6 +25,10 @@
 	 *Roya Firoozi, Johnathan Tucker, Stephen Tian, Anirudha Majumdar, Jiankai Sun, Weiyu Liu, Yuke Zhu, Shuran Song, Ashish Kapoor, Karol Hausman*
 
 	 · ([Awesome-Robotics-Foundation-Models](https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models) - robotics-survey) ![Star](https://img.shields.io/github/stars/robotics-survey/Awesome-Robotics-Foundation-Models.svg?style=social&label=Star)
+- **SAGE: Bridging Semantic and Actionable Parts for GEneralizable
+  Articulated-Object Manipulation under Language Instructions**, `arXiv, 2312.01307`, [arxiv](http://arxiv.org/abs/2312.01307v1), [pdf](http://arxiv.org/pdf/2312.01307v1.pdf), cication: [**-1**](None)
+
+	 *Haoran Geng, Songlin Wei, Congyue Deng, Bokui Shen, He Wang, Leonidas Guibas* · ([geometry.stanford](https://geometry.stanford.edu/projects/sage/)) · ([SAGE](https://github.com/geng-haoran/SAGE) - geng-haoran) ![Star](https://img.shields.io/github/stars/geng-haoran/SAGE.svg?style=social&label=Star)
 - **Agent as Cerebrum, Controller as Cerebellum: Implementing an Embodied
   LMM-based Agent on Drones**, `arXiv, 2311.15033`, [arxiv](http://arxiv.org/abs/2311.15033v1), [pdf](http://arxiv.org/pdf/2311.15033v1.pdf), cication: [**-1**](None)
 

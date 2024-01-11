@@ -106,6 +106,10 @@
 
 
 ### MulitiMod
+- **Let's Go Shopping (LGS) -- Web-Scale Image-Text Dataset for Visual
+  Concept Understanding**, `arXiv, 2401.04575`, [arxiv](http://arxiv.org/abs/2401.04575v1), [pdf](http://arxiv.org/pdf/2401.04575v1.pdf), cication: [**-1**](None)
+
+	 *Yatong Bai, Utsav Garg, Apaar Shanker, Haoming Zhang, Samyak Parajuli, Erhan Bas, Isidora Filipovic, Amelia N. Chu, Eugenia D Fomitcheva, Elliot Branson*
 - **MADLAD-400: A Multilingual And Document-Level Large Audited Dataset**, `arXiv, 2309.04662`, [arxiv](http://arxiv.org/abs/2309.04662v1), [pdf](http://arxiv.org/pdf/2309.04662v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=3403145482648559011&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Sneha Kudugunta, Isaac Caswell, Biao Zhang, Xavier Garcia, Christopher A. Choquette-Choo, Katherine Lee, Derrick Xin, Aditya Kusupati, Romi Stella, Ankur Bapna*
