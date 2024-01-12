@@ -316,6 +316,10 @@
 	 *Dongfu Jiang, Xiang Ren, Bill Yuchen Lin* · ([LLM-Blender](https://github.com/yuchenlin/LLM-Blender) - yuchenlin) ![Star](https://img.shields.io/github/stars/yuchenlin/LLM-Blender.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652343982&idx=4&sn=ce5c51039d91531178257024d883db90))
 
 ## MoE
+- **DeepSeekMoE: Towards Ultimate Expert Specialization in
+  Mixture-of-Experts Language Models**, `arXiv, 2401.06066`, [arxiv](http://arxiv.org/abs/2401.06066v1), [pdf](http://arxiv.org/pdf/2401.06066v1.pdf), cication: [**-1**](None)
+
+	 *Damai Dai, Chengqi Deng, Chenggang Zhao, R. X. Xu, Huazuo Gao, Deli Chen, Jiashi Li, Wangding Zeng, Xingkai Yu, Y. Wu* · ([DeepSeek-MoE](https://github.com/deepseek-ai/DeepSeek-MoE) - deepseek-ai) ![Star](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-MoE.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/deepseek-ai/deepseek-moe-16b-chat))
 - **Mixtral of Experts**, `arXiv, 2401.04088`, [arxiv](http://arxiv.org/abs/2401.04088v1), [pdf](http://arxiv.org/pdf/2401.04088v1.pdf), cication: [**-1**](None)
 
 	 *Albert Q. Jiang, Alexandre Sablayrolles, Antoine Roux, Arthur Mensch, Blanche Savary, Chris Bamford, Devendra Singh Chaplot, Diego de las Casas, Emma Bou Hanna, Florian Bressand*

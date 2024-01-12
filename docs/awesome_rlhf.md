@@ -12,6 +12,9 @@
 
 
 ## Papers
+- **Secrets of RLHF in Large Language Models Part II: Reward Modeling**, `arXiv, 2401.06080`, [arxiv](http://arxiv.org/abs/2401.06080v1), [pdf](http://arxiv.org/pdf/2401.06080v1.pdf), cication: [**-1**](None)
+
+	 *Binghai Wang, Rui Zheng, Lu Chen, Yan Liu, Shihan Dou, Caishuang Huang, Wei Shen, Senjie Jin, Enyu Zhou, Chenyu Shi*
 - **ICE-GRT: Instruction Context Enhancement by Generative Reinforcement
   based Transformers**, `arXiv, 2401.02072`, [arxiv](http://arxiv.org/abs/2401.02072v1), [pdf](http://arxiv.org/pdf/2401.02072v1.pdf), cication: [**-1**](None)
 

@@ -16,6 +16,10 @@
 - [**Adversarial Attacks on LLMs | Lil'Log**](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/)
 
 ## Papers
+- **Sleeper Agents: Training Deceptive LLMs that Persist Through Safety
+  Training**, `arXiv, 2401.05566`, [arxiv](http://arxiv.org/abs/2401.05566v1), [pdf](http://arxiv.org/pdf/2401.05566v1.pdf), cication: [**-1**](None)
+
+	 *Evan Hubinger, Carson Denison, Jesse Mu, Mike Lambert, Meg Tong, Monte MacDiarmid, Tamera Lanham, Daniel M. Ziegler, Tim Maxwell, Newton Cheng*
 - **Exploiting Novel GPT-4 APIs**, `arXiv, 2312.14302`, [arxiv](http://arxiv.org/abs/2312.14302v1), [pdf](http://arxiv.org/pdf/2312.14302v1.pdf), cication: [**-1**](None)
 
 	 *Kellin Pelrine, Mohammad Taufeeque, Michał Zając, Euan McLean, Adam Gleave*

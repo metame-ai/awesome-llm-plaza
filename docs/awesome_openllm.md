@@ -217,6 +217,8 @@
 
 	 *Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform* · ([huggingface](https://huggingface.co/databricks/dolly-v2-12b)) · ([databricks](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm))
 ### Misc
+- [Improving Open-Source LLMs - Datasets, Merging and Stacking - The Abacus.AI Blog](https://blog.abacus.ai/blog/2024/01/11/the-open-source-cookbook-how-to-soup-up-your-open-source-llm/)
+- [**CrystalChat**](https://huggingface.co/LLM360/CrystalChat) - LLM360 🤗
 - [**btlm-3b-8k-chat**](https://huggingface.co/cerebras/btlm-3b-8k-chat) - cerebras 🤗
 - [**stablelm-zephyr-3b**](https://huggingface.co/stabilityai/stablelm-zephyr-3b) - stabilityai 🤗
 
@@ -258,9 +260,7 @@
 - **YAYI 2: Multilingual Open-Source Large Language Models**, `arXiv, 2312.14862`, [arxiv](http://arxiv.org/abs/2312.14862v1), [pdf](http://arxiv.org/pdf/2312.14862v1.pdf), cication: [**-1**](None)
 
 	 *Yin Luo, Qingchao Kong, Nan Xu, Jia Cao, Bao Hao, Baoyu Qu, Bo Chen, Chao Zhu, Chenyang Zhao, Donglei Zhang*
-- [**DeepSeek-LLM**](https://github.com/deepseek-ai/DeepSeek-LLM) - deepseek-ai ![Star](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-LLM.svg?style=social&label=Star)
 
-	 *DeepSeek LLM: Let there be answers* · ([huggingface](https://huggingface.co/deepseek-ai)) · ([mp.weixin.qq](https://mp.weixin.qq.com/s/Zj7gPGqJ8UTTxp1umfWjKQ))
 - **SeaLLMs -- Large Language Models for Southeast Asia**, `arXiv, 2312.00738`, [arxiv](http://arxiv.org/abs/2312.00738v1), [pdf](http://arxiv.org/pdf/2312.00738v1.pdf), cication: [**-1**](None)
 
 	 *Xuan-Phi Nguyen, Wenxuan Zhang, Xin Li, Mahani Aljunied, Qingyu Tan, Liying Cheng, Guanzheng Chen, Yue Deng, Sen Yang, Chaoqun Liu*
@@ -294,6 +294,14 @@
 
 	 *基于CPM基础模型的中英双语多模态大模型系列* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-07-03-3))
 
+### DeepSeek 
+- [**DeepSeek-MoE**](https://github.com/deepseek-ai/DeepSeek-MoE) - deepseek-ai ![Star](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-MoE.svg?style=social&label=Star)
+
+	 · ([huggingface](https://huggingface.co/deepseek-ai/deepseek-moe-16b-chat))
+- [**DeepSeek-LLM**](https://github.com/deepseek-ai/DeepSeek-LLM) - deepseek-ai ![Star](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-LLM.svg?style=social&label=Star)
+
+	 *DeepSeek LLM: Let there be answers* · ([huggingface](https://huggingface.co/deepseek-ai)) · ([mp.weixin.qq](https://mp.weixin.qq.com/s/Zj7gPGqJ8UTTxp1umfWjKQ))
+
 ### Xverse
  - [GitHub - xverse-ai/XVERSE-65B: XVERSE-65B: A multilingual large language model developed by XVERSE Technology Inc.](https://github.com/xverse-ai/XVERSE-65B)
 
@@ -310,6 +318,7 @@
 - [**Qwen-7B**](https://github.com/QwenLM/Qwen-7B) - QwenLM ![Star](https://img.shields.io/github/stars/QwenLM/Qwen-7B.svg?style=social&label=Star)
 
 	 *The official repo of Qwen-7B (通义千问-7B) chat & pretrained large language model proposed by Alibaba Cloud.* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494650&idx=1&sn=fbeb1cc57092931966b3e57f8733ed82)) · ([qbitai](https://www.qbitai.com/2023/09/86450.html))
+- [**Qwen-72B-Chat-Demo**](https://huggingface.co/spaces/Qwen/Qwen-72B-Chat-Demo) - Qwen 🤗
 ### Baichuan
 - **Baichuan 2: Open Large-scale Language Models**, `arXiv, 2309.10305`, [arxiv](http://arxiv.org/abs/2309.10305v2), [pdf](http://arxiv.org/pdf/2309.10305v2.pdf), cication: [**16**](https://scholar.google.com/scholar?cites=11092587028861989085&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 

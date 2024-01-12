@@ -49,6 +49,9 @@
 - [Catching up on the weird world of LLMs](https://simonwillison.net/2023/Aug/3/weird-world-of-llms/)
 
 ## Toolkits
+- [**amazing-openai-api**](https://github.com/soulteary/amazing-openai-api) - soulteary ![Star](https://img.shields.io/github/stars/soulteary/amazing-openai-api.svg?style=social&label=Star)
+
+	 *Convert different model APIs into the OpenAI API format out of the box.*
 - [**jan**](https://github.com/janhq/jan) - janhq ![Star](https://img.shields.io/github/stars/janhq/jan.svg?style=social&label=Star)
 
 	 *Jan is an open source alternative to ChatGPT that runs 100% offline on your computer*
@@ -132,6 +135,9 @@
 	 *FlagAI (Fast LArge-scale General AI models) is a fast, easy-to-use and extensible toolkit for large-scale model.*
 
 ## Unlearning
+- **TOFU: A Task of Fictitious Unlearning for LLMs**, `arXiv, 2401.06121`, [arxiv](http://arxiv.org/abs/2401.06121v1), [pdf](http://arxiv.org/pdf/2401.06121v1.pdf), cication: [**-1**](None)
+
+	 *Pratyush Maini, Zhili Feng, Avi Schwarzschild, Zachary C. Lipton, J. Zico Kolter*
 - **Large Language Model Unlearning**, `arXiv, 2310.10683`, [arxiv](http://arxiv.org/abs/2310.10683v1), [pdf](http://arxiv.org/pdf/2310.10683v1.pdf), cication: [**-1**](None)
 
 	 *Yuanshun Yao, Xiaojun Xu, Yang Liu*
@@ -250,6 +256,10 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652345558&idx=4&sn=95686435d5cad05d44cbe02bc26d6859))
 
 ## Interpretability 
+- **Patchscope: A Unifying Framework for Inspecting Hidden Representations
+  of Language Models**, `arXiv, 2401.06102`, [arxiv](http://arxiv.org/abs/2401.06102v1), [pdf](http://arxiv.org/pdf/2401.06102v1.pdf), cication: [**-1**](None)
+
+	 *Asma Ghandeharioun, Avi Caciularu, Adam Pearce, Lucas Dixon, Mor Geva*
 - [Vayu Robotics Blog - Interpretable End-to-End Robot Navigation](https://www.vayurobotics.com/blog/interpretable-end-to-end-driving-agent-for-robotic-mobility)
 - [Fact Finding: Attempting to Reverse-Engineer Factual Recall on the Neuron Level (Post 1) — AI Alignment Forum](https://www.alignmentforum.org/s/hpWHhjvjn67LJ4xXX/p/iGuwZTHWb6DFY3sKB)
 - [deep learning does approximate Solomonoff induction](https://twitter.com/johnschulman2/status/1741178475946602979)

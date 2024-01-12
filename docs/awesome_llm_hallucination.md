@@ -9,6 +9,9 @@
 
 
 ## Survey
+- **TrustLLM: Trustworthiness in Large Language Models**, `arXiv, 2401.05561`, [arxiv](http://arxiv.org/abs/2401.05561v1), [pdf](http://arxiv.org/pdf/2401.05561v1.pdf), cication: [**-1**](None)
+
+	 *Lichao Sun, Yue Huang, Haoran Wang, Siyuan Wu, Qihui Zhang, Chujie Gao, Yixin Huang, Wenhan Lyu, Yixuan Zhang, Xiner Li* · ([trustllmbenchmark.github](https://trustllmbenchmark.github.io/TrustLLM-Website/))
 - **A Comprehensive Survey of Hallucination Mitigation Techniques in Large
   Language Models**, `arXiv, 2401.01313`, [arxiv](http://arxiv.org/abs/2401.01313v3), [pdf](http://arxiv.org/pdf/2401.01313v3.pdf), cication: [**-1**](None)
 

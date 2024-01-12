@@ -297,6 +297,9 @@
 	 *A simple and effective LLM pruning approach.*
 
 ## Efficient Inference
+- **Efficient LLM inference solution on Intel GPU**, `arXiv, 2401.05391`, [arxiv](http://arxiv.org/abs/2401.05391v1), [pdf](http://arxiv.org/pdf/2401.05391v1.pdf), cication: [**-1**](None)
+
+	 *Hui Wu, Yi Gan, Feng Yuan, Jing Ma, Wei Zhu, Yutao Xu, Hong Zhu, Yuhua Zhu, Xiaoli Liu, Jinghui Gu*
 - [**SwiftInfer**](https://github.com/hpcaitech/SwiftInfer) - hpcaitech ![Star](https://img.shields.io/github/stars/hpcaitech/SwiftInfer.svg?style=social&label=Star)
 
 	 *Efficient AI Inference & Serving* · ([qbitai](https://www.qbitai.com/2024/01/112437.html))

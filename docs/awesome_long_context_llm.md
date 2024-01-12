@@ -17,6 +17,9 @@
 - [Attention? Attention! | Lil'Log](https://lilianweng.github.io/posts/2018-06-24-attention/#a-family-of-attention-mechanisms)
 
 ## Papers
+- **Transformers are Multi-State RNNs**, `arXiv, 2401.06104`, [arxiv](http://arxiv.org/abs/2401.06104v1), [pdf](http://arxiv.org/pdf/2401.06104v1.pdf), cication: [**-1**](None)
+
+	 *Matanel Oren, Michael Hassid, Yossi Adi, Roy Schwartz* · ([TOVA](https://github.com/schwartz-lab-NLP/TOVA) - schwartz-lab-NLP) ![Star](https://img.shields.io/github/stars/schwartz-lab-NLP/TOVA.svg?style=social&label=Star)
 - **Lightning Attention-2: A Free Lunch for Handling Unlimited Sequence
   Lengths in Large Language Models**, `arXiv, 2401.04658`, [arxiv](http://arxiv.org/abs/2401.04658v1), [pdf](http://arxiv.org/pdf/2401.04658v1.pdf), cication: [**-1**](None)
 

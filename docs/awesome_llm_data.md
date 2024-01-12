@@ -16,6 +16,10 @@
 	 *Zige Wang, Wanjun Zhong, Yufei Wang, Qi Zhu, Fei Mi, Baojun Wang, Lifeng Shang, Xin Jiang, Qun Liu*
 
 ## Techs
+- **A Shocking Amount of the Web is Machine Translated: Insights from
+  Multi-Way Parallelism**, `arXiv, 2401.05749`, [arxiv](http://arxiv.org/abs/2401.05749v1), [pdf](http://arxiv.org/pdf/2401.05749v1.pdf), cication: [**-1**](None)
+
+	 *Brian Thompson, Mehak Preet Dhaliwal, Peter Frisch, Tobias Domhan, Marcello Federico*
 - **What Makes Good Data for Alignment? A Comprehensive Study of Automatic
   Data Selection in Instruction Tuning**, `arXiv, 2312.15685`, [arxiv](http://arxiv.org/abs/2312.15685v1), [pdf](http://arxiv.org/pdf/2312.15685v1.pdf), cication: [**-1**](None)
 

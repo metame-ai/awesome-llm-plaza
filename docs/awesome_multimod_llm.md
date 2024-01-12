@@ -11,6 +11,12 @@
 
 ## Vision
 ### Video
+- **Distilling Vision-Language Models on Millions of Videos**, `arXiv, 2401.06129`, [arxiv](http://arxiv.org/abs/2401.06129v1), [pdf](http://arxiv.org/pdf/2401.06129v1.pdf), cication: [**-1**](None)
+
+	 *Yue Zhao, Long Zhao, Xingyi Zhou, Jialin Wu, Chun-Te Chu, Hui Miao, Florian Schroff, Hartwig Adam, Ting Liu, Boqing Gong*
+- **LEGO:Language Enhanced Multi-modal Grounding Model**, `arXiv, 2401.06071`, [arxiv](http://arxiv.org/abs/2401.06071v1), [pdf](http://arxiv.org/pdf/2401.06071v1.pdf), cication: [**-1**](None)
+
+	 *Zhaowei Li, Qi Xu, Dong Zhang, Hang Song, Yiqing Cai, Qi Qi, Ran Zhou, Junting Pan, Zefeng Li, Van Tu Vu* · ([LEGO](https://github.com/lzw-lzw/LEGO) - lzw-lzw) ![Star](https://img.shields.io/github/stars/lzw-lzw/LEGO.svg?style=social&label=Star)
 - **COSMO: COntrastive Streamlined MultimOdal Model with Interleaved
   Pre-Training**, `arXiv, 2401.00849`, [arxiv](http://arxiv.org/abs/2401.00849v1), [pdf](http://arxiv.org/pdf/2401.00849v1.pdf), cication: [**-1**](None)
 

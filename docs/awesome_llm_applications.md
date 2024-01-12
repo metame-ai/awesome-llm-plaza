@@ -392,6 +392,10 @@
 
 
 ## Machine Translation
+- **Tuning LLMs with Contrastive Alignment Instructions for Machine
+  Translation in Unseen, Low-resource Languages**, `arXiv, 2401.05811`, [arxiv](http://arxiv.org/abs/2401.05811v1), [pdf](http://arxiv.org/pdf/2401.05811v1.pdf), cication: [**-1**](None)
+
+	 *Zhuoyuan Mao, Yen Yu*
 - **Dissecting In-Context Learning of Translations in GPTs**, `arXiv, 2310.15987`, [arxiv](http://arxiv.org/abs/2310.15987v1), [pdf](http://arxiv.org/pdf/2310.15987v1.pdf), cication: [**-1**](None)
 
 	 *Vikas Raunak, Hany Hassan Awadalla, Arul Menezes*
