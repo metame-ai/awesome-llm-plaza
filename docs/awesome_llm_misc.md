@@ -233,8 +233,10 @@
 
 	 *John Hewitt, John Thickstun, Christopher D. Manning, Percy Liang* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-06-25-5)) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI1MjQ2OTQ3Ng==&mid=2247608689&idx=2&sn=ed29c1ee1f571f98b191805472feb79a))
 
-
 ## LLM detection
+- **LLM-as-a-Coauthor: The Challenges of Detecting LLM-Human Mixcase**, `arXiv, 2401.05952`, [arxiv](http://arxiv.org/abs/2401.05952v1), [pdf](http://arxiv.org/pdf/2401.05952v1.pdf), cication: [**-1**](None)
+
+	 *Chujie Gao, Dongping Chen, Qihui Zhang, Yue Huang, Yao Wan, Lichao Sun* · ([MixSet](https://github.com/Dongping-Chen/MixSet) - Dongping-Chen) ![Star](https://img.shields.io/github/stars/Dongping-Chen/MixSet.svg?style=social&label=Star)
 - **Ghostbuster: Detecting Text Ghostwritten by Large Language Models**, `arXiv, 2305.15047`, [arxiv](http://arxiv.org/abs/2305.15047v2), [pdf](http://arxiv.org/pdf/2305.15047v2.pdf), cication: [**6**](https://scholar.google.com/scholar?cites=13263500511172823777&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Vivek Verma, Eve Fleisig, Nicholas Tomlin, Dan Klein* · ([bair.berkeley](https://bair.berkeley.edu/blog/2023/11/14/ghostbuster/))

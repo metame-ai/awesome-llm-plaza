@@ -68,6 +68,9 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
+- **Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs**, `arXiv, 2401.06209`, [arxiv](http://arxiv.org/abs/2401.06209v1), [pdf](http://arxiv.org/pdf/2401.06209v1.pdf), cication: [**-1**](None)
+
+	 *Shengbang Tong, Zhuang Liu, Yuexiang Zhai, Yi Ma, Yann LeCun, Saining Xie* · ([MMVP](https://github.com/tsb0601/MMVP) - tsb0601) ![Star](https://img.shields.io/github/stars/tsb0601/MMVP.svg?style=social&label=Star)
 - **LLaVA-$φ$: Efficient Multi-Modal Assistant with Small Language Model**, `arXiv, 2401.02330`, [arxiv](http://arxiv.org/abs/2401.02330v1), [pdf](http://arxiv.org/pdf/2401.02330v1.pdf), cication: [**-1**](None)
 
 	 *Yichen Zhu, Minjie Zhu, Ning Liu, Zhicai Ou, Xiaofeng Mou, Jian Tang* · ([llava-phi](https://github.com/zhuyiche/llava-phi) - zhuyiche) ![Star](https://img.shields.io/github/stars/zhuyiche/llava-phi.svg?style=social&label=Star)
@@ -641,6 +644,10 @@
 - [**BakLLaVA-1**](https://huggingface.co/SkunkworksAI/BakLLaVA-1) - SkunkworksAI 🤗
 
 ## Benchmarks
+- **LAMM: Language-Assisted Multi-Modal Instruction-Tuning Dataset,
+  Framework, and Benchmark**, `arXiv, 2306.06687`, [arxiv](http://arxiv.org/abs/2306.06687v3), [pdf](http://arxiv.org/pdf/2306.06687v3.pdf), cication: [**-1**](None)
+
+	 *Zhenfei Yin, Jiong Wang, Jianjian Cao, Zhelun Shi, Dingning Liu, Mukai Li, Lu Sheng, Lei Bai, Xiaoshui Huang, Zhiyong Wang* · ([LAMM](https://github.com/OpenGVLab/LAMM) - OpenGVLab) ![Star](https://img.shields.io/github/stars/OpenGVLab/LAMM.svg?style=social&label=Star)
 - **BenchLMM: Benchmarking Cross-style Visual Capability of Large Multimodal
   Models**, `arXiv, 2312.02896`, [arxiv](http://arxiv.org/abs/2312.02896v2), [pdf](http://arxiv.org/pdf/2312.02896v2.pdf), cication: [**-1**](None)
 

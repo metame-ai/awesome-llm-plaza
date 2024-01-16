@@ -290,6 +290,8 @@
   Pretraining Corpus for Math**, `arXiv, 2312.17120`, [arxiv](http://arxiv.org/abs/2312.17120v1), [pdf](http://arxiv.org/pdf/2312.17120v1.pdf), cication: [**-1**](None)
 
 	 *Zengzhi Wang, Rui Xia, Pengfei Liu* · ([huggingface](https://huggingface.co/datasets/GAIR/MathPile.))
+
+	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-01-12-3))
 - [Mathematical discoveries from program search with large language models | Nature](https://www.nature.com/articles/s41586-023-06924-6)
 
 	 · ([funsearch](https://github.com/google-deepmind/funsearch) - google-deepmind) ![Star](https://img.shields.io/github/stars/google-deepmind/funsearch.svg?style=social&label=Star)
@@ -438,6 +440,10 @@
 - **TopicGPT: A Prompt-based Topic Modeling Framework**, `arXiv, 2311.01449`, [arxiv](http://arxiv.org/abs/2311.01449v1), [pdf](http://arxiv.org/pdf/2311.01449v1.pdf), cication: [**-1**](None)
 
 	 *Chau Minh Pham, Alexander Hoyle, Simeng Sun, Mohit Iyyer* · ([topicgpt](https://github.com/chtmp223/topicgpt) - chtmp223) ![Star](https://img.shields.io/github/stars/chtmp223/topicgpt.svg?style=social&label=Star)
+- **Quantifying Language Models' Sensitivity to Spurious Features in Prompt
+  Design or: How I learned to start worrying about prompt formatting**, `arXiv, 2310.11324`, [arxiv](http://arxiv.org/abs/2310.11324v1), [pdf](http://arxiv.org/pdf/2310.11324v1.pdf), cication: [**-1**](None)
+
+	 *Melanie Sclar, Yejin Choi, Yulia Tsvetkov, Alane Suhr*
 - **Eliciting Human Preferences with Language Models**, `arXiv, 2310.11589`, [arxiv](http://arxiv.org/abs/2310.11589v1), [pdf](http://arxiv.org/pdf/2310.11589v1.pdf), cication: [**-1**](None)
 
 	 *Belinda Z. Li, Alex Tamkin, Noah Goodman, Jacob Andreas* · ([qbitai](https://www.qbitai.com/2023/10/91326.html))

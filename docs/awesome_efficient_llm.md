@@ -23,6 +23,10 @@
 - **Efficient Large Language Models: A Survey**, `arXiv, 2312.03863`, [arxiv](http://arxiv.org/abs/2312.03863v1), [pdf](http://arxiv.org/pdf/2312.03863v1.pdf), cication: [**-1**](None)
 
 	 *Zhongwei Wan, Xin Wang, Che Liu, Samiul Alam, Yu Zheng, Zhongnan Qu, Shen Yan, Yi Zhu, Quanlu Zhang, Mosharaf Chowdhury* · ([Efficient-LLMs-Survey](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey) - AIoT-MLSys-Lab) ![Star](https://img.shields.io/github/stars/AIoT-MLSys-Lab/Efficient-LLMs-Survey.svg?style=social&label=Star)
+- **Towards Efficient Generative Large Language Model Serving: A Survey from
+  Algorithms to Systems**, `arXiv, 2312.15234`, [arxiv](http://arxiv.org/abs/2312.15234v1), [pdf](http://arxiv.org/pdf/2312.15234v1.pdf), cication: [**-1**](None)
+
+	 *Xupeng Miao, Gabriele Oliaro, Zhihao Zhang, Xinhao Cheng, Hongyi Jin, Tianqi Chen, Zhihao Jia* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzIyMzk1MDE3Nw==&mid=2247624080&idx=3&sn=f3b3f16bd4bd811cfa6f62155370eab8))
 - **The Efficiency Spectrum of Large Language Models: An Algorithmic Survey**, `arXiv, 2312.00678`, [arxiv](http://arxiv.org/abs/2312.00678v1), [pdf](http://arxiv.org/pdf/2312.00678v1.pdf), cication: [**-1**](None)
 
 	 *Tianyu Ding, Tianyi Chen, Haidong Zhu, Jiachen Jiang, Yiqi Zhong, Jinxin Zhou, Guangzhi Wang, Zhihui Zhu, Ilya Zharkov, Luming Liang*
@@ -282,6 +286,7 @@
 	 *Yuxian Gu, Li Dong, Furu Wei, Minlie Huang*
 
 ## Pruning
+- [Fast Llama 2 on CPUs With Sparse Fine-Tuning and DeepSparse - Neural Magic](https://neuralmagic.com/blog/fast-llama-2-on-cpus-with-sparse-fine-tuning-and-deepsparse/)
 - **The LLM Surgeon**, `arXiv, 2312.17244`, [arxiv](http://arxiv.org/abs/2312.17244v1), [pdf](http://arxiv.org/pdf/2312.17244v1.pdf), cication: [**-1**](None)
 
 	 *Tycho F. A. van der Ouderaa, Markus Nagel, Mart van Baalen, Yuki M. Asano, Tijmen Blankevoort*

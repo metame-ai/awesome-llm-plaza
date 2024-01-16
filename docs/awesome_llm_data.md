@@ -143,6 +143,9 @@
 	 *Xiang Deng, Yu Gu, Boyuan Zheng, Shijie Chen, Samuel Stevens, Boshi Wang, Huan Sun, Yu Su*
 
 ### Synthetic 
+- **Learning Vision from Models Rivals Learning Vision from Data**, `arXiv, 2312.17742`, [arxiv](http://arxiv.org/abs/2312.17742v1), [pdf](http://arxiv.org/pdf/2312.17742v1.pdf), cication: [**-1**](None)
+
+	 *Yonglong Tian, Lijie Fan, Kaifeng Chen, Dina Katabi, Dilip Krishnan, Phillip Isola* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652431566&idx=5&sn=33d2c2147035223637638b53702ac043&poc_token=HKf6pGWj0ZkyQ3Zn3HWLerDAiWuD-mQ4RKN_fIRb))
 - **Ensemble-Instruct: Generating Instruction-Tuning Data with a
   Heterogeneous Mixture of LMs**, `arXiv, 2310.13961`, [arxiv](http://arxiv.org/abs/2310.13961v1), [pdf](http://arxiv.org/pdf/2310.13961v1.pdf), cication: [**-1**](None)
 

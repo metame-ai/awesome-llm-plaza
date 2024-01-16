@@ -110,6 +110,9 @@
 	 *Yizhe Zhang, Jiatao Gu, Zhuofeng Wu, Shuangfei Zhai, Josh Susskind, Navdeep Jaitly*
 
 ## WebUI
+- [**LibreChat**](https://github.com/danny-avila/LibreChat) - danny-avila ![Star](https://img.shields.io/github/stars/danny-avila/LibreChat.svg?style=social&label=Star)
+
+	 *Enhanced ChatGPT Clone: Features OpenAI, GPT-4 Vision, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development*
 - [**copilot-gpt4-service**](https://github.com/aaamoon/copilot-gpt4-service) - aaamoon ![Star](https://img.shields.io/github/stars/aaamoon/copilot-gpt4-service.svg?style=social&label=Star)
 
 	 *Convert Github Copilot to ChatGPT, free to use the GPT-4 model*
@@ -141,6 +144,9 @@
 
 
 ## Medical
+- **Towards Conversational Diagnostic AI**, `arXiv, 2401.05654`, [arxiv](http://arxiv.org/abs/2401.05654v1), [pdf](http://arxiv.org/pdf/2401.05654v1.pdf), cication: [**-1**](None)
+
+	 *Tao Tu, Anil Palepu, Mike Schaekermann, Khaled Saab, Jan Freyberg, Ryutaro Tanno, Amy Wang, Brenna Li, Mohamed Amin, Nenad Tomasev*
 - **Machine Mindset: An MBTI Exploration of Large Language Models**, `arXiv, 2312.12999`, [arxiv](http://arxiv.org/abs/2312.12999v3), [pdf](http://arxiv.org/pdf/2312.12999v3.pdf), cication: [**-1**](None)
 
 	 *Jiaxi Cui, Liuzhenghao Lv, Jing Wen, Rongsheng Wang, Jing Tang, YongHong Tian, Li Yuan* · ([machine-mindset](https://github.com/pku-yuangroup/machine-mindset) - pku-yuangroup) ![Star](https://img.shields.io/github/stars/pku-yuangroup/machine-mindset.svg?style=social&label=Star)
@@ -269,6 +275,10 @@
 	 *Derong Xu, Wei Chen, Wenjun Peng, Chao Zhang, Tong Xu, Xiangyu Zhao, Xian Wu, Yefeng Zheng, Enhong Chen* · ([awesome-llm4ie-papers](https://github.com/quqxui/awesome-llm4ie-papers) - quqxui) ![Star](https://img.shields.io/github/stars/quqxui/awesome-llm4ie-papers.svg?style=social&label=Star)
 
 ## Recommendation
+- **INTERS: Unlocking the Power of Large Language Models in Search with
+  Instruction Tuning**, `arXiv, 2401.06532`, [arxiv](http://arxiv.org/abs/2401.06532v1), [pdf](http://arxiv.org/pdf/2401.06532v1.pdf), cication: [**-1**](None)
+
+	 *Yutao Zhu, Peitian Zhang, Chenghao Zhang, Yifei Chen, Binyu Xie, Zhicheng Dou, Zheng Liu, Ji-Rong Wen*
 - **Making Large Language Models A Better Foundation For Dense Retrieval**, `arXiv, 2312.15503`, [arxiv](http://arxiv.org/abs/2312.15503v1), [pdf](http://arxiv.org/pdf/2312.15503v1.pdf), cication: [**-1**](None)
 
 	 *Chaofan Li, Zheng Liu, Shitao Xiao, Yingxia Shao*

@@ -8,6 +8,10 @@
 	- [Extra reference](#extra-reference)
 
 ## Survey
+- **Length Extrapolation of Transformers: A Survey from the Perspective of
+  Position Encoding**, `arXiv, 2312.17044`, [arxiv](http://arxiv.org/abs/2312.17044v2), [pdf](http://arxiv.org/pdf/2312.17044v2.pdf), cication: [**-1**](None)
+
+	 *Liang Zhao, Xiaocheng Feng, Xiachong Feng, Bing Qin, Ting Liu* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-01-15-16))
 - **Advancing Transformer Architecture in Long-Context Large Language
   Models: A Comprehensive Survey**, `arXiv, 2311.12351`, [arxiv](http://arxiv.org/abs/2311.12351v1), [pdf](http://arxiv.org/pdf/2311.12351v1.pdf), cication: [**-1**](None)
 
