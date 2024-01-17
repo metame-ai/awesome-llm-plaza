@@ -28,6 +28,9 @@
   Learning**, `arXiv, 2312.06134`, [arxiv](http://arxiv.org/abs/2312.06134v1), [pdf](http://arxiv.org/pdf/2312.06134v1.pdf), cication: [**-1**](None)
 
 	 *Dami Choi, Derrick Xin, Hamid Dadkhahi, Justin Gilmer, Ankush Garg, Orhan Firat, Chih-Kuan Yeh, Andrew M. Dai, Behrooz Ghorbani*
+- **AlpaGasus: Training A Better Alpaca with Fewer Data**, `arXiv, 2307.08701`, [arxiv](http://arxiv.org/abs/2307.08701v4), [pdf](http://arxiv.org/pdf/2307.08701v4.pdf), cication: [**-1**](None)
+
+	 *Lichang Chen, Shiyang Li, Jun Yan, Hai Wang, Kalpa Gunaratna, Vikas Yadav, Zheng Tang, Vijay Srinivasan, Tianyi Zhou, Heng Huang*
 - **Scaling Data-Constrained Language Models**, `arXiv, 2305.16264`, [arxiv](http://arxiv.org/abs/2305.16264v4), [pdf](http://arxiv.org/pdf/2305.16264v4.pdf), cication: [**-1**](None)
 
 	 *Niklas Muennighoff, Alexander M. Rush, Boaz Barak, Teven Le Scao, Aleksandra Piktus, Nouamane Tazi, Sampo Pyysalo, Thomas Wolf, Colin Raffel*
@@ -35,6 +38,7 @@
 	 · ([datablations](https://github.com/huggingface/datablations) - huggingface) ![Star](https://img.shields.io/github/stars/huggingface/datablations.svg?style=social&label=Star)
 
 ## Datasets
+- [**WebSight**](https://huggingface.co/datasets/HuggingFaceM4/WebSight) - HuggingFaceM4 🤗
 - [**oasst2**](https://huggingface.co/datasets/OpenAssistant/oasst2) - OpenAssistant 🤗
 - [**wikisource**](https://huggingface.co/datasets/wikimedia/wikisource) - wikimedia 🤗
 - [**pii-masking-200k**](https://huggingface.co/datasets/ai4privacy/pii-masking-200k) - ai4privacy 🤗

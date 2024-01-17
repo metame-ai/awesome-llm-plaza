@@ -55,6 +55,9 @@
 	 *Yufei Wang, Wanjun Zhong, Liangyou Li, Fei Mi, Xingshan Zeng, Wenyong Huang, Lifeng Shang, Xin Jiang, Qun Liu* · ([AlignLLMHumanSurvey](https://github.com/GaryYufei/AlignLLMHumanSurvey) - GaryYufei) ![Star](https://img.shields.io/github/stars/GaryYufei/AlignLLMHumanSurvey.svg?style=social&label=Star)
 
 ### Paper & Projects
+- **Human-Instruction-Free LLM Self-Alignment with Limited Samples**, `arXiv, 2401.06785`, [arxiv](http://arxiv.org/abs/2401.06785v1), [pdf](http://arxiv.org/pdf/2401.06785v1.pdf), cication: [**-1**](None)
+
+	 *Hongyi Guo, Yuanshun Yao, Wei Shen, Jiaheng Wei, Xiaoying Zhang, Zhaoran Wang, Yang Liu*
 - **WaveCoder: Widespread And Versatile Enhanced Instruction Tuning with
   Refined Data Generation**, `arXiv, 2312.14187`, [arxiv](http://arxiv.org/abs/2312.14187v2), [pdf](http://arxiv.org/pdf/2312.14187v2.pdf), cication: [**-1**](None)
 
@@ -234,6 +237,7 @@
 - [Chinchilla之死：只要训练足够长时间，小模型也能超过大模型 | 机器之心](https://www.jiqizhixin.com/articles/2023-10-03-9)
 
 ## Fine-tuning
+- [Fetching Title#cidh](https://arxiv.org/abs/2401.08565)
 - **LLaMA Pro: Progressive LLaMA with Block Expansion**, `arXiv, 2401.02415`, [arxiv](http://arxiv.org/abs/2401.02415v1), [pdf](http://arxiv.org/pdf/2401.02415v1.pdf), cication: [**-1**](None)
 
 	 *Chengyue Wu, Yukang Gan, Yixiao Ge, Zeyu Lu, Jiahao Wang, Ye Feng, Ping Luo, Ying Shan* · ([LLaMA-Pro](https://github.com/TencentARC/LLaMA-Pro) - TencentARC) ![Star](https://img.shields.io/github/stars/TencentARC/LLaMA-Pro.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/TencentARC/LLaMA-Pro-8B))

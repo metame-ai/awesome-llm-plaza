@@ -302,6 +302,10 @@
 	 *A simple and effective LLM pruning approach.*
 
 ## Efficient Inference
+- **Unlocking Efficiency in Large Language Model Inference: A Comprehensive
+  Survey of Speculative Decoding**, `arXiv, 2401.07851`, [arxiv](http://arxiv.org/abs/2401.07851v1), [pdf](http://arxiv.org/pdf/2401.07851v1.pdf), cication: [**-1**](None)
+
+	 *Heming Xia, Zhe Yang, Qingxiu Dong, Peiyi Wang, Yongqi Li, Tao Ge, Tianyu Liu, Wenjie Li, Zhifang Sui*
 - **Efficient LLM inference solution on Intel GPU**, `arXiv, 2401.05391`, [arxiv](http://arxiv.org/abs/2401.05391v1), [pdf](http://arxiv.org/pdf/2401.05391v1.pdf), cication: [**-1**](None)
 
 	 *Hui Wu, Yi Gan, Feng Yuan, Jing Ma, Wei Zhu, Yutao Xu, Hong Zhu, Yuhua Zhu, Xiaoli Liu, Jinghui Gu*

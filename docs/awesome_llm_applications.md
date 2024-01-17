@@ -311,6 +311,14 @@
 	 *Chongming Gao, Wenqiang Lei, Xiangnan He, Maarten de Rijke, Tat-Seng Chua* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495345&idx=2&sn=5e3ac087c792081705dde1c2542c687a))
 
 ## Role play
+- **PersonalityChat: Conversation Distillation for Personalized Dialog
+  Modeling with Facts and Traits**, `arXiv, 2401.07363`, [arxiv](http://arxiv.org/abs/2401.07363v1), [pdf](http://arxiv.org/pdf/2401.07363v1.pdf), cication: [**-1**](None)
+
+	 *Ehsan Lotfi, Maxime De Bruyn, Jeska Buhmann, Walter Daelemans*
+- **Enhancing the Emotional Generation Capability of Large Language Models
+  via Emotional Chain-of-Thought**, `arXiv, 2401.06836`, [arxiv](http://arxiv.org/abs/2401.06836v1), [pdf](http://arxiv.org/pdf/2401.06836v1.pdf), cication: [**-1**](None)
+
+	 *Zaijing Li, Gongwei Chen, Rui Shao, Dongmei Jiang, Liqiang Nie*
 - **From LLM to Conversational Agent: A Memory Enhanced Architecture with
   Fine-Tuning of Large Language Models**, `arXiv, 2401.02777`, [arxiv](http://arxiv.org/abs/2401.02777v1), [pdf](http://arxiv.org/pdf/2401.02777v1.pdf), cication: [**-1**](None)
 
@@ -465,7 +473,10 @@
 	 *Official repo for LayoutGPT*
 
 ## Science
-- [快速筛选海量数据，即时做出明智决策，MIT、普林斯顿&卡内基梅隆大学团队利用LLM进行聚变研究 | 机器之心](https://www.jiqizhixin.com/articles/2024-01-04-6)
+- **SciGLM: Training Scientific Language Models with Self-Reflective
+  Instruction Annotation and Tuning**, `arXiv, 2401.07950`, [arxiv](http://arxiv.org/abs/2401.07950v1), [pdf](http://arxiv.org/pdf/2401.07950v1.pdf), cication: [**-1**](None)
+
+	 *Dan Zhang, Ziniu Hu, Sining Zhoubian, Zhengxiao Du, Kaiyu Yang, Zihan Wang, Yisong Yue, Yuxiao Dong, Jie Tang*
 - **GeoGalactica: A Scientific Large Language Model in Geoscience**, `arXiv, 2401.00434`, [arxiv](http://arxiv.org/abs/2401.00434v1), [pdf](http://arxiv.org/pdf/2401.00434v1.pdf), cication: [**-1**](None)
 
 	 *Zhouhan Lin, Cheng Deng, Le Zhou, Tianhang Zhang, Yi Xu, Yutong Xu, Zhongmou He, Yuanyuan Shi, Beiya Dai, Yunchong Song*
@@ -491,6 +502,7 @@
 
 	 *Chemcrow*
 
+- [快速筛选海量数据，即时做出明智决策，MIT、普林斯顿&卡内基梅隆大学团队利用LLM进行聚变研究 | 机器之心](https://www.jiqizhixin.com/articles/2024-01-04-6)
 - [2023年科研领域「 科学ChatGPT」有哪些？LLM for Science有哪些探索...... | 机器之心](https://www.jiqizhixin.com/articles/2023-12-26-10)
 ## Finance
 - **Technical Report: Large Language Models can Strategically Deceive their

@@ -25,6 +25,9 @@
 	 *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang*
 
 ## Papers
+- **Leveraging Large Language Models for NLG Evaluation: A Survey**, `arXiv, 2401.07103`, [arxiv](http://arxiv.org/abs/2401.07103v1), [pdf](http://arxiv.org/pdf/2401.07103v1.pdf), cication: [**-1**](None)
+
+	 *Zhen Li, Xiaohan Xu, Tao Shen, Can Xu, Jia-Chen Gu, Chongyang Tao*
 - **Narrowing the Knowledge Evaluation Gap: Open-Domain Question Answering
   with Multi-Granularity Answers**, `arXiv, 2401.04695`, [arxiv](http://arxiv.org/abs/2401.04695v1), [pdf](http://arxiv.org/pdf/2401.04695v1.pdf), cication: [**-1**](None)
 

@@ -16,6 +16,10 @@
 - [**Adversarial Attacks on LLMs | Lil'Log**](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/)
 
 ## Papers
+- **Open the Pandora's Box of LLMs: Jailbreaking LLMs through Representation
+  Engineering**, `arXiv, 2401.06824`, [arxiv](http://arxiv.org/abs/2401.06824v1), [pdf](http://arxiv.org/pdf/2401.06824v1.pdf), cication: [**-1**](None)
+
+	 *Tianlong Li, Xiaoqing Zheng, Xuanjing Huang*
 - **How Johnny Can Persuade LLMs to Jailbreak Them: Rethinking Persuasion to
   Challenge AI Safety by Humanizing LLMs**, `arXiv, 2401.06373`, [arxiv](http://arxiv.org/abs/2401.06373v1), [pdf](http://arxiv.org/pdf/2401.06373v1.pdf), cication: [**-1**](None)
 

@@ -16,6 +16,12 @@
 	 *Ziyin Zhang, Chaoyu Chen, Bingchang Liu, Cong Liao, Zi Gong, Hang Yu, Jianguo Li, Rui Wang*
 
 ## Paper
+- [[2401.08500] Code Generation with AlphaCodium: From Prompt Engineering to Flow Engineering](https://arxiv.org/abs/2401.08500)
+
+	 · ([AlphaCodium](https://github.com/Codium-ai/AlphaCodium) - Codium-ai) ![Star](https://img.shields.io/github/stars/Codium-ai/AlphaCodium.svg?style=social&label=Star)
+- **JumpCoder: Go Beyond Autoregressive Coder via Online Modification**, `arXiv, 2401.07870`, [arxiv](http://arxiv.org/abs/2401.07870v1), [pdf](http://arxiv.org/pdf/2401.07870v1.pdf), cication: [**-1**](None)
+
+	 *Mouxiang Chen, Hao Tian, Zhongxin Liu, Xiaoxue Ren, Jianling Sun* · ([JumpCoder](https://github.com/Keytoyze/JumpCoder) - Keytoyze) ![Star](https://img.shields.io/github/stars/Keytoyze/JumpCoder.svg?style=social&label=Star)
 - **DebugBench: Evaluating Debugging Capability of Large Language Models**, `arXiv, 2401.04621`, [arxiv](http://arxiv.org/abs/2401.04621v1), [pdf](http://arxiv.org/pdf/2401.04621v1.pdf), cication: [**-1**](None)
 
 	 *Runchu Tian, Yining Ye, Yujia Qin, Xin Cong, Yankai Lin, Zhiyuan Liu, Maosong Sun*
@@ -161,6 +167,7 @@
 
 
 ## Projects
+- [**stable-code-3b**](https://huggingface.co/stabilityai/stable-code-3b) - stabilityai 🤗
 - [**Mastering-GitHub-Copilot-for-Paired-Programming**](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) - microsoft ![Star](https://img.shields.io/github/stars/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming.svg?style=social&label=Star)
 
 	 *A 6 Lesson course teaching everything you need to know about harnessing GitHub Copilot and an AI Paired Programing resource.*

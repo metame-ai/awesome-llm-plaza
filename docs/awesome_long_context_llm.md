@@ -21,6 +21,10 @@
 - [Attention? Attention! | Lil'Log](https://lilianweng.github.io/posts/2018-06-24-attention/#a-family-of-attention-mechanisms)
 
 ## Papers
+- [Paper page - E^2-LLM: Efficient and Extreme Length Extension of Large Language Models](https://huggingface.co/papers/2401.06951)
+- **Extending LLMs' Context Window with 100 Samples**, `arXiv, 2401.07004`, [arxiv](http://arxiv.org/abs/2401.07004v1), [pdf](http://arxiv.org/pdf/2401.07004v1.pdf), cication: [**-1**](None)
+
+	 *Yikai Zhang, Junlong Li, Pengfei Liu* · ([Entropy-ABF](https://github.com/GAIR-NLP/Entropy-ABF) - GAIR-NLP) ![Star](https://img.shields.io/github/stars/GAIR-NLP/Entropy-ABF.svg?style=social&label=Star)
 - **Transformers are Multi-State RNNs**, `arXiv, 2401.06104`, [arxiv](http://arxiv.org/abs/2401.06104v1), [pdf](http://arxiv.org/pdf/2401.06104v1.pdf), cication: [**-1**](None)
 
 	 *Matanel Oren, Michael Hassid, Yossi Adi, Roy Schwartz* · ([TOVA](https://github.com/schwartz-lab-NLP/TOVA) - schwartz-lab-NLP) ![Star](https://img.shields.io/github/stars/schwartz-lab-NLP/TOVA.svg?style=social&label=Star)
