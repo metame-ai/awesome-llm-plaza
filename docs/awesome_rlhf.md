@@ -177,11 +177,13 @@
 - [LLM Training: RLHF and Its Alternatives](https://magazine.sebastianraschka.com/p/llm-training-rlhf-and-its-alternatives)
 
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652379509&idx=5&sn=910a60449c276ac9d0f29b8f71a60327))
+- [ICML '23 Tutorial on Reinforcement Learning from Human Feedback](https://docs.google.com/presentation/d/1b_ymNDU0WRQ1-rcQDK45_bH9F0giNyRmdi0iKso6G5E/edit#slide=id.g259dff58475_0_44)
+
+- [RLHF中Reward model的trick](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495465&idx=1&sn=b0690e841f36d154024c0f6a9e922daf)
 - [怎样让 PPO 训练更稳定？早期人类征服 RLHF 的驯化经验](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495219&idx=2&sn=bcd6cf222963493fed29fd44838b5aa2)
 - [RLHF实践 - 知乎](https://zhuanlan.zhihu.com/p/635569455)
 
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652371219&idx=5&sn=63c3294a9c08dde7e63444c6110e9c34))
-- [ICML '23 Tutorial on Reinforcement Learning from Human Feedback](https://docs.google.com/presentation/d/1b_ymNDU0WRQ1-rcQDK45_bH9F0giNyRmdi0iKso6G5E/edit#slide=id.g259dff58475_0_44)
 - [LLM成功不可或缺的基石：RLHF及其替代技术 | 机器之心](https://www.jiqizhixin.com/articles/2023-10-07-7)
 
 

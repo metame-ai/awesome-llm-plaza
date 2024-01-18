@@ -70,6 +70,12 @@
 ### Image
 - **Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs**, `arXiv, 2401.06209`, [arxiv](http://arxiv.org/abs/2401.06209v1), [pdf](http://arxiv.org/pdf/2401.06209v1.pdf), cication: [**-1**](None)
 
+	 *Shengbang Tong, Zhuang Liu, Yuexiang Zhai, Yi Ma, Yann LeCun, Saining Xie* · ([tsb0601.github](https://tsb0601.github.io/mmvp_blog/))
+- **GATS: Gather-Attend-Scatter**, `arXiv, 2401.08525`, [arxiv](http://arxiv.org/abs/2401.08525v1), [pdf](http://arxiv.org/pdf/2401.08525v1.pdf), cication: [**-1**](None)
+
+	 *Konrad Zolna, Serkan Cabi, Yutian Chen, Eric Lau, Claudio Fantacci, Jurgis Pasukonis, Jost Tobias Springenberg, Sergio Gomez Colmenarejo*
+- **Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs**, `arXiv, 2401.06209`, [arxiv](http://arxiv.org/abs/2401.06209v1), [pdf](http://arxiv.org/pdf/2401.06209v1.pdf), cication: [**-1**](None)
+
 	 *Shengbang Tong, Zhuang Liu, Yuexiang Zhai, Yi Ma, Yann LeCun, Saining Xie* · ([MMVP](https://github.com/tsb0601/MMVP) - tsb0601) ![Star](https://img.shields.io/github/stars/tsb0601/MMVP.svg?style=social&label=Star)
 - **LLaVA-$φ$: Efficient Multi-Modal Assistant with Small Language Model**, `arXiv, 2401.02330`, [arxiv](http://arxiv.org/abs/2401.02330v1), [pdf](http://arxiv.org/pdf/2401.02330v1.pdf), cication: [**-1**](None)
 

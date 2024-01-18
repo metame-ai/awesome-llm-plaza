@@ -16,6 +16,10 @@
 - [**Adversarial Attacks on LLMs | Lil'Log**](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/)
 
 ## Papers
+- **AttackEval: How to Evaluate the Effectiveness of Jailbreak Attacking on
+  Large Language Models**, `arXiv, 2401.09002`, [arxiv](http://arxiv.org/abs/2401.09002v1), [pdf](http://arxiv.org/pdf/2401.09002v1.pdf), cication: [**-1**](None)
+
+	 *Dong shu, Mingyu Jin, Suiyuan Zhu, Beichen Wang, Zihao Zhou, Chong Zhang, Yongfeng Zhang*
 - **Open the Pandora's Box of LLMs: Jailbreaking LLMs through Representation
   Engineering**, `arXiv, 2401.06824`, [arxiv](http://arxiv.org/abs/2401.06824v1), [pdf](http://arxiv.org/pdf/2401.06824v1.pdf), cication: [**-1**](None)
 

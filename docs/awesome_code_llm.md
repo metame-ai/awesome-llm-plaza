@@ -16,7 +16,10 @@
 	 *Ziyin Zhang, Chaoyu Chen, Bingchang Liu, Cong Liao, Zi Gong, Hang Yu, Jianguo Li, Rui Wang*
 
 ## Paper
-- [[2401.08500] Code Generation with AlphaCodium: From Prompt Engineering to Flow Engineering](https://arxiv.org/abs/2401.08500)
+- **Code Generation with AlphaCodium: From Prompt Engineering to Flow
+  Engineering**, `arXiv, 2401.08500`, [arxiv](http://arxiv.org/abs/2401.08500v1), [pdf](http://arxiv.org/pdf/2401.08500v1.pdf), cication: [**-1**](None)
+
+	 *Tal Ridnik, Dedy Kredo, Itamar Friedman*
 
 	 · ([AlphaCodium](https://github.com/Codium-ai/AlphaCodium) - Codium-ai) ![Star](https://img.shields.io/github/stars/Codium-ai/AlphaCodium.svg?style=social&label=Star)
 - **JumpCoder: Go Beyond Autoregressive Coder via Online Modification**, `arXiv, 2401.07870`, [arxiv](http://arxiv.org/abs/2401.07870v1), [pdf](http://arxiv.org/pdf/2401.07870v1.pdf), cication: [**-1**](None)
@@ -125,6 +128,10 @@
 
 	 *Chen Qian, Xin Cong, Wei Liu, Cheng Yang, Weize Chen, Yusheng Su, Yufan Dang, Jiahao Li, Juyuan Xu, Dahai Li*
 	 · [jiqizhixin](https://www.jiqizhixin.com/articles/2023-07-21-5)
+- **Software Testing with Large Language Models: Survey, Landscape, and
+  Vision**, `arXiv, 2307.07221`, [arxiv](http://arxiv.org/abs/2307.07221v2), [pdf](http://arxiv.org/pdf/2307.07221v2.pdf), cication: [**-1**](None)
+
+	 *Junjie Wang, Yuchao Huang, Chunyang Chen, Zhe Liu, Song Wang, Qing Wang* · ([LLM4SoftwareTesting](https://github.com/LLM-Testing/LLM4SoftwareTesting) - LLM-Testing) ![Star](https://img.shields.io/github/stars/LLM-Testing/LLM4SoftwareTesting.svg?style=social&label=Star) · ([qbitai](https://www.qbitai.com/2024/01/114366.html))
 - **RLTF: Reinforcement Learning from Unit Test Feedback**, arXiv, 2307.04349, [arxiv](http://arxiv.org/abs/2307.04349v1), [pdf](http://arxiv.org/pdf/2307.04349v1.pdf), cication: [**-1**](None)
 
 	 *Jiate Liu, Yiqin Zhu, Kaiwen Xiao, Qiang Fu, Xiao Han, Wei Yang, Deheng Ye*
@@ -165,8 +172,9 @@
 	 *John Yang, Akshara Prabhakar, Karthik Narasimhan, Shunyu Yao*
 	 · [intercode-benchmark.github](https://intercode-benchmark.github.io/)
 
-
 ## Projects
+- [**DeciCoder-6B-Demo**](https://huggingface.co/spaces/Deci/DeciCoder-6B-Demo) - Deci 🤗
+- [**LLM4SoftwareTesting**](https://github.com/LLM-Testing/LLM4SoftwareTesting) - LLM-Testing ![Star](https://img.shields.io/github/stars/LLM-Testing/LLM4SoftwareTesting.svg?style=social&label=Star)
 - [**stable-code-3b**](https://huggingface.co/stabilityai/stable-code-3b) - stabilityai 🤗
 - [**Mastering-GitHub-Copilot-for-Paired-Programming**](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) - microsoft ![Star](https://img.shields.io/github/stars/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming.svg?style=social&label=Star)
 

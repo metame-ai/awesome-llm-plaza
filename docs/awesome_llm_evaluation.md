@@ -25,6 +25,10 @@
 	 *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang*
 
 ## Papers
+- **AttackEval: How to Evaluate the Effectiveness of Jailbreak Attacking on
+  Large Language Models**, `arXiv, 2401.09002`, [arxiv](http://arxiv.org/abs/2401.09002v1), [pdf](http://arxiv.org/pdf/2401.09002v1.pdf), cication: [**-1**](None)
+
+	 *Dong shu, Mingyu Jin, Suiyuan Zhu, Beichen Wang, Zihao Zhou, Chong Zhang, Yongfeng Zhang*
 - **Leveraging Large Language Models for NLG Evaluation: A Survey**, `arXiv, 2401.07103`, [arxiv](http://arxiv.org/abs/2401.07103v1), [pdf](http://arxiv.org/pdf/2401.07103v1.pdf), cication: [**-1**](None)
 
 	 *Zhen Li, Xiaohan Xu, Tao Shen, Can Xu, Jia-Chen Gu, Chongyang Tao*

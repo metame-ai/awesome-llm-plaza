@@ -45,6 +45,9 @@
 	 *Alexander Sasha Vezhnevets, John P. Agapiou, Avia Aharon, Ron Ziv, Jayd Matyas, Edgar A. Duéñez-Guzmán, William A. Cunningham, Simon Osindero, Danny Karmon, Joel Z. Leibo*
 
 	 · ([concordia](https://github.com/google-deepmind/concordia) - google-deepmind) ![Star](https://img.shields.io/github/stars/google-deepmind/concordia.svg?style=social&label=Star)
+- **Vision-Language Foundation Models as Effective Robot Imitators**, `arXiv, 2311.01378`, [arxiv](http://arxiv.org/abs/2311.01378v2), [pdf](http://arxiv.org/pdf/2311.01378v2.pdf), cication: [**-1**](None)
+
+	 *Xinghang Li, Minghuan Liu, Hanbo Zhang, Cunjun Yu, Jie Xu, Hongtao Wu, Chilam Cheang, Ya Jing, Weinan Zhang, Huaping Liu* · ([RoboFlamingo](https://github.com/RoboFlamingo/RoboFlamingo) - RoboFlamingo) ![Star](https://img.shields.io/github/stars/RoboFlamingo/RoboFlamingo.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-01-17-3))
 - **GPT-4V(ision) for Robotics: Multimodal Task Planning from Human
   Demonstration**, `arXiv, 2311.12015`, [arxiv](http://arxiv.org/abs/2311.12015v1), [pdf](http://arxiv.org/pdf/2311.12015v1.pdf), cication: [**-1**](None)
 

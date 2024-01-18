@@ -129,6 +129,11 @@
 
 	 *Run Mixtral-8x7B models in Colab or consumer desktops*
 - [**mixtral-test-46.7b-chat**](https://huggingface.co/spaces/johann22/mixtral-test-46.7b-chat) - johann22 🤗
+- [**Nous-Hermes-2-Mixtral-8x7B-SFT**](https://huggingface.co/NousResearch/Nous-Hermes-2-Mixtral-8x7B-SFT) - NousResearch 🤗
+
+	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-01-16-2))
+- [**Nous-Hermes-2-Mixtral-8x7B-DPO**](https://huggingface.co/NousResearch/Nous-Hermes-2-Mixtral-8x7B-DPO) - NousResearch 🤗
+- [**Nous-Hermes-2-Mixtral-8x7B-DPO-adapter**](https://huggingface.co/NousResearch/Nous-Hermes-2-Mixtral-8x7B-DPO-adapter) - NousResearch 🤗
 
 ### StripedHyena-7B 
 - [**StripedHyena-Hessian-7B**](https://huggingface.co/togethercomputer/StripedHyena-Hessian-7B) - togethercomputer 🤗
@@ -217,6 +222,7 @@
 
 	 *Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform* · ([huggingface](https://huggingface.co/databricks/dolly-v2-12b)) · ([databricks](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm))
 ### Misc
+- [**Beagle14-7B**](https://huggingface.co/mlabonne/Beagle14-7B) - mlabonne 🤗
 - [Improving Open-Source LLMs - Datasets, Merging and Stacking - The Abacus.AI Blog](https://blog.abacus.ai/blog/2024/01/11/the-open-source-cookbook-how-to-soup-up-your-open-source-llm/)
 - [**CrystalChat**](https://huggingface.co/LLM360/CrystalChat) - LLM360 🤗
 - [**btlm-3b-8k-chat**](https://huggingface.co/cerebras/btlm-3b-8k-chat) - cerebras 🤗
@@ -273,11 +279,7 @@
 	 *Ruyi Gan, Ziwei Wu, Renliang Sun, Junyu Lu, Xiaojun Wu, Dixiang Zhang, Kunhao Pan, Ping Yang, Qi Yang, Jiaxing Zhang*
 
 	 · ([huggingface](https://huggingface.co/IDEA-CCNL/Ziya2-13B-Base))
-- [**Yi**](https://github.com/01-ai/Yi) - 01-ai ![Star](https://img.shields.io/github/stars/01-ai/Yi.svg?style=social&label=Star)
 
-	 *A series of large language models trained from scratch by developers @01-ai*
-
-	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-12-11-15))
 - **Skywork: A More Open Bilingual Foundation Model**, `arXiv, 2310.19341`, [arxiv](http://arxiv.org/abs/2310.19341v1), [pdf](http://arxiv.org/pdf/2310.19341v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=18152031419581471402&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Tianwen Wei, Liang Zhao, Lichang Zhang, Bo Zhu, Lijie Wang, Haihua Yang, Biye Li, Cheng Cheng, Weiwei Lü, Rui Hu* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-11-09-7)) · ([qbitai](https://www.qbitai.com/2023/10/94060.html)) · ([skywork](https://github.com/skyworkai/skywork) - skyworkai) ![Star](https://img.shields.io/github/stars/skyworkai/skywork.svg?style=social&label=Star)
@@ -287,13 +289,24 @@
 - [**ColossalAI**](https://github.com/hpcaitech/ColossalAI) - hpcaitech ![Star](https://img.shields.io/github/stars/hpcaitech/ColossalAI.svg?style=social&label=Star)
 
 	 *Making large AI models cheaper, faster and more accessible* · ([qbitai](https://www.qbitai.com/2023/09/86278.html))
-- [**InternLM**](https://github.com/InternLM/InternLM) - InternLM ![Star](https://img.shields.io/github/stars/InternLM/InternLM.svg?style=social&label=Star)
 
-	 *InternLM has open-sourced a 7 billion parameter base model, a chat model tailored for practical scenarios and the training system.* · ([qbitai](https://www.qbitai.com/2023/09/85229.html)) · ([qbitai](https://www.qbitai.com/2023/08/78638.html))
 - [**VisCPM**](https://github.com/OpenBMB/VisCPM) - OpenBMB ![Star](https://img.shields.io/github/stars/OpenBMB/VisCPM.svg?style=social&label=Star)
 
 	 *基于CPM基础模型的中英双语多模态大模型系列* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-07-03-3))
 
+### Yi-01
+- [**Yi**](https://github.com/01-ai/Yi) - 01-ai ![Star](https://img.shields.io/github/stars/01-ai/Yi.svg?style=social&label=Star)
+
+	 *A series of large language models trained from scratch by developers @01-ai*
+
+	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-12-11-15))
+
+### InterLM
+- [**InternLM**](https://github.com/InternLM/InternLM) - InternLM ![Star](https://img.shields.io/github/stars/InternLM/InternLM.svg?style=social&label=Star)
+
+	 *InternLM has open-sourced a 7 billion parameter base model, a chat model tailored for practical scenarios and the training system.* · ([qbitai](https://www.qbitai.com/2023/09/85229.html)) · ([qbitai](https://www.qbitai.com/2023/08/78638.html))
+
+	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652433445&idx=1&sn=0ee21f65b045cbedc99676144d66a502)) · ([huggingface](https://huggingface.co/internlm))
 ### DeepSeek 
 - [**DeepSeek-MoE**](https://github.com/deepseek-ai/DeepSeek-MoE) - deepseek-ai ![Star](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-MoE.svg?style=social&label=Star)
 
@@ -309,6 +322,7 @@
 - [**XVERSE-13B**](https://github.com/xverse-ai/XVERSE-13B) - xverse-ai ![Star](https://img.shields.io/github/stars/xverse-ai/XVERSE-13B.svg?style=social&label=Star)
 
 	 *XVERSE-13B: A multilingual large language model developed by XVERSE Technology Inc.* · ([qbitai](https://www.qbitai.com/2023/08/74566.html)) · ([huggingface](https://huggingface.co/xverse/XVERSE-13B))
+ - [xverse/XVERSE-13B-256K · Hugging Face](https://huggingface.co/xverse/XVERSE-13B-256K)
  
 ### Qwen
 - [**Qwen**](https://github.com/QwenLM/Qwen) - QwenLM ![Star](https://img.shields.io/github/stars/QwenLM/Qwen.svg?style=social&label=Star)

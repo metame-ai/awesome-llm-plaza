@@ -302,6 +302,7 @@
 	 *A simple and effective LLM pruning approach.*
 
 ## Efficient Inference
+- [**PainlessInferenceAcceleration**](https://github.com/alipay/PainlessInferenceAcceleration) - alipay ![Star](https://img.shields.io/github/stars/alipay/PainlessInferenceAcceleration.svg?style=social&label=Star)
 - **Unlocking Efficiency in Large Language Model Inference: A Comprehensive
   Survey of Speculative Decoding**, `arXiv, 2401.07851`, [arxiv](http://arxiv.org/abs/2401.07851v1), [pdf](http://arxiv.org/pdf/2401.07851v1.pdf), cication: [**-1**](None)
 
@@ -335,6 +336,9 @@
   Memory**, `arXiv, 2312.11514`, [arxiv](http://arxiv.org/abs/2312.11514v1), [pdf](http://arxiv.org/pdf/2312.11514v1.pdf), cication: [**-1**](None)
 
 	 *Keivan Alizadeh, Iman Mirzadeh, Dmitry Belenko, Karen Khatamifard, Minsik Cho, Carlo C Del Mundo, Mohammad Rastegari, Mehrdad Farajtabar*
+- **Efficiently Programming Large Language Models using SGLang**, `arXiv, 2312.07104`, [arxiv](http://arxiv.org/abs/2312.07104v1), [pdf](http://arxiv.org/pdf/2312.07104v1.pdf), cication: [**-1**](None)
+
+	 *Lianmin Zheng, Liangsheng Yin, Zhiqiang Xie, Jeff Huang, Chuyue Sun, Cody Hao Yu, Shiyi Cao, Christos Kozyrakis, Ion Stoica, Joseph E. Gonzalez* · ([sglang?tab=readme-ov-file](https://github.com/sgl-project/sglang?tab=readme-ov-file) - sgl-project) ![Star](https://img.shields.io/github/stars/sgl-project/sglang?tab=readme-ov-file.svg?style=social&label=Star) · ([lmsys](https://lmsys.org/blog/2024-01-17-sglang/))
 - **PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU**, `arXiv, 2312.12456`, [arxiv](http://arxiv.org/abs/2312.12456v1), [pdf](http://arxiv.org/pdf/2312.12456v1.pdf), cication: [**-1**](None)
 
 	 *Yixin Song, Zeyu Mi, Haotong Xie, Haibo Chen* · ([PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) - SJTU-IPADS) ![Star](https://img.shields.io/github/stars/SJTU-IPADS/PowerInfer.svg?style=social&label=Star)
@@ -446,6 +450,7 @@
 	 *Port of Facebook's LLaMA model in C/C++* · ([ggml](http://ggml.ai/)) · ([llama.cpp](https://github.com/ggerganov/llama.cpp/discussions/205) - ggerganov) ![Star](https://img.shields.io/github/stars/ggerganov/llama.cpp.svg?style=social&label=Star)
 
 ### Other
+- [Accelerating SD Turbo and SDXL Turbo Inference with ONNX Runtime and Olive](https://huggingface.co/blog/sdxl_ort_inference)
 - [Unbelievable! Run 70B LLM Inference on a Single 4GB GPU with This NEW Technique | by Gavin Li | Nov, 2023 | AI Advances](https://ai.gopubby.com/unbelievable-run-70b-llm-inference-on-a-single-4gb-gpu-with-this-new-technique-93e2057c7eeb)
 
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI1MjQ2OTQ3Ng==&mid=2247628081&idx=1&sn=d507243342fa7c1ba59e18f909e847a4))
@@ -553,6 +558,7 @@
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-01-10-4))
 
 ##  Other
+- [Make LLM Fine-tuning 2x faster with Unsloth and 🤗 TRL](https://huggingface.co/blog/unsloth-trl)
 - [Schedule | NeurIPS Large Language Model Efficiency Challenge:1 LLM + 1GPU + 1Day](https://llm-efficiency-challenge.github.io/schedule)
 - [Dynamic LoRA loading for better performance and optimized resource usage](https://huggingface.co/blog/lora-adapters-dynamic-loading)
 ## Courses

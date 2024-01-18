@@ -83,6 +83,8 @@
 - [**taskweaver**](https://github.com/microsoft/taskweaver) - microsoft ![Star](https://img.shields.io/github/stars/microsoft/taskweaver.svg?style=social&label=Star)
 
 	 *A code-first agent framework for seamlessly planning and executing data analytics tasks.*
+
+	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-01-16))
 - **Igniting Language Intelligence: The Hitchhiker's Guide From
   Chain-of-Thought Reasoning to Language Agents**, `arXiv, 2311.11797`, [arxiv](http://arxiv.org/abs/2311.11797v1), [pdf](http://arxiv.org/pdf/2311.11797v1.pdf), cication: [**-1**](None)
 
@@ -453,6 +455,10 @@
 - [GPT-4V学会用键鼠上网，人类眼睁睁看着它发帖玩游戏 | 量子位](https://www.qbitai.com/2023/11/95456.html)
 
 ## Retrieval agumented generation
+- **RAG vs Fine-tuning: Pipelines, Tradeoffs, and a Case Study on
+  Agriculture**, `arXiv, 2401.08406`, [arxiv](http://arxiv.org/abs/2401.08406v1), [pdf](http://arxiv.org/pdf/2401.08406v1.pdf), cication: [**-1**](None)
+
+	 *Aman Gupta, Anup Shirgaonkar, Angels de Luis Balaguer, Bruno Silva, Daniel Holstein, Dawei Li, Jennifer Marsman, Leonardo O. Nunes, Mahsa Rouzbahman, Morris Sharp*
 - **Improving Text Embeddings with Large Language Models**, `arXiv, 2401.00368`, [arxiv](http://arxiv.org/abs/2401.00368v1), [pdf](http://arxiv.org/pdf/2401.00368v1.pdf), cication: [**-1**](None)
 
 	 *Liang Wang, Nan Yang, Xiaolong Huang, Linjun Yang, Rangan Majumder, Furu Wei*
