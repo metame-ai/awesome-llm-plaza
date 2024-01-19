@@ -17,7 +17,9 @@
 	- [Efficient transformer](#efficient-transformer)
 
 ## Survey
-- [Site Unreachable](https://arxiv.org/pdf/2401.08092.pdf)
+- **A Survey of Resource-efficient LLM and Multimodal Foundation Models**, `arXiv, 2401.08092`, [arxiv](http://arxiv.org/abs/2401.08092v1), [pdf](http://arxiv.org/pdf/2401.08092v1.pdf), cication: [**-1**](None)
+
+	 *Mengwei Xu, Wangsong Yin, Dongqi Cai, Rongjie Yi, Daliang Xu, Qipeng Wang, Bingyang Wu, Yihao Zhao, Chen Yang, Shihe Wang*
 
 	 · ([efficient_foundation_model_survey](https://github.com/ubiquitouslearning/efficient_foundation_model_survey) - ubiquitouslearning) ![Star](https://img.shields.io/github/stars/ubiquitouslearning/efficient_foundation_model_survey.svg?style=social&label=Star)
 - **Understanding LLMs: A Comprehensive Overview from Training to Inference**, `arXiv, 2401.02038`, [arxiv](http://arxiv.org/abs/2401.02038v2), [pdf](http://arxiv.org/pdf/2401.02038v2.pdf), cication: [**-1**](None)
@@ -568,7 +570,10 @@
 	 · ([zhuanlan.zhihu](https://zhuanlan.zhihu.com/p/634236135))
 
 ## Hardware
-- [2401.03868.pdf](https://arxiv.org/pdf/2401.03868.pdf)
+- **FlightLLM: Efficient Large Language Model Inference with a Complete
+  Mapping Flow on FPGAs**, `arXiv, 2401.03868`, [arxiv](http://arxiv.org/abs/2401.03868v2), [pdf](http://arxiv.org/pdf/2401.03868v2.pdf), cication: [**-1**](None)
+
+	 *Shulin Zeng, Jun Liu, Guohao Dai, Xinhao Yang, Tianyu Fu, Hongyi Wang, Wenheng Ma, Hanbo Sun, Shiyao Li, Zixiao Huang*
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-01-10-4))
 
