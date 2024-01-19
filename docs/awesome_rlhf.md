@@ -12,6 +12,9 @@
 
 
 ## Papers
+- **Self-Rewarding Language Models**, `arXiv, 2401.10020`, [arxiv](http://arxiv.org/abs/2401.10020v1), [pdf](http://arxiv.org/pdf/2401.10020v1.pdf), cication: [**-1**](None)
+
+	 *Weizhe Yuan, Richard Yuanzhe Pang, Kyunghyun Cho, Sainbayar Sukhbaatar, Jing Xu, Jason Weston*
 - **Contrastive Preference Optimization: Pushing the Boundaries of LLM
   Performance in Machine Translation**, `arXiv, 2401.08417`, [arxiv](http://arxiv.org/abs/2401.08417v1), [pdf](http://arxiv.org/pdf/2401.08417v1.pdf), cication: [**-1**](None)
 
@@ -169,6 +172,7 @@
 - [**tril**](https://github.com/cornell-rl/tril) - cornell-rl ![Star](https://img.shields.io/github/stars/cornell-rl/tril.svg?style=social&label=Star)
 
 ## Other
+- [Preference Tuning LLMs with Direct Preference Optimization Methods](https://huggingface.co/blog/pref-tuning)
 - [Reinforcement Learning from Human Feedback - DeepLearning.AI](https://www.deeplearning.ai/short-courses/reinforcement-learning-from-human-feedback/)
 - [**Reinforcement Learning for Language Models**](https://gist.github.com/yoavg/6bff0fecd65950898eba1bb321cfbd81) - yoavg ![Star](https://img.shields.io/github/stars/yoavg/6bff0fecd65950898eba1bb321cfbd81.svg?style=social&label=Star)
 - [The Q\* hypothesis: Tree-of-thoughts reasoning, process reward models, and supercharging synthetic data](https://www.interconnects.ai/p/q-star)

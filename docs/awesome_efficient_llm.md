@@ -17,6 +17,9 @@
 	- [Efficient transformer](#efficient-transformer)
 
 ## Survey
+- [Site Unreachable](https://arxiv.org/pdf/2401.08092.pdf)
+
+	 · ([efficient_foundation_model_survey](https://github.com/ubiquitouslearning/efficient_foundation_model_survey) - ubiquitouslearning) ![Star](https://img.shields.io/github/stars/ubiquitouslearning/efficient_foundation_model_survey.svg?style=social&label=Star)
 - **Understanding LLMs: A Comprehensive Overview from Training to Inference**, `arXiv, 2401.02038`, [arxiv](http://arxiv.org/abs/2401.02038v2), [pdf](http://arxiv.org/pdf/2401.02038v2.pdf), cication: [**-1**](None)
 
 	 *Yiheng Liu, Hao He, Tianle Han, Xu Zhang, Mengyuan Liu, Jiaming Tian, Yutong Zhang, Jiaqi Wang, Xiaohui Gao, Tianyang Zhong*
@@ -302,6 +305,14 @@
 	 *A simple and effective LLM pruning approach.*
 
 ## Efficient Inference
+- **DeepSpeed-FastGen: High-throughput Text Generation for LLMs via MII and
+  DeepSpeed-Inference**, `arXiv, 2401.08671`, [arxiv](http://arxiv.org/abs/2401.08671v1), [pdf](http://arxiv.org/pdf/2401.08671v1.pdf), cication: [**-1**](None)
+
+	 *Connor Holmes, Masahiro Tanaka, Michael Wyatt, Ammar Ahmad Awan, Jeff Rasley, Samyam Rajbhandari, Reza Yazdani Aminabadi, Heyang Qin, Arash Bakhtiari, Lev Kurilenko*
+- **Inferflow: an Efficient and Highly Configurable Inference Engine for
+  Large Language Models**, `arXiv, 2401.08294`, [arxiv](http://arxiv.org/abs/2401.08294v1), [pdf](http://arxiv.org/pdf/2401.08294v1.pdf), cication: [**-1**](None)
+
+	 *Shuming Shi, Enbo Zhao, Deng Cai, Leyang Cui, Xinting Huang, Huayang Li* · ([inferflow](https://github.com/inferflow/inferflow) - inferflow) ![Star](https://img.shields.io/github/stars/inferflow/inferflow.svg?style=social&label=Star)
 - [**PainlessInferenceAcceleration**](https://github.com/alipay/PainlessInferenceAcceleration) - alipay ![Star](https://img.shields.io/github/stars/alipay/PainlessInferenceAcceleration.svg?style=social&label=Star)
 - **Unlocking Efficiency in Large Language Model Inference: A Comprehensive
   Survey of Speculative Decoding**, `arXiv, 2401.07851`, [arxiv](http://arxiv.org/abs/2401.07851v1), [pdf](http://arxiv.org/pdf/2401.07851v1.pdf), cication: [**-1**](None)
@@ -476,6 +487,10 @@
 	 *Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-05-04)) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-06-05-2))
 
 ## Toolkits
+- [**vllm**](https://github.com/vllm-project/vllm/pull/1804) - vllm-project ![Star](https://img.shields.io/github/stars/vllm-project/vllm.svg?style=social&label=Star)
+- [**lorax**](https://github.com/predibase/lorax) - predibase ![Star](https://img.shields.io/github/stars/predibase/lorax.svg?style=social&label=Star)
+
+	 *Multi-LoRA inference server that scales to 1000s of fine-tuned LLMs*
 - [Winners 🏆 | NeurIPS Large Language Model Efficiency Challenge:1 LLM + 1GPU + 1Day](https://llm-efficiency-challenge.github.io/leaderboard)
 - [**gigaGPT**](https://github.com/Cerebras/gigaGPT) - Cerebras ![Star](https://img.shields.io/github/stars/Cerebras/gigaGPT.svg?style=social&label=Star)
 

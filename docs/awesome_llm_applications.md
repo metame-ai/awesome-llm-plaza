@@ -311,6 +311,10 @@
 	 *Chongming Gao, Wenqiang Lei, Xiangnan He, Maarten de Rijke, Tat-Seng Chua* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495345&idx=2&sn=5e3ac087c792081705dde1c2542c687a))
 
 ## Role play
+- **RoleCraft-GLM: Advancing Personalized Role-Playing in Large Language
+  Models**, `arXiv, 2401.09432`, [arxiv](http://arxiv.org/abs/2401.09432v1), [pdf](http://arxiv.org/pdf/2401.09432v1.pdf), cication: [**-1**](None)
+
+	 *Meiling Tao, Xuechen Liang, Tianyu Shi, Lei Yu, Yiting Xie*
 - **PersonalityChat: Conversation Distillation for Personalized Dialog
   Modeling with Facts and Traits**, `arXiv, 2401.07363`, [arxiv](http://arxiv.org/abs/2401.07363v1), [pdf](http://arxiv.org/pdf/2401.07363v1.pdf), cication: [**-1**](None)
 
@@ -433,6 +437,9 @@
 	 *Quan Wang, Yiling Huang, Guanlong Zhao, Evan Clark, Wei Xia, Hank Liao*
 
 ## Vision
+- **DiffusionGPT: LLM-Driven Text-to-Image Generation System**, `arXiv, 2401.10061`, [arxiv](http://arxiv.org/abs/2401.10061v1), [pdf](http://arxiv.org/pdf/2401.10061v1.pdf), cication: [**-1**](None)
+
+	 *Jie Qin, Jie Wu, Weifeng Chen, Yuxi Ren, Huixia Li, Hefeng Wu, Xuefeng Xiao, Rui Wang, Shilei Wen*
 - **GPT-4V(ision) is a Human-Aligned Evaluator for Text-to-3D Generation**, `arXiv, 2401.04092`, [arxiv](http://arxiv.org/abs/2401.04092v1), [pdf](http://arxiv.org/pdf/2401.04092v1.pdf), cication: [**-1**](None)
 
 	 *Tong Wu, Guandao Yang, Zhibing Li, Kai Zhang, Ziwei Liu, Leonidas Guibas, Dahua Lin, Gordon Wetzstein*
@@ -473,6 +480,9 @@
 	 *Official repo for LayoutGPT*
 
 ## Science
+- [Solving olympiad geometry without human demonstrations | Nature](https://www.nature.com/articles/s41586-023-06747-5)
+
+	 · ([qbitai](https://www.qbitai.com/2024/01/114844.html))
 - **SciGLM: Training Scientific Language Models with Self-Reflective
   Instruction Annotation and Tuning**, `arXiv, 2401.07950`, [arxiv](http://arxiv.org/abs/2401.07950v1), [pdf](http://arxiv.org/pdf/2401.07950v1.pdf), cication: [**-1**](None)
 
@@ -541,6 +551,9 @@
 	 *Tongshuang Wu, Haiyi Zhu, Maya Albayrak, Alexis Axon, Amanda Bertsch, Wenxing Deng, Ziqi Ding, Bill Guo, Sireesh Gururaja, Tzu-Sheng Kuo*
 
 ## Misc
+- **ChatQA: Building GPT-4 Level Conversational QA Models**, `arXiv, 2401.10225`, [arxiv](http://arxiv.org/abs/2401.10225v1), [pdf](http://arxiv.org/pdf/2401.10225v1.pdf), cication: [**-1**](None)
+
+	 *Zihan Liu, Wei Ping, Rajarshi Roy, Peng Xu, Mohammad Shoeybi, Bryan Catanzaro*
 - **Shai: A large language model for asset management**, `arXiv, 2312.14203`, [arxiv](http://arxiv.org/abs/2312.14203v1), [pdf](http://arxiv.org/pdf/2312.14203v1.pdf), cication: [**-1**](None)
 
 	 *Zhongyang Guo, Guanran Jiang, Zhongdan Zhang, Peng Li, Zhefeng Wang, Yinchun Wang*

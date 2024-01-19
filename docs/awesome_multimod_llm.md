@@ -68,9 +68,14 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
+- **Improving fine-grained understanding in image-text pre-training**, `arXiv, 2401.09865`, [arxiv](http://arxiv.org/abs/2401.09865v1), [pdf](http://arxiv.org/pdf/2401.09865v1.pdf), cication: [**-1**](None)
+
+	 *Ioana Bica, Anastasija Ilić, Matthias Bauer, Goker Erdogan, Matko Bošnjak, Christos Kaplanis, Alexey A. Gritsenko, Matthias Minderer, Charles Blundell, Razvan Pascanu*
 - **Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs**, `arXiv, 2401.06209`, [arxiv](http://arxiv.org/abs/2401.06209v1), [pdf](http://arxiv.org/pdf/2401.06209v1.pdf), cication: [**-1**](None)
 
 	 *Shengbang Tong, Zhuang Liu, Yuexiang Zhai, Yi Ma, Yann LeCun, Saining Xie* · ([tsb0601.github](https://tsb0601.github.io/mmvp_blog/))
+
+	 · ([MMVP](https://github.com/tsb0601/MMVP) - tsb0601) ![Star](https://img.shields.io/github/stars/tsb0601/MMVP.svg?style=social&label=Star)
 - **GATS: Gather-Attend-Scatter**, `arXiv, 2401.08525`, [arxiv](http://arxiv.org/abs/2401.08525v1), [pdf](http://arxiv.org/pdf/2401.08525v1.pdf), cication: [**-1**](None)
 
 	 *Konrad Zolna, Serkan Cabi, Yutian Chen, Eric Lau, Claudio Fantacci, Jurgis Pasukonis, Jost Tobias Springenberg, Sergio Gomez Colmenarejo*
@@ -564,6 +569,9 @@
 	 *Shaohan Huang, Li Dong, Wenhui Wang, Yaru Hao, Saksham Singhal, Shuming Ma, Tengchao Lv, Lei Cui, Owais Khan Mohammed, Barun Patra*
 
 ## Audio
+- **On the Audio Hallucinations in Large Audio-Video Language Models**, `arXiv, 2401.09774`, [arxiv](http://arxiv.org/abs/2401.09774v1), [pdf](http://arxiv.org/pdf/2401.09774v1.pdf), cication: [**-1**](None)
+
+	 *Taichi Nishimura, Shota Nakada, Masayoshi Kondo*
 - **E-chat: Emotion-sensitive Spoken Dialogue System with Large Language
   Models**, `arXiv, 2401.00475`, [arxiv](http://arxiv.org/abs/2401.00475v2), [pdf](http://arxiv.org/pdf/2401.00475v2.pdf), cication: [**-1**](None)
 

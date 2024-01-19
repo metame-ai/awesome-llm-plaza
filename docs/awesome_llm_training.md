@@ -168,6 +168,9 @@
 - [领域大模型-训练Trick&落地思考](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494320&idx=2&sn=8edd6ea37bbd73768caa306d9daa2cf7)
 
 ## Scaling
+- **Asynchronous Local-SGD Training for Language Modeling**, `arXiv, 2401.09135`, [arxiv](http://arxiv.org/abs/2401.09135v1), [pdf](http://arxiv.org/pdf/2401.09135v1.pdf), cication: [**-1**](None)
+
+	 *Bo Liu, Rachita Chhaparia, Arthur Douillard, Satyen Kale, Andrei A. Rusu, Jiajun Shen, Arthur Szlam, Marc'Aurelio Ranzato*
 - **DeepSeek LLM: Scaling Open-Source Language Models with Longtermism**, `arXiv, 2401.02954`, [arxiv](http://arxiv.org/abs/2401.02954v1), [pdf](http://arxiv.org/pdf/2401.02954v1.pdf), cication: [**-1**](None)
 
 	 *DeepSeek-AI, :, Xiao Bi, Deli Chen, Guanting Chen, Shanhuang Chen, Damai Dai, Chengqi Deng, Honghui Ding, Kai Dong*
