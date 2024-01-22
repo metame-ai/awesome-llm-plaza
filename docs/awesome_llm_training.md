@@ -168,6 +168,9 @@
 - [领域大模型-训练Trick&落地思考](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494320&idx=2&sn=8edd6ea37bbd73768caa306d9daa2cf7)
 
 ## Scaling
+- **Zero Bubble Pipeline Parallelism**, `arXiv, 2401.10241`, [arxiv](http://arxiv.org/abs/2401.10241v1), [pdf](http://arxiv.org/pdf/2401.10241v1.pdf), cication: [**-1**](None)
+
+	 *Penghui Qi, Xinyi Wan, Guangxing Huang, Min Lin* · ([zero-bubble-pipeline-parallelism](https://github.com/sail-sg/zero-bubble-pipeline-parallelism) - sail-sg) ![Star](https://img.shields.io/github/stars/sail-sg/zero-bubble-pipeline-parallelism.svg?style=social&label=Star)
 - **Asynchronous Local-SGD Training for Language Modeling**, `arXiv, 2401.09135`, [arxiv](http://arxiv.org/abs/2401.09135v1), [pdf](http://arxiv.org/pdf/2401.09135v1.pdf), cication: [**-1**](None)
 
 	 *Bo Liu, Rachita Chhaparia, Arthur Douillard, Satyen Kale, Andrei A. Rusu, Jiajun Shen, Arthur Szlam, Marc'Aurelio Ranzato*
@@ -299,6 +302,9 @@
 	 *Yang Luo, Xiaozhe Ren, Zangwei Zheng, Zhuo Jiang, Xin Jiang, Yang You* · ([qbitai](https://www.qbitai.com/2023/07/67814.html))
  
 ## Ensemble
+- **Knowledge Fusion of Large Language Models**, `arXiv, 2401.10491`, [arxiv](http://arxiv.org/abs/2401.10491v1), [pdf](http://arxiv.org/pdf/2401.10491v1.pdf), cication: [**-1**](None)
+
+	 *Fanqi Wan, Xinting Huang, Deng Cai, Xiaojun Quan, Wei Bi, Shuming Shi* · ([FuseLLM](https://github.com/fanqiwan/FuseLLM) - fanqiwan) ![Star](https://img.shields.io/github/stars/fanqiwan/FuseLLM.svg?style=social&label=Star)
 - [**Beagle14-7B**](https://huggingface.co/mlabonne/Beagle14-7B) - mlabonne 🤗
 - **Blending Is All You Need: Cheaper, Better Alternative to
   Trillion-Parameters LLM**, `arXiv, 2401.02994`, [arxiv](http://arxiv.org/abs/2401.02994v1), [pdf](http://arxiv.org/pdf/2401.02994v1.pdf), cication: [**-1**](None)
@@ -326,6 +332,10 @@
 	 *Dongfu Jiang, Xiang Ren, Bill Yuchen Lin* · ([LLM-Blender](https://github.com/yuchenlin/LLM-Blender) - yuchenlin) ![Star](https://img.shields.io/github/stars/yuchenlin/LLM-Blender.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652343982&idx=4&sn=ce5c51039d91531178257024d883db90))
 
 ## MoE
+- **MoE-Mamba: Efficient Selective State Space Models with Mixture of
+  Experts**, `arXiv, 2401.04081`, [arxiv](http://arxiv.org/abs/2401.04081v1), [pdf](http://arxiv.org/pdf/2401.04081v1.pdf), cication: [**-1**](None)
+
+	 *Maciej Pióro, Kamil Ciebiera, Krystian Król, Jan Ludziejewski, Sebastian Jaszczur*
 - **DeepSeekMoE: Towards Ultimate Expert Specialization in
   Mixture-of-Experts Language Models**, `arXiv, 2401.06066`, [arxiv](http://arxiv.org/abs/2401.06066v1), [pdf](http://arxiv.org/pdf/2401.06066v1.pdf), cication: [**-1**](None)
 

@@ -307,6 +307,10 @@
 	 *A simple and effective LLM pruning approach.*
 
 ## Efficient Inference
+- **Medusa: Simple LLM Inference Acceleration Framework with Multiple
+  Decoding Heads**, `arXiv, 2401.10774`, [arxiv](http://arxiv.org/abs/2401.10774v1), [pdf](http://arxiv.org/pdf/2401.10774v1.pdf), cication: [**-1**](None)
+
+	 *Tianle Cai, Yuhong Li, Zhengyang Geng, Hongwu Peng, Jason D. Lee, Deming Chen, Tri Dao*
 - **DeepSpeed-FastGen: High-throughput Text Generation for LLMs via MII and
   DeepSpeed-Inference**, `arXiv, 2401.08671`, [arxiv](http://arxiv.org/abs/2401.08671v1), [pdf](http://arxiv.org/pdf/2401.08671v1.pdf), cication: [**-1**](None)
 

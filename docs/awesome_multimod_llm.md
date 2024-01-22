@@ -9,6 +9,11 @@
 	- [Other](#other)
 	- [Reference](#reference)
 
+## Survey
+- **A Survey of Resource-efficient LLM and Multimodal Foundation Models**, `arXiv, 2401.08092`, [arxiv](http://arxiv.org/abs/2401.08092v1), [pdf](http://arxiv.org/pdf/2401.08092v1.pdf), cication: [**-1**](None)
+
+	 *Mengwei Xu, Wangsong Yin, Dongqi Cai, Rongjie Yi, Daliang Xu, Qipeng Wang, Bingyang Wu, Yihao Zhao, Chen Yang, Shihe Wang*
+
 ## Vision
 ### Video
 - **Distilling Vision-Language Models on Millions of Videos**, `arXiv, 2401.06129`, [arxiv](http://arxiv.org/abs/2401.06129v1), [pdf](http://arxiv.org/pdf/2401.06129v1.pdf), cication: [**-1**](None)
@@ -68,6 +73,9 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
+- [**FireLLaVA-13b**](https://huggingface.co/fireworks-ai/FireLLaVA-13b) - fireworks-ai 🤗
+
+	 · ([app.fireworks](https://app.fireworks.ai/blog/firellava-the-first-commercially-permissive-oss-llava-model))
 - **Improving fine-grained understanding in image-text pre-training**, `arXiv, 2401.09865`, [arxiv](http://arxiv.org/abs/2401.09865v1), [pdf](http://arxiv.org/pdf/2401.09865v1.pdf), cication: [**-1**](None)
 
 	 *Ioana Bica, Anastasija Ilić, Matthias Bauer, Goker Erdogan, Matko Bošnjak, Christos Kaplanis, Alexey A. Gritsenko, Matthias Minderer, Charles Blundell, Razvan Pascanu*
@@ -101,6 +109,9 @@
 - **Parrot Captions Teach CLIP to Spot Text**, `arXiv, 2312.14232`, [arxiv](http://arxiv.org/abs/2312.14232v1), [pdf](http://arxiv.org/pdf/2312.14232v1.pdf), cication: [**-1**](None)
 
 	 *Yiqi Lin, Conghui He, Alex Jinpeng Wang, Bin Wang, Weijia Li, Mike Zheng Shou*
+- **Harnessing Diffusion Models for Visual Perception with Meta Prompts**, `arXiv, 2312.14733`, [arxiv](http://arxiv.org/abs/2312.14733v1), [pdf](http://arxiv.org/pdf/2312.14733v1.pdf), cication: [**-1**](None)
+
+	 *Qiang Wan, Zilong Huang, Bingyi Kang, Jiashi Feng, Li Zhang* · ([meta-prompts](https://github.com/fudan-zvg/meta-prompts) - fudan-zvg) ![Star](https://img.shields.io/github/stars/fudan-zvg/meta-prompts.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652432856&idx=2&sn=aec76c63be2f2e264e2f3f3a7ae34e10&poc_token=HPAmrGWjbyEx5YDsFT2_tC4bunuulQpCZBIg6hx1))
 - **VCoder: Versatile Vision Encoders for Multimodal Large Language Models**, `arXiv, 2312.14233`, [arxiv](http://arxiv.org/abs/2312.14233v1), [pdf](http://arxiv.org/pdf/2312.14233v1.pdf), cication: [**-1**](None)
 
 	 *Jitesh Jain, Jianwei Yang, Humphrey Shi*

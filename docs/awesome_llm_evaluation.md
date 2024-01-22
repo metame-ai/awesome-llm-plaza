@@ -9,6 +9,9 @@
 
 
 ## Survey
+- **Leveraging Large Language Models for NLG Evaluation: A Survey**, `arXiv, 2401.07103`, [arxiv](http://arxiv.org/abs/2401.07103v1), [pdf](http://arxiv.org/pdf/2401.07103v1.pdf), cication: [**-1**](None)
+
+	 *Zhen Li, Xiaohan Xu, Tao Shen, Can Xu, Jia-Chen Gu, Chongyang Tao*
 - **ChatGPT's One-year Anniversary: Are Open-Source Large Language Models
   Catching up?**, `arXiv, 2311.16989`, [arxiv](http://arxiv.org/abs/2311.16989v2), [pdf](http://arxiv.org/pdf/2311.16989v2.pdf), cication: [**-1**](None)
 
@@ -29,9 +32,7 @@
   Large Language Models**, `arXiv, 2401.09002`, [arxiv](http://arxiv.org/abs/2401.09002v1), [pdf](http://arxiv.org/pdf/2401.09002v1.pdf), cication: [**-1**](None)
 
 	 *Dong shu, Mingyu Jin, Suiyuan Zhu, Beichen Wang, Zihao Zhou, Chong Zhang, Yongfeng Zhang*
-- **Leveraging Large Language Models for NLG Evaluation: A Survey**, `arXiv, 2401.07103`, [arxiv](http://arxiv.org/abs/2401.07103v1), [pdf](http://arxiv.org/pdf/2401.07103v1.pdf), cication: [**-1**](None)
 
-	 *Zhen Li, Xiaohan Xu, Tao Shen, Can Xu, Jia-Chen Gu, Chongyang Tao*
 - **Narrowing the Knowledge Evaluation Gap: Open-Domain Question Answering
   with Multi-Granularity Answers**, `arXiv, 2401.04695`, [arxiv](http://arxiv.org/abs/2401.04695v1), [pdf](http://arxiv.org/pdf/2401.04695v1.pdf), cication: [**-1**](None)
 

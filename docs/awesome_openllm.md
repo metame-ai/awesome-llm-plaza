@@ -260,6 +260,9 @@
 # Mulitlingual (chinese)
 
 ## Foundation
+- [**Orion**](https://github.com/OrionStarAI/Orion) - OrionStarAI ![Star](https://img.shields.io/github/stars/OrionStarAI/Orion.svg?style=social&label=Star)
+
+	 *Orion-14B is a family of models includes a 14B foundation LLM, and a series of models: a chat model, a long context model, a quantized model, a RAG fine-tuned model, and an Agent fine-tuned model. Orion-14B 系列模型包括一个具有140亿参数的多语言基座大模型以及一系列相关的衍生模型，包括对话模型，长文本模型，量化模型，RAG微调模型，Agent微调模型等。* · ([Orion](https://github.com/OrionStarAI/Orion/blob/master/doc/Orion14B_v3.pdf) - OrionStarAI) ![Star](https://img.shields.io/github/stars/OrionStarAI/Orion.svg?style=social&label=Star)
 - **TeleChat Technical Report**, `arXiv, 2401.03804`, [arxiv](http://arxiv.org/abs/2401.03804v1), [pdf](http://arxiv.org/pdf/2401.03804v1.pdf), cication: [**-1**](None)
 
 	 *Zihan Wang, Xinzhang Liu, Shixuan Liu, Yitong Yao, Yuyao Huang, Zhongjiang He, Xuelong Li, Yongxiang Li, Zhonghao Che, Zhaoxi Zhang*

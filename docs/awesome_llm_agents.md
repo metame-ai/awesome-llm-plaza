@@ -45,6 +45,9 @@
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-18-4))
 ## Agents
+- **Tool-LMM: A Large Multi-Modal Model for Tool Agent Learning**, `arXiv, 2401.10727`, [arxiv](http://arxiv.org/abs/2401.10727v1), [pdf](http://arxiv.org/pdf/2401.10727v1.pdf), cication: [**-1**](None)
+
+	 *Chenyu Wang, Weixin Luo, Qianyu Chen, Haonan Mai, Jindi Guo, Sixun Dong, Xiaohua, Xuan, Zhengxin Li, Lin Ma* · ([Tool-LMM?tab=readme-ov-file](https://github.com/Tool-LMM/Tool-LMM?tab=readme-ov-file) - Tool-LMM) ![Star](https://img.shields.io/github/stars/Tool-LMM/Tool-LMM?tab=readme-ov-file.svg?style=social&label=Star)
 - **Bootstrapping LLM-based Task-Oriented Dialogue Agents via Self-Talk**, `arXiv, 2401.05033`, [arxiv](http://arxiv.org/abs/2401.05033v1), [pdf](http://arxiv.org/pdf/2401.05033v1.pdf), cication: [**-1**](None)
 
 	 *Dennis Ulmer, Elman Mansimov, Kaixiang Lin, Justin Sun, Xibin Gao, Yi Zhang*
@@ -556,6 +559,7 @@
 - [A Cheat Sheet and Some Recipes For Building Advanced RAG | by Andrei | Jan, 2024 | LlamaIndex Blog](https://blog.llamaindex.ai/a-cheat-sheet-and-some-recipes-for-building-advanced-rag-803a9d94c41b)
 - [Build a search engine, not a vector DB](https://blog.elicit.com/search-vs-vector-db/)
 
+- [大模型RAG的迭代路径](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495480&idx=1&sn=71ba95734ab559fb21408993d1800741)
 - [大模型RAG问答技术架构及核心模块回顾](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495441&idx=2&sn=cb2cfb2eab441f8a5262ad5b98c1757f)
 - [【大模型外挂知识库(RAG)优化】如何炼成强大的向量化召回模型 - 知乎](https://zhuanlan.zhihu.com/p/661867062)
 - [RAG调优方案](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495402&idx=2&sn=6222df8ddb5e08ac48d946b7f989ff4e)

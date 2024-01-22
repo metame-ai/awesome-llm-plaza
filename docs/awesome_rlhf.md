@@ -12,6 +12,9 @@
 
 
 ## Papers
+- **ReFT: Reasoning with Reinforced Fine-Tuning**, `arXiv, 2401.08967`, [arxiv](http://arxiv.org/abs/2401.08967v1), [pdf](http://arxiv.org/pdf/2401.08967v1.pdf), cication: [**-1**](None)
+
+	 *Trung Quoc Luong, Xinbo Zhang, Zhanming Jie, Peng Sun, Xiaoran Jin, Hang Li*
 - **Self-Rewarding Language Models**, `arXiv, 2401.10020`, [arxiv](http://arxiv.org/abs/2401.10020v1), [pdf](http://arxiv.org/pdf/2401.10020v1.pdf), cication: [**-1**](None)
 
 	 *Weizhe Yuan, Richard Yuanzhe Pang, Kyunghyun Cho, Sainbayar Sukhbaatar, Jing Xu, Jason Weston*

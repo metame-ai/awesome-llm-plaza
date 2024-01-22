@@ -16,6 +16,9 @@
 	 *Zige Wang, Wanjun Zhong, Yufei Wang, Qi Zhu, Fei Mi, Baojun Wang, Lifeng Shang, Xin Jiang, Qun Liu*
 
 ## Techs
+- **The Unreasonable Effectiveness of Easy Training Data for Hard Tasks**, `arXiv, 2401.06751`, [arxiv](http://arxiv.org/abs/2401.06751v1), [pdf](http://arxiv.org/pdf/2401.06751v1.pdf), cication: [**-1**](None)
+
+	 *Peter Hase, Mohit Bansal, Peter Clark, Sarah Wiegreffe* · ([easy-to-hard-generalization](https://github.com/allenai/easy-to-hard-generalization) - allenai) ![Star](https://img.shields.io/github/stars/allenai/easy-to-hard-generalization.svg?style=social&label=Star)
 - **A Shocking Amount of the Web is Machine Translated: Insights from
   Multi-Way Parallelism**, `arXiv, 2401.05749`, [arxiv](http://arxiv.org/abs/2401.05749v1), [pdf](http://arxiv.org/pdf/2401.05749v1.pdf), cication: [**-1**](None)
 

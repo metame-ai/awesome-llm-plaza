@@ -226,6 +226,7 @@
 	 *Yunkang Cao, Xiaohao Xu, Chen Sun, Xiaonan Huang, Weiming Shen* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-11-13))
 
 ## Auto driving
+- [Self-driving as a case study for AGI](https://karpathy.github.io/2024/01/21/selfdriving-agi/)
 - **LMDrive: Closed-Loop End-to-End Driving with Large Language Models**, `arXiv, 2312.07488`, [arxiv](http://arxiv.org/abs/2312.07488v1), [pdf](http://arxiv.org/pdf/2312.07488v1.pdf), cication: [**-1**](None)
 
 	 *Hao Shao, Yuxuan Hu, Letian Wang, Steven L. Waslander, Yu Liu, Hongsheng Li* · ([lmdrive](https://github.com/opendilab/lmdrive) - opendilab) ![Star](https://img.shields.io/github/stars/opendilab/lmdrive.svg?style=social&label=Star)
@@ -311,6 +312,7 @@
 	 *Chongming Gao, Wenqiang Lei, Xiangnan He, Maarten de Rijke, Tat-Seng Chua* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495345&idx=2&sn=5e3ac087c792081705dde1c2542c687a))
 
 ## Role play
+- [**ai-adventure?tab=readme-ov-file**](https://github.com/steamship-core/ai-adventure?tab=readme-ov-file) - steamship-core ![Star](https://img.shields.io/github/stars/steamship-core/ai-adventure?tab=readme-ov-file.svg?style=social&label=Star)
 - **RoleCraft-GLM: Advancing Personalized Role-Playing in Large Language
   Models**, `arXiv, 2401.09432`, [arxiv](http://arxiv.org/abs/2401.09432v1), [pdf](http://arxiv.org/pdf/2401.09432v1.pdf), cication: [**-1**](None)
 
@@ -360,6 +362,10 @@
 	 *RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models*
 
 ## Chat bots
+- **HuixiangDou: Overcoming Group Chat Scenarios with LLM-based Technical
+  Assistance**, `arXiv, 2401.08772`, [arxiv](http://arxiv.org/abs/2401.08772v1), [pdf](http://arxiv.org/pdf/2401.08772v1.pdf), cication: [**-1**](None)
+
+	 *Huanjun Kong, Songyang Zhang, Kai Chen* · ([huixiangdou](https://github.com/internlm/huixiangdou) - internlm) ![Star](https://img.shields.io/github/stars/internlm/huixiangdou.svg?style=social&label=Star)
 - [**anything-llm**](https://github.com/Mintplex-Labs/anything-llm?tab=readme-ov-file) - Mintplex-Labs ![Star](https://img.shields.io/github/stars/Mintplex-Labs/anything-llm?tab=readme-ov-file.svg?style=social&label=Star)
 
 	 *Open-source ChatGPT equivalent experience for both open and close source LLMs, embedders, and vector databases. Supports unlimited documents, threads, and concurrent users and management all in a very clean UI.*
@@ -431,6 +437,14 @@
 	 *Patrick Fernandes, Daniel Deutsch, Mara Finkelstein, Parker Riley, André F. T. Martins, Graham Neubig, Ankush Garg, Jonathan H. Clark, Markus Freitag, Orhan Firat*
 
 ## Audio
+- **Rambler: Supporting Writing With Speech via LLM-Assisted Gist
+  Manipulation**, `arXiv, 2401.10838`, [arxiv](http://arxiv.org/abs/2401.10838v1), [pdf](http://arxiv.org/pdf/2401.10838v1.pdf), cication: [**-1**](None)
+
+	 *Susan Lin, Jeremy Warner, J. D. Zamfirescu-Pereira, Matthew G. Lee, Sauhard Jain, Michael Xuelin Huang, Piyawat Lertvittayakumjorn, Shanqing Cai, Shumin Zhai, Björn Hartmann*
+- **Large Language Models are Efficient Learners of Noise-Robust Speech
+  Recognition**, `arXiv, 2401.10446`, [arxiv](http://arxiv.org/abs/2401.10446v1), [pdf](http://arxiv.org/pdf/2401.10446v1.pdf), cication: [**-1**](None)
+
+	 *Yuchen Hu, Chen Chen, Chao-Han Huck Yang, Ruizhe Li, Chao Zhang, Pin-Yu Chen, EnSiong Chng*
 - **DiarizationLM: Speaker Diarization Post-Processing with Large Language
   Models**, `arXiv, 2401.03506`, [arxiv](http://arxiv.org/abs/2401.03506v1), [pdf](http://arxiv.org/pdf/2401.03506v1.pdf), cication: [**-1**](None)
 
@@ -515,6 +529,10 @@
 - [快速筛选海量数据，即时做出明智决策，MIT、普林斯顿&卡内基梅隆大学团队利用LLM进行聚变研究 | 机器之心](https://www.jiqizhixin.com/articles/2024-01-04-6)
 - [2023年科研领域「 科学ChatGPT」有哪些？LLM for Science有哪些探索...... | 机器之心](https://www.jiqizhixin.com/articles/2023-12-26-10)
 ## Finance
+- **Can Large Language Models Beat Wall Street? Unveiling the Potential of
+  AI in Stock Selection**, `arXiv, 2401.03737`, [arxiv](http://arxiv.org/abs/2401.03737v1), [pdf](http://arxiv.org/pdf/2401.03737v1.pdf), cication: [**-1**](None)
+
+	 *Georgios Fatouros, Konstantinos Metaxas, John Soldatos, Dimosthenis Kyriazis* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzIyMzk1MDE3Nw==&mid=2247624558&idx=2&sn=d0052f481ff71916b1e84f57691c1109)) · ([marketsense-ai](https://www.marketsense-ai.com/))
 - **Technical Report: Large Language Models can Strategically Deceive their
   Users when Put Under Pressure**, `arXiv, 2311.07590`, [arxiv](http://arxiv.org/abs/2311.07590v1), [pdf](http://arxiv.org/pdf/2311.07590v1.pdf), cication: [**-1**](None)
 
@@ -693,6 +711,7 @@
 	 *Itzik Malkiel, Uri Alon, Yakir Yehuda, Shahar Keren, Oren Barkan, Royi Ronen, Noam Koenigstein*
 
 ## Game
+- [Creating an engaging AI-Powered Game using Unity and Hugging Face 🤗](https://thomassimonini.substack.com/p/creating-an-engaging-ai-powered-game?r=dq5fg&utm_campaign=post&utm_medium=web)
 - **Large Language Models Play StarCraft II: Benchmarks and A Chain of
   Summarization Approach**, `arXiv, 2312.11865`, [arxiv](http://arxiv.org/abs/2312.11865v1), [pdf](http://arxiv.org/pdf/2312.11865v1.pdf), cication: [**-1**](None)
 
