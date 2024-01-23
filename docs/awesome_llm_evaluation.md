@@ -28,6 +28,10 @@
 	 *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang*
 
 ## Papers
+- **CMMMU: A Chinese Massive Multi-discipline Multimodal Understanding
+  Benchmark**, `arXiv, 2401.11944`, [arxiv](http://arxiv.org/abs/2401.11944v1), [pdf](http://arxiv.org/pdf/2401.11944v1.pdf), cication: [**-1**](None)
+
+	 *Ge Zhang, Xinrun Du, Bei Chen, Yiming Liang, Tongxu Luo, Tianyu Zheng, Kang Zhu, Yuyang Cheng, Chunpu Xu, Shuyue Guo*
 - **AttackEval: How to Evaluate the Effectiveness of Jailbreak Attacking on
   Large Language Models**, `arXiv, 2401.09002`, [arxiv](http://arxiv.org/abs/2401.09002v1), [pdf](http://arxiv.org/pdf/2401.09002v1.pdf), cication: [**-1**](None)
 

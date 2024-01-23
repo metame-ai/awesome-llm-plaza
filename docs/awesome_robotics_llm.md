@@ -7,6 +7,10 @@
 	- [Reference](#reference)
 
 ## Papers
+- **OK-Robot: What Really Matters in Integrating Open-Knowledge Models for
+  Robotics**, `arXiv, 2401.12202`, [arxiv](http://arxiv.org/abs/2401.12202v1), [pdf](http://arxiv.org/pdf/2401.12202v1.pdf), cication: [**-1**](None)
+
+	 *Peiqi Liu, Yaswanth Orru, Chris Paxton, Nur Muhammad Mahi Shafiullah, Lerrel Pinto* · ([ok-robot.github](https://ok-robot.github.io))
 - [AutoRT: Embodied Foundation Models for Large Scale Orchestration of Robotic Agents](https://auto-rt.github.io/)
 
 	 · ([auto-rt.github](https://auto-rt.github.io/static/pdf/AutoRT.pdf))

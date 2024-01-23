@@ -73,9 +73,10 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
-- [**FireLLaVA-13b**](https://huggingface.co/fireworks-ai/FireLLaVA-13b) - fireworks-ai 🤗
+- **SpatialVLM: Endowing Vision-Language Models with Spatial Reasoning
+  Capabilities**, `arXiv, 2401.12168`, [arxiv](http://arxiv.org/abs/2401.12168v1), [pdf](http://arxiv.org/pdf/2401.12168v1.pdf), cication: [**-1**](None)
 
-	 · ([app.fireworks](https://app.fireworks.ai/blog/firellava-the-first-commercially-permissive-oss-llava-model))
+	 *Boyuan Chen, Zhuo Xu, Sean Kirmani, Brian Ichter, Danny Driess, Pete Florence, Dorsa Sadigh, Leonidas Guibas, Fei Xia* · ([spatial-vlm.github](https://spatial-vlm.github.io/))
 - **Improving fine-grained understanding in image-text pre-training**, `arXiv, 2401.09865`, [arxiv](http://arxiv.org/abs/2401.09865v1), [pdf](http://arxiv.org/pdf/2401.09865v1.pdf), cication: [**-1**](None)
 
 	 *Ioana Bica, Anastasija Ilić, Matthias Bauer, Goker Erdogan, Matko Bošnjak, Christos Kaplanis, Alexey A. Gritsenko, Matthias Minderer, Charles Blundell, Razvan Pascanu*
@@ -639,6 +640,11 @@
 	 *Mingsheng Li, Xin Chen, Chi Zhang, Sijin Chen, Hongyuan Zhu, Fukun Yin, Gang Yu, Tao Chen*
 
 ## Projects
+- [**FireLLaVA-13b**](https://huggingface.co/fireworks-ai/FireLLaVA-13b) - fireworks-ai 🤗
+
+	 · ([app.fireworks](https://app.fireworks.ai/blog/firellava-the-first-commercially-permissive-oss-llava-model))
+- [**Yi-VL-6B**](https://huggingface.co/01-ai/Yi-VL-6B) - 01-ai 🤗
+- [Fetching Title#hb2e](https://huggingface.co/01-ai/Yi-VL-34B)
 - [**hermes-llava**](https://github.com/qnguyen3/hermes-llava) - qnguyen3 ![Star](https://img.shields.io/github/stars/qnguyen3/hermes-llava.svg?style=social&label=Star)
 
 	 · ([huggingface](https://huggingface.co/NousResearch/Nous-Hermes-2-Vision-Alpha))

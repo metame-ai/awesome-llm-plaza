@@ -569,9 +569,7 @@
 	 *Tongshuang Wu, Haiyi Zhu, Maya Albayrak, Alexis Axon, Amanda Bertsch, Wenxing Deng, Ziqi Ding, Bill Guo, Sireesh Gururaja, Tzu-Sheng Kuo*
 
 ## Misc
-- **ChatQA: Building GPT-4 Level Conversational QA Models**, `arXiv, 2401.10225`, [arxiv](http://arxiv.org/abs/2401.10225v1), [pdf](http://arxiv.org/pdf/2401.10225v1.pdf), cication: [**-1**](None)
 
-	 *Zihan Liu, Wei Ping, Rajarshi Roy, Peng Xu, Mohammad Shoeybi, Bryan Catanzaro*
 - **Shai: A large language model for asset management**, `arXiv, 2312.14203`, [arxiv](http://arxiv.org/abs/2312.14203v1), [pdf](http://arxiv.org/pdf/2312.14203v1.pdf), cication: [**-1**](None)
 
 	 *Zhongyang Guo, Guanran Jiang, Zhongdan Zhang, Peng Li, Zhefeng Wang, Yinchun Wang*

@@ -586,6 +586,7 @@
 - [Schedule | NeurIPS Large Language Model Efficiency Challenge:1 LLM + 1GPU + 1Day](https://llm-efficiency-challenge.github.io/schedule)
 - [Dynamic LoRA loading for better performance and optimized resource usage](https://huggingface.co/blog/lora-adapters-dynamic-loading)
 ## Courses
+- [Code LoRA from Scratch - a Lightning Studio by sebastian](https://lightning.ai/lightning-ai/studios/code-lora-from-scratch?view=public&section=all)
 ### EfficientML
 - [EfficientML.ai Lecture, Fall 2023, MIT 6.5940 - YouTube](https://www.youtube.com/playlist?list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB)
 

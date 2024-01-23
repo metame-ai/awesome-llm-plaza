@@ -22,6 +22,10 @@
 	- [Extra reference](#extra-reference)
 
 ## Survey
+- **Personal LLM Agents: Insights and Survey about the Capability,
+  Efficiency and Security**, `arXiv, 2401.05459`, [arxiv](http://arxiv.org/abs/2401.05459v1), [pdf](http://arxiv.org/pdf/2401.05459v1.pdf), cication: [**-1**](None)
+
+	 *Yuanchun Li, Hao Wen, Weijun Wang, Xiangyu Li, Yizhen Yuan, Guohong Liu, Jiacheng Liu, Wenxing Xu, Xiang Wang, Yi Sun* · ([Personal_LLM_Agents_Survey](https://github.com/MobileLLM/Personal_LLM_Agents_Survey) - MobileLLM) ![Star](https://img.shields.io/github/stars/MobileLLM/Personal_LLM_Agents_Survey.svg?style=social&label=Star)
 - **Retrieval-Augmented Generation for Large Language Models: A Survey**, `arXiv, 2312.10997`, [arxiv](http://arxiv.org/abs/2312.10997v1), [pdf](http://arxiv.org/pdf/2312.10997v1.pdf), cication: [**-1**](None)
 
 	 *Yunfan Gao, Yun Xiong, Xinyu Gao, Kangxiang Jia, Jinliu Pan, Yuxi Bi, Yi Dai, Jiawei Sun, Haofen Wang* · ([rag-survey](https://github.com/tongji-kgllm/rag-survey) - tongji-kgllm) ![Star](https://img.shields.io/github/stars/tongji-kgllm/rag-survey.svg?style=social&label=Star)
@@ -45,6 +49,9 @@
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-18-4))
 ## Agents
+- **ChatQA: Building GPT-4 Level Conversational QA Models**, `arXiv, 2401.10225`, [arxiv](http://arxiv.org/abs/2401.10225v1), [pdf](http://arxiv.org/pdf/2401.10225v1.pdf), cication: [**-1**](None)
+
+	 *Zihan Liu, Wei Ping, Rajarshi Roy, Peng Xu, Mohammad Shoeybi, Bryan Catanzaro*
 - **Tool-LMM: A Large Multi-Modal Model for Tool Agent Learning**, `arXiv, 2401.10727`, [arxiv](http://arxiv.org/abs/2401.10727v1), [pdf](http://arxiv.org/pdf/2401.10727v1.pdf), cication: [**-1**](None)
 
 	 *Chenyu Wang, Weixin Luo, Qianyu Chen, Haonan Mai, Jindi Guo, Sixun Dong, Xiaohua, Xuan, Zhengxin Li, Lin Ma* · ([Tool-LMM?tab=readme-ov-file](https://github.com/Tool-LMM/Tool-LMM?tab=readme-ov-file) - Tool-LMM) ![Star](https://img.shields.io/github/stars/Tool-LMM/Tool-LMM?tab=readme-ov-file.svg?style=social&label=Star)

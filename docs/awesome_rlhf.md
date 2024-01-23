@@ -12,6 +12,9 @@
 
 
 ## Papers
+- **WARM: On the Benefits of Weight Averaged Reward Models**, `arXiv, 2401.12187`, [arxiv](http://arxiv.org/abs/2401.12187v1), [pdf](http://arxiv.org/pdf/2401.12187v1.pdf), cication: [**-1**](None)
+
+	 *Alexandre Ramé, Nino Vieillard, Léonard Hussenot, Robert Dadashi, Geoffrey Cideron, Olivier Bachem, Johan Ferret*
 - **ReFT: Reasoning with Reinforced Fine-Tuning**, `arXiv, 2401.08967`, [arxiv](http://arxiv.org/abs/2401.08967v1), [pdf](http://arxiv.org/pdf/2401.08967v1.pdf), cication: [**-1**](None)
 
 	 *Trung Quoc Luong, Xinbo Zhang, Zhanming Jie, Peng Sun, Xiaoran Jin, Hang Li*
