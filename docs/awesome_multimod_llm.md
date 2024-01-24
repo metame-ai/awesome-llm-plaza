@@ -627,6 +627,11 @@
 
 	 *Zineng Tang, Ziyi Yang, Chenguang Zhu, Michael Zeng, Mohit Bansal* · ([codi-gen.github](https://codi-gen.github.io/)) · ([i-Code](https://github.com/microsoft/i-Code/tree/main/i-Code-V3) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/i-Code.svg?style=social&label=Star)
 
+## Efficient 
+- **Small Language Model Meets with Reinforced Vision Vocabulary**, `arXiv, 2401.12503`, [arxiv](http://arxiv.org/abs/2401.12503v1), [pdf](http://arxiv.org/pdf/2401.12503v1.pdf), cication: [**-1**](None)
+
+	 *Haoran Wei, Lingyu Kong, Jinyue Chen, Liang Zhao, Zheng Ge, En Yu, Jianjian Sun, Chunrui Han, Xiangyu Zhang*
+
 ## Extra Modalities 
 - **Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision,
   Language, Audio, and Action**, `arXiv, 2312.17172`, [arxiv](http://arxiv.org/abs/2312.17172v1), [pdf](http://arxiv.org/pdf/2312.17172v1.pdf), cication: [**-1**](None)
@@ -640,6 +645,10 @@
 	 *Mingsheng Li, Xin Chen, Chi Zhang, Sijin Chen, Hongyuan Zhu, Fukun Yin, Gang Yu, Tao Chen*
 
 ## Projects
+- [**reading-analog-gauge**](https://huggingface.co/spaces/Synanthropic/reading-analog-gauge) - Synanthropic 🤗
+- [**moondream**](https://github.com/vikhyat/moondream) - vikhyat ![Star](https://img.shields.io/github/stars/vikhyat/moondream.svg?style=social&label=Star)
+
+	 *tiny vision language model* · ([huggingface](https://huggingface.co/vikhyatk/moondream1))
 - [**FireLLaVA-13b**](https://huggingface.co/fireworks-ai/FireLLaVA-13b) - fireworks-ai 🤗
 
 	 · ([app.fireworks](https://app.fireworks.ai/blog/firellava-the-first-commercially-permissive-oss-llava-model))

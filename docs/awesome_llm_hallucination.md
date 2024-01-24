@@ -26,6 +26,9 @@
 	 *Cunxiang Wang, Xiaoze Liu, Yuanhao Yue, Xiangru Tang, Tianhang Zhang, Cheng Jiayang, Yunzhi Yao, Wenyang Gao, Xuming Hu, Zehan Qi* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-19-2))
 
 ## Papers
+- **Fine-grained Hallucination Detection and Editing for Language Models**, `arXiv, 2401.06855`, [arxiv](http://arxiv.org/abs/2401.06855v2), [pdf](http://arxiv.org/pdf/2401.06855v2.pdf), cication: [**-1**](None)
+
+	 *Abhika Mishra, Akari Asai, Vidhisha Balachandran, Yizhong Wang, Graham Neubig, Yulia Tsvetkov, Hannaneh Hajishirzi* · ([huggingface](https://huggingface.co/spaces/fava-uw/fava))
 - **Steering Llama 2 via Contrastive Activation Addition**, `arXiv, 2312.06681`, [arxiv](http://arxiv.org/abs/2312.06681v1), [pdf](http://arxiv.org/pdf/2312.06681v1.pdf), cication: [**-1**](None)
 
 	 *Nina Rimsky, Nick Gabrieli, Julian Schulz, Meg Tong, Evan Hubinger, Alexander Matt Turner*
@@ -52,6 +55,9 @@
 - **The Perils & Promises of Fact-checking with Large Language Models**, `arXiv, 2310.13549`, [arxiv](http://arxiv.org/abs/2310.13549v1), [pdf](http://arxiv.org/pdf/2310.13549v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=2141835654434627141&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Dorian Quelle, Alexandre Bovet*
+- **Adaptation with Self-Evaluation to Improve Selective Prediction in LLMs**, `arXiv, 2310.11689`, [arxiv](http://arxiv.org/abs/2310.11689v2), [pdf](http://arxiv.org/pdf/2310.11689v2.pdf), cication: [**2**](https://scholar.google.com/scholar?cites=12344385740050837344&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Jiefeng Chen, Jinsung Yoon, Sayna Ebrahimi, Sercan O Arik, Tomas Pfister, Somesh Jha* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652436159&idx=5&sn=efff909bd5be29b179379c4ac1d7ab0e))
 - **Personas as a Way to Model Truthfulness in Language Models**, `arXiv, 2310.18168`, [arxiv](http://arxiv.org/abs/2310.18168v2), [pdf](http://arxiv.org/pdf/2310.18168v2.pdf), cication: [**-1**](None)
 
 	 *Nitish Joshi, Javier Rando, Abulhair Saparov, Najoung Kim, He He*
@@ -98,6 +104,7 @@
 	 *Leaderboard Comparing LLM Performance at Producing Hallucinations when Summarizing Short Documents* · ([t](https://twitter.com/DrJimFan/status/1724464105371939301))
  
 ## Other
+
 - [I fact-checked ChatGPT with Bard, Claude, and Copilot - and this AI was the most confidently incorrect](https://www.zdnet.com/article/i-fact-checked-chatgpt-with-bard-claude-and-copilot-and-this-ai-was-the-most-confidently-incorrect/?utm_source=ai-drop.beehiiv.com&utm_medium=referral&utm_campaign=bytedance-s-secret-use-of-openai-s-tech)
 - [Automatic Hallucination detection with SelfCheckGPT NLI](https://huggingface.co/blog/dhuynh95/automatic-hallucination-detection)
 - [大模型幻觉问题调研](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494247&idx=2&sn=a1614fa0f58c153330bb7f3c11652ad3)

@@ -465,6 +465,9 @@
 - [GPT-4V学会用键鼠上网，人类眼睁睁看着它发帖玩游戏 | 量子位](https://www.qbitai.com/2023/11/95456.html)
 
 ## Retrieval agumented generation
+- [**RAGxplorer**](https://github.com/gabrielchua/RAGxplorer) - gabrielchua ![Star](https://img.shields.io/github/stars/gabrielchua/RAGxplorer.svg?style=social&label=Star)
+
+	 *Visualise and explore your RAG documents*
 - **RAG vs Fine-tuning: Pipelines, Tradeoffs, and a Case Study on
   Agriculture**, `arXiv, 2401.08406`, [arxiv](http://arxiv.org/abs/2401.08406v1), [pdf](http://arxiv.org/pdf/2401.08406v1.pdf), cication: [**-1**](None)
 

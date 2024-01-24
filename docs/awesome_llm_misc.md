@@ -429,6 +429,9 @@
 
 
 ## Course & Tutorial
+- [**ML-YouTube-Courses**](https://github.com/dair-ai/ML-YouTube-Courses) - dair-ai ![Star](https://img.shields.io/github/stars/dair-ai/ML-YouTube-Courses.svg?style=social&label=Star)
+
+	 *📺 Discover the latest machine learning / AI courses on YouTube.*
 - [**llm-course**](https://github.com/mlabonne/llm-course) - mlabonne ![Star](https://img.shields.io/github/stars/mlabonne/llm-course.svg?style=social&label=Star)
 
 	 *Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.*
@@ -437,6 +440,7 @@
 	 · ([drive.google](https://drive.google.com/file/d/1pxx_ZI7O-Nwl7ZLNk5hI3WzAsTLwvNU7/view?pli=1)) · ([drive.google](https://drive.google.com/file/d/1FPUpFMiCkMRKPFjhi9MAhby68MHVqe8u/view?pli=1))
 
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzIyMzk1MDE3Nw==&mid=2247620373&idx=1&sn=f319bf1583d025e4f191b2f4a3d156ac))
+	 
 - [ML 2023 Spring](https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php)
 - [80分鐘快速了解大型語言模型 (5:30 有咒術迴戰雷) - YouTube](https://www.youtube.com/watch?v=wG8-IUtqu-s&t=5s&ab_channel=Hung-yiLee)
 - [Stanford CS224N: Natural Language Processing with Deep Learning | 2023 - YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4)

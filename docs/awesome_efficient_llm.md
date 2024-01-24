@@ -307,6 +307,10 @@
 	 *A simple and effective LLM pruning approach.*
 
 ## Efficient Inference
+- **BiTA: Bi-Directional Tuning for Lossless Acceleration in Large Language
+  Models**, `arXiv, 2401.12522`, [arxiv](http://arxiv.org/abs/2401.12522v1), [pdf](http://arxiv.org/pdf/2401.12522v1.pdf), cication: [**-1**](None)
+
+	 *Feng Lin, Hanling Yi, Hongbin Li, Yifan Yang, Xiaotian Yu, Guangming Lu, Rong Xiao*
 - **Medusa: Simple LLM Inference Acceleration Framework with Multiple
   Decoding Heads**, `arXiv, 2401.10774`, [arxiv](http://arxiv.org/abs/2401.10774v1), [pdf](http://arxiv.org/pdf/2401.10774v1.pdf), cication: [**-1**](None)
 

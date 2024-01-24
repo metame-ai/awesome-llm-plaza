@@ -312,7 +312,11 @@
 	 *Chongming Gao, Wenqiang Lei, Xiangnan He, Maarten de Rijke, Tat-Seng Chua* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495345&idx=2&sn=5e3ac087c792081705dde1c2542c687a))
 
 ## Role play
-- [**ai-adventure?tab=readme-ov-file**](https://github.com/steamship-core/ai-adventure?tab=readme-ov-file) - steamship-core ![Star](https://img.shields.io/github/stars/steamship-core/ai-adventure?tab=readme-ov-file.svg?style=social&label=Star)
+- **Large Language Models are Superpositions of All Characters: Attaining
+  Arbitrary Role-play via Self-Alignment**, `arXiv, 2401.12474`, [arxiv](http://arxiv.org/abs/2401.12474v1), [pdf](http://arxiv.org/pdf/2401.12474v1.pdf), cication: [**-1**](None)
+
+	 *Keming Lu, Bowen Yu, Chang Zhou, Jingren Zhou* · ([Ditto](https://github.com/OFA-Sys/Ditto) - OFA-Sys) ![Star](https://img.shields.io/github/stars/OFA-Sys/Ditto.svg?style=social&label=Star)
+- [**ai-adventure**](https://github.com/steamship-core/ai-adventure?tab=readme-ov-file) - steamship-core ![Star](https://img.shields.io/github/stars/steamship-core/ai-adventure?tab=readme-ov-file.svg?style=social&label=Star)
 - **RoleCraft-GLM: Advancing Personalized Role-Playing in Large Language
   Models**, `arXiv, 2401.09432`, [arxiv](http://arxiv.org/abs/2401.09432v1), [pdf](http://arxiv.org/pdf/2401.09432v1.pdf), cication: [**-1**](None)
 
