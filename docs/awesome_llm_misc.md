@@ -197,6 +197,9 @@
 	 *Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers*
 
 ## New model
+- **MambaByte: Token-free Selective State Space Model**, `arXiv, 2401.13660`, [arxiv](http://arxiv.org/abs/2401.13660v1), [pdf](http://arxiv.org/pdf/2401.13660v1.pdf), cication: [**-1**](None)
+
+	 *Junxiong Wang, Tushaar Gangavarapu, Jing Nathan Yan, Alexander M Rush*
 - **MoE-Mamba: Efficient Selective State Space Models with Mixture of
   Experts**, `arXiv, 2401.04081`, [arxiv](http://arxiv.org/abs/2401.04081v1), [pdf](http://arxiv.org/pdf/2401.04081v1.pdf), cication: [**-1**](None)
 

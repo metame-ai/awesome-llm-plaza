@@ -16,6 +16,9 @@
 - [**Adversarial Attacks on LLMs | Lil'Log**](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/)
 
 ## Papers
+- **Red Teaming Visual Language Models**, `arXiv, 2401.12915`, [arxiv](http://arxiv.org/abs/2401.12915v1), [pdf](http://arxiv.org/pdf/2401.12915v1.pdf), cication: [**-1**](None)
+
+	 *Mukai Li, Lei Li, Yuwei Yin, Masood Ahmed, Zhenguang Liu, Qi Liu*
 - **AttackEval: How to Evaluate the Effectiveness of Jailbreak Attacking on
   Large Language Models**, `arXiv, 2401.09002`, [arxiv](http://arxiv.org/abs/2401.09002v1), [pdf](http://arxiv.org/pdf/2401.09002v1.pdf), cication: [**-1**](None)
 

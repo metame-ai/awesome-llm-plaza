@@ -309,6 +309,8 @@
 	 *Tanmay Gupta, Aniruddha Kembhavi*
 
 ### Other
+- [Open-source LLMs as LangChain Agents](https://huggingface.co/blog/open-source-llms-as-agents)
+
 - [从第一性原理看大模型Agent技术](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495233&idx=1&sn=a6f99f5ed298dc4dad8477979d0c19a8&poc_token=HARdjWWjobSAo4kfK_sgvyLGAic2WQe64y8tToVY)
 - [AI最大赛道Agent机遇全解析](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495167&idx=1&sn=f9151855988a1cc29f01cf8658c23c3f)
 - [Chat 向左，Agent 向右 - 知乎](https://zhuanlan.zhihu.com/p/662704254)
@@ -465,6 +467,9 @@
 - [GPT-4V学会用键鼠上网，人类眼睁睁看着它发帖玩游戏 | 量子位](https://www.qbitai.com/2023/11/95456.html)
 
 ## Retrieval agumented generation
+- [**pdftochat**](https://github.com/Nutlope/pdftochat) - Nutlope ![Star](https://img.shields.io/github/stars/Nutlope/pdftochat.svg?style=social&label=Star)
+
+	 *Chat with your PDFs with AI* · ([pdftochat](https://www.pdftochat.com/))
 - [**RAGxplorer**](https://github.com/gabrielchua/RAGxplorer) - gabrielchua ![Star](https://img.shields.io/github/stars/gabrielchua/RAGxplorer.svg?style=social&label=Star)
 
 	 *Visualise and explore your RAG documents*

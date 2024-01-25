@@ -405,6 +405,9 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s/Lf70i8M0KNDs9ZB8H32h4w))
 
 # Extra
+- **MaLA-500: Massive Language Adaptation of Large Language Models**, `arXiv, 2401.13303`, [arxiv](http://arxiv.org/abs/2401.13303v1), [pdf](http://arxiv.org/pdf/2401.13303v1.pdf), cication: [**-1**](None)
+
+	 *Peiqin Lin, Shaoxiong Ji, Jörg Tiedemann, André F. T. Martins, Hinrich Schütze* · ([huggingface](https://huggingface.co/MaLA-LM))
 - **Multilingual Instruction Tuning With Just a Pinch of Multilinguality**, `arXiv, 2401.01854`, [arxiv](http://arxiv.org/abs/2401.01854v1), [pdf](http://arxiv.org/pdf/2401.01854v1.pdf), cication: [**-1**](None)
 
 	 *Uri Shaham, Jonathan Herzig, Roee Aharoni, Idan Szpektor, Reut Tsarfaty, Matan Eyal*

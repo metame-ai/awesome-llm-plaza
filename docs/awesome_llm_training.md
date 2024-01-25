@@ -22,6 +22,10 @@
 
 
 ## Pretrain
+- **SpacTor-T5: Pre-training T5 Models with Span Corruption and Replaced
+  Token Detection**, `arXiv, 2401.13160`, [arxiv](http://arxiv.org/abs/2401.13160v1), [pdf](http://arxiv.org/pdf/2401.13160v1.pdf), cication: [**-1**](None)
+
+	 *Ke Ye, Heinrich Jiang, Afshin Rostamizadeh, Ayan Chakrabarti, Giulia DeSalvo, Jean-François Kagy, Lazaros Karydas, Gui Citovsky, Sanjiv Kumar*
 - **MindLLM: Pre-training Lightweight Large Language Model from Scratch,
   Evaluations and Domain Applications**, `arXiv, 2310.15777`, [arxiv](http://arxiv.org/abs/2310.15777v2), [pdf](http://arxiv.org/pdf/2310.15777v2.pdf), cication: [**-1**](None)
 
@@ -336,6 +340,9 @@
 
 	 *Dongfu Jiang, Xiang Ren, Bill Yuchen Lin* · ([LLM-Blender](https://github.com/yuchenlin/LLM-Blender) - yuchenlin) ![Star](https://img.shields.io/github/stars/yuchenlin/LLM-Blender.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652343982&idx=4&sn=ce5c51039d91531178257024d883db90))
 
+### Other
+- [Weight averaging and model merging for LLMs seem to be the most interesting themes in 2024 so far. ](https://twitter.com/rasbt/status/1750180383398744106)
+
 ## MoE
 - **MoE-Mamba: Efficient Selective State Space Models with Mixture of
   Experts**, `arXiv, 2401.04081`, [arxiv](http://arxiv.org/abs/2401.04081v1), [pdf](http://arxiv.org/pdf/2401.04081v1.pdf), cication: [**-1**](None)
@@ -408,6 +415,9 @@
 - [模块化大模型来了！IBM公开WastonX核心架构技术细节](https://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&mid=2247522084&idx=3&sn=ceba2b0c3e6434599101f7604ff109c4)
 
 ## Toolkits
+- [**levanter**](https://github.com/stanford-crfm/levanter) - stanford-crfm ![Star](https://img.shields.io/github/stars/stanford-crfm/levanter.svg?style=social&label=Star)
+
+	 *Legibile, Scalable, Reproducible Foundation Models with Named Tensors and Jax*
 - [**axolotl**](https://github.com/OpenAccess-AI-Collective/axolotl) - OpenAccess-AI-Collective ![Star](https://img.shields.io/github/stars/OpenAccess-AI-Collective/axolotl.svg?style=social&label=Star)
 
 	 *Go ahead and axolotl questions*

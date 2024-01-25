@@ -10,6 +10,9 @@
 	- [Reference](#reference)
 
 ## Survey
+- **MM-LLMs: Recent Advances in MultiModal Large Language Models**, `arXiv, 2401.13601`, [arxiv](http://arxiv.org/abs/2401.13601v1), [pdf](http://arxiv.org/pdf/2401.13601v1.pdf), cication: [**-1**](None)
+
+	 *Duzhen Zhang, Yahan Yu, Chenxing Li, Jiahua Dong, Dan Su, Chenhui Chu, Dong Yu*
 - **A Survey of Resource-efficient LLM and Multimodal Foundation Models**, `arXiv, 2401.08092`, [arxiv](http://arxiv.org/abs/2401.08092v1), [pdf](http://arxiv.org/pdf/2401.08092v1.pdf), cication: [**-1**](None)
 
 	 *Mengwei Xu, Wangsong Yin, Dongqi Cai, Rongjie Yi, Daliang Xu, Qipeng Wang, Bingyang Wu, Yihao Zhao, Chen Yang, Shihe Wang*
@@ -73,6 +76,10 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
+- **ConTextual: Evaluating Context-Sensitive Text-Rich Visual Reasoning in
+  Large Multimodal Models**, `arXiv, 2401.13311`, [arxiv](http://arxiv.org/abs/2401.13311v1), [pdf](http://arxiv.org/pdf/2401.13311v1.pdf), cication: [**-1**](None)
+
+	 *Rohan Wadhawan, Hritik Bansal, Kai-Wei Chang, Nanyun Peng* · ([con-textual.github](https://con-textual.github.io/))
 - **SpatialVLM: Endowing Vision-Language Models with Spatial Reasoning
   Capabilities**, `arXiv, 2401.12168`, [arxiv](http://arxiv.org/abs/2401.12168v1), [pdf](http://arxiv.org/pdf/2401.12168v1.pdf), cication: [**-1**](None)
 
@@ -724,7 +731,7 @@
 	 *Hugo Laurençon, Lucile Saulnier, Léo Tronchon, Stas Bekman, Amanpreet Singh, Anton Lozhkov, Thomas Wang, Siddharth Karamcheti, Alexander M. Rush, Douwe Kiela*
 
 ## Other
-
+- [Adept Fuyu-Heavy: A new multimodal model](https://www.adept.ai/blog/adept-fuyu-heavy)
 - [GPT-4 Vision Alternatives](https://blog.roboflow.com/gpt-4-vision-alternatives/)
 - **Multimodal Neurons in Pretrained Text-Only Transformers**, `ICCV, 2023`, [arxiv](http://arxiv.org/abs/2308.01544v2), [pdf](http://arxiv.org/pdf/2308.01544v2.pdf), cication: [**-1**](None)
 

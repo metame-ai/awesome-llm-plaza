@@ -40,6 +40,9 @@
 - **Silkie: Preference Distillation for Large Visual Language Models**, `arXiv, 2312.10665`, [arxiv](http://arxiv.org/abs/2312.10665v1), [pdf](http://arxiv.org/pdf/2312.10665v1.pdf), cication: [**-1**](None)
 
 	 *Lei Li, Zhihui Xie, Mukai Li, Shunian Chen, Peiyi Wang, Liang Chen, Yazheng Yang, Benyou Wang, Lingpeng Kong*
+- **Align on the Fly: Adapting Chatbot Behavior to Established Norms**, `arXiv, 2312.15907`, [arxiv](http://arxiv.org/abs/2312.15907v1), [pdf](http://arxiv.org/pdf/2312.15907v1.pdf), cication: [**-1**](None)
+
+	 *Chunpu Xu, Steffi Chern, Ethan Chern, Ge Zhang, Zekun Wang, Ruibo Liu, Jing Li, Jie Fu, Pengfei Liu* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-01-24)) · ([OPO](https://github.com/GAIR-NLP/OPO) - GAIR-NLP) ![Star](https://img.shields.io/github/stars/GAIR-NLP/OPO.svg?style=social&label=Star) · ([gair-nlp.github](https://gair-nlp.github.io/OPO/))
 - **Helping or Herding? Reward Model Ensembles Mitigate but do not Eliminate
   Reward Hacking**, `arXiv, 2312.09244`, [arxiv](http://arxiv.org/abs/2312.09244v1), [pdf](http://arxiv.org/pdf/2312.09244v1.pdf), cication: [**-1**](None)
 
