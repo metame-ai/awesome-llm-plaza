@@ -76,6 +76,13 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
+- **ShareGPT4V: Improving Large Multi-Modal Models with Better Captions**, `arXiv, 2311.12793`, [arxiv](http://arxiv.org/abs/2311.12793v2), [pdf](http://arxiv.org/pdf/2311.12793v2.pdf), cication: [**6**](https://scholar.google.com/scholar?cites=7333634103049317300&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Lin Chen, Jinsong Li, Xiaoyi Dong, Pan Zhang, Conghui He, Jiaqi Wang, Feng Zhao, Dahua Lin* · ([sharegpt4v.github](https://sharegpt4v.github.io/)) · ([InternLM-XComposer](https://github.com/InternLM/InternLM-XComposer/tree/main/projects/ShareGPT4V) - InternLM) ![Star](https://img.shields.io/github/stars/InternLM/InternLM-XComposer.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/spaces/Lin-Chen/ShareGPT4V-7B))
+- **Multimodal Pathway: Improve Transformers with Irrelevant Data from Other
+  Modalities**, `arXiv, 2401.14405`, [arxiv](http://arxiv.org/abs/2401.14405v1), [pdf](http://arxiv.org/pdf/2401.14405v1.pdf), cication: [**-1**](None)
+
+	 *Yiyuan Zhang, Xiaohan Ding, Kaixiong Gong, Yixiao Ge, Ying Shan, Xiangyu Yue* · ([M2PT](https://github.com/AILab-CVC/M2PT) - AILab-CVC) ![Star](https://img.shields.io/github/stars/AILab-CVC/M2PT.svg?style=social&label=Star)
 - **ConTextual: Evaluating Context-Sensitive Text-Rich Visual Reasoning in
   Large Multimodal Models**, `arXiv, 2401.13311`, [arxiv](http://arxiv.org/abs/2401.13311v1), [pdf](http://arxiv.org/pdf/2401.13311v1.pdf), cication: [**-1**](None)
 

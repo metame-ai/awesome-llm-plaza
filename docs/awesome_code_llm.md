@@ -16,6 +16,10 @@
 	 *Ziyin Zhang, Chaoyu Chen, Bingchang Liu, Cong Liao, Zi Gong, Hang Yu, Jianguo Li, Rui Wang*
 
 ## Paper
+- **DeepSeek-Coder: When the Large Language Model Meets Programming -- The
+  Rise of Code Intelligence**, `arXiv, 2401.14196`, [arxiv](http://arxiv.org/abs/2401.14196v1), [pdf](http://arxiv.org/pdf/2401.14196v1.pdf), cication: [**-1**](None)
+
+	 *Daya Guo, Qihao Zhu, Dejian Yang, Zhenda Xie, Kai Dong, Wentao Zhang, Guanting Chen, Xiao Bi, Y. Wu, Y. K. Li*
 - **Code Generation with AlphaCodium: From Prompt Engineering to Flow
   Engineering**, `arXiv, 2401.08500`, [arxiv](http://arxiv.org/abs/2401.08500v1), [pdf](http://arxiv.org/pdf/2401.08500v1.pdf), cication: [**-1**](None)
 

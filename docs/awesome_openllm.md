@@ -313,7 +313,12 @@
 	 *InternLM has open-sourced a 7 billion parameter base model, a chat model tailored for practical scenarios and the training system.* · ([qbitai](https://www.qbitai.com/2023/09/85229.html)) · ([qbitai](https://www.qbitai.com/2023/08/78638.html))
 
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652433445&idx=1&sn=0ee21f65b045cbedc99676144d66a502)) · ([huggingface](https://huggingface.co/internlm))
+- [**internlm2-chat-7b**](https://huggingface.co/internlm/internlm2-chat-7b) - internlm 🤗
 ### DeepSeek 
+- **DeepSeek-Coder: When the Large Language Model Meets Programming -- The
+  Rise of Code Intelligence**, `arXiv, 2401.14196`, [arxiv](http://arxiv.org/abs/2401.14196v1), [pdf](http://arxiv.org/pdf/2401.14196v1.pdf), cication: [**-1**](None)
+
+	 *Daya Guo, Qihao Zhu, Dejian Yang, Zhenda Xie, Kai Dong, Wentao Zhang, Guanting Chen, Xiao Bi, Y. Wu, Y. K. Li*
 - [**DeepSeek-MoE**](https://github.com/deepseek-ai/DeepSeek-MoE) - deepseek-ai ![Star](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-MoE.svg?style=social&label=Star)
 
 	 · ([huggingface](https://huggingface.co/deepseek-ai/deepseek-moe-16b-chat))

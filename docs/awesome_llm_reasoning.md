@@ -23,8 +23,10 @@
 ## Reasoning
 
 - **The Impact of Reasoning Step Length on Large Language Models**, `arXiv, 2401.04925`, [arxiv](http://arxiv.org/abs/2401.04925v1), [pdf](http://arxiv.org/pdf/2401.04925v1.pdf), cication: [**-1**](None)
-
+jj
 	 *Mingyu Jin, Qinkai Yu, Dong shu, Haiyan Zhao, Wenyue Hua, Yanda Meng, Yongfeng Zhang, Mengnan Du*
+
+	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-01-25-7))
 - **Reasons to Reject? Aligning Language Models with Judgments**, `arXiv, 2312.14591`, [arxiv](http://arxiv.org/abs/2312.14591v1), [pdf](http://arxiv.org/pdf/2312.14591v1.pdf), cication: [**-1**](None)
 
 	 *Weiwen Xu, Deng Cai, Zhisong Zhang, Wai Lam, Shuming Shi*

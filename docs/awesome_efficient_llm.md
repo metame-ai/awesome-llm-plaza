@@ -137,6 +137,10 @@
 	 *Xunyu Zhu, Jian Li, Yong Liu, Can Ma, Weiping Wang* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-08-26-5))
 
 ### Papers
+- **FP6-LLM: Efficiently Serving Large Language Models Through FP6-Centric
+  Algorithm-System Co-Design**, `arXiv, 2401.14112`, [arxiv](http://arxiv.org/abs/2401.14112v1), [pdf](http://arxiv.org/pdf/2401.14112v1.pdf), cication: [**-1**](None)
+
+	 *Haojun Xia, Zhen Zheng, Xiaoxia Wu, Shiyang Chen, Zhewei Yao, Stephen Youn, Arash Bakhtiari, Michael Wyatt, Donglin Zhuang, Zhongzhu Zhou*
 - **ZeroQuant(4+2): Redefining LLMs Quantization with a New FP6-Centric
   Strategy for Diverse Generative Tasks**, `arXiv, 2312.08583`, [arxiv](http://arxiv.org/abs/2312.08583v1), [pdf](http://arxiv.org/pdf/2312.08583v1.pdf), cication: [**-1**](None)
 

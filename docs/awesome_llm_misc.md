@@ -431,7 +431,13 @@
 - [ACL 2023最佳论文出炉！CMU西交大等摘桂冠，杰出论文奖华人学者占半壁江](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652350213&idx=3&sn=01843319b9d89fcfda5096af994b2050)山
 
 
+## Impacts
+- [MIT新研究：打工人不用担心被AI淘汰！成本巨贵，视觉工作只有23%可替代](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652436863&idx=3&sn=cd329df965557870646c7dd6fcb460cc)
+
 ## Course & Tutorial
+- [**MachineLearning-QandAI-book**](https://github.com/rasbt/MachineLearning-QandAI-book/tree/main) - rasbt ![Star](https://img.shields.io/github/stars/rasbt/MachineLearning-QandAI-book.svg?style=social&label=Star)
+
+	 *Machine Learning Q and AI book*
 - [**ML-YouTube-Courses**](https://github.com/dair-ai/ML-YouTube-Courses) - dair-ai ![Star](https://img.shields.io/github/stars/dair-ai/ML-YouTube-Courses.svg?style=social&label=Star)
 
 	 *📺 Discover the latest machine learning / AI courses on YouTube.*

@@ -430,6 +430,10 @@
 ### Other
 - [陈丹琦ACL学术报告来了！详解大模型「外挂」数据库7大方向3大挑战，3小时干货满满 | 量子位](https://www.qbitai.com/2023/07/67259.html)
 ## Web browsing
+- **WebVoyager: Building an End-to-End Web Agent with Large Multimodal
+  Models**, `arXiv, 2401.13919`, [arxiv](http://arxiv.org/abs/2401.13919v1), [pdf](http://arxiv.org/pdf/2401.13919v1.pdf), cication: [**-1**](None)
+
+	 *Hongliang He, Wenlin Yao, Kaixin Ma, Wenhao Yu, Yong Dai, Hongming Zhang, Zhenzhong Lan, Dong Yu*
 - **GPT-4V(ision) is a Generalist Web Agent, if Grounded**, `arXiv, 2401.01614`, [arxiv](http://arxiv.org/abs/2401.01614v1), [pdf](http://arxiv.org/pdf/2401.01614v1.pdf), cication: [**-1**](None)
 
 	 *Boyuan Zheng, Boyu Gou, Jihyung Kil, Huan Sun, Yu Su* · ([SeeAct](https://github.com/OSU-NLP-Group/SeeAct) - OSU-NLP-Group) ![Star](https://img.shields.io/github/stars/OSU-NLP-Group/SeeAct.svg?style=social&label=Star) · ([osu-nlp-group.github](https://osu-nlp-group.github.io/SeeAct/))
@@ -467,6 +471,7 @@
 - [GPT-4V学会用键鼠上网，人类眼睁睁看着它发帖玩游戏 | 量子位](https://www.qbitai.com/2023/11/95456.html)
 
 ## Retrieval agumented generation
+- [**simple-rag**](https://github.com/lamini-ai/simple-rag) - lamini-ai ![Star](https://img.shields.io/github/stars/lamini-ai/simple-rag.svg?style=social&label=Star)
 - [**pdftochat**](https://github.com/Nutlope/pdftochat) - Nutlope ![Star](https://img.shields.io/github/stars/Nutlope/pdftochat.svg?style=social&label=Star)
 
 	 *Chat with your PDFs with AI* · ([pdftochat](https://www.pdftochat.com/))

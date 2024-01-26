@@ -16,6 +16,13 @@
 	 *Zige Wang, Wanjun Zhong, Yufei Wang, Qi Zhu, Fei Mi, Baojun Wang, Lifeng Shang, Xin Jiang, Qun Liu*
 
 ## Techs
+- **Genie: Achieving Human Parity in Content-Grounded Datasets Generation**, `arXiv, 2401.14367`, [arxiv](http://arxiv.org/abs/2401.14367v1), [pdf](http://arxiv.org/pdf/2401.14367v1.pdf), cication: [**-1**](None)
+
+	 *Asaf Yehudai, Boaz Carmeli, Yosi Mass, Ofir Arviv, Nathaniel Mills, Assaf Toledo, Eyal Shnarch, Leshem Choshen*
+- **Unitxt: Flexible, Shareable and Reusable Data Preparation and Evaluation
+  for Generative AI**, `arXiv, 2401.14019`, [arxiv](http://arxiv.org/abs/2401.14019v1), [pdf](http://arxiv.org/pdf/2401.14019v1.pdf), cication: [**-1**](None)
+
+	 *Elron Bandel, Yotam Perlitz, Elad Venezian, Roni Friedman-Melamed, Ofir Arviv, Matan Orbach, Shachar Don-Yehyia, Dafna Sheinwald, Ariel Gera, Leshem Choshen* · ([unitxt](https://github.com/IBM/unitxt) - IBM) ![Star](https://img.shields.io/github/stars/IBM/unitxt.svg?style=social&label=Star)
 - **The Unreasonable Effectiveness of Easy Training Data for Hard Tasks**, `arXiv, 2401.06751`, [arxiv](http://arxiv.org/abs/2401.06751v1), [pdf](http://arxiv.org/pdf/2401.06751v1.pdf), cication: [**-1**](None)
 
 	 *Peter Hase, Mohit Bansal, Peter Clark, Sarah Wiegreffe* · ([easy-to-hard-generalization](https://github.com/allenai/easy-to-hard-generalization) - allenai) ![Star](https://img.shields.io/github/stars/allenai/easy-to-hard-generalization.svg?style=social&label=Star)

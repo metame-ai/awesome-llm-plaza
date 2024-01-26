@@ -7,6 +7,9 @@
 	- [Reference](#reference)
 
 ## Papers
+- **Adaptive Mobile Manipulation for Articulated Objects In the Open World**, `arXiv, 2401.14403`, [arxiv](http://arxiv.org/abs/2401.14403v1), [pdf](http://arxiv.org/pdf/2401.14403v1.pdf), cication: [**-1**](None)
+
+	 *Haoyu Xiong, Russell Mendonca, Kenneth Shaw, Deepak Pathak* · ([open-world-mobilemanip.github](https://open-world-mobilemanip.github.io))
 - **OK-Robot: What Really Matters in Integrating Open-Knowledge Models for
   Robotics**, `arXiv, 2401.12202`, [arxiv](http://arxiv.org/abs/2401.12202v1), [pdf](http://arxiv.org/pdf/2401.12202v1.pdf), cication: [**-1**](None)
 
