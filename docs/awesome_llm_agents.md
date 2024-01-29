@@ -430,6 +430,9 @@
 ### Other
 - [陈丹琦ACL学术报告来了！详解大模型「外挂」数据库7大方向3大挑战，3小时干货满满 | 量子位](https://www.qbitai.com/2023/07/67259.html)
 ## Web browsing
+- [**search_with_lepton**](https://github.com/leptonai/search_with_lepton) - leptonai ![Star](https://img.shields.io/github/stars/leptonai/search_with_lepton.svg?style=social&label=Star)
+
+	 *Building a quick conversation-based search demo with Lepton AI.*
 - **WebVoyager: Building an End-to-End Web Agent with Large Multimodal
   Models**, `arXiv, 2401.13919`, [arxiv](http://arxiv.org/abs/2401.13919v1), [pdf](http://arxiv.org/pdf/2401.13919v1.pdf), cication: [**-1**](None)
 

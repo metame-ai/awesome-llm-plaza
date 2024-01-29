@@ -420,6 +420,9 @@ jj
 	 *Tianlu Wang, Ping Yu, Xiaoqing Ellen Tan, Sean O'Brien, Ramakanth Pasunuru, Jane Dwivedi-Yu, Olga Golovneva, Luke Zettlemoyer, Maryam Fazel-Zarandi, Asli Celikyilmaz* · ([shepherd](https://github.com/facebookresearch/shepherd) - facebookresearch) ![Star](https://img.shields.io/github/stars/facebookresearch/shepherd.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652366759&idx=3&sn=f183f4c8080a338c4c9fad0f026b14af))
 
 ## Prompting
+- [**LangGPT**](https://github.com/EmbraceAGI/LangGPT) - EmbraceAGI ![Star](https://img.shields.io/github/stars/EmbraceAGI/LangGPT.svg?style=social&label=Star)
+
+	 *LangGPT: Empowering everyone to become a prompt expert!🚀 Structured Prompt，Language of GPT, 结构化提示词，结构化Prompt*
 - **Meta-Prompting: Enhancing Language Models with Task-Agnostic Scaffolding**, `arXiv, 2401.12954`, [arxiv](http://arxiv.org/abs/2401.12954v1), [pdf](http://arxiv.org/pdf/2401.12954v1.pdf), cication: [**-1**](None)
 
 	 *Mirac Suzgun, Adam Tauman Kalai*

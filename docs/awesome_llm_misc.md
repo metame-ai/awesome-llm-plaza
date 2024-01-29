@@ -435,6 +435,9 @@
 - [MIT新研究：打工人不用担心被AI淘汰！成本巨贵，视觉工作只有23%可替代](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652436863&idx=3&sn=cd329df965557870646c7dd6fcb460cc)
 
 ## Course & Tutorial
+- [**LLMs-from-scratch**](https://github.com/rasbt/LLMs-from-scratch) - rasbt ![Star](https://img.shields.io/github/stars/rasbt/LLMs-from-scratch.svg?style=social&label=Star)
+
+	 *Implementing a ChatGPT-like LLM from scratch, step by step*
 - [**MachineLearning-QandAI-book**](https://github.com/rasbt/MachineLearning-QandAI-book/tree/main) - rasbt ![Star](https://img.shields.io/github/stars/rasbt/MachineLearning-QandAI-book.svg?style=social&label=Star)
 
 	 *Machine Learning Q and AI book*
