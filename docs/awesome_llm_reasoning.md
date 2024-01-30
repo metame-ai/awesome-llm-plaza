@@ -21,7 +21,10 @@
 	 *Jiankai Sun, Chuanyang Zheng, Enze Xie, Zhengying Liu, Ruihang Chu, Jianing Qiu, Jiaqi Xu, Mingyu Ding, Hongyang Li, Mengzhe Geng* · ([Awesome-Reasoning-Foundation-Models](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models) - reasoning-survey) ![Star](https://img.shields.io/github/stars/reasoning-survey/Awesome-Reasoning-Foundation-Models.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652421688&idx=3&sn=fcdc24edc7bc89ebcbcca0f7665e40f6))
 
 ## Reasoning
+- **CogGPT: Unleashing the Power of Cognitive Dynamics on Large Language
+  Models**, `arXiv, 2401.08438`, [arxiv](http://arxiv.org/abs/2401.08438v1), [pdf](http://arxiv.org/pdf/2401.08438v1.pdf), cication: [**-1**](None)
 
+	 *Yaojia Lv, Haojie Pan, Ruiji Fu, Ming Liu, Zhongyuan Wang, Bing Qin* · ([CogGPT](https://github.com/KwaiKEG/CogGPT) - KwaiKEG) ![Star](https://img.shields.io/github/stars/KwaiKEG/CogGPT.svg?style=social&label=Star)
 - **The Impact of Reasoning Step Length on Large Language Models**, `arXiv, 2401.04925`, [arxiv](http://arxiv.org/abs/2401.04925v1), [pdf](http://arxiv.org/pdf/2401.04925v1.pdf), cication: [**-1**](None)
 jj
 	 *Mingyu Jin, Qinkai Yu, Dong shu, Haiyan Zhao, Wenyue Hua, Yanda Meng, Yongfeng Zhang, Mengnan Du*
@@ -426,6 +429,8 @@ jj
 - **Meta-Prompting: Enhancing Language Models with Task-Agnostic Scaffolding**, `arXiv, 2401.12954`, [arxiv](http://arxiv.org/abs/2401.12954v1), [pdf](http://arxiv.org/pdf/2401.12954v1.pdf), cication: [**-1**](None)
 
 	 *Mirac Suzgun, Adam Tauman Kalai*
+
+	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652438343&idx=1&sn=ba3fb0089b1e8c14f2744d5559da8223))
 - **Principled Instructions Are All You Need for Questioning LLaMA-1/2,
   GPT-3.5/4**, `arXiv, 2312.16171`, [arxiv](http://arxiv.org/abs/2312.16171v1), [pdf](http://arxiv.org/pdf/2312.16171v1.pdf), cication: [**-1**](None)
 
@@ -509,6 +514,7 @@ jj
 ### Other
 - [Steering at the Frontier: Extending the Power of Prompting - Microsoft Research](https://www.microsoft.com/en-us/research/blog/steering-at-the-frontier-extending-the-power-of-prompting/)
 
+- [Meta官方的Prompt工程指南：Llama 2这样用更高效 | 机器之心](https://www.jiqizhixin.com/articles/2024-01-29-13)
 - [OpenAI官方的Prompt工程指南：你可以这么玩ChatGPT | 机器之心](https://www.jiqizhixin.com/articles/2023-12-18-17)
 - [我用 ChatGPT 寫了一個 ChatGPT 指令大全網站 - 軟體工程師面試、職涯、新加坡生活分享 - ExplainThis](https://www.explainthis.io/zh-hant/chatgpt/website)
 - [ChatGPT 詠唱案例懶人包 - 超過 40 個現實世界的應用範例 (持續更新) - 雷司紀的小道投資 raysky](https://www.rayskyinvest.com/96682/chatgpt-examples)

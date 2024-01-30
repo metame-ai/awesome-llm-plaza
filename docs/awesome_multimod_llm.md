@@ -76,6 +76,16 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
+- **InternLM-XComposer2: Mastering Free-form Text-Image Composition and
+  Comprehension in Vision-Language Large Model**, `arXiv, 2401.16420`, [arxiv](http://arxiv.org/abs/2401.16420v1), [pdf](http://arxiv.org/pdf/2401.16420v1.pdf), cication: [**-1**](None)
+
+	 *Xiaoyi Dong, Pan Zhang, Yuhang Zang, Yuhang Cao, Bin Wang, Linke Ouyang, Xilin Wei, Songyang Zhang, Haodong Duan, Maosong Cao* · ([InternLM-XComposer](https://github.com/InternLM/InternLM-XComposer?tab=readme-ov-file) - InternLM) ![Star](https://img.shields.io/github/stars/InternLM/InternLM-XComposer.svg?style=social&label=Star)
+- **MoE-LLaVA: Mixture of Experts for Large Vision-Language Models**, `arXiv, 2401.15947`, [arxiv](http://arxiv.org/abs/2401.15947v1), [pdf](http://arxiv.org/pdf/2401.15947v1.pdf), cication: [**-1**](None)
+
+	 *Bin Lin, Zhenyu Tang, Yang Ye, Jiaxi Cui, Bin Zhu, Peng Jin, Junwu Zhang, Munan Ning, Li Yuan* · ([MoE-LLaVA](https://github.com/PKU-YuanGroup/MoE-LLaVA) - PKU-YuanGroup) ![Star](https://img.shields.io/github/stars/PKU-YuanGroup/MoE-LLaVA.svg?style=social&label=Star)
+- **Small Language Model Meets with Reinforced Vision Vocabulary**, `arXiv, 2401.12503`, [arxiv](http://arxiv.org/abs/2401.12503v1), [pdf](http://arxiv.org/pdf/2401.12503v1.pdf), cication: [**-1**](None)
+
+	 *Haoran Wei, Lingyu Kong, Jinyue Chen, Liang Zhao, Zheng Ge, En Yu, Jianjian Sun, Chunrui Han, Xiangyu Zhang* · ([Vary-toy](https://github.com/Ucas-HaoranWei/Vary-toy) - Ucas-HaoranWei) ![Star](https://img.shields.io/github/stars/Ucas-HaoranWei/Vary-toy.svg?style=social&label=Star) · ([qbitai](https://www.qbitai.com/2024/01/117000.html))
 - **ShareGPT4V: Improving Large Multi-Modal Models with Better Captions**, `arXiv, 2311.12793`, [arxiv](http://arxiv.org/abs/2311.12793v2), [pdf](http://arxiv.org/pdf/2311.12793v2.pdf), cication: [**6**](https://scholar.google.com/scholar?cites=7333634103049317300&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Lin Chen, Jinsong Li, Xiaoyi Dong, Pan Zhang, Conghui He, Jiaqi Wang, Feng Zhao, Dahua Lin* · ([sharegpt4v.github](https://sharegpt4v.github.io/)) · ([InternLM-XComposer](https://github.com/InternLM/InternLM-XComposer/tree/main/projects/ShareGPT4V) - InternLM) ![Star](https://img.shields.io/github/stars/InternLM/InternLM-XComposer.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/spaces/Lin-Chen/ShareGPT4V-7B))
@@ -595,6 +605,9 @@
 	 *Shaohan Huang, Li Dong, Wenhui Wang, Yaru Hao, Saksham Singhal, Shuming Ma, Tengchao Lv, Lei Cui, Owais Khan Mohammed, Barun Patra*
 
 ## Audio
+- **SpeechGPT-Gen: Scaling Chain-of-Information Speech Generation**, `arXiv, 2401.13527`, [arxiv](http://arxiv.org/abs/2401.13527v2), [pdf](http://arxiv.org/pdf/2401.13527v2.pdf), cication: [**-1**](None)
+
+	 *Dong Zhang, Xin Zhang, Jun Zhan, Shimin Li, Yaqian Zhou, Xipeng Qiu* · ([speechgpt](https://github.com/0nutation/speechgpt) - 0nutation) ![Star](https://img.shields.io/github/stars/0nutation/speechgpt.svg?style=social&label=Star)
 - **On the Audio Hallucinations in Large Audio-Video Language Models**, `arXiv, 2401.09774`, [arxiv](http://arxiv.org/abs/2401.09774v1), [pdf](http://arxiv.org/pdf/2401.09774v1.pdf), cication: [**-1**](None)
 
 	 *Taichi Nishimura, Shota Nakada, Masayoshi Kondo*
@@ -659,6 +672,9 @@
 	 *Mingsheng Li, Xin Chen, Chi Zhang, Sijin Chen, Hongyuan Zhu, Fukun Yin, Gang Yu, Tao Chen*
 
 ## Projects
+- [**imp**](https://github.com/MILVLG/imp) - MILVLG ![Star](https://img.shields.io/github/stars/MILVLG/imp.svg?style=social&label=Star)
+
+	 *a family of multimodal small language models* · ([huggingface](https://huggingface.co/MILVLG/imp-v1-3b)) · ([xmbot](https://xmbot.net/imp/))
 - [**reading-analog-gauge**](https://huggingface.co/spaces/Synanthropic/reading-analog-gauge) - Synanthropic 🤗
 - [**moondream**](https://github.com/vikhyat/moondream) - vikhyat ![Star](https://img.shields.io/github/stars/vikhyat/moondream.svg?style=social&label=Star)
 
@@ -698,6 +714,7 @@
 - [**BakLLaVA-1**](https://huggingface.co/SkunkworksAI/BakLLaVA-1) - SkunkworksAI 🤗
 
 ## Benchmarks
+- [Leaderboards | LAMM](https://openlamm.github.io/Leaderboards)
 - **LAMM: Language-Assisted Multi-Modal Instruction-Tuning Dataset,
   Framework, and Benchmark**, `arXiv, 2306.06687`, [arxiv](http://arxiv.org/abs/2306.06687v3), [pdf](http://arxiv.org/pdf/2306.06687v3.pdf), cication: [**-1**](None)
 
@@ -736,6 +753,9 @@
   Documents**, `NeurIPS, 2023`, [arxiv](http://arxiv.org/abs/2306.16527v2), [pdf](http://arxiv.org/pdf/2306.16527v2.pdf), cication: [**8**](https://scholar.google.com/scholar?cites=11222715136811886717&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Hugo Laurençon, Lucile Saulnier, Léo Tronchon, Stas Bekman, Amanpreet Singh, Anton Lozhkov, Thomas Wang, Siddharth Karamcheti, Alexander M. Rush, Douwe Kiela*
+- **DataComp: In search of the next generation of multimodal datasets**, `arXiv, 2304.14108`, [arxiv](http://arxiv.org/abs/2304.14108v5), [pdf](http://arxiv.org/pdf/2304.14108v5.pdf), cication: [**71**](https://scholar.google.com/scholar?cites=17915054761876319494&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Samir Yitzhak Gadre, Gabriel Ilharco, Alex Fang, Jonathan Hayase, Georgios Smyrnis, Thao Nguyen, Ryan Marten, Mitchell Wortsman, Dhruba Ghosh, Jieyu Zhang* · ([datacomp](http://www.datacomp.ai/))
 
 ## Other
 - [Adept Fuyu-Heavy: A new multimodal model](https://www.adept.ai/blog/adept-fuyu-heavy)

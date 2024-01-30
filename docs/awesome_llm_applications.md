@@ -38,6 +38,12 @@
 - [Navigating the Jagged Technological Frontier: Field Experimental Evidence of the Effects of AI on Knowledge Worker Productivity and Quality](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4573321)
 
 ## Toolkits
+- [**autollm**](https://github.com/safevideo/autollm) - safevideo ![Star](https://img.shields.io/github/stars/safevideo/autollm.svg?style=social&label=Star)
+
+	 *Ship RAG based LLM web apps in seconds.*
+- [**TaskingAI**](https://github.com/TaskingAI/TaskingAI) - TaskingAI ![Star](https://img.shields.io/github/stars/TaskingAI/TaskingAI.svg?style=social&label=Star)
+
+	 *The open source platform for AI-native application development.*
 - [**pandas-ai**](https://github.com/gventuri/pandas-ai) - gventuri ![Star](https://img.shields.io/github/stars/gventuri/pandas-ai.svg?style=social&label=Star)
 
 	 *PandasAI is the Python library that integrates Gen AI into pandas, making data analysis conversational*
@@ -144,6 +150,9 @@
 
 
 ## Medical
+- **DrugAssist: A Large Language Model for Molecule Optimization**, `arXiv, 2401.10334`, [arxiv](http://arxiv.org/abs/2401.10334v1), [pdf](http://arxiv.org/pdf/2401.10334v1.pdf), cication: [**-1**](None)
+
+	 *Geyan Ye, Xibao Cai, Houtim Lai, Xing Wang, Junhong Huang, Longyue Wang, Wei Liu, Xiangxiang Zeng* · ([drugassist](https://github.com/blazerye/drugassist) - blazerye) ![Star](https://img.shields.io/github/stars/blazerye/drugassist.svg?style=social&label=Star)
 - **Towards Conversational Diagnostic AI**, `arXiv, 2401.05654`, [arxiv](http://arxiv.org/abs/2401.05654v1), [pdf](http://arxiv.org/pdf/2401.05654v1.pdf), cication: [**-1**](None)
 
 	 *Tao Tu, Anil Palepu, Mike Schaekermann, Khaled Saab, Jan Freyberg, Ryutaro Tanno, Amy Wang, Brenna Li, Mohamed Amin, Nenad Tomasev*
@@ -455,6 +464,11 @@
 	 *Quan Wang, Yiling Huang, Guanlong Zhao, Evan Clark, Wei Xia, Hank Liao*
 
 ## Vision
+- **Taiyi-Diffusion-XL: Advancing Bilingual Text-to-Image Generation with
+  Large Vision-Language Model Support**, `arXiv, 2401.14688`, [arxiv](http://arxiv.org/abs/2401.14688v1), [pdf](http://arxiv.org/pdf/2401.14688v1.pdf), cication: [**-1**](None)
+
+	 *Xiaojun Wu, Dixiang Zhang, Ruyi Gan, Junyu Lu, Ziwei Wu, Renliang Sun, Jiaxing Zhang, Pingjian Zhang, Yan Song*
+	-  https://huggingface.co/IDEA-CCNL/Taiyi-Stable-Diffusion-XL-3.5B
 - **DiffusionGPT: LLM-Driven Text-to-Image Generation System**, `arXiv, 2401.10061`, [arxiv](http://arxiv.org/abs/2401.10061v1), [pdf](http://arxiv.org/pdf/2401.10061v1.pdf), cication: [**-1**](None)
 
 	 *Jie Qin, Jie Wu, Weifeng Chen, Yuxi Ren, Huixia Li, Hefeng Wu, Xuefeng Xiao, Rui Wang, Shilei Wen*
@@ -498,6 +512,9 @@
 	 *Official repo for LayoutGPT*
 
 ## Science
+- [**ChemLLM-7B-Chat**](https://huggingface.co/AI4Chem/ChemLLM-7B-Chat) - AI4Chem 🤗
+
+	 · ([qbitai](https://www.qbitai.com/2024/01/117161.html))
 - [Solving olympiad geometry without human demonstrations | Nature](https://www.nature.com/articles/s41586-023-06747-5)
 
 	 · ([qbitai](https://www.qbitai.com/2024/01/114844.html))

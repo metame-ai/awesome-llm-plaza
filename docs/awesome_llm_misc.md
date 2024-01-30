@@ -197,6 +197,7 @@
 	 *Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers*
 
 ## New model
+- [🦅 Eagle 7B : Soaring past Transformers with 1 Trillion Tokens Across 100+ Languages (RWKV-v5)](https://blog.rwkv.com/p/eagle-7b-soaring-past-transformers)
 - **MambaByte: Token-free Selective State Space Model**, `arXiv, 2401.13660`, [arxiv](http://arxiv.org/abs/2401.13660v1), [pdf](http://arxiv.org/pdf/2401.13660v1.pdf), cication: [**-1**](None)
 
 	 *Junxiong Wang, Tushaar Gangavarapu, Jing Nathan Yan, Alexander M Rush*
@@ -237,6 +238,10 @@
 	 *John Hewitt, John Thickstun, Christopher D. Manning, Percy Liang* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-06-25-5)) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI1MjQ2OTQ3Ng==&mid=2247608689&idx=2&sn=ed29c1ee1f571f98b191805472feb79a))
 
 ## LLM detection
+- [**LLM-generated-text-detection**](https://github.com/thunlp/LLM-generated-text-detection) - thunlp ![Star](https://img.shields.io/github/stars/thunlp/LLM-generated-text-detection.svg?style=social&label=Star)
+- **Adaptive Text Watermark for Large Language Models**, `arXiv, 2401.13927`, [arxiv](http://arxiv.org/abs/2401.13927v1), [pdf](http://arxiv.org/pdf/2401.13927v1.pdf), cication: [**-1**](None)
+
+	 *Yepeng Liu, Yuheng Bu*
 - **Spotting LLMs With Binoculars: Zero-Shot Detection of Machine-Generated
   Text**, `arXiv, 2401.12070`, [arxiv](http://arxiv.org/abs/2401.12070v1), [pdf](http://arxiv.org/pdf/2401.12070v1.pdf), cication: [**-1**](None)
 
@@ -244,6 +249,9 @@
 - **LLM-as-a-Coauthor: The Challenges of Detecting LLM-Human Mixcase**, `arXiv, 2401.05952`, [arxiv](http://arxiv.org/abs/2401.05952v1), [pdf](http://arxiv.org/pdf/2401.05952v1.pdf), cication: [**-1**](None)
 
 	 *Chujie Gao, Dongping Chen, Qihui Zhang, Yue Huang, Yao Wan, Lichao Sun* · ([MixSet](https://github.com/Dongping-Chen/MixSet) - Dongping-Chen) ![Star](https://img.shields.io/github/stars/Dongping-Chen/MixSet.svg?style=social&label=Star)
+- **A Survey of Text Watermarking in the Era of Large Language Models**, `arXiv, 2312.07913`, [arxiv](http://arxiv.org/abs/2312.07913v4), [pdf](http://arxiv.org/pdf/2312.07913v4.pdf), cication: [**-1**](None)
+
+	 *Aiwei Liu, Leyi Pan, Yijian Lu, Jingjing Li, Xuming Hu, Xi Zhang, Lijie Wen, Irwin King, Hui Xiong, Philip S. Yu* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-01-26))
 - **Ghostbuster: Detecting Text Ghostwritten by Large Language Models**, `arXiv, 2305.15047`, [arxiv](http://arxiv.org/abs/2305.15047v2), [pdf](http://arxiv.org/pdf/2305.15047v2.pdf), cication: [**6**](https://scholar.google.com/scholar?cites=13263500511172823777&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Vivek Verma, Eve Fleisig, Nicholas Tomlin, Dan Klein* · ([bair.berkeley](https://bair.berkeley.edu/blog/2023/11/14/ghostbuster/))
@@ -265,6 +273,7 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652345558&idx=4&sn=95686435d5cad05d44cbe02bc26d6859))
 
 ## Interpretability 
+- [Circuits Updates - January 2024](https://transformer-circuits.pub/2024/jan-update/index.html)
 - **Patchscope: A Unifying Framework for Inspecting Hidden Representations
   of Language Models**, `arXiv, 2401.06102`, [arxiv](http://arxiv.org/abs/2401.06102v1), [pdf](http://arxiv.org/pdf/2401.06102v1.pdf), cication: [**-1**](None)
 
@@ -378,6 +387,7 @@
 	 *Must-read Papers on Model Editing.*
 
 ## AGI insights
+- [Self-driving as a case study for AGI](https://web.archive.org/web/20240122062223/https://karpathy.github.io/2024/01/21/selfdriving-agi/)
 - **Perspectives on the State and Future of Deep Learning -- 2023**, `arXiv, 2312.09323`, [arxiv](http://arxiv.org/abs/2312.09323v1), [pdf](http://arxiv.org/pdf/2312.09323v1.pdf), cication: [**-1**](None)
 
 	 *Micah Goldblum, Anima Anandkumar, Richard Baraniuk, Tom Goldstein, Kyunghyun Cho, Zachary C Lipton, Melanie Mitchell, Preetum Nakkiran, Max Welling, Andrew Gordon Wilson*
@@ -396,6 +406,7 @@
 
 	 *Patrick Butlin, Robert Long, Eric Elmoznino, Yoshua Bengio, Jonathan Birch, Axel Constant, George Deane, Stephen M. Fleming, Chris Frith, Xu Ji* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-08-22-4))
 - [Collective Intelligence for Deep Learning: A Survey of Recent Developments | 大トロ](https://blog.otoro.net/2022/10/01/collectiveintelligence/)
+
 - [好问题比好答案更重要｜沈向洋大模型五问](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494275&idx=1&sn=4860205e6043435fe7ff871c8fb4c9c1)
 
 ## Callibration
@@ -456,6 +467,11 @@
 - [ML 2023 Spring](https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php)
 - [80分鐘快速了解大型語言模型 (5:30 有咒術迴戰雷) - YouTube](https://www.youtube.com/watch?v=wG8-IUtqu-s&t=5s&ab_channel=Hung-yiLee)
 - [Stanford CS224N: Natural Language Processing with Deep Learning | 2023 - YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4)
+
+### CUDA
+- [introduce CUDA in a way that will be accessible to Python folks](https://twitter.com/jeremyphoward/status/1752071227228008471)
+
+	 · ([youtu](https://youtu.be/nOxKexn3iBo))
 
 ## Extra reference
 - [**how-to-optim-algorithm-in-cuda**](https://github.com/BBuf/how-to-optim-algorithm-in-cuda) - BBuf ![Star](https://img.shields.io/github/stars/BBuf/how-to-optim-algorithm-in-cuda.svg?style=social&label=Star)

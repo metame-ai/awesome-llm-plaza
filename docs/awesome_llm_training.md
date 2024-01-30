@@ -408,6 +408,9 @@
 	 *Noam Shazeer, Azalia Mirhoseini, Krzysztof Maziarz, Andy Davis, Quoc Le, Geoffrey Hinton, Jeff Dean*
 
 ### Other
+- [**makeMoE**](https://github.com/AviSoori1x/makeMoE/tree/main) - AviSoori1x ![Star](https://img.shields.io/github/stars/AviSoori1x/makeMoE.svg?style=social&label=Star)
+
+	 *From scratch implementation of a sparse mixture of experts language model inspired by Andrej Karpathy's makemore :)* · ([huggingface](https://huggingface.co/blog/AviSoori1x/makemoe-from-scratch)) · ([qbitai](https://www.qbitai.com/2024/01/117335.html))
 - [Mixture of Experts - a mlabonne Collection](https://huggingface.co/collections/mlabonne/mixture-of-experts-65980c40330942d1282b76f5)
 - [**8x7B-MoE-test-NOT-MIXTRAL**](https://huggingface.co/CausalLM/8x7B-MoE-test-NOT-MIXTRAL) - CausalLM 🤗
 

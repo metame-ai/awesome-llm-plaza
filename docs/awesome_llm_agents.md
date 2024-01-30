@@ -49,6 +49,13 @@
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-18-4))
 ## Agents
+- **SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents**, `arXiv, 2401.10935`, [arxiv](http://arxiv.org/abs/2401.10935v1), [pdf](http://arxiv.org/pdf/2401.10935v1.pdf), cication: [**-1**](None)
+
+	 *Kanzhi Cheng, Qiushi Sun, Yougang Chu, Fangzhi Xu, Yantao Li, Jianbing Zhang, Zhiyong Wu* · ([SeeClick](https://github.com/njucckevin/SeeClick) - njucckevin) ![Star](https://img.shields.io/github/stars/njucckevin/SeeClick.svg?style=social&label=Star)
+- **Investigate-Consolidate-Exploit: A General Strategy for Inter-Task Agent
+  Self-Evolution**, `arXiv, 2401.13996`, [arxiv](http://arxiv.org/abs/2401.13996v1), [pdf](http://arxiv.org/pdf/2401.13996v1.pdf), cication: [**-1**](None)
+
+	 *Cheng Qian, Shihao Liang, Yujia Qin, Yining Ye, Xin Cong, Yankai Lin, Yesai Wu, Zhiyuan Liu, Maosong Sun*
 - **ChatQA: Building GPT-4 Level Conversational QA Models**, `arXiv, 2401.10225`, [arxiv](http://arxiv.org/abs/2401.10225v1), [pdf](http://arxiv.org/pdf/2401.10225v1.pdf), cication: [**-1**](None)
 
 	 *Zihan Liu, Wei Ping, Rajarshi Roy, Peng Xu, Mohammad Shoeybi, Bryan Catanzaro*
@@ -474,6 +481,13 @@
 - [GPT-4V学会用键鼠上网，人类眼睁睁看着它发帖玩游戏 | 量子位](https://www.qbitai.com/2023/11/95456.html)
 
 ## Retrieval agumented generation
+- [**autollm**](https://github.com/safevideo/autollm) - safevideo ![Star](https://img.shields.io/github/stars/safevideo/autollm.svg?style=social&label=Star)
+
+	 *Ship RAG based LLM web apps in seconds.*
+- **The Power of Noise: Redefining Retrieval for RAG Systems**, `arXiv, 2401.14887`, [arxiv](http://arxiv.org/abs/2401.14887v2), [pdf](http://arxiv.org/pdf/2401.14887v2.pdf), cication: [**-1**](None)
+
+	 *Florin Cuconasu, Giovanni Trappolini, Federico Siciliano, Simone Filice, Cesare Campagnano, Yoelle Maarek, Nicola Tonellotto, Fabrizio Silvestri*
+- [**RAGatouille**](https://github.com/bclavie/RAGatouille) - bclavie ![Star](https://img.shields.io/github/stars/bclavie/RAGatouille.svg?style=social&label=Star)
 - [**simple-rag**](https://github.com/lamini-ai/simple-rag) - lamini-ai ![Star](https://img.shields.io/github/stars/lamini-ai/simple-rag.svg?style=social&label=Star)
 - [**pdftochat**](https://github.com/Nutlope/pdftochat) - Nutlope ![Star](https://img.shields.io/github/stars/Nutlope/pdftochat.svg?style=social&label=Star)
 
@@ -629,6 +643,9 @@
 - [各路大神献出自定义GPT，24小时Top 9名单在这 | 机器之心](https://www.jiqizhixin.com/articles/2023-11-13-13)
 
 ## Evaluation
+- **AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents**, `arXiv, 2401.13178`, [arxiv](http://arxiv.org/abs/2401.13178v1), [pdf](http://arxiv.org/pdf/2401.13178v1.pdf), cication: [**-1**](None)
+
+	 *Chang Ma, Junlei Zhang, Zhihao Zhu, Cheng Yang, Yujiu Yang, Yaohui Jin, Zhenzhong Lan, Lingpeng Kong, Junxian He* · ([AgentBoard](https://github.com/hkust-nlp/AgentBoard) - hkust-nlp) ![Star](https://img.shields.io/github/stars/hkust-nlp/AgentBoard.svg?style=social&label=Star)
 - [**codefuse-devops-eval**](https://github.com/codefuse-ai/codefuse-devops-eval) - codefuse-ai ![Star](https://img.shields.io/github/stars/codefuse-ai/codefuse-devops-eval.svg?style=social&label=Star)
 
 	 *Industrial-first evaluation benchmark for LLMs in the DevOps/AIOps domain.*

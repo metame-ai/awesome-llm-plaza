@@ -12,6 +12,9 @@
 
 
 ## Papers
+- **Aligning Large Language Models with Counterfactual DPO**, `arXiv, 2401.09566`, [arxiv](http://arxiv.org/abs/2401.09566v2), [pdf](http://arxiv.org/pdf/2401.09566v2.pdf), cication: [**-1**](None)
+
+	 *Bradley Butcher*
 - **WARM: On the Benefits of Weight Averaged Reward Models**, `arXiv, 2401.12187`, [arxiv](http://arxiv.org/abs/2401.12187v1), [pdf](http://arxiv.org/pdf/2401.12187v1.pdf), cication: [**-1**](None)
 
 	 *Alexandre Ramé, Nino Vieillard, Léonard Hussenot, Robert Dadashi, Geoffrey Cideron, Olivier Bachem, Johan Ferret*

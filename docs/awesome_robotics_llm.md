@@ -7,6 +7,9 @@
 	- [Reference](#reference)
 
 ## Papers
+- **Generative Expressive Robot Behaviors using Large Language Models**, `arXiv, 2401.14673`, [arxiv](http://arxiv.org/abs/2401.14673v1), [pdf](http://arxiv.org/pdf/2401.14673v1.pdf), cication: [**-1**](None)
+
+	 *Karthik Mahadevan, Jonathan Chien, Noah Brown, Zhuo Xu, Carolina Parada, Fei Xia, Andy Zeng, Leila Takayama, Dorsa Sadigh* · ([generative-expressive-motion.github](https://generative-expressive-motion.github.io/))
 - **Adaptive Mobile Manipulation for Articulated Objects In the Open World**, `arXiv, 2401.14403`, [arxiv](http://arxiv.org/abs/2401.14403v1), [pdf](http://arxiv.org/pdf/2401.14403v1.pdf), cication: [**-1**](None)
 
 	 *Haoyu Xiong, Russell Mendonca, Kenneth Shaw, Deepak Pathak* · ([open-world-mobilemanip.github](https://open-world-mobilemanip.github.io))

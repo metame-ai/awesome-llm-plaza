@@ -28,6 +28,17 @@
 	 *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang*
 
 ## Papers
+- **E-EVAL: A Comprehensive Chinese K-12 Education Evaluation Benchmark for
+  Large Language Models**, `arXiv, 2401.15927`, [arxiv](http://arxiv.org/abs/2401.15927v1), [pdf](http://arxiv.org/pdf/2401.15927v1.pdf), cication: [**-1**](None)
+
+	 *Jinchang Hou, Chang Ao, Haihong Wu, Xiangtao Kong, Zhigang Zheng, Daijia Tang, Chengming Li, Xiping Hu, Ruifeng Xu, Shiwen Ni*
+- **From GPT-4 to Gemini and Beyond: Assessing the Landscape of MLLMs on
+  Generalizability, Trustworthiness and Causality through Four Modalities**, `arXiv, 2401.15071`, [arxiv](http://arxiv.org/abs/2401.15071v2), [pdf](http://arxiv.org/pdf/2401.15071v2.pdf), cication: [**-1**](None)
+
+	 *Chaochao Lu, Chen Qian, Guodong Zheng, Hongxing Fan, Hongzhi Gao, Jie Zhang, Jing Shao, Jingyi Deng, Jinlan Fu, Kexin Huang*
+- **Benchmarking LLMs via Uncertainty Quantification**, `arXiv, 2401.12794`, [arxiv](http://arxiv.org/abs/2401.12794v1), [pdf](http://arxiv.org/pdf/2401.12794v1.pdf), cication: [**-1**](None)
+
+	 *Fanghua Ye, Mingming Yang, Jianhui Pang, Longyue Wang, Derek F. Wong, Emine Yilmaz, Shuming Shi, Zhaopeng Tu* · ([llm-uncertainty-bench](https://github.com/smartyfh/llm-uncertainty-bench?tab=readme-ov-file) - smartyfh) ![Star](https://img.shields.io/github/stars/smartyfh/llm-uncertainty-bench.svg?style=social&label=Star)
 - **CMMMU: A Chinese Massive Multi-discipline Multimodal Understanding
   Benchmark**, `arXiv, 2401.11944`, [arxiv](http://arxiv.org/abs/2401.11944v1), [pdf](http://arxiv.org/pdf/2401.11944v1.pdf), cication: [**-1**](None)
 
@@ -177,6 +188,10 @@
 - **ALCUNA: Large Language Models Meet New Knowledge**, `arXiv, 2310.14820`, [arxiv](http://arxiv.org/abs/2310.14820v1), [pdf](http://arxiv.org/pdf/2310.14820v1.pdf), cication: [**-1**](None)
 
 	 *Xunjian Yin, Baizhou Huang, Xiaojun Wan*
+- **Evaluation Metrics in the Era of GPT-4: Reliably Evaluating Large
+  Language Models on Sequence to Sequence Tasks**, `arXiv, 2310.13800`, [arxiv](http://arxiv.org/abs/2310.13800v1), [pdf](http://arxiv.org/pdf/2310.13800v1.pdf), cication: [**2**](https://scholar.google.com/scholar?cites=9747894331578744789&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Andrea Sottana, Bin Liang, Kai Zou, Zheng Yuan*
 - **A Framework for Automated Measurement of Responsible AI Harms in
   Generative AI Applications**, `arXiv, 2310.17750`, [arxiv](http://arxiv.org/abs/2310.17750v1), [pdf](http://arxiv.org/pdf/2310.17750v1.pdf), cication: [**-1**](None)
 

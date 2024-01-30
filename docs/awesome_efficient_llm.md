@@ -17,6 +17,9 @@
 	- [Efficient transformer](#efficient-transformer)
 
 ## Survey
+- **A Comprehensive Survey of Compression Algorithms for Language Models**, `arXiv, 2401.15347`, [arxiv](http://arxiv.org/abs/2401.15347v1), [pdf](http://arxiv.org/pdf/2401.15347v1.pdf), cication: [**-1**](None)
+
+	 *Seungcheol Park, Jaehyeon Choi, Sojin Lee, U Kang*
 - **A Survey of Resource-efficient LLM and Multimodal Foundation Models**, `arXiv, 2401.08092`, [arxiv](http://arxiv.org/abs/2401.08092v1), [pdf](http://arxiv.org/pdf/2401.08092v1.pdf), cication: [**-1**](None)
 
 	 *Mengwei Xu, Wangsong Yin, Dongqi Cai, Rongjie Yi, Daliang Xu, Qipeng Wang, Bingyang Wu, Yihao Zhao, Chen Yang, Shihe Wang*
@@ -295,6 +298,9 @@
 	 *Yuxian Gu, Li Dong, Furu Wei, Minlie Huang*
 
 ## Pruning
+- **SliceGPT: Compress Large Language Models by Deleting Rows and Columns**, `arXiv, 2401.15024`, [arxiv](http://arxiv.org/abs/2401.15024v1), [pdf](http://arxiv.org/pdf/2401.15024v1.pdf), cication: [**-1**](None)
+
+	 *Saleh Ashkboos, Maximilian L. Croci, Marcelo Gennari do Nascimento, Torsten Hoefler, James Hensman*
 - [Fast Llama 2 on CPUs With Sparse Fine-Tuning and DeepSparse - Neural Magic](https://neuralmagic.com/blog/fast-llama-2-on-cpus-with-sparse-fine-tuning-and-deepsparse/)
 - **The LLM Surgeon**, `arXiv, 2312.17244`, [arxiv](http://arxiv.org/abs/2312.17244v1), [pdf](http://arxiv.org/pdf/2312.17244v1.pdf), cication: [**-1**](None)
 
@@ -311,6 +317,9 @@
 	 *A simple and effective LLM pruning approach.*
 
 ## Efficient Inference
+- **EAGLE: Speculative Sampling Requires Rethinking Feature Uncertainty**, `arXiv, 2401.15077`, [arxiv](http://arxiv.org/abs/2401.15077v1), [pdf](http://arxiv.org/pdf/2401.15077v1.pdf), cication: [**-1**](None)
+
+	 *Yuhui Li, Fangyun Wei, Chao Zhang, Hongyang Zhang*
 - **BiTA: Bi-Directional Tuning for Lossless Acceleration in Large Language
   Models**, `arXiv, 2401.12522`, [arxiv](http://arxiv.org/abs/2401.12522v1), [pdf](http://arxiv.org/pdf/2401.12522v1.pdf), cication: [**-1**](None)
 
@@ -319,6 +328,8 @@
   Decoding Heads**, `arXiv, 2401.10774`, [arxiv](http://arxiv.org/abs/2401.10774v1), [pdf](http://arxiv.org/pdf/2401.10774v1.pdf), cication: [**-1**](None)
 
 	 *Tianle Cai, Yuhong Li, Zhengyang Geng, Hongwu Peng, Jason D. Lee, Deming Chen, Tri Dao*
+
+	 · ([medusa](https://github.com/fasterdecoding/medusa) - fasterdecoding) ![Star](https://img.shields.io/github/stars/fasterdecoding/medusa.svg?style=social&label=Star)
 - **DeepSpeed-FastGen: High-throughput Text Generation for LLMs via MII and
   DeepSpeed-Inference**, `arXiv, 2401.08671`, [arxiv](http://arxiv.org/abs/2401.08671v1), [pdf](http://arxiv.org/pdf/2401.08671v1.pdf), cication: [**-1**](None)
 
@@ -475,6 +486,9 @@
 	 *Port of Facebook's LLaMA model in C/C++* · ([ggml](http://ggml.ai/)) · ([llama.cpp](https://github.com/ggerganov/llama.cpp/discussions/205) - ggerganov) ![Star](https://img.shields.io/github/stars/ggerganov/llama.cpp.svg?style=social&label=Star)
 
 ### Other
+- [LLM Inference Provider Leaderboard](https://leaderboard.withmartian.com/)
+
+	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-01-26-2))
 - [Accelerating SD Turbo and SDXL Turbo Inference with ONNX Runtime and Olive](https://huggingface.co/blog/sdxl_ort_inference)
 - [Unbelievable! Run 70B LLM Inference on a Single 4GB GPU with This NEW Technique | by Gavin Li | Nov, 2023 | AI Advances](https://ai.gopubby.com/unbelievable-run-70b-llm-inference-on-a-single-4gb-gpu-with-this-new-technique-93e2057c7eeb)
 

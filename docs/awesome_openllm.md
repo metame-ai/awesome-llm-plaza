@@ -31,6 +31,8 @@
 # English
 
 ## Foundation
+- [**Smaug-34B-v0.1**](https://huggingface.co/abacusai/Smaug-34B-v0.1) - abacusai 🤗
+- [**bagel-34b-v0.2**](https://huggingface.co/jondurbin/bagel-34b-v0.2) - jondurbin 🤗
 - **TinyLlama: An Open-Source Small Language Model**, `arXiv, 2401.02385`, [arxiv](http://arxiv.org/abs/2401.02385v1), [pdf](http://arxiv.org/pdf/2401.02385v1.pdf), cication: [**-1**](None)
 
 	 *Peiyuan Zhang, Guangtao Zeng, Tianduo Wang, Wei Lu* · ([TinyLlama](https://github.com/jzhang38/TinyLlama) - jzhang38) ![Star](https://img.shields.io/github/stars/jzhang38/TinyLlama.svg?style=social&label=Star)
