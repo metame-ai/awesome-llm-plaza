@@ -21,6 +21,10 @@
 - [Attention? Attention! | Lil'Log](https://lilianweng.github.io/posts/2018-06-24-attention/#a-family-of-attention-mechanisms)
 
 ## Papers
+- **With Greater Text Comes Greater Necessity: Inference-Time Training Helps
+  Long Text Generation**, `arXiv, 2401.11504`, [arxiv](http://arxiv.org/abs/2401.11504v1), [pdf](http://arxiv.org/pdf/2401.11504v1.pdf), cication: [**-1**](None)
+
+	 *Y. Wang, D. Ma, D. Cai* · ([zhuanlan.zhihu](https://zhuanlan.zhihu.com/p/679713147))
 - **E^2-LLM: Efficient and Extreme Length Extension of Large Language Models**, `arXiv, 2401.06951`, [arxiv](http://arxiv.org/abs/2401.06951v2), [pdf](http://arxiv.org/pdf/2401.06951v2.pdf), cication: [**-1**](None)
 
 	 *Jiaheng Liu, Zhiqi Bai, Yuanxing Zhang, Chenchen Zhang, Yu Zhang, Ge Zhang, Jiakai Wang, Haoran Que, Yukang Chen, Wenbo Su*

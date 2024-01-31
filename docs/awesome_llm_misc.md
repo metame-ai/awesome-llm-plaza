@@ -197,6 +197,9 @@
 	 *Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers*
 
 ## New model
+- **Transfer Learning for Text Diffusion Models**, `arXiv, 2401.17181`, [arxiv](http://arxiv.org/abs/2401.17181v1), [pdf](http://arxiv.org/pdf/2401.17181v1.pdf), cication: [**-1**](None)
+
+	 *Kehang Han, Kathleen Kenealy, Aditya Barua, Noah Fiedel, Noah Constant*
 - [🦅 Eagle 7B : Soaring past Transformers with 1 Trillion Tokens Across 100+ Languages (RWKV-v5)](https://blog.rwkv.com/p/eagle-7b-soaring-past-transformers)
 - **MambaByte: Token-free Selective State Space Model**, `arXiv, 2401.13660`, [arxiv](http://arxiv.org/abs/2401.13660v1), [pdf](http://arxiv.org/pdf/2401.13660v1.pdf), cication: [**-1**](None)
 

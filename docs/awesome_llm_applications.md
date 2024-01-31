@@ -90,6 +90,9 @@
 	 *A ChatGPT plugin that allows you to load and edit your local files in a controlled way, as well as run any Python, JavaScript, and bash script.*
 
 ## Writing
+- **Weaver: Foundation Models for Creative Writing**, `arXiv, 2401.17268`, [arxiv](http://arxiv.org/abs/2401.17268v1), [pdf](http://arxiv.org/pdf/2401.17268v1.pdf), cication: [**-1**](None)
+
+	 *Tiannan Wang, Jiamin Chen, Qingrui Jia, Shuai Wang, Ruoyu Fang, Huilin Wang, Zhaowei Gao, Chunzhao Xie, Chuou Xu, Jihong Dai*
 - **PEARL: Personalizing Large Language Model Writing Assistants with
   Generation-Calibrated Retrievers**, `arXiv, 2311.09180`, [arxiv](http://arxiv.org/abs/2311.09180v1), [pdf](http://arxiv.org/pdf/2311.09180v1.pdf), cication: [**-1**](None)
 
@@ -464,6 +467,9 @@
 	 *Quan Wang, Yiling Huang, Guanlong Zhao, Evan Clark, Wei Xia, Hank Liao*
 
 ## Vision
+- **A Vision Check-up for Language Models**, `arXiv, 2401.01862`, [arxiv](http://arxiv.org/abs/2401.01862v1), [pdf](http://arxiv.org/pdf/2401.01862v1.pdf), cication: [**-1**](None)
+
+	 *Pratyusha Sharma, Tamar Rott Shaham, Manel Baradad, Stephanie Fu, Adrian Rodriguez-Munoz, Shivam Duggal, Phillip Isola, Antonio Torralba*
 - **Taiyi-Diffusion-XL: Advancing Bilingual Text-to-Image Generation with
   Large Vision-Language Model Support**, `arXiv, 2401.14688`, [arxiv](http://arxiv.org/abs/2401.14688v1), [pdf](http://arxiv.org/pdf/2401.14688v1.pdf), cication: [**-1**](None)
 

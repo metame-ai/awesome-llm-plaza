@@ -176,6 +176,10 @@
 - [领域大模型-训练Trick&落地思考](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494320&idx=2&sn=8edd6ea37bbd73768caa306d9daa2cf7)
 
 ## Scaling
+- **T3: Transparent Tracking & Triggering for Fine-grained Overlap of
+  Compute & Collectives**, `arXiv, 2401.16677`, [arxiv](http://arxiv.org/abs/2401.16677v1), [pdf](http://arxiv.org/pdf/2401.16677v1.pdf), cication: [**-1**](None)
+
+	 *Suchita Pati, Shaizeen Aga, Mahzabeen Islam, Nuwan Jayasena, Matthew D. Sinclair*
 - **Zero Bubble Pipeline Parallelism**, `arXiv, 2401.10241`, [arxiv](http://arxiv.org/abs/2401.10241v1), [pdf](http://arxiv.org/pdf/2401.10241v1.pdf), cication: [**-1**](None)
 
 	 *Penghui Qi, Xinyi Wan, Guangxing Huang, Min Lin* · ([zero-bubble-pipeline-parallelism](https://github.com/sail-sg/zero-bubble-pipeline-parallelism) - sail-sg) ![Star](https://img.shields.io/github/stars/sail-sg/zero-bubble-pipeline-parallelism.svg?style=social&label=Star)
@@ -251,9 +255,14 @@
 - [Chinchilla之死：只要训练足够长时间，小模型也能超过大模型 | 机器之心](https://www.jiqizhixin.com/articles/2023-10-03-9)
 
 ## Fine-tuning
+- **Scaling Sparse Fine-Tuning to Large Language Models**, `arXiv, 2401.16405`, [arxiv](http://arxiv.org/abs/2401.16405v1), [pdf](http://arxiv.org/pdf/2401.16405v1.pdf), cication: [**-1**](None)
+
+	 *Alan Ansell, Ivan Vulić, Hannah Sterz, Anna Korhonen, Edoardo M. Ponti* · ([peft](https://github.com/AlanAnsell/peft) - AlanAnsell) ![Star](https://img.shields.io/github/stars/AlanAnsell/peft.svg?style=social&label=Star) · ([sft-llm](https://github.com/ducdauge/sft-llm) - ducdauge) ![Star](https://img.shields.io/github/stars/ducdauge/sft-llm.svg?style=social&label=Star)
 - **Tuning Language Models by Proxy**, `arXiv, 2401.08565`, [arxiv](http://arxiv.org/abs/2401.08565v1), [pdf](http://arxiv.org/pdf/2401.08565v1.pdf), cication: [**-1**](None)
 
 	 *Alisa Liu, Xiaochuang Han, Yizhong Wang, Yulia Tsvetkov, Yejin Choi, Noah A. Smith*
+
+	 · ([lightning](https://lightning.ai/lightning-ai/studios/improve-llms-with-proxy-tuning?view=public))
 - **LLaMA Pro: Progressive LLaMA with Block Expansion**, `arXiv, 2401.02415`, [arxiv](http://arxiv.org/abs/2401.02415v1), [pdf](http://arxiv.org/pdf/2401.02415v1.pdf), cication: [**-1**](None)
 
 	 *Chengyue Wu, Yukang Gan, Yixiao Ge, Zeyu Lu, Jiahao Wang, Ye Feng, Ping Luo, Ying Shan* · ([LLaMA-Pro](https://github.com/TencentARC/LLaMA-Pro) - TencentARC) ![Star](https://img.shields.io/github/stars/TencentARC/LLaMA-Pro.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/TencentARC/LLaMA-Pro-8B))

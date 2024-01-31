@@ -31,6 +31,9 @@
 # English
 
 ## Foundation
+- **H2O-Danube-1.8B Technical Report**, `arXiv, 2401.16818`, [arxiv](http://arxiv.org/abs/2401.16818v1), [pdf](http://arxiv.org/pdf/2401.16818v1.pdf), cication: [**-1**](None)
+
+	 *Philipp Singer, Pascal Pfeiffer, Yauhen Babakhin, Maximilian Jeblick, Nischay Dhankhar, Gabor Fodor, Sri Satish Ambati*
 - [**Smaug-34B-v0.1**](https://huggingface.co/abacusai/Smaug-34B-v0.1) - abacusai 🤗
 - [**bagel-34b-v0.2**](https://huggingface.co/jondurbin/bagel-34b-v0.2) - jondurbin 🤗
 - **TinyLlama: An Open-Source Small Language Model**, `arXiv, 2401.02385`, [arxiv](http://arxiv.org/abs/2401.02385v1), [pdf](http://arxiv.org/pdf/2401.02385v1.pdf), cication: [**-1**](None)
@@ -262,6 +265,7 @@
 # Mulitlingual (chinese)
 
 ## Foundation
+- [iFlytekSpark-13B: 讯飞星火开源-13B（iFlytekSpark-13B）](https://gitee.com/iflytekopensource/iFlytekSpark-13B)
 - **Orion-14B: Open-source Multilingual Large Language Models**, `arXiv, 2401.12246`, [arxiv](http://arxiv.org/abs/2401.12246v1), [pdf](http://arxiv.org/pdf/2401.12246v1.pdf), cication: [**-1**](None)
 
 	 *Du Chen, Yi Huang, Xiaopu Li, Yongqiang Li, Yongqiang Liu, Haihui Pan, Leichao Xu, Dacheng Zhang, Zhipeng Zhang, Kun Han*

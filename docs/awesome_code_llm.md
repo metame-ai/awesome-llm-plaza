@@ -16,6 +16,9 @@
 	 *Ziyin Zhang, Chaoyu Chen, Bingchang Liu, Cong Liao, Zi Gong, Hang Yu, Jianguo Li, Rui Wang*
 
 ## Paper
+- **ReGAL: Refactoring Programs to Discover Generalizable Abstractions**, `arXiv, 2401.16467`, [arxiv](http://arxiv.org/abs/2401.16467v1), [pdf](http://arxiv.org/pdf/2401.16467v1.pdf), cication: [**-1**](None)
+
+	 *Elias Stengel-Eskin, Archiki Prasad, Mohit Bansal*
 - **DeepSeek-Coder: When the Large Language Model Meets Programming -- The
   Rise of Code Intelligence**, `arXiv, 2401.14196`, [arxiv](http://arxiv.org/abs/2401.14196v1), [pdf](http://arxiv.org/pdf/2401.14196v1.pdf), cication: [**-1**](None)
 
@@ -212,6 +215,8 @@
 
 	 *Inference code for CodeLlama models*
 	 · [huggingface](https://huggingface.co/Phind) · [huggingface](https://huggingface.co/blog/codellama) · [github](https://github.com/nlpxucan/WizardLM/tree/main/WizardCoder)![Star](https://img.shields.io/github/stars/nlpxucan/WizardLM.svg?style=social&label=Star) · [jiqizhixin](https://www.jiqizhixin.com/articles/2023-08-27) · [huggingface](https://huggingface.co/OpenAssistant/codellama-13b-oasst-sft-v10)
+
+	 · ([promptingguide](https://www.promptingguide.ai/models/code-llama))
 - [**sqlcoder**](https://github.com/defog-ai/sqlcoder) - defog-ai ![Star](https://img.shields.io/github/stars/defog-ai/sqlcoder.svg?style=social&label=Star)
 
 	 *SoTA LLM for converting natural language questions to SQL queries*

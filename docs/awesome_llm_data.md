@@ -16,6 +16,10 @@
 	 *Zige Wang, Wanjun Zhong, Yufei Wang, Qi Zhu, Fei Mi, Baojun Wang, Lifeng Shang, Xin Jiang, Qun Liu*
 
 ## Techs
+- **Rephrasing the Web: A Recipe for Compute and Data-Efficient Language
+  Modeling**, `arXiv, 2401.16380`, [arxiv](http://arxiv.org/abs/2401.16380v1), [pdf](http://arxiv.org/pdf/2401.16380v1.pdf), cication: [**-1**](None)
+
+	 *Pratyush Maini, Skyler Seto, He Bai, David Grangier, Yizhe Zhang, Navdeep Jaitly*
 - **Genie: Achieving Human Parity in Content-Grounded Datasets Generation**, `arXiv, 2401.14367`, [arxiv](http://arxiv.org/abs/2401.14367v1), [pdf](http://arxiv.org/pdf/2401.14367v1.pdf), cication: [**-1**](None)
 
 	 *Asaf Yehudai, Boaz Carmeli, Yosi Mass, Ofir Arviv, Nathaniel Mills, Assaf Toledo, Eyal Shnarch, Leshem Choshen*

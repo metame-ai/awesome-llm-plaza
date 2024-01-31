@@ -76,6 +76,16 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
+- **Overcoming the Pitfalls of Vision-Language Model Finetuning for OOD
+  Generalization**, `arXiv, 2401.15914`, [arxiv](http://arxiv.org/abs/2401.15914v1), [pdf](http://arxiv.org/pdf/2401.15914v1.pdf), cication: [**-1**](None)
+
+	 *Yuhang Zang, Hanlin Goh, Josh Susskind, Chen Huang*
+- **MouSi: Poly-Visual-Expert Vision-Language Models**, `arXiv, 2401.17221`, [arxiv](http://arxiv.org/abs/2401.17221v1), [pdf](http://arxiv.org/pdf/2401.17221v1.pdf), cication: [**-1**](None)
+
+	 *Xiaoran Fan, Tao Ji, Changhao Jiang, Shuo Li, Senjie Jin, Sirui Song, Junke Wang, Boyang Hong, Lu Chen, Guodong Zheng*
+- **LLaVA-Phi: Efficient Multi-Modal Assistant with Small Language Model**, `arXiv, 2401.02330`, [arxiv](http://arxiv.org/abs/2401.02330v2), [pdf](http://arxiv.org/pdf/2401.02330v2.pdf), cication: [**-1**](None)
+
+	 *Yichen Zhu, Minjie Zhu, Ning Liu, Zhicai Ou, Xiaofeng Mou, Jian Tang* · ([llava-phi](https://github.com/zhuyiche/llava-phi?tab=readme-ov-file) - zhuyiche) ![Star](https://img.shields.io/github/stars/zhuyiche/llava-phi.svg?style=social&label=Star)
 - **InternLM-XComposer2: Mastering Free-form Text-Image Composition and
   Comprehension in Vision-Language Large Model**, `arXiv, 2401.16420`, [arxiv](http://arxiv.org/abs/2401.16420v1), [pdf](http://arxiv.org/pdf/2401.16420v1.pdf), cication: [**-1**](None)
 
@@ -714,6 +724,10 @@
 - [**BakLLaVA-1**](https://huggingface.co/SkunkworksAI/BakLLaVA-1) - SkunkworksAI 🤗
 
 ## Benchmarks
+- **Mementos: A Comprehensive Benchmark for Multimodal Large Language Model
+  Reasoning over Image Sequences**, `arXiv, 2401.10529`, [arxiv](http://arxiv.org/abs/2401.10529v2), [pdf](http://arxiv.org/pdf/2401.10529v2.pdf), cication: [**-1**](None)
+
+	 *Xiyao Wang, Yuhang Zhou, Xiaoyu Liu, Hongjin Lu, Yuancheng Xu, Feihong He, Jaehong Yoon, Taixi Lu, Gedas Bertasius, Mohit Bansal* · ([mementos-bench.github](https://mementos-bench.github.io))
 - [Leaderboards | LAMM](https://openlamm.github.io/Leaderboards)
 - **LAMM: Language-Assisted Multi-Modal Instruction-Tuning Dataset,
   Framework, and Benchmark**, `arXiv, 2306.06687`, [arxiv](http://arxiv.org/abs/2306.06687v3), [pdf](http://arxiv.org/pdf/2306.06687v3.pdf), cication: [**-1**](None)

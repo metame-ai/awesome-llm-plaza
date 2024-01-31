@@ -343,6 +343,9 @@
 	 *Lianmin Zheng, Wei-Lin Chiang, Ying Sheng, Siyuan Zhuang, Zhanghao Wu, Yonghao Zhuang, Zi Lin, Zhuohan Li, Dacheng Li, Eric. P Xing*
 
 ## Projects
+- [**finetuning-subnet**](https://github.com/NousResearch/finetuning-subnet/tree/master) - NousResearch ![Star](https://img.shields.io/github/stars/NousResearch/finetuning-subnet.svg?style=social&label=Star)
+
+	 · ([huggingface](https://huggingface.co/spaces/NousResearch/finetuning_subnet_leaderboard))
 - [**llm_contamination_detector**](https://huggingface.co/spaces/Yeyito/llm_contamination_detector) - Yeyito 🤗
 - [**detect-pretrain-code-contamination**](https://github.com/swj0419/detect-pretrain-code-contamination) - swj0419 ![Star](https://img.shields.io/github/stars/swj0419/detect-pretrain-code-contamination.svg?style=social&label=Star)
 - [Holistic Evaluation of Language Models (HELM)](https://crfm.stanford.edu/helm/lite/v1.0.0/#/leaderboard)

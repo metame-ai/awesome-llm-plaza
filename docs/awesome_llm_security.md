@@ -16,6 +16,13 @@
 - [**Adversarial Attacks on LLMs | Lil'Log**](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/)
 
 ## Papers
+- **A Cross-Language Investigation into Jailbreak Attacks in Large Language
+  Models**, `arXiv, 2401.16765`, [arxiv](http://arxiv.org/abs/2401.16765v1), [pdf](http://arxiv.org/pdf/2401.16765v1.pdf), cication: [**-1**](None)
+
+	 *Jie Li, Yi Liu, Chongyang Liu, Ling Shi, Xiaoning Ren, Yaowen Zheng, Yang Liu, Yinxing Xue*
+- **Weak-to-Strong Jailbreaking on Large Language Models**, `arXiv, 2401.17256`, [arxiv](http://arxiv.org/abs/2401.17256v1), [pdf](http://arxiv.org/pdf/2401.17256v1.pdf), cication: [**-1**](None)
+
+	 *Xuandong Zhao, Xianjun Yang, Tianyu Pang, Chao Du, Lei Li, Yu-Xiang Wang, William Yang Wang* · ([weak-to-strong](https://github.com/XuandongZhao/weak-to-strong) - XuandongZhao) ![Star](https://img.shields.io/github/stars/XuandongZhao/weak-to-strong.svg?style=social&label=Star)
 - **Red Teaming Visual Language Models**, `arXiv, 2401.12915`, [arxiv](http://arxiv.org/abs/2401.12915v1), [pdf](http://arxiv.org/pdf/2401.12915v1.pdf), cication: [**-1**](None)
 
 	 *Mukai Li, Lei Li, Yuwei Yin, Masood Ahmed, Zhenguang Liu, Qi Liu*

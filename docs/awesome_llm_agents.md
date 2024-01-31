@@ -49,6 +49,10 @@
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-18-4))
 ## Agents
+- **Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual
+  Perception**, `arXiv, 2401.16158`, [arxiv](http://arxiv.org/abs/2401.16158v1), [pdf](http://arxiv.org/pdf/2401.16158v1.pdf), cication: [**-1**](None)
+
+	 *Junyang Wang, Haiyang Xu, Jiabo Ye, Ming Yan, Weizhou Shen, Ji Zhang, Fei Huang, Jitao Sang* · ([MobileAgent](https://github.com/X-PLUG/MobileAgent) - X-PLUG) ![Star](https://img.shields.io/github/stars/X-PLUG/MobileAgent.svg?style=social&label=Star)
 - **SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents**, `arXiv, 2401.10935`, [arxiv](http://arxiv.org/abs/2401.10935v1), [pdf](http://arxiv.org/pdf/2401.10935v1.pdf), cication: [**-1**](None)
 
 	 *Kanzhi Cheng, Qiushi Sun, Yougang Chu, Fangzhi Xu, Yantao Li, Jianbing Zhang, Zhiyong Wu* · ([SeeClick](https://github.com/njucckevin/SeeClick) - njucckevin) ![Star](https://img.shields.io/github/stars/njucckevin/SeeClick.svg?style=social&label=Star)
@@ -481,6 +485,12 @@
 - [GPT-4V学会用键鼠上网，人类眼睁睁看着它发帖玩游戏 | 量子位](https://www.qbitai.com/2023/11/95456.html)
 
 ## Retrieval agumented generation
+- **Corrective Retrieval Augmented Generation**, `arXiv, 2401.15884`, [arxiv](http://arxiv.org/abs/2401.15884v1), [pdf](http://arxiv.org/pdf/2401.15884v1.pdf), cication: [**-1**](None)
+
+	 *Shi-Qi Yan, Jia-Chen Gu, Yun Zhu, Zhen-Hua Ling*
+- [**flagembedding**](https://github.com/flagopen/flagembedding) - flagopen ![Star](https://img.shields.io/github/stars/flagopen/flagembedding.svg?style=social&label=Star)
+
+	 *Dense Retrieval and Retrieval-augmented LLMs*
 - [**autollm**](https://github.com/safevideo/autollm) - safevideo ![Star](https://img.shields.io/github/stars/safevideo/autollm.svg?style=social&label=Star)
 
 	 *Ship RAG based LLM web apps in seconds.*
