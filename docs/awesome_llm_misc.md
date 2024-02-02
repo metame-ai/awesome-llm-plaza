@@ -197,6 +197,10 @@
 	 *Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers*
 
 ## New model
+- **Infini-gram: Scaling Unbounded n-gram Language Models to a Trillion
+  Tokens**, `arXiv, 2401.17377`, [arxiv](http://arxiv.org/abs/2401.17377v1), [pdf](http://arxiv.org/pdf/2401.17377v1.pdf), cication: [**-1**](None)
+
+	 *Jiacheng Liu, Sewon Min, Luke Zettlemoyer, Yejin Choi, Hannaneh Hajishirzi*
 - **Transfer Learning for Text Diffusion Models**, `arXiv, 2401.17181`, [arxiv](http://arxiv.org/abs/2401.17181v1), [pdf](http://arxiv.org/pdf/2401.17181v1.pdf), cication: [**-1**](None)
 
 	 *Kehang Han, Kathleen Kenealy, Aditya Barua, Noah Fiedel, Noah Constant*
@@ -276,6 +280,9 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652345558&idx=4&sn=95686435d5cad05d44cbe02bc26d6859))
 
 ## Interpretability 
+- **Can Large Language Models Understand Context?**, `arXiv, 2402.00858`, [arxiv](http://arxiv.org/abs/2402.00858v1), [pdf](http://arxiv.org/pdf/2402.00858v1.pdf), cication: [**-1**](None)
+
+	 *Yilun Zhu, Joel Ruben Antony Moniz, Shruti Bhargava, Jiarui Lu, Dhivya Piraviperumal, Site Li, Yuan Zhang, Hong Yu, Bo-Hsiang Tseng*
 - [Circuits Updates - January 2024](https://transformer-circuits.pub/2024/jan-update/index.html)
 - **Patchscope: A Unifying Framework for Inspecting Hidden Representations
   of Language Models**, `arXiv, 2401.06102`, [arxiv](http://arxiv.org/abs/2401.06102v1), [pdf](http://arxiv.org/pdf/2401.06102v1.pdf), cication: [**-1**](None)

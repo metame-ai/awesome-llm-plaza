@@ -17,6 +17,9 @@
 	- [Efficient transformer](#efficient-transformer)
 
 ## Survey
+- **Efficient Exploration for LLMs**, `arXiv, 2402.00396`, [arxiv](http://arxiv.org/abs/2402.00396v1), [pdf](http://arxiv.org/pdf/2402.00396v1.pdf), cication: [**-1**](None)
+
+	 *Vikranth Dwaracherla, Seyed Mohammad Asghari, Botao Hao, Benjamin Van Roy*
 - **A Comprehensive Survey of Compression Algorithms for Language Models**, `arXiv, 2401.15347`, [arxiv](http://arxiv.org/abs/2401.15347v1), [pdf](http://arxiv.org/pdf/2401.15347v1.pdf), cication: [**-1**](None)
 
 	 *Seungcheol Park, Jaehyeon Choi, Sojin Lee, U Kang*
@@ -259,6 +262,9 @@
 - [Quantization](https://huggingface.co/docs/accelerate/usage_guides/quantization)
 
 ## Distillation
+- **Scavenging Hyena: Distilling Transformers into Long Convolution Models**, `arXiv, 2401.17574`, [arxiv](http://arxiv.org/abs/2401.17574v1), [pdf](http://arxiv.org/pdf/2401.17574v1.pdf), cication: [**-1**](None)
+
+	 *Tokiniaina Raharison Ralambomihanta, Shahrad Mohammadzadeh, Mohammad Sami Nur Islam, Wassim Jabbour, Laurence Liang*
 - [Proceedings of the BabyLM Challenge at the 27th Conference on Computational Natural Language Learning - ACL Anthology](https://aclanthology.org/volumes/2023.conll-babylm/)
 
 	 · ([twitter](https://twitter.com/a_stadt/status/1737849248560066794?s=20))

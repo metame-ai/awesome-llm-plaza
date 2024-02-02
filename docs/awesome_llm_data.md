@@ -16,6 +16,7 @@
 	 *Zige Wang, Wanjun Zhong, Yufei Wang, Qi Zhu, Fei Mi, Baojun Wang, Lifeng Shang, Xin Jiang, Qun Liu*
 
 ## Techs
+- [An Initial Exploration of Theoretical Support for Language Model Data Engineering. Part 1: Pretraining ](https://yaofu.notion.site/An-Initial-Exploration-of-Theoretical-Support-for-Language-Model-Data-Engineering-Part-1-Pretraini-dc480d9bf7ff4659afd8c9fb738086eb)
 - **Rephrasing the Web: A Recipe for Compute and Data-Efficient Language
   Modeling**, `arXiv, 2401.16380`, [arxiv](http://arxiv.org/abs/2401.16380v1), [pdf](http://arxiv.org/pdf/2401.16380v1.pdf), cication: [**-1**](None)
 
@@ -63,6 +64,10 @@
 - [**peS2o**](https://huggingface.co/datasets/allenai/peS2o) - allenai 🤗
 
 ### Misc
+- **Dolma: an Open Corpus of Three Trillion Tokens for Language Model
+  Pretraining Research**, `arXiv, 2402.00159`, [arxiv](http://arxiv.org/abs/2402.00159v1), [pdf](http://arxiv.org/pdf/2402.00159v1.pdf), cication: [**-1**](None)
+
+	 *Luca Soldaini, Rodney Kinney, Akshita Bhagia, Dustin Schwenk, David Atkinson, Russell Authur, Ben Bogin, Khyathi Chandu, Jennifer Dumas, Yanai Elazar*
 - [**openhathi_instruct**](https://github.com/pacman100/openhathi_instruct) - pacman100 ![Star](https://img.shields.io/github/stars/pacman100/openhathi_instruct.svg?style=social&label=Star)
 
 	 *This repository contains the code for dataset curation and finetuning of instruct variant of the Bilingual OpenHathi model. The resulting model is meant to follow instructions and chat in Hindi and Hinglish.*
@@ -161,6 +166,9 @@
 	 *Xiang Deng, Yu Gu, Boyuan Zheng, Shijie Chen, Samuel Stevens, Boshi Wang, Huan Sun, Yu Su*
 
 ### Synthetic 
+- **Synthetic Dialogue Dataset Generation using LLM Agents**, `arXiv, 2401.17461`, [arxiv](http://arxiv.org/abs/2401.17461v1), [pdf](http://arxiv.org/pdf/2401.17461v1.pdf), cication: [**-1**](None)
+
+	 *Yelaman Abdullin, Diego Molla-Aliod, Bahadorreza Ofoghi, John Yearwood, Qingyang Li*
 - **Learning Vision from Models Rivals Learning Vision from Data**, `arXiv, 2312.17742`, [arxiv](http://arxiv.org/abs/2312.17742v1), [pdf](http://arxiv.org/pdf/2312.17742v1.pdf), cication: [**-1**](None)
 
 	 *Yonglong Tian, Lijie Fan, Kaifeng Chen, Dina Katabi, Dilip Krishnan, Phillip Isola* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652431566&idx=5&sn=33d2c2147035223637638b53702ac043&poc_token=HKf6pGWj0ZkyQ3Zn3HWLerDAiWuD-mQ4RKN_fIRb))

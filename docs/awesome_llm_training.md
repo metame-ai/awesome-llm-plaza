@@ -255,6 +255,10 @@
 - [Chinchilla之死：只要训练足够长时间，小模型也能超过大模型 | 机器之心](https://www.jiqizhixin.com/articles/2023-10-03-9)
 
 ## Fine-tuning
+- **EE-Tuning: An Economical yet Scalable Solution for Tuning Early-Exit
+  Large Language Models**, `arXiv, 2402.00518`, [arxiv](http://arxiv.org/abs/2402.00518v1), [pdf](http://arxiv.org/pdf/2402.00518v1.pdf), cication: [**-1**](None)
+
+	 *Xuchen Pan, Yanxi Chen, Yaliang Li, Bolin Ding, Jingren Zhou* · ([EE-LLM](https://github.com/pan-x-c/EE-LLM) - pan-x-c) ![Star](https://img.shields.io/github/stars/pan-x-c/EE-LLM.svg?style=social&label=Star)
 - **Scaling Sparse Fine-Tuning to Large Language Models**, `arXiv, 2401.16405`, [arxiv](http://arxiv.org/abs/2401.16405v1), [pdf](http://arxiv.org/pdf/2401.16405v1.pdf), cication: [**-1**](None)
 
 	 *Alan Ansell, Ivan Vulić, Hannah Sterz, Anna Korhonen, Edoardo M. Ponti* · ([peft](https://github.com/AlanAnsell/peft) - AlanAnsell) ![Star](https://img.shields.io/github/stars/AlanAnsell/peft.svg?style=social&label=Star) · ([sft-llm](https://github.com/ducdauge/sft-llm) - ducdauge) ![Star](https://img.shields.io/github/stars/ducdauge/sft-llm.svg?style=social&label=Star)
@@ -396,6 +400,8 @@
 
 	 *A family of open-sourced Mixture-of-Experts (MoE) Large Language Models*
 
+
+	 · ([OpenMoE](https://github.com/XueFuzhao/OpenMoE/blob/main/paper/paper.pdf) - XueFuzhao) ![Star](https://img.shields.io/github/stars/XueFuzhao/OpenMoE.svg?style=social&label=Star)
 - **Mixture-of-Experts Meets Instruction Tuning:A Winning Combination for
   Large Language Models**, `arXiv, 2305.14705`, [arxiv](http://arxiv.org/abs/2305.14705v2), [pdf](http://arxiv.org/pdf/2305.14705v2.pdf), cication: [**-1**](None)
 

@@ -16,6 +16,10 @@
 - [**Adversarial Attacks on LLMs | Lil'Log**](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/)
 
 ## Papers
+- **Robust Prompt Optimization for Defending Language Models Against
+  Jailbreaking Attacks**, `arXiv, 2401.17263`, [arxiv](http://arxiv.org/abs/2401.17263v1), [pdf](http://arxiv.org/pdf/2401.17263v1.pdf), cication: [**-1**](None)
+
+	 *Andy Zhou, Bo Li, Haohan Wang* · ([rpo](https://github.com/andyz245/rpo) - andyz245) ![Star](https://img.shields.io/github/stars/andyz245/rpo.svg?style=social&label=Star)
 - **A Cross-Language Investigation into Jailbreak Attacks in Large Language
   Models**, `arXiv, 2401.16765`, [arxiv](http://arxiv.org/abs/2401.16765v1), [pdf](http://arxiv.org/pdf/2401.16765v1.pdf), cication: [**-1**](None)
 

@@ -31,6 +31,10 @@
 # English
 
 ## Foundation
+- **OLMo: Accelerating the Science of Language Models**, `arXiv, 2402.00838`, [arxiv](http://arxiv.org/abs/2402.00838v1), [pdf](http://arxiv.org/pdf/2402.00838v1.pdf), cication: [**-1**](None)
+
+	 *Dirk Groeneveld, Iz Beltagy, Pete Walsh, Akshita Bhagia, Rodney Kinney, Oyvind Tafjord, Ananya Harsh Jha, Hamish Ivison, Ian Magnusson, Yizhong Wang* · ([OLMo](https://github.com/allenai/OLMo) - allenai) ![Star](https://img.shields.io/github/stars/allenai/OLMo.svg?style=social&label=Star) · ([allenai](https://allenai.org/olmo)) · ([allenai](https://allenai.org/olmo/olmo-paper.pdf))
+- [**miqu-1-70b**](https://huggingface.co/miqudev/miqu-1-70b) - miqudev 🤗
 - **H2O-Danube-1.8B Technical Report**, `arXiv, 2401.16818`, [arxiv](http://arxiv.org/abs/2401.16818v1), [pdf](http://arxiv.org/pdf/2401.16818v1.pdf), cication: [**-1**](None)
 
 	 *Philipp Singer, Pascal Pfeiffer, Yauhen Babakhin, Maximilian Jeblick, Nischay Dhankhar, Gabor Fodor, Sri Satish Ambati*
@@ -139,6 +143,7 @@
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-01-16-2))
 - [**Nous-Hermes-2-Mixtral-8x7B-DPO**](https://huggingface.co/NousResearch/Nous-Hermes-2-Mixtral-8x7B-DPO) - NousResearch 🤗
 - [**Nous-Hermes-2-Mixtral-8x7B-DPO-adapter**](https://huggingface.co/NousResearch/Nous-Hermes-2-Mixtral-8x7B-DPO-adapter) - NousResearch 🤗
+- [**miqu-1-70b**](https://huggingface.co/miqudev/miqu-1-70b) - miqudev 🤗
 
 ### StripedHyena-7B 
 - [**StripedHyena-Hessian-7B**](https://huggingface.co/togethercomputer/StripedHyena-Hessian-7B) - togethercomputer 🤗
@@ -265,6 +270,9 @@
 # Mulitlingual (chinese)
 
 ## Foundation
+- [**MiniCPM**](https://github.com/OpenBMB/MiniCPM) - OpenBMB ![Star](https://img.shields.io/github/stars/OpenBMB/MiniCPM.svg?style=social&label=Star)
+
+	 *MiniCPM-2.4B: An end-side LLM outperforms Llama2-13B.*
 - [iFlytekSpark-13B: 讯飞星火开源-13B（iFlytekSpark-13B）](https://gitee.com/iflytekopensource/iFlytekSpark-13B)
 - **Orion-14B: Open-source Multilingual Large Language Models**, `arXiv, 2401.12246`, [arxiv](http://arxiv.org/abs/2401.12246v1), [pdf](http://arxiv.org/pdf/2401.12246v1.pdf), cication: [**-1**](None)
 
@@ -416,6 +424,9 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s/Lf70i8M0KNDs9ZB8H32h4w))
 
 # Extra
+- **CroissantLLM: A Truly Bilingual French-English Language Model**, `arXiv, 2402.00786`, [arxiv](http://arxiv.org/abs/2402.00786v1), [pdf](http://arxiv.org/pdf/2402.00786v1.pdf), cication: [**-1**](None)
+
+	 *Manuel Faysse, Patrick Fernandes, Nuno Guerreiro, António Loison, Duarte Alves, Caio Corro, Nicolas Boizard, João Alves, Ricardo Rei, Pedro Martins*
 - **MaLA-500: Massive Language Adaptation of Large Language Models**, `arXiv, 2401.13303`, [arxiv](http://arxiv.org/abs/2401.13303v1), [pdf](http://arxiv.org/pdf/2401.13303v1.pdf), cication: [**-1**](None)
 
 	 *Peiqin Lin, Shaoxiong Ji, Jörg Tiedemann, André F. T. Martins, Hinrich Schütze* · ([huggingface](https://huggingface.co/MaLA-LM))

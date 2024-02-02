@@ -386,6 +386,9 @@
 - [AgentGPT](https://agentgpt.reworkd.ai/)
 
 ## Augmented LLM
+- **Efficient Tool Use with Chain-of-Abstraction Reasoning**, `arXiv, 2401.17464`, [arxiv](http://arxiv.org/abs/2401.17464v1), [pdf](http://arxiv.org/pdf/2401.17464v1.pdf), cication: [**-1**](None)
+
+	 *Silin Gao, Jane Dwivedi-Yu, Ping Yu, Xiaoqing Ellen Tan, Ramakanth Pasunuru, Olga Golovneva, Koustuv Sinha, Asli Celikyilmaz, Antoine Bosselut, Tianlu Wang*
 - **LLM Augmented LLMs: Expanding Capabilities through Composition**, `arXiv, 2401.02412`, [arxiv](http://arxiv.org/abs/2401.02412v1), [pdf](http://arxiv.org/pdf/2401.02412v1.pdf), cication: [**-1**](None)
 
 	 *Rachit Bansal, Bidisha Samanta, Siddharth Dalmia, Nitish Gupta, Shikhar Vashishth, Sriram Ganapathy, Abhishek Bapna, Prateek Jain, Partha Talukdar*
@@ -485,6 +488,9 @@
 - [GPT-4V学会用键鼠上网，人类眼睁睁看着它发帖玩游戏 | 量子位](https://www.qbitai.com/2023/11/95456.html)
 
 ## Retrieval agumented generation
+- **RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval**, `arXiv, 2401.18059`, [arxiv](http://arxiv.org/abs/2401.18059v1), [pdf](http://arxiv.org/pdf/2401.18059v1.pdf), cication: [**-1**](None)
+
+	 *Parth Sarthi, Salman Abdullah, Aditi Tuli, Shubh Khanna, Anna Goldie, Christopher D. Manning*
 - **Corrective Retrieval Augmented Generation**, `arXiv, 2401.15884`, [arxiv](http://arxiv.org/abs/2401.15884v1), [pdf](http://arxiv.org/pdf/2401.15884v1.pdf), cication: [**-1**](None)
 
 	 *Shi-Qi Yan, Jia-Chen Gu, Yun Zhu, Zhen-Hua Ling*

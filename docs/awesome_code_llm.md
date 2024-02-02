@@ -217,6 +217,7 @@
 	 · [huggingface](https://huggingface.co/Phind) · [huggingface](https://huggingface.co/blog/codellama) · [github](https://github.com/nlpxucan/WizardLM/tree/main/WizardCoder)![Star](https://img.shields.io/github/stars/nlpxucan/WizardLM.svg?style=social&label=Star) · [jiqizhixin](https://www.jiqizhixin.com/articles/2023-08-27) · [huggingface](https://huggingface.co/OpenAssistant/codellama-13b-oasst-sft-v10)
 
 	 · ([promptingguide](https://www.promptingguide.ai/models/code-llama))
+- [**CodeLlama-70b-hf-4bit-MLX**](https://huggingface.co/mlx-community/CodeLlama-70b-hf-4bit-MLX) - mlx-community 🤗
 - [**sqlcoder**](https://github.com/defog-ai/sqlcoder) - defog-ai ![Star](https://img.shields.io/github/stars/defog-ai/sqlcoder.svg?style=social&label=Star)
 
 	 *SoTA LLM for converting natural language questions to SQL queries*

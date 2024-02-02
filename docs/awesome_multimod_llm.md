@@ -76,6 +76,20 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
+- [**OmniLMM**](https://github.com/OpenBMB/OmniLMM) - OpenBMB ![Star](https://img.shields.io/github/stars/OpenBMB/OmniLMM.svg?style=social&label=Star)
+
+	 *Large Multi-modal Models for Strong Performance and Efficient Deployment* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652439897&idx=1&sn=e5e9a0ab370aaf6b4bd0e8a0ee64e814))
+- **MM-Interleaved: Interleaved Image-Text Generative Modeling via
+  Multi-modal Feature Synchronizer**, `arXiv, 2401.10208`, [arxiv](http://arxiv.org/abs/2401.10208v1), [pdf](http://arxiv.org/pdf/2401.10208v1.pdf), cication: [**-1**](None)
+
+	 *Changyao Tian, Xizhou Zhu, Yuwen Xiong, Weiyun Wang, Zhe Chen, Wenhai Wang, Yuntao Chen, Lewei Lu, Tong Lu, Jie Zhou* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-01-4)) · ([MM-Interleaved](https://github.com/OpenGVLab/MM-Interleaved) - OpenGVLab) ![Star](https://img.shields.io/github/stars/OpenGVLab/MM-Interleaved.svg?style=social&label=Star)
+- **Octavius: Mitigating Task Interference in MLLMs via MoE**, `arXiv, 2311.02684`, [arxiv](http://arxiv.org/abs/2311.02684v1), [pdf](http://arxiv.org/pdf/2311.02684v1.pdf), cication: [**3**](https://scholar.google.com/scholar?cites=12245060539687688497&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Zeren Chen, Ziqin Wang, Zhen Wang, Huayang Liu, Zhenfei Yin, Si Liu, Lu Sheng, Wanli Ouyang, Yu Qiao, Jing Shao* · ([openlamm.github](https://openlamm.github.io/paper_list/Octavius))
+- **Enhancing Multimodal Large Language Models with Vision Detection Models:
+  An Empirical Study**, `arXiv, 2401.17981`, [arxiv](http://arxiv.org/abs/2401.17981v1), [pdf](http://arxiv.org/pdf/2401.17981v1.pdf), cication: [**-1**](None)
+
+	 *Qirui Jiao, Daoyuan Chen, Yilun Huang, Yaliang Li, Ying Shen*
 - **Overcoming the Pitfalls of Vision-Language Model Finetuning for OOD
   Generalization**, `arXiv, 2401.15914`, [arxiv](http://arxiv.org/abs/2401.15914v1), [pdf](http://arxiv.org/pdf/2401.15914v1.pdf), cication: [**-1**](None)
 
@@ -777,6 +791,8 @@
 - **Multimodal Neurons in Pretrained Text-Only Transformers**, `ICCV, 2023`, [arxiv](http://arxiv.org/abs/2308.01544v2), [pdf](http://arxiv.org/pdf/2308.01544v2.pdf), cication: [**-1**](None)
 
 	 *Sarah Schwettmann, Neil Chowdhury, Samuel Klein, David Bau, Antonio Torralba*
+
+- [多模态LLM多到看不过来？先看这26个SOTA模型吧 | 机器之心](https://www.jiqizhixin.com/articles/2024-01-31-3)
 - [多模态和多模态大模型](https://mp.weixin.qq.com/s?__biz=MzIyMzk1MDE3Nw==&mid=2247619958&idx=1&sn=493798d55e1aa583d103ee10ed04ef55)
 - [中科院自动化所全模态大模型亮相，图文音视频3D传感器信号全能 | 量子位](https://www.qbitai.com/2023/06/61901.html)
 - [从零训练一个多模态LLM](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494284&idx=2&sn=f3a4bbc3e1f5f0061e7da945ef7c88f6)

@@ -12,6 +12,9 @@
 
 
 ## Papers
+- **Transforming and Combining Rewards for Aligning Large Language Models**, `arXiv, 2402.00742`, [arxiv](http://arxiv.org/abs/2402.00742v1), [pdf](http://arxiv.org/pdf/2402.00742v1.pdf), cication: [**-1**](None)
+
+	 *Zihao Wang, Chirag Nagpal, Jonathan Berant, Jacob Eisenstein, Alex D'Amour, Sanmi Koyejo, Victor Veitch*
 - **Aligning Large Language Models with Counterfactual DPO**, `arXiv, 2401.09566`, [arxiv](http://arxiv.org/abs/2401.09566v2), [pdf](http://arxiv.org/pdf/2401.09566v2.pdf), cication: [**-1**](None)
 
 	 *Bradley Butcher*
@@ -184,6 +187,7 @@
 - [**tril**](https://github.com/cornell-rl/tril) - cornell-rl ![Star](https://img.shields.io/github/stars/cornell-rl/tril.svg?style=social&label=Star)
 
 ## Other
+- [Constitutional AI with Open LLMs](https://huggingface.co/blog/constitutional_ai)
 - [Preference Tuning LLMs with Direct Preference Optimization Methods](https://huggingface.co/blog/pref-tuning)
 - [Reinforcement Learning from Human Feedback - DeepLearning.AI](https://www.deeplearning.ai/short-courses/reinforcement-learning-from-human-feedback/)
 - [**Reinforcement Learning for Language Models**](https://gist.github.com/yoavg/6bff0fecd65950898eba1bb321cfbd81) - yoavg ![Star](https://img.shields.io/github/stars/yoavg/6bff0fecd65950898eba1bb321cfbd81.svg?style=social&label=Star)

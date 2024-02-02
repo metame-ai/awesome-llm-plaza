@@ -343,6 +343,7 @@
 	 *Lianmin Zheng, Wei-Lin Chiang, Ying Sheng, Siyuan Zhuang, Zhanghao Wu, Yonghao Zhuang, Zi Lin, Zhuohan Li, Dacheng Li, Eric. P Xing*
 
 ## Projects
+- [Introducing the Enterprise Scenarios Leaderboard: a Leaderboard for Real World Use Cases](https://huggingface.co/blog/leaderboards-on-the-hub-patronus)
 - [**finetuning-subnet**](https://github.com/NousResearch/finetuning-subnet/tree/master) - NousResearch ![Star](https://img.shields.io/github/stars/NousResearch/finetuning-subnet.svg?style=social&label=Star)
 
 	 · ([huggingface](https://huggingface.co/spaces/NousResearch/finetuning_subnet_leaderboard))

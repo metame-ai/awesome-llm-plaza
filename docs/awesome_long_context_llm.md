@@ -21,6 +21,16 @@
 - [Attention? Attention! | Lil'Log](https://lilianweng.github.io/posts/2018-06-24-attention/#a-family-of-attention-mechanisms)
 
 ## Papers
+- **KVQuant: Towards 10 Million Context Length LLM Inference with KV Cache
+  Quantization**, `arXiv, 2401.18079`, [arxiv](http://arxiv.org/abs/2401.18079v1), [pdf](http://arxiv.org/pdf/2401.18079v1.pdf), cication: [**-1**](None)
+
+	 *Coleman Hooper, Sehoon Kim, Hiva Mohammadzadeh, Michael W. Mahoney, Yakun Sophia Shao, Kurt Keutzer, Amir Gholami*
+- [**Long-Context-Data-Engineering**](https://github.com/FranxYao/Long-Context-Data-Engineering) - FranxYao ![Star](https://img.shields.io/github/stars/FranxYao/Long-Context-Data-Engineering.svg?style=social&label=Star)
+
+	 *Implementation of paper Data Engineering for Scaling Language Models to 128K Context*
+- **LongAlign: A Recipe for Long Context Alignment of Large Language Models**, `arXiv, 2401.18058`, [arxiv](http://arxiv.org/abs/2401.18058v1), [pdf](http://arxiv.org/pdf/2401.18058v1.pdf), cication: [**-1**](None)
+
+	 *Yushi Bai, Xin Lv, Jiajie Zhang, Yuze He, Ji Qi, Lei Hou, Jie Tang, Yuxiao Dong, Juanzi Li* · ([LongAlign](https://github.com/THUDM/LongAlign) - THUDM) ![Star](https://img.shields.io/github/stars/THUDM/LongAlign.svg?style=social&label=Star)
 - **With Greater Text Comes Greater Necessity: Inference-Time Training Helps
   Long Text Generation**, `arXiv, 2401.11504`, [arxiv](http://arxiv.org/abs/2401.11504v1), [pdf](http://arxiv.org/pdf/2401.11504v1.pdf), cication: [**-1**](None)
 
