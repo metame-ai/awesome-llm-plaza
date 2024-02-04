@@ -292,6 +292,10 @@ jj
 - [大模型Fewshot推理如何选择更好的示例](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495177&idx=2&sn=fe8353efed16a81e35462be06d5a6cea)
 
 ## Math reasoning
+- **Large Language Models for Mathematical Reasoning: Progresses and
+  Challenges**, `arXiv, 2402.00157`, [arxiv](http://arxiv.org/abs/2402.00157v1), [pdf](http://arxiv.org/pdf/2402.00157v1.pdf), cication: [**-1**](None)
+
+	 *Janice Ahn, Rishu Verma, Renze Lou, Di Liu, Rui Zhang, Wenpeng Yin*
 - **Generative AI for Math: Part I -- MathPile: A Billion-Token-Scale
   Pretraining Corpus for Math**, `arXiv, 2312.17120`, [arxiv](http://arxiv.org/abs/2312.17120v1), [pdf](http://arxiv.org/pdf/2312.17120v1.pdf), cication: [**-1**](None)
 

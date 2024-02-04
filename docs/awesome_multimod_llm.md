@@ -772,6 +772,9 @@
   Inspired by Real-World Use**, `arXiv, 2308.06595`, [arxiv](http://arxiv.org/abs/2308.06595v2), [pdf](http://arxiv.org/pdf/2308.06595v2.pdf), cication: [**3**](https://scholar.google.com/scholar?cites=7953954865512108233&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Yonatan Bitton, Hritik Bansal, Jack Hessel, Rulin Shao, Wanrong Zhu, Anas Awadalla, Josh Gardner, Rohan Taori, Ludwig Schimdt*
+- **On the Hidden Mystery of OCR in Large Multimodal Models**, `arXiv, 2305.07895`, [arxiv](http://arxiv.org/abs/2305.07895v5), [pdf](http://arxiv.org/pdf/2305.07895v5.pdf), cication: [**29**](https://scholar.google.com/scholar?cites=13368693482898036166&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Yuliang Liu, Zhang Li, Biao Yang, Chunyuan Li, Xucheng Yin, Cheng-lin Liu, Lianwen Jin, Xiang Bai* · ([MultimodalOCR](https://github.com/Yuliang-Liu/MultimodalOCR) - Yuliang-Liu) ![Star](https://img.shields.io/github/stars/Yuliang-Liu/MultimodalOCR.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652442102&idx=4&sn=64a53646c57797a00b9db186f339c5eb))
 
 ## Datasets
 - **CapsFusion: Rethinking Image-Text Data at Scale**, `arXiv, 2310.20550`, [arxiv](http://arxiv.org/abs/2310.20550v2), [pdf](http://arxiv.org/pdf/2310.20550v2.pdf), cication: [**-1**](None)

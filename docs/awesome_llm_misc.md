@@ -188,6 +188,11 @@
 
 	 *Stephen Casper, Jason Lin, Joe Kwon, Gatlen Culp, Dylan Hadfield-Menell*
 
+## Forecasting
+- **Time-LLM: Time Series Forecasting by Reprogramming Large Language Models**, `arXiv, 2310.01728`, [arxiv](http://arxiv.org/abs/2310.01728v2), [pdf](http://arxiv.org/pdf/2310.01728v2.pdf), cication: [**17**](https://scholar.google.com/scholar?cites=4605741467245220036&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Ming Jin, Shiyu Wang, Lintao Ma, Zhixuan Chu, James Y. Zhang, Xiaoming Shi, Pin-Yu Chen, Yuxuan Liang, Yuan-Fang Li, Shirui Pan* · ([time-llm](https://github.com/kimmeen/time-llm) - kimmeen) ![Star](https://img.shields.io/github/stars/kimmeen/time-llm.svg?style=social&label=Star)
+
 ## Chat arena
 - [**GodMode**](https://github.com/smol-ai/GodMode) - smol-ai ![Star](https://img.shields.io/github/stars/smol-ai/GodMode.svg?style=social&label=Star)
 
@@ -197,6 +202,9 @@
 	 *Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers*
 
 ## New model
+- [BlackMamba — Zyphra](https://www.zyphra.com/blackmamba)
+
+	 · ([static1.squarespace](https://static1.squarespace.com/static/658ded386c43c219ee47caba/t/65bd73200920d050ccbac40c/1706914594353/blackMamba.pdf))
 - **Infini-gram: Scaling Unbounded n-gram Language Models to a Trillion
   Tokens**, `arXiv, 2401.17377`, [arxiv](http://arxiv.org/abs/2401.17377v1), [pdf](http://arxiv.org/pdf/2401.17377v1.pdf), cication: [**-1**](None)
 
@@ -245,6 +253,9 @@
 	 *John Hewitt, John Thickstun, Christopher D. Manning, Percy Liang* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-06-25-5)) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI1MjQ2OTQ3Ng==&mid=2247608689&idx=2&sn=ed29c1ee1f571f98b191805472feb79a))
 
 ## LLM detection
+- **HuRef: HUman-REadable Fingerprint for Large Language Models**, `arXiv, 2312.04828`, [arxiv](http://arxiv.org/abs/2312.04828v1), [pdf](http://arxiv.org/pdf/2312.04828v1.pdf), cication: [**-1**](None)
+
+	 *Boyi Zeng, Chenghu Zhou, Xinbing Wang, Zhouhan Lin* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-02-4))
 - [**LLM-generated-text-detection**](https://github.com/thunlp/LLM-generated-text-detection) - thunlp ![Star](https://img.shields.io/github/stars/thunlp/LLM-generated-text-detection.svg?style=social&label=Star)
 - **Adaptive Text Watermark for Large Language Models**, `arXiv, 2401.13927`, [arxiv](http://arxiv.org/abs/2401.13927v1), [pdf](http://arxiv.org/pdf/2401.13927v1.pdf), cication: [**-1**](None)
 

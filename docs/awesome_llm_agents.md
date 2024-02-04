@@ -608,6 +608,10 @@
 
 	 *Interact privately with your documents using the power of GPT, 100% privately, no data leaks*
 
+### Embedding
+- [**contrastors**](https://github.com/nomic-ai/contrastors) - nomic-ai ![Star](https://img.shields.io/github/stars/nomic-ai/contrastors.svg?style=social&label=Star)
+
+	 *Train Models Contrastively in Pytorch* · ([huggingface](https://huggingface.co/nomic-ai/nomic-embed-text-v1)) · ([mp.weixin.qq](https://mp.weixin.qq.com/s/EMWNf9TiDwuxxkwwqsl73g))
 ### Other
 - [A Cheat Sheet and Some Recipes For Building Advanced RAG | by Andrei | Jan, 2024 | LlamaIndex Blog](https://blog.llamaindex.ai/a-cheat-sheet-and-some-recipes-for-building-advanced-rag-803a9d94c41b)
 - [Build a search engine, not a vector DB](https://blog.elicit.com/search-vs-vector-db/)

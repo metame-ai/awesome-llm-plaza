@@ -122,6 +122,9 @@
 	 *Yizhe Zhang, Jiatao Gu, Zhuofeng Wu, Shuangfei Zhai, Josh Susskind, Navdeep Jaitly*
 
 ## WebUI
+- [**ChatGemini**](https://github.com/bclswl0827/ChatGemini) - bclswl0827 ![Star](https://img.shields.io/github/stars/bclswl0827/ChatGemini.svg?style=social&label=Star)
+
+	 *✨ ChatGemini 是一个基于 Google Gemini 的网页客户端，对标 ChatGPT 3.5，操作逻辑同 ChatGPT 3.5 一致，同时支持在聊天中上传图片，应用会自动调用 Gemini-Pro-Vision 模型进行识图。*
 - [**LibreChat**](https://github.com/danny-avila/LibreChat) - danny-avila ![Star](https://img.shields.io/github/stars/danny-avila/LibreChat.svg?style=social&label=Star)
 
 	 *Enhanced ChatGPT Clone: Features OpenAI, GPT-4 Vision, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development*

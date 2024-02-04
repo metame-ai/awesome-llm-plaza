@@ -31,9 +31,7 @@
 # English
 
 ## Foundation
-- **OLMo: Accelerating the Science of Language Models**, `arXiv, 2402.00838`, [arxiv](http://arxiv.org/abs/2402.00838v1), [pdf](http://arxiv.org/pdf/2402.00838v1.pdf), cication: [**-1**](None)
 
-	 *Dirk Groeneveld, Iz Beltagy, Pete Walsh, Akshita Bhagia, Rodney Kinney, Oyvind Tafjord, Ananya Harsh Jha, Hamish Ivison, Ian Magnusson, Yizhong Wang* · ([OLMo](https://github.com/allenai/OLMo) - allenai) ![Star](https://img.shields.io/github/stars/allenai/OLMo.svg?style=social&label=Star) · ([allenai](https://allenai.org/olmo)) · ([allenai](https://allenai.org/olmo/olmo-paper.pdf))
 - [**miqu-1-70b**](https://huggingface.co/miqudev/miqu-1-70b) - miqudev 🤗
 - **H2O-Danube-1.8B Technical Report**, `arXiv, 2401.16818`, [arxiv](http://arxiv.org/abs/2401.16818v1), [pdf](http://arxiv.org/pdf/2401.16818v1.pdf), cication: [**-1**](None)
 
@@ -102,6 +100,12 @@
   Language, Multimodal, and Scientific GPT Models**, `arXiv, 2308.14149`, [arxiv](http://arxiv.org/abs/2308.14149v1), [pdf](http://arxiv.org/pdf/2308.14149v1.pdf), cication: [**-1**](None)
 
 	 *Kaiyuan Gao, Sunan He, Zhenyu He, Jiacheng Lin, QiZhi Pei, Jie Shao, Wei Zhang* · ([gpt_alternatives](https://github.com/GPT-Alternatives/gpt_alternatives) - GPT-Alternatives) ![Star](https://img.shields.io/github/stars/GPT-Alternatives/gpt_alternatives.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-09-12-3))
+
+### OLMo
+- **OLMo: Accelerating the Science of Language Models**, `arXiv, 2402.00838`, [arxiv](http://arxiv.org/abs/2402.00838v1), [pdf](http://arxiv.org/pdf/2402.00838v1.pdf), cication: [**-1**](None)
+
+	 *Dirk Groeneveld, Iz Beltagy, Pete Walsh, Akshita Bhagia, Rodney Kinney, Oyvind Tafjord, Ananya Harsh Jha, Hamish Ivison, Ian Magnusson, Yizhong Wang* · ([OLMo](https://github.com/allenai/OLMo) - allenai) ![Star](https://img.shields.io/github/stars/allenai/OLMo.svg?style=social&label=Star) · ([allenai](https://allenai.org/olmo)) · ([allenai](https://allenai.org/olmo/olmo-paper.pdf))
+- [**OLMo-7B**](https://huggingface.co/allenai/OLMo-7B) - allenai 🤗
 
 ### Phi
 - [**phi-2**](https://huggingface.co/microsoft/phi-2) - microsoft 🤗
@@ -273,6 +277,8 @@
 - [**MiniCPM**](https://github.com/OpenBMB/MiniCPM) - OpenBMB ![Star](https://img.shields.io/github/stars/OpenBMB/MiniCPM.svg?style=social&label=Star)
 
 	 *MiniCPM-2.4B: An end-side LLM outperforms Llama2-13B.*
+
+	 · ([huggingface](https://huggingface.co/openbmb))
 - [iFlytekSpark-13B: 讯飞星火开源-13B（iFlytekSpark-13B）](https://gitee.com/iflytekopensource/iFlytekSpark-13B)
 - **Orion-14B: Open-source Multilingual Large Language Models**, `arXiv, 2401.12246`, [arxiv](http://arxiv.org/abs/2401.12246v1), [pdf](http://arxiv.org/pdf/2401.12246v1.pdf), cication: [**-1**](None)
 
@@ -290,6 +296,8 @@
 - **SeaLLMs -- Large Language Models for Southeast Asia**, `arXiv, 2312.00738`, [arxiv](http://arxiv.org/abs/2312.00738v1), [pdf](http://arxiv.org/pdf/2312.00738v1.pdf), cication: [**-1**](None)
 
 	 *Xuan-Phi Nguyen, Wenxuan Zhang, Xin Li, Mahani Aljunied, Qingyu Tan, Liying Cheng, Guanzheng Chen, Yue Deng, Sen Yang, Chaoqun Liu*
+
+	 · ([SeaLLMs](https://github.com/DAMO-NLP-SG/SeaLLMs) - DAMO-NLP-SG) ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/SeaLLMs.svg?style=social&label=Star)
 - **YUAN 2.0: A Large Language Model with Localized Filtering-based
   Attention**, `arXiv, 2311.15786`, [arxiv](http://arxiv.org/abs/2311.15786v1), [pdf](http://arxiv.org/pdf/2311.15786v1.pdf), cication: [**-1**](None)
 

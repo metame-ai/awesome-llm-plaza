@@ -28,6 +28,10 @@
 	 *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang*
 
 ## Papers
+- **A Chain-of-Thought Is as Strong as Its Weakest Link: A Benchmark for
+  Verifiers of Reasoning Chains**, `arXiv, 2402.00559`, [arxiv](http://arxiv.org/abs/2402.00559v1), [pdf](http://arxiv.org/pdf/2402.00559v1.pdf), cication: [**-1**](None)
+
+	 *Alon Jacovi, Yonatan Bitton, Bernd Bohnet, Jonathan Herzig, Or Honovich, Michael Tseng, Michael Collins, Roee Aharoni, Mor Geva* · ([huggingface](https://huggingface.co/datasets/google/reveal))
 - **E-EVAL: A Comprehensive Chinese K-12 Education Evaluation Benchmark for
   Large Language Models**, `arXiv, 2401.15927`, [arxiv](http://arxiv.org/abs/2401.15927v1), [pdf](http://arxiv.org/pdf/2401.15927v1.pdf), cication: [**-1**](None)
 
@@ -343,6 +347,9 @@
 	 *Lianmin Zheng, Wei-Lin Chiang, Ying Sheng, Siyuan Zhuang, Zhanghao Wu, Yonghao Zhuang, Zi Lin, Zhuohan Li, Dacheng Li, Eric. P Xing*
 
 ## Projects
+- [**NPHardEval-leaderboard**](https://huggingface.co/spaces/NPHardEval/NPHardEval-leaderboard) - NPHardEval 🤗
+
+	 · ([huggingface](https://huggingface.co/blog/leaderboards-on-the-hub-nphardeval))
 - [Introducing the Enterprise Scenarios Leaderboard: a Leaderboard for Real World Use Cases](https://huggingface.co/blog/leaderboards-on-the-hub-patronus)
 - [**finetuning-subnet**](https://github.com/NousResearch/finetuning-subnet/tree/master) - NousResearch ![Star](https://img.shields.io/github/stars/NousResearch/finetuning-subnet.svg?style=social&label=Star)
 
