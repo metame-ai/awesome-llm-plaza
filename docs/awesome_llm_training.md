@@ -59,6 +59,10 @@
 	 *Yufei Wang, Wanjun Zhong, Liangyou Li, Fei Mi, Xingshan Zeng, Wenyong Huang, Lifeng Shang, Xin Jiang, Qun Liu* · ([AlignLLMHumanSurvey](https://github.com/GaryYufei/AlignLLMHumanSurvey) - GaryYufei) ![Star](https://img.shields.io/github/stars/GaryYufei/AlignLLMHumanSurvey.svg?style=social&label=Star)
 
 ### Paper & Projects
+- **Specialized Language Models with Cheap Inference from Limited Domain
+  Data**, `arXiv, 2402.01093`, [arxiv](http://arxiv.org/abs/2402.01093v1), [pdf](http://arxiv.org/pdf/2402.01093v1.pdf), cication: [**-1**](None)
+
+	 *David Grangier, Angelos Katharopoulos, Pierre Ablin, Awni Hannun*
 - **Human-Instruction-Free LLM Self-Alignment with Limited Samples**, `arXiv, 2401.06785`, [arxiv](http://arxiv.org/abs/2401.06785v1), [pdf](http://arxiv.org/pdf/2401.06785v1.pdf), cication: [**-1**](None)
 
 	 *Hongyi Guo, Yuanshun Yao, Wei Shen, Jiaheng Wei, Xiaoying Zhang, Zhaoran Wang, Yang Liu*
@@ -176,6 +180,9 @@
 - [领域大模型-训练Trick&落地思考](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494320&idx=2&sn=8edd6ea37bbd73768caa306d9daa2cf7)
 
 ## Scaling
+- **Scaling Laws for Downstream Task Performance of Large Language Models**, `arXiv, 2402.04177`, [arxiv](http://arxiv.org/abs/2402.04177v1), [pdf](http://arxiv.org/pdf/2402.04177v1.pdf), cication: [**-1**](None)
+
+	 *Berivan Isik, Natalia Ponomareva, Hussein Hazimeh, Dimitris Paparas, Sergei Vassilvitskii, Sanmi Koyejo*
 - **T3: Transparent Tracking & Triggering for Fine-grained Overlap of
   Compute & Collectives**, `arXiv, 2401.16677`, [arxiv](http://arxiv.org/abs/2401.16677v1), [pdf](http://arxiv.org/pdf/2401.16677v1.pdf), cication: [**-1**](None)
 
@@ -295,6 +302,9 @@
 - [Fine-tuning GPT3.5-turbo based on 140k slack messages · Ross Lazerowitz](https://rosslazer.com/posts/fine-tuning/)
 
 ## Architectures
+- **Rethinking Optimization and Architecture for Tiny Language Models**, `arXiv, 2402.02791`, [arxiv](http://arxiv.org/abs/2402.02791v2), [pdf](http://arxiv.org/pdf/2402.02791v2.pdf), cication: [**-1**](None)
+
+	 *Yehui Tang, Fangcheng Liu, Yunsheng Ni, Yuchuan Tian, Zheyuan Bai, Yi-Qi Hu, Sichao Liu, Shangling Jui, Kai Han, Yunhe Wang* · ([RethinkTinyLM](https://github.com/YuchuanTian/RethinkTinyLM) - YuchuanTian) ![Star](https://img.shields.io/github/stars/YuchuanTian/RethinkTinyLM.svg?style=social&label=Star)
 - **Rethinking Attention: Exploring Shallow Feed-Forward Neural Networks as
   an Alternative to Attention Layers in Transformers**, `arXiv, 2311.10642`, [arxiv](http://arxiv.org/abs/2311.10642v1), [pdf](http://arxiv.org/pdf/2311.10642v1.pdf), cication: [**-1**](None)
 
@@ -357,6 +367,12 @@
 - [Weight averaging and model merging for LLMs seem to be the most interesting themes in 2024 so far. ](https://twitter.com/rasbt/status/1750180383398744106)
 
 ## MoE
+- **BlackMamba: Mixture of Experts for State-Space Models**, `arXiv, 2402.01771`, [arxiv](http://arxiv.org/abs/2402.01771v1), [pdf](http://arxiv.org/pdf/2402.01771v1.pdf), cication: [**-1**](None)
+
+	 *Quentin Anthony, Yury Tokpanov, Paolo Glorioso, Beren Millidge* · ([BlackMamba](https://github.com/Zyphra/BlackMamba) - Zyphra) ![Star](https://img.shields.io/github/stars/Zyphra/BlackMamba.svg?style=social&label=Star)
+- **LocMoE: A Low-overhead MoE for Large Language Model Training**, `arXiv, 2401.13920`, [arxiv](http://arxiv.org/abs/2401.13920v1), [pdf](http://arxiv.org/pdf/2401.13920v1.pdf), cication: [**-1**](None)
+
+	 *Jing Li, Zhijie Sun, Xuan He, Li Zeng, Yi Lin, Entong Li, Binfan Zheng, Rongqian Zhao, Xin Chen* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-04-6))
 - **MoE-Mamba: Efficient Selective State Space Models with Mixture of
   Experts**, `arXiv, 2401.04081`, [arxiv](http://arxiv.org/abs/2401.04081v1), [pdf](http://arxiv.org/pdf/2401.04081v1.pdf), cication: [**-1**](None)
 
@@ -396,6 +412,9 @@
   Large Language Models**, `arXiv, 2305.14705`, [arxiv](http://arxiv.org/abs/2305.14705v2), [pdf](http://arxiv.org/pdf/2305.14705v2.pdf), cication: [**5**](https://scholar.google.com/scholar?cites=9670032780085101117&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Sheng Shen, Le Hou, Yanqi Zhou, Nan Du, Shayne Longpre, Jason Wei, Hyung Won Chung, Barret Zoph, William Fedus, Xinyun Chen* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-07-07-9))
+- **OpenMoE: An Early Effort on Open Mixture-of-Experts Language Models**, `arXiv, 2402.01739`, [arxiv](http://arxiv.org/abs/2402.01739v1), [pdf](http://arxiv.org/pdf/2402.01739v1.pdf), cication: [**-1**](None)
+
+	 *Fuzhao Xue, Zian Zheng, Yao Fu, Jinjie Ni, Zangwei Zheng, Wangchunshu Zhou, Yang You*
 - [**OpenMoE**](https://github.com/XueFuzhao/OpenMoE) - XueFuzhao ![Star](https://img.shields.io/github/stars/XueFuzhao/OpenMoE.svg?style=social&label=Star)
 
 	 *A family of open-sourced Mixture-of-Experts (MoE) Large Language Models*
@@ -433,6 +452,9 @@
 - [模块化大模型来了！IBM公开WastonX核心架构技术细节](https://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&mid=2247522084&idx=3&sn=ceba2b0c3e6434599101f7604ff109c4)
 
 ## Toolkits
+- [**zero-bubble-pipeline-parallelism**](https://github.com/sail-sg/zero-bubble-pipeline-parallelism) - sail-sg ![Star](https://img.shields.io/github/stars/sail-sg/zero-bubble-pipeline-parallelism.svg?style=social&label=Star)
+
+	 *Zero Bubble Pipeline Parallelism* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&mid=2247541193&idx=3&sn=eadcb731bffb88d56cecbc3d60acbae3))
 - [**levanter**](https://github.com/stanford-crfm/levanter) - stanford-crfm ![Star](https://img.shields.io/github/stars/stanford-crfm/levanter.svg?style=social&label=Star)
 
 	 *Legibile, Scalable, Reproducible Foundation Models with Named Tensors and Jax*

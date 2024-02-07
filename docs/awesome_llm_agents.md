@@ -22,6 +22,10 @@
 	- [Extra reference](#extra-reference)
 
 ## Survey
+- **Large Language Model based Multi-Agents: A Survey of Progress and
+  Challenges**, `arXiv, 2402.01680`, [arxiv](http://arxiv.org/abs/2402.01680v1), [pdf](http://arxiv.org/pdf/2402.01680v1.pdf), cication: [**-1**](None)
+
+	 *Taicheng Guo, Xiuying Chen, Yaqi Wang, Ruidi Chang, Shichao Pei, Nitesh V. Chawla, Olaf Wiest, Xiangliang Zhang*
 - **Personal LLM Agents: Insights and Survey about the Capability,
   Efficiency and Security**, `arXiv, 2401.05459`, [arxiv](http://arxiv.org/abs/2401.05459v1), [pdf](http://arxiv.org/pdf/2401.05459v1.pdf), cication: [**-1**](None)
 
@@ -49,6 +53,20 @@
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-18-4))
 ## Agents
+- **PokéLLMon: A Human-Parity Agent for Pokémon Battles with Large
+  Language Models**, `arXiv, 2402.01118`, [arxiv](http://arxiv.org/abs/2402.01118v1), [pdf](http://arxiv.org/pdf/2402.01118v1.pdf), cication: [**-1**](None)
+
+	 *Sihao Hu, Tiansheng Huang, Ling Liu* · ([PokeLLMon](https://github.com/git-disl/PokeLLMon) - git-disl) ![Star](https://img.shields.io/github/stars/git-disl/PokeLLMon.svg?style=social&label=Star) · ([poke-llm-on.github](https://poke-llm-on.github.io/))
+- **V-IRL: Grounding Virtual Intelligence in Real Life**, `arXiv, 2402.03310`, [arxiv](http://arxiv.org/abs/2402.03310v1), [pdf](http://arxiv.org/pdf/2402.03310v1.pdf), cication: [**-1**](None)
+
+	 *Jihan Yang, Runyu Ding, Ellis Brown, Xiaojuan Qi, Saining Xie* · ([virl-platform.github](https://virl-platform.github.io/)) · ([VIRL](https://github.com/VIRL-Platform/VIRL) - VIRL-Platform) ![Star](https://img.shields.io/github/stars/VIRL-Platform/VIRL.svg?style=social&label=Star)
+- **TravelPlanner: A Benchmark for Real-World Planning with Language Agents**, `arXiv, 2402.01622`, [arxiv](http://arxiv.org/abs/2402.01622v2), [pdf](http://arxiv.org/pdf/2402.01622v2.pdf), cication: [**-1**](None)
+
+	 *Jian Xie, Kai Zhang, Jiangjie Chen, Tinghui Zhu, Renze Lou, Yuandong Tian, Yanghua Xiao, Yu Su* · ([osu-nlp-group.github](https://osu-nlp-group.github.io/TravelPlanner/)) · ([TravelPlanner](https://github.com/OSU-NLP-Group/TravelPlanner) - OSU-NLP-Group) ![Star](https://img.shields.io/github/stars/OSU-NLP-Group/TravelPlanner.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652442972&idx=2&sn=f8a866ff62f5e170fe9eabfb14a5c52f))
+- **Investigate-Consolidate-Exploit: A General Strategy for Inter-Task Agent
+  Self-Evolution**, `arXiv, 2401.13996`, [arxiv](http://arxiv.org/abs/2401.13996v1), [pdf](http://arxiv.org/pdf/2401.13996v1.pdf), cication: [**-1**](None)
+
+	 *Cheng Qian, Shihao Liang, Yujia Qin, Yining Ye, Xin Cong, Yankai Lin, Yesai Wu, Zhiyuan Liu, Maosong Sun* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-06-7))
 - **Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual
   Perception**, `arXiv, 2401.16158`, [arxiv](http://arxiv.org/abs/2401.16158v1), [pdf](http://arxiv.org/pdf/2401.16158v1.pdf), cication: [**-1**](None)
 
@@ -386,6 +404,9 @@
 - [AgentGPT](https://agentgpt.reworkd.ai/)
 
 ## Augmented LLM
+- **AnyTool: Self-Reflective, Hierarchical Agents for Large-Scale API Calls**, `arXiv, 2402.04253`, [arxiv](http://arxiv.org/abs/2402.04253v1), [pdf](http://arxiv.org/pdf/2402.04253v1.pdf), cication: [**-1**](None)
+
+	 *Yu Du, Fangyun Wei, Hongyang Zhang*
 - **Efficient Tool Use with Chain-of-Abstraction Reasoning**, `arXiv, 2401.17464`, [arxiv](http://arxiv.org/abs/2401.17464v1), [pdf](http://arxiv.org/pdf/2401.17464v1.pdf), cication: [**-1**](None)
 
 	 *Silin Gao, Jane Dwivedi-Yu, Ping Yu, Xiaoqing Ellen Tan, Ramakanth Pasunuru, Olga Golovneva, Koustuv Sinha, Asli Celikyilmaz, Antoine Bosselut, Tianlu Wang*
@@ -613,9 +634,11 @@
 
 	 *Train Models Contrastively in Pytorch* · ([huggingface](https://huggingface.co/nomic-ai/nomic-embed-text-v1)) · ([mp.weixin.qq](https://mp.weixin.qq.com/s/EMWNf9TiDwuxxkwwqsl73g))
 ### Other
+- [Retrieval Augmented Generation (RAG) for LLMs | Prompt Engineering Guide<!-- -->](https://www.promptingguide.ai/research/rag)
 - [A Cheat Sheet and Some Recipes For Building Advanced RAG | by Andrei | Jan, 2024 | LlamaIndex Blog](https://blog.llamaindex.ai/a-cheat-sheet-and-some-recipes-for-building-advanced-rag-803a9d94c41b)
 - [Build a search engine, not a vector DB](https://blog.elicit.com/search-vs-vector-db/)
 
+- [RAG研发真实图鉴：一周出Demo，半年用不好](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495552&idx=2&sn=5dc6957f860fa90afa01f547df71ff02)
 - [大模型RAG的迭代路径](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495480&idx=1&sn=71ba95734ab559fb21408993d1800741)
 - [大模型RAG问答技术架构及核心模块回顾](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495441&idx=2&sn=cb2cfb2eab441f8a5262ad5b98c1757f)
 - [【大模型外挂知识库(RAG)优化】如何炼成强大的向量化召回模型 - 知乎](https://zhuanlan.zhihu.com/p/661867062)

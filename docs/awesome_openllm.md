@@ -36,6 +36,7 @@
 - **H2O-Danube-1.8B Technical Report**, `arXiv, 2401.16818`, [arxiv](http://arxiv.org/abs/2401.16818v1), [pdf](http://arxiv.org/pdf/2401.16818v1.pdf), cication: [**-1**](None)
 
 	 *Philipp Singer, Pascal Pfeiffer, Yauhen Babakhin, Maximilian Jeblick, Nischay Dhankhar, Gabor Fodor, Sri Satish Ambati*
+- [**Smaug-72B-v0.1**](https://huggingface.co/abacusai/Smaug-72B-v0.1) - abacusai 🤗
 - [**Smaug-34B-v0.1**](https://huggingface.co/abacusai/Smaug-34B-v0.1) - abacusai 🤗
 - [**bagel-34b-v0.2**](https://huggingface.co/jondurbin/bagel-34b-v0.2) - jondurbin 🤗
 - **TinyLlama: An Open-Source Small Language Model**, `arXiv, 2401.02385`, [arxiv](http://arxiv.org/abs/2401.02385v1), [pdf](http://arxiv.org/pdf/2401.02385v1.pdf), cication: [**-1**](None)
@@ -279,6 +280,8 @@
 	 *MiniCPM-2.4B: An end-side LLM outperforms Llama2-13B.*
 
 	 · ([huggingface](https://huggingface.co/openbmb))
+
+	 · ([shengdinghu.notion](https://shengdinghu.notion.site/MiniCPM-Unveiling-the-Potential-of-End-side-Large-Language-Models-d4d3a8c426424654a4e80e42a711cb20))
 - [iFlytekSpark-13B: 讯飞星火开源-13B（iFlytekSpark-13B）](https://gitee.com/iflytekopensource/iFlytekSpark-13B)
 - **Orion-14B: Open-source Multilingual Large Language Models**, `arXiv, 2401.12246`, [arxiv](http://arxiv.org/abs/2401.12246v1), [pdf](http://arxiv.org/pdf/2401.12246v1.pdf), cication: [**-1**](None)
 
@@ -358,6 +361,9 @@
  - [xverse/XVERSE-13B-256K · Hugging Face](https://huggingface.co/xverse/XVERSE-13B-256K)
  
 ### Qwen
+- [**Qwen1.5**](https://github.com/QwenLM/Qwen1.5) - QwenLM ![Star](https://img.shields.io/github/stars/QwenLM/Qwen1.5.svg?style=social&label=Star)
+
+	 *Qwen1.5 is the improved version of Qwen, the large language model series developed by Qwen team, Alibaba Cloud.* · ([qwenlm.github](https://qwenlm.github.io/))
 - [**Qwen**](https://github.com/QwenLM/Qwen) - QwenLM ![Star](https://img.shields.io/github/stars/QwenLM/Qwen.svg?style=social&label=Star)
 
 	 *The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.*
@@ -366,6 +372,7 @@
 
 	 *The official repo of Qwen-7B (通义千问-7B) chat & pretrained large language model proposed by Alibaba Cloud.* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494650&idx=1&sn=fbeb1cc57092931966b3e57f8733ed82)) · ([qbitai](https://www.qbitai.com/2023/09/86450.html))
 - [**Qwen-72B-Chat-Demo**](https://huggingface.co/spaces/Qwen/Qwen-72B-Chat-Demo) - Qwen 🤗
+- [Quyen - a vilm Collection](https://huggingface.co/collections/vilm/quyen-65bc71a29fa020161bc87859)
 ### Baichuan
 - **Baichuan 2: Open Large-scale Language Models**, `arXiv, 2309.10305`, [arxiv](http://arxiv.org/abs/2309.10305v2), [pdf](http://arxiv.org/pdf/2309.10305v2.pdf), cication: [**16**](https://scholar.google.com/scholar?cites=11092587028861989085&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
@@ -455,6 +462,7 @@
 	 *⚡LLM Zoo is a project that provides data, models, and evaluation benchmark for large language models.⚡*
 
 # Extra reference
+- [Ecosystem Graphs for Foundation Models](https://crfm.stanford.edu/ecosystem-graphs/index.html?mode=table)
 - [LLM Collection | Prompt Engineering Guide](https://www.promptingguide.ai/models/collection)
 - [**open-llms**](https://github.com/eugeneyan/open-llms) - eugeneyan ![Star](https://img.shields.io/github/stars/eugeneyan/open-llms.svg?style=social&label=Star)
 

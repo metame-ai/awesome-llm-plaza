@@ -76,6 +76,16 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
+- **MobileVLM V2: Faster and Stronger Baseline for Vision Language Model**, `arXiv, 2402.03766`, [arxiv](http://arxiv.org/abs/2402.03766v1), [pdf](http://arxiv.org/pdf/2402.03766v1.pdf), cication: [**-1**](None)
+
+	 *Xiangxiang Chu, Limeng Qiao, Xinyu Zhang, Shuang Xu, Fei Wei, Yang Yang, Xiaofei Sun, Yiming Hu, Xinyang Lin, Bo Zhang* · ([MobileVLM](https://github.com/Meituan-AutoML/MobileVLM) - Meituan-AutoML) ![Star](https://img.shields.io/github/stars/Meituan-AutoML/MobileVLM.svg?style=social&label=Star)
+- **EVA-CLIP-18B: Scaling CLIP to 18 Billion Parameters**, `arXiv, 2402.04252`, [arxiv](http://arxiv.org/abs/2402.04252v1), [pdf](http://arxiv.org/pdf/2402.04252v1.pdf), cication: [**-1**](None)
+
+	 *Quan Sun, Jinsheng Wang, Qiying Yu, Yufeng Cui, Fan Zhang, Xiaosong Zhang, Xinlong Wang*
+- **CogCoM: Train Large Vision-Language Models Diving into Details through
+  Chain of Manipulations**, `arXiv, 2402.04236`, [arxiv](http://arxiv.org/abs/2402.04236v1), [pdf](http://arxiv.org/pdf/2402.04236v1.pdf), cication: [**-1**](None)
+
+	 *Ji Qi, Ming Ding, Weihan Wang, Yushi Bai, Qingsong Lv, Wenyi Hong, Bin Xu, Lei Hou, Juanzi Li, Yuxiao Dong*
 - [**OmniLMM**](https://github.com/OpenBMB/OmniLMM) - OpenBMB ![Star](https://img.shields.io/github/stars/OpenBMB/OmniLMM.svg?style=social&label=Star)
 
 	 *Large Multi-modal Models for Strong Performance and Efficient Deployment* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652439897&idx=1&sn=e5e9a0ab370aaf6b4bd0e8a0ee64e814))
@@ -629,6 +639,10 @@
 	 *Shaohan Huang, Li Dong, Wenhui Wang, Yaru Hao, Saksham Singhal, Shuming Ma, Tengchao Lv, Lei Cui, Owais Khan Mohammed, Barun Patra*
 
 ## Audio
+- **Audio Flamingo: A Novel Audio Language Model with Few-Shot Learning and
+  Dialogue Abilities**, `arXiv, 2402.01831`, [arxiv](http://arxiv.org/abs/2402.01831v1), [pdf](http://arxiv.org/pdf/2402.01831v1.pdf), cication: [**-1**](None)
+
+	 *Zhifeng Kong, Arushi Goel, Rohan Badlani, Wei Ping, Rafael Valle, Bryan Catanzaro*
 - **SpeechGPT-Gen: Scaling Chain-of-Information Speech Generation**, `arXiv, 2401.13527`, [arxiv](http://arxiv.org/abs/2401.13527v2), [pdf](http://arxiv.org/pdf/2401.13527v2.pdf), cication: [**-1**](None)
 
 	 *Dong Zhang, Xin Zhang, Jun Zhan, Shimin Li, Yaqian Zhou, Xipeng Qiu* · ([speechgpt](https://github.com/0nutation/speechgpt) - 0nutation) ![Star](https://img.shields.io/github/stars/0nutation/speechgpt.svg?style=social&label=Star)

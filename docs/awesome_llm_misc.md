@@ -21,6 +21,9 @@
 	- [Extra reference](#extra-reference)
 
 ## Survey
+- **Continual Learning for Large Language Models: A Survey**, `arXiv, 2402.01364`, [arxiv](http://arxiv.org/abs/2402.01364v1), [pdf](http://arxiv.org/pdf/2402.01364v1.pdf), cication: [**-1**](None)
+
+	 *Tongtong Wu, Linhao Luo, Yuan-Fang Li, Shirui Pan, Thuy-Trang Vu, Gholamreza Haffari*
 - **From Google Gemini to OpenAI Q* (Q-Star): A Survey of Reshaping the
   Generative Artificial Intelligence (AI) Research Landscape**, `arXiv, 2312.10868`, [arxiv](http://arxiv.org/abs/2312.10868v1), [pdf](http://arxiv.org/pdf/2312.10868v1.pdf), cication: [**-1**](None)
 
@@ -162,6 +165,9 @@
 	 *Greg Serapio-García, Mustafa Safdari, Clément Crepy, Luning Sun, Stephen Fitz, Peter Romero, Marwa Abdulhai, Aleksandra Faust, Maja Matarić*
 
 ## World Model
+- **Diffusion World Model**, `arXiv, 2402.03570`, [arxiv](http://arxiv.org/abs/2402.03570v1), [pdf](http://arxiv.org/pdf/2402.03570v1.pdf), cication: [**-1**](None)
+
+	 *Zihan Ding, Amy Zhang, Yuandong Tian, Qinqing Zheng*
 - **The Geometry of Truth: Emergent Linear Structure in Large Language Model
   Representations of True/False Datasets**, `arXiv, 2310.06824`, [arxiv](http://arxiv.org/abs/2310.06824v1), [pdf](http://arxiv.org/pdf/2310.06824v1.pdf), cication: [**-1**](None)
 
@@ -192,6 +198,9 @@
 - **Time-LLM: Time Series Forecasting by Reprogramming Large Language Models**, `arXiv, 2310.01728`, [arxiv](http://arxiv.org/abs/2310.01728v2), [pdf](http://arxiv.org/pdf/2310.01728v2.pdf), cication: [**17**](https://scholar.google.com/scholar?cites=4605741467245220036&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Ming Jin, Shiyu Wang, Lintao Ma, Zhixuan Chu, James Y. Zhang, Xiaoming Shi, Pin-Yu Chen, Yuxuan Liang, Yuan-Fang Li, Shirui Pan* · ([time-llm](https://github.com/kimmeen/time-llm) - kimmeen) ![Star](https://img.shields.io/github/stars/kimmeen/time-llm.svg?style=social&label=Star)
+- **A decoder-only foundation model for time-series forecasting**, `arXiv, 2310.10688`, [arxiv](http://arxiv.org/abs/2310.10688v3), [pdf](http://arxiv.org/pdf/2310.10688v3.pdf), cication: [**2**](https://scholar.google.com/scholar?cites=2603810331889084693&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Abhimanyu Das, Weihao Kong, Rajat Sen, Yichen Zhou* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-05-9))
 
 ## Chat arena
 - [**GodMode**](https://github.com/smol-ai/GodMode) - smol-ai ![Star](https://img.shields.io/github/stars/smol-ai/GodMode.svg?style=social&label=Star)
@@ -201,18 +210,19 @@
 
 	 *Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers*
 
-## New model
-- [BlackMamba — Zyphra](https://www.zyphra.com/blackmamba)
+## State Space Model
+- **Can Mamba Learn How to Learn? A Comparative Study on In-Context Learning
+  Tasks**, `arXiv, 2402.04248`, [arxiv](http://arxiv.org/abs/2402.04248v1), [pdf](http://arxiv.org/pdf/2402.04248v1.pdf), cication: [**-1**](None)
 
-	 · ([static1.squarespace](https://static1.squarespace.com/static/658ded386c43c219ee47caba/t/65bd73200920d050ccbac40c/1706914594353/blackMamba.pdf))
-- **Infini-gram: Scaling Unbounded n-gram Language Models to a Trillion
-  Tokens**, `arXiv, 2401.17377`, [arxiv](http://arxiv.org/abs/2401.17377v1), [pdf](http://arxiv.org/pdf/2401.17377v1.pdf), cication: [**-1**](None)
+	 *Jongho Park, Jaeseung Park, Zheyang Xiong, Nayoung Lee, Jaewoong Cho, Samet Oymak, Kangwook Lee, Dimitris Papailiopoulos*
+- **Repeat After Me: Transformers are Better than State Space Models at
+  Copying**, `arXiv, 2402.01032`, [arxiv](http://arxiv.org/abs/2402.01032v1), [pdf](http://arxiv.org/pdf/2402.01032v1.pdf), cication: [**-1**](None)
 
-	 *Jiacheng Liu, Sewon Min, Luke Zettlemoyer, Yejin Choi, Hannaneh Hajishirzi*
-- **Transfer Learning for Text Diffusion Models**, `arXiv, 2401.17181`, [arxiv](http://arxiv.org/abs/2401.17181v1), [pdf](http://arxiv.org/pdf/2401.17181v1.pdf), cication: [**-1**](None)
+	 *Samy Jelassi, David Brandfonbrener, Sham M. Kakade, Eran Malach*
+- **BlackMamba: Mixture of Experts for State-Space Models**, `arXiv, 2402.01771`, [arxiv](http://arxiv.org/abs/2402.01771v1), [pdf](http://arxiv.org/pdf/2402.01771v1.pdf), cication: [**-1**](None)
 
-	 *Kehang Han, Kathleen Kenealy, Aditya Barua, Noah Fiedel, Noah Constant*
-- [🦅 Eagle 7B : Soaring past Transformers with 1 Trillion Tokens Across 100+ Languages (RWKV-v5)](https://blog.rwkv.com/p/eagle-7b-soaring-past-transformers)
+	 *Quentin Anthony, Yury Tokpanov, Paolo Glorioso, Beren Millidge* · ([BlackMamba](https://github.com/Zyphra/BlackMamba) - Zyphra) ![Star](https://img.shields.io/github/stars/Zyphra/BlackMamba.svg?style=social&label=Star) · ([zyphra](https://www.zyphra.com/blackmamba))
+	· ([static1.squarespace](https://static1.squarespace.com/static/658ded386c43c219ee47caba/t/65bd73200920d050ccbac40c/1706914594353/blackMamba.pdf))
 - **MambaByte: Token-free Selective State Space Model**, `arXiv, 2401.13660`, [arxiv](http://arxiv.org/abs/2401.13660v1), [pdf](http://arxiv.org/pdf/2401.13660v1.pdf), cication: [**-1**](None)
 
 	 *Junxiong Wang, Tushaar Gangavarapu, Jing Nathan Yan, Alexander M Rush*
@@ -221,10 +231,22 @@
 
 	 *Maciej Pióro, Kamil Ciebiera, Krystian Król, Jan Ludziejewski, Sebastian Jaszczur*
 - [The Annotated S4](https://srush.github.io/annotated-s4/)
-- [Paving the way to efficient architectures: StripedHyena-7B, open source models offering a glimpse into a world beyond Transformers](https://www.together.ai/blog/stripedhyena-7b)
 - **Mamba: Linear-Time Sequence Modeling with Selective State Spaces**, `arXiv, 2312.00752`, [arxiv](http://arxiv.org/abs/2312.00752v1), [pdf](http://arxiv.org/pdf/2312.00752v1.pdf), cication: [**-1**](None)
 
 	 *Albert Gu, Tri Dao* · ([mamba](https://github.com/state-spaces/mamba) - state-spaces) ![Star](https://img.shields.io/github/stars/state-spaces/mamba.svg?style=social&label=Star)
+
+## New model
+- **Infini-gram: Scaling Unbounded n-gram Language Models to a Trillion
+  Tokens**, `arXiv, 2401.17377`, [arxiv](http://arxiv.org/abs/2401.17377v1), [pdf](http://arxiv.org/pdf/2401.17377v1.pdf), cication: [**-1**](None)
+
+	 *Jiacheng Liu, Sewon Min, Luke Zettlemoyer, Yejin Choi, Hannaneh Hajishirzi*
+- **Transfer Learning for Text Diffusion Models**, `arXiv, 2401.17181`, [arxiv](http://arxiv.org/abs/2401.17181v1), [pdf](http://arxiv.org/pdf/2401.17181v1.pdf), cication: [**-1**](None)
+
+	 *Kehang Han, Kathleen Kenealy, Aditya Barua, Noah Fiedel, Noah Constant*
+- [🦅 Eagle 7B : Soaring past Transformers with 1 Trillion Tokens Across 100+ Languages (RWKV-v5)](https://blog.rwkv.com/p/eagle-7b-soaring-past-transformers)
+
+- [Paving the way to efficient architectures: StripedHyena-7B, open source models offering a glimpse into a world beyond Transformers](https://www.together.ai/blog/stripedhyena-7b)
+
 - **TCNCA: Temporal Convolution Network with Chunked Attention for Scalable
   Sequence Processing**, `arXiv, 2312.05605`, [arxiv](http://arxiv.org/abs/2312.05605v1), [pdf](http://arxiv.org/pdf/2312.05605v1.pdf), cication: [**-1**](None)
 
@@ -291,6 +313,9 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652345558&idx=4&sn=95686435d5cad05d44cbe02bc26d6859))
 
 ## Interpretability 
+- **Rethinking Interpretability in the Era of Large Language Models**, `arXiv, 2402.01761`, [arxiv](http://arxiv.org/abs/2402.01761v1), [pdf](http://arxiv.org/pdf/2402.01761v1.pdf), cication: [**-1**](None)
+
+	 *Chandan Singh, Jeevana Priya Inala, Michel Galley, Rich Caruana, Jianfeng Gao*
 - **Can Large Language Models Understand Context?**, `arXiv, 2402.00858`, [arxiv](http://arxiv.org/abs/2402.00858v1), [pdf](http://arxiv.org/pdf/2402.00858v1.pdf), cication: [**-1**](None)
 
 	 *Yilun Zhu, Joel Ruben Antony Moniz, Shruti Bhargava, Jiarui Lu, Dhivya Piraviperumal, Site Li, Yuan Zhang, Hong Yu, Bo-Hsiang Tseng*

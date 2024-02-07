@@ -279,6 +279,10 @@
 - [首个大模型教育产品开箱："最聪明"国产大模型加持的学习机，质变了吗 | 量子位](https://www.qbitai.com/2023/08/79632.html)
 
 ## Text Related
+- **Tiny Titans: Can Smaller Large Language Models Punch Above Their Weight
+  in the Real World for Meeting Summarization?**, `arXiv, 2402.00841`, [arxiv](http://arxiv.org/abs/2402.00841v1), [pdf](http://arxiv.org/pdf/2402.00841v1.pdf), cication: [**-1**](None)
+
+	 *Xue-Yong Fu, Md Tahmid Rahman Laskar, Elena Khasanova, Cheng Chen, Shashi Bhushan TN*
 - **Chain-of-Table: Evolving Tables in the Reasoning Chain for Table
   Understanding**, `arXiv, 2401.04398`, [arxiv](http://arxiv.org/abs/2401.04398v1), [pdf](http://arxiv.org/pdf/2401.04398v1.pdf), cication: [**-1**](None)
 
@@ -473,6 +477,10 @@
 	 *Quan Wang, Yiling Huang, Guanlong Zhao, Evan Clark, Wei Xia, Hank Liao*
 
 ## Vision
+- **Guiding Instruction-based Image Editing via Multimodal Large Language
+  Models**, `arXiv, 2309.17102`, [arxiv](http://arxiv.org/abs/2309.17102v2), [pdf](http://arxiv.org/pdf/2309.17102v2.pdf), cication: [**7**](https://scholar.google.com/scholar?cites=11018103266329124223&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Tsu-Jui Fu, Wenze Hu, Xianzhi Du, William Yang Wang, Yinfei Yang, Zhe Gan* · ([ml-mgie](https://github.com/apple/ml-mgie) - apple) ![Star](https://img.shields.io/github/stars/apple/ml-mgie.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652442720&idx=3&sn=00ad86bae699d069cf88a12b1777fb03))
 - **A Vision Check-up for Language Models**, `arXiv, 2401.01862`, [arxiv](http://arxiv.org/abs/2401.01862v1), [pdf](http://arxiv.org/pdf/2401.01862v1.pdf), cication: [**-1**](None)
 
 	 *Pratyusha Sharma, Tamar Rott Shaham, Manel Baradad, Stephanie Fu, Adrian Rodriguez-Munoz, Shivam Duggal, Phillip Isola, Antonio Torralba*
@@ -524,6 +532,10 @@
 	 *Official repo for LayoutGPT*
 
 ## Science
+- **Scientific Large Language Models: A Survey on Biological & Chemical
+  Domains**, `arXiv, 2401.14656`, [arxiv](http://arxiv.org/abs/2401.14656v1), [pdf](http://arxiv.org/pdf/2401.14656v1.pdf), cication: [**-1**](None)
+
+	 *Qiang Zhang, Keyang Ding, Tianwen Lyv, Xinda Wang, Qingyu Yin, Yiwen Zhang, Jing Yu, Yuhao Wang, Xiaotong Li, Zhuoyi Xiang* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-05))
 - [**ChemLLM-7B-Chat**](https://huggingface.co/AI4Chem/ChemLLM-7B-Chat) - AI4Chem 🤗
 
 	 · ([qbitai](https://www.qbitai.com/2024/01/117161.html))
@@ -742,6 +754,9 @@
 	 *Itzik Malkiel, Uri Alon, Yakir Yehuda, Shahar Keren, Oren Barkan, Royi Ronen, Noam Koenigstein*
 
 ## Game
+- [**pokellmon**](https://github.com/git-disl/pokellmon) - git-disl ![Star](https://img.shields.io/github/stars/git-disl/pokellmon.svg?style=social&label=Star)
+
+	 *PokéLLMon: A Human-Parity Agent for Pokémon Battles with Large Language Models*
 - [Creating an engaging AI-Powered Game using Unity and Hugging Face 🤗](https://thomassimonini.substack.com/p/creating-an-engaging-ai-powered-game?r=dq5fg&utm_campaign=post&utm_medium=web)
 - **Large Language Models Play StarCraft II: Benchmarks and A Chain of
   Summarization Approach**, `arXiv, 2312.11865`, [arxiv](http://arxiv.org/abs/2312.11865v1), [pdf](http://arxiv.org/pdf/2312.11865v1.pdf), cication: [**-1**](None)

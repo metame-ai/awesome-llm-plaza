@@ -12,6 +12,13 @@
 
 
 ## Papers
+- **LiPO: Listwise Preference Optimization through Learning-to-Rank**, `arXiv, 2402.01878`, [arxiv](http://arxiv.org/abs/2402.01878v1), [pdf](http://arxiv.org/pdf/2402.01878v1.pdf), cication: [**-1**](None)
+
+	 *Tianqi Liu, Zhen Qin, Junru Wu, Jiaming Shen, Misha Khalman, Rishabh Joshi, Yao Zhao, Mohammad Saleh, Simon Baumgartner, Jialu Liu*
+- **StepCoder: Improve Code Generation with Reinforcement Learning from
+  Compiler Feedback**, `arXiv, 2402.01391`, [arxiv](http://arxiv.org/abs/2402.01391v2), [pdf](http://arxiv.org/pdf/2402.01391v2.pdf), cication: [**-1**](None)
+
+	 *Shihan Dou, Yan Liu, Haoxiang Jia, Limao Xiong, Enyu Zhou, Wei Shen, Junjie Shan, Caishuang Huang, Xiao Wang, Xiaoran Fan*
 - **Transforming and Combining Rewards for Aligning Large Language Models**, `arXiv, 2402.00742`, [arxiv](http://arxiv.org/abs/2402.00742v1), [pdf](http://arxiv.org/pdf/2402.00742v1.pdf), cication: [**-1**](None)
 
 	 *Zihao Wang, Chirag Nagpal, Jonathan Berant, Jacob Eisenstein, Alex D'Amour, Sanmi Koyejo, Victor Veitch*

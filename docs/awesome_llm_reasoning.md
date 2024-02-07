@@ -21,6 +21,12 @@
 	 *Jiankai Sun, Chuanyang Zheng, Enze Xie, Zhengying Liu, Ruihang Chu, Jianing Qiu, Jiaqi Xu, Mingyu Ding, Hongyang Li, Mengzhe Geng* · ([Awesome-Reasoning-Foundation-Models](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models) - reasoning-survey) ![Star](https://img.shields.io/github/stars/reasoning-survey/Awesome-Reasoning-Foundation-Models.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652421688&idx=3&sn=fcdc24edc7bc89ebcbcca0f7665e40f6))
 
 ## Reasoning
+- **K-Level Reasoning with Large Language Models**, `arXiv, 2402.01521`, [arxiv](http://arxiv.org/abs/2402.01521v1), [pdf](http://arxiv.org/pdf/2402.01521v1.pdf), cication: [**-1**](None)
+
+	 *Yadong Zhang, Shaoguang Mao, Tao Ge, Xun Wang, Yan Xia, Man Lan, Furu Wei*
+- **Self-Discover: Large Language Models Self-Compose Reasoning Structures**, `arXiv, 2402.03620`, [arxiv](http://arxiv.org/abs/2402.03620v1), [pdf](http://arxiv.org/pdf/2402.03620v1.pdf), cication: [**-1**](None)
+
+	 *Pei Zhou, Jay Pujara, Xiang Ren, Xinyun Chen, Heng-Tze Cheng, Quoc V. Le, Ed H. Chi, Denny Zhou, Swaroop Mishra, Huaixiu Steven Zheng*
 - **CogGPT: Unleashing the Power of Cognitive Dynamics on Large Language
   Models**, `arXiv, 2401.08438`, [arxiv](http://arxiv.org/abs/2401.08438v1), [pdf](http://arxiv.org/pdf/2401.08438v1.pdf), cication: [**-1**](None)
 
@@ -292,6 +298,10 @@ jj
 - [大模型Fewshot推理如何选择更好的示例](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495177&idx=2&sn=fe8353efed16a81e35462be06d5a6cea)
 
 ## Math reasoning
+- **DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open
+  Language Models**, `arXiv, 2402.03300`, [arxiv](http://arxiv.org/abs/2402.03300v2), [pdf](http://arxiv.org/pdf/2402.03300v2.pdf), cication: [**-1**](None)
+
+	 *Zhihong Shao, Peiyi Wang, Qihao Zhu, Runxin Xu, Junxiao Song, Mingchuan Zhang, Y. K. Li, Y. Wu, Daya Guo*
 - **Large Language Models for Mathematical Reasoning: Progresses and
   Challenges**, `arXiv, 2402.00157`, [arxiv](http://arxiv.org/abs/2402.00157v1), [pdf](http://arxiv.org/pdf/2402.00157v1.pdf), cication: [**-1**](None)
 
@@ -439,6 +449,8 @@ jj
   GPT-3.5/4**, `arXiv, 2312.16171`, [arxiv](http://arxiv.org/abs/2312.16171v1), [pdf](http://arxiv.org/pdf/2312.16171v1.pdf), cication: [**-1**](None)
 
 	 *Sondos Mahmoud Bsharat, Aidar Myrzakhan, Zhiqiang Shen*
+
+	 · ([ATLAS](https://github.com/VILA-Lab/ATLAS) - VILA-Lab) ![Star](https://img.shields.io/github/stars/VILA-Lab/ATLAS.svg?style=social&label=Star)
 - [**promptbase**](https://github.com/microsoft/promptbase) - microsoft ![Star](https://img.shields.io/github/stars/microsoft/promptbase.svg?style=social&label=Star)
 
 	 *All things prompt engineering*

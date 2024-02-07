@@ -262,6 +262,9 @@
 - [Quantization](https://huggingface.co/docs/accelerate/usage_guides/quantization)
 
 ## Distillation
+- **DistiLLM: Towards Streamlined Distillation for Large Language Models**, `arXiv, 2402.03898`, [arxiv](http://arxiv.org/abs/2402.03898v1), [pdf](http://arxiv.org/pdf/2402.03898v1.pdf), cication: [**-1**](None)
+
+	 *Jongwoo Ko, Sungnyun Kim, Tianyi Chen, Se-Young Yun* · ([distillm](https://github.com/jongwooko/distillm) - jongwooko) ![Star](https://img.shields.io/github/stars/jongwooko/distillm.svg?style=social&label=Star)
 - **Scavenging Hyena: Distilling Transformers into Long Convolution Models**, `arXiv, 2401.17574`, [arxiv](http://arxiv.org/abs/2401.17574v1), [pdf](http://arxiv.org/pdf/2401.17574v1.pdf), cication: [**-1**](None)
 
 	 *Tokiniaina Raharison Ralambomihanta, Shahrad Mohammadzadeh, Mohammad Sami Nur Islam, Wassim Jabbour, Laurence Liang*
@@ -304,6 +307,9 @@
 	 *Yuxian Gu, Li Dong, Furu Wei, Minlie Huang*
 
 ## Pruning
+- **Shortened LLaMA: A Simple Depth Pruning for Large Language Models**, `arXiv, 2402.02834`, [arxiv](http://arxiv.org/abs/2402.02834v1), [pdf](http://arxiv.org/pdf/2402.02834v1.pdf), cication: [**-1**](None)
+
+	 *Bo-Kyeong Kim, Geonmin Kim, Tae-Ho Kim, Thibault Castells, Shinkook Choi, Junho Shin, Hyoung-Kyu Song*
 - **SliceGPT: Compress Large Language Models by Deleting Rows and Columns**, `arXiv, 2401.15024`, [arxiv](http://arxiv.org/abs/2401.15024v1), [pdf](http://arxiv.org/pdf/2401.15024v1.pdf), cication: [**-1**](None)
 
 	 *Saleh Ashkboos, Maximilian L. Croci, Marcelo Gennari do Nascimento, Torsten Hoefler, James Hensman*
@@ -323,6 +329,9 @@
 	 *A simple and effective LLM pruning approach.*
 
 ## Efficient Inference
+- [**flashinfer**](https://github.com/flashinfer-ai/flashinfer/) - flashinfer-ai ![Star](https://img.shields.io/github/stars/flashinfer-ai/flashinfer.svg?style=social&label=Star)
+
+	 *FlashInfer: Kernel Library for LLM Serving*
 - **EAGLE: Speculative Sampling Requires Rethinking Feature Uncertainty**, `arXiv, 2401.15077`, [arxiv](http://arxiv.org/abs/2401.15077v1), [pdf](http://arxiv.org/pdf/2401.15077v1.pdf), cication: [**-1**](None)
 
 	 *Yuhui Li, Fangyun Wei, Chao Zhang, Hongyang Zhang*

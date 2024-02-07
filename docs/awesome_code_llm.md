@@ -16,6 +16,16 @@
 	 *Ziyin Zhang, Chaoyu Chen, Bingchang Liu, Cong Liao, Zi Gong, Hang Yu, Jianguo Li, Rui Wang*
 
 ## Paper
+- **Code Representation Learning At Scale**, `arXiv, 2402.01935`, [arxiv](http://arxiv.org/abs/2402.01935v1), [pdf](http://arxiv.org/pdf/2402.01935v1.pdf), cication: [**-1**](None)
+
+	 *Dejiao Zhang, Wasi Ahmad, Ming Tan, Hantian Ding, Ramesh Nallapati, Dan Roth, Xiaofei Ma, Bing Xiang*
+- **StepCoder: Improve Code Generation with Reinforcement Learning from
+  Compiler Feedback**, `arXiv, 2402.01391`, [arxiv](http://arxiv.org/abs/2402.01391v2), [pdf](http://arxiv.org/pdf/2402.01391v2.pdf), cication: [**-1**](None)
+
+	 *Shihan Dou, Yan Liu, Haoxiang Jia, Limao Xiong, Enyu Zhou, Wei Shen, Junjie Shan, Caishuang Huang, Xiao Wang, Xiaoran Fan*
+- **Multi-line AI-assisted Code Authoring**, `arXiv, 2402.04141`, [arxiv](http://arxiv.org/abs/2402.04141v1), [pdf](http://arxiv.org/pdf/2402.04141v1.pdf), cication: [**-1**](None)
+
+	 *Omer Dunay, Daniel Cheng, Adam Tait, Parth Thakkar, Peter C Rigby, Andy Chiu, Imad Ahmad, Arun Ganesan, Chandra Maddila, Vijayaraghavan Murali*
 - **ReGAL: Refactoring Programs to Discover Generalizable Abstractions**, `arXiv, 2401.16467`, [arxiv](http://arxiv.org/abs/2401.16467v1), [pdf](http://arxiv.org/pdf/2401.16467v1.pdf), cication: [**-1**](None)
 
 	 *Elias Stengel-Eskin, Archiki Prasad, Mohit Bansal*
@@ -180,6 +190,9 @@
 	 · [intercode-benchmark.github](https://intercode-benchmark.github.io/)
 
 ## Projects
+- [**oss-fuzz-gen**](https://github.com/google/oss-fuzz-gen) - google ![Star](https://img.shields.io/github/stars/google/oss-fuzz-gen.svg?style=social&label=Star)
+
+	 *LLM powered fuzzing via OSS-Fuzz.*
 - [**DeciCoder-6B-Demo**](https://huggingface.co/spaces/Deci/DeciCoder-6B-Demo) - Deci 🤗
 - [**LLM4SoftwareTesting**](https://github.com/LLM-Testing/LLM4SoftwareTesting) - LLM-Testing ![Star](https://img.shields.io/github/stars/LLM-Testing/LLM4SoftwareTesting.svg?style=social&label=Star)
 - [**stable-code-3b**](https://huggingface.co/stabilityai/stable-code-3b) - stabilityai 🤗
@@ -258,4 +271,6 @@
 - [Personal Copilot: Train Your Own Coding Assistant](https://huggingface.co/blog/personal-copilot)
 - [Introducing SafeCoder](https://huggingface.co/blog/safecoder)
 - [SafeCoder vs. Closed-source Code Assistants](https://huggingface.co/blog/safecoder-vs-closed-source-code-assistants)
+
+- [解密代码模型StarCoder & CodeLlama](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495543&idx=1&sn=10e93c80581eef38c681a35b32d62f55)
 - [AGI降临派技术闭门会20230826 - YouTube](https://www.youtube.com/watch?v=SkAF-FgD7mM&ab_channel=ThomasKong)
