@@ -439,6 +439,10 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s/Lf70i8M0KNDs9ZB8H32h4w))
 
 # Extra
+- **Aya Model: An Instruction Finetuned Open-Access Multilingual Language
+  Model**, `arXiv, 2402.07827`, [arxiv](http://arxiv.org/abs/2402.07827v1), [pdf](http://arxiv.org/pdf/2402.07827v1.pdf), cication: [**-1**](None)
+
+	 *Ahmet Üstün, Viraat Aryabumi, Zheng-Xin Yong, Wei-Yin Ko, Daniel D'souza, Gbemileke Onilude, Neel Bhandari, Shivalika Singh, Hui-Lee Ooi, Amr Kayid* · ([hf](https://hf.co/CohereForAI/aya-101))
 - **CroissantLLM: A Truly Bilingual French-English Language Model**, `arXiv, 2402.00786`, [arxiv](http://arxiv.org/abs/2402.00786v1), [pdf](http://arxiv.org/pdf/2402.00786v1.pdf), cication: [**-1**](None)
 
 	 *Manuel Faysse, Patrick Fernandes, Nuno Guerreiro, António Loison, Duarte Alves, Caio Corro, Nicolas Boizard, João Alves, Ricardo Rei, Pedro Martins*

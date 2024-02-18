@@ -42,6 +42,12 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652350213&idx=4&sn=47bef78ae85d99fccc45487e2fb1ff6b))
  
 ## LLM OS
+- **UFO: A UI-Focused Agent for Windows OS Interaction**, `arXiv, 2402.07939`, [arxiv](http://arxiv.org/abs/2402.07939v1), [pdf](http://arxiv.org/pdf/2402.07939v1.pdf), cication: [**-1**](None)
+
+	 *Chaoyun Zhang, Liqun Li, Shilin He, Xu Zhang, Bo Qiao, Si Qin, Minghua Ma, Yu Kang, Qingwei Lin, Saravan Rajmohan* · ([UFO](https://github.com/microsoft/UFO) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/UFO.svg?style=social&label=Star)
+- **OS-Copilot: Towards Generalist Computer Agents with Self-Improvement**, `arXiv, 2402.07456`, [arxiv](http://arxiv.org/abs/2402.07456v2), [pdf](http://arxiv.org/pdf/2402.07456v2.pdf), cication: [**-1**](None)
+
+	 *Zhiyong Wu, Chengcheng Han, Zichen Ding, Zhenmin Weng, Zhoumianze Liu, Shunyu Yao, Tao Yu, Lingpeng Kong*
 - [At the Intersection of LLMs and Kernels - Research Roundup](https://charlesfrye.github.io/programming/2023/11/10/llms-systems.html)
 - [**llama2.c**](https://github.com/trholding/llama2.c) - trholding ![Star](https://img.shields.io/github/stars/trholding/llama2.c.svg?style=social&label=Star)
 
@@ -53,6 +59,12 @@
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-18-4))
 ## Agents
+- **An Interactive Agent Foundation Model**, `arXiv, 2402.05929`, [arxiv](http://arxiv.org/abs/2402.05929v1), [pdf](http://arxiv.org/pdf/2402.05929v1.pdf), cication: [**-1**](None)
+
+	 *Zane Durante, Bidipta Sarkar, Ran Gong, Rohan Taori, Yusuke Noda, Paul Tang, Ehsan Adeli, Shrinidhi Kowshika Lakshmikanth, Kevin Schulman, Arnold Milstein*
+- **More Agents Is All You Need**, `arXiv, 2402.05120`, [arxiv](http://arxiv.org/abs/2402.05120v1), [pdf](http://arxiv.org/pdf/2402.05120v1.pdf), cication: [**-1**](None)
+
+	 *Junyou Li, Qin Zhang, Yangbin Yu, Qiang Fu, Deheng Ye* · ([anonymous.4open](https://anonymous.4open.science/r/more_agent_is_all_you_need))
 - **PokéLLMon: A Human-Parity Agent for Pokémon Battles with Large
   Language Models**, `arXiv, 2402.01118`, [arxiv](http://arxiv.org/abs/2402.01118v1), [pdf](http://arxiv.org/pdf/2402.01118v1.pdf), cication: [**-1**](None)
 
@@ -465,6 +477,9 @@
 ### Other
 - [陈丹琦ACL学术报告来了！详解大模型「外挂」数据库7大方向3大挑战，3小时干货满满 | 量子位](https://www.qbitai.com/2023/07/67259.html)
 ## Web browsing
+- **WebLINX: Real-World Website Navigation with Multi-Turn Dialogue**, `arXiv, 2402.05930`, [arxiv](http://arxiv.org/abs/2402.05930v1), [pdf](http://arxiv.org/pdf/2402.05930v1.pdf), cication: [**-1**](None)
+
+	 *Xing Han Lù, Zdeněk Kasner, Siva Reddy* · ([mcgill-nlp.github](https://mcgill-nlp.github.io/weblinx))
 - [**search_with_lepton**](https://github.com/leptonai/search_with_lepton) - leptonai ![Star](https://img.shields.io/github/stars/leptonai/search_with_lepton.svg?style=social&label=Star)
 
 	 *Building a quick conversation-based search demo with Lepton AI.*
@@ -509,6 +524,16 @@
 - [GPT-4V学会用键鼠上网，人类眼睁睁看着它发帖玩游戏 | 量子位](https://www.qbitai.com/2023/11/95456.html)
 
 ## Retrieval agumented generation
+- **MultiHop-RAG: Benchmarking Retrieval-Augmented Generation for Multi-Hop
+  Queries**, `arXiv, 2401.15391`, [arxiv](http://arxiv.org/abs/2401.15391v1), [pdf](http://arxiv.org/pdf/2401.15391v1.pdf), cication: [**-1**](None)
+
+	 *Yixuan Tang, Yi Yang* · ([MultiHop-RAG](https://github.com/yixuantt/MultiHop-RAG) - yixuantt) ![Star](https://img.shields.io/github/stars/yixuantt/MultiHop-RAG.svg?style=social&label=Star)
+- [**GeneGPT**](https://github.com/ncbi/GeneGPT) - ncbi ![Star](https://img.shields.io/github/stars/ncbi/GeneGPT.svg?style=social&label=Star)
+
+	 *Code and data for GeneGPT.*
+- [**trt-llm-rag-windows**](https://github.com/NVIDIA/trt-llm-rag-windows) - NVIDIA ![Star](https://img.shields.io/github/stars/NVIDIA/trt-llm-rag-windows.svg?style=social&label=Star)
+
+	 *A developer reference project for creating Retrieval Augmented Generation (RAG) chatbots on Windows using TensorRT-LLM*
 - **RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval**, `arXiv, 2401.18059`, [arxiv](http://arxiv.org/abs/2401.18059v1), [pdf](http://arxiv.org/pdf/2401.18059v1.pdf), cication: [**-1**](None)
 
 	 *Parth Sarthi, Salman Abdullah, Aditi Tuli, Shubh Khanna, Anna Goldie, Christopher D. Manning*
@@ -630,6 +655,9 @@
 	 *Interact privately with your documents using the power of GPT, 100% privately, no data leaks*
 
 ### Embedding
+- **Multilingual E5 Text Embeddings: A Technical Report**, `arXiv, 2402.05672`, [arxiv](http://arxiv.org/abs/2402.05672v1), [pdf](http://arxiv.org/pdf/2402.05672v1.pdf), cication: [**-1**](None)
+
+	 *Liang Wang, Nan Yang, Xiaolong Huang, Linjun Yang, Rangan Majumder, Furu Wei* · ([unilm](https://github.com/microsoft/unilm/tree/master/e5) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/unilm.svg?style=social&label=Star)
 - [**contrastors**](https://github.com/nomic-ai/contrastors) - nomic-ai ![Star](https://img.shields.io/github/stars/nomic-ai/contrastors.svg?style=social&label=Star)
 
 	 *Train Models Contrastively in Pytorch* · ([huggingface](https://huggingface.co/nomic-ai/nomic-embed-text-v1)) · ([mp.weixin.qq](https://mp.weixin.qq.com/s/EMWNf9TiDwuxxkwwqsl73g))
@@ -647,6 +675,9 @@
 - [问答场景常用大模型解决方案](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494688&idx=2&sn=d871403a80a7fcf656ce0100f266f939)
 
 ## Code Interpreter
+- [**phidata**](https://github.com/phidatahq/phidata) - phidatahq ![Star](https://img.shields.io/github/stars/phidatahq/phidata.svg?style=social&label=Star)
+
+	 *Build AI Assistants using function calling*
 - [**open-interpreter**](https://github.com/KillianLucas/open-interpreter) - KillianLucas ![Star](https://img.shields.io/github/stars/KillianLucas/open-interpreter.svg?style=social&label=Star)
 
 	 *OpenAI's Code Interpreter in your terminal, running locally*

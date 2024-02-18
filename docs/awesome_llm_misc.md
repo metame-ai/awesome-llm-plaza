@@ -195,6 +195,10 @@
 	 *Stephen Casper, Jason Lin, Joe Kwon, Gatlen Culp, Dylan Hadfield-Menell*
 
 ## Forecasting
+- **Lag-Llama: Towards Foundation Models for Probabilistic Time Series
+  Forecasting**, `arXiv, 2310.08278`, [arxiv](http://arxiv.org/abs/2310.08278v3), [pdf](http://arxiv.org/pdf/2310.08278v3.pdf), cication: [**11**](https://scholar.google.com/scholar?cites=8753400217691232559&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Kashif Rasul, Arjun Ashok, Andrew Robert Williams, Hena Ghonia, Rishika Bhagwatkar, Arian Khorasani, Mohammad Javad Darvishi Bayazi, George Adamopoulos, Roland Riachi, Nadhir Hassen* · ([lag-llama](https://github.com/time-series-foundation-models/lag-llama) - time-series-foundation-models) ![Star](https://img.shields.io/github/stars/time-series-foundation-models/lag-llama.svg?style=social&label=Star)
 - **Time-LLM: Time Series Forecasting by Reprogramming Large Language Models**, `arXiv, 2310.01728`, [arxiv](http://arxiv.org/abs/2310.01728v2), [pdf](http://arxiv.org/pdf/2310.01728v2.pdf), cication: [**17**](https://scholar.google.com/scholar?cites=4605741467245220036&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Ming Jin, Shiyu Wang, Lintao Ma, Zhixuan Chu, James Y. Zhang, Xiaoming Shi, Pin-Yu Chen, Yuxuan Liang, Yuan-Fang Li, Shirui Pan* · ([time-llm](https://github.com/kimmeen/time-llm) - kimmeen) ![Star](https://img.shields.io/github/stars/kimmeen/time-llm.svg?style=social&label=Star)
@@ -313,6 +317,9 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652345558&idx=4&sn=95686435d5cad05d44cbe02bc26d6859))
 
 ## Interpretability 
+- [**fractal**](https://github.com/sohl-dickstein/fractal) - sohl-dickstein ![Star](https://img.shields.io/github/stars/sohl-dickstein/fractal.svg?style=social&label=Star)
+
+	 *The boundary of neural network trainability is fractal*
 - **Rethinking Interpretability in the Era of Large Language Models**, `arXiv, 2402.01761`, [arxiv](http://arxiv.org/abs/2402.01761v1), [pdf](http://arxiv.org/pdf/2402.01761v1.pdf), cication: [**-1**](None)
 
 	 *Chandan Singh, Jeevana Priya Inala, Michel Galley, Rich Caruana, Jianfeng Gao*
@@ -433,6 +440,9 @@
 	 *Must-read Papers on Model Editing.*
 
 ## AGI insights
+- **Computing Power and the Governance of Artificial Intelligence**, `arXiv, 2402.08797`, [arxiv](http://arxiv.org/abs/2402.08797v1), [pdf](http://arxiv.org/pdf/2402.08797v1.pdf), cication: [**-1**](None)
+
+	 *Girish Sastry, Lennart Heim, Haydn Belfield, Markus Anderljung, Miles Brundage, Julian Hazell, Cullen O'Keefe, Gillian K. Hadfield, Richard Ngo, Konstantin Pilz*
 - [Self-driving as a case study for AGI](https://web.archive.org/web/20240122062223/https://karpathy.github.io/2024/01/21/selfdriving-agi/)
 - **Perspectives on the State and Future of Deep Learning -- 2023**, `arXiv, 2312.09323`, [arxiv](http://arxiv.org/abs/2312.09323v1), [pdf](http://arxiv.org/pdf/2312.09323v1.pdf), cication: [**-1**](None)
 

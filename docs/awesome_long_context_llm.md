@@ -21,6 +21,12 @@
 - [Attention? Attention! | Lil'Log](https://lilianweng.github.io/posts/2018-06-24-attention/#a-family-of-attention-mechanisms)
 
 ## Papers
+- **Data Engineering for Scaling Language Models to 128K Context**, `arXiv, 2402.10171`, [arxiv](http://arxiv.org/abs/2402.10171v1), [pdf](http://arxiv.org/pdf/2402.10171v1.pdf), cication: [**-1**](None)
+
+	 *Yao Fu, Rameswar Panda, Xinyao Niu, Xiang Yue, Hannaneh Hajishirzi, Yoon Kim, Hao Peng* · ([long-context-data-engineering](https://github.com/franxyao/long-context-data-engineering?tab=readme-ov-file) - franxyao) ![Star](https://img.shields.io/github/stars/franxyao/long-context-data-engineering.svg?style=social&label=Star)
+- **Transformers Can Achieve Length Generalization But Not Robustly**, `arXiv, 2402.09371`, [arxiv](http://arxiv.org/abs/2402.09371v1), [pdf](http://arxiv.org/pdf/2402.09371v1.pdf), cication: [**-1**](None)
+
+	 *Yongchao Zhou, Uri Alon, Xinyun Chen, Xuezhi Wang, Rishabh Agarwal, Denny Zhou*
 - **KVQuant: Towards 10 Million Context Length LLM Inference with KV Cache
   Quantization**, `arXiv, 2401.18079`, [arxiv](http://arxiv.org/abs/2401.18079v1), [pdf](http://arxiv.org/pdf/2401.18079v1.pdf), cication: [**-1**](None)
 

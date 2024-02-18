@@ -59,6 +59,18 @@
 	 *Yufei Wang, Wanjun Zhong, Liangyou Li, Fei Mi, Xingshan Zeng, Wenyong Huang, Lifeng Shang, Xin Jiang, Qun Liu* · ([AlignLLMHumanSurvey](https://github.com/GaryYufei/AlignLLMHumanSurvey) - GaryYufei) ![Star](https://img.shields.io/github/stars/GaryYufei/AlignLLMHumanSurvey.svg?style=social&label=Star)
 
 ### Paper & Projects
+- **LESS: Selecting Influential Data for Targeted Instruction Tuning**, `arXiv, 2402.04333`, [arxiv](http://arxiv.org/abs/2402.04333v1), [pdf](http://arxiv.org/pdf/2402.04333v1.pdf), cication: [**-1**](None)
+
+	 *Mengzhou Xia, Sadhika Malladi, Suchin Gururangan, Sanjeev Arora, Danqi Chen* · ([less](https://github.com/princeton-nlp/less) - princeton-nlp) ![Star](https://img.shields.io/github/stars/princeton-nlp/less.svg?style=social&label=Star)
+- **Generative Representational Instruction Tuning**, `arXiv, 2402.09906`, [arxiv](http://arxiv.org/abs/2402.09906v1), [pdf](http://arxiv.org/pdf/2402.09906v1.pdf), cication: [**-1**](None)
+
+	 *Niklas Muennighoff, Hongjin Su, Liang Wang, Nan Yang, Furu Wei, Tao Yu, Amanpreet Singh, Douwe Kiela*
+- **DeAL: Decoding-time Alignment for Large Language Models**, `arXiv, 2402.06147`, [arxiv](http://arxiv.org/abs/2402.06147v1), [pdf](http://arxiv.org/pdf/2402.06147v1.pdf), cication: [**-1**](None)
+
+	 *James Y. Huang, Sailik Sengupta, Daniele Bonadiman, Yi-an Lai, Arshit Gupta, Nikolaos Pappas, Saab Mansour, Katrin Kirchoff, Dan Roth*
+- **Direct Language Model Alignment from Online AI Feedback**, `arXiv, 2402.04792`, [arxiv](http://arxiv.org/abs/2402.04792v1), [pdf](http://arxiv.org/pdf/2402.04792v1.pdf), cication: [**-1**](None)
+
+	 *Shangmin Guo, Biao Zhang, Tianlin Liu, Tianqi Liu, Misha Khalman, Felipe Llinares, Alexandre Rame, Thomas Mesnard, Yao Zhao, Bilal Piot*
 - **Specialized Language Models with Cheap Inference from Limited Domain
   Data**, `arXiv, 2402.01093`, [arxiv](http://arxiv.org/abs/2402.01093v1), [pdf](http://arxiv.org/pdf/2402.01093v1.pdf), cication: [**-1**](None)
 
@@ -180,6 +192,9 @@
 - [领域大模型-训练Trick&落地思考](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494320&idx=2&sn=8edd6ea37bbd73768caa306d9daa2cf7)
 
 ## Scaling
+- **A Tale of Tails: Model Collapse as a Change of Scaling Laws**, `arXiv, 2402.07043`, [arxiv](http://arxiv.org/abs/2402.07043v1), [pdf](http://arxiv.org/pdf/2402.07043v1.pdf), cication: [**-1**](None)
+
+	 *Elvis Dohmatob, Yunzhen Feng, Pu Yang, Francois Charton, Julia Kempe*
 - **Scaling Laws for Downstream Task Performance of Large Language Models**, `arXiv, 2402.04177`, [arxiv](http://arxiv.org/abs/2402.04177v1), [pdf](http://arxiv.org/pdf/2402.04177v1.pdf), cication: [**-1**](None)
 
 	 *Berivan Isik, Natalia Ponomareva, Hussein Hazimeh, Dimitris Paparas, Sergei Vassilvitskii, Sanmi Koyejo*
@@ -262,6 +277,9 @@
 - [Chinchilla之死：只要训练足够长时间，小模型也能超过大模型 | 机器之心](https://www.jiqizhixin.com/articles/2023-10-03-9)
 
 ## Fine-tuning
+- **BitDelta: Your Fine-Tune May Only Be Worth One Bit**, `arXiv, 2402.10193`, [arxiv](http://arxiv.org/abs/2402.10193v1), [pdf](http://arxiv.org/pdf/2402.10193v1.pdf), cication: [**-1**](None)
+
+	 *James Liu, Guangxuan Xiao, Kai Li, Jason D. Lee, Song Han, Tri Dao, Tianle Cai* · ([BitDelta](https://github.com/FasterDecoding/BitDelta) - FasterDecoding) ![Star](https://img.shields.io/github/stars/FasterDecoding/BitDelta.svg?style=social&label=Star)
 - **EE-Tuning: An Economical yet Scalable Solution for Tuning Early-Exit
   Large Language Models**, `arXiv, 2402.00518`, [arxiv](http://arxiv.org/abs/2402.00518v1), [pdf](http://arxiv.org/pdf/2402.00518v1.pdf), cication: [**-1**](None)
 
@@ -281,6 +299,8 @@
   Models**, `arXiv, 2401.01335`, [arxiv](http://arxiv.org/abs/2401.01335v1), [pdf](http://arxiv.org/pdf/2401.01335v1.pdf), cication: [**-1**](None)
 
 	 *Zixiang Chen, Yihe Deng, Huizhuo Yuan, Kaixuan Ji, Quanquan Gu*
+
+	 · ([SPIN](https://github.com/uclaml/SPIN) - uclaml) ![Star](https://img.shields.io/github/stars/uclaml/SPIN.svg?style=social&label=Star)
 - **Federated Full-Parameter Tuning of Billion-Sized Language Models with
   Communication Cost under 18 Kilobytes**, `arXiv, 2312.06353`, [arxiv](http://arxiv.org/abs/2312.06353v1), [pdf](http://arxiv.org/pdf/2312.06353v1.pdf), cication: [**-1**](None)
 
@@ -367,6 +387,9 @@
 - [Weight averaging and model merging for LLMs seem to be the most interesting themes in 2024 so far. ](https://twitter.com/rasbt/status/1750180383398744106)
 
 ## MoE
+- **Scaling Laws for Fine-Grained Mixture of Experts**, `arXiv, 2402.07871`, [arxiv](http://arxiv.org/abs/2402.07871v1), [pdf](http://arxiv.org/pdf/2402.07871v1.pdf), cication: [**-1**](None)
+
+	 *Jakub Krajewski, Jan Ludziejewski, Kamil Adamczewski, Maciej Pióro, Michał Krutul, Szymon Antoniak, Kamil Ciebiera, Krystian Król, Tomasz Odrzygóźdź, Piotr Sankowski*
 - **BlackMamba: Mixture of Experts for State-Space Models**, `arXiv, 2402.01771`, [arxiv](http://arxiv.org/abs/2402.01771v1), [pdf](http://arxiv.org/pdf/2402.01771v1.pdf), cication: [**-1**](None)
 
 	 *Quentin Anthony, Yury Tokpanov, Paolo Glorioso, Beren Millidge* · ([BlackMamba](https://github.com/Zyphra/BlackMamba) - Zyphra) ![Star](https://img.shields.io/github/stars/Zyphra/BlackMamba.svg?style=social&label=Star)

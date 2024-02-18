@@ -21,6 +21,18 @@
 	 *Jiankai Sun, Chuanyang Zheng, Enze Xie, Zhengying Liu, Ruihang Chu, Jianing Qiu, Jiaqi Xu, Mingyu Ding, Hongyang Li, Mengzhe Geng* · ([Awesome-Reasoning-Foundation-Models](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models) - reasoning-survey) ![Star](https://img.shields.io/github/stars/reasoning-survey/Awesome-Reasoning-Foundation-Models.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652421688&idx=3&sn=fcdc24edc7bc89ebcbcca0f7665e40f6))
 
 ## Reasoning
+- **Chain-of-Thought Reasoning Without Prompting**, `arXiv, 2402.10200`, [arxiv](http://arxiv.org/abs/2402.10200v1), [pdf](http://arxiv.org/pdf/2402.10200v1.pdf), cication: [**-1**](None)
+
+	 *Xuezhi Wang, Denny Zhou*
+- **Premise Order Matters in Reasoning with Large Language Models**, `arXiv, 2402.08939`, [arxiv](http://arxiv.org/abs/2402.08939v1), [pdf](http://arxiv.org/pdf/2402.08939v1.pdf), cication: [**-1**](None)
+
+	 *Xinyun Chen, Ryan A. Chi, Xuezhi Wang, Denny Zhou*
+- **Policy Improvement using Language Feedback Models**, `arXiv, 2402.07876`, [arxiv](http://arxiv.org/abs/2402.07876v2), [pdf](http://arxiv.org/pdf/2402.07876v2.pdf), cication: [**-1**](None)
+
+	 *Victor Zhong, Dipendra Misra, Xingdi Yuan, Marc-Alexandre Côté*
+- **CodeIt: Self-Improving Language Models with Prioritized Hindsight Replay**, `arXiv, 2402.04858`, [arxiv](http://arxiv.org/abs/2402.04858v1), [pdf](http://arxiv.org/pdf/2402.04858v1.pdf), cication: [**-1**](None)
+
+	 *Natasha Butt, Blazej Manczak, Auke Wiggers, Corrado Rainone, David Zhang, Michaël Defferrard, Taco Cohen*
 - **K-Level Reasoning with Large Language Models**, `arXiv, 2402.01521`, [arxiv](http://arxiv.org/abs/2402.01521v1), [pdf](http://arxiv.org/pdf/2402.01521v1.pdf), cication: [**-1**](None)
 
 	 *Yadong Zhang, Shaoguang Mao, Tao Ge, Xun Wang, Yan Xia, Man Lan, Furu Wei*
@@ -298,6 +310,13 @@ jj
 - [大模型Fewshot推理如何选择更好的示例](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495177&idx=2&sn=fe8353efed16a81e35462be06d5a6cea)
 
 ## Math reasoning
+- **OpenMathInstruct-1: A 1.8 Million Math Instruction Tuning Dataset**, `arXiv, 2402.10176`, [arxiv](http://arxiv.org/abs/2402.10176v1), [pdf](http://arxiv.org/pdf/2402.10176v1.pdf), cication: [**-1**](None)
+
+	 *Shubham Toshniwal, Ivan Moshkov, Sean Narenthiran, Daria Gitman, Fei Jia, Igor Gitman*
+- **InternLM-Math: Open Math Large Language Models Toward Verifiable
+  Reasoning**, `arXiv, 2402.06332`, [arxiv](http://arxiv.org/abs/2402.06332v1), [pdf](http://arxiv.org/pdf/2402.06332v1.pdf), cication: [**-1**](None)
+
+	 *Huaiyuan Ying, Shuo Zhang, Linyang Li, Zhejian Zhou, Yunfan Shao, Zhaoye Fei, Yichuan Ma, Jiawei Hong, Kuikun Liu, Ziyi Wang* · ([InternLM-Math](https://github.com/InternLM/InternLM-Math) - InternLM) ![Star](https://img.shields.io/github/stars/InternLM/InternLM-Math.svg?style=social&label=Star)
 - **DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open
   Language Models**, `arXiv, 2402.03300`, [arxiv](http://arxiv.org/abs/2402.03300v2), [pdf](http://arxiv.org/pdf/2402.03300v2.pdf), cication: [**-1**](None)
 
@@ -420,6 +439,9 @@ jj
 - [千亿级、数学专用，MathGPT大模型开始公测了 | 机器之心](https://www.jiqizhixin.com/articles/2023-08-24-2)
 
 ## Self correction
+- **Step-On-Feet Tuning: Scaling Self-Alignment of LLMs via Bootstrapping**, `arXiv, 2402.07610`, [arxiv](http://arxiv.org/abs/2402.07610v1), [pdf](http://arxiv.org/pdf/2402.07610v1.pdf), cication: [**-1**](None)
+
+	 *Haoyu Wang, Guozheng Ma, Ziqiao Meng, Zeyu Qin, Li Shen, Zhong Zhang, Bingzhe Wu, Liu Liu, Yatao Bian, Tingyang Xu*
 - **Can Large Language Models Really Improve by Self-critiquing Their Own
   Plans?**, `arXiv, 2310.08118`, [arxiv](http://arxiv.org/abs/2310.08118v1), [pdf](http://arxiv.org/pdf/2310.08118v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=4626190714577979337&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
@@ -437,6 +459,9 @@ jj
 	 *Tianlu Wang, Ping Yu, Xiaoqing Ellen Tan, Sean O'Brien, Ramakanth Pasunuru, Jane Dwivedi-Yu, Olga Golovneva, Luke Zettlemoyer, Maryam Fazel-Zarandi, Asli Celikyilmaz* · ([shepherd](https://github.com/facebookresearch/shepherd) - facebookresearch) ![Star](https://img.shields.io/github/stars/facebookresearch/shepherd.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652366759&idx=3&sn=f183f4c8080a338c4c9fad0f026b14af))
 
 ## Prompting
+- [**autoprompt**](https://github.com/eladlev/autoprompt) - eladlev ![Star](https://img.shields.io/github/stars/eladlev/autoprompt.svg?style=social&label=Star)
+
+	 *A framework for prompt tuning using Intent-based Prompt Calibration*
 - [**LangGPT**](https://github.com/EmbraceAGI/LangGPT) - EmbraceAGI ![Star](https://img.shields.io/github/stars/EmbraceAGI/LangGPT.svg?style=social&label=Star)
 
 	 *LangGPT: Empowering everyone to become a prompt expert!🚀 Structured Prompt，Language of GPT, 结构化提示词，结构化Prompt*
@@ -536,6 +561,9 @@ jj
 - [ChatGPT 詠唱案例懶人包 - 超過 40 個現實世界的應用範例 (持續更新) - 雷司紀的小道投資 raysky](https://www.rayskyinvest.com/96682/chatgpt-examples)
 
 ## In context learning
+- **In-Context Principle Learning from Mistakes**, `arXiv, 2402.05403`, [arxiv](http://arxiv.org/abs/2402.05403v2), [pdf](http://arxiv.org/pdf/2402.05403v2.pdf), cication: [**-1**](None)
+
+	 *Tianjun Zhang, Aman Madaan, Luyu Gao, Steven Zheng, Swaroop Mishra, Yiming Yang, Niket Tandon, Uri Alon*
 - **Towards Truly Zero-shot Compositional Visual Reasoning with LLMs as
   Programmers**, `arXiv, 2401.01974`, [arxiv](http://arxiv.org/abs/2401.01974v1), [pdf](http://arxiv.org/pdf/2401.01974v1.pdf), cication: [**-1**](None)
 

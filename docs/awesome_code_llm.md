@@ -16,6 +16,12 @@
 	 *Ziyin Zhang, Chaoyu Chen, Bingchang Liu, Cong Liao, Zi Gong, Hang Yu, Jianguo Li, Rui Wang*
 
 ## Paper
+- **Executable Code Actions Elicit Better LLM Agents**, `arXiv, 2402.01030`, [arxiv](http://arxiv.org/abs/2402.01030v1), [pdf](http://arxiv.org/pdf/2402.01030v1.pdf), cication: [**-1**](None)
+
+	 *Xingyao Wang, Yangyi Chen, Lifan Yuan, Yizhe Zhang, Yunzhu Li, Hao Peng, Heng Ji* · ([code-act](https://github.com/xingyaoww/code-act) - xingyaoww) ![Star](https://img.shields.io/github/stars/xingyaoww/code-act.svg?style=social&label=Star)
+- **MPIrigen: MPI Code Generation through Domain-Specific Language Models**, `arXiv, 2402.09126`, [arxiv](http://arxiv.org/abs/2402.09126v1), [pdf](http://arxiv.org/pdf/2402.09126v1.pdf), cication: [**-1**](None)
+
+	 *Nadav Schneider, Niranjan Hasabnis, Vy A. Vo, Tal Kadosh, Neva Krien, Mihai Capotă, Abdul Wasay, Guy Tamir, Ted Willke, Nesreen Ahmed* · ([MPI-rigen](https://github.com/Scientific-Computing-Lab-NRCN/MPI-rigen) - Scientific-Computing-Lab-NRCN) ![Star](https://img.shields.io/github/stars/Scientific-Computing-Lab-NRCN/MPI-rigen.svg?style=social&label=Star)
 - **Code Representation Learning At Scale**, `arXiv, 2402.01935`, [arxiv](http://arxiv.org/abs/2402.01935v1), [pdf](http://arxiv.org/pdf/2402.01935v1.pdf), cication: [**-1**](None)
 
 	 *Dejiao Zhang, Wasi Ahmad, Ming Tan, Hantian Ding, Ramesh Nallapati, Dan Roth, Xiaofei Ma, Bing Xiang*

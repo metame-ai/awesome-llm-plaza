@@ -16,6 +16,9 @@
 	 *Zige Wang, Wanjun Zhong, Yufei Wang, Qi Zhu, Fei Mi, Baojun Wang, Lifeng Shang, Xin Jiang, Qun Liu*
 
 ## Techs
+- **How to Train Data-Efficient LLMs**, `arXiv, 2402.09668`, [arxiv](http://arxiv.org/abs/2402.09668v1), [pdf](http://arxiv.org/pdf/2402.09668v1.pdf), cication: [**-1**](None)
+
+	 *Noveen Sachdeva, Benjamin Coleman, Wang-Cheng Kang, Jianmo Ni, Lichan Hong, Ed H. Chi, James Caverlee, Julian McAuley, Derek Zhiyuan Cheng*
 - [An Initial Exploration of Theoretical Support for Language Model Data Engineering. Part 1: Pretraining ](https://yaofu.notion.site/An-Initial-Exploration-of-Theoretical-Support-for-Language-Model-Data-Engineering-Part-1-Pretraini-dc480d9bf7ff4659afd8c9fb738086eb)
 - **Rephrasing the Web: A Recipe for Compute and Data-Efficient Language
   Modeling**, `arXiv, 2401.16380`, [arxiv](http://arxiv.org/abs/2401.16380v1), [pdf](http://arxiv.org/pdf/2401.16380v1.pdf), cication: [**-1**](None)
@@ -64,6 +67,10 @@
 - [**peS2o**](https://huggingface.co/datasets/allenai/peS2o) - allenai 🤗
 
 ### Misc
+- **Aya Dataset: An Open-Access Collection for Multilingual Instruction
+  Tuning**, `arXiv, 2402.06619`, [arxiv](http://arxiv.org/abs/2402.06619v1), [pdf](http://arxiv.org/pdf/2402.06619v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=8445225482174528918&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Shivalika Singh, Freddie Vargus, Daniel Dsouza, Börje F. Karlsson, Abinaya Mahendiran, Wei-Yin Ko, Herumb Shandilya, Jay Patel, Deividas Mataciunas, Laura OMahony*
 - **Dolma: an Open Corpus of Three Trillion Tokens for Language Model
   Pretraining Research**, `arXiv, 2402.00159`, [arxiv](http://arxiv.org/abs/2402.00159v1), [pdf](http://arxiv.org/pdf/2402.00159v1.pdf), cication: [**-1**](None)
 
@@ -225,6 +232,10 @@
 - [**data-juicer**](https://github.com/alibaba/data-juicer) - alibaba ![Star](https://img.shields.io/github/stars/alibaba/data-juicer.svg?style=social&label=Star)
 
 	 *A one-stop data processing system to make data higher-quality, juicier, and more digestible for LLMs! 🍎 🍋 🌽 ➡️ ➡️🍸 🍹 🍷为大语言模型提供更高质量、更丰富、更易”消化“的数据！*
+
+## Other
+- [Site Unreachable](https://huggingface.co/blog/synthetic-data-save-costs)
+- [Thinking about High-Quality Human Data | Lil'Log](https://lilianweng.github.io/posts/2024-02-05-human-data-quality/)
 
 ## Extra reference
 - [**awesome-instruction-datasets**](https://github.com/jianzhnie/awesome-instruction-datasets) - jianzhnie ![Star](https://img.shields.io/github/stars/jianzhnie/awesome-instruction-datasets.svg?style=social&label=Star)

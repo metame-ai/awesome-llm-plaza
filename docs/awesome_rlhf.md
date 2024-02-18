@@ -12,6 +12,12 @@
 
 
 ## Papers
+- **Suppressing Pink Elephants with Direct Principle Feedback**, `arXiv, 2402.07896`, [arxiv](http://arxiv.org/abs/2402.07896v2), [pdf](http://arxiv.org/pdf/2402.07896v2.pdf), cication: [**-1**](None)
+
+	 *Louis Castricato, Nathan Lile, Suraj Anand, Hailey Schoelkopf, Siddharth Verma, Stella Biderman*
+- **ODIN: Disentangled Reward Mitigates Hacking in RLHF**, `arXiv, 2402.07319`, [arxiv](http://arxiv.org/abs/2402.07319v1), [pdf](http://arxiv.org/pdf/2402.07319v1.pdf), cication: [**-1**](None)
+
+	 *Lichang Chen, Chen Zhu, Davit Soselia, Jiuhai Chen, Tianyi Zhou, Tom Goldstein, Heng Huang, Mohammad Shoeybi, Bryan Catanzaro*
 - **LiPO: Listwise Preference Optimization through Learning-to-Rank**, `arXiv, 2402.01878`, [arxiv](http://arxiv.org/abs/2402.01878v1), [pdf](http://arxiv.org/pdf/2402.01878v1.pdf), cication: [**-1**](None)
 
 	 *Tianqi Liu, Zhen Qin, Junru Wu, Jiaming Shen, Misha Khalman, Rishabh Joshi, Yao Zhao, Mohammad Saleh, Simon Baumgartner, Jialu Liu*

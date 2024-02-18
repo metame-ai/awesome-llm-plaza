@@ -19,6 +19,9 @@
 
 ## Vision
 ### Video
+- **World Model on Million-Length Video And Language With RingAttention**, `arXiv, 2402.08268`, [arxiv](http://arxiv.org/abs/2402.08268v1), [pdf](http://arxiv.org/pdf/2402.08268v1.pdf), cication: [**-1**](None)
+
+	 *Hao Liu, Wilson Yan, Matei Zaharia, Pieter Abbeel* · ([LWM](https://github.com/LargeWorldModel/LWM) - LargeWorldModel) ![Star](https://img.shields.io/github/stars/LargeWorldModel/LWM.svg?style=social&label=Star)
 - **Distilling Vision-Language Models on Millions of Videos**, `arXiv, 2401.06129`, [arxiv](http://arxiv.org/abs/2401.06129v1), [pdf](http://arxiv.org/pdf/2401.06129v1.pdf), cication: [**-1**](None)
 
 	 *Yue Zhao, Long Zhao, Xingyi Zhou, Jialin Wu, Chun-Te Chu, Hui Miao, Florian Schroff, Hartwig Adam, Ting Liu, Boqing Gong*
@@ -76,6 +79,26 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
+- **Lumos : Empowering Multimodal LLMs with Scene Text Recognition**, `arXiv, 2402.08017`, [arxiv](http://arxiv.org/abs/2402.08017v1), [pdf](http://arxiv.org/pdf/2402.08017v1.pdf), cication: [**-1**](None)
+
+	 *Ashish Shenoy, Yichao Lu, Srihari Jayakumar, Debojeet Chatterjee, Mohsen Moslehpour, Pierce Chuang, Abhay Harpale, Vikas Bhardwaj, Di Xu, Shicong Zhao*
+- **Prismatic VLMs: Investigating the Design Space of Visually-Conditioned
+  Language Models**, `arXiv, 2402.07865`, [arxiv](http://arxiv.org/abs/2402.07865v1), [pdf](http://arxiv.org/pdf/2402.07865v1.pdf), cication: [**-1**](None)
+
+	 *Siddharth Karamcheti, Suraj Nair, Ashwin Balakrishna, Percy Liang, Thomas Kollar, Dorsa Sadigh*
+- **PIVOT: Iterative Visual Prompting Elicits Actionable Knowledge for VLMs**, `arXiv, 2402.07872`, [arxiv](http://arxiv.org/abs/2402.07872v1), [pdf](http://arxiv.org/pdf/2402.07872v1.pdf), cication: [**-1**](None)
+
+	 *Soroush Nasiriany, Fei Xia, Wenhao Yu, Ted Xiao, Jacky Liang, Ishita Dasgupta, Annie Xie, Danny Driess, Ayzaan Wahid, Zhuo Xu* · ([huggingface](https://huggingface.co/spaces/pivot-prompt/pivot-prompt-demo))
+- **Question Aware Vision Transformer for Multimodal Reasoning**, `arXiv, 2402.05472`, [arxiv](http://arxiv.org/abs/2402.05472v1), [pdf](http://arxiv.org/pdf/2402.05472v1.pdf), cication: [**-1**](None)
+
+	 *Roy Ganz, Yair Kittenplon, Aviad Aberdam, Elad Ben Avraham, Oren Nuriel, Shai Mazor, Ron Litman*
+- **SPHINX-X: Scaling Data and Parameters for a Family of Multi-modal Large
+  Language Models**, `arXiv, 2402.05935`, [arxiv](http://arxiv.org/abs/2402.05935v1), [pdf](http://arxiv.org/pdf/2402.05935v1.pdf), cication: [**-1**](None)
+
+	 *Peng Gao, Renrui Zhang, Chris Liu, Longtian Qiu, Siyuan Huang, Weifeng Lin, Shitian Zhao, Shijie Geng, Ziyi Lin, Peng Jin* · ([LLaMA2-Accessory](https://github.com/Alpha-VLLM/LLaMA2-Accessory) - Alpha-VLLM) ![Star](https://img.shields.io/github/stars/Alpha-VLLM/LLaMA2-Accessory.svg?style=social&label=Star)
+- **ScreenAI: A Vision-Language Model for UI and Infographics Understanding**, `arXiv, 2402.04615`, [arxiv](http://arxiv.org/abs/2402.04615v1), [pdf](http://arxiv.org/pdf/2402.04615v1.pdf), cication: [**-1**](None)
+
+	 *Gilles Baechler, Srinivas Sunkara, Maria Wang, Fedir Zubach, Hassan Mansoor, Vincent Etter, Victor Cărbune, Jason Lin, Jindong Chen, Abhanshu Sharma*
 - **MobileVLM V2: Faster and Stronger Baseline for Vision Language Model**, `arXiv, 2402.03766`, [arxiv](http://arxiv.org/abs/2402.03766v1), [pdf](http://arxiv.org/pdf/2402.03766v1.pdf), cication: [**-1**](None)
 
 	 *Xiangxiang Chu, Limeng Qiao, Xinyu Zhang, Shuang Xu, Fei Wei, Yang Yang, Xiaofei Sun, Yiming Hu, Xinyang Lin, Bo Zhang* · ([MobileVLM](https://github.com/Meituan-AutoML/MobileVLM) - Meituan-AutoML) ![Star](https://img.shields.io/github/stars/Meituan-AutoML/MobileVLM.svg?style=social&label=Star)
@@ -639,6 +662,9 @@
 	 *Shaohan Huang, Li Dong, Wenhui Wang, Yaru Hao, Saksham Singhal, Shuming Ma, Tengchao Lv, Lei Cui, Owais Khan Mohammed, Barun Patra*
 
 ## Audio
+- **SpiRit-LM: Interleaved Spoken and Written Language Model**, `arXiv, 2402.05755`, [arxiv](http://arxiv.org/abs/2402.05755v1), [pdf](http://arxiv.org/pdf/2402.05755v1.pdf), cication: [**-1**](None)
+
+	 *Tu Anh Nguyen, Benjamin Muller, Bokai Yu, Marta R. Costa-jussa, Maha Elbayad, Sravya Popuri, Paul-Ambroise Duquenne, Robin Algayres, Ruslan Mavlyutov, Itai Gat*
 - **Audio Flamingo: A Novel Audio Language Model with Few-Shot Learning and
   Dialogue Abilities**, `arXiv, 2402.01831`, [arxiv](http://arxiv.org/abs/2402.01831v1), [pdf](http://arxiv.org/pdf/2402.01831v1.pdf), cication: [**-1**](None)
 

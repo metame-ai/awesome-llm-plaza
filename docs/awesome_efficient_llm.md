@@ -45,6 +45,9 @@
 
 	 *Vladislav Lialin, Vijeta Deshpande, Anna Rumshisky*
 ## Efficient finetuning
+- **DoRA: Weight-Decomposed Low-Rank Adaptation**, `arXiv, 2402.09353`, [arxiv](http://arxiv.org/abs/2402.09353v1), [pdf](http://arxiv.org/pdf/2402.09353v1.pdf), cication: [**-1**](None)
+
+	 *Shih-Yang Liu, Chien-Yi Wang, Hongxu Yin, Pavlo Molchanov, Yu-Chiang Frank Wang, Kwang-Ting Cheng, Min-Hung Chen* · ([dora](https://github.com/catid/dora?tab=readme-ov-file) - catid) ![Star](https://img.shields.io/github/stars/catid/dora.svg?style=social&label=Star)
 - **Astraios: Parameter-Efficient Instruction Tuning Code Large Language
   Models**, `arXiv, 2401.00788`, [arxiv](http://arxiv.org/abs/2401.00788v1), [pdf](http://arxiv.org/pdf/2401.00788v1.pdf), cication: [**-1**](None)
 
@@ -143,6 +146,22 @@
 	 *Xunyu Zhu, Jian Li, Yong Liu, Can Ma, Weiping Wang* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-08-26-5))
 
 ### Papers
+- **Extreme Compression of Large Language Models via Additive Quantization**, `arXiv, 2401.06118`, [arxiv](http://arxiv.org/abs/2401.06118v2), [pdf](http://arxiv.org/pdf/2401.06118v2.pdf), cication: [**-1**](None)
+
+	 *Vage Egiazarian, Andrei Panferov, Denis Kuznedelev, Elias Frantar, Artem Babenko, Dan Alistarh* · ([aqlm](https://github.com/vahe1994/aqlm?tab=readme-ov-file) - vahe1994) ![Star](https://img.shields.io/github/stars/vahe1994/aqlm.svg?style=social&label=Star)
+- **KIVI: A Tuning-Free Asymmetric 2bit Quantization for KV Cache**, `arXiv, 2402.02750`, [arxiv](http://arxiv.org/abs/2402.02750v1), [pdf](http://arxiv.org/pdf/2402.02750v1.pdf), cication: [**-1**](None)
+
+	 *Zirui Liu, Jiayi Yuan, Hongye Jin, Shaochen Zhong, Zhaozhuo Xu, Vladimir Braverman, Beidi Chen, Xia Hu* · ([kivi](https://github.com/jy-yuan/kivi) - jy-yuan) ![Star](https://img.shields.io/github/stars/jy-yuan/kivi.svg?style=social&label=Star)
+- **Towards Next-Level Post-Training Quantization of Hyper-Scale
+  Transformers**, `arXiv, 2402.08958`, [arxiv](http://arxiv.org/abs/2402.08958v1), [pdf](http://arxiv.org/pdf/2402.08958v1.pdf), cication: [**-1**](None)
+
+	 *Junhan Kim, Kyungphil Park, Chungman Lee, Ho-young Kim, Joonyoung Kim, Yongkweon Jeon*
+- **TP-Aware Dequantization**, `arXiv, 2402.04925`, [arxiv](http://arxiv.org/abs/2402.04925v1), [pdf](http://arxiv.org/pdf/2402.04925v1.pdf), cication: [**-1**](None)
+
+	 *Adnan Hoque, Mudhakar Srivatsa, Chih-Chieh Yang, Raghu Ganti*
+- **BiLLM: Pushing the Limit of Post-Training Quantization for LLMs**, `arXiv, 2402.04291`, [arxiv](http://arxiv.org/abs/2402.04291v1), [pdf](http://arxiv.org/pdf/2402.04291v1.pdf), cication: [**-1**](None)
+
+	 *Wei Huang, Yangdong Liu, Haotong Qin, Ying Li, Shiming Zhang, Xianglong Liu, Michele Magno, Xiaojuan Qi*
 - **FP6-LLM: Efficiently Serving Large Language Models Through FP6-Centric
   Algorithm-System Co-Design**, `arXiv, 2401.14112`, [arxiv](http://arxiv.org/abs/2401.14112v1), [pdf](http://arxiv.org/pdf/2401.14112v1.pdf), cication: [**-1**](None)
 
@@ -329,6 +348,19 @@
 	 *A simple and effective LLM pruning approach.*
 
 ## Efficient Inference
+- **Tandem Transformers for Inference Efficient LLMs**, `arXiv, 2402.08644`, [arxiv](http://arxiv.org/abs/2402.08644v1), [pdf](http://arxiv.org/pdf/2402.08644v1.pdf), cication: [**-1**](None)
+
+	 *Aishwarya P S, Pranav Ajit Nair, Yashas Samaga, Toby Boyd, Sanjiv Kumar, Prateek Jain, Praneeth Netrapalli*
+- **Fiddler: CPU-GPU Orchestration for Fast Inference of Mixture-of-Experts
+  Models**, `arXiv, 2402.07033`, [arxiv](http://arxiv.org/abs/2402.07033v1), [pdf](http://arxiv.org/pdf/2402.07033v1.pdf), cication: [**-1**](None)
+
+	 *Keisuke Kamahori, Yile Gu, Kan Zhu, Baris Kasikci* · ([fiddler](https://github.com/efeslab/fiddler) - efeslab) ![Star](https://img.shields.io/github/stars/efeslab/fiddler.svg?style=social&label=Star)
+- **SubGen: Token Generation in Sublinear Time and Memory**, `arXiv, 2402.06082`, [arxiv](http://arxiv.org/abs/2402.06082v1), [pdf](http://arxiv.org/pdf/2402.06082v1.pdf), cication: [**-1**](None)
+
+	 *Amir Zandieh, Insu Han, Vahab Mirrokni, Amin Karbasi*
+- **Hydragen: High-Throughput LLM Inference with Shared Prefixes**, `arXiv, 2402.05099`, [arxiv](http://arxiv.org/abs/2402.05099v1), [pdf](http://arxiv.org/pdf/2402.05099v1.pdf), cication: [**-1**](None)
+
+	 *Jordan Juravsky, Bradley Brown, Ryan Ehrlich, Daniel Y. Fu, Christopher Ré, Azalia Mirhoseini*
 - [**flashinfer**](https://github.com/flashinfer-ai/flashinfer/) - flashinfer-ai ![Star](https://img.shields.io/github/stars/flashinfer-ai/flashinfer.svg?style=social&label=Star)
 
 	 *FlashInfer: Kernel Library for LLM Serving*
@@ -561,6 +593,10 @@
 	 *DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.*
 
 ## Efficient transformer
+- **The Hedgehog & the Porcupine: Expressive Linear Attentions with Softmax
+  Mimicry**, `arXiv, 2402.04347`, [arxiv](http://arxiv.org/abs/2402.04347v1), [pdf](http://arxiv.org/pdf/2402.04347v1.pdf), cication: [**-1**](None)
+
+	 *Michael Zhang, Kush Bhatia, Hermann Kumbong, Christopher Ré*
 - [FireAttention — Serving Open Source Models 4x faster than vLLM by quantizing with \~no tradeoffs | by Fireworks.ai | Jan, 2024 | Medium](https://blog.fireworks.ai/fireattention-serving-open-source-models-4x-faster-than-vllm-by-quantizing-with-no-tradeoffs-a29a85ad28d0)
 - [**flash-linear-attention**](https://github.com/sustcsonglin/flash-linear-attention) - sustcsonglin ![Star](https://img.shields.io/github/stars/sustcsonglin/flash-linear-attention.svg?style=social&label=Star)
 
@@ -611,6 +647,10 @@
 	 · ([zhuanlan.zhihu](https://zhuanlan.zhihu.com/p/634236135))
 
 ## Hardware
+- **Progressive Gradient Flow for Robust N:M Sparsity Training in
+  Transformers**, `arXiv, 2402.04744`, [arxiv](http://arxiv.org/abs/2402.04744v1), [pdf](http://arxiv.org/pdf/2402.04744v1.pdf), cication: [**-1**](None)
+
+	 *Abhimanyu Rajeshkumar Bambhaniya, Amir Yazdanbakhsh, Suvinay Subramanian, Sheng-Chun Kao, Shivani Agrawal, Utku Evci, Tushar Krishna*
 - **FlightLLM: Efficient Large Language Model Inference with a Complete
   Mapping Flow on FPGAs**, `arXiv, 2401.03868`, [arxiv](http://arxiv.org/abs/2401.03868v2), [pdf](http://arxiv.org/pdf/2401.03868v2.pdf), cication: [**-1**](None)
 

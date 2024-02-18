@@ -38,6 +38,12 @@
 - [Navigating the Jagged Technological Frontier: Field Experimental Evidence of the Effects of AI on Knowledge Worker Productivity and Quality](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4573321)
 
 ## Toolkits
+- [**shell_gpt**](https://github.com/TheR1D/shell_gpt) - TheR1D ![Star](https://img.shields.io/github/stars/TheR1D/shell_gpt.svg?style=social&label=Star)
+
+	 *A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.*
+- [**reor**](https://github.com/reorproject/reor) - reorproject ![Star](https://img.shields.io/github/stars/reorproject/reor.svg?style=social&label=Star)
+
+	 *AI note-taking app that runs models locally.*
 - [**fabric**](https://github.com/danielmiessler/fabric) - danielmiessler ![Star](https://img.shields.io/github/stars/danielmiessler/fabric.svg?style=social&label=Star)
 
 	 *fabric is an open-source framework for augmenting humans using AI.*
@@ -93,6 +99,10 @@
 	 *A ChatGPT plugin that allows you to load and edit your local files in a controlled way, as well as run any Python, JavaScript, and bash script.*
 
 ## Writing
+- **GhostWriter: Augmenting Collaborative Human-AI Writing Experiences
+  Through Personalization and Agency**, `arXiv, 2402.08855`, [arxiv](http://arxiv.org/abs/2402.08855v1), [pdf](http://arxiv.org/pdf/2402.08855v1.pdf), cication: [**-1**](None)
+
+	 *Catherine Yeh, Gonzalo Ramos, Rachel Ng, Andy Huntington, Richard Banks*
 - **Weaver: Foundation Models for Creative Writing**, `arXiv, 2401.17268`, [arxiv](http://arxiv.org/abs/2401.17268v1), [pdf](http://arxiv.org/pdf/2401.17268v1.pdf), cication: [**-1**](None)
 
 	 *Tiannan Wang, Jiamin Chen, Qingrui Jia, Shuai Wang, Ruoyu Fang, Huilin Wang, Zhaowei Gao, Chunzhao Xie, Chuou Xu, Jihong Dai*
@@ -244,6 +254,9 @@
 	 *Yunkang Cao, Xiaohao Xu, Chen Sun, Xiaonan Huang, Weiming Shen* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-11-13))
 
 ## Auto driving
+- **Driving Everywhere with Large Language Model Policy Adaptation**, `arXiv, 2402.05932`, [arxiv](http://arxiv.org/abs/2402.05932v1), [pdf](http://arxiv.org/pdf/2402.05932v1.pdf), cication: [**-1**](None)
+
+	 *Boyi Li, Yue Wang, Jiageng Mao, Boris Ivanovic, Sushant Veer, Karen Leung, Marco Pavone* · ([boyiliee.github](https://boyiliee.github.io/llada))
 - [Self-driving as a case study for AGI](https://karpathy.github.io/2024/01/21/selfdriving-agi/)
 - **LMDrive: Closed-Loop End-to-End Driving with Large Language Models**, `arXiv, 2312.07488`, [arxiv](http://arxiv.org/abs/2312.07488v1), [pdf](http://arxiv.org/pdf/2312.07488v1.pdf), cication: [**-1**](None)
 
@@ -476,6 +489,11 @@
 
 	 *Quan Wang, Yiling Huang, Guanlong Zhao, Evan Clark, Wei Xia, Hank Liao*
 
+## Design
+- **Keyframer: Empowering Animation Design using Large Language Models**, `arXiv, 2402.06071`, [arxiv](http://arxiv.org/abs/2402.06071v1), [pdf](http://arxiv.org/pdf/2402.06071v1.pdf), cication: [**-1**](None)
+
+	 *Tiffany Tseng, Ruijia Cheng, Jeffrey Nichols*
+
 ## Vision
 - **Guiding Instruction-based Image Editing via Multimodal Large Language
   Models**, `arXiv, 2309.17102`, [arxiv](http://arxiv.org/abs/2309.17102v2), [pdf](http://arxiv.org/pdf/2309.17102v2.pdf), cication: [**7**](https://scholar.google.com/scholar?cites=11018103266329124223&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
@@ -532,6 +550,19 @@
 	 *Official repo for LayoutGPT*
 
 ## Science
+- **ChatCell: Facilitating Single-Cell Analysis with Natural Language**, `arXiv, 2402.08303`, [arxiv](http://arxiv.org/abs/2402.08303v2), [pdf](http://arxiv.org/pdf/2402.08303v2.pdf), cication: [**-1**](None)
+
+	 *Yin Fang, Kangwei Liu, Ningyu Zhang, Xinle Deng, Penghui Yang, Zhuo Chen, Xiangru Tang, Mark Gerstein, Xiaohui Fan, Huajun Chen*
+- **ChemLLM: A Chemical Large Language Model**, `arXiv, 2402.06852`, [arxiv](http://arxiv.org/abs/2402.06852v1), [pdf](http://arxiv.org/pdf/2402.06852v1.pdf), cication: [**-1**](None)
+
+	 *Di Zhang, Wei Liu, Qian Tan, Jingdan Chen, Hang Yan, Yuliang Yan, Jiatong Li, Weiran Huang, Xiangyu Yue, Dongzhan Zhou*
+	- hf.co/AI4Chem/ChemLLM-7B-Chat
+- **Tag-LLM: Repurposing General-Purpose LLMs for Specialized Domains**, `arXiv, 2402.05140`, [arxiv](http://arxiv.org/abs/2402.05140v1), [pdf](http://arxiv.org/pdf/2402.05140v1.pdf), cication: [**-1**](None)
+
+	 *Junhong Shen, Neil Tenenholtz, James Brian Hall, David Alvarez-Melis, Nicolo Fusi*
+- **Fine-Tuned Language Models Generate Stable Inorganic Materials as Text**, `arXiv, 2402.04379`, [arxiv](http://arxiv.org/abs/2402.04379v1), [pdf](http://arxiv.org/pdf/2402.04379v1.pdf), cication: [**-1**](None)
+
+	 *Nate Gruver, Anuroop Sriram, Andrea Madotto, Andrew Gordon Wilson, C. Lawrence Zitnick, Zachary Ulissi*
 - **Scientific Large Language Models: A Survey on Biological & Chemical
   Domains**, `arXiv, 2401.14656`, [arxiv](http://arxiv.org/abs/2401.14656v1), [pdf](http://arxiv.org/pdf/2401.14656v1.pdf), cication: [**-1**](None)
 
