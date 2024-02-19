@@ -21,6 +21,10 @@
 - [Attention? Attention! | Lil'Log](https://lilianweng.github.io/posts/2018-06-24-attention/#a-family-of-attention-mechanisms)
 
 ## Papers
+- **In Search of Needles in a 10M Haystack: Recurrent Memory Finds What LLMs
+  Miss**, `arXiv, 2402.10790`, [arxiv](http://arxiv.org/abs/2402.10790v1), [pdf](http://arxiv.org/pdf/2402.10790v1.pdf), cication: [**-1**](None)
+
+	 *Yuri Kuratov, Aydar Bulatov, Petr Anokhin, Dmitry Sorokin, Artyom Sorokin, Mikhail Burtsev*
 - **Data Engineering for Scaling Language Models to 128K Context**, `arXiv, 2402.10171`, [arxiv](http://arxiv.org/abs/2402.10171v1), [pdf](http://arxiv.org/pdf/2402.10171v1.pdf), cication: [**-1**](None)
 
 	 *Yao Fu, Rameswar Panda, Xinyao Niu, Xiang Yue, Hannaneh Hajishirzi, Yoon Kim, Hao Peng* · ([long-context-data-engineering](https://github.com/franxyao/long-context-data-engineering?tab=readme-ov-file) - franxyao) ![Star](https://img.shields.io/github/stars/franxyao/long-context-data-engineering.svg?style=social&label=Star)

@@ -16,6 +16,10 @@
 	 *Ziyin Zhang, Chaoyu Chen, Bingchang Liu, Cong Liao, Zi Gong, Hang Yu, Jianguo Li, Rui Wang*
 
 ## Paper
+- **DolphCoder: Echo-Locating Code Large Language Models with Diverse and
+  Multi-Objective Instruction Tuning**, `arXiv, 2402.09136`, [arxiv](http://arxiv.org/abs/2402.09136v1), [pdf](http://arxiv.org/pdf/2402.09136v1.pdf), cication: [**-1**](None)
+
+	 *Yejie Wang, Keqing He, Guanting Dong, Pei Wang, Weihao Zeng, Muxi Diao, Yutao Mou, Mengdi Zhang, Jingang Wang, Xunliang Cai*
 - **Executable Code Actions Elicit Better LLM Agents**, `arXiv, 2402.01030`, [arxiv](http://arxiv.org/abs/2402.01030v1), [pdf](http://arxiv.org/pdf/2402.01030v1.pdf), cication: [**-1**](None)
 
 	 *Xingyao Wang, Yangyi Chen, Lifan Yuan, Yizhe Zhang, Yunzhu Li, Hao Peng, Heng Ji* · ([code-act](https://github.com/xingyaoww/code-act) - xingyaoww) ![Star](https://img.shields.io/github/stars/xingyaoww/code-act.svg?style=social&label=Star)

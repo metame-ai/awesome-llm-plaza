@@ -12,6 +12,12 @@
 
 
 ## Papers
+- **RLVF: Learning from Verbal Feedback without Overgeneralization**, `arXiv, 2402.10893`, [arxiv](http://arxiv.org/abs/2402.10893v1), [pdf](http://arxiv.org/pdf/2402.10893v1.pdf), cication: [**-1**](None)
+
+	 *Moritz Stephan, Alexander Khazatsky, Eric Mitchell, Annie S Chen, Sheryl Hsu, Archit Sharma, Chelsea Finn*
+- **A Minimaximalist Approach to Reinforcement Learning from Human Feedback**, `arXiv, 2401.04056`, [arxiv](http://arxiv.org/abs/2401.04056v1), [pdf](http://arxiv.org/pdf/2401.04056v1.pdf), cication: [**4**](https://scholar.google.com/scholar?cites=18273842745928489276&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Gokul Swamy, Christoph Dann, Rahul Kidambi, Zhiwei Steven Wu, Alekh Agarwal* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-15-3))
 - **Suppressing Pink Elephants with Direct Principle Feedback**, `arXiv, 2402.07896`, [arxiv](http://arxiv.org/abs/2402.07896v2), [pdf](http://arxiv.org/pdf/2402.07896v2.pdf), cication: [**-1**](None)
 
 	 *Louis Castricato, Nathan Lile, Suraj Anand, Hailey Schoelkopf, Siddharth Verma, Stella Biderman*

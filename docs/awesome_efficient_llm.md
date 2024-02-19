@@ -48,6 +48,8 @@
 - **DoRA: Weight-Decomposed Low-Rank Adaptation**, `arXiv, 2402.09353`, [arxiv](http://arxiv.org/abs/2402.09353v1), [pdf](http://arxiv.org/pdf/2402.09353v1.pdf), cication: [**-1**](None)
 
 	 *Shih-Yang Liu, Chien-Yi Wang, Hongxu Yin, Pavlo Molchanov, Yu-Chiang Frank Wang, Kwang-Ting Cheng, Min-Hung Chen* · ([dora](https://github.com/catid/dora?tab=readme-ov-file) - catid) ![Star](https://img.shields.io/github/stars/catid/dora.svg?style=social&label=Star)
+
+	 · ([magazine.sebastianraschka](https://t.co/uPzXgBQ9vh))
 - **Astraios: Parameter-Efficient Instruction Tuning Code Large Language
   Models**, `arXiv, 2401.00788`, [arxiv](http://arxiv.org/abs/2401.00788v1), [pdf](http://arxiv.org/pdf/2401.00788v1.pdf), cication: [**-1**](None)
 
@@ -659,6 +661,9 @@
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-01-10-4))
 
 ##  Other
+- [How to make LLMs go fast](https://vgel.me/posts/faster-inference/?continueFlag=dc32042695bb7e31fb9280e21ab25f8c)
+
+	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-14-2))
 - [Make LLM Fine-tuning 2x faster with Unsloth and 🤗 TRL](https://huggingface.co/blog/unsloth-trl)
 - [Schedule | NeurIPS Large Language Model Efficiency Challenge:1 LLM + 1GPU + 1Day](https://llm-efficiency-challenge.github.io/schedule)
 - [Dynamic LoRA loading for better performance and optimized resource usage](https://huggingface.co/blog/lora-adapters-dynamic-loading)

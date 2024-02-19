@@ -59,9 +59,14 @@
 	 *Yufei Wang, Wanjun Zhong, Liangyou Li, Fei Mi, Xingshan Zeng, Wenyong Huang, Lifeng Shang, Xin Jiang, Qun Liu* · ([AlignLLMHumanSurvey](https://github.com/GaryYufei/AlignLLMHumanSurvey) - GaryYufei) ![Star](https://img.shields.io/github/stars/GaryYufei/AlignLLMHumanSurvey.svg?style=social&label=Star)
 
 ### Paper & Projects
+- **Aligner: Achieving Efficient Alignment through Weak-to-Strong Correction**, `arXiv, 2402.02416`, [arxiv](http://arxiv.org/abs/2402.02416v2), [pdf](http://arxiv.org/pdf/2402.02416v2.pdf), cication: [**-1**](None)
+
+	 *Jiaming Ji, Boyuan Chen, Hantao Lou, Donghai Hong, Borong Zhang, Xuehai Pan, Juntao Dai, Yaodong Yang* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-08-6)) · ([aligner2024.github](https://aligner2024.github.io))
 - **LESS: Selecting Influential Data for Targeted Instruction Tuning**, `arXiv, 2402.04333`, [arxiv](http://arxiv.org/abs/2402.04333v1), [pdf](http://arxiv.org/pdf/2402.04333v1.pdf), cication: [**-1**](None)
 
 	 *Mengzhou Xia, Sadhika Malladi, Suchin Gururangan, Sanjeev Arora, Danqi Chen* · ([less](https://github.com/princeton-nlp/less) - princeton-nlp) ![Star](https://img.shields.io/github/stars/princeton-nlp/less.svg?style=social&label=Star)
+
+	 · ([qbitai](https://www.qbitai.com/2024/02/120290.html))
 - **Generative Representational Instruction Tuning**, `arXiv, 2402.09906`, [arxiv](http://arxiv.org/abs/2402.09906v1), [pdf](http://arxiv.org/pdf/2402.09906v1.pdf), cication: [**-1**](None)
 
 	 *Niklas Muennighoff, Hongjin Su, Liang Wang, Nan Yang, Furu Wei, Tao Yu, Amanpreet Singh, Douwe Kiela*
@@ -322,6 +327,10 @@
 - [Fine-tuning GPT3.5-turbo based on 140k slack messages · Ross Lazerowitz](https://rosslazer.com/posts/fine-tuning/)
 
 ## Architectures
+- **Linear Transformers with Learnable Kernel Functions are Better
+  In-Context Models**, `arXiv, 2402.10644`, [arxiv](http://arxiv.org/abs/2402.10644v1), [pdf](http://arxiv.org/pdf/2402.10644v1.pdf), cication: [**-1**](None)
+
+	 *Yaroslav Aksenov, Nikita Balagansky, Sofia Maria Lo Cicero Vaina, Boris Shaposhnikov, Alexey Gorbatovski, Daniil Gavrilov*
 - **Rethinking Optimization and Architecture for Tiny Language Models**, `arXiv, 2402.02791`, [arxiv](http://arxiv.org/abs/2402.02791v2), [pdf](http://arxiv.org/pdf/2402.02791v2.pdf), cication: [**-1**](None)
 
 	 *Yehui Tang, Fangcheng Liu, Yunsheng Ni, Yuchuan Tian, Zheyuan Bai, Yi-Qi Hu, Sichao Liu, Shangling Jui, Kai Han, Yunhe Wang* · ([RethinkTinyLM](https://github.com/YuchuanTian/RethinkTinyLM) - YuchuanTian) ![Star](https://img.shields.io/github/stars/YuchuanTian/RethinkTinyLM.svg?style=social&label=Star)

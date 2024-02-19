@@ -28,6 +28,10 @@
 	 *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang*
 
 ## Papers
+- **LLM Comparator: Visual Analytics for Side-by-Side Evaluation of Large
+  Language Models**, `arXiv, 2402.10524`, [arxiv](http://arxiv.org/abs/2402.10524v1), [pdf](http://arxiv.org/pdf/2402.10524v1.pdf), cication: [**-1**](None)
+
+	 *Minsuk Kahng, Ian Tenney, Mahima Pushkarna, Michael Xieyang Liu, James Wexler, Emily Reif, Krystal Kallarackal, Minsuk Chang, Michael Terry, Lucas Dixon*
 - **A Chain-of-Thought Is as Strong as Its Weakest Link: A Benchmark for
   Verifiers of Reasoning Chains**, `arXiv, 2402.00559`, [arxiv](http://arxiv.org/abs/2402.00559v1), [pdf](http://arxiv.org/pdf/2402.00559v1.pdf), cication: [**-1**](None)
 

@@ -173,6 +173,10 @@
 	 *Xiang Deng, Yu Gu, Boyuan Zheng, Shijie Chen, Samuel Stevens, Boshi Wang, Huan Sun, Yu Su*
 
 ### Synthetic 
+- **DataDreamer: A Tool for Synthetic Data Generation and Reproducible LLM
+  Workflows**, `arXiv, 2402.10379`, [arxiv](http://arxiv.org/abs/2402.10379v1), [pdf](http://arxiv.org/pdf/2402.10379v1.pdf), cication: [**-1**](None)
+
+	 *Ajay Patel, Colin Raffel, Chris Callison-Burch* · ([DataDreamer](https://github.com/datadreamer-dev/DataDreamer) - datadreamer-dev) ![Star](https://img.shields.io/github/stars/datadreamer-dev/DataDreamer.svg?style=social&label=Star)
 - **Synthetic Dialogue Dataset Generation using LLM Agents**, `arXiv, 2401.17461`, [arxiv](http://arxiv.org/abs/2401.17461v1), [pdf](http://arxiv.org/pdf/2401.17461v1.pdf), cication: [**-1**](None)
 
 	 *Yelaman Abdullin, Diego Molla-Aliod, Bahadorreza Ofoghi, John Yearwood, Qingyang Li*

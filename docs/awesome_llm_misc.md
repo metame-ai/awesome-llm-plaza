@@ -21,6 +21,9 @@
 	- [Extra reference](#extra-reference)
 
 ## Survey
+- **Large Language Models: A Survey**, `arXiv, 2402.06196`, [arxiv](http://arxiv.org/abs/2402.06196v1), [pdf](http://arxiv.org/pdf/2402.06196v1.pdf), cication: [**-1**](None)
+
+	 *Shervin Minaee, Tomas Mikolov, Narjes Nikzad, Meysam Chenaghlu, Richard Socher, Xavier Amatriain, Jianfeng Gao*
 - **Continual Learning for Large Language Models: A Survey**, `arXiv, 2402.01364`, [arxiv](http://arxiv.org/abs/2402.01364v1), [pdf](http://arxiv.org/pdf/2402.01364v1.pdf), cication: [**-1**](None)
 
 	 *Tongtong Wu, Linhao Luo, Yuan-Fang Li, Shirui Pan, Thuy-Trang Vu, Gholamreza Haffari*
@@ -502,6 +505,9 @@
 - [MIT新研究：打工人不用担心被AI淘汰！成本巨贵，视觉工作只有23%可替代](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652436863&idx=3&sn=cd329df965557870646c7dd6fcb460cc)
 
 ## Course & Tutorial
+- [**minbpe**](https://github.com/karpathy/minbpe) - karpathy ![Star](https://img.shields.io/github/stars/karpathy/minbpe.svg?style=social&label=Star)
+
+	 *Minimal, clean, code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.*
 - [**LLMs-from-scratch**](https://github.com/rasbt/LLMs-from-scratch) - rasbt ![Star](https://img.shields.io/github/stars/rasbt/LLMs-from-scratch.svg?style=social&label=Star)
 
 	 *Implementing a ChatGPT-like LLM from scratch, step by step*

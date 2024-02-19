@@ -19,6 +19,9 @@
 
 ## Vision
 ### Video
+- [Fetching Title#j8ko](https://ai.meta.com/blog/v-jepa-yann-lecun-ai-model-video-joint-embedding-predictive-architecture/)
+
+	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652444680&idx=1&sn=d5a948141e5ba81d48cf4a7e34e39738))
 - **World Model on Million-Length Video And Language With RingAttention**, `arXiv, 2402.08268`, [arxiv](http://arxiv.org/abs/2402.08268v1), [pdf](http://arxiv.org/pdf/2402.08268v1.pdf), cication: [**-1**](None)
 
 	 *Hao Liu, Wilson Yan, Matei Zaharia, Pieter Abbeel* · ([LWM](https://github.com/LargeWorldModel/LWM) - LargeWorldModel) ![Star](https://img.shields.io/github/stars/LargeWorldModel/LWM.svg?style=social&label=Star)
@@ -79,6 +82,10 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
+- **PaLM2-VAdapter: Progressively Aligned Language Model Makes a Strong
+  Vision-language Adapter**, `arXiv, 2402.10896`, [arxiv](http://arxiv.org/abs/2402.10896v1), [pdf](http://arxiv.org/pdf/2402.10896v1.pdf), cication: [**-1**](None)
+
+	 *Junfei Xiao, Zheng Xu, Alan Yuille, Shen Yan, Boyu Wang*
 - **Lumos : Empowering Multimodal LLMs with Scene Text Recognition**, `arXiv, 2402.08017`, [arxiv](http://arxiv.org/abs/2402.08017v1), [pdf](http://arxiv.org/pdf/2402.08017v1.pdf), cication: [**-1**](None)
 
 	 *Ashish Shenoy, Yichao Lu, Srihari Jayakumar, Debojeet Chatterjee, Mohsen Moslehpour, Pierce Chuang, Abhay Harpale, Vikas Bhardwaj, Di Xu, Shicong Zhao*
@@ -736,6 +743,7 @@
 	 *Mingsheng Li, Xin Chen, Chi Zhang, Sijin Chen, Hongyuan Zhu, Fukun Yin, Gang Yu, Tao Chen*
 
 ## Projects
+- [**uform-gen2-qwen-500m**](https://huggingface.co/unum-cloud/uform-gen2-qwen-500m) - unum-cloud 🤗
 - [**imp**](https://github.com/MILVLG/imp) - MILVLG ![Star](https://img.shields.io/github/stars/MILVLG/imp.svg?style=social&label=Star)
 
 	 *a family of multimodal small language models* · ([huggingface](https://huggingface.co/MILVLG/imp-v1-3b)) · ([xmbot](https://xmbot.net/imp/))
@@ -778,6 +786,7 @@
 - [**BakLLaVA-1**](https://huggingface.co/SkunkworksAI/BakLLaVA-1) - SkunkworksAI 🤗
 
 ## Benchmarks
+- [**vision-arena**](https://huggingface.co/spaces/WildVision/vision-arena) - WildVision 🤗
 - **Mementos: A Comprehensive Benchmark for Multimodal Large Language Model
   Reasoning over Image Sequences**, `arXiv, 2401.10529`, [arxiv](http://arxiv.org/abs/2401.10529v2), [pdf](http://arxiv.org/pdf/2401.10529v2.pdf), cication: [**-1**](None)
 
@@ -835,6 +844,7 @@
 
 	 *Sarah Schwettmann, Neil Chowdhury, Samuel Klein, David Bau, Antonio Torralba*
 
+- [三年16篇一作，前谷歌研究科学家Yi Tay官宣新模型，21B媲美Gemini Pro、GPT-3.5 | 机器之心](https://www.jiqizhixin.com/articles/2024-02-15-13)
 - [多模态LLM多到看不过来？先看这26个SOTA模型吧 | 机器之心](https://www.jiqizhixin.com/articles/2024-01-31-3)
 - [多模态和多模态大模型](https://mp.weixin.qq.com/s?__biz=MzIyMzk1MDE3Nw==&mid=2247619958&idx=1&sn=493798d55e1aa583d103ee10ed04ef55)
 - [中科院自动化所全模态大模型亮相，图文音视频3D传感器信号全能 | 量子位](https://www.qbitai.com/2023/06/61901.html)

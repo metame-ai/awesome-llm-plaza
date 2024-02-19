@@ -38,6 +38,9 @@
 - [Navigating the Jagged Technological Frontier: Field Experimental Evidence of the Effects of AI on Knowledge Worker Productivity and Quality](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4573321)
 
 ## Toolkits
+- [**gptscript**](https://github.com/gptscript-ai/gptscript) - gptscript-ai ![Star](https://img.shields.io/github/stars/gptscript-ai/gptscript.svg?style=social&label=Star)
+
+	 *Natural Language Programming*
 - [**shell_gpt**](https://github.com/TheR1D/shell_gpt) - TheR1D ![Star](https://img.shields.io/github/stars/TheR1D/shell_gpt.svg?style=social&label=Star)
 
 	 *A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.*
@@ -401,6 +404,13 @@
 	 *RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models*
 
 ## Chat bots
+- **Large Language Models as Zero-shot Dialogue State Tracker through
+  Function Calling**, `arXiv, 2402.10466`, [arxiv](http://arxiv.org/abs/2402.10466v1), [pdf](http://arxiv.org/pdf/2402.10466v1.pdf), cication: [**-1**](None)
+
+	 *Zekun Li, Zhiyu Zoey Chen, Mike Ross, Patrick Huber, Seungwhan Moon, Zhaojiang Lin, Xin Luna Dong, Adithya Sagar, Xifeng Yan, Paul A. Crook*
+- [**AGI-Samantha**](https://github.com/BRlkl/AGI-Samantha) - BRlkl ![Star](https://img.shields.io/github/stars/BRlkl/AGI-Samantha.svg?style=social&label=Star)
+
+	 *AGI has been achieved externally* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652443883&idx=3&sn=7185d58d54250317a8da314116dd96f0))
 - **HuixiangDou: Overcoming Group Chat Scenarios with LLM-based Technical
   Assistance**, `arXiv, 2401.08772`, [arxiv](http://arxiv.org/abs/2401.08772v1), [pdf](http://arxiv.org/pdf/2401.08772v1.pdf), cication: [**-1**](None)
 
@@ -495,6 +505,10 @@
 	 *Tiffany Tseng, Ruijia Cheng, Jeffrey Nichols*
 
 ## Vision
+- **LAVE: LLM-Powered Agent Assistance and Language Augmentation for Video
+  Editing**, `arXiv, 2402.10294`, [arxiv](http://arxiv.org/abs/2402.10294v1), [pdf](http://arxiv.org/pdf/2402.10294v1.pdf), cication: [**-1**](None)
+
+	 *Bryan Wang, Yuliang Li, Zhaoyang Lv, Haijun Xia, Yan Xu, Raj Sodhi*
 - **Guiding Instruction-based Image Editing via Multimodal Large Language
   Models**, `arXiv, 2309.17102`, [arxiv](http://arxiv.org/abs/2309.17102v2), [pdf](http://arxiv.org/pdf/2309.17102v2.pdf), cication: [**7**](https://scholar.google.com/scholar?cites=11018103266329124223&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
@@ -805,7 +819,14 @@
 - [1000+AI智能体复活，OpenAI版元宇宙上线？ ChatGPT+VR百分百还原「西部世界」](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652368177&idx=1&sn=3d72c9c49f6f8d8ee54f181267cefcfb)
 - [AI产生自我意识，「古墓丽影」劳拉觉醒！电子游戏革命来了](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652366159&idx=1&sn=4e2d43b6808138b325e73a86f150ca1f)
 
+## Hardware
+- [**ADeus**](https://github.com/adamcohenhillel/ADeus) - adamcohenhillel ![Star](https://img.shields.io/github/stars/adamcohenhillel/ADeus.svg?style=social&label=Star)
+
+	 *An open source AI wearable device that captures what you say and hear in the real world and then transcribes and stores it on your own server. You can then chat with Adeus using the app, and it will have all the right context about what you want to talk about - a truly personalized, personal AI.* · ([qbitai](https://www.qbitai.com/2024/02/120864.html))
+
 ## Products
+- [开源大模型正在重塑企业AI应用，16个案例看看它们如何落地 | 机器之心](https://www.jiqizhixin.com/articles/2024-02-08-9)
+- [这个AI办公应用火了：简短提示词出PPT，打包GPTs帮你打工干活 | 量子位](https://www.qbitai.com/2024/02/121094.html)
 - [万字长文：AI陪伴产品的终极解法?](https://mp.weixin.qq.com/s/WMOhsA6UW37Ov2h4CfIdKg)
 - [灵魂拷问：C.ai的终局是什么？会成为平台么？为何国内没有大竞品？。。。](https://mp.weixin.qq.com/s/4jkvS332YPTGdQna3E47Bw)
 - [为什么AI陪伴产品都想抄星野？](https://mp.weixin.qq.com/s/04UNQVMyzv8xyJeyy_J48Q)

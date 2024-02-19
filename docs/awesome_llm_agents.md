@@ -59,6 +59,9 @@
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-18-4))
 ## Agents
+- **Small LLMs Are Weak Tool Learners: A Multi-LLM Agent**, `arXiv, 2401.07324`, [arxiv](http://arxiv.org/abs/2401.07324v3), [pdf](http://arxiv.org/pdf/2401.07324v3.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=2111122559950733757&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Weizhou Shen, Chenliang Li, Hongzhan Chen, Ming Yan, Xiaojun Quan, Hehong Chen, Ji Zhang, Fei Huang* · ([Multi-LLM-agent](https://github.com/X-PLUG/Multi-LLM-agent) - X-PLUG) ![Star](https://img.shields.io/github/stars/X-PLUG/Multi-LLM-agent.svg?style=social&label=Star) · ([qbitai](https://www.qbitai.com/2024/02/120390.html))
 - **An Interactive Agent Foundation Model**, `arXiv, 2402.05929`, [arxiv](http://arxiv.org/abs/2402.05929v1), [pdf](http://arxiv.org/pdf/2402.05929v1.pdf), cication: [**-1**](None)
 
 	 *Zane Durante, Bidipta Sarkar, Ran Gong, Rohan Taori, Yusuke Noda, Paul Tang, Ehsan Adeli, Shrinidhi Kowshika Lakshmikanth, Kevin Schulman, Arnold Milstein*
@@ -477,6 +480,10 @@
 ### Other
 - [陈丹琦ACL学术报告来了！详解大模型「外挂」数据库7大方向3大挑战，3小时干货满满 | 量子位](https://www.qbitai.com/2023/07/67259.html)
 ## Web browsing
+- **VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web
+  Tasks**, `arXiv, 2401.13649`, [arxiv](http://arxiv.org/abs/2401.13649v1), [pdf](http://arxiv.org/pdf/2401.13649v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=6599905016676901235&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Jing Yu Koh, Robert Lo, Lawrence Jang, Vikram Duvvur, Ming Chong Lim, Po-Yu Huang, Graham Neubig, Shuyan Zhou, Ruslan Salakhutdinov, Daniel Fried* · ([visualwebarena](https://github.com/web-arena-x/visualwebarena) - web-arena-x) ![Star](https://img.shields.io/github/stars/web-arena-x/visualwebarena.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652443845&idx=3&sn=db2b541768e9c9f77536e52b21de8ba4))
 - **WebLINX: Real-World Website Navigation with Multi-Turn Dialogue**, `arXiv, 2402.05930`, [arxiv](http://arxiv.org/abs/2402.05930v1), [pdf](http://arxiv.org/pdf/2402.05930v1.pdf), cication: [**-1**](None)
 
 	 *Xing Han Lù, Zdeněk Kasner, Siva Reddy* · ([mcgill-nlp.github](https://mcgill-nlp.github.io/weblinx))
@@ -666,6 +673,7 @@
 - [A Cheat Sheet and Some Recipes For Building Advanced RAG | by Andrei | Jan, 2024 | LlamaIndex Blog](https://blog.llamaindex.ai/a-cheat-sheet-and-some-recipes-for-building-advanced-rag-803a9d94c41b)
 - [Build a search engine, not a vector DB](https://blog.elicit.com/search-vs-vector-db/)
 
+- [self-RAG｜大模型决策的典型案例探究](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495565&idx=2&sn=833660e930818b3dfa11a22ce1f263d4)
 - [RAG研发真实图鉴：一周出Demo，半年用不好](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495552&idx=2&sn=5dc6957f860fa90afa01f547df71ff02)
 - [大模型RAG的迭代路径](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495480&idx=1&sn=71ba95734ab559fb21408993d1800741)
 - [大模型RAG问答技术架构及核心模块回顾](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495441&idx=2&sn=cb2cfb2eab441f8a5262ad5b98c1757f)
