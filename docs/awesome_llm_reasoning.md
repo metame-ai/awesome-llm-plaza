@@ -1,15 +1,19 @@
 # Awesome llm reasoning
 
 - [Awesome llm reasoning](#awesome-llm-reasoning)
+	- [Survey](#survey)
 	- [Reasoning](#reasoning)
+		- [Other](#other)
 	- [Math reasoning](#math-reasoning)
 		- [Benchmarks](#benchmarks)
-		- [Other](#other)
+		- [Other](#other-1)
 	- [Self correction](#self-correction)
 	- [Prompting](#prompting)
-		- [Other](#other-1)
+		- [Other](#other-2)
 	- [In context learning](#in-context-learning)
+		- [Other](#other-3)
 	- [Knowledge graph](#knowledge-graph)
+		- [Other](#other-4)
 	- [Tutorials](#tutorials)
 	- [Extra reference](#extra-reference)
 

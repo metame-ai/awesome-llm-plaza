@@ -1,12 +1,15 @@
 # Awesome llm data
 
 - [Awesome llm data](#awesome-llm-data)
+	- [Survey](#survey)
+	- [Techs](#techs)
 	- [Datasets](#datasets)
 		- [Misc](#misc)
 		- [MulitiMod](#mulitimod)
 		- [Reasoning \& Action](#reasoning--action)
 		- [Synthetic](#synthetic)
 	- [Toolkits](#toolkits)
+	- [Other](#other)
 	- [Extra reference](#extra-reference)
 
 

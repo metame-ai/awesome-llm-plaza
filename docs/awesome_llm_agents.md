@@ -12,6 +12,7 @@
 	- [Web browsing](#web-browsing)
 		- [Other](#other-3)
 	- [Retrieval agumented generation](#retrieval-agumented-generation)
+		- [Embedding](#embedding)
 		- [Other](#other-4)
 	- [Code Interpreter](#code-interpreter)
 	- [GPTs](#gpts)
@@ -19,6 +20,8 @@
 		- [Other](#other-5)
 	- [Evaluation](#evaluation)
 	- [Other](#other-6)
+	- [Vector Database](#vector-database)
+		- [Other](#other-7)
 	- [Extra reference](#extra-reference)
 
 ## Survey

@@ -350,6 +350,7 @@
 	 *A simple and effective LLM pruning approach.*
 
 ## Efficient Inference
+- [[2402.12374] Sequoia: Scalable, Robust, and Hardware-aware Speculative Decoding](https://arxiv.org/abs/2402.12374)
 - **Tandem Transformers for Inference Efficient LLMs**, `arXiv, 2402.08644`, [arxiv](http://arxiv.org/abs/2402.08644v1), [pdf](http://arxiv.org/pdf/2402.08644v1.pdf), cication: [**-1**](None)
 
 	 *Aishwarya P S, Pranav Ajit Nair, Yashas Samaga, Toby Boyd, Sanjiv Kumar, Prateek Jain, Praneeth Netrapalli*
