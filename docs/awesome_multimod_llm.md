@@ -24,12 +24,14 @@
 
 ## Vision
 ### Video
-- [[2402.12226] AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling](https://arxiv.org/abs/2402.12226)
-	- [AnyGPT](https://junzhan2000.github.io/AnyGPT.github.io/)
+- **AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling**, `arXiv, 2402.12226`, [arxiv](http://arxiv.org/abs/2402.12226v1), [pdf](http://arxiv.org/pdf/2402.12226v1.pdf), cication: [**-1**](None)
+
+	 *Jun Zhan, Junqi Dai, Jiasheng Ye, Yunhua Zhou, Dong Zhang, Zhigeng Liu, Xin Zhang, Ruibin Yuan, Ge Zhang, Linyang Li* · ([junzhan2000.github](https://junzhan2000.github.io/AnyGPT.github.io/))
 - [V-JEPA: Video Joint Embedding Predictive Architecture](https://ai.meta.com/blog/v-jepa-yann-lecun-ai-model-video-joint-embedding-predictive-architecture/)
 
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652444680&idx=1&sn=d5a948141e5ba81d48cf4a7e34e39738))
-	- [GitHub - facebookresearch/jepa: PyTorch code and models for V-JEPA self-supervised learning from video.](https://github.com/facebookresearch/jepa)
+
+	 · ([jepa](https://github.com/facebookresearch/jepa) - facebookresearch) ![Star](https://img.shields.io/github/stars/facebookresearch/jepa.svg?style=social&label=Star)
 - **World Model on Million-Length Video And Language With RingAttention**, `arXiv, 2402.08268`, [arxiv](http://arxiv.org/abs/2402.08268v1), [pdf](http://arxiv.org/pdf/2402.08268v1.pdf), cication: [**-1**](None)
 
 	 *Hao Liu, Wilson Yan, Matei Zaharia, Pieter Abbeel* · ([LWM](https://github.com/LargeWorldModel/LWM) - LargeWorldModel) ![Star](https://img.shields.io/github/stars/LargeWorldModel/LWM.svg?style=social&label=Star)

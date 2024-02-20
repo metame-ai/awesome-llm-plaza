@@ -672,6 +672,7 @@
 
 	 *Train Models Contrastively in Pytorch* · ([huggingface](https://huggingface.co/nomic-ai/nomic-embed-text-v1)) · ([mp.weixin.qq](https://mp.weixin.qq.com/s/EMWNf9TiDwuxxkwwqsl73g))
 ### Other
+- [Stanford CS25: V3 I Retrieval Augmented Language Models - YouTube](https://youtu.be/mE7IDf2SmJg)
 - [Retrieval Augmented Generation (RAG) for LLMs | Prompt Engineering Guide<!-- -->](https://www.promptingguide.ai/research/rag)
 - [A Cheat Sheet and Some Recipes For Building Advanced RAG | by Andrei | Jan, 2024 | LlamaIndex Blog](https://blog.llamaindex.ai/a-cheat-sheet-and-some-recipes-for-building-advanced-rag-803a9d94c41b)
 - [Build a search engine, not a vector DB](https://blog.elicit.com/search-vs-vector-db/)

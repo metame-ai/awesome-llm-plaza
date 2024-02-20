@@ -25,9 +25,9 @@
 	 *Yufei Wang, Wanjun Zhong, Liangyou Li, Fei Mi, Xingshan Zeng, Wenyong Huang, Lifeng Shang, Xin Jiang, Qun Liu* · ([AlignLLMHumanSurvey](https://github.com/GaryYufei/AlignLLMHumanSurvey) - GaryYufei) ![Star](https://img.shields.io/github/stars/GaryYufei/AlignLLMHumanSurvey.svg?style=social&label=Star)
 
 ## Paper & Projects
-- [[2402.12219] Reformatted Alignment](https://arxiv.org/abs/2402.12219)
-	- [GitHub - GAIR-NLP/ReAlign: Reformatted Alignment](https://github.com/GAIR-NLP/ReAlign)
-	- [Reformatted Alignment](https://gair-nlp.github.io/ReAlign/)
+- **Reformatted Alignment**, `arXiv, 2402.12219`, [arxiv](http://arxiv.org/abs/2402.12219v1), [pdf](http://arxiv.org/pdf/2402.12219v1.pdf), cication: [**-1**](None)
+
+	 *Run-Ze Fan, Xuefeng Li, Haoyang Zou, Junlong Li, Shwai He, Ethan Chern, Jiewen Hu, Pengfei Liu* · ([ReAlign](https://github.com/GAIR-NLP/ReAlign) - GAIR-NLP) ![Star](https://img.shields.io/github/stars/GAIR-NLP/ReAlign.svg?style=social&label=Star) · ([gair-nlp.github](https://gair-nlp.github.io/ReAlign/))
 - **Aligner: Achieving Efficient Alignment through Weak-to-Strong Correction**, `arXiv, 2402.02416`, [arxiv](http://arxiv.org/abs/2402.02416v2), [pdf](http://arxiv.org/pdf/2402.02416v2.pdf), cication: [**-1**](None)
 
 	 *Jiaming Ji, Boyuan Chen, Hantao Lou, Donghai Hong, Borong Zhang, Xuehai Pan, Juntao Dai, Yaodong Yang* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-08-6)) · ([aligner2024.github](https://aligner2024.github.io))

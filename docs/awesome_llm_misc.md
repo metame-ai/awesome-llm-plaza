@@ -511,6 +511,7 @@
 - [MIT新研究：打工人不用担心被AI淘汰！成本巨贵，视觉工作只有23%可替代](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652436863&idx=3&sn=cd329df965557870646c7dd6fcb460cc)
 
 ## Course & Tutorial
+- [Stanford CS25 - Transformers United - YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)
 - [**minbpe**](https://github.com/karpathy/minbpe) - karpathy ![Star](https://img.shields.io/github/stars/karpathy/minbpe.svg?style=social&label=Star)
 
 	 *Minimal, clean, code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.*
