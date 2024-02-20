@@ -5,7 +5,10 @@ Source: [huggingface daily papers](https://huggingface.co/papers), [twitter(X)](
 
 ---
 
+## Contents
+
 - [Awesome LLM plaza ](#awesome-llm-plaza-)
+	- [Contents](#contents)
 		- [Awesome open LLMs](#awesome-open-llms)
 		- [Awesome LLM agents](#awesome-llm-agents)
 		- [Awesome efficient LLM](#awesome-efficient-llm)
@@ -25,7 +28,6 @@ Source: [huggingface daily papers](https://huggingface.co/papers), [twitter(X)](
 
 
 ---
-
 
 ### [Awesome open LLMs](./docs/awesome_openllm.md)
 - [Awesome opengpt](./docs/awesome_openllm.md#awesome-opengpt)
