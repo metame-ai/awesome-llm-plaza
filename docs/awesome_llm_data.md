@@ -143,6 +143,9 @@
 
 
 ### MulitiMod
+- **A Touch, Vision, and Language Dataset for Multimodal Alignment**, `arXiv, 2402.13232`, [arxiv](http://arxiv.org/abs/2402.13232v1), [pdf](http://arxiv.org/pdf/2402.13232v1.pdf), cication: [**-1**](None)
+
+	 *Letian Fu, Gaurav Datta, Huang Huang, William Chung-Ho Panitch, Jaimyn Drake, Joseph Ortiz, Mustafa Mukadam, Mike Lambeta, Roberto Calandra, Ken Goldberg*
 - **Let's Go Shopping (LGS) -- Web-Scale Image-Text Dataset for Visual
   Concept Understanding**, `arXiv, 2401.04575`, [arxiv](http://arxiv.org/abs/2401.04575v1), [pdf](http://arxiv.org/pdf/2401.04575v1.pdf), cication: [**-1**](None)
 
@@ -176,6 +179,14 @@
 	 *Xiang Deng, Yu Gu, Boyuan Zheng, Shijie Chen, Samuel Stevens, Boshi Wang, Huan Sun, Yu Su*
 
 ### Synthetic 
+- **Synthetic Data (Almost) from Scratch: Generalized Instruction Tuning for
+  Language Models**, `arXiv, 2402.13064`, [arxiv](http://arxiv.org/abs/2402.13064v1), [pdf](http://arxiv.org/pdf/2402.13064v1.pdf), cication: [**-1**](None)
+
+	 *Haoran Li, Qingxiu Dong, Zhengyang Tang, Chaojun Wang, Xingxing Zhang, Haoyang Huang, Shaohan Huang, Xiaolong Huang, Zeqiang Huang, Dongdong Zhang*
+- **ALLaVA: Harnessing GPT4V-synthesized Data for A Lite Vision-Language
+  Model**, `arXiv, 2402.11684`, [arxiv](http://arxiv.org/abs/2402.11684v1), [pdf](http://arxiv.org/pdf/2402.11684v1.pdf), cication: [**-1**](None)
+
+	 *Guiming Hardy Chen, Shunian Chen, Ruifei Zhang, Junying Chen, Xiangbo Wu, Zhiyi Zhang, Zhihong Chen, Jianquan Li, Xiang Wan, Benyou Wang*
 - **DataDreamer: A Tool for Synthetic Data Generation and Reproducible LLM
   Workflows**, `arXiv, 2402.10379`, [arxiv](http://arxiv.org/abs/2402.10379v1), [pdf](http://arxiv.org/pdf/2402.10379v1.pdf), cication: [**-1**](None)
 

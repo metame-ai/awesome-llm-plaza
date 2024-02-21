@@ -25,6 +25,11 @@
 	 *Jiankai Sun, Chuanyang Zheng, Enze Xie, Zhengying Liu, Ruihang Chu, Jianing Qiu, Jiaqi Xu, Mingyu Ding, Hongyang Li, Mengzhe Geng* · ([Awesome-Reasoning-Foundation-Models](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models) - reasoning-survey) ![Star](https://img.shields.io/github/stars/reasoning-survey/Awesome-Reasoning-Foundation-Models.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652421688&idx=3&sn=fcdc24edc7bc89ebcbcca0f7665e40f6))
 
 ## Reasoning
+- [[2402.03667] Large Language Models as an Indirect Reasoner: Contrapositive and Contradiction for Automated Reasoning](https://arxiv.org/abs/2402.03667)
+- **GLoRe: When, Where, and How to Improve LLM Reasoning via Global and
+  Local Refinements**, `arXiv, 2402.10963`, [arxiv](http://arxiv.org/abs/2402.10963v1), [pdf](http://arxiv.org/pdf/2402.10963v1.pdf), cication: [**-1**](None)
+
+	 *Alex Havrilla, Sharath Raparthy, Christoforus Nalmpantis, Jane Dwivedi-Yu, Maksym Zhuravinskyi, Eric Hambro, Roberta Railneau*
 - **Chain-of-Thought Reasoning Without Prompting**, `arXiv, 2402.10200`, [arxiv](http://arxiv.org/abs/2402.10200v1), [pdf](http://arxiv.org/pdf/2402.10200v1.pdf), cication: [**-1**](None)
 
 	 *Xuezhi Wang, Denny Zhou*

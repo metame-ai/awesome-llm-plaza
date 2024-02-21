@@ -16,6 +16,12 @@
 	 *Ziyin Zhang, Chaoyu Chen, Bingchang Liu, Cong Liao, Zi Gong, Hang Yu, Jianguo Li, Rui Wang*
 
 ## Paper
+- **Automated Unit Test Improvement using Large Language Models at Meta**, `arXiv, 2402.09171`, [arxiv](http://arxiv.org/abs/2402.09171v1), [pdf](http://arxiv.org/pdf/2402.09171v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=14636292858296547655&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Nadia Alshahwan, Jubin Chheda, Anastasia Finegenova, Beliz Gokkaya, Mark Harman, Inna Harper, Alexandru Marginean, Shubho Sengupta, Eddy Wang*
+- **ARKS: Active Retrieval in Knowledge Soup for Code Generation**, `arXiv, 2402.12317`, [arxiv](http://arxiv.org/abs/2402.12317v1), [pdf](http://arxiv.org/pdf/2402.12317v1.pdf), cication: [**-1**](None)
+
+	 *Hongjin Su, Shuyang Jiang, Yuhang Lai, Haoyuan Wu, Boao Shi, Che Liu, Qian Liu, Tao Yu*
 - **DolphCoder: Echo-Locating Code Large Language Models with Diverse and
   Multi-Objective Instruction Tuning**, `arXiv, 2402.09136`, [arxiv](http://arxiv.org/abs/2402.09136v1), [pdf](http://arxiv.org/pdf/2402.09136v1.pdf), cication: [**-1**](None)
 

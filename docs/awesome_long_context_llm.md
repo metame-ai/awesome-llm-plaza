@@ -21,6 +21,10 @@
 - [Attention? Attention! | Lil'Log](https://lilianweng.github.io/posts/2018-06-24-attention/#a-family-of-attention-mechanisms)
 
 ## Papers
+- **LongAgent: Scaling Language Models to 128k Context through Multi-Agent
+  Collaboration**, `arXiv, 2402.11550`, [arxiv](http://arxiv.org/abs/2402.11550v1), [pdf](http://arxiv.org/pdf/2402.11550v1.pdf), cication: [**-1**](None)
+
+	 *Jun Zhao, Can Zu, Hao Xu, Yi Lu, Wei He, Yiwen Ding, Tao Gui, Qi Zhang, Xuanjing Huang*
 - **In Search of Needles in a 10M Haystack: Recurrent Memory Finds What LLMs
   Miss**, `arXiv, 2402.10790`, [arxiv](http://arxiv.org/abs/2402.10790v1), [pdf](http://arxiv.org/pdf/2402.10790v1.pdf), cication: [**-1**](None)
 
@@ -89,6 +93,9 @@
 - **TRAMS: Training-free Memory Selection for Long-range Language Modeling**, `arXiv, 2310.15494`, [arxiv](http://arxiv.org/abs/2310.15494v2), [pdf](http://arxiv.org/pdf/2310.15494v2.pdf), cication: [**-1**](None)
 
 	 *Haofei Yu, Cunxiang Wang, Yue Zhang, Wei Bi*
+- **Ring Attention with Blockwise Transformers for Near-Infinite Context**, `arXiv, 2310.01889`, [arxiv](http://arxiv.org/abs/2310.01889v4), [pdf](http://arxiv.org/pdf/2310.01889v4.pdf), cication: [**6**](https://scholar.google.com/scholar?cites=8066346532887973744&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Hao Liu, Matei Zaharia, Pieter Abbeel* · ([RingAttention](https://github.com/lhao499/RingAttention) - lhao499) ![Star](https://img.shields.io/github/stars/lhao499/RingAttention.svg?style=social&label=Star)
 - **Walking Down the Memory Maze: Beyond Context Limit through Interactive
   Reading**, `arXiv, 2310.05029`, [arxiv](http://arxiv.org/abs/2310.05029v1), [pdf](http://arxiv.org/pdf/2310.05029v1.pdf), cication: [**-1**](None)
 

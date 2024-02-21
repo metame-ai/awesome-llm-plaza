@@ -16,6 +16,13 @@
 - [**Adversarial Attacks on LLMs | Lil'Log**](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/)
 
 ## Papers
+- **How Easy is It to Fool Your Multimodal LLMs? An Empirical Analysis on
+  Deceptive Prompts**, `arXiv, 2402.13220`, [arxiv](http://arxiv.org/abs/2402.13220v1), [pdf](http://arxiv.org/pdf/2402.13220v1.pdf), cication: [**-1**](None)
+
+	 *Yusu Qian, Haotian Zhang, Yinfei Yang, Zhe Gan*
+- **LLM Agents can Autonomously Hack Websites**, `arXiv, 2402.06664`, [arxiv](http://arxiv.org/abs/2402.06664v3), [pdf](http://arxiv.org/pdf/2402.06664v3.pdf), cication: [**-1**](None)
+
+	 *Richard Fang, Rohan Bindu, Akul Gupta, Qiusi Zhan, Daniel Kang*
 - **Robust Prompt Optimization for Defending Language Models Against
   Jailbreaking Attacks**, `arXiv, 2401.17263`, [arxiv](http://arxiv.org/abs/2401.17263v1), [pdf](http://arxiv.org/pdf/2401.17263v1.pdf), cication: [**-1**](None)
 

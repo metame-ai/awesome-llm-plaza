@@ -98,6 +98,10 @@
 	 · ([wikichat](https://github.com/stanford-oval/wikichat?tab=readme-ov-file) - stanford-oval) ![Star](https://img.shields.io/github/stars/stanford-oval/wikichat?tab=readme-ov-file.svg?style=social&label=Star)
 
 ## Evalution
+- **TofuEval: Evaluating Hallucinations of LLMs on Topic-Focused Dialogue
+  Summarization**, `arXiv, 2402.13249`, [arxiv](http://arxiv.org/abs/2402.13249v1), [pdf](http://arxiv.org/pdf/2402.13249v1.pdf), cication: [**-1**](None)
+
+	 *Liyan Tang, Igor Shalyminov, Amy Wing-mei Wong, Jon Burnsky, Jake W. Vincent, Yu'an Yang, Siffi Singh, Song Feng, Hwanjun Song, Hang Su*
 - [The Hallucinations Leaderboard, an Open Effort to Measure Hallucinations in Large Language Models](https://huggingface.co/blog/leaderboards-on-the-hub-hallucinations)
 - **HallusionBench: An Advanced Diagnostic Suite for Entangled Language
   Hallucination & Visual Illusion in Large Vision-Language Models**, `arXiv, 2310.14566`, [arxiv](http://arxiv.org/abs/2310.14566v2), [pdf](http://arxiv.org/pdf/2310.14566v2.pdf), cication: [**-1**](None)

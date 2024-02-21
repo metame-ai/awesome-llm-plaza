@@ -62,6 +62,10 @@
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-18-4))
 ## Agents
+- **LongAgent: Scaling Language Models to 128k Context through Multi-Agent
+  Collaboration**, `arXiv, 2402.11550`, [arxiv](http://arxiv.org/abs/2402.11550v1), [pdf](http://arxiv.org/pdf/2402.11550v1.pdf), cication: [**-1**](None)
+
+	 *Jun Zhao, Can Zu, Hao Xu, Yi Lu, Wei He, Yiwen Ding, Tao Gui, Qi Zhang, Xuanjing Huang*
 - **Small LLMs Are Weak Tool Learners: A Multi-LLM Agent**, `arXiv, 2401.07324`, [arxiv](http://arxiv.org/abs/2401.07324v3), [pdf](http://arxiv.org/pdf/2401.07324v3.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=2111122559950733757&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Weizhou Shen, Chenliang Li, Hongzhan Chen, Ming Yan, Xiaojun Quan, Hehong Chen, Ji Zhang, Fei Huang* · ([Multi-LLM-agent](https://github.com/X-PLUG/Multi-LLM-agent) - X-PLUG) ![Star](https://img.shields.io/github/stars/X-PLUG/Multi-LLM-agent.svg?style=social&label=Star) · ([qbitai](https://www.qbitai.com/2024/02/120390.html))
@@ -534,6 +538,16 @@
 - [GPT-4V学会用键鼠上网，人类眼睁睁看着它发帖玩游戏 | 量子位](https://www.qbitai.com/2023/11/95456.html)
 
 ## Retrieval agumented generation
+- **What Evidence Do Language Models Find Convincing?**, `arXiv, 2402.11782`, [arxiv](http://arxiv.org/abs/2402.11782v1), [pdf](http://arxiv.org/pdf/2402.11782v1.pdf), cication: [**-1**](None)
+
+	 *Alexander Wan, Eric Wallace, Dan Klein*
+- **ARKS: Active Retrieval in Knowledge Soup for Code Generation**, `arXiv, 2402.12317`, [arxiv](http://arxiv.org/abs/2402.12317v1), [pdf](http://arxiv.org/pdf/2402.12317v1.pdf), cication: [**-1**](None)
+
+	 *Hongjin Su, Shuyang Jiang, Yuhang Lai, Haoyuan Wu, Boao Shi, Che Liu, Qian Liu, Tao Yu* · ([arks](https://github.com/xlang-ai/arks) - xlang-ai) ![Star](https://img.shields.io/github/stars/xlang-ai/arks.svg?style=social&label=Star) · ([arks-codegen.github](https://arks-codegen.github.io/))
+- **Seven Failure Points When Engineering a Retrieval Augmented Generation
+  System**, `arXiv, 2401.05856`, [arxiv](http://arxiv.org/abs/2401.05856v1), [pdf](http://arxiv.org/pdf/2401.05856v1.pdf), cication: [**2**](https://scholar.google.com/scholar?cites=7363169033457600032&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Scott Barnett, Stefanus Kurniawan, Srikanth Thudumu, Zach Brannelly, Mohamed Abdelrazek* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI1MjQ2OTQ3Ng==&mid=2247630803&idx=1&sn=031ce2af8d4e12377897fc89e2a55829))
 - **MultiHop-RAG: Benchmarking Retrieval-Augmented Generation for Multi-Hop
   Queries**, `arXiv, 2401.15391`, [arxiv](http://arxiv.org/abs/2401.15391v1), [pdf](http://arxiv.org/pdf/2401.15391v1.pdf), cication: [**-1**](None)
 
@@ -677,6 +691,7 @@
 - [A Cheat Sheet and Some Recipes For Building Advanced RAG | by Andrei | Jan, 2024 | LlamaIndex Blog](https://blog.llamaindex.ai/a-cheat-sheet-and-some-recipes-for-building-advanced-rag-803a9d94c41b)
 - [Build a search engine, not a vector DB](https://blog.elicit.com/search-vs-vector-db/)
 
+- [通过4个任务比较LangChain和LlamaIndex](https://mp.weixin.qq.com/s?__biz=MzI1MjQ2OTQ3Ng==&mid=2247631125&idx=2&sn=97801ab722a786cdf5116779804fb0c9)
 - [self-RAG｜大模型决策的典型案例探究](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495565&idx=2&sn=833660e930818b3dfa11a22ce1f263d4)
 - [RAG研发真实图鉴：一周出Demo，半年用不好](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495552&idx=2&sn=5dc6957f860fa90afa01f547df71ff02)
 - [大模型RAG的迭代路径](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495480&idx=1&sn=71ba95734ab559fb21408993d1800741)

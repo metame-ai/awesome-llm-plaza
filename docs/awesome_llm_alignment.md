@@ -25,6 +25,9 @@
 	 *Yufei Wang, Wanjun Zhong, Liangyou Li, Fei Mi, Xingshan Zeng, Wenyong Huang, Lifeng Shang, Xin Jiang, Qun Liu* · ([AlignLLMHumanSurvey](https://github.com/GaryYufei/AlignLLMHumanSurvey) - GaryYufei) ![Star](https://img.shields.io/github/stars/GaryYufei/AlignLLMHumanSurvey.svg?style=social&label=Star)
 
 ## Paper & Projects
+- **Instruction-tuned Language Models are Better Knowledge Learners**, `arXiv, 2402.12847`, [arxiv](http://arxiv.org/abs/2402.12847v1), [pdf](http://arxiv.org/pdf/2402.12847v1.pdf), cication: [**-1**](None)
+
+	 *Zhengbao Jiang, Zhiqing Sun, Weijia Shi, Pedro Rodriguez, Chunting Zhou, Graham Neubig, Xi Victoria Lin, Wen-tau Yih, Srinivasan Iyer*
 - **Reformatted Alignment**, `arXiv, 2402.12219`, [arxiv](http://arxiv.org/abs/2402.12219v1), [pdf](http://arxiv.org/pdf/2402.12219v1.pdf), cication: [**-1**](None)
 
 	 *Run-Ze Fan, Xuefeng Li, Haoyang Zou, Junlong Li, Shwai He, Ethan Chern, Jiewen Hu, Pengfei Liu* · ([ReAlign](https://github.com/GAIR-NLP/ReAlign) - GAIR-NLP) ![Star](https://img.shields.io/github/stars/GAIR-NLP/ReAlign.svg?style=social&label=Star) · ([gair-nlp.github](https://gair-nlp.github.io/ReAlign/))
@@ -167,13 +170,15 @@
 
 # Awesome RLHF
 
-
-
-
 ## Survey
+- **A Survey of Reinforcement Learning from Human Feedback**, `arXiv, 2312.14925`, [arxiv](http://arxiv.org/abs/2312.14925v1), [pdf](http://arxiv.org/pdf/2312.14925v1.pdf), cication: [**5**](https://scholar.google.com/scholar?cites=2931703534150485296&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
+	 *Timo Kaufmann, Paul Weng, Viktor Bengs, Eyke Hüllermeier*
 
 ## Papers
+- **A Critical Evaluation of AI Feedback for Aligning Large Language Models**, `arXiv, 2402.12366`, [arxiv](http://arxiv.org/abs/2402.12366v1), [pdf](http://arxiv.org/pdf/2402.12366v1.pdf), cication: [**-1**](None)
+
+	 *Archit Sharma, Sedrick Keh, Eric Mitchell, Chelsea Finn, Kushal Arora, Thomas Kollar*
 - **RLVF: Learning from Verbal Feedback without Overgeneralization**, `arXiv, 2402.10893`, [arxiv](http://arxiv.org/abs/2402.10893v1), [pdf](http://arxiv.org/pdf/2402.10893v1.pdf), cication: [**-1**](None)
 
 	 *Moritz Stephan, Alexander Khazatsky, Eric Mitchell, Annie S Chen, Sheryl Hsu, Archit Sharma, Chelsea Finn*
@@ -370,6 +375,8 @@
 ## Other
 - [Constitutional AI with Open LLMs](https://huggingface.co/blog/constitutional_ai)
 - [Preference Tuning LLMs with Direct Preference Optimization Methods](https://huggingface.co/blog/pref-tuning)
+
+	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-19))
 - [Reinforcement Learning from Human Feedback - DeepLearning.AI](https://www.deeplearning.ai/short-courses/reinforcement-learning-from-human-feedback/)
 - [**Reinforcement Learning for Language Models**](https://gist.github.com/yoavg/6bff0fecd65950898eba1bb321cfbd81) - yoavg ![Star](https://img.shields.io/github/stars/yoavg/6bff0fecd65950898eba1bb321cfbd81.svg?style=social&label=Star)
 - [The Q\* hypothesis: Tree-of-thoughts reasoning, process reward models, and supercharging synthetic data](https://www.interconnects.ai/p/q-star)

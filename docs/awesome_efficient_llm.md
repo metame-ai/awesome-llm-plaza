@@ -45,6 +45,9 @@
 
 	 *Vladislav Lialin, Vijeta Deshpande, Anna Rumshisky*
 ## Efficient finetuning
+- **LoRA+: Efficient Low Rank Adaptation of Large Models**, `arXiv, 2402.12354`, [arxiv](http://arxiv.org/abs/2402.12354v1), [pdf](http://arxiv.org/pdf/2402.12354v1.pdf), cication: [**-1**](None)
+
+	 *Soufiane Hayou, Nikhil Ghosh, Bin Yu*
 - **DoRA: Weight-Decomposed Low-Rank Adaptation**, `arXiv, 2402.09353`, [arxiv](http://arxiv.org/abs/2402.09353v1), [pdf](http://arxiv.org/pdf/2402.09353v1.pdf), cication: [**-1**](None)
 
 	 *Shih-Yang Liu, Chien-Yi Wang, Hongxu Yin, Pavlo Molchanov, Yu-Chiang Frank Wang, Kwang-Ting Cheng, Min-Hung Chen* · ([dora](https://github.com/catid/dora?tab=readme-ov-file) - catid) ![Star](https://img.shields.io/github/stars/catid/dora.svg?style=social&label=Star)
@@ -148,6 +151,9 @@
 	 *Xunyu Zhu, Jian Li, Yong Liu, Can Ma, Weiping Wang* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-08-26-5))
 
 ### Papers
+- **OneBit: Towards Extremely Low-bit Large Language Models**, `arXiv, 2402.11295`, [arxiv](http://arxiv.org/abs/2402.11295v1), [pdf](http://arxiv.org/pdf/2402.11295v1.pdf), cication: [**-1**](None)
+
+	 *Yuzhuang Xu, Xu Han, Zonghan Yang, Shuo Wang, Qingfu Zhu, Zhiyuan Liu, Weidong Liu, Wanxiang Che*
 - **Extreme Compression of Large Language Models via Additive Quantization**, `arXiv, 2401.06118`, [arxiv](http://arxiv.org/abs/2401.06118v2), [pdf](http://arxiv.org/pdf/2401.06118v2.pdf), cication: [**-1**](None)
 
 	 *Vage Egiazarian, Andrei Panferov, Denis Kuznedelev, Elias Frantar, Artem Babenko, Dan Alistarh* · ([aqlm](https://github.com/vahe1994/aqlm?tab=readme-ov-file) - vahe1994) ![Star](https://img.shields.io/github/stars/vahe1994/aqlm.svg?style=social&label=Star)
@@ -350,6 +356,9 @@
 	 *A simple and effective LLM pruning approach.*
 
 ## Efficient Inference
+- **Speculative Streaming: Fast LLM Inference without Auxiliary Models**, `arXiv, 2402.11131`, [arxiv](http://arxiv.org/abs/2402.11131v1), [pdf](http://arxiv.org/pdf/2402.11131v1.pdf), cication: [**-1**](None)
+
+	 *Nikhil Bhendawade, Irina Belousova, Qichen Fu, Henry Mason, Mohammad Rastegari, Mahyar Najibi*
 - **Sequoia: Scalable, Robust, and Hardware-aware Speculative Decoding**, `arXiv, 2402.12374`, [arxiv](http://arxiv.org/abs/2402.12374v1), [pdf](http://arxiv.org/pdf/2402.12374v1.pdf), cication: [**-1**](None)
 
 	 *Zhuoming Chen, Avner May, Ruslan Svirschevski, Yuhsun Huang, Max Ryabinin, Zhihao Jia, Beidi Chen*
@@ -662,6 +671,8 @@
 	 *Shulin Zeng, Jun Liu, Guohao Dai, Xinhao Yang, Tianyu Fu, Hongyi Wang, Wenheng Ma, Hanbo Sun, Shiyao Li, Zixiao Huang*
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-01-10-4))
+
+- [大模型最快推理芯片一夜易主：每秒500tokens干翻GPU！谷歌TPU人马打造](https://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&mid=2247542664&idx=1&sn=bbeafd798d4f207c6871a05e8d26cdc5)
 
 ##  Other
 - [How to make LLMs go fast](https://vgel.me/posts/faster-inference/?continueFlag=dc32042695bb7e31fb9280e21ab25f8c)

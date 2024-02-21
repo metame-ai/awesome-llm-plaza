@@ -24,6 +24,9 @@
 
 ## Vision
 ### Video
+- **VideoPrism: A Foundational Visual Encoder for Video Understanding**, `arXiv, 2402.13217`, [arxiv](http://arxiv.org/abs/2402.13217v1), [pdf](http://arxiv.org/pdf/2402.13217v1.pdf), cication: [**-1**](None)
+
+	 *Long Zhao, Nitesh B. Gundavarapu, Liangzhe Yuan, Hao Zhou, Shen Yan, Jennifer J. Sun, Luke Friedman, Rui Qian, Tobias Weyand, Yue Zhao*
 - **AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling**, `arXiv, 2402.12226`, [arxiv](http://arxiv.org/abs/2402.12226v1), [pdf](http://arxiv.org/pdf/2402.12226v1.pdf), cication: [**-1**](None)
 
 	 *Jun Zhan, Junqi Dai, Jiasheng Ye, Yunhua Zhou, Dong Zhang, Zhigeng Liu, Xin Zhang, Ruibin Yuan, Ge Zhang, Linyang Li* · ([junzhan2000.github](https://junzhan2000.github.io/AnyGPT.github.io/))
@@ -92,6 +95,20 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
+- **ALLaVA: Harnessing GPT4V-synthesized Data for A Lite Vision-Language
+  Model**, `arXiv, 2402.11684`, [arxiv](http://arxiv.org/abs/2402.11684v1), [pdf](http://arxiv.org/pdf/2402.11684v1.pdf), cication: [**-1**](None)
+
+	 *Guiming Hardy Chen, Shunian Chen, Ruifei Zhang, Junying Chen, Xiangbo Wu, Zhiyi Zhang, Zhihong Chen, Jianquan Li, Xiang Wan, Benyou Wang*
+- **Vision-Flan: Scaling Human-Labeled Tasks in Visual Instruction Tuning**, `arXiv, 2402.11690`, [arxiv](http://arxiv.org/abs/2402.11690v1), [pdf](http://arxiv.org/pdf/2402.11690v1.pdf), cication: [**-1**](None)
+
+	 *Zhiyang Xu, Chao Feng, Rulin Shao, Trevor Ashby, Ying Shen, Di Jin, Yu Cheng, Qifan Wang, Lifu Huang*
+- **CoLLaVO: Crayon Large Language and Vision mOdel**, `arXiv, 2402.11248`, [arxiv](http://arxiv.org/abs/2402.11248v2), [pdf](http://arxiv.org/pdf/2402.11248v2.pdf), cication: [**-1**](None)
+
+	 *Byung-Kwan Lee, Beomchan Park, Chae Won Kim, Yong Man Ro*
+- **FinTral: A Family of GPT-4 Level Multimodal Financial Large Language
+  Models**, `arXiv, 2402.10986`, [arxiv](http://arxiv.org/abs/2402.10986v1), [pdf](http://arxiv.org/pdf/2402.10986v1.pdf), cication: [**-1**](None)
+
+	 *Gagan Bhatia, El Moatez Billah Nagoudi, Hasan Cavusoglu, Muhammad Abdul-Mageed*
 - **PaLM2-VAdapter: Progressively Aligned Language Model Makes a Strong
   Vision-language Adapter**, `arXiv, 2402.10896`, [arxiv](http://arxiv.org/abs/2402.10896v1), [pdf](http://arxiv.org/pdf/2402.10896v1.pdf), cication: [**-1**](None)
 

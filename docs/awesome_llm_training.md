@@ -43,6 +43,10 @@
 - [贫穷让我预训练](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494110&idx=2&sn=52bfbf2d51d1704efc596263bccf23db)
 
 ## Scaling
+- **OpenFedLLM: Training Large Language Models on Decentralized Private Data
+  via Federated Learning**, `arXiv, 2402.06954`, [arxiv](http://arxiv.org/abs/2402.06954v1), [pdf](http://arxiv.org/pdf/2402.06954v1.pdf), cication: [**-1**](None)
+
+	 *Rui Ye, Wenhao Wang, Jingyi Chai, Dihan Li, Zexi Li, Yinda Xu, Yaxin Du, Yanfeng Wang, Siheng Chen* · ([openfedllm](https://github.com/rui-ye/openfedllm) - rui-ye) ![Star](https://img.shields.io/github/stars/rui-ye/openfedllm.svg?style=social&label=Star)
 - **A Tale of Tails: Model Collapse as a Change of Scaling Laws**, `arXiv, 2402.07043`, [arxiv](http://arxiv.org/abs/2402.07043v1), [pdf](http://arxiv.org/pdf/2402.07043v1.pdf), cication: [**-1**](None)
 
 	 *Elvis Dohmatob, Yunzhen Feng, Pu Yang, Francois Charton, Julia Kempe*
@@ -239,6 +243,7 @@
 	 *Dongfu Jiang, Xiang Ren, Bill Yuchen Lin* · ([LLM-Blender](https://github.com/yuchenlin/LLM-Blender) - yuchenlin) ![Star](https://img.shields.io/github/stars/yuchenlin/LLM-Blender.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652343982&idx=4&sn=ce5c51039d91531178257024d883db90))
 
 ### Other
+- [🤗 PEFT welcomes new merging methods](https://huggingface.co/blog/peft_merging)
 - [Weight averaging and model merging for LLMs seem to be the most interesting themes in 2024 so far. ](https://twitter.com/rasbt/status/1750180383398744106)
 
 ## MoE

@@ -7,6 +7,10 @@
 	- [Reference](#reference)
 
 ## Papers
+- **Learning to Learn Faster from Human Feedback with Language Model
+  Predictive Control**, `arXiv, 2402.11450`, [arxiv](http://arxiv.org/abs/2402.11450v1), [pdf](http://arxiv.org/pdf/2402.11450v1.pdf), cication: [**-1**](None)
+
+	 *Jacky Liang, Fei Xia, Wenhao Yu, Andy Zeng, Montserrat Gonzalez Arenas, Maria Attarian, Maria Bauza, Matthew Bennice, Alex Bewley, Adil Dostmohamed* · ([robot-teaching.github](https://robot-teaching.github.io/))
 - **Generative Expressive Robot Behaviors using Large Language Models**, `arXiv, 2401.14673`, [arxiv](http://arxiv.org/abs/2401.14673v1), [pdf](http://arxiv.org/pdf/2401.14673v1.pdf), cication: [**-1**](None)
 
 	 *Karthik Mahadevan, Jonathan Chien, Noah Brown, Zhuo Xu, Carolina Parada, Fei Xia, Andy Zeng, Leila Takayama, Dorsa Sadigh* · ([generative-expressive-motion.github](https://generative-expressive-motion.github.io/))

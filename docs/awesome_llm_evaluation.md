@@ -28,6 +28,13 @@
 	 *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang*
 
 ## Papers
+- **The FinBen: An Holistic Financial Benchmark for Large Language Models**, `arXiv, 2402.12659`, [arxiv](http://arxiv.org/abs/2402.12659v1), [pdf](http://arxiv.org/pdf/2402.12659v1.pdf), cication: [**-1**](None)
+
+	 *Qianqian Xie, Weiguang Han, Zhengyu Chen, Ruoyu Xiang, Xiao Zhang, Yueru He, Mengxi Xiao, Dong Li, Yongfu Dai, Duanyu Feng*
+- **TofuEval: Evaluating Hallucinations of LLMs on Topic-Focused Dialogue
+  Summarization**, `arXiv, 2402.13249`, [arxiv](http://arxiv.org/abs/2402.13249v1), [pdf](http://arxiv.org/pdf/2402.13249v1.pdf), cication: [**-1**](None)
+
+	 *Liyan Tang, Igor Shalyminov, Amy Wing-mei Wong, Jon Burnsky, Jake W. Vincent, Yu'an Yang, Siffi Singh, Song Feng, Hwanjun Song, Hang Su*
 - **LLM Comparator: Visual Analytics for Side-by-Side Evaluation of Large
   Language Models**, `arXiv, 2402.10524`, [arxiv](http://arxiv.org/abs/2402.10524v1), [pdf](http://arxiv.org/pdf/2402.10524v1.pdf), cication: [**-1**](None)
 
@@ -387,6 +394,9 @@
 	 · [[huggingface](https://huggingface.co/blog/evaluating-mmlu-leaderboard)]
 
 ## Other
+- [**yet-another-applied-llm-benchmark**](https://github.com/carlini/yet-another-applied-llm-benchmark/tree/main) - carlini ![Star](https://img.shields.io/github/stars/carlini/yet-another-applied-llm-benchmark.svg?style=social&label=Star)
+
+	 · ([nicholas.carlini](https://nicholas.carlini.com/writing/2024/my-benchmark-for-large-language-models.html))
 - [Hugging Face’s Philipp Schmid on Rethinking AI Evaluation](https://analyticsindiamag.com/hugging-faces-philipp-schmid-on-rethinking-ai-evaluation/)
 - [Comparing the Performance of LLMs: A Deep Dive into Roberta, Llama 2, and Mistral for Disaster Tweets Analysis with Lora](https://huggingface.co/blog/Lora-for-sequence-classification-with-Roberta-Llama-Mistral)
 - [Anthropic \\ Challenges in evaluating AI systems](https://www.anthropic.com/index/evaluating-ai-systems)

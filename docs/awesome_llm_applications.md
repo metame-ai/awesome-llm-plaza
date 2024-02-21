@@ -299,6 +299,9 @@
 - [首个大模型教育产品开箱："最聪明"国产大模型加持的学习机，质变了吗 | 量子位](https://www.qbitai.com/2023/08/79632.html)
 
 ## Text Related
+- **Improving Black-box Robustness with In-Context Rewriting**, `arXiv, 2402.08225`, [arxiv](http://arxiv.org/abs/2402.08225v2), [pdf](http://arxiv.org/pdf/2402.08225v2.pdf), cication: [**-1**](None)
+
+	 *Kyle O'Brien, Nathan Ng, Isha Puri, Jorge Mendez, Hamid Palangi, Yoon Kim, Marzyeh Ghassemi, Thomas Hartvigsen*
 - **Tiny Titans: Can Smaller Large Language Models Punch Above Their Weight
   in the Real World for Meeting Summarization?**, `arXiv, 2402.00841`, [arxiv](http://arxiv.org/abs/2402.00841v1), [pdf](http://arxiv.org/pdf/2402.00841v1.pdf), cication: [**-1**](None)
 
@@ -509,10 +512,15 @@
 	 *Tiffany Tseng, Ruijia Cheng, Jeffrey Nichols*
 
 ## Vision
+- **MuLan: Multimodal-LLM Agent for Progressive Multi-Object Diffusion**, `arXiv, 2402.12741`, [arxiv](http://arxiv.org/abs/2402.12741v1), [pdf](http://arxiv.org/pdf/2402.12741v1.pdf), cication: [**-1**](None)
+
+	 *Sen Li, Ruochen Wang, Cho-Jui Hsieh, Minhao Cheng, Tianyi Zhou* · ([measure-infinity.github](https://measure-infinity.github.io/mulan/))
 - **LAVE: LLM-Powered Agent Assistance and Language Augmentation for Video
   Editing**, `arXiv, 2402.10294`, [arxiv](http://arxiv.org/abs/2402.10294v1), [pdf](http://arxiv.org/pdf/2402.10294v1.pdf), cication: [**-1**](None)
 
 	 *Bryan Wang, Yuliang Li, Zhaoyang Lv, Haijun Xia, Yan Xu, Raj Sodhi*
+
+	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-20-5))
 - **Guiding Instruction-based Image Editing via Multimodal Large Language
   Models**, `arXiv, 2309.17102`, [arxiv](http://arxiv.org/abs/2309.17102v2), [pdf](http://arxiv.org/pdf/2309.17102v2.pdf), cication: [**7**](https://scholar.google.com/scholar?cites=11018103266329124223&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
@@ -568,6 +576,9 @@
 	 *Official repo for LayoutGPT*
 
 ## Science
+- **Prioritizing Safeguarding Over Autonomy: Risks of LLM Agents for Science**, `arXiv, 2402.04247`, [arxiv](http://arxiv.org/abs/2402.04247v2), [pdf](http://arxiv.org/pdf/2402.04247v2.pdf), cication: [**-1**](None)
+
+	 *Xiangru Tang, Qiao Jin, Kunlun Zhu, Tongxin Yuan, Yichi Zhang, Wangchunshu Zhou, Meng Qu, Yilun Zhao, Jian Tang, Zhuosheng Zhang* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-20-2))
 - **ChatCell: Facilitating Single-Cell Analysis with Natural Language**, `arXiv, 2402.08303`, [arxiv](http://arxiv.org/abs/2402.08303v2), [pdf](http://arxiv.org/pdf/2402.08303v2.pdf), cication: [**-1**](None)
 
 	 *Yin Fang, Kangwei Liu, Ningyu Zhang, Xinle Deng, Penghui Yang, Zhuo Chen, Xiangru Tang, Mark Gerstein, Xiaohui Fan, Huajun Chen*

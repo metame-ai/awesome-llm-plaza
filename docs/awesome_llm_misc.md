@@ -76,6 +76,8 @@
 - [**skypilot**](https://github.com/skypilot-org/skypilot) - skypilot-org ![Star](https://img.shields.io/github/stars/skypilot-org/skypilot.svg?style=social&label=Star)
 
 	 *SkyPilot: Run LLMs, AI, and Batch jobs on any cloud. Get maximum savings, highest GPU availability, and managed execution—all with a simple interface.*
+
+	 · ([blog.skypilot](https://blog.skypilot.co/introducing-sky-serve/))
 - [**vllm**](https://github.com/vllm-project/vllm) - vllm-project ![Star](https://img.shields.io/github/stars/vllm-project/vllm.svg?style=social&label=Star)
 
 	 *A high-throughput and memory-efficient inference and serving engine for LLMs*
@@ -188,7 +190,8 @@
 
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652366759&idx=2&sn=48422d1a7ffae891ea61108761f4d582))
 
-- [OpenAI「登月计划」剑指超级AI！LeCun提出AGI之路七阶段，打造世界模型是首位](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652419855&idx=3&sn=a5f20e0a0061c01e1ec87d4a81c23e68)[https://mp.weixin.qq.com/s?\_\_biz=MzI3MTA0MTk1MA==&mid=2652419855&idx=3&sn=a5f20e0a0061c01e1ec87d4a81c23e68](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652419855&idx=3&sn=a5f20e0a0061c01e1ec87d4a81c23e68)
+- [what a world model is](https://twitter.com/ylecun/status/1759933365241921817)
+- [OpenAI「登月计划」剑指超级AI！LeCun提出AGI之路七阶段，打造世界模型是首位](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652419855&idx=3&sn=a5f20e0a0061c01e1ec87d4a81c23e68)
 ## Red teaming (safety)
 - **MART: Improving LLM Safety with Multi-round Automatic Red-Teaming**, `arXiv, 2311.07689`, [arxiv](http://arxiv.org/abs/2311.07689v1), [pdf](http://arxiv.org/pdf/2311.07689v1.pdf), cication: [**-1**](None)
 
@@ -326,6 +329,7 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652345558&idx=4&sn=95686435d5cad05d44cbe02bc26d6859))
 
 ## Interpretability 
+- [[2402.03902] A phase transition between positional and semantic learning in a solvable model of dot-product attention](https://arxiv.org/abs/2402.03902)
 - [**fractal**](https://github.com/sohl-dickstein/fractal) - sohl-dickstein ![Star](https://img.shields.io/github/stars/sohl-dickstein/fractal.svg?style=social&label=Star)
 
 	 *The boundary of neural network trainability is fractal*
@@ -512,6 +516,7 @@
 
 ## Course & Tutorial
 - [Stanford CS25 - Transformers United - YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)
+- [Let's build the GPT Tokenizer - YouTube](https://youtu.be/zduSFxRajkE)
 - [**minbpe**](https://github.com/karpathy/minbpe) - karpathy ![Star](https://img.shields.io/github/stars/karpathy/minbpe.svg?style=social&label=Star)
 
 	 *Minimal, clean, code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.*
