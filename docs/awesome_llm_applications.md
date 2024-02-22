@@ -576,6 +576,10 @@
 	 *Official repo for LayoutGPT*
 
 ## Science
+- **BioMistral: A Collection of Open-Source Pretrained Large Language Models
+  for Medical Domains**, `arXiv, 2402.10373`, [arxiv](http://arxiv.org/abs/2402.10373v1), [pdf](http://arxiv.org/pdf/2402.10373v1.pdf), cication: [**-1**](None)
+
+	 *Yanis Labrak, Adrien Bazoge, Emmanuel Morin, Pierre-Antoine Gourraud, Mickael Rouvier, Richard Dufour* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-21-7))
 - **Prioritizing Safeguarding Over Autonomy: Risks of LLM Agents for Science**, `arXiv, 2402.04247`, [arxiv](http://arxiv.org/abs/2402.04247v2), [pdf](http://arxiv.org/pdf/2402.04247v2.pdf), cication: [**-1**](None)
 
 	 *Xiangru Tang, Qiao Jin, Kunlun Zhu, Tongxin Yuan, Yichi Zhang, Wangchunshu Zhou, Meng Qu, Yilun Zhao, Jian Tang, Zhuosheng Zhang* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-20-2))

@@ -329,7 +329,10 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652345558&idx=4&sn=95686435d5cad05d44cbe02bc26d6859))
 
 ## Interpretability 
-- [[2402.03902] A phase transition between positional and semantic learning in a solvable model of dot-product attention](https://arxiv.org/abs/2402.03902)
+- **A phase transition between positional and semantic learning in a
+  solvable model of dot-product attention**, `arXiv, 2402.03902`, [arxiv](http://arxiv.org/abs/2402.03902v1), [pdf](http://arxiv.org/pdf/2402.03902v1.pdf), cication: [**-1**](None)
+
+	 *Hugo Cui, Freya Behrens, Florent Krzakala, Lenka Zdeborová*
 - [**fractal**](https://github.com/sohl-dickstein/fractal) - sohl-dickstein ![Star](https://img.shields.io/github/stars/sohl-dickstein/fractal.svg?style=social&label=Star)
 
 	 *The boundary of neural network trainability is fractal*
@@ -508,6 +511,8 @@
 - **Neurons in Large Language Models: Dead, N-gram, Positional**, `arXiv, 2309.04827`, [arxiv](http://arxiv.org/abs/2309.04827v1), [pdf](http://arxiv.org/pdf/2309.04827v1.pdf), cication: [**-1**](None)
 
 	 *Elena Voita, Javier Ferrando, Christoforos Nalmpantis*
+	 
+- [模型融合、混合专家、更小的LLM，几篇论文看懂2024年LLM发展方向 | 机器之心](https://www.jiqizhixin.com/articles/2024-02-22)
 - [ACL 2023最佳论文出炉！CMU西交大等摘桂冠，杰出论文奖华人学者占半壁江](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652350213&idx=3&sn=01843319b9d89fcfda5096af994b2050)山
 
 

@@ -93,6 +93,8 @@
   Perception**, `arXiv, 2401.16158`, [arxiv](http://arxiv.org/abs/2401.16158v1), [pdf](http://arxiv.org/pdf/2401.16158v1.pdf), cication: [**-1**](None)
 
 	 *Junyang Wang, Haiyang Xu, Jiabo Ye, Ming Yan, Weizhou Shen, Ji Zhang, Fei Huang, Jitao Sang* · ([MobileAgent](https://github.com/X-PLUG/MobileAgent) - X-PLUG) ![Star](https://img.shields.io/github/stars/X-PLUG/MobileAgent.svg?style=social&label=Star)
+
+	 · ([huggingface](https://huggingface.co/spaces/junyangwang0410/Mobile-Agent))
 - **SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents**, `arXiv, 2401.10935`, [arxiv](http://arxiv.org/abs/2401.10935v1), [pdf](http://arxiv.org/pdf/2401.10935v1.pdf), cication: [**-1**](None)
 
 	 *Kanzhi Cheng, Qiushi Sun, Yougang Chu, Fangzhi Xu, Yantao Li, Jianbing Zhang, Zhiyong Wu* · ([SeeClick](https://github.com/njucckevin/SeeClick) - njucckevin) ![Star](https://img.shields.io/github/stars/njucckevin/SeeClick.svg?style=social&label=Star)
@@ -686,11 +688,13 @@
 
 	 *Train Models Contrastively in Pytorch* · ([huggingface](https://huggingface.co/nomic-ai/nomic-embed-text-v1)) · ([mp.weixin.qq](https://mp.weixin.qq.com/s/EMWNf9TiDwuxxkwwqsl73g))
 ### Other
+- [**chunk_visualizer**](https://huggingface.co/spaces/m-ric/chunk_visualizer) - m-ric 🤗
 - [Stanford CS25: V3 I Retrieval Augmented Language Models - YouTube](https://youtu.be/mE7IDf2SmJg)
 - [Retrieval Augmented Generation (RAG) for LLMs | Prompt Engineering Guide<!-- -->](https://www.promptingguide.ai/research/rag)
 - [A Cheat Sheet and Some Recipes For Building Advanced RAG | by Andrei | Jan, 2024 | LlamaIndex Blog](https://blog.llamaindex.ai/a-cheat-sheet-and-some-recipes-for-building-advanced-rag-803a9d94c41b)
 - [Build a search engine, not a vector DB](https://blog.elicit.com/search-vs-vector-db/)
 
+- [Langchain中改进RAG能力的3种常用的扩展查询方法](https://mp.weixin.qq.com/s?__biz=MzI1MjQ2OTQ3Ng==&mid=2247630649&idx=2&sn=d02f9e3022d5e987de5d60ed06ea3bd8&poc_token=HO-d1WWjKnv0HWessjo9YkkKt1GkCKEDCJoS3wUW)
 - [通过4个任务比较LangChain和LlamaIndex](https://mp.weixin.qq.com/s?__biz=MzI1MjQ2OTQ3Ng==&mid=2247631125&idx=2&sn=97801ab722a786cdf5116779804fb0c9)
 - [self-RAG｜大模型决策的典型案例探究](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495565&idx=2&sn=833660e930818b3dfa11a22ce1f263d4)
 - [RAG研发真实图鉴：一周出Demo，半年用不好](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495552&idx=2&sn=5dc6957f860fa90afa01f547df71ff02)

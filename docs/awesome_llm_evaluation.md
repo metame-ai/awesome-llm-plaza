@@ -28,6 +28,13 @@
 	 *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang*
 
 ## Papers
+- **OlympiadBench: A Challenging Benchmark for Promoting AGI with
+  Olympiad-Level Bilingual Multimodal Scientific Problems**, `arXiv, 2402.14008`, [arxiv](http://arxiv.org/abs/2402.14008v1), [pdf](http://arxiv.org/pdf/2402.14008v1.pdf), cication: [**-1**](None)
+
+	 *Chaoqun He, Renjie Luo, Yuzhuo Bai, Shengding Hu, Zhen Leng Thai, Junhao Shen, Jinyi Hu, Xu Han, Yujie Huang, Yuxiang Zhang*
+- **$\infty$Bench: Extending Long Context Evaluation Beyond 100K Tokens**, `arXiv, 2402.13718`, [arxiv](http://arxiv.org/abs/2402.13718v1), [pdf](http://arxiv.org/pdf/2402.13718v1.pdf), cication: [**-1**](None)
+
+	 *Xinrong Zhang, Yingfa Chen, Shengding Hu, Zihang Xu, Junhao Chen, Moo Khai Hao, Xu Han, Zhen Leng Thai, Shuo Wang, Zhiyuan Liu*
 - **The FinBen: An Holistic Financial Benchmark for Large Language Models**, `arXiv, 2402.12659`, [arxiv](http://arxiv.org/abs/2402.12659v1), [pdf](http://arxiv.org/pdf/2402.12659v1.pdf), cication: [**-1**](None)
 
 	 *Qianqian Xie, Weiguang Han, Zhengyu Chen, Ruoyu Xiang, Xiao Zhang, Yueru He, Mengxi Xiao, Dong Li, Yongfu Dai, Duanyu Feng*

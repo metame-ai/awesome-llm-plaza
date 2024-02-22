@@ -752,6 +752,12 @@
 
 	 *Zineng Tang, Ziyi Yang, Chenguang Zhu, Michael Zeng, Mohit Bansal* · ([codi-gen.github](https://codi-gen.github.io/)) · ([i-Code](https://github.com/microsoft/i-Code/tree/main/i-Code-V3) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/i-Code.svg?style=social&label=Star)
 
+## Alignment
+- **BBA: Bi-Modal Behavioral Alignment for Reasoning with Large
+  Vision-Language Models**, `arXiv, 2402.13577`, [arxiv](http://arxiv.org/abs/2402.13577v1), [pdf](http://arxiv.org/pdf/2402.13577v1.pdf), cication: [**-1**](None)
+
+	 *Xueliang Zhao, Xinting Huang, Tingchen Fu, Qintong Li, Shansan Gong, Lemao Liu, Wei Bi, Lingpeng Kong*
+
 ## Efficient 
 - **Small Language Model Meets with Reinforced Vision Vocabulary**, `arXiv, 2401.12503`, [arxiv](http://arxiv.org/abs/2401.12503v1), [pdf](http://arxiv.org/pdf/2401.12503v1.pdf), cication: [**-1**](None)
 

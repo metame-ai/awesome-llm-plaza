@@ -356,6 +356,9 @@
 	 *A simple and effective LLM pruning approach.*
 
 ## Efficient Inference
+- **Ouroboros: Speculative Decoding with Large Model Enhanced Drafting**, `arXiv, 2402.13720`, [arxiv](http://arxiv.org/abs/2402.13720v1), [pdf](http://arxiv.org/pdf/2402.13720v1.pdf), cication: [**-1**](None)
+
+	 *Weilin Zhao, Yuxiang Huang, Xu Han, Chaojun Xiao, Zhiyuan Liu, Maosong Sun* · ([Ouroboros](https://github.com/thunlp/Ouroboros) - thunlp) ![Star](https://img.shields.io/github/stars/thunlp/Ouroboros.svg?style=social&label=Star)
 - **Speculative Streaming: Fast LLM Inference without Auxiliary Models**, `arXiv, 2402.11131`, [arxiv](http://arxiv.org/abs/2402.11131v1), [pdf](http://arxiv.org/pdf/2402.11131v1.pdf), cication: [**-1**](None)
 
 	 *Nikhil Bhendawade, Irina Belousova, Qichen Fu, Henry Mason, Mohammad Rastegari, Mahyar Najibi*

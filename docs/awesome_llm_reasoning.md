@@ -25,7 +25,10 @@
 	 *Jiankai Sun, Chuanyang Zheng, Enze Xie, Zhengying Liu, Ruihang Chu, Jianing Qiu, Jiaqi Xu, Mingyu Ding, Hongyang Li, Mengzhe Geng* · ([Awesome-Reasoning-Foundation-Models](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models) - reasoning-survey) ![Star](https://img.shields.io/github/stars/reasoning-survey/Awesome-Reasoning-Foundation-Models.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652421688&idx=3&sn=fcdc24edc7bc89ebcbcca0f7665e40f6))
 
 ## Reasoning
-- [[2402.03667] Large Language Models as an Indirect Reasoner: Contrapositive and Contradiction for Automated Reasoning](https://arxiv.org/abs/2402.03667)
+- **Large Language Models as an Indirect Reasoner: Contrapositive and
+  Contradiction for Automated Reasoning**, `arXiv, 2402.03667`, [arxiv](http://arxiv.org/abs/2402.03667v1), [pdf](http://arxiv.org/pdf/2402.03667v1.pdf), cication: [**-1**](None)
+
+	 *Yanfang Zhang, Yiliu Sun, Yibing Zhan, Dapeng Tao, Dacheng Tao, Chen Gong*
 - **GLoRe: When, Where, and How to Improve LLM Reasoning via Global and
   Local Refinements**, `arXiv, 2402.10963`, [arxiv](http://arxiv.org/abs/2402.10963v1), [pdf](http://arxiv.org/pdf/2402.10963v1.pdf), cication: [**-1**](None)
 
@@ -468,6 +471,9 @@ jj
 	 *Tianlu Wang, Ping Yu, Xiaoqing Ellen Tan, Sean O'Brien, Ramakanth Pasunuru, Jane Dwivedi-Yu, Olga Golovneva, Luke Zettlemoyer, Maryam Fazel-Zarandi, Asli Celikyilmaz* · ([shepherd](https://github.com/facebookresearch/shepherd) - facebookresearch) ![Star](https://img.shields.io/github/stars/facebookresearch/shepherd.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652366759&idx=3&sn=f183f4c8080a338c4c9fad0f026b14af))
 
 ## Prompting
+- **User-LLM: Efficient LLM Contextualization with User Embeddings**, `arXiv, 2402.13598`, [arxiv](http://arxiv.org/abs/2402.13598v1), [pdf](http://arxiv.org/pdf/2402.13598v1.pdf), cication: [**-1**](None)
+
+	 *Lin Ning, Luyang Liu, Jiaxing Wu, Neo Wu, Devora Berlowitz, Sushant Prakash, Bradley Green, Shawn O'Banion, Jun Xie*
 - [**autoprompt**](https://github.com/eladlev/autoprompt) - eladlev ![Star](https://img.shields.io/github/stars/eladlev/autoprompt.svg?style=social&label=Star)
 
 	 *A framework for prompt tuning using Intent-based Prompt Calibration*

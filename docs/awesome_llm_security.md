@@ -16,6 +16,9 @@
 - [**Adversarial Attacks on LLMs | Lil'Log**](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/)
 
 ## Papers
+- **Coercing LLMs to do and reveal (almost) anything**, `arXiv, 2402.14020`, [arxiv](http://arxiv.org/abs/2402.14020v1), [pdf](http://arxiv.org/pdf/2402.14020v1.pdf), cication: [**-1**](None)
+
+	 *Jonas Geiping, Alex Stein, Manli Shu, Khalid Saifullah, Yuxin Wen, Tom Goldstein*
 - **How Easy is It to Fool Your Multimodal LLMs? An Empirical Analysis on
   Deceptive Prompts**, `arXiv, 2402.13220`, [arxiv](http://arxiv.org/abs/2402.13220v1), [pdf](http://arxiv.org/pdf/2402.13220v1.pdf), cication: [**-1**](None)
 

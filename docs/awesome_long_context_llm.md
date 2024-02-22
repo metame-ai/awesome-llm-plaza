@@ -21,6 +21,12 @@
 - [Attention? Attention! | Lil'Log](https://lilianweng.github.io/posts/2018-06-24-attention/#a-family-of-attention-mechanisms)
 
 ## Papers
+- **LongRoPE: Extending LLM Context Window Beyond 2 Million Tokens**, `arXiv, 2402.13753`, [arxiv](http://arxiv.org/abs/2402.13753v1), [pdf](http://arxiv.org/pdf/2402.13753v1.pdf), cication: [**-1**](None)
+
+	 *Yiran Ding, Li Lyna Zhang, Chengruidong Zhang, Yuanyuan Xu, Ning Shang, Jiahang Xu, Fan Yang, Mao Yang*
+- **$\infty$Bench: Extending Long Context Evaluation Beyond 100K Tokens**, `arXiv, 2402.13718`, [arxiv](http://arxiv.org/abs/2402.13718v1), [pdf](http://arxiv.org/pdf/2402.13718v1.pdf), cication: [**-1**](None)
+
+	 *Xinrong Zhang, Yingfa Chen, Shengding Hu, Zihang Xu, Junhao Chen, Moo Khai Hao, Xu Han, Zhen Leng Thai, Shuo Wang, Zhiyuan Liu*
 - **LongAgent: Scaling Language Models to 128k Context through Multi-Agent
   Collaboration**, `arXiv, 2402.11550`, [arxiv](http://arxiv.org/abs/2402.11550v1), [pdf](http://arxiv.org/pdf/2402.11550v1.pdf), cication: [**-1**](None)
 

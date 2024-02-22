@@ -109,6 +109,17 @@
 
 	 *Kaiyuan Gao, Sunan He, Zhenyu He, Jiacheng Lin, QiZhi Pei, Jie Shao, Wei Zhang* · ([gpt_alternatives](https://github.com/GPT-Alternatives/gpt_alternatives) - GPT-Alternatives) ![Star](https://img.shields.io/github/stars/GPT-Alternatives/gpt_alternatives.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-09-12-3))
 
+### Gemma
+- [**gemma_pytorch**](https://github.com/google/gemma_pytorch/tree/main) - google ![Star](https://img.shields.io/github/stars/google/gemma_pytorch.svg?style=social&label=Star)
+
+	 *The official PyTorch implementation of Google's Gemma models*
+- [**gemma-7b**](https://huggingface.co/google/gemma-7b) - google 🤗
+
+	 · ([ai.google](https://ai.google.dev/gemma/docs)) · ([huggingface](https://huggingface.co/blog/gemma))
+- [**gemma.cpp**](https://github.com/google/gemma.cpp) - google ![Star](https://img.shields.io/github/stars/google/gemma.cpp.svg?style=social&label=Star)
+
+	 *lightweight, standalone C++ inference engine for Google's Gemma models.*
+
 ### OLMo
 - **OLMo: Accelerating the Science of Language Models**, `arXiv, 2402.00838`, [arxiv](http://arxiv.org/abs/2402.00838v1), [pdf](http://arxiv.org/pdf/2402.00838v1.pdf), cication: [**-1**](None)
 
