@@ -610,6 +610,9 @@
 	 *DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.*
 
 ## Efficient transformer
+- **Linear Transformers are Versatile In-Context Learners**, `arXiv, 2402.14180`, [arxiv](http://arxiv.org/abs/2402.14180v1), [pdf](http://arxiv.org/pdf/2402.14180v1.pdf), cication: [**-1**](None)
+
+	 *Max Vladymyrov, Johannes von Oswald, Mark Sandler, Rong Ge*
 - **The Hedgehog & the Porcupine: Expressive Linear Attentions with Softmax
   Mimicry**, `arXiv, 2402.04347`, [arxiv](http://arxiv.org/abs/2402.04347v1), [pdf](http://arxiv.org/pdf/2402.04347v1.pdf), cication: [**-1**](None)
 

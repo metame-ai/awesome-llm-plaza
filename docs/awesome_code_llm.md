@@ -16,6 +16,13 @@
 	 *Ziyin Zhang, Chaoyu Chen, Bingchang Liu, Cong Liao, Zi Gong, Hang Yu, Jianguo Li, Rui Wang*
 
 ## Paper
+- **Copilot Evaluation Harness: Evaluating LLM-Guided Software Programming**, `arXiv, 2402.14261`, [arxiv](http://arxiv.org/abs/2402.14261v1), [pdf](http://arxiv.org/pdf/2402.14261v1.pdf), cication: [**-1**](None)
+
+	 *Anisha Agarwal, Aaron Chan, Shubham Chandel, Jinu Jang, Shaun Miller, Roshanak Zilouchian Moghaddam, Yevhen Mohylevskyy, Neel Sundaresan, Michele Tufano*
+- **OpenCodeInterpreter: Integrating Code Generation with Execution and
+  Refinement**, `arXiv, 2402.14658`, [arxiv](http://arxiv.org/abs/2402.14658v1), [pdf](http://arxiv.org/pdf/2402.14658v1.pdf), cication: [**-1**](None)
+
+	 *Tianyu Zheng, Ge Zhang, Tianhao Shen, Xueling Liu, Bill Yuchen Lin, Jie Fu, Wenhu Chen, Xiang Yue* · ([opencodeinterpreter.github](https://opencodeinterpreter.github.io/)) · ([OpenCodeInterpreter](https://github.com/OpenCodeInterpreter/OpenCodeInterpreter) - OpenCodeInterpreter) ![Star](https://img.shields.io/github/stars/OpenCodeInterpreter/OpenCodeInterpreter.svg?style=social&label=Star)
 - **Automated Unit Test Improvement using Large Language Models at Meta**, `arXiv, 2402.09171`, [arxiv](http://arxiv.org/abs/2402.09171v1), [pdf](http://arxiv.org/pdf/2402.09171v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=14636292858296547655&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Nadia Alshahwan, Jubin Chheda, Anastasia Finegenova, Beliz Gokkaya, Mark Harman, Inna Harper, Alexandru Marginean, Shubho Sengupta, Eddy Wang*
@@ -284,6 +291,7 @@
 	 *Specify what you want it to build, the AI asks for clarification, and then builds it.*
 
 ## Other
+- [phind.com/blog/introducing-phind-70b](https://www.phind.com/blog/introducing-phind-70b)
 - [Personal Copilot: Train Your Own Coding Assistant](https://huggingface.co/blog/personal-copilot)
 - [Introducing SafeCoder](https://huggingface.co/blog/safecoder)
 - [SafeCoder vs. Closed-source Code Assistants](https://huggingface.co/blog/safecoder-vs-closed-source-code-assistants)

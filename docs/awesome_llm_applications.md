@@ -261,6 +261,10 @@
 	 *Yunkang Cao, Xiaohao Xu, Chen Sun, Xiaonan Huang, Weiming Shen* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-11-13))
 
 ## Auto driving
+- **DriveVLM: The Convergence of Autonomous Driving and Large
+  Vision-Language Models**, `arXiv, 2402.12289`, [arxiv](http://arxiv.org/abs/2402.12289v1), [pdf](http://arxiv.org/pdf/2402.12289v1.pdf), cication: [**-1**](None)
+
+	 *Xiaoyu Tian, Junru Gu, Bailin Li, Yicheng Liu, Chenxu Hu, Yang Wang, Kun Zhan, Peng Jia, Xianpeng Lang, Hang Zhao* · ([tsinghua-mars-lab.github](https://tsinghua-mars-lab.github.io/DriveVLM/)) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-23))
 - **Driving Everywhere with Large Language Model Policy Adaptation**, `arXiv, 2402.05932`, [arxiv](http://arxiv.org/abs/2402.05932v1), [pdf](http://arxiv.org/pdf/2402.05932v1.pdf), cication: [**-1**](None)
 
 	 *Boyi Li, Yue Wang, Jiageng Mao, Boris Ivanovic, Sushant Veer, Karen Leung, Marco Pavone* · ([boyiliee.github](https://boyiliee.github.io/llada))
@@ -299,6 +303,9 @@
 - [首个大模型教育产品开箱："最聪明"国产大模型加持的学习机，质变了吗 | 量子位](https://www.qbitai.com/2023/08/79632.html)
 
 ## Text Related
+- **Scaling Up LLM Reviews for Google Ads Content Moderation**, `arXiv, 2402.14590`, [arxiv](http://arxiv.org/abs/2402.14590v1), [pdf](http://arxiv.org/pdf/2402.14590v1.pdf), cication: [**-1**](None)
+
+	 *Wei Qiao, Tushar Dogra, Otilia Stretcu, Yu-Han Lyu, Tiantian Fang, Dongjin Kwon, Chun-Ta Lu, Enming Luo, Yuan Wang, Chih-Chun Chia*
 - **Improving Black-box Robustness with In-Context Rewriting**, `arXiv, 2402.08225`, [arxiv](http://arxiv.org/abs/2402.08225v2), [pdf](http://arxiv.org/pdf/2402.08225v2.pdf), cication: [**-1**](None)
 
 	 *Kyle O'Brien, Nathan Ng, Isha Puri, Jorge Mendez, Hamid Palangi, Yoon Kim, Marzyeh Ghassemi, Thomas Hartvigsen*
@@ -678,7 +685,9 @@
 	 *Tongshuang Wu, Haiyi Zhu, Maya Albayrak, Alexis Axon, Amanda Bertsch, Wenxing Deng, Ziqi Ding, Bill Guo, Sireesh Gururaja, Tzu-Sheng Kuo*
 
 ## Misc
+- **OmniPred: Language Models as Universal Regressors**, `arXiv, 2402.14547`, [arxiv](http://arxiv.org/abs/2402.14547v1), [pdf](http://arxiv.org/pdf/2402.14547v1.pdf), cication: [**-1**](None)
 
+	 *Xingyou Song, Oscar Li, Chansoo Lee, Bangding, Yang, Daiyi Peng, Sagi Perel, Yutian Chen*
 - **Shai: A large language model for asset management**, `arXiv, 2312.14203`, [arxiv](http://arxiv.org/abs/2312.14203v1), [pdf](http://arxiv.org/pdf/2312.14203v1.pdf), cication: [**-1**](None)
 
 	 *Zhongyang Guo, Guanran Jiang, Zhongdan Zhang, Peng Li, Zhefeng Wang, Yinchun Wang*

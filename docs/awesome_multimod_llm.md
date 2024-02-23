@@ -95,6 +95,15 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
+- **Subobject-level Image Tokenization**, `arXiv, 2402.14327`, [arxiv](http://arxiv.org/abs/2402.14327v1), [pdf](http://arxiv.org/pdf/2402.14327v1.pdf), cication: [**-1**](None)
+
+	 *Delong Chen, Samuel Cahyawijaya, Jianfeng Liu, Baoyuan Wang, Pascale Fung* · ([subobjects](https://github.com/ChenDelong1999/subobjects) - ChenDelong1999) ![Star](https://img.shields.io/github/stars/ChenDelong1999/subobjects.svg?style=social&label=Star)
+- **TinyLLaVA: A Framework of Small-scale Large Multimodal Models**, `arXiv, 2402.14289`, [arxiv](http://arxiv.org/abs/2402.14289v1), [pdf](http://arxiv.org/pdf/2402.14289v1.pdf), cication: [**-1**](None)
+
+	 *Baichuan Zhou, Ying Hu, Xi Weng, Junlong Jia, Jie Luo, Xien Liu, Ji Wu, Lei Huang*
+- **PALO: A Polyglot Large Multimodal Model for 5B People**, `arXiv, 2402.14818`, [arxiv](http://arxiv.org/abs/2402.14818v1), [pdf](http://arxiv.org/pdf/2402.14818v1.pdf), cication: [**-1**](None)
+
+	 *Muhammad Maaz, Hanoona Rasheed, Abdelrahman Shaker, Salman Khan, Hisham Cholakal, Rao M. Anwer, Tim Baldwin, Michael Felsberg, Fahad S. Khan* · ([PALO](https://github.com/mbzuai-oryx/PALO) - mbzuai-oryx) ![Star](https://img.shields.io/github/stars/mbzuai-oryx/PALO.svg?style=social&label=Star) · ([palo.mbzuai-oryx.ngrok](https://palo.mbzuai-oryx.ngrok.app/))
 - **ALLaVA: Harnessing GPT4V-synthesized Data for A Lite Vision-Language
   Model**, `arXiv, 2402.11684`, [arxiv](http://arxiv.org/abs/2402.11684v1), [pdf](http://arxiv.org/pdf/2402.11684v1.pdf), cication: [**-1**](None)
 

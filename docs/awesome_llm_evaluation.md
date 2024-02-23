@@ -28,6 +28,9 @@
 	 *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang*
 
 ## Papers
+- **Copilot Evaluation Harness: Evaluating LLM-Guided Software Programming**, `arXiv, 2402.14261`, [arxiv](http://arxiv.org/abs/2402.14261v1), [pdf](http://arxiv.org/pdf/2402.14261v1.pdf), cication: [**-1**](None)
+
+	 *Anisha Agarwal, Aaron Chan, Shubham Chandel, Jinu Jang, Shaun Miller, Roshanak Zilouchian Moghaddam, Yevhen Mohylevskyy, Neel Sundaresan, Michele Tufano*
 - **OlympiadBench: A Challenging Benchmark for Promoting AGI with
   Olympiad-Level Bilingual Multimodal Scientific Problems**, `arXiv, 2402.14008`, [arxiv](http://arxiv.org/abs/2402.14008v1), [pdf](http://arxiv.org/pdf/2402.14008v1.pdf), cication: [**-1**](None)
 

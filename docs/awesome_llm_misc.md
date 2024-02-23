@@ -27,6 +27,9 @@
 	- [Extra reference](#extra-reference)
 
 ## Survey
+- **Large Language Models for Data Annotation: A Survey**, `arXiv, 2402.13446`, [arxiv](http://arxiv.org/abs/2402.13446v1), [pdf](http://arxiv.org/pdf/2402.13446v1.pdf), cication: [**-1**](None)
+
+	 *Zhen Tan, Alimohammad Beigi, Song Wang, Ruocheng Guo, Amrita Bhattacharjee, Bohan Jiang, Mansooreh Karami, Jundong Li, Lu Cheng, Huan Liu*
 - **Large Language Models: A Survey**, `arXiv, 2402.06196`, [arxiv](http://arxiv.org/abs/2402.06196v1), [pdf](http://arxiv.org/pdf/2402.06196v1.pdf), cication: [**-1**](None)
 
 	 *Shervin Minaee, Tomas Mikolov, Narjes Nikzad, Meysam Chenaghlu, Richard Socher, Xavier Amatriain, Jianfeng Gao*

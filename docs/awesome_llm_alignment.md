@@ -176,6 +176,9 @@
 	 *Timo Kaufmann, Paul Weng, Viktor Bengs, Eyke Hüllermeier*
 
 ## Papers
+- **Smaug: Fixing Failure Modes of Preference Optimisation with DPO-Positive**, `arXiv, 2402.13228`, [arxiv](http://arxiv.org/abs/2402.13228v1), [pdf](http://arxiv.org/pdf/2402.13228v1.pdf), cication: [**-1**](None)
+
+	 *Arka Pal, Deep Karkhanis, Samuel Dooley, Manley Roberts, Siddartha Naidu, Colin White*
 - **A Critical Evaluation of AI Feedback for Aligning Large Language Models**, `arXiv, 2402.12366`, [arxiv](http://arxiv.org/abs/2402.12366v1), [pdf](http://arxiv.org/pdf/2402.12366v1.pdf), cication: [**-1**](None)
 
 	 *Archit Sharma, Sedrick Keh, Eric Mitchell, Chelsea Finn, Kushal Arora, Thomas Kollar*

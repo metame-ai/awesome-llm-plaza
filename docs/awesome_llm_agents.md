@@ -62,6 +62,9 @@
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-18-4))
 ## Agents
+- **AgentScope: A Flexible yet Robust Multi-Agent Platform**, `arXiv, 2402.14034`, [arxiv](http://arxiv.org/abs/2402.14034v1), [pdf](http://arxiv.org/pdf/2402.14034v1.pdf), cication: [**-1**](None)
+
+	 *Dawei Gao, Zitao Li, Weirui Kuang, Xuchen Pan, Daoyuan Chen, Zhijian Ma, Bingchen Qian, Liuyi Yao, Lin Zhu, Chen Cheng* · ([agentscope](https://github.com/modelscope/agentscope) - modelscope) ![Star](https://img.shields.io/github/stars/modelscope/agentscope.svg?style=social&label=Star)
 - **LongAgent: Scaling Language Models to 128k Context through Multi-Agent
   Collaboration**, `arXiv, 2402.11550`, [arxiv](http://arxiv.org/abs/2402.11550v1), [pdf](http://arxiv.org/pdf/2402.11550v1.pdf), cication: [**-1**](None)
 

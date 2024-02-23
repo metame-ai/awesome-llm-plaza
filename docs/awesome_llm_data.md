@@ -179,6 +179,10 @@
 	 *Xiang Deng, Yu Gu, Boyuan Zheng, Shijie Chen, Samuel Stevens, Boshi Wang, Huan Sun, Yu Su*
 
 ### Synthetic 
+- **LexC-Gen: Generating Data for Extremely Low-Resource Languages with
+  Large Language Models and Bilingual Lexicons**, `arXiv, 2402.14086`, [arxiv](http://arxiv.org/abs/2402.14086v1), [pdf](http://arxiv.org/pdf/2402.14086v1.pdf), cication: [**-1**](None)
+
+	 *Zheng-Xin Yong, Cristina Menghini, Stephen H. Bach*
 - **Synthetic Data (Almost) from Scratch: Generalized Instruction Tuning for
   Language Models**, `arXiv, 2402.13064`, [arxiv](http://arxiv.org/abs/2402.13064v1), [pdf](http://arxiv.org/pdf/2402.13064v1.pdf), cication: [**-1**](None)
 
@@ -244,6 +248,9 @@
 	 *Hao Chen, Yiming Zhang, Qi Zhang, Hantao Yang, Xiaomeng Hu, Xuetao Ma, Yifan Yanggong, Junbo Zhao*
 
 ## Toolkits
+- **Cleaner Pretraining Corpus Curation with Neural Web Scraping**, `arXiv, 2402.14652`, [arxiv](http://arxiv.org/abs/2402.14652v1), [pdf](http://arxiv.org/pdf/2402.14652v1.pdf), cication: [**-1**](None)
+
+	 *Zhipeng Xu, Zhenghao Liu, Yukun Yan, Zhiyuan Liu, Chenyan Xiong, Ge Yu* · ([NeuScraper](https://github.com/OpenMatch/NeuScraper) - OpenMatch) ![Star](https://img.shields.io/github/stars/OpenMatch/NeuScraper.svg?style=social&label=Star)
 - [**dsir**](https://github.com/p-lambda/dsir) - p-lambda ![Star](https://img.shields.io/github/stars/p-lambda/dsir.svg?style=social&label=Star)
 
 	 *DSIR large-scale data selection framework*
