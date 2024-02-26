@@ -24,6 +24,9 @@
 
 ## Vision
 ### Video
+- **LLMBind: A Unified Modality-Task Integration Framework**, `arXiv, 2402.14891`, [arxiv](http://arxiv.org/abs/2402.14891v1), [pdf](http://arxiv.org/pdf/2402.14891v1.pdf), cication: [**-1**](None)
+
+	 *Bin Zhu, Peng Jin, Munan Ning, Bin Lin, Jinfa Huang, Qi Song, Mingjun Pan, Li Yuan*
 - **VideoPrism: A Foundational Visual Encoder for Video Understanding**, `arXiv, 2402.13217`, [arxiv](http://arxiv.org/abs/2402.13217v1), [pdf](http://arxiv.org/pdf/2402.13217v1.pdf), cication: [**-1**](None)
 
 	 *Long Zhao, Nitesh B. Gundavarapu, Liangzhe Yuan, Hao Zhou, Shen Yan, Jennifer J. Sun, Luke Friedman, Rui Qian, Tobias Weyand, Yue Zhao*
@@ -761,6 +764,12 @@
 
 	 *Zineng Tang, Ziyi Yang, Chenguang Zhu, Michael Zeng, Mohit Bansal* · ([codi-gen.github](https://codi-gen.github.io/)) · ([i-Code](https://github.com/microsoft/i-Code/tree/main/i-Code-V3) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/i-Code.svg?style=social&label=Star)
 
+## CLIP
+- **CLoVe: Encoding Compositional Language in Contrastive Vision-Language
+  Models**, `arXiv, 2402.15021`, [arxiv](http://arxiv.org/abs/2402.15021v1), [pdf](http://arxiv.org/pdf/2402.15021v1.pdf), cication: [**-1**](None)
+
+	 *Santiago Castro, Amir Ziai, Avneesh Saluja, Zhuoning Yuan, Rada Mihalcea* · ([clove](https://github.com/netflix/clove) - netflix) ![Star](https://img.shields.io/github/stars/netflix/clove.svg?style=social&label=Star)
+
 ## Alignment
 - **BBA: Bi-Modal Behavioral Alignment for Reasoning with Large
   Vision-Language Models**, `arXiv, 2402.13577`, [arxiv](http://arxiv.org/abs/2402.13577v1), [pdf](http://arxiv.org/pdf/2402.13577v1.pdf), cication: [**-1**](None)
@@ -773,6 +782,10 @@
 	 *Haoran Wei, Lingyu Kong, Jinyue Chen, Liang Zhao, Zheng Ge, En Yu, Jianjian Sun, Chunrui Han, Xiangyu Zhang*
 
 ## Extra Modalities 
+- **ChartX & ChartVLM: A Versatile Benchmark and Foundation Model for
+  Complicated Chart Reasoning**, `arXiv, 2402.12185`, [arxiv](http://arxiv.org/abs/2402.12185v1), [pdf](http://arxiv.org/pdf/2402.12185v1.pdf), cication: [**-1**](None)
+
+	 *Renqiu Xia, Bo Zhang, Hancheng Ye, Xiangchao Yan, Qi Liu, Hongbin Zhou, Zijun Chen, Min Dou, Botian Shi, Junchi Yan* · ([chartvlm](https://github.com/unimodal4reasoning/chartvlm) - unimodal4reasoning) ![Star](https://img.shields.io/github/stars/unimodal4reasoning/chartvlm.svg?style=social&label=Star)
 - **Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision,
   Language, Audio, and Action**, `arXiv, 2312.17172`, [arxiv](http://arxiv.org/abs/2312.17172v1), [pdf](http://arxiv.org/pdf/2312.17172v1.pdf), cication: [**-1**](None)
 
@@ -783,7 +796,6 @@
 - **M3DBench: Let's Instruct Large Models with Multi-modal 3D Prompts**, `arXiv, 2312.10763`, [arxiv](http://arxiv.org/abs/2312.10763v1), [pdf](http://arxiv.org/pdf/2312.10763v1.pdf), cication: [**-1**](None)
 
 	 *Mingsheng Li, Xin Chen, Chi Zhang, Sijin Chen, Hongyuan Zhu, Fukun Yin, Gang Yu, Tao Chen*
-
 ## Projects
 - [**uform-gen2-qwen-500m**](https://huggingface.co/unum-cloud/uform-gen2-qwen-500m) - unum-cloud 🤗
 - [**imp**](https://github.com/MILVLG/imp) - MILVLG ![Star](https://img.shields.io/github/stars/MILVLG/imp.svg?style=social&label=Star)

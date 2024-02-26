@@ -156,12 +156,14 @@
 	 *Amanda Askell, Yuntao Bai, Anna Chen, Dawn Drain, Deep Ganguli, Tom Henighan, Andy Jones, Nicholas Joseph, Ben Mann, Nova DasSarma*
 
 ## Other
+- [Stanford CS25: V3 I Recipe for Training Helpful Chatbots - YouTube](https://youtu.be/mcep6W8oB1I)
+- [The History of Open-Source LLMs: Imitation and Alignment (Part Three)](https://cameronrwolfe.substack.com/p/the-history-of-open-source-llms-imitation)
 - [Teach Llamas to Talk: Recent Progress in Instruction Tuning](https://gaotianyu.xyz/blog/2023/11/30/instruction-tuning/)
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-01-22-5))
 
+- [想研究大模型Alignment，你只需要看懂这几篇paper - 知乎](https://zhuanlan.zhihu.com/p/681642685#showWechatShareTip?utm_source=wechat_timeline&utm_medium=social&wechatShare=1&s_r=0)
 - [OpenAI超级对齐负责人Jan Leike：如何破解对齐难题？用可扩展监督](https://mp.weixin.qq.com/s?__biz=MzIyMzk1MDE3Nw==&mid=2247619616&idx=1&sn=fb6bbb82ad3514091fe390e3302834eb)
-- [The History of Open-Source LLMs: Imitation and Alignment (Part Three)](https://cameronrwolfe.substack.com/p/the-history-of-open-source-llms-imitation)
 - [有被混合后的SFT数据伤到](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494859&idx=1&sn=d92a88e6554b86a16e67ec89529916ce)
 - [OpenAI的Superalignment策略：计算为王](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494388&idx=1&sn=ef2dc97c9f05564114b6df6746d16460)
 - [当 OpenAI 说 Superalignment 说的是什么](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494216&idx=2&sn=404ea6eeb9d10baf0abfceeb04939c27)
@@ -176,6 +178,10 @@
 	 *Timo Kaufmann, Paul Weng, Viktor Bengs, Eyke Hüllermeier*
 
 ## Papers
+- **Back to Basics: Revisiting REINFORCE Style Optimization for Learning
+  from Human Feedback in LLMs**, `arXiv, 2402.14740`, [arxiv](http://arxiv.org/abs/2402.14740v1), [pdf](http://arxiv.org/pdf/2402.14740v1.pdf), cication: [**-1**](None)
+
+	 *Arash Ahmadian, Chris Cremer, Matthias Gallé, Marzieh Fadaee, Julia Kreutzer, Ahmet Üstün, Sara Hooker*
 - **Smaug: Fixing Failure Modes of Preference Optimisation with DPO-Positive**, `arXiv, 2402.13228`, [arxiv](http://arxiv.org/abs/2402.13228v1), [pdf](http://arxiv.org/pdf/2402.13228v1.pdf), cication: [**-1**](None)
 
 	 *Arka Pal, Deep Karkhanis, Samuel Dooley, Manley Roberts, Siddartha Naidu, Colin White*

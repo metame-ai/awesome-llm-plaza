@@ -132,6 +132,9 @@
 - [Chinchilla之死：只要训练足够长时间，小模型也能超过大模型 | 机器之心](https://www.jiqizhixin.com/articles/2023-10-03-9)
 
 ## Fine-tuning
+- **Personalized Large Language Models**, `arXiv, 2402.09269`, [arxiv](http://arxiv.org/abs/2402.09269v1), [pdf](http://arxiv.org/pdf/2402.09269v1.pdf), cication: [**-1**](None)
+
+	 *Stanisław Woźniak, Bartłomiej Koptyra, Arkadiusz Janz, Przemysław Kazienko, Jan Kocoń*
 - **BitDelta: Your Fine-Tune May Only Be Worth One Bit**, `arXiv, 2402.10193`, [arxiv](http://arxiv.org/abs/2402.10193v1), [pdf](http://arxiv.org/pdf/2402.10193v1.pdf), cication: [**-1**](None)
 
 	 *James Liu, Guangxuan Xiao, Kai Li, Jason D. Lee, Song Han, Tri Dao, Tianle Cai* · ([BitDelta](https://github.com/FasterDecoding/BitDelta) - FasterDecoding) ![Star](https://img.shields.io/github/stars/FasterDecoding/BitDelta.svg?style=social&label=Star)

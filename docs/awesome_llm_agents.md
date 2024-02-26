@@ -25,6 +25,9 @@
 	- [Extra reference](#extra-reference)
 
 ## Survey
+- [Fetching Title#nr5j](https://arxiv.org/abs/2402.15116)
+
+	 · ([awesome-large-multimodal-agents](https://github.com/jun0wanan/awesome-large-multimodal-agents) - jun0wanan) ![Star](https://img.shields.io/github/stars/jun0wanan/awesome-large-multimodal-agents.svg?style=social&label=Star)
 - **Large Language Model based Multi-Agents: A Survey of Progress and
   Challenges**, `arXiv, 2402.01680`, [arxiv](http://arxiv.org/abs/2402.01680v1), [pdf](http://arxiv.org/pdf/2402.01680v1.pdf), cication: [**-1**](None)
 
@@ -62,6 +65,10 @@
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-18-4))
 ## Agents
+- **AgentOhana: Design Unified Data and Training Pipeline for Effective
+  Agent Learning**, `arXiv, 2402.15506`, [arxiv](http://arxiv.org/abs/2402.15506v1), [pdf](http://arxiv.org/pdf/2402.15506v1.pdf), cication: [**-1**](None)
+
+	 *Jianguo Zhang, Tian Lan, Rithesh Murthy, Zhiwei Liu, Weiran Yao, Juntao Tan, Thai Hoang, Liangwei Yang, Yihao Feng, Zuxin Liu*
 - **AgentScope: A Flexible yet Robust Multi-Agent Platform**, `arXiv, 2402.14034`, [arxiv](http://arxiv.org/abs/2402.14034v1), [pdf](http://arxiv.org/pdf/2402.14034v1.pdf), cication: [**-1**](None)
 
 	 *Dawei Gao, Zitao Li, Weirui Kuang, Xuchen Pan, Daoyuan Chen, Zhijian Ma, Bingchen Qian, Liuyi Yao, Lin Zhu, Chen Cheng* · ([agentscope](https://github.com/modelscope/agentscope) - modelscope) ![Star](https://img.shields.io/github/stars/modelscope/agentscope.svg?style=social&label=Star)
@@ -431,6 +438,7 @@
 - [AgentGPT](https://agentgpt.reworkd.ai/)
 
 ## Augmented LLM
+- [[2402.15491] API-BLEND: A Comprehensive Corpora for Training and Benchmarking API LLMs](https://arxiv.org/abs/2402.15491)
 - **AnyTool: Self-Reflective, Hierarchical Agents for Large-Scale API Calls**, `arXiv, 2402.04253`, [arxiv](http://arxiv.org/abs/2402.04253v1), [pdf](http://arxiv.org/pdf/2402.04253v1.pdf), cication: [**-1**](None)
 
 	 *Yu Du, Fangyun Wei, Hongyang Zhang*
@@ -543,6 +551,7 @@
 - [GPT-4V学会用键鼠上网，人类眼睁睁看着它发帖玩游戏 | 量子位](https://www.qbitai.com/2023/11/95456.html)
 
 ## Retrieval agumented generation
+- [[2402.10790] In Search of Needles in a 11M Haystack: Recurrent Memory Finds What LLMs Miss](https://arxiv.org/abs/2402.10790)
 - **What Evidence Do Language Models Find Convincing?**, `arXiv, 2402.11782`, [arxiv](http://arxiv.org/abs/2402.11782v1), [pdf](http://arxiv.org/pdf/2402.11782v1.pdf), cication: [**-1**](None)
 
 	 *Alexander Wan, Eric Wallace, Dan Klein*
@@ -684,6 +693,7 @@
 	 *Interact privately with your documents using the power of GPT, 100% privately, no data leaks*
 
 ### Embedding
+- [🪆 Introduction to Matryoshka Embedding Models](https://huggingface.co/blog/matryoshka)
 - **Multilingual E5 Text Embeddings: A Technical Report**, `arXiv, 2402.05672`, [arxiv](http://arxiv.org/abs/2402.05672v1), [pdf](http://arxiv.org/pdf/2402.05672v1.pdf), cication: [**-1**](None)
 
 	 *Liang Wang, Nan Yang, Xiaolong Huang, Linjun Yang, Rangan Majumder, Furu Wei* · ([unilm](https://github.com/microsoft/unilm/tree/master/e5) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/unilm.svg?style=social&label=Star)
@@ -801,6 +811,7 @@
 - [7个向量数据库对比：Milvus、Pinecone、Vespa、Weaviate、Vald、GSI 和 Qdrant - 墨天轮](https://www.modb.pro/db/516016#:~:text=%E8%BF%99%E7%AF%87%E5%8D%9A%E6%96%87%E6%80%BB%E7%BB%93%E4%BA%86%207,%E4%B8%AA%E5%90%91%20%E9%87%8F%20%E6%95%B0%E6%8D%AE%E5%BA%93%E4%B9%8B%E9%97%B4%E7%9A%84%E5%85%B1%E6%80%A7%E5%92%8C%E5%B7%AE%E5%BC%82%EF%BC%8C%E6%AF%8F%E4%B8%AA%E9%83%BD%E6%8F%90%E4%BE%9B%E5%95%86%E4%B8%9A%E4%BA%91%E6%94%AF%E6%8C%81%E3%80%82)
 
 ## Extra reference
+- [**awesome-large-multimodal-agents**](https://github.com/jun0wanan/awesome-large-multimodal-agents) - jun0wanan ![Star](https://img.shields.io/github/stars/jun0wanan/awesome-large-multimodal-agents.svg?style=social&label=Star)
 - [**llm-agent-survey**](https://github.com/paitesanshi/llm-agent-survey) - paitesanshi ![Star](https://img.shields.io/github/stars/paitesanshi/llm-agent-survey.svg?style=social&label=Star)
 - [**awesome-ai-agents**](https://github.com/e2b-dev/awesome-ai-agents) - e2b-dev ![Star](https://img.shields.io/github/stars/e2b-dev/awesome-ai-agents.svg?style=social&label=Star)
 

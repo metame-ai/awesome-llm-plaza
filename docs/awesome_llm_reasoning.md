@@ -25,6 +25,14 @@
 	 *Jiankai Sun, Chuanyang Zheng, Enze Xie, Zhengying Liu, Ruihang Chu, Jianing Qiu, Jiaqi Xu, Mingyu Ding, Hongyang Li, Mengzhe Geng* · ([Awesome-Reasoning-Foundation-Models](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models) - reasoning-survey) ![Star](https://img.shields.io/github/stars/reasoning-survey/Awesome-Reasoning-Foundation-Models.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652421688&idx=3&sn=fcdc24edc7bc89ebcbcca0f7665e40f6))
 
 ## Reasoning
+- **Same Task, More Tokens: the Impact of Input Length on the Reasoning
+  Performance of Large Language Models**, `arXiv, 2402.14848`, [arxiv](http://arxiv.org/abs/2402.14848v1), [pdf](http://arxiv.org/pdf/2402.14848v1.pdf), cication: [**-1**](None)
+
+	 *Mosh Levy, Alon Jacoby, Yoav Goldberg*
+- **When is Tree Search Useful for LLM Planning? It Depends on the
+  Discriminator**, `arXiv, 2402.10890`, [arxiv](http://arxiv.org/abs/2402.10890v1), [pdf](http://arxiv.org/pdf/2402.10890v1.pdf), cication: [**-1**](None)
+
+	 *Ziru Chen, Michael White, Raymond Mooney, Ali Payani, Yu Su, Huan Sun* · ([llm-planning-eval](https://github.com/OSU-NLP-Group/llm-planning-eval) - OSU-NLP-Group) ![Star](https://img.shields.io/github/stars/OSU-NLP-Group/llm-planning-eval.svg?style=social&label=Star)
 - **Large Language Models as an Indirect Reasoner: Contrapositive and
   Contradiction for Automated Reasoning**, `arXiv, 2402.03667`, [arxiv](http://arxiv.org/abs/2402.03667v1), [pdf](http://arxiv.org/pdf/2402.03667v1.pdf), cication: [**-1**](None)
 
@@ -322,6 +330,9 @@ jj
 - [大模型Fewshot推理如何选择更好的示例](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495177&idx=2&sn=fe8353efed16a81e35462be06d5a6cea)
 
 ## Math reasoning
+- **Orca-Math: Unlocking the potential of SLMs in Grade School Math**, `arXiv, 2402.14830`, [arxiv](http://arxiv.org/abs/2402.14830v1), [pdf](http://arxiv.org/pdf/2402.14830v1.pdf), cication: [**-1**](None)
+
+	 *Arindam Mitra, Hamed Khanpour, Corby Rosset, Ahmed Awadallah*
 - **OpenMathInstruct-1: A 1.8 Million Math Instruction Tuning Dataset**, `arXiv, 2402.10176`, [arxiv](http://arxiv.org/abs/2402.10176v1), [pdf](http://arxiv.org/pdf/2402.10176v1.pdf), cication: [**-1**](None)
 
 	 *Shubham Toshniwal, Ivan Moshkov, Sean Narenthiran, Daria Gitman, Fei Jia, Igor Gitman*

@@ -152,6 +152,9 @@
 	 *FlagAI (Fast LArge-scale General AI models) is a fast, easy-to-use and extensible toolkit for large-scale model.*
 
 ## Unlearning
+- **Machine Unlearning of Pre-trained Large Language Models**, `arXiv, 2402.15159`, [arxiv](http://arxiv.org/abs/2402.15159v1), [pdf](http://arxiv.org/pdf/2402.15159v1.pdf), cication: [**-1**](None)
+
+	 *Jin Yao, Eli Chien, Minxin Du, Xinyao Niu, Tianhao Wang, Zezhou Cheng, Xiang Yue* · ([Unlearning_LLM](https://github.com/yaojin17/Unlearning_LLM) - yaojin17) ![Star](https://img.shields.io/github/stars/yaojin17/Unlearning_LLM.svg?style=social&label=Star)
 - **TOFU: A Task of Fictitious Unlearning for LLMs**, `arXiv, 2401.06121`, [arxiv](http://arxiv.org/abs/2401.06121v1), [pdf](http://arxiv.org/pdf/2401.06121v1.pdf), cication: [**-1**](None)
 
 	 *Pratyush Maini, Zhili Feng, Avi Schwarzschild, Zachary C. Lipton, J. Zico Kolter*
@@ -294,6 +297,9 @@
 	 *John Hewitt, John Thickstun, Christopher D. Manning, Percy Liang* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-06-25-5)) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI1MjQ2OTQ3Ng==&mid=2247608689&idx=2&sn=ed29c1ee1f571f98b191805472feb79a))
 
 ## LLM detection
+- **Watermarking Makes Language Models Radioactive**, `arXiv, 2402.14904`, [arxiv](http://arxiv.org/abs/2402.14904v1), [pdf](http://arxiv.org/pdf/2402.14904v1.pdf), cication: [**-1**](None)
+
+	 *Tom Sander, Pierre Fernandez, Alain Durmus, Matthijs Douze, Teddy Furon*
 - **HuRef: HUman-REadable Fingerprint for Large Language Models**, `arXiv, 2312.04828`, [arxiv](http://arxiv.org/abs/2312.04828v1), [pdf](http://arxiv.org/pdf/2312.04828v1.pdf), cication: [**-1**](None)
 
 	 *Boyi Zeng, Chenghu Zhou, Xinbing Wang, Zhouhan Lin* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-02-4))
@@ -332,6 +338,7 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652345558&idx=4&sn=95686435d5cad05d44cbe02bc26d6859))
 
 ## Interpretability 
+- [Circuits Updates - February 2024](https://transformer-circuits.pub/2024/feb-update/index.html)
 - **A phase transition between positional and semantic learning in a
   solvable model of dot-product attention**, `arXiv, 2402.03902`, [arxiv](http://arxiv.org/abs/2402.03902v1), [pdf](http://arxiv.org/pdf/2402.03902v1.pdf), cication: [**-1**](None)
 
@@ -523,6 +530,7 @@
 - [MIT新研究：打工人不用担心被AI淘汰！成本巨贵，视觉工作只有23%可替代](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652436863&idx=3&sn=cd329df965557870646c7dd6fcb460cc)
 
 ## Course & Tutorial
+- [GPT in 60 Lines of NumPy | Jay Mody](https://jaykmody.com/blog/gpt-from-scratch/)
 - [Stanford CS25 - Transformers United - YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)
 - [Let's build the GPT Tokenizer - YouTube](https://youtu.be/zduSFxRajkE)
 - [**minbpe**](https://github.com/karpathy/minbpe) - karpathy ![Star](https://img.shields.io/github/stars/karpathy/minbpe.svg?style=social&label=Star)

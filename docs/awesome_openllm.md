@@ -119,6 +119,8 @@
 - [**gemma.cpp**](https://github.com/google/gemma.cpp) - google ![Star](https://img.shields.io/github/stars/google/gemma.cpp.svg?style=social&label=Star)
 
 	 *lightweight, standalone C++ inference engine for Google's Gemma models.*
+- [**gemma-peft**](https://huggingface.co/blog/gemma-peft) -  🤗
+- [Understanding, Using, and Finetuning Gemma - a Lightning Studio by sebastian](https://lightning.ai/lightning-ai/studios/understanding-using-and-finetuning-gemma)
 
 ### OLMo
 - **OLMo: Accelerating the Science of Language Models**, `arXiv, 2402.00838`, [arxiv](http://arxiv.org/abs/2402.00838v1), [pdf](http://arxiv.org/pdf/2402.00838v1.pdf), cication: [**-1**](None)

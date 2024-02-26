@@ -179,6 +179,10 @@
 	 *Xiang Deng, Yu Gu, Boyuan Zheng, Shijie Chen, Samuel Stevens, Boshi Wang, Huan Sun, Yu Su*
 
 ### Synthetic 
+- **Gen4Gen: Generative Data Pipeline for Generative Multi-Concept
+  Composition**, `arXiv, 2402.15504`, [arxiv](http://arxiv.org/abs/2402.15504v1), [pdf](http://arxiv.org/pdf/2402.15504v1.pdf), cication: [**-1**](None)
+
+	 *Chun-Hsiao Yeh, Ta-Ying Cheng, He-Yen Hsieh, Chuan-En Lin, Yi Ma, Andrew Markham, Niki Trigoni, H. T. Kung, Yubei Chen*
 - **LexC-Gen: Generating Data for Extremely Low-Resource Languages with
   Large Language Models and Bilingual Lexicons**, `arXiv, 2402.14086`, [arxiv](http://arxiv.org/abs/2402.14086v1), [pdf](http://arxiv.org/pdf/2402.14086v1.pdf), cication: [**-1**](None)
 

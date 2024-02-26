@@ -151,6 +151,9 @@
 	 *Xunyu Zhu, Jian Li, Yong Liu, Can Ma, Weiping Wang* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-08-26-5))
 
 ### Papers
+- **GPTVQ: The Blessing of Dimensionality for LLM Quantization**, `arXiv, 2402.15319`, [arxiv](http://arxiv.org/abs/2402.15319v1), [pdf](http://arxiv.org/pdf/2402.15319v1.pdf), cication: [**-1**](None)
+
+	 *Mart van Baalen, Andrey Kuzmin, Markus Nagel, Peter Couperus, Cedric Bastoul, Eric Mahurin, Tijmen Blankevoort, Paul Whatmough*
 - **OneBit: Towards Extremely Low-bit Large Language Models**, `arXiv, 2402.11295`, [arxiv](http://arxiv.org/abs/2402.11295v1), [pdf](http://arxiv.org/pdf/2402.11295v1.pdf), cication: [**-1**](None)
 
 	 *Yuzhuang Xu, Xu Han, Zonghan Yang, Shuo Wang, Qingfu Zhu, Zhiyuan Liu, Weidong Liu, Wanxiang Che*
@@ -289,6 +292,7 @@
 - [Quantization](https://huggingface.co/docs/accelerate/usage_guides/quantization)
 
 ## Distillation
+- [[2402.15000] Divide-or-Conquer? Which Part Should You Distill Your LLM?](https://arxiv.org/abs/2402.15000)
 - **DistiLLM: Towards Streamlined Distillation for Large Language Models**, `arXiv, 2402.03898`, [arxiv](http://arxiv.org/abs/2402.03898v1), [pdf](http://arxiv.org/pdf/2402.03898v1.pdf), cication: [**-1**](None)
 
 	 *Jongwoo Ko, Sungnyun Kim, Tianyi Chen, Se-Young Yun* · ([distillm](https://github.com/jongwooko/distillm) - jongwooko) ![Star](https://img.shields.io/github/stars/jongwooko/distillm.svg?style=social&label=Star)
@@ -569,6 +573,7 @@
 - [研究完llama.cpp，我发现手机跑大模型竟这么简单 | 机器之心](https://www.jiqizhixin.com/articles/2023-08-17-8)
 
 ## Mobile
+- [[2402.14905] MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases](https://arxiv.org/abs/2402.14905)
 - **MobileVLM : A Fast, Reproducible and Strong Vision Language Assistant
   for Mobile Devices**, `arXiv, 2312.16886`, [arxiv](http://arxiv.org/abs/2312.16886v1), [pdf](http://arxiv.org/pdf/2312.16886v1.pdf), cication: [**-1**](None)
 
@@ -610,6 +615,10 @@
 	 *DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.*
 
 ## Efficient transformer
+- **ChunkAttention: Efficient Self-Attention with Prefix-Aware KV Cache and
+  Two-Phase Partition**, `arXiv, 2402.15220`, [arxiv](http://arxiv.org/abs/2402.15220v1), [pdf](http://arxiv.org/pdf/2402.15220v1.pdf), cication: [**-1**](None)
+
+	 *Lu Ye, Ze Tao, Yong Huang, Yang Li*
 - **Linear Transformers are Versatile In-Context Learners**, `arXiv, 2402.14180`, [arxiv](http://arxiv.org/abs/2402.14180v1), [pdf](http://arxiv.org/pdf/2402.14180v1.pdf), cication: [**-1**](None)
 
 	 *Max Vladymyrov, Johannes von Oswald, Mark Sandler, Rong Ge*

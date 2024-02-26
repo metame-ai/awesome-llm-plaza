@@ -154,12 +154,16 @@
 	 *A framework to evaluate the generalization capability of safety alignment for LLMs*
 
 ## Other
-- [ChatGPT最近被微软内部禁用！GPTs新bug：数据两句话就能套走 | 量子位](https://www.qbitai.com/2023/11/97309.html)
-- [一段话让模型自曝「系统提示词」！ChatGPT、Bing无一幸免 | 量子位](https://www.qbitai.com/2023/10/91673.html)
-- [一段乱码，竟让ChatGPT越狱！乱序prompt让LLM火速生成勒索软件，Jim Fan惊了](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652367811&idx=4&sn=5737319e04c9ea80a506854350c438fa)
+- [Introducing the Red-Teaming Resistance Leaderboard](https://huggingface.co/blog/leaderboards-on-the-hub-haizelab)
 - [fast.ai - AI Safety and the Age of Dislightenment](https://www.fast.ai/posts/2023-11-07-dislightenment.html)
 - [PoisonGPT: How We Hid a Lobotomized LLM on Hugging Face to Spread Fake News](https://blog.mithrilsecurity.io/poisongpt-how-we-hid-a-lobotomized-llm-on-hugging-face-to-spread-fake-news/)
 
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652349939&idx=3&sn=54b2ca4d0ddf092c8883ad3625e13dd8))
+
+
+- [ChatGPT最近被微软内部禁用！GPTs新bug：数据两句话就能套走 | 量子位](https://www.qbitai.com/2023/11/97309.html)
+- [一段话让模型自曝「系统提示词」！ChatGPT、Bing无一幸免 | 量子位](https://www.qbitai.com/2023/10/91673.html)
+- [一段乱码，竟让ChatGPT越狱！乱序prompt让LLM火速生成勒索软件，Jim Fan惊了](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652367811&idx=4&sn=5737319e04c9ea80a506854350c438fa)
+
 
 ## Extra reference
