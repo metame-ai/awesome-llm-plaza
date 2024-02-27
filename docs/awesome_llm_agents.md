@@ -440,7 +440,10 @@
 - [AgentGPT](https://agentgpt.reworkd.ai/)
 
 ## Augmented LLM
-- [[2402.15491] API-BLEND: A Comprehensive Corpora for Training and Benchmarking API LLMs](https://arxiv.org/abs/2402.15491)
+- **API-BLEND: A Comprehensive Corpora for Training and Benchmarking API
+  LLMs**, `arXiv, 2402.15491`, [arxiv](http://arxiv.org/abs/2402.15491v1), [pdf](http://arxiv.org/pdf/2402.15491v1.pdf), cication: [**-1**](None)
+
+	 *Kinjal Basu, Ibrahim Abdelaziz, Subhajit Chaudhury, Soham Dan, Maxwell Crouse, Asim Munawar, Sadhana Kumaravel, Vinod Muthusamy, Pavan Kapanipathi, Luis A. Lastras*
 - **AnyTool: Self-Reflective, Hierarchical Agents for Large-Scale API Calls**, `arXiv, 2402.04253`, [arxiv](http://arxiv.org/abs/2402.04253v1), [pdf](http://arxiv.org/pdf/2402.04253v1.pdf), cication: [**-1**](None)
 
 	 *Yu Du, Fangyun Wei, Hongyang Zhang*
@@ -553,7 +556,10 @@
 - [GPT-4V学会用键鼠上网，人类眼睁睁看着它发帖玩游戏 | 量子位](https://www.qbitai.com/2023/11/95456.html)
 
 ## Retrieval agumented generation
-- [[2402.10790] In Search of Needles in a 11M Haystack: Recurrent Memory Finds What LLMs Miss](https://arxiv.org/abs/2402.10790)
+- **In Search of Needles in a 11M Haystack: Recurrent Memory Finds What LLMs
+  Miss**, `arXiv, 2402.10790`, [arxiv](http://arxiv.org/abs/2402.10790v2), [pdf](http://arxiv.org/pdf/2402.10790v2.pdf), cication: [**-1**](None)
+
+	 *Yuri Kuratov, Aydar Bulatov, Petr Anokhin, Dmitry Sorokin, Artyom Sorokin, Mikhail Burtsev*
 - **What Evidence Do Language Models Find Convincing?**, `arXiv, 2402.11782`, [arxiv](http://arxiv.org/abs/2402.11782v1), [pdf](http://arxiv.org/pdf/2402.11782v1.pdf), cication: [**-1**](None)
 
 	 *Alexander Wan, Eric Wallace, Dan Klein*
