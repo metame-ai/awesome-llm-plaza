@@ -59,6 +59,7 @@
 	 · ([datablations](https://github.com/huggingface/datablations) - huggingface) ![Star](https://img.shields.io/github/stars/huggingface/datablations.svg?style=social&label=Star)
 
 ## Datasets
+- [**OpenHermesPreferences**](https://huggingface.co/datasets/argilla/OpenHermesPreferences) - argilla 🤗
 - [**WebSight**](https://huggingface.co/datasets/HuggingFaceM4/WebSight) - HuggingFaceM4 🤗
 - [**oasst2**](https://huggingface.co/datasets/OpenAssistant/oasst2) - OpenAssistant 🤗
 - [**wikisource**](https://huggingface.co/datasets/wikimedia/wikisource) - wikimedia 🤗

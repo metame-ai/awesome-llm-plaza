@@ -16,6 +16,8 @@
   Models: A Comprehensive Survey**, `arXiv, 2311.12351`, [arxiv](http://arxiv.org/abs/2311.12351v1), [pdf](http://arxiv.org/pdf/2311.12351v1.pdf), cication: [**-1**](None)
 
 	 *Yunpeng Huang, Jingwei Xu, Zixu Jiang, Junyu Lai, Zenan Li, Yuan Yao, Taolue Chen, Lijuan Yang, Zhou Xin, Xiaoxing Ma* · ([long-llms-learning](https://github.com/Strivin0311/long-llms-learning) - Strivin0311) ![Star](https://img.shields.io/github/stars/Strivin0311/long-llms-learning.svg?style=social&label=Star)
+
+	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495588&idx=1&sn=22347cb1213ab2a49fc76d16eb302b19))
 - [The Transformer Family | Lil'Log](https://lilianweng.github.io/posts/2020-04-07-the-transformer-family/#adaptive-computation-time-act)
 - [The Transformer Family Version 2.0 | Lil'Log](https://lilianweng.github.io/posts/2023-01-27-the-transformer-family-v2/)
 - [Attention? Attention! | Lil'Log](https://lilianweng.github.io/posts/2018-06-24-attention/#a-family-of-attention-mechanisms)

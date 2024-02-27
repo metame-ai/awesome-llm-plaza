@@ -460,6 +460,7 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s/Lf70i8M0KNDs9ZB8H32h4w))
 
 # Extra
+- [[2402.16819] Nemotron-4 15B Technical Report](https://arxiv.org/abs/2402.16819)
 - **Aya Model: An Instruction Finetuned Open-Access Multilingual Language
   Model**, `arXiv, 2402.07827`, [arxiv](http://arxiv.org/abs/2402.07827v1), [pdf](http://arxiv.org/pdf/2402.07827v1.pdf), cication: [**-1**](None)
 

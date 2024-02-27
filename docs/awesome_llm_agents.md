@@ -25,7 +25,9 @@
 	- [Extra reference](#extra-reference)
 
 ## Survey
-- [Fetching Title#nr5j](https://arxiv.org/abs/2402.15116)
+- **Large Multimodal Agents: A Survey**, `arXiv, 2402.15116`, [arxiv](http://arxiv.org/abs/2402.15116v1), [pdf](http://arxiv.org/pdf/2402.15116v1.pdf), cication: [**-1**](None)
+
+	 *Junlin Xie, Zhihong Chen, Ruifei Zhang, Xiang Wan, Guanbin Li*
 
 	 · ([awesome-large-multimodal-agents](https://github.com/jun0wanan/awesome-large-multimodal-agents) - jun0wanan) ![Star](https://img.shields.io/github/stars/jun0wanan/awesome-large-multimodal-agents.svg?style=social&label=Star)
 - **Large Language Model based Multi-Agents: A Survey of Progress and

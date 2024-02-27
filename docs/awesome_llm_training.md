@@ -43,6 +43,10 @@
 - [贫穷让我预训练](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494110&idx=2&sn=52bfbf2d51d1704efc596263bccf23db)
 
 ## Scaling
+- **MegaScale: Scaling Large Language Model Training to More Than 10,000
+  GPUs**, `arXiv, 2402.15627`, [arxiv](http://arxiv.org/abs/2402.15627v1), [pdf](http://arxiv.org/pdf/2402.15627v1.pdf), cication: [**-1**](None)
+
+	 *Ziheng Jiang, Haibin Lin, Yinmin Zhong, Qi Huang, Yangrui Chen, Zhi Zhang, Yanghua Peng, Xiang Li, Cong Xie, Shibiao Nong*
 - **OpenFedLLM: Training Large Language Models on Decentralized Private Data
   via Federated Learning**, `arXiv, 2402.06954`, [arxiv](http://arxiv.org/abs/2402.06954v1), [pdf](http://arxiv.org/pdf/2402.06954v1.pdf), cication: [**-1**](None)
 
@@ -216,6 +220,9 @@
 	 *Yang Luo, Xiaozhe Ren, Zangwei Zheng, Zhuo Jiang, Xin Jiang, Yang You* · ([qbitai](https://www.qbitai.com/2023/07/67814.html))
  
 ## Ensemble
+- **FuseChat: Knowledge Fusion of Chat Models**, `arXiv, 2402.16107`, [arxiv](http://arxiv.org/abs/2402.16107v1), [pdf](http://arxiv.org/pdf/2402.16107v1.pdf), cication: [**-1**](None)
+
+	 *Fanqi Wan, Ziyi Yang, Longguang Zhong, Xiaojun Quan, Xinting Huang, Wei Bi* · ([FuseLLM](https://github.com/fanqiwan/FuseLLM) - fanqiwan) ![Star](https://img.shields.io/github/stars/fanqiwan/FuseLLM.svg?style=social&label=Star)
 - **Knowledge Fusion of Large Language Models**, `arXiv, 2401.10491`, [arxiv](http://arxiv.org/abs/2401.10491v1), [pdf](http://arxiv.org/pdf/2401.10491v1.pdf), cication: [**-1**](None)
 
 	 *Fanqi Wan, Xinting Huang, Deng Cai, Xiaojun Quan, Wei Bi, Shuming Shi* · ([FuseLLM](https://github.com/fanqiwan/FuseLLM) - fanqiwan) ![Star](https://img.shields.io/github/stars/fanqiwan/FuseLLM.svg?style=social&label=Star)

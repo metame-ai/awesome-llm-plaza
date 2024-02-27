@@ -375,6 +375,7 @@
 	 *Lianmin Zheng, Wei-Lin Chiang, Ying Sheng, Siyuan Zhuang, Zhanghao Wu, Yonghao Zhuang, Zi Lin, Zhuohan Li, Dacheng Li, Eric. P Xing*
 
 ## Projects
+- [**URIAL-Bench**](https://huggingface.co/spaces/re-align/URIAL-Bench) - re-align 🤗
 - [**NPHardEval-leaderboard**](https://huggingface.co/spaces/NPHardEval/NPHardEval-leaderboard) - NPHardEval 🤗
 
 	 · ([huggingface](https://huggingface.co/blog/leaderboards-on-the-hub-nphardeval))

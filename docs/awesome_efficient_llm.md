@@ -292,7 +292,9 @@
 - [Quantization](https://huggingface.co/docs/accelerate/usage_guides/quantization)
 
 ## Distillation
-- [[2402.15000] Divide-or-Conquer? Which Part Should You Distill Your LLM?](https://arxiv.org/abs/2402.15000)
+- **Divide-or-Conquer? Which Part Should You Distill Your LLM?**, `arXiv, 2402.15000`, [arxiv](http://arxiv.org/abs/2402.15000v1), [pdf](http://arxiv.org/pdf/2402.15000v1.pdf), cication: [**-1**](None)
+
+	 *Zhuofeng Wu, He Bai, Aonan Zhang, Jiatao Gu, VG Vinod Vydiswaran, Navdeep Jaitly, Yizhe Zhang*
 - **DistiLLM: Towards Streamlined Distillation for Large Language Models**, `arXiv, 2402.03898`, [arxiv](http://arxiv.org/abs/2402.03898v1), [pdf](http://arxiv.org/pdf/2402.03898v1.pdf), cication: [**-1**](None)
 
 	 *Jongwoo Ko, Sungnyun Kim, Tianyi Chen, Se-Young Yun* · ([distillm](https://github.com/jongwooko/distillm) - jongwooko) ![Star](https://img.shields.io/github/stars/jongwooko/distillm.svg?style=social&label=Star)
@@ -573,7 +575,13 @@
 - [研究完llama.cpp，我发现手机跑大模型竟这么简单 | 机器之心](https://www.jiqizhixin.com/articles/2023-08-17-8)
 
 ## Mobile
-- [[2402.14905] MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases](https://arxiv.org/abs/2402.14905)
+- [[2402.16840] MobiLlama: Towards Accurate and Lightweight Fully Transparent GPT](https://arxiv.org/abs/2402.16840)
+
+	 · ([MobiLlama](https://github.com/mbzuai-oryx/MobiLlama) - mbzuai-oryx) ![Star](https://img.shields.io/github/stars/mbzuai-oryx/MobiLlama.svg?style=social&label=Star)
+- **MobileLLM: Optimizing Sub-billion Parameter Language Models for
+  On-Device Use Cases**, `arXiv, 2402.14905`, [arxiv](http://arxiv.org/abs/2402.14905v1), [pdf](http://arxiv.org/pdf/2402.14905v1.pdf), cication: [**-1**](None)
+
+	 *Zechun Liu, Changsheng Zhao, Forrest Iandola, Chen Lai, Yuandong Tian, Igor Fedorov, Yunyang Xiong, Ernie Chang, Yangyang Shi, Raghuraman Krishnamoorthi*
 - **MobileVLM : A Fast, Reproducible and Strong Vision Language Assistant
   for Mobile Devices**, `arXiv, 2312.16886`, [arxiv](http://arxiv.org/abs/2312.16886v1), [pdf](http://arxiv.org/pdf/2312.16886v1.pdf), cication: [**-1**](None)
 

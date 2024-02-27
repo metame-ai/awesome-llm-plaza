@@ -182,6 +182,7 @@
 	 *Greg Serapio-García, Mustafa Safdari, Clément Crepy, Luning Sun, Stephen Fitz, Peter Romero, Marwa Abdulhai, Aleksandra Faust, Maja Matarić*
 
 ## World Model
+- [Paper page - Genie: Generative Interactive Environments](https://huggingface.co/papers/2402.15391)
 - **Diffusion World Model**, `arXiv, 2402.03570`, [arxiv](http://arxiv.org/abs/2402.03570v1), [pdf](http://arxiv.org/pdf/2402.03570v1.pdf), cication: [**-1**](None)
 
 	 *Zihan Ding, Amy Zhang, Yuandong Tian, Qinqing Zheng*
@@ -198,20 +199,6 @@
 
 - [what a world model is](https://twitter.com/ylecun/status/1759933365241921817)
 - [OpenAI「登月计划」剑指超级AI！LeCun提出AGI之路七阶段，打造世界模型是首位](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652419855&idx=3&sn=a5f20e0a0061c01e1ec87d4a81c23e68)
-## Red teaming (safety)
-- **MART: Improving LLM Safety with Multi-round Automatic Red-Teaming**, `arXiv, 2311.07689`, [arxiv](http://arxiv.org/abs/2311.07689v1), [pdf](http://arxiv.org/pdf/2311.07689v1.pdf), cication: [**-1**](None)
-
-	 *Suyu Ge, Chunting Zhou, Rui Hou, Madian Khabsa, Yi-Chia Wang, Qifan Wang, Jiawei Han, Yuning Mao*
-- **Moral Foundations of Large Language Models**, `arXiv, 2310.15337`, [arxiv](http://arxiv.org/abs/2310.15337v1), [pdf](http://arxiv.org/pdf/2310.15337v1.pdf), cication: [**7**](https://scholar.google.com/scholar?cites=2033876937451648547&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
-
-	 *Marwa Abdulhai, Gregory Serapio-Garcia, Clément Crepy, Daria Valter, John Canny, Natasha Jaques*
-- **FLIRT: Feedback Loop In-context Red Teaming**, `arXiv, 2308.04265`, [arxiv](http://arxiv.org/abs/2308.04265v1), [pdf](http://arxiv.org/pdf/2308.04265v1.pdf), cication: [**3**](https://scholar.google.com/scholar?cites=3679628265599247085&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
-
-	 *Ninareh Mehrabi, Palash Goyal, Christophe Dupuy, Qian Hu, Shalini Ghosh, Richard Zemel, Kai-Wei Chang, Aram Galstyan, Rahul Gupta*
-- **Explore, Establish, Exploit: Red Teaming Language Models from Scratch**, `arXiv, 2306.09442`, [arxiv](http://arxiv.org/abs/2306.09442v3), [pdf](http://arxiv.org/pdf/2306.09442v3.pdf), cication: [**16**](https://scholar.google.com/scholar?cites=17596552078024127407&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
-
-	 *Stephen Casper, Jason Lin, Joe Kwon, Gatlen Culp, Dylan Hadfield-Menell*
-
 ## Forecasting
 - **Lag-Llama: Towards Foundation Models for Probabilistic Time Series
   Forecasting**, `arXiv, 2310.08278`, [arxiv](http://arxiv.org/abs/2310.08278v3), [pdf](http://arxiv.org/pdf/2310.08278v3.pdf), cication: [**11**](https://scholar.google.com/scholar?cites=8753400217691232559&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
@@ -233,6 +220,7 @@
 	 *Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers*
 
 ## State Space Model
+- [Mamba: The Easy Way](https://jackcook.com/2024/02/23/mamba.html)
 - **Can Mamba Learn How to Learn? A Comparative Study on In-Context Learning
   Tasks**, `arXiv, 2402.04248`, [arxiv](http://arxiv.org/abs/2402.04248v1), [pdf](http://arxiv.org/pdf/2402.04248v1.pdf), cication: [**-1**](None)
 
@@ -297,6 +285,7 @@
 	 *John Hewitt, John Thickstun, Christopher D. Manning, Percy Liang* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-06-25-5)) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI1MjQ2OTQ3Ng==&mid=2247608689&idx=2&sn=ed29c1ee1f571f98b191805472feb79a))
 
 ## LLM detection
+- [AI Watermarking 101: Tools and Techniques](https://huggingface.co/blog/watermarking)
 - **Watermarking Makes Language Models Radioactive**, `arXiv, 2402.14904`, [arxiv](http://arxiv.org/abs/2402.14904v1), [pdf](http://arxiv.org/pdf/2402.14904v1.pdf), cication: [**-1**](None)
 
 	 *Tom Sander, Pierre Fernandez, Alain Durmus, Matthijs Douze, Teddy Furon*
@@ -530,6 +519,7 @@
 - [MIT新研究：打工人不用担心被AI淘汰！成本巨贵，视觉工作只有23%可替代](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652436863&idx=3&sn=cd329df965557870646c7dd6fcb460cc)
 
 ## Course & Tutorial
+- [**cookbook**](https://huggingface.co/learn/cookbook/index) - learn 🤗
 - [GPT in 60 Lines of NumPy | Jay Mody](https://jaykmody.com/blog/gpt-from-scratch/)
 - [Stanford CS25 - Transformers United - YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)
 - [Let's build the GPT Tokenizer - YouTube](https://youtu.be/zduSFxRajkE)

@@ -25,6 +25,10 @@
 	 *Jiankai Sun, Chuanyang Zheng, Enze Xie, Zhengying Liu, Ruihang Chu, Jianing Qiu, Jiaqi Xu, Mingyu Ding, Hongyang Li, Mengzhe Geng* · ([Awesome-Reasoning-Foundation-Models](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models) - reasoning-survey) ![Star](https://img.shields.io/github/stars/reasoning-survey/Awesome-Reasoning-Foundation-Models.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652421688&idx=3&sn=fcdc24edc7bc89ebcbcca0f7665e40f6))
 
 ## Reasoning
+- [Fetching Title#0v5k](https://arxiv.org/abs/2402.16837)
+- **Premise Order Matters in Reasoning with Large Language Models**, `arXiv, 2402.08939`, [arxiv](http://arxiv.org/abs/2402.08939v1), [pdf](http://arxiv.org/pdf/2402.08939v1.pdf), cication: [**-1**](None)
+
+	 *Xinyun Chen, Ryan A. Chi, Xuezhi Wang, Denny Zhou* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652447872&idx=2&sn=183f861667efc607df5a7450e56f17e9))
 - **Same Task, More Tokens: the Impact of Input Length on the Reasoning
   Performance of Large Language Models**, `arXiv, 2402.14848`, [arxiv](http://arxiv.org/abs/2402.14848v1), [pdf](http://arxiv.org/pdf/2402.14848v1.pdf), cication: [**-1**](None)
 
@@ -640,7 +644,8 @@ jj
 ### Other
 - [大模型Fewshot推理如何选择更好的示例](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495177&idx=2&sn=fe8353efed16a81e35462be06d5a6cea&poc_token=HE6fdWWjA3UlhR8UcCAzGYGsTFLzGAxqYc3EV_8T)
 
-## Knowledge graph 
+## Knowledge
+- [[2402.16671] StructLM: Towards Building Generalist Models for Structured Knowledge Grounding](https://arxiv.org/abs/2402.16671)
 - **Think-on-Graph: Deep and Responsible Reasoning of Large Language Model
   on Knowledge Graph**, `arXiv, 2307.07697`, [arxiv](http://arxiv.org/abs/2307.07697v5), [pdf](http://arxiv.org/pdf/2307.07697v5.pdf), cication: [**9**](https://scholar.google.com/scholar?cites=17400716338910902015&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
