@@ -645,7 +645,10 @@ jj
 - [大模型Fewshot推理如何选择更好的示例](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495177&idx=2&sn=fe8353efed16a81e35462be06d5a6cea&poc_token=HE6fdWWjA3UlhR8UcCAzGYGsTFLzGAxqYc3EV_8T)
 
 ## Knowledge
-- [[2402.16671] StructLM: Towards Building Generalist Models for Structured Knowledge Grounding](https://arxiv.org/abs/2402.16671)
+- **StructLM: Towards Building Generalist Models for Structured Knowledge
+  Grounding**, `arXiv, 2402.16671`, [arxiv](http://arxiv.org/abs/2402.16671v1), [pdf](http://arxiv.org/pdf/2402.16671v1.pdf), cication: [**-1**](None)
+
+	 *Alex Zhuang, Ge Zhang, Tianyu Zheng, Xinrun Du, Junjie Wang, Weiming Ren, Stephen W. Huang, Jie Fu, Xiang Yue, Wenhu Chen*
 - **Think-on-Graph: Deep and Responsible Reasoning of Large Language Model
   on Knowledge Graph**, `arXiv, 2307.07697`, [arxiv](http://arxiv.org/abs/2307.07697v5), [pdf](http://arxiv.org/pdf/2307.07697v5.pdf), cication: [**9**](https://scholar.google.com/scholar?cites=17400716338910902015&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 

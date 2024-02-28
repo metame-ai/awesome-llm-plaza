@@ -27,6 +27,9 @@
 	- [Extra reference](#extra-reference)
 
 ## Survey
+- **A Survey of Large Language Models in Cybersecurity**, `arXiv, 2402.16968`, [arxiv](http://arxiv.org/abs/2402.16968v1), [pdf](http://arxiv.org/pdf/2402.16968v1.pdf), cication: [**-1**](None)
+
+	 *Gabriel de Jesus Coelho da Silva, Carlos Becker Westphall*
 - **Large Language Models for Data Annotation: A Survey**, `arXiv, 2402.13446`, [arxiv](http://arxiv.org/abs/2402.13446v1), [pdf](http://arxiv.org/pdf/2402.13446v1.pdf), cication: [**-1**](None)
 
 	 *Zhen Tan, Alimohammad Beigi, Song Wang, Ruocheng Guo, Amrita Bhattacharjee, Bohan Jiang, Mansooreh Karami, Jundong Li, Lu Cheng, Huan Liu*
@@ -516,6 +519,7 @@
 
 
 ## Impacts
+- [On the Societal Impact of Open Foundation Models](https://crfm.stanford.edu/open-fms/)
 - [MIT新研究：打工人不用担心被AI淘汰！成本巨贵，视觉工作只有23%可替代](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652436863&idx=3&sn=cd329df965557870646c7dd6fcb460cc)
 
 ## Course & Tutorial

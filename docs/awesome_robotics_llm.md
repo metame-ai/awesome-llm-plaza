@@ -7,6 +7,9 @@
 	- [Reference](#reference)
 
 ## Papers
+- **Empowering Large Language Model Agents through Action Learning**, `arXiv, 2402.15809`, [arxiv](http://arxiv.org/abs/2402.15809v1), [pdf](http://arxiv.org/pdf/2402.15809v1.pdf), cication: [**-1**](None)
+
+	 *Haiteng Zhao, Chang Ma, Guoyin Wang, Jing Su, Lingpeng Kong, Jingjing Xu, Zhi-Hong Deng, Hongxia Yang*
 - **Learning to Learn Faster from Human Feedback with Language Model
   Predictive Control**, `arXiv, 2402.11450`, [arxiv](http://arxiv.org/abs/2402.11450v1), [pdf](http://arxiv.org/pdf/2402.11450v1.pdf), cication: [**-1**](None)
 

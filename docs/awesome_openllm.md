@@ -121,6 +121,7 @@
 	 *lightweight, standalone C++ inference engine for Google's Gemma models.*
 - [**gemma-peft**](https://huggingface.co/blog/gemma-peft) -  🤗
 - [Understanding, Using, and Finetuning Gemma - a Lightning Studio by sebastian](https://lightning.ai/lightning-ai/studios/understanding-using-and-finetuning-gemma)
+- [**gemma-7b-dolly-chatml**](https://huggingface.co/philschmid/gemma-7b-dolly-chatml) - philschmid 🤗
 
 ### OLMo
 - **OLMo: Accelerating the Science of Language Models**, `arXiv, 2402.00838`, [arxiv](http://arxiv.org/abs/2402.00838v1), [pdf](http://arxiv.org/pdf/2402.00838v1.pdf), cication: [**-1**](None)
@@ -460,7 +461,9 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s/Lf70i8M0KNDs9ZB8H32h4w))
 
 # Extra
-- [[2402.16819] Nemotron-4 15B Technical Report](https://arxiv.org/abs/2402.16819)
+- **Nemotron-4 15B Technical Report**, `arXiv, 2402.16819`, [arxiv](http://arxiv.org/abs/2402.16819v2), [pdf](http://arxiv.org/pdf/2402.16819v2.pdf), cication: [**-1**](None)
+
+	 *Jupinder Parmar, Shrimai Prabhumoye, Joseph Jennings, Mostofa Patwary, Sandeep Subramanian, Dan Su, Chen Zhu, Deepak Narayanan, Aastha Jhunjhunwala, Ayush Dattagupta*
 - **Aya Model: An Instruction Finetuned Open-Access Multilingual Language
   Model**, `arXiv, 2402.07827`, [arxiv](http://arxiv.org/abs/2402.07827v1), [pdf](http://arxiv.org/pdf/2402.07827v1.pdf), cication: [**-1**](None)
 

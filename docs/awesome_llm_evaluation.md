@@ -28,6 +28,9 @@
 	 *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang*
 
 ## Papers
+- **Evaluating Very Long-Term Conversational Memory of LLM Agents**, `arXiv, 2402.17753`, [arxiv](http://arxiv.org/abs/2402.17753v1), [pdf](http://arxiv.org/pdf/2402.17753v1.pdf), cication: [**-1**](None)
+
+	 *Adyasha Maharana, Dong-Ho Lee, Sergey Tulyakov, Mohit Bansal, Francesco Barbieri, Yuwei Fang*
 - **CIF-Bench: A Chinese Instruction-Following Benchmark for Evaluating the
   Generalizability of Large Language Models**, `arXiv, 2402.13109`, [arxiv](http://arxiv.org/abs/2402.13109v1), [pdf](http://arxiv.org/pdf/2402.13109v1.pdf), cication: [**-1**](None)
 
@@ -375,6 +378,9 @@
 	 *Lianmin Zheng, Wei-Lin Chiang, Ying Sheng, Siyuan Zhuang, Zhanghao Wu, Yonghao Zhuang, Zi Lin, Zhuohan Li, Dacheng Li, Eric. P Xing*
 
 ## Projects
+- [**gorilla**](https://github.com/ShishirPatil/gorilla) - ShishirPatil ![Star](https://img.shields.io/github/stars/ShishirPatil/gorilla.svg?style=social&label=Star)
+
+	 *Gorilla: An API store for LLMs* · ([gorilla.cs.berkeley](https://gorilla.cs.berkeley.edu/leaderboard.html))
 - [**URIAL-Bench**](https://huggingface.co/spaces/re-align/URIAL-Bench) - re-align 🤗
 - [**NPHardEval-leaderboard**](https://huggingface.co/spaces/NPHardEval/NPHardEval-leaderboard) - NPHardEval 🤗
 
@@ -437,3 +443,4 @@
 - [**awesome-llms-evaluation-papers**](https://github.com/tjunlp-lab/awesome-llms-evaluation-papers) - tjunlp-lab ![Star](https://img.shields.io/github/stars/tjunlp-lab/awesome-llms-evaluation-papers.svg?style=social&label=Star)
 
 	 *The papers are organized according to our survey: Evaluating Large Language Models: A Comprehensive Survey.* · [jiqizhixin](https://www.jiqizhixin.com/articles/2023-11-06)]
+	

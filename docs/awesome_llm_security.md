@@ -16,7 +16,9 @@
 - [**Adversarial Attacks on LLMs | Lil'Log**](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/)
 
 ## Red teaming
-- [[2402.16822] Rainbow Teaming: Open-Ended Generation of Diverse Adversarial Prompts](https://arxiv.org/abs/2402.16822)
+- **Rainbow Teaming: Open-Ended Generation of Diverse Adversarial Prompts**, `arXiv, 2402.16822`, [arxiv](http://arxiv.org/abs/2402.16822v1), [pdf](http://arxiv.org/pdf/2402.16822v1.pdf), cication: [**-1**](None)
+
+	 *Mikayel Samvelyan, Sharath Chandra Raparthy, Andrei Lupu, Eric Hambro, Aram H. Markosyan, Manish Bhatt, Yuning Mao, Minqi Jiang, Jack Parker-Holder, Jakob Foerster*
 - **MART: Improving LLM Safety with Multi-round Automatic Red-Teaming**, `arXiv, 2311.07689`, [arxiv](http://arxiv.org/abs/2311.07689v1), [pdf](http://arxiv.org/pdf/2311.07689v1.pdf), cication: [**-1**](None)
 
 	 *Suyu Ge, Chunting Zhou, Rui Hou, Madian Khabsa, Yi-Chia Wang, Qifan Wang, Jiawei Han, Yuning Mao*
@@ -158,6 +160,9 @@
 
 	 *Kaijie Zhu, Jindong Wang, Jiaheng Zhou, Zichen Wang, Hao Chen, Yidong Wang, Linyi Yang, Wei Ye, Yue Zhang, Neil Zhenqiang Gong*
 ## Projects
+- [**PyRIT**](https://github.com/Azure/PyRIT) - Azure ![Star](https://img.shields.io/github/stars/Azure/PyRIT.svg?style=social&label=Star)
+
+	 *The Python Risk Identification Tool for generative AI (PyRIT) is an open access automation framework to empower security professionals and machine learning engineers to proactively find risks in their generative AI systems.*
 - [**ai-exploits**](https://github.com/protectai/ai-exploits) - protectai ![Star](https://img.shields.io/github/stars/protectai/ai-exploits.svg?style=social&label=Star)
 
 	 *A collection of real world AI/ML exploits for responsibly disclosed vulnerabilities*

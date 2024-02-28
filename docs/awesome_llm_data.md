@@ -14,6 +14,9 @@
 
 
 ## Survey
+- **A Survey on Data Selection for Language Models**, `arXiv, 2402.16827`, [arxiv](http://arxiv.org/abs/2402.16827v1), [pdf](http://arxiv.org/pdf/2402.16827v1.pdf), cication: [**-1**](None)
+
+	 *Alon Albalak, Yanai Elazar, Sang Michael Xie, Shayne Longpre, Nathan Lambert, Xinyi Wang, Niklas Muennighoff, Bairu Hou, Liangming Pan, Haewon Jeong*
 - **Data Management For Large Language Models: A Survey**, `arXiv, 2312.01700`, [arxiv](http://arxiv.org/abs/2312.01700v1), [pdf](http://arxiv.org/pdf/2312.01700v1.pdf), cication: [**-1**](None)
 
 	 *Zige Wang, Wanjun Zhong, Yufei Wang, Qi Zhu, Fei Mi, Baojun Wang, Lifeng Shang, Xin Jiang, Qun Liu*
@@ -71,6 +74,7 @@
 - [**peS2o**](https://huggingface.co/datasets/allenai/peS2o) - allenai 🤗
 
 ### Misc
+- [**10k_prompts_ranked?row=0**](https://huggingface.co/datasets/DIBT/10k_prompts_ranked?row=0) - DIBT 🤗
 - **Aya Dataset: An Open-Access Collection for Multilingual Instruction
   Tuning**, `arXiv, 2402.06619`, [arxiv](http://arxiv.org/abs/2402.06619v1), [pdf](http://arxiv.org/pdf/2402.06619v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=8445225482174528918&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
@@ -264,7 +268,7 @@
 	 *A one-stop data processing system to make data higher-quality, juicier, and more digestible for LLMs! 🍎 🍋 🌽 ➡️ ➡️🍸 🍹 🍷为大语言模型提供更高质量、更丰富、更易”消化“的数据！*
 
 ## Other
-- [Site Unreachable](https://huggingface.co/blog/synthetic-data-save-costs)
+- [Synthetic data: save money, time and carbon with open source](https://huggingface.co/blog/synthetic-data-save-costs)
 - [Thinking about High-Quality Human Data | Lil'Log](https://lilianweng.github.io/posts/2024-02-05-human-data-quality/)
 
 ## Extra reference

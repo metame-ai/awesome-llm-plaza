@@ -151,6 +151,9 @@
 	 *Xunyu Zhu, Jian Li, Yong Liu, Can Ma, Weiping Wang* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-08-26-5))
 
 ### Papers
+- **The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits**, `arXiv, 2402.17764`, [arxiv](http://arxiv.org/abs/2402.17764v1), [pdf](http://arxiv.org/pdf/2402.17764v1.pdf), cication: [**-1**](None)
+
+	 *Shuming Ma, Hongyu Wang, Lingxiao Ma, Lei Wang, Wenhui Wang, Shaohan Huang, Li Dong, Ruiping Wang, Jilong Xue, Furu Wei*
 - **GPTVQ: The Blessing of Dimensionality for LLM Quantization**, `arXiv, 2402.15319`, [arxiv](http://arxiv.org/abs/2402.15319v1), [pdf](http://arxiv.org/pdf/2402.15319v1.pdf), cication: [**-1**](None)
 
 	 *Mart van Baalen, Andrey Kuzmin, Markus Nagel, Peter Couperus, Cedric Bastoul, Eric Mahurin, Tijmen Blankevoort, Paul Whatmough*
@@ -362,6 +365,9 @@
 	 *A simple and effective LLM pruning approach.*
 
 ## Efficient Inference
+- **Think Big, Generate Quick: LLM-to-SLM for Fast Autoregressive Decoding**, `arXiv, 2402.16844`, [arxiv](http://arxiv.org/abs/2402.16844v1), [pdf](http://arxiv.org/pdf/2402.16844v1.pdf), cication: [**-1**](None)
+
+	 *Benjamin Bergner, Andrii Skliar, Amelie Royer, Tijmen Blankevoort, Yuki Asano, Babak Ehteshami Bejnordi*
 - **Ouroboros: Speculative Decoding with Large Model Enhanced Drafting**, `arXiv, 2402.13720`, [arxiv](http://arxiv.org/abs/2402.13720v1), [pdf](http://arxiv.org/pdf/2402.13720v1.pdf), cication: [**-1**](None)
 
 	 *Weilin Zhao, Yuxiang Huang, Xu Han, Chaojun Xiao, Zhiyuan Liu, Maosong Sun* · ([Ouroboros](https://github.com/thunlp/Ouroboros) - thunlp) ![Star](https://img.shields.io/github/stars/thunlp/Ouroboros.svg?style=social&label=Star)
@@ -575,7 +581,9 @@
 - [研究完llama.cpp，我发现手机跑大模型竟这么简单 | 机器之心](https://www.jiqizhixin.com/articles/2023-08-17-8)
 
 ## Mobile
-- [[2402.16840] MobiLlama: Towards Accurate and Lightweight Fully Transparent GPT](https://arxiv.org/abs/2402.16840)
+- **MobiLlama: Towards Accurate and Lightweight Fully Transparent GPT**, `arXiv, 2402.16840`, [arxiv](http://arxiv.org/abs/2402.16840v1), [pdf](http://arxiv.org/pdf/2402.16840v1.pdf), cication: [**-1**](None)
+
+	 *Omkar Thawakar, Ashmal Vayani, Salman Khan, Hisham Cholakal, Rao M. Anwer, Michael Felsberg, Tim Baldwin, Eric P. Xing, Fahad Shahbaz Khan*
 
 	 · ([MobiLlama](https://github.com/mbzuai-oryx/MobiLlama) - mbzuai-oryx) ![Star](https://img.shields.io/github/stars/mbzuai-oryx/MobiLlama.svg?style=social&label=Star)
 - **MobileLLM: Optimizing Sub-billion Parameter Language Models for
@@ -592,6 +600,9 @@
 	 *Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-05-04)) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-06-05-2))
 
 ## Toolkits
+- [**GPTFast**](https://github.com/MDK8888/GPTFast) - MDK8888 ![Star](https://img.shields.io/github/stars/MDK8888/GPTFast.svg?style=social&label=Star)
+
+	 *Accelerate your Hugging Face Transformers 6-7x. Native to Hugging Face and PyTorch.*
 - [**vllm**](https://github.com/vllm-project/vllm/pull/1804) - vllm-project ![Star](https://img.shields.io/github/stars/vllm-project/vllm.svg?style=social&label=Star)
 - [**lorax**](https://github.com/predibase/lorax) - predibase ![Star](https://img.shields.io/github/stars/predibase/lorax.svg?style=social&label=Star)
 

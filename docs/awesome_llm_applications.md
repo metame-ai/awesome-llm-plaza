@@ -106,6 +106,14 @@
 	 *A ChatGPT plugin that allows you to load and edit your local files in a controlled way, as well as run any Python, JavaScript, and bash script.*
 
 ## Writing
+- **Creating Suspenseful Stories: Iterative Planning with Large Language
+  Models**, `arXiv, 2402.17119`, [arxiv](http://arxiv.org/abs/2402.17119v1), [pdf](http://arxiv.org/pdf/2402.17119v1.pdf), cication: [**-1**](None)
+
+	 *Kaige Xie, Mark Riedl*
+- **Assisting in Writing Wikipedia-like Articles From Scratch with Large
+  Language Models**, `arXiv, 2402.14207`, [arxiv](http://arxiv.org/abs/2402.14207v1), [pdf](http://arxiv.org/pdf/2402.14207v1.pdf), cication: [**-1**](None)
+
+	 *Yijia Shao, Yucheng Jiang, Theodore A. Kanell, Peter Xu, Omar Khattab, Monica S. Lam*
 - **GhostWriter: Augmenting Collaborative Human-AI Writing Experiences
   Through Personalization and Agency**, `arXiv, 2402.08855`, [arxiv](http://arxiv.org/abs/2402.08855v1), [pdf](http://arxiv.org/pdf/2402.08855v1.pdf), cication: [**-1**](None)
 
@@ -473,6 +481,9 @@
 - [小扎发布虚拟聊天AI，竟「1:1复刻」Character.AI？用户吐槽：设定太老土了](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652382135&idx=3&sn=b7e8ff8f375772a1bf71989d8e2f4565)
 
 ## Law
+- [**MoZi**](https://github.com/AI-for-Science/MoZi) - AI-for-Science ![Star](https://img.shields.io/github/stars/AI-for-Science/MoZi.svg?style=social&label=Star)
+
+	 *首个全参数训练的知识产权大模型 MoZi (墨子)*
 - [**chatlaw**](https://github.com/pku-yuangroup/chatlaw) - pku-yuangroup ![Star](https://img.shields.io/github/stars/pku-yuangroup/chatlaw.svg?style=social&label=Star)
 
 	 *中文法律大模型*
@@ -500,6 +511,9 @@
 	 *Patrick Fernandes, Daniel Deutsch, Mara Finkelstein, Parker Riley, André F. T. Martins, Graham Neubig, Ankush Garg, Jonathan H. Clark, Markus Freitag, Orhan Firat*
 
 ## Audio
+- [[2402.15151] Where Visual Speech Meets Language: VSP-LLM Framework for Efficient and Context-Aware Visual Speech Processing](https://arxiv.org/abs/2402.15151)
+
+	 · ([vsp-llm](https://github.com/sally-sh/vsp-llm) - sally-sh) ![Star](https://img.shields.io/github/stars/sally-sh/vsp-llm.svg?style=social&label=Star)
 - **Rambler: Supporting Writing With Speech via LLM-Assisted Gist
   Manipulation**, `arXiv, 2401.10838`, [arxiv](http://arxiv.org/abs/2401.10838v1), [pdf](http://arxiv.org/pdf/2401.10838v1.pdf), cication: [**-1**](None)
 
@@ -853,6 +867,7 @@
 	 *An open source AI wearable device that captures what you say and hear in the real world and then transcribes and stores it on your own server. You can then chat with Adeus using the app, and it will have all the right context about what you want to talk about - a truly personalized, personal AI.* · ([qbitai](https://www.qbitai.com/2024/02/120864.html))
 
 ## Products
+- [复盘“哄哄模拟器的复盘”：别错过这6点AI应用思考](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495598&idx=2&sn=37d18450708ff1eb4b6426ac52ccba64)
 - [开源大模型正在重塑企业AI应用，16个案例看看它们如何落地 | 机器之心](https://www.jiqizhixin.com/articles/2024-02-08-9)
 - [这个AI办公应用火了：简短提示词出PPT，打包GPTs帮你打工干活 | 量子位](https://www.qbitai.com/2024/02/121094.html)
 - [万字长文：AI陪伴产品的终极解法?](https://mp.weixin.qq.com/s/WMOhsA6UW37Ov2h4CfIdKg)

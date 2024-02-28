@@ -43,6 +43,10 @@
 - [贫穷让我预训练](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494110&idx=2&sn=52bfbf2d51d1704efc596263bccf23db)
 
 ## Scaling
+- **When Scaling Meets LLM Finetuning: The Effect of Data, Model and
+  Finetuning Method**, `arXiv, 2402.17193`, [arxiv](http://arxiv.org/abs/2402.17193v1), [pdf](http://arxiv.org/pdf/2402.17193v1.pdf), cication: [**-1**](None)
+
+	 *Biao Zhang, Zhongtao Liu, Colin Cherry, Orhan Firat*
 - **MegaScale: Scaling Large Language Model Training to More Than 10,000
   GPUs**, `arXiv, 2402.15627`, [arxiv](http://arxiv.org/abs/2402.15627v1), [pdf](http://arxiv.org/pdf/2402.15627v1.pdf), cication: [**-1**](None)
 
@@ -211,6 +215,9 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652375732&idx=2&sn=1cb4cefcd791af2a6ffacdf99e35225c))
 
 ## Optimization
+- **Towards Optimal Learning of Language Models**, `arXiv, 2402.17759`, [arxiv](http://arxiv.org/abs/2402.17759v1), [pdf](http://arxiv.org/pdf/2402.17759v1.pdf), cication: [**-1**](None)
+
+	 *Yuxian Gu, Li Dong, Yaru Hao, Qingxiu Dong, Minlie Huang, Furu Wei* · ([aka](https://aka.ms/LearningLaw))
 - **Stabilizing Transformer Training by Preventing Attention Entropy
   Collapse**, `ICML, 2023`, [arxiv](http://arxiv.org/abs/2303.06296v2), [pdf](http://arxiv.org/pdf/2303.06296v2.pdf), cication: [**-1**](None)
 

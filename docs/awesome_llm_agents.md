@@ -56,6 +56,8 @@
 - **OS-Copilot: Towards Generalist Computer Agents with Self-Improvement**, `arXiv, 2402.07456`, [arxiv](http://arxiv.org/abs/2402.07456v2), [pdf](http://arxiv.org/pdf/2402.07456v2.pdf), cication: [**-1**](None)
 
 	 *Zhiyong Wu, Chengcheng Han, Zichen Ding, Zhenmin Weng, Zhoumianze Liu, Shunyu Yao, Tao Yu, Lingpeng Kong*
+
+	 · ([FRIDAY](https://github.com/OS-Copilot/FRIDAY) - OS-Copilot) ![Star](https://img.shields.io/github/stars/OS-Copilot/FRIDAY.svg?style=social&label=Star)
 - [At the Intersection of LLMs and Kernels - Research Roundup](https://charlesfrye.github.io/programming/2023/11/10/llms-systems.html)
 - [**llama2.c**](https://github.com/trholding/llama2.c) - trholding ![Star](https://img.shields.io/github/stars/trholding/llama2.c.svg?style=social&label=Star)
 
@@ -440,6 +442,9 @@
 - [AgentGPT](https://agentgpt.reworkd.ai/)
 
 ## Augmented LLM
+- [**gorilla**](https://github.com/ShishirPatil/gorilla) - ShishirPatil ![Star](https://img.shields.io/github/stars/ShishirPatil/gorilla.svg?style=social&label=Star)
+
+	 *Gorilla: An API store for LLMs* · ([gorilla.cs.berkeley](https://gorilla.cs.berkeley.edu/leaderboard.html))
 - **API-BLEND: A Comprehensive Corpora for Training and Benchmarking API
   LLMs**, `arXiv, 2402.15491`, [arxiv](http://arxiv.org/abs/2402.15491v1), [pdf](http://arxiv.org/pdf/2402.15491v1.pdf), cication: [**-1**](None)
 
@@ -505,6 +510,10 @@
 ### Other
 - [陈丹琦ACL学术报告来了！详解大模型「外挂」数据库7大方向3大挑战，3小时干货满满 | 量子位](https://www.qbitai.com/2023/07/67259.html)
 ## Web browsing
+- **OmniACT: A Dataset and Benchmark for Enabling Multimodal Generalist
+  Autonomous Agents for Desktop and Web**, `arXiv, 2402.17553`, [arxiv](http://arxiv.org/abs/2402.17553v1), [pdf](http://arxiv.org/pdf/2402.17553v1.pdf), cication: [**-1**](None)
+
+	 *Raghav Kapoor, Yash Parag Butala, Melisa Russak, Jing Yu Koh, Kiran Kamble, Waseem Alshikh, Ruslan Salakhutdinov*
 - **VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web
   Tasks**, `arXiv, 2401.13649`, [arxiv](http://arxiv.org/abs/2401.13649v1), [pdf](http://arxiv.org/pdf/2401.13649v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=6599905016676901235&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
@@ -701,6 +710,7 @@
 	 *Interact privately with your documents using the power of GPT, 100% privately, no data leaks*
 
 ### Embedding
+- [**echo-embeddings**](https://github.com/jakespringer/echo-embeddings?tab=readme-ov-file) - jakespringer ![Star](https://img.shields.io/github/stars/jakespringer/echo-embeddings.svg?style=social&label=Star)
 - [🪆 Introduction to Matryoshka Embedding Models](https://huggingface.co/blog/matryoshka)
 - **Multilingual E5 Text Embeddings: A Technical Report**, `arXiv, 2402.05672`, [arxiv](http://arxiv.org/abs/2402.05672v1), [pdf](http://arxiv.org/pdf/2402.05672v1.pdf), cication: [**-1**](None)
 
