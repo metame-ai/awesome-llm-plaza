@@ -121,6 +121,8 @@
 	 *lightweight, standalone C++ inference engine for Google's Gemma models.*
 - [**gemma-peft**](https://huggingface.co/blog/gemma-peft) -  🤗
 - [Understanding, Using, and Finetuning Gemma - a Lightning Studio by sebastian](https://lightning.ai/lightning-ai/studios/understanding-using-and-finetuning-gemma)
+
+	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-28-9))
 - [**gemma-7b-dolly-chatml**](https://huggingface.co/philschmid/gemma-7b-dolly-chatml) - philschmid 🤗
 
 ### OLMo
@@ -128,6 +130,7 @@
 
 	 *Dirk Groeneveld, Iz Beltagy, Pete Walsh, Akshita Bhagia, Rodney Kinney, Oyvind Tafjord, Ananya Harsh Jha, Hamish Ivison, Ian Magnusson, Yizhong Wang* · ([OLMo](https://github.com/allenai/OLMo) - allenai) ![Star](https://img.shields.io/github/stars/allenai/OLMo.svg?style=social&label=Star) · ([allenai](https://allenai.org/olmo)) · ([allenai](https://allenai.org/olmo/olmo-paper.pdf))
 - [**OLMo-7B**](https://huggingface.co/allenai/OLMo-7B) - allenai 🤗
+- [**OLMo-7B-Instruct**](https://huggingface.co/allenai/OLMo-7B-Instruct) - allenai 🤗
 
 ### Phi
 - [**phi-2**](https://huggingface.co/microsoft/phi-2) - microsoft 🤗

@@ -719,6 +719,9 @@
 
 	 *Train Models Contrastively in Pytorch* · ([huggingface](https://huggingface.co/nomic-ai/nomic-embed-text-v1)) · ([mp.weixin.qq](https://mp.weixin.qq.com/s/EMWNf9TiDwuxxkwwqsl73g))
 ### Other
+- [[2402.18385] The First Place Solution of WSDM Cup 2024: Leveraging Large Language Models for Conversational Multi-Doc QA](https://arxiv.org/abs/2402.18385)
+
+	 · ([WSDM-Cup-2024](https://github.com/zhangzhao219/WSDM-Cup-2024?tab=readme-ov-file) - zhangzhao219) ![Star](https://img.shields.io/github/stars/zhangzhao219/WSDM-Cup-2024.svg?style=social&label=Star)
 - [**chunk_visualizer**](https://huggingface.co/spaces/m-ric/chunk_visualizer) - m-ric 🤗
 - [Stanford CS25: V3 I Retrieval Augmented Language Models - YouTube](https://youtu.be/mE7IDf2SmJg)
 - [Retrieval Augmented Generation (RAG) for LLMs | Prompt Engineering Guide<!-- -->](https://www.promptingguide.ai/research/rag)

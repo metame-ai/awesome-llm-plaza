@@ -236,9 +236,7 @@
 - **GPT Models Meet Robotic Applications: Co-Speech Gesturing Chat System**, arXiv, 2306.01741, [arxiv](http://arxiv.org/abs/2306.01741v1), [pdf](http://arxiv.org/pdf/2306.01741v1.pdf), cication: [**-1**](None)
 
 	 *Naoki Wake, Atsushi Kanehira, Kazuhiro Sasabuchi, Jun Takamatsu, Katsushi Ikeuchi*
-- **Reflexion: Language Agents with Verbal Reinforcement Learning**, `arXiv, 2303.11366`, [arxiv](http://arxiv.org/abs/2303.11366v4), [pdf](http://arxiv.org/pdf/2303.11366v4.pdf), cication: [**110**](https://scholar.google.com/scholar?cites=5851912057675548738&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
-	 *Noah Shinn, Federico Cassano, Edward Berman, Ashwin Gopinath, Karthik Narasimhan, Shunyu Yao*
 - **ReAct: Synergizing Reasoning and Acting in Language Models**, `arXiv, 2210.03629`, [arxiv](http://arxiv.org/abs/2210.03629v3), [pdf](http://arxiv.org/pdf/2210.03629v3.pdf), cication: [**293**](https://scholar.google.com/scholar?cites=15164492138064021676&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao*

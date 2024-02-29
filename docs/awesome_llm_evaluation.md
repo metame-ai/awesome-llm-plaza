@@ -28,6 +28,9 @@
 	 *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang*
 
 ## Papers
+- **Evaluating Quantized Large Language Models**, `arXiv, 2402.18158`, [arxiv](http://arxiv.org/abs/2402.18158v1), [pdf](http://arxiv.org/pdf/2402.18158v1.pdf), cication: [**-1**](None)
+
+	 *Shiyao Li, Xuefei Ning, Luning Wang, Tengxuan Liu, Xiangsheng Shi, Shengen Yan, Guohao Dai, Huazhong Yang, Yu Wang*
 - **Evaluating Very Long-Term Conversational Memory of LLM Agents**, `arXiv, 2402.17753`, [arxiv](http://arxiv.org/abs/2402.17753v1), [pdf](http://arxiv.org/pdf/2402.17753v1.pdf), cication: [**-1**](None)
 
 	 *Adyasha Maharana, Dong-Ho Lee, Sergey Tulyakov, Mohit Bansal, Francesco Barbieri, Yuwei Fang*

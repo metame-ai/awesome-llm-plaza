@@ -14,6 +14,9 @@
 
 
 ## Survey
+- [[2402.18041] Datasets for Large Language Models: A Comprehensive Survey](https://arxiv.org/abs/2402.18041)
+
+	 · ([Awesome-LLMs-Datasets](https://github.com/lmmlzn/Awesome-LLMs-Datasets) - lmmlzn) ![Star](https://img.shields.io/github/stars/lmmlzn/Awesome-LLMs-Datasets.svg?style=social&label=Star)
 - **A Survey on Data Selection for Language Models**, `arXiv, 2402.16827`, [arxiv](http://arxiv.org/abs/2402.16827v1), [pdf](http://arxiv.org/pdf/2402.16827v1.pdf), cication: [**-1**](None)
 
 	 *Alon Albalak, Yanai Elazar, Sang Michael Xie, Shayne Longpre, Nathan Lambert, Xinyi Wang, Niklas Muennighoff, Bairu Hou, Liangming Pan, Haewon Jeong*
@@ -272,6 +275,9 @@
 - [Thinking about High-Quality Human Data | Lil'Log](https://lilianweng.github.io/posts/2024-02-05-human-data-quality/)
 
 ## Extra reference
+- [**Awesome-LLMs-Datasets**](https://github.com/lmmlzn/Awesome-LLMs-Datasets) - lmmlzn ![Star](https://img.shields.io/github/stars/lmmlzn/Awesome-LLMs-Datasets.svg?style=social&label=Star)
+
+	 *Summarize existing representative LLMs text datasets.*
 - [**awesome-instruction-datasets**](https://github.com/jianzhnie/awesome-instruction-datasets) - jianzhnie ![Star](https://img.shields.io/github/stars/jianzhnie/awesome-instruction-datasets.svg?style=social&label=Star)
 
 	 *A collection of awesome-prompt-datasets, awesome-instruction-dataset, to train ChatLLM such as chatgpt 收录各种各样的指令数据集, 用于训练 ChatLLM 模型。*

@@ -25,6 +25,10 @@
 	 *Jiankai Sun, Chuanyang Zheng, Enze Xie, Zhengying Liu, Ruihang Chu, Jianing Qiu, Jiaqi Xu, Mingyu Ding, Hongyang Li, Mengzhe Geng* · ([Awesome-Reasoning-Foundation-Models](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models) - reasoning-survey) ![Star](https://img.shields.io/github/stars/reasoning-survey/Awesome-Reasoning-Foundation-Models.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652421688&idx=3&sn=fcdc24edc7bc89ebcbcca0f7665e40f6))
 
 ## Reasoning
+- **Beyond Natural Language: LLMs Leveraging Alternative Formats for
+  Enhanced Reasoning and Communication**, `arXiv, 2402.18439`, [arxiv](http://arxiv.org/abs/2402.18439v1), [pdf](http://arxiv.org/pdf/2402.18439v1.pdf), cication: [**-1**](None)
+
+	 *Weize Chen, Chenfei Yuan, Jiarui Yuan, Yusheng Su, Chen Qian, Cheng Yang, Ruobing Xie, Zhiyuan Liu, Maosong Sun* · ([AutoForm](https://github.com/thunlp/AutoForm) - thunlp) ![Star](https://img.shields.io/github/stars/thunlp/AutoForm.svg?style=social&label=Star)
 - [Fetching Title#0v5k](https://arxiv.org/abs/2402.16837)
 - **Premise Order Matters in Reasoning with Large Language Models**, `arXiv, 2402.08939`, [arxiv](http://arxiv.org/abs/2402.08939v1), [pdf](http://arxiv.org/pdf/2402.08939v1.pdf), cication: [**-1**](None)
 
@@ -324,6 +328,11 @@ jj
   Prompting**, `arXiv, 2304.11490`, [arxiv](http://arxiv.org/abs/2304.11490v3), [pdf](http://arxiv.org/pdf/2304.11490v3.pdf), cication: [**9**](https://scholar.google.com/scholar?cites=8440877199679501480&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Shima Rahimi Moghaddam, Christopher J. Honey*
+- **Reflexion: Language Agents with Verbal Reinforcement Learning**, `arXiv, 2303.11366`, [arxiv](http://arxiv.org/abs/2303.11366v4), [pdf](http://arxiv.org/pdf/2303.11366v4.pdf), cication: [**110**](https://scholar.google.com/scholar?cites=5851912057675548738&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Noah Shinn, Federico Cassano, Edward Berman, Ashwin Gopinath, Karthik Narasimhan, Shunyu Yao*
+
+	 · ([promptingguide](https://www.promptingguide.ai/techniques/reflexion))
 - **Large Language Models Are Reasoning Teachers**, `arXiv, 2212.10071`, [arxiv](http://arxiv.org/abs/2212.10071v2), [pdf](http://arxiv.org/pdf/2212.10071v2.pdf), cication: [**59**](https://scholar.google.com/scholar?cites=6306842148145703485&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Namgyu Ho, Laura Schmid, Se-Young Yun* · ([reasoning-teacher](https://github.com/itsnamgyu/reasoning-teacher) - itsnamgyu) ![Star](https://img.shields.io/github/stars/itsnamgyu/reasoning-teacher.svg?style=social&label=Star)

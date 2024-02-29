@@ -16,6 +16,9 @@
 	 *Ziyin Zhang, Chaoyu Chen, Bingchang Liu, Cong Liao, Zi Gong, Hang Yu, Jianguo Li, Rui Wang*
 
 ## Paper
+- [StarCoder 2 and The Stack v2: The Next Generation](https://drive.google.com/file/d/17iGn3c-sYNiLyRSY-A85QOzgzGnGiVI3/view)
+
+	 · ([starcoder2](https://github.com/bigcode-project/starcoder2) - bigcode-project) ![Star](https://img.shields.io/github/stars/bigcode-project/starcoder2.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/blog/starcoder2))
 - **Copilot Evaluation Harness: Evaluating LLM-Guided Software Programming**, `arXiv, 2402.14261`, [arxiv](http://arxiv.org/abs/2402.14261v1), [pdf](http://arxiv.org/pdf/2402.14261v1.pdf), cication: [**-1**](None)
 
 	 *Anisha Agarwal, Aaron Chan, Shubham Chandel, Jinu Jang, Shaun Miller, Roshanak Zilouchian Moghaddam, Yevhen Mohylevskyy, Neel Sundaresan, Michele Tufano*
@@ -213,6 +216,7 @@
 	 · [intercode-benchmark.github](https://intercode-benchmark.github.io/)
 
 ## Projects
+
 - [**oss-fuzz-gen**](https://github.com/google/oss-fuzz-gen) - google ![Star](https://img.shields.io/github/stars/google/oss-fuzz-gen.svg?style=social&label=Star)
 
 	 *LLM powered fuzzing via OSS-Fuzz.*

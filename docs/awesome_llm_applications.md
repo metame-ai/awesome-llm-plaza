@@ -372,6 +372,10 @@
 	 *Chongming Gao, Wenqiang Lei, Xiangnan He, Maarten de Rijke, Tat-Seng Chua* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495345&idx=2&sn=5e3ac087c792081705dde1c2542c687a))
 
 ## Role play
+- **Human Simulacra: A Step toward the Personification of Large Language
+  Models**, `arXiv, 2402.18180`, [arxiv](http://arxiv.org/abs/2402.18180v1), [pdf](http://arxiv.org/pdf/2402.18180v1.pdf), cication: [**-1**](None)
+
+	 *Qiuejie Xie, Qiming Feng, Tianqi Zhang, Qingqiu Li, Yuejie Zhang, Rui Feng, Shang Gao*
 - **Large Language Models are Superpositions of All Characters: Attaining
   Arbitrary Role-play via Self-Alignment**, `arXiv, 2401.12474`, [arxiv](http://arxiv.org/abs/2401.12474v1), [pdf](http://arxiv.org/pdf/2401.12474v1.pdf), cication: [**-1**](None)
 
@@ -511,7 +515,10 @@
 	 *Patrick Fernandes, Daniel Deutsch, Mara Finkelstein, Parker Riley, André F. T. Martins, Graham Neubig, Ankush Garg, Jonathan H. Clark, Markus Freitag, Orhan Firat*
 
 ## Audio
-- [[2402.15151] Where Visual Speech Meets Language: VSP-LLM Framework for Efficient and Context-Aware Visual Speech Processing](https://arxiv.org/abs/2402.15151)
+- **Where Visual Speech Meets Language: VSP-LLM Framework for Efficient and
+  Context-Aware Visual Speech Processing**, `arXiv, 2402.15151`, [arxiv](http://arxiv.org/abs/2402.15151v1), [pdf](http://arxiv.org/pdf/2402.15151v1.pdf), cication: [**-1**](None)
+
+	 *Jeong Hun Yeo, Seunghee Han, Minsu Kim, Yong Man Ro*
 
 	 · ([vsp-llm](https://github.com/sally-sh/vsp-llm) - sally-sh) ![Star](https://img.shields.io/github/stars/sally-sh/vsp-llm.svg?style=social&label=Star)
 - **Rambler: Supporting Writing With Speech via LLM-Assisted Gist
