@@ -29,7 +29,9 @@
   Enhanced Reasoning and Communication**, `arXiv, 2402.18439`, [arxiv](http://arxiv.org/abs/2402.18439v1), [pdf](http://arxiv.org/pdf/2402.18439v1.pdf), cication: [**-1**](None)
 
 	 *Weize Chen, Chenfei Yuan, Jiarui Yuan, Yusheng Su, Chen Qian, Cheng Yang, Ruobing Xie, Zhiyuan Liu, Maosong Sun* · ([AutoForm](https://github.com/thunlp/AutoForm) - thunlp) ![Star](https://img.shields.io/github/stars/thunlp/AutoForm.svg?style=social&label=Star)
-- [Fetching Title#0v5k](https://arxiv.org/abs/2402.16837)
+- **Do Large Language Models Latently Perform Multi-Hop Reasoning?**, `arXiv, 2402.16837`, [arxiv](http://arxiv.org/abs/2402.16837v1), [pdf](http://arxiv.org/pdf/2402.16837v1.pdf), cication: [**-1**](None)
+
+	 *Sohee Yang, Elena Gribovskaya, Nora Kassner, Mor Geva, Sebastian Riedel*
 - **Premise Order Matters in Reasoning with Large Language Models**, `arXiv, 2402.08939`, [arxiv](http://arxiv.org/abs/2402.08939v1), [pdf](http://arxiv.org/pdf/2402.08939v1.pdf), cication: [**-1**](None)
 
 	 *Xinyun Chen, Ryan A. Chi, Xuezhi Wang, Denny Zhou* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652447872&idx=2&sn=183f861667efc607df5a7450e56f17e9))

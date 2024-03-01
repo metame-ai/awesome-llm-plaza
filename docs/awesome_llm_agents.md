@@ -25,6 +25,9 @@
 	- [Extra reference](#extra-reference)
 
 ## Survey
+- **Retrieval-Augmented Generation for AI-Generated Content: A Survey**, `arXiv, 2402.19473`, [arxiv](http://arxiv.org/abs/2402.19473v1), [pdf](http://arxiv.org/pdf/2402.19473v1.pdf), cication: [**-1**](None)
+
+	 *Penghao Zhao, Hailin Zhang, Qinhan Yu, Zhengren Wang, Yunteng Geng, Fangcheng Fu, Ling Yang, Wentao Zhang, Bin Cui* · ([RAG-Survey](https://github.com/hymie122/RAG-Survey) - hymie122) ![Star](https://img.shields.io/github/stars/hymie122/RAG-Survey.svg?style=social&label=Star)
 - **Large Multimodal Agents: A Survey**, `arXiv, 2402.15116`, [arxiv](http://arxiv.org/abs/2402.15116v1), [pdf](http://arxiv.org/pdf/2402.15116v1.pdf), cication: [**-1**](None)
 
 	 *Junlin Xie, Zhihong Chen, Ruifei Zhang, Xiang Wan, Guanbin Li*
@@ -719,7 +722,10 @@
 
 	 *Train Models Contrastively in Pytorch* · ([huggingface](https://huggingface.co/nomic-ai/nomic-embed-text-v1)) · ([mp.weixin.qq](https://mp.weixin.qq.com/s/EMWNf9TiDwuxxkwwqsl73g))
 ### Other
-- [[2402.18385] The First Place Solution of WSDM Cup 2024: Leveraging Large Language Models for Conversational Multi-Doc QA](https://arxiv.org/abs/2402.18385)
+- **The First Place Solution of WSDM Cup 2024: Leveraging Large Language
+  Models for Conversational Multi-Doc QA**, `arXiv, 2402.18385`, [arxiv](http://arxiv.org/abs/2402.18385v1), [pdf](http://arxiv.org/pdf/2402.18385v1.pdf), cication: [**-1**](None)
+
+	 *Yiming Li, Zhao Zhang*
 
 	 · ([WSDM-Cup-2024](https://github.com/zhangzhao219/WSDM-Cup-2024?tab=readme-ov-file) - zhangzhao219) ![Star](https://img.shields.io/github/stars/zhangzhao219/WSDM-Cup-2024.svg?style=social&label=Star)
 - [**chunk_visualizer**](https://huggingface.co/spaces/m-ric/chunk_visualizer) - m-ric 🤗

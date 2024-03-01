@@ -785,6 +785,7 @@
 	 *Haoran Wei, Lingyu Kong, Jinyue Chen, Liang Zhao, Zheng Ge, En Yu, Jianjian Sun, Chunrui Han, Xiangyu Zhang*
 
 ## Extra Modalities 
+- [Paper page - Beyond Language Models: Byte Models are Digital World Simulators](https://huggingface.co/papers/2402.19155)
 - **ChartX & ChartVLM: A Versatile Benchmark and Foundation Model for
   Complicated Chart Reasoning**, `arXiv, 2402.12185`, [arxiv](http://arxiv.org/abs/2402.12185v1), [pdf](http://arxiv.org/pdf/2402.12185v1.pdf), cication: [**-1**](None)
 

@@ -33,6 +33,10 @@
 	 *Stephen Casper, Jason Lin, Joe Kwon, Gatlen Culp, Dylan Hadfield-Menell*
 
 ## Papers
+- **DrAttack: Prompt Decomposition and Reconstruction Makes Powerful LLM
+  Jailbreakers**, `arXiv, 2402.16914`, [arxiv](http://arxiv.org/abs/2402.16914v1), [pdf](http://arxiv.org/pdf/2402.16914v1.pdf), cication: [**-1**](None)
+
+	 *Xirui Li, Ruochen Wang, Minhao Cheng, Tianyi Zhou, Cho-Jui Hsieh* · ([DrAttack](https://github.com/xirui-li/DrAttack) - xirui-li) ![Star](https://img.shields.io/github/stars/xirui-li/DrAttack.svg?style=social&label=Star)
 - **Coercing LLMs to do and reveal (almost) anything**, `arXiv, 2402.14020`, [arxiv](http://arxiv.org/abs/2402.14020v1), [pdf](http://arxiv.org/pdf/2402.14020v1.pdf), cication: [**-1**](None)
 
 	 *Jonas Geiping, Alex Stein, Manli Shu, Khalid Saifullah, Yuxin Wen, Tom Goldstein*

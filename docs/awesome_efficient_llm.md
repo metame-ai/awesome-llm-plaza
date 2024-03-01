@@ -634,6 +634,14 @@
 	 *DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.*
 
 ## Efficient transformer
+- **Simple linear attention language models balance the recall-throughput
+  tradeoff**, `arXiv, 2402.18668`, [arxiv](http://arxiv.org/abs/2402.18668v1), [pdf](http://arxiv.org/pdf/2402.18668v1.pdf), cication: [**-1**](None)
+
+	 *Simran Arora, Sabri Eyuboglu, Michael Zhang, Aman Timalsina, Silas Alberti, Dylan Zinsley, James Zou, Atri Rudra, Christopher Ré*
+- **Griffin: Mixing Gated Linear Recurrences with Local Attention for
+  Efficient Language Models**, `arXiv, 2402.19427`, [arxiv](http://arxiv.org/abs/2402.19427v1), [pdf](http://arxiv.org/pdf/2402.19427v1.pdf), cication: [**-1**](None)
+
+	 *Soham De, Samuel L. Smith, Anushan Fernando, Aleksandar Botev, George Cristian-Muraru, Albert Gu, Ruba Haroun, Leonard Berrada, Yutian Chen, Srivatsan Srinivasan*
 - **ChunkAttention: Efficient Self-Attention with Prefix-Aware KV Cache and
   Two-Phase Partition**, `arXiv, 2402.15220`, [arxiv](http://arxiv.org/abs/2402.15220v1), [pdf](http://arxiv.org/pdf/2402.15220v1.pdf), cication: [**-1**](None)
 

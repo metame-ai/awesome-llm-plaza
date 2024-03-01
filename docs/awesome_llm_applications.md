@@ -269,6 +269,7 @@
 	 *Yunkang Cao, Xiaohao Xu, Chen Sun, Xiaonan Huang, Weiming Shen* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-11-13))
 
 ## Auto driving
+- [[2402.19273] PlanGPT: Enhancing Urban Planning with Tailored Language Model and Efficient Retrieval](https://arxiv.org/abs/2402.19273)
 - **DriveVLM: The Convergence of Autonomous Driving and Large
   Vision-Language Models**, `arXiv, 2402.12289`, [arxiv](http://arxiv.org/abs/2402.12289v1), [pdf](http://arxiv.org/pdf/2402.12289v1.pdf), cication: [**-1**](None)
 
@@ -336,6 +337,10 @@
 	 *Derong Xu, Wei Chen, Wenjun Peng, Chao Zhang, Tong Xu, Xiangyu Zhao, Xian Wu, Yefeng Zheng, Enhong Chen* · ([awesome-llm4ie-papers](https://github.com/quqxui/awesome-llm4ie-papers) - quqxui) ![Star](https://img.shields.io/github/stars/quqxui/awesome-llm4ie-papers.svg?style=social&label=Star)
 
 ## Recommendation
+- **Exploring the Impact of Large Language Models on Recommender Systems: An
+  Extensive Review**, `arXiv, 2402.18590`, [arxiv](http://arxiv.org/abs/2402.18590v1), [pdf](http://arxiv.org/pdf/2402.18590v1.pdf), cication: [**-1**](None)
+
+	 *Arpita Vats, Vinija Jain, Rahul Raja, Aman Chadha*
 - **INTERS: Unlocking the Power of Large Language Models in Search with
   Instruction Tuning**, `arXiv, 2401.06532`, [arxiv](http://arxiv.org/abs/2401.06532v1), [pdf](http://arxiv.org/pdf/2401.06532v1.pdf), cication: [**-1**](None)
 
@@ -604,6 +609,9 @@
 	 *Official repo for LayoutGPT*
 
 ## Science
+- [**evo**](https://github.com/evo-design/evo) - evo-design ![Star](https://img.shields.io/github/stars/evo-design/evo.svg?style=social&label=Star)
+
+	 *DNA foundation modeling from molecular to genome scale* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-03-01-2))
 - **BioMistral: A Collection of Open-Source Pretrained Large Language Models
   for Medical Domains**, `arXiv, 2402.10373`, [arxiv](http://arxiv.org/abs/2402.10373v1), [pdf](http://arxiv.org/pdf/2402.10373v1.pdf), cication: [**-1**](None)
 
@@ -706,6 +714,9 @@
 	 *Tongshuang Wu, Haiyi Zhu, Maya Albayrak, Alexis Axon, Amanda Bertsch, Wenxing Deng, Ziqi Ding, Bill Guo, Sireesh Gururaja, Tzu-Sheng Kuo*
 
 ## Misc
+- **Priority Sampling of Large Language Models for Compilers**, `arXiv, 2402.18734`, [arxiv](http://arxiv.org/abs/2402.18734v1), [pdf](http://arxiv.org/pdf/2402.18734v1.pdf), cication: [**-1**](None)
+
+	 *Dejan Grubisic, Chris Cummins, Volker Seeker, Hugh Leather*
 - **OmniPred: Language Models as Universal Regressors**, `arXiv, 2402.14547`, [arxiv](http://arxiv.org/abs/2402.14547v1), [pdf](http://arxiv.org/pdf/2402.14547v1.pdf), cication: [**-1**](None)
 
 	 *Xingyou Song, Oscar Li, Chansoo Lee, Bangding, Yang, Daiyi Peng, Sagi Perel, Yutian Chen*

@@ -14,7 +14,12 @@
 
 
 ## Survey
-- [[2402.18041] Datasets for Large Language Models: A Comprehensive Survey](https://arxiv.org/abs/2402.18041)
+- [**fm-cheatsheet**](https://github.com/allenai/fm-cheatsheet/tree/main) - allenai ![Star](https://img.shields.io/github/stars/allenai/fm-cheatsheet.svg?style=social&label=Star)
+
+	 *Website for hosting the Open Foundation Models Cheat Sheet.* · ([fm-cheatsheet](https://github.com/allenai/fm-cheatsheet/blob/main/app/resources/paper.pdf) - allenai) ![Star](https://img.shields.io/github/stars/allenai/fm-cheatsheet.svg?style=social&label=Star)
+- **Datasets for Large Language Models: A Comprehensive Survey**, `arXiv, 2402.18041`, [arxiv](http://arxiv.org/abs/2402.18041v1), [pdf](http://arxiv.org/pdf/2402.18041v1.pdf), cication: [**-1**](None)
+
+	 *Yang Liu, Jiahuan Cao, Chongyu Liu, Kai Ding, Lianwen Jin*
 
 	 · ([Awesome-LLMs-Datasets](https://github.com/lmmlzn/Awesome-LLMs-Datasets) - lmmlzn) ![Star](https://img.shields.io/github/stars/lmmlzn/Awesome-LLMs-Datasets.svg?style=social&label=Star)
 - **A Survey on Data Selection for Language Models**, `arXiv, 2402.16827`, [arxiv](http://arxiv.org/abs/2402.16827v1), [pdf](http://arxiv.org/pdf/2402.16827v1.pdf), cication: [**-1**](None)
@@ -151,6 +156,7 @@
 
 
 ### MulitiMod
+- [Paper page - Panda-70M: Captioning 70M Videos with Multiple Cross-Modality Teachers](https://huggingface.co/papers/2402.19479)
 - **A Touch, Vision, and Language Dataset for Multimodal Alignment**, `arXiv, 2402.13232`, [arxiv](http://arxiv.org/abs/2402.13232v1), [pdf](http://arxiv.org/pdf/2402.13232v1.pdf), cication: [**-1**](None)
 
 	 *Letian Fu, Gaurav Datta, Huang Huang, William Chung-Ho Panitch, Jaimyn Drake, Joseph Ortiz, Mustafa Mukadam, Mike Lambeta, Roberto Calandra, Ken Goldberg*

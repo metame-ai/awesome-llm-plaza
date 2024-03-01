@@ -21,6 +21,9 @@
 
 
 ## Pretrain
+- [**fm-cheatsheet**](https://github.com/allenai/fm-cheatsheet/tree/main) - allenai ![Star](https://img.shields.io/github/stars/allenai/fm-cheatsheet.svg?style=social&label=Star)
+
+	 *Website for hosting the Open Foundation Models Cheat Sheet.* · ([fmcheatsheet](https://fmcheatsheet.org/))
 - **SpacTor-T5: Pre-training T5 Models with Span Corruption and Replaced
   Token Detection**, `arXiv, 2401.13160`, [arxiv](http://arxiv.org/abs/2401.13160v1), [pdf](http://arxiv.org/pdf/2401.13160v1.pdf), cication: [**-1**](None)
 

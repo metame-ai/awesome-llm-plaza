@@ -16,7 +16,9 @@
 	 *Ziyin Zhang, Chaoyu Chen, Bingchang Liu, Cong Liao, Zi Gong, Hang Yu, Jianguo Li, Rui Wang*
 
 ## Paper
-- [StarCoder 2 and The Stack v2: The Next Generation](https://drive.google.com/file/d/17iGn3c-sYNiLyRSY-A85QOzgzGnGiVI3/view)
+- **StarCoder 2 and The Stack v2: The Next Generation**, `arXiv, 2402.19173`, [arxiv](http://arxiv.org/abs/2402.19173v1), [pdf](http://arxiv.org/pdf/2402.19173v1.pdf), cication: [**-1**](None)
+
+	 *Anton Lozhkov, Raymond Li, Loubna Ben Allal, Federico Cassano, Joel Lamy-Poirier, Nouamane Tazi, Ao Tang, Dmytro Pykhtar, Jiawei Liu, Yuxiang Wei*
 
 	 · ([starcoder2](https://github.com/bigcode-project/starcoder2) - bigcode-project) ![Star](https://img.shields.io/github/stars/bigcode-project/starcoder2.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/blog/starcoder2))
 - **Copilot Evaluation Harness: Evaluating LLM-Guided Software Programming**, `arXiv, 2402.14261`, [arxiv](http://arxiv.org/abs/2402.14261v1), [pdf](http://arxiv.org/pdf/2402.14261v1.pdf), cication: [**-1**](None)

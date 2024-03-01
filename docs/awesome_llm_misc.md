@@ -27,7 +27,13 @@
 	- [Extra reference](#extra-reference)
 
 ## Survey
-- [[2402.18013] A Survey on Recent Advances in LLM-Based Multi-turn Dialogue Systems](https://arxiv.org/abs/2402.18013)
+- [[2402.17944] Large Language Models on Tabular Data -- A Survey](https://arxiv.org/abs/2402.17944)
+- **Large Language Models and Games: A Survey and Roadmap**, `arXiv, 2402.18659`, [arxiv](http://arxiv.org/abs/2402.18659v1), [pdf](http://arxiv.org/pdf/2402.18659v1.pdf), cication: [**-1**](None)
+
+	 *Roberto Gallotta, Graham Todd, Marvin Zammit, Sam Earle, Antonios Liapis, Julian Togelius, Georgios N. Yannakakis*
+- **A Survey on Recent Advances in LLM-Based Multi-turn Dialogue Systems**, `arXiv, 2402.18013`, [arxiv](http://arxiv.org/abs/2402.18013v1), [pdf](http://arxiv.org/pdf/2402.18013v1.pdf), cication: [**-1**](None)
+
+	 *Zihao Yi, Jiarui Ouyang, Yuwen Liu, Tianhao Liao, Zhe Xu, Ying Shen*
 - **A Survey of Large Language Models in Cybersecurity**, `arXiv, 2402.16968`, [arxiv](http://arxiv.org/abs/2402.16968v1), [pdf](http://arxiv.org/pdf/2402.16968v1.pdf), cication: [**-1**](None)
 
 	 *Gabriel de Jesus Coelho da Silva, Carlos Becker Westphall*

@@ -28,6 +28,9 @@
 	 *Adyasha Maharana, Dong-Ho Lee, Sergey Tulyakov, Mohit Bansal, Francesco Barbieri, Yuwei Fang*
 
 ## Papers
+- **Long-Context Language Modeling with Parallel Context Encoding**, `arXiv, 2402.16617`, [arxiv](http://arxiv.org/abs/2402.16617v1), [pdf](http://arxiv.org/pdf/2402.16617v1.pdf), cication: [**-1**](None)
+
+	 *Howard Yen, Tianyu Gao, Danqi Chen* · ([qbitai](https://www.qbitai.com/2024/02/124308.html))
 - **Training-Free Long-Context Scaling of Large Language Models**, `arXiv, 2402.17463`, [arxiv](http://arxiv.org/abs/2402.17463v1), [pdf](http://arxiv.org/pdf/2402.17463v1.pdf), cication: [**-1**](None)
 
 	 *Chenxin An, Fei Huang, Jun Zhang, Shansan Gong, Xipeng Qiu, Chang Zhou, Lingpeng Kong* · ([ChunkLlama](https://github.com/HKUNLP/ChunkLlama) - HKUNLP) ![Star](https://img.shields.io/github/stars/HKUNLP/ChunkLlama.svg?style=social&label=Star)
