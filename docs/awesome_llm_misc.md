@@ -27,7 +27,9 @@
 	- [Extra reference](#extra-reference)
 
 ## Survey
-- [[2402.17944] Large Language Models on Tabular Data -- A Survey](https://arxiv.org/abs/2402.17944)
+- **Large Language Models on Tabular Data -- A Survey**, `arXiv, 2402.17944`, [arxiv](http://arxiv.org/abs/2402.17944v1), [pdf](http://arxiv.org/pdf/2402.17944v1.pdf), cication: [**-1**](None)
+
+	 *Xi Fang, Weijie Xu, Fiona Anting Tan, Jiani Zhang, Ziqing Hu, Yanjun Qi, Scott Nickleach, Diego Socolinsky, Srinivasan Sengamedu, Christos Faloutsos*
 - **Large Language Models and Games: A Survey and Roadmap**, `arXiv, 2402.18659`, [arxiv](http://arxiv.org/abs/2402.18659v1), [pdf](http://arxiv.org/pdf/2402.18659v1.pdf), cication: [**-1**](None)
 
 	 *Roberto Gallotta, Graham Todd, Marvin Zammit, Sam Earle, Antonios Liapis, Julian Togelius, Georgios N. Yannakakis*
