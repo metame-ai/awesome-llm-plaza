@@ -33,6 +33,10 @@
 	 *Stephen Casper, Jason Lin, Joe Kwon, Gatlen Culp, Dylan Hadfield-Menell*
 
 ## Papers
+- **SafeDecoding: Defending against Jailbreak Attacks via Safety-Aware
+  Decoding**, `arXiv, 2402.08983`, [arxiv](http://arxiv.org/abs/2402.08983v2), [pdf](http://arxiv.org/pdf/2402.08983v2.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=12112148021973739744&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Zhangchen Xu, Fengqing Jiang, Luyao Niu, Jinyuan Jia, Bill Yuchen Lin, Radha Poovendran* · ([SafeDecoding](https://github.com/uw-nsl/SafeDecoding) - uw-nsl) ![Star](https://img.shields.io/github/stars/uw-nsl/SafeDecoding.svg?style=social&label=Star)
 - **DrAttack: Prompt Decomposition and Reconstruction Makes Powerful LLM
   Jailbreakers**, `arXiv, 2402.16914`, [arxiv](http://arxiv.org/abs/2402.16914v1), [pdf](http://arxiv.org/pdf/2402.16914v1.pdf), cication: [**-1**](None)
 

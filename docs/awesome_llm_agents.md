@@ -568,6 +568,9 @@
 - [GPT-4V学会用键鼠上网，人类眼睁睁看着它发帖玩游戏 | 量子位](https://www.qbitai.com/2023/11/95456.html)
 
 ## Retrieval agumented generation
+- [**chat-with-mlx**](https://github.com/qnguyen3/chat-with-mlx) - qnguyen3 ![Star](https://img.shields.io/github/stars/qnguyen3/chat-with-mlx.svg?style=social&label=Star)
+
+	 *Chat with your data natively on Apple Silicon using MLX Framework.*
 - **In Search of Needles in a 11M Haystack: Recurrent Memory Finds What LLMs
   Miss**, `arXiv, 2402.10790`, [arxiv](http://arxiv.org/abs/2402.10790v2), [pdf](http://arxiv.org/pdf/2402.10790v2.pdf), cication: [**-1**](None)
 
@@ -722,6 +725,7 @@
 
 	 *Train Models Contrastively in Pytorch* · ([huggingface](https://huggingface.co/nomic-ai/nomic-embed-text-v1)) · ([mp.weixin.qq](https://mp.weixin.qq.com/s/EMWNf9TiDwuxxkwwqsl73g))
 ### Other
+- [Fetching Title#eiq0](https://www.llamaindex.ai/blog/towards-long-context-rag)
 - **The First Place Solution of WSDM Cup 2024: Leveraging Large Language
   Models for Conversational Multi-Doc QA**, `arXiv, 2402.18385`, [arxiv](http://arxiv.org/abs/2402.18385v1), [pdf](http://arxiv.org/pdf/2402.18385v1.pdf), cication: [**-1**](None)
 

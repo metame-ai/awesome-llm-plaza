@@ -98,6 +98,12 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
+- **ScreenAI: A Vision-Language Model for UI and Infographics Understanding**, `arXiv, 2402.04615`, [arxiv](http://arxiv.org/abs/2402.04615v2), [pdf](http://arxiv.org/pdf/2402.04615v2.pdf), cication: [**-1**](None)
+
+	 *Gilles Baechler, Srinivas Sunkara, Maria Wang, Fedir Zubach, Hassan Mansoor, Vincent Etter, Victor Cărbune, Jason Lin, Jindong Chen, Abhanshu Sharma* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652450859&idx=3&sn=6f66af61606ce574b7755a17e9ac8c6c))
+- **VisionLLaMA: A Unified LLaMA Interface for Vision Tasks**, `arXiv, 2403.00522`, [arxiv](http://arxiv.org/abs/2403.00522v1), [pdf](http://arxiv.org/pdf/2403.00522v1.pdf), cication: [**-1**](None)
+
+	 *Xiangxiang Chu, Jianlin Su, Bo Zhang, Chunhua Shen* · ([VisionLLaMA](https://github.com/Meituan-AutoML/VisionLLaMA) - Meituan-AutoML) ![Star](https://img.shields.io/github/stars/Meituan-AutoML/VisionLLaMA.svg?style=social&label=Star)
 - **Subobject-level Image Tokenization**, `arXiv, 2402.14327`, [arxiv](http://arxiv.org/abs/2402.14327v1), [pdf](http://arxiv.org/pdf/2402.14327v1.pdf), cication: [**-1**](None)
 
 	 *Delong Chen, Samuel Cahyawijaya, Jianfeng Liu, Baoyuan Wang, Pascale Fung* · ([subobjects](https://github.com/ChenDelong1999/subobjects) - ChenDelong1999) ![Star](https://img.shields.io/github/stars/ChenDelong1999/subobjects.svg?style=social&label=Star)
@@ -809,6 +815,8 @@
 - [**moondream**](https://github.com/vikhyat/moondream) - vikhyat ![Star](https://img.shields.io/github/stars/vikhyat/moondream.svg?style=social&label=Star)
 
 	 *tiny vision language model* · ([huggingface](https://huggingface.co/vikhyatk/moondream1))
+
+	 · ([huggingface](https://huggingface.co/spaces/vikhyatk/moondream2))
 - [**FireLLaVA-13b**](https://huggingface.co/fireworks-ai/FireLLaVA-13b) - fireworks-ai 🤗
 
 	 · ([app.fireworks](https://app.fireworks.ai/blog/firellava-the-first-commercially-permissive-oss-llava-model))
@@ -844,6 +852,9 @@
 - [**BakLLaVA-1**](https://huggingface.co/SkunkworksAI/BakLLaVA-1) - SkunkworksAI 🤗
 
 ## Benchmarks
+- [**TempCompass**](https://github.com/llyx97/TempCompass) - llyx97 ![Star](https://img.shields.io/github/stars/llyx97/TempCompass.svg?style=social&label=Star)
+
+	 *A benchmark to evaluate the temporal perception ability of Video LLMs*
 - [**vision-arena**](https://huggingface.co/spaces/WildVision/vision-arena) - WildVision 🤗
 - **Mementos: A Comprehensive Benchmark for Multimodal Large Language Model
   Reasoning over Image Sequences**, `arXiv, 2401.10529`, [arxiv](http://arxiv.org/abs/2401.10529v2), [pdf](http://arxiv.org/pdf/2401.10529v2.pdf), cication: [**-1**](None)

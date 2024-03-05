@@ -34,6 +34,10 @@
 - **ReST meets ReAct: Self-Improvement for Multi-Step Reasoning LLM Agent**, `arXiv, 2312.10003`, [arxiv](http://arxiv.org/abs/2312.10003v1), [pdf](http://arxiv.org/pdf/2312.10003v1.pdf), cication: [**-1**](None)
 
 	 *Renat Aksitov, Sobhan Miryoosefi, Zonglin Li, Daliang Li, Sheila Babayan, Kavya Kopparapu, Zachary Fisher, Ruiqi Guo, Sushant Prakash, Pranesh Srinivasan*
+- **ManipLLM: Embodied Multimodal Large Language Model for Object-Centric
+  Robotic Manipulation**, `arXiv, 2312.16217`, [arxiv](http://arxiv.org/abs/2312.16217v1), [pdf](http://arxiv.org/pdf/2312.16217v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=7882854002413266821&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Xiaoqi Li, Mingxu Zhang, Yiran Geng, Haoran Geng, Yuxing Long, Yan Shen, Renrui Zhang, Jiaming Liu, Hao Dong* · ([qbitai](https://www.qbitai.com/2024/03/124996.html)) · ([sites.google](https://sites.google.com/view/manipllm))
 - **Vision-Language Models as a Source of Rewards**, `arXiv, 2312.09187`, [arxiv](http://arxiv.org/abs/2312.09187v1), [pdf](http://arxiv.org/pdf/2312.09187v1.pdf), cication: [**-1**](None)
 
 	 *Kate Baumli, Satinder Baveja, Feryal Behbahani, Harris Chan, Gheorghe Comanici, Sebastian Flennerhag, Maxime Gazeau, Kristian Holsheimer, Dan Horgan, Michael Laskin*

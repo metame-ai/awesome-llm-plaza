@@ -642,6 +642,8 @@
   Efficient Language Models**, `arXiv, 2402.19427`, [arxiv](http://arxiv.org/abs/2402.19427v1), [pdf](http://arxiv.org/pdf/2402.19427v1.pdf), cication: [**-1**](None)
 
 	 *Soham De, Samuel L. Smith, Anushan Fernando, Aleksandar Botev, George Cristian-Muraru, Albert Gu, Ruba Haroun, Leonard Berrada, Yutian Chen, Srivatsan Srinivasan*
+
+	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-03-04-7))
 - **ChunkAttention: Efficient Self-Attention with Prefix-Aware KV Cache and
   Two-Phase Partition**, `arXiv, 2402.15220`, [arxiv](http://arxiv.org/abs/2402.15220v1), [pdf](http://arxiv.org/pdf/2402.15220v1.pdf), cication: [**-1**](None)
 

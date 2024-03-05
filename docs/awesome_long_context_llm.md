@@ -28,9 +28,15 @@
 	 *Adyasha Maharana, Dong-Ho Lee, Sergey Tulyakov, Mohit Bansal, Francesco Barbieri, Yuwei Fang*
 
 ## Papers
+- **Resonance RoPE: Improving Context Length Generalization of Large
+  Language Models**, `arXiv, 2403.00071`, [arxiv](http://arxiv.org/abs/2403.00071v1), [pdf](http://arxiv.org/pdf/2403.00071v1.pdf), cication: [**-1**](None)
+
+	 *Suyuchen Wang, Ivan Kobyzev, Peng Lu, Mehdi Rezagholizadeh, Bang Liu*
 - **Long-Context Language Modeling with Parallel Context Encoding**, `arXiv, 2402.16617`, [arxiv](http://arxiv.org/abs/2402.16617v1), [pdf](http://arxiv.org/pdf/2402.16617v1.pdf), cication: [**-1**](None)
 
 	 *Howard Yen, Tianyu Gao, Danqi Chen* · ([qbitai](https://www.qbitai.com/2024/02/124308.html))
+
+	 · ([cepe](https://github.com/princeton-nlp/cepe) - princeton-nlp) ![Star](https://img.shields.io/github/stars/princeton-nlp/cepe.svg?style=social&label=Star)
 - **Training-Free Long-Context Scaling of Large Language Models**, `arXiv, 2402.17463`, [arxiv](http://arxiv.org/abs/2402.17463v1), [pdf](http://arxiv.org/pdf/2402.17463v1.pdf), cication: [**-1**](None)
 
 	 *Chenxin An, Fei Huang, Jun Zhang, Shansan Gong, Xipeng Qiu, Chang Zhou, Lingpeng Kong* · ([ChunkLlama](https://github.com/HKUNLP/ChunkLlama) - HKUNLP) ![Star](https://img.shields.io/github/stars/HKUNLP/ChunkLlama.svg?style=social&label=Star)

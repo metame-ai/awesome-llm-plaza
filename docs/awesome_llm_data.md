@@ -30,6 +30,10 @@
 	 *Zige Wang, Wanjun Zhong, Yufei Wang, Qi Zhu, Fei Mi, Baojun Wang, Lifeng Shang, Xin Jiang, Qun Liu*
 
 ## Techs
+- **Learning to Generate Instruction Tuning Datasets for Zero-Shot Task
+  Adaptation**, `arXiv, 2402.18334`, [arxiv](http://arxiv.org/abs/2402.18334v1), [pdf](http://arxiv.org/pdf/2402.18334v1.pdf), cication: [**-1**](None)
+
+	 *Nihal V. Nayak, Yiyang Nan, Avi Trost, Stephen H. Bach* · ([bonito](https://github.com/batsresearch/bonito) - batsresearch) ![Star](https://img.shields.io/github/stars/batsresearch/bonito.svg?style=social&label=Star)
 - **How to Train Data-Efficient LLMs**, `arXiv, 2402.09668`, [arxiv](http://arxiv.org/abs/2402.09668v1), [pdf](http://arxiv.org/pdf/2402.09668v1.pdf), cication: [**-1**](None)
 
 	 *Noveen Sachdeva, Benjamin Coleman, Wang-Cheng Kang, Jianmo Ni, Lichan Hong, Ed H. Chi, James Caverlee, Julian McAuley, Derek Zhiyuan Cheng*
@@ -156,7 +160,13 @@
 
 
 ### MulitiMod
-- [Paper page - Panda-70M: Captioning 70M Videos with Multiple Cross-Modality Teachers](https://huggingface.co/papers/2402.19479)
+- **Multimodal ArXiv: A Dataset for Improving Scientific Comprehension of
+  Large Vision-Language Models**, `arXiv, 2403.00231`, [arxiv](http://arxiv.org/abs/2403.00231v2), [pdf](http://arxiv.org/pdf/2403.00231v2.pdf), cication: [**-1**](None)
+
+	 *Lei Li, Yuqi Wang, Runxin Xu, Peiyi Wang, Xiachong Feng, Lingpeng Kong, Qi Liu*
+- **Panda-70M: Captioning 70M Videos with Multiple Cross-Modality Teachers**, `arXiv, 2402.19479`, [arxiv](http://arxiv.org/abs/2402.19479v1), [pdf](http://arxiv.org/pdf/2402.19479v1.pdf), cication: [**-1**](None)
+
+	 *Tsai-Shien Chen, Aliaksandr Siarohin, Willi Menapace, Ekaterina Deyneka, Hsiang-wei Chao, Byung Eun Jeon, Yuwei Fang, Hsin-Ying Lee, Jian Ren, Ming-Hsuan Yang*
 - **A Touch, Vision, and Language Dataset for Multimodal Alignment**, `arXiv, 2402.13232`, [arxiv](http://arxiv.org/abs/2402.13232v1), [pdf](http://arxiv.org/pdf/2402.13232v1.pdf), cication: [**-1**](None)
 
 	 *Letian Fu, Gaurav Datta, Huang Huang, William Chung-Ho Panitch, Jaimyn Drake, Joseph Ortiz, Mustafa Mukadam, Mike Lambeta, Roberto Calandra, Ken Goldberg*
@@ -277,6 +287,7 @@
 	 *A one-stop data processing system to make data higher-quality, juicier, and more digestible for LLMs! 🍎 🍋 🌽 ➡️ ➡️🍸 🍹 🍷为大语言模型提供更高质量、更丰富、更易”消化“的数据！*
 
 ## Other
+- [**community-datasets**](https://huggingface.co/blog/community-datasets) -  🤗
 - [Synthetic data: save money, time and carbon with open source](https://huggingface.co/blog/synthetic-data-save-costs)
 - [Thinking about High-Quality Human Data | Lil'Log](https://lilianweng.github.io/posts/2024-02-05-human-data-quality/)
 

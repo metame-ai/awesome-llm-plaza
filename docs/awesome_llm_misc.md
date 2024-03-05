@@ -194,7 +194,17 @@
 	 *Greg Serapio-García, Mustafa Safdari, Clément Crepy, Luning Sun, Stephen Fitz, Peter Romero, Marwa Abdulhai, Aleksandra Faust, Maja Matarić*
 
 ## World Model
-- [Paper page - Genie: Generative Interactive Environments](https://huggingface.co/papers/2402.15391)
+- **Learning and Leveraging World Models in Visual Representation Learning**, `arXiv, 2403.00504`, [arxiv](http://arxiv.org/abs/2403.00504v1), [pdf](http://arxiv.org/pdf/2403.00504v1.pdf), cication: [**-1**](None)
+
+	 *Quentin Garrido, Mahmoud Assran, Nicolas Ballas, Adrien Bardes, Laurent Najman, Yann LeCun*
+- **Video as the New Language for Real-World Decision Making**, `arXiv, 2402.17139`, [arxiv](http://arxiv.org/abs/2402.17139v1), [pdf](http://arxiv.org/pdf/2402.17139v1.pdf), cication: [**-1**](None)
+
+	 *Sherry Yang, Jacob Walker, Jack Parker-Holder, Yilun Du, Jake Bruce, Andre Barreto, Pieter Abbeel, Dale Schuurmans*
+
+	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652449854&idx=2&sn=91b372f92a2cc98f862cdc37cfaeabad))
+- **Genie: Generative Interactive Environments**, `arXiv, 2402.15391`, [arxiv](http://arxiv.org/abs/2402.15391v1), [pdf](http://arxiv.org/pdf/2402.15391v1.pdf), cication: [**-1**](None)
+
+	 *Jake Bruce, Michael Dennis, Ashley Edwards, Jack Parker-Holder, Yuge Shi, Edward Hughes, Matthew Lai, Aditi Mavalankar, Richie Steigerwald, Chris Apps*
 - **Diffusion World Model**, `arXiv, 2402.03570`, [arxiv](http://arxiv.org/abs/2402.03570v1), [pdf](http://arxiv.org/pdf/2402.03570v1.pdf), cication: [**-1**](None)
 
 	 *Zihan Ding, Amy Zhang, Yuandong Tian, Qinqing Zheng*
@@ -339,6 +349,10 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652345558&idx=4&sn=95686435d5cad05d44cbe02bc26d6859))
 
 ## Interpretability 
+- **AtP*: An efficient and scalable method for localizing LLM behaviour to
+  components**, `arXiv, 2403.00745`, [arxiv](http://arxiv.org/abs/2403.00745v1), [pdf](http://arxiv.org/pdf/2403.00745v1.pdf), cication: [**-1**](None)
+
+	 *János Kramár, Tom Lieberum, Rohin Shah, Neel Nanda*
 - [Circuits Updates - February 2024](https://transformer-circuits.pub/2024/feb-update/index.html)
 - **A phase transition between positional and semantic learning in a
   solvable model of dot-product attention**, `arXiv, 2402.03902`, [arxiv](http://arxiv.org/abs/2402.03902v1), [pdf](http://arxiv.org/pdf/2402.03902v1.pdf), cication: [**-1**](None)

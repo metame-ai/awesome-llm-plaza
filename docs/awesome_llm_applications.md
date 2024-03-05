@@ -269,7 +269,10 @@
 	 *Yunkang Cao, Xiaohao Xu, Chen Sun, Xiaonan Huang, Weiming Shen* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-11-13))
 
 ## Auto driving
-- [[2402.19273] PlanGPT: Enhancing Urban Planning with Tailored Language Model and Efficient Retrieval](https://arxiv.org/abs/2402.19273)
+- **PlanGPT: Enhancing Urban Planning with Tailored Language Model and
+  Efficient Retrieval**, `arXiv, 2402.19273`, [arxiv](http://arxiv.org/abs/2402.19273v1), [pdf](http://arxiv.org/pdf/2402.19273v1.pdf), cication: [**-1**](None)
+
+	 *He Zhu, Wenjia Zhang, Nuoxian Huang, Boyang Li, Luyao Niu, Zipei Fan, Tianle Lun, Yicheng Tao, Junyou Su, Zhaoya Gong*
 - **DriveVLM: The Convergence of Autonomous Driving and Large
   Vision-Language Models**, `arXiv, 2402.12289`, [arxiv](http://arxiv.org/abs/2402.12289v1), [pdf](http://arxiv.org/pdf/2402.12289v1.pdf), cication: [**-1**](None)
 
