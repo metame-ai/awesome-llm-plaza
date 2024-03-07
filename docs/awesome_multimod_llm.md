@@ -24,6 +24,9 @@
 
 ## Vision
 ### Video
+- **MovieLLM: Enhancing Long Video Understanding with AI-Generated Movies**, `arXiv, 2403.01422`, [arxiv](http://arxiv.org/abs/2403.01422v1), [pdf](http://arxiv.org/pdf/2403.01422v1.pdf), cication: [**-1**](None)
+
+	 *Zhende Song, Chenchen Wang, Jiamu Sheng, Chi Zhang, Gang Yu, Jiayuan Fan, Tao Chen*
 - **LLMBind: A Unified Modality-Task Integration Framework**, `arXiv, 2402.14891`, [arxiv](http://arxiv.org/abs/2402.14891v1), [pdf](http://arxiv.org/pdf/2402.14891v1.pdf), cication: [**-1**](None)
 
 	 *Bin Zhu, Peng Jin, Munan Ning, Bin Lin, Jinfa Huang, Qi Song, Mingjun Pan, Li Yuan*
@@ -98,6 +101,20 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
+- **Enhancing Vision-Language Pre-training with Rich Supervisions**, `arXiv, 2403.03346`, [arxiv](http://arxiv.org/abs/2403.03346v1), [pdf](http://arxiv.org/pdf/2403.03346v1.pdf), cication: [**-1**](None)
+
+	 *Yuan Gao, Kunyu Shi, Pengkai Zhu, Edouard Belval, Oren Nuriel, Srikar Appalaraju, Shabnam Ghadar, Vijay Mahadevan, Zhuowen Tu, Stefano Soatto*
+- **Feast Your Eyes: Mixture-of-Resolution Adaptation for Multimodal Large
+  Language Models**, `arXiv, 2403.03003`, [arxiv](http://arxiv.org/abs/2403.03003v1), [pdf](http://arxiv.org/pdf/2403.03003v1.pdf), cication: [**-1**](None)
+
+	 *Gen Luo, Yiyi Zhou, Yuxin Zhang, Xiawu Zheng, Xiaoshuai Sun, Rongrong Ji* · ([LLaVA-HR](https://github.com/luogen1996/LLaVA-HR) - luogen1996) ![Star](https://img.shields.io/github/stars/luogen1996/LLaVA-HR.svg?style=social&label=Star)
+- **Finetuned Multimodal Language Models Are High-Quality Image-Text Data
+  Filters**, `arXiv, 2403.02677`, [arxiv](http://arxiv.org/abs/2403.02677v1), [pdf](http://arxiv.org/pdf/2403.02677v1.pdf), cication: [**-1**](None)
+
+	 *Weizhi Wang, Khalil Mrini, Linjie Yang, Sateesh Kumar, Yu Tian, Xifeng Yan, Heng Wang*
+- **InfiMM-HD: A Leap Forward in High-Resolution Multimodal Understanding**, `arXiv, 2403.01487`, [arxiv](http://arxiv.org/abs/2403.01487v1), [pdf](http://arxiv.org/pdf/2403.01487v1.pdf), cication: [**-1**](None)
+
+	 *Haogeng Liu, Quanzeng You, Xiaotian Han, Yiqi Wang, Bohan Zhai, Yongfei Liu, Yunzhe Tao, Huaibo Huang, Ran He, Hongxia Yang*
 - **ScreenAI: A Vision-Language Model for UI and Infographics Understanding**, `arXiv, 2402.04615`, [arxiv](http://arxiv.org/abs/2402.04615v2), [pdf](http://arxiv.org/pdf/2402.04615v2.pdf), cication: [**-1**](None)
 
 	 *Gilles Baechler, Srinivas Sunkara, Maria Wang, Fedir Zubach, Hassan Mansoor, Vincent Etter, Victor Cărbune, Jason Lin, Jindong Chen, Abhanshu Sharma* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652450859&idx=3&sn=6f66af61606ce574b7755a17e9ac8c6c))
@@ -206,6 +223,8 @@
   Large Multimodal Models**, `arXiv, 2401.13311`, [arxiv](http://arxiv.org/abs/2401.13311v1), [pdf](http://arxiv.org/pdf/2401.13311v1.pdf), cication: [**-1**](None)
 
 	 *Rohan Wadhawan, Hritik Bansal, Kai-Wei Chang, Nanyun Peng* · ([con-textual.github](https://con-textual.github.io/))
+
+	 · ([huggingface](https://huggingface.co/blog/leaderboard-contextual))
 - **SpatialVLM: Endowing Vision-Language Models with Spatial Reasoning
   Capabilities**, `arXiv, 2401.12168`, [arxiv](http://arxiv.org/abs/2401.12168v1), [pdf](http://arxiv.org/pdf/2401.12168v1.pdf), cication: [**-1**](None)
 
@@ -774,11 +793,17 @@
 	 *Zineng Tang, Ziyi Yang, Chenguang Zhu, Michael Zeng, Mohit Bansal* · ([codi-gen.github](https://codi-gen.github.io/)) · ([i-Code](https://github.com/microsoft/i-Code/tree/main/i-Code-V3) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/i-Code.svg?style=social&label=Star)
 
 ## CLIP
+- **What do we learn from inverting CLIP models?**, `arXiv, 2403.02580`, [arxiv](http://arxiv.org/abs/2403.02580v1), [pdf](http://arxiv.org/pdf/2403.02580v1.pdf), cication: [**-1**](None)
+
+	 *Hamid Kazemi, Atoosa Chegini, Jonas Geiping, Soheil Feizi, Tom Goldstein*
 - **CLoVe: Encoding Compositional Language in Contrastive Vision-Language
   Models**, `arXiv, 2402.15021`, [arxiv](http://arxiv.org/abs/2402.15021v1), [pdf](http://arxiv.org/pdf/2402.15021v1.pdf), cication: [**-1**](None)
 
 	 *Santiago Castro, Amir Ziai, Avneesh Saluja, Zhuoning Yuan, Rada Mihalcea* · ([clove](https://github.com/netflix/clove) - netflix) ![Star](https://img.shields.io/github/stars/netflix/clove.svg?style=social&label=Star)
+- **MobileCLIP: Fast Image-Text Models through Multi-Modal Reinforced
+  Training**, `arXiv, 2311.17049`, [arxiv](http://arxiv.org/abs/2311.17049v1), [pdf](http://arxiv.org/pdf/2311.17049v1.pdf), cication: [**-1**](None)
 
+	 *Pavan Kumar Anasosalu Vasu, Hadi Pouransari, Fartash Faghri, Raviteja Vemulapalli, Oncel Tuzel* · ([ml-mobileclip](https://github.com/apple/ml-mobileclip) - apple) ![Star](https://img.shields.io/github/stars/apple/ml-mobileclip.svg?style=social&label=Star)
 ## Alignment
 - **BBA: Bi-Modal Behavioral Alignment for Reasoning with Large
   Vision-Language Models**, `arXiv, 2402.13577`, [arxiv](http://arxiv.org/abs/2402.13577v1), [pdf](http://arxiv.org/pdf/2402.13577v1.pdf), cication: [**-1**](None)
@@ -852,6 +877,7 @@
 - [**BakLLaVA-1**](https://huggingface.co/SkunkworksAI/BakLLaVA-1) - SkunkworksAI 🤗
 
 ## Benchmarks
+- [**ConTextual**](https://github.com/rohan598/ConTextual) - rohan598 ![Star](https://img.shields.io/github/stars/rohan598/ConTextual.svg?style=social&label=Star)
 - [**TempCompass**](https://github.com/llyx97/TempCompass) - llyx97 ![Star](https://img.shields.io/github/stars/llyx97/TempCompass.svg?style=social&label=Star)
 
 	 *A benchmark to evaluate the temporal perception ability of Video LLMs*

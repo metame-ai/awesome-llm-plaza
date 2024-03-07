@@ -209,6 +209,7 @@
 	 *LongLLaMA is a large language model capable of handling long contexts. It is based on OpenLLaMA and fine-tuned with the Focused Transformer (FoT) method.*
 
 ## Other
+- [How Do Language Models put Attention Weights over Long Context?](https://yaofu.notion.site/How-Do-Language-Models-put-Attention-Weights-over-Long-Context-10250219d5ce42e8b465087c383a034e)
 - [gemini use case](https://twitter.com/Swarooprm7/status/1762892253234913349)
 - [Understanding data influence on context scaling: a close look at baseline solution](https://yaofu.notion.site/Understanding-data-influence-on-context-scaling-a-close-look-at-baseline-solution-eb17eab795dd4132b1a1ffe73f5e850a)
 - [Anthropic \\ Long context prompting for Claude 2.1](https://www.anthropic.com/index/claude-2-1-prompting)

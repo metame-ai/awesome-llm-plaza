@@ -74,6 +74,8 @@
 	 · ([datablations](https://github.com/huggingface/datablations) - huggingface) ![Star](https://img.shields.io/github/stars/huggingface/datablations.svg?style=social&label=Star)
 
 ## Datasets
+- [**internet_archive_books_en**](https://huggingface.co/datasets/storytracer/internet_archive_books_en) - storytracer 🤗
+- [**orca-math-word-problems-200k**](https://huggingface.co/datasets/microsoft/orca-math-word-problems-200k) - microsoft 🤗
 - [**OpenHermesPreferences**](https://huggingface.co/datasets/argilla/OpenHermesPreferences) - argilla 🤗
 - [**WebSight**](https://huggingface.co/datasets/HuggingFaceM4/WebSight) - HuggingFaceM4 🤗
 - [**oasst2**](https://huggingface.co/datasets/OpenAssistant/oasst2) - OpenAssistant 🤗
@@ -160,6 +162,10 @@
 
 
 ### MulitiMod
+- **MAGID: An Automated Pipeline for Generating Synthetic Multi-modal
+  Datasets**, `arXiv, 2403.03194`, [arxiv](http://arxiv.org/abs/2403.03194v1), [pdf](http://arxiv.org/pdf/2403.03194v1.pdf), cication: [**-1**](None)
+
+	 *Hossein Aboutalebi, Hwanjun Song, Yusheng Xie, Arshit Gupta, Justin Sun, Hang Su, Igor Shalyminov, Nikolaos Pappas, Siffi Singh, Saab Mansour*
 - **Multimodal ArXiv: A Dataset for Improving Scientific Comprehension of
   Large Vision-Language Models**, `arXiv, 2403.00231`, [arxiv](http://arxiv.org/abs/2403.00231v2), [pdf](http://arxiv.org/pdf/2403.00231v2.pdf), cication: [**-1**](None)
 

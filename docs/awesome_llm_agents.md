@@ -72,6 +72,16 @@
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-18-4))
 ## Agents
+- **KnowAgent: Knowledge-Augmented Planning for LLM-Based Agents**, `arXiv, 2403.03101`, [arxiv](http://arxiv.org/abs/2403.03101v1), [pdf](http://arxiv.org/pdf/2403.03101v1.pdf), cication: [**-1**](None)
+
+	 *Yuqi Zhu, Shuofei Qiao, Yixin Ou, Shumin Deng, Ningyu Zhang, Shiwei Lyu, Yue Shen, Lei Liang, Jinjie Gu, Huajun Chen*
+- **Trial and Error: Exploration-Based Trajectory Optimization for LLM
+  Agents**, `arXiv, 2403.02502`, [arxiv](http://arxiv.org/abs/2403.02502v1), [pdf](http://arxiv.org/pdf/2403.02502v1.pdf), cication: [**-1**](None)
+
+	 *Yifan Song, Da Yin, Xiang Yue, Jie Huang, Sujian Li, Bill Yuchen Lin* · ([ETO](https://github.com/Yifan-Song793/ETO) - Yifan-Song793) ![Star](https://img.shields.io/github/stars/Yifan-Song793/ETO.svg?style=social&label=Star)
+- [**Qwen-Agent**](https://github.com/QwenLM/Qwen-Agent) - QwenLM ![Star](https://img.shields.io/github/stars/QwenLM/Qwen-Agent.svg?style=social&label=Star)
+
+	 *Agent framework and applications built upon Qwen1.5, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.*
 - **AgentOhana: Design Unified Data and Training Pipeline for Effective
   Agent Learning**, `arXiv, 2402.15506`, [arxiv](http://arxiv.org/abs/2402.15506v1), [pdf](http://arxiv.org/pdf/2402.15506v1.pdf), cication: [**-1**](None)
 
@@ -568,6 +578,9 @@
 - [GPT-4V学会用键鼠上网，人类眼睁睁看着它发帖玩游戏 | 量子位](https://www.qbitai.com/2023/11/95456.html)
 
 ## Retrieval agumented generation
+- **Backtracing: Retrieving the Cause of the Query**, `arXiv, 2403.03956`, [arxiv](http://arxiv.org/abs/2403.03956v1), [pdf](http://arxiv.org/pdf/2403.03956v1.pdf), cication: [**-1**](None)
+
+	 *Rose E. Wang, Pawan Wirawarn, Omar Khattab, Noah Goodman, Dorottya Demszky* · ([backtracing](https://github.com/rosewang2008/backtracing/blob/main) - rosewang2008) ![Star](https://img.shields.io/github/stars/rosewang2008/backtracing.svg?style=social&label=Star)
 - [**chat-with-mlx**](https://github.com/qnguyen3/chat-with-mlx) - qnguyen3 ![Star](https://img.shields.io/github/stars/qnguyen3/chat-with-mlx.svg?style=social&label=Star)
 
 	 *Chat with your data natively on Apple Silicon using MLX Framework.*
@@ -738,6 +751,7 @@
 - [A Cheat Sheet and Some Recipes For Building Advanced RAG | by Andrei | Jan, 2024 | LlamaIndex Blog](https://blog.llamaindex.ai/a-cheat-sheet-and-some-recipes-for-building-advanced-rag-803a9d94c41b)
 - [Build a search engine, not a vector DB](https://blog.elicit.com/search-vs-vector-db/)
 
+- [微调与RAG的优缺点分析](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495628&idx=2&sn=d65b3370121a1d2bd832c17218bb1090)
 - [Langchain中改进RAG能力的3种常用的扩展查询方法](https://mp.weixin.qq.com/s?__biz=MzI1MjQ2OTQ3Ng==&mid=2247630649&idx=2&sn=d02f9e3022d5e987de5d60ed06ea3bd8&poc_token=HO-d1WWjKnv0HWessjo9YkkKt1GkCKEDCJoS3wUW)
 - [通过4个任务比较LangChain和LlamaIndex](https://mp.weixin.qq.com/s?__biz=MzI1MjQ2OTQ3Ng==&mid=2247631125&idx=2&sn=97801ab722a786cdf5116779804fb0c9)
 - [self-RAG｜大模型决策的典型案例探究](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495565&idx=2&sn=833660e930818b3dfa11a22ce1f263d4)

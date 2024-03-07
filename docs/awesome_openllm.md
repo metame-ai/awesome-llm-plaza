@@ -110,6 +110,9 @@
 	 *Kaiyuan Gao, Sunan He, Zhenyu He, Jiacheng Lin, QiZhi Pei, Jie Shao, Wei Zhang* · ([gpt_alternatives](https://github.com/GPT-Alternatives/gpt_alternatives) - GPT-Alternatives) ![Star](https://img.shields.io/github/stars/GPT-Alternatives/gpt_alternatives.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-09-12-3))
 
 ### Gemma
+- [Unsloth Fixing Gemma bugs](https://unsloth.ai/blog/gemma-bugs)
+
+	 · ([twitter](https://twitter.com/danielhanchen/status/1765446273661075609))
 - [**gemma_pytorch**](https://github.com/google/gemma_pytorch/tree/main) - google ![Star](https://img.shields.io/github/stars/google/gemma_pytorch.svg?style=social&label=Star)
 
 	 *The official PyTorch implementation of Google's Gemma models*
@@ -350,6 +353,7 @@
 	 *基于CPM基础模型的中英双语多模态大模型系列* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-07-03-3))
 
 ### Yi-01
+- [**Yi-9B**](https://huggingface.co/01-ai/Yi-9B) - 01-ai 🤗
 - [**Yi**](https://github.com/01-ai/Yi) - 01-ai ![Star](https://img.shields.io/github/stars/01-ai/Yi.svg?style=social&label=Star)
 
 	 *A series of large language models trained from scratch by developers @01-ai*
@@ -385,6 +389,9 @@
  - [xverse/XVERSE-13B-256K · Hugging Face](https://huggingface.co/xverse/XVERSE-13B-256K)
  
 ### Qwen
+- [**Qwen-Agent**](https://github.com/QwenLM/Qwen-Agent) - QwenLM ![Star](https://img.shields.io/github/stars/QwenLM/Qwen-Agent.svg?style=social&label=Star)
+
+	 *Agent framework and applications built upon Qwen1.5, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.*
 - [**Qwen1.5**](https://github.com/QwenLM/Qwen1.5) - QwenLM ![Star](https://img.shields.io/github/stars/QwenLM/Qwen1.5.svg?style=social&label=Star)
 
 	 *Qwen1.5 is the improved version of Qwen, the large language model series developed by Qwen team, Alibaba Cloud.* · ([qwenlm.github](https://qwenlm.github.io/))

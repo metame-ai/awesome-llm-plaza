@@ -242,6 +242,10 @@
 	 *Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers*
 
 ## State Space Model
+- **DenseMamba: State Space Models with Dense Hidden Connection for
+  Efficient Large Language Models**, `arXiv, 2403.00818`, [arxiv](http://arxiv.org/abs/2403.00818v2), [pdf](http://arxiv.org/pdf/2403.00818v2.pdf), cication: [**-1**](None)
+
+	 *Wei He, Kai Han, Yehui Tang, Chengcheng Wang, Yujie Yang, Tianyu Guo, Yunhe Wang*
 - [Mamba: The Easy Way](https://jackcook.com/2024/02/23/mamba.html)
 - **Can Mamba Learn How to Learn? A Comparative Study on In-Context Learning
   Tasks**, `arXiv, 2402.04248`, [arxiv](http://arxiv.org/abs/2402.04248v1), [pdf](http://arxiv.org/pdf/2402.04248v1.pdf), cication: [**-1**](None)
@@ -349,6 +353,7 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652345558&idx=4&sn=95686435d5cad05d44cbe02bc26d6859))
 
 ## Interpretability 
+- [Claude-3's uncanny "awareness"](https://twitter.com/DrJimFan/status/1765076396404363435)
 - **AtP*: An efficient and scalable method for localizing LLM behaviour to
   components**, `arXiv, 2403.00745`, [arxiv](http://arxiv.org/abs/2403.00745v1), [pdf](http://arxiv.org/pdf/2403.00745v1.pdf), cication: [**-1**](None)
 
@@ -514,6 +519,14 @@
 - **Do Large Language Models Know What They Don't Know?**, `arXiv, 2305.18153`, [arxiv](http://arxiv.org/abs/2305.18153v2), [pdf](http://arxiv.org/pdf/2305.18153v2.pdf), cication: [**16**](https://scholar.google.com/scholar?cites=18069947573459721243&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Zhangyue Yin, Qiushi Sun, Qipeng Guo, Jiawen Wu, Xipeng Qiu, Xuanjing Huang*
+
+## Tokenization
+- **Greed is All You Need: An Evaluation of Tokenizer Inference Methods**, `arXiv, 2403.01289`, [arxiv](http://arxiv.org/abs/2403.01289v1), [pdf](http://arxiv.org/pdf/2403.01289v1.pdf), cication: [**-1**](None)
+
+	 *Omri Uzan, Craig W. Schmidt, Chris Tanner, Yuval Pinter*
+- **xT: Nested Tokenization for Larger Context in Large Images**, `arXiv, 2403.01915`, [arxiv](http://arxiv.org/abs/2403.01915v1), [pdf](http://arxiv.org/pdf/2403.01915v1.pdf), cication: [**-1**](None)
+
+	 *Ritwik Gupta, Shufan Li, Tyler Zhu, Jitendra Malik, Trevor Darrell, Karttikeya Mangalam* · ([xT](https://github.com/bair-climate-initiative/xT) - bair-climate-initiative) ![Star](https://img.shields.io/github/stars/bair-climate-initiative/xT.svg?style=social&label=Star)
 
 ## Books
 - [大规模语言模型：从理论到实践](https://intro-llm.github.io/)

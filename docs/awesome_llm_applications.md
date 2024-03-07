@@ -42,6 +42,9 @@
 - [Navigating the Jagged Technological Frontier: Field Experimental Evidence of the Effects of AI on Knowledge Worker Productivity and Quality](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4573321)
 
 ## Toolkits
+- [**openai-translator**](https://github.com/openai-translator/openai-translator) - openai-translator ![Star](https://img.shields.io/github/stars/openai-translator/openai-translator.svg?style=social&label=Star)
+
+	 *基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用 - Browser extension and cross-platform desktop application for translation based on ChatGPT API.*
 - [**gptscript**](https://github.com/gptscript-ai/gptscript) - gptscript-ai ![Star](https://img.shields.io/github/stars/gptscript-ai/gptscript.svg?style=social&label=Star)
 
 	 *Natural Language Programming*
@@ -493,6 +496,9 @@
 - [小扎发布虚拟聊天AI，竟「1:1复刻」Character.AI？用户吐槽：设定太老土了](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652382135&idx=3&sn=b7e8ff8f375772a1bf71989d8e2f4565)
 
 ## Law
+- **SaulLM-7B: A pioneering Large Language Model for Law**, `arXiv, 2403.03883`, [arxiv](http://arxiv.org/abs/2403.03883v1), [pdf](http://arxiv.org/pdf/2403.03883v1.pdf), cication: [**-1**](None)
+
+	 *Pierre Colombo, Telmo Pessoa Pires, Malik Boudiaf, Dominic Culver, Rui Melo, Caio Corro, Andre F. T. Martins, Fabrizio Esposito, Vera Lúcia Raposo, Sofia Morgado*
 - [**MoZi**](https://github.com/AI-for-Science/MoZi) - AI-for-Science ![Star](https://img.shields.io/github/stars/AI-for-Science/MoZi.svg?style=social&label=Star)
 
 	 *首个全参数训练的知识产权大模型 MoZi (墨子)*
@@ -548,6 +554,10 @@
 	 *Tiffany Tseng, Ruijia Cheng, Jeffrey Nichols*
 
 ## Vision
+- **Modeling Collaborator: Enabling Subjective Vision Classification With
+  Minimal Human Effort via LLM Tool-Use**, `arXiv, 2403.02626`, [arxiv](http://arxiv.org/abs/2403.02626v1), [pdf](http://arxiv.org/pdf/2403.02626v1.pdf), cication: [**-1**](None)
+
+	 *Imad Eddine Toubal, Aditya Avinash, Neil Gordon Alldrin, Jan Dlabal, Wenlei Zhou, Enming Luo, Otilia Stretcu, Hao Xiong, Chun-Ta Lu, Howard Zhou*
 - **MuLan: Multimodal-LLM Agent for Progressive Multi-Object Diffusion**, `arXiv, 2402.12741`, [arxiv](http://arxiv.org/abs/2402.12741v1), [pdf](http://arxiv.org/pdf/2402.12741v1.pdf), cication: [**-1**](None)
 
 	 *Sen Li, Ruochen Wang, Cho-Jui Hsieh, Minhao Cheng, Tianyi Zhou* · ([measure-infinity.github](https://measure-infinity.github.io/mulan/))
@@ -862,6 +872,13 @@
 	 *Itzik Malkiel, Uri Alon, Yakir Yehuda, Shahar Keren, Oren Barkan, Royi Ronen, Noam Koenigstein*
 
 ## Game
+- **Towards General Computer Control: A Multimodal Agent for Red Dead
+  Redemption II as a Case Study**, `arXiv, 2403.03186`, [arxiv](http://arxiv.org/abs/2403.03186v1), [pdf](http://arxiv.org/pdf/2403.03186v1.pdf), cication: [**-1**](None)
+
+	 *Weihao Tan, Ziluo Ding, Wentao Zhang, Boyu Li, Bohan Zhou, Junpeng Yue, Haochong Xia, Jiechuan Jiang, Longtao Zheng, Xinrun Xu* · ([baai-agents.github](https://baai-agents.github.io/Cradle/)) · ([Cradle](https://github.com/BAAI-Agents/Cradle) - BAAI-Agents) ![Star](https://img.shields.io/github/stars/BAAI-Agents/Cradle.svg?style=social&label=Star)
+- **Human vs. Machine: Language Models and Wargames**, `arXiv, 2403.03407`, [arxiv](http://arxiv.org/abs/2403.03407v1), [pdf](http://arxiv.org/pdf/2403.03407v1.pdf), cication: [**-1**](None)
+
+	 *Max Lamparth, Anthony Corso, Jacob Ganz, Oriana Skylar Mastro, Jacquelyn Schneider, Harold Trinkunas*
 - [**pokellmon**](https://github.com/git-disl/pokellmon) - git-disl ![Star](https://img.shields.io/github/stars/git-disl/pokellmon.svg?style=social&label=Star)
 
 	 *PokéLLMon: A Human-Parity Agent for Pokémon Battles with Large Language Models*

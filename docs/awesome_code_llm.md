@@ -16,6 +16,9 @@
 	 *Ziyin Zhang, Chaoyu Chen, Bingchang Liu, Cong Liao, Zi Gong, Hang Yu, Jianguo Li, Rui Wang*
 
 ## Paper
+- [[2403.03163] Design2Code: How Far Are We From Automating Front-End Engineering?](https://arxiv.org/abs/2403.03163)
+
+	 · ([salt-nlp.github](https://salt-nlp.github.io/Design2Code/)) · ([Design2Code](https://github.com/NoviScl/Design2Code) - NoviScl) ![Star](https://img.shields.io/github/stars/NoviScl/Design2Code.svg?style=social&label=Star)
 - **StarCoder 2 and The Stack v2: The Next Generation**, `arXiv, 2402.19173`, [arxiv](http://arxiv.org/abs/2402.19173v1), [pdf](http://arxiv.org/pdf/2402.19173v1.pdf), cication: [**-1**](None)
 
 	 *Anton Lozhkov, Raymond Li, Loubna Ben Allal, Federico Cassano, Joel Lamy-Poirier, Nouamane Tazi, Ao Tang, Dmytro Pykhtar, Jiawei Liu, Yuxiang Wei*

@@ -45,6 +45,9 @@
 
 	 *Vladislav Lialin, Vijeta Deshpande, Anna Rumshisky*
 ## Efficient finetuning
+- **GaLore: Memory-Efficient LLM Training by Gradient Low-Rank Projection**, `arXiv, 2403.03507`, [arxiv](http://arxiv.org/abs/2403.03507v1), [pdf](http://arxiv.org/pdf/2403.03507v1.pdf), cication: [**-1**](None)
+
+	 *Jiawei Zhao, Zhenyu Zhang, Beidi Chen, Zhangyang Wang, Anima Anandkumar, Yuandong Tian*
 - **LoRA+: Efficient Low Rank Adaptation of Large Models**, `arXiv, 2402.12354`, [arxiv](http://arxiv.org/abs/2402.12354v1), [pdf](http://arxiv.org/pdf/2402.12354v1.pdf), cication: [**-1**](None)
 
 	 *Soufiane Hayou, Nikhil Ghosh, Bin Yu*
@@ -151,6 +154,9 @@
 	 *Xunyu Zhu, Jian Li, Yong Liu, Can Ma, Weiping Wang* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-08-26-5))
 
 ### Papers
+- **EasyQuant: An Efficient Data-free Quantization Algorithm for LLMs**, `arXiv, 2403.02775`, [arxiv](http://arxiv.org/abs/2403.02775v1), [pdf](http://arxiv.org/pdf/2403.02775v1.pdf), cication: [**-1**](None)
+
+	 *Hanlin Tang, Yifu Sun, Decheng Wu, Kai Liu, Jianchen Zhu, Zhanhui Kang*
 - **The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits**, `arXiv, 2402.17764`, [arxiv](http://arxiv.org/abs/2402.17764v1), [pdf](http://arxiv.org/pdf/2402.17764v1.pdf), cication: [**-1**](None)
 
 	 *Shuming Ma, Hongyu Wang, Lingxiao Ma, Lei Wang, Wenhui Wang, Shaohan Huang, Li Dong, Ruiping Wang, Jilong Xue, Furu Wei*
@@ -343,6 +349,10 @@
 	 *Yuxian Gu, Li Dong, Furu Wei, Minlie Huang*
 
 ## Pruning
+- **ShortGPT: Layers in Large Language Models are More Redundant Than You
+  Expect**, `arXiv, 2403.03853`, [arxiv](http://arxiv.org/abs/2403.03853v1), [pdf](http://arxiv.org/pdf/2403.03853v1.pdf), cication: [**-1**](None)
+
+	 *Xin Men, Mingyu Xu, Qingyu Zhang, Bingning Wang, Hongyu Lin, Yaojie Lu, Xianpei Han, Weipeng Chen*
 - **Shortened LLaMA: A Simple Depth Pruning for Large Language Models**, `arXiv, 2402.02834`, [arxiv](http://arxiv.org/abs/2402.02834v1), [pdf](http://arxiv.org/pdf/2402.02834v1.pdf), cication: [**-1**](None)
 
 	 *Bo-Kyeong Kim, Geonmin Kim, Tae-Ho Kim, Thibault Castells, Shinkook Choi, Junho Shin, Hyoung-Kyu Song*
@@ -365,6 +375,10 @@
 	 *A simple and effective LLM pruning approach.*
 
 ## Efficient Inference
+- **DéjàVu: KV-cache Streaming for Fast, Fault-tolerant Generative LLM
+  Serving**, `arXiv, 2403.01876`, [arxiv](http://arxiv.org/abs/2403.01876v1), [pdf](http://arxiv.org/pdf/2403.01876v1.pdf), cication: [**-1**](None)
+
+	 *Foteini Strati, Sara Mcallister, Amar Phanishayee, Jakub Tarnawski, Ana Klimovic*
 - **Think Big, Generate Quick: LLM-to-SLM for Fast Autoregressive Decoding**, `arXiv, 2402.16844`, [arxiv](http://arxiv.org/abs/2402.16844v1), [pdf](http://arxiv.org/pdf/2402.16844v1.pdf), cication: [**-1**](None)
 
 	 *Benjamin Bergner, Andrii Skliar, Amelie Royer, Tijmen Blankevoort, Yuki Asano, Babak Ehteshami Bejnordi*
