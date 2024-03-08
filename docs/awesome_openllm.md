@@ -353,6 +353,9 @@
 	 *基于CPM基础模型的中英双语多模态大模型系列* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-07-03-3))
 
 ### Yi-01
+- **Yi: Open Foundation Models by 01.AI**, `arXiv, 2403.04652`, [arxiv](http://arxiv.org/abs/2403.04652v1), [pdf](http://arxiv.org/pdf/2403.04652v1.pdf), cication: [**-1**](None)
+
+	 *01. AI, :, Alex Young, Bei Chen, Chao Li, Chengen Huang, Ge Zhang, Guanwei Zhang, Heng Li, Jiangcheng Zhu*
 - [**Yi-9B**](https://huggingface.co/01-ai/Yi-9B) - 01-ai 🤗
 - [**Yi**](https://github.com/01-ai/Yi) - 01-ai ![Star](https://img.shields.io/github/stars/01-ai/Yi.svg?style=social&label=Star)
 
@@ -430,6 +433,9 @@
 	 *TigerBot: A multi-language multi-task LLM* · ([qbitai](https://www.qbitai.com/2023/06/59416.html))
 
 ## Finetuning
+- **Rethinking LLM Language Adaptation: A Case Study on Chinese Mixtral**, `arXiv, 2403.01851`, [arxiv](http://arxiv.org/abs/2403.01851v1), [pdf](http://arxiv.org/pdf/2403.01851v1.pdf), cication: [**-1**](None)
+
+	 *Yiming Cui, Xin Yao* · ([Chinese-Mixtral](https://github.com/ymcui/Chinese-Mixtral) - ymcui) ![Star](https://img.shields.io/github/stars/ymcui/Chinese-Mixtral.svg?style=social&label=Star)
 - **Aurora:Activating Chinese chat capability for Mistral-8x7B sparse
   Mixture-of-Experts through Instruction-Tuning**, `arXiv, 2312.14557`, [arxiv](http://arxiv.org/abs/2312.14557v1), [pdf](http://arxiv.org/pdf/2312.14557v1.pdf), cication: [**-1**](None)
 

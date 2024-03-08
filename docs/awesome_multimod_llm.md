@@ -101,6 +101,15 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
+- **RegionGPT: Towards Region Understanding Vision Language Model**, `arXiv, 2403.02330`, [arxiv](http://arxiv.org/abs/2403.02330v1), [pdf](http://arxiv.org/pdf/2403.02330v1.pdf), cication: [**-1**](None)
+
+	 *Qiushan Guo, Shalini De Mello, Hongxu Yin, Wonmin Byeon, Ka Chun Cheung, Yizhou Yu, Ping Luo, Sifei Liu*
+- **Multi-modal Instruction Tuned LLMs with Fine-grained Visual Perception**, `arXiv, 2403.02969`, [arxiv](http://arxiv.org/abs/2403.02969v1), [pdf](http://arxiv.org/pdf/2403.02969v1.pdf), cication: [**-1**](None)
+
+	 *Junwen He, Yifan Wang, Lijun Wang, Huchuan Lu, Jun-Yan He, Jin-Peng Lan, Bin Luo, Xuansong Xie*
+- **How Far Are We from Intelligent Visual Deductive Reasoning?**, `arXiv, 2403.04732`, [arxiv](http://arxiv.org/abs/2403.04732v1), [pdf](http://arxiv.org/pdf/2403.04732v1.pdf), cication: [**-1**](None)
+
+	 *Yizhe Zhang, He Bai, Ruixiang Zhang, Jiatao Gu, Shuangfei Zhai, Josh Susskind, Navdeep Jaitly*
 - **Enhancing Vision-Language Pre-training with Rich Supervisions**, `arXiv, 2403.03346`, [arxiv](http://arxiv.org/abs/2403.03346v1), [pdf](http://arxiv.org/pdf/2403.03346v1.pdf), cication: [**-1**](None)
 
 	 *Yuan Gao, Kunyu Shi, Pengkai Zhu, Edouard Belval, Oren Nuriel, Srikar Appalaraju, Shabnam Ghadar, Vijay Mahadevan, Zhuowen Tu, Stefano Soatto*
@@ -877,6 +886,7 @@
 - [**BakLLaVA-1**](https://huggingface.co/SkunkworksAI/BakLLaVA-1) - SkunkworksAI 🤗
 
 ## Benchmarks
+- [**NPHardEval4V**](https://github.com/lizhouf/NPHardEval4V) - lizhouf ![Star](https://img.shields.io/github/stars/lizhouf/NPHardEval4V.svg?style=social&label=Star)
 - [**ConTextual**](https://github.com/rohan598/ConTextual) - rohan598 ![Star](https://img.shields.io/github/stars/rohan598/ConTextual.svg?style=social&label=Star)
 - [**TempCompass**](https://github.com/llyx97/TempCompass) - llyx97 ![Star](https://img.shields.io/github/stars/llyx97/TempCompass.svg?style=social&label=Star)
 

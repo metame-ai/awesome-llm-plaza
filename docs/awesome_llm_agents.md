@@ -28,6 +28,8 @@
 - **Retrieval-Augmented Generation for AI-Generated Content: A Survey**, `arXiv, 2402.19473`, [arxiv](http://arxiv.org/abs/2402.19473v1), [pdf](http://arxiv.org/pdf/2402.19473v1.pdf), cication: [**-1**](None)
 
 	 *Penghao Zhao, Hailin Zhang, Qinhan Yu, Zhengren Wang, Yunteng Geng, Fangcheng Fu, Ling Yang, Wentao Zhang, Bin Cui* · ([RAG-Survey](https://github.com/hymie122/RAG-Survey) - hymie122) ![Star](https://img.shields.io/github/stars/hymie122/RAG-Survey.svg?style=social&label=Star)
+
+	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495643&idx=2&sn=f759dc738477d76143ffc53a043b398c&poc_token=HPiN6mWjzo5Wn8_C9o639UGw2ABkm8pA7X9RusYq))
 - **Large Multimodal Agents: A Survey**, `arXiv, 2402.15116`, [arxiv](http://arxiv.org/abs/2402.15116v1), [pdf](http://arxiv.org/pdf/2402.15116v1.pdf), cication: [**-1**](None)
 
 	 *Junlin Xie, Zhihong Chen, Ruifei Zhang, Xiang Wan, Guanbin Li*
@@ -455,6 +457,9 @@
 - [AgentGPT](https://agentgpt.reworkd.ai/)
 
 ## Augmented LLM
+- **LLMs in the Imaginarium: Tool Learning through Simulated Trial and Error**, `arXiv, 2403.04746`, [arxiv](http://arxiv.org/abs/2403.04746v1), [pdf](http://arxiv.org/pdf/2403.04746v1.pdf), cication: [**-1**](None)
+
+	 *Boshi Wang, Hao Fang, Jason Eisner, Benjamin Van Durme, Yu Su*
 - [**gorilla**](https://github.com/ShishirPatil/gorilla) - ShishirPatil ![Star](https://img.shields.io/github/stars/ShishirPatil/gorilla.svg?style=social&label=Star)
 
 	 *Gorilla: An API store for LLMs* · ([gorilla.cs.berkeley](https://gorilla.cs.berkeley.edu/leaderboard.html))
@@ -611,6 +616,8 @@
 - **RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval**, `arXiv, 2401.18059`, [arxiv](http://arxiv.org/abs/2401.18059v1), [pdf](http://arxiv.org/pdf/2401.18059v1.pdf), cication: [**-1**](None)
 
 	 *Parth Sarthi, Salman Abdullah, Aditi Tuli, Shubh Khanna, Anna Goldie, Christopher D. Manning*
+
+	 · ([RAPTOR](https://github.com/parthsarthi03/RAPTOR) - parthsarthi03) ![Star](https://img.shields.io/github/stars/parthsarthi03/RAPTOR.svg?style=social&label=Star)
 - **Corrective Retrieval Augmented Generation**, `arXiv, 2401.15884`, [arxiv](http://arxiv.org/abs/2401.15884v1), [pdf](http://arxiv.org/pdf/2401.15884v1.pdf), cication: [**-1**](None)
 
 	 *Shi-Qi Yan, Jia-Chen Gu, Yun Zhu, Zhen-Hua Ling*
@@ -738,7 +745,8 @@
 
 	 *Train Models Contrastively in Pytorch* · ([huggingface](https://huggingface.co/nomic-ai/nomic-embed-text-v1)) · ([mp.weixin.qq](https://mp.weixin.qq.com/s/EMWNf9TiDwuxxkwwqsl73g))
 ### Other
-- [Fetching Title#eiq0](https://www.llamaindex.ai/blog/towards-long-context-rag)
+- [excellent demo of a highly capable LLM-RAG setup](https://twitter.com/rasbt/status/1765787891349749891)
+- [Towards Long Context RAG](https://www.llamaindex.ai/blog/towards-long-context-rag)
 - **The First Place Solution of WSDM Cup 2024: Leveraging Large Language
   Models for Conversational Multi-Doc QA**, `arXiv, 2402.18385`, [arxiv](http://arxiv.org/abs/2402.18385v1), [pdf](http://arxiv.org/pdf/2402.18385v1.pdf), cication: [**-1**](None)
 

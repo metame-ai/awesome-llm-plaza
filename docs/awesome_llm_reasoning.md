@@ -345,6 +345,7 @@ jj
 - [大模型Fewshot推理如何选择更好的示例](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495177&idx=2&sn=fe8353efed16a81e35462be06d5a6cea)
 
 ## Math reasoning
+- [[2403.04706] Common 7B Language Models Already Possess Strong Math Capabilities](https://arxiv.org/abs/2403.04706)
 - **MathScale: Scaling Instruction Tuning for Mathematical Reasoning**, `arXiv, 2403.02884`, [arxiv](http://arxiv.org/abs/2403.02884v1), [pdf](http://arxiv.org/pdf/2403.02884v1.pdf), cication: [**-1**](None)
 
 	 *Zhengyang Tang, Xingxing Zhang, Benyou Wang, Furu Wei*

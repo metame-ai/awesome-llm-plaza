@@ -187,6 +187,13 @@
 
 
 ## Medical
+- **Towards Training A Chinese Large Language Model for Anesthesiology**, `arXiv, 2403.02742`, [arxiv](http://arxiv.org/abs/2403.02742v1), [pdf](http://arxiv.org/pdf/2403.02742v1.pdf), cication: [**-1**](None)
+
+	 *Zhonghai Wang, Jie Jiang, Yibing Zhan, Bohao Zhou, Yanhong Li, Chong Zhang, Liang Ding, Hua Jin, Jun Peng, Xu Lin*
+- **Apollo: Lightweight Multilingual Medical LLMs towards Democratizing
+  Medical AI to 6B People**, `arXiv, 2403.03640`, [arxiv](http://arxiv.org/abs/2403.03640v1), [pdf](http://arxiv.org/pdf/2403.03640v1.pdf), cication: [**-1**](None)
+
+	 *Xidong Wang, Nuo Chen, Junyin Chen, Yan Hu, Yidong Wang, Xiangbo Wu, Anningzhe Gao, Xiang Wan, Haizhou Li, Benyou Wang* · ([apollo](https://github.com/freedomintelligence/apollo) - freedomintelligence) ![Star](https://img.shields.io/github/stars/freedomintelligence/apollo.svg?style=social&label=Star)
 - **DrugAssist: A Large Language Model for Molecule Optimization**, `arXiv, 2401.10334`, [arxiv](http://arxiv.org/abs/2401.10334v1), [pdf](http://arxiv.org/pdf/2401.10334v1.pdf), cication: [**-1**](None)
 
 	 *Geyan Ye, Xibao Cai, Houtim Lai, Xing Wang, Junhong Huang, Longyue Wang, Wei Liu, Xiangxiang Zeng* · ([drugassist](https://github.com/blazerye/drugassist) - blazerye) ![Star](https://img.shields.io/github/stars/blazerye/drugassist.svg?style=social&label=Star)
@@ -872,6 +879,9 @@
 	 *Itzik Malkiel, Uri Alon, Yakir Yehuda, Shahar Keren, Oren Barkan, Royi Ronen, Noam Koenigstein*
 
 ## Game
+- [**chessllm**](https://github.com/mlabonne/chessllm) - mlabonne ![Star](https://img.shields.io/github/stars/mlabonne/chessllm.svg?style=social&label=Star)
+
+	 · ([huggingface](https://huggingface.co/spaces/mlabonne/chessllm))
 - **Towards General Computer Control: A Multimodal Agent for Red Dead
   Redemption II as a Case Study**, `arXiv, 2403.03186`, [arxiv](http://arxiv.org/abs/2403.03186v1), [pdf](http://arxiv.org/pdf/2403.03186v1.pdf), cication: [**-1**](None)
 
@@ -905,6 +915,9 @@
 	 *An open source AI wearable device that captures what you say and hear in the real world and then transcribes and stores it on your own server. You can then chat with Adeus using the app, and it will have all the right context about what you want to talk about - a truly personalized, personal AI.* · ([qbitai](https://www.qbitai.com/2024/02/120864.html))
 
 ## Products
+- [Inflection-2.5: meet the world's best personal AI](https://inflection.ai/inflection-2-5)
+- [Synthical: Science, Simplified](https://synthical.com/)
+
 - [复盘“哄哄模拟器的复盘”：别错过这6点AI应用思考](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495598&idx=2&sn=37d18450708ff1eb4b6426ac52ccba64)
 - [开源大模型正在重塑企业AI应用，16个案例看看它们如何落地 | 机器之心](https://www.jiqizhixin.com/articles/2024-02-08-9)
 - [这个AI办公应用火了：简短提示词出PPT，打包GPTs帮你打工干活 | 量子位](https://www.qbitai.com/2024/02/121094.html)
@@ -915,7 +928,6 @@
 - [Glide AI | Build and deploy custom AI-powered apps for your business](https://www.glideapps.com/ai)
 - [蚂蚁集团开 “卷” 金融大模型，“四力和一” 解决产业真命题 | 机器之心](https://www.jiqizhixin.com/articles/2023-09-09-4)
 - [全球首个大模型Agent产品爆款出场！动动嘴让PC成为打工人](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652370902&idx=1&sn=1d7939cabeeae5a2260c7b0cf1da6c65)
-- [Synthical: Science, Simplified](https://synthical.com/)
 - [聆心智能超拟人模型CharacterGLM升级，助力AI实现「走心」突破 | 机器之心](https://www.jiqizhixin.com/articles/2023-07-31-4)
 - [Cortex](https://trycortex.ai/)
 - [顺网科技发布AI引擎"SPICE"以及个人陪伴应用"顺网灵悉" | 量子位](https://www.qbitai.com/2023/07/72178.html)

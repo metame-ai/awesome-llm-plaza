@@ -28,6 +28,13 @@
 	 *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang*
 
 ## Papers
+- **CLongEval: A Chinese Benchmark for Evaluating Long-Context Large
+  Language Models**, `arXiv, 2403.03514`, [arxiv](http://arxiv.org/abs/2403.03514v1), [pdf](http://arxiv.org/pdf/2403.03514v1.pdf), cication: [**-1**](None)
+
+	 *Zexuan Qiu, Jingjing Li, Shijue Huang, Wanjun Zhong, Irwin King*
+- **Chatbot Arena: An Open Platform for Evaluating LLMs by Human Preference**, `arXiv, 2403.04132`, [arxiv](http://arxiv.org/abs/2403.04132v1), [pdf](http://arxiv.org/pdf/2403.04132v1.pdf), cication: [**-1**](None)
+
+	 *Wei-Lin Chiang, Lianmin Zheng, Ying Sheng, Anastasios Nikolas Angelopoulos, Tianle Li, Dacheng Li, Hao Zhang, Banghua Zhu, Michael Jordan, Joseph E. Gonzalez*
 - **Evaluating Quantized Large Language Models**, `arXiv, 2402.18158`, [arxiv](http://arxiv.org/abs/2402.18158v1), [pdf](http://arxiv.org/pdf/2402.18158v1.pdf), cication: [**-1**](None)
 
 	 *Shiyao Li, Xuefei Ning, Luning Wang, Tengxuan Liu, Xiangsheng Shi, Shengen Yan, Guohao Dai, Huazhong Yang, Yu Wang*

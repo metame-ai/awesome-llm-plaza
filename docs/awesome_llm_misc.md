@@ -234,6 +234,9 @@
 	 *Abhimanyu Das, Weihao Kong, Rajat Sen, Yichen Zhou* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-05-9))
 
 ## Chat arena
+- **Chatbot Arena: An Open Platform for Evaluating LLMs by Human Preference**, `arXiv, 2403.04132`, [arxiv](http://arxiv.org/abs/2403.04132v1), [pdf](http://arxiv.org/pdf/2403.04132v1.pdf), cication: [**-1**](None)
+
+	 *Wei-Lin Chiang, Lianmin Zheng, Ying Sheng, Anastasios Nikolas Angelopoulos, Tianle Li, Dacheng Li, Hao Zhang, Banghua Zhu, Michael Jordan, Joseph E. Gonzalez*
 - [**GodMode**](https://github.com/smol-ai/GodMode) - smol-ai ![Star](https://img.shields.io/github/stars/smol-ai/GodMode.svg?style=social&label=Star)
 
 	 *AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.*
@@ -594,6 +597,7 @@
 	 · ([youtu](https://youtu.be/nOxKexn3iBo))
 
 ## Extra reference
+- [机器之心SOTA！模型](https://sota.jiqizhixin.com/)
 - [**how-to-optim-algorithm-in-cuda**](https://github.com/BBuf/how-to-optim-algorithm-in-cuda) - BBuf ![Star](https://img.shields.io/github/stars/BBuf/how-to-optim-algorithm-in-cuda.svg?style=social&label=Star)
 
 	 *how to optimize some algorithm in cuda.*

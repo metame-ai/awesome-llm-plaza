@@ -45,9 +45,15 @@
 
 	 *Vladislav Lialin, Vijeta Deshpande, Anna Rumshisky*
 ## Efficient finetuning
+- **Mixture-of-LoRAs: An Efficient Multitask Tuning for Large Language
+  Models**, `arXiv, 2403.03432`, [arxiv](http://arxiv.org/abs/2403.03432v1), [pdf](http://arxiv.org/pdf/2403.03432v1.pdf), cication: [**-1**](None)
+
+	 *Wenfeng Feng, Chuzhan Hao, Yuewei Zhang, Yu Han, Hao Wang*
 - **GaLore: Memory-Efficient LLM Training by Gradient Low-Rank Projection**, `arXiv, 2403.03507`, [arxiv](http://arxiv.org/abs/2403.03507v1), [pdf](http://arxiv.org/pdf/2403.03507v1.pdf), cication: [**-1**](None)
 
 	 *Jiawei Zhao, Zhenyu Zhang, Beidi Chen, Zhangyang Wang, Anima Anandkumar, Yuandong Tian*
+
+	 · ([galore](https://github.com/jiaweizzhao/galore) - jiaweizzhao) ![Star](https://img.shields.io/github/stars/jiaweizzhao/galore.svg?style=social&label=Star)
 - **LoRA+: Efficient Low Rank Adaptation of Large Models**, `arXiv, 2402.12354`, [arxiv](http://arxiv.org/abs/2402.12354v1), [pdf](http://arxiv.org/pdf/2402.12354v1.pdf), cication: [**-1**](None)
 
 	 *Soufiane Hayou, Nikhil Ghosh, Bin Yu*
@@ -652,6 +658,8 @@
   tradeoff**, `arXiv, 2402.18668`, [arxiv](http://arxiv.org/abs/2402.18668v1), [pdf](http://arxiv.org/pdf/2402.18668v1.pdf), cication: [**-1**](None)
 
 	 *Simran Arora, Sabri Eyuboglu, Michael Zhang, Aman Timalsina, Silas Alberti, Dylan Zinsley, James Zou, Atri Rudra, Christopher Ré*
+
+	 · ([based](https://github.com/hazyresearch/based) - hazyresearch) ![Star](https://img.shields.io/github/stars/hazyresearch/based.svg?style=social&label=Star)
 - **Griffin: Mixing Gated Linear Recurrences with Local Attention for
   Efficient Language Models**, `arXiv, 2402.19427`, [arxiv](http://arxiv.org/abs/2402.19427v1), [pdf](http://arxiv.org/pdf/2402.19427v1.pdf), cication: [**-1**](None)
 

@@ -180,6 +180,7 @@
 	 *Timo Kaufmann, Paul Weng, Viktor Bengs, Eyke Hüllermeier*
 
 ## Papers
+- [[2403.04642] Teaching Large Language Models to Reason with Reinforcement Learning](https://arxiv.org/abs/2403.04642)
 - **Back to Basics: Revisiting REINFORCE Style Optimization for Learning
   from Human Feedback in LLMs**, `arXiv, 2402.14740`, [arxiv](http://arxiv.org/abs/2402.14740v1), [pdf](http://arxiv.org/pdf/2402.14740v1.pdf), cication: [**-1**](None)
 
