@@ -391,6 +391,7 @@
 	 *Tanmay Gupta, Aniruddha Kembhavi*
 
 ### Other
+- [Stanford CS25: V3 I Beyond LLMs: Agents, Emergent Abilities, Intermediate-Guided Reasoning, BabyLM - YouTube](https://youtu.be/ylEk1TE1uBo?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM&t=1182)
 - [Open-source LLMs as LangChain Agents](https://huggingface.co/blog/open-source-llms-as-agents)
 
 - [从第一性原理看大模型Agent技术](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495233&idx=1&sn=a6f99f5ed298dc4dad8477979d0c19a8&poc_token=HARdjWWjobSAo4kfK_sgvyLGAic2WQe64y8tToVY)
@@ -528,6 +529,9 @@
 ### Other
 - [陈丹琦ACL学术报告来了！详解大模型「外挂」数据库7大方向3大挑战，3小时干货满满 | 量子位](https://www.qbitai.com/2023/07/67259.html)
 ## Web browsing
+- [**api**](https://github.com/MULTI-ON/api) - MULTI-ON ![Star](https://img.shields.io/github/stars/MULTI-ON/api.svg?style=social&label=Star)
+
+	 *MultiOn API*
 - **OmniACT: A Dataset and Benchmark for Enabling Multimodal Generalist
   Autonomous Agents for Desktop and Web**, `arXiv, 2402.17553`, [arxiv](http://arxiv.org/abs/2402.17553v1), [pdf](http://arxiv.org/pdf/2402.17553v1.pdf), cication: [**-1**](None)
 
@@ -580,6 +584,7 @@
 	 *Liang Wang, Nan Yang, Furu Wei* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495205&idx=2&sn=ac64211d4b112ca68b7562ea1e4a5a1f))
 
 ### Other
+
 - [GPT-4V学会用键鼠上网，人类眼睁睁看着它发帖玩游戏 | 量子位](https://www.qbitai.com/2023/11/95456.html)
 
 ## Retrieval agumented generation

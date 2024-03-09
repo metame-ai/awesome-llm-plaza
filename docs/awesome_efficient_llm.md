@@ -753,3 +753,8 @@
 - [EfficientML.ai Lecture, Fall 2023, MIT 6.5940 - YouTube](https://www.youtube.com/playlist?list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB)
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-09-25-15)) · ([bilibili](https://www.bilibili.com/video/BV1W14y1C7jv/?spm_id_from=333.999.0.0&vd_source=1453a06a1e0b377f5c40946333b4423a)) · ([dropbox](https://www.dropbox.com/sh/0ftluqbd1afzqpy/AADqxwkYrt1FbGnSQ4KP3Kpva?dl=0))
+
+## Extra Reference
+- [**Awesome-LLM-Compression**](https://github.com/HuangOwen/Awesome-LLM-Compression) - HuangOwen ![Star](https://img.shields.io/github/stars/HuangOwen/Awesome-LLM-Compression.svg?style=social&label=Star)
+
+	 *Awesome LLM compression research papers and tools.*

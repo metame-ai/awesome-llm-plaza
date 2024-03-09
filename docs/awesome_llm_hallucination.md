@@ -29,7 +29,9 @@
 	 *Cunxiang Wang, Xiaoze Liu, Yuanhao Yue, Xiangru Tang, Tianhang Zhang, Cheng Jiayang, Yunzhi Yao, Wenyang Gao, Xuming Hu, Zehan Qi* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-19-2))
 
 ## Papers
-- [[2403.02889] In Search of Truth: An Interrogation Approach to Hallucination Detection](https://arxiv.org/abs/2403.02889)
+- **In Search of Truth: An Interrogation Approach to Hallucination Detection**, `arXiv, 2403.02889`, [arxiv](http://arxiv.org/abs/2403.02889v1), [pdf](http://arxiv.org/pdf/2403.02889v1.pdf), cication: [**-1**](None)
+
+	 *Yakir Yehuda, Itzik Malkiel, Oren Barkan, Jonathan Weill, Royi Ronen, Noam Koenigstein*
 - **Fine-grained Hallucination Detection and Editing for Language Models**, `arXiv, 2401.06855`, [arxiv](http://arxiv.org/abs/2401.06855v2), [pdf](http://arxiv.org/pdf/2401.06855v2.pdf), cication: [**-1**](None)
 
 	 *Abhika Mishra, Akari Asai, Vidhisha Balachandran, Yizhong Wang, Graham Neubig, Yulia Tsvetkov, Hannaneh Hajishirzi* · ([huggingface](https://huggingface.co/spaces/fava-uw/fava))

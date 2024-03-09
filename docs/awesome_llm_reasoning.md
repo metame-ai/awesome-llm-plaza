@@ -345,7 +345,9 @@ jj
 - [大模型Fewshot推理如何选择更好的示例](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495177&idx=2&sn=fe8353efed16a81e35462be06d5a6cea)
 
 ## Math reasoning
-- [[2403.04706] Common 7B Language Models Already Possess Strong Math Capabilities](https://arxiv.org/abs/2403.04706)
+- **Common 7B Language Models Already Possess Strong Math Capabilities**, `arXiv, 2403.04706`, [arxiv](http://arxiv.org/abs/2403.04706v1), [pdf](http://arxiv.org/pdf/2403.04706v1.pdf), cication: [**-1**](None)
+
+	 *Chen Li, Weiqi Wang, Jingcheng Hu, Yixuan Wei, Nanning Zheng, Han Hu, Zheng Zhang, Houwen Peng*
 - **MathScale: Scaling Instruction Tuning for Mathematical Reasoning**, `arXiv, 2403.02884`, [arxiv](http://arxiv.org/abs/2403.02884v1), [pdf](http://arxiv.org/pdf/2403.02884v1.pdf), cication: [**-1**](None)
 
 	 *Zhengyang Tang, Xingxing Zhang, Benyou Wang, Furu Wei*
@@ -598,6 +600,7 @@ jj
 	 *Maciej Besta, Nils Blach, Ales Kubicek, Robert Gerstenberger, Lukas Gianinazzi, Joanna Gajda, Tomasz Lehmann, Michal Podstawski, Hubert Niewiadomski, Piotr Nyczyk* · ([graph-of-thoughts](https://github.com/spcl/graph-of-thoughts) - spcl) ![Star](https://img.shields.io/github/stars/spcl/graph-of-thoughts.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-08-25-3))
 
 ### Other
+- [Stanford CS25: V3 I Beyond LLMs: Agents, Emergent Abilities, Intermediate-Guided Reasoning, BabyLM - YouTube](https://youtu.be/ylEk1TE1uBo?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM&t=469)
 - [Steering at the Frontier: Extending the Power of Prompting - Microsoft Research](https://www.microsoft.com/en-us/research/blog/steering-at-the-frontier-extending-the-power-of-prompting/)
 
 - [Meta官方的Prompt工程指南：Llama 2这样用更高效 | 机器之心](https://www.jiqizhixin.com/articles/2024-01-29-13)
