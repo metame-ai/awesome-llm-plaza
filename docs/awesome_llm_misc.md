@@ -76,6 +76,8 @@
 - [Catching up on the weird world of LLMs](https://simonwillison.net/2023/Aug/3/weird-world-of-llms/)
 
 ## Toolkits
+
+- [**ChatGPT4**](https://huggingface.co/spaces/yuntian-deng/ChatGPT4) - yuntian-deng 🤗
 - [**amazing-openai-api**](https://github.com/soulteary/amazing-openai-api) - soulteary ![Star](https://img.shields.io/github/stars/soulteary/amazing-openai-api.svg?style=social&label=Star)
 
 	 *Convert different model APIs into the OpenAI API format out of the box.*
@@ -220,6 +222,9 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652366759&idx=2&sn=48422d1a7ffae891ea61108761f4d582))
 
 - [what a world model is](https://twitter.com/ylecun/status/1759933365241921817)
+
+
+- [图灵奖得主LeCun最新专访：为什么物理世界终将成为LLM的「死穴」？](https://mp.weixin.qq.com/s?__biz=MzIyMzk1MDE3Nw==&mid=2247629387&idx=1&sn=d8246e2f1f134cb3c635f915a2d0af90)
 - [OpenAI「登月计划」剑指超级AI！LeCun提出AGI之路七阶段，打造世界模型是首位](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652419855&idx=3&sn=a5f20e0a0061c01e1ec87d4a81c23e68)
 ## Forecasting
 - **Lag-Llama: Towards Foundation Models for Probabilistic Time Series
@@ -356,6 +361,7 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652345558&idx=4&sn=95686435d5cad05d44cbe02bc26d6859))
 
 ## Interpretability 
+- [Reflections on Qualitative Research](https://transformer-circuits.pub/2024/qualitative-essay/index.html)
 - [Claude-3's uncanny "awareness"](https://twitter.com/DrJimFan/status/1765076396404363435)
 - **AtP*: An efficient and scalable method for localizing LLM behaviour to
   components**, `arXiv, 2403.00745`, [arxiv](http://arxiv.org/abs/2403.00745v1), [pdf](http://arxiv.org/pdf/2403.00745v1.pdf), cication: [**-1**](None)
@@ -489,6 +495,9 @@
 	 *Must-read Papers on Model Editing.*
 
 ## AGI insights
+- [My AI Timelines Have Sped Up (Again)](https://www.alexirpan.com/2024/01/10/ai-timelines-2024.html)
+
+	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652453308&idx=2&sn=9101acc27aeff38e2f6f732357011b9c))
 - **Computing Power and the Governance of Artificial Intelligence**, `arXiv, 2402.08797`, [arxiv](http://arxiv.org/abs/2402.08797v1), [pdf](http://arxiv.org/pdf/2402.08797v1.pdf), cication: [**-1**](None)
 
 	 *Girish Sastry, Lennart Heim, Haydn Belfield, Markus Anderljung, Miles Brundage, Julian Hazell, Cullen O'Keefe, Gillian K. Hadfield, Richard Ngo, Konstantin Pilz*
@@ -512,6 +521,7 @@
 	 *Patrick Butlin, Robert Long, Eric Elmoznino, Yoshua Bengio, Jonathan Birch, Axel Constant, George Deane, Stephen M. Fleming, Chris Frith, Xu Ji* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-08-22-4))
 - [Collective Intelligence for Deep Learning: A Survey of Recent Developments | 大トロ](https://blog.otoro.net/2022/10/01/collectiveintelligence/)
 
+- [图灵奖得主、神经网络之父Hinton最新公开演讲：数字智能会取代生物智能吗？（全文及PPT）](https://mp.weixin.qq.com/s?__biz=MzIyMzk1MDE3Nw==&mid=2247629387&idx=2&sn=fe485c8faa0cc42b23d1a91ded7cdb66)
 - [好问题比好答案更重要｜沈向洋大模型五问](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494275&idx=1&sn=4860205e6043435fe7ff871c8fb4c9c1)
 
 ## Callibration

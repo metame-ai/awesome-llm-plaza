@@ -150,6 +150,10 @@
 	 *Yizhe Zhang, Jiatao Gu, Zhuofeng Wu, Shuangfei Zhai, Josh Susskind, Navdeep Jaitly*
 
 ## WebUI
+- [**chatnio**](https://github.com/Deeptrain-Community/chatnio) - Deeptrain-Community ![Star](https://img.shields.io/github/stars/Deeptrain-Community/chatnio.svg?style=social&label=Star)
+
+	 *🚀 下一代 AI 一站式解决方案，一站式 Chat + 中转 API 站点，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Google Gemini (PaLM2)，Moonshot，LocalAI 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费 / 订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。*
+- [**chat-ollama**](https://github.com/sugarforever/chat-ollama) - sugarforever ![Star](https://img.shields.io/github/stars/sugarforever/chat-ollama.svg?style=social&label=Star)
 - [**ChatGemini**](https://github.com/bclswl0827/ChatGemini) - bclswl0827 ![Star](https://img.shields.io/github/stars/bclswl0827/ChatGemini.svg?style=social&label=Star)
 
 	 *✨ ChatGemini 是一个基于 Google Gemini 的网页客户端，对标 ChatGPT 3.5，操作逻辑同 ChatGPT 3.5 一致，同时支持在聊天中上传图片，应用会自动调用 Gemini-Pro-Vision 模型进行识图。*
@@ -561,6 +565,9 @@
 	 *Tiffany Tseng, Ruijia Cheng, Jeffrey Nichols*
 
 ## Vision
+- **ELLA: Equip Diffusion Models with LLM for Enhanced Semantic Alignment**, `arXiv, 2403.05135`, [arxiv](http://arxiv.org/abs/2403.05135v1), [pdf](http://arxiv.org/pdf/2403.05135v1.pdf), cication: [**-1**](None)
+
+	 *Xiwei Hu, Rui Wang, Yixiao Fang, Bin Fu, Pei Cheng, Gang Yu*
 - **Modeling Collaborator: Enabling Subjective Vision Classification With
   Minimal Human Effort via LLM Tool-Use**, `arXiv, 2403.02626`, [arxiv](http://arxiv.org/abs/2403.02626v1), [pdf](http://arxiv.org/pdf/2403.02626v1.pdf), cication: [**-1**](None)
 

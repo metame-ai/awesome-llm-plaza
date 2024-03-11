@@ -110,6 +110,10 @@
 	 *Kaiyuan Gao, Sunan He, Zhenyu He, Jiacheng Lin, QiZhi Pei, Jie Shao, Wei Zhang* · ([gpt_alternatives](https://github.com/GPT-Alternatives/gpt_alternatives) - GPT-Alternatives) ![Star](https://img.shields.io/github/stars/GPT-Alternatives/gpt_alternatives.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-09-12-3))
 
 ### Gemma
+- **Gemini 1.5: Unlocking multimodal understanding across millions of tokens
+  of context**, `arXiv, 2403.05530`, [arxiv](http://arxiv.org/abs/2403.05530v1), [pdf](http://arxiv.org/pdf/2403.05530v1.pdf), cication: [**-1**](None)
+
+	 *Machel Reid, Nikolay Savinov, Denis Teplyashin, Dmitry Lepikhin, Timothy Lillicrap, Jean-baptiste Alayrac, Radu Soricut, Angeliki Lazaridou, Orhan Firat, Julian Schrittwieser*
 - [Unsloth Fixing Gemma bugs](https://unsloth.ai/blog/gemma-bugs)
 
 	 · ([twitter](https://twitter.com/danielhanchen/status/1765446273661075609))
@@ -127,6 +131,7 @@
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-28-9))
 - [**gemma-7b-dolly-chatml**](https://huggingface.co/philschmid/gemma-7b-dolly-chatml) - philschmid 🤗
+- [**catch-me-if-you-can**](https://huggingface.co/spaces/cyzgab/catch-me-if-you-can) - cyzgab 🤗
 
 ### OLMo
 - **OLMo: Accelerating the Science of Language Models**, `arXiv, 2402.00838`, [arxiv](http://arxiv.org/abs/2402.00838v1), [pdf](http://arxiv.org/pdf/2402.00838v1.pdf), cication: [**-1**](None)

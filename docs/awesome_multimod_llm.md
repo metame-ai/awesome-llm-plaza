@@ -101,6 +101,9 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
+- **DeepSeek-VL: Towards Real-World Vision-Language Understanding**, `arXiv, 2403.05525`, [arxiv](http://arxiv.org/abs/2403.05525v1), [pdf](http://arxiv.org/pdf/2403.05525v1.pdf), cication: [**-1**](None)
+
+	 *Haoyu Lu, Wen Liu, Bo Zhang, Bingxuan Wang, Kai Dong, Bo Liu, Jingxiang Sun, Tongzheng Ren, Zhuoshu Li, Yaofeng Sun*
 - **RegionGPT: Towards Region Understanding Vision Language Model**, `arXiv, 2403.02330`, [arxiv](http://arxiv.org/abs/2403.02330v1), [pdf](http://arxiv.org/pdf/2403.02330v1.pdf), cication: [**-1**](None)
 
 	 *Qiushan Guo, Shalini De Mello, Hongxu Yin, Wonmin Byeon, Ka Chun Cheung, Yizhou Yu, Ping Luo, Sifei Liu*

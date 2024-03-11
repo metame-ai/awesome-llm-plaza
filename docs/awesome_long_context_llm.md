@@ -28,6 +28,10 @@
 	 *Adyasha Maharana, Dong-Ho Lee, Sergey Tulyakov, Mohit Bansal, Francesco Barbieri, Yuwei Fang*
 
 ## Papers
+- **Gemini 1.5: Unlocking multimodal understanding across millions of tokens
+  of context**, `arXiv, 2403.05530`, [arxiv](http://arxiv.org/abs/2403.05530v1), [pdf](http://arxiv.org/pdf/2403.05530v1.pdf), cication: [**-1**](None)
+
+	 *Machel Reid, Nikolay Savinov, Denis Teplyashin, Dmitry Lepikhin, Timothy Lillicrap, Jean-baptiste Alayrac, Radu Soricut, Angeliki Lazaridou, Orhan Firat, Julian Schrittwieser*
 - **Resonance RoPE: Improving Context Length Generalization of Large
   Language Models**, `arXiv, 2403.00071`, [arxiv](http://arxiv.org/abs/2403.00071v1), [pdf](http://arxiv.org/pdf/2403.00071v1.pdf), cication: [**-1**](None)
 

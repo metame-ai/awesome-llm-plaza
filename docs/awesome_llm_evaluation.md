@@ -35,6 +35,10 @@
 - **Chatbot Arena: An Open Platform for Evaluating LLMs by Human Preference**, `arXiv, 2403.04132`, [arxiv](http://arxiv.org/abs/2403.04132v1), [pdf](http://arxiv.org/pdf/2403.04132v1.pdf), cication: [**-1**](None)
 
 	 *Wei-Lin Chiang, Lianmin Zheng, Ying Sheng, Anastasios Nikolas Angelopoulos, Tianle Li, Dacheng Li, Hao Zhang, Banghua Zhu, Michael Jordan, Joseph E. Gonzalez*
+- **Functional Benchmarks for Robust Evaluation of Reasoning Performance,
+  and the Reasoning Gap**, `arXiv, 2402.19450`, [arxiv](http://arxiv.org/abs/2402.19450v1), [pdf](http://arxiv.org/pdf/2402.19450v1.pdf), cication: [**-1**](None)
+
+	 *Saurabh Srivastava, Annarose M B, Anto P V, Shashank Menon, Ajay Sukumar, Adwaith Samod T, Alan Philipose, Stevin Prince, Sooraj Thomas* · ([fneval](https://github.com/consequentai/fneval/) - consequentai) ![Star](https://img.shields.io/github/stars/consequentai/fneval.svg?style=social&label=Star)
 - **Evaluating Quantized Large Language Models**, `arXiv, 2402.18158`, [arxiv](http://arxiv.org/abs/2402.18158v1), [pdf](http://arxiv.org/pdf/2402.18158v1.pdf), cication: [**-1**](None)
 
 	 *Shiyao Li, Xuefei Ning, Luning Wang, Tengxuan Liu, Xiangsheng Shi, Shengen Yan, Guohao Dai, Huazhong Yang, Yu Wang*
@@ -388,6 +392,7 @@
 	 *Lianmin Zheng, Wei-Lin Chiang, Ying Sheng, Siyuan Zhuang, Zhanghao Wu, Yonghao Zhuang, Zi Lin, Zhuohan Li, Dacheng Li, Eric. P Xing*
 
 ## Projects
+- [**WildBench**](https://huggingface.co/spaces/allenai/WildBench) - allenai 🤗
 - [**gorilla**](https://github.com/ShishirPatil/gorilla) - ShishirPatil ![Star](https://img.shields.io/github/stars/ShishirPatil/gorilla.svg?style=social&label=Star)
 
 	 *Gorilla: An API store for LLMs* · ([gorilla.cs.berkeley](https://gorilla.cs.berkeley.edu/leaderboard.html))

@@ -74,9 +74,14 @@
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-18-4))
 ## Agents
+- [[2402.15538] AgentLite: A Lightweight Library for Building and Advancing Task-Oriented LLM Agent System](https://arxiv.org/abs/2402.15538)
+
+	 · ([agentlite](https://github.com/salesforceairesearch/agentlite) - salesforceairesearch) ![Star](https://img.shields.io/github/stars/salesforceairesearch/agentlite.svg?style=social&label=Star)
 - **KnowAgent: Knowledge-Augmented Planning for LLM-Based Agents**, `arXiv, 2403.03101`, [arxiv](http://arxiv.org/abs/2403.03101v1), [pdf](http://arxiv.org/pdf/2403.03101v1.pdf), cication: [**-1**](None)
 
 	 *Yuqi Zhu, Shuofei Qiao, Yixin Ou, Shumin Deng, Ningyu Zhang, Shiwei Lyu, Yue Shen, Lei Liang, Jinjie Gu, Huajun Chen*
+
+	 · ([KnowAgent](https://github.com/zjunlp/KnowAgent) - zjunlp) ![Star](https://img.shields.io/github/stars/zjunlp/KnowAgent.svg?style=social&label=Star) · ([zjunlp.github](https://zjunlp.github.io/project/KnowAgent/))
 - **Trial and Error: Exploration-Based Trajectory Optimization for LLM
   Agents**, `arXiv, 2403.02502`, [arxiv](http://arxiv.org/abs/2403.02502v1), [pdf](http://arxiv.org/pdf/2403.02502v1.pdf), cication: [**-1**](None)
 
@@ -461,6 +466,8 @@
 - **LLMs in the Imaginarium: Tool Learning through Simulated Trial and Error**, `arXiv, 2403.04746`, [arxiv](http://arxiv.org/abs/2403.04746v1), [pdf](http://arxiv.org/pdf/2403.04746v1.pdf), cication: [**-1**](None)
 
 	 *Boshi Wang, Hao Fang, Jason Eisner, Benjamin Van Durme, Yu Su*
+
+	 · ([simulated-trial-and-error](https://github.com/microsoft/simulated-trial-and-error) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/simulated-trial-and-error.svg?style=social&label=Star)
 - [**gorilla**](https://github.com/ShishirPatil/gorilla) - ShishirPatil ![Star](https://img.shields.io/github/stars/ShishirPatil/gorilla.svg?style=social&label=Star)
 
 	 *Gorilla: An API store for LLMs* · ([gorilla.cs.berkeley](https://gorilla.cs.berkeley.edu/leaderboard.html))
