@@ -14,6 +14,9 @@
 
 
 ## Survey
+- **On Protecting the Data Privacy of Large Language Models (LLMs): A Survey**, `arXiv, 2403.05156`, [arxiv](http://arxiv.org/abs/2403.05156v1), [pdf](http://arxiv.org/pdf/2403.05156v1.pdf), cication: [**-1**](None)
+
+	 *Biwei Yan, Kun Li, Minghui Xu, Yueyan Dong, Yue Zhang, Zhaochun Ren, Xiuzheng Cheng*
 - [**fm-cheatsheet**](https://github.com/allenai/fm-cheatsheet/tree/main) - allenai ![Star](https://img.shields.io/github/stars/allenai/fm-cheatsheet.svg?style=social&label=Star)
 
 	 *Website for hosting the Open Foundation Models Cheat Sheet.* · ([fm-cheatsheet](https://github.com/allenai/fm-cheatsheet/blob/main/app/resources/paper.pdf) - allenai) ![Star](https://img.shields.io/github/stars/allenai/fm-cheatsheet.svg?style=social&label=Star)
@@ -30,6 +33,9 @@
 	 *Zige Wang, Wanjun Zhong, Yufei Wang, Qi Zhu, Fei Mi, Baojun Wang, Lifeng Shang, Xin Jiang, Qun Liu*
 
 ## Techs
+- **Are Human Conversations Special? A Large Language Model Perspective**, `arXiv, 2403.05045`, [arxiv](http://arxiv.org/abs/2403.05045v1), [pdf](http://arxiv.org/pdf/2403.05045v1.pdf), cication: [**-1**](None)
+
+	 *Toshish Jawale, Chaitanya Animesh, Sekhar Vallath, Kartik Talamadupula, Larry Heck*
 - **Learning to Generate Instruction Tuning Datasets for Zero-Shot Task
   Adaptation**, `arXiv, 2402.18334`, [arxiv](http://arxiv.org/abs/2402.18334v1), [pdf](http://arxiv.org/pdf/2402.18334v1.pdf), cication: [**-1**](None)
 

@@ -595,6 +595,9 @@
 - [GPT-4V学会用键鼠上网，人类眼睁睁看着它发帖玩游戏 | 量子位](https://www.qbitai.com/2023/11/95456.html)
 
 ## Retrieval agumented generation
+- [[2403.05313] RAT: Retrieval Augmented Thoughts Elicit Context-Aware Reasoning in Long-Horizon Generation](https://arxiv.org/abs/2403.05313)
+
+	 · ([craftjarvis.github](https://craftjarvis.github.io/RAT))
 - **Backtracing: Retrieving the Cause of the Query**, `arXiv, 2403.03956`, [arxiv](http://arxiv.org/abs/2403.03956v1), [pdf](http://arxiv.org/pdf/2403.03956v1.pdf), cication: [**-1**](None)
 
 	 *Rose E. Wang, Pawan Wirawarn, Omar Khattab, Noah Goodman, Dorottya Demszky* · ([backtracing](https://github.com/rosewang2008/backtracing/blob/main) - rosewang2008) ![Star](https://img.shields.io/github/stars/rosewang2008/backtracing.svg?style=social&label=Star)
@@ -792,6 +795,9 @@
 	 *OpenAI's Code Interpreter in your terminal, running locally*
 
 ## GPTs
+- [**BlackFriday-GPTs-Prompts**](https://github.com/friuns2/BlackFriday-GPTs-Prompts) - friuns2 ![Star](https://img.shields.io/github/stars/friuns2/BlackFriday-GPTs-Prompts.svg?style=social&label=Star)
+
+	 *List of free GPTs that doesn't require plus subscription*
 - [**GPTs**](https://github.com/linexjlin/GPTs) - linexjlin ![Star](https://img.shields.io/github/stars/linexjlin/GPTs.svg?style=social&label=Star)
 
 	 *leaked prompts of GPTs*

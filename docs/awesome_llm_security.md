@@ -9,6 +9,7 @@
 
 
 ## Survey
+- [Fetching Title#blev](https://arxiv.org/abs/2403.04786)
 - **Open-Sourcing Highly Capable Foundation Models: An evaluation of risks,
   benefits, and alternative methods for pursuing open-source objectives**, `arXiv, 2311.09227`, [arxiv](http://arxiv.org/abs/2311.09227v1), [pdf](http://arxiv.org/pdf/2311.09227v1.pdf), cication: [**-1**](None)
 
@@ -16,6 +17,9 @@
 - [**Adversarial Attacks on LLMs | Lil'Log**](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/)
 
 ## Red teaming
+- **A Safe Harbor for AI Evaluation and Red Teaming**, `arXiv, 2403.04893`, [arxiv](http://arxiv.org/abs/2403.04893v1), [pdf](http://arxiv.org/pdf/2403.04893v1.pdf), cication: [**-1**](None)
+
+	 *Shayne Longpre, Sayash Kapoor, Kevin Klyman, Ashwin Ramaswami, Rishi Bommasani, Borhane Blili-Hamelin, Yangsibo Huang, Aviya Skowron, Zheng-Xin Yong, Suhas Kotha*
 - **Rainbow Teaming: Open-Ended Generation of Diverse Adversarial Prompts**, `arXiv, 2402.16822`, [arxiv](http://arxiv.org/abs/2402.16822v1), [pdf](http://arxiv.org/pdf/2402.16822v1.pdf), cication: [**-1**](None)
 
 	 *Mikayel Samvelyan, Sharath Chandra Raparthy, Andrei Lupu, Eric Hambro, Aram H. Markosyan, Manish Bhatt, Yuning Mao, Minqi Jiang, Jack Parker-Holder, Jakob Foerster*
@@ -86,7 +90,6 @@
 - **Exploiting Novel GPT-4 APIs**, `arXiv, 2312.14302`, [arxiv](http://arxiv.org/abs/2312.14302v1), [pdf](http://arxiv.org/pdf/2312.14302v1.pdf), cication: [**-1**](None)
 
 	 *Kellin Pelrine, Mohammad Taufeeque, Michał Zając, Euan McLean, Adam Gleave*
-	- 
 - [**adversarial-random-search-gpt4**](https://github.com/max-andr/adversarial-random-search-gpt4) - max-andr ![Star](https://img.shields.io/github/stars/max-andr/adversarial-random-search-gpt4.svg?style=social&label=Star)
 
 	 *Adversarial Attacks on GPT-4 via Simple Random Search [Dec 2023]* · ([andriushchenko](https://www.andriushchenko.me/gpt4adv.pdf))

@@ -223,7 +223,7 @@
 	 · [intercode-benchmark.github](https://intercode-benchmark.github.io/)
 
 ## Projects
-
+- [StarChat2 15B - a HuggingFaceH4 Collection](https://huggingface.co/collections/HuggingFaceH4/starchat2-15b-65f068417b330fafad751fce)
 - [**oss-fuzz-gen**](https://github.com/google/oss-fuzz-gen) - google ![Star](https://img.shields.io/github/stars/google/oss-fuzz-gen.svg?style=social&label=Star)
 
 	 *LLM powered fuzzing via OSS-Fuzz.*
@@ -302,6 +302,7 @@
 	 *Specify what you want it to build, the AI asks for clarification, and then builds it.*
 
 ## Other
+- [Introducing Devin, the first AI software engineer](https://www.cognition-labs.com/blog)
 - [phind.com/blog/introducing-phind-70b](https://www.phind.com/blog/introducing-phind-70b)
 - [Personal Copilot: Train Your Own Coding Assistant](https://huggingface.co/blog/personal-copilot)
 - [Introducing SafeCoder](https://huggingface.co/blog/safecoder)

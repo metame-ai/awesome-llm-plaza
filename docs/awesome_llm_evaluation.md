@@ -28,6 +28,14 @@
 	 *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang*
 
 ## Papers
+- **AC-EVAL: Evaluating Ancient Chinese Language Understanding in Large
+  Language Models**, `arXiv, 2403.06574`, [arxiv](http://arxiv.org/abs/2403.06574v1), [pdf](http://arxiv.org/pdf/2403.06574v1.pdf), cication: [**-1**](None)
+
+	 *Yuting Wei, Yuanxing Xu, Xinru Wei, Simin Yang, Yangfu Zhu, Yuqing Li, Di Liu, Bin Wu* · ([AC-EVAL](https://github.com/yuting-wei/AC-EVAL?tab=readme-ov-file) - yuting-wei) ![Star](https://img.shields.io/github/stars/yuting-wei/AC-EVAL.svg?style=social&label=Star)
+- **WorkArena: How Capable Are Web Agents at Solving Common Knowledge Work
+  Tasks?**, `arXiv, 2403.07718`, [arxiv](http://arxiv.org/abs/2403.07718v1), [pdf](http://arxiv.org/pdf/2403.07718v1.pdf), cication: [**-1**](None)
+
+	 *Alexandre Drouin, Maxime Gasse, Massimo Caccia, Issam H. Laradji, Manuel Del Verme, Tom Marty, Léo Boisvert, Megh Thakkar, Quentin Cappart, David Vazquez*
 - **CLongEval: A Chinese Benchmark for Evaluating Long-Context Large
   Language Models**, `arXiv, 2403.03514`, [arxiv](http://arxiv.org/abs/2403.03514v1), [pdf](http://arxiv.org/pdf/2403.03514v1.pdf), cication: [**-1**](None)
 

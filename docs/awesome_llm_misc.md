@@ -76,7 +76,7 @@
 - [Catching up on the weird world of LLMs](https://simonwillison.net/2023/Aug/3/weird-world-of-llms/)
 
 ## Toolkits
-
+- [**chat-langchain**](https://github.com/langchain-ai/chat-langchain) - langchain-ai ![Star](https://img.shields.io/github/stars/langchain-ai/chat-langchain.svg?style=social&label=Star)
 - [**ChatGPT4**](https://huggingface.co/spaces/yuntian-deng/ChatGPT4) - yuntian-deng 🤗
 - [**amazing-openai-api**](https://github.com/soulteary/amazing-openai-api) - soulteary ![Star](https://img.shields.io/github/stars/soulteary/amazing-openai-api.svg?style=social&label=Star)
 
@@ -227,6 +227,7 @@
 - [图灵奖得主LeCun最新专访：为什么物理世界终将成为LLM的「死穴」？](https://mp.weixin.qq.com/s?__biz=MzIyMzk1MDE3Nw==&mid=2247629387&idx=1&sn=d8246e2f1f134cb3c635f915a2d0af90)
 - [OpenAI「登月计划」剑指超级AI！LeCun提出AGI之路七阶段，打造世界模型是首位](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652419855&idx=3&sn=a5f20e0a0061c01e1ec87d4a81c23e68)
 ## Forecasting
+- [[2403.07815] Chronos: Learning the Language of Time Series](https://arxiv.org/abs/2403.07815)
 - **Lag-Llama: Towards Foundation Models for Probabilistic Time Series
   Forecasting**, `arXiv, 2310.08278`, [arxiv](http://arxiv.org/abs/2310.08278v3), [pdf](http://arxiv.org/pdf/2310.08278v3.pdf), cication: [**11**](https://scholar.google.com/scholar?cites=8753400217691232559&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
@@ -250,6 +251,9 @@
 	 *Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers*
 
 ## State Space Model
+- **VideoMamba: State Space Model for Efficient Video Understanding**, `arXiv, 2403.06977`, [arxiv](http://arxiv.org/abs/2403.06977v2), [pdf](http://arxiv.org/pdf/2403.06977v2.pdf), cication: [**-1**](None)
+
+	 *Kunchang Li, Xinhao Li, Yi Wang, Yinan He, Yali Wang, Limin Wang, Yu Qiao* · ([VideoMamba](https://github.com/OpenGVLab/VideoMamba) - OpenGVLab) ![Star](https://img.shields.io/github/stars/OpenGVLab/VideoMamba.svg?style=social&label=Star)
 - **DenseMamba: State Space Models with Dense Hidden Connection for
   Efficient Large Language Models**, `arXiv, 2403.00818`, [arxiv](http://arxiv.org/abs/2403.00818v2), [pdf](http://arxiv.org/pdf/2403.00818v2.pdf), cication: [**-1**](None)
 
@@ -319,6 +323,10 @@
 	 *John Hewitt, John Thickstun, Christopher D. Manning, Percy Liang* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-06-25-5)) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI1MjQ2OTQ3Ng==&mid=2247608689&idx=2&sn=ed29c1ee1f571f98b191805472feb79a))
 
 ## LLM detection
+- **Decoding the AI Pen: Techniques and Challenges in Detecting AI-Generated
+  Text**, `arXiv, 2403.05750`, [arxiv](http://arxiv.org/abs/2403.05750v1), [pdf](http://arxiv.org/pdf/2403.05750v1.pdf), cication: [**-1**](None)
+
+	 *Sara Abdali, Richard Anarfi, CJ Barberan, Jia He*
 - [AI Watermarking 101: Tools and Techniques](https://huggingface.co/blog/watermarking)
 - **Watermarking Makes Language Models Radioactive**, `arXiv, 2402.14904`, [arxiv](http://arxiv.org/abs/2402.14904v1), [pdf](http://arxiv.org/pdf/2402.14904v1.pdf), cication: [**-1**](None)
 
@@ -361,6 +369,12 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652345558&idx=4&sn=95686435d5cad05d44cbe02bc26d6859))
 
 ## Interpretability 
+- [**transformer-debugger**](https://github.com/openai/transformer-debugger) - openai ![Star](https://img.shields.io/github/stars/openai/transformer-debugger.svg?style=social&label=Star)
+
+	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-03-12-3))
+- [[2403.06634] Stealing Part of a Production Language Model](https://arxiv.org/abs/2403.06634)
+
+	 · ([qbitai](https://www.qbitai.com/2024/03/127168.html))
 - [Reflections on Qualitative Research](https://transformer-circuits.pub/2024/qualitative-essay/index.html)
 - [Claude-3's uncanny "awareness"](https://twitter.com/DrJimFan/status/1765076396404363435)
 - **AtP*: An efficient and scalable method for localizing LLM behaviour to
@@ -470,6 +484,7 @@
   Understanding In-Context Learning**, `arXiv, 2305.14160`, [arxiv](http://arxiv.org/abs/2305.14160v2), [pdf](http://arxiv.org/pdf/2305.14160v2.pdf), cication: [**-1**](None)
 
 	 *Lean Wang, Lei Li, Damai Dai, Deli Chen, Hao Zhou, Fandong Meng, Jie Zhou, Xu Sun* · ([qbitai](https://www.qbitai.com/2023/12/105631.html))
+- [[2211.03495] How Much Does Attention Actually Attend? Questioning the Importance of Attention in Pretrained Transformers](https://arxiv.org/abs/2211.03495)
 
 ## Generaliazation
 - **Time is Encoded in the Weights of Finetuned Language Models**, `arXiv, 2312.13401`, [arxiv](http://arxiv.org/abs/2312.13401v1), [pdf](http://arxiv.org/pdf/2312.13401v1.pdf), cication: [**-1**](None)
@@ -481,6 +496,9 @@
 	 *Steve Yadlowsky, Lyric Doshi, Nilesh Tripuraneni*
 
 ## LLM editting
+- [[2403.06259] Editing Conceptual Knowledge for Large Language Models](https://arxiv.org/abs/2403.06259)
+
+	 · ([zjukg](https://www.zjukg.org/project/ConceptEdit/)) · ([EasyEdit](https://github.com/zjunlp/EasyEdit) - zjunlp) ![Star](https://img.shields.io/github/stars/zjunlp/EasyEdit.svg?style=social&label=Star)
 - **A Comprehensive Study of Knowledge Editing for Large Language Models**, `arXiv, 2401.01286`, [arxiv](http://arxiv.org/abs/2401.01286v2), [pdf](http://arxiv.org/pdf/2401.01286v2.pdf), cication: [**-1**](None)
 
 	 *Ningyu Zhang, Yunzhi Yao, Bozhong Tian, Peng Wang, Shumin Deng, Mengru Wang, Zekun Xi, Shengyu Mao, Jintian Zhang, Yuansheng Ni*

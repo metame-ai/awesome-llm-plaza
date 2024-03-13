@@ -33,6 +33,7 @@
 
 
 ## Survey
+- [[2403.06949] Materials science in the era of large language models: a perspective](https://arxiv.org/abs/2403.06949)
 - **Large Language Models on Graphs: A Comprehensive Survey**, `arXiv, 2312.02783`, [arxiv](http://arxiv.org/abs/2312.02783v1), [pdf](http://arxiv.org/pdf/2312.02783v1.pdf), cication: [**-1**](None)
 
 	 *Bowen Jin, Gang Liu, Chi Han, Meng Jiang, Heng Ji, Jiawei Han*
@@ -425,6 +426,10 @@
 - [Role play with large language models | Nature](https://www.nature.com/articles/s41586-023-06647-8)
 
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI1MjQ2OTQ3Ng==&mid=2247626854&idx=2&sn=c0a79e31b2e08c0d62b4094661edd657))
+- **Deciphering Digital Detectives: Understanding LLM Behaviors and
+  Capabilities in Multi-Agent Mystery Games**, `arXiv, 2312.00746`, [arxiv](http://arxiv.org/abs/2312.00746v2), [pdf](http://arxiv.org/pdf/2312.00746v2.pdf), cication: [**-1**](None)
+
+	 *Dekun Wu, Haochen Shi, Zhiyuan Sun, Bang Liu* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-03-11))
 - **Faithful Persona-based Conversational Dataset Generation with Large
   Language Models**, `arXiv, 2312.10007`, [arxiv](http://arxiv.org/abs/2312.10007v1), [pdf](http://arxiv.org/pdf/2312.10007v1.pdf), cication: [**-1**](None)
 
@@ -886,6 +891,10 @@
 	 *Itzik Malkiel, Uri Alon, Yakir Yehuda, Shahar Keren, Oren Barkan, Royi Ronen, Noam Koenigstein*
 
 ## Game
+- **Agent-Pro: Learning to Evolve via Policy-Level Reflection and
+  Optimization**, `arXiv, 2402.17574`, [arxiv](http://arxiv.org/abs/2402.17574v1), [pdf](http://arxiv.org/pdf/2402.17574v1.pdf), cication: [**-1**](None)
+
+	 *Wenqi Zhang, Ke Tang, Hai Wu, Mengna Wang, Yongliang Shen, Guiyang Hou, Zeqi Tan, Peng Li, Yueting Zhuang, Weiming Lu* · ([Agent-Pro](https://github.com/zwq2018/Agent-Pro) - zwq2018) ![Star](https://img.shields.io/github/stars/zwq2018/Agent-Pro.svg?style=social&label=Star) · ([qbitai](https://www.qbitai.com/2024/03/127294.html))
 - [**chessllm**](https://github.com/mlabonne/chessllm) - mlabonne ![Star](https://img.shields.io/github/stars/mlabonne/chessllm.svg?style=social&label=Star)
 
 	 · ([huggingface](https://huggingface.co/spaces/mlabonne/chessllm))

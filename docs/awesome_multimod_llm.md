@@ -24,6 +24,9 @@
 
 ## Vision
 ### Video
+- [[2403.04640] CAT: Enhancing Multimodal Large Language Model to Answer Questions in Dynamic Audio-Visual Scenarios](https://arxiv.org/abs/2403.04640)
+
+	 · ([Bay-CAT](https://github.com/rikeilong/Bay-CAT) - rikeilong) ![Star](https://img.shields.io/github/stars/rikeilong/Bay-CAT.svg?style=social&label=Star)
 - **MovieLLM: Enhancing Long Video Understanding with AI-Generated Movies**, `arXiv, 2403.01422`, [arxiv](http://arxiv.org/abs/2403.01422v1), [pdf](http://arxiv.org/pdf/2403.01422v1.pdf), cication: [**-1**](None)
 
 	 *Zhende Song, Chenchen Wang, Jiamu Sheng, Chi Zhang, Gang Yu, Jiayuan Fan, Tao Chen*
@@ -101,6 +104,9 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
+- **MoAI: Mixture of All Intelligence for Large Language and Vision Models**, `arXiv, 2403.07508`, [arxiv](http://arxiv.org/abs/2403.07508v1), [pdf](http://arxiv.org/pdf/2403.07508v1.pdf), cication: [**-1**](None)
+
+	 *Byung-Kwan Lee, Beomchan Park, Chae Won Kim, Yong Man Ro*
 - **DeepSeek-VL: Towards Real-World Vision-Language Understanding**, `arXiv, 2403.05525`, [arxiv](http://arxiv.org/abs/2403.05525v1), [pdf](http://arxiv.org/pdf/2403.05525v1.pdf), cication: [**-1**](None)
 
 	 *Haoyu Lu, Wen Liu, Bo Zhang, Bingxuan Wang, Kai Dong, Bo Liu, Jingxiang Sun, Tongzheng Ren, Zhuoshu Li, Yaofeng Sun*
@@ -816,6 +822,9 @@
   Training**, `arXiv, 2311.17049`, [arxiv](http://arxiv.org/abs/2311.17049v1), [pdf](http://arxiv.org/pdf/2311.17049v1.pdf), cication: [**-1**](None)
 
 	 *Pavan Kumar Anasosalu Vasu, Hadi Pouransari, Fartash Faghri, Raviteja Vemulapalli, Oncel Tuzel* · ([ml-mobileclip](https://github.com/apple/ml-mobileclip) - apple) ![Star](https://img.shields.io/github/stars/apple/ml-mobileclip.svg?style=social&label=Star)
+- **VeCLIP: Improving CLIP Training via Visual-enriched Captions**, `arXiv, 2310.07699`, [arxiv](http://arxiv.org/abs/2310.07699v2), [pdf](http://arxiv.org/pdf/2310.07699v2.pdf), cication: [**8**](https://scholar.google.com/scholar?cites=3904647199650419901&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Zhengfeng Lai, Haotian Zhang, Bowen Zhang, Wentao Wu, Haoping Bai, Aleksei Timofeev, Xianzhi Du, Zhe Gan, Jiulong Shan, Chen-Nee Chuah* · ([ml-veclip](https://github.com/apple/ml-veclip) - apple) ![Star](https://img.shields.io/github/stars/apple/ml-veclip.svg?style=social&label=Star)
 ## Alignment
 - **BBA: Bi-Modal Behavioral Alignment for Reasoning with Large
   Vision-Language Models**, `arXiv, 2402.13577`, [arxiv](http://arxiv.org/abs/2402.13577v1), [pdf](http://arxiv.org/pdf/2402.13577v1.pdf), cication: [**-1**](None)
@@ -934,6 +943,13 @@
 	 *Yuliang Liu, Zhang Li, Biao Yang, Chunyuan Li, Xucheng Yin, Cheng-lin Liu, Lianwen Jin, Xiang Bai* · ([MultimodalOCR](https://github.com/Yuliang-Liu/MultimodalOCR) - Yuliang-Liu) ![Star](https://img.shields.io/github/stars/Yuliang-Liu/MultimodalOCR.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652442102&idx=4&sn=64a53646c57797a00b9db186f339c5eb))
 
 ## Datasets
+- [**RAVEN**](https://huggingface.co/datasets/HuggingFaceM4/RAVEN) - HuggingFaceM4 🤗
+
+	 · ([huggingface](https://huggingface.co/spaces/HuggingFaceM4/ai_raven))
+- **Synth$^2$: Boosting Visual-Language Models with Synthetic Captions and
+  Image Embeddings**, `arXiv, 2403.07750`, [arxiv](http://arxiv.org/abs/2403.07750v1), [pdf](http://arxiv.org/pdf/2403.07750v1.pdf), cication: [**-1**](None)
+
+	 *Sahand Sharifzadeh, Christos Kaplanis, Shreya Pathak, Dharshan Kumaran, Anastasija Ilic, Jovana Mitrovic, Charles Blundell, Andrea Banino*
 - **CapsFusion: Rethinking Image-Text Data at Scale**, `arXiv, 2310.20550`, [arxiv](http://arxiv.org/abs/2310.20550v2), [pdf](http://arxiv.org/pdf/2310.20550v2.pdf), cication: [**-1**](None)
 
 	 *Qiying Yu, Quan Sun, Xiaosong Zhang, Yufeng Cui, Fan Zhang, Yue Cao, Xinlong Wang, Jingjing Liu*

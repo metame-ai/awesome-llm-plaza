@@ -275,6 +275,9 @@
 	 · ([bitsandbytes](https://github.com/timdettmers/bitsandbytes) - timdettmers) ![Star](https://img.shields.io/github/stars/timdettmers/bitsandbytes.svg?style=social&label=Star)
 
 ### Projects
+- [**hqq**](https://github.com/mobiusml/hqq) - mobiusml ![Star](https://img.shields.io/github/stars/mobiusml/hqq.svg?style=social&label=Star)
+
+	 *Official implementation of Half-Quadratic Quantization (HQQ)* · ([mobiusml.github](https://mobiusml.github.io/hqq_blog/))
 - [**exllamav2**](https://github.com/turboderp/exllamav2) - turboderp ![Star](https://img.shields.io/github/stars/turboderp/exllamav2.svg?style=social&label=Star)
 
 	 *A fast inference library for running LLMs locally on modern consumer-class GPUs* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI1MjQ2OTQ3Ng==&mid=2247617952&idx=2&sn=e643da17456e72bd9e7c0289559d620b))
@@ -381,6 +384,13 @@
 	 *A simple and effective LLM pruning approach.*
 
 ## Efficient Inference
+- [[2403.06764] An Image is Worth 1/2 Tokens After Layer 2: Plug-and-Play Inference Acceleration for Large Vision-Language Models](https://arxiv.org/abs/2403.06764)
+
+	 · ([FastV](https://github.com/pkunlp-icler/FastV) - pkunlp-icler) ![Star](https://img.shields.io/github/stars/pkunlp-icler/FastV.svg?style=social&label=Star)
+- **GEAR: An Efficient KV Cache Compression Recipe for Near-Lossless
+  Generative Inference of LLM**, `arXiv, 2403.05527`, [arxiv](http://arxiv.org/abs/2403.05527v2), [pdf](http://arxiv.org/pdf/2403.05527v2.pdf), cication: [**-1**](None)
+
+	 *Hao Kang, Qingru Zhang, Souvik Kundu, Geonhwa Jeong, Zaoxing Liu, Tushar Krishna, Tuo Zhao* · ([GEAR](https://github.com/HaoKang-Timmy/GEAR) - HaoKang-Timmy) ![Star](https://img.shields.io/github/stars/HaoKang-Timmy/GEAR.svg?style=social&label=Star)
 - **DéjàVu: KV-cache Streaming for Fast, Fault-tolerant Generative LLM
   Serving**, `arXiv, 2403.01876`, [arxiv](http://arxiv.org/abs/2403.01876v1), [pdf](http://arxiv.org/pdf/2403.01876v1.pdf), cication: [**-1**](None)
 
@@ -620,6 +630,9 @@
 	 *Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-05-04)) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-06-05-2))
 
 ## Toolkits
+- [**fsdp_qlora**](https://github.com/AnswerDotAI/fsdp_qlora) - AnswerDotAI ![Star](https://img.shields.io/github/stars/AnswerDotAI/fsdp_qlora.svg?style=social&label=Star)
+
+	 *Training LLMs with QLoRA + FSDP* · ([answer](https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html#a-first-step)) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzIyMzk1MDE3Nw==&mid=2247629628&idx=6&sn=a37c12303d04dd1dcabed6d02616e7be))
 - [**GPTFast**](https://github.com/MDK8888/GPTFast) - MDK8888 ![Star](https://img.shields.io/github/stars/MDK8888/GPTFast.svg?style=social&label=Star)
 
 	 *Accelerate your Hugging Face Transformers 6-7x. Native to Hugging Face and PyTorch.*
@@ -727,6 +740,7 @@
 	 · ([zhuanlan.zhihu](https://zhuanlan.zhihu.com/p/634236135))
 
 ## Hardware
+- [[2403.06504] Adding NVMe SSDs to Enable and Accelerate 100B Model Fine-tuning on a Single GPU](https://arxiv.org/abs/2403.06504)
 - **Progressive Gradient Flow for Robust N:M Sparsity Training in
   Transformers**, `arXiv, 2402.04744`, [arxiv](http://arxiv.org/abs/2402.04744v1), [pdf](http://arxiv.org/pdf/2402.04744v1.pdf), cication: [**-1**](None)
 

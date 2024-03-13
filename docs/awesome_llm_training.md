@@ -218,6 +218,7 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652375732&idx=2&sn=1cb4cefcd791af2a6ffacdf99e35225c))
 
 ## Optimization
+- [[2403.05812] Algorithmic progress in language models](https://arxiv.org/abs/2403.05812)
 - **Towards Optimal Learning of Language Models**, `arXiv, 2402.17759`, [arxiv](http://arxiv.org/abs/2402.17759v1), [pdf](http://arxiv.org/pdf/2402.17759v1.pdf), cication: [**-1**](None)
 
 	 *Yuxian Gu, Li Dong, Yaru Hao, Qingxiu Dong, Minlie Huang, Furu Wei* · ([aka](https://aka.ms/LearningLaw))
@@ -230,6 +231,12 @@
 	 *Yang Luo, Xiaozhe Ren, Zangwei Zheng, Zhuo Jiang, Xin Jiang, Yang You* · ([qbitai](https://www.qbitai.com/2023/07/67814.html))
  
 ## Ensemble
+- **Branch-Train-MiX: Mixing Expert LLMs into a Mixture-of-Experts LLM**, `arXiv, 2403.07816`, [arxiv](http://arxiv.org/abs/2403.07816v1), [pdf](http://arxiv.org/pdf/2403.07816v1.pdf), cication: [**-1**](None)
+
+	 *Sainbayar Sukhbaatar, Olga Golovneva, Vasu Sharma, Hu Xu, Xi Victoria Lin, Baptiste Rozière, Jacob Kahn, Daniel Li, Wen-tau Yih, Jason Weston*
+- [**AutoMerger**](https://huggingface.co/spaces/mlabonne/AutoMerger) - mlabonne 🤗
+
+	 · ([huggingface](https://huggingface.co/blog/mlabonne/merge-models))
 - **Learning to Decode Collaboratively with Multiple Language Models**, `arXiv, 2403.03870`, [arxiv](http://arxiv.org/abs/2403.03870v1), [pdf](http://arxiv.org/pdf/2403.03870v1.pdf), cication: [**-1**](None)
 
 	 *Shannon Zejiang Shen, Hunter Lang, Bailin Wang, Yoon Kim, David Sontag* · ([co-llm](https://github.com/clinicalml/co-llm) - clinicalml) ![Star](https://img.shields.io/github/stars/clinicalml/co-llm.svg?style=social&label=Star)
@@ -357,7 +364,11 @@
 - [从Mixtral-8x7B到LLaMA MOE再到DeepSeek-MoE](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495494&idx=2&sn=78c2bfec35367bd52253efbad8e796ee)
 - [模块化大模型来了！IBM公开WastonX核心架构技术细节](https://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&mid=2247522084&idx=3&sn=ceba2b0c3e6434599101f7604ff109c4)
 
- 
+
+##  Online Learning
+- **Online Training of Large Language Models: Learn while chatting**, `arXiv, 2403.04790`, [arxiv](http://arxiv.org/abs/2403.04790v1), [pdf](http://arxiv.org/pdf/2403.04790v1.pdf), cication: [**-1**](None)
+
+	 *Juhao Liang, Ziwei Wang, Zhuoheng Ma, Jianquan Li, Zhiyi Zhang, Xiangbo Wu, Benyou Wang*
 
 ## Toolkits
 - [**zero-bubble-pipeline-parallelism**](https://github.com/sail-sg/zero-bubble-pipeline-parallelism) - sail-sg ![Star](https://img.shields.io/github/stars/sail-sg/zero-bubble-pipeline-parallelism.svg?style=social&label=Star)
@@ -427,6 +438,7 @@
 - [Fine-tuning Llama 2 70B using PyTorch FSDP](https://huggingface.co/blog/ram-efficient-pytorch-fsdp)
 - [Everything about Distributed Training and Efficient Finetuning | Sumanth's Personal Website](https://sumanthrh.com/post/distributed-and-efficient-finetuning/)
 
+- [如何从零开始训练大模型（minicpm分享&讨论） - 知乎](https://zhuanlan.zhihu.com/p/686664720)
 - [0代码微调大模型火了，只需5步，成本低至150块 | 量子位](https://www.qbitai.com/2023/07/66833.html)
 - [GPU 利用率低常见原因分析及优化](https://mp.weixin.qq.com/s?__biz=MzI1MjQ2OTQ3Ng==&mid=2247609210&idx=3&sn=01686c5f7d7d70d4383667296ae7d823)
 

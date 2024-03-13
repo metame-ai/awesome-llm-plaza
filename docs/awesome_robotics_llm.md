@@ -6,6 +6,9 @@
 	- [Other](#other)
 	- [Reference](#reference)
 
+## Survey
+
+
 ## Papers
 - **RT-H: Action Hierarchies Using Language**, `arXiv, 2403.01823`, [arxiv](http://arxiv.org/abs/2403.01823v1), [pdf](http://arxiv.org/pdf/2403.01823v1.pdf), cication: [**-1**](None)
 
@@ -248,6 +251,11 @@
 
 	 *Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao*
 
+## Robotics
+- **Learning Generalizable Feature Fields for Mobile Manipulation**, `arXiv, 2403.07563`, [arxiv](http://arxiv.org/abs/2403.07563v1), [pdf](http://arxiv.org/pdf/2403.07563v1.pdf), cication: [**-1**](None)
+
+	 *Ri-Zhao Qiu, Yafei Hu, Ge Yang, Yuchen Song, Yang Fu, Jianglong Ye, Jiteng Mu, Ruihan Yang, Nikolay Atanasov, Sebastian Scherer*
+
 ## Projects
 
 - [**Co-LLM-Agents**](https://github.com/UMass-Foundation-Model/Co-LLM-Agents) - UMass-Foundation-Model ![Star](https://img.shields.io/github/stars/UMass-Foundation-Model/Co-LLM-Agents.svg?style=social&label=Star)
@@ -256,8 +264,10 @@
 	 · [[qbitai](https://www.qbitai.com/2023/07/69054.html)]
 
 ## Other
+- [Covariant | Powering the Future of Automation, Today](https://covariant.ai/insights/introducing-rfm-1-giving-robots-human-like-reasoning-capabilities/)
 - [ glimpse of the future foundation models and platforms for robots:](https://twitter.com/DrJimFan/status/1740041712184246314)
 
+- [具身智能的Scaling Law在哪里？](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495674&idx=1&sn=c80af6006fcc17fe751707fabfa8ccb5)
 - [一文读懂具身智能：方法、进展及挑战](https://mp.weixin.qq.com/s?__biz=MzI1MjQ2OTQ3Ng==&mid=2247627902&idx=1&sn=9e68f399edf61e25fd766f8be74c016e)
 - [仅用7500条轨迹数据训练，CMU、Meta就让机器人「上得厅堂、下得厨房」 | 机器之心](https://www.jiqizhixin.com/articles/2023-08-22-5)
 - [EmbodiedGPT｜具身智能或将成为实现AGI的最后一公里](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494040&idx=1&sn=c6ada8db1bdf84a1026fd78a636b27c5)
