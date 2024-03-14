@@ -33,7 +33,9 @@
 
 
 ## Survey
-- [[2403.06949] Materials science in the era of large language models: a perspective](https://arxiv.org/abs/2403.06949)
+- **Materials science in the era of large language models: a perspective**, `arXiv, 2403.06949`, [arxiv](http://arxiv.org/abs/2403.06949v1), [pdf](http://arxiv.org/pdf/2403.06949v1.pdf), cication: [**-1**](None)
+
+	 *Ge Lei, Ronan Docherty, Samuel J. Cooper*
 - **Large Language Models on Graphs: A Comprehensive Survey**, `arXiv, 2312.02783`, [arxiv](http://arxiv.org/abs/2312.02783v1), [pdf](http://arxiv.org/pdf/2312.02783v1.pdf), cication: [**-1**](None)
 
 	 *Bowen Jin, Gang Liu, Chi Han, Meng Jiang, Heng Ji, Jiawei Han*
@@ -43,6 +45,15 @@
 - [Navigating the Jagged Technological Frontier: Field Experimental Evidence of the Effects of AI on Knowledge Worker Productivity and Quality](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4573321)
 
 ## Toolkits
+- [**full-stack-fastapi-template**](https://github.com/tiangolo/full-stack-fastapi-template) - tiangolo ![Star](https://img.shields.io/github/stars/tiangolo/full-stack-fastapi-template.svg?style=social&label=Star)
+
+	 *Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.*
+- [**cog**](https://github.com/replicate/cog) - replicate ![Star](https://img.shields.io/github/stars/replicate/cog.svg?style=social&label=Star)
+
+	 *Containers for machine learning*
+- [**grog**](https://github.com/multimodalart/grog) - multimodalart ![Star](https://img.shields.io/github/stars/multimodalart/grog.svg?style=social&label=Star)
+
+	 *Gradio UI for a Cog API*
 - [**openai-translator**](https://github.com/openai-translator/openai-translator) - openai-translator ![Star](https://img.shields.io/github/stars/openai-translator/openai-translator.svg?style=social&label=Star)
 
 	 *基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用 - Browser extension and cross-platform desktop application for translation based on ChatGPT API.*
@@ -902,6 +913,8 @@
   Redemption II as a Case Study**, `arXiv, 2403.03186`, [arxiv](http://arxiv.org/abs/2403.03186v1), [pdf](http://arxiv.org/pdf/2403.03186v1.pdf), cication: [**-1**](None)
 
 	 *Weihao Tan, Ziluo Ding, Wentao Zhang, Boyu Li, Bohan Zhou, Junpeng Yue, Haochong Xia, Jiechuan Jiang, Longtao Zheng, Xinrun Xu* · ([baai-agents.github](https://baai-agents.github.io/Cradle/)) · ([Cradle](https://github.com/BAAI-Agents/Cradle) - BAAI-Agents) ![Star](https://img.shields.io/github/stars/BAAI-Agents/Cradle.svg?style=social&label=Star)
+
+	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-03-13-5))
 - **Human vs. Machine: Language Models and Wargames**, `arXiv, 2403.03407`, [arxiv](http://arxiv.org/abs/2403.03407v1), [pdf](http://arxiv.org/pdf/2403.03407v1.pdf), cication: [**-1**](None)
 
 	 *Max Lamparth, Anthony Corso, Jacob Ganz, Oriana Skylar Mastro, Jacquelyn Schneider, Harold Trinkunas*

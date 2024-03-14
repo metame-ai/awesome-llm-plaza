@@ -31,6 +31,8 @@
 - **Reformatted Alignment**, `arXiv, 2402.12219`, [arxiv](http://arxiv.org/abs/2402.12219v1), [pdf](http://arxiv.org/pdf/2402.12219v1.pdf), cication: [**-1**](None)
 
 	 *Run-Ze Fan, Xuefeng Li, Haoyang Zou, Junlong Li, Shwai He, Ethan Chern, Jiewen Hu, Pengfei Liu* · ([ReAlign](https://github.com/GAIR-NLP/ReAlign) - GAIR-NLP) ![Star](https://img.shields.io/github/stars/GAIR-NLP/ReAlign.svg?style=social&label=Star) · ([gair-nlp.github](https://gair-nlp.github.io/ReAlign/))
+
+	 · ([qbitai](https://www.qbitai.com/2024/03/127514.html))
 - **Aligner: Achieving Efficient Alignment through Weak-to-Strong Correction**, `arXiv, 2402.02416`, [arxiv](http://arxiv.org/abs/2402.02416v2), [pdf](http://arxiv.org/pdf/2402.02416v2.pdf), cication: [**-1**](None)
 
 	 *Jiaming Ji, Boyuan Chen, Hantao Lou, Donghai Hong, Borong Zhang, Xuehai Pan, Juntao Dai, Yaodong Yang* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-08-6)) · ([aligner2024.github](https://aligner2024.github.io))

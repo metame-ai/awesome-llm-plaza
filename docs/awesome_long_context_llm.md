@@ -54,7 +54,10 @@
   Collaboration**, `arXiv, 2402.11550`, [arxiv](http://arxiv.org/abs/2402.11550v1), [pdf](http://arxiv.org/pdf/2402.11550v1.pdf), cication: [**-1**](None)
 
 	 *Jun Zhao, Can Zu, Hao Xu, Yi Lu, Wei He, Yiwen Ding, Tao Gui, Qi Zhang, Xuanjing Huang*
-- [[2402.04617] InfLLM: Unveiling the Intrinsic Capacity of LLMs for Understanding Extremely Long Sequences with Training-Free Memory](https://arxiv.org/abs/2402.04617)
+- **InfLLM: Unveiling the Intrinsic Capacity of LLMs for Understanding
+  Extremely Long Sequences with Training-Free Memory**, `arXiv, 2402.04617`, [arxiv](http://arxiv.org/abs/2402.04617v1), [pdf](http://arxiv.org/pdf/2402.04617v1.pdf), cication: [**-1**](None)
+
+	 *Chaojun Xiao, Pengle Zhang, Xu Han, Guangxuan Xiao, Yankai Lin, Zhengyan Zhang, Zhiyuan Liu, Song Han, Maosong Sun*
 
 	 · ([InfLLM](https://github.com/thunlp/InfLLM) - thunlp) ![Star](https://img.shields.io/github/stars/thunlp/InfLLM.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652453563&idx=5&sn=0384b125deb9cc79f7a09df503269e94))
 - **In Search of Needles in a 10M Haystack: Recurrent Memory Finds What LLMs

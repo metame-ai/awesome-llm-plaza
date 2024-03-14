@@ -74,7 +74,11 @@
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-18-4))
 ## Agents
-- [[2402.15538] AgentLite: A Lightweight Library for Building and Advancing Task-Oriented LLM Agent System](https://arxiv.org/abs/2402.15538)
+- [[2403.08715] SOTOPIA-$π$: Interactive Learning of Socially Intelligent Language Agents](https://arxiv.org/abs/2403.08715)
+- **AgentLite: A Lightweight Library for Building and Advancing
+  Task-Oriented LLM Agent System**, `arXiv, 2402.15538`, [arxiv](http://arxiv.org/abs/2402.15538v1), [pdf](http://arxiv.org/pdf/2402.15538v1.pdf), cication: [**-1**](None)
+
+	 *Zhiwei Liu, Weiran Yao, Jianguo Zhang, Liangwei Yang, Zuxin Liu, Juntao Tan, Prafulla K. Choubey, Tian Lan, Jason Wu, Huan Wang*
 
 	 · ([agentlite](https://github.com/salesforceairesearch/agentlite) - salesforceairesearch) ![Star](https://img.shields.io/github/stars/salesforceairesearch/agentlite.svg?style=social&label=Star)
 - **KnowAgent: Knowledge-Augmented Planning for LLM-Based Agents**, `arXiv, 2403.03101`, [arxiv](http://arxiv.org/abs/2403.03101v1), [pdf](http://arxiv.org/pdf/2403.03101v1.pdf), cication: [**-1**](None)
@@ -595,6 +599,9 @@
 - [GPT-4V学会用键鼠上网，人类眼睁睁看着它发帖玩游戏 | 量子位](https://www.qbitai.com/2023/11/95456.html)
 
 ## Retrieval agumented generation
+- [**fully-local-pdf-chatbot**](https://github.com/jacoblee93/fully-local-pdf-chatbot) - jacoblee93 ![Star](https://img.shields.io/github/stars/jacoblee93/fully-local-pdf-chatbot.svg?style=social&label=Star)
+
+	 *Yes, it's another chat over documents implementation... but this one is entirely local!*
 - [[2403.05313] RAT: Retrieval Augmented Thoughts Elicit Context-Aware Reasoning in Long-Horizon Generation](https://arxiv.org/abs/2403.05313)
 
 	 · ([craftjarvis.github](https://craftjarvis.github.io/RAT))
@@ -760,6 +767,9 @@
 
 	 *Train Models Contrastively in Pytorch* · ([huggingface](https://huggingface.co/nomic-ai/nomic-embed-text-v1)) · ([mp.weixin.qq](https://mp.weixin.qq.com/s/EMWNf9TiDwuxxkwwqsl73g))
 ### Other
+- [**dspy-gradio-rag**](https://github.com/diicellman/dspy-gradio-rag) - diicellman ![Star](https://img.shields.io/github/stars/diicellman/dspy-gradio-rag.svg?style=social&label=Star)
+
+	 *RAG example using DSPy, Gradio, FastAPI*
 - [excellent demo of a highly capable LLM-RAG setup](https://twitter.com/rasbt/status/1765787891349749891)
 - [Towards Long Context RAG](https://www.llamaindex.ai/blog/towards-long-context-rag)
 - **The First Place Solution of WSDM Cup 2024: Leveraging Large Language
@@ -795,6 +805,9 @@
 	 *OpenAI's Code Interpreter in your terminal, running locally*
 
 ## GPTs
+- [**awesome-prompts**](https://github.com/ai-boost/awesome-prompts) - ai-boost ![Star](https://img.shields.io/github/stars/ai-boost/awesome-prompts.svg?style=social&label=Star)
+
+	 *Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.*
 - [**BlackFriday-GPTs-Prompts**](https://github.com/friuns2/BlackFriday-GPTs-Prompts) - friuns2 ![Star](https://img.shields.io/github/stars/friuns2/BlackFriday-GPTs-Prompts.svg?style=social&label=Star)
 
 	 *List of free GPTs that doesn't require plus subscription*

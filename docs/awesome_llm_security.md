@@ -9,7 +9,10 @@
 
 
 ## Survey
-- [Fetching Title#blev](https://arxiv.org/abs/2403.04786)
+- **Breaking Down the Defenses: A Comparative Survey of Attacks on Large
+  Language Models**, `arXiv, 2403.04786`, [arxiv](http://arxiv.org/abs/2403.04786v1), [pdf](http://arxiv.org/pdf/2403.04786v1.pdf), cication: [**-1**](None)
+
+	 *Arijit Ghosh Chowdhury, Md Mofijul Islam, Vaibhav Kumar, Faysal Hossain Shezan, Vaibhav Kumar, Vinija Jain, Aman Chadha*
 - **Open-Sourcing Highly Capable Foundation Models: An evaluation of risks,
   benefits, and alternative methods for pursuing open-source objectives**, `arXiv, 2311.09227`, [arxiv](http://arxiv.org/abs/2311.09227v1), [pdf](http://arxiv.org/pdf/2311.09227v1.pdf), cication: [**-1**](None)
 

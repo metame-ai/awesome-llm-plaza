@@ -10,6 +10,9 @@
 
 
 ## Papers
+- [SIMA generalist AI agent for 3D virtual environments - Google DeepMind](https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/)
+
+	 · ([storage.googleapis](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/sima-generalist-ai-agent-for-3d-virtual-environments/Scaling%20Instructable%20Agents%20Across%20Many%20Simulated%20Worlds.pdf))
 - **RT-H: Action Hierarchies Using Language**, `arXiv, 2403.01823`, [arxiv](http://arxiv.org/abs/2403.01823v1), [pdf](http://arxiv.org/pdf/2403.01823v1.pdf), cication: [**-1**](None)
 
 	 *Suneel Belkhale, Tianli Ding, Ted Xiao, Pierre Sermanet, Quon Vuong, Jonathan Tompson, Yevgen Chebotar, Debidatta Dwibedi, Dorsa Sadigh* · ([rt-hierarchy.github](https://rt-hierarchy.github.io/))

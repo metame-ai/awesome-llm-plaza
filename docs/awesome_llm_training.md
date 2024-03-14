@@ -21,6 +21,10 @@
 
 
 ## Pretrain
+- **Language models scale reliably with over-training and on downstream
+  tasks**, `arXiv, 2403.08540`, [arxiv](http://arxiv.org/abs/2403.08540v1), [pdf](http://arxiv.org/pdf/2403.08540v1.pdf), cication: [**-1**](None)
+
+	 *Samir Yitzhak Gadre, Georgios Smyrnis, Vaishaal Shankar, Suchin Gururangan, Mitchell Wortsman, Rulin Shao, Jean Mercat, Alex Fang, Jeffrey Li, Sedrick Keh*
 - [**fm-cheatsheet**](https://github.com/allenai/fm-cheatsheet/tree/main) - allenai ![Star](https://img.shields.io/github/stars/allenai/fm-cheatsheet.svg?style=social&label=Star)
 
 	 *Website for hosting the Open Foundation Models Cheat Sheet.* · ([fmcheatsheet](https://fmcheatsheet.org/))
@@ -218,7 +222,9 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652375732&idx=2&sn=1cb4cefcd791af2a6ffacdf99e35225c))
 
 ## Optimization
-- [[2403.05812] Algorithmic progress in language models](https://arxiv.org/abs/2403.05812)
+- **Algorithmic progress in language models**, `arXiv, 2403.05812`, [arxiv](http://arxiv.org/abs/2403.05812v1), [pdf](http://arxiv.org/pdf/2403.05812v1.pdf), cication: [**-1**](None)
+
+	 *Anson Ho, Tamay Besiroglu, Ege Erdil, David Owen, Robi Rahman, Zifan Carl Guo, David Atkinson, Neil Thompson, Jaime Sevilla*
 - **Towards Optimal Learning of Language Models**, `arXiv, 2402.17759`, [arxiv](http://arxiv.org/abs/2402.17759v1), [pdf](http://arxiv.org/pdf/2402.17759v1.pdf), cication: [**-1**](None)
 
 	 *Yuxian Gu, Li Dong, Yaru Hao, Qingxiu Dong, Minlie Huang, Furu Wei* · ([aka](https://aka.ms/LearningLaw))
@@ -277,6 +283,9 @@
 - [Weight averaging and model merging for LLMs seem to be the most interesting themes in 2024 so far. ](https://twitter.com/rasbt/status/1750180383398744106)
 
 ## MoE
+- **Scattered Mixture-of-Experts Implementation**, `arXiv, 2403.08245`, [arxiv](http://arxiv.org/abs/2403.08245v1), [pdf](http://arxiv.org/pdf/2403.08245v1.pdf), cication: [**-1**](None)
+
+	 *Shawn Tan, Yikang Shen, Rameswar Panda, Aaron Courville*
 - **Scaling Laws for Fine-Grained Mixture of Experts**, `arXiv, 2402.07871`, [arxiv](http://arxiv.org/abs/2402.07871v1), [pdf](http://arxiv.org/pdf/2402.07871v1.pdf), cication: [**-1**](None)
 
 	 *Jakub Krajewski, Jan Ludziejewski, Kamil Adamczewski, Maciej Pióro, Michał Krutul, Szymon Antoniak, Kamil Ciebiera, Krystian Król, Tomasz Odrzygóźdź, Piotr Sankowski*
@@ -366,6 +375,10 @@
 
 
 ##  Online Learning
+- **Simple and Scalable Strategies to Continually Pre-train Large Language
+  Models**, `arXiv, 2403.08763`, [arxiv](http://arxiv.org/abs/2403.08763v1), [pdf](http://arxiv.org/pdf/2403.08763v1.pdf), cication: [**-1**](None)
+
+	 *Adam Ibrahim, Benjamin Thérien, Kshitij Gupta, Mats L. Richter, Quentin Anthony, Timothée Lesort, Eugene Belilovsky, Irina Rish*
 - **Online Training of Large Language Models: Learn while chatting**, `arXiv, 2403.04790`, [arxiv](http://arxiv.org/abs/2403.04790v1), [pdf](http://arxiv.org/pdf/2403.04790v1.pdf), cication: [**-1**](None)
 
 	 *Juhao Liang, Ziwei Wang, Zhuoheng Ma, Jianquan Li, Zhiyi Zhang, Xiangbo Wu, Benyou Wang*

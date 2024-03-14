@@ -384,7 +384,13 @@
 	 *A simple and effective LLM pruning approach.*
 
 ## Efficient Inference
-- [[2403.06764] An Image is Worth 1/2 Tokens After Layer 2: Plug-and-Play Inference Acceleration for Large Vision-Language Models](https://arxiv.org/abs/2403.06764)
+- **Sequoia: Scalable, Robust, and Hardware-aware Speculative Decoding**, `arXiv, 2402.12374`, [arxiv](http://arxiv.org/abs/2402.12374v2), [pdf](http://arxiv.org/pdf/2402.12374v2.pdf), cication: [**-1**](None)
+
+	 *Zhuoming Chen, Avner May, Ruslan Svirschevski, Yuhsun Huang, Max Ryabinin, Zhihao Jia, Beidi Chen* · ([Sequoia](https://github.com/Infini-AI-Lab/Sequoia) - Infini-AI-Lab) ![Star](https://img.shields.io/github/stars/Infini-AI-Lab/Sequoia.svg?style=social&label=Star)
+- **An Image is Worth 1/2 Tokens After Layer 2: Plug-and-Play Inference
+  Acceleration for Large Vision-Language Models**, `arXiv, 2403.06764`, [arxiv](http://arxiv.org/abs/2403.06764v1), [pdf](http://arxiv.org/pdf/2403.06764v1.pdf), cication: [**-1**](None)
+
+	 *Liang Chen, Haozhe Zhao, Tianyu Liu, Shuai Bai, Junyang Lin, Chang Zhou, Baobao Chang*
 
 	 · ([FastV](https://github.com/pkunlp-icler/FastV) - pkunlp-icler) ![Star](https://img.shields.io/github/stars/pkunlp-icler/FastV.svg?style=social&label=Star)
 - **GEAR: An Efficient KV Cache Compression Recipe for Near-Lossless
@@ -740,7 +746,10 @@
 	 · ([zhuanlan.zhihu](https://zhuanlan.zhihu.com/p/634236135))
 
 ## Hardware
-- [[2403.06504] Adding NVMe SSDs to Enable and Accelerate 100B Model Fine-tuning on a Single GPU](https://arxiv.org/abs/2403.06504)
+- **Adding NVMe SSDs to Enable and Accelerate 100B Model Fine-tuning on a
+  Single GPU**, `arXiv, 2403.06504`, [arxiv](http://arxiv.org/abs/2403.06504v1), [pdf](http://arxiv.org/pdf/2403.06504v1.pdf), cication: [**-1**](None)
+
+	 *Changyue Liao, Mo Sun, Zihan Yang, Kaiqi Chen, Binhang Yuan, Fei Wu, Zeke Wang*
 - **Progressive Gradient Flow for Robust N:M Sparsity Training in
   Transformers**, `arXiv, 2402.04744`, [arxiv](http://arxiv.org/abs/2402.04744v1), [pdf](http://arxiv.org/pdf/2402.04744v1.pdf), cication: [**-1**](None)
 

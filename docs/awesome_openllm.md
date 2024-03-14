@@ -112,6 +112,7 @@
 	 *Kaiyuan Gao, Sunan He, Zhenyu He, Jiacheng Lin, QiZhi Pei, Jie Shao, Wei Zhang* · ([gpt_alternatives](https://github.com/GPT-Alternatives/gpt_alternatives) - GPT-Alternatives) ![Star](https://img.shields.io/github/stars/GPT-Alternatives/gpt_alternatives.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-09-12-3))
 
 ### Gemma
+- [Fetching Title#3iu2](https://arxiv.org/abs/2403.08295)
 - **Gemini 1.5: Unlocking multimodal understanding across millions of tokens
   of context**, `arXiv, 2403.05530`, [arxiv](http://arxiv.org/abs/2403.05530v1), [pdf](http://arxiv.org/pdf/2403.05530v1.pdf), cication: [**-1**](None)
 
@@ -134,6 +135,7 @@
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-28-9))
 - [**gemma-7b-dolly-chatml**](https://huggingface.co/philschmid/gemma-7b-dolly-chatml) - philschmid 🤗
 - [**catch-me-if-you-can**](https://huggingface.co/spaces/cyzgab/catch-me-if-you-can) - cyzgab 🤗
+- [**GemMoE-Beta-1**](https://huggingface.co/Crystalcareai/GemMoE-Beta-1) - Crystalcareai 🤗
 
 ### OLMo
 - **OLMo: Accelerating the Science of Language Models**, `arXiv, 2402.00838`, [arxiv](http://arxiv.org/abs/2402.00838v1), [pdf](http://arxiv.org/pdf/2402.00838v1.pdf), cication: [**-1**](None)
@@ -183,6 +185,7 @@
 - [**Nous-Hermes-2-Mixtral-8x7B-DPO**](https://huggingface.co/NousResearch/Nous-Hermes-2-Mixtral-8x7B-DPO) - NousResearch 🤗
 - [**Nous-Hermes-2-Mixtral-8x7B-DPO-adapter**](https://huggingface.co/NousResearch/Nous-Hermes-2-Mixtral-8x7B-DPO-adapter) - NousResearch 🤗
 - [**miqu-1-70b**](https://huggingface.co/miqudev/miqu-1-70b) - miqudev 🤗
+- [**Hermes-2-Pro-Mistral-7B**](https://huggingface.co/NousResearch/Hermes-2-Pro-Mistral-7B) - NousResearch 🤗
 
 ### StripedHyena-7B 
 - [**StripedHyena-Hessian-7B**](https://huggingface.co/togethercomputer/StripedHyena-Hessian-7B) - togethercomputer 🤗
@@ -512,6 +515,11 @@
 - [**LLMZoo**](https://github.com/FreedomIntelligence/LLMZoo) - FreedomIntelligence ![Star](https://img.shields.io/github/stars/FreedomIntelligence/LLMZoo.svg?style=social&label=Star)
 
 	 *⚡LLM Zoo is a project that provides data, models, and evaluation benchmark for large language models.⚡*
+
+## Products
+- [The Claude 3 Model Family: Opus, Sonnet, Haiku](https://www-cdn.anthropic.com/de8ba9b01c9ab7cbabf5c33b80b7bbc618857627/Model_Card_Claude_3.pdf)
+
+	 · ([anthropic](https://www.anthropic.com/news/claude-3-haiku))
 
 # Extra reference
 - [Ecosystem Graphs for Foundation Models](https://crfm.stanford.edu/ecosystem-graphs/index.html?mode=table)

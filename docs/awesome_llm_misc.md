@@ -27,6 +27,9 @@
 	- [Extra reference](#extra-reference)
 
 ## Survey
+- **Knowledge Conflicts for LLMs: A Survey**, `arXiv, 2403.08319`, [arxiv](http://arxiv.org/abs/2403.08319v1), [pdf](http://arxiv.org/pdf/2403.08319v1.pdf), cication: [**-1**](None)
+
+	 *Rongwu Xu, Zehan Qi, Cunxiang Wang, Hongru Wang, Yue Zhang, Wei Xu*
 - **Large Language Models on Tabular Data -- A Survey**, `arXiv, 2402.17944`, [arxiv](http://arxiv.org/abs/2402.17944v1), [pdf](http://arxiv.org/pdf/2402.17944v1.pdf), cication: [**-1**](None)
 
 	 *Xi Fang, Weijie Xu, Fiona Anting Tan, Jiani Zhang, Ziqing Hu, Yanjun Qi, Scott Nickleach, Diego Socolinsky, Srinivasan Sengamedu, Christos Faloutsos*
@@ -227,7 +230,9 @@
 - [图灵奖得主LeCun最新专访：为什么物理世界终将成为LLM的「死穴」？](https://mp.weixin.qq.com/s?__biz=MzIyMzk1MDE3Nw==&mid=2247629387&idx=1&sn=d8246e2f1f134cb3c635f915a2d0af90)
 - [OpenAI「登月计划」剑指超级AI！LeCun提出AGI之路七阶段，打造世界模型是首位](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652419855&idx=3&sn=a5f20e0a0061c01e1ec87d4a81c23e68)
 ## Forecasting
-- [[2403.07815] Chronos: Learning the Language of Time Series](https://arxiv.org/abs/2403.07815)
+- **Chronos: Learning the Language of Time Series**, `arXiv, 2403.07815`, [arxiv](http://arxiv.org/abs/2403.07815v1), [pdf](http://arxiv.org/pdf/2403.07815v1.pdf), cication: [**-1**](None)
+
+	 *Abdul Fatir Ansari, Lorenzo Stella, Caner Turkmen, Xiyuan Zhang, Pedro Mercado, Huibin Shen, Oleksandr Shchur, Syama Sundar Rangapuram, Sebastian Pineda Arango, Shubham Kapoor*
 - **Lag-Llama: Towards Foundation Models for Probabilistic Time Series
   Forecasting**, `arXiv, 2310.08278`, [arxiv](http://arxiv.org/abs/2310.08278v3), [pdf](http://arxiv.org/pdf/2310.08278v3.pdf), cication: [**11**](https://scholar.google.com/scholar?cites=8753400217691232559&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
@@ -240,6 +245,7 @@
 	 *Abhimanyu Das, Weihao Kong, Rajat Sen, Yichen Zhou* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-05-9))
 
 ## Chat arena
+- [No-code LLM fine-tuning and evaluation at scale – Airtrain.ai](https://www.airtrain.ai/?ref=producthunt)
 - **Chatbot Arena: An Open Platform for Evaluating LLMs by Human Preference**, `arXiv, 2403.04132`, [arxiv](http://arxiv.org/abs/2403.04132v1), [pdf](http://arxiv.org/pdf/2403.04132v1.pdf), cication: [**-1**](None)
 
 	 *Wei-Lin Chiang, Lianmin Zheng, Ying Sheng, Anastasios Nikolas Angelopoulos, Tianle Li, Dacheng Li, Hao Zhang, Banghua Zhu, Michael Jordan, Joseph E. Gonzalez*
@@ -372,7 +378,9 @@
 - [**transformer-debugger**](https://github.com/openai/transformer-debugger) - openai ![Star](https://img.shields.io/github/stars/openai/transformer-debugger.svg?style=social&label=Star)
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-03-12-3))
-- [[2403.06634] Stealing Part of a Production Language Model](https://arxiv.org/abs/2403.06634)
+- **Stealing Part of a Production Language Model**, `arXiv, 2403.06634`, [arxiv](http://arxiv.org/abs/2403.06634v1), [pdf](http://arxiv.org/pdf/2403.06634v1.pdf), cication: [**-1**](None)
+
+	 *Nicholas Carlini, Daniel Paleka, Krishnamurthy Dj Dvijotham, Thomas Steinke, Jonathan Hayase, A. Feder Cooper, Katherine Lee, Matthew Jagielski, Milad Nasr, Arthur Conmy*
 
 	 · ([qbitai](https://www.qbitai.com/2024/03/127168.html))
 - [Reflections on Qualitative Research](https://transformer-circuits.pub/2024/qualitative-essay/index.html)
@@ -484,7 +492,10 @@
   Understanding In-Context Learning**, `arXiv, 2305.14160`, [arxiv](http://arxiv.org/abs/2305.14160v2), [pdf](http://arxiv.org/pdf/2305.14160v2.pdf), cication: [**-1**](None)
 
 	 *Lean Wang, Lei Li, Damai Dai, Deli Chen, Hao Zhou, Fandong Meng, Jie Zhou, Xu Sun* · ([qbitai](https://www.qbitai.com/2023/12/105631.html))
-- [[2211.03495] How Much Does Attention Actually Attend? Questioning the Importance of Attention in Pretrained Transformers](https://arxiv.org/abs/2211.03495)
+- **How Much Does Attention Actually Attend? Questioning the Importance of
+  Attention in Pretrained Transformers**, `arXiv, 2211.03495`, [arxiv](http://arxiv.org/abs/2211.03495v1), [pdf](http://arxiv.org/pdf/2211.03495v1.pdf), cication: [**16**](https://scholar.google.com/scholar?cites=2519257119659989818&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Michael Hassid, Hao Peng, Daniel Rotem, Jungo Kasai, Ivan Montero, Noah A. Smith, Roy Schwartz*
 
 ## Generaliazation
 - **Time is Encoded in the Weights of Finetuned Language Models**, `arXiv, 2312.13401`, [arxiv](http://arxiv.org/abs/2312.13401v1), [pdf](http://arxiv.org/pdf/2312.13401v1.pdf), cication: [**-1**](None)
@@ -496,7 +507,9 @@
 	 *Steve Yadlowsky, Lyric Doshi, Nilesh Tripuraneni*
 
 ## LLM editting
-- [[2403.06259] Editing Conceptual Knowledge for Large Language Models](https://arxiv.org/abs/2403.06259)
+- **Editing Conceptual Knowledge for Large Language Models**, `arXiv, 2403.06259`, [arxiv](http://arxiv.org/abs/2403.06259v1), [pdf](http://arxiv.org/pdf/2403.06259v1.pdf), cication: [**-1**](None)
+
+	 *Xiaohan Wang, Shengyu Mao, Ningyu Zhang, Shumin Deng, Yunzhi Yao, Yue Shen, Lei Liang, Jinjie Gu, Huajun Chen*
 
 	 · ([zjukg](https://www.zjukg.org/project/ConceptEdit/)) · ([EasyEdit](https://github.com/zjunlp/EasyEdit) - zjunlp) ![Star](https://img.shields.io/github/stars/zjunlp/EasyEdit.svg?style=social&label=Star)
 - **A Comprehensive Study of Knowledge Editing for Large Language Models**, `arXiv, 2401.01286`, [arxiv](http://arxiv.org/abs/2401.01286v2), [pdf](http://arxiv.org/pdf/2401.01286v2.pdf), cication: [**-1**](None)
@@ -586,7 +599,9 @@
 
 
 ## Impacts
-- [On the Societal Impact of Open Foundation Models](https://crfm.stanford.edu/open-fms/)
+- **On the Societal Impact of Open Foundation Models**, `arXiv, 2403.07918`, [arxiv](http://arxiv.org/abs/2403.07918v1), [pdf](http://arxiv.org/pdf/2403.07918v1.pdf), cication: [**-1**](None)
+
+	 *Sayash Kapoor, Rishi Bommasani, Kevin Klyman, Shayne Longpre, Ashwin Ramaswami, Peter Cihon, Aspen Hopkins, Kevin Bankston, Stella Biderman, Miranda Bogen* · ([crfm.stanford](https://crfm.stanford.edu/open-fms/))
 - [MIT新研究：打工人不用担心被AI淘汰！成本巨贵，视觉工作只有23%可替代](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652436863&idx=3&sn=cd329df965557870646c7dd6fcb460cc)
 
 ## Course & Tutorial

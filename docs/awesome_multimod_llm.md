@@ -24,7 +24,10 @@
 
 ## Vision
 ### Video
-- [[2403.04640] CAT: Enhancing Multimodal Large Language Model to Answer Questions in Dynamic Audio-Visual Scenarios](https://arxiv.org/abs/2403.04640)
+- **CAT: Enhancing Multimodal Large Language Model to Answer Questions in
+  Dynamic Audio-Visual Scenarios**, `arXiv, 2403.04640`, [arxiv](http://arxiv.org/abs/2403.04640v1), [pdf](http://arxiv.org/pdf/2403.04640v1.pdf), cication: [**-1**](None)
+
+	 *Qilang Ye, Zitong Yu, Rui Shao, Xinyu Xie, Philip Torr, Xiaochun Cao*
 
 	 · ([Bay-CAT](https://github.com/rikeilong/Bay-CAT) - rikeilong) ![Star](https://img.shields.io/github/stars/rikeilong/Bay-CAT.svg?style=social&label=Star)
 - **MovieLLM: Enhancing Long Video Understanding with AI-Generated Movies**, `arXiv, 2403.01422`, [arxiv](http://arxiv.org/abs/2403.01422v1), [pdf](http://arxiv.org/pdf/2403.01422v1.pdf), cication: [**-1**](None)
@@ -107,9 +110,13 @@
 - **MoAI: Mixture of All Intelligence for Large Language and Vision Models**, `arXiv, 2403.07508`, [arxiv](http://arxiv.org/abs/2403.07508v1), [pdf](http://arxiv.org/pdf/2403.07508v1.pdf), cication: [**-1**](None)
 
 	 *Byung-Kwan Lee, Beomchan Park, Chae Won Kim, Yong Man Ro*
+
+	 · ([MoAI](https://github.com/ByungKwanLee/MoAI) - ByungKwanLee) ![Star](https://img.shields.io/github/stars/ByungKwanLee/MoAI.svg?style=social&label=Star)
 - **DeepSeek-VL: Towards Real-World Vision-Language Understanding**, `arXiv, 2403.05525`, [arxiv](http://arxiv.org/abs/2403.05525v1), [pdf](http://arxiv.org/pdf/2403.05525v1.pdf), cication: [**-1**](None)
 
 	 *Haoyu Lu, Wen Liu, Bo Zhang, Bingxuan Wang, Kai Dong, Bo Liu, Jingxiang Sun, Tongzheng Ren, Zhuoshu Li, Yaofeng Sun*
+
+	 · ([DeepSeek-VL](https://github.com/deepseek-ai/DeepSeek-VL) - deepseek-ai) ![Star](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-VL.svg?style=social&label=Star)
 - **RegionGPT: Towards Region Understanding Vision Language Model**, `arXiv, 2403.02330`, [arxiv](http://arxiv.org/abs/2403.02330v1), [pdf](http://arxiv.org/pdf/2403.02330v1.pdf), cication: [**-1**](None)
 
 	 *Qiushan Guo, Shalini De Mello, Hongxu Yin, Wonmin Byeon, Ka Chun Cheung, Yizhou Yu, Ping Luo, Sifei Liu*
@@ -898,6 +905,9 @@
 - [**BakLLaVA-1**](https://huggingface.co/SkunkworksAI/BakLLaVA-1) - SkunkworksAI 🤗
 
 ## Benchmarks
+- [**lmms-eval**](https://github.com/EvolvingLMMs-Lab/lmms-eval) - EvolvingLMMs-Lab ![Star](https://img.shields.io/github/stars/EvolvingLMMs-Lab/lmms-eval.svg?style=social&label=Star)
+
+	 *Accelerating the development of large multimodal models (LMMs) with lmms-eval* · ([lmms-lab.github](https://lmms-lab.github.io/lmms-eval-blog/lmms-eval-0.1/))
 - [**NPHardEval4V**](https://github.com/lizhouf/NPHardEval4V) - lizhouf ![Star](https://img.shields.io/github/stars/lizhouf/NPHardEval4V.svg?style=social&label=Star)
 - [**ConTextual**](https://github.com/rohan598/ConTextual) - rohan598 ![Star](https://img.shields.io/github/stars/rohan598/ConTextual.svg?style=social&label=Star)
 - [**TempCompass**](https://github.com/llyx97/TempCompass) - llyx97 ![Star](https://img.shields.io/github/stars/llyx97/TempCompass.svg?style=social&label=Star)
