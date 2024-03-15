@@ -384,6 +384,7 @@
 	 *A simple and effective LLM pruning approach.*
 
 ## Efficient Inference
+- [[2403.09054] Keyformer: KV Cache Reduction through Key Tokens Selection for Efficient Generative Inference](https://arxiv.org/abs/2403.09054)
 - **Sequoia: Scalable, Robust, and Hardware-aware Speculative Decoding**, `arXiv, 2402.12374`, [arxiv](http://arxiv.org/abs/2402.12374v2), [pdf](http://arxiv.org/pdf/2402.12374v2.pdf), cication: [**-1**](None)
 
 	 *Zhuoming Chen, Avner May, Ruslan Svirschevski, Yuhsun Huang, Max Ryabinin, Zhihao Jia, Beidi Chen* · ([Sequoia](https://github.com/Infini-AI-Lab/Sequoia) - Infini-AI-Lab) ![Star](https://img.shields.io/github/stars/Infini-AI-Lab/Sequoia.svg?style=social&label=Star)

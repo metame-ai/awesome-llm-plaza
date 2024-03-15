@@ -28,6 +28,10 @@
 	 *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang*
 
 ## Papers
+- [Fetching Title#ycx5](https://arxiv.org/abs/2403.07974)
+
+	 · ([livecodebench.github](https://livecodebench.github.io/))
+- [[2403.07008] AutoEval Done Right: Using Synthetic Data for Model Evaluation](https://arxiv.org/abs/2403.07008)
 - **AC-EVAL: Evaluating Ancient Chinese Language Understanding in Large
   Language Models**, `arXiv, 2403.06574`, [arxiv](http://arxiv.org/abs/2403.06574v1), [pdf](http://arxiv.org/pdf/2403.06574v1.pdf), cication: [**-1**](None)
 
@@ -400,6 +404,7 @@
 	 *Lianmin Zheng, Wei-Lin Chiang, Ying Sheng, Siyuan Zhuang, Zhanghao Wu, Yonghao Zhuang, Zi Lin, Zhuohan Li, Dacheng Li, Eric. P Xing*
 
 ## Projects
+- [LiveCodeBench Leaderboard](https://livecodebench.github.io/leaderboard.html)
 - [**WildBench**](https://huggingface.co/spaces/allenai/WildBench) - allenai 🤗
 - [**gorilla**](https://github.com/ShishirPatil/gorilla) - ShishirPatil ![Star](https://img.shields.io/github/stars/ShishirPatil/gorilla.svg?style=social&label=Star)
 

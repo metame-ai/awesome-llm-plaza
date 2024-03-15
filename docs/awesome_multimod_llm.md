@@ -15,6 +15,7 @@
 	- [Reference](#reference)
 
 ## Survey
+- [[2403.08773] Veagle: Advancements in Multimodal Representation Learning](https://arxiv.org/abs/2403.08773)
 - **MM-LLMs: Recent Advances in MultiModal Large Language Models**, `arXiv, 2401.13601`, [arxiv](http://arxiv.org/abs/2401.13601v1), [pdf](http://arxiv.org/pdf/2401.13601v1.pdf), cication: [**-1**](None)
 
 	 *Duzhen Zhang, Yahan Yu, Chenxing Li, Jiahua Dong, Dan Su, Chenhui Chu, Dong Yu*
@@ -23,7 +24,16 @@
 	 *Mengwei Xu, Wangsong Yin, Dongqi Cai, Rongjie Yi, Daliang Xu, Qipeng Wang, Bingyang Wu, Yihao Zhao, Chen Yang, Shihe Wang*
 
 ## Vision
+### Vision Encoder
+- [[2403.09338] LocalMamba: Visual State Space Model with Windowed Selective Scan](https://arxiv.org/abs/2403.09338)
+- [**LocalMamba**](https://github.com/hunto/LocalMamba) - hunto ![Star](https://img.shields.io/github/stars/hunto/LocalMamba.svg?style=social&label=Star)
+
+	 *Code for paper LocalMamba: Visual State Space Model with Windowed Selective Scan*
+
 ### Video
+- [[2403.09626] Video Mamba Suite: State Space Model as a Versatile Alternative for Video Understanding](https://arxiv.org/abs/2403.09626)
+
+	 · ([video-mamba-suite](https://github.com/OpenGVLab/video-mamba-suite) - OpenGVLab) ![Star](https://img.shields.io/github/stars/OpenGVLab/video-mamba-suite.svg?style=social&label=Star)
 - **CAT: Enhancing Multimodal Large Language Model to Answer Questions in
   Dynamic Audio-Visual Scenarios**, `arXiv, 2403.04640`, [arxiv](http://arxiv.org/abs/2403.04640v1), [pdf](http://arxiv.org/pdf/2403.04640v1.pdf), cication: [**-1**](None)
 
@@ -107,6 +117,13 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
+- [[2403.09333] Griffon v2: Advancing Multimodal Perception with High-Resolution Scaling and Visual-Language Co-Referring](https://arxiv.org/abs/2403.09333)
+
+	 · ([Griffon](https://github.com/jefferyZhan/Griffon) - jefferyZhan) ![Star](https://img.shields.io/github/stars/jefferyZhan/Griffon.svg?style=social&label=Star)
+- [[2403.09394] GiT: Towards Generalist Vision Transformer through Universal Language Interface](https://arxiv.org/abs/2403.09394)
+
+	 · ([GiT](https://github.com/Haiyang-W/GiT) - Haiyang-W) ![Star](https://img.shields.io/github/stars/Haiyang-W/GiT.svg?style=social&label=Star)
+- [[2403.09611] MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training](https://arxiv.org/abs/2403.09611)
 - **MoAI: Mixture of All Intelligence for Large Language and Vision Models**, `arXiv, 2403.07508`, [arxiv](http://arxiv.org/abs/2403.07508v1), [pdf](http://arxiv.org/pdf/2403.07508v1.pdf), cication: [**-1**](None)
 
 	 *Byung-Kwan Lee, Beomchan Park, Chae Won Kim, Yong Man Ro*
@@ -844,7 +861,9 @@
 	 *Haoran Wei, Lingyu Kong, Jinyue Chen, Liang Zhao, Zheng Ge, En Yu, Jianjian Sun, Chunrui Han, Xiangyu Zhang*
 
 ## Extra Modalities 
-- [Paper page - Beyond Language Models: Byte Models are Digital World Simulators](https://huggingface.co/papers/2402.19155)
+- [[2403.09631] 3D-VLA: A 3D Vision-Language-Action Generative World Model](https://arxiv.org/abs/2403.09631)
+- [[2403.09530] VisionGPT-3D: A Generalized Multimodal Agent for Enhanced 3D Vision Understanding](https://arxiv.org/abs/2403.09530)
+- [[2402.19155] Beyond Language Models: Byte Models are Digital World Simulators](https://arxiv.org/abs/2402.19155)
 - **ChartX & ChartVLM: A Versatile Benchmark and Foundation Model for
   Complicated Chart Reasoning**, `arXiv, 2402.12185`, [arxiv](http://arxiv.org/abs/2402.12185v1), [pdf](http://arxiv.org/pdf/2402.12185v1.pdf), cication: [**-1**](None)
 
@@ -860,6 +879,9 @@
 
 	 *Mingsheng Li, Xin Chen, Chi Zhang, Sijin Chen, Hongyuan Zhu, Fukun Yin, Gang Yu, Tao Chen*
 ## Projects
+- [**DeepSeek-VL**](https://github.com/deepseek-ai/DeepSeek-VL) - deepseek-ai ![Star](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-VL.svg?style=social&label=Star)
+
+	 *DeepSeek-VL: Towards Real-World Vision-Language Understanding* · ([huggingface](https://huggingface.co/spaces/deepseek-ai/DeepSeek-VL-7B))
 - [**uform-gen2-qwen-500m**](https://huggingface.co/unum-cloud/uform-gen2-qwen-500m) - unum-cloud 🤗
 - [**imp**](https://github.com/MILVLG/imp) - MILVLG ![Star](https://img.shields.io/github/stars/MILVLG/imp.svg?style=social&label=Star)
 
@@ -874,7 +896,7 @@
 
 	 · ([app.fireworks](https://app.fireworks.ai/blog/firellava-the-first-commercially-permissive-oss-llava-model))
 - [**Yi-VL-6B**](https://huggingface.co/01-ai/Yi-VL-6B) - 01-ai 🤗
-- [Fetching Title#hb2e](https://huggingface.co/01-ai/Yi-VL-34B)
+- [**Yi-VL-34B**](https://huggingface.co/01-ai/Yi-VL-34B) - 01-ai 🤗
 - [**hermes-llava**](https://github.com/qnguyen3/hermes-llava) - qnguyen3 ![Star](https://img.shields.io/github/stars/qnguyen3/hermes-llava.svg?style=social&label=Star)
 
 	 · ([huggingface](https://huggingface.co/NousResearch/Nous-Hermes-2-Vision-Alpha))
@@ -953,6 +975,7 @@
 	 *Yuliang Liu, Zhang Li, Biao Yang, Chunyuan Li, Xucheng Yin, Cheng-lin Liu, Lianwen Jin, Xiang Bai* · ([MultimodalOCR](https://github.com/Yuliang-Liu/MultimodalOCR) - Yuliang-Liu) ![Star](https://img.shields.io/github/stars/Yuliang-Liu/MultimodalOCR.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652442102&idx=4&sn=64a53646c57797a00b9db186f339c5eb))
 
 ## Datasets
+- [[2403.09029] Unlocking the conversion of Web Screenshots into HTML Code with the WebSight Dataset](https://arxiv.org/abs/2403.09029)
 - [**RAVEN**](https://huggingface.co/datasets/HuggingFaceM4/RAVEN) - HuggingFaceM4 🤗
 
 	 · ([huggingface](https://huggingface.co/spaces/HuggingFaceM4/ai_raven))

@@ -10,6 +10,7 @@
 
 
 ## Papers
+- [CoPa](https://copa-2024.github.io/)
 - [SIMA generalist AI agent for 3D virtual environments - Google DeepMind](https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/)
 
 	 · ([storage.googleapis](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/sima-generalist-ai-agent-for-3d-virtual-environments/Scaling%20Instructable%20Agents%20Across%20Many%20Simulated%20Worlds.pdf))
@@ -255,6 +256,10 @@
 	 *Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao*
 
 ## Robotics
+- [[2403.07788] DexCap: Scalable and Portable Mocap Data Collection System for Dexterous Manipulation](https://arxiv.org/abs/2403.07788)
+- [Fetching Title#76ei](https://dex-cap.github.io/
+
+	 · ([DexCap](https://github.com/j96w/DexCap) - j96w) ![Star](https://img.shields.io/github/stars/j96w/DexCap.svg?style=social&label=Star)
 - **Learning Generalizable Feature Fields for Mobile Manipulation**, `arXiv, 2403.07563`, [arxiv](http://arxiv.org/abs/2403.07563v1), [pdf](http://arxiv.org/pdf/2403.07563v1.pdf), cication: [**-1**](None)
 
 	 *Ri-Zhao Qiu, Yafei Hu, Ge Yang, Yuchen Song, Yang Fu, Jianglong Ye, Jiteng Mu, Ruihan Yang, Nikolay Atanasov, Sebastian Scherer*

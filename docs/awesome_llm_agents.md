@@ -540,6 +540,9 @@
 ### Other
 - [陈丹琦ACL学术报告来了！详解大模型「外挂」数据库7大方向3大挑战，3小时干货满满 | 量子位](https://www.qbitai.com/2023/07/67259.html)
 ## Web browsing
+- [**LaVague**](https://github.com/lavague-ai/LaVague) - lavague-ai ![Star](https://img.shields.io/github/stars/lavague-ai/LaVague.svg?style=social&label=Star)
+
+	 *Automate automation with Large Action Model framework*
 - [**api**](https://github.com/MULTI-ON/api) - MULTI-ON ![Star](https://img.shields.io/github/stars/MULTI-ON/api.svg?style=social&label=Star)
 
 	 *MultiOn API*

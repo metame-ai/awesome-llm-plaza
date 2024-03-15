@@ -33,6 +33,9 @@
 
 
 ## Survey
+- [[2403.01528] Leveraging Biomolecule and Natural Language through Multi-Modal Learning: A Survey](https://arxiv.org/abs/2403.01528)
+
+	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-03-14-7)) · ([Awesome-Biomolecule-Language-Cross-Modeling](https://github.com/QizhiPei/Awesome-Biomolecule-Language-Cross-Modeling) - QizhiPei) ![Star](https://img.shields.io/github/stars/QizhiPei/Awesome-Biomolecule-Language-Cross-Modeling.svg?style=social&label=Star)
 - **Materials science in the era of large language models: a perspective**, `arXiv, 2403.06949`, [arxiv](http://arxiv.org/abs/2403.06949v1), [pdf](http://arxiv.org/pdf/2403.06949v1.pdf), cication: [**-1**](None)
 
 	 *Ge Lei, Ronan Docherty, Samuel J. Cooper*
@@ -967,6 +970,9 @@
 - [领域大模型-训练Trick&落地思考](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494320&idx=2&sn=8edd6ea37bbd73768caa306d9daa2cf7&poc_token=HHnX8GSjlZWMp0JU8WwdwPTmPLYtaqYEMl6TlWkB)
 
 ## Extra reference
+- [**awesome-local-ai**](https://github.com/janhq/awesome-local-ai) - janhq ![Star](https://img.shields.io/github/stars/janhq/awesome-local-ai.svg?style=social&label=Star)
+
+	 *An awesome repository of local AI tools*
 - [**Awesome-LLMs-in-Graph-tasks**](https://github.com/yhLeeee/Awesome-LLMs-in-Graph-tasks) - yhLeeee ![Star](https://img.shields.io/github/stars/yhLeeee/Awesome-LLMs-in-Graph-tasks.svg?style=social&label=Star)
 
 	 *A curated collection of research papers exploring the utilization of LLMs for graph-related tasks.*

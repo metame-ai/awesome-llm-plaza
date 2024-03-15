@@ -27,6 +27,7 @@
 	- [Extra reference](#extra-reference)
 
 ## Survey
+- [[2403.09606] Large Language Models and Causal Inference in Collaboration: A Comprehensive Survey](https://arxiv.org/abs/2403.09606)
 - **Knowledge Conflicts for LLMs: A Survey**, `arXiv, 2403.08319`, [arxiv](http://arxiv.org/abs/2403.08319v1), [pdf](http://arxiv.org/pdf/2403.08319v1.pdf), cication: [**-1**](None)
 
 	 *Rongwu Xu, Zehan Qi, Cunxiang Wang, Hongru Wang, Yue Zhang, Wei Xu*
@@ -640,6 +641,9 @@
 	 · ([youtu](https://youtu.be/nOxKexn3iBo))
 
 ## Extra reference
+- [**awesome-local-ai**](https://github.com/janhq/awesome-local-ai) - janhq ![Star](https://img.shields.io/github/stars/janhq/awesome-local-ai.svg?style=social&label=Star)
+
+	 *An awesome repository of local AI tools*
 - [机器之心SOTA！模型](https://sota.jiqizhixin.com/)
 - [**how-to-optim-algorithm-in-cuda**](https://github.com/BBuf/how-to-optim-algorithm-in-cuda) - BBuf ![Star](https://img.shields.io/github/stars/BBuf/how-to-optim-algorithm-in-cuda.svg?style=social&label=Star)
 
