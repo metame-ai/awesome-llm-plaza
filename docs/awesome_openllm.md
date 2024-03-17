@@ -112,7 +112,9 @@
 	 *Kaiyuan Gao, Sunan He, Zhenyu He, Jiacheng Lin, QiZhi Pei, Jie Shao, Wei Zhang* · ([gpt_alternatives](https://github.com/GPT-Alternatives/gpt_alternatives) - GPT-Alternatives) ![Star](https://img.shields.io/github/stars/GPT-Alternatives/gpt_alternatives.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-09-12-3))
 
 ### Gemma
-- [Fetching Title#3iu2](https://arxiv.org/abs/2403.08295)
+- **Gemma: Open Models Based on Gemini Research and Technology**, `arXiv, 2403.08295`, [arxiv](http://arxiv.org/abs/2403.08295v1), [pdf](http://arxiv.org/pdf/2403.08295v1.pdf), cication: [**-1**](None)
+
+	 *Gemma Team, Thomas Mesnard, Cassidy Hardin, Robert Dadashi, Surya Bhupatiraju, Shreya Pathak, Laurent Sifre, Morgane Rivière, Mihir Sanjay Kale, Juliette Love*
 - **Gemini 1.5: Unlocking multimodal understanding across millions of tokens
   of context**, `arXiv, 2403.05530`, [arxiv](http://arxiv.org/abs/2403.05530v1), [pdf](http://arxiv.org/pdf/2403.05530v1.pdf), cication: [**-1**](None)
 

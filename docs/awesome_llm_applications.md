@@ -33,7 +33,10 @@
 
 
 ## Survey
-- [[2403.01528] Leveraging Biomolecule and Natural Language through Multi-Modal Learning: A Survey](https://arxiv.org/abs/2403.01528)
+- **Leveraging Biomolecule and Natural Language through Multi-Modal
+  Learning: A Survey**, `arXiv, 2403.01528`, [arxiv](http://arxiv.org/abs/2403.01528v2), [pdf](http://arxiv.org/pdf/2403.01528v2.pdf), cication: [**-1**](None)
+
+	 *Qizhi Pei, Lijun Wu, Kaiyuan Gao, Jinhua Zhu, Yue Wang, Zun Wang, Tao Qin, Rui Yan*
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-03-14-7)) · ([Awesome-Biomolecule-Language-Cross-Modeling](https://github.com/QizhiPei/Awesome-Biomolecule-Language-Cross-Modeling) - QizhiPei) ![Star](https://img.shields.io/github/stars/QizhiPei/Awesome-Biomolecule-Language-Cross-Modeling.svg?style=social&label=Star)
 - **Materials science in the era of large language models: a perspective**, `arXiv, 2403.06949`, [arxiv](http://arxiv.org/abs/2403.06949v1), [pdf](http://arxiv.org/pdf/2403.06949v1.pdf), cication: [**-1**](None)

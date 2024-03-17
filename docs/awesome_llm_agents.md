@@ -74,7 +74,10 @@
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-18-4))
 ## Agents
-- [[2403.08715] SOTOPIA-$π$: Interactive Learning of Socially Intelligent Language Agents](https://arxiv.org/abs/2403.08715)
+- **SOTOPIA-$π$: Interactive Learning of Socially Intelligent Language
+  Agents**, `arXiv, 2403.08715`, [arxiv](http://arxiv.org/abs/2403.08715v2), [pdf](http://arxiv.org/pdf/2403.08715v2.pdf), cication: [**-1**](None)
+
+	 *Ruiyi Wang, Haofei Yu, Wenxin Zhang, Zhengyang Qi, Maarten Sap, Graham Neubig, Yonatan Bisk, Hao Zhu*
 - **AgentLite: A Lightweight Library for Building and Advancing
   Task-Oriented LLM Agent System**, `arXiv, 2402.15538`, [arxiv](http://arxiv.org/abs/2402.15538v1), [pdf](http://arxiv.org/pdf/2402.15538v1.pdf), cication: [**-1**](None)
 
@@ -605,7 +608,10 @@
 - [**fully-local-pdf-chatbot**](https://github.com/jacoblee93/fully-local-pdf-chatbot) - jacoblee93 ![Star](https://img.shields.io/github/stars/jacoblee93/fully-local-pdf-chatbot.svg?style=social&label=Star)
 
 	 *Yes, it's another chat over documents implementation... but this one is entirely local!*
-- [[2403.05313] RAT: Retrieval Augmented Thoughts Elicit Context-Aware Reasoning in Long-Horizon Generation](https://arxiv.org/abs/2403.05313)
+- **RAT: Retrieval Augmented Thoughts Elicit Context-Aware Reasoning in
+  Long-Horizon Generation**, `arXiv, 2403.05313`, [arxiv](http://arxiv.org/abs/2403.05313v1), [pdf](http://arxiv.org/pdf/2403.05313v1.pdf), cication: [**-1**](None)
+
+	 *Zihao Wang, Anji Liu, Haowei Lin, Jiaqi Li, Xiaojian Ma, Yitao Liang*
 
 	 · ([craftjarvis.github](https://craftjarvis.github.io/RAT))
 - **Backtracing: Retrieving the Cause of the Query**, `arXiv, 2403.03956`, [arxiv](http://arxiv.org/abs/2403.03956v1), [pdf](http://arxiv.org/pdf/2403.03956v1.pdf), cication: [**-1**](None)

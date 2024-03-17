@@ -28,10 +28,15 @@
 	 *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang*
 
 ## Papers
-- [Fetching Title#ycx5](https://arxiv.org/abs/2403.07974)
+- **LiveCodeBench: Holistic and Contamination Free Evaluation of Large
+  Language Models for Code**, `arXiv, 2403.07974`, [arxiv](http://arxiv.org/abs/2403.07974v1), [pdf](http://arxiv.org/pdf/2403.07974v1.pdf), cication: [**-1**](None)
+
+	 *Naman Jain, King Han, Alex Gu, Wen-Ding Li, Fanjia Yan, Tianjun Zhang, Sida Wang, Armando Solar-Lezama, Koushik Sen, Ion Stoica*
 
 	 · ([livecodebench.github](https://livecodebench.github.io/))
-- [[2403.07008] AutoEval Done Right: Using Synthetic Data for Model Evaluation](https://arxiv.org/abs/2403.07008)
+- **AutoEval Done Right: Using Synthetic Data for Model Evaluation**, `arXiv, 2403.07008`, [arxiv](http://arxiv.org/abs/2403.07008v1), [pdf](http://arxiv.org/pdf/2403.07008v1.pdf), cication: [**-1**](None)
+
+	 *Pierre Boyeau, Anastasios N. Angelopoulos, Nir Yosef, Jitendra Malik, Michael I. Jordan*
 - **AC-EVAL: Evaluating Ancient Chinese Language Understanding in Large
   Language Models**, `arXiv, 2403.06574`, [arxiv](http://arxiv.org/abs/2403.06574v1), [pdf](http://arxiv.org/pdf/2403.06574v1.pdf), cication: [**-1**](None)
 

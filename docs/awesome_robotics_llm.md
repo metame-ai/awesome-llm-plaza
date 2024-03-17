@@ -256,7 +256,10 @@
 	 *Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao*
 
 ## Robotics
-- [[2403.07788] DexCap: Scalable and Portable Mocap Data Collection System for Dexterous Manipulation](https://arxiv.org/abs/2403.07788)
+- **DexCap: Scalable and Portable Mocap Data Collection System for Dexterous
+  Manipulation**, `arXiv, 2403.07788`, [arxiv](http://arxiv.org/abs/2403.07788v1), [pdf](http://arxiv.org/pdf/2403.07788v1.pdf), cication: [**-1**](None)
+
+	 *Chen Wang, Haochen Shi, Weizhuo Wang, Ruohan Zhang, Li Fei-Fei, C. Karen Liu*
 - [Fetching Title#76ei](https://dex-cap.github.io/
 
 	 · ([DexCap](https://github.com/j96w/DexCap) - j96w) ![Star](https://img.shields.io/github/stars/j96w/DexCap.svg?style=social&label=Star)

@@ -27,7 +27,10 @@
 	- [Extra reference](#extra-reference)
 
 ## Survey
-- [[2403.09606] Large Language Models and Causal Inference in Collaboration: A Comprehensive Survey](https://arxiv.org/abs/2403.09606)
+- **Large Language Models and Causal Inference in Collaboration: A
+  Comprehensive Survey**, `arXiv, 2403.09606`, [arxiv](http://arxiv.org/abs/2403.09606v1), [pdf](http://arxiv.org/pdf/2403.09606v1.pdf), cication: [**-1**](None)
+
+	 *Xiaoyu Liu, Paiheng Xu, Junda Wu, Jiaxin Yuan, Yifan Yang, Yuhang Zhou, Fuxiao Liu, Tianrui Guan, Haoliang Wang, Tong Yu*
 - **Knowledge Conflicts for LLMs: A Survey**, `arXiv, 2403.08319`, [arxiv](http://arxiv.org/abs/2403.08319v1), [pdf](http://arxiv.org/pdf/2403.08319v1.pdf), cication: [**-1**](None)
 
 	 *Rongwu Xu, Zehan Qi, Cunxiang Wang, Hongru Wang, Yue Zhang, Wei Xu*

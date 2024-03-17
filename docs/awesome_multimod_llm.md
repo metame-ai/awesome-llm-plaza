@@ -15,7 +15,9 @@
 	- [Reference](#reference)
 
 ## Survey
-- [[2403.08773] Veagle: Advancements in Multimodal Representation Learning](https://arxiv.org/abs/2403.08773)
+- **Veagle: Advancements in Multimodal Representation Learning**, `arXiv, 2403.08773`, [arxiv](http://arxiv.org/abs/2403.08773v1), [pdf](http://arxiv.org/pdf/2403.08773v1.pdf), cication: [**-1**](None)
+
+	 *Rajat Chawla, Arkajit Datta, Tushar Verma, Adarsh Jha, Anmol Gautam, Ayush Vatsal, Sukrit Chaterjee, Mukunda NS, Ishaan Bhola*
 - **MM-LLMs: Recent Advances in MultiModal Large Language Models**, `arXiv, 2401.13601`, [arxiv](http://arxiv.org/abs/2401.13601v1), [pdf](http://arxiv.org/pdf/2401.13601v1.pdf), cication: [**-1**](None)
 
 	 *Duzhen Zhang, Yahan Yu, Chenxing Li, Jiahua Dong, Dan Su, Chenhui Chu, Dong Yu*
@@ -25,13 +27,18 @@
 
 ## Vision
 ### Vision Encoder
-- [[2403.09338] LocalMamba: Visual State Space Model with Windowed Selective Scan](https://arxiv.org/abs/2403.09338)
+- **LocalMamba: Visual State Space Model with Windowed Selective Scan**, `arXiv, 2403.09338`, [arxiv](http://arxiv.org/abs/2403.09338v1), [pdf](http://arxiv.org/pdf/2403.09338v1.pdf), cication: [**-1**](None)
+
+	 *Tao Huang, Xiaohuan Pei, Shan You, Fei Wang, Chen Qian, Chang Xu*
 - [**LocalMamba**](https://github.com/hunto/LocalMamba) - hunto ![Star](https://img.shields.io/github/stars/hunto/LocalMamba.svg?style=social&label=Star)
 
 	 *Code for paper LocalMamba: Visual State Space Model with Windowed Selective Scan*
 
 ### Video
-- [[2403.09626] Video Mamba Suite: State Space Model as a Versatile Alternative for Video Understanding](https://arxiv.org/abs/2403.09626)
+- **Video Mamba Suite: State Space Model as a Versatile Alternative for
+  Video Understanding**, `arXiv, 2403.09626`, [arxiv](http://arxiv.org/abs/2403.09626v1), [pdf](http://arxiv.org/pdf/2403.09626v1.pdf), cication: [**-1**](None)
+
+	 *Guo Chen, Yifei Huang, Jilan Xu, Baoqi Pei, Zhe Chen, Zhiqi Li, Jiahao Wang, Kunchang Li, Tong Lu, Limin Wang*
 
 	 · ([video-mamba-suite](https://github.com/OpenGVLab/video-mamba-suite) - OpenGVLab) ![Star](https://img.shields.io/github/stars/OpenGVLab/video-mamba-suite.svg?style=social&label=Star)
 - **CAT: Enhancing Multimodal Large Language Model to Answer Questions in
@@ -117,13 +124,21 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
-- [[2403.09333] Griffon v2: Advancing Multimodal Perception with High-Resolution Scaling and Visual-Language Co-Referring](https://arxiv.org/abs/2403.09333)
+- **Griffon v2: Advancing Multimodal Perception with High-Resolution Scaling
+  and Visual-Language Co-Referring**, `arXiv, 2403.09333`, [arxiv](http://arxiv.org/abs/2403.09333v1), [pdf](http://arxiv.org/pdf/2403.09333v1.pdf), cication: [**-1**](None)
+
+	 *Yufei Zhan, Yousong Zhu, Hongyin Zhao, Fan Yang, Ming Tang, Jinqiao Wang*
 
 	 · ([Griffon](https://github.com/jefferyZhan/Griffon) - jefferyZhan) ![Star](https://img.shields.io/github/stars/jefferyZhan/Griffon.svg?style=social&label=Star)
-- [[2403.09394] GiT: Towards Generalist Vision Transformer through Universal Language Interface](https://arxiv.org/abs/2403.09394)
+- **GiT: Towards Generalist Vision Transformer through Universal Language
+  Interface**, `arXiv, 2403.09394`, [arxiv](http://arxiv.org/abs/2403.09394v1), [pdf](http://arxiv.org/pdf/2403.09394v1.pdf), cication: [**-1**](None)
+
+	 *Haiyang Wang, Hao Tang, Li Jiang, Shaoshuai Shi, Muhammad Ferjad Naeem, Hongsheng Li, Bernt Schiele, Liwei Wang*
 
 	 · ([GiT](https://github.com/Haiyang-W/GiT) - Haiyang-W) ![Star](https://img.shields.io/github/stars/Haiyang-W/GiT.svg?style=social&label=Star)
-- [[2403.09611] MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training](https://arxiv.org/abs/2403.09611)
+- **MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training**, `arXiv, 2403.09611`, [arxiv](http://arxiv.org/abs/2403.09611v1), [pdf](http://arxiv.org/pdf/2403.09611v1.pdf), cication: [**-1**](None)
+
+	 *Brandon McKinzie, Zhe Gan, Jean-Philippe Fauconnier, Sam Dodge, Bowen Zhang, Philipp Dufter, Dhruti Shah, Xianzhi Du, Futang Peng, Floris Weers*
 - **MoAI: Mixture of All Intelligence for Large Language and Vision Models**, `arXiv, 2403.07508`, [arxiv](http://arxiv.org/abs/2403.07508v1), [pdf](http://arxiv.org/pdf/2403.07508v1.pdf), cication: [**-1**](None)
 
 	 *Byung-Kwan Lee, Beomchan Park, Chae Won Kim, Yong Man Ro*
@@ -861,9 +876,16 @@
 	 *Haoran Wei, Lingyu Kong, Jinyue Chen, Liang Zhao, Zheng Ge, En Yu, Jianjian Sun, Chunrui Han, Xiangyu Zhang*
 
 ## Extra Modalities 
-- [[2403.09631] 3D-VLA: A 3D Vision-Language-Action Generative World Model](https://arxiv.org/abs/2403.09631)
-- [[2403.09530] VisionGPT-3D: A Generalized Multimodal Agent for Enhanced 3D Vision Understanding](https://arxiv.org/abs/2403.09530)
-- [[2402.19155] Beyond Language Models: Byte Models are Digital World Simulators](https://arxiv.org/abs/2402.19155)
+- **3D-VLA: A 3D Vision-Language-Action Generative World Model**, `arXiv, 2403.09631`, [arxiv](http://arxiv.org/abs/2403.09631v1), [pdf](http://arxiv.org/pdf/2403.09631v1.pdf), cication: [**-1**](None)
+
+	 *Haoyu Zhen, Xiaowen Qiu, Peihao Chen, Jincheng Yang, Xin Yan, Yilun Du, Yining Hong, Chuang Gan*
+- **VisionGPT-3D: A Generalized Multimodal Agent for Enhanced 3D Vision
+  Understanding**, `arXiv, 2403.09530`, [arxiv](http://arxiv.org/abs/2403.09530v1), [pdf](http://arxiv.org/pdf/2403.09530v1.pdf), cication: [**-1**](None)
+
+	 *Chris Kelly, Luhui Hu, Jiayin Hu, Yu Tian, Deshun Yang, Bang Yang, Cindy Yang, Zihao Li, Zaoshan Huang, Yuexian Zou*
+- **Beyond Language Models: Byte Models are Digital World Simulators**, `arXiv, 2402.19155`, [arxiv](http://arxiv.org/abs/2402.19155v1), [pdf](http://arxiv.org/pdf/2402.19155v1.pdf), cication: [**-1**](None)
+
+	 *Shangda Wu, Xu Tan, Zili Wang, Rui Wang, Xiaobing Li, Maosong Sun*
 - **ChartX & ChartVLM: A Versatile Benchmark and Foundation Model for
   Complicated Chart Reasoning**, `arXiv, 2402.12185`, [arxiv](http://arxiv.org/abs/2402.12185v1), [pdf](http://arxiv.org/pdf/2402.12185v1.pdf), cication: [**-1**](None)
 
@@ -975,7 +997,10 @@
 	 *Yuliang Liu, Zhang Li, Biao Yang, Chunyuan Li, Xucheng Yin, Cheng-lin Liu, Lianwen Jin, Xiang Bai* · ([MultimodalOCR](https://github.com/Yuliang-Liu/MultimodalOCR) - Yuliang-Liu) ![Star](https://img.shields.io/github/stars/Yuliang-Liu/MultimodalOCR.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652442102&idx=4&sn=64a53646c57797a00b9db186f339c5eb))
 
 ## Datasets
-- [[2403.09029] Unlocking the conversion of Web Screenshots into HTML Code with the WebSight Dataset](https://arxiv.org/abs/2403.09029)
+- **Unlocking the conversion of Web Screenshots into HTML Code with the
+  WebSight Dataset**, `arXiv, 2403.09029`, [arxiv](http://arxiv.org/abs/2403.09029v1), [pdf](http://arxiv.org/pdf/2403.09029v1.pdf), cication: [**-1**](None)
+
+	 *Hugo Laurençon, Léo Tronchon, Victor Sanh*
 - [**RAVEN**](https://huggingface.co/datasets/HuggingFaceM4/RAVEN) - HuggingFaceM4 🤗
 
 	 · ([huggingface](https://huggingface.co/spaces/HuggingFaceM4/ai_raven))

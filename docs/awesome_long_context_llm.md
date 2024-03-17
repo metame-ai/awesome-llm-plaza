@@ -28,7 +28,10 @@
 	 *Adyasha Maharana, Dong-Ho Lee, Sergey Tulyakov, Mohit Bansal, Francesco Barbieri, Yuwei Fang*
 
 ## Papers
-- [[2403.09347] BurstAttention: An Efficient Distributed Attention Framework for Extremely Long Sequences](https://arxiv.org/abs/2403.09347)
+- **BurstAttention: An Efficient Distributed Attention Framework for
+  Extremely Long Sequences**, `arXiv, 2403.09347`, [arxiv](http://arxiv.org/abs/2403.09347v1), [pdf](http://arxiv.org/pdf/2403.09347v1.pdf), cication: [**-1**](None)
+
+	 *Sun Ao, Weilin Zhao, Xu Han, Cheng Yang, Zhiyuan Liu, Chuan Shi, Maosong Sun, Shengnan Wang, Teng Su*
 - **Gemini 1.5: Unlocking multimodal understanding across millions of tokens
   of context**, `arXiv, 2403.05530`, [arxiv](http://arxiv.org/abs/2403.05530v1), [pdf](http://arxiv.org/pdf/2403.05530v1.pdf), cication: [**-1**](None)
 
