@@ -84,6 +84,8 @@
 - [**orca-math-word-problems-200k**](https://huggingface.co/datasets/microsoft/orca-math-word-problems-200k) - microsoft 🤗
 - [**OpenHermesPreferences**](https://huggingface.co/datasets/argilla/OpenHermesPreferences) - argilla 🤗
 - [**WebSight**](https://huggingface.co/datasets/HuggingFaceM4/WebSight) - HuggingFaceM4 🤗
+
+	 · ([huggingface](https://huggingface.co/blog/websight))
 - [**oasst2**](https://huggingface.co/datasets/OpenAssistant/oasst2) - OpenAssistant 🤗
 - [**wikisource**](https://huggingface.co/datasets/wikimedia/wikisource) - wikimedia 🤗
 - [**pii-masking-200k**](https://huggingface.co/datasets/ai4privacy/pii-masking-200k) - ai4privacy 🤗
@@ -207,6 +209,7 @@
 
 	 *Lei Li, Yuwei Yin, Shicheng Li, Liang Chen, Peiyi Wang, Shuhuai Ren, Mukai Li, Yazheng Yang, Jingjing Xu, Xu Sun*
 ### Reasoning & Action
+- [**json-mode-eval?utm_source=ainews&utm_medium=email&utm_campaign=ainews-mm1-apples-first-large-multimodal-model**](https://huggingface.co/datasets/NousResearch/json-mode-eval?utm_source=ainews&utm_medium=email&utm_campaign=ainews-mm1-apples-first-large-multimodal-model) - NousResearch 🤗
 - **Can Large Language Models Infer Causation from Correlation?**, `arXiv, 2306.05836`, [arxiv](http://arxiv.org/abs/2306.05836v1), [pdf](http://arxiv.org/pdf/2306.05836v1.pdf), cication: [**11**](https://scholar.google.com/scholar?cites=10622702130608075727&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Zhijing Jin, Jiarui Liu, Zhiheng Lyu, Spencer Poff, Mrinmaya Sachan, Rada Mihalcea, Mona Diab, Bernhard Schölkopf*

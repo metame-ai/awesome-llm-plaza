@@ -35,6 +35,7 @@
 	 *Code for paper LocalMamba: Visual State Space Model with Windowed Selective Scan*
 
 ### Video
+- [[2403.10517] VideoAgent: Long-form Video Understanding with Large Language Model as Agent](https://arxiv.org/abs/2403.10517)
 - **Video Mamba Suite: State Space Model as a Versatile Alternative for
   Video Understanding**, `arXiv, 2403.09626`, [arxiv](http://arxiv.org/abs/2403.09626v1), [pdf](http://arxiv.org/pdf/2403.09626v1.pdf), cication: [**-1**](None)
 
@@ -124,6 +125,7 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
+- [[2403.10301] Uni-SMART: Universal Science Multimodal Analysis and Research Transformer](https://arxiv.org/abs/2403.10301)
 - **Griffon v2: Advancing Multimodal Perception with High-Resolution Scaling
   and Visual-Language Co-Referring**, `arXiv, 2403.09333`, [arxiv](http://arxiv.org/abs/2403.09333v1), [pdf](http://arxiv.org/pdf/2403.09333v1.pdf), cication: [**-1**](None)
 
@@ -790,6 +792,7 @@
 	 *Shaohan Huang, Li Dong, Wenhui Wang, Yaru Hao, Saksham Singhal, Shuming Ma, Tengchao Lv, Lei Cui, Owais Khan Mohammed, Barun Patra*
 
 ## Audio
+
 - **ChatMusician: Understanding and Generating Music Intrinsically with LLM**, `arXiv, 2402.16153`, [arxiv](http://arxiv.org/abs/2402.16153v1), [pdf](http://arxiv.org/pdf/2402.16153v1.pdf), cication: [**-1**](None)
 
 	 *Ruibin Yuan, Hanfeng Lin, Yi Wang, Zeyue Tian, Shangda Wu, Tianhao Shen, Ge Zhang, Yuhang Wu, Cong Liu, Ziya Zhou*
@@ -820,6 +823,9 @@
 - **WhisBERT: Multimodal Text-Audio Language Modeling on 100M Words**, `arXiv, 2312.02931`, [arxiv](http://arxiv.org/abs/2312.02931v2), [pdf](http://arxiv.org/pdf/2312.02931v2.pdf), cication: [**-1**](None)
 
 	 *Lukas Wolf, Greta Tuckute, Klemen Kotar, Eghbal Hosseini, Tamar Regev, Ethan Wilcox, Alex Warstadt*
+- [[2312.00249] Acoustic Prompt Tuning: Empowering Large Language Models with Audition Capabilities](https://arxiv.org/abs/2312.00249)
+
+	 · ([APT](https://github.com/JinhuaLiang/APT) - JinhuaLiang) ![Star](https://img.shields.io/github/stars/JinhuaLiang/APT.svg?style=social&label=Star)
 - **Qwen-Audio: Advancing Universal Audio Understanding via Unified
   Large-Scale Audio-Language Models**, `arXiv, 2311.07919`, [arxiv](http://arxiv.org/abs/2311.07919v1), [pdf](http://arxiv.org/pdf/2311.07919v1.pdf), cication: [**-1**](None)
 
@@ -949,6 +955,10 @@
 - [**BakLLaVA-1**](https://huggingface.co/SkunkworksAI/BakLLaVA-1) - SkunkworksAI 🤗
 
 ## Benchmarks
+- [**open_vlm_leaderboard?utm_source=ainews&utm_medium=email&utm_campaign=ainews-mm1-apples-first-large-multimodal-model**](https://huggingface.co/spaces/opencompass/open_vlm_leaderboard?utm_source=ainews&utm_medium=email&utm_campaign=ainews-mm1-apples-first-large-multimodal-model) - opencompass 🤗
+- [**VLMEvalKit**](https://github.com/open-compass/VLMEvalKit) - open-compass ![Star](https://img.shields.io/github/stars/open-compass/VLMEvalKit.svg?style=social&label=Star)
+
+	 *Open-source evaluation toolkit of large vision-language models (LVLMs), support GPT-4v, Gemini, QwenVLPlus, 30+ HF models, 15+ benchmarks*
 - [**lmms-eval**](https://github.com/EvolvingLMMs-Lab/lmms-eval) - EvolvingLMMs-Lab ![Star](https://img.shields.io/github/stars/EvolvingLMMs-Lab/lmms-eval.svg?style=social&label=Star)
 
 	 *Accelerating the development of large multimodal models (LMMs) with lmms-eval* · ([lmms-lab.github](https://lmms-lab.github.io/lmms-eval-blog/lmms-eval-0.1/))

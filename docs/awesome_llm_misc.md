@@ -639,6 +639,9 @@
 - [Stanford CS224N: Natural Language Processing with Deep Learning | 2023 - YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4)
 
 ### CUDA
+- [**lectures**](https://github.com/cuda-mode/lectures) - cuda-mode ![Star](https://img.shields.io/github/stars/cuda-mode/lectures.svg?style=social&label=Star)
+
+	 *Material for cuda-mode lectures*
 - [introduce CUDA in a way that will be accessible to Python folks](https://twitter.com/jeremyphoward/status/1752071227228008471)
 
 	 · ([youtu](https://youtu.be/nOxKexn3iBo))

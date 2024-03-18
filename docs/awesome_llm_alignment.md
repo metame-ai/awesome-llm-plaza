@@ -25,6 +25,7 @@
 	 *Yufei Wang, Wanjun Zhong, Liangyou Li, Fei Mi, Xingshan Zeng, Wenyong Huang, Lifeng Shang, Xin Jiang, Qun Liu* · ([AlignLLMHumanSurvey](https://github.com/GaryYufei/AlignLLMHumanSurvey) - GaryYufei) ![Star](https://img.shields.io/github/stars/GaryYufei/AlignLLMHumanSurvey.svg?style=social&label=Star)
 
 ## Paper & Projects
+- [Paper page - Alignment Studio: Aligning Large Language Models to Particular Contextual Regulations](https://huggingface.co/papers/2403.09704)
 - **Instruction-tuned Language Models are Better Knowledge Learners**, `arXiv, 2402.12847`, [arxiv](http://arxiv.org/abs/2402.12847v1), [pdf](http://arxiv.org/pdf/2402.12847v1.pdf), cication: [**-1**](None)
 
 	 *Zhengbao Jiang, Zhiqing Sun, Weijia Shi, Pedro Rodriguez, Chunting Zhou, Graham Neubig, Xi Victoria Lin, Wen-tau Yih, Srinivasan Iyer*

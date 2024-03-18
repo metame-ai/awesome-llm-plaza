@@ -50,6 +50,11 @@
 - [贫穷让我预训练](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494110&idx=2&sn=52bfbf2d51d1704efc596263bccf23db)
 
 ## Scaling
+- **Algorithmic progress in language models**, `arXiv, 2403.05812`, [arxiv](http://arxiv.org/abs/2403.05812v1), [pdf](http://arxiv.org/pdf/2403.05812v1.pdf), cication: [**-1**](None)
+
+	 *Anson Ho, Tamay Besiroglu, Ege Erdil, David Owen, Robi Rahman, Zifan Carl Guo, David Atkinson, Neil Thompson, Jaime Sevilla*
+
+	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652455514&idx=3&sn=8955e6ac82257fc0b3da29e34d1e5467))
 - **When Scaling Meets LLM Finetuning: The Effect of Data, Model and
   Finetuning Method**, `arXiv, 2402.17193`, [arxiv](http://arxiv.org/abs/2402.17193v1), [pdf](http://arxiv.org/pdf/2402.17193v1.pdf), cication: [**-1**](None)
 
@@ -147,6 +152,12 @@
 - [Chinchilla之死：只要训练足够长时间，小模型也能超过大模型 | 机器之心](https://www.jiqizhixin.com/articles/2023-10-03-9)
 
 ## Fine-tuning
+- **Simple and Scalable Strategies to Continually Pre-train Large Language
+  Models**, `arXiv, 2403.08763`, [arxiv](http://arxiv.org/abs/2403.08763v1), [pdf](http://arxiv.org/pdf/2403.08763v1.pdf), cication: [**-1**](None)
+
+	 *Adam Ibrahim, Benjamin Thérien, Kshitij Gupta, Mats L. Richter, Quentin Anthony, Timothée Lesort, Eugene Belilovsky, Irina Rish*
+
+	 · ([twitter](https://twitter.com/rasbt/status/1768629533509370279))
 - **Personalized Large Language Models**, `arXiv, 2402.09269`, [arxiv](http://arxiv.org/abs/2402.09269v1), [pdf](http://arxiv.org/pdf/2402.09269v1.pdf), cication: [**-1**](None)
 
 	 *Stanisław Woźniak, Bartłomiej Koptyra, Arkadiusz Janz, Przemysław Kazienko, Jan Kocoń*
@@ -222,9 +233,6 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652375732&idx=2&sn=1cb4cefcd791af2a6ffacdf99e35225c))
 
 ## Optimization
-- **Algorithmic progress in language models**, `arXiv, 2403.05812`, [arxiv](http://arxiv.org/abs/2403.05812v1), [pdf](http://arxiv.org/pdf/2403.05812v1.pdf), cication: [**-1**](None)
-
-	 *Anson Ho, Tamay Besiroglu, Ege Erdil, David Owen, Robi Rahman, Zifan Carl Guo, David Atkinson, Neil Thompson, Jaime Sevilla*
 - **Towards Optimal Learning of Language Models**, `arXiv, 2402.17759`, [arxiv](http://arxiv.org/abs/2402.17759v1), [pdf](http://arxiv.org/pdf/2402.17759v1.pdf), cication: [**-1**](None)
 
 	 *Yuxian Gu, Li Dong, Yaru Hao, Qingxiu Dong, Minlie Huang, Furu Wei* · ([aka](https://aka.ms/LearningLaw))
@@ -375,10 +383,6 @@
 
 
 ##  Online Learning
-- **Simple and Scalable Strategies to Continually Pre-train Large Language
-  Models**, `arXiv, 2403.08763`, [arxiv](http://arxiv.org/abs/2403.08763v1), [pdf](http://arxiv.org/pdf/2403.08763v1.pdf), cication: [**-1**](None)
-
-	 *Adam Ibrahim, Benjamin Thérien, Kshitij Gupta, Mats L. Richter, Quentin Anthony, Timothée Lesort, Eugene Belilovsky, Irina Rish*
 - **Online Training of Large Language Models: Learn while chatting**, `arXiv, 2403.04790`, [arxiv](http://arxiv.org/abs/2403.04790v1), [pdf](http://arxiv.org/pdf/2403.04790v1.pdf), cication: [**-1**](None)
 
 	 *Juhao Liang, Ziwei Wang, Zhuoheng Ma, Jianquan Li, Zhiyi Zhang, Xiangbo Wu, Benyou Wang*

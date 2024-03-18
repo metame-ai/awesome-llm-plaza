@@ -384,6 +384,8 @@
 	 *A simple and effective LLM pruning approach.*
 
 ## Efficient Inference
+- [[2403.09919] Recurrent Drafter for Fast Speculative Decoding in Large Language Models](https://arxiv.org/abs/2403.09919)
+- [[2403.09636] Dynamic Memory Compression: Retrofitting LLMs for Accelerated Inference](https://arxiv.org/abs/2403.09636)
 - **Keyformer: KV Cache Reduction through Key Tokens Selection for Efficient
   Generative Inference**, `arXiv, 2403.09054`, [arxiv](http://arxiv.org/abs/2403.09054v1), [pdf](http://arxiv.org/pdf/2403.09054v1.pdf), cication: [**-1**](None)
 

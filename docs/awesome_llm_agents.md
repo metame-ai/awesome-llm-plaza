@@ -414,6 +414,9 @@
 - [数字身份智能体的基本原理及应用前景展望](https://mp.weixin.qq.com/s?__biz=MzI1MjQ2OTQ3Ng==&mid=2247611020&idx=1&sn=eeea2012a2bcfe541a138c9a4c42b837)
 
 ## AutoGPT
+- [2403.08299.pdf](https://arxiv.org/pdf/2403.08299.pdf)
+
+	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652455514&idx=1&sn=53e4d927ea3a783d7b146d8635457549))
 - [**crewAI**](https://github.com/joaomdmoura/crewAI) - joaomdmoura ![Star](https://img.shields.io/github/stars/joaomdmoura/crewAI.svg?style=social&label=Star)
 
 	 *Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.*
@@ -433,6 +436,8 @@
 - [**MetaGPT**](https://github.com/geekan/MetaGPT) - geekan ![Star](https://img.shields.io/github/stars/geekan/MetaGPT.svg?style=social&label=Star)
 
 	 *The Multi-Agent Meta Programming Framework: Given one line Requirement, return PRD, Design, Tasks, Repo | 多智能体元编程框架：给定老板需求，输出产品文档、架构设计、任务列表、代码*
+
+	 · ([qbitai](https://www.qbitai.com/2024/03/128153.html))
 - [Toward Actionable Generative AI](https://blog.salesforceairesearch.com/large-action-models/)
 - [**PromptAppGPT**](https://github.com/mleoking/PromptAppGPT) - mleoking ![Star](https://img.shields.io/github/stars/mleoking/PromptAppGPT.svg?style=social&label=Star)
 
@@ -543,6 +548,9 @@
 ### Other
 - [陈丹琦ACL学术报告来了！详解大模型「外挂」数据库7大方向3大挑战，3小时干货满满 | 量子位](https://www.qbitai.com/2023/07/67259.html)
 ## Web browsing
+- [**skyvern**](https://github.com/Skyvern-AI/skyvern) - Skyvern-AI ![Star](https://img.shields.io/github/stars/Skyvern-AI/skyvern.svg?style=social&label=Star)
+
+	 *Automate browser-based workflows with LLMs and Computer Vision*
 - [**LaVague**](https://github.com/lavague-ai/LaVague) - lavague-ai ![Star](https://img.shields.io/github/stars/lavague-ai/LaVague.svg?style=social&label=Star)
 
 	 *Automate automation with Large Action Model framework*
@@ -605,6 +613,10 @@
 - [GPT-4V学会用键鼠上网，人类眼睁睁看着它发帖玩游戏 | 量子位](https://www.qbitai.com/2023/11/95456.html)
 
 ## Retrieval agumented generation
+- [[2403.10131] RAFT: Adapting Language Model to Domain Specific RAG](https://arxiv.org/abs/2403.10131)
+
+	 · ([gorilla](https://github.com/ShishirPatil/gorilla) - ShishirPatil) ![Star](https://img.shields.io/github/stars/ShishirPatil/gorilla.svg?style=social&label=Star)
+- [**rerankers**](https://github.com/AnswerDotAI/rerankers/) - AnswerDotAI ![Star](https://img.shields.io/github/stars/AnswerDotAI/rerankers.svg?style=social&label=Star)
 - [**fully-local-pdf-chatbot**](https://github.com/jacoblee93/fully-local-pdf-chatbot) - jacoblee93 ![Star](https://img.shields.io/github/stars/jacoblee93/fully-local-pdf-chatbot.svg?style=social&label=Star)
 
 	 *Yes, it's another chat over documents implementation... but this one is entirely local!*
@@ -767,6 +779,7 @@
 	 *Interact privately with your documents using the power of GPT, 100% privately, no data leaks*
 
 ### Embedding
+- [[2403.05440] Is Cosine-Similarity of Embeddings Really About Similarity?](https://arxiv.org/abs/2403.05440)
 - [**echo-embeddings**](https://github.com/jakespringer/echo-embeddings?tab=readme-ov-file) - jakespringer ![Star](https://img.shields.io/github/stars/jakespringer/echo-embeddings.svg?style=social&label=Star)
 - [🪆 Introduction to Matryoshka Embedding Models](https://huggingface.co/blog/matryoshka)
 - **Multilingual E5 Text Embeddings: A Technical Report**, `arXiv, 2402.05672`, [arxiv](http://arxiv.org/abs/2402.05672v1), [pdf](http://arxiv.org/pdf/2402.05672v1.pdf), cication: [**-1**](None)
@@ -806,6 +819,10 @@
 - [问答场景常用大模型解决方案](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494688&idx=2&sn=d871403a80a7fcf656ce0100f266f939)
 
 ## Code Interpreter
+- [**function-calling-eval**](https://github.com/interstellarninja/function-calling-eval?utm_source=ainews&utm_medium=email&utm_campaign=ainews-mm1-apples-first-large-multimodal-model) - interstellarninja ![Star](https://img.shields.io/github/stars/interstellarninja/function-calling-eval.svg?style=social&label=Star)
+
+	 *A framework for evaluating function calls made by LLMs*
+- [**Hermes-Function-Calling**](https://github.com/NousResearch/Hermes-Function-Calling/tree/main?utm_source=ainews&utm_medium=email&utm_campaign=ainews-mm1-apples-first-large-multimodal-model) - NousResearch ![Star](https://img.shields.io/github/stars/NousResearch/Hermes-Function-Calling.svg?style=social&label=Star)
 - [**phidata**](https://github.com/phidatahq/phidata) - phidatahq ![Star](https://img.shields.io/github/stars/phidatahq/phidata.svg?style=social&label=Star)
 
 	 *Build AI Assistants using function calling*

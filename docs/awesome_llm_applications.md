@@ -51,6 +51,9 @@
 - [Navigating the Jagged Technological Frontier: Field Experimental Evidence of the Effects of AI on Knowledge Worker Productivity and Quality](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4573321)
 
 ## Toolkits
+- [**CopilotKit**](https://github.com/CopilotKit/CopilotKit) - CopilotKit ![Star](https://img.shields.io/github/stars/CopilotKit/CopilotKit.svg?style=social&label=Star)
+
+	 *AI Copilot infrastructure 🤖 in-app AI chatbots, in-app AI Agents, & AI-powered Textareas.*
 - [**full-stack-fastapi-template**](https://github.com/tiangolo/full-stack-fastapi-template) - tiangolo ![Star](https://img.shields.io/github/stars/tiangolo/full-stack-fastapi-template.svg?style=social&label=Star)
 
 	 *Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.*
@@ -723,6 +726,7 @@
 - [快速筛选海量数据，即时做出明智决策，MIT、普林斯顿&卡内基梅隆大学团队利用LLM进行聚变研究 | 机器之心](https://www.jiqizhixin.com/articles/2024-01-04-6)
 - [2023年科研领域「 科学ChatGPT」有哪些？LLM for Science有哪些探索...... | 机器之心](https://www.jiqizhixin.com/articles/2023-12-26-10)
 ## Finance
+- [langchain-financial-agent.ipynb - Colaboratory](https://colab.research.google.com/gist/virattt/482faa119d1bb0a6bc7dd688fa8a9b2d/langchain-financial-agent.ipynb)
 - **Can Large Language Models Beat Wall Street? Unveiling the Potential of
   AI in Stock Selection**, `arXiv, 2401.03737`, [arxiv](http://arxiv.org/abs/2401.03737v1), [pdf](http://arxiv.org/pdf/2401.03737v1.pdf), cication: [**-1**](None)
 
@@ -776,6 +780,9 @@
 - **PoseGPT: Chatting about 3D Human Pose**, `arXiv, 2311.18836`, [arxiv](http://arxiv.org/abs/2311.18836v1), [pdf](http://arxiv.org/pdf/2311.18836v1.pdf), cication: [**-1**](None)
 
 	 *Yao Feng, Jing Lin, Sai Kumar Dwivedi, Yu Sun, Priyanka Patel, Michael J. Black* · ([yfeng95.github](https://yfeng95.github.io/posegpt/))
+- [[2312.16044] LLMLight: Large Language Models as Traffic Signal Control Agents](https://arxiv.org/abs/2312.16044)
+
+	 · ([qbitai](https://www.qbitai.com/2024/03/128386.html)) · ([LLMTSCS](https://github.com/usail-hkust/LLMTSCS) - usail-hkust) ![Star](https://img.shields.io/github/stars/usail-hkust/LLMTSCS.svg?style=social&label=Star)
 - **ChipNeMo: Domain-Adapted LLMs for Chip Design**, `arXiv, 2311.00176`, [arxiv](http://arxiv.org/abs/2311.00176v2), [pdf](http://arxiv.org/pdf/2311.00176v2.pdf), cication: [**-1**](None)
 
 	 *Mingjie Liu, Teodor-Dumitru Ene, Robert Kirby, Chris Cheng, Nathaniel Pinckney, Rongjian Liang, Jonah Alben, Himyanshu Anand, Sanmitra Banerjee, Ismet Bayraktaroglu*
@@ -825,7 +832,6 @@
 - [**GPT-InvestAR**](https://github.com/UditGupta10/GPT-InvestAR) - UditGupta10 ![Star](https://img.shields.io/github/stars/UditGupta10/GPT-InvestAR.svg?style=social&label=Star)
 
 	 *Enhancing Stock Investment Strategies through Annual Report Analysis with Large Language Models*
-- [ChatGPT上线"论文神器"插件！无需关键字即可搜索2亿文章，链接绝对保真 | 量子位](https://www.qbitai.com/2023/09/81949.html)
 - [**textbase**](https://github.com/cofactoryai/textbase) - cofactoryai ![Star](https://img.shields.io/github/stars/cofactoryai/textbase.svg?style=social&label=Star)
 
 	 *✨ Textbase is a simple framework for building AI chatbots. ✨*
@@ -968,9 +974,10 @@
 - [顺网科技发布AI引擎"SPICE"以及个人陪伴应用"顺网灵悉" | 量子位](https://www.qbitai.com/2023/07/72178.html)
 
 ## Other
--[ 大模型badcase修复方案思考](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495163&idx=2&sn=839b561bcc583ae813cffaf2686ad658)
+- [大模型badcase修复方案思考](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495163&idx=2&sn=839b561bcc583ae813cffaf2686ad658)
 - [大模型落地应用架构的一种模式](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494829&idx=2&sn=45b033900b589cd960479c1f8c52f287)
 - [领域大模型-训练Trick&落地思考](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494320&idx=2&sn=8edd6ea37bbd73768caa306d9daa2cf7&poc_token=HHnX8GSjlZWMp0JU8WwdwPTmPLYtaqYEMl6TlWkB)
+- [ChatGPT上线"论文神器"插件！无需关键字即可搜索2亿文章，链接绝对保真 | 量子位](https://www.qbitai.com/2023/09/81949.html)
 
 ## Extra reference
 - [**awesome-local-ai**](https://github.com/janhq/awesome-local-ai) - janhq ![Star](https://img.shields.io/github/stars/janhq/awesome-local-ai.svg?style=social&label=Star)
