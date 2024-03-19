@@ -35,7 +35,13 @@
 	 *Code for paper LocalMamba: Visual State Space Model with Windowed Selective Scan*
 
 ### Video
-- [[2403.10517] VideoAgent: Long-form Video Understanding with Large Language Model as Agent](https://arxiv.org/abs/2403.10517)
+- **VideoAgent: A Memory-augmented Multimodal Agent for Video Understanding**, `arXiv, 2403.11481`, [arxiv](http://arxiv.org/abs/2403.11481v1), [pdf](http://arxiv.org/pdf/2403.11481v1.pdf), cication: [**-1**](None)
+
+	 *Yue Fan, Xiaojian Ma, Rujie Wu, Yuntao Du, Jiaqi Li, Zhi Gao, Qing Li*
+- **VideoAgent: Long-form Video Understanding with Large Language Model as
+  Agent**, `arXiv, 2403.10517`, [arxiv](http://arxiv.org/abs/2403.10517v1), [pdf](http://arxiv.org/pdf/2403.10517v1.pdf), cication: [**-1**](None)
+
+	 *Xiaohan Wang, Yuhui Zhang, Orr Zohar, Serena Yeung-Levy*
 - **Video Mamba Suite: State Space Model as a Versatile Alternative for
   Video Understanding**, `arXiv, 2403.09626`, [arxiv](http://arxiv.org/abs/2403.09626v1), [pdf](http://arxiv.org/pdf/2403.09626v1.pdf), cication: [**-1**](None)
 
@@ -125,7 +131,13 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
-- [[2403.10301] Uni-SMART: Universal Science Multimodal Analysis and Research Transformer](https://arxiv.org/abs/2403.10301)
+- **LLaVA-UHD: an LMM Perceiving Any Aspect Ratio and High-Resolution Images**, `arXiv, 2403.11703`, [arxiv](http://arxiv.org/abs/2403.11703v1), [pdf](http://arxiv.org/pdf/2403.11703v1.pdf), cication: [**-1**](None)
+
+	 *Ruyi Xu, Yuan Yao, Zonghao Guo, Junbo Cui, Zanlin Ni, Chunjiang Ge, Tat-Seng Chua, Zhiyuan Liu, Maosong Sun, Gao Huang* · ([LLaVA-UHD](https://github.com/thunlp/LLaVA-UHD) - thunlp) ![Star](https://img.shields.io/github/stars/thunlp/LLaVA-UHD.svg?style=social&label=Star)
+- **Uni-SMART: Universal Science Multimodal Analysis and Research
+  Transformer**, `arXiv, 2403.10301`, [arxiv](http://arxiv.org/abs/2403.10301v1), [pdf](http://arxiv.org/pdf/2403.10301v1.pdf), cication: [**-1**](None)
+
+	 *Hengxing Cai, Xiaochen Cai, Shuwen Yang, Jiankun Wang, Lin Yao, Zhifeng Gao, Junhan Chang, Sihang Li, Mingjun Xu, Changxin Wang*
 - **Griffon v2: Advancing Multimodal Perception with High-Resolution Scaling
   and Visual-Language Co-Referring**, `arXiv, 2403.09333`, [arxiv](http://arxiv.org/abs/2403.09333v1), [pdf](http://arxiv.org/pdf/2403.09333v1.pdf), cication: [**-1**](None)
 
@@ -823,7 +835,10 @@
 - **WhisBERT: Multimodal Text-Audio Language Modeling on 100M Words**, `arXiv, 2312.02931`, [arxiv](http://arxiv.org/abs/2312.02931v2), [pdf](http://arxiv.org/pdf/2312.02931v2.pdf), cication: [**-1**](None)
 
 	 *Lukas Wolf, Greta Tuckute, Klemen Kotar, Eghbal Hosseini, Tamar Regev, Ethan Wilcox, Alex Warstadt*
-- [[2312.00249] Acoustic Prompt Tuning: Empowering Large Language Models with Audition Capabilities](https://arxiv.org/abs/2312.00249)
+- **Acoustic Prompt Tuning: Empowering Large Language Models with Audition
+  Capabilities**, `arXiv, 2312.00249`, [arxiv](http://arxiv.org/abs/2312.00249v1), [pdf](http://arxiv.org/pdf/2312.00249v1.pdf), cication: [**-1**](None)
+
+	 *Jinhua Liang, Xubo Liu, Wenwu Wang, Mark D. Plumbley, Huy Phan, Emmanouil Benetos*
 
 	 · ([APT](https://github.com/JinhuaLiang/APT) - JinhuaLiang) ![Star](https://img.shields.io/github/stars/JinhuaLiang/APT.svg?style=social&label=Star)
 - **Qwen-Audio: Advancing Universal Audio Understanding via Unified

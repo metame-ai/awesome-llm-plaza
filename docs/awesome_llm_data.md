@@ -101,6 +101,8 @@
   Tuning**, `arXiv, 2402.06619`, [arxiv](http://arxiv.org/abs/2402.06619v1), [pdf](http://arxiv.org/pdf/2402.06619v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=8445225482174528918&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Shivalika Singh, Freddie Vargus, Daniel Dsouza, Börje F. Karlsson, Abinaya Mahendiran, Wei-Yin Ko, Herumb Shandilya, Jay Patel, Deividas Mataciunas, Laura OMahony*
+
+	 · ([youtube](https://www.youtube.com/watch?v=APwtG6iWPiA&t=3s&ab_channel=Cohere))
 - **Dolma: an Open Corpus of Three Trillion Tokens for Language Model
   Pretraining Research**, `arXiv, 2402.00159`, [arxiv](http://arxiv.org/abs/2402.00159v1), [pdf](http://arxiv.org/pdf/2402.00159v1.pdf), cication: [**-1**](None)
 

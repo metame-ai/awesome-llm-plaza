@@ -50,6 +50,9 @@
 - [贫穷让我预训练](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494110&idx=2&sn=52bfbf2d51d1704efc596263bccf23db)
 
 ## Scaling
+- **DiPaCo: Distributed Path Composition**, `arXiv, 2403.10616`, [arxiv](http://arxiv.org/abs/2403.10616v1), [pdf](http://arxiv.org/pdf/2403.10616v1.pdf), cication: [**-1**](None)
+
+	 *Arthur Douillard, Qixuan Feng, Andrei A. Rusu, Adhiguna Kuncoro, Yani Donchev, Rachita Chhaparia, Ionel Gog, Marc'Aurelio Ranzato, Jiajun Shen, Arthur Szlam*
 - **Algorithmic progress in language models**, `arXiv, 2403.05812`, [arxiv](http://arxiv.org/abs/2403.05812v1), [pdf](http://arxiv.org/pdf/2403.05812v1.pdf), cication: [**-1**](None)
 
 	 *Anson Ho, Tamay Besiroglu, Ege Erdil, David Owen, Robi Rahman, Zifan Carl Guo, David Atkinson, Neil Thompson, Jaime Sevilla*
@@ -152,6 +155,7 @@
 - [Chinchilla之死：只要训练足够长时间，小模型也能超过大模型 | 机器之心](https://www.jiqizhixin.com/articles/2023-10-03-9)
 
 ## Fine-tuning
+- [Fetching Title#rtkv](https://arxiv.org/abs/2403.11901)
 - **Simple and Scalable Strategies to Continually Pre-train Large Language
   Models**, `arXiv, 2403.08763`, [arxiv](http://arxiv.org/abs/2403.08763v1), [pdf](http://arxiv.org/pdf/2403.08763v1.pdf), cication: [**-1**](None)
 

@@ -17,6 +17,9 @@
 	- [Efficient transformer](#efficient-transformer)
 
 ## Survey
+- **A Survey on Knowledge Distillation of Large Language Models**, `arXiv, 2402.13116`, [arxiv](http://arxiv.org/abs/2402.13116v3), [pdf](http://arxiv.org/pdf/2402.13116v3.pdf), cication: [**-1**](None)
+
+	 *Xiaohan Xu, Ming Li, Chongyang Tao, Tao Shen, Reynold Cheng, Jinyang Li, Can Xu, Dacheng Tao, Tianyi Zhou* · ([Awesome-Knowledge-Distillation-of-LLMs](https://github.com/Tebmer/Awesome-Knowledge-Distillation-of-LLMs) - Tebmer) ![Star](https://img.shields.io/github/stars/Tebmer/Awesome-Knowledge-Distillation-of-LLMs.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-03-18))
 - **Efficient Exploration for LLMs**, `arXiv, 2402.00396`, [arxiv](http://arxiv.org/abs/2402.00396v1), [pdf](http://arxiv.org/pdf/2402.00396v1.pdf), cication: [**-1**](None)
 
 	 *Vikranth Dwaracherla, Seyed Mohammad Asghari, Botao Hao, Benjamin Van Roy*
@@ -384,7 +387,13 @@
 	 *A simple and effective LLM pruning approach.*
 
 ## Efficient Inference
-- [[2403.09919] Recurrent Drafter for Fast Speculative Decoding in Large Language Models](https://arxiv.org/abs/2403.09919)
+- **DistServe: Disaggregating Prefill and Decoding for Goodput-optimized
+  Large Language Model Serving**, `arXiv, 2401.09670`, [arxiv](http://arxiv.org/abs/2401.09670v1), [pdf](http://arxiv.org/pdf/2401.09670v1.pdf), cication: [**-1**](None)
+
+	 *Yinmin Zhong, Shengyu Liu, Junda Chen, Jianbo Hu, Yibo Zhu, Xuanzhe Liu, Xin Jin, Hao Zhang* · ([hao-ai-lab.github](https://hao-ai-lab.github.io/blogs/distserve/))
+- **Recurrent Drafter for Fast Speculative Decoding in Large Language Models**, `arXiv, 2403.09919`, [arxiv](http://arxiv.org/abs/2403.09919v1), [pdf](http://arxiv.org/pdf/2403.09919v1.pdf), cication: [**-1**](None)
+
+	 *Aonan Zhang, Chong Wang, Yi Wang, Xuanyu Zhang, Yunfei Cheng*
 - [[2403.09636] Dynamic Memory Compression: Retrofitting LLMs for Accelerated Inference](https://arxiv.org/abs/2403.09636)
 - **Keyformer: KV Cache Reduction through Key Tokens Selection for Efficient
   Generative Inference**, `arXiv, 2403.09054`, [arxiv](http://arxiv.org/abs/2403.09054v1), [pdf](http://arxiv.org/pdf/2403.09054v1.pdf), cication: [**-1**](None)
@@ -642,6 +651,9 @@
 	 *Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-05-04)) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-06-05-2))
 
 ## Toolkits
+- [**quanto**](https://github.com/huggingface/quanto) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/quanto.svg?style=social&label=Star)
+
+	 *A pytorch Quantization Toolkit* · ([huggingface](https://huggingface.co/blog/quanto-introduction))
 - [**fsdp_qlora**](https://github.com/AnswerDotAI/fsdp_qlora) - AnswerDotAI ![Star](https://img.shields.io/github/stars/AnswerDotAI/fsdp_qlora.svg?style=social&label=Star)
 
 	 *Training LLMs with QLoRA + FSDP* · ([answer](https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html#a-first-step)) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzIyMzk1MDE3Nw==&mid=2247629628&idx=6&sn=a37c12303d04dd1dcabed6d02616e7be))
@@ -784,6 +796,9 @@
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-09-25-15)) · ([bilibili](https://www.bilibili.com/video/BV1W14y1C7jv/?spm_id_from=333.999.0.0&vd_source=1453a06a1e0b377f5c40946333b4423a)) · ([dropbox](https://www.dropbox.com/sh/0ftluqbd1afzqpy/AADqxwkYrt1FbGnSQ4KP3Kpva?dl=0))
 
 ## Extra Reference
+- [**Awesome-Knowledge-Distillation-of-LLMs**](https://github.com/Tebmer/Awesome-Knowledge-Distillation-of-LLMs) - Tebmer ![Star](https://img.shields.io/github/stars/Tebmer/Awesome-Knowledge-Distillation-of-LLMs.svg?style=social&label=Star)
+
+	 *This repository collects papers for "A Survey on Knowledge Distillation of Large Language Models". We break down KD into Knowledge Elicitation and Distillation Algorithms, and explore the Skill & Vertical Distillation of LLMs.*
 - [**Awesome-LLM-Compression**](https://github.com/HuangOwen/Awesome-LLM-Compression) - HuangOwen ![Star](https://img.shields.io/github/stars/HuangOwen/Awesome-LLM-Compression.svg?style=social&label=Star)
 
 	 *Awesome LLM compression research papers and tools.*

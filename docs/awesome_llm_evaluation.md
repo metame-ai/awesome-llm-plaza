@@ -28,7 +28,10 @@
 	 *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang*
 
 ## Papers
-- [[2403.03230] Large language models surpass human experts in predicting neuroscience results](https://arxiv.org/abs/2403.03230)
+- **Large language models surpass human experts in predicting neuroscience
+  results**, `arXiv, 2403.03230`, [arxiv](http://arxiv.org/abs/2403.03230v2), [pdf](http://arxiv.org/pdf/2403.03230v2.pdf), cication: [**-1**](None)
+
+	 *Xiaoliang Luo, Akilles Rechardt, Guangzhi Sun, Kevin K. Nejad, Felipe Yáñez, Bati Yilmaz, Kangjoo Lee, Alexandra O. Cohen, Valentina Borghesani, Anton Pashkov*
 - **LiveCodeBench: Holistic and Contamination Free Evaluation of Large
   Language Models for Code**, `arXiv, 2403.07974`, [arxiv](http://arxiv.org/abs/2403.07974v1), [pdf](http://arxiv.org/pdf/2403.07974v1.pdf), cication: [**-1**](None)
 

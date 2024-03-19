@@ -40,7 +40,9 @@
 	 *Stephen Casper, Jason Lin, Joe Kwon, Gatlen Culp, Dylan Hadfield-Menell*
 
 ## Papers
-- [[2403.09539] Logits of API-Protected LLMs Leak Proprietary Information](https://arxiv.org/abs/2403.09539)
+- **Logits of API-Protected LLMs Leak Proprietary Information**, `arXiv, 2403.09539`, [arxiv](http://arxiv.org/abs/2403.09539v2), [pdf](http://arxiv.org/pdf/2403.09539v2.pdf), cication: [**-1**](None)
+
+	 *Matthew Finlayson, Xiang Ren, Swabha Swayamdipta*
 
 	 · ([qbitai](https://www.qbitai.com/2024/03/128307.html))
 - **SafeDecoding: Defending against Jailbreak Attacks via Safety-Aware

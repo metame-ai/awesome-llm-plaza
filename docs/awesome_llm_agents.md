@@ -414,7 +414,12 @@
 - [数字身份智能体的基本原理及应用前景展望](https://mp.weixin.qq.com/s?__biz=MzI1MjQ2OTQ3Ng==&mid=2247611020&idx=1&sn=eeea2012a2bcfe541a138c9a4c42b837)
 
 ## AutoGPT
-- [2403.08299.pdf](https://arxiv.org/pdf/2403.08299.pdf)
+- **Data Interpreter: An LLM Agent For Data Science**, `arXiv, 2402.18679`, [arxiv](http://arxiv.org/abs/2402.18679v3), [pdf](http://arxiv.org/pdf/2402.18679v3.pdf), cication: [**-1**](None)
+
+	 *Sirui Hong, Yizhang Lin, Bang Liu, Bangbang Liu, Binhao Wu, Danyang Li, Jiaqi Chen, Jiayi Zhang, Jinlin Wang, Li Zhang* · ([MetaGPT](https://github.com/geekan/MetaGPT) - geekan) ![Star](https://img.shields.io/github/stars/geekan/MetaGPT.svg?style=social&label=Star)
+- **AutoDev: Automated AI-Driven Development**, `arXiv, 2403.08299`, [arxiv](http://arxiv.org/abs/2403.08299v1), [pdf](http://arxiv.org/pdf/2403.08299v1.pdf), cication: [**-1**](None)
+
+	 *Michele Tufano, Anisha Agarwal, Jinu Jang, Roshanak Zilouchian Moghaddam, Neel Sundaresan*
 
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652455514&idx=1&sn=53e4d927ea3a783d7b146d8635457549))
 - [**crewAI**](https://github.com/joaomdmoura/crewAI) - joaomdmoura ![Star](https://img.shields.io/github/stars/joaomdmoura/crewAI.svg?style=social&label=Star)
@@ -613,7 +618,9 @@
 - [GPT-4V学会用键鼠上网，人类眼睁睁看着它发帖玩游戏 | 量子位](https://www.qbitai.com/2023/11/95456.html)
 
 ## Retrieval agumented generation
-- [[2403.10131] RAFT: Adapting Language Model to Domain Specific RAG](https://arxiv.org/abs/2403.10131)
+- **RAFT: Adapting Language Model to Domain Specific RAG**, `arXiv, 2403.10131`, [arxiv](http://arxiv.org/abs/2403.10131v1), [pdf](http://arxiv.org/pdf/2403.10131v1.pdf), cication: [**-1**](None)
+
+	 *Tianjun Zhang, Shishir G. Patil, Naman Jain, Sheng Shen, Matei Zaharia, Ion Stoica, Joseph E. Gonzalez*
 
 	 · ([gorilla](https://github.com/ShishirPatil/gorilla) - ShishirPatil) ![Star](https://img.shields.io/github/stars/ShishirPatil/gorilla.svg?style=social&label=Star)
 - [**rerankers**](https://github.com/AnswerDotAI/rerankers/) - AnswerDotAI ![Star](https://img.shields.io/github/stars/AnswerDotAI/rerankers.svg?style=social&label=Star)
@@ -779,7 +786,9 @@
 	 *Interact privately with your documents using the power of GPT, 100% privately, no data leaks*
 
 ### Embedding
-- [[2403.05440] Is Cosine-Similarity of Embeddings Really About Similarity?](https://arxiv.org/abs/2403.05440)
+- **Is Cosine-Similarity of Embeddings Really About Similarity?**, `arXiv, 2403.05440`, [arxiv](http://arxiv.org/abs/2403.05440v1), [pdf](http://arxiv.org/pdf/2403.05440v1.pdf), cication: [**-1**](None)
+
+	 *Harald Steck, Chaitanya Ekanadham, Nathan Kallus*
 - [**echo-embeddings**](https://github.com/jakespringer/echo-embeddings?tab=readme-ov-file) - jakespringer ![Star](https://img.shields.io/github/stars/jakespringer/echo-embeddings.svg?style=social&label=Star)
 - [🪆 Introduction to Matryoshka Embedding Models](https://huggingface.co/blog/matryoshka)
 - **Multilingual E5 Text Embeddings: A Technical Report**, `arXiv, 2402.05672`, [arxiv](http://arxiv.org/abs/2402.05672v1), [pdf](http://arxiv.org/pdf/2402.05672v1.pdf), cication: [**-1**](None)

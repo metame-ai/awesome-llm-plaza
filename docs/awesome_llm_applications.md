@@ -51,6 +51,12 @@
 - [Navigating the Jagged Technological Frontier: Field Experimental Evidence of the Effects of AI on Knowledge Worker Productivity and Quality](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4573321)
 
 ## Toolkits
+- [**llamafile**](https://github.com/Mozilla-Ocho/llamafile) - Mozilla-Ocho ![Star](https://img.shields.io/github/stars/Mozilla-Ocho/llamafile.svg?style=social&label=Star)
+
+	 *Distribute and run LLMs with a single file.*
+- [**narrator**](https://github.com/cbh123/narrator?tab=readme-ov-file) - cbh123 ![Star](https://img.shields.io/github/stars/cbh123/narrator.svg?style=social&label=Star)
+
+	 *David Attenborough narrates your life*
 - [**CopilotKit**](https://github.com/CopilotKit/CopilotKit) - CopilotKit ![Star](https://img.shields.io/github/stars/CopilotKit/CopilotKit.svg?style=social&label=Star)
 
 	 *AI Copilot infrastructure 🤖 in-app AI chatbots, in-app AI Agents, & AI-powered Textareas.*
@@ -780,7 +786,9 @@
 - **PoseGPT: Chatting about 3D Human Pose**, `arXiv, 2311.18836`, [arxiv](http://arxiv.org/abs/2311.18836v1), [pdf](http://arxiv.org/pdf/2311.18836v1.pdf), cication: [**-1**](None)
 
 	 *Yao Feng, Jing Lin, Sai Kumar Dwivedi, Yu Sun, Priyanka Patel, Michael J. Black* · ([yfeng95.github](https://yfeng95.github.io/posegpt/))
-- [[2312.16044] LLMLight: Large Language Models as Traffic Signal Control Agents](https://arxiv.org/abs/2312.16044)
+- **LLMLight: Large Language Models as Traffic Signal Control Agents**, `arXiv, 2312.16044`, [arxiv](http://arxiv.org/abs/2312.16044v4), [pdf](http://arxiv.org/pdf/2312.16044v4.pdf), cication: [**5**](https://scholar.google.com/scholar?cites=14765298584627069361&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Siqi Lai, Zhao Xu, Weijia Zhang, Hao Liu, Hui Xiong*
 
 	 · ([qbitai](https://www.qbitai.com/2024/03/128386.html)) · ([LLMTSCS](https://github.com/usail-hkust/LLMTSCS) - usail-hkust) ![Star](https://img.shields.io/github/stars/usail-hkust/LLMTSCS.svg?style=social&label=Star)
 - **ChipNeMo: Domain-Adapted LLMs for Chip Design**, `arXiv, 2311.00176`, [arxiv](http://arxiv.org/abs/2311.00176v2), [pdf](http://arxiv.org/pdf/2311.00176v2.pdf), cication: [**-1**](None)

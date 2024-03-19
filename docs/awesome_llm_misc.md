@@ -358,6 +358,10 @@
 - **A Survey of Text Watermarking in the Era of Large Language Models**, `arXiv, 2312.07913`, [arxiv](http://arxiv.org/abs/2312.07913v4), [pdf](http://arxiv.org/pdf/2312.07913v4.pdf), cication: [**-1**](None)
 
 	 *Aiwei Liu, Leyi Pan, Yijian Lu, Jingjing Li, Xuming Hu, Xi Zhang, Lijie Wen, Irwin King, Hui Xiong, Philip S. Yu* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-01-26))
+- **Fast-DetectGPT: Efficient Zero-Shot Detection of Machine-Generated Text
+  via Conditional Probability Curvature**, `arXiv, 2310.05130`, [arxiv](http://arxiv.org/abs/2310.05130v2), [pdf](http://arxiv.org/pdf/2310.05130v2.pdf), cication: [**17**](https://scholar.google.com/scholar?cites=5808426526727311301&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Guangsheng Bao, Yanbin Zhao, Zhiyang Teng, Linyi Yang, Yue Zhang* · ([fast-detect-gpt](https://github.com/baoguangsheng/fast-detect-gpt?tab=readme-ov-file) - baoguangsheng) ![Star](https://img.shields.io/github/stars/baoguangsheng/fast-detect-gpt.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-03-18-10))
 - **Ghostbuster: Detecting Text Ghostwritten by Large Language Models**, `arXiv, 2305.15047`, [arxiv](http://arxiv.org/abs/2305.15047v2), [pdf](http://arxiv.org/pdf/2305.15047v2.pdf), cication: [**6**](https://scholar.google.com/scholar?cites=13263500511172823777&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Vivek Verma, Eve Fleisig, Nicholas Tomlin, Dan Klein* · ([bair.berkeley](https://bair.berkeley.edu/blog/2023/11/14/ghostbuster/))
@@ -379,6 +383,10 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652345558&idx=4&sn=95686435d5cad05d44cbe02bc26d6859))
 
 ## Interpretability 
+- **pyvene: A Library for Understanding and Improving PyTorch Models via
+  Interventions**, `arXiv, 2403.07809`, [arxiv](http://arxiv.org/abs/2403.07809v1), [pdf](http://arxiv.org/pdf/2403.07809v1.pdf), cication: [**-1**](None)
+
+	 *Zhengxuan Wu, Atticus Geiger, Aryaman Arora, Jing Huang, Zheng Wang, Noah D. Goodman, Christopher D. Manning, Christopher Potts* · ([pyvene](https://github.com/stanfordnlp/pyvene) - stanfordnlp) ![Star](https://img.shields.io/github/stars/stanfordnlp/pyvene.svg?style=social&label=Star)
 - [**transformer-debugger**](https://github.com/openai/transformer-debugger) - openai ![Star](https://img.shields.io/github/stars/openai/transformer-debugger.svg?style=social&label=Star)
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-03-12-3))

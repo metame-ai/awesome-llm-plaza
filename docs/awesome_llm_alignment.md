@@ -183,6 +183,12 @@
 	 *Timo Kaufmann, Paul Weng, Viktor Bengs, Eyke Hüllermeier*
 
 ## Papers
+- **PERL: Parameter Efficient Reinforcement Learning from Human Feedback**, `arXiv, 2403.10704`, [arxiv](http://arxiv.org/abs/2403.10704v1), [pdf](http://arxiv.org/pdf/2403.10704v1.pdf), cication: [**-1**](None)
+
+	 *Hakim Sidahmed, Samrat Phatale, Alex Hutcheson, Zhuonan Lin, Zhang Chen, Zac Yu, Jarvis Jin, Roman Komarytsia, Christiane Ahlheim, Yonghao Zhu*
+- **ORPO: Monolithic Preference Optimization without Reference Model**, `arXiv, 2403.07691`, [arxiv](http://arxiv.org/abs/2403.07691v2), [pdf](http://arxiv.org/pdf/2403.07691v2.pdf), cication: [**-1**](None)
+
+	 *Jiwoo Hong, Noah Lee, James Thorne* · ([orpo](https://github.com/xfactlab/orpo) - xfactlab) ![Star](https://img.shields.io/github/stars/xfactlab/orpo.svg?style=social&label=Star)
 - **Teaching Large Language Models to Reason with Reinforcement Learning**, `arXiv, 2403.04642`, [arxiv](http://arxiv.org/abs/2403.04642v1), [pdf](http://arxiv.org/pdf/2403.04642v1.pdf), cication: [**-1**](None)
 
 	 *Alex Havrilla, Yuqing Du, Sharath Chandra Raparthy, Christoforos Nalmpantis, Jane Dwivedi-Yu, Maksym Zhuravinskyi, Eric Hambro, Sainbayar Sukhbaatar, Roberta Raileanu*
