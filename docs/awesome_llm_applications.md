@@ -356,6 +356,9 @@
 - [首个大模型教育产品开箱："最聪明"国产大模型加持的学习机，质变了吗 | 量子位](https://www.qbitai.com/2023/08/79632.html)
 
 ## Text Related
+- **TnT-LLM: Text Mining at Scale with Large Language Models**, `arXiv, 2403.12173`, [arxiv](http://arxiv.org/abs/2403.12173v1), [pdf](http://arxiv.org/pdf/2403.12173v1.pdf), cication: [**-1**](None)
+
+	 *Mengting Wan, Tara Safavi, Sujay Kumar Jauhar, Yujin Kim, Scott Counts, Jennifer Neville, Siddharth Suri, Chirag Shah, Ryen W White, Longqi Yang*
 - **Scaling Up LLM Reviews for Google Ads Content Moderation**, `arXiv, 2402.14590`, [arxiv](http://arxiv.org/abs/2402.14590v1), [pdf](http://arxiv.org/pdf/2402.14590v1.pdf), cication: [**-1**](None)
 
 	 *Wei Qiao, Tushar Dogra, Otilia Stretcu, Yu-Han Lyu, Tiantian Fang, Dongjin Kwon, Chun-Ta Lu, Enming Luo, Yuan Wang, Chih-Chun Chia*

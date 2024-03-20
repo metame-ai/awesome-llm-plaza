@@ -131,6 +131,13 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
+- **Chart-based Reasoning: Transferring Capabilities from LLMs to VLMs**, `arXiv, 2403.12596`, [arxiv](http://arxiv.org/abs/2403.12596v1), [pdf](http://arxiv.org/pdf/2403.12596v1.pdf), cication: [**-1**](None)
+
+	 *Victor Carbune, Hassan Mansoor, Fangyu Liu, Rahul Aralikatte, Gilles Baechler, Jindong Chen, Abhanshu Sharma*
+- **mPLUG-DocOwl 1.5: Unified Structure Learning for OCR-free Document
+  Understanding**, `arXiv, 2403.12895`, [arxiv](http://arxiv.org/abs/2403.12895v1), [pdf](http://arxiv.org/pdf/2403.12895v1.pdf), cication: [**-1**](None)
+
+	 *Anwen Hu, Haiyang Xu, Jiabo Ye, Ming Yan, Liang Zhang, Bo Zhang, Chen Li, Ji Zhang, Qin Jin, Fei Huang* · ([mPLUG-DocOwl](https://github.com/X-PLUG/mPLUG-DocOwl/tree/main/DocOwl1.5) - X-PLUG) ![Star](https://img.shields.io/github/stars/X-PLUG/mPLUG-DocOwl.svg?style=social&label=Star)
 - **LLaVA-UHD: an LMM Perceiving Any Aspect Ratio and High-Resolution Images**, `arXiv, 2403.11703`, [arxiv](http://arxiv.org/abs/2403.11703v1), [pdf](http://arxiv.org/pdf/2403.11703v1.pdf), cication: [**-1**](None)
 
 	 *Ruyi Xu, Yuan Yao, Zonghao Guo, Junbo Cui, Zanlin Ni, Chunjiang Ge, Tat-Seng Chua, Zhiyuan Liu, Maosong Sun, Gao Huang* · ([LLaVA-UHD](https://github.com/thunlp/LLaVA-UHD) - thunlp) ![Star](https://img.shields.io/github/stars/thunlp/LLaVA-UHD.svg?style=social&label=Star)
@@ -869,6 +876,9 @@
 - **Any-to-Any Generation via Composable Diffusion**, `arXiv, 2305.11846`, [arxiv](http://arxiv.org/abs/2305.11846v1), [pdf](http://arxiv.org/pdf/2305.11846v1.pdf), cication: [**-1**](None)
 
 	 *Zineng Tang, Ziyi Yang, Chenguang Zhu, Michael Zeng, Mohit Bansal* · ([codi-gen.github](https://codi-gen.github.io/)) · ([i-Code](https://github.com/microsoft/i-Code/tree/main/i-Code-V3) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/i-Code.svg?style=social&label=Star)
+
+---
+- ["宝藏AI神器"通义听悟上新：超长音视频随便问，高校师生可获500小时免费时长 | 量子位](https://www.qbitai.com/2024/03/129271.html)
 
 ## CLIP
 - **What do we learn from inverting CLIP models?**, `arXiv, 2403.02580`, [arxiv](http://arxiv.org/abs/2403.02580v1), [pdf](http://arxiv.org/pdf/2403.02580v1.pdf), cication: [**-1**](None)

@@ -516,6 +516,10 @@ jj
 	 *Tianlu Wang, Ping Yu, Xiaoqing Ellen Tan, Sean O'Brien, Ramakanth Pasunuru, Jane Dwivedi-Yu, Olga Golovneva, Luke Zettlemoyer, Maryam Fazel-Zarandi, Asli Celikyilmaz* · ([shepherd](https://github.com/facebookresearch/shepherd) - facebookresearch) ![Star](https://img.shields.io/github/stars/facebookresearch/shepherd.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652366759&idx=3&sn=f183f4c8080a338c4c9fad0f026b14af))
 
 ## Prompting
+- **LLMLingua-2: Data Distillation for Efficient and Faithful Task-Agnostic
+  Prompt Compression**, `arXiv, 2403.12968`, [arxiv](http://arxiv.org/abs/2403.12968v1), [pdf](http://arxiv.org/pdf/2403.12968v1.pdf), cication: [**-1**](None)
+
+	 *Zhuoshi Pan, Qianhui Wu, Huiqiang Jiang, Menglin Xia, Xufang Luo, Jue Zhang, Qingwei Lin, Victor Rühle, Yuqing Yang, Chin-Yew Lin*
 - **The Unreasonable Effectiveness of Eccentric Automatic Prompts**, `arXiv, 2402.10949`, [arxiv](http://arxiv.org/abs/2402.10949v2), [pdf](http://arxiv.org/pdf/2402.10949v2.pdf), cication: [**-1**](None)
 
 	 *Rick Battle, Teja Gollapudi* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-03-18-6))

@@ -394,7 +394,9 @@
 - **Recurrent Drafter for Fast Speculative Decoding in Large Language Models**, `arXiv, 2403.09919`, [arxiv](http://arxiv.org/abs/2403.09919v1), [pdf](http://arxiv.org/pdf/2403.09919v1.pdf), cication: [**-1**](None)
 
 	 *Aonan Zhang, Chong Wang, Yi Wang, Xuanyu Zhang, Yunfei Cheng*
-- [[2403.09636] Dynamic Memory Compression: Retrofitting LLMs for Accelerated Inference](https://arxiv.org/abs/2403.09636)
+- **Dynamic Memory Compression: Retrofitting LLMs for Accelerated Inference**, `arXiv, 2403.09636`, [arxiv](http://arxiv.org/abs/2403.09636v1), [pdf](http://arxiv.org/pdf/2403.09636v1.pdf), cication: [**-1**](None)
+
+	 *Piotr Nawrot, Adrian Łańcucki, Marcin Chochowski, David Tarjan, Edoardo M. Ponti*
 - **Keyformer: KV Cache Reduction through Key Tokens Selection for Efficient
   Generative Inference**, `arXiv, 2403.09054`, [arxiv](http://arxiv.org/abs/2403.09054v1), [pdf](http://arxiv.org/pdf/2403.09054v1.pdf), cication: [**-1**](None)
 

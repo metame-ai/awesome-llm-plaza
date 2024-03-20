@@ -10,6 +10,10 @@
 
 
 ## Papers
+- **EnvGen: Generating and Adapting Environments via LLMs for Training
+  Embodied Agents**, `arXiv, 2403.12014`, [arxiv](http://arxiv.org/abs/2403.12014v1), [pdf](http://arxiv.org/pdf/2403.12014v1.pdf), cication: [**-1**](None)
+
+	 *Abhay Zala, Jaemin Cho, Han Lin, Jaehong Yoon, Mohit Bansal* · ([envgen-llm.github](https://envgen-llm.github.io/))
 - [CoPa](https://copa-2024.github.io/)
 - [SIMA generalist AI agent for 3D virtual environments - Google DeepMind](https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/)
 
@@ -256,16 +260,26 @@
 	 *Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao*
 
 ## Robotics
+- [Vid2Robot: End-to-end Video-conditioned Policy Learning with Cross-Attention Transformers](https://vid2robot.github.io/)
+
+	 · ([vid2robot.github](https://vid2robot.github.io/vid2robot.pdf))
+- **DROID: A Large-Scale In-The-Wild Robot Manipulation Dataset**, `arXiv, 2403.12945`, [arxiv](http://arxiv.org/abs/2403.12945v1), [pdf](http://arxiv.org/pdf/2403.12945v1.pdf), cication: [**-1**](None)
+
+	 *Alexander Khazatsky, Karl Pertsch, Suraj Nair, Ashwin Balakrishna, Sudeep Dasari, Siddharth Karamcheti, Soroush Nasiriany, Mohan Kumar Srirama, Lawrence Yunliang Chen, Kirsty Ellis* · ([droid-dataset.github](https://droid-dataset.github.io/))
 - **DexCap: Scalable and Portable Mocap Data Collection System for Dexterous
   Manipulation**, `arXiv, 2403.07788`, [arxiv](http://arxiv.org/abs/2403.07788v1), [pdf](http://arxiv.org/pdf/2403.07788v1.pdf), cication: [**-1**](None)
 
 	 *Chen Wang, Haochen Shi, Weizhuo Wang, Ruohan Zhang, Li Fei-Fei, C. Karen Liu*
-- [Fetching Title#76ei](https://dex-cap.github.io/
+- [DexCap | Scalable and Portable Mocap Data Collection System for Dexterous Manipulation](https://dex-cap.github.io/)
 
 	 · ([DexCap](https://github.com/j96w/DexCap) - j96w) ![Star](https://img.shields.io/github/stars/j96w/DexCap.svg?style=social&label=Star)
 - **Learning Generalizable Feature Fields for Mobile Manipulation**, `arXiv, 2403.07563`, [arxiv](http://arxiv.org/abs/2403.07563v1), [pdf](http://arxiv.org/pdf/2403.07563v1.pdf), cication: [**-1**](None)
 
 	 *Ri-Zhao Qiu, Yafei Hu, Ge Yang, Yuchen Song, Yang Fu, Jianglong Ye, Jiteng Mu, Ruihan Yang, Nikolay Atanasov, Sebastian Scherer*
+
+### Demos
+- [twitter.com/\_akhaliq/status/1770108427735314813](https://twitter.com/_akhaliq/status/1770108427735314813)
+- [Barsee 🐶 on X: "This year is going to be the year of robotics 🤖 UC San Diego introduces Expressive Humanoid. Now robots can easily perform rich, diverse, and expressive motions in the real world. A THREAD: 👇🧵 https://t.co/sHlVnoOjhL" / X](https://twitter.com/heyBarsee/status/1770110514045104460)
 
 ## Projects
 

@@ -155,7 +155,13 @@
 - [Chinchilla之死：只要训练足够长时间，小模型也能超过大模型 | 机器之心](https://www.jiqizhixin.com/articles/2023-10-03-9)
 
 ## Fine-tuning
-- [Fetching Title#rtkv](https://arxiv.org/abs/2403.11901)
+- **Agent-FLAN: Designing Data and Methods of Effective Agent Tuning for
+  Large Language Models**, `arXiv, 2403.12881`, [arxiv](http://arxiv.org/abs/2403.12881v1), [pdf](http://arxiv.org/pdf/2403.12881v1.pdf), cication: [**-1**](None)
+
+	 *Zehui Chen, Kuikun Liu, Qiuchen Wang, Wenwei Zhang, Jiangning Liu, Dahua Lin, Kai Chen, Feng Zhao* · ([Agent-FLAN](https://github.com/InternLM/Agent-FLAN) - InternLM) ![Star](https://img.shields.io/github/stars/InternLM/Agent-FLAN.svg?style=social&label=Star)
+- **Larimar: Large Language Models with Episodic Memory Control**, `arXiv, 2403.11901`, [arxiv](http://arxiv.org/abs/2403.11901v1), [pdf](http://arxiv.org/pdf/2403.11901v1.pdf), cication: [**-1**](None)
+
+	 *Payel Das, Subhajit Chaudhury, Elliot Nelson, Igor Melnyk, Sarath Swaminathan, Sihui Dai, Aurélie Lozano, Georgios Kollias, Vijil Chenthamarakshan, Jiří*
 - **Simple and Scalable Strategies to Continually Pre-train Large Language
   Models**, `arXiv, 2403.08763`, [arxiv](http://arxiv.org/abs/2403.08763v1), [pdf](http://arxiv.org/pdf/2403.08763v1.pdf), cication: [**-1**](None)
 
