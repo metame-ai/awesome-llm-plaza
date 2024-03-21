@@ -70,9 +70,16 @@
   Learning**, `arXiv, 2312.06134`, [arxiv](http://arxiv.org/abs/2312.06134v1), [pdf](http://arxiv.org/pdf/2312.06134v1.pdf), cication: [**-1**](None)
 
 	 *Dami Choi, Derrick Xin, Hamid Dadkhahi, Justin Gilmer, Ankush Garg, Orhan Firat, Chih-Kuan Yeh, Andrew M. Dai, Behrooz Ghorbani*
+- **When Less is More: Investigating Data Pruning for Pretraining LLMs at
+  Scale**, `arXiv, 2309.04564`, [arxiv](http://arxiv.org/abs/2309.04564v1), [pdf](http://arxiv.org/pdf/2309.04564v1.pdf), cication: [**23**](https://scholar.google.com/scholar?cites=1052346843253959809&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Max Marion, Ahmet Üstün, Luiza Pozzobon, Alex Wang, Marzieh Fadaee, Sara Hooker*
 - **AlpaGasus: Training A Better Alpaca with Fewer Data**, `arXiv, 2307.08701`, [arxiv](http://arxiv.org/abs/2307.08701v4), [pdf](http://arxiv.org/pdf/2307.08701v4.pdf), cication: [**-1**](None)
 
 	 *Lichang Chen, Shiyang Li, Jun Yan, Hai Wang, Kalpa Gunaratna, Vikas Yadav, Zheng Tang, Vijay Srinivasan, Tianyi Zhou, Heng Huang*
+- **DoReMi: Optimizing Data Mixtures Speeds Up Language Model Pretraining**, `NeurIPS, 2024`, [arxiv](http://arxiv.org/abs/2305.10429v4), [pdf](http://arxiv.org/pdf/2305.10429v4.pdf), cication: [**34**](https://scholar.google.com/scholar?cites=8540537205197053386&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Sang Michael Xie, Hieu Pham, Xuanyi Dong, Nan Du, Hanxiao Liu, Yifeng Lu, Percy Liang, Quoc V. Le, Tengyu Ma, Adams Wei Yu*
 - **Scaling Data-Constrained Language Models**, `arXiv, 2305.16264`, [arxiv](http://arxiv.org/abs/2305.16264v4), [pdf](http://arxiv.org/pdf/2305.16264v4.pdf), cication: [**-1**](None)
 
 	 *Niklas Muennighoff, Alexander M. Rush, Boaz Barak, Teven Le Scao, Aleksandra Piktus, Nouamane Tazi, Sampo Pyysalo, Thomas Wolf, Colin Raffel*
@@ -80,6 +87,9 @@
 	 · ([datablations](https://github.com/huggingface/datablations) - huggingface) ![Star](https://img.shields.io/github/stars/huggingface/datablations.svg?style=social&label=Star)
 
 ## Datasets
+- [Common Corpus - a PleIAs Collection](https://huggingface.co/collections/PleIAs/common-corpus-65d46e3ea3980fdcd66a5613)
+
+	 · ([huggingface](https://huggingface.co/blog/Pclanglais/common-corpus))
 - [**internet_archive_books_en**](https://huggingface.co/datasets/storytracer/internet_archive_books_en) - storytracer 🤗
 - [**orca-math-word-problems-200k**](https://huggingface.co/datasets/microsoft/orca-math-word-problems-200k) - microsoft 🤗
 - [**OpenHermesPreferences**](https://huggingface.co/datasets/argilla/OpenHermesPreferences) - argilla 🤗
@@ -220,6 +230,9 @@
 	 *Xiang Deng, Yu Gu, Boyuan Zheng, Shijie Chen, Samuel Stevens, Boshi Wang, Huan Sun, Yu Su*
 
 ### Synthetic 
+- [Cosmopedia: how to create large-scale synthetic data for pre-training Large Language Models](https://huggingface.co/blog/cosmopedia)
+
+	 · ([cosmopedia](https://github.com/huggingface/cosmopedia) - huggingface) ![Star](https://img.shields.io/github/stars/huggingface/cosmopedia.svg?style=social&label=Star)
 - **Gen4Gen: Generative Data Pipeline for Generative Multi-Concept
   Composition**, `arXiv, 2402.15504`, [arxiv](http://arxiv.org/abs/2402.15504v1), [pdf](http://arxiv.org/pdf/2402.15504v1.pdf), cication: [**-1**](None)
 

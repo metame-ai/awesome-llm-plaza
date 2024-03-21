@@ -57,6 +57,8 @@
 	 *Jiawei Zhao, Zhenyu Zhang, Beidi Chen, Zhangyang Wang, Anima Anandkumar, Yuandong Tian*
 
 	 · ([galore](https://github.com/jiaweizzhao/galore) - jiaweizzhao) ![Star](https://img.shields.io/github/stars/jiaweizzhao/galore.svg?style=social&label=Star)
+
+	 · ([huggingface](https://huggingface.co/blog/galore))
 - **LoRA+: Efficient Low Rank Adaptation of Large Models**, `arXiv, 2402.12354`, [arxiv](http://arxiv.org/abs/2402.12354v1), [pdf](http://arxiv.org/pdf/2402.12354v1.pdf), cication: [**-1**](None)
 
 	 *Soufiane Hayou, Nikhil Ghosh, Bin Yu*
@@ -169,6 +171,8 @@
 - **The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits**, `arXiv, 2402.17764`, [arxiv](http://arxiv.org/abs/2402.17764v1), [pdf](http://arxiv.org/pdf/2402.17764v1.pdf), cication: [**-1**](None)
 
 	 *Shuming Ma, Hongyu Wang, Lingxiao Ma, Lei Wang, Wenhui Wang, Shaohan Huang, Li Dong, Ruiping Wang, Jilong Xue, Furu Wei*
+
+	 · ([unilm](https://github.com/microsoft/unilm/blob/master/bitnet/The-Era-of-1-bit-LLMs__Training_Tips_Code_FAQ.pdf) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/unilm.svg?style=social&label=Star) · ([unilm](https://github.com/microsoft/unilm/tree/master/bitnet) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/unilm.svg?style=social&label=Star)
 - **GPTVQ: The Blessing of Dimensionality for LLM Quantization**, `arXiv, 2402.15319`, [arxiv](http://arxiv.org/abs/2402.15319v1), [pdf](http://arxiv.org/pdf/2402.15319v1.pdf), cication: [**-1**](None)
 
 	 *Mart van Baalen, Andrey Kuzmin, Markus Nagel, Peter Couperus, Cedric Bastoul, Eric Mahurin, Tijmen Blankevoort, Paul Whatmough*

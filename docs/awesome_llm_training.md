@@ -21,6 +21,9 @@
 
 
 ## Pretrain
+- **Reverse Training to Nurse the Reversal Curse**, `arXiv, 2403.13799`, [arxiv](http://arxiv.org/abs/2403.13799v1), [pdf](http://arxiv.org/pdf/2403.13799v1.pdf), cication: [**-1**](None)
+
+	 *Olga Golovneva, Zeyuan Allen-Zhu, Jason Weston, Sainbayar Sukhbaatar*
 - **Language models scale reliably with over-training and on downstream
   tasks**, `arXiv, 2403.08540`, [arxiv](http://arxiv.org/abs/2403.08540v1), [pdf](http://arxiv.org/pdf/2403.08540v1.pdf), cication: [**-1**](None)
 
@@ -47,6 +50,8 @@
 
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&mid=2247524339&idx=4&sn=d2389ee4d55f74472ac0236a849dbd4e)) · ([bilibili](https://www.bilibili.com/video/BV1XT411v7c9/?vd_source=63e5fa02f07bfd58e74de3c6d149e31f))
 ### Other
+- [useful AI paper on optimizing training, comment with your finds](https://twitter.com/far__el/status/1770218968126820773)
+
 - [贫穷让我预训练](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494110&idx=2&sn=52bfbf2d51d1704efc596263bccf23db)
 
 ## Scaling
@@ -155,6 +160,13 @@
 - [Chinchilla之死：只要训练足够长时间，小模型也能超过大模型 | 机器之心](https://www.jiqizhixin.com/articles/2023-10-03-9)
 
 ## Fine-tuning
+- **LlamaFactory: Unified Efficient Fine-Tuning of 100+ Language Models**, `arXiv, 2403.13372`, [arxiv](http://arxiv.org/abs/2403.13372v1), [pdf](http://arxiv.org/pdf/2403.13372v1.pdf), cication: [**-1**](None)
+
+	 *Yaowei Zheng, Richong Zhang, Junhao Zhang, Yanhan Ye, Zheyan Luo* · ([LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - hiyouga) ![Star](https://img.shields.io/github/stars/hiyouga/LLaMA-Factory.svg?style=social&label=Star)
+- **Reawakening knowledge: Anticipatory recovery from catastrophic
+  interference via structured training**, `arXiv, 2403.09613`, [arxiv](http://arxiv.org/abs/2403.09613v1), [pdf](http://arxiv.org/pdf/2403.09613v1.pdf), cication: [**-1**](None)
+
+	 *Yanlai Yang, Matt Jones, Michael C. Mozer, Mengye Ren*
 - **Agent-FLAN: Designing Data and Methods of Effective Agent Tuning for
   Large Language Models**, `arXiv, 2403.12881`, [arxiv](http://arxiv.org/abs/2403.12881v1), [pdf](http://arxiv.org/pdf/2403.12881v1.pdf), cication: [**-1**](None)
 
@@ -243,6 +255,9 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652375732&idx=2&sn=1cb4cefcd791af2a6ffacdf99e35225c))
 
 ## Optimization
+- **Reverse Training to Nurse the Reversal Curse**, `arXiv, 2403.13799`, [arxiv](http://arxiv.org/abs/2403.13799v1), [pdf](http://arxiv.org/pdf/2403.13799v1.pdf), cication: [**-1**](None)
+
+	 *Olga Golovneva, Zeyuan Allen-Zhu, Jason Weston, Sainbayar Sukhbaatar*
 - **Towards Optimal Learning of Language Models**, `arXiv, 2402.17759`, [arxiv](http://arxiv.org/abs/2402.17759v1), [pdf](http://arxiv.org/pdf/2402.17759v1.pdf), cication: [**-1**](None)
 
 	 *Yuxian Gu, Li Dong, Yaru Hao, Qingxiu Dong, Minlie Huang, Furu Wei* · ([aka](https://aka.ms/LearningLaw))
@@ -255,6 +270,9 @@
 	 *Yang Luo, Xiaozhe Ren, Zangwei Zheng, Zhuo Jiang, Xin Jiang, Yang You* · ([qbitai](https://www.qbitai.com/2023/07/67814.html))
  
 ## Ensemble
+- **Evolutionary Optimization of Model Merging Recipes**, `arXiv, 2403.13187`, [arxiv](http://arxiv.org/abs/2403.13187v1), [pdf](http://arxiv.org/pdf/2403.13187v1.pdf), cication: [**-1**](None)
+
+	 *Takuya Akiba, Makoto Shing, Yujin Tang, Qi Sun, David Ha*
 - **Branch-Train-MiX: Mixing Expert LLMs into a Mixture-of-Experts LLM**, `arXiv, 2403.07816`, [arxiv](http://arxiv.org/abs/2403.07816v1), [pdf](http://arxiv.org/pdf/2403.07816v1.pdf), cication: [**-1**](None)
 
 	 *Sainbayar Sukhbaatar, Olga Golovneva, Vasu Sharma, Hu Xu, Xi Victoria Lin, Baptiste Rozière, Jacob Kahn, Daniel Li, Wen-tau Yih, Jason Weston*

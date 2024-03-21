@@ -480,6 +480,7 @@
 - [AgentGPT](https://agentgpt.reworkd.ai/)
 
 ## Augmented LLM
+- [WhatAreToolsAnyway.pdf](https://zorazrw.github.io/files/WhatAreToolsAnyway.pdf)
 - **LLMs in the Imaginarium: Tool Learning through Simulated Trial and Error**, `arXiv, 2403.04746`, [arxiv](http://arxiv.org/abs/2403.04746v1), [pdf](http://arxiv.org/pdf/2403.04746v1.pdf), cication: [**-1**](None)
 
 	 *Boshi Wang, Hao Fang, Jason Eisner, Benjamin Van Durme, Yu Su*

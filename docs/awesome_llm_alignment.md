@@ -25,7 +25,10 @@
 	 *Yufei Wang, Wanjun Zhong, Liangyou Li, Fei Mi, Xingshan Zeng, Wenyong Huang, Lifeng Shang, Xin Jiang, Qun Liu* · ([AlignLLMHumanSurvey](https://github.com/GaryYufei/AlignLLMHumanSurvey) - GaryYufei) ![Star](https://img.shields.io/github/stars/GaryYufei/AlignLLMHumanSurvey.svg?style=social&label=Star)
 
 ## Paper & Projects
-- [Paper page - Alignment Studio: Aligning Large Language Models to Particular Contextual Regulations](https://huggingface.co/papers/2403.09704)
+- **Alignment Studio: Aligning Large Language Models to Particular
+  Contextual Regulations**, `arXiv, 2403.09704`, [arxiv](http://arxiv.org/abs/2403.09704v1), [pdf](http://arxiv.org/pdf/2403.09704v1.pdf), cication: [**-1**](None)
+
+	 *Swapnaja Achintalwar, Ioana Baldini, Djallel Bouneffouf, Joan Byamugisha, Maria Chang, Pierre Dognin, Eitan Farchi, Ndivhuwo Makondo, Aleksandra Mojsilovic, Manish Nagireddy*
 - **Instruction-tuned Language Models are Better Knowledge Learners**, `arXiv, 2402.12847`, [arxiv](http://arxiv.org/abs/2402.12847v1), [pdf](http://arxiv.org/pdf/2402.12847v1.pdf), cication: [**-1**](None)
 
 	 *Zhengbao Jiang, Zhiqing Sun, Weijia Shi, Pedro Rodriguez, Chunting Zhou, Graham Neubig, Xi Victoria Lin, Wen-tau Yih, Srinivasan Iyer*
@@ -183,6 +186,9 @@
 	 *Timo Kaufmann, Paul Weng, Viktor Bengs, Eyke Hüllermeier*
 
 ## Papers
+- [**reward-bench**](https://github.com/allenai/reward-bench?tab=readme-ov-file) - allenai ![Star](https://img.shields.io/github/stars/allenai/reward-bench.svg?style=social&label=Star)
+
+	 *RewardBench: the first evaluation tool for reward models.* · ([huggingface](https://huggingface.co/spaces/allenai/reward-bench)) · ([twitter](https://twitter.com/natolambert/status/1770488846360428782))
 - **PERL: Parameter Efficient Reinforcement Learning from Human Feedback**, `arXiv, 2403.10704`, [arxiv](http://arxiv.org/abs/2403.10704v1), [pdf](http://arxiv.org/pdf/2403.10704v1.pdf), cication: [**-1**](None)
 
 	 *Hakim Sidahmed, Samrat Phatale, Alex Hutcheson, Zhuonan Lin, Zhang Chen, Zac Yu, Jarvis Jin, Roman Komarytsia, Christiane Ahlheim, Yonghao Zhu*

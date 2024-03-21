@@ -27,6 +27,9 @@
 
 ## Vision
 ### Vision Encoder
+- **When Do We Not Need Larger Vision Models?**, `arXiv, 2403.13043`, [arxiv](http://arxiv.org/abs/2403.13043v1), [pdf](http://arxiv.org/pdf/2403.13043v1.pdf), cication: [**-1**](None)
+
+	 *Baifeng Shi, Ziyang Wu, Maolin Mao, Xin Wang, Trevor Darrell* · ([scaling_on_scales](https://github.com/bfshi/scaling_on_scales) - bfshi) ![Star](https://img.shields.io/github/stars/bfshi/scaling_on_scales.svg?style=social&label=Star)
 - **LocalMamba: Visual State Space Model with Windowed Selective Scan**, `arXiv, 2403.09338`, [arxiv](http://arxiv.org/abs/2403.09338v1), [pdf](http://arxiv.org/pdf/2403.09338v1.pdf), cication: [**-1**](None)
 
 	 *Tao Huang, Xiaohuan Pei, Shan You, Fei Wang, Chen Qian, Chang Xu*
@@ -131,6 +134,10 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
+- **HyperLLaVA: Dynamic Visual and Language Expert Tuning for Multimodal
+  Large Language Models**, `arXiv, 2403.13447`, [arxiv](http://arxiv.org/abs/2403.13447v1), [pdf](http://arxiv.org/pdf/2403.13447v1.pdf), cication: [**-1**](None)
+
+	 *Wenqiao Zhang, Tianwei Lin, Jiang Liu, Fangxun Shu, Haoyuan Li, Lei Zhang, He Wanggui, Hao Zhou, Zheqi Lv, Hao Jiang* · ([HyperLLaVA](https://github.com/DCDmllm/HyperLLaVA) - DCDmllm) ![Star](https://img.shields.io/github/stars/DCDmllm/HyperLLaVA.svg?style=social&label=Star)
 - **Chart-based Reasoning: Transferring Capabilities from LLMs to VLMs**, `arXiv, 2403.12596`, [arxiv](http://arxiv.org/abs/2403.12596v1), [pdf](http://arxiv.org/pdf/2403.12596v1.pdf), cication: [**-1**](None)
 
 	 *Victor Carbune, Hassan Mansoor, Fangyu Liu, Rahul Aralikatte, Gilles Baechler, Jindong Chen, Abhanshu Sharma*
@@ -387,7 +394,8 @@
 - **VILA: On Pre-training for Visual Language Models**, `arXiv, 2312.07533`, [arxiv](http://arxiv.org/abs/2312.07533v1), [pdf](http://arxiv.org/pdf/2312.07533v1.pdf), cication: [**-1**](None)
 
 	 *Ji Lin, Hongxu Yin, Wei Ping, Yao Lu, Pavlo Molchanov, Andrew Tao, Huizi Mao, Jan Kautz, Mohammad Shoeybi, Song Han*
-	- 
+
+	 · ([huggingface](https://huggingface.co/Efficient-Large-Model))
 - **Vary: Scaling up the Vision Vocabulary for Large Vision-Language Models**, `arXiv, 2312.06109`, [arxiv](http://arxiv.org/abs/2312.06109v1), [pdf](http://arxiv.org/pdf/2312.06109v1.pdf), cication: [**-1**](None)
 
 	 *Haoran Wei, Lingyu Kong, Jinyue Chen, Liang Zhao, Zheng Ge, Jinrong Yang, Jianjian Sun, Chunrui Han, Xiangyu Zhang*
@@ -980,7 +988,11 @@
 - [**BakLLaVA-1**](https://huggingface.co/SkunkworksAI/BakLLaVA-1) - SkunkworksAI 🤗
 
 ## Benchmarks
-- [**open_vlm_leaderboard?utm_source=ainews&utm_medium=email&utm_campaign=ainews-mm1-apples-first-large-multimodal-model**](https://huggingface.co/spaces/opencompass/open_vlm_leaderboard?utm_source=ainews&utm_medium=email&utm_campaign=ainews-mm1-apples-first-large-multimodal-model) - opencompass 🤗
+- **VL-ICL Bench: The Devil in the Details of Benchmarking Multimodal
+  In-Context Learning**, `arXiv, 2403.13164`, [arxiv](http://arxiv.org/abs/2403.13164v1), [pdf](http://arxiv.org/pdf/2403.13164v1.pdf), cication: [**-1**](None)
+
+	 *Yongshuo Zong, Ondrej Bohdal, Timothy Hospedales* · ([VL-ICL](https://github.com/ys-zong/VL-ICL) - ys-zong) ![Star](https://img.shields.io/github/stars/ys-zong/VL-ICL.svg?style=social&label=Star)
+- [**open_vlm_leaderboard**](https://huggingface.co/spaces/opencompass/open_vlm_leaderboard?utm_source=ainews&utm_medium=email&utm_campaign=ainews-mm1-apples-first-large-multimodal-model) - opencompass 🤗
 - [**VLMEvalKit**](https://github.com/open-compass/VLMEvalKit) - open-compass ![Star](https://img.shields.io/github/stars/open-compass/VLMEvalKit.svg?style=social&label=Star)
 
 	 *Open-source evaluation toolkit of large vision-language models (LVLMs), support GPT-4v, Gemini, QwenVLPlus, 30+ HF models, 15+ benchmarks*

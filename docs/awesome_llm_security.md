@@ -20,6 +20,9 @@
 - [**Adversarial Attacks on LLMs | Lil'Log**](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/)
 
 ## Red teaming
+- **Evaluating Frontier Models for Dangerous Capabilities**, `arXiv, 2403.13793`, [arxiv](http://arxiv.org/abs/2403.13793v1), [pdf](http://arxiv.org/pdf/2403.13793v1.pdf), cication: [**-1**](None)
+
+	 *Mary Phuong, Matthew Aitchison, Elliot Catt, Sarah Cogan, Alexandre Kaskasoli, Victoria Krakovna, David Lindner, Matthew Rahtz, Yannis Assael, Sarah Hodkinson*
 - **A Safe Harbor for AI Evaluation and Red Teaming**, `arXiv, 2403.04893`, [arxiv](http://arxiv.org/abs/2403.04893v1), [pdf](http://arxiv.org/pdf/2403.04893v1.pdf), cication: [**-1**](None)
 
 	 *Shayne Longpre, Sayash Kapoor, Kevin Klyman, Ashwin Ramaswami, Rishi Bommasani, Borhane Blili-Hamelin, Yangsibo Huang, Aviya Skowron, Zheng-Xin Yong, Suhas Kotha*
