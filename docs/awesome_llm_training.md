@@ -273,6 +273,8 @@
 - **Evolutionary Optimization of Model Merging Recipes**, `arXiv, 2403.13187`, [arxiv](http://arxiv.org/abs/2403.13187v1), [pdf](http://arxiv.org/pdf/2403.13187v1.pdf), cication: [**-1**](None)
 
 	 *Takuya Akiba, Makoto Shing, Yujin Tang, Qi Sun, David Ha*
+
+	 · ([evolutionary-model-merge](https://github.com/sakanaai/evolutionary-model-merge) - sakanaai) ![Star](https://img.shields.io/github/stars/sakanaai/evolutionary-model-merge.svg?style=social&label=Star)
 - **Branch-Train-MiX: Mixing Expert LLMs into a Mixture-of-Experts LLM**, `arXiv, 2403.07816`, [arxiv](http://arxiv.org/abs/2403.07816v1), [pdf](http://arxiv.org/pdf/2403.07816v1.pdf), cication: [**-1**](None)
 
 	 *Sainbayar Sukhbaatar, Olga Golovneva, Vasu Sharma, Hu Xu, Xi Victoria Lin, Baptiste Rozière, Jacob Kahn, Daniel Li, Wen-tau Yih, Jason Weston*
@@ -416,6 +418,9 @@
 	 *Juhao Liang, Ziwei Wang, Zhuoheng Ma, Jianquan Li, Zhiyi Zhang, Xiangbo Wu, Benyou Wang*
 
 ## Toolkits
+- [**lightning-thunder**](https://github.com/Lightning-AI/lightning-thunder) - Lightning-AI ![Star](https://img.shields.io/github/stars/Lightning-AI/lightning-thunder.svg?style=social&label=Star)
+
+	 *Source to source compiler for PyTorch. It makes PyTorch programs faster on single accelerators and distributed.*
 - [**zero-bubble-pipeline-parallelism**](https://github.com/sail-sg/zero-bubble-pipeline-parallelism) - sail-sg ![Star](https://img.shields.io/github/stars/sail-sg/zero-bubble-pipeline-parallelism.svg?style=social&label=Star)
 
 	 *Zero Bubble Pipeline Parallelism* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&mid=2247541193&idx=3&sn=eadcb731bffb88d56cecbc3d60acbae3))

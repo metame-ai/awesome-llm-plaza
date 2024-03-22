@@ -27,6 +27,9 @@
 	- [Extra reference](#extra-reference)
 
 ## Survey
+- **ChatGPT Alternative Solutions: Large Language Models Survey**, `arXiv, 2403.14469`, [arxiv](http://arxiv.org/abs/2403.14469v1), [pdf](http://arxiv.org/pdf/2403.14469v1.pdf), cication: [**-1**](None)
+
+	 *Hanieh Alipour, Nick Pendar, Kohinoor Roy*
 - **Large Language Models and Causal Inference in Collaboration: A
   Comprehensive Survey**, `arXiv, 2403.09606`, [arxiv](http://arxiv.org/abs/2403.09606v1), [pdf](http://arxiv.org/pdf/2403.09606v1.pdf), cication: [**-1**](None)
 
@@ -383,6 +386,7 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652345558&idx=4&sn=95686435d5cad05d44cbe02bc26d6859))
 
 ## Interpretability 
+- [Circuits Updates - March 2024](https://transformer-circuits.pub/2024/march-update/index.html#external-research)
 - **pyvene: A Library for Understanding and Improving PyTorch Models via
   Interventions**, `arXiv, 2403.07809`, [arxiv](http://arxiv.org/abs/2403.07809v1), [pdf](http://arxiv.org/pdf/2403.07809v1.pdf), cication: [**-1**](None)
 

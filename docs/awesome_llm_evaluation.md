@@ -28,6 +28,10 @@
 	 *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang*
 
 ## Papers
+- **A Toolbox for Surfacing Health Equity Harms and Biases in Large Language
+  Models**, `arXiv, 2403.12025`, [arxiv](http://arxiv.org/abs/2403.12025v1), [pdf](http://arxiv.org/pdf/2403.12025v1.pdf), cication: [**-1**](None)
+
+	 *Stephen R. Pfohl, Heather Cole-Lewis, Rory Sayres, Darlene Neal, Mercy Asiedu, Awa Dieng, Nenad Tomasev, Qazi Mamunur Rashid, Shekoofeh Azizi, Negar Rostamzadeh*
 - **Large language models surpass human experts in predicting neuroscience
   results**, `arXiv, 2403.03230`, [arxiv](http://arxiv.org/abs/2403.03230v2), [pdf](http://arxiv.org/pdf/2403.03230v2.pdf), cication: [**-1**](None)
 
@@ -413,6 +417,9 @@
 	 *Lianmin Zheng, Wei-Lin Chiang, Ying Sheng, Siyuan Zhuang, Zhanghao Wu, Yonghao Zhuang, Zi Lin, Zhuohan Li, Dacheng Li, Eric. P Xing*
 
 ## Projects
+- [Introducing the Chatbot Guardrails Arena](https://huggingface.co/blog/arena-lighthouz)
+
+	 · ([huggingface](https://huggingface.co/spaces/lighthouzai/guardrails-arena))
 - [LiveCodeBench Leaderboard](https://livecodebench.github.io/leaderboard.html)
 - [**WildBench**](https://huggingface.co/spaces/allenai/WildBench) - allenai 🤗
 - [**gorilla**](https://github.com/ShishirPatil/gorilla) - ShishirPatil ![Star](https://img.shields.io/github/stars/ShishirPatil/gorilla.svg?style=social&label=Star)

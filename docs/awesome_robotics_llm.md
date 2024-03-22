@@ -289,6 +289,7 @@
 	 · [[qbitai](https://www.qbitai.com/2023/07/69054.html)]
 
 ## Other
+- talk: [Foundation Agent: a roadmap to build generally capable embodied AI that acts skillfully across many worlds, virtual or real.](https://twitter.com/DrJimFan/status/1770848955519107345)
 - [Covariant | Powering the Future of Automation, Today](https://covariant.ai/insights/introducing-rfm-1-giving-robots-human-like-reasoning-capabilities/)
 - [ glimpse of the future foundation models and platforms for robots:](https://twitter.com/DrJimFan/status/1740041712184246314)
 

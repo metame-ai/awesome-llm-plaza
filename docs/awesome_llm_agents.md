@@ -55,6 +55,9 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652350213&idx=4&sn=47bef78ae85d99fccc45487e2fb1ff6b))
  
 ## LLM OS
+- [**01**](https://github.com/OpenInterpreter/01) - OpenInterpreter ![Star](https://img.shields.io/github/stars/OpenInterpreter/01.svg?style=social&label=Star)
+
+	 *The open-source language model computer*
 - **UFO: A UI-Focused Agent for Windows OS Interaction**, `arXiv, 2402.07939`, [arxiv](http://arxiv.org/abs/2402.07939v1), [pdf](http://arxiv.org/pdf/2402.07939v1.pdf), cication: [**-1**](None)
 
 	 *Chaoyun Zhang, Liqun Li, Shilin He, Xu Zhang, Bo Qiao, Si Qin, Minghua Ma, Yu Kang, Qingwei Lin, Saravan Rajmohan* · ([UFO](https://github.com/microsoft/UFO) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/UFO.svg?style=social&label=Star)
@@ -817,6 +820,7 @@
 - [A Cheat Sheet and Some Recipes For Building Advanced RAG | by Andrei | Jan, 2024 | LlamaIndex Blog](https://blog.llamaindex.ai/a-cheat-sheet-and-some-recipes-for-building-advanced-rag-803a9d94c41b)
 - [Build a search engine, not a vector DB](https://blog.elicit.com/search-vs-vector-db/)
 
+- [RAG效果评估经验](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495725&idx=2&sn=c6d2b3527041fd2742363b2e0b2d1f44&poc_token=HFaa-2WjKGGmLnBa3yZCBSXFENCcHwsqDs6M5c5Z)
 - [微调与RAG的优缺点分析](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495628&idx=2&sn=d65b3370121a1d2bd832c17218bb1090)
 - [Langchain中改进RAG能力的3种常用的扩展查询方法](https://mp.weixin.qq.com/s?__biz=MzI1MjQ2OTQ3Ng==&mid=2247630649&idx=2&sn=d02f9e3022d5e987de5d60ed06ea3bd8&poc_token=HO-d1WWjKnv0HWessjo9YkkKt1GkCKEDCJoS3wUW)
 - [通过4个任务比较LangChain和LlamaIndex](https://mp.weixin.qq.com/s?__biz=MzI1MjQ2OTQ3Ng==&mid=2247631125&idx=2&sn=97801ab722a786cdf5116779804fb0c9)

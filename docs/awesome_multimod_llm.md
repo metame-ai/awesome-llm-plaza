@@ -27,6 +27,9 @@
 
 ## Vision
 ### Vision Encoder
+- **xT: Nested Tokenization for Larger Context in Large Images**, `arXiv, 2403.01915`, [arxiv](http://arxiv.org/abs/2403.01915v1), [pdf](http://arxiv.org/pdf/2403.01915v1.pdf), cication: [**-1**](None)
+
+	 *Ritwik Gupta, Shufan Li, Tyler Zhu, Jitendra Malik, Trevor Darrell, Karttikeya Mangalam* · ([bair.berkeley](https://bair.berkeley.edu/blog/2024/03/21/xt/)) · ([ai-climate.berkeley](http://ai-climate.berkeley.edu/xt-website/))
 - **When Do We Not Need Larger Vision Models?**, `arXiv, 2403.13043`, [arxiv](http://arxiv.org/abs/2403.13043v1), [pdf](http://arxiv.org/pdf/2403.13043v1.pdf), cication: [**-1**](None)
 
 	 *Baifeng Shi, Ziyang Wu, Maolin Mao, Xin Wang, Trevor Darrell* · ([scaling_on_scales](https://github.com/bfshi/scaling_on_scales) - bfshi) ![Star](https://img.shields.io/github/stars/bfshi/scaling_on_scales.svg?style=social&label=Star)
@@ -134,6 +137,13 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
+- **MyVLM: Personalizing VLMs for User-Specific Queries**, `arXiv, 2403.14599`, [arxiv](http://arxiv.org/abs/2403.14599v1), [pdf](http://arxiv.org/pdf/2403.14599v1.pdf), cication: [**-1**](None)
+
+	 *Yuval Alaluf, Elad Richardson, Sergey Tulyakov, Kfir Aberman, Daniel Cohen-Or*
+- **MathVerse: Does Your Multi-modal LLM Truly See the Diagrams in Visual
+  Math Problems?**, `arXiv, 2403.14624`, [arxiv](http://arxiv.org/abs/2403.14624v1), [pdf](http://arxiv.org/pdf/2403.14624v1.pdf), cication: [**-1**](None)
+
+	 *Renrui Zhang, Dongzhi Jiang, Yichi Zhang, Haokun Lin, Ziyu Guo, Pengshuo Qiu, Aojun Zhou, Pan Lu, Kai-Wei Chang, Peng Gao*
 - **HyperLLaVA: Dynamic Visual and Language Expert Tuning for Multimodal
   Large Language Models**, `arXiv, 2403.13447`, [arxiv](http://arxiv.org/abs/2403.13447v1), [pdf](http://arxiv.org/pdf/2403.13447v1.pdf), cication: [**-1**](None)
 
@@ -910,6 +920,10 @@
 	 *Xueliang Zhao, Xinting Huang, Tingchen Fu, Qintong Li, Shansan Gong, Lemao Liu, Wei Bi, Lingpeng Kong*
 
 ## Efficient 
+- **Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient
+  Inference**, `arXiv, 2403.14520`, [arxiv](http://arxiv.org/abs/2403.14520v1), [pdf](http://arxiv.org/pdf/2403.14520v1.pdf), cication: [**-1**](None)
+
+	 *Han Zhao, Min Zhang, Wei Zhao, Pengxiang Ding, Siteng Huang, Donglin Wang* · ([sites.google](https://sites.google.com/view/cobravlm))
 - **Small Language Model Meets with Reinforced Vision Vocabulary**, `arXiv, 2401.12503`, [arxiv](http://arxiv.org/abs/2401.12503v1), [pdf](http://arxiv.org/pdf/2401.12503v1.pdf), cication: [**-1**](None)
 
 	 *Haoran Wei, Lingyu Kong, Jinyue Chen, Liang Zhao, Zheng Ge, En Yu, Jianjian Sun, Chunrui Han, Xiangyu Zhang*

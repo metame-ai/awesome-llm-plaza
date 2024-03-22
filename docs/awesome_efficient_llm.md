@@ -153,6 +153,8 @@
 
 	 *Peng Gao, Jiaming Han, Renrui Zhang, Ziyi Lin, Shijie Geng, Aojun Zhou, Wei Zhang, Pan Lu, Conghui He, Xiangyu Yue* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652345558&idx=3&sn=2a4d204397fe364a05ce5a35bb93d6ce))
 
+### Other
+- [LoRA及其变体概述：LoRA, DoRA, AdaLoRA, Delta-LoRA](https://mp.weixin.qq.com/s?__biz=MzI1MjQ2OTQ3Ng==&mid=2247632908&idx=2&sn=f2daa489741ccc4a7f8f9c4c178c4740)
 
 ## Quantization
 ### Survey

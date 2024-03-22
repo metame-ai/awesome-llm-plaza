@@ -218,6 +218,10 @@
 
 
 ## Medical
+- **A Toolbox for Surfacing Health Equity Harms and Biases in Large Language
+  Models**, `arXiv, 2403.12025`, [arxiv](http://arxiv.org/abs/2403.12025v1), [pdf](http://arxiv.org/pdf/2403.12025v1.pdf), cication: [**-1**](None)
+
+	 *Stephen R. Pfohl, Heather Cole-Lewis, Rory Sayres, Darlene Neal, Mercy Asiedu, Awa Dieng, Nenad Tomasev, Qazi Mamunur Rashid, Shekoofeh Azizi, Negar Rostamzadeh*
 - **Towards 3D Molecule-Text Interpretation in Language Models**, `arXiv, 2401.13923`, [arxiv](http://arxiv.org/abs/2401.13923v2), [pdf](http://arxiv.org/pdf/2401.13923v2.pdf), cication: [**3**](https://scholar.google.com/scholar?cites=9626326580887779244&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Sihang Li, Zhiyuan Liu, Yanchen Luo, Xiang Wang, Xiangnan He, Kenji Kawaguchi, Tat-Seng Chua, Qi Tian*
