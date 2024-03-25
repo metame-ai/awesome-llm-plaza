@@ -7,6 +7,9 @@
 	- [Other](#other)
 
 ## Survey
+- **A Survey of Neural Code Intelligence: Paradigms, Advances and Beyond**, `arXiv, 2403.14734`, [arxiv](http://arxiv.org/abs/2403.14734v1), [pdf](http://arxiv.org/pdf/2403.14734v1.pdf), cication: [**-1**](None)
+
+	 *Qiushi Sun, Zhirui Chen, Fangzhi Xu, Kanzhi Cheng, Chang Ma, Zhangyue Yin, Jianing Wang, Chengcheng Han, Renyu Zhu, Shuai Yuan* · ([NCISurvey](https://github.com/QiushiSun/NCISurvey) - QiushiSun) ![Star](https://img.shields.io/github/stars/QiushiSun/NCISurvey.svg?style=social&label=Star)
 - **If LLM Is the Wizard, Then Code Is the Wand: A Survey on How Code
   Empowers Large Language Models to Serve as Intelligent Agents**, `arXiv, 2401.00812`, [arxiv](http://arxiv.org/abs/2401.00812v2), [pdf](http://arxiv.org/pdf/2401.00812v2.pdf), cication: [**-1**](None)
 
@@ -16,6 +19,9 @@
 	 *Ziyin Zhang, Chaoyu Chen, Bingchang Liu, Cong Liao, Zi Gong, Hang Yu, Jianguo Li, Rui Wang*
 
 ## Paper
+- **Compiler generated feedback for Large Language Models**, `arXiv, 2403.14714`, [arxiv](http://arxiv.org/abs/2403.14714v1), [pdf](http://arxiv.org/pdf/2403.14714v1.pdf), cication: [**-1**](None)
+
+	 *Dejan Grubisic, Chris Cummins, Volker Seeker, Hugh Leather*
 - **LLM4Decompile: Decompiling Binary Code with Large Language Models**, `arXiv, 2403.05286`, [arxiv](http://arxiv.org/abs/2403.05286v1), [pdf](http://arxiv.org/pdf/2403.05286v1.pdf), cication: [**-1**](None)
 
 	 *Hanzhuo Tan, Qi Luo, Jing Li, Yuqun Zhang* · ([LLM4Decompile](https://github.com/albertan017/LLM4Decompile) - albertan017) ![Star](https://img.shields.io/github/stars/albertan017/LLM4Decompile.svg?style=social&label=Star)
@@ -238,6 +244,9 @@
 	 · [intercode-benchmark.github](https://intercode-benchmark.github.io/)
 
 ## Projects
+- [**devika**](https://github.com/stitionai/devika) - stitionai ![Star](https://img.shields.io/github/stars/stitionai/devika.svg?style=social&label=Star)
+
+	 *Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. Devika aims to be a competitive open-source alternative to Devin by Cognition AI.*
 - [**OpenDevin**](https://github.com/OpenDevin/OpenDevin) - OpenDevin ![Star](https://img.shields.io/github/stars/OpenDevin/OpenDevin.svg?style=social&label=Star)
 - [StarChat2 15B - a HuggingFaceH4 Collection](https://huggingface.co/collections/HuggingFaceH4/starchat2-15b-65f068417b330fafad751fce)
 - [**oss-fuzz-gen**](https://github.com/google/oss-fuzz-gen) - google ![Star](https://img.shields.io/github/stars/google/oss-fuzz-gen.svg?style=social&label=Star)

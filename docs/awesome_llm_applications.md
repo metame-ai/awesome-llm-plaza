@@ -745,6 +745,7 @@
 - [快速筛选海量数据，即时做出明智决策，MIT、普林斯顿&卡内基梅隆大学团队利用LLM进行聚变研究 | 机器之心](https://www.jiqizhixin.com/articles/2024-01-04-6)
 - [2023年科研领域「 科学ChatGPT」有哪些？LLM for Science有哪些探索...... | 机器之心](https://www.jiqizhixin.com/articles/2023-12-26-10)
 ## Finance
+- [**gpt-investor**](https://github.com/mshumer/gpt-investor) - mshumer ![Star](https://img.shields.io/github/stars/mshumer/gpt-investor.svg?style=social&label=Star)
 - [langchain-financial-agent.ipynb - Colaboratory](https://colab.research.google.com/gist/virattt/482faa119d1bb0a6bc7dd688fa8a9b2d/langchain-financial-agent.ipynb)
 - **Can Large Language Models Beat Wall Street? Unveiling the Potential of
   AI in Stock Selection**, `arXiv, 2401.03737`, [arxiv](http://arxiv.org/abs/2401.03737v1), [pdf](http://arxiv.org/pdf/2401.03737v1.pdf), cication: [**-1**](None)

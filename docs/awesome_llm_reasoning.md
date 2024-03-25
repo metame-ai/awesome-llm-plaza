@@ -91,7 +91,7 @@
 
 	 *Yaojia Lv, Haojie Pan, Ruiji Fu, Ming Liu, Zhongyuan Wang, Bing Qin* · ([CogGPT](https://github.com/KwaiKEG/CogGPT) - KwaiKEG) ![Star](https://img.shields.io/github/stars/KwaiKEG/CogGPT.svg?style=social&label=Star)
 - **The Impact of Reasoning Step Length on Large Language Models**, `arXiv, 2401.04925`, [arxiv](http://arxiv.org/abs/2401.04925v1), [pdf](http://arxiv.org/pdf/2401.04925v1.pdf), cication: [**-1**](None)
-jj
+
 	 *Mingyu Jin, Qinkai Yu, Dong shu, Haiyan Zhao, Wenyue Hua, Yanda Meng, Yongfeng Zhang, Mengnan Du*
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-01-25-7))
@@ -520,6 +520,10 @@ jj
 	 *Tianlu Wang, Ping Yu, Xiaoqing Ellen Tan, Sean O'Brien, Ramakanth Pasunuru, Jane Dwivedi-Yu, Olga Golovneva, Luke Zettlemoyer, Maryam Fazel-Zarandi, Asli Celikyilmaz* · ([shepherd](https://github.com/facebookresearch/shepherd) - facebookresearch) ![Star](https://img.shields.io/github/stars/facebookresearch/shepherd.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652366759&idx=3&sn=f183f4c8080a338c4c9fad0f026b14af))
 
 ## Prompting
+- [**gpt-prompt-engineer**](https://github.com/mshumer/gpt-prompt-engineer) - mshumer ![Star](https://img.shields.io/github/stars/mshumer/gpt-prompt-engineer.svg?style=social&label=Star)
+- [**ChainForge**](https://github.com/ianarawjo/ChainForge) - ianarawjo ![Star](https://img.shields.io/github/stars/ianarawjo/ChainForge.svg?style=social&label=Star)
+
+	 *An open-source visual programming environment for battle-testing prompts to LLMs.*
 - **LLMLingua-2: Data Distillation for Efficient and Faithful Task-Agnostic
   Prompt Compression**, `arXiv, 2403.12968`, [arxiv](http://arxiv.org/abs/2403.12968v1), [pdf](http://arxiv.org/pdf/2403.12968v1.pdf), cication: [**-1**](None)
 
@@ -624,6 +628,9 @@ jj
 	 *Maciej Besta, Nils Blach, Ales Kubicek, Robert Gerstenberger, Lukas Gianinazzi, Joanna Gajda, Tomasz Lehmann, Michal Podstawski, Hubert Niewiadomski, Piotr Nyczyk* · ([graph-of-thoughts](https://github.com/spcl/graph-of-thoughts) - spcl) ![Star](https://img.shields.io/github/stars/spcl/graph-of-thoughts.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-08-25-3))
 
 ### Other
+- [How Chain-of-Thought Reasoning Helps Neural Networks Compute | Quanta Magazine](https://www.quantamagazine.org/how-chain-of-thought-reasoning-helps-neural-networks-compute-20240321/)
+
+	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI1MjQ2OTQ3Ng==&mid=2247633311&idx=3&sn=2d77962dd4951e03b03b84cd3c969bb7))
 - [Stanford CS25: V3 I Beyond LLMs: Agents, Emergent Abilities, Intermediate-Guided Reasoning, BabyLM - YouTube](https://youtu.be/ylEk1TE1uBo?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM&t=469)
 - [Steering at the Frontier: Extending the Power of Prompting - Microsoft Research](https://www.microsoft.com/en-us/research/blog/steering-at-the-frontier-extending-the-power-of-prompting/)
 
@@ -633,6 +640,9 @@ jj
 - [ChatGPT 詠唱案例懶人包 - 超過 40 個現實世界的應用範例 (持續更新) - 雷司紀的小道投資 raysky](https://www.rayskyinvest.com/96682/chatgpt-examples)
 
 ## In context learning
+- **Can large language models explore in-context?**, `arXiv, 2403.15371`, [arxiv](http://arxiv.org/abs/2403.15371v1), [pdf](http://arxiv.org/pdf/2403.15371v1.pdf), cication: [**-1**](None)
+
+	 *Akshay Krishnamurthy, Keegan Harris, Dylan J. Foster, Cyril Zhang, Aleksandrs Slivkins*
 - **In-Context Principle Learning from Mistakes**, `arXiv, 2402.05403`, [arxiv](http://arxiv.org/abs/2402.05403v2), [pdf](http://arxiv.org/pdf/2402.05403v2.pdf), cication: [**-1**](None)
 
 	 *Tianjun Zhang, Aman Madaan, Luyu Gao, Steven Zheng, Swaroop Mishra, Yiming Yang, Niket Tandon, Uri Alon*

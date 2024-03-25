@@ -58,6 +58,8 @@
 - [**01**](https://github.com/OpenInterpreter/01) - OpenInterpreter ![Star](https://img.shields.io/github/stars/OpenInterpreter/01.svg?style=social&label=Star)
 
 	 *The open-source language model computer*
+
+	 · ([qbitai](https://www.qbitai.com/2024/03/129864.html))
 - **UFO: A UI-Focused Agent for Windows OS Interaction**, `arXiv, 2402.07939`, [arxiv](http://arxiv.org/abs/2402.07939v1), [pdf](http://arxiv.org/pdf/2402.07939v1.pdf), cication: [**-1**](None)
 
 	 *Chaoyun Zhang, Liqun Li, Shilin He, Xu Zhang, Bo Qiao, Si Qin, Minghua Ma, Yu Kang, Qingwei Lin, Saravan Rajmohan* · ([UFO](https://github.com/microsoft/UFO) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/UFO.svg?style=social&label=Star)
@@ -77,6 +79,14 @@
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-18-4))
 ## Agents
+- **AllHands: Ask Me Anything on Large-scale Verbatim Feedback via Large
+  Language Models**, `arXiv, 2403.15157`, [arxiv](http://arxiv.org/abs/2403.15157v1), [pdf](http://arxiv.org/pdf/2403.15157v1.pdf), cication: [**-1**](None)
+
+	 *Chaoyun Zhang, Zicheng Ma, Yuhao Wu, Shilin He, Si Qin, Minghua Ma, Xiaoting Qin, Yu Kang, Yuyi Liang, Xiaoyu Gou*
+- **Agent-FLAN: Designing Data and Methods of Effective Agent Tuning for
+  Large Language Models**, `arXiv, 2403.12881`, [arxiv](http://arxiv.org/abs/2403.12881v1), [pdf](http://arxiv.org/pdf/2403.12881v1.pdf), cication: [**-1**](None)
+
+	 *Zehui Chen, Kuikun Liu, Qiuchen Wang, Wenwei Zhang, Jiangning Liu, Dahua Lin, Kai Chen, Feng Zhao* · ([Agent-FLAN](https://github.com/InternLM/Agent-FLAN) - InternLM) ![Star](https://img.shields.io/github/stars/InternLM/Agent-FLAN.svg?style=social&label=Star)
 - **SOTOPIA-$π$: Interactive Learning of Socially Intelligent Language
   Agents**, `arXiv, 2403.08715`, [arxiv](http://arxiv.org/abs/2403.08715v2), [pdf](http://arxiv.org/pdf/2403.08715v2.pdf), cication: [**-1**](None)
 
@@ -483,6 +493,10 @@
 - [AgentGPT](https://agentgpt.reworkd.ai/)
 
 ## Augmented LLM
+- **FollowIR: Evaluating and Teaching Information Retrieval Models to Follow
+  Instructions**, `arXiv, 2403.15246`, [arxiv](http://arxiv.org/abs/2403.15246v1), [pdf](http://arxiv.org/pdf/2403.15246v1.pdf), cication: [**-1**](None)
+
+	 *Orion Weller, Benjamin Chang, Sean MacAvaney, Kyle Lo, Arman Cohan, Benjamin Van Durme, Dawn Lawrie, Luca Soldaini*
 - [WhatAreToolsAnyway.pdf](https://zorazrw.github.io/files/WhatAreToolsAnyway.pdf)
 - **LLMs in the Imaginarium: Tool Learning through Simulated Trial and Error**, `arXiv, 2403.04746`, [arxiv](http://arxiv.org/abs/2403.04746v1), [pdf](http://arxiv.org/pdf/2403.04746v1.pdf), cication: [**-1**](None)
 
@@ -790,6 +804,7 @@
 	 *Interact privately with your documents using the power of GPT, 100% privately, no data leaks*
 
 ### Embedding
+- [Binary and Scalar Embedding Quantization for Significantly Faster & Cheaper Retrieval](https://huggingface.co/blog/embedding-quantization)
 - **Is Cosine-Similarity of Embeddings Really About Similarity?**, `arXiv, 2403.05440`, [arxiv](http://arxiv.org/abs/2403.05440v1), [pdf](http://arxiv.org/pdf/2403.05440v1.pdf), cication: [**-1**](None)
 
 	 *Harald Steck, Chaitanya Ekanadham, Nathan Kallus*
@@ -916,6 +931,7 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzIyMzk1MDE3Nw==&mid=2247619960&idx=2&sn=1e1e4e21b2a8ffbeb08fc4f7dcd0932c))
 - [Rapidly build an application in Gradio power by a Generative AI Agent | Google Cloud Blog](https://cloud.google.com/blog/products/ai-machine-learning/rapidly-build-an-application-in-gradio-power-by-a-generative-ai-agent)
 
+- [吴恩达：AI智能体工作流今年将有巨大进展，可能超过下一代基础模型 | 机器之心](https://www.jiqizhixin.com/articles/2024-03-22-3)
 - [从第一性原理看大模型Agent技术](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495233&idx=1&sn=a6f99f5ed298dc4dad8477979d0c19a8)
 - [万字长文！何谓Agent，为何Agent？](https://mp.weixin.qq.com/s?__biz=MzIyMzk1MDE3Nw==&mid=2247620278&idx=1&sn=6d0171c6bc1d97fb0872dbaa7aea4e0a)
 - [首个获得驾照的AI！Agent担任私人助理样样精通，还能帮助考试作弊](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652412307&idx=4&sn=f02fe42f4de8c01cac8c0a719b9966bf)

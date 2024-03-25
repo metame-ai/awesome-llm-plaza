@@ -27,6 +27,10 @@
 
 ## Vision
 ### Vision Encoder
+- **SiMBA: Simplified Mamba-Based Architecture for Vision and Multivariate
+  Time series**, `arXiv, 2403.15360`, [arxiv](http://arxiv.org/abs/2403.15360v1), [pdf](http://arxiv.org/pdf/2403.15360v1.pdf), cication: [**-1**](None)
+
+	 *Badri N. Patro, Vijay S. Agneeswaran* · ([Simba](https://github.com/badripatro/Simba) - badripatro) ![Star](https://img.shields.io/github/stars/badripatro/Simba.svg?style=social&label=Star)
 - **xT: Nested Tokenization for Larger Context in Large Images**, `arXiv, 2403.01915`, [arxiv](http://arxiv.org/abs/2403.01915v1), [pdf](http://arxiv.org/pdf/2403.01915v1.pdf), cication: [**-1**](None)
 
 	 *Ritwik Gupta, Shufan Li, Tyler Zhu, Jitendra Malik, Trevor Darrell, Karttikeya Mangalam* · ([bair.berkeley](https://bair.berkeley.edu/blog/2024/03/21/xt/)) · ([ai-climate.berkeley](http://ai-climate.berkeley.edu/xt-website/))
@@ -41,6 +45,13 @@
 	 *Code for paper LocalMamba: Visual State Space Model with Windowed Selective Scan*
 
 ### Video
+- **VidLA: Video-Language Alignment at Scale**, `arXiv, 2403.14870`, [arxiv](http://arxiv.org/abs/2403.14870v1), [pdf](http://arxiv.org/pdf/2403.14870v1.pdf), cication: [**-1**](None)
+
+	 *Mamshad Nayeem Rizve, Fan Fei, Jayakrishnan Unnikrishnan, Son Tran, Benjamin Z. Yao, Belinda Zeng, Mubarak Shah, Trishul Chilimbi*
+- **InternVideo2: Scaling Video Foundation Models for Multimodal Video
+  Understanding**, `arXiv, 2403.15377`, [arxiv](http://arxiv.org/abs/2403.15377v1), [pdf](http://arxiv.org/pdf/2403.15377v1.pdf), cication: [**-1**](None)
+
+	 *Yi Wang, Kunchang Li, Xinhao Li, Jiashuo Yu, Yinan He, Guo Chen, Baoqi Pei, Rongkun Zheng, Jilan Xu, Zun Wang* · ([InternVideo2](https://github.com/OpenGVLab/InternVideo2/) - OpenGVLab) ![Star](https://img.shields.io/github/stars/OpenGVLab/InternVideo2.svg?style=social&label=Star)
 - **VideoAgent: A Memory-augmented Multimodal Agent for Video Understanding**, `arXiv, 2403.11481`, [arxiv](http://arxiv.org/abs/2403.11481v1), [pdf](http://arxiv.org/pdf/2403.11481v1.pdf), cication: [**-1**](None)
 
 	 *Yue Fan, Xiaojian Ma, Rujie Wu, Yuntao Du, Jiaqi Li, Zhi Gao, Qing Li*
@@ -899,6 +910,9 @@
 - ["宝藏AI神器"通义听悟上新：超长音视频随便问，高校师生可获500小时免费时长 | 量子位](https://www.qbitai.com/2024/03/129271.html)
 
 ## CLIP
+- **Long-CLIP: Unlocking the Long-Text Capability of CLIP**, `arXiv, 2403.15378`, [arxiv](http://arxiv.org/abs/2403.15378v1), [pdf](http://arxiv.org/pdf/2403.15378v1.pdf), cication: [**-1**](None)
+
+	 *Beichen Zhang, Pan Zhang, Xiaoyi Dong, Yuhang Zang, Jiaqi Wang* · ([Long-CLIP](https://github.com/beichenzbc/Long-CLIP) - beichenzbc) ![Star](https://img.shields.io/github/stars/beichenzbc/Long-CLIP.svg?style=social&label=Star)
 - **What do we learn from inverting CLIP models?**, `arXiv, 2403.02580`, [arxiv](http://arxiv.org/abs/2403.02580v1), [pdf](http://arxiv.org/pdf/2403.02580v1.pdf), cication: [**-1**](None)
 
 	 *Hamid Kazemi, Atoosa Chegini, Jonas Geiping, Soheil Feizi, Tom Goldstein*
@@ -929,9 +943,7 @@
 	 *Haoran Wei, Lingyu Kong, Jinyue Chen, Liang Zhao, Zheng Ge, En Yu, Jianjian Sun, Chunrui Han, Xiangyu Zhang*
 
 ## Extra Modalities 
-- **3D-VLA: A 3D Vision-Language-Action Generative World Model**, `arXiv, 2403.09631`, [arxiv](http://arxiv.org/abs/2403.09631v1), [pdf](http://arxiv.org/pdf/2403.09631v1.pdf), cication: [**-1**](None)
 
-	 *Haoyu Zhen, Xiaowen Qiu, Peihao Chen, Jincheng Yang, Xin Yan, Yilun Du, Yining Hong, Chuang Gan*
 - **VisionGPT-3D: A Generalized Multimodal Agent for Enhanced 3D Vision
   Understanding**, `arXiv, 2403.09530`, [arxiv](http://arxiv.org/abs/2403.09530v1), [pdf](http://arxiv.org/pdf/2403.09530v1.pdf), cication: [**-1**](None)
 

@@ -157,6 +157,8 @@
 - [**phi-2**](https://huggingface.co/spaces/randomblock1/phi-2) - randomblock1 🤗
 - [**phixtral-4x2_8**](https://huggingface.co/mlabonne/phixtral-4x2_8) - mlabonne 🤗
 ### Mistral
+- [**hackathon**](https://github.com/mistralai-sf24/hackathon) - mistralai-sf24 ![Star](https://img.shields.io/github/stars/mistralai-sf24/hackathon.svg?style=social&label=Star)
+- [**Mistral-7B-Instruct-v0.2**](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2) - mistralai 🤗
 - [**mistral-src**](https://github.com/mistralai/mistral-src) - mistralai ![Star](https://img.shields.io/github/stars/mistralai/mistral-src.svg?style=social&label=Star)
 
 	 *Reference implementation of Mistral AI 7B v0.1 model.* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-09-29-2))
@@ -279,6 +281,8 @@
 
 	 *Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform* · ([huggingface](https://huggingface.co/databricks/dolly-v2-12b)) · ([databricks](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm))
 ### Misc
+- [https://huggingface.co/Nexusflow/Starling-LM-7B-beta](https://t.co/q980q5AZV4)
+- [https://huggingface.co/Nexusflow/Starling-RM-34B](https://t.co/hfbDKZYh26)
 - [**Beagle14-7B**](https://huggingface.co/mlabonne/Beagle14-7B) - mlabonne 🤗
 - [Improving Open-Source LLMs - Datasets, Merging and Stacking - The Abacus.AI Blog](https://blog.abacus.ai/blog/2024/01/11/the-open-source-cookbook-how-to-soup-up-your-open-source-llm/)
 - [**CrystalChat**](https://huggingface.co/LLM360/CrystalChat) - LLM360 🤗

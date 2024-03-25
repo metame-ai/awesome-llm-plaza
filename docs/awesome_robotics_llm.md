@@ -10,6 +10,11 @@
 
 
 ## Papers
+- **3D-VLA: A 3D Vision-Language-Action Generative World Model**, `arXiv, 2403.09631`, [arxiv](http://arxiv.org/abs/2403.09631v1), [pdf](http://arxiv.org/pdf/2403.09631v1.pdf), cication: [**-1**](None)
+
+	 *Haoyu Zhen, Xiaowen Qiu, Peihao Chen, Jincheng Yang, Xin Yan, Yilun Du, Yining Hong, Chuang Gan*
+
+	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652459636&idx=3&sn=702d841f9ad17b4dd42705569bfed8b6))
 - **EnvGen: Generating and Adapting Environments via LLMs for Training
   Embodied Agents**, `arXiv, 2403.12014`, [arxiv](http://arxiv.org/abs/2403.12014v1), [pdf](http://arxiv.org/pdf/2403.12014v1.pdf), cication: [**-1**](None)
 
@@ -289,6 +294,7 @@
 	 · [[qbitai](https://www.qbitai.com/2023/07/69054.html)]
 
 ## Other
+- [A team trained Mistral 7B playing DOOM](https://twitter.com/reach_vb/status/1772008460122509525)
 - talk: [Foundation Agent: a roadmap to build generally capable embodied AI that acts skillfully across many worlds, virtual or real.](https://twitter.com/DrJimFan/status/1770848955519107345)
 - [Covariant | Powering the Future of Automation, Today](https://covariant.ai/insights/introducing-rfm-1-giving-robots-human-like-reasoning-capabilities/)
 - [ glimpse of the future foundation models and platforms for robots:](https://twitter.com/DrJimFan/status/1740041712184246314)

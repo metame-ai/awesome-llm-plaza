@@ -33,6 +33,9 @@
 	 *Zige Wang, Wanjun Zhong, Yufei Wang, Qi Zhu, Fei Mi, Baojun Wang, Lifeng Shang, Xin Jiang, Qun Liu*
 
 ## Techs
+- **LLM2LLM: Boosting LLMs with Novel Iterative Data Enhancement**, `arXiv, 2403.15042`, [arxiv](http://arxiv.org/abs/2403.15042v1), [pdf](http://arxiv.org/pdf/2403.15042v1.pdf), cication: [**-1**](None)
+
+	 *Nicholas Lee, Thanakul Wattanawong, Sehoon Kim, Karttikeya Mangalam, Sheng Shen, Gopala Anumanchipali, Michael W. Mahoney, Kurt Keutzer, Amir Gholami*
 - **Are Human Conversations Special? A Large Language Model Perspective**, `arXiv, 2403.05045`, [arxiv](http://arxiv.org/abs/2403.05045v1), [pdf](http://arxiv.org/pdf/2403.05045v1.pdf), cication: [**-1**](None)
 
 	 *Toshish Jawale, Chaitanya Animesh, Sekhar Vallath, Kartik Talamadupula, Larry Heck*

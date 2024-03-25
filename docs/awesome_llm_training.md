@@ -167,10 +167,7 @@
   interference via structured training**, `arXiv, 2403.09613`, [arxiv](http://arxiv.org/abs/2403.09613v1), [pdf](http://arxiv.org/pdf/2403.09613v1.pdf), cication: [**-1**](None)
 
 	 *Yanlai Yang, Matt Jones, Michael C. Mozer, Mengye Ren*
-- **Agent-FLAN: Designing Data and Methods of Effective Agent Tuning for
-  Large Language Models**, `arXiv, 2403.12881`, [arxiv](http://arxiv.org/abs/2403.12881v1), [pdf](http://arxiv.org/pdf/2403.12881v1.pdf), cication: [**-1**](None)
 
-	 *Zehui Chen, Kuikun Liu, Qiuchen Wang, Wenwei Zhang, Jiangning Liu, Dahua Lin, Kai Chen, Feng Zhao* · ([Agent-FLAN](https://github.com/InternLM/Agent-FLAN) - InternLM) ![Star](https://img.shields.io/github/stars/InternLM/Agent-FLAN.svg?style=social&label=Star)
 - **Larimar: Large Language Models with Episodic Memory Control**, `arXiv, 2403.11901`, [arxiv](http://arxiv.org/abs/2403.11901v1), [pdf](http://arxiv.org/pdf/2403.11901v1.pdf), cication: [**-1**](None)
 
 	 *Payel Das, Subhajit Chaudhury, Elliot Nelson, Igor Melnyk, Sarath Swaminathan, Sihui Dai, Aurélie Lozano, Georgios Kollias, Vijil Chenthamarakshan, Jiří*

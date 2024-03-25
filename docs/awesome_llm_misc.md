@@ -568,6 +568,8 @@
 	 *Patrick Butlin, Robert Long, Eric Elmoznino, Yoshua Bengio, Jonathan Birch, Axel Constant, George Deane, Stephen M. Fleming, Chris Frith, Xu Ji* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-08-22-4))
 - [Collective Intelligence for Deep Learning: A Survey of Recent Developments | 大トロ](https://blog.otoro.net/2022/10/01/collectiveintelligence/)
 
+---
+- [强化学习之父Richard Sutton：通往AGI的另一种可能](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495731&idx=1&sn=c00430a203adb5e89cab3c036b62ee5e)
 - [图灵奖得主、神经网络之父Hinton最新公开演讲：数字智能会取代生物智能吗？（全文及PPT）](https://mp.weixin.qq.com/s?__biz=MzIyMzk1MDE3Nw==&mid=2247629387&idx=2&sn=fe485c8faa0cc42b23d1a91ded7cdb66)
 - [好问题比好答案更重要｜沈向洋大模型五问](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494275&idx=1&sn=4860205e6043435fe7ff871c8fb4c9c1)
 
@@ -657,6 +659,10 @@
 - [introduce CUDA in a way that will be accessible to Python folks](https://twitter.com/jeremyphoward/status/1752071227228008471)
 
 	 · ([youtu](https://youtu.be/nOxKexn3iBo))
+
+### Videos
+- [No Priors: AI, Machine Learning, Tech, & Startups - YouTube](https://www.youtube.com/@NoPriorsPodcast)
+- [Eye on AI - YouTube](https://www.youtube.com/@eyeonai3425/podcasts)
 
 ## Extra reference
 - [**awesome-local-ai**](https://github.com/janhq/awesome-local-ai) - janhq ![Star](https://img.shields.io/github/stars/janhq/awesome-local-ai.svg?style=social&label=Star)
