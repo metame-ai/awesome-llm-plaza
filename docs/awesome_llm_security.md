@@ -46,6 +46,9 @@
 	 *Stephen Casper, Jason Lin, Joe Kwon, Gatlen Culp, Dylan Hadfield-Menell*
 
 ## Papers
+- [[2403.15447] Decoding Compressed Trust: Scrutinizing the Trustworthiness of Efficient LLMs Under Compression](https://arxiv.org/abs/2403.15447)
+
+	 · ([decoding-comp-trust.github](https://decoding-comp-trust.github.io/))
 - **Logits of API-Protected LLMs Leak Proprietary Information**, `arXiv, 2403.09539`, [arxiv](http://arxiv.org/abs/2403.09539v2), [pdf](http://arxiv.org/pdf/2403.09539v2.pdf), cication: [**-1**](None)
 
 	 *Matthew Finlayson, Xiang Ren, Swabha Swayamdipta*

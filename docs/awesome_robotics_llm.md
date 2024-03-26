@@ -294,6 +294,7 @@
 	 · [[qbitai](https://www.qbitai.com/2023/07/69054.html)]
 
 ## Other
+- [Pollen-Vision: Unified interface for Zero-Shot vision models in robotics](https://huggingface.co/blog/pollen-vision)
 - [A team trained Mistral 7B playing DOOM](https://twitter.com/reach_vb/status/1772008460122509525)
 - talk: [Foundation Agent: a roadmap to build generally capable embodied AI that acts skillfully across many worlds, virtual or real.](https://twitter.com/DrJimFan/status/1770848955519107345)
 - [Covariant | Powering the Future of Automation, Today](https://covariant.ai/insights/introducing-rfm-1-giving-robots-human-like-reasoning-capabilities/)

@@ -41,6 +41,8 @@
 - [**grok-1**](https://github.com/xai-org/grok-1) - xai-org ![Star](https://img.shields.io/github/stars/xai-org/grok-1.svg?style=social&label=Star)
 
 	 *Grok open release* · ([x](https://t.co/MX0e4ZxEFa)) · ([huggingface](https://huggingface.co/xai-org/grok-1)) · ([qbitai](https://www.qbitai.com/2024/03/128546.html))
+
+	 · ([huggingface](https://huggingface.co/hpcai-tech/grok-1)) · ([mp.weixin.qq](https://mp.weixin.qq.com/s/0ZZG50QVrTqH40CfsBTfqQ))
 - [**c4ai-command-r-v01**](https://huggingface.co/CohereForAI/c4ai-command-r-v01) - CohereForAI 🤗
 
 	 · ([txt.cohere](https://txt.cohere.com/command-r/))
@@ -158,6 +160,8 @@
 - [**phixtral-4x2_8**](https://huggingface.co/mlabonne/phixtral-4x2_8) - mlabonne 🤗
 ### Mistral
 - [**hackathon**](https://github.com/mistralai-sf24/hackathon) - mistralai-sf24 ![Star](https://img.shields.io/github/stars/mistralai-sf24/hackathon.svg?style=social&label=Star)
+
+	 · ([models.mistralcdn](https://models.mistralcdn.com/mistral-7b-v0-2/mistral-7B-v0.2.tar)) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-03-25-8))
 - [**Mistral-7B-Instruct-v0.2**](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2) - mistralai 🤗
 - [**mistral-src**](https://github.com/mistralai/mistral-src) - mistralai ![Star](https://img.shields.io/github/stars/mistralai/mistral-src.svg?style=social&label=Star)
 

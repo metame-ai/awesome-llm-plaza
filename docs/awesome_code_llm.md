@@ -244,6 +244,8 @@
 	 · [intercode-benchmark.github](https://intercode-benchmark.github.io/)
 
 ## Projects
+- [**stable-code-instruct-3b**](https://huggingface.co/stabilityai/stable-code-instruct-3b) - stabilityai 🤗
+	- 
 - [**devika**](https://github.com/stitionai/devika) - stitionai ![Star](https://img.shields.io/github/stars/stitionai/devika.svg?style=social&label=Star)
 
 	 *Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. Devika aims to be a competitive open-source alternative to Devin by Cognition AI.*

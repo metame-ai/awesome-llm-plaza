@@ -417,6 +417,7 @@
 	 *Lianmin Zheng, Wei-Lin Chiang, Ying Sheng, Siyuan Zhuang, Zhanghao Wu, Yonghao Zhuang, Zi Lin, Zhuohan Li, Dacheng Li, Eric. P Xing*
 
 ## Projects
+- [**LeaderboardFinder**](https://huggingface.co/spaces/leaderboards/LeaderboardFinder) - leaderboards 🤗
 - [Introducing the Chatbot Guardrails Arena](https://huggingface.co/blog/arena-lighthouz)
 
 	 · ([huggingface](https://huggingface.co/spaces/lighthouzai/guardrails-arena))

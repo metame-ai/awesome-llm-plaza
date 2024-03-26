@@ -55,6 +55,9 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652350213&idx=4&sn=47bef78ae85d99fccc45487e2fb1ff6b))
  
 ## LLM OS
+- [[2403.16971] LLM Agent Operating System](https://arxiv.org/abs/2403.16971)
+
+	 · ([AIOS](https://github.com/agiresearch/AIOS) - agiresearch) ![Star](https://img.shields.io/github/stars/agiresearch/AIOS.svg?style=social&label=Star)
 - [**01**](https://github.com/OpenInterpreter/01) - OpenInterpreter ![Star](https://img.shields.io/github/stars/OpenInterpreter/01.svg?style=social&label=Star)
 
 	 *The open-source language model computer*
@@ -661,6 +664,9 @@
   Miss**, `arXiv, 2402.10790`, [arxiv](http://arxiv.org/abs/2402.10790v2), [pdf](http://arxiv.org/pdf/2402.10790v2.pdf), cication: [**-1**](None)
 
 	 *Yuri Kuratov, Aydar Bulatov, Petr Anokhin, Dmitry Sorokin, Artyom Sorokin, Mikhail Burtsev*
+- [[2402.08327] PreFLMR: Scaling Up Fine-Grained Late-Interaction Multi-modal Retrievers](https://arxiv.org/abs/2402.08327)
+
+	 · ([preflmr.github](https://preflmr.github.io/)) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-03-25-10))
 - **What Evidence Do Language Models Find Convincing?**, `arXiv, 2402.11782`, [arxiv](http://arxiv.org/abs/2402.11782v1), [pdf](http://arxiv.org/pdf/2402.11782v1.pdf), cication: [**-1**](None)
 
 	 *Alexander Wan, Eric Wallace, Dan Klein*
@@ -835,6 +841,7 @@
 - [A Cheat Sheet and Some Recipes For Building Advanced RAG | by Andrei | Jan, 2024 | LlamaIndex Blog](https://blog.llamaindex.ai/a-cheat-sheet-and-some-recipes-for-building-advanced-rag-803a9d94c41b)
 - [Build a search engine, not a vector DB](https://blog.elicit.com/search-vs-vector-db/)
 
+- [4W字RAG技术总结和串讲](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495746&idx=2&sn=05772cca38b342f5fa7b683389623ba6)
 - [RAG效果评估经验](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495725&idx=2&sn=c6d2b3527041fd2742363b2e0b2d1f44&poc_token=HFaa-2WjKGGmLnBa3yZCBSXFENCcHwsqDs6M5c5Z)
 - [微调与RAG的优缺点分析](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495628&idx=2&sn=d65b3370121a1d2bd832c17218bb1090)
 - [Langchain中改进RAG能力的3种常用的扩展查询方法](https://mp.weixin.qq.com/s?__biz=MzI1MjQ2OTQ3Ng==&mid=2247630649&idx=2&sn=d02f9e3022d5e987de5d60ed06ea3bd8&poc_token=HO-d1WWjKnv0HWessjo9YkkKt1GkCKEDCJoS3wUW)

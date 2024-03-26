@@ -188,6 +188,7 @@
 - **MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training**, `arXiv, 2403.09611`, [arxiv](http://arxiv.org/abs/2403.09611v1), [pdf](http://arxiv.org/pdf/2403.09611v1.pdf), cication: [**-1**](None)
 
 	 *Brandon McKinzie, Zhe Gan, Jean-Philippe Fauconnier, Sam Dodge, Bowen Zhang, Philipp Dufter, Dhruti Shah, Xianzhi Du, Futang Peng, Floris Weers*
+	- *NOTE*
 - **MoAI: Mixture of All Intelligence for Large Language and Vision Models**, `arXiv, 2403.07508`, [arxiv](http://arxiv.org/abs/2403.07508v1), [pdf](http://arxiv.org/pdf/2403.07508v1.pdf), cication: [**-1**](None)
 
 	 *Byung-Kwan Lee, Beomchan Park, Chae Won Kim, Yong Man Ro*
@@ -261,6 +262,8 @@
   Language Models**, `arXiv, 2402.07865`, [arxiv](http://arxiv.org/abs/2402.07865v1), [pdf](http://arxiv.org/pdf/2402.07865v1.pdf), cication: [**-1**](None)
 
 	 *Siddharth Karamcheti, Suraj Nair, Ashwin Balakrishna, Percy Liang, Thomas Kollar, Dorsa Sadigh*
+
+	 · ([prismatic-vlms](https://github.com/TRI-ML/prismatic-vlms) - TRI-ML) ![Star](https://img.shields.io/github/stars/TRI-ML/prismatic-vlms.svg?style=social&label=Star) · ([vlm-evaluation](https://github.com/TRI-ML/vlm-evaluation) - TRI-ML) ![Star](https://img.shields.io/github/stars/TRI-ML/vlm-evaluation.svg?style=social&label=Star)
 - **PIVOT: Iterative Visual Prompting Elicits Actionable Knowledge for VLMs**, `arXiv, 2402.07872`, [arxiv](http://arxiv.org/abs/2402.07872v1), [pdf](http://arxiv.org/pdf/2402.07872v1.pdf), cication: [**-1**](None)
 
 	 *Soroush Nasiriany, Fei Xia, Wenhao Yu, Ted Xiao, Jacky Liang, Ishita Dasgupta, Annie Xie, Danny Driess, Ayzaan Wahid, Zhuo Xu* · ([huggingface](https://huggingface.co/spaces/pivot-prompt/pivot-prompt-demo))
@@ -597,6 +600,7 @@
 
 	 *Haotian Liu, Chunyuan Li, Yuheng Li, Yong Jae Lee*
 	 · [mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652387513&idx=1&sn=6ce09815e418582eaa1b4bf5302a6cb9&poc_token=HJs5I2Wj6qIOmBuS1VELumrD9cgAWsWNBRC0g0IE)] · [[llava-vl.github](https://llava-vl.github.io/)
+	- *NOTE*
 - **Investigating the Catastrophic Forgetting in Multimodal Large Language
   Models**, `arXiv, 2309.10313`, [arxiv](http://arxiv.org/abs/2309.10313v3), [pdf](http://arxiv.org/pdf/2309.10313v3.pdf), cication: [**4**](https://scholar.google.com/scholar?cites=13813400105448769431&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
@@ -938,6 +942,8 @@
   Inference**, `arXiv, 2403.14520`, [arxiv](http://arxiv.org/abs/2403.14520v1), [pdf](http://arxiv.org/pdf/2403.14520v1.pdf), cication: [**-1**](None)
 
 	 *Han Zhao, Min Zhang, Wei Zhao, Pengxiang Ding, Siteng Huang, Donglin Wang* · ([sites.google](https://sites.google.com/view/cobravlm))
+
+	 · ([cobra](https://github.com/h-zhao1997/cobra) - h-zhao1997) ![Star](https://img.shields.io/github/stars/h-zhao1997/cobra.svg?style=social&label=Star) · ([twitter](https://twitter.com/han_zhao97/status/1772316050845053100))
 - **Small Language Model Meets with Reinforced Vision Vocabulary**, `arXiv, 2401.12503`, [arxiv](http://arxiv.org/abs/2401.12503v1), [pdf](http://arxiv.org/pdf/2401.12503v1.pdf), cication: [**-1**](None)
 
 	 *Haoran Wei, Lingyu Kong, Jinyue Chen, Liang Zhao, Zheng Ge, En Yu, Jianjian Sun, Chunrui Han, Xiangyu Zhang*
