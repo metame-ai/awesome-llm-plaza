@@ -944,6 +944,7 @@
 	 *Han Zhao, Min Zhang, Wei Zhao, Pengxiang Ding, Siteng Huang, Donglin Wang* · ([sites.google](https://sites.google.com/view/cobravlm))
 
 	 · ([cobra](https://github.com/h-zhao1997/cobra) - h-zhao1997) ![Star](https://img.shields.io/github/stars/h-zhao1997/cobra.svg?style=social&label=Star) · ([twitter](https://twitter.com/han_zhao97/status/1772316050845053100))
+	- *NOTE*
 - **Small Language Model Meets with Reinforced Vision Vocabulary**, `arXiv, 2401.12503`, [arxiv](http://arxiv.org/abs/2401.12503v1), [pdf](http://arxiv.org/pdf/2401.12503v1.pdf), cication: [**-1**](None)
 
 	 *Haoran Wei, Lingyu Kong, Jinyue Chen, Liang Zhao, Zheng Ge, En Yu, Jianjian Sun, Chunrui Han, Xiangyu Zhang*

@@ -296,6 +296,10 @@
 
 	 *Albert Gu, Tri Dao* · ([mamba](https://github.com/state-spaces/mamba) - state-spaces) ![Star](https://img.shields.io/github/stars/state-spaces/mamba.svg?style=social&label=Star)
 
+---
+- [Recent Mamba Papers - a julien-c Collection](https://huggingface.co/collections/julien-c/recent-mamba-papers-6602855121032a86a5d9fab7)
+- [Mamba: Linear-Time Sequence Modeling with Selective State Spaces (Paper Explained) - YouTube](https://www.youtube.com/watch?v=9dSkvxS2EB0&ab_channel=YannicKilcher)
+
 ## New model
 - **Infini-gram: Scaling Unbounded n-gram Language Models to a Trillion
   Tokens**, `arXiv, 2401.17377`, [arxiv](http://arxiv.org/abs/2401.17377v1), [pdf](http://arxiv.org/pdf/2401.17377v1.pdf), cication: [**-1**](None)
@@ -523,6 +527,9 @@
 	 *Steve Yadlowsky, Lyric Doshi, Nilesh Tripuraneni*
 
 ## LLM editting
+- **Robust and Scalable Model Editing for Large Language Models**, `arXiv, 2403.17431`, [arxiv](http://arxiv.org/abs/2403.17431v1), [pdf](http://arxiv.org/pdf/2403.17431v1.pdf), cication: [**-1**](None)
+
+	 *Yingfa Chen, Zhengyan Zhang, Xu Han, Chaojun Xiao, Zhiyuan Liu, Chen Chen, Kuai Li, Tao Yang, Maosong Sun* · ([EREN](https://github.com/thunlp/EREN?tab=readme-ov-file) - thunlp) ![Star](https://img.shields.io/github/stars/thunlp/EREN.svg?style=social&label=Star)
 - **Editing Conceptual Knowledge for Large Language Models**, `arXiv, 2403.06259`, [arxiv](http://arxiv.org/abs/2403.06259v1), [pdf](http://arxiv.org/pdf/2403.06259v1.pdf), cication: [**-1**](None)
 
 	 *Xiaohan Wang, Shengyu Mao, Ningyu Zhang, Shumin Deng, Yunzhi Yao, Yue Shen, Lei Liang, Jinjie Gu, Huajun Chen*
@@ -661,15 +668,26 @@
 	 · ([youtu](https://youtu.be/nOxKexn3iBo))
 
 ### Videos
+- [Sequoia Capital - YouTube](https://www.youtube.com/@sequoiacapital/podcasts)
+- [Making AI accessible with Andrej Karpathy and Stephanie Zhan - YouTube](https://www.youtube.com/watch?v=c3b-JASoPi0&list=PLOhHNjZItNnOoPxOF3dmq30UxYqFuxXKn&index=4&ab_channel=SequoiaCapital)
+
+	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s/bsclvziceHPM4qiO4R3HdA))
+- [Yann Lecun: Meta AI, Open Source, Limits of LLMs, AGI & the Future of AI | Lex Fridman Podcast #416 - YouTube](https://www.youtube.com/watch?v=5t1vTLU7s40)
+- [Sam Altman: OpenAI, GPT-5, Sora, Board Saga, Elon Musk, Ilya, Power & AGI | Lex Fridman Podcast #419 - YouTube](https://www.youtube.com/watch?v=jvqFAi7vkBc)
 - [No Priors: AI, Machine Learning, Tech, & Startups - YouTube](https://www.youtube.com/@NoPriorsPodcast)
 - [Eye on AI - YouTube](https://www.youtube.com/@eyeonai3425/podcasts)
 
 ## Extra reference
+- [**awesome-generative-ai-guide**](https://github.com/aishwaryanr/awesome-generative-ai-guide) - aishwaryanr ![Star](https://img.shields.io/github/stars/aishwaryanr/awesome-generative-ai-guide.svg?style=social&label=Star)
+
+	 *A one stop repository for generative AI research updates, interview resources, notebooks and much more!*
 - [**awesome-local-ai**](https://github.com/janhq/awesome-local-ai) - janhq ![Star](https://img.shields.io/github/stars/janhq/awesome-local-ai.svg?style=social&label=Star)
 
 	 *An awesome repository of local AI tools*
-- [机器之心SOTA！模型](https://sota.jiqizhixin.com/)
 - [**how-to-optim-algorithm-in-cuda**](https://github.com/BBuf/how-to-optim-algorithm-in-cuda) - BBuf ![Star](https://img.shields.io/github/stars/BBuf/how-to-optim-algorithm-in-cuda.svg?style=social&label=Star)
 
 	 *how to optimize some algorithm in cuda.*
+
+---
+- [机器之心SOTA！模型](https://sota.jiqizhixin.com/)
 - [MLC-LLM 支持RWKV-5推理以及对RWKV-5的一些思考](https://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&mid=2247534749&idx=2&sn=74ee2be683af033e5e39422240ca6e39)

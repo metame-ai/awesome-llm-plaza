@@ -46,7 +46,14 @@
 	 *Stephen Casper, Jason Lin, Joe Kwon, Gatlen Culp, Dylan Hadfield-Menell*
 
 ## Papers
-- [[2403.15447] Decoding Compressed Trust: Scrutinizing the Trustworthiness of Efficient LLMs Under Compression](https://arxiv.org/abs/2403.15447)
+- **Don't Listen To Me: Understanding and Exploring Jailbreak Prompts of
+  Large Language Models**, `arXiv, 2403.17336`, [arxiv](http://arxiv.org/abs/2403.17336v1), [pdf](http://arxiv.org/pdf/2403.17336v1.pdf), cication: [**-1**](None)
+
+	 *Zhiyuan Yu, Xiaogeng Liu, Shunning Liang, Zach Cameron, Chaowei Xiao, Ning Zhang*
+- **Decoding Compressed Trust: Scrutinizing the Trustworthiness of Efficient
+  LLMs Under Compression**, `arXiv, 2403.15447`, [arxiv](http://arxiv.org/abs/2403.15447v1), [pdf](http://arxiv.org/pdf/2403.15447v1.pdf), cication: [**-1**](None)
+
+	 *Junyuan Hong, Jinhao Duan, Chenhui Zhang, Zhangheng Li, Chulin Xie, Kelsey Lieberman, James Diffenderfer, Brian Bartoldson, Ajay Jaiswal, Kaidi Xu*
 
 	 · ([decoding-comp-trust.github](https://decoding-comp-trust.github.io/))
 - **Logits of API-Protected LLMs Leak Proprietary Information**, `arXiv, 2403.09539`, [arxiv](http://arxiv.org/abs/2403.09539v2), [pdf](http://arxiv.org/pdf/2403.09539v2.pdf), cication: [**-1**](None)

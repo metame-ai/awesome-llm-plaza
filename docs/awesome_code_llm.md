@@ -19,6 +19,10 @@
 	 *Ziyin Zhang, Chaoyu Chen, Bingchang Liu, Cong Liao, Zi Gong, Hang Yu, Jianguo Li, Rui Wang*
 
 ## Paper
+- **A comparison of Human, GPT-3.5, and GPT-4 Performance in a
+  University-Level Coding Course**, `arXiv, 2403.16977`, [arxiv](http://arxiv.org/abs/2403.16977v1), [pdf](http://arxiv.org/pdf/2403.16977v1.pdf), cication: [**-1**](None)
+
+	 *Will Yeadon, Alex Peach, Craig P. Testrow*
 - **Compiler generated feedback for Large Language Models**, `arXiv, 2403.14714`, [arxiv](http://arxiv.org/abs/2403.14714v1), [pdf](http://arxiv.org/pdf/2403.14714v1.pdf), cication: [**-1**](None)
 
 	 *Dejan Grubisic, Chris Cummins, Volker Seeker, Hugh Leather*

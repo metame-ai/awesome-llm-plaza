@@ -55,7 +55,9 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652350213&idx=4&sn=47bef78ae85d99fccc45487e2fb1ff6b))
  
 ## LLM OS
-- [[2403.16971] LLM Agent Operating System](https://arxiv.org/abs/2403.16971)
+- **AIOS: LLM Agent Operating System**, `arXiv, 2403.16971`, [arxiv](http://arxiv.org/abs/2403.16971v2), [pdf](http://arxiv.org/pdf/2403.16971v2.pdf), cication: [**-1**](None)
+
+	 *Kai Mei, Zelong Li, Shuyuan Xu, Ruosong Ye, Yingqiang Ge, Yongfeng Zhang*
 
 	 · ([AIOS](https://github.com/agiresearch/AIOS) - agiresearch) ![Star](https://img.shields.io/github/stars/agiresearch/AIOS.svg?style=social&label=Star)
 - [**01**](https://github.com/OpenInterpreter/01) - OpenInterpreter ![Star](https://img.shields.io/github/stars/OpenInterpreter/01.svg?style=social&label=Star)
@@ -82,6 +84,9 @@
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-18-4))
 ## Agents
+- **AgentStudio: A Toolkit for Building General Virtual Agents**, `arXiv, 2403.17918`, [arxiv](http://arxiv.org/abs/2403.17918v1), [pdf](http://arxiv.org/pdf/2403.17918v1.pdf), cication: [**-1**](None)
+
+	 *Longtao Zheng, Zhiyuan Huang, Zhenghai Xue, Xinrun Wang, Bo An, Shuicheng Yan* · ([skyworkai.github](https://skyworkai.github.io/agent-studio/))
 - **AllHands: Ask Me Anything on Large-scale Verbatim Feedback via Large
   Language Models**, `arXiv, 2403.15157`, [arxiv](http://arxiv.org/abs/2403.15157v1), [pdf](http://arxiv.org/pdf/2403.15157v1.pdf), cication: [**-1**](None)
 
@@ -430,6 +435,9 @@
 - [数字身份智能体的基本原理及应用前景展望](https://mp.weixin.qq.com/s?__biz=MzI1MjQ2OTQ3Ng==&mid=2247611020&idx=1&sn=eeea2012a2bcfe541a138c9a4c42b837)
 
 ## AutoGPT
+- [**codel**](https://github.com/semanser/codel) - semanser ![Star](https://img.shields.io/github/stars/semanser/codel.svg?style=social&label=Star)
+
+	 *✨ Fully autonomous AI Agent that can perform complicated tasks and projects using terminal, browser, and editor.*
 - **Data Interpreter: An LLM Agent For Data Science**, `arXiv, 2402.18679`, [arxiv](http://arxiv.org/abs/2402.18679v3), [pdf](http://arxiv.org/pdf/2402.18679v3.pdf), cication: [**-1**](None)
 
 	 *Sirui Hong, Yizhang Lin, Bang Liu, Bangbang Liu, Binhao Wu, Danyang Li, Jiaqi Chen, Jiayi Zhang, Jinlin Wang, Li Zhang* · ([MetaGPT](https://github.com/geekan/MetaGPT) - geekan) ![Star](https://img.shields.io/github/stars/geekan/MetaGPT.svg?style=social&label=Star)
@@ -664,7 +672,9 @@
   Miss**, `arXiv, 2402.10790`, [arxiv](http://arxiv.org/abs/2402.10790v2), [pdf](http://arxiv.org/pdf/2402.10790v2.pdf), cication: [**-1**](None)
 
 	 *Yuri Kuratov, Aydar Bulatov, Petr Anokhin, Dmitry Sorokin, Artyom Sorokin, Mikhail Burtsev*
-- [[2402.08327] PreFLMR: Scaling Up Fine-Grained Late-Interaction Multi-modal Retrievers](https://arxiv.org/abs/2402.08327)
+- **PreFLMR: Scaling Up Fine-Grained Late-Interaction Multi-modal Retrievers**, `arXiv, 2402.08327`, [arxiv](http://arxiv.org/abs/2402.08327v1), [pdf](http://arxiv.org/pdf/2402.08327v1.pdf), cication: [**-1**](None)
+
+	 *Weizhe Lin, Jingbiao Mei, Jinghong Chen, Bill Byrne*
 
 	 · ([preflmr.github](https://preflmr.github.io/)) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-03-25-10))
 - **What Evidence Do Language Models Find Convincing?**, `arXiv, 2402.11782`, [arxiv](http://arxiv.org/abs/2402.11782v1), [pdf](http://arxiv.org/pdf/2402.11782v1.pdf), cication: [**-1**](None)
@@ -810,6 +820,9 @@
 	 *Interact privately with your documents using the power of GPT, 100% privately, no data leaks*
 
 ### Embedding
+- [**FlagEmbedding**](https://github.com/FlagOpen/FlagEmbedding) - FlagOpen ![Star](https://img.shields.io/github/stars/FlagOpen/FlagEmbedding.svg?style=social&label=Star)
+
+	 *Retrieval and Retrieval-augmented LLMs* · ([huggingface](https://huggingface.co/BAAI/bge-base-en-v1.5))
 - [Binary and Scalar Embedding Quantization for Significantly Faster & Cheaper Retrieval](https://huggingface.co/blog/embedding-quantization)
 - **Is Cosine-Similarity of Embeddings Really About Similarity?**, `arXiv, 2403.05440`, [arxiv](http://arxiv.org/abs/2403.05440v1), [pdf](http://arxiv.org/pdf/2403.05440v1.pdf), cication: [**-1**](None)
 

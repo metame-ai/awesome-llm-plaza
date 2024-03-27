@@ -28,6 +28,10 @@
 	 *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang*
 
 ## Papers
+- **A comparison of Human, GPT-3.5, and GPT-4 Performance in a
+  University-Level Coding Course**, `arXiv, 2403.16977`, [arxiv](http://arxiv.org/abs/2403.16977v1), [pdf](http://arxiv.org/pdf/2403.16977v1.pdf), cication: [**-1**](None)
+
+	 *Will Yeadon, Alex Peach, Craig P. Testrow*
 - **A Toolbox for Surfacing Health Equity Harms and Biases in Large Language
   Models**, `arXiv, 2403.12025`, [arxiv](http://arxiv.org/abs/2403.12025v1), [pdf](http://arxiv.org/pdf/2403.12025v1.pdf), cication: [**-1**](None)
 

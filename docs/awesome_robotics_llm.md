@@ -281,7 +281,9 @@
 - **Learning Generalizable Feature Fields for Mobile Manipulation**, `arXiv, 2403.07563`, [arxiv](http://arxiv.org/abs/2403.07563v1), [pdf](http://arxiv.org/pdf/2403.07563v1.pdf), cication: [**-1**](None)
 
 	 *Ri-Zhao Qiu, Yafei Hu, Ge Yang, Yuchen Song, Yang Fu, Jianglong Ye, Jiteng Mu, Ruihan Yang, Nikolay Atanasov, Sebastian Scherer*
+- **Humanoid Locomotion as Next Token Prediction**, `arXiv, 2402.19469`, [arxiv](http://arxiv.org/abs/2402.19469v1), [pdf](http://arxiv.org/pdf/2402.19469v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=10824280382918994834&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
+	 *Ilija Radosavovic, Bike Zhang, Baifeng Shi, Jathushan Rajasegaran, Sarthak Kamat, Trevor Darrell, Koushil Sreenath, Jitendra Malik* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652460909&idx=4&sn=35870451c2c9c90bbbfc7be2bebe75d5))
 ### Demos
 - [twitter.com/\_akhaliq/status/1770108427735314813](https://twitter.com/_akhaliq/status/1770108427735314813)
 - [Barsee 🐶 on X: "This year is going to be the year of robotics 🤖 UC San Diego introduces Expressive Humanoid. Now robots can easily perform rich, diverse, and expressive motions in the real world. A THREAD: 👇🧵 https://t.co/sHlVnoOjhL" / X](https://twitter.com/heyBarsee/status/1770110514045104460)

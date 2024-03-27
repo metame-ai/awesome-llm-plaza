@@ -33,6 +33,10 @@
 	 *Zige Wang, Wanjun Zhong, Yufei Wang, Qi Zhu, Fei Mi, Baojun Wang, Lifeng Shang, Xin Jiang, Qun Liu*
 
 ## Techs
+- **Data Mixing Laws: Optimizing Data Mixtures by Predicting Language
+  Modeling Performance**, `arXiv, 2403.16952`, [arxiv](http://arxiv.org/abs/2403.16952v1), [pdf](http://arxiv.org/pdf/2403.16952v1.pdf), cication: [**-1**](None)
+
+	 *Jiasheng Ye, Peiju Liu, Tianxiang Sun, Yunhua Zhou, Jun Zhan, Xipeng Qiu* · ([mixinglaws](https://github.com/yegcjs/mixinglaws) - yegcjs) ![Star](https://img.shields.io/github/stars/yegcjs/mixinglaws.svg?style=social&label=Star)
 - **LLM2LLM: Boosting LLMs with Novel Iterative Data Enhancement**, `arXiv, 2403.15042`, [arxiv](http://arxiv.org/abs/2403.15042v1), [pdf](http://arxiv.org/pdf/2403.15042v1.pdf), cication: [**-1**](None)
 
 	 *Nicholas Lee, Thanakul Wattanawong, Sehoon Kim, Karttikeya Mangalam, Sheng Shen, Gopala Anumanchipali, Michael W. Mahoney, Kurt Keutzer, Amir Gholami*

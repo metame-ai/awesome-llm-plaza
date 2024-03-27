@@ -680,6 +680,9 @@
 	 *Official repo for LayoutGPT*
 
 ## Science
+- [Electron density-based GPT for optimization and suggestion of host–guest binders | Nature Computational Science](https://www.nature.com/articles/s43588-024-00602-x)
+
+	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-03-26))
 - [**evo**](https://github.com/evo-design/evo) - evo-design ![Star](https://img.shields.io/github/stars/evo-design/evo.svg?style=social&label=Star)
 
 	 *DNA foundation modeling from molecular to genome scale* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-03-01-2))
@@ -768,6 +771,10 @@
 	 *Ethan Callanan, Amarachi Mbakwe, Antony Papadimitriou, Yulong Pei, Mathieu Sibue, Xiaodan Zhu, Zhiqiang Ma, Xiaomo Liu, Sameena Shah*
 
 ## Data Related
+- **DS-Agent: Automated Data Science by Empowering Large Language Models
+  with Case-Based Reasoning**, `arXiv, 2402.17453`, [arxiv](http://arxiv.org/abs/2402.17453v2), [pdf](http://arxiv.org/pdf/2402.17453v2.pdf), cication: [**-1**](None)
+
+	 *Siyuan Guo, Cheng Deng, Ying Wen, Hechang Chen, Yi Chang, Jun Wang* · ([DS-Agent](https://github.com/guosyjlu/DS-Agent) - guosyjlu) ![Star](https://img.shields.io/github/stars/guosyjlu/DS-Agent.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-03-27-4))
 - **Improving Text Embeddings with Large Language Models**, `arXiv, 2401.00368`, [arxiv](http://arxiv.org/abs/2401.00368v1), [pdf](http://arxiv.org/pdf/2401.00368v1.pdf), cication: [**-1**](None)
 
 	 *Liang Wang, Nan Yang, Xiaolong Huang, Linjun Yang, Rangan Majumder, Furu Wei*

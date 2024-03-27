@@ -367,6 +367,9 @@
 	 *Yuxian Gu, Li Dong, Furu Wei, Minlie Huang*
 
 ## Pruning
+- **The Unreasonable Ineffectiveness of the Deeper Layers**, `arXiv, 2403.17887`, [arxiv](http://arxiv.org/abs/2403.17887v1), [pdf](http://arxiv.org/pdf/2403.17887v1.pdf), cication: [**-1**](None)
+
+	 *Andrey Gromov, Kushal Tirumala, Hassan Shapourian, Paolo Glorioso, Daniel A. Roberts*
 - **ShortGPT: Layers in Large Language Models are More Redundant Than You
   Expect**, `arXiv, 2403.03853`, [arxiv](http://arxiv.org/abs/2403.03853v1), [pdf](http://arxiv.org/pdf/2403.03853v1.pdf), cication: [**-1**](None)
 
