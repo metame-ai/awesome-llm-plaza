@@ -186,7 +186,10 @@
 	 *Timo Kaufmann, Paul Weng, Viktor Bengs, Eyke Hüllermeier*
 
 ## Papers
-- [[2403.17031] The N+ Implementation Details of RLHF with PPO: A Case Study on TL;DR Summarization](https://arxiv.org/abs/2403.17031)
+- **The N+ Implementation Details of RLHF with PPO: A Case Study on TL;DR
+  Summarization**, `arXiv, 2403.17031`, [arxiv](http://arxiv.org/abs/2403.17031v1), [pdf](http://arxiv.org/pdf/2403.17031v1.pdf), cication: [**-1**](None)
+
+	 *Shengyi Huang, Michael Noukhovitch, Arian Hosseini, Kashif Rasul, Weixun Wang, Lewis Tunstall*
 
 	 · ([summarize_from_feedback_details](https://github.com/vwxyzjn/summarize_from_feedback_details) - vwxyzjn) ![Star](https://img.shields.io/github/stars/vwxyzjn/summarize_from_feedback_details.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/blog/the_n_implementation_details_of_rlhf_with_ppo)) · ([twitter](https://twitter.com/vwxyzjn/status/1773011925666050313))
 - **PERL: Parameter Efficient Reinforcement Learning from Human Feedback**, `arXiv, 2403.10704`, [arxiv](http://arxiv.org/abs/2403.10704v1), [pdf](http://arxiv.org/pdf/2403.10704v1.pdf), cication: [**-1**](None)
