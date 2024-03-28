@@ -186,9 +186,9 @@
 	 *Timo Kaufmann, Paul Weng, Viktor Bengs, Eyke Hüllermeier*
 
 ## Papers
-- [**reward-bench**](https://github.com/allenai/reward-bench?tab=readme-ov-file) - allenai ![Star](https://img.shields.io/github/stars/allenai/reward-bench.svg?style=social&label=Star)
+- [[2403.17031] The N+ Implementation Details of RLHF with PPO: A Case Study on TL;DR Summarization](https://arxiv.org/abs/2403.17031)
 
-	 *RewardBench: the first evaluation tool for reward models.* · ([huggingface](https://huggingface.co/spaces/allenai/reward-bench)) · ([twitter](https://twitter.com/natolambert/status/1770488846360428782))
+	 · ([summarize_from_feedback_details](https://github.com/vwxyzjn/summarize_from_feedback_details) - vwxyzjn) ![Star](https://img.shields.io/github/stars/vwxyzjn/summarize_from_feedback_details.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/blog/the_n_implementation_details_of_rlhf_with_ppo)) · ([twitter](https://twitter.com/vwxyzjn/status/1773011925666050313))
 - **PERL: Parameter Efficient Reinforcement Learning from Human Feedback**, `arXiv, 2403.10704`, [arxiv](http://arxiv.org/abs/2403.10704v1), [pdf](http://arxiv.org/pdf/2403.10704v1.pdf), cication: [**-1**](None)
 
 	 *Hakim Sidahmed, Samrat Phatale, Alex Hutcheson, Zhuonan Lin, Zhang Chen, Zac Yu, Jarvis Jin, Roman Komarytsia, Christiane Ahlheim, Yonghao Zhu*
@@ -389,6 +389,9 @@
 
 	 *Yuntao Bai, Andy Jones, Kamal Ndousse, Amanda Askell, Anna Chen, Nova DasSarma, Dawn Drain, Stanislav Fort, Deep Ganguli, Tom Henighan* · ([hh-rlhf](https://github.com/anthropics/hh-rlhf) - anthropics) ![Star](https://img.shields.io/github/stars/anthropics/hh-rlhf.svg?style=social&label=Star)
 ## Projects
+- [**reward-bench**](https://github.com/allenai/reward-bench?tab=readme-ov-file) - allenai ![Star](https://img.shields.io/github/stars/allenai/reward-bench.svg?style=social&label=Star)
+
+	 *RewardBench: the first evaluation tool for reward models.* · ([huggingface](https://huggingface.co/spaces/allenai/reward-bench)) · ([twitter](https://twitter.com/natolambert/status/1770488846360428782))
 - [**PairRM**](https://huggingface.co/llm-blender/PairRM) - llm-blender 🤗
 - [**OpenRLHF**](https://github.com/OpenLLMAI/OpenRLHF) - OpenLLMAI ![Star](https://img.shields.io/github/stars/OpenLLMAI/OpenRLHF.svg?style=social&label=Star)
 
@@ -402,6 +405,7 @@
 - [**tril**](https://github.com/cornell-rl/tril) - cornell-rl ![Star](https://img.shields.io/github/stars/cornell-rl/tril.svg?style=social&label=Star)
 
 ## Other
+- [Alignment Guidebook](https://www.notion.so/Alignment-Guidebook-e5c64df77c0a4b528b7951e87337fa78)
 - [Constitutional AI with Open LLMs](https://huggingface.co/blog/constitutional_ai)
 - [Preference Tuning LLMs with Direct Preference Optimization Methods](https://huggingface.co/blog/pref-tuning)
 

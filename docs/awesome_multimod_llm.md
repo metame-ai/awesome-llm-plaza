@@ -27,6 +27,12 @@
 
 ## Vision
 ### Vision Encoder
+- **ViTAR: Vision Transformer with Any Resolution**, `arXiv, 2403.18361`, [arxiv](http://arxiv.org/abs/2403.18361v1), [pdf](http://arxiv.org/pdf/2403.18361v1.pdf), cication: [**-1**](None)
+
+	 *Qihang Fan, Quanzeng You, Xiaotian Han, Yongfei Liu, Yunzhe Tao, Huaibo Huang, Ran He, Hongxia Yang*
+- **EfficientVMamba: Atrous Selective Scan for Light Weight Visual Mamba**, `arXiv, 2403.09977`, [arxiv](http://arxiv.org/abs/2403.09977v1), [pdf](http://arxiv.org/pdf/2403.09977v1.pdf), cication: [**-1**](None)
+
+	 *Xiaohuan Pei, Tao Huang, Chang Xu* · ([EfficientVMamba](https://github.com/TerryPei/EfficientVMamba) - TerryPei) ![Star](https://img.shields.io/github/stars/TerryPei/EfficientVMamba.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&mid=2247556253&idx=3&sn=618d4eb61d5fc8b24f9e71931d44c1a8&poc_token=HHjeBGajQSQY6cy7jA_4js-7G5qkkI1EMpYFlg56))
 - **SiMBA: Simplified Mamba-Based Architecture for Vision and Multivariate
   Time series**, `arXiv, 2403.15360`, [arxiv](http://arxiv.org/abs/2403.15360v1), [pdf](http://arxiv.org/pdf/2403.15360v1.pdf), cication: [**-1**](None)
 
@@ -45,6 +51,10 @@
 	 *Code for paper LocalMamba: Visual State Space Model with Windowed Selective Scan*
 
 ### Video
+- **An Image Grid Can Be Worth a Video: Zero-shot Video Question Answering
+  Using a VLM**, `arXiv, 2403.18406`, [arxiv](http://arxiv.org/abs/2403.18406v1), [pdf](http://arxiv.org/pdf/2403.18406v1.pdf), cication: [**-1**](None)
+
+	 *Wonkyun Kim, Changin Choi, Wonseok Lee, Wonjong Rhee* · ([IG-VLM](https://github.com/imagegridworth/IG-VLM) - imagegridworth) ![Star](https://img.shields.io/github/stars/imagegridworth/IG-VLM.svg?style=social&label=Star)
 - **VidLA: Video-Language Alignment at Scale**, `arXiv, 2403.14870`, [arxiv](http://arxiv.org/abs/2403.14870v1), [pdf](http://arxiv.org/pdf/2403.14870v1.pdf), cication: [**-1**](None)
 
 	 *Mamshad Nayeem Rizve, Fan Fei, Jayakrishnan Unnikrishnan, Son Tran, Benjamin Z. Yao, Belinda Zeng, Mubarak Shah, Trishul Chilimbi*
@@ -148,6 +158,10 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
+- **Mini-Gemini: Mining the Potential of Multi-modality Vision Language
+  Models**, `arXiv, 2403.18814`, [arxiv](http://arxiv.org/abs/2403.18814v1), [pdf](http://arxiv.org/pdf/2403.18814v1.pdf), cication: [**-1**](None)
+
+	 *Yanwei Li, Yuechen Zhang, Chengyao Wang, Zhisheng Zhong, Yixin Chen, Ruihang Chu, Shaoteng Liu, Jiaya Jia* · ([MiniGemini](https://github.com/dvlab-research/MiniGemini) - dvlab-research) ![Star](https://img.shields.io/github/stars/dvlab-research/MiniGemini.svg?style=social&label=Star)
 - **MyVLM: Personalizing VLMs for User-Specific Queries**, `arXiv, 2403.14599`, [arxiv](http://arxiv.org/abs/2403.14599v1), [pdf](http://arxiv.org/pdf/2403.14599v1.pdf), cication: [**-1**](None)
 
 	 *Yuval Alaluf, Elad Richardson, Sergey Tulyakov, Kfir Aberman, Daniel Cohen-Or*

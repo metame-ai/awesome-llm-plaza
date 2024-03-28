@@ -28,6 +28,9 @@
 	 *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang*
 
 ## Papers
+- **Long-form factuality in large language models**, `arXiv, 2403.18802`, [arxiv](http://arxiv.org/abs/2403.18802v1), [pdf](http://arxiv.org/pdf/2403.18802v1.pdf), cication: [**-1**](None)
+
+	 *Jerry Wei, Chengrun Yang, Xinying Song, Yifeng Lu, Nathan Hu, Dustin Tran, Daiyi Peng, Ruibo Liu, Da Huang, Cosmo Du* · ([long-form-factuality](https://github.com/google-deepmind/long-form-factuality) - google-deepmind) ![Star](https://img.shields.io/github/stars/google-deepmind/long-form-factuality.svg?style=social&label=Star)
 - **A comparison of Human, GPT-3.5, and GPT-4 Performance in a
   University-Level Coding Course**, `arXiv, 2403.16977`, [arxiv](http://arxiv.org/abs/2403.16977v1), [pdf](http://arxiv.org/pdf/2403.16977v1.pdf), cication: [**-1**](None)
 

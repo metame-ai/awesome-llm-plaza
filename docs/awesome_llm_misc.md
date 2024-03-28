@@ -678,6 +678,9 @@
 - [Eye on AI - YouTube](https://www.youtube.com/@eyeonai3425/podcasts)
 
 ## Extra reference
+- [**Awesome-Mamba-Papers**](https://github.com/yyyujintang/Awesome-Mamba-Papers) - yyyujintang ![Star](https://img.shields.io/github/stars/yyyujintang/Awesome-Mamba-Papers.svg?style=social&label=Star)
+
+	 *Awesome Papers related to Mamba.*
 - [**awesome-generative-ai-guide**](https://github.com/aishwaryanr/awesome-generative-ai-guide) - aishwaryanr ![Star](https://img.shields.io/github/stars/aishwaryanr/awesome-generative-ai-guide.svg?style=social&label=Star)
 
 	 *A one stop repository for generative AI research updates, interview resources, notebooks and much more!*

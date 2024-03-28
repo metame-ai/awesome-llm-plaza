@@ -113,7 +113,10 @@
 - [**peS2o**](https://huggingface.co/datasets/allenai/peS2o) - allenai 🤗
 
 ### Misc
-- [**10k_prompts_ranked?row=0**](https://huggingface.co/datasets/DIBT/10k_prompts_ranked?row=0) - DIBT 🤗
+- **COIG-CQIA: Quality is All You Need for Chinese Instruction Fine-tuning**, `arXiv, 2403.18058`, [arxiv](http://arxiv.org/abs/2403.18058v1), [pdf](http://arxiv.org/pdf/2403.18058v1.pdf), cication: [**-1**](None)
+
+	 *Yuelin Bai, Xinrun Du, Yiming Liang, Yonggang Jin, Ziqiang Liu, Junting Zhou, Tianyu Zheng, Xincheng Zhang, Nuo Ma, Zekun Wang* · ([huggingface](https://huggingface.co/datasets/m-a-p/COIG-CQIA)) · ([COIG-CQIA](https://github.com/paralym/COIG-CQIA) - paralym) ![Star](https://img.shields.io/github/stars/paralym/COIG-CQIA.svg?style=social&label=Star)
+- [**10k_prompts_ranked**](https://huggingface.co/datasets/DIBT/10k_prompts_ranked) - DIBT 🤗
 - **Aya Dataset: An Open-Access Collection for Multilingual Instruction
   Tuning**, `arXiv, 2402.06619`, [arxiv](http://arxiv.org/abs/2402.06619v1), [pdf](http://arxiv.org/pdf/2402.06619v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=8445225482174528918&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 

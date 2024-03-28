@@ -33,6 +33,9 @@
 
 
 ## Survey
+- **Large Language Models for Education: A Survey and Outlook**, `arXiv, 2403.18105`, [arxiv](http://arxiv.org/abs/2403.18105v1), [pdf](http://arxiv.org/pdf/2403.18105v1.pdf), cication: [**-1**](None)
+
+	 *Shen Wang, Tianlong Xu, Hang Li, Chaoli Zhang, Joleen Liang, Jiliang Tang, Philip S. Yu, Qingsong Wen*
 - **Leveraging Biomolecule and Natural Language through Multi-Modal
   Learning: A Survey**, `arXiv, 2403.01528`, [arxiv](http://arxiv.org/abs/2403.01528v2), [pdf](http://arxiv.org/pdf/2403.01528v2.pdf), cication: [**-1**](None)
 
@@ -218,6 +221,9 @@
 
 
 ## Medical
+- **BioMedLM: A 2.7B Parameter Language Model Trained On Biomedical Text**, `arXiv, 2403.18421`, [arxiv](http://arxiv.org/abs/2403.18421v1), [pdf](http://arxiv.org/pdf/2403.18421v1.pdf), cication: [**-1**](None)
+
+	 *Elliot Bolton, Abhinav Venigalla, Michihiro Yasunaga, David Hall, Betty Xiong, Tony Lee, Roxana Daneshjou, Jonathan Frankle, Percy Liang, Michael Carbin* · ([huggingface](https://huggingface.co/stanford-crfm/BioMedLM))
 - **A Toolbox for Surfacing Health Equity Harms and Biases in Large Language
   Models**, `arXiv, 2403.12025`, [arxiv](http://arxiv.org/abs/2403.12025v1), [pdf](http://arxiv.org/pdf/2403.12025v1.pdf), cication: [**-1**](None)
 
@@ -434,6 +440,10 @@
 	 *Chongming Gao, Wenqiang Lei, Xiangnan He, Maarten de Rijke, Tat-Seng Chua* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495345&idx=2&sn=5e3ac087c792081705dde1c2542c687a))
 
 ## Role play
+- **ChatGPT Role-play Dataset: Analysis of User Motives and Model
+  Naturalness**, `arXiv, 2403.18121`, [arxiv](http://arxiv.org/abs/2403.18121v1), [pdf](http://arxiv.org/pdf/2403.18121v1.pdf), cication: [**-1**](None)
+
+	 *Yufei Tao, Ameeta Agrawal, Judit Dombi, Tetyana Sydorenko, Jung In Lee*
 - **Human Simulacra: A Step toward the Personification of Large Language
   Models**, `arXiv, 2402.18180`, [arxiv](http://arxiv.org/abs/2402.18180v1), [pdf](http://arxiv.org/pdf/2402.18180v1.pdf), cication: [**-1**](None)
 

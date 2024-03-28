@@ -423,10 +423,11 @@
 
 	 *Tanmay Gupta, Aniruddha Kembhavi*
 
-### Other
+---
 - [Stanford CS25: V3 I Beyond LLMs: Agents, Emergent Abilities, Intermediate-Guided Reasoning, BabyLM - YouTube](https://youtu.be/ylEk1TE1uBo?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM&t=1182)
 - [Open-source LLMs as LangChain Agents](https://huggingface.co/blog/open-source-llms-as-agents)
 
+---
 - [从第一性原理看大模型Agent技术](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495233&idx=1&sn=a6f99f5ed298dc4dad8477979d0c19a8&poc_token=HARdjWWjobSAo4kfK_sgvyLGAic2WQe64y8tToVY)
 - [AI最大赛道Agent机遇全解析](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495167&idx=1&sn=f9151855988a1cc29f01cf8658c23c3f)
 - [Chat 向左，Agent 向右 - 知乎](https://zhuanlan.zhihu.com/p/662704254)
@@ -497,7 +498,7 @@
 
 	 *Wenlong Huang, Pieter Abbeel, Deepak Pathak, Igor Mordatch* · ([huangwl18.github](https://huangwl18.github.io/language-planner))
 
-### Other
+---
 - [Godmode.space](https://godmode.space/?ref=futuretools.io)
 
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652349067&idx=1&sn=99bd053f20c8821a5c821dc2e7a972dc)) · ([cognosys](https://www.cognosys.ai/)) · ([doanythingmachine](https://www.doanythingmachine.com/))
@@ -579,9 +580,12 @@
 
 	 *Wang-Chiew Tan, Yuliang Li, Pedro Rodriguez, Richard James, Xi Victoria Lin, Alon Halevy, Scott Yih*
 
-### Other
+---
 - [陈丹琦ACL学术报告来了！详解大模型「外挂」数据库7大方向3大挑战，3小时干货满满 | 量子位](https://www.qbitai.com/2023/07/67259.html)
 ## Web browsing
+- [**llm-answer-engine**](https://github.com/developersdigest/llm-answer-engine) - developersdigest ![Star](https://img.shields.io/github/stars/developersdigest/llm-answer-engine.svg?style=social&label=Star)
+
+	 *Build a Perplexity-Inspired Answer Engine Using Next.js, Groq, Mixtral, Langchain, OpenAI, Brave & Serper*
 - [**skyvern**](https://github.com/Skyvern-AI/skyvern) - Skyvern-AI ![Star](https://img.shields.io/github/stars/Skyvern-AI/skyvern.svg?style=social&label=Star)
 
 	 *Automate browser-based workflows with LLMs and Computer Vision*
@@ -642,8 +646,7 @@
 
 	 *Liang Wang, Nan Yang, Furu Wei* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495205&idx=2&sn=ac64211d4b112ca68b7562ea1e4a5a1f))
 
-### Other
-
+---
 - [GPT-4V学会用键鼠上网，人类眼睁睁看着它发帖玩游戏 | 量子位](https://www.qbitai.com/2023/11/95456.html)
 
 ## Retrieval agumented generation
@@ -835,7 +838,8 @@
 - [**contrastors**](https://github.com/nomic-ai/contrastors) - nomic-ai ![Star](https://img.shields.io/github/stars/nomic-ai/contrastors.svg?style=social&label=Star)
 
 	 *Train Models Contrastively in Pytorch* · ([huggingface](https://huggingface.co/nomic-ai/nomic-embed-text-v1)) · ([mp.weixin.qq](https://mp.weixin.qq.com/s/EMWNf9TiDwuxxkwwqsl73g))
-### Other
+
+---
 - [Introducing RAG 2.0 - Contextual AI](https://contextual.ai/introducing-rag2/)
 - [**dspy-gradio-rag**](https://github.com/diicellman/dspy-gradio-rag) - diicellman ![Star](https://img.shields.io/github/stars/diicellman/dspy-gradio-rag.svg?style=social&label=Star)
 
@@ -854,6 +858,7 @@
 - [A Cheat Sheet and Some Recipes For Building Advanced RAG | by Andrei | Jan, 2024 | LlamaIndex Blog](https://blog.llamaindex.ai/a-cheat-sheet-and-some-recipes-for-building-advanced-rag-803a9d94c41b)
 - [Build a search engine, not a vector DB](https://blog.elicit.com/search-vs-vector-db/)
 
+---
 - [4W字RAG技术总结和串讲](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495746&idx=2&sn=05772cca38b342f5fa7b683389623ba6)
 - [RAG效果评估经验](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495725&idx=2&sn=c6d2b3527041fd2742363b2e0b2d1f44&poc_token=HFaa-2WjKGGmLnBa3yZCBSXFENCcHwsqDs6M5c5Z)
 - [微调与RAG的优缺点分析](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495628&idx=2&sn=d65b3370121a1d2bd832c17218bb1090)

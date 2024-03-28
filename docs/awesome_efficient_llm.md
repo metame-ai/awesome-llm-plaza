@@ -48,6 +48,11 @@
 
 	 *Vladislav Lialin, Vijeta Deshpande, Anna Rumshisky*
 ## Efficient finetuning
+- **LISA: Layerwise Importance Sampling for Memory-Efficient Large Language
+  Model Fine-Tuning**, `arXiv, 2403.17919`, [arxiv](http://arxiv.org/abs/2403.17919v1), [pdf](http://arxiv.org/pdf/2403.17919v1.pdf), cication: [**-1**](None)
+
+	 *Rui Pan, Xiang Liu, Shizhe Diao, Renjie Pi, Jipeng Zhang, Chi Han, Tong Zhang*
+	- 
 - **Mixture-of-LoRAs: An Efficient Multitask Tuning for Large Language
   Models**, `arXiv, 2403.03432`, [arxiv](http://arxiv.org/abs/2403.03432v1), [pdf](http://arxiv.org/pdf/2403.03432v1.pdf), cication: [**-1**](None)
 

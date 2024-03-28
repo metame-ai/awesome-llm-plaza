@@ -19,6 +19,9 @@
 	 *Ziyin Zhang, Chaoyu Chen, Bingchang Liu, Cong Liao, Zi Gong, Hang Yu, Jianguo Li, Rui Wang*
 
 ## Paper
+- **Vulnerability Detection with Code Language Models: How Far Are We?**, `arXiv, 2403.18624`, [arxiv](http://arxiv.org/abs/2403.18624v1), [pdf](http://arxiv.org/pdf/2403.18624v1.pdf), cication: [**-1**](None)
+
+	 *Yangruibo Ding, Yanjun Fu, Omniyyah Ibrahim, Chawin Sitawarin, Xinyun Chen, Basel Alomair, David Wagner, Baishakhi Ray, Yizheng Chen*
 - **A comparison of Human, GPT-3.5, and GPT-4 Performance in a
   University-Level Coding Course**, `arXiv, 2403.16977`, [arxiv](http://arxiv.org/abs/2403.16977v1), [pdf](http://arxiv.org/pdf/2403.16977v1.pdf), cication: [**-1**](None)
 

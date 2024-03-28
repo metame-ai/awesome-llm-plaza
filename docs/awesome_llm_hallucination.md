@@ -101,6 +101,9 @@
 	 · ([wikichat](https://github.com/stanford-oval/wikichat?tab=readme-ov-file) - stanford-oval) ![Star](https://img.shields.io/github/stars/stanford-oval/wikichat?tab=readme-ov-file.svg?style=social&label=Star)
 
 ## Evalution
+- **Long-form factuality in large language models**, `arXiv, 2403.18802`, [arxiv](http://arxiv.org/abs/2403.18802v1), [pdf](http://arxiv.org/pdf/2403.18802v1.pdf), cication: [**-1**](None)
+
+	 *Jerry Wei, Chengrun Yang, Xinying Song, Yifeng Lu, Nathan Hu, Dustin Tran, Daiyi Peng, Ruibo Liu, Da Huang, Cosmo Du* · ([long-form-factuality](https://github.com/google-deepmind/long-form-factuality) - google-deepmind) ![Star](https://img.shields.io/github/stars/google-deepmind/long-form-factuality.svg?style=social&label=Star)
 - **TofuEval: Evaluating Hallucinations of LLMs on Topic-Focused Dialogue
   Summarization**, `arXiv, 2402.13249`, [arxiv](http://arxiv.org/abs/2402.13249v1), [pdf](http://arxiv.org/pdf/2402.13249v1.pdf), cication: [**-1**](None)
 

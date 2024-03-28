@@ -116,6 +116,15 @@
 
 	 *Kaiyuan Gao, Sunan He, Zhenyu He, Jiacheng Lin, QiZhi Pei, Jie Shao, Wei Zhang* · ([gpt_alternatives](https://github.com/GPT-Alternatives/gpt_alternatives) - GPT-Alternatives) ![Star](https://img.shields.io/github/stars/GPT-Alternatives/gpt_alternatives.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-09-12-3))
 
+### Databricks
+- [Introducing DBRX: A New State-of-the-Art Open LLM | Databricks](https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm)
+
+	 · ([twitter](https://twitter.com/jefrankle/status/1772961586497425683)) · ([twitter](https://twitter.com/danielhanchen/status/1772981050530316467))
+- [**dbrx**](https://github.com/databricks/dbrx) - databricks ![Star](https://img.shields.io/github/stars/databricks/dbrx.svg?style=social&label=Star)
+
+	 *Code examples and resources for DBRX, a large language model developed by Databricks*
+- [**dbrx-instruct**](https://huggingface.co/databricks/dbrx-instruct) - databricks 🤗
+
 ### Gemma
 - **Gemma: Open Models Based on Gemini Research and Technology**, `arXiv, 2403.08295`, [arxiv](http://arxiv.org/abs/2403.08295v1), [pdf](http://arxiv.org/pdf/2403.08295v1.pdf), cication: [**-1**](None)
 
@@ -173,6 +182,8 @@
 	 *Inference code for Mistral and Mixtral hacked up into original Llama implementation*
 - [**DiscoLM-mixtral-8x7b-v2**](https://huggingface.co/DiscoResearch/DiscoLM-mixtral-8x7b-v2) - DiscoResearch 🤗
 - [**Mixtral-8x7B-Instruct-v0.1**](https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1) - mistralai 🤗
+
+	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI1MjQ2OTQ3Ng==&mid=2247633402&idx=2&sn=1d2952609efe41ae8fa74396de5ef4cf))
 - [**mixtral-7b-8expert**](https://huggingface.co/DiscoResearch/mixtral-7b-8expert) - DiscoResearch 🤗
 
 	 · ([huggingface](https://t.co/rFz2hhLWat))

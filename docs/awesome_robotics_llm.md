@@ -10,6 +10,10 @@
 
 
 ## Papers
+- **ShapeGrasp: Zero-Shot Task-Oriented Grasping with Large Language Models
+  through Geometric Decomposition**, `arXiv, 2403.18062`, [arxiv](http://arxiv.org/abs/2403.18062v1), [pdf](http://arxiv.org/pdf/2403.18062v1.pdf), cication: [**-1**](None)
+
+	 *Samuel Li, Sarthak Bhagat, Joseph Campbell, Yaqi Xie, Woojun Kim, Katia Sycara, Simon Stepputtis* · ([shapegrasp.github](https://shapegrasp.github.io/))
 - **3D-VLA: A 3D Vision-Language-Action Generative World Model**, `arXiv, 2403.09631`, [arxiv](http://arxiv.org/abs/2403.09631v1), [pdf](http://arxiv.org/pdf/2403.09631v1.pdf), cication: [**-1**](None)
 
 	 *Haoyu Zhen, Xiaowen Qiu, Peihao Chen, Jincheng Yang, Xin Yan, Yilun Du, Yining Hong, Chuang Gan*
