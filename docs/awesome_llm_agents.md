@@ -579,6 +579,10 @@
 - **Reimagining Retrieval Augmented Language Models for Answering Queries**, `arXiv, 2306.01061`, [arxiv](http://arxiv.org/abs/2306.01061v1), [pdf](http://arxiv.org/pdf/2306.01061v1.pdf), cication: [**-1**](None)
 
 	 *Wang-Chiew Tan, Yuliang Li, Pedro Rodriguez, Richard James, Xi Victoria Lin, Alon Halevy, Scott Yih*
+- **TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with
+  Millions of APIs**, `arXiv, 2303.16434`, [arxiv](http://arxiv.org/abs/2303.16434v1), [pdf](http://arxiv.org/pdf/2303.16434v1.pdf), cication: [**113**](https://scholar.google.com/scholar?cites=6110768434458856967&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Yaobo Liang, Chenfei Wu, Ting Song, Wenshan Wu, Yan Xia, Yu Liu, Yang Ou, Shuai Lu, Lei Ji, Shaoguang Mao* · ([taskmatrix](http://taskmatrix.ai/))
 
 ---
 - [陈丹琦ACL学术报告来了！详解大模型「外挂」数据库7大方向3大挑战，3小时干货满满 | 量子位](https://www.qbitai.com/2023/07/67259.html)

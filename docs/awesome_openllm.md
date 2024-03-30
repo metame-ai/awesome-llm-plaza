@@ -43,6 +43,8 @@
 	 *Grok open release* · ([x](https://t.co/MX0e4ZxEFa)) · ([huggingface](https://huggingface.co/xai-org/grok-1)) · ([qbitai](https://www.qbitai.com/2024/03/128546.html))
 
 	 · ([huggingface](https://huggingface.co/hpcai-tech/grok-1)) · ([mp.weixin.qq](https://mp.weixin.qq.com/s/0ZZG50QVrTqH40CfsBTfqQ))
+
+	 · ([x](https://x.ai/blog/grok-1.5)) · ([qbitai](https://www.qbitai.com/2024/03/131680.html))
 - [**c4ai-command-r-v01**](https://huggingface.co/CohereForAI/c4ai-command-r-v01) - CohereForAI 🤗
 
 	 · ([txt.cohere](https://txt.cohere.com/command-r/))
@@ -442,6 +444,7 @@
 - [**Qwen-7B**](https://github.com/QwenLM/Qwen-7B) - QwenLM ![Star](https://img.shields.io/github/stars/QwenLM/Qwen-7B.svg?style=social&label=Star)
 
 	 *The official repo of Qwen-7B (通义千问-7B) chat & pretrained large language model proposed by Alibaba Cloud.* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494650&idx=1&sn=fbeb1cc57092931966b3e57f8733ed82)) · ([qbitai](https://www.qbitai.com/2023/09/86450.html))
+- [**Qwen1.5-MoE-A2.7B**](https://huggingface.co/Qwen/Qwen1.5-MoE-A2.7B) - Qwen 🤗
 - [**Qwen-72B-Chat-Demo**](https://huggingface.co/spaces/Qwen/Qwen-72B-Chat-Demo) - Qwen 🤗
 - [Quyen - a vilm Collection](https://huggingface.co/collections/vilm/quyen-65bc71a29fa020161bc87859)
 - [**d-Qwen1.5-0.5B?utm_source=ainews&utm_medium=email&utm_campaign=ainews-mm1-apples-first-large-multimodal-model**](https://huggingface.co/aloobun/d-Qwen1.5-0.5B?utm_source=ainews&utm_medium=email&utm_campaign=ainews-mm1-apples-first-large-multimodal-model) - aloobun 🤗

@@ -51,6 +51,9 @@
 	 *Code for paper LocalMamba: Visual State Space Model with Windowed Selective Scan*
 
 ### Video
+- **LITA: Language Instructed Temporal-Localization Assistant**, `arXiv, 2403.19046`, [arxiv](http://arxiv.org/abs/2403.19046v1), [pdf](http://arxiv.org/pdf/2403.19046v1.pdf), cication: [**-1**](None)
+
+	 *De-An Huang, Shijia Liao, Subhashree Radhakrishnan, Hongxu Yin, Pavlo Molchanov, Zhiding Yu, Jan Kautz* · ([LITA](https://github.com/NVlabs/LITA) - NVlabs) ![Star](https://img.shields.io/github/stars/NVlabs/LITA.svg?style=social&label=Star)
 - **An Image Grid Can Be Worth a Video: Zero-shot Video Question Answering
   Using a VLM**, `arXiv, 2403.18406`, [arxiv](http://arxiv.org/abs/2403.18406v1), [pdf](http://arxiv.org/pdf/2403.18406v1.pdf), cication: [**-1**](None)
 
@@ -987,6 +990,10 @@
 
 	 *Mingsheng Li, Xin Chen, Chi Zhang, Sijin Chen, Hongyuan Zhu, Fukun Yin, Gang Yu, Tao Chen*
 ## Projects
+- 
+- [**uform**](https://github.com/unum-cloud/uform) - unum-cloud ![Star](https://img.shields.io/github/stars/unum-cloud/uform.svg?style=social&label=Star)
+
+	 *Pocket-Sized Multimodal AI for content understanding and generation across multilingual texts, images, and 🔜 video, up to 5x faster than OpenAI CLIP and LLaVA 🖼️ & 🖋️* · ([unum-cloud.github](https://unum-cloud.github.io/uform/))
 - [**DeepSeek-VL**](https://github.com/deepseek-ai/DeepSeek-VL) - deepseek-ai ![Star](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-VL.svg?style=social&label=Star)
 
 	 *DeepSeek-VL: Towards Real-World Vision-Language Understanding* · ([huggingface](https://huggingface.co/spaces/deepseek-ai/DeepSeek-VL-7B))

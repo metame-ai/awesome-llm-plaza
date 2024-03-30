@@ -186,6 +186,9 @@
 	 *Timo Kaufmann, Paul Weng, Viktor Bengs, Eyke Hüllermeier*
 
 ## Papers
+- **sDPO: Don't Use Your Data All at Once**, `arXiv, 2403.19270`, [arxiv](http://arxiv.org/abs/2403.19270v1), [pdf](http://arxiv.org/pdf/2403.19270v1.pdf), cication: [**-1**](None)
+
+	 *Dahyun Kim, Yungi Kim, Wonho Song, Hyeonwoo Kim, Yunsu Kim, Sanghoon Kim, Chanjun Park*
 - **The N+ Implementation Details of RLHF with PPO: A Case Study on TL;DR
   Summarization**, `arXiv, 2403.17031`, [arxiv](http://arxiv.org/abs/2403.17031v1), [pdf](http://arxiv.org/pdf/2403.17031v1.pdf), cication: [**-1**](None)
 

@@ -54,6 +54,10 @@
 - [Navigating the Jagged Technological Frontier: Field Experimental Evidence of the Effects of AI on Knowledge Worker Productivity and Quality](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4573321)
 
 ## Toolkits
+- [**llama_index**](https://github.com/run-llama/llama_index) - run-llama ![Star](https://img.shields.io/github/stars/run-llama/llama_index.svg?style=social&label=Star)
+
+	 *LlamaIndex is a data framework for your LLM applications*
+- [**chatlabs**](https://github.com/writingmate/chatlabs) - writingmate ![Star](https://img.shields.io/github/stars/writingmate/chatlabs.svg?style=social&label=Star)
 - [**llamafile**](https://github.com/Mozilla-Ocho/llamafile) - Mozilla-Ocho ![Star](https://img.shields.io/github/stars/Mozilla-Ocho/llamafile.svg?style=social&label=Star)
 
 	 *Distribute and run LLMs with a single file.*
@@ -372,6 +376,9 @@
 - [首个大模型教育产品开箱："最聪明"国产大模型加持的学习机，质变了吗 | 量子位](https://www.qbitai.com/2023/08/79632.html)
 
 ## Text Related
+- [**langchain-extract**](https://github.com/langchain-ai/langchain-extract) - langchain-ai ![Star](https://img.shields.io/github/stars/langchain-ai/langchain-extract.svg?style=social&label=Star)
+
+	 *🦜⛏️ Did you say you like data?*
 - **TnT-LLM: Text Mining at Scale with Large Language Models**, `arXiv, 2403.12173`, [arxiv](http://arxiv.org/abs/2403.12173v1), [pdf](http://arxiv.org/pdf/2403.12173v1.pdf), cication: [**-1**](None)
 
 	 *Mengting Wan, Tara Safavi, Sujay Kumar Jauhar, Yujin Kim, Scott Counts, Jennifer Neville, Siddharth Suri, Chirag Shah, Ryen W White, Longqi Yang*

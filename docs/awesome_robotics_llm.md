@@ -289,6 +289,7 @@
 
 	 *Ilija Radosavovic, Bike Zhang, Baifeng Shi, Jathushan Rajasegaran, Sarthak Kamat, Trevor Darrell, Koushil Sreenath, Jitendra Malik* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652460909&idx=4&sn=35870451c2c9c90bbbfc7be2bebe75d5))
 ### Demos
+- [**low_cost_robot**](https://github.com/AlexanderKoch-Koch/low_cost_robot) - AlexanderKoch-Koch ![Star](https://img.shields.io/github/stars/AlexanderKoch-Koch/low_cost_robot.svg?style=social&label=Star)
 - [twitter.com/\_akhaliq/status/1770108427735314813](https://twitter.com/_akhaliq/status/1770108427735314813)
 - [Barsee 🐶 on X: "This year is going to be the year of robotics 🤖 UC San Diego introduces Expressive Humanoid. Now robots can easily perform rich, diverse, and expressive motions in the real world. A THREAD: 👇🧵 https://t.co/sHlVnoOjhL" / X](https://twitter.com/heyBarsee/status/1770110514045104460)
 

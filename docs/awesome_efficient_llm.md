@@ -399,6 +399,9 @@
 - [**wanda**](https://github.com/locuslab/wanda) - locuslab ![Star](https://img.shields.io/github/stars/locuslab/wanda.svg?style=social&label=Star)
 
 	 *A simple and effective LLM pruning approach.*
+- **ResiDual: Transformer with Dual Residual Connections**, `arXiv, 2304.14802`, [arxiv](http://arxiv.org/abs/2304.14802v1), [pdf](http://arxiv.org/pdf/2304.14802v1.pdf), cication: [**7**](https://scholar.google.com/scholar?cites=13454570814273304026&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Shufang Xie, Huishuai Zhang, Junliang Guo, Xu Tan, Jiang Bian, Hany Hassan Awadalla, Arul Menezes, Tao Qin, Rui Yan* · ([ResiDual](https://github.com/microsoft/ResiDual) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/ResiDual.svg?style=social&label=Star)
 
 ## Efficient Inference
 - **DistServe: Disaggregating Prefill and Decoding for Goodput-optimized

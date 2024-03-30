@@ -264,6 +264,9 @@
 	 *Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers*
 
 ## State Space Model
+- [Introducing Jamba: AI21's Groundbreaking SSM-Transformer Model](https://www.ai21.com/blog/announcing-jamba)
+
+	 · ([huggingface](https://huggingface.co/ai21labs/Jamba-v0.1))
 - **VideoMamba: State Space Model for Efficient Video Understanding**, `arXiv, 2403.06977`, [arxiv](http://arxiv.org/abs/2403.06977v2), [pdf](http://arxiv.org/pdf/2403.06977v2.pdf), cication: [**-1**](None)
 
 	 *Kunchang Li, Xinhao Li, Yi Wang, Yinan He, Yali Wang, Limin Wang, Yu Qiao* · ([VideoMamba](https://github.com/OpenGVLab/VideoMamba) - OpenGVLab) ![Star](https://img.shields.io/github/stars/OpenGVLab/VideoMamba.svg?style=social&label=Star)
@@ -668,6 +671,9 @@
 	 · ([youtu](https://youtu.be/nOxKexn3iBo))
 
 ### Videos
+- [Unsupervised Learning: Redpoint's AI Podcast - YouTube](https://www.youtube.com/@RedpointAI)
+
+	 · ([youtube](https://www.youtube.com/watch?v=_N2KPEdh69s&ab_channel=UnsupervisedLearning%3ARedpoint%27sAIPodcast))
 - [Sequoia Capital - YouTube](https://www.youtube.com/@sequoiacapital/podcasts)
 - [Making AI accessible with Andrej Karpathy and Stephanie Zhan - YouTube](https://www.youtube.com/watch?v=c3b-JASoPi0&list=PLOhHNjZItNnOoPxOF3dmq30UxYqFuxXKn&index=4&ab_channel=SequoiaCapital)
 
