@@ -242,6 +242,10 @@
 - **WARM: On the Benefits of Weight Averaged Reward Models**, `arXiv, 2401.12187`, [arxiv](http://arxiv.org/abs/2401.12187v1), [pdf](http://arxiv.org/pdf/2401.12187v1.pdf), cication: [**-1**](None)
 
 	 *Alexandre Ramé, Nino Vieillard, Léonard Hussenot, Robert Dadashi, Geoffrey Cideron, Olivier Bachem, Johan Ferret*
+- **A Mechanistic Understanding of Alignment Algorithms: A Case Study on DPO
+  and Toxicity**, `arXiv, 2401.01967`, [arxiv](http://arxiv.org/abs/2401.01967v1), [pdf](http://arxiv.org/pdf/2401.01967v1.pdf), cication: [**11**](https://scholar.google.com/scholar?cites=6168801330158049880&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Andrew Lee, Xiaoyan Bai, Itamar Pres, Martin Wattenberg, Jonathan K. Kummerfeld, Rada Mihalcea*
 - **ReFT: Reasoning with Reinforced Fine-Tuning**, `arXiv, 2401.08967`, [arxiv](http://arxiv.org/abs/2401.08967v1), [pdf](http://arxiv.org/pdf/2401.08967v1.pdf), cication: [**-1**](None)
 
 	 *Trung Quoc Luong, Xinbo Zhang, Zhanming Jie, Peng Sun, Xiaoran Jin, Hang Li*
@@ -426,6 +430,7 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652379509&idx=5&sn=910a60449c276ac9d0f29b8f71a60327))
 - [ICML '23 Tutorial on Reinforcement Learning from Human Feedback](https://docs.google.com/presentation/d/1b_ymNDU0WRQ1-rcQDK45_bH9F0giNyRmdi0iKso6G5E/edit#slide=id.g259dff58475_0_44)
 
+- [大模型对齐阶段的Scaling Laws](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495763&idx=1&sn=1fd3e1a70e188dcab7e480cc153e32ff)
 - [RLHF中Reward model的trick](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495465&idx=1&sn=b0690e841f36d154024c0f6a9e922daf)
 - [怎样让 PPO 训练更稳定？早期人类征服 RLHF 的驯化经验](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495219&idx=2&sn=bcd6cf222963493fed29fd44838b5aa2)
 - [RLHF实践 - 知乎](https://zhuanlan.zhihu.com/p/635569455)

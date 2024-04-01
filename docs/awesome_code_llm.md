@@ -19,6 +19,9 @@
 	 *Ziyin Zhang, Chaoyu Chen, Bingchang Liu, Cong Liao, Zi Gong, Hang Yu, Jianguo Li, Rui Wang*
 
 ## Paper
+- **DevBench: A Comprehensive Benchmark for Software Development**, `arXiv, 2403.08604`, [arxiv](http://arxiv.org/abs/2403.08604v2), [pdf](http://arxiv.org/pdf/2403.08604v2.pdf), cication: [**-1**](None)
+
+	 *Bowen Li, Wenhan Wu, Ziwei Tang, Lin Shi, John Yang, Jinyang Li, Shunyu Yao, Chen Qian, Binyuan Hui, Qicheng Zhang* · ([devBench](https://github.com/open-compass/devBench/) - open-compass) ![Star](https://img.shields.io/github/stars/open-compass/devBench.svg?style=social&label=Star) · ([qbitai](https://www.qbitai.com/2024/03/132007.html))
 - **Vulnerability Detection with Code Language Models: How Far Are We?**, `arXiv, 2403.18624`, [arxiv](http://arxiv.org/abs/2403.18624v1), [pdf](http://arxiv.org/pdf/2403.18624v1.pdf), cication: [**-1**](None)
 
 	 *Yangruibo Ding, Yanjun Fu, Omniyyah Ibrahim, Chawin Sitawarin, Xinyun Chen, Basel Alomair, David Wagner, Baishakhi Ray, Yizheng Chen*

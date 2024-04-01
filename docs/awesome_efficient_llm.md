@@ -48,6 +48,9 @@
 
 	 *Vladislav Lialin, Vijeta Deshpande, Anna Rumshisky*
 ## Efficient finetuning
+- **DiJiang: Efficient Large Language Models through Compact Kernelization**, `arXiv, 2403.19928`, [arxiv](http://arxiv.org/abs/2403.19928v1), [pdf](http://arxiv.org/pdf/2403.19928v1.pdf), cication: [**-1**](None)
+
+	 *Hanting Chen, Zhicheng Liu, Xutao Wang, Yuchuan Tian, Yunhe Wang* · ([DiJiang](https://github.com/YuchuanTian/DiJiang) - YuchuanTian) ![Star](https://img.shields.io/github/stars/YuchuanTian/DiJiang.svg?style=social&label=Star)
 - **LISA: Layerwise Importance Sampling for Memory-Efficient Large Language
   Model Fine-Tuning**, `arXiv, 2403.17919`, [arxiv](http://arxiv.org/abs/2403.17919v1), [pdf](http://arxiv.org/pdf/2403.17919v1.pdf), cication: [**-1**](None)
 
@@ -180,6 +183,8 @@
 	 *Shuming Ma, Hongyu Wang, Lingxiao Ma, Lei Wang, Wenhui Wang, Shaohan Huang, Li Dong, Ruiping Wang, Jilong Xue, Furu Wei*
 
 	 · ([unilm](https://github.com/microsoft/unilm/blob/master/bitnet/The-Era-of-1-bit-LLMs__Training_Tips_Code_FAQ.pdf) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/unilm.svg?style=social&label=Star) · ([unilm](https://github.com/microsoft/unilm/tree/master/bitnet) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/unilm.svg?style=social&label=Star)
+	 - [NousResearch/OLMo-Bitnet-1B · Hugging Face](https://huggingface.co/NousResearch/OLMo-Bitnet-1B)
+	 - [1bitLLM/bitnet\_b1\_58-3B · Hugging Face](https://huggingface.co/1bitLLM/bitnet_b1_58-3B)
 - **GPTVQ: The Blessing of Dimensionality for LLM Quantization**, `arXiv, 2402.15319`, [arxiv](http://arxiv.org/abs/2402.15319v1), [pdf](http://arxiv.org/pdf/2402.15319v1.pdf), cication: [**-1**](None)
 
 	 *Mart van Baalen, Andrey Kuzmin, Markus Nagel, Peter Couperus, Cedric Bastoul, Eric Mahurin, Tijmen Blankevoort, Paul Whatmough*
@@ -289,6 +294,9 @@
 	 · ([bitsandbytes](https://github.com/timdettmers/bitsandbytes) - timdettmers) ![Star](https://img.shields.io/github/stars/timdettmers/bitsandbytes.svg?style=social&label=Star)
 
 ### Projects
+- [**QLLM**](https://github.com/wejoncy/QLLM) - wejoncy ![Star](https://img.shields.io/github/stars/wejoncy/QLLM.svg?style=social&label=Star)
+
+	 *A general 2-8 bits quantization toolbox with GPTQ/AWQ/HQQ, and export to onnx/onnx-runtime easily.*
 - [**hqq**](https://github.com/mobiusml/hqq) - mobiusml ![Star](https://img.shields.io/github/stars/mobiusml/hqq.svg?style=social&label=Star)
 
 	 *Official implementation of Half-Quadratic Quantization (HQQ)* · ([mobiusml.github](https://mobiusml.github.io/hqq_blog/))
@@ -651,6 +659,10 @@
 - [研究完llama.cpp，我发现手机跑大模型竟这么简单 | 机器之心](https://www.jiqizhixin.com/articles/2023-08-17-8)
 
 ## Mobile
+- **Transformer-Lite: High-efficiency Deployment of Large Language Models on
+  Mobile Phone GPUs**, `arXiv, 2403.20041`, [arxiv](http://arxiv.org/abs/2403.20041v1), [pdf](http://arxiv.org/pdf/2403.20041v1.pdf), cication: [**-1**](None)
+
+	 *Luchang Li, Sheng Qian, Jie Lu, Lunxi Yuan, Rui Wang, Qin Xie*
 - **MobiLlama: Towards Accurate and Lightweight Fully Transparent GPT**, `arXiv, 2402.16840`, [arxiv](http://arxiv.org/abs/2402.16840v1), [pdf](http://arxiv.org/pdf/2402.16840v1.pdf), cication: [**-1**](None)
 
 	 *Omkar Thawakar, Ashmal Vayani, Salman Khan, Hisham Cholakal, Rao M. Anwer, Michael Felsberg, Tim Baldwin, Eric P. Xing, Fahad Shahbaz Khan*

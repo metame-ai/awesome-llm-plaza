@@ -21,6 +21,10 @@
 
 
 ## Pretrain
+- **Mitigating Reversal Curse in Large Language Models via Semantic-aware
+  Permutation Training**, `arXiv, 2403.00758`, [arxiv](http://arxiv.org/abs/2403.00758v3), [pdf](http://arxiv.org/pdf/2403.00758v3.pdf), cication: [**-1**](None)
+
+	 *Qingyan Guo, Rui Wang, Junliang Guo, Xu Tan, Jiang Bian, Yujiu Yang*
 - **Reverse Training to Nurse the Reversal Curse**, `arXiv, 2403.13799`, [arxiv](http://arxiv.org/abs/2403.13799v1), [pdf](http://arxiv.org/pdf/2403.13799v1.pdf), cication: [**-1**](None)
 
 	 *Olga Golovneva, Zeyuan Allen-Zhu, Jason Weston, Sainbayar Sukhbaatar*
@@ -292,6 +296,9 @@
   Trillion-Parameters LLM**, `arXiv, 2401.02994`, [arxiv](http://arxiv.org/abs/2401.02994v1), [pdf](http://arxiv.org/pdf/2401.02994v1.pdf), cication: [**-1**](None)
 
 	 *Xiaoding Lu, Adian Liusie, Vyas Raina, Yuwen Zhang, William Beauchamp*
+- **LLM Augmented LLMs: Expanding Capabilities through Composition**, `arXiv, 2401.02412`, [arxiv](http://arxiv.org/abs/2401.02412v1), [pdf](http://arxiv.org/pdf/2401.02412v1.pdf), cication: [**8**](https://scholar.google.com/scholar?cites=3668029210306898471&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Rachit Bansal, Bidisha Samanta, Siddharth Dalmia, Nitish Gupta, Shikhar Vashishth, Sriram Ganapathy, Abhishek Bapna, Prateek Jain, Partha Talukdar*
 - [Model Merging - a osanseviero Collection](https://huggingface.co/collections/osanseviero/model-merging-65097893623330a3a51ead66)
 - [Papers about model merging - a julien-c Collection](https://huggingface.co/collections/julien-c/papers-about-model-merging-659596e6fa54621c41cd60b1)
 - [**mergekit**](https://github.com/cg123/mergekit) - cg123 ![Star](https://img.shields.io/github/stars/cg123/mergekit.svg?style=social&label=Star)
@@ -314,10 +321,13 @@
 	 *Dongfu Jiang, Xiang Ren, Bill Yuchen Lin* · ([LLM-Blender](https://github.com/yuchenlin/LLM-Blender) - yuchenlin) ![Star](https://img.shields.io/github/stars/yuchenlin/LLM-Blender.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652343982&idx=4&sn=ce5c51039d91531178257024d883db90))
 
 ### Other
+[Model merging lessons in The Waifu Research Department](https://www.interconnects.ai/p/model-merging)
+- [Site Unreachable](https://huggingface.co/collections/osanseviero/model-merging-65097893623330a3a51ead66)
 - [🤗 PEFT welcomes new merging methods](https://huggingface.co/blog/peft_merging)
 - [Weight averaging and model merging for LLMs seem to be the most interesting themes in 2024 so far. ](https://twitter.com/rasbt/status/1750180383398744106)
 
 ## MoE
+- [**megablocks**](https://github.com/databricks/megablocks) - databricks ![Star](https://img.shields.io/github/stars/databricks/megablocks.svg?style=social&label=Star)
 - **Scattered Mixture-of-Experts Implementation**, `arXiv, 2403.08245`, [arxiv](http://arxiv.org/abs/2403.08245v1), [pdf](http://arxiv.org/pdf/2403.08245v1.pdf), cication: [**-1**](None)
 
 	 *Shawn Tan, Yikang Shen, Rameswar Panda, Aaron Courville*
@@ -399,6 +409,7 @@
 	 *Noam Shazeer, Azalia Mirhoseini, Krzysztof Maziarz, Andy Davis, Quoc Le, Geoffrey Hinton, Jeff Dean*
 
 ### Other
+- [a mini-tutorial on three types of Mixture of Experts (MoE): Pre-trained MoE, upcycled MoEs, and FrankenMoEs](https://twitter.com/osanseviero/status/1773360705682411750?utm_source=ainews&utm_medium=email&utm_campaign=ainews-evals-based-ai-engineering)
 - [**makeMoE**](https://github.com/AviSoori1x/makeMoE/tree/main) - AviSoori1x ![Star](https://img.shields.io/github/stars/AviSoori1x/makeMoE.svg?style=social&label=Star)
 
 	 *From scratch implementation of a sparse mixture of experts language model inspired by Andrej Karpathy's makemore :)* · ([huggingface](https://huggingface.co/blog/AviSoori1x/makemoe-from-scratch)) · ([qbitai](https://www.qbitai.com/2024/01/117335.html))

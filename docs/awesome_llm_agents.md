@@ -827,6 +827,9 @@
 	 *Interact privately with your documents using the power of GPT, 100% privately, no data leaks*
 
 ### Embedding
+- **Gecko: Versatile Text Embeddings Distilled from Large Language Models**, `arXiv, 2403.20327`, [arxiv](http://arxiv.org/abs/2403.20327v1), [pdf](http://arxiv.org/pdf/2403.20327v1.pdf), cication: [**-1**](None)
+
+	 *Jinhyuk Lee, Zhuyun Dai, Xiaoqi Ren, Blair Chen, Daniel Cer, Jeremy R. Cole, Kai Hui, Michael Boratko, Rajvi Kapadia, Wen Ding*
 - [**FlagEmbedding**](https://github.com/FlagOpen/FlagEmbedding) - FlagOpen ![Star](https://img.shields.io/github/stars/FlagOpen/FlagEmbedding.svg?style=social&label=Star)
 
 	 *Retrieval and Retrieval-augmented LLMs* · ([huggingface](https://huggingface.co/BAAI/bge-base-en-v1.5))
@@ -844,6 +847,7 @@
 	 *Train Models Contrastively in Pytorch* · ([huggingface](https://huggingface.co/nomic-ai/nomic-embed-text-v1)) · ([mp.weixin.qq](https://mp.weixin.qq.com/s/EMWNf9TiDwuxxkwwqsl73g))
 
 ---
+- [Fetching Title#oov1](https://pathway.com/developers/showcases/adaptive-rag)
 - [Introducing RAG 2.0 - Contextual AI](https://contextual.ai/introducing-rag2/)
 - [**dspy-gradio-rag**](https://github.com/diicellman/dspy-gradio-rag) - diicellman ![Star](https://img.shields.io/github/stars/diicellman/dspy-gradio-rag.svg?style=social&label=Star)
 

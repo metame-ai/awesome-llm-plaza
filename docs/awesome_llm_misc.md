@@ -264,8 +264,13 @@
 	 *Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers*
 
 ## State Space Model
-- [Introducing Jamba: AI21's Groundbreaking SSM-Transformer Model](https://www.ai21.com/blog/announcing-jamba)
+- **MambaMixer: Efficient Selective State Space Models with Dual Token and
+  Channel Selection**, `arXiv, 2403.19888`, [arxiv](http://arxiv.org/abs/2403.19888v1), [pdf](http://arxiv.org/pdf/2403.19888v1.pdf), cication: [**-1**](None)
 
+	 *Ali Behrouz, Michele Santacatterina, Ramin Zabih*
+- **Jamba: A Hybrid Transformer-Mamba Language Model**, `arXiv, 2403.19887`, [arxiv](http://arxiv.org/abs/2403.19887v1), [pdf](http://arxiv.org/pdf/2403.19887v1.pdf), cication: [**-1**](None)
+
+	 *Opher Lieber, Barak Lenz, Hofit Bata, Gal Cohen, Jhonathan Osin, Itay Dalmedigos, Erez Safahi, Shaked Meirom, Yonatan Belinkov, Shai Shalev-Shwartz* · ([ai21](https://www.ai21.com/blog/announcing-jamba))
 	 · ([huggingface](https://huggingface.co/ai21labs/Jamba-v0.1))
 - **VideoMamba: State Space Model for Efficient Video Understanding**, `arXiv, 2403.06977`, [arxiv](http://arxiv.org/abs/2403.06977v2), [pdf](http://arxiv.org/pdf/2403.06977v2.pdf), cication: [**-1**](None)
 
@@ -300,6 +305,7 @@
 	 *Albert Gu, Tri Dao* · ([mamba](https://github.com/state-spaces/mamba) - state-spaces) ![Star](https://img.shields.io/github/stars/state-spaces/mamba.svg?style=social&label=Star)
 
 ---
+- [Mamba Explained](https://thegradient.pub/mamba-explained/)
 - [Recent Mamba Papers - a julien-c Collection](https://huggingface.co/collections/julien-c/recent-mamba-papers-6602855121032a86a5d9fab7)
 - [Mamba: Linear-Time Sequence Modeling with Selective State Spaces (Paper Explained) - YouTube](https://www.youtube.com/watch?v=9dSkvxS2EB0&ab_channel=YannicKilcher)
 
@@ -393,6 +399,10 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652345558&idx=4&sn=95686435d5cad05d44cbe02bc26d6859))
 
 ## Interpretability 
+- **Localizing Paragraph Memorization in Language Models**, `arXiv, 2403.19851`, [arxiv](http://arxiv.org/abs/2403.19851v1), [pdf](http://arxiv.org/pdf/2403.19851v1.pdf), cication: [**-1**](None)
+
+	 *Niklas Stoehr, Mitchell Gordon, Chiyuan Zhang, Owen Lewis*
+- [SAE-VIS: Announcement Post — LessWrong](https://www.lesswrong.com/posts/nAhy6ZquNY7AD3RkD/sae-vis-announcement-post-1)
 - [Circuits Updates - March 2024](https://transformer-circuits.pub/2024/march-update/index.html#external-research)
 - **pyvene: A Library for Understanding and Improving PyTorch Models via
   Interventions**, `arXiv, 2403.07809`, [arxiv](http://arxiv.org/abs/2403.07809v1), [pdf](http://arxiv.org/pdf/2403.07809v1.pdf), cication: [**-1**](None)

@@ -771,6 +771,9 @@
   AI in Stock Selection**, `arXiv, 2401.03737`, [arxiv](http://arxiv.org/abs/2401.03737v1), [pdf](http://arxiv.org/pdf/2401.03737v1.pdf), cication: [**-1**](None)
 
 	 *Georgios Fatouros, Konstantinos Metaxas, John Soldatos, Dimosthenis Kyriazis* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzIyMzk1MDE3Nw==&mid=2247624558&idx=2&sn=d0052f481ff71916b1e84f57691c1109)) · ([marketsense-ai](https://www.marketsense-ai.com/))
+- **FinanceBench: A New Benchmark for Financial Question Answering**, `arXiv, 2311.11944`, [arxiv](http://arxiv.org/abs/2311.11944v1), [pdf](http://arxiv.org/pdf/2311.11944v1.pdf), cication: [**7**](https://scholar.google.com/scholar?cites=5100628966964883710&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Pranab Islam, Anand Kannappan, Douwe Kiela, Rebecca Qian, Nino Scherrer, Bertie Vidgen* · ([huggingface](https://huggingface.co/datasets/PatronusAI/financebench))
 - **Technical Report: Large Language Models can Strategically Deceive their
   Users when Put Under Pressure**, `arXiv, 2311.07590`, [arxiv](http://arxiv.org/abs/2311.07590v1), [pdf](http://arxiv.org/pdf/2311.07590v1.pdf), cication: [**-1**](None)
 

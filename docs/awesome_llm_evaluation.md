@@ -240,6 +240,10 @@
   Modalities, Models and Tasks**, `arXiv, 2311.07463`, [arxiv](http://arxiv.org/abs/2311.07463v1), [pdf](http://arxiv.org/pdf/2311.07463v1.pdf), cication: [**-1**](None)
 
 	 *Sanchit Ahuja, Divyanshu Aggarwal, Varun Gumma, Ishaan Watts, Ashutosh Sathe, Millicent Ochieng, Rishav Hada, Prachi Jain, Maxamed Axmed, Kalika Bali*
+- **TIGERScore: Towards Building Explainable Metric for All Text Generation
+  Tasks**, `arXiv, 2310.00752`, [arxiv](http://arxiv.org/abs/2310.00752v3), [pdf](http://arxiv.org/pdf/2310.00752v3.pdf), cication: [**11**](https://scholar.google.com/scholar?cites=2304567616397319447&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Dongfu Jiang, Yishan Li, Ge Zhang, Wenhao Huang, Bill Yuchen Lin, Wenhu Chen* · ([huggingface](https://huggingface.co/spaces/TIGER-Lab/TIGERScore))
 - **Generative Judge for Evaluating Alignment**, `arXiv, 2310.05470`, [arxiv](http://arxiv.org/abs/2310.05470v1), [pdf](http://arxiv.org/pdf/2310.05470v1.pdf), cication: [**-1**](None)
 
 	 *Junlong Li, Shichao Sun, Weizhe Yuan, Run-Ze Fan, Hai Zhao, Pengfei Liu* · ([auto-j](https://github.com/GAIR-NLP/auto-j) - GAIR-NLP) ![Star](https://img.shields.io/github/stars/GAIR-NLP/auto-j.svg?style=social&label=Star) · ([gair-nlp.github](https://gair-nlp.github.io/auto-j/))
