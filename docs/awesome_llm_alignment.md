@@ -25,6 +25,7 @@
 	 *Yufei Wang, Wanjun Zhong, Liangyou Li, Fei Mi, Xingshan Zeng, Wenyong Huang, Lifeng Shang, Xin Jiang, Qun Liu* · ([AlignLLMHumanSurvey](https://github.com/GaryYufei/AlignLLMHumanSurvey) - GaryYufei) ![Star](https://img.shields.io/github/stars/GaryYufei/AlignLLMHumanSurvey.svg?style=social&label=Star)
 
 ## Paper & Projects
+
 - **Alignment Studio: Aligning Large Language Models to Particular
   Contextual Regulations**, `arXiv, 2403.09704`, [arxiv](http://arxiv.org/abs/2403.09704v1), [pdf](http://arxiv.org/pdf/2403.09704v1.pdf), cication: [**-1**](None)
 
@@ -71,9 +72,7 @@
 - [**weak-to-strong**](https://github.com/openai/weak-to-strong) - openai ![Star](https://img.shields.io/github/stars/openai/weak-to-strong.svg?style=social&label=Star)
 
 	 · ([openai](https://openai.com/research/weak-to-strong-generalization)) · ([cdn.openai](https://cdn.openai.com/papers/weak-to-strong-generalization.pdf))
-
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-12-15-5))
-
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495310&idx=1&sn=0711309c1fbf12c3baf304f19195d1d5))
 - **Alignment for Honesty**, `arXiv, 2312.07000`, [arxiv](http://arxiv.org/abs/2312.07000v1), [pdf](http://arxiv.org/pdf/2312.07000v1.pdf), cication: [**-1**](None)
 
@@ -95,6 +94,9 @@
 - **Trusted Source Alignment in Large Language Models**, `arXiv, 2311.06697`, [arxiv](http://arxiv.org/abs/2311.06697v1), [pdf](http://arxiv.org/pdf/2311.06697v1.pdf), cication: [**-1**](None)
 
 	 *Vasilisa Bashlovkina, Zhaobin Kuang, Riley Matthews, Edward Clifford, Yennie Jun, William W. Cohen, Simon Baumgartner*
+- **AlignBench: Benchmarking Chinese Alignment of Large Language Models**, `arXiv, 2311.18743`, [arxiv](http://arxiv.org/abs/2311.18743v3), [pdf](http://arxiv.org/pdf/2311.18743v3.pdf), cication: [**8**](https://scholar.google.com/scholar?cites=16582734869098555099&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Xiao Liu, Xuanyu Lei, Shengyuan Wang, Yue Huang, Zhuoer Feng, Bosi Wen, Jiale Cheng, Pei Ke, Yifan Xu, Weng Lam Tam* · ([AlignBench](https://github.com/THUDM/AlignBench) - THUDM) ![Star](https://img.shields.io/github/stars/THUDM/AlignBench.svg?style=social&label=Star)
 - **Zephyr: Direct Distillation of LM Alignment**, `arXiv, 2310.16944`, [arxiv](http://arxiv.org/abs/2310.16944v1), [pdf](http://arxiv.org/pdf/2310.16944v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=5826276281263581161&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Lewis Tunstall, Edward Beeching, Nathan Lambert, Nazneen Rajani, Kashif Rasul, Younes Belkada, Shengyi Huang, Leandro von Werra, Clémentine Fourrier, Nathan Habib* · ([alignment-handbook](https://github.com/huggingface/alignment-handbook) - huggingface) ![Star](https://img.shields.io/github/stars/huggingface/alignment-handbook.svg?style=social&label=Star)
@@ -186,6 +188,7 @@
 	 *Timo Kaufmann, Paul Weng, Viktor Bengs, Eyke Hüllermeier*
 
 ## Papers
+- [[2404.00934] ChatGLM-RLHF: Practices of Aligning Large Language Models with Human Feedback](https://arxiv.org/abs/2404.00934)
 - **sDPO: Don't Use Your Data All at Once**, `arXiv, 2403.19270`, [arxiv](http://arxiv.org/abs/2403.19270v1), [pdf](http://arxiv.org/pdf/2403.19270v1.pdf), cication: [**-1**](None)
 
 	 *Dahyun Kim, Yungi Kim, Wonho Song, Hyeonwoo Kim, Yunsu Kim, Sanghoon Kim, Chanjun Park*
@@ -415,6 +418,7 @@
 - [**tril**](https://github.com/cornell-rl/tril) - cornell-rl ![Star](https://img.shields.io/github/stars/cornell-rl/tril.svg?style=social&label=Star)
 
 ## Other
+- [History of Open Alignment](https://magnetic-share-282.notion.site/History-of-Open-Alignment-a7ef20aefb34438185336df68147809e)
 - [Alignment Guidebook](https://www.notion.so/Alignment-Guidebook-e5c64df77c0a4b528b7951e87337fa78)
 - [Constitutional AI with Open LLMs](https://huggingface.co/blog/constitutional_ai)
 - [Preference Tuning LLMs with Direct Preference Optimization Methods](https://huggingface.co/blog/pref-tuning)

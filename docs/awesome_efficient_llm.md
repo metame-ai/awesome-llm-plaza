@@ -55,7 +55,8 @@
   Model Fine-Tuning**, `arXiv, 2403.17919`, [arxiv](http://arxiv.org/abs/2403.17919v1), [pdf](http://arxiv.org/pdf/2403.17919v1.pdf), cication: [**-1**](None)
 
 	 *Rui Pan, Xiang Liu, Shizhe Diao, Renjie Pi, Jipeng Zhang, Chi Han, Tong Zhang*
-	- 
+
+	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-04-01-13)) · ([LMFlow](https://github.com/OptimalScale/LMFlow) - OptimalScale) ![Star](https://img.shields.io/github/stars/OptimalScale/LMFlow.svg?style=social&label=Star)
 - **Mixture-of-LoRAs: An Efficient Multitask Tuning for Large Language
   Models**, `arXiv, 2403.03432`, [arxiv](http://arxiv.org/abs/2403.03432v1), [pdf](http://arxiv.org/pdf/2403.03432v1.pdf), cication: [**-1**](None)
 
@@ -294,6 +295,7 @@
 	 · ([bitsandbytes](https://github.com/timdettmers/bitsandbytes) - timdettmers) ![Star](https://img.shields.io/github/stars/timdettmers/bitsandbytes.svg?style=social&label=Star)
 
 ### Projects
+- [1bitLLM (1bitLLM)](https://huggingface.co/1bitLLM?utm_source=ainews&utm_medium=email&utm_campaign=ainews-adamw-aarond)
 - [**QLLM**](https://github.com/wejoncy/QLLM) - wejoncy ![Star](https://img.shields.io/github/stars/wejoncy/QLLM.svg?style=social&label=Star)
 
 	 *A general 2-8 bits quantization toolbox with GPTQ/AWQ/HQQ, and export to onnx/onnx-runtime easily.*

@@ -38,6 +38,9 @@
 # English
 
 ## Foundation
+- [**MicroLlama**](https://github.com/keeeeenw/MicroLlama) - keeeeenw ![Star](https://img.shields.io/github/stars/keeeeenw/MicroLlama.svg?style=social&label=Star)
+
+	 *Micro Llama is a small Llama based model with 300M parameters trained from scratch with $500 budget*
 - [**grok-1**](https://github.com/xai-org/grok-1) - xai-org ![Star](https://img.shields.io/github/stars/xai-org/grok-1.svg?style=social&label=Star)
 
 	 *Grok open release* · ([x](https://t.co/MX0e4ZxEFa)) · ([huggingface](https://huggingface.co/xai-org/grok-1)) · ([qbitai](https://www.qbitai.com/2024/03/128546.html))
@@ -210,6 +213,7 @@
 - [**Nous-Hermes-2-Mixtral-8x7B-DPO-adapter**](https://huggingface.co/NousResearch/Nous-Hermes-2-Mixtral-8x7B-DPO-adapter) - NousResearch 🤗
 - [**miqu-1-70b**](https://huggingface.co/miqudev/miqu-1-70b) - miqudev 🤗
 - [**Hermes-2-Pro-Mistral-7B**](https://huggingface.co/NousResearch/Hermes-2-Pro-Mistral-7B) - NousResearch 🤗
+- [**dolphin-2.8-mistral-7b-v02**](https://huggingface.co/cognitivecomputations/dolphin-2.8-mistral-7b-v02) - cognitivecomputations 🤗
 
 ### StripedHyena-7B 
 - [**StripedHyena-Hessian-7B**](https://huggingface.co/togethercomputer/StripedHyena-Hessian-7B) - togethercomputer 🤗
@@ -271,7 +275,6 @@
 	 · ([pythia](https://github.com/EleutherAI/pythia) - EleutherAI) ![Star](https://img.shields.io/github/stars/EleutherAI/pythia.svg?style=social&label=Star)
 
 ### Other
-
 - [The History of Open-Source LLMs: Imitation and Alignment (Part Three)](https://cameronrwolfe.substack.com/p/the-history-of-open-source-llms-imitation)
 
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI1MjQ2OTQ3Ng==&mid=2247623963&idx=1&sn=e4b4be03cf313a55da81384edd8e9283))
@@ -339,6 +342,9 @@
 # Mulitlingual (chinese)
 
 ## Foundation
+- [**Mengzi3**](https://github.com/Langboat/Mengzi3) - Langboat ![Star](https://img.shields.io/github/stars/Langboat/Mengzi3.svg?style=social&label=Star)
+
+	 · ([qbitai](https://www.qbitai.com/2024/04/132445.html))
 - [**MiniCPM**](https://github.com/OpenBMB/MiniCPM) - OpenBMB ![Star](https://img.shields.io/github/stars/OpenBMB/MiniCPM.svg?style=social&label=Star)
 
 	 *MiniCPM-2.4B: An end-side LLM outperforms Llama2-13B.*

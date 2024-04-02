@@ -27,6 +27,7 @@
 	- [Extra reference](#extra-reference)
 
 ## Survey
+- [Fetching Title#vmyh](https://arxiv.org/abs/2404.00929)
 - **ChatGPT Alternative Solutions: Large Language Models Survey**, `arXiv, 2403.14469`, [arxiv](http://arxiv.org/abs/2403.14469v1), [pdf](http://arxiv.org/pdf/2403.14469v1.pdf), cication: [**-1**](None)
 
 	 *Hanieh Alipour, Nick Pendar, Kohinoor Roy*
@@ -268,6 +269,8 @@
   Channel Selection**, `arXiv, 2403.19888`, [arxiv](http://arxiv.org/abs/2403.19888v1), [pdf](http://arxiv.org/pdf/2403.19888v1.pdf), cication: [**-1**](None)
 
 	 *Ali Behrouz, Michele Santacatterina, Ramin Zabih*
+
+	 · ([mambamixer.github](https://t.co/3rYmBevXMN))
 - **Jamba: A Hybrid Transformer-Mamba Language Model**, `arXiv, 2403.19887`, [arxiv](http://arxiv.org/abs/2403.19887v1), [pdf](http://arxiv.org/pdf/2403.19887v1.pdf), cication: [**-1**](None)
 
 	 *Opher Lieber, Barak Lenz, Hofit Bata, Gal Cohen, Jhonathan Osin, Itay Dalmedigos, Erez Safahi, Shaked Meirom, Yonatan Belinkov, Shai Shalev-Shwartz* · ([ai21](https://www.ai21.com/blog/announcing-jamba))

@@ -15,6 +15,7 @@
 	- [Reference](#reference)
 
 ## Survey
+- [Fetching Title#py1n](https://arxiv.org/abs/2404.00621)
 - **Veagle: Advancements in Multimodal Representation Learning**, `arXiv, 2403.08773`, [arxiv](http://arxiv.org/abs/2403.08773v1), [pdf](http://arxiv.org/pdf/2403.08773v1.pdf), cication: [**-1**](None)
 
 	 *Rajat Chawla, Arkajit Datta, Tushar Verma, Adarsh Jha, Anmol Gautam, Ayush Vatsal, Sukrit Chaterjee, Mukunda NS, Ishaan Bhola*
@@ -54,6 +55,7 @@
 	 *Code for paper LocalMamba: Visual State Space Model with Windowed Selective Scan*
 
 ### Video
+- [Fetching Title#5s32](https://arxiv.org/abs/2404.01258)
 - **LITA: Language Instructed Temporal-Localization Assistant**, `arXiv, 2403.19046`, [arxiv](http://arxiv.org/abs/2403.19046v1), [pdf](http://arxiv.org/pdf/2403.19046v1.pdf), cication: [**-1**](None)
 
 	 *De-An Huang, Shijia Liao, Subhashree Radhakrishnan, Hongxu Yin, Pavlo Molchanov, Zhiding Yu, Jan Kautz* · ([LITA](https://github.com/NVlabs/LITA) - NVlabs) ![Star](https://img.shields.io/github/stars/NVlabs/LITA.svg?style=social&label=Star)
@@ -158,6 +160,9 @@
   Projection**, `arXiv, 2311.10122`, [arxiv](http://arxiv.org/abs/2311.10122v1), [pdf](http://arxiv.org/pdf/2311.10122v1.pdf), cication: [**-1**](None)
 
 	 *Bin Lin, Bin Zhu, Yang Ye, Munan Ning, Peng Jin, Li Yuan*
+- [Fetching Title#7zcr](https://arxiv.org/abs/2404.00308)
+
+	 · ([ST-LLM](https://github.com/TencentARC/ST-LLM) - TencentARC) ![Star](https://img.shields.io/github/stars/TencentARC/ST-LLM.svg?style=social&label=Star)
 - **Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video
   Understanding**, `arXiv, 2306.02858`, [arxiv](http://arxiv.org/abs/2306.02858v4), [pdf](http://arxiv.org/pdf/2306.02858v4.pdf), cication: [**39**](https://scholar.google.com/scholar?cites=243345481669305195&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
@@ -1049,6 +1054,9 @@
 - [**BakLLaVA-1**](https://huggingface.co/SkunkworksAI/BakLLaVA-1) - SkunkworksAI 🤗
 
 ## Evaluation
+- **Are We on the Right Way for Evaluating Large Vision-Language Models?**, `arXiv, 2403.20330`, [arxiv](http://arxiv.org/abs/2403.20330v1), [pdf](http://arxiv.org/pdf/2403.20330v1.pdf), cication: [**-1**](None)
+
+	 *Lin Chen, Jinsong Li, Xiaoyi Dong, Pan Zhang, Yuhang Zang, Zehui Chen, Haodong Duan, Jiaqi Wang, Yu Qiao, Dahua Lin*
 - **Unsolvable Problem Detection: Evaluating Trustworthiness of Vision
   Language Models**, `arXiv, 2403.20331`, [arxiv](http://arxiv.org/abs/2403.20331v1), [pdf](http://arxiv.org/pdf/2403.20331v1.pdf), cication: [**-1**](None)
 

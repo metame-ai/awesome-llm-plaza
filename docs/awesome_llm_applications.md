@@ -447,6 +447,9 @@
 	 *Chongming Gao, Wenqiang Lei, Xiangnan He, Maarten de Rijke, Tat-Seng Chua* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495345&idx=2&sn=5e3ac087c792081705dde1c2542c687a))
 
 ## Role play
+- [**ragdoll**](https://github.com/bennyschmidt/ragdoll) - bennyschmidt ![Star](https://img.shields.io/github/stars/bennyschmidt/ragdoll.svg?style=social&label=Star)
+
+	 *The library for character-driven AI experiences.* · ([twitter](https://twitter.com/llama_index/status/1774619392137138350?utm_source=ainews&utm_medium=email&utm_campaign=ainews-adamw-aarond))
 - **ChatGPT Role-play Dataset: Analysis of User Motives and Model
   Naturalness**, `arXiv, 2403.18121`, [arxiv](http://arxiv.org/abs/2403.18121v1), [pdf](http://arxiv.org/pdf/2403.18121v1.pdf), cication: [**-1**](None)
 
@@ -621,6 +624,9 @@
 	 *Quan Wang, Yiling Huang, Guanlong Zhao, Evan Clark, Wei Xia, Hank Liao*
 
 ## Design
+- [**openui**](https://github.com/wandb/openui) - wandb ![Star](https://img.shields.io/github/stars/wandb/openui.svg?style=social&label=Star)
+
+	 *OpenUI let's you describe UI using your imagination, then see it rendered live.*
 - **Keyframer: Empowering Animation Design using Large Language Models**, `arXiv, 2402.06071`, [arxiv](http://arxiv.org/abs/2402.06071v1), [pdf](http://arxiv.org/pdf/2402.06071v1.pdf), cication: [**-1**](None)
 
 	 *Tiffany Tseng, Ruijia Cheng, Jeffrey Nichols*
@@ -963,6 +969,9 @@
 	 *Itzik Malkiel, Uri Alon, Yakir Yehuda, Shahar Keren, Oren Barkan, Royi Ronen, Noam Koenigstein*
 
 ## Game
+- [**llm-colosseum**](https://github.com/OpenGenerativeAI/llm-colosseum) - OpenGenerativeAI ![Star](https://img.shields.io/github/stars/OpenGenerativeAI/llm-colosseum.svg?style=social&label=Star)
+
+	 *Benchmark LLMs by fighting in Street Fighter 3! The new way to evaluate the quality of an LLM* · ([qbitai](https://www.qbitai.com/2024/04/132384.html))
 - **Agent-Pro: Learning to Evolve via Policy-Level Reflection and
   Optimization**, `arXiv, 2402.17574`, [arxiv](http://arxiv.org/abs/2402.17574v1), [pdf](http://arxiv.org/pdf/2402.17574v1.pdf), cication: [**-1**](None)
 

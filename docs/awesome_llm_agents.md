@@ -590,6 +590,8 @@
 - [**llm-answer-engine**](https://github.com/developersdigest/llm-answer-engine) - developersdigest ![Star](https://img.shields.io/github/stars/developersdigest/llm-answer-engine.svg?style=social&label=Star)
 
 	 *Build a Perplexity-Inspired Answer Engine Using Next.js, Groq, Mixtral, Langchain, OpenAI, Brave & Serper*
+
+	 · ([twitter](https://twitter.com/LangChainAI/status/1774502671669501973?utm_source=ainews&utm_medium=email&utm_campaign=ainews-adamw-aarond))
 - [**skyvern**](https://github.com/Skyvern-AI/skyvern) - Skyvern-AI ![Star](https://img.shields.io/github/stars/Skyvern-AI/skyvern.svg?style=social&label=Star)
 
 	 *Automate browser-based workflows with LLMs and Computer Vision*
@@ -654,6 +656,9 @@
 - [GPT-4V学会用键鼠上网，人类眼睁睁看着它发帖玩游戏 | 量子位](https://www.qbitai.com/2023/11/95456.html)
 
 ## Retrieval agumented generation
+- [**llama_parse**](https://github.com/run-llama/llama_parse/tree/main) - run-llama ![Star](https://img.shields.io/github/stars/run-llama/llama_parse.svg?style=social&label=Star)
+
+	 *Parse files for optimal RAG*
 - **RAFT: Adapting Language Model to Domain Specific RAG**, `arXiv, 2403.10131`, [arxiv](http://arxiv.org/abs/2403.10131v1), [pdf](http://arxiv.org/pdf/2403.10131v1.pdf), cication: [**-1**](None)
 
 	 *Tianjun Zhang, Shishir G. Patil, Naman Jain, Sheng Shen, Matei Zaharia, Ion Stoica, Joseph E. Gonzalez*
@@ -958,6 +963,10 @@
 	 *Xiao Liu, Hao Yu, Hanchen Zhang, Yifan Xu, Xuanyu Lei, Hanyu Lai, Yu Gu, Hangliang Ding, Kaiwen Men, Kejuan Yang*
 
 ## Other
+- [How to evaluate an LLM-powered RAG application automatically. - YouTube](https://www.youtube.com/watch?v=ZPX3W77h_1E&t=3s&ab_channel=Underfitted)
+- [What's next for AI agentic workflows ft. Andrew Ng of AI Fund - YouTube](https://www.youtube.com/watch?v=sal78ACtGTc&t=108)
+
+	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-04-01-6))
 - [**Nexus_Function_Calling_Leaderboard**](https://huggingface.co/spaces/Nexusflow/Nexus_Function_Calling_Leaderboard) - Nexusflow 🤗
 - [Learning few-shot imitation as cultural transmission | Nature Communications](https://www.nature.com/articles/s41467-023-42875-2)
 
