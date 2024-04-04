@@ -656,6 +656,9 @@
 - [GPT-4V学会用键鼠上网，人类眼睁睁看着它发帖玩游戏 | 量子位](https://www.qbitai.com/2023/11/95456.html)
 
 ## Retrieval agumented generation
+- [**ragflow**](https://github.com/infiniflow/ragflow) - infiniflow ![Star](https://img.shields.io/github/stars/infiniflow/ragflow.svg?style=social&label=Star)
+
+	 *RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.*
 - [**llama_parse**](https://github.com/run-llama/llama_parse/tree/main) - run-llama ![Star](https://img.shields.io/github/stars/run-llama/llama_parse.svg?style=social&label=Star)
 
 	 *Parse files for optimal RAG*
@@ -664,6 +667,7 @@
 	 *Tianjun Zhang, Shishir G. Patil, Naman Jain, Sheng Shen, Matei Zaharia, Ion Stoica, Joseph E. Gonzalez*
 
 	 · ([gorilla](https://github.com/ShishirPatil/gorilla) - ShishirPatil) ![Star](https://img.shields.io/github/stars/ShishirPatil/gorilla.svg?style=social&label=Star)
+	- `(RAFT) for enhancing LLMs for open-book, in-domain question answering by training them to identify and disregard non-helpful "distractor" documents while accurately citing relevant information from the right sources. `
 - [**rerankers**](https://github.com/AnswerDotAI/rerankers/) - AnswerDotAI ![Star](https://img.shields.io/github/stars/AnswerDotAI/rerankers.svg?style=social&label=Star)
 - [**fully-local-pdf-chatbot**](https://github.com/jacoblee93/fully-local-pdf-chatbot) - jacoblee93 ![Star](https://img.shields.io/github/stars/jacoblee93/fully-local-pdf-chatbot.svg?style=social&label=Star)
 
@@ -677,6 +681,7 @@
 - **Backtracing: Retrieving the Cause of the Query**, `arXiv, 2403.03956`, [arxiv](http://arxiv.org/abs/2403.03956v1), [pdf](http://arxiv.org/pdf/2403.03956v1.pdf), cication: [**-1**](None)
 
 	 *Rose E. Wang, Pawan Wirawarn, Omar Khattab, Noah Goodman, Dorottya Demszky* · ([backtracing](https://github.com/rosewang2008/backtracing/blob/main) - rosewang2008) ![Star](https://img.shields.io/github/stars/rosewang2008/backtracing.svg?style=social&label=Star)
+	- `"backtracing" as a task to help content creators like lecturers identify the text segments that led to user queries, aiming to enhance content delivery in education, news, and conversation domains.`
 - [**chat-with-mlx**](https://github.com/qnguyen3/chat-with-mlx) - qnguyen3 ![Star](https://img.shields.io/github/stars/qnguyen3/chat-with-mlx.svg?style=social&label=Star)
 
 	 *Chat with your data natively on Apple Silicon using MLX Framework.*
@@ -852,7 +857,7 @@
 	 *Train Models Contrastively in Pytorch* · ([huggingface](https://huggingface.co/nomic-ai/nomic-embed-text-v1)) · ([mp.weixin.qq](https://mp.weixin.qq.com/s/EMWNf9TiDwuxxkwwqsl73g))
 
 ---
-- [Fetching Title#oov1](https://pathway.com/developers/showcases/adaptive-rag)
+- [Cheap RAGs up for grabs: How we cut LLM costs without sacrificing accuracy? | Pathway](https://pathway.com/developers/showcases/adaptive-rag)
 - [Introducing RAG 2.0 - Contextual AI](https://contextual.ai/introducing-rag2/)
 - [**dspy-gradio-rag**](https://github.com/diicellman/dspy-gradio-rag) - diicellman ![Star](https://img.shields.io/github/stars/diicellman/dspy-gradio-rag.svg?style=social&label=Star)
 

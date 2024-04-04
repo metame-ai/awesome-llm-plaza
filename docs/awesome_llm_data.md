@@ -33,6 +33,10 @@
 	 *Zige Wang, Wanjun Zhong, Yufei Wang, Qi Zhu, Fei Mi, Baojun Wang, Lifeng Shang, Xin Jiang, Qun Liu*
 
 ## Techs
+- **Can LLMs Separate Instructions From Data? And What Do We Even Mean By
+  That?**, `arXiv, 2403.06833`, [arxiv](http://arxiv.org/abs/2403.06833v1), [pdf](http://arxiv.org/pdf/2403.06833v1.pdf), cication: [**-1**](None)
+
+	 *Egor Zverev, Sahar Abdelnabi, Mario Fritz, Christoph H. Lampert* · ([Should-It-Be-Executed-Or-Processed](https://github.com/egozverev/Should-It-Be-Executed-Or-Processed) - egozverev) ![Star](https://img.shields.io/github/stars/egozverev/Should-It-Be-Executed-Or-Processed.svg?style=social&label=Star)
 - **Data Mixing Laws: Optimizing Data Mixtures by Predicting Language
   Modeling Performance**, `arXiv, 2403.16952`, [arxiv](http://arxiv.org/abs/2403.16952v1), [pdf](http://arxiv.org/pdf/2403.16952v1.pdf), cication: [**-1**](None)
 
@@ -40,6 +44,7 @@
 - **LLM2LLM: Boosting LLMs with Novel Iterative Data Enhancement**, `arXiv, 2403.15042`, [arxiv](http://arxiv.org/abs/2403.15042v1), [pdf](http://arxiv.org/pdf/2403.15042v1.pdf), cication: [**-1**](None)
 
 	 *Nicholas Lee, Thanakul Wattanawong, Sehoon Kim, Karttikeya Mangalam, Sheng Shen, Gopala Anumanchipali, Michael W. Mahoney, Kurt Keutzer, Amir Gholami*
+	- `improves the performance of large language models in low-data scenarios by using a teacher model to generate synthetic data from errors made by a student model during initial training`
 - **Are Human Conversations Special? A Large Language Model Perspective**, `arXiv, 2403.05045`, [arxiv](http://arxiv.org/abs/2403.05045v1), [pdf](http://arxiv.org/pdf/2403.05045v1.pdf), cication: [**-1**](None)
 
 	 *Toshish Jawale, Chaitanya Animesh, Sekhar Vallath, Kartik Talamadupula, Larry Heck*
@@ -94,6 +99,9 @@
 	 · ([datablations](https://github.com/huggingface/datablations) - huggingface) ![Star](https://img.shields.io/github/stars/huggingface/datablations.svg?style=social&label=Star)
 
 ## Datasets
+- [**Caselaw_Access_Project**](https://huggingface.co/datasets/TeraflopAI/Caselaw_Access_Project) - TeraflopAI 🤗
+
+	 · ([twitter](https://twitter.com/EnricoShippole/status/1766157358672359862?s=20))
 - [Common Corpus - a PleIAs Collection](https://huggingface.co/collections/PleIAs/common-corpus-65d46e3ea3980fdcd66a5613)
 
 	 · ([huggingface](https://huggingface.co/blog/Pclanglais/common-corpus))

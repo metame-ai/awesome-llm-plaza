@@ -48,6 +48,10 @@
 
 	 *Vladislav Lialin, Vijeta Deshpande, Anna Rumshisky*
 ## Efficient finetuning
+- **Model Stock: All we need is just a few fine-tuned models**, `arXiv, 2403.19522`, [arxiv](http://arxiv.org/abs/2403.19522v1), [pdf](http://arxiv.org/pdf/2403.19522v1.pdf), cication: [**-1**](None)
+
+	 *Dong-Hwan Jang, Sangdoo Yun, Dongyoon Han*
+	- `uses just two models for layer-wise weight averaging.`
 - **DiJiang: Efficient Large Language Models through Compact Kernelization**, `arXiv, 2403.19928`, [arxiv](http://arxiv.org/abs/2403.19928v1), [pdf](http://arxiv.org/pdf/2403.19928v1.pdf), cication: [**-1**](None)
 
 	 *Hanting Chen, Zhicheng Liu, Xutao Wang, Yuchuan Tian, Yunhe Wang* · ([DiJiang](https://github.com/YuchuanTian/DiJiang) - YuchuanTian) ![Star](https://img.shields.io/github/stars/YuchuanTian/DiJiang.svg?style=social&label=Star)
@@ -57,6 +61,7 @@
 	 *Rui Pan, Xiang Liu, Shizhe Diao, Renjie Pi, Jipeng Zhang, Chi Han, Tong Zhang*
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-04-01-13)) · ([LMFlow](https://github.com/OptimalScale/LMFlow) - OptimalScale) ![Star](https://img.shields.io/github/stars/OptimalScale/LMFlow.svg?style=social&label=Star)
+	- `randomly freezing middle layers during training based on importance sampling, which is efficient and can outperform both LoRA and and full LLM finetuning by a noticeable margin in terms of model performance.`
 - **Mixture-of-LoRAs: An Efficient Multitask Tuning for Large Language
   Models**, `arXiv, 2403.03432`, [arxiv](http://arxiv.org/abs/2403.03432v1), [pdf](http://arxiv.org/pdf/2403.03432v1.pdf), cication: [**-1**](None)
 
@@ -64,10 +69,8 @@
 - **GaLore: Memory-Efficient LLM Training by Gradient Low-Rank Projection**, `arXiv, 2403.03507`, [arxiv](http://arxiv.org/abs/2403.03507v1), [pdf](http://arxiv.org/pdf/2403.03507v1.pdf), cication: [**-1**](None)
 
 	 *Jiawei Zhao, Zhenyu Zhang, Beidi Chen, Zhangyang Wang, Anima Anandkumar, Yuandong Tian*
-
-	 · ([galore](https://github.com/jiaweizzhao/galore) - jiaweizzhao) ![Star](https://img.shields.io/github/stars/jiaweizzhao/galore.svg?style=social&label=Star)
-
-	 · ([huggingface](https://huggingface.co/blog/galore))
+	 · ([galore](https://github.com/jiaweizzhao/galore) - jiaweizzhao) ![Star](https://img.shields.io/github/stars/jiaweizzhao/galore.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/blog/galore))
+	- `Gradient Low-Rank Projection (GaLore) is a new training strategy that significantly reduces memory usage by up to 65.5% for optimizer states during the training of LLMs, without sacrificing performance.`
 - **LoRA+: Efficient Low Rank Adaptation of Large Models**, `arXiv, 2402.12354`, [arxiv](http://arxiv.org/abs/2402.12354v1), [pdf](http://arxiv.org/pdf/2402.12354v1.pdf), cication: [**-1**](None)
 
 	 *Soufiane Hayou, Nikhil Ghosh, Bin Yu*
@@ -385,10 +388,12 @@
 - **The Unreasonable Ineffectiveness of the Deeper Layers**, `arXiv, 2403.17887`, [arxiv](http://arxiv.org/abs/2403.17887v1), [pdf](http://arxiv.org/pdf/2403.17887v1.pdf), cication: [**-1**](None)
 
 	 *Andrey Gromov, Kushal Tirumala, Hassan Shapourian, Paolo Glorioso, Daniel A. Roberts*
+	- `selectively pruning up to half the layers of pretrained LLMs, followed by strategic finetuning with quantization and QLoRA, minimally impacts performance on question-answering tasks.`
 - **ShortGPT: Layers in Large Language Models are More Redundant Than You
   Expect**, `arXiv, 2403.03853`, [arxiv](http://arxiv.org/abs/2403.03853v1), [pdf](http://arxiv.org/pdf/2403.03853v1.pdf), cication: [**-1**](None)
 
 	 *Xin Men, Mingyu Xu, Qingyu Zhang, Bingning Wang, Hongyu Lin, Yaojie Lu, Xianpei Han, Weipeng Chen*
+	- This study introduces the Block Influence (BI) metric to assess each layer's importance in LLMs and proposes ShortGPT, a pruning approach that removes redundant layers based on BI scores.
 - **Shortened LLaMA: A Simple Depth Pruning for Large Language Models**, `arXiv, 2402.02834`, [arxiv](http://arxiv.org/abs/2402.02834v1), [pdf](http://arxiv.org/pdf/2402.02834v1.pdf), cication: [**-1**](None)
 
 	 *Bo-Kyeong Kim, Geonmin Kim, Tae-Ho Kim, Thibault Castells, Shinkook Choi, Junho Shin, Hyoung-Kyu Song*
@@ -642,6 +647,7 @@
 	 *Port of Facebook's LLaMA model in C/C++* · ([ggml](http://ggml.ai/)) · ([llama.cpp](https://github.com/ggerganov/llama.cpp/discussions/205) - ggerganov) ![Star](https://img.shields.io/github/stars/ggerganov/llama.cpp.svg?style=social&label=Star)
 
 ### Other
+- [Accelerate Mixtral 8x7B with Speculative Decoding and Quantziation on Amazon SageMaker](https://www.philschmid.de/sagemaker-awq-medusa)
 - [LLM Inference Provider Leaderboard](https://leaderboard.withmartian.com/)
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-01-26-2))
@@ -661,6 +667,9 @@
 - [研究完llama.cpp，我发现手机跑大模型竟这么简单 | 机器之心](https://www.jiqizhixin.com/articles/2023-08-17-8)
 
 ## Mobile
+- **Octopus v2: On-device language model for super agent**, `arXiv, 2404.01744`, [arxiv](http://arxiv.org/abs/2404.01744v2), [pdf](http://arxiv.org/pdf/2404.01744v2.pdf), cication: [**-1**](None)
+
+	 *Wei Chen, Zhiyuan Li*
 - **Transformer-Lite: High-efficiency Deployment of Large Language Models on
   Mobile Phone GPUs**, `arXiv, 2403.20041`, [arxiv](http://arxiv.org/abs/2403.20041v1), [pdf](http://arxiv.org/pdf/2403.20041v1.pdf), cication: [**-1**](None)
 

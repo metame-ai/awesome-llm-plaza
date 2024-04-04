@@ -31,6 +31,7 @@
 - **Long-form factuality in large language models**, `arXiv, 2403.18802`, [arxiv](http://arxiv.org/abs/2403.18802v1), [pdf](http://arxiv.org/pdf/2403.18802v1.pdf), cication: [**-1**](None)
 
 	 *Jerry Wei, Chengrun Yang, Xinying Song, Yifeng Lu, Nathan Hu, Dustin Tran, Daiyi Peng, Ruibo Liu, Da Huang, Cosmo Du* · ([long-form-factuality](https://github.com/google-deepmind/long-form-factuality) - google-deepmind) ![Star](https://img.shields.io/github/stars/google-deepmind/long-form-factuality.svg?style=social&label=Star)
+	- `LongFact is a comprehensive prompt set for benchmarking the long-form factuality of LLMs across 38 topics.`
 - **A comparison of Human, GPT-3.5, and GPT-4 Performance in a
   University-Level Coding Course**, `arXiv, 2403.16977`, [arxiv](http://arxiv.org/abs/2403.16977v1), [pdf](http://arxiv.org/pdf/2403.16977v1.pdf), cication: [**-1**](None)
 
@@ -175,10 +176,12 @@
 - **A Challenger to GPT-4V? Early Explorations of Gemini in Visual Expertise**, `arXiv, 2312.12436`, [arxiv](http://arxiv.org/abs/2312.12436v2), [pdf](http://arxiv.org/pdf/2312.12436v2.pdf), cication: [**-1**](None)
 
 	 *Chaoyou Fu, Renrui Zhang, Zihan Wang, Yubo Huang, Zhengye Zhang, Longtian Qiu, Gaoxiang Ye, Yunhang Shen, Mengdan Zhang, Peixian Chen* · ([Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) - BradyFU) ![Star](https://img.shields.io/github/stars/BradyFU/Awesome-Multimodal-Large-Language-Models.svg?style=social&label=Star)
-
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495335&idx=1&sn=bd1f60cc04239669203c944824acf171))
-
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495335&idx=1&sn=bd1f60cc04239669203c944824acf171&poc_token=HF7ojmWjBpIfrreUuRxQCloV4ajsKbiPcePT5WvD))
+- **The Unlocking Spell on Base LLMs: Rethinking Alignment via In-Context
+  Learning**, `arXiv, 2312.01552`, [arxiv](http://arxiv.org/abs/2312.01552v1), [pdf](http://arxiv.org/pdf/2312.01552v1.pdf), cication: [**-1**](None)
+
+	 *Bill Yuchen Lin, Abhilasha Ravichander, Ximing Lu, Nouha Dziri, Melanie Sclar, Khyathi Chandu, Chandra Bhagavatula, Yejin Choi* · ([huggingface](https://huggingface.co/spaces/allenai/URIAL-Bench)) · ([URIAL](https://github.com/Re-Align/URIAL) - Re-Align) ![Star](https://img.shields.io/github/stars/Re-Align/URIAL.svg?style=social&label=Star)
 - **An In-depth Look at Gemini's Language Abilities**, `arXiv, 2312.11444`, [arxiv](http://arxiv.org/abs/2312.11444v1), [pdf](http://arxiv.org/pdf/2312.11444v1.pdf), cication: [**-1**](None)
 
 	 *Syeda Nahida Akter, Zichun Yu, Aashiq Muhamed, Tianyue Ou, Alex Bäuerle, Ángel Alexander Cabrera, Krish Dholakia, Chenyan Xiong, Graham Neubig* · ([gemini-benchmark](https://github.com/neulab/gemini-benchmark) - neulab) ![Star](https://img.shields.io/github/stars/neulab/gemini-benchmark.svg?style=social&label=Star)

@@ -19,6 +19,14 @@
 	 *Ziyin Zhang, Chaoyu Chen, Bingchang Liu, Cong Liao, Zi Gong, Hang Yu, Jianguo Li, Rui Wang*
 
 ## Paper
+- **EvoCodeBench: An Evolving Code Generation Benchmark Aligned with
+  Real-World Code Repositories**, `arXiv, 2404.00599`, [arxiv](http://arxiv.org/abs/2404.00599v1), [pdf](http://arxiv.org/pdf/2404.00599v1.pdf), cication: [**-1**](None)
+
+	 *Jia Li, Ge Li, Xuanming Zhang, Yihong Dong, Zhi Jin* · ([EvoCodeBench](https://github.com/seketeam/EvoCodeBench) - seketeam) ![Star](https://img.shields.io/github/stars/seketeam/EvoCodeBench.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/datasets/LJ0815/EvoCodeBench))
+- **Improving LLM Code Generation with Grammar Augmentation**, `arXiv, 2403.01632`, [arxiv](http://arxiv.org/abs/2403.01632v1), [pdf](http://arxiv.org/pdf/2403.01632v1.pdf), cication: [**-1**](None)
+
+	 *Shubham Ugare, Tarun Suresh, Hangoo Kang, Sasa Misailovic, Gagandeep Singh*
+	- `SynCode is a framework that improves code generation with LLMs by using the grammar of programming languages (essentially an offline-constructed efficient lookup table) for syntax validation and to constrain the LLM’s vocabulary to only syntactically valid tokens.`
 - **DevBench: A Comprehensive Benchmark for Software Development**, `arXiv, 2403.08604`, [arxiv](http://arxiv.org/abs/2403.08604v2), [pdf](http://arxiv.org/pdf/2403.08604v2.pdf), cication: [**-1**](None)
 
 	 *Bowen Li, Wenhan Wu, Ziwei Tang, Lin Shi, John Yang, Jinyang Li, Shunyu Yao, Chen Qian, Binyuan Hui, Qicheng Zhang* · ([devBench](https://github.com/open-compass/devBench/) - open-compass) ![Star](https://img.shields.io/github/stars/open-compass/devBench.svg?style=social&label=Star) · ([qbitai](https://www.qbitai.com/2024/03/132007.html))
@@ -52,6 +60,7 @@
 	 *Chenglei Si, Yanzhe Zhang, Zhengyuan Yang, Ruibo Liu, Diyi Yang*
 
 	 · ([salt-nlp.github](https://salt-nlp.github.io/Design2Code/)) · ([Design2Code](https://github.com/NoviScl/Design2Code) - NoviScl) ![Star](https://img.shields.io/github/stars/NoviScl/Design2Code.svg?style=social&label=Star)
+	- a benchmark for how well multimodal LLMs convert visual designs into code, using a curated set of 484 real-world webpages for evaluation, where GPT-4V emerged as the top-performing model.
 - **StarCoder 2 and The Stack v2: The Next Generation**, `arXiv, 2402.19173`, [arxiv](http://arxiv.org/abs/2402.19173v1), [pdf](http://arxiv.org/pdf/2402.19173v1.pdf), cication: [**-1**](None)
 
 	 *Anton Lozhkov, Raymond Li, Loubna Ben Allal, Federico Cassano, Joel Lamy-Poirier, Nouamane Tazi, Ao Tang, Dmytro Pykhtar, Jiawei Liu, Yuxiang Wei*
@@ -254,8 +263,13 @@
 	 · [intercode-benchmark.github](https://intercode-benchmark.github.io/)
 
 ## Projects
+- [**pip-library-etl**](https://github.com/PipableAI/pip-library-etl) - PipableAI ![Star](https://img.shields.io/github/stars/PipableAI/pip-library-etl.svg?style=social&label=Star)
+
+	 *This Python package simplifies generating documentation for functions and methods in designated modules or libraries. It enables effortless function call generation from natural language input or existing signatures, and facilitates crafting new ones through the integrated model. Beyond documentation, it seamlessly generates sophisticated SQL too.* · ([huggingface](https://huggingface.co/PipableAI/pip-library-etl-1.3b))
+- [**SWE-agent**](https://github.com/princeton-nlp/SWE-agent) - princeton-nlp ![Star](https://img.shields.io/github/stars/princeton-nlp/SWE-agent.svg?style=social&label=Star)
+
+	 *SWE-agent: Agent Computer Interfaces Enable Software Engineering Language Models*
 - [**stable-code-instruct-3b**](https://huggingface.co/stabilityai/stable-code-instruct-3b) - stabilityai 🤗
-	- 
 - [**devika**](https://github.com/stitionai/devika) - stitionai ![Star](https://img.shields.io/github/stars/stitionai/devika.svg?style=social&label=Star)
 
 	 *Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. Devika aims to be a competitive open-source alternative to Devin by Cognition AI.*

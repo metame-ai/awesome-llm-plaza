@@ -27,7 +27,10 @@
 	- [Extra reference](#extra-reference)
 
 ## Survey
-- [Fetching Title#vmyh](https://arxiv.org/abs/2404.00929)
+- **A Survey on Multilingual Large Language Models: Corpora, Alignment, and
+  Bias**, `arXiv, 2404.00929`, [arxiv](http://arxiv.org/abs/2404.00929v1), [pdf](http://arxiv.org/pdf/2404.00929v1.pdf), cication: [**-1**](None)
+
+	 *Yuemei Xu, Ling Hu, Jiayi Zhao, Zihan Qiu, Yuqi Ye, Hanwen Gu*
 - **ChatGPT Alternative Solutions: Large Language Models Survey**, `arXiv, 2403.14469`, [arxiv](http://arxiv.org/abs/2403.14469v1), [pdf](http://arxiv.org/pdf/2403.14469v1.pdf), cication: [**-1**](None)
 
 	 *Hanieh Alipour, Nick Pendar, Kohinoor Roy*
@@ -177,6 +180,10 @@
 	 *FlagAI (Fast LArge-scale General AI models) is a fast, easy-to-use and extensible toolkit for large-scale model.*
 
 ## Unlearning
+- **The WMDP Benchmark: Measuring and Reducing Malicious Use With Unlearning**, `arXiv, 2403.03218`, [arxiv](http://arxiv.org/abs/2403.03218v2), [pdf](http://arxiv.org/pdf/2403.03218v2.pdf), cication: [**-1**](None)
+
+	 *Nathaniel Li, Alexander Pan, Anjali Gopal, Summer Yue, Daniel Berrios, Alice Gatti, Justin D. Li, Ann-Kathrin Dombrowski, Shashwat Goel, Long Phan*
+	- `The WMDP benchmark is a curated dataset of over 4,000 questions designed to gauge and mitigate LLMs' knowledge in areas with misuse potential, such as biosecurity and cybersecurity. `
 - **Machine Unlearning of Pre-trained Large Language Models**, `arXiv, 2402.15159`, [arxiv](http://arxiv.org/abs/2402.15159v1), [pdf](http://arxiv.org/pdf/2402.15159v1.pdf), cication: [**-1**](None)
 
 	 *Jin Yao, Eli Chien, Minxin Du, Xinyao Niu, Tianhao Wang, Zezhou Cheng, Xiang Yue* · ([Unlearning_LLM](https://github.com/yaojin17/Unlearning_LLM) - yaojin17) ![Star](https://img.shields.io/github/stars/yaojin17/Unlearning_LLM.svg?style=social&label=Star)
@@ -234,7 +241,7 @@
 
 - [what a world model is](https://twitter.com/ylecun/status/1759933365241921817)
 
-
+- [图灵奖得主杨立昆教授在哈佛大学数学系演讲稿——关于人工智能世界新模型](https://mp.weixin.qq.com/s?__biz=MzIyMzk1MDE3Nw==&mid=2247631931&idx=1&sn=fd0a217a3302125daaceb5103639739c)
 - [图灵奖得主LeCun最新专访：为什么物理世界终将成为LLM的「死穴」？](https://mp.weixin.qq.com/s?__biz=MzIyMzk1MDE3Nw==&mid=2247629387&idx=1&sn=d8246e2f1f134cb3c635f915a2d0af90)
 - [OpenAI「登月计划」剑指超级AI！LeCun提出AGI之路七阶段，打造世界模型是首位](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652419855&idx=3&sn=a5f20e0a0061c01e1ec87d4a81c23e68)
 ## Forecasting
@@ -402,6 +409,12 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652345558&idx=4&sn=95686435d5cad05d44cbe02bc26d6859))
 
 ## Interpretability 
+- **Source-Aware Training Enables Knowledge Attribution in Language Models**, `arXiv, 2404.01019`, [arxiv](http://arxiv.org/abs/2404.01019v1), [pdf](http://arxiv.org/pdf/2404.01019v1.pdf), cication: [**-1**](None)
+
+	 *Muhammad Khalifa, David Wadden, Emma Strubell, Honglak Lee, Lu Wang, Iz Beltagy, Hao Peng*
+- **Future Lens: Anticipating Subsequent Tokens from a Single Hidden State**, `arXiv, 2311.04897`, [arxiv](http://arxiv.org/abs/2311.04897v1), [pdf](http://arxiv.org/pdf/2311.04897v1.pdf), cication: [**-1**](None)
+
+	 *Koyena Pal, Jiuding Sun, Andrew Yuan, Byron C. Wallace, David Bau*
 - **Localizing Paragraph Memorization in Language Models**, `arXiv, 2403.19851`, [arxiv](http://arxiv.org/abs/2403.19851v1), [pdf](http://arxiv.org/pdf/2403.19851v1.pdf), cication: [**-1**](None)
 
 	 *Niklas Stoehr, Mitchell Gordon, Chiyuan Zhang, Owen Lewis*
@@ -419,6 +432,7 @@
 	 *Nicholas Carlini, Daniel Paleka, Krishnamurthy Dj Dvijotham, Thomas Steinke, Jonathan Hayase, A. Feder Cooper, Katherine Lee, Matthew Jagielski, Milad Nasr, Arthur Conmy*
 
 	 · ([qbitai](https://www.qbitai.com/2024/03/127168.html))
+	- `extracting information from black-box language models like OpenAI's ChatGPT and Google's PaLM-2 (revealing for the first time the hidden dimensions of these models)`
 - [Reflections on Qualitative Research](https://transformer-circuits.pub/2024/qualitative-essay/index.html)
 - [Claude-3's uncanny "awareness"](https://twitter.com/DrJimFan/status/1765076396404363435)
 - **AtP*: An efficient and scalable method for localizing LLM behaviour to
@@ -684,6 +698,8 @@
 	 · ([youtu](https://youtu.be/nOxKexn3iBo))
 
 ### Videos
+- [Deep Learning Foundations by Soheil Feizi : Large Language Models - YouTube](https://www.youtube.com/watch?v=2yjzZfDQxy8&ab_channel=SoheilFeizi)
+- [But what is a GPT? Visual intro to Transformers | Deep learning, chapter 5 - YouTube](https://www.youtube.com/watch?v=wjZofJX0v4M&t=2s&ab_channel=3Blue1Brown)
 - [Unsupervised Learning: Redpoint's AI Podcast - YouTube](https://www.youtube.com/@RedpointAI)
 
 	 · ([youtube](https://www.youtube.com/watch?v=_N2KPEdh69s&ab_channel=UnsupervisedLearning%3ARedpoint%27sAIPodcast))

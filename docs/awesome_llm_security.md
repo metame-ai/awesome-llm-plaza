@@ -20,6 +20,9 @@
 - [**Adversarial Attacks on LLMs | Lil'Log**](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/)
 
 ## Red teaming
+- [Curiosity-driven Red-teaming for Large Language Models](https://openreview.net/pdf?id=4KqkizXgXU)
+
+	 · ([curiosity_redteam](https://github.com/Improbable-AI/curiosity_redteam) - Improbable-AI) ![Star](https://img.shields.io/github/stars/Improbable-AI/curiosity_redteam.svg?style=social&label=Star)
 - **Recourse for reclamation: Chatting with generative language models**, `arXiv, 2403.14467`, [arxiv](http://arxiv.org/abs/2403.14467v1), [pdf](http://arxiv.org/pdf/2403.14467v1.pdf), cication: [**-1**](None)
 
 	 *Jennifer Chien, Kevin R. McKee, Jackie Kay, William Isaac*
@@ -46,6 +49,16 @@
 	 *Stephen Casper, Jason Lin, Joe Kwon, Gatlen Culp, Dylan Hadfield-Menell*
 
 ## Papers
+- **JailbreakBench: An Open Robustness Benchmark for Jailbreaking Large
+  Language Models**, `arXiv, 2404.01318`, [arxiv](http://arxiv.org/abs/2404.01318v1), [pdf](http://arxiv.org/pdf/2404.01318v1.pdf), cication: [**-1**](None)
+
+	 *Patrick Chao, Edoardo Debenedetti, Alexander Robey, Maksym Andriushchenko, Francesco Croce, Vikash Sehwag, Edgar Dobriban, Nicolas Flammarion, George J. Pappas, Florian Tramer*
+- **What's in Your "Safe" Data?: Identifying Benign Data that Breaks Safety**, `arXiv, 2404.01099`, [arxiv](http://arxiv.org/abs/2404.01099v1), [pdf](http://arxiv.org/pdf/2404.01099v1.pdf), cication: [**-1**](None)
+
+	 *Luxi He, Mengzhou Xia, Peter Henderson*
+- [Many-shot Jailbreaking](https://cdn.sanity.io/files/4zrzovbb/website/af5633c94ed2beb282f6a53c595eb437e8e7b630.pdf)
+
+	 · ([anthropic](https://www.anthropic.com/research/many-shot-jailbreaking))
 - **Don't Listen To Me: Understanding and Exploring Jailbreak Prompts of
   Large Language Models**, `arXiv, 2403.17336`, [arxiv](http://arxiv.org/abs/2403.17336v1), [pdf](http://arxiv.org/pdf/2403.17336v1.pdf), cication: [**-1**](None)
 
@@ -56,6 +69,7 @@
 	 *Junyuan Hong, Jinhao Duan, Chenhui Zhang, Zhangheng Li, Chulin Xie, Kelsey Lieberman, James Diffenderfer, Brian Bartoldson, Ajay Jaiswal, Kaidi Xu*
 
 	 · ([decoding-comp-trust.github](https://decoding-comp-trust.github.io/))
+	- ` quantization is better than pruning for maintaining efficiency and trustworthiness.`
 - **Logits of API-Protected LLMs Leak Proprietary Information**, `arXiv, 2403.09539`, [arxiv](http://arxiv.org/abs/2403.09539v2), [pdf](http://arxiv.org/pdf/2403.09539v2.pdf), cication: [**-1**](None)
 
 	 *Matthew Finlayson, Xiang Ren, Swabha Swayamdipta*
@@ -209,6 +223,7 @@
 	 *A framework to evaluate the generalization capability of safety alignment for LLMs*
 
 ## Other
+- [Making a SOTA Adversarial Attack on LLMs 38x Faster | Haize Labs Blog 🕊️](https://blog.haizelabs.com/posts/acg/)
 - [Introducing the Red-Teaming Resistance Leaderboard](https://huggingface.co/blog/leaderboards-on-the-hub-haizelab)
 - [fast.ai - AI Safety and the Age of Dislightenment](https://www.fast.ai/posts/2023-11-07-dislightenment.html)
 - [PoisonGPT: How We Hid a Lobotomized LLM on Hugging Face to Spread Fake News](https://blog.mithrilsecurity.io/poisongpt-how-we-hid-a-lobotomized-llm-on-hugging-face-to-spread-fake-news/)

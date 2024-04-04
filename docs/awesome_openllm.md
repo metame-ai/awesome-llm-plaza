@@ -38,6 +38,9 @@
 # English
 
 ## Foundation
+- **Poro 34B and the Blessing of Multilinguality**, `arXiv, 2404.01856`, [arxiv](http://arxiv.org/abs/2404.01856v1), [pdf](http://arxiv.org/pdf/2404.01856v1.pdf), cication: [**-1**](None)
+
+	 *Risto Luukkonen, Jonathan Burdge, Elaine Zosa, Aarne Talman, Ville Komulainen, Väinö Hatanpää, Peter Sarlin, Sampo Pyysalo* · ([huggingface](https://huggingface.co/LumiOpen/Poro-34B))
 - [**MicroLlama**](https://github.com/keeeeenw/MicroLlama) - keeeeenw ![Star](https://img.shields.io/github/stars/keeeeenw/MicroLlama.svg?style=social&label=Star)
 
 	 *Micro Llama is a small Llama based model with 300M parameters trained from scratch with $500 budget*
@@ -51,6 +54,8 @@
 - [**c4ai-command-r-v01**](https://huggingface.co/CohereForAI/c4ai-command-r-v01) - CohereForAI 🤗
 
 	 · ([txt.cohere](https://txt.cohere.com/command-r/))
+
+	 · ([huggingface](https://huggingface.co/spaces/CohereForAI/c4ai-command-r-v01))
 - [**miqu-1-70b**](https://huggingface.co/miqudev/miqu-1-70b) - miqudev 🤗
 - **H2O-Danube-1.8B Technical Report**, `arXiv, 2401.16818`, [arxiv](http://arxiv.org/abs/2401.16818v1), [pdf](http://arxiv.org/pdf/2401.16818v1.pdf), cication: [**-1**](None)
 
@@ -120,6 +125,12 @@
   Language, Multimodal, and Scientific GPT Models**, `arXiv, 2308.14149`, [arxiv](http://arxiv.org/abs/2308.14149v1), [pdf](http://arxiv.org/pdf/2308.14149v1.pdf), cication: [**-1**](None)
 
 	 *Kaiyuan Gao, Sunan He, Zhenyu He, Jiacheng Lin, QiZhi Pei, Jie Shao, Wei Zhang* · ([gpt_alternatives](https://github.com/GPT-Alternatives/gpt_alternatives) - GPT-Alternatives) ![Star](https://img.shields.io/github/stars/GPT-Alternatives/gpt_alternatives.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-09-12-3))
+
+### Jamba
+- **Jamba: A Hybrid Transformer-Mamba Language Model**, `arXiv, 2403.19887`, [arxiv](http://arxiv.org/abs/2403.19887v1), [pdf](http://arxiv.org/pdf/2403.19887v1.pdf), cication: [**-1**](None)
+
+	 *Opher Lieber, Barak Lenz, Hofit Bata, Gal Cohen, Jhonathan Osin, Itay Dalmedigos, Erez Safahi, Shaked Meirom, Yonatan Belinkov, Shai Shalev-Shwartz* · ([huggingface](https://huggingface.co/ai21labs/Jamba-v0.1))
+- [**Jamba-v0.1-chat-multilingual?utm_source=ainews&utm_medium=email&utm_campaign=ainews-not-much-happened-today-8015**](https://huggingface.co/lightblue/Jamba-v0.1-chat-multilingual?utm_source=ainews&utm_medium=email&utm_campaign=ainews-not-much-happened-today-8015) - lightblue 🤗
 
 ### Databricks
 - [Introducing DBRX: A New State-of-the-Art Open LLM | Databricks](https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm)
@@ -342,6 +353,10 @@
 # Mulitlingual (chinese)
 
 ## Foundation
+- **Aurora-M: The First Open Source Multilingual Language Model Red-teamed
+  according to the U.S. Executive Order**, `arXiv, 2404.00399`, [arxiv](http://arxiv.org/abs/2404.00399v1), [pdf](http://arxiv.org/pdf/2404.00399v1.pdf), cication: [**-1**](None)
+
+	 *Taishi Nakamura, Mayank Mishra, Simone Tedeschi, Yekun Chai, Jason T Stillerman, Felix Friedrich, Prateek Yadav, Tanmay Laud, Vu Minh Chien, Terry Yue Zhuo* · ([huggingface](https://huggingface.co/collections/aurora-m/aurora-m-models-65fdfdff62471e09812f5407))
 - [**Mengzi3**](https://github.com/Langboat/Mengzi3) - Langboat ![Star](https://img.shields.io/github/stars/Langboat/Mengzi3.svg?style=social&label=Star)
 
 	 · ([qbitai](https://www.qbitai.com/2024/04/132445.html))
@@ -525,6 +540,10 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s/Lf70i8M0KNDs9ZB8H32h4w))
 
 # Extra
+
+- **HyperCLOVA X Technical Report**, `arXiv, 2404.01954`, [arxiv](http://arxiv.org/abs/2404.01954v1), [pdf](http://arxiv.org/pdf/2404.01954v1.pdf), cication: [**-1**](None)
+
+	 *Kang Min Yoo, Jaegeun Han, Sookyo In, Heewon Jeon, Jisu Jeong, Jaewook Kang, Hyunwook Kim, Kyung-Min Kim, Munhyong Kim, Sungju Kim*
 - **Nemotron-4 15B Technical Report**, `arXiv, 2402.16819`, [arxiv](http://arxiv.org/abs/2402.16819v2), [pdf](http://arxiv.org/pdf/2402.16819v2.pdf), cication: [**-1**](None)
 
 	 *Jupinder Parmar, Shrimai Prabhumoye, Joseph Jennings, Mostofa Patwary, Sandeep Subramanian, Dan Su, Chen Zhu, Deepak Narayanan, Aastha Jhunjhunwala, Ayush Dattagupta*

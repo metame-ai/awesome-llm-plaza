@@ -15,7 +15,13 @@
 	- [Reference](#reference)
 
 ## Survey
-- [Fetching Title#py1n](https://arxiv.org/abs/2404.00621)
+- **A Review of Multi-Modal Large Language and Vision Models**, `arXiv, 2404.01322`, [arxiv](http://arxiv.org/abs/2404.01322v1), [pdf](http://arxiv.org/pdf/2404.01322v1.pdf), cication: [**-1**](None)
+
+	 *Kilian Carolan, Laura Fennelly, Alan F. Smeaton*
+- **Multimodal Pretraining, Adaptation, and Generation for Recommendation: A
+  Survey**, `arXiv, 2404.00621`, [arxiv](http://arxiv.org/abs/2404.00621v1), [pdf](http://arxiv.org/pdf/2404.00621v1.pdf), cication: [**-1**](None)
+
+	 *Qijiong Liu, Jieming Zhu, Yanting Yang, Quanyu Dai, Zhaocheng Du, Xiao-Ming Wu, Zhou Zhao, Rui Zhang, Zhenhua Dong*
 - **Veagle: Advancements in Multimodal Representation Learning**, `arXiv, 2403.08773`, [arxiv](http://arxiv.org/abs/2403.08773v1), [pdf](http://arxiv.org/pdf/2403.08773v1.pdf), cication: [**-1**](None)
 
 	 *Rajat Chawla, Arkajit Datta, Tushar Verma, Adarsh Jha, Anmol Gautam, Ayush Vatsal, Sukrit Chaterjee, Mukunda NS, Ishaan Bhola*
@@ -28,9 +34,13 @@
 
 ## Vision
 ### Vision Encoder
+- **ViTamin: Designing Scalable Vision Models in the Vision-Language Era**, `arXiv, 2404.02132`, [arxiv](http://arxiv.org/abs/2404.02132v1), [pdf](http://arxiv.org/pdf/2404.02132v1.pdf), cication: [**-1**](None)
+
+	 *Jienneg Chen, Qihang Yu, Xiaohui Shen, Alan Yuille, Liang-Chieh Chen* · ([ViTamin](https://github.com/Beckschen/ViTamin) - Beckschen) ![Star](https://img.shields.io/github/stars/Beckschen/ViTamin.svg?style=social&label=Star)
 - **ViTAR: Vision Transformer with Any Resolution**, `arXiv, 2403.18361`, [arxiv](http://arxiv.org/abs/2403.18361v1), [pdf](http://arxiv.org/pdf/2403.18361v1.pdf), cication: [**-1**](None)
 
 	 *Qihang Fan, Quanzeng You, Xiaotian Han, Yongfei Liu, Yunzhe Tao, Huaibo Huang, Ran He, Hongxia Yang*
+	- `addresses the challenge of Vision Transformers limited scalability across various image resolutions, introducing dynamic resolution adjustment and fuzzy positional encoding.`
 - **EfficientVMamba: Atrous Selective Scan for Light Weight Visual Mamba**, `arXiv, 2403.09977`, [arxiv](http://arxiv.org/abs/2403.09977v1), [pdf](http://arxiv.org/pdf/2403.09977v1.pdf), cication: [**-1**](None)
 
 	 *Xiaohuan Pei, Tao Huang, Chang Xu* · ([EfficientVMamba](https://github.com/TerryPei/EfficientVMamba) - TerryPei) ![Star](https://img.shields.io/github/stars/TerryPei/EfficientVMamba.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&mid=2247556253&idx=3&sn=618d4eb61d5fc8b24f9e71931d44c1a8&poc_token=HHjeBGajQSQY6cy7jA_4js-7G5qkkI1EMpYFlg56))
@@ -55,7 +65,13 @@
 	 *Code for paper LocalMamba: Visual State Space Model with Windowed Selective Scan*
 
 ### Video
-- [Fetching Title#5s32](https://arxiv.org/abs/2404.01258)
+- **Streaming Dense Video Captioning**, `arXiv, 2404.01297`, [arxiv](http://arxiv.org/abs/2404.01297v1), [pdf](http://arxiv.org/pdf/2404.01297v1.pdf), cication: [**-1**](None)
+
+	 *Xingyi Zhou, Anurag Arnab, Shyamal Buch, Shen Yan, Austin Myers, Xuehan Xiong, Arsha Nagrani, Cordelia Schmid* · ([scenic](https://github.com/google-research/scenic/tree/main/scenic/projects/streaming_dvc) - google-research) ![Star](https://img.shields.io/github/stars/google-research/scenic.svg?style=social&label=Star)
+- **Direct Preference Optimization of Video Large Multimodal Models from
+  Language Model Reward**, `arXiv, 2404.01258`, [arxiv](http://arxiv.org/abs/2404.01258v2), [pdf](http://arxiv.org/pdf/2404.01258v2.pdf), cication: [**-1**](None)
+
+	 *Ruohong Zhang, Liangke Gui, Zhiqing Sun, Yihao Feng, Keyang Xu, Yuanhan Zhang, Di Fu, Chunyuan Li, Alexander Hauptmann, Yonatan Bisk*
 - **LITA: Language Instructed Temporal-Localization Assistant**, `arXiv, 2403.19046`, [arxiv](http://arxiv.org/abs/2403.19046v1), [pdf](http://arxiv.org/pdf/2403.19046v1.pdf), cication: [**-1**](None)
 
 	 *De-An Huang, Shijia Liao, Subhashree Radhakrishnan, Hongxu Yin, Pavlo Molchanov, Zhiding Yu, Jan Kautz* · ([LITA](https://github.com/NVlabs/LITA) - NVlabs) ![Star](https://img.shields.io/github/stars/NVlabs/LITA.svg?style=social&label=Star)
@@ -160,7 +176,9 @@
   Projection**, `arXiv, 2311.10122`, [arxiv](http://arxiv.org/abs/2311.10122v1), [pdf](http://arxiv.org/pdf/2311.10122v1.pdf), cication: [**-1**](None)
 
 	 *Bin Lin, Bin Zhu, Yang Ye, Munan Ning, Peng Jin, Li Yuan*
-- [Fetching Title#7zcr](https://arxiv.org/abs/2404.00308)
+- **ST-LLM: Large Language Models Are Effective Temporal Learners**, `arXiv, 2404.00308`, [arxiv](http://arxiv.org/abs/2404.00308v1), [pdf](http://arxiv.org/pdf/2404.00308v1.pdf), cication: [**-1**](None)
+
+	 *Ruyang Liu, Chen Li, Haoran Tang, Yixiao Ge, Ying Shan, Ge Li*
 
 	 · ([ST-LLM](https://github.com/TencentARC/ST-LLM) - TencentARC) ![Star](https://img.shields.io/github/stars/TencentARC/ST-LLM.svg?style=social&label=Star)
 - **Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video
@@ -169,10 +187,18 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
+- **LLaVA-Gemma: Accelerating Multimodal Foundation Models with a Compact
+  Language Model**, `arXiv, 2404.01331`, [arxiv](http://arxiv.org/abs/2404.01331v1), [pdf](http://arxiv.org/pdf/2404.01331v1.pdf), cication: [**-1**](None)
+
+	 *Musashi Hinck, Matthew L. Olson, David Cobbley, Shao-Yen Tseng, Vasudev Lal*
+- **Noise-Aware Training of Layout-Aware Language Models**, `arXiv, 2404.00488`, [arxiv](http://arxiv.org/abs/2404.00488v1), [pdf](http://arxiv.org/pdf/2404.00488v1.pdf), cication: [**-1**](None)
+
+	 *Ritesh Sarkhel, Xiaoqi Ren, Lauro Beltrao Costa, Guolong Su, Vincent Perot, Yanan Xie, Emmanouil Koukoumidis, Arnab Nandi*
 - **Mini-Gemini: Mining the Potential of Multi-modality Vision Language
   Models**, `arXiv, 2403.18814`, [arxiv](http://arxiv.org/abs/2403.18814v1), [pdf](http://arxiv.org/pdf/2403.18814v1.pdf), cication: [**-1**](None)
 
 	 *Yanwei Li, Yuechen Zhang, Chengyao Wang, Zhisheng Zhong, Yixin Chen, Ruihang Chu, Shaoteng Liu, Jiaya Jia* · ([MiniGemini](https://github.com/dvlab-research/MiniGemini) - dvlab-research) ![Star](https://img.shields.io/github/stars/dvlab-research/MiniGemini.svg?style=social&label=Star)
+	- `Mini-Gemini is a framework aimed at improving multi-modal vision language models (VLMs) through high-resolution visual tokens, a high-quality dataset, and VLM-guided generation.`
 - **MyVLM: Personalizing VLMs for User-Specific Queries**, `arXiv, 2403.14599`, [arxiv](http://arxiv.org/abs/2403.14599v1), [pdf](http://arxiv.org/pdf/2403.14599v1.pdf), cication: [**-1**](None)
 
 	 *Yuval Alaluf, Elad Richardson, Sergey Tulyakov, Kfir Aberman, Daniel Cohen-Or*
@@ -210,9 +236,11 @@
 	 *Haiyang Wang, Hao Tang, Li Jiang, Shaoshuai Shi, Muhammad Ferjad Naeem, Hongsheng Li, Bernt Schiele, Liwei Wang*
 
 	 · ([GiT](https://github.com/Haiyang-W/GiT) - Haiyang-W) ![Star](https://img.shields.io/github/stars/Haiyang-W/GiT.svg?style=social&label=Star)
+	- `GiT is a framework leveraging a basic Vision Transformer (ViT) for a wide range of vision tasks that is focused on simplifying the architecture by using a universal language interface for tasks like captioning, detection, and segmentation.`
 - **MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training**, `arXiv, 2403.09611`, [arxiv](http://arxiv.org/abs/2403.09611v1), [pdf](http://arxiv.org/pdf/2403.09611v1.pdf), cication: [**-1**](None)
 
 	 *Brandon McKinzie, Zhe Gan, Jean-Philippe Fauconnier, Sam Dodge, Bowen Zhang, Philipp Dufter, Dhruti Shah, Xianzhi Du, Futang Peng, Floris Weers*
+	- `advances multimodal LLMs by analyzing architecture and data strategies and proposes the 30B MM1 model series, which excels in pretraining and finetuning across benchmarks.`
 	- *NOTE*
 - **MoAI: Mixture of All Intelligence for Large Language and Vision Models**, `arXiv, 2403.07508`, [arxiv](http://arxiv.org/abs/2403.07508v1), [pdf](http://arxiv.org/pdf/2403.07508v1.pdf), cication: [**-1**](None)
 
@@ -230,12 +258,11 @@
 - **Multi-modal Instruction Tuned LLMs with Fine-grained Visual Perception**, `arXiv, 2403.02969`, [arxiv](http://arxiv.org/abs/2403.02969v1), [pdf](http://arxiv.org/pdf/2403.02969v1.pdf), cication: [**-1**](None)
 
 	 *Junwen He, Yifan Wang, Lijun Wang, Huchuan Lu, Jun-Yan He, Jin-Peng Lan, Bin Luo, Xuansong Xie*
-- **How Far Are We from Intelligent Visual Deductive Reasoning?**, `arXiv, 2403.04732`, [arxiv](http://arxiv.org/abs/2403.04732v1), [pdf](http://arxiv.org/pdf/2403.04732v1.pdf), cication: [**-1**](None)
 
-	 *Yizhe Zhang, He Bai, Ruixiang Zhang, Jiatao Gu, Shuangfei Zhai, Josh Susskind, Navdeep Jaitly*
 - **Enhancing Vision-Language Pre-training with Rich Supervisions**, `arXiv, 2403.03346`, [arxiv](http://arxiv.org/abs/2403.03346v1), [pdf](http://arxiv.org/pdf/2403.03346v1.pdf), cication: [**-1**](None)
 
 	 *Yuan Gao, Kunyu Shi, Pengkai Zhu, Edouard Belval, Oren Nuriel, Srikar Appalaraju, Shabnam Ghadar, Vijay Mahadevan, Zhuowen Tu, Stefano Soatto*
+	- Strongly Supervised pretraining with ScreenShots (S4) introduces a new pretraining approach for vision-LLMs using web screenshots along with leveraging the inherent tree-structured hierarchy of HTML elements. 
 - **Feast Your Eyes: Mixture-of-Resolution Adaptation for Multimodal Large
   Language Models**, `arXiv, 2403.03003`, [arxiv](http://arxiv.org/abs/2403.03003v1), [pdf](http://arxiv.org/pdf/2403.03003v1.pdf), cication: [**-1**](None)
 
@@ -943,6 +970,7 @@
 - **MagicLens: Self-Supervised Image Retrieval with Open-Ended Instructions**, `arXiv, 2403.19651`, [arxiv](http://arxiv.org/abs/2403.19651v1), [pdf](http://arxiv.org/pdf/2403.19651v1.pdf), cication: [**-1**](None)
 
 	 *Kai Zhang, Yi Luan, Hexiang Hu, Kenton Lee, Siyuan Qiao, Wenhu Chen, Yu Su, Ming-Wei Chang* · ([open-vision-language.github](https://open-vision-language.github.io/MagicLens/))
+	- `leverages text instructions to facilitate the search for images based on a broad spectrum of relations beyond visual similarity.`
 - **Long-CLIP: Unlocking the Long-Text Capability of CLIP**, `arXiv, 2403.15378`, [arxiv](http://arxiv.org/abs/2403.15378v1), [pdf](http://arxiv.org/pdf/2403.15378v1.pdf), cication: [**-1**](None)
 
 	 *Beichen Zhang, Pan Zhang, Xiaoyi Dong, Yuhang Zang, Jiaqi Wang* · ([Long-CLIP](https://github.com/beichenzbc/Long-CLIP) - beichenzbc) ![Star](https://img.shields.io/github/stars/beichenzbc/Long-CLIP.svg?style=social&label=Star)
@@ -1054,6 +1082,14 @@
 - [**BakLLaVA-1**](https://huggingface.co/SkunkworksAI/BakLLaVA-1) - SkunkworksAI 🤗
 
 ## Evaluation
+- **Are Language Models Puzzle Prodigies? Algorithmic Puzzles Unveil Serious
+  Challenges in Multimodal Reasoning**, `arXiv, 2403.03864`, [arxiv](http://arxiv.org/abs/2403.03864v3), [pdf](http://arxiv.org/pdf/2403.03864v3.pdf), cication: [**-1**](None)
+
+	 *Deepanway Ghosal, Vernon Toh Yan Han, Chia Yew Ken, Soujanya Poria*
+- **How Far Are We from Intelligent Visual Deductive Reasoning?**, `arXiv, 2403.04732`, [arxiv](http://arxiv.org/abs/2403.04732v1), [pdf](http://arxiv.org/pdf/2403.04732v1.pdf), cication: [**-1**](None)
+
+	 *Yizhe Zhang, He Bai, Ruixiang Zhang, Jiatao Gu, Shuangfei Zhai, Josh Susskind, Navdeep Jaitly*
+	- `This study explores the capabilities of state-of-the-art Vision-Language Models (VLMs) like GPT-4V in the nuanced field of vision-based deductive reasoning, uncovering significant blindspots in visual deductive reasoning, and finding that techniques effective for text-based reasoning in LLMs don't directly apply to visual reasoning challenges.`
 - **Are We on the Right Way for Evaluating Large Vision-Language Models?**, `arXiv, 2403.20330`, [arxiv](http://arxiv.org/abs/2403.20330v1), [pdf](http://arxiv.org/pdf/2403.20330v1.pdf), cication: [**-1**](None)
 
 	 *Lin Chen, Jinsong Li, Xiaoyi Dong, Pan Zhang, Yuhang Zang, Zehui Chen, Haodong Duan, Jiaqi Wang, Yu Qiao, Dahua Lin*

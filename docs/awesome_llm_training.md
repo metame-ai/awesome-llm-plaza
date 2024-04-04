@@ -21,6 +21,10 @@
 
 
 ## Pretrain
+- **The Fine Line: Navigating Large Language Model Pretraining with
+  Down-streaming Capability Analysis**, `arXiv, 2404.01204`, [arxiv](http://arxiv.org/abs/2404.01204v1), [pdf](http://arxiv.org/pdf/2404.01204v1.pdf), cication: [**-1**](None)
+
+	 *Chen Yang, Junzhuo Li, Xinyao Niu, Xinrun Du, Songyang Gao, Haoran Zhang, Zhaoliang Chen, Xingwei Qu, Ruibin Yuan, Yizhi Li*
 - **Mitigating Reversal Curse in Large Language Models via Semantic-aware
   Permutation Training**, `arXiv, 2403.00758`, [arxiv](http://arxiv.org/abs/2403.00758v3), [pdf](http://arxiv.org/pdf/2403.00758v3.pdf), cication: [**-1**](None)
 
@@ -67,6 +71,7 @@
 	 *Anson Ho, Tamay Besiroglu, Ege Erdil, David Owen, Robi Rahman, Zifan Carl Guo, David Atkinson, Neil Thompson, Jaime Sevilla*
 
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652455514&idx=3&sn=8955e6ac82257fc0b3da29e34d1e5467))
+	- `since 2012, the computational efficiency for pretraining language models (including large language models) has doubled approximately every 8 months, a pace much faster than the hardware advancements predicted by Moore's Law.`
 - **When Scaling Meets LLM Finetuning: The Effect of Data, Model and
   Finetuning Method**, `arXiv, 2402.17193`, [arxiv](http://arxiv.org/abs/2402.17193v1), [pdf](http://arxiv.org/pdf/2402.17193v1.pdf), cication: [**-1**](None)
 
@@ -181,6 +186,7 @@
 	 *Adam Ibrahim, Benjamin Thérien, Kshitij Gupta, Mats L. Richter, Quentin Anthony, Timothée Lesort, Eugene Belilovsky, Irina Rish*
 
 	 · ([twitter](https://twitter.com/rasbt/status/1768629533509370279))
+	- `LLMs can be efficiently updated with new data through a combination of simple learning rate rewarming and adding a small fraction of previous training data to counteract catastrophic forgetting.`
 - **Personalized Large Language Models**, `arXiv, 2402.09269`, [arxiv](http://arxiv.org/abs/2402.09269v1), [pdf](http://arxiv.org/pdf/2402.09269v1.pdf), cication: [**-1**](None)
 
 	 *Stanisław Woźniak, Bartłomiej Koptyra, Arkadiusz Janz, Przemysław Kazienko, Jan Kocoń*
@@ -271,6 +277,10 @@
 	 *Yang Luo, Xiaozhe Ren, Zangwei Zheng, Zhuo Jiang, Xin Jiang, Yang You* · ([qbitai](https://www.qbitai.com/2023/07/67814.html))
  
 ## Ensemble
+- **Training-Free Pretrained Model Merging**, `arXiv, 2403.01753`, [arxiv](http://arxiv.org/abs/2403.01753v3), [pdf](http://arxiv.org/pdf/2403.01753v3.pdf), cication: [**-1**](None)
+
+	 *Zhengqi Xu, Ke Yuan, Huiqiong Wang, Yong Wang, Mingli Song, Jie Song*
+	- `The proposed model merging framework addresses the challenge of balancing unit similarity inconsistencies between weight and activation spaces during model merging by linearly combining similarity matrices of both, resulting in better multi-task model performance.`
 - **Evolutionary Optimization of Model Merging Recipes**, `arXiv, 2403.13187`, [arxiv](http://arxiv.org/abs/2403.13187v1), [pdf](http://arxiv.org/pdf/2403.13187v1.pdf), cication: [**-1**](None)
 
 	 *Takuya Akiba, Makoto Shing, Yujin Tang, Qi Sun, David Ha*
@@ -321,8 +331,9 @@
 	 *Dongfu Jiang, Xiang Ren, Bill Yuchen Lin* · ([LLM-Blender](https://github.com/yuchenlin/LLM-Blender) - yuchenlin) ![Star](https://img.shields.io/github/stars/yuchenlin/LLM-Blender.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652343982&idx=4&sn=ce5c51039d91531178257024d883db90))
 
 ### Other
-[Model merging lessons in The Waifu Research Department](https://www.interconnects.ai/p/model-merging)
-- [Site Unreachable](https://huggingface.co/collections/osanseviero/model-merging-65097893623330a3a51ead66)
+- [**mergekit-gui**](https://huggingface.co/spaces/julien-c/mergekit-gui) - julien-c 🤗
+- [Model merging lessons in The Waifu Research Department](https://www.interconnects.ai/p/model-merging)
+- [Model Merging - a osanseviero Collection](https://huggingface.co/collections/osanseviero/model-merging-65097893623330a3a51ead66)
 - [🤗 PEFT welcomes new merging methods](https://huggingface.co/blog/peft_merging)
 - [Weight averaging and model merging for LLMs seem to be the most interesting themes in 2024 so far. ](https://twitter.com/rasbt/status/1750180383398744106)
 

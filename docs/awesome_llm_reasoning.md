@@ -19,12 +19,18 @@
 
 
 ## Survey
+- **Efficient Prompting Methods for Large Language Models: A Survey**, `arXiv, 2404.01077`, [arxiv](http://arxiv.org/abs/2404.01077v1), [pdf](http://arxiv.org/pdf/2404.01077v1.pdf), cication: [**-1**](None)
+
+	 *Kaiyan Chang, Songcheng Xu, Chenglong Wang, Yingfeng Luo, Tong Xiao, Jingbo Zhu*
 - **A Survey of Reasoning with Foundation Models: Concepts, Methodologies,
   and Outlook**, `arXiv, 2312.11562`, [arxiv](http://arxiv.org/abs/2312.11562v3), [pdf](http://arxiv.org/pdf/2312.11562v3.pdf), cication: [**-1**](None)
 
 	 *Jiankai Sun, Chuanyang Zheng, Enze Xie, Zhengying Liu, Ruihang Chu, Jianing Qiu, Jiaqi Xu, Mingyu Ding, Hongyang Li, Mengzhe Geng* · ([Awesome-Reasoning-Foundation-Models](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models) - reasoning-survey) ![Star](https://img.shields.io/github/stars/reasoning-survey/Awesome-Reasoning-Foundation-Models.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652421688&idx=3&sn=fcdc24edc7bc89ebcbcca0f7665e40f6))
 
 ## Reasoning
+- **Advancing LLM Reasoning Generalists with Preference Trees**, `arXiv, 2404.02078`, [arxiv](http://arxiv.org/abs/2404.02078v1), [pdf](http://arxiv.org/pdf/2404.02078v1.pdf), cication: [**-1**](None)
+
+	 *Lifan Yuan, Ganqu Cui, Hanbin Wang, Ning Ding, Xingyao Wang, Jia Deng, Boji Shan, Huimin Chen, Ruobing Xie, Yankai Lin* · ([Eurus](https://github.com/OpenBMB/Eurus) - OpenBMB) ![Star](https://img.shields.io/github/stars/OpenBMB/Eurus.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/collections/openbmb/eurus-660bc40bec5376b3adc9d1c5))
 - **ReALM: Reference Resolution As Language Modeling**, `arXiv, 2403.20329`, [arxiv](http://arxiv.org/abs/2403.20329v1), [pdf](http://arxiv.org/pdf/2403.20329v1.pdf), cication: [**-1**](None)
 
 	 *Joel Ruben Antony Moniz, Soundarya Krishnan, Melis Ozyildirim, Prathamesh Saraf, Halim Cagri Ates, Yuan Zhang, Hong Yu, Nidhi Rajshree*
@@ -368,6 +374,7 @@
 - **Common 7B Language Models Already Possess Strong Math Capabilities**, `arXiv, 2403.04706`, [arxiv](http://arxiv.org/abs/2403.04706v1), [pdf](http://arxiv.org/pdf/2403.04706v1.pdf), cication: [**-1**](None)
 
 	 *Chen Li, Weiqi Wang, Jingcheng Hu, Yixuan Wei, Nanning Zheng, Han Hu, Zheng Zhang, Houwen Peng*
+	- `LLaMA-2 7B model's surprising mathematical skills even though it only underwent standard pretraining, and its consistency improves with scaled-up supervised instruction-finetuning data.`
 - **MathScale: Scaling Instruction Tuning for Mathematical Reasoning**, `arXiv, 2403.02884`, [arxiv](http://arxiv.org/abs/2403.02884v1), [pdf](http://arxiv.org/pdf/2403.02884v1.pdf), cication: [**-1**](None)
 
 	 *Zhengyang Tang, Xingxing Zhang, Benyou Wang, Furu Wei*
@@ -649,6 +656,7 @@
 - **Can large language models explore in-context?**, `arXiv, 2403.15371`, [arxiv](http://arxiv.org/abs/2403.15371v1), [pdf](http://arxiv.org/pdf/2403.15371v1.pdf), cication: [**-1**](None)
 
 	 *Akshay Krishnamurthy, Keegan Harris, Dylan J. Foster, Cyril Zhang, Aleksandrs Slivkins*
+	- `contemporary Large Language Models, including GPT-3.5, GPT-4, and Llama2, do not reliably engage in exploratory behavior in multi-armed bandit environments without significant interventions`
 - **In-Context Principle Learning from Mistakes**, `arXiv, 2402.05403`, [arxiv](http://arxiv.org/abs/2402.05403v2), [pdf](http://arxiv.org/pdf/2402.05403v2.pdf), cication: [**-1**](None)
 
 	 *Tianjun Zhang, Aman Madaan, Luyu Gao, Steven Zheng, Swaroop Mishra, Yiming Yang, Niket Tandon, Uri Alon*

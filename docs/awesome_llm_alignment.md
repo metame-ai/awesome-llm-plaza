@@ -188,7 +188,17 @@
 	 *Timo Kaufmann, Paul Weng, Viktor Bengs, Eyke Hüllermeier*
 
 ## Papers
-- [[2404.00934] ChatGLM-RLHF: Practices of Aligning Large Language Models with Human Feedback](https://arxiv.org/abs/2404.00934)
+- **RewardBench: Evaluating Reward Models for Language Modeling**, `arXiv, 2403.13787`, [arxiv](http://arxiv.org/abs/2403.13787v1), [pdf](http://arxiv.org/pdf/2403.13787v1.pdf), cication: [**-1**](None)
+
+	 *Nathan Lambert, Valentina Pyatkin, Jacob Morrison, LJ Miranda, Bill Yuchen Lin, Khyathi Chandu, Nouha Dziri, Sachin Kumar, Tom Zick, Yejin Choi*
+	- `a benchmark dataset and toolkit designed for the comprehensive evaluation of reward models used in RLHF`
+- [**reward-bench**](https://github.com/allenai/reward-bench?tab=readme-ov-file) - allenai ![Star](https://img.shields.io/github/stars/allenai/reward-bench.svg?style=social&label=Star)
+
+	 *RewardBench: the first evaluation tool for reward models.* · ([huggingface](https://huggingface.co/spaces/allenai/reward-bench)) · ([twitter](https://twitter.com/natolambert/status/1770488846360428782))
+- **ChatGLM-RLHF: Practices of Aligning Large Language Models with Human
+  Feedback**, `arXiv, 2404.00934`, [arxiv](http://arxiv.org/abs/2404.00934v2), [pdf](http://arxiv.org/pdf/2404.00934v2.pdf), cication: [**-1**](None)
+
+	 *Zhenyu Hou, Yilin Niu, Zhengxiao Du, Xiaohan Zhang, Xiao Liu, Aohan Zeng, Qinkai Zheng, Minlie Huang, Hongning Wang, Jie Tang*
 - **sDPO: Don't Use Your Data All at Once**, `arXiv, 2403.19270`, [arxiv](http://arxiv.org/abs/2403.19270v1), [pdf](http://arxiv.org/pdf/2403.19270v1.pdf), cication: [**-1**](None)
 
 	 *Dahyun Kim, Yungi Kim, Wonho Song, Hyeonwoo Kim, Yunsu Kim, Sanghoon Kim, Chanjun Park*
@@ -201,6 +211,7 @@
 - **PERL: Parameter Efficient Reinforcement Learning from Human Feedback**, `arXiv, 2403.10704`, [arxiv](http://arxiv.org/abs/2403.10704v1), [pdf](http://arxiv.org/pdf/2403.10704v1.pdf), cication: [**-1**](None)
 
 	 *Hakim Sidahmed, Samrat Phatale, Alex Hutcheson, Zhuonan Lin, Zhang Chen, Zac Yu, Jarvis Jin, Roman Komarytsia, Christiane Ahlheim, Yonghao Zhu*
+	- `(PERL) using Low-Rank Adaptation (LoRA) for training models with Reinforcement Learning from Human Feedback (RLHF), a method that aligns pretrained base LLMs with human preferences efficiently.`
 - **ORPO: Monolithic Preference Optimization without Reference Model**, `arXiv, 2403.07691`, [arxiv](http://arxiv.org/abs/2403.07691v2), [pdf](http://arxiv.org/pdf/2403.07691v2.pdf), cication: [**-1**](None)
 
 	 *Jiwoo Hong, Noah Lee, James Thorne* · ([orpo](https://github.com/xfactlab/orpo) - xfactlab) ![Star](https://img.shields.io/github/stars/xfactlab/orpo.svg?style=social&label=Star)
@@ -402,9 +413,6 @@
 
 	 *Yuntao Bai, Andy Jones, Kamal Ndousse, Amanda Askell, Anna Chen, Nova DasSarma, Dawn Drain, Stanislav Fort, Deep Ganguli, Tom Henighan* · ([hh-rlhf](https://github.com/anthropics/hh-rlhf) - anthropics) ![Star](https://img.shields.io/github/stars/anthropics/hh-rlhf.svg?style=social&label=Star)
 ## Projects
-- [**reward-bench**](https://github.com/allenai/reward-bench?tab=readme-ov-file) - allenai ![Star](https://img.shields.io/github/stars/allenai/reward-bench.svg?style=social&label=Star)
-
-	 *RewardBench: the first evaluation tool for reward models.* · ([huggingface](https://huggingface.co/spaces/allenai/reward-bench)) · ([twitter](https://twitter.com/natolambert/status/1770488846360428782))
 - [**PairRM**](https://huggingface.co/llm-blender/PairRM) - llm-blender 🤗
 - [**OpenRLHF**](https://github.com/OpenLLMAI/OpenRLHF) - OpenLLMAI ![Star](https://img.shields.io/github/stars/OpenLLMAI/OpenRLHF.svg?style=social&label=Star)
 

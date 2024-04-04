@@ -23,15 +23,23 @@
 - [Attention? Attention! | Lil'Log](https://lilianweng.github.io/posts/2018-06-24-attention/#a-family-of-attention-mechanisms)
 
 ## Evaluation
+- **Counting-Stars: A Simple, Efficient, and Reasonable Strategy for
+  Evaluating Long-Context Large Language Models**, `arXiv, 2403.11802`, [arxiv](http://arxiv.org/abs/2403.11802v2), [pdf](http://arxiv.org/pdf/2403.11802v2.pdf), cication: [**-1**](None)
+
+	 *Mingyang Song, Mao Zheng, Xuan Luo* · ([Counting-Stars](https://github.com/nick7nlp/Counting-Stars) - nick7nlp) ![Star](https://img.shields.io/github/stars/nick7nlp/Counting-Stars.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s/rH7PNHYeTkZOlhSoFL6bpA))
 - **Evaluating Very Long-Term Conversational Memory of LLM Agents**, `arXiv, 2402.17753`, [arxiv](http://arxiv.org/abs/2402.17753v1), [pdf](http://arxiv.org/pdf/2402.17753v1.pdf), cication: [**-1**](None)
 
 	 *Adyasha Maharana, Dong-Ho Lee, Sergey Tulyakov, Mohit Bansal, Francesco Barbieri, Yuwei Fang*
 
 ## Papers
+- **Long-context LLMs Struggle with Long In-context Learning**, `arXiv, 2404.02060`, [arxiv](http://arxiv.org/abs/2404.02060v1), [pdf](http://arxiv.org/pdf/2404.02060v1.pdf), cication: [**-1**](None)
+
+	 *Tianle Li, Ge Zhang, Quy Duc Do, Xiang Yue, Wenhu Chen*
 - **BurstAttention: An Efficient Distributed Attention Framework for
   Extremely Long Sequences**, `arXiv, 2403.09347`, [arxiv](http://arxiv.org/abs/2403.09347v1), [pdf](http://arxiv.org/pdf/2403.09347v1.pdf), cication: [**-1**](None)
 
 	 *Sun Ao, Weilin Zhao, Xu Han, Cheng Yang, Zhiyuan Liu, Chuan Shi, Maosong Sun, Shengnan Wang, Teng Su*
+	- `optimizes distributed attention in Transformer-based models for long sequences, cutting communication overhead by 40% and doubling processing speed on GPUs.`
 - **Gemini 1.5: Unlocking multimodal understanding across millions of tokens
   of context**, `arXiv, 2403.05530`, [arxiv](http://arxiv.org/abs/2403.05530v1), [pdf](http://arxiv.org/pdf/2403.05530v1.pdf), cication: [**-1**](None)
 

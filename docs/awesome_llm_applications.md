@@ -184,6 +184,9 @@
 	 *Yizhe Zhang, Jiatao Gu, Zhuofeng Wu, Shuangfei Zhai, Josh Susskind, Navdeep Jaitly*
 
 ## WebUI
+- [**every-chatgpt-gui**](https://github.com/billmei/every-chatgpt-gui) - billmei ![Star](https://img.shields.io/github/stars/billmei/every-chatgpt-gui.svg?style=social&label=Star)
+
+	 *Every front-end GUI client for ChatGPT*
 - [**chatnio**](https://github.com/Deeptrain-Community/chatnio) - Deeptrain-Community ![Star](https://img.shields.io/github/stars/Deeptrain-Community/chatnio.svg?style=social&label=Star)
 
 	 *🚀 下一代 AI 一站式解决方案，一站式 Chat + 中转 API 站点，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Google Gemini (PaLM2)，Moonshot，LocalAI 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费 / 订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。*
@@ -703,6 +706,9 @@
 	 *Official repo for LayoutGPT*
 
 ## Science
+- **Are large language models superhuman chemists?**, `arXiv, 2404.01475`, [arxiv](http://arxiv.org/abs/2404.01475v1), [pdf](http://arxiv.org/pdf/2404.01475v1.pdf), cication: [**-1**](None)
+
+	 *Adrian Mirza, Nawaf Alampara, Sreekanth Kunchapu, Benedict Emoekabu, Aswanth Krishnan, Mara Wilhelmi, Macjonathan Okereke, Juliane Eberhardt, Amir Mohammad Elahi, Maximilian Greiner*
 - [Electron density-based GPT for optimization and suggestion of host–guest binders | Nature Computational Science](https://www.nature.com/articles/s43588-024-00602-x)
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-03-26))
@@ -820,6 +826,9 @@
 	 *Tongshuang Wu, Haiyi Zhu, Maya Albayrak, Alexis Axon, Amanda Bertsch, Wenxing Deng, Ziqi Ding, Bill Guo, Sireesh Gururaja, Tzu-Sheng Kuo*
 
 ## Misc
+- **LLM-ABR: Designing Adaptive Bitrate Algorithms via Large Language Models**, `arXiv, 2404.01617`, [arxiv](http://arxiv.org/abs/2404.01617v1), [pdf](http://arxiv.org/pdf/2404.01617v1.pdf), cication: [**-1**](None)
+
+	 *Zhiyuan He, Aashish Gottipati, Lili Qiu, Francis Y. Yan, Xufang Luo, Kenuo Xu, Yuqing Yang*
 - **Priority Sampling of Large Language Models for Compilers**, `arXiv, 2402.18734`, [arxiv](http://arxiv.org/abs/2402.18734v1), [pdf](http://arxiv.org/pdf/2402.18734v1.pdf), cication: [**-1**](None)
 
 	 *Dejan Grubisic, Chris Cummins, Volker Seeker, Hugh Leather*
