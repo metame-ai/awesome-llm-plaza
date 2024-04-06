@@ -530,6 +530,9 @@
 	 *Tianlu Wang, Ping Yu, Xiaoqing Ellen Tan, Sean O'Brien, Ramakanth Pasunuru, Jane Dwivedi-Yu, Olga Golovneva, Luke Zettlemoyer, Maryam Fazel-Zarandi, Asli Celikyilmaz* · ([shepherd](https://github.com/facebookresearch/shepherd) - facebookresearch) ![Star](https://img.shields.io/github/stars/facebookresearch/shepherd.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652366759&idx=3&sn=f183f4c8080a338c4c9fad0f026b14af))
 
 ## Prompting
+- [**aici**](https://github.com/microsoft/aici) - microsoft ![Star](https://img.shields.io/github/stars/microsoft/aici.svg?style=social&label=Star)
+
+	 *AICI: Prompts as (Wasm) Programs*
 - **Supervisory Prompt Training**, `arXiv, 2403.18051`, [arxiv](http://arxiv.org/abs/2403.18051v1), [pdf](http://arxiv.org/pdf/2403.18051v1.pdf), cication: [**-1**](None)
 
 	 *Jean Ghislain Billa, Min Oh, Liang Du*

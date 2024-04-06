@@ -427,6 +427,11 @@
 - [**transformer-debugger**](https://github.com/openai/transformer-debugger) - openai ![Star](https://img.shields.io/github/stars/openai/transformer-debugger.svg?style=social&label=Star)
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-03-12-3))
+- **Logits of API-Protected LLMs Leak Proprietary Information**, `arXiv, 2403.09539`, [arxiv](http://arxiv.org/abs/2403.09539v2), [pdf](http://arxiv.org/pdf/2403.09539v2.pdf), cication: [**-1**](None)
+
+	 *Matthew Finlayson, Xiang Ren, Swabha Swayamdipta*
+
+	 · ([qbitai](https://www.qbitai.com/2024/03/128307.html))
 - **Stealing Part of a Production Language Model**, `arXiv, 2403.06634`, [arxiv](http://arxiv.org/abs/2403.06634v1), [pdf](http://arxiv.org/pdf/2403.06634v1.pdf), cication: [**-1**](None)
 
 	 *Nicholas Carlini, Daniel Paleka, Krishnamurthy Dj Dvijotham, Thomas Steinke, Jonathan Hayase, A. Feder Cooper, Katherine Lee, Matthew Jagielski, Milad Nasr, Arthur Conmy*
@@ -711,6 +716,12 @@
 - [Sam Altman: OpenAI, GPT-5, Sora, Board Saga, Elon Musk, Ilya, Power & AGI | Lex Fridman Podcast #419 - YouTube](https://www.youtube.com/watch?v=jvqFAi7vkBc)
 - [No Priors: AI, Machine Learning, Tech, & Startups - YouTube](https://www.youtube.com/@NoPriorsPodcast)
 - [Eye on AI - YouTube](https://www.youtube.com/@eyeonai3425/podcasts)
+
+### Blogs
+- [Site Unreachable](https://nlp.elvissaravia.com/)
+- [Archive • AI News • Buttondown](https://buttondown.email/ainews/archive/)
+- [Sebastian Raschka, PhD | Substack](https://substack.com/@rasbt)
+- [Lil'Log](https://lilianweng.github.io/)
 
 ## Extra reference
 - [**Awesome-Mamba-Papers**](https://github.com/yyyujintang/Awesome-Mamba-Papers) - yyyujintang ![Star](https://img.shields.io/github/stars/yyyujintang/Awesome-Mamba-Papers.svg?style=social&label=Star)

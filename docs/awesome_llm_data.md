@@ -248,6 +248,7 @@
 	 *Xiang Deng, Yu Gu, Boyuan Zheng, Shijie Chen, Samuel Stevens, Boshi Wang, Huan Sun, Yu Su*
 
 ### Synthetic 
+- [**Genstruct-7B**](https://huggingface.co/NousResearch/Genstruct-7B) - NousResearch 🤗
 - [Cosmopedia: how to create large-scale synthetic data for pre-training Large Language Models](https://huggingface.co/blog/cosmopedia)
 
 	 · ([cosmopedia](https://github.com/huggingface/cosmopedia) - huggingface) ![Star](https://img.shields.io/github/stars/huggingface/cosmopedia.svg?style=social&label=Star)
@@ -285,6 +286,9 @@
   Language Models by Extrapolating Errors from Small Models**, `arXiv, 2310.13671`, [arxiv](http://arxiv.org/abs/2310.13671v1), [pdf](http://arxiv.org/pdf/2310.13671v1.pdf), cication: [**-1**](None)
 
 	 *Ruida Wang, Wangchunshu Zhou, Mrinmaya Sachan*
+- **Ada-Instruct: Adapting Instruction Generators for Complex Reasoning**, `arXiv, 2310.04484`, [arxiv](http://arxiv.org/abs/2310.04484v2), [pdf](http://arxiv.org/pdf/2310.04484v2.pdf), cication: [**-1**](None)
+
+	 *Wanyun Cui, Qianle Wang*
 - **PIPPA: A Partially Synthetic Conversational Dataset**, `arXiv, 2308.05884`, [arxiv](http://arxiv.org/abs/2308.05884v1), [pdf](http://arxiv.org/pdf/2308.05884v1.pdf), cication: [**-1**](None)
 
 	 *Tear Gosling, Alpin Dale, Yinhe Zheng*

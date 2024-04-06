@@ -168,6 +168,8 @@
 - [**gemma-7b-dolly-chatml**](https://huggingface.co/philschmid/gemma-7b-dolly-chatml) - philschmid 🤗
 - [**catch-me-if-you-can**](https://huggingface.co/spaces/cyzgab/catch-me-if-you-can) - cyzgab 🤗
 - [**GemMoE-Beta-1**](https://huggingface.co/Crystalcareai/GemMoE-Beta-1) - Crystalcareai 🤗
+- [**Hebrew-Gemma-11B**](https://huggingface.co/yam-peleg/Hebrew-Gemma-11B) - yam-peleg 🤗
+- [Gemma finetuning should be much better now : r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/1bd18y8/gemma_finetuning_should_be_much_better_now/?rdt=59207)
 
 ### OLMo
 - **OLMo: Accelerating the Science of Language Models**, `arXiv, 2402.00838`, [arxiv](http://arxiv.org/abs/2402.00838v1), [pdf](http://arxiv.org/pdf/2402.00838v1.pdf), cication: [**-1**](None)
@@ -422,7 +424,9 @@
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-12-11-15))
 
 ### InterLM
-- [https://arxiv.org/abs/2403.17297](https://t.co/9yhfzBCF1h)
+- **InternLM2 Technical Report**, `arXiv, 2403.17297`, [arxiv](http://arxiv.org/abs/2403.17297v1), [pdf](http://arxiv.org/pdf/2403.17297v1.pdf), cication: [**-1**](None)
+
+	 *Zheng Cai, Maosong Cao, Haojiong Chen, Kai Chen, Keyu Chen, Xin Chen, Xun Chen, Zehui Chen, Zhi Chen, Pei Chu*
 - [**InternLM**](https://github.com/InternLM/InternLM) - InternLM ![Star](https://img.shields.io/github/stars/InternLM/InternLM.svg?style=social&label=Star)
 
 	 *InternLM has open-sourced a 7 billion parameter base model, a chat model tailored for practical scenarios and the training system.* · ([qbitai](https://www.qbitai.com/2023/09/85229.html)) · ([qbitai](https://www.qbitai.com/2023/08/78638.html))
@@ -466,10 +470,10 @@
 
 	 *The official repo of Qwen-7B (通义千问-7B) chat & pretrained large language model proposed by Alibaba Cloud.* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494650&idx=1&sn=fbeb1cc57092931966b3e57f8733ed82)) · ([qbitai](https://www.qbitai.com/2023/09/86450.html))
 - [**Qwen1.5-MoE-A2.7B**](https://huggingface.co/Qwen/Qwen1.5-MoE-A2.7B) - Qwen 🤗
-- [https://huggingface.co/spaces/Qwen/qwen1.5-MoE-A2.7B-Chat-demo](https://t.co/GL42SzNFW1)
+- [**qwen1.5-MoE-A2.7B-Chat-demo**](https://huggingface.co/spaces/Qwen/qwen1.5-MoE-A2.7B-Chat-demo) - Qwen 🤗
 - [**Qwen-72B-Chat-Demo**](https://huggingface.co/spaces/Qwen/Qwen-72B-Chat-Demo) - Qwen 🤗
 - [Quyen - a vilm Collection](https://huggingface.co/collections/vilm/quyen-65bc71a29fa020161bc87859)
-- [**d-Qwen1.5-0.5B?utm_source=ainews&utm_medium=email&utm_campaign=ainews-mm1-apples-first-large-multimodal-model**](https://huggingface.co/aloobun/d-Qwen1.5-0.5B?utm_source=ainews&utm_medium=email&utm_campaign=ainews-mm1-apples-first-large-multimodal-model) - aloobun 🤗
+- [**d-Qwen1.5-0.5B**](https://huggingface.co/aloobun/d-Qwen1.5-0.5B?utm_source=ainews&utm_medium=email&utm_campaign=ainews-mm1-apples-first-large-multimodal-model) - aloobun 🤗
 ### Baichuan
 - **Baichuan 2: Open Large-scale Language Models**, `arXiv, 2309.10305`, [arxiv](http://arxiv.org/abs/2309.10305v2), [pdf](http://arxiv.org/pdf/2309.10305v2.pdf), cication: [**16**](https://scholar.google.com/scholar?cites=11092587028861989085&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 

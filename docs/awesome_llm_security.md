@@ -49,6 +49,9 @@
 	 *Stephen Casper, Jason Lin, Joe Kwon, Gatlen Culp, Dylan Hadfield-Menell*
 
 ## Papers
+- [What Was Your Prompt? A Remote Keylogging Attack on AI Assistants](https://cdn.arstechnica.net/wp-content/uploads/2024/03/LLM-Side-Channel.pdf)
+
+	 · ([youtu](https://youtu.be/UfenH7xKO1s)) · ([twitter](https://twitter.com/felix_red_panda/status/1769363356094230837?t=JMMb3OldqfhhCH8X5e7ljA&s=09))
 - **JailbreakBench: An Open Robustness Benchmark for Jailbreaking Large
   Language Models**, `arXiv, 2404.01318`, [arxiv](http://arxiv.org/abs/2404.01318v1), [pdf](http://arxiv.org/pdf/2404.01318v1.pdf), cication: [**-1**](None)
 
@@ -70,11 +73,7 @@
 
 	 · ([decoding-comp-trust.github](https://decoding-comp-trust.github.io/))
 	- ` quantization is better than pruning for maintaining efficiency and trustworthiness.`
-- **Logits of API-Protected LLMs Leak Proprietary Information**, `arXiv, 2403.09539`, [arxiv](http://arxiv.org/abs/2403.09539v2), [pdf](http://arxiv.org/pdf/2403.09539v2.pdf), cication: [**-1**](None)
 
-	 *Matthew Finlayson, Xiang Ren, Swabha Swayamdipta*
-
-	 · ([qbitai](https://www.qbitai.com/2024/03/128307.html))
 - **SafeDecoding: Defending against Jailbreak Attacks via Safety-Aware
   Decoding**, `arXiv, 2402.08983`, [arxiv](http://arxiv.org/abs/2402.08983v2), [pdf](http://arxiv.org/pdf/2402.08983v2.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=12112148021973739744&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 

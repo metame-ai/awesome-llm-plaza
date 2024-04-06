@@ -855,6 +855,7 @@
 - [**contrastors**](https://github.com/nomic-ai/contrastors) - nomic-ai ![Star](https://img.shields.io/github/stars/nomic-ai/contrastors.svg?style=social&label=Star)
 
 	 *Train Models Contrastively in Pytorch* · ([huggingface](https://huggingface.co/nomic-ai/nomic-embed-text-v1)) · ([mp.weixin.qq](https://mp.weixin.qq.com/s/EMWNf9TiDwuxxkwwqsl73g))
+- [Fetching Title#b8ws](https://txt.cohere.com/introducing-embed-v3/)
 
 ---
 - [Cheap RAGs up for grabs: How we cut LLM costs without sacrificing accuracy? | Pathway](https://pathway.com/developers/showcases/adaptive-rag)
@@ -892,6 +893,9 @@
 - [问答场景常用大模型解决方案](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494688&idx=2&sn=d871403a80a7fcf656ce0100f266f939)
 
 ## Code Interpreter
+- [**FuzzTypes**](https://github.com/genomoncology/FuzzTypes) - genomoncology ![Star](https://img.shields.io/github/stars/genomoncology/FuzzTypes.svg?style=social&label=Star)
+
+	 *Pydantic extension for annotating autocorrecting fields.*
 - [**function-calling-eval**](https://github.com/interstellarninja/function-calling-eval?utm_source=ainews&utm_medium=email&utm_campaign=ainews-mm1-apples-first-large-multimodal-model) - interstellarninja ![Star](https://img.shields.io/github/stars/interstellarninja/function-calling-eval.svg?style=social&label=Star)
 
 	 *A framework for evaluating function calls made by LLMs*

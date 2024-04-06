@@ -11,6 +11,10 @@
 	- [Extra reference](#extra-reference)
 
 ## Survey
+- **On the Essence and Prospect: An Investigation of Alignment Approaches
+  for Big Models**, `arXiv, 2403.04204`, [arxiv](http://arxiv.org/abs/2403.04204v1), [pdf](http://arxiv.org/pdf/2403.04204v1.pdf), cication: [**-1**](None)
+
+	 *Xinpeng Wang, Shitong Duan, Xiaoyuan Yi, Jing Yao, Shanlin Zhou, Zhihua Wei, Peng Zhang, Dongkuan Xu, Maosong Sun, Xing Xie*
 - **AI Alignment: A Comprehensive Survey**, `arXiv, 2310.19852`, [arxiv](http://arxiv.org/abs/2310.19852v2), [pdf](http://arxiv.org/pdf/2310.19852v2.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=2143607605171939849&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Jiaming Ji, Tianyi Qiu, Boyuan Chen, Borong Zhang, Hantao Lou, Kaile Wang, Yawen Duan, Zhonghao He, Jiayi Zhou, Zhaowei Zhang*
