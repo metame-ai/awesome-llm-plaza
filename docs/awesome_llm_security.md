@@ -9,6 +9,10 @@
 
 
 ## Survey
+- **Against The Achilles' Heel: A Survey on Red Teaming for Generative
+  Models**, `arXiv, 2404.00629`, [arxiv](http://arxiv.org/abs/2404.00629v1), [pdf](http://arxiv.org/pdf/2404.00629v1.pdf), cication: [**-1**](None)
+
+	 *Lizhi Lin, Honglin Mu, Zenan Zhai, Minghan Wang, Yuxia Wang, Renxi Wang, Junjie Gao, Yixuan Zhang, Wanxiang Che, Timothy Baldwin*
 - **Breaking Down the Defenses: A Comparative Survey of Attacks on Large
   Language Models**, `arXiv, 2403.04786`, [arxiv](http://arxiv.org/abs/2403.04786v1), [pdf](http://arxiv.org/pdf/2403.04786v1.pdf), cication: [**-1**](None)
 
@@ -38,6 +42,10 @@
 - **MART: Improving LLM Safety with Multi-round Automatic Red-Teaming**, `arXiv, 2311.07689`, [arxiv](http://arxiv.org/abs/2311.07689v1), [pdf](http://arxiv.org/pdf/2311.07689v1.pdf), cication: [**-1**](None)
 
 	 *Suyu Ge, Chunting Zhou, Rui Hou, Madian Khabsa, Yi-Chia Wang, Qifan Wang, Jiawei Han, Yuning Mao*
+- **Summon a Demon and Bind it: A Grounded Theory of LLM Red Teaming in the
+  Wild**, `arXiv, 2311.06237`, [arxiv](http://arxiv.org/abs/2311.06237v2), [pdf](http://arxiv.org/pdf/2311.06237v2.pdf), cication: [**-1**](None)
+
+	 *Nanna Inie, Jonathan Stray, Leon Derczynski*
 - **Moral Foundations of Large Language Models**, `arXiv, 2310.15337`, [arxiv](http://arxiv.org/abs/2310.15337v1), [pdf](http://arxiv.org/pdf/2310.15337v1.pdf), cication: [**7**](https://scholar.google.com/scholar?cites=2033876937451648547&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Marwa Abdulhai, Gregory Serapio-Garcia, Clément Crepy, Daria Valter, John Canny, Natasha Jaques*
@@ -49,6 +57,9 @@
 	 *Stephen Casper, Jason Lin, Joe Kwon, Gatlen Culp, Dylan Hadfield-Menell*
 
 ## Papers
+- [**PrivacyBackdoor**](https://github.com/ShanglunFengatETHZ/PrivacyBackdoor) - ShanglunFengatETHZ ![Star](https://img.shields.io/github/stars/ShanglunFengatETHZ/PrivacyBackdoor.svg?style=social&label=Star)
+
+	 *Privacy backdoors*
 - [What Was Your Prompt? A Remote Keylogging Attack on AI Assistants](https://cdn.arstechnica.net/wp-content/uploads/2024/03/LLM-Side-Channel.pdf)
 
 	 · ([youtu](https://youtu.be/UfenH7xKO1s)) · ([twitter](https://twitter.com/felix_red_panda/status/1769363356094230837?t=JMMb3OldqfhhCH8X5e7ljA&s=09))

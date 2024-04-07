@@ -48,6 +48,9 @@
 
 	 *Vladislav Lialin, Vijeta Deshpande, Anna Rumshisky*
 ## Efficient finetuning
+- **ReFT: Representation Finetuning for Language Models**, `arXiv, 2404.03592`, [arxiv](http://arxiv.org/abs/2404.03592v1), [pdf](http://arxiv.org/pdf/2404.03592v1.pdf), cication: [**-1**](None)
+
+	 *Zhengxuan Wu, Aryaman Arora, Zheng Wang, Atticus Geiger, Dan Jurafsky, Christopher D. Manning, Christopher Potts* · ([pyreft](https://github.com/stanfordnlp/pyreft) - stanfordnlp) ![Star](https://img.shields.io/github/stars/stanfordnlp/pyreft.svg?style=social&label=Star)
 - **Model Stock: All we need is just a few fine-tuned models**, `arXiv, 2403.19522`, [arxiv](http://arxiv.org/abs/2403.19522v1), [pdf](http://arxiv.org/pdf/2403.19522v1.pdf), cication: [**-1**](None)
 
 	 *Dong-Hwan Jang, Sangdoo Yun, Dongyoon Han*
@@ -71,6 +74,8 @@
 	 *Jiawei Zhao, Zhenyu Zhang, Beidi Chen, Zhangyang Wang, Anima Anandkumar, Yuandong Tian*
 	 · ([galore](https://github.com/jiaweizzhao/galore) - jiaweizzhao) ![Star](https://img.shields.io/github/stars/jiaweizzhao/galore.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/blog/galore))
 	- `Gradient Low-Rank Projection (GaLore) is a new training strategy that significantly reduces memory usage by up to 65.5% for optimizer states during the training of LLMs, without sacrificing performance.`
+
+	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI1MjQ2OTQ3Ng==&mid=2247634034&idx=2&sn=7cd5c5e8af9bab29c786f52e9ea3b6e7))
 - **LoRA+: Efficient Low Rank Adaptation of Large Models**, `arXiv, 2402.12354`, [arxiv](http://arxiv.org/abs/2402.12354v1), [pdf](http://arxiv.org/pdf/2402.12354v1.pdf), cication: [**-1**](None)
 
 	 *Soufiane Hayou, Nikhil Ghosh, Bin Yu*
@@ -179,6 +184,9 @@
 	 *Xunyu Zhu, Jian Li, Yong Liu, Can Ma, Weiping Wang* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-08-26-5))
 
 ### Papers
+- **QuaRot: Outlier-Free 4-Bit Inference in Rotated LLMs**, `arXiv, 2404.00456`, [arxiv](http://arxiv.org/abs/2404.00456v1), [pdf](http://arxiv.org/pdf/2404.00456v1.pdf), cication: [**-1**](None)
+
+	 *Saleh Ashkboos, Amirkeivan Mohtashami, Maximilian L. Croci, Bo Li, Martin Jaggi, Dan Alistarh, Torsten Hoefler, James Hensman* · ([QuaRot](https://github.com/spcl/QuaRot?tab=readme-ov-file) - spcl) ![Star](https://img.shields.io/github/stars/spcl/QuaRot.svg?style=social&label=Star)
 - **EasyQuant: An Efficient Data-free Quantization Algorithm for LLMs**, `arXiv, 2403.02775`, [arxiv](http://arxiv.org/abs/2403.02775v1), [pdf](http://arxiv.org/pdf/2403.02775v1.pdf), cication: [**-1**](None)
 
 	 *Hanlin Tang, Yifu Sun, Decheng Wu, Kai Liu, Jianchen Zhu, Zhanhui Kang*
@@ -298,10 +306,14 @@
 	 · ([bitsandbytes](https://github.com/timdettmers/bitsandbytes) - timdettmers) ![Star](https://img.shields.io/github/stars/timdettmers/bitsandbytes.svg?style=social&label=Star)
 
 ### Projects
+- [lmstudio-community (LM Studio Community)](https://huggingface.co/lmstudio-community)
+- [**BitMat**](https://github.com/astramind-ai/BitMat) - astramind-ai ![Star](https://img.shields.io/github/stars/astramind-ai/BitMat.svg?style=social&label=Star)
+
+	 *An efficent implementation of the method proposed in "The Era of 1-bit LLMs"*
 - [1bitLLM (1bitLLM)](https://huggingface.co/1bitLLM?utm_source=ainews&utm_medium=email&utm_campaign=ainews-adamw-aarond)
 - [**QLLM**](https://github.com/wejoncy/QLLM) - wejoncy ![Star](https://img.shields.io/github/stars/wejoncy/QLLM.svg?style=social&label=Star)
 
-	 *A general 2-8 bits quantization toolbox with GPTQ/AWQ/HQQ, and export to onnx/onnx-runtime easily.*
+	 日*A general 2-8 bits quantization toolbox with GPTQ/AWQ/HQQ, and export to onnx/onnx-runtime easily.*
 - [**hqq**](https://github.com/mobiusml/hqq) - mobiusml ![Star](https://img.shields.io/github/stars/mobiusml/hqq.svg?style=social&label=Star)
 
 	 *Official implementation of Half-Quadratic Quantization (HQQ)* · ([mobiusml.github](https://mobiusml.github.io/hqq_blog/))
@@ -693,6 +705,9 @@
 	 *Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-05-04)) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-06-05-2))
 
 ## Toolkits
+- [**transformer-heads**](https://github.com/center-for-humans-and-machines/transformer-heads) - center-for-humans-and-machines ![Star](https://img.shields.io/github/stars/center-for-humans-and-machines/transformer-heads.svg?style=social&label=Star)
+
+	 *Toolkit for attaching, training, saving and loading of new heads for transformer models*
 - [**quanto**](https://github.com/huggingface/quanto) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/quanto.svg?style=social&label=Star)
 
 	 *A pytorch Quantization Toolkit* · ([huggingface](https://huggingface.co/blog/quanto-introduction))
@@ -733,6 +748,10 @@
 	 *DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.*
 
 ## Efficient transformer
+- [8bit HippoAttention: Up to 3X Faster Compared to FlashAttentionV2 | by HippoML Blog | Medium](https://blog.hippoml.com/8bit-hippoattention-up-to-3x-faster-compared-to-flashattentionv2-8f9def90b482)
+- [**LASP**](https://github.com/OpenNLPLab/LASP?tab=readme-ov-file) - OpenNLPLab ![Star](https://img.shields.io/github/stars/OpenNLPLab/LASP.svg?style=social&label=Star)
+
+	 *Linear Attention Sequence Parallelism (LASP)*
 - **Simple linear attention language models balance the recall-throughput
   tradeoff**, `arXiv, 2402.18668`, [arxiv](http://arxiv.org/abs/2402.18668v1), [pdf](http://arxiv.org/pdf/2402.18668v1.pdf), cication: [**-1**](None)
 

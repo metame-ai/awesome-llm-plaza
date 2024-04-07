@@ -33,6 +33,12 @@
 	 *Zige Wang, Wanjun Zhong, Yufei Wang, Qi Zhu, Fei Mi, Baojun Wang, Lifeng Shang, Xin Jiang, Qun Liu*
 
 ## Techs
+- **Training LLMs over Neurally Compressed Text**, `arXiv, 2404.03626`, [arxiv](http://arxiv.org/abs/2404.03626v1), [pdf](http://arxiv.org/pdf/2404.03626v1.pdf), cication: [**-1**](None)
+
+	 *Brian Lester, Jaehoon Lee, Alex Alemi, Jeffrey Pennington, Adam Roberts, Jascha Sohl-Dickstein, Noah Constant*
+- **LESS: Selecting Influential Data for Targeted Instruction Tuning**, `arXiv, 2402.04333`, [arxiv](http://arxiv.org/abs/2402.04333v2), [pdf](http://arxiv.org/pdf/2402.04333v2.pdf), cication: [**-1**](None)
+
+	 *Mengzhou Xia, Sadhika Malladi, Suchin Gururangan, Sanjeev Arora, Danqi Chen* · ([cs.princeton](https://www.cs.princeton.edu/~smalladi/blog/2024/04/04/dataselection/))
 - **Can LLMs Separate Instructions From Data? And What Do We Even Mean By
   That?**, `arXiv, 2403.06833`, [arxiv](http://arxiv.org/abs/2403.06833v1), [pdf](http://arxiv.org/pdf/2403.06833v1.pdf), cication: [**-1**](None)
 
@@ -99,6 +105,8 @@
 	 · ([datablations](https://github.com/huggingface/datablations) - huggingface) ![Star](https://img.shields.io/github/stars/huggingface/datablations.svg?style=social&label=Star)
 
 ## Datasets
+- [**idl-wds**](https://huggingface.co/datasets/pixparse/idl-wds) - pixparse 🤗
+- [**synthetic_text_to_sql**](https://huggingface.co/datasets/gretelai/synthetic_text_to_sql) - gretelai 🤗
 - [**Caselaw_Access_Project**](https://huggingface.co/datasets/TeraflopAI/Caselaw_Access_Project) - TeraflopAI 🤗
 
 	 · ([twitter](https://twitter.com/EnricoShippole/status/1766157358672359862?s=20))
@@ -124,6 +132,8 @@
 - **COIG-CQIA: Quality is All You Need for Chinese Instruction Fine-tuning**, `arXiv, 2403.18058`, [arxiv](http://arxiv.org/abs/2403.18058v1), [pdf](http://arxiv.org/pdf/2403.18058v1.pdf), cication: [**-1**](None)
 
 	 *Yuelin Bai, Xinrun Du, Yiming Liang, Yonggang Jin, Ziqiang Liu, Junting Zhou, Tianyu Zheng, Xincheng Zhang, Nuo Ma, Zekun Wang* · ([huggingface](https://huggingface.co/datasets/m-a-p/COIG-CQIA)) · ([COIG-CQIA](https://github.com/paralym/COIG-CQIA) - paralym) ![Star](https://img.shields.io/github/stars/paralym/COIG-CQIA.svg?style=social&label=Star)
+
+	 · ([qbitai](https://www.qbitai.com/2024/04/133116.html))
 - [**10k_prompts_ranked**](https://huggingface.co/datasets/DIBT/10k_prompts_ranked) - DIBT 🤗
 - **Aya Dataset: An Open-Access Collection for Multilingual Instruction
   Tuning**, `arXiv, 2402.06619`, [arxiv](http://arxiv.org/abs/2402.06619v1), [pdf](http://arxiv.org/pdf/2402.06619v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=8445225482174528918&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
@@ -218,6 +228,9 @@
   Concept Understanding**, `arXiv, 2401.04575`, [arxiv](http://arxiv.org/abs/2401.04575v1), [pdf](http://arxiv.org/pdf/2401.04575v1.pdf), cication: [**-1**](None)
 
 	 *Yatong Bai, Utsav Garg, Apaar Shanker, Haoming Zhang, Samyak Parajuli, Erhan Bas, Isidora Filipovic, Amelia N. Chu, Eugenia D Fomitcheva, Elliot Branson*
+- **Video Recognition in Portrait Mode**, `arXiv, 2312.13746`, [arxiv](http://arxiv.org/abs/2312.13746v1), [pdf](http://arxiv.org/pdf/2312.13746v1.pdf), cication: [**-1**](None)
+
+	 *Mingfei Han, Linjie Yang, Xiaojie Jin, Jiashi Feng, Xiaojun Chang, Heng Wang* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-04-03))
 - **MADLAD-400: A Multilingual And Document-Level Large Audited Dataset**, `arXiv, 2309.04662`, [arxiv](http://arxiv.org/abs/2309.04662v1), [pdf](http://arxiv.org/pdf/2309.04662v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=3403145482648559011&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Sneha Kudugunta, Isaac Caswell, Biao Zhang, Xavier Garcia, Christopher A. Choquette-Choo, Katherine Lee, Derrick Xin, Aditya Kusupati, Romi Stella, Ankur Bapna*

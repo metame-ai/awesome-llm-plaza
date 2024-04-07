@@ -84,6 +84,9 @@
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-18-4))
 ## Agents
+- **More Agents Is All You Need**, `arXiv, 2402.05120`, [arxiv](http://arxiv.org/abs/2402.05120v1), [pdf](http://arxiv.org/pdf/2402.05120v1.pdf), cication: [**-1**](None)
+
+	 *Junyou Li, Qin Zhang, Yangbin Yu, Qiang Fu, Deheng Ye*
 - **AgentStudio: A Toolkit for Building General Virtual Agents**, `arXiv, 2403.17918`, [arxiv](http://arxiv.org/abs/2403.17918v1), [pdf](http://arxiv.org/pdf/2403.17918v1.pdf), cication: [**-1**](None)
 
 	 *Longtao Zheng, Zhiyuan Huang, Zhenghai Xue, Xinrun Wang, Bo An, Shuicheng Yan* · ([skyworkai.github](https://skyworkai.github.io/agent-studio/))
@@ -436,6 +439,10 @@
 - [数字身份智能体的基本原理及应用前景展望](https://mp.weixin.qq.com/s?__biz=MzI1MjQ2OTQ3Ng==&mid=2247611020&idx=1&sn=eeea2012a2bcfe541a138c9a4c42b837)
 
 ## AutoGPT
+- [**plandex**](https://github.com/plandex-ai/plandex) - plandex-ai ![Star](https://img.shields.io/github/stars/plandex-ai/plandex.svg?style=social&label=Star)
+- [**aideml**](https://github.com/WecoAI/aideml) - WecoAI ![Star](https://img.shields.io/github/stars/WecoAI/aideml.svg?style=social&label=Star)
+
+	 *AIDE: Autonomous AI for Data Science* · ([weco](https://www.weco.ai/blog/technical-report))
 - [**codel**](https://github.com/semanser/codel) - semanser ![Star](https://img.shields.io/github/stars/semanser/codel.svg?style=social&label=Star)
 
 	 *✨ Fully autonomous AI Agent that can perform complicated tasks and projects using terminal, browser, and editor.*
@@ -586,7 +593,12 @@
 
 ---
 - [陈丹琦ACL学术报告来了！详解大模型「外挂」数据库7大方向3大挑战，3小时干货满满 | 量子位](https://www.qbitai.com/2023/07/67259.html)
+
 ## Web browsing
+- **AutoWebGLM: Bootstrap And Reinforce A Large Language Model-based Web
+  Navigating Agent**, `arXiv, 2404.03648`, [arxiv](http://arxiv.org/abs/2404.03648v1), [pdf](http://arxiv.org/pdf/2404.03648v1.pdf), cication: [**-1**](None)
+
+	 *Hanyu Lai, Xiao Liu, Iat Long Iong, Shuntian Yao, Yuxuan Chen, Pengbo Shen, Hao Yu, Hanchen Zhang, Xiaohan Zhang, Yuxiao Dong* · ([AutoWebGLM](https://github.com/THUDM/AutoWebGLM) - THUDM) ![Star](https://img.shields.io/github/stars/THUDM/AutoWebGLM.svg?style=social&label=Star)
 - [**llm-answer-engine**](https://github.com/developersdigest/llm-answer-engine) - developersdigest ![Star](https://img.shields.io/github/stars/developersdigest/llm-answer-engine.svg?style=social&label=Star)
 
 	 *Build a Perplexity-Inspired Answer Engine Using Next.js, Groq, Mixtral, Langchain, OpenAI, Brave & Serper*
@@ -656,6 +668,17 @@
 - [GPT-4V学会用键鼠上网，人类眼睁睁看着它发帖玩游戏 | 量子位](https://www.qbitai.com/2023/11/95456.html)
 
 ## Retrieval agumented generation
+- **Adaptive-RAG: Learning to Adapt Retrieval-Augmented Large Language
+  Models through Question Complexity**, `arXiv, 2403.14403`, [arxiv](http://arxiv.org/abs/2403.14403v2), [pdf](http://arxiv.org/pdf/2403.14403v2.pdf), cication: [**-1**](None)
+
+	 *Soyeong Jeong, Jinheon Baek, Sukmin Cho, Sung Ju Hwang, Jong C. Park* · ([twitter](https://twitter.com/LangChainAI/status/1775917799065653250?utm_source=ainews&utm_medium=email&utm_campaign=ainews-cohere-command-r-anthropic-claude-tool-use)) · ([twitter](https://twitter.com/llama_index/status/1775912690529288556?utm_source=ainews&utm_medium=email&utm_campaign=ainews-cohere-command-r-anthropic-claude-tool-use)) · ([notebooks](https://github.com/cohere-ai/notebooks/blob/main/notebooks/react_agent_adaptive_rag_cohere.ipynb) - cohere-ai) ![Star](https://img.shields.io/github/stars/cohere-ai/notebooks.svg?style=social&label=Star) · ([youtube](https://www.youtube.com/watch?v=04ighIjMcAI&ab_channel=LangChain))
+- [**AutoRAG**](https://github.com/Marker-Inc-Korea/AutoRAG) - Marker-Inc-Korea ![Star](https://img.shields.io/github/stars/Marker-Inc-Korea/AutoRAG.svg?style=social&label=Star)
+
+	 *RAG AutoML Tool - Find optimal RAG pipeline for your own data.*
+- [**cookbook**](https://github.com/mistralai/cookbook/tree/main/third_party/LlamaIndex) - mistralai ![Star](https://img.shields.io/github/stars/mistralai/cookbook.svg?style=social&label=Star)
+- [**LLocalSearch**](https://github.com/nilsherzig/LLocalSearch) - nilsherzig ![Star](https://img.shields.io/github/stars/nilsherzig/LLocalSearch.svg?style=social&label=Star)
+
+	 *LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress of the agents and the final answer. No OpenAI or Google API keys are needed.*
 - [**ragflow**](https://github.com/infiniflow/ragflow) - infiniflow ![Star](https://img.shields.io/github/stars/infiniflow/ragflow.svg?style=social&label=Star)
 
 	 *RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.*

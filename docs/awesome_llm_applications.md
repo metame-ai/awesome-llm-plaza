@@ -235,6 +235,9 @@
   Models**, `arXiv, 2403.12025`, [arxiv](http://arxiv.org/abs/2403.12025v1), [pdf](http://arxiv.org/pdf/2403.12025v1.pdf), cication: [**-1**](None)
 
 	 *Stephen R. Pfohl, Heather Cole-Lewis, Rory Sayres, Darlene Neal, Mercy Asiedu, Awa Dieng, Nenad Tomasev, Qazi Mamunur Rashid, Shekoofeh Azizi, Negar Rostamzadeh*
+- **Towards Building Multilingual Language Model for Medicine**, `arXiv, 2402.13963`, [arxiv](http://arxiv.org/abs/2402.13963v2), [pdf](http://arxiv.org/pdf/2402.13963v2.pdf), cication: [**-1**](None)
+
+	 *Pengcheng Qiu, Chaoyi Wu, Xiaoman Zhang, Weixiong Lin, Haicheng Wang, Ya Zhang, Yanfeng Wang, Weidi Xie* · ([MMedLM](https://github.com/MAGIC-AI4Med/MMedLM) - MAGIC-AI4Med) ![Star](https://img.shields.io/github/stars/MAGIC-AI4Med/MMedLM.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-24))
 - **Towards 3D Molecule-Text Interpretation in Language Models**, `arXiv, 2401.13923`, [arxiv](http://arxiv.org/abs/2401.13923v2), [pdf](http://arxiv.org/pdf/2401.13923v2.pdf), cication: [**3**](https://scholar.google.com/scholar?cites=9626326580887779244&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Sihang Li, Zhiyuan Liu, Yanchen Luo, Xiang Wang, Xiangnan He, Kenji Kawaguchi, Tat-Seng Chua, Qi Tian*
@@ -574,6 +577,10 @@
 - [小扎发布虚拟聊天AI，竟「1:1复刻」Character.AI？用户吐槽：设定太老土了](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652382135&idx=3&sn=b7e8ff8f375772a1bf71989d8e2f4565)
 
 ## Law
+- **FLawN-T5: An Empirical Examination of Effective Instruction-Tuning Data
+  Mixtures for Legal Reasoning**, `arXiv, 2404.02127`, [arxiv](http://arxiv.org/abs/2404.02127v1), [pdf](http://arxiv.org/pdf/2404.02127v1.pdf), cication: [**-1**](None)
+
+	 *Joel Niklaus, Lucia Zheng, Arya D. McCarthy, Christopher Hahn, Brian M. Rosen, Peter Henderson, Daniel E. Ho, Garrett Honke, Percy Liang, Christopher Manning*
 - **SaulLM-7B: A pioneering Large Language Model for Law**, `arXiv, 2403.03883`, [arxiv](http://arxiv.org/abs/2403.03883v1), [pdf](http://arxiv.org/pdf/2403.03883v1.pdf), cication: [**-1**](None)
 
 	 *Pierre Colombo, Telmo Pessoa Pires, Malik Boudiaf, Dominic Culver, Rui Melo, Caio Corro, Andre F. T. Martins, Fabrizio Esposito, Vera Lúcia Raposo, Sofia Morgado*
@@ -803,6 +810,7 @@
 	 *Ethan Callanan, Amarachi Mbakwe, Antony Papadimitriou, Yulong Pei, Mathieu Sibue, Xiaodan Zhu, Zhiqiang Ma, Xiaomo Liu, Sameena Shah*
 
 ## Data Related
+- [**duckdb-nsql-7b**](https://huggingface.co/blog/duckdb-nsql-7b) -  🤗
 - **DS-Agent: Automated Data Science by Empowering Large Language Models
   with Case-Based Reasoning**, `arXiv, 2402.17453`, [arxiv](http://arxiv.org/abs/2402.17453v2), [pdf](http://arxiv.org/pdf/2402.17453v2.pdf), cication: [**-1**](None)
 

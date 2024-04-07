@@ -19,6 +19,14 @@
 	 *Ziyin Zhang, Chaoyu Chen, Bingchang Liu, Cong Liao, Zi Gong, Hang Yu, Jianguo Li, Rui Wang*
 
 ## Paper
+- **CodeEditorBench: Evaluating Code Editing Capability of Large Language
+  Models**, `arXiv, 2404.03543`, [arxiv](http://arxiv.org/abs/2404.03543v1), [pdf](http://arxiv.org/pdf/2404.03543v1.pdf), cication: [**-1**](None)
+
+	 *Jiawei Guo, Ziming Li, Xueling Liu, Kaijing Ma, Tianyu Zheng, Zhouliang Yu, Ding Pan, Yizhi LI, Ruibo Liu, Yue Wang*
+- **Language Models as Compilers: Simulating Pseudocode Execution Improves
+  Algorithmic Reasoning in Language Models**, `arXiv, 2404.02575`, [arxiv](http://arxiv.org/abs/2404.02575v1), [pdf](http://arxiv.org/pdf/2404.02575v1.pdf), cication: [**-1**](None)
+
+	 *Hyungjoo Chae, Yeonghyeon Kim, Seungone Kim, Kai Tzu-iunn Ong, Beong-woo Kwak, Moohyeon Kim, Seonghwan Kim, Taeyoon Kwon, Jiwan Chung, Youngjae Yu*
 - **EvoCodeBench: An Evolving Code Generation Benchmark Aligned with
   Real-World Code Repositories**, `arXiv, 2404.00599`, [arxiv](http://arxiv.org/abs/2404.00599v1), [pdf](http://arxiv.org/pdf/2404.00599v1.pdf), cication: [**-1**](None)
 
@@ -263,6 +271,9 @@
 	 · [intercode-benchmark.github](https://intercode-benchmark.github.io/)
 
 ## Projects
+- [**plandex**](https://github.com/plandex-ai/plandex) - plandex-ai ![Star](https://img.shields.io/github/stars/plandex-ai/plandex.svg?style=social&label=Star)
+
+	 *An AI coding engine for complex tasks*
 - [**pip-library-etl**](https://github.com/PipableAI/pip-library-etl) - PipableAI ![Star](https://img.shields.io/github/stars/PipableAI/pip-library-etl.svg?style=social&label=Star)
 
 	 *This Python package simplifies generating documentation for functions and methods in designated modules or libraries. It enables effortless function call generation from natural language input or existing signatures, and facilitates crafting new ones through the integrated model. Beyond documentation, it seamlessly generates sophisticated SQL too.* · ([huggingface](https://huggingface.co/PipableAI/pip-library-etl-1.3b))

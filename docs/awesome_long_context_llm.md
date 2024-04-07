@@ -53,6 +53,9 @@
 	 *Howard Yen, Tianyu Gao, Danqi Chen* · ([qbitai](https://www.qbitai.com/2024/02/124308.html))
 
 	 · ([cepe](https://github.com/princeton-nlp/cepe) - princeton-nlp) ![Star](https://img.shields.io/github/stars/princeton-nlp/cepe.svg?style=social&label=Star)
+- **A Human-Inspired Reading Agent with Gist Memory of Very Long Contexts**, `arXiv, 2402.09727`, [arxiv](http://arxiv.org/abs/2402.09727v2), [pdf](http://arxiv.org/pdf/2402.09727v2.pdf), cication: [**-1**](None)
+
+	 *Kuang-Huei Lee, Xinyun Chen, Hiroki Furuta, John Canny, Ian Fischer* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652463844&idx=3&sn=b6b5d8ba204d8fc108c6b1590d9679f4))
 - **Training-Free Long-Context Scaling of Large Language Models**, `arXiv, 2402.17463`, [arxiv](http://arxiv.org/abs/2402.17463v1), [pdf](http://arxiv.org/pdf/2402.17463v1.pdf), cication: [**-1**](None)
 
 	 *Chenxin An, Fei Huang, Jun Zhang, Shansan Gong, Xipeng Qiu, Chang Zhou, Lingpeng Kong* · ([ChunkLlama](https://github.com/HKUNLP/ChunkLlama) - HKUNLP) ![Star](https://img.shields.io/github/stars/HKUNLP/ChunkLlama.svg?style=social&label=Star)

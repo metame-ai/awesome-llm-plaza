@@ -38,6 +38,10 @@
 # English
 
 ## Foundation
+- [**c4ai-command-r-plus**](https://huggingface.co/CohereForAI/c4ai-command-r-plus) - CohereForAI 🤗
+- [**JetMoE**](https://github.com/myshell-ai/JetMoE) - myshell-ai ![Star](https://img.shields.io/github/stars/myshell-ai/JetMoE.svg?style=social&label=Star)
+
+	 *Reaching LLaMA2 Performance with 0.1M Dollars* · ([research.myshell](https://research.myshell.ai/jetmoe)) · ([huggingface](https://huggingface.co/jetmoe/jetmoe-8b)) · ([qbitai](https://www.qbitai.com/2024/04/133284.html))
 - **Poro 34B and the Blessing of Multilinguality**, `arXiv, 2404.01856`, [arxiv](http://arxiv.org/abs/2404.01856v1), [pdf](http://arxiv.org/pdf/2404.01856v1.pdf), cication: [**-1**](None)
 
 	 *Risto Luukkonen, Jonathan Burdge, Elaine Zosa, Aarne Talman, Ville Komulainen, Väinö Hatanpää, Peter Sarlin, Sampo Pyysalo* · ([huggingface](https://huggingface.co/LumiOpen/Poro-34B))
@@ -130,7 +134,8 @@
 - **Jamba: A Hybrid Transformer-Mamba Language Model**, `arXiv, 2403.19887`, [arxiv](http://arxiv.org/abs/2403.19887v1), [pdf](http://arxiv.org/pdf/2403.19887v1.pdf), cication: [**-1**](None)
 
 	 *Opher Lieber, Barak Lenz, Hofit Bata, Gal Cohen, Jhonathan Osin, Itay Dalmedigos, Erez Safahi, Shaked Meirom, Yonatan Belinkov, Shai Shalev-Shwartz* · ([huggingface](https://huggingface.co/ai21labs/Jamba-v0.1))
-- [**Jamba-v0.1-chat-multilingual?utm_source=ainews&utm_medium=email&utm_campaign=ainews-not-much-happened-today-8015**](https://huggingface.co/lightblue/Jamba-v0.1-chat-multilingual?utm_source=ainews&utm_medium=email&utm_campaign=ainews-not-much-happened-today-8015) - lightblue 🤗
+- [**Jamba-v0.1-chat-multilingual**](https://huggingface.co/lightblue/Jamba-v0.1-chat-multilingual?utm_source=ainews&utm_medium=email&utm_campaign=ainews-not-much-happened-today-8015) - lightblue 🤗
+- [**Jambatypus-v0.1**](https://huggingface.co/mlabonne/Jambatypus-v0.1) - mlabonne 🤗
 
 ### Databricks
 - [Introducing DBRX: A New State-of-the-Art Open LLM | Databricks](https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm)
@@ -142,6 +147,7 @@
 - [**dbrx-instruct**](https://huggingface.co/databricks/dbrx-instruct) - databricks 🤗
 
 ### Gemma
+- [Fetching Title#nst4](https://huggingface.co/google/gemma-1.1-7b-it)
 - **Gemma: Open Models Based on Gemini Research and Technology**, `arXiv, 2403.08295`, [arxiv](http://arxiv.org/abs/2403.08295v1), [pdf](http://arxiv.org/pdf/2403.08295v1.pdf), cication: [**-1**](None)
 
 	 *Gemma Team, Thomas Mesnard, Cassidy Hardin, Robert Dadashi, Surya Bhupatiraju, Shreya Pathak, Laurent Sifre, Morgane Rivière, Mihir Sanjay Kale, Juliette Love*
@@ -456,6 +462,8 @@
  - [xverse/XVERSE-13B-256K · Hugging Face](https://huggingface.co/xverse/XVERSE-13B-256K)
  
 ### Qwen
+- [**Qwen1.5-32B**](https://huggingface.co/Qwen/Qwen1.5-32B) - Qwen 🤗
+- [Qwen1.5-32B: Fitting the Capstone of the Qwen1.5 Language Model Series | Qwen](https://qwenlm.github.io/blog/qwen1.5-32b/)
 - [**Qwen-Agent**](https://github.com/QwenLM/Qwen-Agent) - QwenLM ![Star](https://img.shields.io/github/stars/QwenLM/Qwen-Agent.svg?style=social&label=Star)
 
 	 *Agent framework and applications built upon Qwen1.5, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.*
@@ -544,7 +552,10 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s/Lf70i8M0KNDs9ZB8H32h4w))
 
 # Extra
+- **Sailor: Open Language Models for South-East Asia**, `arXiv, 2404.03608`, [arxiv](http://arxiv.org/abs/2404.03608v1), [pdf](http://arxiv.org/pdf/2404.03608v1.pdf), cication: [**-1**](None)
 
+	 *Longxu Dou, Qian Liu, Guangtao Zeng, Jia Guo, Jiahui Zhou, Wei Lu, Min Lin* · ([twitter](https://twitter.com/sivil_taram/status/1776485535747629371))
+	- `earning rate can have an even more impact on the dreaded phenomenon known as 𝚌𝚊𝚝𝚊𝚜𝚝𝚛𝚘𝚙𝚑𝚒𝚌 𝚏𝚘𝚛𝚐𝚎𝚝𝚝𝚒𝚗𝚐?`
 - **HyperCLOVA X Technical Report**, `arXiv, 2404.01954`, [arxiv](http://arxiv.org/abs/2404.01954v1), [pdf](http://arxiv.org/pdf/2404.01954v1.pdf), cication: [**-1**](None)
 
 	 *Kang Min Yoo, Jaegeun Han, Sookyo In, Heewon Jeon, Jisu Jeong, Jaewook Kang, Hyunwook Kim, Kyung-Min Kim, Munhyong Kim, Sungju Kim*

@@ -28,6 +28,10 @@
 	 *Jiankai Sun, Chuanyang Zheng, Enze Xie, Zhengying Liu, Ruihang Chu, Jianing Qiu, Jiaqi Xu, Mingyu Ding, Hongyang Li, Mengzhe Geng* · ([Awesome-Reasoning-Foundation-Models](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models) - reasoning-survey) ![Star](https://img.shields.io/github/stars/reasoning-survey/Awesome-Reasoning-Foundation-Models.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652421688&idx=3&sn=fcdc24edc7bc89ebcbcca0f7665e40f6))
 
 ## Reasoning
+- **Visualization-of-Thought Elicits Spatial Reasoning in Large Language
+  Models**, `arXiv, 2404.03622`, [arxiv](http://arxiv.org/abs/2404.03622v1), [pdf](http://arxiv.org/pdf/2404.03622v1.pdf), cication: [**-1**](None)
+
+	 *Wenshan Wu, Shaoguang Mao, Yadong Zhang, Yan Xia, Li Dong, Lei Cui, Furu Wei*
 - **Advancing LLM Reasoning Generalists with Preference Trees**, `arXiv, 2404.02078`, [arxiv](http://arxiv.org/abs/2404.02078v1), [pdf](http://arxiv.org/pdf/2404.02078v1.pdf), cication: [**-1**](None)
 
 	 *Lifan Yuan, Ganqu Cui, Hanbin Wang, Ning Ding, Xingyao Wang, Jia Deng, Boji Shan, Huimin Chen, Ruobing Xie, Yankai Lin* · ([Eurus](https://github.com/OpenBMB/Eurus) - OpenBMB) ![Star](https://img.shields.io/github/stars/OpenBMB/Eurus.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/collections/openbmb/eurus-660bc40bec5376b3adc9d1c5))
@@ -371,6 +375,10 @@
 - [大模型Fewshot推理如何选择更好的示例](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495177&idx=2&sn=fe8353efed16a81e35462be06d5a6cea)
 
 ## Math reasoning
+- **ChatGLM-Math: Improving Math Problem-Solving in Large Language Models
+  with a Self-Critique Pipeline**, `arXiv, 2404.02893`, [arxiv](http://arxiv.org/abs/2404.02893v1), [pdf](http://arxiv.org/pdf/2404.02893v1.pdf), cication: [**-1**](None)
+
+	 *Yifan Xu, Xiao Liu, Xinghan Liu, Zhenyu Hou, Yueyan Li, Xiaohan Zhang, Zihan Wang, Aohan Zeng, Zhengxiao Du, Wenyi Zhao* · ([ChatGLM-Math](https://github.com/THUDM/ChatGLM-Math) - THUDM) ![Star](https://img.shields.io/github/stars/THUDM/ChatGLM-Math.svg?style=social&label=Star)
 - **Common 7B Language Models Already Possess Strong Math Capabilities**, `arXiv, 2403.04706`, [arxiv](http://arxiv.org/abs/2403.04706v1), [pdf](http://arxiv.org/pdf/2403.04706v1.pdf), cication: [**-1**](None)
 
 	 *Chen Li, Weiqi Wang, Jingcheng Hu, Yixuan Wei, Nanning Zheng, Han Hu, Zheng Zhang, Houwen Peng*
@@ -530,6 +538,9 @@
 	 *Tianlu Wang, Ping Yu, Xiaoqing Ellen Tan, Sean O'Brien, Ramakanth Pasunuru, Jane Dwivedi-Yu, Olga Golovneva, Luke Zettlemoyer, Maryam Fazel-Zarandi, Asli Celikyilmaz* · ([shepherd](https://github.com/facebookresearch/shepherd) - facebookresearch) ![Star](https://img.shields.io/github/stars/facebookresearch/shepherd.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652366759&idx=3&sn=f183f4c8080a338c4c9fad0f026b14af))
 
 ## Prompting
+- **Automatic Prompt Selection for Large Language Models**, `arXiv, 2404.02717`, [arxiv](http://arxiv.org/abs/2404.02717v1), [pdf](http://arxiv.org/pdf/2404.02717v1.pdf), cication: [**-1**](None)
+
+	 *Viet-Tung Do, Van-Khanh Hoang, Duy-Hung Nguyen, Shahab Sabahi, Jeff Yang, Hajime Hotta, Minh-Tien Nguyen, Hung Le*
 - [**aici**](https://github.com/microsoft/aici) - microsoft ![Star](https://img.shields.io/github/stars/microsoft/aici.svg?style=social&label=Star)
 
 	 *AICI: Prompts as (Wasm) Programs*

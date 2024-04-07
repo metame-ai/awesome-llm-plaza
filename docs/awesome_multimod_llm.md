@@ -65,6 +65,10 @@
 	 *Code for paper LocalMamba: Visual State Space Model with Windowed Selective Scan*
 
 ### Video
+- **MiniGPT4-Video: Advancing Multimodal LLMs for Video Understanding with
+  Interleaved Visual-Textual Tokens**, `arXiv, 2404.03413`, [arxiv](http://arxiv.org/abs/2404.03413v1), [pdf](http://arxiv.org/pdf/2404.03413v1.pdf), cication: [**-1**](None)
+
+	 *Kirolos Ataallah, Xiaoqian Shen, Eslam Abdelrahman, Essam Sleiman, Deyao Zhu, Jian Ding, Mohamed Elhoseiny* · ([MiniGPT4-video](https://github.com/Vision-CAIR/MiniGPT4-video) - Vision-CAIR) ![Star](https://img.shields.io/github/stars/Vision-CAIR/MiniGPT4-video.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652463844&idx=1&sn=d7505ee993179cc5df3b5cedc07d1ddc&poc_token=HK4CEmajV8CJghkQWcmVb-3AVTfO3_iIp_s9-VEV))
 - **Streaming Dense Video Captioning**, `arXiv, 2404.01297`, [arxiv](http://arxiv.org/abs/2404.01297v1), [pdf](http://arxiv.org/pdf/2404.01297v1.pdf), cication: [**-1**](None)
 
 	 *Xingyi Zhou, Anurag Arnab, Shyamal Buch, Shen Yan, Austin Myers, Xuehan Xiong, Arsha Nagrani, Cordelia Schmid* · ([scenic](https://github.com/google-research/scenic/tree/main/scenic/projects/streaming_dvc) - google-research) ![Star](https://img.shields.io/github/stars/google-research/scenic.svg?style=social&label=Star)
@@ -1030,7 +1034,9 @@
 
 	 *Mingsheng Li, Xin Chen, Chi Zhang, Sijin Chen, Hongyuan Zhu, Fukun Yin, Gang Yu, Tao Chen*
 ## Projects
-- 
+- [**LL3M**](https://github.com/jiasenlu/LL3M) - jiasenlu ![Star](https://img.shields.io/github/stars/jiasenlu/LL3M.svg?style=social&label=Star)
+
+	 *LL3M: Large Language and Multi-Modal Model in Jax*
 - [**uform**](https://github.com/unum-cloud/uform) - unum-cloud ![Star](https://img.shields.io/github/stars/unum-cloud/uform.svg?style=social&label=Star)
 
 	 *Pocket-Sized Multimodal AI for content understanding and generation across multilingual texts, images, and 🔜 video, up to 5x faster than OpenAI CLIP and LLaVA 🖼️ & 🖋️* · ([unum-cloud.github](https://unum-cloud.github.io/uform/))

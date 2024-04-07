@@ -28,6 +28,19 @@
 	 *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang*
 
 ## Papers
+- **EQ-Bench: An Emotional Intelligence Benchmark for Large Language Models**, `arXiv, 2312.06281`, [arxiv](http://arxiv.org/abs/2312.06281v2), [pdf](http://arxiv.org/pdf/2312.06281v2.pdf), cication: [**-1**](None)
+
+	 *Samuel J. Paech*
+
+	 · ([EQ-Bench](https://github.com/EQ-bench/EQ-Bench) - EQ-bench) ![Star](https://img.shields.io/github/stars/EQ-bench/EQ-Bench.svg?style=social&label=Star) · ([eqbench](https://eqbench.com/creative_writing.html?utm_source=ainews&utm_medium=email&utm_campaign=ainews-cohere-command-r-anthropic-claude-tool-use))
+- **The RealHumanEval: Evaluating Large Language Models' Abilities to
+  Support Programmers**, `arXiv, 2404.02806`, [arxiv](http://arxiv.org/abs/2404.02806v1), [pdf](http://arxiv.org/pdf/2404.02806v1.pdf), cication: [**-1**](None)
+
+	 *Hussein Mozannar, Valerie Chen, Mohammed Alsobay, Subhro Das, Sebastian Zhao, Dennis Wei, Manish Nagireddy, Prasanna Sattigeri, Ameet Talwalkar, David Sontag* · ([realhumaneval](https://github.com/clinicalml/realhumaneval) - clinicalml) ![Star](https://img.shields.io/github/stars/clinicalml/realhumaneval.svg?style=social&label=Star)
+- **Evalverse: Unified and Accessible Library for Large Language Model
+  Evaluation**, `arXiv, 2404.00943`, [arxiv](http://arxiv.org/abs/2404.00943v1), [pdf](http://arxiv.org/pdf/2404.00943v1.pdf), cication: [**-1**](None)
+
+	 *Jihoo Kim, Wonho Song, Dahyun Kim, Yunsu Kim, Yungi Kim, Chanjun Park* · ([evalverse](https://github.com/upstageai/evalverse) - upstageai) ![Star](https://img.shields.io/github/stars/upstageai/evalverse.svg?style=social&label=Star)
 - **Long-form factuality in large language models**, `arXiv, 2403.18802`, [arxiv](http://arxiv.org/abs/2403.18802v1), [pdf](http://arxiv.org/pdf/2403.18802v1.pdf), cication: [**-1**](None)
 
 	 *Jerry Wei, Chengrun Yang, Xinying Song, Yifeng Lu, Nathan Hu, Dustin Tran, Daiyi Peng, Ruibo Liu, Da Huang, Cosmo Du* · ([long-form-factuality](https://github.com/google-deepmind/long-form-factuality) - google-deepmind) ![Star](https://img.shields.io/github/stars/google-deepmind/long-form-factuality.svg?style=social&label=Star)

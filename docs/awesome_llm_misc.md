@@ -315,6 +315,7 @@
 	 *Albert Gu, Tri Dao* · ([mamba](https://github.com/state-spaces/mamba) - state-spaces) ![Star](https://img.shields.io/github/stars/state-spaces/mamba.svg?style=social&label=Star)
 
 ---
+- [Do we need Attention? A Mamba Primer - YouTube](https://www.youtube.com/watch?v=dVH1dRoMPBc&t=10s&ab_channel=SashaRush%F0%9F%A4%97)
 - [Mamba Explained](https://thegradient.pub/mamba-explained/)
 - [Recent Mamba Papers - a julien-c Collection](https://huggingface.co/collections/julien-c/recent-mamba-papers-6602855121032a86a5d9fab7)
 - [Mamba: Linear-Time Sequence Modeling with Selective State Spaces (Paper Explained) - YouTube](https://www.youtube.com/watch?v=9dSkvxS2EB0&ab_channel=YannicKilcher)
@@ -359,6 +360,10 @@
 	 *John Hewitt, John Thickstun, Christopher D. Manning, Percy Liang* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-06-25-5)) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI1MjQ2OTQ3Ng==&mid=2247608689&idx=2&sn=ed29c1ee1f571f98b191805472feb79a))
 
 ## LLM detection
+- **Min-K%++: Improved Baseline for Detecting Pre-Training Data from Large
+  Language Models**, `arXiv, 2404.02936`, [arxiv](http://arxiv.org/abs/2404.02936v1), [pdf](http://arxiv.org/pdf/2404.02936v1.pdf), cication: [**-1**](None)
+
+	 *Jingyang Zhang, Jingwei Sun, Eric Yeats, Yang Ouyang, Martin Kuo, Jianyi Zhang, Hao Yang, Hai Li* · ([zjysteven.github](https://zjysteven.github.io/mink-plus-plus/)) · ([mink-plus-plus](https://github.com/zjysteven/mink-plus-plus) - zjysteven) ![Star](https://img.shields.io/github/stars/zjysteven/mink-plus-plus.svg?style=social&label=Star)
 - **Decoding the AI Pen: Techniques and Challenges in Detecting AI-Generated
   Text**, `arXiv, 2403.05750`, [arxiv](http://arxiv.org/abs/2403.05750v1), [pdf](http://arxiv.org/pdf/2403.05750v1.pdf), cication: [**-1**](None)
 
@@ -395,6 +400,9 @@
 - **GPT detectors are biased against non-native English writers**, `arXiv, 2304.02819`, [arxiv](http://arxiv.org/abs/2304.02819v3), [pdf](http://arxiv.org/pdf/2304.02819v3.pdf), cication: [**42**](https://scholar.google.com/scholar?cites=517481798147034142&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Weixin Liang, Mert Yuksekgonul, Yining Mao, Eric Wu, James Zou*
+- **Can LLM-Generated Misinformation Be Detected?**, `arXiv, 2309.13788`, [arxiv](http://arxiv.org/abs/2309.13788v3), [pdf](http://arxiv.org/pdf/2309.13788v3.pdf), cication: [**-1**](None)
+
+	 *Canyu Chen, Kai Shu* · ([llm-misinformation](https://github.com/llm-misinformation/llm-misinformation/) - llm-misinformation) ![Star](https://img.shields.io/github/stars/llm-misinformation/llm-misinformation.svg?style=social&label=Star)
 - **Three Bricks to Consolidate Watermarks for Large Language Models**, `arXiv, 2308.00113`, [arxiv](http://arxiv.org/abs/2308.00113v2), [pdf](http://arxiv.org/pdf/2308.00113v2.pdf), cication: [**3**](https://scholar.google.com/scholar?cites=10192059197680159637&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Pierre Fernandez, Antoine Chaffin, Karim Tit, Vivien Chappelier, Teddy Furon*
@@ -409,6 +417,14 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652345558&idx=4&sn=95686435d5cad05d44cbe02bc26d6859))
 
 ## Interpretability 
+- **LVLM-Intrepret: An Interpretability Tool for Large Vision-Language
+  Models**, `arXiv, 2404.03118`, [arxiv](http://arxiv.org/abs/2404.03118v1), [pdf](http://arxiv.org/pdf/2404.03118v1.pdf), cication: [**-1**](None)
+
+	 *Gabriela Ben Melech Stan, Raanan Yehezkel Rohekar, Yaniv Gurwicz, Matthew Lyle Olson, Anahita Bhiwandiwalla, Estelle Aflalo, Chenfei Wu, Nan Duan, Shao-Yen Tseng, Vasudev Lal*
+- **Understanding Emergent Abilities of Language Models from the Loss
+  Perspective**, `arXiv, 2403.15796`, [arxiv](http://arxiv.org/abs/2403.15796v2), [pdf](http://arxiv.org/pdf/2403.15796v2.pdf), cication: [**-1**](None)
+
+	 *Zhengxiao Du, Aohan Zeng, Yuxiao Dong, Jie Tang*
 - **Source-Aware Training Enables Knowledge Attribution in Language Models**, `arXiv, 2404.01019`, [arxiv](http://arxiv.org/abs/2404.01019v1), [pdf](http://arxiv.org/pdf/2404.01019v1.pdf), cication: [**-1**](None)
 
 	 *Muhammad Khalifa, David Wadden, Emma Strubell, Honglak Lee, Lu Wang, Iz Beltagy, Hao Peng*
@@ -625,6 +641,9 @@
 	 *Zhangyue Yin, Qiushi Sun, Qipeng Guo, Jiawen Wu, Xipeng Qiu, Xuanjing Huang*
 
 ## Tokenization
+- **Training LLMs over Neurally Compressed Text**, `arXiv, 2404.03626`, [arxiv](http://arxiv.org/abs/2404.03626v1), [pdf](http://arxiv.org/pdf/2404.03626v1.pdf), cication: [**-1**](None)
+
+	 *Brian Lester, Jaehoon Lee, Alex Alemi, Jeffrey Pennington, Adam Roberts, Jascha Sohl-Dickstein, Noah Constant*
 - **Greed is All You Need: An Evaluation of Tokenizer Inference Methods**, `arXiv, 2403.01289`, [arxiv](http://arxiv.org/abs/2403.01289v1), [pdf](http://arxiv.org/pdf/2403.01289v1.pdf), cication: [**-1**](None)
 
 	 *Omri Uzan, Craig W. Schmidt, Chris Tanner, Yuval Pinter*
@@ -667,6 +686,7 @@
 ## Course & Tutorial
 - [**cookbook**](https://huggingface.co/learn/cookbook/index) - learn 🤗
 - [GPT in 60 Lines of NumPy | Jay Mody](https://jaykmody.com/blog/gpt-from-scratch/)
+- [Fetching Title#4fnm](https://web.stanford.edu/class/cs25/)
 - [Stanford CS25 - Transformers United - YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)
 - [Let's build the GPT Tokenizer - YouTube](https://youtu.be/zduSFxRajkE)
 - [**minbpe**](https://github.com/karpathy/minbpe) - karpathy ![Star](https://img.shields.io/github/stars/karpathy/minbpe.svg?style=social&label=Star)
@@ -703,6 +723,10 @@
 	 · ([youtu](https://youtu.be/nOxKexn3iBo))
 
 ### Videos
+- [Before you continue to YouTube](https://www.youtube.com/@srush_nlp/videos)
+- [Yann Lecun | Objective-Driven AI: Towards AI systems that can learn, remember, reason, and plan - YouTube](https://www.youtube.com/watch?v=MiqLoAZFRSE&ab_channel=HarvardCMSA)
+
+	 · ([twitter](https://twitter.com/ylecun/status/1776151785624801336))
 - [Deep Learning Foundations by Soheil Feizi : Large Language Models - YouTube](https://www.youtube.com/watch?v=2yjzZfDQxy8&ab_channel=SoheilFeizi)
 - [But what is a GPT? Visual intro to Transformers | Deep learning, chapter 5 - YouTube](https://www.youtube.com/watch?v=wjZofJX0v4M&t=2s&ab_channel=3Blue1Brown)
 - [Unsupervised Learning: Redpoint's AI Podcast - YouTube](https://www.youtube.com/@RedpointAI)
@@ -718,7 +742,7 @@
 - [Eye on AI - YouTube](https://www.youtube.com/@eyeonai3425/podcasts)
 
 ### Blogs
-- [Site Unreachable](https://nlp.elvissaravia.com/)
+- [NLP Newsletter | elvis | Substack](https://nlp.elvissaravia.com/)
 - [Archive • AI News • Buttondown](https://buttondown.email/ainews/archive/)
 - [Sebastian Raschka, PhD | Substack](https://substack.com/@rasbt)
 - [Lil'Log](https://lilianweng.github.io/)

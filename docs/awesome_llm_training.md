@@ -21,6 +21,9 @@
 
 
 ## Pretrain
+- **Training LLMs over Neurally Compressed Text**, `arXiv, 2404.03626`, [arxiv](http://arxiv.org/abs/2404.03626v1), [pdf](http://arxiv.org/pdf/2404.03626v1.pdf), cication: [**-1**](None)
+
+	 *Brian Lester, Jaehoon Lee, Alex Alemi, Jeffrey Pennington, Adam Roberts, Jascha Sohl-Dickstein, Noah Constant*
 - **The Fine Line: Navigating Large Language Model Pretraining with
   Down-streaming Capability Analysis**, `arXiv, 2404.01204`, [arxiv](http://arxiv.org/abs/2404.01204v1), [pdf](http://arxiv.org/pdf/2404.01204v1.pdf), cication: [**-1**](None)
 
@@ -262,6 +265,9 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652375732&idx=2&sn=1cb4cefcd791af2a6ffacdf99e35225c))
 
 ## Optimization
+- [**schedule_free**](https://github.com/facebookresearch/schedule_free) - facebookresearch ![Star](https://img.shields.io/github/stars/facebookresearch/schedule_free.svg?style=social&label=Star)
+
+	 *Schedule-Free Optimization in PyTorch*
 - **Reverse Training to Nurse the Reversal Curse**, `arXiv, 2403.13799`, [arxiv](http://arxiv.org/abs/2403.13799v1), [pdf](http://arxiv.org/pdf/2403.13799v1.pdf), cication: [**-1**](None)
 
 	 *Olga Golovneva, Zeyuan Allen-Zhu, Jason Weston, Sainbayar Sukhbaatar*
@@ -338,6 +344,13 @@
 - [Weight averaging and model merging for LLMs seem to be the most interesting themes in 2024 so far. ](https://twitter.com/rasbt/status/1750180383398744106)
 
 ## MoE
+- **Mixture-of-Depths: Dynamically allocating compute in transformer-based
+  language models**, `arXiv, 2404.02258`, [arxiv](http://arxiv.org/abs/2404.02258v1), [pdf](http://arxiv.org/pdf/2404.02258v1.pdf), cication: [**-1**](None)
+
+	 *David Raposo, Sam Ritter, Blake Richards, Timothy Lillicrap, Peter Conway Humphreys, Adam Santoro* · ([qbitai](https://www.qbitai.com/2024/04/133189.html)) · ([OLMo](https://github.com/thepowerfuldeez/OLMo/blob/main/olmo/mod.py) - thepowerfuldeez) ![Star](https://img.shields.io/github/stars/thepowerfuldeez/OLMo.svg?style=social&label=Star) · ([twitter](https://twitter.com/haeggee/status/1776166583959687444))
+- [**JetMoE**](https://github.com/myshell-ai/JetMoE) - myshell-ai ![Star](https://img.shields.io/github/stars/myshell-ai/JetMoE.svg?style=social&label=Star)
+
+	 *Reaching LLaMA2 Performance with 0.1M Dollars*
 - [**megablocks**](https://github.com/databricks/megablocks) - databricks ![Star](https://img.shields.io/github/stars/databricks/megablocks.svg?style=social&label=Star)
 - **Scattered Mixture-of-Experts Implementation**, `arXiv, 2403.08245`, [arxiv](http://arxiv.org/abs/2403.08245v1), [pdf](http://arxiv.org/pdf/2403.08245v1.pdf), cication: [**-1**](None)
 
@@ -420,6 +433,7 @@
 	 *Noam Shazeer, Azalia Mirhoseini, Krzysztof Maziarz, Andy Davis, Quoc Le, Geoffrey Hinton, Jeff Dean*
 
 ### Other
+- [Accelerating MoE model inference with Locality-Aware Kernel Design | PyTorch](https://pytorch.org/blog/accelerating-moe-model/?utm_content=288416924&utm_medium=social&utm_source=twitter&hss_channel=tw-776585502606721024)
 - [a mini-tutorial on three types of Mixture of Experts (MoE): Pre-trained MoE, upcycled MoEs, and FrankenMoEs](https://twitter.com/osanseviero/status/1773360705682411750?utm_source=ainews&utm_medium=email&utm_campaign=ainews-evals-based-ai-engineering)
 - [**makeMoE**](https://github.com/AviSoori1x/makeMoE/tree/main) - AviSoori1x ![Star](https://img.shields.io/github/stars/AviSoori1x/makeMoE.svg?style=social&label=Star)
 
