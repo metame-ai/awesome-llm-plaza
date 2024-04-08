@@ -361,10 +361,10 @@
 # Mulitlingual (chinese)
 
 ## Foundation
-- **Aurora-M: The First Open Source Multilingual Language Model Red-teamed
-  according to the U.S. Executive Order**, `arXiv, 2404.00399`, [arxiv](http://arxiv.org/abs/2404.00399v1), [pdf](http://arxiv.org/pdf/2404.00399v1.pdf), cication: [**-1**](None)
+- **Chinese Tiny LLM: Pretraining a Chinese-Centric Large Language Model**, `arXiv, 2404.04167`, [arxiv](http://arxiv.org/abs/2404.04167v1), [pdf](http://arxiv.org/pdf/2404.04167v1.pdf), cication: [**-1**](None)
 
-	 *Taishi Nakamura, Mayank Mishra, Simone Tedeschi, Yekun Chai, Jason T Stillerman, Felix Friedrich, Prateek Yadav, Tanmay Laud, Vu Minh Chien, Terry Yue Zhuo* · ([huggingface](https://huggingface.co/collections/aurora-m/aurora-m-models-65fdfdff62471e09812f5407))
+	 *Xinrun Du, Zhouliang Yu, Songyang Gao, Ding Pan, Yuyang Cheng, Ziyang Ma, Ruibin Yuan, Xingwei Qu, Jiaheng Liu, Tianyu Zheng* · ([huggingface](https://huggingface.co/collections/m-a-p/chinese-tiny-llm-660d0133dff6856f94ce0fc6))
+
 - [**Mengzi3**](https://github.com/Langboat/Mengzi3) - Langboat ![Star](https://img.shields.io/github/stars/Langboat/Mengzi3.svg?style=social&label=Star)
 
 	 · ([qbitai](https://www.qbitai.com/2024/04/132445.html))
@@ -552,6 +552,10 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s/Lf70i8M0KNDs9ZB8H32h4w))
 
 # Extra
+- **Aurora-M: The First Open Source Multilingual Language Model Red-teamed
+  according to the U.S. Executive Order**, `arXiv, 2404.00399`, [arxiv](http://arxiv.org/abs/2404.00399v1), [pdf](http://arxiv.org/pdf/2404.00399v1.pdf), cication: [**-1**](None)
+
+	 *Taishi Nakamura, Mayank Mishra, Simone Tedeschi, Yekun Chai, Jason T Stillerman, Felix Friedrich, Prateek Yadav, Tanmay Laud, Vu Minh Chien, Terry Yue Zhuo* · ([huggingface](https://huggingface.co/collections/aurora-m/aurora-m-models-65fdfdff62471e09812f5407))
 - **Sailor: Open Language Models for South-East Asia**, `arXiv, 2404.03608`, [arxiv](http://arxiv.org/abs/2404.03608v1), [pdf](http://arxiv.org/pdf/2404.03608v1.pdf), cication: [**-1**](None)
 
 	 *Longxu Dou, Qian Liu, Guangtao Zeng, Jia Guo, Jiahui Zhou, Wei Lu, Min Lin* · ([twitter](https://twitter.com/sivil_taram/status/1776485535747629371))

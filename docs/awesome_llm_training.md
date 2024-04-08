@@ -351,6 +351,9 @@
 - [**JetMoE**](https://github.com/myshell-ai/JetMoE) - myshell-ai ![Star](https://img.shields.io/github/stars/myshell-ai/JetMoE.svg?style=social&label=Star)
 
 	 *Reaching LLaMA2 Performance with 0.1M Dollars*
+
+	 · ([research.myshell](https://research.myshell.ai/jetmoe))
+	- `JetMoE-8B has 24 blocks where each block has two MoE layers: Mixture of Attention heads (MoA) and Mixture of MLP Experts (MoE); each MoA and MoE layer has 8 experts, and 2 experts are activated for each input token with 2.2B active parameters.`
 - [**megablocks**](https://github.com/databricks/megablocks) - databricks ![Star](https://img.shields.io/github/stars/databricks/megablocks.svg?style=social&label=Star)
 - **Scattered Mixture-of-Experts Implementation**, `arXiv, 2403.08245`, [arxiv](http://arxiv.org/abs/2403.08245v1), [pdf](http://arxiv.org/pdf/2403.08245v1.pdf), cication: [**-1**](None)
 

@@ -191,6 +191,10 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
+- **No "Zero-Shot" Without Exponential Data: Pretraining Concept Frequency
+  Determines Multimodal Model Performance**, `arXiv, 2404.04125`, [arxiv](http://arxiv.org/abs/2404.04125v1), [pdf](http://arxiv.org/pdf/2404.04125v1.pdf), cication: [**-1**](None)
+
+	 *Vishaal Udandarao, Ameya Prabhu, Adhiraj Ghosh, Yash Sharma, Philip H. S. Torr, Adel Bibi, Samuel Albanie, Matthias Bethge* · ([huggingface](https://huggingface.co/datasets/bethgelab/Let-It-Wag)) · ([frequency_determines_performance](https://github.com/bethgelab/frequency_determines_performance) - bethgelab) ![Star](https://img.shields.io/github/stars/bethgelab/frequency_determines_performance.svg?style=social&label=Star)
 - **LLaVA-Gemma: Accelerating Multimodal Foundation Models with a Compact
   Language Model**, `arXiv, 2404.01331`, [arxiv](http://arxiv.org/abs/2404.01331v1), [pdf](http://arxiv.org/pdf/2404.01331v1.pdf), cication: [**-1**](None)
 

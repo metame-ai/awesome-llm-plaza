@@ -280,6 +280,7 @@
 - [**SWE-agent**](https://github.com/princeton-nlp/SWE-agent) - princeton-nlp ![Star](https://img.shields.io/github/stars/princeton-nlp/SWE-agent.svg?style=social&label=Star)
 
 	 *SWE-agent: Agent Computer Interfaces Enable Software Engineering Language Models*
+	- `the agent interacts with a specialized terminal and enables important processing of files and executable tests to achieve good performance; on SWE-bench, SWE-agent resolves 12.29% of issues, achieving the state-of-the-art performance on the full test set.`
 - [**stable-code-instruct-3b**](https://huggingface.co/stabilityai/stable-code-instruct-3b) - stabilityai 🤗
 - [**devika**](https://github.com/stitionai/devika) - stitionai ![Star](https://img.shields.io/github/stars/stitionai/devika.svg?style=social&label=Star)
 

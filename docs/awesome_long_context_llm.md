@@ -35,6 +35,7 @@
 - **Long-context LLMs Struggle with Long In-context Learning**, `arXiv, 2404.02060`, [arxiv](http://arxiv.org/abs/2404.02060v1), [pdf](http://arxiv.org/pdf/2404.02060v1.pdf), cication: [**-1**](None)
 
 	 *Tianle Li, Ge Zhang, Quy Duc Do, Xiang Yue, Wenhu Chen*
+	- `the LLMs perform relatively well under the token length of 20K. However, after the context window exceeds 20K, most LLMs except GPT-4 will dip dramatically.`
 - **BurstAttention: An Efficient Distributed Attention Framework for
   Extremely Long Sequences**, `arXiv, 2403.09347`, [arxiv](http://arxiv.org/abs/2403.09347v1), [pdf](http://arxiv.org/pdf/2403.09347v1.pdf), cication: [**-1**](None)
 

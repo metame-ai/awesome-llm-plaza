@@ -10,6 +10,9 @@
 
 
 ## Papers
+- **Yell At Your Robot: Improving On-the-Fly from Language Corrections**, `arXiv, 2403.12910`, [arxiv](http://arxiv.org/abs/2403.12910v1), [pdf](http://arxiv.org/pdf/2403.12910v1.pdf), cication: [**-1**](None)
+
+	 *Lucy Xiaoyang Shi, Zheyuan Hu, Tony Z. Zhao, Archit Sharma, Karl Pertsch, Jianlan Luo, Sergey Levine, Chelsea Finn* · ([qbitai](https://www.qbitai.com/2024/04/133699.html))
 - **ShapeGrasp: Zero-Shot Task-Oriented Grasping with Large Language Models
   through Geometric Decomposition**, `arXiv, 2403.18062`, [arxiv](http://arxiv.org/abs/2403.18062v1), [pdf](http://arxiv.org/pdf/2403.18062v1.pdf), cication: [**-1**](None)
 

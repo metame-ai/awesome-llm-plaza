@@ -51,6 +51,7 @@
 - **ReFT: Representation Finetuning for Language Models**, `arXiv, 2404.03592`, [arxiv](http://arxiv.org/abs/2404.03592v1), [pdf](http://arxiv.org/pdf/2404.03592v1.pdf), cication: [**-1**](None)
 
 	 *Zhengxuan Wu, Aryaman Arora, Zheng Wang, Atticus Geiger, Dan Jurafsky, Christopher D. Manning, Christopher Potts* · ([pyreft](https://github.com/stanfordnlp/pyreft) - stanfordnlp) ![Star](https://img.shields.io/github/stars/stanfordnlp/pyreft.svg?style=social&label=Star)
+	- `by manipulating a small fraction of model representations it is possible to effectively steer model behavior to achieve better downstream performance at inference time; also proposes LoReFT as a drop-in replacement for PEFTs that is 10-50x more parameter efficient.`
 - **Model Stock: All we need is just a few fine-tuned models**, `arXiv, 2403.19522`, [arxiv](http://arxiv.org/abs/2403.19522v1), [pdf](http://arxiv.org/pdf/2403.19522v1.pdf), cication: [**-1**](None)
 
 	 *Dong-Hwan Jang, Sangdoo Yun, Dongyoon Han*

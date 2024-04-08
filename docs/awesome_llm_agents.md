@@ -595,6 +595,9 @@
 - [陈丹琦ACL学术报告来了！详解大模型「外挂」数据库7大方向3大挑战，3小时干货满满 | 量子位](https://www.qbitai.com/2023/07/67259.html)
 
 ## Web browsing
+- **Stream of Search (SoS): Learning to Search in Language**, `arXiv, 2404.03683`, [arxiv](http://arxiv.org/abs/2404.03683v1), [pdf](http://arxiv.org/pdf/2404.03683v1.pdf), cication: [**-1**](None)
+
+	 *Kanishk Gandhi, Denise Lee, Gabriel Grand, Muxin Liu, Winson Cheng, Archit Sharma, Noah D. Goodman*
 - **AutoWebGLM: Bootstrap And Reinforce A Large Language Model-based Web
   Navigating Agent**, `arXiv, 2404.03648`, [arxiv](http://arxiv.org/abs/2404.03648v1), [pdf](http://arxiv.org/pdf/2404.03648v1.pdf), cication: [**-1**](None)
 
@@ -863,6 +866,8 @@
 - **Gecko: Versatile Text Embeddings Distilled from Large Language Models**, `arXiv, 2403.20327`, [arxiv](http://arxiv.org/abs/2403.20327v1), [pdf](http://arxiv.org/pdf/2403.20327v1.pdf), cication: [**-1**](None)
 
 	 *Jinhyuk Lee, Zhuyun Dai, Xiaoqi Ren, Blair Chen, Daniel Cer, Jeremy R. Cole, Kai Hui, Michael Boratko, Rajvi Kapadia, Wen Ding*
+
+	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-04-07-10))
 - [**FlagEmbedding**](https://github.com/FlagOpen/FlagEmbedding) - FlagOpen ![Star](https://img.shields.io/github/stars/FlagOpen/FlagEmbedding.svg?style=social&label=Star)
 
 	 *Retrieval and Retrieval-augmented LLMs* · ([huggingface](https://huggingface.co/BAAI/bge-base-en-v1.5))

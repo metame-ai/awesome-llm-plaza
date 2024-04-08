@@ -453,6 +453,9 @@
 	 *Chongming Gao, Wenqiang Lei, Xiangnan He, Maarten de Rijke, Tat-Seng Chua* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495345&idx=2&sn=5e3ac087c792081705dde1c2542c687a))
 
 ## Role play
+- **Social Skill Training with Large Language Models**, `arXiv, 2404.04204`, [arxiv](http://arxiv.org/abs/2404.04204v1), [pdf](http://arxiv.org/pdf/2404.04204v1.pdf), cication: [**-1**](None)
+
+	 *Diyi Yang, Caleb Ziems, William Held, Omar Shaikh, Michael S. Bernstein, John Mitchell*
 - [**ragdoll**](https://github.com/bennyschmidt/ragdoll) - bennyschmidt ![Star](https://img.shields.io/github/stars/bennyschmidt/ragdoll.svg?style=social&label=Star)
 
 	 *The library for character-driven AI experiences.* · ([twitter](https://twitter.com/llama_index/status/1774619392137138350?utm_source=ainews&utm_medium=email&utm_campaign=ainews-adamw-aarond))

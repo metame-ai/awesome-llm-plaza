@@ -36,6 +36,7 @@
 - **Training LLMs over Neurally Compressed Text**, `arXiv, 2404.03626`, [arxiv](http://arxiv.org/abs/2404.03626v1), [pdf](http://arxiv.org/pdf/2404.03626v1.pdf), cication: [**-1**](None)
 
 	 *Brian Lester, Jaehoon Lee, Alex Alemi, Jeffrey Pennington, Adam Roberts, Jascha Sohl-Dickstein, Noah Constant*
+	- `explores training LLMs with neural text compressors; the proposed compression technique segments text into blocks that each compress to the same bit length; the approach improves at scale and outperforms byte-level baselines on both perplexity and inference speed benchmarks; latency is reduced to the shorter sequence length.`
 - **LESS: Selecting Influential Data for Targeted Instruction Tuning**, `arXiv, 2402.04333`, [arxiv](http://arxiv.org/abs/2402.04333v2), [pdf](http://arxiv.org/pdf/2402.04333v2.pdf), cication: [**-1**](None)
 
 	 *Mengzhou Xia, Sadhika Malladi, Suchin Gururangan, Sanjeev Arora, Danqi Chen* · ([cs.princeton](https://www.cs.princeton.edu/~smalladi/blog/2024/04/04/dataselection/))
@@ -210,6 +211,7 @@
 
 
 ### MulitiMod
+- [**Let-It-Wag**](https://huggingface.co/datasets/bethgelab/Let-It-Wag) - bethgelab 🤗
 - **MAGID: An Automated Pipeline for Generating Synthetic Multi-modal
   Datasets**, `arXiv, 2403.03194`, [arxiv](http://arxiv.org/abs/2403.03194v1), [pdf](http://arxiv.org/pdf/2403.03194v1.pdf), cication: [**-1**](None)
 
@@ -355,6 +357,8 @@
 - [**community-datasets**](https://huggingface.co/blog/community-datasets) -  🤗
 - [Synthetic data: save money, time and carbon with open source](https://huggingface.co/blog/synthetic-data-save-costs)
 - [Thinking about High-Quality Human Data | Lil'Log](https://lilianweng.github.io/posts/2024-02-05-human-data-quality/)
+
+- [30 个优质 NLP 数据集和模型，一键使用 8 个 demo](https://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&mid=2247561069&idx=3&sn=46849d9ae13a9a51421f839d03151281)
 
 ## Extra reference
 - [**Awesome-LLMs-Datasets**](https://github.com/lmmlzn/Awesome-LLMs-Datasets) - lmmlzn ![Star](https://img.shields.io/github/stars/lmmlzn/Awesome-LLMs-Datasets.svg?style=social&label=Star)

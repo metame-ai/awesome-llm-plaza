@@ -73,6 +73,7 @@
 - [Many-shot Jailbreaking](https://cdn.sanity.io/files/4zrzovbb/website/af5633c94ed2beb282f6a53c595eb437e8e7b630.pdf)
 
 	 · ([anthropic](https://www.anthropic.com/research/many-shot-jailbreaking))
+	- ` it includes a very large number of faux dialogues (~256) preceding the final question which effectively steers the model to produce harmful responses.`
 - **Don't Listen To Me: Understanding and Exploring Jailbreak Prompts of
   Large Language Models**, `arXiv, 2403.17336`, [arxiv](http://arxiv.org/abs/2403.17336v1), [pdf](http://arxiv.org/pdf/2403.17336v1.pdf), cication: [**-1**](None)
 

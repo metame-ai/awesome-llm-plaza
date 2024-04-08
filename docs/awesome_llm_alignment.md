@@ -29,7 +29,14 @@
 	 *Yufei Wang, Wanjun Zhong, Liangyou Li, Fei Mi, Xingshan Zeng, Wenyong Huang, Lifeng Shang, Xin Jiang, Qun Liu* · ([AlignLLMHumanSurvey](https://github.com/GaryYufei/AlignLLMHumanSurvey) - GaryYufei) ![Star](https://img.shields.io/github/stars/GaryYufei/AlignLLMHumanSurvey.svg?style=social&label=Star)
 
 ## Paper & Projects
+- **CantTalkAboutThis: Aligning Language Models to Stay on Topic in
+  Dialogues**, `arXiv, 2404.03820`, [arxiv](http://arxiv.org/abs/2404.03820v1), [pdf](http://arxiv.org/pdf/2404.03820v1.pdf), cication: [**-1**](None)
 
+	 *Makesh Narsimhan Sreedhar, Traian Rebedea, Shaona Ghosh, Christopher Parisien*
+- **Direct Nash Optimization: Teaching Language Models to Self-Improve with
+  General Preferences**, `arXiv, 2404.03715`, [arxiv](http://arxiv.org/abs/2404.03715v1), [pdf](http://arxiv.org/pdf/2404.03715v1.pdf), cication: [**-1**](None)
+
+	 *Corby Rosset, Ching-An Cheng, Arindam Mitra, Michael Santacroce, Ahmed Awadallah, Tengyang Xie*
 - **Alignment Studio: Aligning Large Language Models to Particular
   Contextual Regulations**, `arXiv, 2403.09704`, [arxiv](http://arxiv.org/abs/2403.09704v1), [pdf](http://arxiv.org/pdf/2403.09704v1.pdf), cication: [**-1**](None)
 
