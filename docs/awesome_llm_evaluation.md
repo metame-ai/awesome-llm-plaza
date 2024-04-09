@@ -28,6 +28,10 @@
 	 *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang*
 
 ## Papers
+- **FABLES: Evaluating faithfulness and content selection in book-length
+  summarization**, `arXiv, 2404.01261`, [arxiv](http://arxiv.org/abs/2404.01261v1), [pdf](http://arxiv.org/pdf/2404.01261v1.pdf), cication: [**-1**](None)
+
+	 *Yekyung Kim, Yapei Chang, Marzena Karpinska, Aparna Garimella, Varun Manjunatha, Kyle Lo, Tanya Goyal, Mohit Iyyer* · ([FABLES](https://github.com/mungg/FABLES) - mungg) ![Star](https://img.shields.io/github/stars/mungg/FABLES.svg?style=social&label=Star)
 - **EQ-Bench: An Emotional Intelligence Benchmark for Large Language Models**, `arXiv, 2312.06281`, [arxiv](http://arxiv.org/abs/2312.06281v2), [pdf](http://arxiv.org/pdf/2312.06281v2.pdf), cication: [**-1**](None)
 
 	 *Samuel J. Paech*

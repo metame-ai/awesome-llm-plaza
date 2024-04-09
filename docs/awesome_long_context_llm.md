@@ -223,6 +223,9 @@
 	 *Shenggui Li, Fuzhao Xue, Chaitanya Baranwal, Yongbin Li, Yang You*
 
 ## Projects
+- [**EasyContext**](https://github.com/jzhang38/EasyContext) - jzhang38 ![Star](https://img.shields.io/github/stars/jzhang38/EasyContext.svg?style=social&label=Star)
+
+	 *Memory optimization and training recipes to extrapolate language models' context length to 1 million tokens, with minimal hardware.* · ([twitter](https://twitter.com/PY_Z001/status/1776176932687892796))
 - [**LLMLingua**](https://github.com/microsoft/LLMLingua) - microsoft ![Star](https://img.shields.io/github/stars/microsoft/LLMLingua.svg?style=social&label=Star)
 
 	 *To speed up LLMs' inference and enhance LLM's perceive of key information, compress the prompt and KV-Cache, which achieves up to 20x compression with minimal performance loss.*

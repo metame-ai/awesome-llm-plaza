@@ -29,6 +29,10 @@
 	 *Yufei Wang, Wanjun Zhong, Liangyou Li, Fei Mi, Xingshan Zeng, Wenyong Huang, Lifeng Shang, Xin Jiang, Qun Liu* · ([AlignLLMHumanSurvey](https://github.com/GaryYufei/AlignLLMHumanSurvey) - GaryYufei) ![Star](https://img.shields.io/github/stars/GaryYufei/AlignLLMHumanSurvey.svg?style=social&label=Star)
 
 ## Paper & Projects
+- **Verifiable by Design: Aligning Language Models to Quote from
+  Pre-Training Data**, `arXiv, 2404.03862`, [arxiv](http://arxiv.org/abs/2404.03862v1), [pdf](http://arxiv.org/pdf/2404.03862v1.pdf), cication: [**-1**](None)
+
+	 *Jingyu Zhang, Marc Marone, Tianjian Li, Benjamin Van Durme, Daniel Khashabi*
 - **CantTalkAboutThis: Aligning Language Models to Stay on Topic in
   Dialogues**, `arXiv, 2404.03820`, [arxiv](http://arxiv.org/abs/2404.03820v1), [pdf](http://arxiv.org/pdf/2404.03820v1.pdf), cication: [**-1**](None)
 
@@ -177,6 +181,7 @@
 	 *Amanda Askell, Yuntao Bai, Anna Chen, Dawn Drain, Deep Ganguli, Tom Henighan, Andy Jones, Nicholas Joseph, Ben Mann, Nova DasSarma*
 
 ## Other
+- [Alignment Guidebook](https://efficient-unicorn-451.notion.site/Alignment-Guidebook-e5c64df77c0a4b528b7951e87337fa78)
 - [Stanford CS25: V3 I Recipe for Training Helpful Chatbots - YouTube](https://youtu.be/mcep6W8oB1I)
 - [The History of Open-Source LLMs: Imitation and Alignment (Part Three)](https://cameronrwolfe.substack.com/p/the-history-of-open-source-llms-imitation)
 - [Teach Llamas to Talk: Recent Progress in Instruction Tuning](https://gaotianyu.xyz/blog/2023/11/30/instruction-tuning/)

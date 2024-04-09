@@ -66,6 +66,9 @@
 - [贫穷让我预训练](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494110&idx=2&sn=52bfbf2d51d1704efc596263bccf23db)
 
 ## Scaling
+- **Physics of Language Models: Part 3.3, Knowledge Capacity Scaling Laws**, `arXiv, 2404.05405`, [arxiv](http://arxiv.org/abs/2404.05405v1), [pdf](http://arxiv.org/pdf/2404.05405v1.pdf), cication: [**-1**](None)
+
+	 *Zeyuan Allen-Zhu, Yuanzhi Li*
 - **DiPaCo: Distributed Path Composition**, `arXiv, 2403.10616`, [arxiv](http://arxiv.org/abs/2403.10616v1), [pdf](http://arxiv.org/pdf/2403.10616v1.pdf), cication: [**-1**](None)
 
 	 *Arthur Douillard, Qixuan Feng, Andrei A. Rusu, Adhiguna Kuncoro, Yani Donchev, Rachita Chhaparia, Ionel Gog, Marc'Aurelio Ranzato, Jiajun Shen, Arthur Szlam*
@@ -167,6 +170,7 @@
 	 - [twitter](https://twitter.com/rasbt/status/1734920232173539796)
 
 ### Other
+- [scaling laws allow us to accurately predict the performance of larger training runs from much cheaper ones.](https://twitter.com/cwolferesearch/status/1777424149415145882)
 - [Techniques for training large neural networks](https://openai.com/research/techniques-for-training-large-neural-networks)
 - [How to Train Really Large Models on Many GPUs? | Lil'Log](https://lilianweng.github.io/posts/2021-09-25-train-large/)
 - [Chinchilla之死：只要训练足够长时间，小模型也能超过大模型 | 机器之心](https://www.jiqizhixin.com/articles/2023-10-03-9)
@@ -265,6 +269,9 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652375732&idx=2&sn=1cb4cefcd791af2a6ffacdf99e35225c))
 
 ## Optimization
+- **A Large-Scale Exploration of $μ$-Transfer**, `arXiv, 2404.05728`, [arxiv](http://arxiv.org/abs/2404.05728v1), [pdf](http://arxiv.org/pdf/2404.05728v1.pdf), cication: [**-1**](None)
+
+	 *Lucas Lingle*
 - [**schedule_free**](https://github.com/facebookresearch/schedule_free) - facebookresearch ![Star](https://img.shields.io/github/stars/facebookresearch/schedule_free.svg?style=social&label=Star)
 
 	 *Schedule-Free Optimization in PyTorch*

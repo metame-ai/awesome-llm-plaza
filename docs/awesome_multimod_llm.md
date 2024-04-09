@@ -65,6 +65,13 @@
 	 *Code for paper LocalMamba: Visual State Space Model with Windowed Selective Scan*
 
 ### Video
+- **Koala: Key frame-conditioned long video-LLM**, `arXiv, 2404.04346`, [arxiv](http://arxiv.org/abs/2404.04346v1), [pdf](http://arxiv.org/pdf/2404.04346v1.pdf), cication: [**-1**](None)
+
+	 *Reuben Tan, Ximeng Sun, Ping Hu, Jui-hsien Wang, Hanieh Deilamsalehy, Bryan A. Plummer, Bryan Russell, Kate Saenko*
+- **MA-LMM: Memory-Augmented Large Multimodal Model for Long-Term Video
+  Understanding**, `arXiv, 2404.05726`, [arxiv](http://arxiv.org/abs/2404.05726v1), [pdf](http://arxiv.org/pdf/2404.05726v1.pdf), cication: [**-1**](None)
+
+	 *Bo He, Hengduo Li, Young Kyun Jang, Menglin Jia, Xuefei Cao, Ashish Shah, Abhinav Shrivastava, Ser-Nam Lim* · ([MA-LMM](https://github.com/boheumd/MA-LMM) - boheumd) ![Star](https://img.shields.io/github/stars/boheumd/MA-LMM.svg?style=social&label=Star)
 - **MiniGPT4-Video: Advancing Multimodal LLMs for Video Understanding with
   Interleaved Visual-Textual Tokens**, `arXiv, 2404.03413`, [arxiv](http://arxiv.org/abs/2404.03413v1), [pdf](http://arxiv.org/pdf/2404.03413v1.pdf), cication: [**-1**](None)
 
@@ -191,6 +198,9 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
+- **Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs**, `arXiv, 2404.05719`, [arxiv](http://arxiv.org/abs/2404.05719v1), [pdf](http://arxiv.org/pdf/2404.05719v1.pdf), cication: [**-1**](None)
+
+	 *Keen You, Haotian Zhang, Eldon Schoop, Floris Weers, Amanda Swearngin, Jeffrey Nichols, Yinfei Yang, Zhe Gan*
 - **No "Zero-Shot" Without Exponential Data: Pretraining Concept Frequency
   Determines Multimodal Model Performance**, `arXiv, 2404.04125`, [arxiv](http://arxiv.org/abs/2404.04125v1), [pdf](http://arxiv.org/pdf/2404.04125v1.pdf), cication: [**-1**](None)
 
@@ -1038,6 +1048,9 @@
 
 	 *Mingsheng Li, Xin Chen, Chi Zhang, Sijin Chen, Hongyuan Zhu, Fukun Yin, Gang Yu, Tao Chen*
 ## Projects
+- [anotherjesse.com - Rorschach Test For LLaVA LLM](https://anotherjesse.com/posts/llava-rorschach/)
+- [**nanoLLaVA?utm_source=ainews**](https://huggingface.co/qnguyen3/nanoLLaVA?utm_source=ainews) - qnguyen3 🤗
+- [**Cerule-v0.1**](https://huggingface.co/Tensoic/Cerule-v0.1) - Tensoic 🤗
 - [**LL3M**](https://github.com/jiasenlu/LL3M) - jiasenlu ![Star](https://img.shields.io/github/stars/jiasenlu/LL3M.svg?style=social&label=Star)
 
 	 *LL3M: Large Language and Multi-Modal Model in Jax*

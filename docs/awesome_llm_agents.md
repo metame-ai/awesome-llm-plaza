@@ -595,9 +595,14 @@
 - [陈丹琦ACL学术报告来了！详解大模型「外挂」数据库7大方向3大挑战，3小时干货满满 | 量子位](https://www.qbitai.com/2023/07/67259.html)
 
 ## Web browsing
+- [**FreeAskInternet**](https://github.com/nashsu/FreeAskInternet) - nashsu ![Star](https://img.shields.io/github/stars/nashsu/FreeAskInternet.svg?style=social&label=Star)
+
+	 *FreeAskInternet is a completely free, private and locally running search aggregator & answer generate using LLM, without GPU needed. The user can ask a question and the system will make a multi engine search and combine the search result to the ChatGPT3.5 LLM and generate the answer based on search results.*
 - **Stream of Search (SoS): Learning to Search in Language**, `arXiv, 2404.03683`, [arxiv](http://arxiv.org/abs/2404.03683v1), [pdf](http://arxiv.org/pdf/2404.03683v1.pdf), cication: [**-1**](None)
 
 	 *Kanishk Gandhi, Denise Lee, Gabriel Grand, Muxin Liu, Winson Cheng, Archit Sharma, Noah D. Goodman*
+
+	 · ([stream-of-search](https://github.com/kanishkg/stream-of-search) - kanishkg) ![Star](https://img.shields.io/github/stars/kanishkg/stream-of-search.svg?style=social&label=Star)
 - **AutoWebGLM: Bootstrap And Reinforce A Large Language Model-based Web
   Navigating Agent**, `arXiv, 2404.03648`, [arxiv](http://arxiv.org/abs/2404.03648v1), [pdf](http://arxiv.org/pdf/2404.03648v1.pdf), cication: [**-1**](None)
 
@@ -883,9 +888,12 @@
 - [**contrastors**](https://github.com/nomic-ai/contrastors) - nomic-ai ![Star](https://img.shields.io/github/stars/nomic-ai/contrastors.svg?style=social&label=Star)
 
 	 *Train Models Contrastively in Pytorch* · ([huggingface](https://huggingface.co/nomic-ai/nomic-embed-text-v1)) · ([mp.weixin.qq](https://mp.weixin.qq.com/s/EMWNf9TiDwuxxkwwqsl73g))
-- [Fetching Title#b8ws](https://txt.cohere.com/introducing-embed-v3/)
+- [Fetching Title#xtq8](https://txt.cohere.com/introducing-embed-v3/)
 
 ---
+- [Unlocking the Power of Multi-Document Agents with LlamaIndex | by Ankush k Singal | Apr, 2024 | AI Advances](https://ai.gopubby.com/unlocking-the-power-of-multi-document-agents-with-llamaindex-d09e4d7dfe0e)
+
+	 · ([twitter](https://twitter.com/jerryjliu0/status/1776971813874028694))
 - [Cheap RAGs up for grabs: How we cut LLM costs without sacrificing accuracy? | Pathway](https://pathway.com/developers/showcases/adaptive-rag)
 - [Introducing RAG 2.0 - Contextual AI](https://contextual.ai/introducing-rag2/)
 - [**dspy-gradio-rag**](https://github.com/diicellman/dspy-gradio-rag) - diicellman ![Star](https://img.shields.io/github/stars/diicellman/dspy-gradio-rag.svg?style=social&label=Star)

@@ -38,6 +38,7 @@
 # English
 
 ## Foundation
+- [**stablelm-2-12b**](https://huggingface.co/stabilityai/stablelm-2-12b) - stabilityai 🤗
 - [**c4ai-command-r-plus**](https://huggingface.co/CohereForAI/c4ai-command-r-plus) - CohereForAI 🤗
 - [**JetMoE**](https://github.com/myshell-ai/JetMoE) - myshell-ai ![Star](https://img.shields.io/github/stars/myshell-ai/JetMoE.svg?style=social&label=Star)
 
@@ -232,6 +233,7 @@
 - [**Nous-Hermes-2-Mixtral-8x7B-DPO-adapter**](https://huggingface.co/NousResearch/Nous-Hermes-2-Mixtral-8x7B-DPO-adapter) - NousResearch 🤗
 - [**miqu-1-70b**](https://huggingface.co/miqudev/miqu-1-70b) - miqudev 🤗
 - [**Hermes-2-Pro-Mistral-7B**](https://huggingface.co/NousResearch/Hermes-2-Pro-Mistral-7B) - NousResearch 🤗
+- [**dolphin-2.8-mistral-7b-v02**](https://huggingface.co/cognitivecomputations/dolphin-2.8-mistral-7b-v02) - cognitivecomputations 🤗
 - [**dolphin-2.8-mistral-7b-v02**](https://huggingface.co/cognitivecomputations/dolphin-2.8-mistral-7b-v02) - cognitivecomputations 🤗
 
 ### StripedHyena-7B 

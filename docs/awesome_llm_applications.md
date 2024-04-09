@@ -54,6 +54,9 @@
 - [Navigating the Jagged Technological Frontier: Field Experimental Evidence of the Effects of AI on Knowledge Worker Productivity and Quality](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4573321)
 
 ## Toolkits
+- [**ChatGPT**](https://github.com/PawanOsman/ChatGPT) - PawanOsman ![Star](https://img.shields.io/github/stars/PawanOsman/ChatGPT.svg?style=social&label=Star)
+
+	 *OpenAI API Free Reverse Proxy*
 - [**llama_index**](https://github.com/run-llama/llama_index) - run-llama ![Star](https://img.shields.io/github/stars/run-llama/llama_index.svg?style=social&label=Star)
 
 	 *LlamaIndex is a data framework for your LLM applications*

@@ -48,6 +48,10 @@
 
 	 *Vladislav Lialin, Vijeta Deshpande, Anna Rumshisky*
 ## Efficient finetuning
+- **PiSSA: Principal Singular Values and Singular Vectors Adaptation of
+  Large Language Models**, `arXiv, 2404.02948`, [arxiv](http://arxiv.org/abs/2404.02948v1), [pdf](http://arxiv.org/pdf/2404.02948v1.pdf), cication: [**-1**](None)
+
+	 *Fanxu Meng, Zhaohui Wang, Muhan Zhang* · ([PiSSA](https://github.com/GraphPKU/PiSSA) - GraphPKU) ![Star](https://img.shields.io/github/stars/GraphPKU/PiSSA.svg?style=social&label=Star)
 - **ReFT: Representation Finetuning for Language Models**, `arXiv, 2404.03592`, [arxiv](http://arxiv.org/abs/2404.03592v1), [pdf](http://arxiv.org/pdf/2404.03592v1.pdf), cication: [**-1**](None)
 
 	 *Zhengxuan Wu, Aryaman Arora, Zheng Wang, Atticus Geiger, Dan Jurafsky, Christopher D. Manning, Christopher Potts* · ([pyreft](https://github.com/stanfordnlp/pyreft) - stanfordnlp) ![Star](https://img.shields.io/github/stars/stanfordnlp/pyreft.svg?style=social&label=Star)
