@@ -494,6 +494,7 @@
 	 · [huggingface](https://huggingface.co/blog/evaluating-mmlu-leaderboard)]
 
 ## Other
+- [Measuring the Persuasiveness of Language Models](https://www.anthropic.com/news/measuring-model-persuasiveness)
 - [Introducing the Red-Teaming Resistance Leaderboard](https://huggingface.co/blog/leaderboards-on-the-hub-haizelab)
 - [Stanford CS25: V3 I Recipe for Training Helpful Chatbots - YouTube](https://youtu.be/mcep6W8oB1I?t=2069)
 - [**yet-another-applied-llm-benchmark**](https://github.com/carlini/yet-another-applied-llm-benchmark/tree/main) - carlini ![Star](https://img.shields.io/github/stars/carlini/yet-another-applied-llm-benchmark.svg?style=social&label=Star)

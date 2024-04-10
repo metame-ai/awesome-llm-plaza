@@ -769,6 +769,8 @@
 	 *Soham De, Samuel L. Smith, Anushan Fernando, Aleksandar Botev, George Cristian-Muraru, Albert Gu, Ruba Haroun, Leonard Berrada, Yutian Chen, Srivatsan Srinivasan*
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-03-04-7))
+
+	 · ([huggingface](https://huggingface.co/google/recurrentgemma-2b-it)) · ([twitter](https://twitter.com/rohanpaul_ai/status/1777747790564589844?utm_source=ainews&utm_medium=email&utm_campaign=ainews-gemini-pro-and-gpt4t-vision-go-ga-on-the))
 - **ChunkAttention: Efficient Self-Attention with Prefix-Aware KV Cache and
   Two-Phase Partition**, `arXiv, 2402.15220`, [arxiv](http://arxiv.org/abs/2402.15220v1), [pdf](http://arxiv.org/pdf/2402.15220v1.pdf), cication: [**-1**](None)
 

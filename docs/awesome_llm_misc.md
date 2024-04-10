@@ -321,6 +321,9 @@
 - [Mamba: Linear-Time Sequence Modeling with Selective State Spaces (Paper Explained) - YouTube](https://www.youtube.com/watch?v=9dSkvxS2EB0&ab_channel=YannicKilcher)
 
 ## New model
+- [**RWKV-LM**](https://github.com/RWKV/RWKV-LM) - RWKV ![Star](https://img.shields.io/github/stars/RWKV/RWKV-LM.svg?style=social&label=Star)
+
+	 *RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, saves VRAM, fast training, "infinite" ctx\_len, and free sentence embedding.*
 - **Infini-gram: Scaling Unbounded n-gram Language Models to a Trillion
   Tokens**, `arXiv, 2401.17377`, [arxiv](http://arxiv.org/abs/2401.17377v1), [pdf](http://arxiv.org/pdf/2401.17377v1.pdf), cication: [**-1**](None)
 

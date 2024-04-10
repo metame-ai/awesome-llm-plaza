@@ -19,6 +19,12 @@
 	 *Ziyin Zhang, Chaoyu Chen, Bingchang Liu, Cong Liao, Zi Gong, Hang Yu, Jianguo Li, Rui Wang*
 
 ## Paper
+- **AutoCodeRover: Autonomous Program Improvement**, `arXiv, 2404.05427`, [arxiv](http://arxiv.org/abs/2404.05427v1), [pdf](http://arxiv.org/pdf/2404.05427v1.pdf), cication: [**-1**](None)
+
+	 *Yuntong Zhang, Haifeng Ruan, Zhiyu Fan, Abhik Roychoudhury* · ([auto-code-rover](https://github.com/nus-apr/auto-code-rover) - nus-apr) ![Star](https://img.shields.io/github/stars/nus-apr/auto-code-rover.svg?style=social&label=Star) · ([twitter](https://twitter.com/AbhikRoychoudh1/status/1777494000611852515))
+- [CodeGemma: Open Code Models Based on Gemma](https://storage.googleapis.com/deepmind-media/gemma/codegemma_report.pdf)
+
+	 · ([huggingface](https://huggingface.co/blog/codegemma)) · ([huggingface](https://huggingface.co/google/codegemma-7b-it)) · ([twitter](https://twitter.com/fchollet/status/1777715491550994732?utm_source=ainews&utm_medium=email&utm_campaign=ainews-gemini-pro-and-gpt4t-vision-go-ga-on-the))
 - **CodeEditorBench: Evaluating Code Editing Capability of Large Language
   Models**, `arXiv, 2404.03543`, [arxiv](http://arxiv.org/abs/2404.03543v1), [pdf](http://arxiv.org/pdf/2404.03543v1.pdf), cication: [**-1**](None)
 
@@ -271,6 +277,9 @@
 	 · [intercode-benchmark.github](https://intercode-benchmark.github.io/)
 
 ## Projects
+- [**aiXcoder-7B**](https://github.com/aixcoder-plugin/aiXcoder-7B?tab=readme-ov-file) - aixcoder-plugin ![Star](https://img.shields.io/github/stars/aixcoder-plugin/aiXcoder-7B.svg?style=social&label=Star)
+
+	 *official repository of aiXcoder-7B Code Large Language Model* · ([aixcoder](https://www.aixcoder.com/#/)) · ([qbitai](https://www.qbitai.com/2024/04/134070.html))
 - [**plandex**](https://github.com/plandex-ai/plandex) - plandex-ai ![Star](https://img.shields.io/github/stars/plandex-ai/plandex.svg?style=social&label=Star)
 
 	 *An AI coding engine for complex tasks*

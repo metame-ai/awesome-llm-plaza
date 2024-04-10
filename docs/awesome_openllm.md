@@ -38,6 +38,10 @@
 # English
 
 ## Foundation
+- **MiniCPM: Unveiling the Potential of Small Language Models with Scalable
+  Training Strategies**, `arXiv, 2404.06395`, [arxiv](http://arxiv.org/abs/2404.06395v1), [pdf](http://arxiv.org/pdf/2404.06395v1.pdf), cication: [**-1**](None)
+
+	 *Shengding Hu, Yuge Tu, Xu Han, Chaoqun He, Ganqu Cui, Xiang Long, Zhi Zheng, Yewei Fang, Yuxiang Huang, Weilin Zhao* · ([MiniCPM](https://github.com/OpenBMB/MiniCPM) - OpenBMB) ![Star](https://img.shields.io/github/stars/OpenBMB/MiniCPM.svg?style=social&label=Star)
 - [**stablelm-2-12b**](https://huggingface.co/stabilityai/stablelm-2-12b) - stabilityai 🤗
 - [**c4ai-command-r-plus**](https://huggingface.co/CohereForAI/c4ai-command-r-plus) - CohereForAI 🤗
 - [**JetMoE**](https://github.com/myshell-ai/JetMoE) - myshell-ai ![Star](https://img.shields.io/github/stars/myshell-ai/JetMoE.svg?style=social&label=Star)
@@ -322,6 +326,9 @@
 
 	 *Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform* · ([huggingface](https://huggingface.co/databricks/dolly-v2-12b)) · ([databricks](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm))
 ### Misc
+- [**YamshadowExperiment28-7B**](https://huggingface.co/automerger/YamshadowExperiment28-7B) - automerger 🤗
+
+	 · ([twitter](https://twitter.com/maximelabonne/status/1777610370925871239))
 - [Starling-7B: Increasing LLM Helpfulness & Harmlessness with RLAIF](https://starling.cs.berkeley.edu/)
 
 	 · ([huggingface](https://huggingface.co/Nexusflow/Starling-LM-7B-beta)) · ([huggingface](https://huggingface.co/Nexusflow/Starling-RM-34B))

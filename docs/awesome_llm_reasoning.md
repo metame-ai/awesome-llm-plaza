@@ -28,6 +28,19 @@
 	 *Jiankai Sun, Chuanyang Zheng, Enze Xie, Zhengying Liu, Ruihang Chu, Jianing Qiu, Jiaqi Xu, Mingyu Ding, Hongyang Li, Mengzhe Geng* · ([Awesome-Reasoning-Foundation-Models](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models) - reasoning-survey) ![Star](https://img.shields.io/github/stars/reasoning-survey/Awesome-Reasoning-Foundation-Models.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652421688&idx=3&sn=fcdc24edc7bc89ebcbcca0f7665e40f6))
 
 ## Reasoning
+- **Can Small Language Models Help Large Language Models Reason Better?:
+  LM-Guided Chain-of-Thought**, `arXiv, 2404.03414`, [arxiv](http://arxiv.org/abs/2404.03414v1), [pdf](http://arxiv.org/pdf/2404.03414v1.pdf), cication: [**-1**](None)
+
+	 *Jooyoung Lee, Fan Yang, Thanh Tran, Qian Hu, Emre Barut, Kai-Wei Chang, Chengwei Su*
+- **SELF-[IN]CORRECT: LLMs Struggle with Refining Self-Generated Responses**, `arXiv, 2404.04298`, [arxiv](http://arxiv.org/abs/2404.04298v1), [pdf](http://arxiv.org/pdf/2404.04298v1.pdf), cication: [**-1**](None)
+
+	 *Dongwei Jiang, Jingyu Zhang, Orion Weller, Nathaniel Weir, Benjamin Van Durme, Daniel Khashabi*
+- **RoT: Enhancing Large Language Models with Reflection on Search Trees**, `arXiv, 2404.05449`, [arxiv](http://arxiv.org/abs/2404.05449v1), [pdf](http://arxiv.org/pdf/2404.05449v1.pdf), cication: [**-1**](None)
+
+	 *Wenyang Hui, Yan Wang, Kewei Tu, Chengyue Jiang*
+- **THOUGHTSCULPT: Reasoning with Intermediate Revision and Search**, `arXiv, 2404.05966`, [arxiv](http://arxiv.org/abs/2404.05966v1), [pdf](http://arxiv.org/pdf/2404.05966v1.pdf), cication: [**-1**](None)
+
+	 *Yizhou Chi, Kevin Yang, Dan Klein* · ([thoughtsculpt](https://github.com/cyzus/thoughtsculpt) - cyzus) ![Star](https://img.shields.io/github/stars/cyzus/thoughtsculpt.svg?style=social&label=Star)
 - **Visualization-of-Thought Elicits Spatial Reasoning in Large Language
   Models**, `arXiv, 2404.03622`, [arxiv](http://arxiv.org/abs/2404.03622v1), [pdf](http://arxiv.org/pdf/2404.03622v1.pdf), cication: [**-1**](None)
 

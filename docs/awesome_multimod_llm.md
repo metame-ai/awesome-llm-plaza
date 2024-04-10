@@ -157,6 +157,8 @@
 - **OneLLM: One Framework to Align All Modalities with Language**, `arXiv, 2312.03700`, [arxiv](http://arxiv.org/abs/2312.03700v1), [pdf](http://arxiv.org/pdf/2312.03700v1.pdf), cication: [**-1**](None)
 
 	 *Jiaming Han, Kaixiong Gong, Yiyuan Zhang, Jiaqi Wang, Kaipeng Zhang, Dahua Lin, Yu Qiao, Peng Gao, Xiangyu Yue*
+
+	 · ([onellm](https://github.com/csuhan/onellm) - csuhan) ![Star](https://img.shields.io/github/stars/csuhan/onellm.svg?style=social&label=Star)
 - **CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any Generation**, `arXiv, 2311.18775`, [arxiv](http://arxiv.org/abs/2311.18775v1), [pdf](http://arxiv.org/pdf/2311.18775v1.pdf), cication: [**-1**](None)
 
 	 *Zineng Tang, Ziyi Yang, Mahmoud Khademi, Yang Liu, Chenguang Zhu, Mohit Bansal* · ([i-Code](https://github.com/microsoft/i-Code/tree/main/CoDi-2) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/i-Code.svg?style=social&label=Star) · ([codi-2.github](https://codi-2.github.io/))
@@ -1048,8 +1050,9 @@
 
 	 *Mingsheng Li, Xin Chen, Chi Zhang, Sijin Chen, Hongyuan Zhu, Fukun Yin, Gang Yu, Tao Chen*
 ## Projects
+- [**internlm-xcomposer2-4khd-7b**](https://huggingface.co/internlm/internlm-xcomposer2-4khd-7b) - internlm 🤗
 - [anotherjesse.com - Rorschach Test For LLaVA LLM](https://anotherjesse.com/posts/llava-rorschach/)
-- [**nanoLLaVA?utm_source=ainews**](https://huggingface.co/qnguyen3/nanoLLaVA?utm_source=ainews) - qnguyen3 🤗
+- [**nanoLLaVA**](https://huggingface.co/qnguyen3/nanoLLaVA?utm_source=ainews) - qnguyen3 🤗
 - [**Cerule-v0.1**](https://huggingface.co/Tensoic/Cerule-v0.1) - Tensoic 🤗
 - [**LL3M**](https://github.com/jiasenlu/LL3M) - jiasenlu ![Star](https://img.shields.io/github/stars/jiasenlu/LL3M.svg?style=social&label=Star)
 

@@ -231,6 +231,10 @@
 
 
 ## Medical
+- **MedExpQA: Multilingual Benchmarking of Large Language Models for Medical
+  Question Answering**, `arXiv, 2404.05590`, [arxiv](http://arxiv.org/abs/2404.05590v1), [pdf](http://arxiv.org/pdf/2404.05590v1.pdf), cication: [**-1**](None)
+
+	 *Iñigo Alonso, Maite Oronoz, Rodrigo Agerri*
 - **BioMedLM: A 2.7B Parameter Language Model Trained On Biomedical Text**, `arXiv, 2403.18421`, [arxiv](http://arxiv.org/abs/2403.18421v1), [pdf](http://arxiv.org/pdf/2403.18421v1.pdf), cication: [**-1**](None)
 
 	 *Elliot Bolton, Abhinav Venigalla, Michihiro Yasunaga, David Hall, Betty Xiong, Tony Lee, Roxana Daneshjou, Jonathan Frankle, Percy Liang, Michael Carbin* · ([huggingface](https://huggingface.co/stanford-crfm/BioMedLM))

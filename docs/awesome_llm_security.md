@@ -234,6 +234,7 @@
 	 *A framework to evaluate the generalization capability of safety alignment for LLMs*
 
 ## Other
+- [A Primer on LLM Security – Hacking Large Language Models for Beginners](https://kleiber.me/blog/2024/03/17/llm-security-primer/)
 - [Making a SOTA Adversarial Attack on LLMs 38x Faster | Haize Labs Blog 🕊️](https://blog.haizelabs.com/posts/acg/)
 - [Introducing the Red-Teaming Resistance Leaderboard](https://huggingface.co/blog/leaderboards-on-the-hub-haizelab)
 - [fast.ai - AI Safety and the Age of Dislightenment](https://www.fast.ai/posts/2023-11-07-dislightenment.html)

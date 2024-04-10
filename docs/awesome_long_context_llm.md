@@ -238,6 +238,7 @@
 	 *LongLLaMA is a large language model capable of handling long contexts. It is based on OpenLLaMA and fine-tuned with the Focused Transformer (FoT) method.*
 
 ## Other
+- [Unsloth - 4x longer context windows & 1.7x larger batch sizes](https://unsloth.ai/blog/long-context)
 -  [a certain pattern among many attention heads](https://twitter.com/arankomatsuzaki/status/1767276661894943226)
 - [How Do Language Models put Attention Weights over Long Context?](https://yaofu.notion.site/How-Do-Language-Models-put-Attention-Weights-over-Long-Context-10250219d5ce42e8b465087c383a034e)
 - [gemini use case](https://twitter.com/Swarooprm7/status/1762892253234913349)

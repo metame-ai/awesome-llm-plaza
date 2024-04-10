@@ -676,6 +676,9 @@
 - [GPT-4V学会用键鼠上网，人类眼睁睁看着它发帖玩游戏 | 量子位](https://www.qbitai.com/2023/11/95456.html)
 
 ## Retrieval agumented generation
+- **ARAGOG: Advanced RAG Output Grading**, `arXiv, 2404.01037`, [arxiv](http://arxiv.org/abs/2404.01037v1), [pdf](http://arxiv.org/pdf/2404.01037v1.pdf), cication: [**-1**](None)
+
+	 *Matouš Eibich, Shivay Nagpal, Alexander Fred-Ojala*
 - **Adaptive-RAG: Learning to Adapt Retrieval-Augmented Large Language
   Models through Question Complexity**, `arXiv, 2403.14403`, [arxiv](http://arxiv.org/abs/2403.14403v2), [pdf](http://arxiv.org/pdf/2403.14403v2.pdf), cication: [**-1**](None)
 
@@ -868,6 +871,9 @@
 	 *Interact privately with your documents using the power of GPT, 100% privately, no data leaks*
 
 ### Embedding
+- **LLM2Vec: Large Language Models Are Secretly Powerful Text Encoders**, `arXiv, 2404.05961`, [arxiv](http://arxiv.org/abs/2404.05961v1), [pdf](http://arxiv.org/pdf/2404.05961v1.pdf), cication: [**-1**](None)
+
+	 *Parishad BehnamGhader, Vaibhav Adlakha, Marius Mosbach, Dzmitry Bahdanau, Nicolas Chapados, Siva Reddy*
 - **Gecko: Versatile Text Embeddings Distilled from Large Language Models**, `arXiv, 2403.20327`, [arxiv](http://arxiv.org/abs/2403.20327v1), [pdf](http://arxiv.org/pdf/2403.20327v1.pdf), cication: [**-1**](None)
 
 	 *Jinhyuk Lee, Zhuyun Dai, Xiaoqi Ren, Blair Chen, Daniel Cer, Jeremy R. Cole, Kai Hui, Michael Boratko, Rajvi Kapadia, Wen Ding*
