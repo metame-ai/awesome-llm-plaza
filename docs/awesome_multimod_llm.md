@@ -1108,6 +1108,7 @@
 - [**BakLLaVA-1**](https://huggingface.co/SkunkworksAI/BakLLaVA-1) - SkunkworksAI 🤗
 
 ## Evaluation
+- [Google Colab](https://colab.research.google.com/drive/1s7KvljSkXKRfinqG248QZIZvROf0pk4x)
 - **Are Language Models Puzzle Prodigies? Algorithmic Puzzles Unveil Serious
   Challenges in Multimodal Reasoning**, `arXiv, 2403.03864`, [arxiv](http://arxiv.org/abs/2403.03864v3), [pdf](http://arxiv.org/pdf/2403.03864v3.pdf), cication: [**-1**](None)
 

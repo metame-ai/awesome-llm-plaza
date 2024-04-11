@@ -197,6 +197,7 @@
 - [**phi-2**](https://huggingface.co/spaces/randomblock1/phi-2) - randomblock1 🤗
 - [**phixtral-4x2_8**](https://huggingface.co/mlabonne/phixtral-4x2_8) - mlabonne 🤗
 ### Mistral
+- [Fetching Title#gmr5](https://huggingface.co/mistral-community/Mixtral-8x22B-v0.1)
 - [**hackathon**](https://github.com/mistralai-sf24/hackathon) - mistralai-sf24 ![Star](https://img.shields.io/github/stars/mistralai-sf24/hackathon.svg?style=social&label=Star)
 
 	 · ([models.mistralcdn](https://models.mistralcdn.com/mistral-7b-v0-2/mistral-7B-v0.2.tar)) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-03-25-8))

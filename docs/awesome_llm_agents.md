@@ -676,6 +676,9 @@
 - [GPT-4V学会用键鼠上网，人类眼睁睁看着它发帖玩游戏 | 量子位](https://www.qbitai.com/2023/11/95456.html)
 
 ## Retrieval agumented generation
+- [**StreamRAG**](https://github.com/video-db/StreamRAG) - video-db ![Star](https://img.shields.io/github/stars/video-db/StreamRAG.svg?style=social&label=Star)
+
+	 *Video Search and Streaming Agent 🕵️‍♂️*
 - **ARAGOG: Advanced RAG Output Grading**, `arXiv, 2404.01037`, [arxiv](http://arxiv.org/abs/2404.01037v1), [pdf](http://arxiv.org/pdf/2404.01037v1.pdf), cication: [**-1**](None)
 
 	 *Matouš Eibich, Shivay Nagpal, Alexander Fred-Ojala*
