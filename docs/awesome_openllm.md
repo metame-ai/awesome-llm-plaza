@@ -47,6 +47,9 @@
 	 *Shengding Hu, Yuge Tu, Xu Han, Chaoqun He, Ganqu Cui, Xiang Long, Zhi Zheng, Yewei Fang, Yuxiang Huang, Weilin Zhao* · ([MiniCPM](https://github.com/OpenBMB/MiniCPM) - OpenBMB) ![Star](https://img.shields.io/github/stars/OpenBMB/MiniCPM.svg?style=social&label=Star)
 - [**stablelm-2-12b**](https://huggingface.co/stabilityai/stablelm-2-12b) - stabilityai 🤗
 - [**c4ai-command-r-plus**](https://huggingface.co/CohereForAI/c4ai-command-r-plus) - CohereForAI 🤗
+- **JetMoE: Reaching Llama2 Performance with 0.1M Dollars**, `arXiv, 2404.07413`, [arxiv](http://arxiv.org/abs/2404.07413v1), [pdf](http://arxiv.org/pdf/2404.07413v1.pdf), cication: [**-1**](None)
+
+	 *Yikang Shen, Zhen Guo, Tianle Cai, Zengyi Qin*
 - [**JetMoE**](https://github.com/myshell-ai/JetMoE) - myshell-ai ![Star](https://img.shields.io/github/stars/myshell-ai/JetMoE.svg?style=social&label=Star)
 
 	 *Reaching LLaMA2 Performance with 0.1M Dollars* · ([research.myshell](https://research.myshell.ai/jetmoe)) · ([huggingface](https://huggingface.co/jetmoe/jetmoe-8b)) · ([qbitai](https://www.qbitai.com/2024/04/133284.html))
@@ -571,6 +574,9 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s/Lf70i8M0KNDs9ZB8H32h4w))
 
 # Extra
+- **SambaLingo: Teaching Large Language Models New Languages**, `arXiv, 2404.05829`, [arxiv](http://arxiv.org/abs/2404.05829v1), [pdf](http://arxiv.org/pdf/2404.05829v1.pdf), cication: [**-1**](None)
+
+	 *Zoltan Csaki, Bo Li, Jonathan Li, Qiantong Xu, Pian Pawakapan, Leon Zhang, Yun Du, Hengyu Zhao, Changran Hu, Urmish Thakker*
 - **Aurora-M: The First Open Source Multilingual Language Model Red-teamed
   according to the U.S. Executive Order**, `arXiv, 2404.00399`, [arxiv](http://arxiv.org/abs/2404.00399v1), [pdf](http://arxiv.org/pdf/2404.00399v1.pdf), cication: [**-1**](None)
 

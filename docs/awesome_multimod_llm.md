@@ -203,6 +203,20 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
+- **Ferret-v2: An Improved Baseline for Referring and Grounding with Large
+  Language Models**, `arXiv, 2404.07973`, [arxiv](http://arxiv.org/abs/2404.07973v1), [pdf](http://arxiv.org/pdf/2404.07973v1.pdf), cication: [**-1**](None)
+
+	 *Haotian Zhang, Haoxuan You, Philipp Dufter, Bowen Zhang, Chen Chen, Hong-You Chen, Tsu-Jui Fu, William Yang Wang, Shih-Fu Chang, Zhe Gan*
+- **BRAVE: Broadening the visual encoding of vision-language models**, `arXiv, 2404.07204`, [arxiv](http://arxiv.org/abs/2404.07204v1), [pdf](http://arxiv.org/pdf/2404.07204v1.pdf), cication: [**-1**](None)
+
+	 *Oğuzhan Fatih Kar, Alessio Tonioni, Petra Poklukar, Achin Kulshrestha, Amir Zamir, Federico Tombari*
+- **InternLM-XComposer2-4KHD: A Pioneering Large Vision-Language Model
+  Handling Resolutions from 336 Pixels to 4K HD**, `arXiv, 2404.06512`, [arxiv](http://arxiv.org/abs/2404.06512v1), [pdf](http://arxiv.org/pdf/2404.06512v1.pdf), cication: [**-1**](None)
+
+	 *Xiaoyi Dong, Pan Zhang, Yuhang Zang, Yuhang Cao, Bin Wang, Linke Ouyang, Songyang Zhang, Haodong Duan, Wenwei Zhang, Yining Li* · ([InternLM-XComposer](https://github.com/InternLM/InternLM-XComposer) - InternLM) ![Star](https://img.shields.io/github/stars/InternLM/InternLM-XComposer.svg?style=social&label=Star)
+- **OmniFusion Technical Report**, `arXiv, 2404.06212`, [arxiv](http://arxiv.org/abs/2404.06212v1), [pdf](http://arxiv.org/pdf/2404.06212v1.pdf), cication: [**-1**](None)
+
+	 *Elizaveta Goncharova, Anton Razzhigaev, Matvey Mikhalchuk, Maxim Kurkin, Irina Abdullaeva, Matvey Skripkin, Ivan Oseledets, Denis Dimitrov, Andrey Kuznetsov* · ([OmniFusion](https://github.com/AIRI-Institute/OmniFusion) - AIRI-Institute) ![Star](https://img.shields.io/github/stars/AIRI-Institute/OmniFusion.svg?style=social&label=Star)
 - **Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs**, `arXiv, 2404.05719`, [arxiv](http://arxiv.org/abs/2404.05719v1), [pdf](http://arxiv.org/pdf/2404.05719v1.pdf), cication: [**-1**](None)
 
 	 *Keen You, Haotian Zhang, Eldon Schoop, Floris Weers, Amanda Swearngin, Jeffrey Nichols, Yinfei Yang, Zhe Gan*

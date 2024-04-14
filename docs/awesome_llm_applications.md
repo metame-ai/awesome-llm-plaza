@@ -663,6 +663,9 @@
 	 *Tiffany Tseng, Ruijia Cheng, Jeffrey Nichols*
 
 ## Vision
+- **Adapting LLaMA Decoder to Vision Transformer**, `arXiv, 2404.06773`, [arxiv](http://arxiv.org/abs/2404.06773v1), [pdf](http://arxiv.org/pdf/2404.06773v1.pdf), cication: [**-1**](None)
+
+	 *Jiahao Wang, Wenqi Shao, Mengzhao Chen, Chengyue Wu, Yong Liu, Kaipeng Zhang, Songyang Zhang, Kai Chen, Ping Luo*
 - **ELLA: Equip Diffusion Models with LLM for Enhanced Semantic Alignment**, `arXiv, 2403.05135`, [arxiv](http://arxiv.org/abs/2403.05135v1), [pdf](http://arxiv.org/pdf/2403.05135v1.pdf), cication: [**-1**](None)
 
 	 *Xiwei Hu, Rui Wang, Yixiao Fang, Bin Fu, Pei Cheng, Gang Yu*

@@ -28,6 +28,10 @@
 	 *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang*
 
 ## Papers
+- **Elephants Never Forget: Memorization and Learning of Tabular Data in
+  Large Language Models**, `arXiv, 2404.06209`, [arxiv](http://arxiv.org/abs/2404.06209v1), [pdf](http://arxiv.org/pdf/2404.06209v1.pdf), cication: [**-1**](None)
+
+	 *Sebastian Bordt, Harsha Nori, Vanessa Rodrigues, Besmira Nushi, Rich Caruana* · ([LLM-Tabular-Memorization-Checker](https://github.com/interpretml/LLM-Tabular-Memorization-Checker) - interpretml) ![Star](https://img.shields.io/github/stars/interpretml/LLM-Tabular-Memorization-Checker.svg?style=social&label=Star)
 - **Autonomous Evaluation and Refinement of Digital Agents**, `arXiv, 2404.06474`, [arxiv](http://arxiv.org/abs/2404.06474v2), [pdf](http://arxiv.org/pdf/2404.06474v2.pdf), cication: [**-1**](None)
 
 	 *Jiayi Pan, Yichi Zhang, Nicholas Tomlin, Yifei Zhou, Sergey Levine, Alane Suhr* · ([Agent-Eval-Refine](https://github.com/Berkeley-NLP/Agent-Eval-Refine) - Berkeley-NLP) ![Star](https://img.shields.io/github/stars/Berkeley-NLP/Agent-Eval-Refine.svg?style=social&label=Star)

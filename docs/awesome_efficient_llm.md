@@ -753,6 +753,10 @@
 	 *DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.*
 
 ## Efficient transformer
+- **RecurrentGemma: Moving Past Transformers for Efficient Open Language
+  Models**, `arXiv, 2404.07839`, [arxiv](http://arxiv.org/abs/2404.07839v1), [pdf](http://arxiv.org/pdf/2404.07839v1.pdf), cication: [**-1**](None)
+
+	 *Aleksandar Botev, Soham De, Samuel L Smith, Anushan Fernando, George-Cristian Muraru, Ruba Haroun, Leonard Berrada, Razvan Pascanu, Pier Giuseppe Sessa, Robert Dadashi* · ([recurrentgemma](https://github.com/google-deepmind/recurrentgemma) - google-deepmind) ![Star](https://img.shields.io/github/stars/google-deepmind/recurrentgemma.svg?style=social&label=Star)
 - [8bit HippoAttention: Up to 3X Faster Compared to FlashAttentionV2 | by HippoML Blog | Medium](https://blog.hippoml.com/8bit-hippoattention-up-to-3x-faster-compared-to-flashattentionv2-8f9def90b482)
 - [**LASP**](https://github.com/OpenNLPLab/LASP?tab=readme-ov-file) - OpenNLPLab ![Star](https://img.shields.io/github/stars/OpenNLPLab/LASP.svg?style=social&label=Star)
 

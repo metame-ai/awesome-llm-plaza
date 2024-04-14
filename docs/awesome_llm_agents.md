@@ -602,6 +602,9 @@
 - [陈丹琦ACL学术报告来了！详解大模型「外挂」数据库7大方向3大挑战，3小时干货满满 | 量子位](https://www.qbitai.com/2023/07/67259.html)
 
 ## Web browsing
+- **WILBUR: Adaptive In-Context Learning for Robust and Accurate Web Agents**, `arXiv, 2404.05902`, [arxiv](http://arxiv.org/abs/2404.05902v1), [pdf](http://arxiv.org/pdf/2404.05902v1.pdf), cication: [**-1**](None)
+
+	 *Michael Lutz, Arth Bohra, Manvel Saroyan, Artem Harutyunyan, Giovanni Campagna*
 - [**FreeAskInternet**](https://github.com/nashsu/FreeAskInternet) - nashsu ![Star](https://img.shields.io/github/stars/nashsu/FreeAskInternet.svg?style=social&label=Star)
 
 	 *FreeAskInternet is a completely free, private and locally running search aggregator & answer generate using LLM, without GPU needed. The user can ask a question and the system will make a multi engine search and combine the search result to the ChatGPT3.5 LLM and generate the answer based on search results.*

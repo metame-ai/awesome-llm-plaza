@@ -325,6 +325,12 @@
 - [Mamba: Linear-Time Sequence Modeling with Selective State Spaces (Paper Explained) - YouTube](https://www.youtube.com/watch?v=9dSkvxS2EB0&ab_channel=YannicKilcher)
 
 ## New model
+- **HGRN2: Gated Linear RNNs with State Expansion**, `arXiv, 2404.07904`, [arxiv](http://arxiv.org/abs/2404.07904v1), [pdf](http://arxiv.org/pdf/2404.07904v1.pdf), cication: [**-1**](None)
+
+	 *Zhen Qin, Songlin Yang, Weixuan Sun, Xuyang Shen, Dong Li, Weigao Sun, Yiran Zhong*
+- **Eagle and Finch: RWKV with Matrix-Valued States and Dynamic Recurrence**, `arXiv, 2404.05892`, [arxiv](http://arxiv.org/abs/2404.05892v2), [pdf](http://arxiv.org/pdf/2404.05892v2.pdf), cication: [**-1**](None)
+
+	 *Bo Peng, Daniel Goldstein, Quentin Anthony, Alon Albalak, Eric Alcaide, Stella Biderman, Eugene Cheah, Xingjian Du, Teddy Ferdinan, Haowen Hou* · ([RWKV-LM](https://github.com/RWKV/RWKV-LM) - RWKV) ![Star](https://img.shields.io/github/stars/RWKV/RWKV-LM.svg?style=social&label=Star) · ([ChatRWKV](https://github.com/RWKV/ChatRWKV) - RWKV) ![Star](https://img.shields.io/github/stars/RWKV/ChatRWKV.svg?style=social&label=Star)
 - [**RWKV-LM**](https://github.com/RWKV/RWKV-LM) - RWKV ![Star](https://img.shields.io/github/stars/RWKV/RWKV-LM.svg?style=social&label=Star)
 
 	 *RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, saves VRAM, fast training, "infinite" ctx\_len, and free sentence embedding.*

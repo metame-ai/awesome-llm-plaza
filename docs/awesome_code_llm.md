@@ -281,6 +281,9 @@
 	 · [intercode-benchmark.github](https://intercode-benchmark.github.io/)
 
 ## Projects
+- [**tabby**](https://github.com/TabbyML/tabby) - TabbyML ![Star](https://img.shields.io/github/stars/TabbyML/tabby.svg?style=social&label=Star)
+
+	 *Self-hosted AI coding assistant*
 - [**aiXcoder-7B**](https://github.com/aixcoder-plugin/aiXcoder-7B?tab=readme-ov-file) - aixcoder-plugin ![Star](https://img.shields.io/github/stars/aixcoder-plugin/aiXcoder-7B.svg?style=social&label=Star)
 
 	 *official repository of aiXcoder-7B Code Large Language Model* · ([aixcoder](https://www.aixcoder.com/#/)) · ([qbitai](https://www.qbitai.com/2024/04/134070.html))
@@ -357,7 +360,7 @@
 - [**continue**](https://github.com/continuedev/continue) - continuedev ![Star](https://img.shields.io/github/stars/continuedev/continue.svg?style=social&label=Star)
 
 	 *⏩ the open-source autopilot for software development—a VS Code extension that brings the power of ChatGPT to your IDE*
-	 · [[jiqizhixin](https://www.jiqizhixin.com/articles/2023-07-29-4)]
+	 · [jiqizhixin](https://www.jiqizhixin.com/articles/2023-07-29-4)
 - [**CodeGeeX2**](https://github.com/THUDM/CodeGeeX2) - THUDM ![Star](https://img.shields.io/github/stars/THUDM/CodeGeeX2.svg?style=social&label=Star)
 
 	 *CodeGeeX2: A More Powerful Multilingual Code Generation Model*
