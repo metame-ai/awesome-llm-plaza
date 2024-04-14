@@ -32,6 +32,17 @@
 	 *Adyasha Maharana, Dong-Ho Lee, Sergey Tulyakov, Mohit Bansal, Francesco Barbieri, Yuwei Fang*
 
 ## Papers
+- **LLoCO: Learning Long Contexts Offline**, `arXiv, 2404.07979`, [arxiv](http://arxiv.org/abs/2404.07979v1), [pdf](http://arxiv.org/pdf/2404.07979v1.pdf), cication: [**-1**](None)
+
+	 *Sijun Tan, Xiuyu Li, Shishir Patil, Ziyang Wu, Tianjun Zhang, Kurt Keutzer, Joseph E. Gonzalez, Raluca Ada Popa* · ([lloco](https://github.com/jeffreysijuntan/lloco) - jeffreysijuntan) ![Star](https://img.shields.io/github/stars/jeffreysijuntan/lloco.svg?style=social&label=Star)
+- **RULER: What's the Real Context Size of Your Long-Context Language
+  Models?**, `arXiv, 2404.06654`, [arxiv](http://arxiv.org/abs/2404.06654v1), [pdf](http://arxiv.org/pdf/2404.06654v1.pdf), cication: [**-1**](None)
+
+	 *Cheng-Ping Hsieh, Simeng Sun, Samuel Kriman, Shantanu Acharya, Dima Rekesh, Fei Jia, Boris Ginsburg*
+- **Leave No Context Behind: Efficient Infinite Context Transformers with
+  Infini-attention**, `arXiv, 2404.07143`, [arxiv](http://arxiv.org/abs/2404.07143v1), [pdf](http://arxiv.org/pdf/2404.07143v1.pdf), cication: [**-1**](None)
+
+	 *Tsendsuren Munkhdalai, Manaal Faruqui, Siddharth Gopal*
 - **Long-context LLMs Struggle with Long In-context Learning**, `arXiv, 2404.02060`, [arxiv](http://arxiv.org/abs/2404.02060v1), [pdf](http://arxiv.org/pdf/2404.02060v1.pdf), cication: [**-1**](None)
 
 	 *Tianle Li, Ge Zhang, Quy Duc Do, Xiang Yue, Wenhu Chen*

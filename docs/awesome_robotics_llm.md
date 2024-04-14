@@ -10,6 +10,9 @@
 
 
 ## Papers
+- [paper.pdf](https://open-eqa.github.io/assets/pdfs/paper.pdf)
+
+	 · ([open-eqa.github](https://open-eqa.github.io/)) · ([open-eqa](https://github.com/facebookresearch/open-eqa) - facebookresearch) ![Star](https://img.shields.io/github/stars/facebookresearch/open-eqa.svg?style=social&label=Star)
 - **Yell At Your Robot: Improving On-the-Fly from Language Corrections**, `arXiv, 2403.12910`, [arxiv](http://arxiv.org/abs/2403.12910v1), [pdf](http://arxiv.org/pdf/2403.12910v1.pdf), cication: [**-1**](None)
 
 	 *Lucy Xiaoyang Shi, Zheyuan Hu, Tony Z. Zhao, Archit Sharma, Karl Pertsch, Jianlan Luo, Sergey Levine, Chelsea Finn* · ([qbitai](https://www.qbitai.com/2024/04/133699.html))
@@ -272,6 +275,10 @@
 	 *Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao*
 
 ## Robotics
+- **Body Design and Gait Generation of Chair-Type Asymmetrical Tripedal
+  Low-rigidity Robot**, `arXiv, 2404.05932`, [arxiv](http://arxiv.org/abs/2404.05932v1), [pdf](http://arxiv.org/pdf/2404.05932v1.pdf), cication: [**-1**](None)
+
+	 *Shintaro Inoue, Kento Kawaharazuka, Kei Okada, Masayuki Inaba* · ([shin0805.github](https://shin0805.github.io/chair-type-tripedal-robot/))
 - [Vid2Robot: End-to-end Video-conditioned Policy Learning with Cross-Attention Transformers](https://vid2robot.github.io/)
 
 	 · ([vid2robot.github](https://vid2robot.github.io/vid2robot.pdf))

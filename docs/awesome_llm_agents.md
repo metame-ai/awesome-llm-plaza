@@ -84,6 +84,9 @@
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-18-4))
 ## Agents
+- **Autonomous Evaluation and Refinement of Digital Agents**, `arXiv, 2404.06474`, [arxiv](http://arxiv.org/abs/2404.06474v2), [pdf](http://arxiv.org/pdf/2404.06474v2.pdf), cication: [**-1**](None)
+
+	 *Jiayi Pan, Yichi Zhang, Nicholas Tomlin, Yifei Zhou, Sergey Levine, Alane Suhr* · ([Agent-Eval-Refine](https://github.com/Berkeley-NLP/Agent-Eval-Refine) - Berkeley-NLP) ![Star](https://img.shields.io/github/stars/Berkeley-NLP/Agent-Eval-Refine.svg?style=social&label=Star)
 - **More Agents Is All You Need**, `arXiv, 2402.05120`, [arxiv](http://arxiv.org/abs/2402.05120v1), [pdf](http://arxiv.org/pdf/2402.05120v1.pdf), cication: [**-1**](None)
 
 	 *Junyou Li, Qin Zhang, Yangbin Yu, Qiang Fu, Deheng Ye*
@@ -120,6 +123,10 @@
 - [**Qwen-Agent**](https://github.com/QwenLM/Qwen-Agent) - QwenLM ![Star](https://img.shields.io/github/stars/QwenLM/Qwen-Agent.svg?style=social&label=Star)
 
 	 *Agent framework and applications built upon Qwen1.5, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.*
+- **Assisting in Writing Wikipedia-like Articles From Scratch with Large
+  Language Models**, `arXiv, 2402.14207`, [arxiv](http://arxiv.org/abs/2402.14207v2), [pdf](http://arxiv.org/pdf/2402.14207v2.pdf), cication: [**-1**](None)
+
+	 *Yijia Shao, Yucheng Jiang, Theodore A. Kanell, Peter Xu, Omar Khattab, Monica S. Lam* · ([storm](https://github.com/stanford-oval/storm) - stanford-oval) ![Star](https://img.shields.io/github/stars/stanford-oval/storm.svg?style=social&label=Star)
 - **AgentOhana: Design Unified Data and Training Pipeline for Effective
   Agent Learning**, `arXiv, 2402.15506`, [arxiv](http://arxiv.org/abs/2402.15506v1), [pdf](http://arxiv.org/pdf/2402.15506v1.pdf), cication: [**-1**](None)
 
@@ -676,6 +683,9 @@
 - [GPT-4V学会用键鼠上网，人类眼睁睁看着它发帖玩游戏 | 量子位](https://www.qbitai.com/2023/11/95456.html)
 
 ## Retrieval agumented generation
+- [**MaxKB**](https://github.com/1Panel-dev/MaxKB) - 1Panel-dev ![Star](https://img.shields.io/github/stars/1Panel-dev/MaxKB.svg?style=social&label=Star)
+
+	 *💬 基于 LLM 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统，1Panel 官方出品。*
 - [**StreamRAG**](https://github.com/video-db/StreamRAG) - video-db ![Star](https://img.shields.io/github/stars/video-db/StreamRAG.svg?style=social&label=Star)
 
 	 *Video Search and Streaming Agent 🕵️‍♂️*

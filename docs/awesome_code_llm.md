@@ -19,6 +19,10 @@
 	 *Ziyin Zhang, Chaoyu Chen, Bingchang Liu, Cong Liao, Zi Gong, Hang Yu, Jianguo Li, Rui Wang*
 
 ## Paper
+- **InfiCoder-Eval: Systematically Evaluating the Question-Answering
+  Capabilities of Code Large Language Models**, `arXiv, 2404.07940`, [arxiv](http://arxiv.org/abs/2404.07940v1), [pdf](http://arxiv.org/pdf/2404.07940v1.pdf), cication: [**-1**](None)
+
+	 *Linyi Li, Shijie Geng, Zhenwen Li, Yibo He, Hao Yu, Ziyue Hua, Guanghan Ning, Siwei Wang, Tao Xie, Hongxia Yang* · ([infi-coder.github](https://infi-coder.github.io/inficoder-eval/))
 - **AutoCodeRover: Autonomous Program Improvement**, `arXiv, 2404.05427`, [arxiv](http://arxiv.org/abs/2404.05427v1), [pdf](http://arxiv.org/pdf/2404.05427v1.pdf), cication: [**-1**](None)
 
 	 *Yuntong Zhang, Haifeng Ruan, Zhiyu Fan, Abhik Roychoudhury* · ([auto-code-rover](https://github.com/nus-apr/auto-code-rover) - nus-apr) ![Star](https://img.shields.io/github/stars/nus-apr/auto-code-rover.svg?style=social&label=Star) · ([twitter](https://twitter.com/AbhikRoychoudh1/status/1777494000611852515))

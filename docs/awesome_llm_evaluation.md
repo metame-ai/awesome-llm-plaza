@@ -28,6 +28,13 @@
 	 *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang*
 
 ## Papers
+- **Autonomous Evaluation and Refinement of Digital Agents**, `arXiv, 2404.06474`, [arxiv](http://arxiv.org/abs/2404.06474v2), [pdf](http://arxiv.org/pdf/2404.06474v2.pdf), cication: [**-1**](None)
+
+	 *Jiayi Pan, Yichi Zhang, Nicholas Tomlin, Yifei Zhou, Sergey Levine, Alane Suhr* · ([Agent-Eval-Refine](https://github.com/Berkeley-NLP/Agent-Eval-Refine) - Berkeley-NLP) ![Star](https://img.shields.io/github/stars/Berkeley-NLP/Agent-Eval-Refine.svg?style=social&label=Star)
+- **Length-Controlled AlpacaEval: A Simple Way to Debias Automatic
+  Evaluators**, `arXiv, 2404.04475`, [arxiv](http://arxiv.org/abs/2404.04475v1), [pdf](http://arxiv.org/pdf/2404.04475v1.pdf), cication: [**-1**](None)
+
+	 *Yann Dubois, Balázs Galambosi, Percy Liang, Tatsunori B. Hashimoto*
 - **FABLES: Evaluating faithfulness and content selection in book-length
   summarization**, `arXiv, 2404.01261`, [arxiv](http://arxiv.org/abs/2404.01261v1), [pdf](http://arxiv.org/pdf/2404.01261v1.pdf), cication: [**-1**](None)
 
@@ -448,6 +455,7 @@
 	 *Lianmin Zheng, Wei-Lin Chiang, Ying Sheng, Siyuan Zhuang, Zhanghao Wu, Yonghao Zhuang, Zi Lin, Zhuohan Li, Dacheng Li, Eric. P Xing*
 
 ## Projects
+- [**simple-evals**](https://github.com/openai/simple-evals) - openai ![Star](https://img.shields.io/github/stars/openai/simple-evals.svg?style=social&label=Star)
 - [**LeaderboardFinder**](https://huggingface.co/spaces/leaderboards/LeaderboardFinder) - leaderboards 🤗
 - [Introducing the Chatbot Guardrails Arena](https://huggingface.co/blog/arena-lighthouz)
 

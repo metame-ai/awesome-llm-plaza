@@ -28,6 +28,10 @@
 	 *Jiankai Sun, Chuanyang Zheng, Enze Xie, Zhengying Liu, Ruihang Chu, Jianing Qiu, Jiaqi Xu, Mingyu Ding, Hongyang Li, Mengzhe Geng* · ([Awesome-Reasoning-Foundation-Models](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models) - reasoning-survey) ![Star](https://img.shields.io/github/stars/reasoning-survey/Awesome-Reasoning-Foundation-Models.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652421688&idx=3&sn=fcdc24edc7bc89ebcbcca0f7665e40f6))
 
 ## Reasoning
+- **Ferret-v2: An Improved Baseline for Referring and Grounding with Large
+  Language Models**, `arXiv, 2404.07973`, [arxiv](http://arxiv.org/abs/2404.07973v1), [pdf](http://arxiv.org/pdf/2404.07973v1.pdf), cication: [**-1**](None)
+
+	 *Haotian Zhang, Haoxuan You, Philipp Dufter, Bowen Zhang, Chen Chen, Hong-You Chen, Tsu-Jui Fu, William Yang Wang, Shih-Fu Chang, Zhe Gan*
 - **Can Small Language Models Help Large Language Models Reason Better?:
   LM-Guided Chain-of-Thought**, `arXiv, 2404.03414`, [arxiv](http://arxiv.org/abs/2404.03414v1), [pdf](http://arxiv.org/pdf/2404.03414v1.pdf), cication: [**-1**](None)
 

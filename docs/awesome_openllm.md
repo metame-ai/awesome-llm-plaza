@@ -38,6 +38,9 @@
 # English
 
 ## Foundation
+- **Rho-1: Not All Tokens Are What You Need**, `arXiv, 2404.07965`, [arxiv](http://arxiv.org/abs/2404.07965v1), [pdf](http://arxiv.org/pdf/2404.07965v1.pdf), cication: [**-1**](None)
+
+	 *Zhenghao Lin, Zhibin Gou, Yeyun Gong, Xiao Liu, Yelong Shen, Ruochen Xu, Chen Lin, Yujiu Yang, Jian Jiao, Nan Duan* · ([rho](https://github.com/microsoft/rho) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/rho.svg?style=social&label=Star)
 - **MiniCPM: Unveiling the Potential of Small Language Models with Scalable
   Training Strategies**, `arXiv, 2404.06395`, [arxiv](http://arxiv.org/abs/2404.06395v1), [pdf](http://arxiv.org/pdf/2404.06395v1.pdf), cication: [**-1**](None)
 
@@ -197,7 +200,13 @@
 - [**phi-2**](https://huggingface.co/spaces/randomblock1/phi-2) - randomblock1 🤗
 - [**phixtral-4x2_8**](https://huggingface.co/mlabonne/phixtral-4x2_8) - mlabonne 🤗
 ### Mistral
-- [Fetching Title#gmr5](https://huggingface.co/mistral-community/Mixtral-8x22B-v0.1)
+- [**mixtral-8x22b-instruct-oh**](https://huggingface.co/fireworks-ai/mixtral-8x22b-instruct-oh) - fireworks-ai 🤗
+- [**Mistral-22B-v0.2**](https://huggingface.co/Vezora/Mistral-22B-v0.2) - Vezora 🤗
+- [**Mistral-22B-v0.1**](https://huggingface.co/Vezora/Mistral-22B-v0.1) - Vezora 🤗
+- [**zephyr-orpo-141b-A35b-v0.1**](https://huggingface.co/HuggingFaceH4/zephyr-orpo-141b-A35b-v0.1) - HuggingFaceH4 🤗
+
+	 · ([huggingface](https://huggingface.co/chat/models/HuggingFaceH4/zephyr-orpo-141b-A35b-v0.1))
+- [**Mixtral-8x22B-v0.1**](https://huggingface.co/mistral-community/Mixtral-8x22B-v0.1) - mistral-community 🤗
 - [**hackathon**](https://github.com/mistralai-sf24/hackathon) - mistralai-sf24 ![Star](https://img.shields.io/github/stars/mistralai-sf24/hackathon.svg?style=social&label=Star)
 
 	 · ([models.mistralcdn](https://models.mistralcdn.com/mistral-7b-v0-2/mistral-7B-v0.2.tar)) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-03-25-8))

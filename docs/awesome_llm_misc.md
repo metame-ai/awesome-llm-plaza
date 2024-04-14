@@ -27,6 +27,10 @@
 	- [Extra reference](#extra-reference)
 
 ## Survey
+- **Multilingual Large Language Model: A Survey of Resources, Taxonomy and
+  Frontiers**, `arXiv, 2404.04925`, [arxiv](http://arxiv.org/abs/2404.04925v1), [pdf](http://arxiv.org/pdf/2404.04925v1.pdf), cication: [**-1**](None)
+
+	 *Libo Qin, Qiguang Chen, Yuhang Zhou, Zhi Chen, Yinghui Li, Lizi Liao, Min Li, Wanxiang Che, Philip S. Yu*
 - **A Survey on Multilingual Large Language Models: Corpora, Alignment, and
   Bias**, `arXiv, 2404.00929`, [arxiv](http://arxiv.org/abs/2404.00929v1), [pdf](http://arxiv.org/pdf/2404.00929v1.pdf), cication: [**-1**](None)
 
@@ -746,6 +750,7 @@
 - [Eye on AI - YouTube](https://www.youtube.com/@eyeonai3425/podcasts)
 
 ### Blogs
+- [How I got into deep learning - Vikas Paruchuri](https://www.vikas.sh/post/how-i-got-into-deep-learning)
 - [NLP Newsletter | elvis | Substack](https://nlp.elvissaravia.com/)
 - [Archive • AI News • Buttondown](https://buttondown.email/ainews/archive/)
 - [Sebastian Raschka, PhD | Substack](https://substack.com/@rasbt)

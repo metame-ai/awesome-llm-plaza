@@ -24,6 +24,7 @@
 - [**Adversarial Attacks on LLMs | Lil'Log**](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/)
 
 ## Red teaming
+- [Red-Teaming Language Models with DSPy | Haize Labs Blog 🕊️](https://blog.haizelabs.com/posts/dspy/)
 - [Curiosity-driven Red-teaming for Large Language Models](https://openreview.net/pdf?id=4KqkizXgXU)
 
 	 · ([curiosity_redteam](https://github.com/Improbable-AI/curiosity_redteam) - Improbable-AI) ![Star](https://img.shields.io/github/stars/Improbable-AI/curiosity_redteam.svg?style=social&label=Star)

@@ -33,6 +33,13 @@
 	 *Zige Wang, Wanjun Zhong, Yufei Wang, Qi Zhu, Fei Mi, Baojun Wang, Lifeng Shang, Xin Jiang, Qun Liu*
 
 ## Techs
+- **Best Practices and Lessons Learned on Synthetic Data for Language Models**, `arXiv, 2404.07503`, [arxiv](http://arxiv.org/abs/2404.07503v1), [pdf](http://arxiv.org/pdf/2404.07503v1.pdf), cication: [**-1**](None)
+
+	 *Ruibo Liu, Jerry Wei, Fangyu Liu, Chenglei Si, Yanzhe Zhang, Jinmeng Rao, Steven Zheng, Daiyi Peng, Diyi Yang, Denny Zhou*
+- **Scaling Laws for Data Filtering -- Data Curation cannot be Compute
+  Agnostic**, `arXiv, 2404.07177`, [arxiv](http://arxiv.org/abs/2404.07177v1), [pdf](http://arxiv.org/pdf/2404.07177v1.pdf), cication: [**-1**](None)
+
+	 *Sachin Goyal, Pratyush Maini, Zachary C. Lipton, Aditi Raghunathan, J. Zico Kolter* · ([scaling_laws_data_filtering](https://github.com/locuslab/scaling_laws_data_filtering) - locuslab) ![Star](https://img.shields.io/github/stars/locuslab/scaling_laws_data_filtering.svg?style=social&label=Star)
 - **Training LLMs over Neurally Compressed Text**, `arXiv, 2404.03626`, [arxiv](http://arxiv.org/abs/2404.03626v1), [pdf](http://arxiv.org/pdf/2404.03626v1.pdf), cication: [**-1**](None)
 
 	 *Brian Lester, Jaehoon Lee, Alex Alemi, Jeffrey Pennington, Adam Roberts, Jascha Sohl-Dickstein, Noah Constant*

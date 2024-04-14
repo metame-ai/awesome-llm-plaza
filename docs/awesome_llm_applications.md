@@ -54,6 +54,13 @@
 - [Navigating the Jagged Technological Frontier: Field Experimental Evidence of the Effects of AI on Knowledge Worker Productivity and Quality](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4573321)
 
 ## Toolkits
+- [**LocalAI**](https://github.com/mudler/LocalAI) - mudler ![Star](https://img.shields.io/github/stars/mudler/LocalAI.svg?style=social&label=Star)
+- [**FreeGPT35**](https://github.com/missuo/FreeGPT35) - missuo ![Star](https://img.shields.io/github/stars/missuo/FreeGPT35.svg?style=social&label=Star)
+
+	 *Utilize the unlimited free GPT-3.5-Turbo API service provided by the login-free ChatGPT Web.*
+- [**llm-universe**](https://github.com/datawhalechina/llm-universe) - datawhalechina ![Star](https://img.shields.io/github/stars/datawhalechina/llm-universe.svg?style=social&label=Star)
+
+	 *本项目是一个面向小白开发者的大模型应用开发教程，在线阅读地址：https://datawhalechina.github.io/llm-universe/*
 - [**ChatGPT**](https://github.com/PawanOsman/ChatGPT) - PawanOsman ![Star](https://img.shields.io/github/stars/PawanOsman/ChatGPT.svg?style=social&label=Star)
 
 	 *OpenAI API Free Reverse Proxy*
@@ -231,6 +238,10 @@
 
 
 ## Medical
+- **Medical mT5: An Open-Source Multilingual Text-to-Text LLM for The
+  Medical Domain**, `arXiv, 2404.07613`, [arxiv](http://arxiv.org/abs/2404.07613v1), [pdf](http://arxiv.org/pdf/2404.07613v1.pdf), cication: [**-1**](None)
+
+	 *Iker García-Ferrero, Rodrigo Agerri, Aitziber Atutxa Salazar, Elena Cabrio, Iker de la Iglesia, Alberto Lavelli, Bernardo Magnini, Benjamin Molinet, Johana Ramirez-Romero, German Rigau*
 - **MedExpQA: Multilingual Benchmarking of Large Language Models for Medical
   Question Answering**, `arXiv, 2404.05590`, [arxiv](http://arxiv.org/abs/2404.05590v1), [pdf](http://arxiv.org/pdf/2404.05590v1.pdf), cication: [**-1**](None)
 
@@ -723,6 +734,10 @@
 	 *Official repo for LayoutGPT*
 
 ## Science
+- **Wu's Method can Boost Symbolic AI to Rival Silver Medalists and
+  AlphaGeometry to Outperform Gold Medalists at IMO Geometry**, `arXiv, 2404.06405`, [arxiv](http://arxiv.org/abs/2404.06405v2), [pdf](http://arxiv.org/pdf/2404.06405v2.pdf), cication: [**-1**](None)
+
+	 *Shiven Sinha, Ameya Prabhu, Ponnurangam Kumaraguru, Siddharth Bhat, Matthias Bethge*
 - **Are large language models superhuman chemists?**, `arXiv, 2404.01475`, [arxiv](http://arxiv.org/abs/2404.01475v1), [pdf](http://arxiv.org/pdf/2404.01475v1.pdf), cication: [**-1**](None)
 
 	 *Adrian Mirza, Nawaf Alampara, Sreekanth Kunchapu, Benedict Emoekabu, Aswanth Krishnan, Mara Wilhelmi, Macjonathan Okereke, Juliane Eberhardt, Amir Mohammad Elahi, Maximilian Greiner*
@@ -844,6 +859,10 @@
 	 *Tongshuang Wu, Haiyi Zhu, Maya Albayrak, Alexis Axon, Amanda Bertsch, Wenxing Deng, Ziqi Ding, Bill Guo, Sireesh Gururaja, Tzu-Sheng Kuo*
 
 ## Misc
+- **From Words to Numbers: Your Large Language Model Is Secretly A Capable
+  Regressor When Given In-Context Examples**, `arXiv, 2404.07544`, [arxiv](http://arxiv.org/abs/2404.07544v1), [pdf](http://arxiv.org/pdf/2404.07544v1.pdf), cication: [**-1**](None)
+
+	 *Robert Vacareanu, Vlad-Andrei Negru, Vasile Suciu, Mihai Surdeanu*
 - **LLM-ABR: Designing Adaptive Bitrate Algorithms via Large Language Models**, `arXiv, 2404.01617`, [arxiv](http://arxiv.org/abs/2404.01617v1), [pdf](http://arxiv.org/pdf/2404.01617v1.pdf), cication: [**-1**](None)
 
 	 *Zhiyuan He, Aashish Gottipati, Lili Qiu, Francis Y. Yan, Xufang Luo, Kenuo Xu, Yuqing Yang*

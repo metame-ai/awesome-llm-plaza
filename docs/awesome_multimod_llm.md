@@ -34,6 +34,9 @@
 
 ## Vision
 ### Vision Encoder
+- **Adapting LLaMA Decoder to Vision Transformer**, `arXiv, 2404.06773`, [arxiv](http://arxiv.org/abs/2404.06773v1), [pdf](http://arxiv.org/pdf/2404.06773v1.pdf), cication: [**-1**](None)
+
+	 *Jiahao Wang, Wenqi Shao, Mengzhao Chen, Chengyue Wu, Yong Liu, Kaipeng Zhang, Songyang Zhang, Kai Chen, Ping Luo*
 - **ViTamin: Designing Scalable Vision Models in the Vision-Language Era**, `arXiv, 2404.02132`, [arxiv](http://arxiv.org/abs/2404.02132v1), [pdf](http://arxiv.org/pdf/2404.02132v1.pdf), cication: [**-1**](None)
 
 	 *Jienneg Chen, Qihang Yu, Xiaohui Shen, Alan Yuille, Liang-Chieh Chen* · ([ViTamin](https://github.com/Beckschen/ViTamin) - Beckschen) ![Star](https://img.shields.io/github/stars/Beckschen/ViTamin.svg?style=social&label=Star)
@@ -1050,6 +1053,9 @@
 
 	 *Mingsheng Li, Xin Chen, Chi Zhang, Sijin Chen, Hongyuan Zhu, Fukun Yin, Gang Yu, Tao Chen*
 ## Projects
+- [**MiniCPM-V**](https://github.com/OpenBMB/MiniCPM-V?tab=readme-ov-file) - OpenBMB ![Star](https://img.shields.io/github/stars/OpenBMB/MiniCPM-V.svg?style=social&label=Star)
+
+	 *MiniCPM-V 2.0: An Efficient End-side MLLM with Strong OCR and Understanding Capabilities*
 - [**internlm-xcomposer2-4khd-7b**](https://huggingface.co/internlm/internlm-xcomposer2-4khd-7b) - internlm 🤗
 - [anotherjesse.com - Rorschach Test For LLaVA LLM](https://anotherjesse.com/posts/llava-rorschach/)
 - [**nanoLLaVA**](https://huggingface.co/qnguyen3/nanoLLaVA?utm_source=ainews) - qnguyen3 🤗
@@ -1108,6 +1114,10 @@
 - [**BakLLaVA-1**](https://huggingface.co/SkunkworksAI/BakLLaVA-1) - SkunkworksAI 🤗
 
 ## Evaluation
+- **OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real
+  Computer Environments**, `arXiv, 2404.07972`, [arxiv](http://arxiv.org/abs/2404.07972v1), [pdf](http://arxiv.org/pdf/2404.07972v1.pdf), cication: [**-1**](None)
+
+	 *Tianbao Xie, Danyang Zhang, Jixuan Chen, Xiaochuan Li, Siheng Zhao, Ruisheng Cao, Toh Jing Hua, Zhoujun Cheng, Dongchan Shin, Fangyu Lei* · ([os-world.github](https://os-world.github.io/)) · ([OSWorld](https://github.com/xlang-ai/OSWorld) - xlang-ai) ![Star](https://img.shields.io/github/stars/xlang-ai/OSWorld.svg?style=social&label=Star)
 - [Google Colab](https://colab.research.google.com/drive/1s7KvljSkXKRfinqG248QZIZvROf0pk4x)
 - **Are Language Models Puzzle Prodigies? Algorithmic Puzzles Unveil Serious
   Challenges in Multimodal Reasoning**, `arXiv, 2403.03864`, [arxiv](http://arxiv.org/abs/2403.03864v3), [pdf](http://arxiv.org/pdf/2403.03864v3.pdf), cication: [**-1**](None)
