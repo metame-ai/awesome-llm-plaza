@@ -204,6 +204,9 @@
 	 *Timo Kaufmann, Paul Weng, Viktor Bengs, Eyke Hüllermeier*
 
 ## Papers
+- **Dataset Reset Policy Optimization for RLHF**, `arXiv, 2404.08495`, [arxiv](http://arxiv.org/abs/2404.08495v1), [pdf](http://arxiv.org/pdf/2404.08495v1.pdf), cication: [**-1**](None)
+
+	 *Jonathan D. Chang, Wenhao Shan, Owen Oertell, Kianté Brantley, Dipendra Misra, Jason D. Lee, Wen Sun* · ([drpo](https://github.com/Cornell-RL/drpo) - Cornell-RL) ![Star](https://img.shields.io/github/stars/Cornell-RL/drpo.svg?style=social&label=Star)
 - **RewardBench: Evaluating Reward Models for Language Modeling**, `arXiv, 2403.13787`, [arxiv](http://arxiv.org/abs/2403.13787v1), [pdf](http://arxiv.org/pdf/2403.13787v1.pdf), cication: [**-1**](None)
 
 	 *Nathan Lambert, Valentina Pyatkin, Jacob Morrison, LJ Miranda, Bill Yuchen Lin, Khyathi Chandu, Nouha Dziri, Sachin Kumar, Tom Zick, Yejin Choi*

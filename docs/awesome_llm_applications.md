@@ -153,6 +153,9 @@
 	 *A ChatGPT plugin that allows you to load and edit your local files in a controlled way, as well as run any Python, JavaScript, and bash script.*
 
 ## Writing
+- **Is ChatGPT Transforming Academics' Writing Style?**, `arXiv, 2404.08627`, [arxiv](http://arxiv.org/abs/2404.08627v1), [pdf](http://arxiv.org/pdf/2404.08627v1.pdf), cication: [**-1**](None)
+
+	 *Mingmeng Geng, Roberto Trotta*
 - **Creating Suspenseful Stories: Iterative Planning with Large Language
   Models**, `arXiv, 2402.17119`, [arxiv](http://arxiv.org/abs/2402.17119v1), [pdf](http://arxiv.org/pdf/2402.17119v1.pdf), cication: [**-1**](None)
 
@@ -618,6 +621,7 @@
 
 
 ## Machine Translation
+
 - **Tuning LLMs with Contrastive Alignment Instructions for Machine
   Translation in Unseen, Low-resource Languages**, `arXiv, 2401.05811`, [arxiv](http://arxiv.org/abs/2401.05811v1), [pdf](http://arxiv.org/pdf/2401.05811v1.pdf), cication: [**-1**](None)
 
@@ -653,6 +657,9 @@
   Models**, `arXiv, 2401.03506`, [arxiv](http://arxiv.org/abs/2401.03506v1), [pdf](http://arxiv.org/pdf/2401.03506v1.pdf), cication: [**-1**](None)
 
 	 *Quan Wang, Yiling Huang, Guanlong Zhao, Evan Clark, Wei Xia, Hank Liao*
+- **Document-Level Machine Translation with Large Language Models**, `arXiv, 2304.02210`, [arxiv](http://arxiv.org/abs/2304.02210v2), [pdf](http://arxiv.org/pdf/2304.02210v2.pdf), cication: [**-1**](None)
+
+	 *Longyue Wang, Chenyang Lyu, Tianbo Ji, Zhirui Zhang, Dian Yu, Shuming Shi, Zhaopeng Tu* · ([document-mt-llm](https://github.com/longyuewangdcu/document-mt-llm) - longyuewangdcu) ![Star](https://img.shields.io/github/stars/longyuewangdcu/document-mt-llm.svg?style=social&label=Star)
 
 ## Design
 - [**openui**](https://github.com/wandb/openui) - wandb ![Star](https://img.shields.io/github/stars/wandb/openui.svg?style=social&label=Star)

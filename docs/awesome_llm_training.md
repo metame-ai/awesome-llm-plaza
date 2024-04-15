@@ -21,6 +21,9 @@
 
 
 ## Pretrain
+- **Pre-training Small Base LMs with Fewer Tokens**, `arXiv, 2404.08634`, [arxiv](http://arxiv.org/abs/2404.08634v1), [pdf](http://arxiv.org/pdf/2404.08634v1.pdf), cication: [**-1**](None)
+
+	 *Sunny Sanyal, Sujay Sanghavi, Alexandros G. Dimakis* · ([LLM-Inheritune](https://github.com/sanyalsunny111/LLM-Inheritune) - sanyalsunny111) ![Star](https://img.shields.io/github/stars/sanyalsunny111/LLM-Inheritune.svg?style=social&label=Star)
 - **Training LLMs over Neurally Compressed Text**, `arXiv, 2404.03626`, [arxiv](http://arxiv.org/abs/2404.03626v1), [pdf](http://arxiv.org/pdf/2404.03626v1.pdf), cication: [**-1**](None)
 
 	 *Brian Lester, Jaehoon Lee, Alex Alemi, Jeffrey Pennington, Adam Roberts, Jascha Sohl-Dickstein, Noah Constant*
@@ -173,6 +176,8 @@
 - [scaling laws allow us to accurately predict the performance of larger training runs from much cheaper ones.](https://twitter.com/cwolferesearch/status/1777424149415145882)
 - [Techniques for training large neural networks](https://openai.com/research/techniques-for-training-large-neural-networks)
 - [How to Train Really Large Models on Many GPUs? | Lil'Log](https://lilianweng.github.io/posts/2021-09-25-train-large/)
+
+- [揭开OpenAI Scaling Laws面纱](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495782&idx=1&sn=0a2a3b7fdf40f0127b5cd30e90eb7968)
 - [Chinchilla之死：只要训练足够长时间，小模型也能超过大模型 | 机器之心](https://www.jiqizhixin.com/articles/2023-10-03-9)
 
 ## Fine-tuning
@@ -351,6 +356,9 @@
 - [Weight averaging and model merging for LLMs seem to be the most interesting themes in 2024 so far. ](https://twitter.com/rasbt/status/1750180383398744106)
 
 ## MoE
+- [**mergoo**](https://github.com/Leeroo-AI/mergoo) - Leeroo-AI ![Star](https://img.shields.io/github/stars/Leeroo-AI/mergoo.svg?style=social&label=Star)
+
+	 *A library for easily merging multiple LLM experts, and efficiently train the merged LLM.*
 - **Mixture-of-Depths: Dynamically allocating compute in transformer-based
   language models**, `arXiv, 2404.02258`, [arxiv](http://arxiv.org/abs/2404.02258v1), [pdf](http://arxiv.org/pdf/2404.02258v1.pdf), cication: [**-1**](None)
 
@@ -461,6 +469,9 @@
 	 *Juhao Liang, Ziwei Wang, Zhuoheng Ma, Jianquan Li, Zhiyi Zhang, Xiangbo Wu, Benyou Wang*
 
 ## Toolkits
+- [**maxtext**](https://github.com/google/maxtext) - google ![Star](https://img.shields.io/github/stars/google/maxtext.svg?style=social&label=Star)
+
+	 *A simple, performant and scalable Jax LLM!*
 - [**lightning-thunder**](https://github.com/Lightning-AI/lightning-thunder) - Lightning-AI ![Star](https://img.shields.io/github/stars/Lightning-AI/lightning-thunder.svg?style=social&label=Star)
 
 	 *Source to source compiler for PyTorch. It makes PyTorch programs faster on single accelerators and distributed.*

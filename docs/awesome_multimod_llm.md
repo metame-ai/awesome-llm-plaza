@@ -34,6 +34,9 @@
 
 ## Vision
 ### Vision Encoder
+- **Probing the 3D Awareness of Visual Foundation Models**, `arXiv, 2404.08636`, [arxiv](http://arxiv.org/abs/2404.08636v1), [pdf](http://arxiv.org/pdf/2404.08636v1.pdf), cication: [**-1**](None)
+
+	 *Mohamed El Banani, Amit Raj, Kevis-Kokitsi Maninis, Abhishek Kar, Yuanzhen Li, Michael Rubinstein, Deqing Sun, Leonidas Guibas, Justin Johnson, Varun Jampani* · ([probe3d](https://github.com/mbanani/probe3d) - mbanani) ![Star](https://img.shields.io/github/stars/mbanani/probe3d.svg?style=social&label=Star)
 - **Adapting LLaMA Decoder to Vision Transformer**, `arXiv, 2404.06773`, [arxiv](http://arxiv.org/abs/2404.06773v1), [pdf](http://arxiv.org/pdf/2404.06773v1.pdf), cication: [**-1**](None)
 
 	 *Jiahao Wang, Wenqi Shao, Mengzhao Chen, Chengyue Wu, Yong Liu, Kaipeng Zhang, Songyang Zhang, Kai Chen, Ping Luo*
@@ -1004,6 +1007,10 @@
 - ["宝藏AI神器"通义听悟上新：超长音视频随便问，高校师生可获500小时免费时长 | 量子位](https://www.qbitai.com/2024/03/129271.html)
 
 ## CLIP
+- **Scaling (Down) CLIP: A Comprehensive Analysis of Data, Architecture, and
+  Training Strategies**, `arXiv, 2404.08197`, [arxiv](http://arxiv.org/abs/2404.08197v1), [pdf](http://arxiv.org/pdf/2404.08197v1.pdf), cication: [**-1**](None)
+
+	 *Zichao Li, Cihang Xie, Ekin Dogus Cubuk*
 - **MagicLens: Self-Supervised Image Retrieval with Open-Ended Instructions**, `arXiv, 2403.19651`, [arxiv](http://arxiv.org/abs/2403.19651v1), [pdf](http://arxiv.org/pdf/2403.19651v1.pdf), cication: [**-1**](None)
 
 	 *Kai Zhang, Yi Luan, Hexiang Hu, Kenton Lee, Siyuan Qiao, Wenhu Chen, Yu Su, Ming-Wei Chang* · ([open-vision-language.github](https://open-vision-language.github.io/MagicLens/))
@@ -1044,7 +1051,9 @@
 	 *Haoran Wei, Lingyu Kong, Jinyue Chen, Liang Zhao, Zheng Ge, En Yu, Jianjian Sun, Chunrui Han, Xiangyu Zhang*
 
 ## Extra Modalities 
+- [**probe3d**](https://github.com/mbanani/probe3d/blob/main) - mbanani ![Star](https://img.shields.io/github/stars/mbanani/probe3d.svg?style=social&label=Star)
 
+	 *[CVPR 2024] Probing the 3D Awareness of Visual Foundation Models*
 - **VisionGPT-3D: A Generalized Multimodal Agent for Enhanced 3D Vision
   Understanding**, `arXiv, 2403.09530`, [arxiv](http://arxiv.org/abs/2403.09530v1), [pdf](http://arxiv.org/pdf/2403.09530v1.pdf), cication: [**-1**](None)
 
