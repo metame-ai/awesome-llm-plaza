@@ -7,10 +7,12 @@
 	- [Reference](#reference)
 
 ## Survey
+- **A Survey on Integration of Large Language Models with Intelligent Robots**, `arXiv, 2404.09228`, [arxiv](http://arxiv.org/abs/2404.09228v1), [pdf](http://arxiv.org/pdf/2404.09228v1.pdf), cication: [**-1**](None)
 
+	 *Yeseung Kim, Dohyun Kim, Jieun Choi, Jisang Park, Nayoung Oh, Daehyung Park*
 
 ## Papers
-- [paper.pdf](https://open-eqa.github.io/assets/pdfs/paper.pdf)
+- [OpenEQA: Embodied Question Answering in the Era of Foundation Models](https://open-eqa.github.io/assets/pdfs/paper.pdf)
 
 	 · ([open-eqa.github](https://open-eqa.github.io/)) · ([open-eqa](https://github.com/facebookresearch/open-eqa) - facebookresearch) ![Star](https://img.shields.io/github/stars/facebookresearch/open-eqa.svg?style=social&label=Star)
 - **Yell At Your Robot: Improving On-the-Fly from Language Corrections**, `arXiv, 2403.12910`, [arxiv](http://arxiv.org/abs/2403.12910v1), [pdf](http://arxiv.org/pdf/2403.12910v1.pdf), cication: [**-1**](None)

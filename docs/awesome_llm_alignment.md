@@ -29,6 +29,10 @@
 	 *Yufei Wang, Wanjun Zhong, Liangyou Li, Fei Mi, Xingshan Zeng, Wenyong Huang, Lifeng Shang, Xin Jiang, Qun Liu* · ([AlignLLMHumanSurvey](https://github.com/GaryYufei/AlignLLMHumanSurvey) - GaryYufei) ![Star](https://img.shields.io/github/stars/GaryYufei/AlignLLMHumanSurvey.svg?style=social&label=Star)
 
 ## Paper & Projects
+- **Learn Your Reference Model for Real Good Alignment**, `arXiv, 2404.09656`, [arxiv](http://arxiv.org/abs/2404.09656v1), [pdf](http://arxiv.org/pdf/2404.09656v1.pdf), cication: [**-1**](None)
+
+	 *Alexey Gorbatovski, Boris Shaposhnikov, Alexey Malakhov, Nikita Surnachev, Yaroslav Aksenov, Ian Maksimov, Nikita Balagansky, Daniil Gavrilov*
+- [[2404.09932] Foundational Challenges in Assuring Alignment and Safety of Large Language Models](https://arxiv.org/abs/2404.09932)
 - **Verifiable by Design: Aligning Language Models to Quote from
   Pre-Training Data**, `arXiv, 2404.03862`, [arxiv](http://arxiv.org/abs/2404.03862v1), [pdf](http://arxiv.org/pdf/2404.03862v1.pdf), cication: [**-1**](None)
 

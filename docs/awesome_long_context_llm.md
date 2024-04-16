@@ -32,6 +32,13 @@
 	 *Adyasha Maharana, Dong-Ho Lee, Sergey Tulyakov, Mohit Bansal, Francesco Barbieri, Yuwei Fang*
 
 ## Papers
+- **Megalodon: Efficient LLM Pretraining and Inference with Unlimited
+  Context Length**, `arXiv, 2404.08801`, [arxiv](http://arxiv.org/abs/2404.08801v1), [pdf](http://arxiv.org/pdf/2404.08801v1.pdf), cication: [**-1**](None)
+
+	 *Xuezhe Ma, Xiaomeng Yang, Wenhan Xiong, Beidi Chen, Lili Yu, Hao Zhang, Jonathan May, Luke Zettlemoyer, Omer Levy, Chunting Zhou* · ([megalodon](https://github.com/XuezheMax/megalodon) - XuezheMax) ![Star](https://img.shields.io/github/stars/XuezheMax/megalodon.svg?style=social&label=Star)
+- **TransformerFAM: Feedback attention is working memory**, `arXiv, 2404.09173`, [arxiv](http://arxiv.org/abs/2404.09173v1), [pdf](http://arxiv.org/pdf/2404.09173v1.pdf), cication: [**-1**](None)
+
+	 *Dongseong Hwang, Weiran Wang, Zhuoyuan Huo, Khe Chai Sim, Pedro Moreno Mengibar*
 - **LLoCO: Learning Long Contexts Offline**, `arXiv, 2404.07979`, [arxiv](http://arxiv.org/abs/2404.07979v1), [pdf](http://arxiv.org/pdf/2404.07979v1.pdf), cication: [**-1**](None)
 
 	 *Sijun Tan, Xiuyu Li, Shishir Patil, Ziyang Wu, Tianjun Zhang, Kurt Keutzer, Joseph E. Gonzalez, Raluca Ada Popa* · ([lloco](https://github.com/jeffreysijuntan/lloco) - jeffreysijuntan) ![Star](https://img.shields.io/github/stars/jeffreysijuntan/lloco.svg?style=social&label=Star)

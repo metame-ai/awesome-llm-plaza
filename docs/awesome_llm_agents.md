@@ -602,6 +602,9 @@
 - [陈丹琦ACL学术报告来了！详解大模型「外挂」数据库7大方向3大挑战，3小时干货满满 | 量子位](https://www.qbitai.com/2023/07/67259.html)
 
 ## Web browsing
+- [**Perplexica**](https://github.com/ItzCrazyKns/Perplexica/) - ItzCrazyKns ![Star](https://img.shields.io/github/stars/ItzCrazyKns/Perplexica.svg?style=social&label=Star)
+
+	 *Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI*
 - **WILBUR: Adaptive In-Context Learning for Robust and Accurate Web Agents**, `arXiv, 2404.05902`, [arxiv](http://arxiv.org/abs/2404.05902v1), [pdf](http://arxiv.org/pdf/2404.05902v1.pdf), cication: [**-1**](None)
 
 	 *Michael Lutz, Arth Bohra, Manvel Saroyan, Artem Harutyunyan, Giovanni Campagna*
@@ -887,6 +890,9 @@
 	 *Interact privately with your documents using the power of GPT, 100% privately, no data leaks*
 
 ### Embedding
+- [Pile-T5 | EleutherAI Blog](https://blog.eleuther.ai/pile-t5/)
+
+	 · ([huggingface](https://huggingface.co/collections/EleutherAI/pile-t5-65a76a0d0022dd270b385a66)) · ([improved-t5](https://github.com/EleutherAI/improved-t5) - EleutherAI) ![Star](https://img.shields.io/github/stars/EleutherAI/improved-t5.svg?style=social&label=Star)
 - **LLM2Vec: Large Language Models Are Secretly Powerful Text Encoders**, `arXiv, 2404.05961`, [arxiv](http://arxiv.org/abs/2404.05961v1), [pdf](http://arxiv.org/pdf/2404.05961v1.pdf), cication: [**-1**](None)
 
 	 *Parishad BehnamGhader, Vaibhav Adlakha, Marius Mosbach, Dzmitry Bahdanau, Nicolas Chapados, Siva Reddy*

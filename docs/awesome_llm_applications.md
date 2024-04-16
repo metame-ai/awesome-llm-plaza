@@ -816,6 +816,7 @@
 
 	 *Chemcrow*
 
+- [陶哲轩力荐！史上最全「数学AI资源」清单出炉](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652466921&idx=4&sn=fe6350fab320eba453d05d147c6a3ebb)
 - [快速筛选海量数据，即时做出明智决策，MIT、普林斯顿&卡内基梅隆大学团队利用LLM进行聚变研究 | 机器之心](https://www.jiqizhixin.com/articles/2024-01-04-6)
 - [2023年科研领域「 科学ChatGPT」有哪些？LLM for Science有哪些探索...... | 机器之心](https://www.jiqizhixin.com/articles/2023-12-26-10)
 ## Finance

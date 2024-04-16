@@ -430,7 +430,10 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652345558&idx=4&sn=95686435d5cad05d44cbe02bc26d6859))
 
 ## Interpretability 
-- [Fetching Title#xvd5](https://huggingface.co/spaces/joaogante/color-coded-text-generation)
+- [[2404.09937] Compression Represents Intelligence Linearly](https://arxiv.org/abs/2404.09937)
+
+	 · ([huggingface](https://huggingface.co/datasets/hkust-nlp/llm-compression)) · ([llm-compression-intelligence](https://github.com/hkust-nlp/llm-compression-intelligence?tab=readme-ov-file) - hkust-nlp) ![Star](https://img.shields.io/github/stars/hkust-nlp/llm-compression-intelligence.svg?style=social&label=Star)
+- [**color-coded-text-generation**](https://huggingface.co/spaces/joaogante/color-coded-text-generation) - joaogante 🤗
 - **LVLM-Intrepret: An Interpretability Tool for Large Vision-Language
   Models**, `arXiv, 2404.03118`, [arxiv](http://arxiv.org/abs/2404.03118v1), [pdf](http://arxiv.org/pdf/2404.03118v1.pdf), cication: [**-1**](None)
 

@@ -206,6 +206,10 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
+- **TextHawk: Exploring Efficient Fine-Grained Perception of Multimodal
+  Large Language Models**, `arXiv, 2404.09204`, [arxiv](http://arxiv.org/abs/2404.09204v1), [pdf](http://arxiv.org/pdf/2404.09204v1.pdf), cication: [**-1**](None)
+
+	 *Ya-Qi Yu, Minghui Liao, Jihao Wu, Yongxin Liao, Xiaoyu Zheng, Wei Zeng*
 - **Ferret-v2: An Improved Baseline for Referring and Grounding with Large
   Language Models**, `arXiv, 2404.07973`, [arxiv](http://arxiv.org/abs/2404.07973v1), [pdf](http://arxiv.org/pdf/2404.07973v1.pdf), cication: [**-1**](None)
 
@@ -1039,6 +1043,9 @@
 	 *Xueliang Zhao, Xinting Huang, Tingchen Fu, Qintong Li, Shansan Gong, Lemao Liu, Wei Bi, Lingpeng Kong*
 
 ## Efficient 
+- **On Speculative Decoding for Multimodal Large Language Models**, `arXiv, 2404.08856`, [arxiv](http://arxiv.org/abs/2404.08856v1), [pdf](http://arxiv.org/pdf/2404.08856v1.pdf), cication: [**-1**](None)
+
+	 *Mukul Gagrani, Raghavv Goel, Wonseok Jeon, Junyoung Park, Mingu Lee, Christopher Lott*
 - **Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient
   Inference**, `arXiv, 2403.14520`, [arxiv](http://arxiv.org/abs/2403.14520v1), [pdf](http://arxiv.org/pdf/2403.14520v1.pdf), cication: [**-1**](None)
 
@@ -1076,6 +1083,9 @@
 
 	 *Mingsheng Li, Xin Chen, Chi Zhang, Sijin Chen, Hongyuan Zhu, Fukun Yin, Gang Yu, Tao Chen*
 ## Projects
+- [Idefics2 🐶 - a HuggingFaceM4 Collection](https://huggingface.co/collections/HuggingFaceM4/idefics2-661d1971b7c50831dd3ce0fe)
+
+	 · ([huggingface](https://huggingface.co/blog/idefics2))
 - [**MiniCPM-V**](https://github.com/OpenBMB/MiniCPM-V?tab=readme-ov-file) - OpenBMB ![Star](https://img.shields.io/github/stars/OpenBMB/MiniCPM-V.svg?style=social&label=Star)
 
 	 *MiniCPM-V 2.0: An Efficient End-side MLLM with Strong OCR and Understanding Capabilities*
@@ -1235,13 +1245,22 @@
 
 	 *Samir Yitzhak Gadre, Gabriel Ilharco, Alex Fang, Jonathan Hayase, Georgios Smyrnis, Thao Nguyen, Ryan Marten, Mitchell Wortsman, Dhruba Ghosh, Jieyu Zhang* · ([datacomp](http://www.datacomp.ai/))
 
+## Close Source
+- [Reka Core: Our Frontier Class Multimodal Language Model — Reka AI](https://www.reka.ai/news/reka-core-our-frontier-class-multimodal-language-model)
+
+	 · ([publications.reka](https://publications.reka.ai/reka-core-tech-report.pdf))
+
 ## Other
+- **PMG : Personalized Multimodal Generation with Large Language Models**, `arXiv, 2404.08677`, [arxiv](http://arxiv.org/abs/2404.08677v1), [pdf](http://arxiv.org/pdf/2404.08677v1.pdf), cication: [**-1**](None)
+
+	 *Xiaoteng Shen, Rui Zhang, Xiaoyan Zhao, Jieming Zhu, Xi Xiao*
 - [Adept Fuyu-Heavy: A new multimodal model](https://www.adept.ai/blog/adept-fuyu-heavy)
 - [GPT-4 Vision Alternatives](https://blog.roboflow.com/gpt-4-vision-alternatives/)
 - **Multimodal Neurons in Pretrained Text-Only Transformers**, `ICCV, 2023`, [arxiv](http://arxiv.org/abs/2308.01544v2), [pdf](http://arxiv.org/pdf/2308.01544v2.pdf), cication: [**-1**](None)
 
 	 *Sarah Schwettmann, Neil Chowdhury, Samuel Klein, David Bau, Antonio Torralba*
 
+- [多模态大语言模型综述](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495792&idx=1&sn=7e249cb624f00259ed762443d827703e)
 - [三年16篇一作，前谷歌研究科学家Yi Tay官宣新模型，21B媲美Gemini Pro、GPT-3.5 | 机器之心](https://www.jiqizhixin.com/articles/2024-02-15-13)
 - [多模态LLM多到看不过来？先看这26个SOTA模型吧 | 机器之心](https://www.jiqizhixin.com/articles/2024-01-31-3)
 - [多模态和多模态大模型](https://mp.weixin.qq.com/s?__biz=MzIyMzk1MDE3Nw==&mid=2247619958&idx=1&sn=493798d55e1aa583d103ee10ed04ef55)
