@@ -24,6 +24,10 @@
 - [**Adversarial Attacks on LLMs | Lil'Log**](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/)
 
 ## Red teaming
+- **ALERT: A Comprehensive Benchmark for Assessing Large Language Models'
+  Safety through Red Teaming**, `arXiv, 2404.08676`, [arxiv](http://arxiv.org/abs/2404.08676v1), [pdf](http://arxiv.org/pdf/2404.08676v1.pdf), cication: [**-1**](None)
+
+	 *Simone Tedeschi, Felix Friedrich, Patrick Schramowski, Kristian Kersting, Roberto Navigli, Huu Nguyen, Bo Li*
 - [Red-Teaming Language Models with DSPy | Haize Labs Blog 🕊️](https://blog.haizelabs.com/posts/dspy/)
 - [Curiosity-driven Red-teaming for Large Language Models](https://openreview.net/pdf?id=4KqkizXgXU)
 

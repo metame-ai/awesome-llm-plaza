@@ -436,6 +436,10 @@
 	 *Shufang Xie, Huishuai Zhang, Junliang Guo, Xu Tan, Jiang Bian, Hany Hassan Awadalla, Arul Menezes, Tao Qin, Rui Yan* · ([ResiDual](https://github.com/microsoft/ResiDual) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/ResiDual.svg?style=social&label=Star)
 
 ## Efficient Inference
+- **Prepacking: A Simple Method for Fast Prefilling and Increased Throughput
+  in Large Language Models**, `arXiv, 2404.09529`, [arxiv](http://arxiv.org/abs/2404.09529v1), [pdf](http://arxiv.org/pdf/2404.09529v1.pdf), cication: [**-1**](None)
+
+	 *Siyan Zhao, Daniel Israel, Guy Van den Broeck, Aditya Grover* · ([prepacking](https://github.com/siyan-zhao/prepacking) - siyan-zhao) ![Star](https://img.shields.io/github/stars/siyan-zhao/prepacking.svg?style=social&label=Star)
 - **DistServe: Disaggregating Prefill and Decoding for Goodput-optimized
   Large Language Model Serving**, `arXiv, 2401.09670`, [arxiv](http://arxiv.org/abs/2401.09670v1), [pdf](http://arxiv.org/pdf/2401.09670v1.pdf), cication: [**-1**](None)
 

@@ -19,6 +19,9 @@
 	 *Ziyin Zhang, Chaoyu Chen, Bingchang Liu, Cong Liao, Zi Gong, Hang Yu, Jianguo Li, Rui Wang*
 
 ## Paper
+- [**CodeQwen1.5**](https://github.com/QwenLM/CodeQwen1.5) - QwenLM ![Star](https://img.shields.io/github/stars/QwenLM/CodeQwen1.5.svg?style=social&label=Star)
+
+	 *CodeQwen1.5 is the code version of Qwen, the large language model series developed by Qwen team, Alibaba Cloud.* · ([qwenlm.github](https://qwenlm.github.io/)) · ([huggingface](https://huggingface.co/Qwen/CodeQwen1.5-7B-Chat))
 - **InfiCoder-Eval: Systematically Evaluating the Question-Answering
   Capabilities of Code Large Language Models**, `arXiv, 2404.07940`, [arxiv](http://arxiv.org/abs/2404.07940v1), [pdf](http://arxiv.org/pdf/2404.07940v1.pdf), cication: [**-1**](None)
 

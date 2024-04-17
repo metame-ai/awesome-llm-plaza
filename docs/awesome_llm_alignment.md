@@ -11,6 +11,9 @@
 	- [Extra reference](#extra-reference)
 
 ## Survey
+- **Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study**, `arXiv, 2404.10719`, [arxiv](http://arxiv.org/abs/2404.10719v1), [pdf](http://arxiv.org/pdf/2404.10719v1.pdf), cication: [**-1**](None)
+
+	 *Shusheng Xu, Wei Fu, Jiaxuan Gao, Wenjie Ye, Weilin Liu, Zhiyu Mei, Guangju Wang, Chao Yu, Yi Wu*
 - **On the Essence and Prospect: An Investigation of Alignment Approaches
   for Big Models**, `arXiv, 2403.04204`, [arxiv](http://arxiv.org/abs/2403.04204v1), [pdf](http://arxiv.org/pdf/2403.04204v1.pdf), cication: [**-1**](None)
 
@@ -32,7 +35,10 @@
 - **Learn Your Reference Model for Real Good Alignment**, `arXiv, 2404.09656`, [arxiv](http://arxiv.org/abs/2404.09656v1), [pdf](http://arxiv.org/pdf/2404.09656v1.pdf), cication: [**-1**](None)
 
 	 *Alexey Gorbatovski, Boris Shaposhnikov, Alexey Malakhov, Nikita Surnachev, Yaroslav Aksenov, Ian Maksimov, Nikita Balagansky, Daniil Gavrilov*
-- [[2404.09932] Foundational Challenges in Assuring Alignment and Safety of Large Language Models](https://arxiv.org/abs/2404.09932)
+- **Foundational Challenges in Assuring Alignment and Safety of Large
+  Language Models**, `arXiv, 2404.09932`, [arxiv](http://arxiv.org/abs/2404.09932v1), [pdf](http://arxiv.org/pdf/2404.09932v1.pdf), cication: [**-1**](None)
+
+	 *Usman Anwar, Abulhair Saparov, Javier Rando, Daniel Paleka, Miles Turpin, Peter Hase, Ekdeep Singh Lubana, Erik Jenner, Stephen Casper, Oliver Sourbut*
 - **Verifiable by Design: Aligning Language Models to Quote from
   Pre-Training Data**, `arXiv, 2404.03862`, [arxiv](http://arxiv.org/abs/2404.03862v1), [pdf](http://arxiv.org/pdf/2404.03862v1.pdf), cication: [**-1**](None)
 

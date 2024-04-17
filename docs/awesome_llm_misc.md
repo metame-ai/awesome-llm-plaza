@@ -276,6 +276,9 @@
 	 *Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers*
 
 ## State Space Model
+- [Zamba — Zyphra](https://www.zyphra.com/zamba)
+
+	 · ([twitter](https://twitter.com/QuentinAnthon15/status/1780280071304937978))
 - **MambaMixer: Efficient Selective State Space Models with Dual Token and
   Channel Selection**, `arXiv, 2403.19888`, [arxiv](http://arxiv.org/abs/2403.19888v1), [pdf](http://arxiv.org/pdf/2403.19888v1.pdf), cication: [**-1**](None)
 
@@ -430,7 +433,9 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652345558&idx=4&sn=95686435d5cad05d44cbe02bc26d6859))
 
 ## Interpretability 
-- [[2404.09937] Compression Represents Intelligence Linearly](https://arxiv.org/abs/2404.09937)
+- **Compression Represents Intelligence Linearly**, `arXiv, 2404.09937`, [arxiv](http://arxiv.org/abs/2404.09937v1), [pdf](http://arxiv.org/pdf/2404.09937v1.pdf), cication: [**-1**](None)
+
+	 *Yuzhen Huang, Jinghan Zhang, Zifei Shan, Junxian He*
 
 	 · ([huggingface](https://huggingface.co/datasets/hkust-nlp/llm-compression)) · ([llm-compression-intelligence](https://github.com/hkust-nlp/llm-compression-intelligence?tab=readme-ov-file) - hkust-nlp) ![Star](https://img.shields.io/github/stars/hkust-nlp/llm-compression-intelligence.svg?style=social&label=Star)
 - [**color-coded-text-generation**](https://huggingface.co/spaces/joaogante/color-coded-text-generation) - joaogante 🤗
@@ -658,6 +663,9 @@
 	 *Zhangyue Yin, Qiushi Sun, Qipeng Guo, Jiawen Wu, Xipeng Qiu, Xuanjing Huang*
 
 ## Tokenization
+- **Toward a Theory of Tokenization in LLMs**, `arXiv, 2404.08335`, [arxiv](http://arxiv.org/abs/2404.08335v1), [pdf](http://arxiv.org/pdf/2404.08335v1.pdf), cication: [**-1**](None)
+
+	 *Nived Rajaraman, Jiantao Jiao, Kannan Ramchandran*
 - **Training LLMs over Neurally Compressed Text**, `arXiv, 2404.03626`, [arxiv](http://arxiv.org/abs/2404.03626v1), [pdf](http://arxiv.org/pdf/2404.03626v1.pdf), cication: [**-1**](None)
 
 	 *Brian Lester, Jaehoon Lee, Alex Alemi, Jeffrey Pennington, Adam Roberts, Jascha Sohl-Dickstein, Noah Constant*

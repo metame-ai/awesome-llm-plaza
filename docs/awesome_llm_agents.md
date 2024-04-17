@@ -890,6 +890,9 @@
 	 *Interact privately with your documents using the power of GPT, 100% privately, no data leaks*
 
 ### Embedding
+- [**snowflake-arctic-embed-m**](https://huggingface.co/Snowflake/snowflake-arctic-embed-m) - Snowflake 🤗
+
+	 · ([snowflake](https://www.snowflake.com/blog/introducing-snowflake-arctic-embed-snowflakes-state-of-the-art-text-embedding-family-of-models/))
 - [Pile-T5 | EleutherAI Blog](https://blog.eleuther.ai/pile-t5/)
 
 	 · ([huggingface](https://huggingface.co/collections/EleutherAI/pile-t5-65a76a0d0022dd270b385a66)) · ([improved-t5](https://github.com/EleutherAI/improved-t5) - EleutherAI) ![Star](https://img.shields.io/github/stars/EleutherAI/improved-t5.svg?style=social&label=Star)

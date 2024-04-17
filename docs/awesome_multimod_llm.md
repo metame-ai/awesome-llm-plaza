@@ -1223,6 +1223,7 @@
 	 *Yuliang Liu, Zhang Li, Biao Yang, Chunyuan Li, Xucheng Yin, Cheng-lin Liu, Lianwen Jin, Xiang Bai* · ([MultimodalOCR](https://github.com/Yuliang-Liu/MultimodalOCR) - Yuliang-Liu) ![Star](https://img.shields.io/github/stars/Yuliang-Liu/MultimodalOCR.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652442102&idx=4&sn=64a53646c57797a00b9db186f339c5eb))
 
 ## Datasets
+- [**the_cauldron**](https://huggingface.co/datasets/HuggingFaceM4/the_cauldron) - HuggingFaceM4 🤗
 - **Unlocking the conversion of Web Screenshots into HTML Code with the
   WebSight Dataset**, `arXiv, 2403.09029`, [arxiv](http://arxiv.org/abs/2403.09029v1), [pdf](http://arxiv.org/pdf/2403.09029v1.pdf), cication: [**-1**](None)
 
