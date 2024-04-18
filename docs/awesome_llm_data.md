@@ -33,6 +33,9 @@
 	 *Zige Wang, Wanjun Zhong, Yufei Wang, Qi Zhu, Fei Mi, Baojun Wang, Lifeng Shang, Xin Jiang, Qun Liu*
 
 ## Techs
+- **Fewer Truncations Improve Language Modeling**, `arXiv, 2404.10830`, [arxiv](http://arxiv.org/abs/2404.10830v1), [pdf](http://arxiv.org/pdf/2404.10830v1.pdf), cication: [**-1**](None)
+
+	 *Hantian Ding, Zijian Wang, Giovanni Paolini, Varun Kumar, Anoop Deoras, Dan Roth, Stefano Soatto*
 - **Best Practices and Lessons Learned on Synthetic Data for Language Models**, `arXiv, 2404.07503`, [arxiv](http://arxiv.org/abs/2404.07503v1), [pdf](http://arxiv.org/pdf/2404.07503v1.pdf), cication: [**-1**](None)
 
 	 *Ruibo Liu, Jerry Wei, Fangyu Liu, Chenglei Si, Yanzhe Zhang, Jinmeng Rao, Steven Zheng, Daiyi Peng, Diyi Yang, Denny Zhou*

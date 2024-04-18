@@ -276,6 +276,9 @@
 	 *Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers*
 
 ## State Space Model
+- **The Illusion of State in State-Space Models**, `arXiv, 2404.08819`, [arxiv](http://arxiv.org/abs/2404.08819v1), [pdf](http://arxiv.org/pdf/2404.08819v1.pdf), cication: [**-1**](None)
+
+	 *William Merrill, Jackson Petty, Ashish Sabharwal*
 - [Zamba — Zyphra](https://www.zyphra.com/zamba)
 
 	 · ([twitter](https://twitter.com/QuentinAnthon15/status/1780280071304937978))

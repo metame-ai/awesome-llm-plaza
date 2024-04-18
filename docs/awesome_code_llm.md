@@ -19,6 +19,11 @@
 	 *Ziyin Zhang, Chaoyu Chen, Bingchang Liu, Cong Liao, Zi Gong, Hang Yu, Jianguo Li, Rui Wang*
 
 ## Paper
+- **A Deep Dive into Large Language Models for Automated Bug Localization
+  and Repair**, `arXiv, 2404.11595`, [arxiv](http://arxiv.org/abs/2404.11595v1), [pdf](http://arxiv.org/pdf/2404.11595v1.pdf), cication: [**-1**](None)
+
+	 *Soneya Binta Hossain, Nan Jiang, Qiang Zhou, Xiaopeng Li, Wen-Hao Chiang, Yingjun Lyu, Hoan Nguyen, Omer Tripp*
+- [**USACO**](https://github.com/princeton-nlp/USACO) - princeton-nlp ![Star](https://img.shields.io/github/stars/princeton-nlp/USACO.svg?style=social&label=Star)
 - [**CodeQwen1.5**](https://github.com/QwenLM/CodeQwen1.5) - QwenLM ![Star](https://img.shields.io/github/stars/QwenLM/CodeQwen1.5.svg?style=social&label=Star)
 
 	 *CodeQwen1.5 is the code version of Qwen, the large language model series developed by Qwen team, Alibaba Cloud.* · ([qwenlm.github](https://qwenlm.github.io/)) · ([huggingface](https://huggingface.co/Qwen/CodeQwen1.5-7B-Chat))

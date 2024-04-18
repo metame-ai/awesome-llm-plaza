@@ -941,7 +941,13 @@
 	 *Shaohan Huang, Li Dong, Wenhui Wang, Yaru Hao, Saksham Singhal, Shuming Ma, Tengchao Lv, Lei Cui, Owais Khan Mohammed, Barun Patra*
 
 ## Audio
+- **Teaching a Multilingual Large Language Model to Understand Multilingual
+  Speech via Multi-Instructional Training**, `arXiv, 2404.10922`, [arxiv](http://arxiv.org/abs/2404.10922v1), [pdf](http://arxiv.org/pdf/2404.10922v1.pdf), cication: [**-1**](None)
 
+	 *Pavel Denisov, Ngoc Thang Vu*
+- [Fetching Title#yw8z](https://huggingface.co/tincans-ai/gazelle-v0.2)
+
+	 · ([tincans](https://tincans.ai/slm3)) · ([demo.tincans](https://demo.tincans.ai/))
 - **ChatMusician: Understanding and Generating Music Intrinsically with LLM**, `arXiv, 2402.16153`, [arxiv](http://arxiv.org/abs/2402.16153v1), [pdf](http://arxiv.org/pdf/2402.16153v1.pdf), cication: [**-1**](None)
 
 	 *Ruibin Yuan, Hanfeng Lin, Yi Wang, Zeyue Tian, Shangda Wu, Tianhao Shen, Ge Zhang, Yuhang Wu, Cong Liu, Ziya Zhou*

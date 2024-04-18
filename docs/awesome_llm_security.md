@@ -28,6 +28,8 @@
   Safety through Red Teaming**, `arXiv, 2404.08676`, [arxiv](http://arxiv.org/abs/2404.08676v1), [pdf](http://arxiv.org/pdf/2404.08676v1.pdf), cication: [**-1**](None)
 
 	 *Simone Tedeschi, Felix Friedrich, Patrick Schramowski, Kristian Kersting, Roberto Navigli, Huu Nguyen, Bo Li*
+
+	 · ([ALERT](https://github.com/Babelscape/ALERT) - Babelscape) ![Star](https://img.shields.io/github/stars/Babelscape/ALERT.svg?style=social&label=Star)
 - [Red-Teaming Language Models with DSPy | Haize Labs Blog 🕊️](https://blog.haizelabs.com/posts/dspy/)
 - [Curiosity-driven Red-teaming for Large Language Models](https://openreview.net/pdf?id=4KqkizXgXU)
 
@@ -225,6 +227,9 @@
 
 	 *Kaijie Zhu, Jindong Wang, Jiaheng Zhou, Zichen Wang, Hao Chen, Yidong Wang, Linyi Yang, Wei Ye, Yue Zhang, Neil Zhenqiang Gong*
 ## Projects
+- [**ps-fuzz**](https://github.com/prompt-security/ps-fuzz?tab=readme-ov-file) - prompt-security ![Star](https://img.shields.io/github/stars/prompt-security/ps-fuzz.svg?style=social&label=Star)
+
+	 *Make your GenAI Apps Safe & Secure Test & harden your system prompt*
 - [**PyRIT**](https://github.com/Azure/PyRIT) - Azure ![Star](https://img.shields.io/github/stars/Azure/PyRIT.svg?style=social&label=Star)
 
 	 *The Python Risk Identification Tool for generative AI (PyRIT) is an open access automation framework to empower security professionals and machine learning engineers to proactively find risks in their generative AI systems.*

@@ -687,6 +687,9 @@
 - [ChatGPT 詠唱案例懶人包 - 超過 40 個現實世界的應用範例 (持續更新) - 雷司紀的小道投資 raysky](https://www.rayskyinvest.com/96682/chatgpt-examples)
 
 ## In context learning
+- **Many-Shot In-Context Learning**, `arXiv, 2404.11018`, [arxiv](http://arxiv.org/abs/2404.11018v1), [pdf](http://arxiv.org/pdf/2404.11018v1.pdf), cication: [**-1**](None)
+
+	 *Rishabh Agarwal, Avi Singh, Lei M. Zhang, Bernd Bohnet, Stephanie Chan, Ankesh Anand, Zaheer Abbas, Azade Nova, John D. Co-Reyes, Eric Chu*
 - **Can large language models explore in-context?**, `arXiv, 2403.15371`, [arxiv](http://arxiv.org/abs/2403.15371v1), [pdf](http://arxiv.org/pdf/2403.15371v1.pdf), cication: [**-1**](None)
 
 	 *Akshay Krishnamurthy, Keegan Harris, Dylan J. Foster, Cyril Zhang, Aleksandrs Slivkins*

@@ -206,6 +206,8 @@
 - [**phi-2**](https://huggingface.co/spaces/randomblock1/phi-2) - randomblock1 🤗
 - [**phixtral-4x2_8**](https://huggingface.co/mlabonne/phixtral-4x2_8) - mlabonne 🤗
 ### Mistral
+- [Cheaper, Better, Faster, Stronger | Mistral AI | Frontier AI in your hands](https://mistral.ai/news/mixtral-8x22b)
+- [Fetching Title#dsku](https://huggingface.co/mistralai/Mixtral-8x22B-v0.1)
 - [**mixtral-8x22b-instruct-oh**](https://huggingface.co/fireworks-ai/mixtral-8x22b-instruct-oh) - fireworks-ai 🤗
 - [**Mistral-22B-v0.2**](https://huggingface.co/Vezora/Mistral-22B-v0.2) - Vezora 🤗
 - [**Mistral-22B-v0.1**](https://huggingface.co/Vezora/Mistral-22B-v0.1) - Vezora 🤗

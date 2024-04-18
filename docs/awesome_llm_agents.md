@@ -689,6 +689,14 @@
 - [GPT-4V学会用键鼠上网，人类眼睁睁看着它发帖玩游戏 | 量子位](https://www.qbitai.com/2023/11/95456.html)
 
 ## Retrieval agumented generation
+- **A Survey on Retrieval-Augmented Text Generation for Large Language
+  Models**, `arXiv, 2404.10981`, [arxiv](http://arxiv.org/abs/2404.10981v1), [pdf](http://arxiv.org/pdf/2404.10981v1.pdf), cication: [**-1**](None)
+
+	 *Yizheng Huang, Jimmy Huang*
+- **How faithful are RAG models? Quantifying the tug-of-war between RAG and
+  LLMs' internal prior**, `arXiv, 2404.10198`, [arxiv](http://arxiv.org/abs/2404.10198v1), [pdf](http://arxiv.org/pdf/2404.10198v1.pdf), cication: [**-1**](None)
+
+	 *Kevin Wu, Eric Wu, James Zou*
 - [**MaxKB**](https://github.com/1Panel-dev/MaxKB) - 1Panel-dev ![Star](https://img.shields.io/github/stars/1Panel-dev/MaxKB.svg?style=social&label=Star)
 
 	 *💬 基于 LLM 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统，1Panel 官方出品。*
@@ -922,7 +930,9 @@
 - [Fetching Title#xtq8](https://txt.cohere.com/introducing-embed-v3/)
 
 ---
+- [Fetching Title#ll4n](https://www.eyelevel.ai/post/most-accurate-rag)
 - [Unlocking the Power of Multi-Document Agents with LlamaIndex | by Ankush k Singal | Apr, 2024 | AI Advances](https://ai.gopubby.com/unlocking-the-power-of-multi-document-agents-with-llamaindex-d09e4d7dfe0e)
+
 
 	 · ([twitter](https://twitter.com/jerryjliu0/status/1776971813874028694))
 - [Cheap RAGs up for grabs: How we cut LLM costs without sacrificing accuracy? | Pathway](https://pathway.com/developers/showcases/adaptive-rag)
@@ -1015,6 +1025,9 @@
 - [各路大神献出自定义GPT，24小时Top 9名单在这 | 机器之心](https://www.jiqizhixin.com/articles/2023-11-13-13)
 
 ## Evaluation
+- **MMInA: Benchmarking Multihop Multimodal Internet Agents**, `arXiv, 2404.09992`, [arxiv](http://arxiv.org/abs/2404.09992v1), [pdf](http://arxiv.org/pdf/2404.09992v1.pdf), cication: [**-1**](None)
+
+	 *Ziniu Zhang, Shulin Tian, Liangyu Chen, Ziwei Liu* · ([mmina.cliangyu](https://mmina.cliangyu.com))
 - **AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents**, `arXiv, 2401.13178`, [arxiv](http://arxiv.org/abs/2401.13178v1), [pdf](http://arxiv.org/pdf/2401.13178v1.pdf), cication: [**-1**](None)
 
 	 *Chang Ma, Junlei Zhang, Zhihao Zhu, Cheng Yang, Yujiu Yang, Yaohui Jin, Zhenzhong Lan, Lingpeng Kong, Junxian He* · ([AgentBoard](https://github.com/hkust-nlp/AgentBoard) - hkust-nlp) ![Star](https://img.shields.io/github/stars/hkust-nlp/AgentBoard.svg?style=social&label=Star)
