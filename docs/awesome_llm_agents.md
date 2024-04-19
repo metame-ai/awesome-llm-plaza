@@ -25,6 +25,10 @@
 	- [Extra reference](#extra-reference)
 
 ## Survey
+- **The Landscape of Emerging AI Agent Architectures for Reasoning,
+  Planning, and Tool Calling: A Survey**, `arXiv, 2404.11584`, [arxiv](http://arxiv.org/abs/2404.11584v1), [pdf](http://arxiv.org/pdf/2404.11584v1.pdf), cication: [**-1**](None)
+
+	 *Tula Masterman, Sandi Besen, Mason Sawtell, Alex Chao*
 - **Retrieval-Augmented Generation for AI-Generated Content: A Survey**, `arXiv, 2402.19473`, [arxiv](http://arxiv.org/abs/2402.19473v1), [pdf](http://arxiv.org/pdf/2402.19473v1.pdf), cication: [**-1**](None)
 
 	 *Penghao Zhao, Hailin Zhang, Qinhan Yu, Zhengren Wang, Yunteng Geng, Fangcheng Fu, Ling Yang, Wentao Zhang, Bin Cui* · ([RAG-Survey](https://github.com/hymie122/RAG-Survey) - hymie122) ![Star](https://img.shields.io/github/stars/hymie122/RAG-Survey.svg?style=social&label=Star)
@@ -84,6 +88,12 @@
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-18-4))
 ## Agents
+- [**maestro**](https://github.com/Doriandarko/maestro) - Doriandarko ![Star](https://img.shields.io/github/stars/Doriandarko/maestro.svg?style=social&label=Star)
+
+	 *A framework for Claude Opus to intelligently orchestrate subagents.*
+- **Scaling Instructable Agents Across Many Simulated Worlds**, `arXiv, 2404.10179`, [arxiv](http://arxiv.org/abs/2404.10179v2), [pdf](http://arxiv.org/pdf/2404.10179v2.pdf), cication: [**-1**](None)
+
+	 *SIMA Team, Maria Abi Raad, Arun Ahuja, Catarina Barros, Frederic Besse, Andrew Bolt, Adrian Bolton, Bethanie Brownfield, Gavin Buttimore, Max Cant*
 - **Autonomous Evaluation and Refinement of Digital Agents**, `arXiv, 2404.06474`, [arxiv](http://arxiv.org/abs/2404.06474v2), [pdf](http://arxiv.org/pdf/2404.06474v2.pdf), cication: [**-1**](None)
 
 	 *Jiayi Pan, Yichi Zhang, Nicholas Tomlin, Yifei Zhou, Sergey Levine, Alane Suhr* · ([Agent-Eval-Refine](https://github.com/Berkeley-NLP/Agent-Eval-Refine) - Berkeley-NLP) ![Star](https://img.shields.io/github/stars/Berkeley-NLP/Agent-Eval-Refine.svg?style=social&label=Star)

@@ -206,6 +206,9 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
+- **BLINK: Multimodal Large Language Models Can See but Not Perceive**, `arXiv, 2404.12390`, [arxiv](http://arxiv.org/abs/2404.12390v1), [pdf](http://arxiv.org/pdf/2404.12390v1.pdf), cication: [**-1**](None)
+
+	 *Xingyu Fu, Yushi Hu, Bangzheng Li, Yu Feng, Haoyu Wang, Xudong Lin, Dan Roth, Noah A. Smith, Wei-Chiu Ma, Ranjay Krishna*
 - **TextHawk: Exploring Efficient Fine-Grained Perception of Multimodal
   Large Language Models**, `arXiv, 2404.09204`, [arxiv](http://arxiv.org/abs/2404.09204v1), [pdf](http://arxiv.org/pdf/2404.09204v1.pdf), cication: [**-1**](None)
 

@@ -64,6 +64,9 @@
 	 *Stephen Casper, Jason Lin, Joe Kwon, Gatlen Culp, Dylan Hadfield-Menell*
 
 ## Papers
+- **Introducing v0.5 of the AI Safety Benchmark from MLCommons**, `arXiv, 2404.12241`, [arxiv](http://arxiv.org/abs/2404.12241v1), [pdf](http://arxiv.org/pdf/2404.12241v1.pdf), cication: [**-1**](None)
+
+	 *Bertie Vidgen, Adarsh Agrawal, Ahmed M. Ahmed, Victor Akinwande, Namir Al-Nuaimi, Najla Alfaraj, Elie Alhajjar, Lora Aroyo, Trupti Bavalatti, Borhane Blili-Hamelin*
 - [**PrivacyBackdoor**](https://github.com/ShanglunFengatETHZ/PrivacyBackdoor) - ShanglunFengatETHZ ![Star](https://img.shields.io/github/stars/ShanglunFengatETHZ/PrivacyBackdoor.svg?style=social&label=Star)
 
 	 *Privacy backdoors*

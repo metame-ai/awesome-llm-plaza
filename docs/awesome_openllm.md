@@ -38,6 +38,11 @@
 # English
 
 ## Foundation
+- **Reka Core, Flash, and Edge: A Series of Powerful Multimodal Language
+  Models**, `arXiv, 2404.12387`, [arxiv](http://arxiv.org/abs/2404.12387v1), [pdf](http://arxiv.org/pdf/2404.12387v1.pdf), cication: [**-1**](None)
+
+	 *Aitor Ormazabal, Che Zheng, Cyprien de Masson d'Autume, Dani Yogatama, Deyu Fu, Donovan Ong, Eric Chen, Eugenie Lamprecht, Hai Pham, Isaac Ong*
+	- http://showcase.reka.ai
 - **Rho-1: Not All Tokens Are What You Need**, `arXiv, 2404.07965`, [arxiv](http://arxiv.org/abs/2404.07965v1), [pdf](http://arxiv.org/pdf/2404.07965v1.pdf), cication: [**-1**](None)
 
 	 *Zhenghao Lin, Zhibin Gou, Yeyun Gong, Xiao Liu, Yelong Shen, Ruochen Xu, Chen Lin, Yujiu Yang, Jian Jiao, Nan Duan* · ([rho](https://github.com/microsoft/rho) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/rho.svg?style=social&label=Star)
@@ -144,6 +149,15 @@
 
 	 *Kaiyuan Gao, Sunan He, Zhenyu He, Jiacheng Lin, QiZhi Pei, Jie Shao, Wei Zhang* · ([gpt_alternatives](https://github.com/GPT-Alternatives/gpt_alternatives) - GPT-Alternatives) ![Star](https://img.shields.io/github/stars/GPT-Alternatives/gpt_alternatives.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-09-12-3))
 
+### Llama 3
+- [Welcome Llama 3 - Meta's new open LLM](https://huggingface.co/blog/llama3)
+- [Site Unreachable](https://ai.meta.com/blog/meta-llama-3/)
+- [**llama3**](https://github.com/meta-llama/llama3/tree/main) - meta-llama ![Star](https://img.shields.io/github/stars/meta-llama/llama3.svg?style=social&label=Star)
+
+	 *The official Meta Llama 3 GitHub site*
+- [**Meta-Llama-3-8B-Instruct**](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct) - meta-llama 🤗
+- [**Meta-Llama-3-70B-Instruct**](https://huggingface.co/meta-llama/Meta-Llama-3-70B-Instruct) - meta-llama 🤗
+
 ### Jamba
 - **Jamba: A Hybrid Transformer-Mamba Language Model**, `arXiv, 2403.19887`, [arxiv](http://arxiv.org/abs/2403.19887v1), [pdf](http://arxiv.org/pdf/2403.19887v1.pdf), cication: [**-1**](None)
 
@@ -192,6 +206,8 @@
 - [Gemma finetuning should be much better now : r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/1bd18y8/gemma_finetuning_should_be_much_better_now/?rdt=59207)
 
 ### OLMo
+- [OLMo 1.7–7B: A 24 point improvement on MMLU | by AI2 | Apr, 2024 | AI2 Blog](https://blog.allenai.org/olmo-1-7-7b-a-24-point-improvement-on-mmlu-92b43f7d269d)
+- [**OLMo-1.7-7B**](https://huggingface.co/allenai/OLMo-1.7-7B) - allenai 🤗
 - **OLMo: Accelerating the Science of Language Models**, `arXiv, 2402.00838`, [arxiv](http://arxiv.org/abs/2402.00838v1), [pdf](http://arxiv.org/pdf/2402.00838v1.pdf), cication: [**-1**](None)
 
 	 *Dirk Groeneveld, Iz Beltagy, Pete Walsh, Akshita Bhagia, Rodney Kinney, Oyvind Tafjord, Ananya Harsh Jha, Hamish Ivison, Ian Magnusson, Yizhong Wang* · ([OLMo](https://github.com/allenai/OLMo) - allenai) ![Star](https://img.shields.io/github/stars/allenai/OLMo.svg?style=social&label=Star) · ([allenai](https://allenai.org/olmo)) · ([allenai](https://allenai.org/olmo/olmo-paper.pdf))

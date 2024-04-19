@@ -777,6 +777,9 @@
 - [Lil'Log](https://lilianweng.github.io/)
 
 ## Extra reference
+- [**mamba_state_space_model_paper_list**](https://github.com/event-ahu/mamba_state_space_model_paper_list) - event-ahu ![Star](https://img.shields.io/github/stars/event-ahu/mamba_state_space_model_paper_list.svg?style=social&label=Star)
+
+	 *[Mamba-Survey-2024] Paper list for State-Space-Model/Mamba and it's Applications*
 - [**Awesome-Mamba-Papers**](https://github.com/yyyujintang/Awesome-Mamba-Papers) - yyyujintang ![Star](https://img.shields.io/github/stars/yyyujintang/Awesome-Mamba-Papers.svg?style=social&label=Star)
 
 	 *Awesome Papers related to Mamba.*

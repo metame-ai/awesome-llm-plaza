@@ -436,6 +436,10 @@
 	 *Shufang Xie, Huishuai Zhang, Junliang Guo, Xu Tan, Jiang Bian, Hany Hassan Awadalla, Arul Menezes, Tao Qin, Rui Yan* · ([ResiDual](https://github.com/microsoft/ResiDual) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/ResiDual.svg?style=social&label=Star)
 
 ## Efficient Inference
+- **TriForce: Lossless Acceleration of Long Sequence Generation with
+  Hierarchical Speculative Decoding**, `arXiv, 2404.11912`, [arxiv](http://arxiv.org/abs/2404.11912v1), [pdf](http://arxiv.org/pdf/2404.11912v1.pdf), cication: [**-1**](None)
+
+	 *Hanshi Sun, Zhuoming Chen, Xinyu Yang, Yuandong Tian, Beidi Chen* · ([TriForce](https://github.com/Infini-AI-Lab/TriForce) - Infini-AI-Lab) ![Star](https://img.shields.io/github/stars/Infini-AI-Lab/TriForce.svg?style=social&label=Star)
 - **Prepacking: A Simple Method for Fast Prefilling and Increased Throughput
   in Large Language Models**, `arXiv, 2404.09529`, [arxiv](http://arxiv.org/abs/2404.09529v1), [pdf](http://arxiv.org/pdf/2404.09529v1.pdf), cication: [**-1**](None)
 

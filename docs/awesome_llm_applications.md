@@ -153,6 +153,7 @@
 	 *A ChatGPT plugin that allows you to load and edit your local files in a controlled way, as well as run any Python, JavaScript, and bash script.*
 
 ## Writing
+- [**gpt-author**](https://github.com/mshumer/gpt-author) - mshumer ![Star](https://img.shields.io/github/stars/mshumer/gpt-author.svg?style=social&label=Star)
 - **Is ChatGPT Transforming Academics' Writing Style?**, `arXiv, 2404.08627`, [arxiv](http://arxiv.org/abs/2404.08627v1), [pdf](http://arxiv.org/pdf/2404.08627v1.pdf), cication: [**-1**](None)
 
 	 *Mingmeng Geng, Roberto Trotta*
@@ -241,6 +242,7 @@
 
 
 ## Medical
+- [The Open Medical-LLM Leaderboard: Benchmarking Large Language Models in Healthcare](https://huggingface.co/blog/leaderboard-medicalllm)
 - **Medical mT5: An Open-Source Multilingual Text-to-Text LLM for The
   Medical Domain**, `arXiv, 2404.07613`, [arxiv](http://arxiv.org/abs/2404.07613v1), [pdf](http://arxiv.org/pdf/2404.07613v1.pdf), cication: [**-1**](None)
 

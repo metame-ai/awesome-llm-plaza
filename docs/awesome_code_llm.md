@@ -19,6 +19,11 @@
 	 *Ziyin Zhang, Chaoyu Chen, Bingchang Liu, Cong Liao, Zi Gong, Hang Yu, Jianguo Li, Rui Wang*
 
 ## Paper
+- **Behavior Trees Enable Structured Programming of Language Model Agents**, `arXiv, 2404.07439`, [arxiv](http://arxiv.org/abs/2404.07439v1), [pdf](http://arxiv.org/pdf/2404.07439v1.pdf), cication: [**-1**](None)
+
+	 *Richard Kelley*
+
+	 · ([dendron](https://github.com/richardkelley/dendron) - richardkelley) ![Star](https://img.shields.io/github/stars/richardkelley/dendron.svg?style=social&label=Star)
 - **A Deep Dive into Large Language Models for Automated Bug Localization
   and Repair**, `arXiv, 2404.11595`, [arxiv](http://arxiv.org/abs/2404.11595v1), [pdf](http://arxiv.org/pdf/2404.11595v1.pdf), cication: [**-1**](None)
 
@@ -289,6 +294,9 @@
 	 · [intercode-benchmark.github](https://intercode-benchmark.github.io/)
 
 ## Projects
+- [**leaderboard**](https://huggingface.co/spaces/livecodebench/leaderboard) - livecodebench 🤗
+
+	 · ([huggingface](https://huggingface.co/blog/leaderboard-livecodebench))
 - [**tabby**](https://github.com/TabbyML/tabby) - TabbyML ![Star](https://img.shields.io/github/stars/TabbyML/tabby.svg?style=social&label=Star)
 
 	 *Self-hosted AI coding assistant*

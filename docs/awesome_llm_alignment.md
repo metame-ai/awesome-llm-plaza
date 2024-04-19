@@ -214,6 +214,10 @@
 	 *Timo Kaufmann, Paul Weng, Viktor Bengs, Eyke Hüllermeier*
 
 ## Papers
+- **Reuse Your Rewards: Reward Model Transfer for Zero-Shot Cross-Lingual
+  Alignment**, `arXiv, 2404.12318`, [arxiv](http://arxiv.org/abs/2404.12318v1), [pdf](http://arxiv.org/pdf/2404.12318v1.pdf), cication: [**-1**](None)
+
+	 *Zhaofeng Wu, Ananth Balashankar, Yoon Kim, Jacob Eisenstein, Ahmad Beirami*
 - **Dataset Reset Policy Optimization for RLHF**, `arXiv, 2404.08495`, [arxiv](http://arxiv.org/abs/2404.08495v1), [pdf](http://arxiv.org/pdf/2404.08495v1.pdf), cication: [**-1**](None)
 
 	 *Jonathan D. Chang, Wenhao Shan, Owen Oertell, Kianté Brantley, Dipendra Misra, Jason D. Lee, Wen Sun* · ([drpo](https://github.com/Cornell-RL/drpo) - Cornell-RL) ![Star](https://img.shields.io/github/stars/Cornell-RL/drpo.svg?style=social&label=Star)
