@@ -398,6 +398,9 @@
 - [大模型Fewshot推理如何选择更好的示例](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495177&idx=2&sn=fe8353efed16a81e35462be06d5a6cea)
 
 ## Math reasoning
+- **Towards Large Language Models as Copilots for Theorem Proving in Lean**, `arXiv, 2404.12534`, [arxiv](http://arxiv.org/abs/2404.12534v1), [pdf](http://arxiv.org/pdf/2404.12534v1.pdf), cication: [**-1**](None)
+
+	 *Peiyang Song, Kaiyu Yang, Anima Anandkumar* · ([LeanCopilot](https://github.com/lean-dojo/LeanCopilot) - lean-dojo) ![Star](https://img.shields.io/github/stars/lean-dojo/LeanCopilot.svg?style=social&label=Star)
 - **ChatGLM-Math: Improving Math Problem-Solving in Large Language Models
   with a Self-Critique Pipeline**, `arXiv, 2404.02893`, [arxiv](http://arxiv.org/abs/2404.02893v1), [pdf](http://arxiv.org/pdf/2404.02893v1.pdf), cication: [**-1**](None)
 
@@ -678,6 +681,9 @@
 	 *Maciej Besta, Nils Blach, Ales Kubicek, Robert Gerstenberger, Lukas Gianinazzi, Joanna Gajda, Tomasz Lehmann, Michal Podstawski, Hubert Niewiadomski, Piotr Nyczyk* · ([graph-of-thoughts](https://github.com/spcl/graph-of-thoughts) - spcl) ![Star](https://img.shields.io/github/stars/spcl/graph-of-thoughts.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-08-25-3))
 
 ### Other
+- [Lessons after a half-billion GPT tokens - Ken Kantzer's Blog](https://kenkantzer.com/lessons-after-a-half-billion-gpt-tokens)
+
+	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-04-19-13))
 - [How Chain-of-Thought Reasoning Helps Neural Networks Compute | Quanta Magazine](https://www.quantamagazine.org/how-chain-of-thought-reasoning-helps-neural-networks-compute-20240321/)
 
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI1MjQ2OTQ3Ng==&mid=2247633311&idx=3&sn=2d77962dd4951e03b03b84cd3c969bb7))
@@ -691,6 +697,9 @@
 - [ChatGPT 詠唱案例懶人包 - 超過 40 個現實世界的應用範例 (持續更新) - 雷司紀的小道投資 raysky](https://www.rayskyinvest.com/96682/chatgpt-examples)
 
 ## In context learning
+- **LLM In-Context Recall is Prompt Dependent**, `arXiv, 2404.08865`, [arxiv](http://arxiv.org/abs/2404.08865v1), [pdf](http://arxiv.org/pdf/2404.08865v1.pdf), cication: [**-1**](None)
+
+	 *Daniel Machlab, Rick Battle*
 - **Many-Shot In-Context Learning**, `arXiv, 2404.11018`, [arxiv](http://arxiv.org/abs/2404.11018v1), [pdf](http://arxiv.org/pdf/2404.11018v1.pdf), cication: [**-1**](None)
 
 	 *Rishabh Agarwal, Avi Singh, Lei M. Zhang, Bernd Bohnet, Stephanie Chan, Ankesh Anand, Zaheer Abbas, Azade Nova, John D. Co-Reyes, Eric Chu*

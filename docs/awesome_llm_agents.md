@@ -612,6 +612,10 @@
 - [陈丹琦ACL学术报告来了！详解大模型「外挂」数据库7大方向3大挑战，3小时干货满满 | 量子位](https://www.qbitai.com/2023/07/67259.html)
 
 ## Web browsing
+- **AutoCrawler: A Progressive Understanding Web Agent for Web Crawler
+  Generation**, `arXiv, 2404.12753`, [arxiv](http://arxiv.org/abs/2404.12753v1), [pdf](http://arxiv.org/pdf/2404.12753v1.pdf), cication: [**-1**](None)
+
+	 *Wenhao Huang, Chenghao Peng, Zhixu Li, Jiaqing Liang, Yanghua Xiao, Liqian Wen, Zulong Chen* · ([AutoCrawler](https://github.com/EZ-hwh/AutoCrawler) - EZ-hwh) ![Star](https://img.shields.io/github/stars/EZ-hwh/AutoCrawler.svg?style=social&label=Star)
 - [**Perplexica**](https://github.com/ItzCrazyKns/Perplexica/) - ItzCrazyKns ![Star](https://img.shields.io/github/stars/ItzCrazyKns/Perplexica.svg?style=social&label=Star)
 
 	 *Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI*
@@ -699,6 +703,10 @@
 - [GPT-4V学会用键鼠上网，人类眼睁睁看着它发帖玩游戏 | 量子位](https://www.qbitai.com/2023/11/95456.html)
 
 ## Retrieval agumented generation
+- **Reducing hallucination in structured outputs via Retrieval-Augmented
+  Generation**, `arXiv, 2404.08189`, [arxiv](http://arxiv.org/abs/2404.08189v1), [pdf](http://arxiv.org/pdf/2404.08189v1.pdf), cication: [**-1**](None)
+
+	 *Patrice Béchard, Orlando Marquez Ayala*
 - **A Survey on Retrieval-Augmented Text Generation for Large Language
   Models**, `arXiv, 2404.10981`, [arxiv](http://arxiv.org/abs/2404.10981v1), [pdf](http://arxiv.org/pdf/2404.10981v1.pdf), cication: [**-1**](None)
 

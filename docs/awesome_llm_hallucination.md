@@ -9,6 +9,10 @@
 
 
 ## Survey
+- **Can We Catch the Elephant? The Evolvement of Hallucination Evaluation on
+  Natural Language Generation: A Survey**, `arXiv, 2404.12041`, [arxiv](http://arxiv.org/abs/2404.12041v1), [pdf](http://arxiv.org/pdf/2404.12041v1.pdf), cication: [**-1**](None)
+
+	 *Siya Qi, Yulan He, Zheng Yuan*
 - **A Survey on Hallucination in Large Vision-Language Models**, `arXiv, 2402.00253`, [arxiv](http://arxiv.org/abs/2402.00253v1), [pdf](http://arxiv.org/pdf/2402.00253v1.pdf), cication: [**-1**](None)
 
 	 *Hanchao Liu, Wenyuan Xue, Yifei Chen, Dapeng Chen, Xiutian Zhao, Ke Wang, Liping Hou, Rongjun Li, Wei Peng*

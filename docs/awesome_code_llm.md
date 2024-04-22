@@ -19,6 +19,13 @@
 	 *Ziyin Zhang, Chaoyu Chen, Bingchang Liu, Cong Liao, Zi Gong, Hang Yu, Jianguo Li, Rui Wang*
 
 ## Paper
+- **LLM-R2: A Large Language Model Enhanced Rule-based Rewrite System for
+  Boosting Query Efficiency**, `arXiv, 2404.12872`, [arxiv](http://arxiv.org/abs/2404.12872v1), [pdf](http://arxiv.org/pdf/2404.12872v1.pdf), cication: [**-1**](None)
+
+	 *Zhaodonghui Li, Haitao Yuan, Huiming Wang, Gao Cong, Lidong Bing*
+- **How Far Can We Go with Practical Function-Level Program Repair?**, `arXiv, 2404.12833`, [arxiv](http://arxiv.org/abs/2404.12833v1), [pdf](http://arxiv.org/pdf/2404.12833v1.pdf), cication: [**-1**](None)
+
+	 *Jiahong Xiang, Xiaoyang Xu, Fanchu Kong, Mingyuan Wu, Haotian Zhang, Yuqun Zhang*
 - **Behavior Trees Enable Structured Programming of Language Model Agents**, `arXiv, 2404.07439`, [arxiv](http://arxiv.org/abs/2404.07439v1), [pdf](http://arxiv.org/pdf/2404.07439v1.pdf), cication: [**-1**](None)
 
 	 *Richard Kelley*

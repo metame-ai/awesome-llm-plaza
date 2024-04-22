@@ -38,6 +38,7 @@
 # English
 
 ## Foundation
+
 - **Reka Core, Flash, and Edge: A Series of Powerful Multimodal Language
   Models**, `arXiv, 2404.12387`, [arxiv](http://arxiv.org/abs/2404.12387v1), [pdf](http://arxiv.org/pdf/2404.12387v1.pdf), cication: [**-1**](None)
 
@@ -506,6 +507,7 @@
  - [xverse/XVERSE-13B-256K · Hugging Face](https://huggingface.co/xverse/XVERSE-13B-256K)
  
 ### Qwen
+- [Fetching Title#lbon](https://huggingface.co/spaces/Qwen/Qwen1.5-110B-Chat-demo)
 - [**Qwen1.5-32B**](https://huggingface.co/Qwen/Qwen1.5-32B) - Qwen 🤗
 - [Qwen1.5-32B: Fitting the Capstone of the Qwen1.5 Language Model Series | Qwen](https://qwenlm.github.io/blog/qwen1.5-32b/)
 - [**Qwen-Agent**](https://github.com/QwenLM/Qwen-Agent) - QwenLM ![Star](https://img.shields.io/github/stars/QwenLM/Qwen-Agent.svg?style=social&label=Star)

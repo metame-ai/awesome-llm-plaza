@@ -27,6 +27,10 @@
 	- [Extra reference](#extra-reference)
 
 ## Survey
+- **State Space Model for New-Generation Network Alternative to
+  Transformers: A Survey**, `arXiv, 2404.09516`, [arxiv](http://arxiv.org/abs/2404.09516v1), [pdf](http://arxiv.org/pdf/2404.09516v1.pdf), cication: [**-1**](None)
+
+	 *Xiao Wang, Shiao Wang, Yuhe Ding, Yuehang Li, Wentao Wu, Yao Rong, Weizhe Kong, Ju Huang, Shihao Li, Haoxiang Yang*
 - **Multilingual Large Language Model: A Survey of Resources, Taxonomy and
   Frontiers**, `arXiv, 2404.04925`, [arxiv](http://arxiv.org/abs/2404.04925v1), [pdf](http://arxiv.org/pdf/2404.04925v1.pdf), cication: [**-1**](None)
 
@@ -436,6 +440,7 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652345558&idx=4&sn=95686435d5cad05d44cbe02bc26d6859))
 
 ## Interpretability 
+- [**llm-transparency-tool**](https://github.com/facebookresearch/llm-transparency-tool) - facebookresearch ![Star](https://img.shields.io/github/stars/facebookresearch/llm-transparency-tool.svg?style=social&label=Star)
 - **Compression Represents Intelligence Linearly**, `arXiv, 2404.09937`, [arxiv](http://arxiv.org/abs/2404.09937v1), [pdf](http://arxiv.org/pdf/2404.09937v1.pdf), cication: [**-1**](None)
 
 	 *Yuzhen Huang, Jinghan Zhang, Zifei Shan, Junxian He*

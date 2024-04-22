@@ -69,6 +69,9 @@
 - [贫穷让我预训练](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494110&idx=2&sn=52bfbf2d51d1704efc596263bccf23db)
 
 ## Scaling
+- **Chinchilla Scaling: A replication attempt**, `arXiv, 2404.10102`, [arxiv](http://arxiv.org/abs/2404.10102v1), [pdf](http://arxiv.org/pdf/2404.10102v1.pdf), cication: [**-1**](None)
+
+	 *Tamay Besiroglu, Ege Erdil, Matthew Barnett, Josh You*
 - **Physics of Language Models: Part 3.3, Knowledge Capacity Scaling Laws**, `arXiv, 2404.05405`, [arxiv](http://arxiv.org/abs/2404.05405v1), [pdf](http://arxiv.org/pdf/2404.05405v1.pdf), cication: [**-1**](None)
 
 	 *Zeyuan Allen-Zhu, Yuanzhi Li*
@@ -530,6 +533,7 @@
 	 *Adam Fisch, Amal Rannen-Triki, Razvan Pascanu, Jörg Bornschein, Angeliki Lazaridou, Elena Gribovskaya, Marc'Aurelio Ranzato*
 
 ## Courses
+- [Fetching Title#hxa6](https://magazine.sebastianraschka.com/p/using-and-finetuning-pretrained-transformers)
 - [Pathways 论文精读【论文精读】\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1xB4y1m7Xi/?spm_id_from=333.788&vd_source=1453a06a1e0b377f5c40946333b4423a)
 - [GPipe论文精读【论文精读】\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1v34y1E7zu/?spm_id_from=333.788&vd_source=1453a06a1e0b377f5c40946333b4423a)
 - [Megatron LM 论文精读【论文精读】\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1nB4y1R7Yz/?spm_id_from=333.788&vd_source=1453a06a1e0b377f5c40946333b4423a)

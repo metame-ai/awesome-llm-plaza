@@ -116,6 +116,7 @@
 	 · ([datablations](https://github.com/huggingface/datablations) - huggingface) ![Star](https://img.shields.io/github/stars/huggingface/datablations.svg?style=social&label=Star)
 
 ## Datasets
+- [Fetching Title#uol3](https://huggingface.co/datasets/HuggingFaceFW/fineweb)
 - [**idl-wds**](https://huggingface.co/datasets/pixparse/idl-wds) - pixparse 🤗
 - [**synthetic_text_to_sql**](https://huggingface.co/datasets/gretelai/synthetic_text_to_sql) - gretelai 🤗
 - [**Caselaw_Access_Project**](https://huggingface.co/datasets/TeraflopAI/Caselaw_Access_Project) - TeraflopAI 🤗
@@ -221,6 +222,7 @@
 
 
 ### MulitiMod
+- [Fetching Title#bdwr](https://huggingface.co/datasets/HuggingFaceM4/the_cauldron)
 - [**Let-It-Wag**](https://huggingface.co/datasets/bethgelab/Let-It-Wag) - bethgelab 🤗
 - **MAGID: An Automated Pipeline for Generating Synthetic Multi-modal
   Datasets**, `arXiv, 2403.03194`, [arxiv](http://arxiv.org/abs/2403.03194v1), [pdf](http://arxiv.org/pdf/2403.03194v1.pdf), cication: [**-1**](None)
@@ -272,6 +274,8 @@
 
 	 *Xiang Deng, Yu Gu, Boyuan Zheng, Shijie Chen, Samuel Stevens, Boshi Wang, Huan Sun, Yu Su*
 
+### Alignment
+- [Fetching Title#45ev](https://huggingface.co/datasets/argilla/Capybara-Preferences)
 ### Synthetic 
 - [**Genstruct-7B**](https://huggingface.co/NousResearch/Genstruct-7B) - NousResearch 🤗
 - [Cosmopedia: how to create large-scale synthetic data for pre-training Large Language Models](https://huggingface.co/blog/cosmopedia)
@@ -353,6 +357,9 @@
 	 *Hao Chen, Yiming Zhang, Qi Zhang, Hantao Yang, Xiaomeng Hu, Xuetao Ma, Yifan Yanggong, Junbo Zhao*
 
 ## Toolkits
+- [**desbordante-core**](https://github.com/Desbordante/desbordante-core) - Desbordante ![Star](https://img.shields.io/github/stars/Desbordante/desbordante-core.svg?style=social&label=Star)
+
+	 *Desbordante is a high-performance data profiler that is capable of discovering many different patterns in data using various algorithms. It also allows to run data cleaning scenarios using these algorithms. Desbordante has a console version and an easy-to-use web application.*
 - [**databonsai**](https://github.com/databonsai/databonsai) - databonsai ![Star](https://img.shields.io/github/stars/databonsai/databonsai.svg?style=social&label=Star)
 
 	 *clean & curate your data with LLMs.*

@@ -230,6 +230,9 @@
 
 	 *Kaijie Zhu, Jindong Wang, Jiaheng Zhou, Zichen Wang, Hao Chen, Yidong Wang, Linyi Yang, Wei Ye, Yue Zhang, Neil Zhenqiang Gong*
 ## Projects
+- [**PurpleLlama**](https://github.com/meta-llama/PurpleLlama) - meta-llama ![Star](https://img.shields.io/github/stars/meta-llama/PurpleLlama.svg?style=social&label=Star)
+
+	 *Set of tools to assess and improve LLM security.*
 - [**ps-fuzz**](https://github.com/prompt-security/ps-fuzz?tab=readme-ov-file) - prompt-security ![Star](https://img.shields.io/github/stars/prompt-security/ps-fuzz.svg?style=social&label=Star)
 
 	 *Make your GenAI Apps Safe & Secure Test & harden your system prompt*

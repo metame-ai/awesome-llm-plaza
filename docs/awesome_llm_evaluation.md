@@ -459,6 +459,9 @@
 	 *Lianmin Zheng, Wei-Lin Chiang, Ying Sheng, Siyuan Zhuang, Zhanghao Wu, Yonghao Zhuang, Zi Lin, Zhuohan Li, Dacheng Li, Eric. P Xing*
 
 ## Projects
+- [**arena-hard**](https://github.com/lm-sys/arena-hard) - lm-sys ![Star](https://img.shields.io/github/stars/lm-sys/arena-hard.svg?style=social&label=Star)
+
+	 · ([lmsys](https://lmsys.org/blog/2024-04-19-arena-hard/)) · ([huggingface](https://huggingface.co/spaces/lmsys/arena-hard-browser))
 - [**simple-evals**](https://github.com/openai/simple-evals) - openai ![Star](https://img.shields.io/github/stars/openai/simple-evals.svg?style=social&label=Star)
 - [**LeaderboardFinder**](https://huggingface.co/spaces/leaderboards/LeaderboardFinder) - leaderboards 🤗
 - [Introducing the Chatbot Guardrails Arena](https://huggingface.co/blog/arena-lighthouz)
@@ -524,6 +527,7 @@
 
 	 · [mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652343523&idx=1&sn=c87f0d7de8ffedeb2f04c7df67b5245b)]
 
+- [国内百模谁第一？清华14大LLM最新评测报告出炉，GLM-4、文心4.0站在第一梯队](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652468382&idx=2&sn=a377bc22b35f401e398dedb693f40a5c)
 - [这里的测评，主打一个快狠准](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494977&idx=1&sn=e2f84e5dea26f3c9065b5b5298d39fca)
 - [大模型知识&推理评估基准](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247493959&idx=1&sn=6df3d2398a59d1bb92ddde1ed7a62040)
 - [SuperCLUE中文大模型评测：商汤商量揽总榜、AI智能体两项第一 | 量子位](https://www.qbitai.com/2023/10/89814.html)

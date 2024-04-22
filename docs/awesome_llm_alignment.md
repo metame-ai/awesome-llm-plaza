@@ -32,6 +32,10 @@
 	 *Yufei Wang, Wanjun Zhong, Liangyou Li, Fei Mi, Xingshan Zeng, Wenyong Huang, Lifeng Shang, Xin Jiang, Qun Liu* · ([AlignLLMHumanSurvey](https://github.com/GaryYufei/AlignLLMHumanSurvey) - GaryYufei) ![Star](https://img.shields.io/github/stars/GaryYufei/AlignLLMHumanSurvey.svg?style=social&label=Star)
 
 ## Paper & Projects
+- **OpenBezoar: Small, Cost-Effective and Open Models Trained on Mixes of
+  Instruction Data**, `arXiv, 2404.12195`, [arxiv](http://arxiv.org/abs/2404.12195v1), [pdf](http://arxiv.org/pdf/2404.12195v1.pdf), cication: [**-1**](None)
+
+	 *Chandeepa Dissanayake, Lahiru Lowe, Sachith Gunasekara, Yasiru Ratnayake* · ([huggingface](https://huggingface.co/collections/SurgeGlobal/open-bezoar-6620a24923e12127e9e2b9cc))
 - **Learn Your Reference Model for Real Good Alignment**, `arXiv, 2404.09656`, [arxiv](http://arxiv.org/abs/2404.09656v1), [pdf](http://arxiv.org/pdf/2404.09656v1.pdf), cication: [**-1**](None)
 
 	 *Alexey Gorbatovski, Boris Shaposhnikov, Alexey Malakhov, Nikita Surnachev, Yaroslav Aksenov, Ian Maksimov, Nikita Balagansky, Daniil Gavrilov*
@@ -214,6 +218,9 @@
 	 *Timo Kaufmann, Paul Weng, Viktor Bengs, Eyke Hüllermeier*
 
 ## Papers
+- **Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study**, `arXiv, 2404.10719`, [arxiv](http://arxiv.org/abs/2404.10719v1), [pdf](http://arxiv.org/pdf/2404.10719v1.pdf), cication: [**-1**](None)
+
+	 *Shusheng Xu, Wei Fu, Jiaxuan Gao, Wenjie Ye, Weilin Liu, Zhiyu Mei, Guangju Wang, Chao Yu, Yi Wu*
 - **Reuse Your Rewards: Reward Model Transfer for Zero-Shot Cross-Lingual
   Alignment**, `arXiv, 2404.12318`, [arxiv](http://arxiv.org/abs/2404.12318v1), [pdf](http://arxiv.org/pdf/2404.12318v1.pdf), cication: [**-1**](None)
 

@@ -71,6 +71,9 @@
 	 *Code for paper LocalMamba: Visual State Space Model with Windowed Selective Scan*
 
 ### Video
+- **From Image to Video, what do we need in multimodal LLMs?**, `arXiv, 2404.11865`, [arxiv](http://arxiv.org/abs/2404.11865v1), [pdf](http://arxiv.org/pdf/2404.11865v1.pdf), cication: [**-1**](None)
+
+	 *Suyuan Huang, Haoxin Zhang, Yan Gao, Yao Hu, Zengchang Qin*
 - **Koala: Key frame-conditioned long video-LLM**, `arXiv, 2404.04346`, [arxiv](http://arxiv.org/abs/2404.04346v1), [pdf](http://arxiv.org/pdf/2404.04346v1.pdf), cication: [**-1**](None)
 
 	 *Reuben Tan, Ximeng Sun, Ping Hu, Jui-hsien Wang, Hanieh Deilamsalehy, Bryan A. Plummer, Bryan Russell, Kate Saenko*
@@ -206,6 +209,13 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
+- **TextSquare: Scaling up Text-Centric Visual Instruction Tuning**, `arXiv, 2404.12803`, [arxiv](http://arxiv.org/abs/2404.12803v1), [pdf](http://arxiv.org/pdf/2404.12803v1.pdf), cication: [**-1**](None)
+
+	 *Jingqun Tang, Chunhui Lin, Zhen Zhao, Shu Wei, Binghong Wu, Qi Liu, Hao Feng, Yang Li, Siqi Wang, Lei Liao*
+- **Groma: Localized Visual Tokenization for Grounding Multimodal Large
+  Language Models**, `arXiv, 2404.13013`, [arxiv](http://arxiv.org/abs/2404.13013v1), [pdf](http://arxiv.org/pdf/2404.13013v1.pdf), cication: [**-1**](None)
+
+	 *Chuofan Ma, Yi Jiang, Jiannan Wu, Zehuan Yuan, Xiaojuan Qi* · ([groma-mllm.github](https://groma-mllm.github.io))
 - **BLINK: Multimodal Large Language Models Can See but Not Perceive**, `arXiv, 2404.12390`, [arxiv](http://arxiv.org/abs/2404.12390v1), [pdf](http://arxiv.org/pdf/2404.12390v1.pdf), cication: [**-1**](None)
 
 	 *Xingyu Fu, Yushi Hu, Bangzheng Li, Yu Feng, Haoyu Wang, Xudong Lin, Dan Roth, Noah A. Smith, Wei-Chiu Ma, Ranjay Krishna*
