@@ -27,6 +27,9 @@
 	- [Extra reference](#extra-reference)
 
 ## Survey
+- **A Survey on Self-Evolution of Large Language Models**, `arXiv, 2404.14387`, [arxiv](http://arxiv.org/abs/2404.14387v1), [pdf](http://arxiv.org/pdf/2404.14387v1.pdf), cication: [**-1**](None)
+
+	 *Zhengwei Tao, Ting-En Lin, Xiancai Chen, Hangyu Li, Yuchuan Wu, Yongbin Li, Zhi Jin, Fei Huang, Dacheng Tao, Jingren Zhou*
 - **State Space Model for New-Generation Network Alternative to
   Transformers: A Survey**, `arXiv, 2404.09516`, [arxiv](http://arxiv.org/abs/2404.09516v1), [pdf](http://arxiv.org/pdf/2404.09516v1.pdf), cication: [**-1**](None)
 
@@ -440,6 +443,9 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652345558&idx=4&sn=95686435d5cad05d44cbe02bc26d6859))
 
 ## Interpretability 
+- **A Multimodal Automated Interpretability Agent**, `arXiv, 2404.14394`, [arxiv](http://arxiv.org/abs/2404.14394v1), [pdf](http://arxiv.org/pdf/2404.14394v1.pdf), cication: [**-1**](None)
+
+	 *Tamar Rott Shaham, Sarah Schwettmann, Franklin Wang, Achyuta Rajaram, Evan Hernandez, Jacob Andreas, Antonio Torralba*
 - [**llm-transparency-tool**](https://github.com/facebookresearch/llm-transparency-tool) - facebookresearch ![Star](https://img.shields.io/github/stars/facebookresearch/llm-transparency-tool.svg?style=social&label=Star)
 - **Compression Represents Intelligence Linearly**, `arXiv, 2404.09937`, [arxiv](http://arxiv.org/abs/2404.09937v1), [pdf](http://arxiv.org/pdf/2404.09937v1.pdf), cication: [**-1**](None)
 

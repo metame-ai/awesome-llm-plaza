@@ -159,6 +159,8 @@
 - [**Meta-Llama-3-8B-Instruct**](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct) - meta-llama 🤗
 - [**Meta-Llama-3-70B-Instruct**](https://huggingface.co/meta-llama/Meta-Llama-3-70B-Instruct) - meta-llama 🤗
 
+- [Site Unreachable](https://huggingface.co/abacusai/Llama-3-Smaug-8B)
+
 ### Jamba
 - **Jamba: A Hybrid Transformer-Mamba Language Model**, `arXiv, 2403.19887`, [arxiv](http://arxiv.org/abs/2403.19887v1), [pdf](http://arxiv.org/pdf/2403.19887v1.pdf), cication: [**-1**](None)
 
@@ -216,6 +218,10 @@
 - [**OLMo-7B-Instruct**](https://huggingface.co/allenai/OLMo-7B-Instruct) - allenai 🤗
 
 ### Phi
+- **Phi-3 Technical Report: A Highly Capable Language Model Locally on Your
+  Phone**, `arXiv, 2404.14219`, [arxiv](http://arxiv.org/abs/2404.14219v1), [pdf](http://arxiv.org/pdf/2404.14219v1.pdf), cication: [**-1**](None)
+
+	 *Marah Abdin, Sam Ade Jacobs, Ammar Ahmad Awan, Jyoti Aneja, Ahmed Awadallah, Hany Awadalla, Nguyen Bach, Amit Bahree, Arash Bakhtiari, Harkirat Behl*
 - [**phi-2**](https://huggingface.co/microsoft/phi-2) - microsoft 🤗
 - [**phi-1_5**](https://huggingface.co/microsoft/phi-1_5) - microsoft 🤗
 - [**phi-1**](https://huggingface.co/microsoft/phi-1) - microsoft 🤗
@@ -554,6 +560,9 @@
 	 *TigerBot: A multi-language multi-task LLM* · ([qbitai](https://www.qbitai.com/2023/06/59416.html))
 
 ## Finetuning
+- [**llama3-Chinese-chat**](https://github.com/CrazyBoyM/llama3-Chinese-chat) - CrazyBoyM ![Star](https://img.shields.io/github/stars/CrazyBoyM/llama3-Chinese-chat.svg?style=social&label=Star)
+
+	 *Llama3 中文仓库（聚合资料：各种网友及厂商微调、魔改版本有趣权重 & 训练、推理、部署教程视频 & 文档）*
 - **Rethinking LLM Language Adaptation: A Case Study on Chinese Mixtral**, `arXiv, 2403.01851`, [arxiv](http://arxiv.org/abs/2403.01851v1), [pdf](http://arxiv.org/pdf/2403.01851v1.pdf), cication: [**-1**](None)
 
 	 *Yiming Cui, Xin Yao* · ([Chinese-Mixtral](https://github.com/ymcui/Chinese-Mixtral) - ymcui) ![Star](https://img.shields.io/github/stars/ymcui/Chinese-Mixtral.svg?style=social&label=Star)

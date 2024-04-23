@@ -17,6 +17,9 @@
 	- [Efficient transformer](#efficient-transformer)
 
 ## Survey
+- **A Survey on Efficient Inference for Large Language Models**, `arXiv, 2404.14294`, [arxiv](http://arxiv.org/abs/2404.14294v1), [pdf](http://arxiv.org/pdf/2404.14294v1.pdf), cication: [**-1**](None)
+
+	 *Zixuan Zhou, Xuefei Ning, Ke Hong, Tianyu Fu, Jiaming Xu, Shiyao Li, Yuming Lou, Luning Wang, Zhihang Yuan, Xiuhong Li*
 - **A Survey on Knowledge Distillation of Large Language Models**, `arXiv, 2402.13116`, [arxiv](http://arxiv.org/abs/2402.13116v3), [pdf](http://arxiv.org/pdf/2402.13116v3.pdf), cication: [**-1**](None)
 
 	 *Xiaohan Xu, Ming Li, Chongyang Tao, Tao Shen, Reynold Cheng, Jinyang Li, Can Xu, Dacheng Tao, Tianyi Zhou* · ([Awesome-Knowledge-Distillation-of-LLMs](https://github.com/Tebmer/Awesome-Knowledge-Distillation-of-LLMs) - Tebmer) ![Star](https://img.shields.io/github/stars/Tebmer/Awesome-Knowledge-Distillation-of-LLMs.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-03-18))

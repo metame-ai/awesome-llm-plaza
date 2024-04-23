@@ -64,6 +64,9 @@
 	 *Stephen Casper, Jason Lin, Joe Kwon, Gatlen Culp, Dylan Hadfield-Menell*
 
 ## Papers
+- **LLM Agents can Autonomously Exploit One-day Vulnerabilities**, `arXiv, 2404.08144`, [arxiv](http://arxiv.org/abs/2404.08144v2), [pdf](http://arxiv.org/pdf/2404.08144v2.pdf), cication: [**-1**](None)
+
+	 *Richard Fang, Rohan Bindu, Akul Gupta, Daniel Kang* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&mid=2247567179&idx=1&sn=52b0e7927174e9c1e235b109165ce1e6))
 - **Introducing v0.5 of the AI Safety Benchmark from MLCommons**, `arXiv, 2404.12241`, [arxiv](http://arxiv.org/abs/2404.12241v1), [pdf](http://arxiv.org/pdf/2404.12241v1.pdf), cication: [**-1**](None)
 
 	 *Bertie Vidgen, Adarsh Agrawal, Ahmed M. Ahmed, Victor Akinwande, Namir Al-Nuaimi, Najla Alfaraj, Elie Alhajjar, Lora Aroyo, Trupti Bavalatti, Borhane Blili-Hamelin*

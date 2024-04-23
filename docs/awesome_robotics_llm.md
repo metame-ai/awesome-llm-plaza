@@ -277,6 +277,9 @@
 	 *Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao*
 
 ## Robotics
+- **Learning H-Infinity Locomotion Control**, `arXiv, 2404.14405`, [arxiv](http://arxiv.org/abs/2404.14405v1), [pdf](http://arxiv.org/pdf/2404.14405v1.pdf), cication: [**-1**](None)
+
+	 *Junfeng Long, Wenye Yu, Quanyi Li, Zirui Wang, Dahua Lin, Jiangmiao Pang*
 - **Body Design and Gait Generation of Chair-Type Asymmetrical Tripedal
   Low-rigidity Robot**, `arXiv, 2404.05932`, [arxiv](http://arxiv.org/abs/2404.05932v1), [pdf](http://arxiv.org/pdf/2404.05932v1.pdf), cication: [**-1**](None)
 

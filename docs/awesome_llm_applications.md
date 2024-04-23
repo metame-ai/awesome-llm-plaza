@@ -436,6 +436,7 @@
 	 *Derong Xu, Wei Chen, Wenjun Peng, Chao Zhang, Tong Xu, Xiangyu Zhao, Xian Wu, Yefeng Zheng, Enhong Chen* · ([awesome-llm4ie-papers](https://github.com/quqxui/awesome-llm4ie-papers) - quqxui) ![Star](https://img.shields.io/github/stars/quqxui/awesome-llm4ie-papers.svg?style=social&label=Star)
 
 ## Recommendation
+- [**recai**](https://github.com/microsoft/recai) - microsoft ![Star](https://img.shields.io/github/stars/microsoft/recai.svg?style=social&label=Star)
 - **Exploring the Impact of Large Language Models on Recommender Systems: An
   Extensive Review**, `arXiv, 2402.18590`, [arxiv](http://arxiv.org/abs/2402.18590v1), [pdf](http://arxiv.org/pdf/2402.18590v1.pdf), cication: [**-1**](None)
 

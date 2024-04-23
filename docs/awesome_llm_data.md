@@ -116,7 +116,8 @@
 	 · ([datablations](https://github.com/huggingface/datablations) - huggingface) ![Star](https://img.shields.io/github/stars/huggingface/datablations.svg?style=social&label=Star)
 
 ## Datasets
-- [Fetching Title#uol3](https://huggingface.co/datasets/HuggingFaceFW/fineweb)
+- [**RedPajama-Data**](https://github.com/togethercomputer/RedPajama-Data) - togethercomputer ![Star](https://img.shields.io/github/stars/togethercomputer/RedPajama-Data.svg?style=social&label=Star)
+- [Fetching Title#llec](https://huggingface.co/datasets/HuggingFaceFW/fineweb)
 - [**idl-wds**](https://huggingface.co/datasets/pixparse/idl-wds) - pixparse 🤗
 - [**synthetic_text_to_sql**](https://huggingface.co/datasets/gretelai/synthetic_text_to_sql) - gretelai 🤗
 - [**Caselaw_Access_Project**](https://huggingface.co/datasets/TeraflopAI/Caselaw_Access_Project) - TeraflopAI 🤗

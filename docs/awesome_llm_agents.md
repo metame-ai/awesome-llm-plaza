@@ -88,6 +88,9 @@
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-18-4))
 ## Agents
+- **FlowMind: Automatic Workflow Generation with LLMs**, `arXiv, 2404.13050`, [arxiv](http://arxiv.org/abs/2404.13050v1), [pdf](http://arxiv.org/pdf/2404.13050v1.pdf), cication: [**-1**](None)
+
+	 *Zhen Zeng, William Watson, Nicole Cho, Saba Rahimi, Shayleen Reynolds, Tucker Balch, Manuela Veloso*
 - [**maestro**](https://github.com/Doriandarko/maestro) - Doriandarko ![Star](https://img.shields.io/github/stars/Doriandarko/maestro.svg?style=social&label=Star)
 
 	 *A framework for Claude Opus to intelligently orchestrate subagents.*
@@ -612,6 +615,7 @@
 - [陈丹琦ACL学术报告来了！详解大模型「外挂」数据库7大方向3大挑战，3小时干货满满 | 量子位](https://www.qbitai.com/2023/07/67259.html)
 
 ## Web browsing
+- [**webllama**](https://github.com/McGill-NLP/webllama) - McGill-NLP ![Star](https://img.shields.io/github/stars/McGill-NLP/webllama.svg?style=social&label=Star)
 - **AutoCrawler: A Progressive Understanding Web Agent for Web Crawler
   Generation**, `arXiv, 2404.12753`, [arxiv](http://arxiv.org/abs/2404.12753v1), [pdf](http://arxiv.org/pdf/2404.12753v1.pdf), cication: [**-1**](None)
 
@@ -988,6 +992,9 @@
 - [问答场景常用大模型解决方案](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494688&idx=2&sn=d871403a80a7fcf656ce0100f266f939)
 
 ## Code Interpreter
+- [**instructor**](https://github.com/jxnl/instructor) - jxnl ![Star](https://img.shields.io/github/stars/jxnl/instructor.svg?style=social&label=Star)
+
+	 *structured outputs for llms*
 - [**FuzzTypes**](https://github.com/genomoncology/FuzzTypes) - genomoncology ![Star](https://img.shields.io/github/stars/genomoncology/FuzzTypes.svg?style=social&label=Star)
 
 	 *Pydantic extension for annotating autocorrecting fields.*

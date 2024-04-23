@@ -32,6 +32,10 @@
 	 *Yufei Wang, Wanjun Zhong, Liangyou Li, Fei Mi, Xingshan Zeng, Wenyong Huang, Lifeng Shang, Xin Jiang, Qun Liu* · ([AlignLLMHumanSurvey](https://github.com/GaryYufei/AlignLLMHumanSurvey) - GaryYufei) ![Star](https://img.shields.io/github/stars/GaryYufei/AlignLLMHumanSurvey.svg?style=social&label=Star)
 
 ## Paper & Projects
+- **The Instruction Hierarchy: Training LLMs to Prioritize Privileged
+  Instructions**, `arXiv, 2404.13208`, [arxiv](http://arxiv.org/abs/2404.13208v1), [pdf](http://arxiv.org/pdf/2404.13208v1.pdf), cication: [**-1**](None)
+
+	 *Eric Wallace, Kai Xiao, Reimar Leike, Lilian Weng, Johannes Heidecke, Alex Beutel*
 - **OpenBezoar: Small, Cost-Effective and Open Models Trained on Mixes of
   Instruction Data**, `arXiv, 2404.12195`, [arxiv](http://arxiv.org/abs/2404.12195v1), [pdf](http://arxiv.org/pdf/2404.12195v1.pdf), cication: [**-1**](None)
 
@@ -218,6 +222,9 @@
 	 *Timo Kaufmann, Paul Weng, Viktor Bengs, Eyke Hüllermeier*
 
 ## Papers
+- **From $r$ to $Q^*$: Your Language Model is Secretly a Q-Function**, `arXiv, 2404.12358`, [arxiv](http://arxiv.org/abs/2404.12358v1), [pdf](http://arxiv.org/pdf/2404.12358v1.pdf), cication: [**-1**](None)
+
+	 *Rafael Rafailov, Joey Hejna, Ryan Park, Chelsea Finn*
 - **Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study**, `arXiv, 2404.10719`, [arxiv](http://arxiv.org/abs/2404.10719v1), [pdf](http://arxiv.org/pdf/2404.10719v1.pdf), cication: [**-1**](None)
 
 	 *Shusheng Xu, Wei Fu, Jiaxuan Gao, Wenjie Ye, Weilin Liu, Zhiyu Mei, Guangju Wang, Chao Yu, Yi Wu*

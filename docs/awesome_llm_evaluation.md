@@ -28,6 +28,9 @@
 	 *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang*
 
 ## Papers
+- **How Good Are Low-bit Quantized LLaMA3 Models? An Empirical Study**, `arXiv, 2404.14047`, [arxiv](http://arxiv.org/abs/2404.14047v1), [pdf](http://arxiv.org/pdf/2404.14047v1.pdf), cication: [**-1**](None)
+
+	 *Wei Huang, Xudong Ma, Haotong Qin, Xingyu Zheng, Chengtao Lv, Hong Chen, Jie Luo, Xiaojuan Qi, Xianglong Liu, Michele Magno* · ([LLaMA3-Quantization](https://github.com/Macaronlin/LLaMA3-Quantization) - Macaronlin) ![Star](https://img.shields.io/github/stars/Macaronlin/LLaMA3-Quantization.svg?style=social&label=Star)
 - **Elephants Never Forget: Memorization and Learning of Tabular Data in
   Large Language Models**, `arXiv, 2404.06209`, [arxiv](http://arxiv.org/abs/2404.06209v1), [pdf](http://arxiv.org/pdf/2404.06209v1.pdf), cication: [**-1**](None)
 
@@ -459,9 +462,12 @@
 	 *Lianmin Zheng, Wei-Lin Chiang, Ying Sheng, Siyuan Zhuang, Zhanghao Wu, Yonghao Zhuang, Zi Lin, Zhuohan Li, Dacheng Li, Eric. P Xing*
 
 ## Projects
+- [Introducing the Open Chain of Thought Leaderboard](https://huggingface.co/blog/leaderboard-cot)
 - [**arena-hard**](https://github.com/lm-sys/arena-hard) - lm-sys ![Star](https://img.shields.io/github/stars/lm-sys/arena-hard.svg?style=social&label=Star)
 
 	 · ([lmsys](https://lmsys.org/blog/2024-04-19-arena-hard/)) · ([huggingface](https://huggingface.co/spaces/lmsys/arena-hard-browser))
+
+	 · ([qbitai](https://www.qbitai.com/2024/04/136831.html))
 - [**simple-evals**](https://github.com/openai/simple-evals) - openai ![Star](https://img.shields.io/github/stars/openai/simple-evals.svg?style=social&label=Star)
 - [**LeaderboardFinder**](https://huggingface.co/spaces/leaderboards/LeaderboardFinder) - leaderboards 🤗
 - [Introducing the Chatbot Guardrails Arena](https://huggingface.co/blog/arena-lighthouz)
@@ -509,6 +515,8 @@
 	 · [huggingface](https://huggingface.co/blog/evaluating-mmlu-leaderboard)]
 
 ## Other
+- [One of the most popular evaluation strategies is LLM-as-a-judge, which uses GPT-4 to evaluate model quality](https://twitter.com/cwolferesearch/status/1782453549223321660)
+- [Evaluation & Hallucination Detection for Abstractive Summaries](https://eugeneyan.com/writing/abstractive/)
 - [Measuring the Persuasiveness of Language Models](https://www.anthropic.com/news/measuring-model-persuasiveness)
 - [Introducing the Red-Teaming Resistance Leaderboard](https://huggingface.co/blog/leaderboards-on-the-hub-haizelab)
 - [Stanford CS25: V3 I Recipe for Training Helpful Chatbots - YouTube](https://youtu.be/mcep6W8oB1I?t=2069)

@@ -209,6 +209,10 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
+- **SEED-X: Multimodal Models with Unified Multi-granularity Comprehension
+  and Generation**, `arXiv, 2404.14396`, [arxiv](http://arxiv.org/abs/2404.14396v1), [pdf](http://arxiv.org/pdf/2404.14396v1.pdf), cication: [**-1**](None)
+
+	 *Yuying Ge, Sijie Zhao, Jinguo Zhu, Yixiao Ge, Kun Yi, Lin Song, Chen Li, Xiaohan Ding, Ying Shan* · ([SEED-X](https://github.com/AILab-CVC/SEED-X) - AILab-CVC) ![Star](https://img.shields.io/github/stars/AILab-CVC/SEED-X.svg?style=social&label=Star)
 - **TextSquare: Scaling up Text-Centric Visual Instruction Tuning**, `arXiv, 2404.12803`, [arxiv](http://arxiv.org/abs/2404.12803v1), [pdf](http://arxiv.org/pdf/2404.12803v1.pdf), cication: [**-1**](None)
 
 	 *Jingqun Tang, Chunhui Lin, Zhen Zhao, Shu Wei, Binghong Wu, Qi Liu, Hao Feng, Yang Li, Siqi Wang, Lei Liao*
