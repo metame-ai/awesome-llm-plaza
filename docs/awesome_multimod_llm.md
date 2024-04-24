@@ -71,6 +71,9 @@
 	 *Code for paper LocalMamba: Visual State Space Model with Windowed Selective Scan*
 
 ### Video
+- **Pegasus-v1 Technical Report**, `arXiv, 2404.14687`, [arxiv](http://arxiv.org/abs/2404.14687v1), [pdf](http://arxiv.org/pdf/2404.14687v1.pdf), cication: [**-1**](None)
+
+	 *Raehyuk Jung, Hyojun Go, Jaehyuk Yi, Jiho Jang, Daniel Kim, Jay Suh, Aiden Lee, Cooper Han, Jae Lee, Jeff Kim* · ([twelvelabs](https://www.twelvelabs.io/blog/upgrading-pegasus-1))
 - **From Image to Video, what do we need in multimodal LLMs?**, `arXiv, 2404.11865`, [arxiv](http://arxiv.org/abs/2404.11865v1), [pdf](http://arxiv.org/pdf/2404.11865v1.pdf), cication: [**-1**](None)
 
 	 *Suyuan Huang, Haoxin Zhang, Yan Gao, Yao Hu, Zengchang Qin*
@@ -1106,6 +1109,7 @@
 
 	 *Mingsheng Li, Xin Chen, Chi Zhang, Sijin Chen, Hongyuan Zhu, Fukun Yin, Gang Yu, Tao Chen*
 ## Projects
+- [**llava-llama-3-8b-v1_1**](https://huggingface.co/xtuner/llava-llama-3-8b-v1_1) - xtuner 🤗
 - [Idefics2 🐶 - a HuggingFaceM4 Collection](https://huggingface.co/collections/HuggingFaceM4/idefics2-661d1971b7c50831dd3ce0fe)
 
 	 · ([huggingface](https://huggingface.co/blog/idefics2))

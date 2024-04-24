@@ -53,7 +53,10 @@
 	 *Jean Kaddour, Joshua Harris, Maximilian Mozes, Herbie Bradley, Roberta Raileanu, Robert McHardy* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzIyMzk1MDE3Nw==&mid=2247606793&idx=3&sn=18419cbc44c054126d80ab6f2104c6b9))
 - [Navigating the Jagged Technological Frontier: Field Experimental Evidence of the Effects of AI on Knowledge Worker Productivity and Quality](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4573321)
 
-## Toolkits
+## Toolkits 
+- [**kimi-free-api**](https://github.com/LLM-Red-Team/kimi-free-api) - LLM-Red-Team ![Star](https://img.shields.io/github/stars/LLM-Red-Team/kimi-free-api.svg?style=social&label=Star)
+
+	 *🚀 KIMI AI 长文本大模型逆向API白嫖测试【特长：长文本解读整理】，支持高速流式输出、联网搜索、长文档解读、图像解析、多轮对话，零配置部署，多路token支持，自动清理会话痕迹。*
 - [**LocalAI**](https://github.com/mudler/LocalAI) - mudler ![Star](https://img.shields.io/github/stars/mudler/LocalAI.svg?style=social&label=Star)
 - [**FreeGPT35**](https://github.com/missuo/FreeGPT35) - missuo ![Star](https://img.shields.io/github/stars/missuo/FreeGPT35.svg?style=social&label=Star)
 
@@ -849,6 +852,9 @@
 	 *Ethan Callanan, Amarachi Mbakwe, Antony Papadimitriou, Yulong Pei, Mathieu Sibue, Xiaodan Zhu, Zhiqiang Ma, Xiaomo Liu, Sameena Shah*
 
 ## Data Related
+- [**llm-scraper**](https://github.com/mishushakov/llm-scraper?tab=readme-ov-file) - mishushakov ![Star](https://img.shields.io/github/stars/mishushakov/llm-scraper.svg?style=social&label=Star)
+
+	 *Turn any webpage into structured data using LLMs*
 - [**duckdb-nsql-7b**](https://huggingface.co/blog/duckdb-nsql-7b) -  🤗
 - **DS-Agent: Automated Data Science by Empowering Large Language Models
   with Case-Based Reasoning**, `arXiv, 2402.17453`, [arxiv](http://arxiv.org/abs/2402.17453v2), [pdf](http://arxiv.org/pdf/2402.17453v2.pdf), cication: [**-1**](None)

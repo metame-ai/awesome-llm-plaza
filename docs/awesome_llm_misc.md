@@ -443,6 +443,9 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652345558&idx=4&sn=95686435d5cad05d44cbe02bc26d6859))
 
 ## Interpretability 
+- **Transformers Can Represent $n$-gram Language Models**, `arXiv, 2404.14994`, [arxiv](http://arxiv.org/abs/2404.14994v1), [pdf](http://arxiv.org/pdf/2404.14994v1.pdf), cication: [**-1**](None)
+
+	 *Anej Svete, Ryan Cotterell*
 - **A Multimodal Automated Interpretability Agent**, `arXiv, 2404.14394`, [arxiv](http://arxiv.org/abs/2404.14394v1), [pdf](http://arxiv.org/pdf/2404.14394v1.pdf), cication: [**-1**](None)
 
 	 *Tamar Rott Shaham, Sarah Schwettmann, Franklin Wang, Achyuta Rajaram, Evan Hernandez, Jacob Andreas, Antonio Torralba*

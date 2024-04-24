@@ -32,6 +32,12 @@
 	 *Adyasha Maharana, Dong-Ho Lee, Sergey Tulyakov, Mohit Bansal, Francesco Barbieri, Yuwei Fang*
 
 ## Papers
+- **SnapKV: LLM Knows What You are Looking for Before Generation**, `arXiv, 2404.14469`, [arxiv](http://arxiv.org/abs/2404.14469v1), [pdf](http://arxiv.org/pdf/2404.14469v1.pdf), cication: [**-1**](None)
+
+	 *Yuhong Li, Yingbing Huang, Bowen Yang, Bharat Venkitesh, Acyr Locatelli, Hanchen Ye, Tianle Cai, Patrick Lewis, Deming Chen* · ([SnapKV](https://github.com/FasterDecoding/SnapKV) - FasterDecoding) ![Star](https://img.shields.io/github/stars/FasterDecoding/SnapKV.svg?style=social&label=Star)
+- **LongEmbed: Extending Embedding Models for Long Context Retrieval**, `arXiv, 2404.12096`, [arxiv](http://arxiv.org/abs/2404.12096v1), [pdf](http://arxiv.org/pdf/2404.12096v1.pdf), cication: [**-1**](None)
+
+	 *Dawei Zhu, Liang Wang, Nan Yang, Yifan Song, Wenhao Wu, Furu Wei, Sujian Li* · ([LongEmbed](https://github.com/dwzhu-pku/LongEmbed/blob/main) - dwzhu-pku) ![Star](https://img.shields.io/github/stars/dwzhu-pku/LongEmbed.svg?style=social&label=Star)
 - **Megalodon: Efficient LLM Pretraining and Inference with Unlimited
   Context Length**, `arXiv, 2404.08801`, [arxiv](http://arxiv.org/abs/2404.08801v1), [pdf](http://arxiv.org/pdf/2404.08801v1.pdf), cication: [**-1**](None)
 

@@ -707,6 +707,13 @@
 - [GPT-4V学会用键鼠上网，人类眼睁睁看着它发帖玩游戏 | 量子位](https://www.qbitai.com/2023/11/95456.html)
 
 ## Retrieval agumented generation
+- **Superposition Prompting: Improving and Accelerating Retrieval-Augmented
+  Generation**, `arXiv, 2404.06910`, [arxiv](http://arxiv.org/abs/2404.06910v1), [pdf](http://arxiv.org/pdf/2404.06910v1.pdf), cication: [**-1**](None)
+
+	 *Thomas Merth, Qichen Fu, Mohammad Rastegari, Mahyar Najibi*
+- [**goku**](https://github.com/aishwaryaprabhat/goku/tree/main/goku/dream) - aishwaryaprabhat ![Star](https://img.shields.io/github/stars/aishwaryaprabhat/goku.svg?style=social&label=Star)
+
+	 · ([linkedin](https://t.co/twl5N4tAkM))
 - **Reducing hallucination in structured outputs via Retrieval-Augmented
   Generation**, `arXiv, 2404.08189`, [arxiv](http://arxiv.org/abs/2404.08189v1), [pdf](http://arxiv.org/pdf/2404.08189v1.pdf), cication: [**-1**](None)
 
@@ -949,10 +956,11 @@
 - [**contrastors**](https://github.com/nomic-ai/contrastors) - nomic-ai ![Star](https://img.shields.io/github/stars/nomic-ai/contrastors.svg?style=social&label=Star)
 
 	 *Train Models Contrastively in Pytorch* · ([huggingface](https://huggingface.co/nomic-ai/nomic-embed-text-v1)) · ([mp.weixin.qq](https://mp.weixin.qq.com/s/EMWNf9TiDwuxxkwwqsl73g))
-- [Fetching Title#xtq8](https://txt.cohere.com/introducing-embed-v3/)
 
 ---
-- [Fetching Title#ll4n](https://www.eyelevel.ai/post/most-accurate-rag)
+- [Smaller, Faster, Cheaper: Introducing Jina Rerankers Turbo and Tiny](https://jina.ai/news/smaller-faster-cheaper-jina-rerankers-turbo-and-tiny/)
+- [Advanced RAG 10: Corrective Retrieval Augmented Generation (CRAG) | by Florian June | Apr, 2024 | AI Advances](https://ai.gopubby.com/advanced-rag-10-corrective-retrieval-augmented-generation-crag-3f5a140796f9)
+- [World's Most Accurate RAG? Langchain/Pinecone, LlamaIndex and EyeLevel Duke it Out](https://www.eyelevel.ai/post/most-accurate-rag)
 - [Unlocking the Power of Multi-Document Agents with LlamaIndex | by Ankush k Singal | Apr, 2024 | AI Advances](https://ai.gopubby.com/unlocking-the-power-of-multi-document-agents-with-llamaindex-d09e4d7dfe0e)
 
 

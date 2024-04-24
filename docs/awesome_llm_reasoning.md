@@ -398,6 +398,10 @@
 - [大模型Fewshot推理如何选择更好的示例](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495177&idx=2&sn=fe8353efed16a81e35462be06d5a6cea)
 
 ## Math reasoning
+- **Achieving >97% on GSM8K: Deeply Understanding the Problems Makes LLMs
+  Perfect Reasoners**, `arXiv, 2404.14963`, [arxiv](http://arxiv.org/abs/2404.14963v1), [pdf](http://arxiv.org/pdf/2404.14963v1.pdf), cication: [**-1**](None)
+
+	 *Qihuang Zhong, Kang Wang, Ziyang Xu, Juhua Liu, Liang Ding, Bo Du, Dacheng Tao*
 - **Towards Large Language Models as Copilots for Theorem Proving in Lean**, `arXiv, 2404.12534`, [arxiv](http://arxiv.org/abs/2404.12534v1), [pdf](http://arxiv.org/pdf/2404.12534v1.pdf), cication: [**-1**](None)
 
 	 *Peiyang Song, Kaiyu Yang, Anima Anandkumar* · ([LeanCopilot](https://github.com/lean-dojo/LeanCopilot) - lean-dojo) ![Star](https://img.shields.io/github/stars/lean-dojo/LeanCopilot.svg?style=social&label=Star)

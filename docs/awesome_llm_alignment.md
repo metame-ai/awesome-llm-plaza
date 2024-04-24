@@ -32,6 +32,7 @@
 	 *Yufei Wang, Wanjun Zhong, Liangyou Li, Fei Mi, Xingshan Zeng, Wenyong Huang, Lifeng Shang, Xin Jiang, Qun Liu* · ([AlignLLMHumanSurvey](https://github.com/GaryYufei/AlignLLMHumanSurvey) - GaryYufei) ![Star](https://img.shields.io/github/stars/GaryYufei/AlignLLMHumanSurvey.svg?style=social&label=Star)
 
 ## Paper & Projects
+- [Simple probes can catch sleeper agents \\ Anthropic](https://www.anthropic.com/research/probes-catch-sleeper-agents)
 - **The Instruction Hierarchy: Training LLMs to Prioritize Privileged
   Instructions**, `arXiv, 2404.13208`, [arxiv](http://arxiv.org/abs/2404.13208v1), [pdf](http://arxiv.org/pdf/2404.13208v1.pdf), cication: [**-1**](None)
 

@@ -354,6 +354,7 @@
 	 *Dongfu Jiang, Xiang Ren, Bill Yuchen Lin* · ([LLM-Blender](https://github.com/yuchenlin/LLM-Blender) - yuchenlin) ![Star](https://img.shields.io/github/stars/yuchenlin/LLM-Blender.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652343982&idx=4&sn=ce5c51039d91531178257024d883db90))
 
 ### Other
+- [Evolutionary Model Merging For All](https://blog.arcee.ai/tutorial-tutorial-how-to-get-started-with-evolutionary-model-merging/)
 - [**mergekit-gui**](https://huggingface.co/spaces/julien-c/mergekit-gui) - julien-c 🤗
 - [Model merging lessons in The Waifu Research Department](https://www.interconnects.ai/p/model-merging)
 - [Model Merging - a osanseviero Collection](https://huggingface.co/collections/osanseviero/model-merging-65097893623330a3a51ead66)
@@ -361,6 +362,9 @@
 - [Weight averaging and model merging for LLMs seem to be the most interesting themes in 2024 so far. ](https://twitter.com/rasbt/status/1750180383398744106)
 
 ## MoE
+- **Multi-Head Mixture-of-Experts**, `arXiv, 2404.15045`, [arxiv](http://arxiv.org/abs/2404.15045v1), [pdf](http://arxiv.org/pdf/2404.15045v1.pdf), cication: [**-1**](None)
+
+	 *Xun Wu, Shaohan Huang, Wenhui Wang, Furu Wei*
 - [**mergoo**](https://github.com/Leeroo-AI/mergoo) - Leeroo-AI ![Star](https://img.shields.io/github/stars/Leeroo-AI/mergoo.svg?style=social&label=Star)
 
 	 *A library for easily merging multiple LLM experts, and efficiently train the merged LLM.*
@@ -456,6 +460,7 @@
 	 *Noam Shazeer, Azalia Mirhoseini, Krzysztof Maziarz, Andy Davis, Quoc Le, Geoffrey Hinton, Jeff Dean*
 
 ### Other
+- [How do mixture-of-experts layers affect transformer models? - Stack Overflow](https://stackoverflow.blog/2024/04/04/how-do-mixture-of-experts-layers-affect-transformer-models)
 - [Accelerating MoE model inference with Locality-Aware Kernel Design | PyTorch](https://pytorch.org/blog/accelerating-moe-model/?utm_content=288416924&utm_medium=social&utm_source=twitter&hss_channel=tw-776585502606721024)
 - [a mini-tutorial on three types of Mixture of Experts (MoE): Pre-trained MoE, upcycled MoEs, and FrankenMoEs](https://twitter.com/osanseviero/status/1773360705682411750?utm_source=ainews&utm_medium=email&utm_campaign=ainews-evals-based-ai-engineering)
 - [**makeMoE**](https://github.com/AviSoori1x/makeMoE/tree/main) - AviSoori1x ![Star](https://img.shields.io/github/stars/AviSoori1x/makeMoE.svg?style=social&label=Star)
@@ -474,6 +479,12 @@
 	 *Juhao Liang, Ziwei Wang, Zhuoheng Ma, Jianquan Li, Zhiyi Zhang, Xiangbo Wu, Benyou Wang*
 
 ## Toolkits
+- [**xtuner**](https://github.com/InternLM/xtuner) - InternLM ![Star](https://img.shields.io/github/stars/InternLM/xtuner.svg?style=social&label=Star)
+
+	 *An efficient, flexible and full-featured toolkit for fine-tuning large models (InternLM, Llama, Baichuan, Qwen, ChatGLM)*
+- [**corenet**](https://github.com/apple/corenet) - apple ![Star](https://img.shields.io/github/stars/apple/corenet.svg?style=social&label=Star)
+
+	 *CoreNet: A library for training deep neural networks*
 - [**maxtext**](https://github.com/google/maxtext) - google ![Star](https://img.shields.io/github/stars/google/maxtext.svg?style=social&label=Star)
 
 	 *A simple, performant and scalable Jax LLM!*

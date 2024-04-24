@@ -17,6 +17,10 @@
 	- [Efficient transformer](#efficient-transformer)
 
 ## Survey
+- **Beyond the Speculative Game: A Survey of Speculative Execution in Large
+  Language Models**, `arXiv, 2404.14897`, [arxiv](http://arxiv.org/abs/2404.14897v1), [pdf](http://arxiv.org/pdf/2404.14897v1.pdf), cication: [**-1**](None)
+
+	 *Chen Zhang, Zhuorui Liu, Dawei Song*
 - **A Survey on Efficient Inference for Large Language Models**, `arXiv, 2404.14294`, [arxiv](http://arxiv.org/abs/2404.14294v1), [pdf](http://arxiv.org/pdf/2404.14294v1.pdf), cication: [**-1**](None)
 
 	 *Zixuan Zhou, Xuefei Ning, Ke Hong, Tianyu Fu, Jiaming Xu, Shiyao Li, Yuming Lou, Luning Wang, Zhihang Yuan, Xiuhong Li*
@@ -439,6 +443,7 @@
 	 *Shufang Xie, Huishuai Zhang, Junliang Guo, Xu Tan, Jiang Bian, Hany Hassan Awadalla, Arul Menezes, Tao Qin, Rui Yan* · ([ResiDual](https://github.com/microsoft/ResiDual) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/ResiDual.svg?style=social&label=Star)
 
 ## Efficient Inference
+
 - **TriForce: Lossless Acceleration of Long Sequence Generation with
   Hierarchical Speculative Decoding**, `arXiv, 2404.11912`, [arxiv](http://arxiv.org/abs/2404.11912v1), [pdf](http://arxiv.org/pdf/2404.11912v1.pdf), cication: [**-1**](None)
 

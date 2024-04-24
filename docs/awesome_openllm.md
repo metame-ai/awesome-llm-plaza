@@ -38,7 +38,10 @@
 # English
 
 ## Foundation
+- **OpenELM: An Efficient Language Model Family with Open-source Training
+  and Inference Framework**, `arXiv, 2404.14619`, [arxiv](http://arxiv.org/abs/2404.14619v1), [pdf](http://arxiv.org/pdf/2404.14619v1.pdf), cication: [**-1**](None)
 
+	 *Sachin Mehta, Mohammad Hossein Sekhavat, Qingqing Cao, Maxwell Horton, Yanzi Jin, Chenfan Sun, Iman Mirzadeh, Mahyar Najibi, Dmitry Belenko, Peter Zatloukal* · ([huggingface](https://huggingface.co/apple/OpenELM)) · ([corenet](https://github.com/apple/corenet) - apple) ![Star](https://img.shields.io/github/stars/apple/corenet.svg?style=social&label=Star)
 - **Reka Core, Flash, and Edge: A Series of Powerful Multimodal Language
   Models**, `arXiv, 2404.12387`, [arxiv](http://arxiv.org/abs/2404.12387v1), [pdf](http://arxiv.org/pdf/2404.12387v1.pdf), cication: [**-1**](None)
 
@@ -159,7 +162,9 @@
 - [**Meta-Llama-3-8B-Instruct**](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct) - meta-llama 🤗
 - [**Meta-Llama-3-70B-Instruct**](https://huggingface.co/meta-llama/Meta-Llama-3-70B-Instruct) - meta-llama 🤗
 
-- [Site Unreachable](https://huggingface.co/abacusai/Llama-3-Smaug-8B)
+- [**Llama-3-Smaug-8B**](https://huggingface.co/abacusai/Llama-3-Smaug-8B) - abacusai 🤗
+- [**Llama-3-8B-16K**](https://huggingface.co/mattshumer/Llama-3-8B-16K) - mattshumer 🤗
+- [**Llama-3-8B-Special-Tokens-Adjusted**](https://huggingface.co/astronomer/Llama-3-8B-Special-Tokens-Adjusted) - astronomer 🤗
 
 ### Jamba
 - **Jamba: A Hybrid Transformer-Mamba Language Model**, `arXiv, 2403.19887`, [arxiv](http://arxiv.org/abs/2403.19887v1), [pdf](http://arxiv.org/pdf/2403.19887v1.pdf), cication: [**-1**](None)
@@ -218,6 +223,7 @@
 - [**OLMo-7B-Instruct**](https://huggingface.co/allenai/OLMo-7B-Instruct) - allenai 🤗
 
 ### Phi
+- [**models**](https://huggingface.co/models?other=phi3&sort=trending&search=microsoft) -  🤗
 - **Phi-3 Technical Report: A Highly Capable Language Model Locally on Your
   Phone**, `arXiv, 2404.14219`, [arxiv](http://arxiv.org/abs/2404.14219v1), [pdf](http://arxiv.org/pdf/2404.14219v1.pdf), cication: [**-1**](None)
 
@@ -560,6 +566,9 @@
 	 *TigerBot: A multi-language multi-task LLM* · ([qbitai](https://www.qbitai.com/2023/06/59416.html))
 
 ## Finetuning
+- [**Llama-Chinese**](https://github.com/LlamaFamily/Llama-Chinese) - LlamaFamily ![Star](https://img.shields.io/github/stars/LlamaFamily/Llama-Chinese.svg?style=social&label=Star)
+
+	 *Llama中文社区，Llama3在线体验和微调模型已开放，实时汇总最新Llama3学习资料，已将所有代码更新适配Llama3，构建最好的中文Llama大模型，完全开源可商用*
 - [**llama3-Chinese-chat**](https://github.com/CrazyBoyM/llama3-Chinese-chat) - CrazyBoyM ![Star](https://img.shields.io/github/stars/CrazyBoyM/llama3-Chinese-chat.svg?style=social&label=Star)
 
 	 *Llama3 中文仓库（聚合资料：各种网友及厂商微调、魔改版本有趣权重 & 训练、推理、部署教程视频 & 文档）*
