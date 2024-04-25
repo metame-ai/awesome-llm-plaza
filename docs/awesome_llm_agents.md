@@ -707,6 +707,9 @@
 - [GPT-4V学会用键鼠上网，人类眼睁睁看着它发帖玩游戏 | 量子位](https://www.qbitai.com/2023/11/95456.html)
 
 ## Retrieval agumented generation
+- [**phidata**](https://github.com/phidatahq/phidata) - phidatahq ![Star](https://img.shields.io/github/stars/phidatahq/phidata.svg?style=social&label=Star)
+
+	 *Add memory, knowledge and tools to LLMs*
 - **Superposition Prompting: Improving and Accelerating Retrieval-Augmented
   Generation**, `arXiv, 2404.06910`, [arxiv](http://arxiv.org/abs/2404.06910v1), [pdf](http://arxiv.org/pdf/2404.06910v1.pdf), cication: [**-1**](None)
 

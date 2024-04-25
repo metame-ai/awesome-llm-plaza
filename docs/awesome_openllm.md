@@ -38,6 +38,9 @@
 # English
 
 ## Foundation
+- [Snowflake Arctic: The Best LLM for Enterprise AI — Efficiently Intelligent, Truly Open](https://www.snowflake.com/blog/arctic-open-efficient-foundation-language-models-snowflake/)
+
+	 · ([snowflake-arctic](https://github.com/Snowflake-Labs/snowflake-arctic) - Snowflake-Labs) ![Star](https://img.shields.io/github/stars/Snowflake-Labs/snowflake-arctic.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/Snowflake/snowflake-arctic-instruct)) · ([twitter](https://twitter.com/_philschmid/status/1783140561483960620))
 - **OpenELM: An Efficient Language Model Family with Open-source Training
   and Inference Framework**, `arXiv, 2404.14619`, [arxiv](http://arxiv.org/abs/2404.14619v1), [pdf](http://arxiv.org/pdf/2404.14619v1.pdf), cication: [**-1**](None)
 
@@ -165,6 +168,7 @@
 - [**Llama-3-Smaug-8B**](https://huggingface.co/abacusai/Llama-3-Smaug-8B) - abacusai 🤗
 - [**Llama-3-8B-16K**](https://huggingface.co/mattshumer/Llama-3-8B-16K) - mattshumer 🤗
 - [**Llama-3-8B-Special-Tokens-Adjusted**](https://huggingface.co/astronomer/Llama-3-8B-Special-Tokens-Adjusted) - astronomer 🤗
+- [Google Colab](https://colab.research.google.com/drive/1aqlNQi7MMJbynFDyOQteD2t0yVfjb9Zh?usp=sharing)
 
 ### Jamba
 - **Jamba: A Hybrid Transformer-Mamba Language Model**, `arXiv, 2403.19887`, [arxiv](http://arxiv.org/abs/2403.19887v1), [pdf](http://arxiv.org/pdf/2403.19887v1.pdf), cication: [**-1**](None)

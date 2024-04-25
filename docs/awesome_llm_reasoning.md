@@ -398,6 +398,9 @@
 - [大模型Fewshot推理如何选择更好的示例](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495177&idx=2&sn=fe8353efed16a81e35462be06d5a6cea)
 
 ## Math reasoning
+- **Rho-1: Not All Tokens Are What You Need**, `arXiv, 2404.07965`, [arxiv](http://arxiv.org/abs/2404.07965v1), [pdf](http://arxiv.org/pdf/2404.07965v1.pdf), cication: [**-1**](None)
+
+	 *Zhenghao Lin, Zhibin Gou, Yeyun Gong, Xiao Liu, Yelong Shen, Ruochen Xu, Chen Lin, Yujiu Yang, Jian Jiao, Nan Duan* · ([huggingface](https://huggingface.co/microsoft/rho-math-7b-interpreter-v0.1))
 - **Achieving >97% on GSM8K: Deeply Understanding the Problems Makes LLMs
   Perfect Reasoners**, `arXiv, 2404.14963`, [arxiv](http://arxiv.org/abs/2404.14963v1), [pdf](http://arxiv.org/pdf/2404.14963v1.pdf), cication: [**-1**](None)
 

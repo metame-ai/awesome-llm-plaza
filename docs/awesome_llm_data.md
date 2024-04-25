@@ -142,6 +142,10 @@
 - [**peS2o**](https://huggingface.co/datasets/allenai/peS2o) - allenai 🤗
 
 ### Misc
+- **CultureBank: An Online Community-Driven Knowledge Base Towards
+  Culturally Aware Language Technologies**, `arXiv, 2404.15238`, [arxiv](http://arxiv.org/abs/2404.15238v1), [pdf](http://arxiv.org/pdf/2404.15238v1.pdf), cication: [**-1**](None)
+
+	 *Weiyan Shi, Ryan Li, Yutong Zhang, Caleb Ziems, Chunhua yu, Raya Horesh, Rogério Abreu de Paula, Diyi Yang* · ([culturebank.github](https://culturebank.github.io/))
 - **COIG-CQIA: Quality is All You Need for Chinese Instruction Fine-tuning**, `arXiv, 2403.18058`, [arxiv](http://arxiv.org/abs/2403.18058v1), [pdf](http://arxiv.org/pdf/2403.18058v1.pdf), cication: [**-1**](None)
 
 	 *Yuelin Bai, Xinrun Du, Yiming Liang, Yonggang Jin, Ziqiang Liu, Junting Zhou, Tianyu Zheng, Xincheng Zhang, Nuo Ma, Zekun Wang* · ([huggingface](https://huggingface.co/datasets/m-a-p/COIG-CQIA)) · ([COIG-CQIA](https://github.com/paralym/COIG-CQIA) - paralym) ![Star](https://img.shields.io/github/stars/paralym/COIG-CQIA.svg?style=social&label=Star)

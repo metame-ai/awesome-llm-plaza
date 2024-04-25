@@ -245,6 +245,7 @@
 
 
 ## Medical
+- [**base-7b-v0.2**](https://huggingface.co/internistai/base-7b-v0.2) - internistai 🤗
 - [The Open Medical-LLM Leaderboard: Benchmarking Large Language Models in Healthcare](https://huggingface.co/blog/leaderboard-medicalllm)
 - **Medical mT5: An Open-Source Multilingual Text-to-Text LLM for The
   Medical Domain**, `arXiv, 2404.07613`, [arxiv](http://arxiv.org/abs/2404.07613v1), [pdf](http://arxiv.org/pdf/2404.07613v1.pdf), cication: [**-1**](None)
