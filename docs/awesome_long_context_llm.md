@@ -32,6 +32,9 @@
 	 *Adyasha Maharana, Dong-Ho Lee, Sergey Tulyakov, Mohit Bansal, Francesco Barbieri, Yuwei Fang*
 
 ## Papers
+- **Make Your LLM Fully Utilize the Context**, `arXiv, 2404.16811`, [arxiv](http://arxiv.org/abs/2404.16811v1), [pdf](http://arxiv.org/pdf/2404.16811v1.pdf), cication: [**-1**](None)
+
+	 *Shengnan An, Zexiong Ma, Zeqi Lin, Nanning Zheng, Jian-Guang Lou* · ([FILM](https://github.com/microsoft/FILM) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/FILM.svg?style=social&label=Star)
 - **SnapKV: LLM Knows What You are Looking for Before Generation**, `arXiv, 2404.14469`, [arxiv](http://arxiv.org/abs/2404.14469v1), [pdf](http://arxiv.org/pdf/2404.14469v1.pdf), cication: [**-1**](None)
 
 	 *Yuhong Li, Yingbing Huang, Bowen Yang, Bharat Venkitesh, Acyr Locatelli, Hanchen Ye, Tianle Cai, Patrick Lewis, Deming Chen* · ([SnapKV](https://github.com/FasterDecoding/SnapKV) - FasterDecoding) ![Star](https://img.shields.io/github/stars/FasterDecoding/SnapKV.svg?style=social&label=Star)

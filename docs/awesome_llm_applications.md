@@ -54,6 +54,9 @@
 - [Navigating the Jagged Technological Frontier: Field Experimental Evidence of the Effects of AI on Knowledge Worker Productivity and Quality](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4573321)
 
 ## Toolkits 
+- [**text-generation-inference**](https://github.com/huggingface/text-generation-inference) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/text-generation-inference.svg?style=social&label=Star)
+
+	 *Large Language Model Text Generation Inference*
 - [**kimi-free-api**](https://github.com/LLM-Red-Team/kimi-free-api) - LLM-Red-Team ![Star](https://img.shields.io/github/stars/LLM-Red-Team/kimi-free-api.svg?style=social&label=Star)
 
 	 *🚀 KIMI AI 长文本大模型逆向API白嫖测试【特长：长文本解读整理】，支持高速流式输出、联网搜索、长文档解读、图像解析、多轮对话，零配置部署，多路token支持，自动清理会话痕迹。*

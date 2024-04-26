@@ -169,7 +169,10 @@
 - [**Llama-3-8B-16K**](https://huggingface.co/mattshumer/Llama-3-8B-16K) - mattshumer 🤗
 - [**Llama-3-8B-Special-Tokens-Adjusted**](https://huggingface.co/astronomer/Llama-3-8B-Special-Tokens-Adjusted) - astronomer 🤗
 - [Google Colab](https://colab.research.google.com/drive/1aqlNQi7MMJbynFDyOQteD2t0yVfjb9Zh?usp=sharing)
-
+- [**Llama-3-8b-64k-PoSE**](https://huggingface.co/winglian/Llama-3-8b-64k-PoSE) - winglian 🤗
+- [**dolphin-2.9-llama3-70b**](https://huggingface.co/cognitivecomputations/dolphin-2.9-llama3-70b) - cognitivecomputations 🤗
+- [**Llama-3-8B-Instruct-262k**](https://huggingface.co/gradientai/Llama-3-8B-Instruct-262k) - gradientai 🤗
+- [Meditron: An LLM suite especially suited for low-resource medical settings leveraging Meta Llama](https://ai.meta.com/blog/llama-2-3-meditron-yale-medicine-epfl-open-source-llm/)
 ### Jamba
 - **Jamba: A Hybrid Transformer-Mamba Language Model**, `arXiv, 2403.19887`, [arxiv](http://arxiv.org/abs/2403.19887v1), [pdf](http://arxiv.org/pdf/2403.19887v1.pdf), cication: [**-1**](None)
 
@@ -422,6 +425,9 @@
 # Mulitlingual (chinese)
 
 ## Foundation
+- **Tele-FLM Technical Report**, `arXiv, 2404.16645`, [arxiv](http://arxiv.org/abs/2404.16645v1), [pdf](http://arxiv.org/pdf/2404.16645v1.pdf), cication: [**-1**](None)
+
+	 *Xiang Li, Yiqun Yao, Xin Jiang, Xuezhi Fang, Chao Wang, Xinzhang Liu, Zihan Wang, Yu Zhao, Xin Wang, Yuyao Huang*
 - **Chinese Tiny LLM: Pretraining a Chinese-Centric Large Language Model**, `arXiv, 2404.04167`, [arxiv](http://arxiv.org/abs/2404.04167v1), [pdf](http://arxiv.org/pdf/2404.04167v1.pdf), cication: [**-1**](None)
 
 	 *Xinrun Du, Zhouliang Yu, Songyang Gao, Ding Pan, Yuyang Cheng, Ziyang Ma, Ruibin Yuan, Xingwei Qu, Jiaheng Liu, Tianyu Zheng* · ([huggingface](https://huggingface.co/collections/m-a-p/chinese-tiny-llm-660d0133dff6856f94ce0fc6))

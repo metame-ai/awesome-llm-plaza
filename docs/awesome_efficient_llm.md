@@ -443,7 +443,15 @@
 	 *Shufang Xie, Huishuai Zhang, Junliang Guo, Xu Tan, Jiang Bian, Hany Hassan Awadalla, Arul Menezes, Tao Qin, Rui Yan* · ([ResiDual](https://github.com/microsoft/ResiDual) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/ResiDual.svg?style=social&label=Star)
 
 ## Efficient Inference
+- **Layer Skip: Enabling Early Exit Inference and Self-Speculative Decoding**, `arXiv, 2404.16710`, [arxiv](http://arxiv.org/abs/2404.16710v1), [pdf](http://arxiv.org/pdf/2404.16710v1.pdf), cication: [**-1**](None)
 
+	 *Mostafa Elhoushi, Akshat Shrivastava, Diana Liskovich, Basil Hosmer, Bram Wasti, Liangzhen Lai, Anas Mahmoud, Bilge Acun, Saurabh Agarwal, Ahmed Roman*
+- **BASS: Batched Attention-optimized Speculative Sampling**, `arXiv, 2404.15778`, [arxiv](http://arxiv.org/abs/2404.15778v1), [pdf](http://arxiv.org/pdf/2404.15778v1.pdf), cication: [**-1**](None)
+
+	 *Haifeng Qian, Sujan Kumar Gonugondla, Sungsoo Ha, Mingyue Shang, Sanjay Krishna Gouda, Ramesh Nallapati, Sudipta Sengupta, Xiaofei Ma, Anoop Deoras*
+- **XC-Cache: Cross-Attending to Cached Context for Efficient LLM Inference**, `arXiv, 2404.15420`, [arxiv](http://arxiv.org/abs/2404.15420v1), [pdf](http://arxiv.org/pdf/2404.15420v1.pdf), cication: [**-1**](None)
+
+	 *João Monteiro, Étienne Marcotte, Pierre-André Noël, Valentina Zantedeschi, David Vázquez, Nicolas Chapados, Christopher Pal, Perouz Taslakian*
 - **TriForce: Lossless Acceleration of Long Sequence Generation with
   Hierarchical Speculative Decoding**, `arXiv, 2404.11912`, [arxiv](http://arxiv.org/abs/2404.11912v1), [pdf](http://arxiv.org/pdf/2404.11912v1.pdf), cication: [**-1**](None)
 

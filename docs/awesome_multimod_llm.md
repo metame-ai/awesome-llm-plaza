@@ -212,6 +212,14 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
+- **List Items One by One: A New Data Source and Learning Paradigm for
+  Multimodal LLMs**, `arXiv, 2404.16375`, [arxiv](http://arxiv.org/abs/2404.16375v1), [pdf](http://arxiv.org/pdf/2404.16375v1.pdf), cication: [**-1**](None)
+
+	 *An Yan, Zhengyuan Yang, Junda Wu, Wanrong Zhu, Jianwei Yang, Linjie Li, Kevin Lin, Jianfeng Wang, Julian McAuley, Jianfeng Gao* · ([SoM-LLaVA](https://github.com/zzxslp/SoM-LLaVA) - zzxslp) ![Star](https://img.shields.io/github/stars/zzxslp/SoM-LLaVA.svg?style=social&label=Star)
+- **How Far Are We to GPT-4V? Closing the Gap to Commercial Multimodal
+  Models with Open-Source Suites**, `arXiv, 2404.16821`, [arxiv](http://arxiv.org/abs/2404.16821v1), [pdf](http://arxiv.org/pdf/2404.16821v1.pdf), cication: [**-1**](None)
+
+	 *Zhe Chen, Weiyun Wang, Hao Tian, Shenglong Ye, Zhangwei Gao, Erfei Cui, Wenwen Tong, Kongzhi Hu, Jiapeng Luo, Zheng Ma* · ([InternVL](https://github.com/OpenGVLab/InternVL) - OpenGVLab) ![Star](https://img.shields.io/github/stars/OpenGVLab/InternVL.svg?style=social&label=Star)
 - **SEED-X: Multimodal Models with Unified Multi-granularity Comprehension
   and Generation**, `arXiv, 2404.14396`, [arxiv](http://arxiv.org/abs/2404.14396v1), [pdf](http://arxiv.org/pdf/2404.14396v1.pdf), cication: [**-1**](None)
 
@@ -1037,6 +1045,13 @@
 - ["宝藏AI神器"通义听悟上新：超长音视频随便问，高校师生可获500小时免费时长 | 量子位](https://www.qbitai.com/2024/03/129271.html)
 
 ## CLIP
+- [Paper page - MoDE: CLIP Data Experts via Clustering](https://huggingface.co/papers/2404.16030)
+
+	 · ([MetaCLIP](https://github.com/facebookresearch/MetaCLIP/tree/main/mode) - facebookresearch) ![Star](https://img.shields.io/github/stars/facebookresearch/MetaCLIP.svg?style=social&label=Star)
+- **CatLIP: CLIP-level Visual Recognition Accuracy with 2.7x Faster
+  Pre-training on Web-scale Image-Text Data**, `arXiv, 2404.15653`, [arxiv](http://arxiv.org/abs/2404.15653v1), [pdf](http://arxiv.org/pdf/2404.15653v1.pdf), cication: [**-1**](None)
+
+	 *Sachin Mehta, Maxwell Horton, Fartash Faghri, Mohammad Hossein Sekhavat, Mahyar Najibi, Mehrdad Farajtabar, Oncel Tuzel, Mohammad Rastegari* · ([corenet](https://github.com/apple/corenet) - apple) ![Star](https://img.shields.io/github/stars/apple/corenet.svg?style=social&label=Star)
 - **Scaling (Down) CLIP: A Comprehensive Analysis of Data, Architecture, and
   Training Strategies**, `arXiv, 2404.08197`, [arxiv](http://arxiv.org/abs/2404.08197v1), [pdf](http://arxiv.org/pdf/2404.08197v1.pdf), cication: [**-1**](None)
 
@@ -1174,6 +1189,10 @@
 - [**BakLLaVA-1**](https://huggingface.co/SkunkworksAI/BakLLaVA-1) - SkunkworksAI 🤗
 
 ## Evaluation
+- **SEED-Bench-2-Plus: Benchmarking Multimodal Large Language Models with
+  Text-Rich Visual Comprehension**, `arXiv, 2404.16790`, [arxiv](http://arxiv.org/abs/2404.16790v1), [pdf](http://arxiv.org/pdf/2404.16790v1.pdf), cication: [**-1**](None)
+
+	 *Bohao Li, Yuying Ge, Yi Chen, Yixiao Ge, Ruimao Zhang, Ying Shan* · ([SEED-Bench](https://github.com/AILab-CVC/SEED-Bench) - AILab-CVC) ![Star](https://img.shields.io/github/stars/AILab-CVC/SEED-Bench.svg?style=social&label=Star)
 - **OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real
   Computer Environments**, `arXiv, 2404.07972`, [arxiv](http://arxiv.org/abs/2404.07972v1), [pdf](http://arxiv.org/pdf/2404.07972v1.pdf), cication: [**-1**](None)
 
