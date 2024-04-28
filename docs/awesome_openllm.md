@@ -173,6 +173,7 @@
 - [**dolphin-2.9-llama3-70b**](https://huggingface.co/cognitivecomputations/dolphin-2.9-llama3-70b) - cognitivecomputations 🤗
 - [**Llama-3-8B-Instruct-262k**](https://huggingface.co/gradientai/Llama-3-8B-Instruct-262k) - gradientai 🤗
 - [Meditron: An LLM suite especially suited for low-resource medical settings leveraging Meta Llama](https://ai.meta.com/blog/llama-2-3-meditron-yale-medicine-epfl-open-source-llm/)
+- [**llama-3-8b-256k-PoSE**](https://huggingface.co/winglian/llama-3-8b-256k-PoSE) - winglian 🤗
 ### Jamba
 - **Jamba: A Hybrid Transformer-Mamba Language Model**, `arXiv, 2403.19887`, [arxiv](http://arxiv.org/abs/2403.19887v1), [pdf](http://arxiv.org/pdf/2403.19887v1.pdf), cication: [**-1**](None)
 
@@ -529,7 +530,8 @@
  - [xverse/XVERSE-13B-256K · Hugging Face](https://huggingface.co/xverse/XVERSE-13B-256K)
  
 ### Qwen
-- [Fetching Title#lbon](https://huggingface.co/spaces/Qwen/Qwen1.5-110B-Chat-demo)
+- [Qwen1.5-110B-Chat · 模型库](https://modelscope.cn/models/qwen/Qwen1.5-110B-Chat/summary)
+- [**Qwen1.5-110B-Chat-demo**](https://huggingface.co/spaces/Qwen/Qwen1.5-110B-Chat-demo) - Qwen 🤗
 - [**Qwen1.5-32B**](https://huggingface.co/Qwen/Qwen1.5-32B) - Qwen 🤗
 - [Qwen1.5-32B: Fitting the Capstone of the Qwen1.5 Language Model Series | Qwen](https://qwenlm.github.io/blog/qwen1.5-32b/)
 - [**Qwen-Agent**](https://github.com/QwenLM/Qwen-Agent) - QwenLM ![Star](https://img.shields.io/github/stars/QwenLM/Qwen-Agent.svg?style=social&label=Star)

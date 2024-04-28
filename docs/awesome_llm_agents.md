@@ -88,6 +88,9 @@
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-18-4))
 ## Agents
+- [**agentkit**](https://github.com/holmeswww/agentkit) - holmeswww ![Star](https://img.shields.io/github/stars/holmeswww/agentkit.svg?style=social&label=Star)
+
+	 *An intuitive LLM prompting framework for multifunctional agents, by explicitly constructing a complex "thought process" from simple natural language prompts.*
 - **FlowMind: Automatic Workflow Generation with LLMs**, `arXiv, 2404.13050`, [arxiv](http://arxiv.org/abs/2404.13050v1), [pdf](http://arxiv.org/pdf/2404.13050v1.pdf), cication: [**-1**](None)
 
 	 *Zhen Zeng, William Watson, Nicole Cho, Saba Rahimi, Shayleen Reynolds, Tucker Balch, Manuela Veloso*

@@ -223,6 +223,10 @@
 	 *Timo Kaufmann, Paul Weng, Viktor Bengs, Eyke Hüllermeier*
 
 ## Papers
+- **Insights into Alignment: Evaluating DPO and its Variants Across Multiple
+  Tasks**, `arXiv, 2404.14723`, [arxiv](http://arxiv.org/abs/2404.14723v1), [pdf](http://arxiv.org/pdf/2404.14723v1.pdf), cication: [**-1**](None)
+
+	 *Amir Saeidi, Shivanshu Verma, Chitta Baral*
 - **From $r$ to $Q^*$: Your Language Model is Secretly a Q-Function**, `arXiv, 2404.12358`, [arxiv](http://arxiv.org/abs/2404.12358v1), [pdf](http://arxiv.org/pdf/2404.12358v1.pdf), cication: [**-1**](None)
 
 	 *Rafael Rafailov, Joey Hejna, Ryan Park, Chelsea Finn*

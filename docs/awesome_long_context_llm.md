@@ -196,6 +196,10 @@
   fine-tuning free context window extending**, `arXiv, 2309.08646`, [arxiv](http://arxiv.org/abs/2309.08646v2), [pdf](http://arxiv.org/pdf/2309.08646v2.pdf), cication: [**-1**](None)
 
 	 *Shiyi Zhu, Jing Ye, Wei Jiang, Qi Zhang, Yifan Wu, Jianguo Li* · ([Collinear-Constrained-Attention](https://github.com/codefuse-ai/Collinear-Constrained-Attention) - codefuse-ai) ![Star](https://img.shields.io/github/stars/codefuse-ai/Collinear-Constrained-Attention.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-11-13-9))
+- **PoSE: Efficient Context Window Extension of LLMs via Positional
+  Skip-wise Training**, `arXiv, 2309.10400`, [arxiv](http://arxiv.org/abs/2309.10400v3), [pdf](http://arxiv.org/pdf/2309.10400v3.pdf), cication: [**-1**](None)
+
+	 *Dawei Zhu, Nan Yang, Liang Wang, Yifan Song, Wenhao Wu, Furu Wei, Sujian Li* · ([PoSE](https://github.com/dwzhu-pku/PoSE) - dwzhu-pku) ![Star](https://img.shields.io/github/stars/dwzhu-pku/PoSE.svg?style=social&label=Star)
 - **Effective Long-Context Scaling of Foundation Models**, `arXiv, 2309.16039`, [arxiv](http://arxiv.org/abs/2309.16039v2), [pdf](http://arxiv.org/pdf/2309.16039v2.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=11499544443437070837&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Wenhan Xiong, Jingyu Liu, Igor Molybog, Hejia Zhang, Prajjwal Bhargava, Rui Hou, Louis Martin, Rashi Rungta, Karthik Abinav Sankararaman, Barlas Oguz* · ([qbitai](https://www.qbitai.com/2023/09/87178.html))

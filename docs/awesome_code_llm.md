@@ -7,6 +7,10 @@
 	- [Other](#other)
 
 ## Survey
+- **Low-Cost Language Models: Survey and Performance Evaluation on Python
+  Code Generation**, `arXiv, 2404.11160`, [arxiv](http://arxiv.org/abs/2404.11160v1), [pdf](http://arxiv.org/pdf/2404.11160v1.pdf), cication: [**-1**](None)
+
+	 *Jessica López Espejel, Mahaman Sanoussi Yahaya Alassan, Merieme Bouhandi, Walid Dahhane, El Hassane Ettifouri*
 - **A Survey of Neural Code Intelligence: Paradigms, Advances and Beyond**, `arXiv, 2403.14734`, [arxiv](http://arxiv.org/abs/2403.14734v1), [pdf](http://arxiv.org/pdf/2403.14734v1.pdf), cication: [**-1**](None)
 
 	 *Qiushi Sun, Zhirui Chen, Fangzhi Xu, Kanzhi Cheng, Chang Ma, Zhangyue Yin, Jianing Wang, Chengcheng Han, Renyu Zhu, Shuai Yuan* · ([NCISurvey](https://github.com/QiushiSun/NCISurvey) - QiushiSun) ![Star](https://img.shields.io/github/stars/QiushiSun/NCISurvey.svg?style=social&label=Star)

@@ -479,6 +479,12 @@
 	 *Juhao Liang, Ziwei Wang, Zhuoheng Ma, Jianquan Li, Zhiyi Zhang, Xiangbo Wu, Benyou Wang*
 
 ## Toolkits
+- [**torchtitan**](https://github.com/pytorch/torchtitan) - pytorch ![Star](https://img.shields.io/github/stars/pytorch/torchtitan.svg?style=social&label=Star)
+
+	 *A native PyTorch Library for large model training*
+- [**ColossalAI**](https://github.com/hpcaitech/ColossalAI) - hpcaitech ![Star](https://img.shields.io/github/stars/hpcaitech/ColossalAI.svg?style=social&label=Star)
+
+	 *Making large AI models cheaper, faster and more accessible*
 - [**xtuner**](https://github.com/InternLM/xtuner) - InternLM ![Star](https://img.shields.io/github/stars/InternLM/xtuner.svg?style=social&label=Star)
 
 	 *An efficient, flexible and full-featured toolkit for fine-tuning large models (InternLM, Llama, Baichuan, Qwen, ChatGLM)*

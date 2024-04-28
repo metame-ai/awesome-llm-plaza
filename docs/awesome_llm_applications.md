@@ -248,6 +248,7 @@
 
 
 ## Medical
+- [**BioMistral-7B**](https://huggingface.co/BioMistral/BioMistral-7B) - BioMistral 🤗
 - [**base-7b-v0.2**](https://huggingface.co/internistai/base-7b-v0.2) - internistai 🤗
 - [The Open Medical-LLM Leaderboard: Benchmarking Large Language Models in Healthcare](https://huggingface.co/blog/leaderboard-medicalllm)
 - **Medical mT5: An Open-Source Multilingual Text-to-Text LLM for The

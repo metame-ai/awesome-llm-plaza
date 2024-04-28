@@ -212,6 +212,10 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
+- **TinyChart: Efficient Chart Understanding with Visual Token Merging and
+  Program-of-Thoughts Learning**, `arXiv, 2404.16635`, [arxiv](http://arxiv.org/abs/2404.16635v1), [pdf](http://arxiv.org/pdf/2404.16635v1.pdf), cication: [**-1**](None)
+
+	 *Liang Zhang, Anwen Hu, Haiyang Xu, Ming Yan, Yichen Xu, Qin Jin, Ji Zhang, Fei Huang* · ([mPLUG-DocOwl](https://github.com/X-PLUG/mPLUG-DocOwl/tree/main/TinyChart) - X-PLUG) ![Star](https://img.shields.io/github/stars/X-PLUG/mPLUG-DocOwl.svg?style=social&label=Star)
 - **List Items One by One: A New Data Source and Learning Paradigm for
   Multimodal LLMs**, `arXiv, 2404.16375`, [arxiv](http://arxiv.org/abs/2404.16375v1), [pdf](http://arxiv.org/pdf/2404.16375v1.pdf), cication: [**-1**](None)
 
@@ -1124,6 +1128,9 @@
 
 	 *Mingsheng Li, Xin Chen, Chi Zhang, Sijin Chen, Hongyuan Zhu, Fukun Yin, Gang Yu, Tao Chen*
 ## Projects
+- [**LLaVA-pp**](https://github.com/mbzuai-oryx/LLaVA-pp) - mbzuai-oryx ![Star](https://img.shields.io/github/stars/mbzuai-oryx/LLaVA-pp.svg?style=social&label=Star)
+
+	 *🔥🔥 LLaVA++: Extending LLaVA with Phi-3 and LLaMA-3 (LLaVA LLaMA-3, LLaVA Phi-3)*
 - [**llava-llama-3-8b-v1_1**](https://huggingface.co/xtuner/llava-llama-3-8b-v1_1) - xtuner 🤗
 - [Idefics2 🐶 - a HuggingFaceM4 Collection](https://huggingface.co/collections/HuggingFaceM4/idefics2-661d1971b7c50831dd3ce0fe)
 
