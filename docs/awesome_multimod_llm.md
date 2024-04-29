@@ -1128,6 +1128,7 @@
 
 	 *Mingsheng Li, Xin Chen, Chi Zhang, Sijin Chen, Hongyuan Zhu, Fukun Yin, Gang Yu, Tao Chen*
 ## Projects
+- [**XVERSE-V-13B**](https://github.com/xverse-ai/XVERSE-V-13B) - xverse-ai ![Star](https://img.shields.io/github/stars/xverse-ai/XVERSE-V-13B.svg?style=social&label=Star)
 - [**LLaVA-pp**](https://github.com/mbzuai-oryx/LLaVA-pp) - mbzuai-oryx ![Star](https://img.shields.io/github/stars/mbzuai-oryx/LLaVA-pp.svg?style=social&label=Star)
 
 	 *🔥🔥 LLaVA++: Extending LLaVA with Phi-3 and LLaMA-3 (LLaVA LLaMA-3, LLaVA Phi-3)*

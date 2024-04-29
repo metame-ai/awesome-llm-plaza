@@ -755,6 +755,7 @@
 	 *Official repo for LayoutGPT*
 
 ## Science
+
 - **Wu's Method can Boost Symbolic AI to Rival Silver Medalists and
   AlphaGeometry to Outperform Gold Medalists at IMO Geometry**, `arXiv, 2404.06405`, [arxiv](http://arxiv.org/abs/2404.06405v2), [pdf](http://arxiv.org/pdf/2404.06405v2.pdf), cication: [**-1**](None)
 
@@ -820,6 +821,10 @@
 	 *Microsoft Research AI4Science, Microsoft Azure Quantum*
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-11-16-3))
+- **MLAgentBench: Evaluating Language Agents on Machine Learning
+  Experimentation**, `arXiv, 2310.03302`, [arxiv](http://arxiv.org/abs/2310.03302v2), [pdf](http://arxiv.org/pdf/2310.03302v2.pdf), cication: [**-1**](None)
+
+	 *Qian Huang, Jian Vora, Percy Liang, Jure Leskovec* · ([MLAgentBench](https://github.com/snap-stanford/MLAgentBench/) - snap-stanford) ![Star](https://img.shields.io/github/stars/snap-stanford/MLAgentBench.svg?style=social&label=Star)
 - **Large Language Model for Science: A Study on P vs. NP**, `arXiv, 2309.05689`, [arxiv](http://arxiv.org/abs/2309.05689v1), [pdf](http://arxiv.org/pdf/2309.05689v1.pdf), cication: [**2**](https://scholar.google.com/scholar?cites=10209613850404633620&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Qingxiu Dong, Li Dong, Ke Xu, Guangyan Zhou, Yaru Hao, Zhifang Sui, Furu Wei*

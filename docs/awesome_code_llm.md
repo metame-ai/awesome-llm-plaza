@@ -23,6 +23,9 @@
 	 *Ziyin Zhang, Chaoyu Chen, Bingchang Liu, Cong Liao, Zi Gong, Hang Yu, Jianguo Li, Rui Wang*
 
 ## Paper
+- **NExT: Teaching Large Language Models to Reason about Code Execution**, `arXiv, 2404.14662`, [arxiv](http://arxiv.org/abs/2404.14662v1), [pdf](http://arxiv.org/pdf/2404.14662v1.pdf), cication: [**-1**](None)
+
+	 *Ansong Ni, Miltiadis Allamanis, Arman Cohan, Yinlin Deng, Kensen Shi, Charles Sutton, Pengcheng Yin*
 - **LLM-R2: A Large Language Model Enhanced Rule-based Rewrite System for
   Boosting Query Efficiency**, `arXiv, 2404.12872`, [arxiv](http://arxiv.org/abs/2404.12872v1), [pdf](http://arxiv.org/pdf/2404.12872v1.pdf), cication: [**-1**](None)
 
