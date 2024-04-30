@@ -308,6 +308,9 @@
 	 · [intercode-benchmark.github](https://intercode-benchmark.github.io/)
 
 ## Projects
+- [Site Unreachable](https://huggingface.co/bigcode/starcoder2-15b-instruct-v0.1)
+
+	 · ([huggingface](https://huggingface.co/blog/sc2-instruct))
 - [**leaderboard**](https://huggingface.co/spaces/livecodebench/leaderboard) - livecodebench 🤗
 
 	 · ([huggingface](https://huggingface.co/blog/leaderboard-livecodebench))

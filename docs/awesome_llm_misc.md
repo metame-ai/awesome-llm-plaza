@@ -444,6 +444,10 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652345558&idx=4&sn=95686435d5cad05d44cbe02bc26d6859))
 
 ## Interpretability 
+- **Understanding Emergent Abilities of Language Models from the Loss
+  Perspective**, `arXiv, 2403.15796`, [arxiv](http://arxiv.org/abs/2403.15796v2), [pdf](http://arxiv.org/pdf/2403.15796v2.pdf), cication: [**-1**](None)
+
+	 *Zhengxiao Du, Aohan Zeng, Yuxiao Dong, Jie Tang*
 - [Circuits Updates - April 2024](https://transformer-circuits.pub/2024/april-update/index.html#scaling-laws)
 - **Transformers Can Represent $n$-gram Language Models**, `arXiv, 2404.14994`, [arxiv](http://arxiv.org/abs/2404.14994v1), [pdf](http://arxiv.org/pdf/2404.14994v1.pdf), cication: [**-1**](None)
 

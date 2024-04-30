@@ -571,6 +571,9 @@
 	 *Tianlu Wang, Ping Yu, Xiaoqing Ellen Tan, Sean O'Brien, Ramakanth Pasunuru, Jane Dwivedi-Yu, Olga Golovneva, Luke Zettlemoyer, Maryam Fazel-Zarandi, Asli Celikyilmaz* · ([shepherd](https://github.com/facebookresearch/shepherd) - facebookresearch) ![Star](https://img.shields.io/github/stars/facebookresearch/shepherd.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652366759&idx=3&sn=f183f4c8080a338c4c9fad0f026b14af))
 
 ## Prompting
+- **AdvPrompter: Fast Adaptive Adversarial Prompting for LLMs**, `arXiv, 2404.16873`, [arxiv](http://arxiv.org/abs/2404.16873v1), [pdf](http://arxiv.org/pdf/2404.16873v1.pdf), cication: [**-1**](None)
+
+	 *Anselm Paulus, Arman Zharmagambetov, Chuan Guo, Brandon Amos, Yuandong Tian*
 - **Automatic Prompt Selection for Large Language Models**, `arXiv, 2404.02717`, [arxiv](http://arxiv.org/abs/2404.02717v1), [pdf](http://arxiv.org/pdf/2404.02717v1.pdf), cication: [**-1**](None)
 
 	 *Viet-Tung Do, Van-Khanh Hoang, Duy-Hung Nguyen, Shahab Sabahi, Jeff Yang, Hajime Hotta, Minh-Tien Nguyen, Hung Le*

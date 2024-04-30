@@ -71,6 +71,10 @@
 	 *Code for paper LocalMamba: Visual State Space Model with Windowed Selective Scan*
 
 ### Video
+- **PLLaVA : Parameter-free LLaVA Extension from Images to Videos for Video
+  Dense Captioning**, `arXiv, 2404.16994`, [arxiv](http://arxiv.org/abs/2404.16994v2), [pdf](http://arxiv.org/pdf/2404.16994v2.pdf), cication: [**-1**](None)
+
+	 *Lin Xu, Yilin Zhao, Daquan Zhou, Zhijie Lin, See Kiong Ng, Jiashi Feng* · ([PLLaVA](https://github.com/magic-research/PLLaVA) - magic-research) ![Star](https://img.shields.io/github/stars/magic-research/PLLaVA.svg?style=social&label=Star)
 - **Pegasus-v1 Technical Report**, `arXiv, 2404.14687`, [arxiv](http://arxiv.org/abs/2404.14687v1), [pdf](http://arxiv.org/pdf/2404.14687v1.pdf), cication: [**-1**](None)
 
 	 *Raehyuk Jung, Hyojun Go, Jaehyuk Yi, Jiho Jang, Daniel Kim, Jay Suh, Aiden Lee, Cooper Han, Jae Lee, Jeff Kim* · ([twelvelabs](https://www.twelvelabs.io/blog/upgrading-pegasus-1))

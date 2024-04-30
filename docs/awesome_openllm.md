@@ -174,6 +174,7 @@
 - [**Llama-3-8B-Instruct-262k**](https://huggingface.co/gradientai/Llama-3-8B-Instruct-262k) - gradientai 🤗
 - [Meditron: An LLM suite especially suited for low-resource medical settings leveraging Meta Llama](https://ai.meta.com/blog/llama-2-3-meditron-yale-medicine-epfl-open-source-llm/)
 - [**llama-3-8b-256k-PoSE**](https://huggingface.co/winglian/llama-3-8b-256k-PoSE) - winglian 🤗
+- [Site Unreachable](https://huggingface.co/gradientai/Llama-3-8B-Instruct-Gradient-1048k)
 ### Jamba
 - **Jamba: A Hybrid Transformer-Mamba Language Model**, `arXiv, 2403.19887`, [arxiv](http://arxiv.org/abs/2403.19887v1), [pdf](http://arxiv.org/pdf/2403.19887v1.pdf), cication: [**-1**](None)
 
