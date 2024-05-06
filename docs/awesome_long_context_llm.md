@@ -8,6 +8,9 @@
 	- [Extra reference](#extra-reference)
 
 ## Survey
+- **In-Context Learning with Long-Context Models: An In-Depth Exploration**, `arXiv, 2405.00200`, [arxiv](http://arxiv.org/abs/2405.00200v1), [pdf](http://arxiv.org/pdf/2405.00200v1.pdf), cication: [**-1**](None)
+
+	 *Amanda Bertsch, Maor Ivgi, Uri Alon, Jonathan Berant, Matthew R. Gormley, Graham Neubig*
 - **Length Extrapolation of Transformers: A Survey from the Perspective of
   Position Encoding**, `arXiv, 2312.17044`, [arxiv](http://arxiv.org/abs/2312.17044v2), [pdf](http://arxiv.org/pdf/2312.17044v2.pdf), cication: [**-1**](None)
 
@@ -32,6 +35,9 @@
 	 *Adyasha Maharana, Dong-Ho Lee, Sergey Tulyakov, Mohit Bansal, Francesco Barbieri, Yuwei Fang*
 
 ## Papers
+- **Extending Llama-3's Context Ten-Fold Overnight**, `arXiv, 2404.19553`, [arxiv](http://arxiv.org/abs/2404.19553v1), [pdf](http://arxiv.org/pdf/2404.19553v1.pdf), cication: [**-1**](None)
+
+	 *Peitian Zhang, Ninglu Shao, Zheng Liu, Shitao Xiao, Hongjin Qian, Qiwei Ye, Zhicheng Dou* · ([FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding) - FlagOpen) ![Star](https://img.shields.io/github/stars/FlagOpen/FlagEmbedding.svg?style=social&label=Star)
 - **Make Your LLM Fully Utilize the Context**, `arXiv, 2404.16811`, [arxiv](http://arxiv.org/abs/2404.16811v1), [pdf](http://arxiv.org/pdf/2404.16811v1.pdf), cication: [**-1**](None)
 
 	 *Shengnan An, Zexiong Ma, Zeqi Lin, Nanning Zheng, Jian-Guang Lou* · ([FILM](https://github.com/microsoft/FILM) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/FILM.svg?style=social&label=Star)

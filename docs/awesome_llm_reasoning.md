@@ -691,6 +691,7 @@
 	 *Maciej Besta, Nils Blach, Ales Kubicek, Robert Gerstenberger, Lukas Gianinazzi, Joanna Gajda, Tomasz Lehmann, Michal Podstawski, Hubert Niewiadomski, Piotr Nyczyk* · ([graph-of-thoughts](https://github.com/spcl/graph-of-thoughts) - spcl) ![Star](https://img.shields.io/github/stars/spcl/graph-of-thoughts.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-08-25-3))
 
 ### Other
+- [Improving Prompt Consistency with Structured Generations](https://huggingface.co/blog/evaluation-structured-outputs)
 - [Lessons after a half-billion GPT tokens - Ken Kantzer's Blog](https://kenkantzer.com/lessons-after-a-half-billion-gpt-tokens)
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-04-19-13))

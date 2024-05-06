@@ -300,6 +300,9 @@
 	 *Yang Luo, Xiaozhe Ren, Zangwei Zheng, Zhuo Jiang, Xin Jiang, Yang You* · ([qbitai](https://www.qbitai.com/2023/07/67814.html))
  
 ## Ensemble
+- **Octopus v4: Graph of language models**, `arXiv, 2404.19296`, [arxiv](http://arxiv.org/abs/2404.19296v1), [pdf](http://arxiv.org/pdf/2404.19296v1.pdf), cication: [**-1**](None)
+
+	 *Wei Chen, Zhiyuan Li*
 - **Training-Free Pretrained Model Merging**, `arXiv, 2403.01753`, [arxiv](http://arxiv.org/abs/2403.01753v3), [pdf](http://arxiv.org/pdf/2403.01753v3.pdf), cication: [**-1**](None)
 
 	 *Zhengqi Xu, Ke Yuan, Huiqiong Wang, Yong Wang, Mingli Song, Jie Song*

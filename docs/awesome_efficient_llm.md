@@ -55,6 +55,9 @@
 
 	 *Vladislav Lialin, Vijeta Deshpande, Anna Rumshisky*
 ## Efficient finetuning
+- **LoRA Land: 310 Fine-tuned LLMs that Rival GPT-4, A Technical Report**, `arXiv, 2405.00732`, [arxiv](http://arxiv.org/abs/2405.00732v1), [pdf](http://arxiv.org/pdf/2405.00732v1.pdf), cication: [**-1**](None)
+
+	 *Justin Zhao, Timothy Wang, Wael Abid, Geoffrey Angus, Arnav Garg, Jeffery Kinnison, Alex Sherstinsky, Piero Molino, Travis Addair, Devvret Rishi*
 - **PiSSA: Principal Singular Values and Singular Vectors Adaptation of
   Large Language Models**, `arXiv, 2404.02948`, [arxiv](http://arxiv.org/abs/2404.02948v1), [pdf](http://arxiv.org/pdf/2404.02948v1.pdf), cication: [**-1**](None)
 
@@ -443,6 +446,16 @@
 	 *Shufang Xie, Huishuai Zhang, Junliang Guo, Xu Tan, Jiang Bian, Hany Hassan Awadalla, Arul Menezes, Tao Qin, Rui Yan* · ([ResiDual](https://github.com/microsoft/ResiDual) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/ResiDual.svg?style=social&label=Star)
 
 ## Efficient Inference
+- **Clover: Regressive Lightweight Speculative Decoding with Sequential
+  Knowledge**, `arXiv, 2405.00263`, [arxiv](http://arxiv.org/abs/2405.00263v1), [pdf](http://arxiv.org/pdf/2405.00263v1.pdf), cication: [**-1**](None)
+
+	 *Bin Xiao, Chunan Shi, Xiaonan Nie, Fan Yang, Xiangwei Deng, Lei Su, Weipeng Chen, Bin Cui*
+- **Kangaroo: Lossless Self-Speculative Decoding via Double Early Exiting**, `arXiv, 2404.18911`, [arxiv](http://arxiv.org/abs/2404.18911v1), [pdf](http://arxiv.org/pdf/2404.18911v1.pdf), cication: [**-1**](None)
+
+	 *Fangcheng Liu, Yehui Tang, Zhenhua Liu, Yunsheng Ni, Kai Han, Yunhe Wang* · ([Kangaroo](https://github.com/Equationliu/Kangaroo) - Equationliu) ![Star](https://img.shields.io/github/stars/Equationliu/Kangaroo.svg?style=social&label=Star)
+- **Better & Faster Large Language Models via Multi-token Prediction**, `arXiv, 2404.19737`, [arxiv](http://arxiv.org/abs/2404.19737v1), [pdf](http://arxiv.org/pdf/2404.19737v1.pdf), cication: [**-1**](None)
+
+	 *Fabian Gloeckle, Badr Youbi Idrissi, Baptiste Rozière, David Lopez-Paz, Gabriel Synnaeve* · ([qbitai](https://www.qbitai.com/2024/05/139356.html))
 - **Layer Skip: Enabling Early Exit Inference and Self-Speculative Decoding**, `arXiv, 2404.16710`, [arxiv](http://arxiv.org/abs/2404.16710v1), [pdf](http://arxiv.org/pdf/2404.16710v1.pdf), cication: [**-1**](None)
 
 	 *Mostafa Elhoushi, Akshat Shrivastava, Diana Liskovich, Basil Hosmer, Bram Wasti, Liangzhen Lai, Anas Mahmoud, Bilge Acun, Saurabh Agarwal, Ahmed Roman*

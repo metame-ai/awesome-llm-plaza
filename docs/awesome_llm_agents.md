@@ -25,6 +25,10 @@
 	- [Extra reference](#extra-reference)
 
 ## Survey
+- **RAG and RAU: A Survey on Retrieval-Augmented Language Model in Natural
+  Language Processing**, `arXiv, 2404.19543`, [arxiv](http://arxiv.org/abs/2404.19543v1), [pdf](http://arxiv.org/pdf/2404.19543v1.pdf), cication: [**-1**](None)
+
+	 *Yucheng Hu, Yuxing Lu* · ([ralm_survey](https://github.com/2471023025/ralm_survey) - 2471023025) ![Star](https://img.shields.io/github/stars/2471023025/ralm_survey.svg?style=social&label=Star)
 - **The Landscape of Emerging AI Agent Architectures for Reasoning,
   Planning, and Tool Calling: A Survey**, `arXiv, 2404.11584`, [arxiv](http://arxiv.org/abs/2404.11584v1), [pdf](http://arxiv.org/pdf/2404.11584v1.pdf), cication: [**-1**](None)
 
@@ -710,6 +714,10 @@
 - [GPT-4V学会用键鼠上网，人类眼睁睁看着它发帖玩游戏 | 量子位](https://www.qbitai.com/2023/11/95456.html)
 
 ## Retrieval agumented generation
+- **When to Retrieve: Teaching LLMs to Utilize Information Retrieval
+  Effectively**, `arXiv, 2404.19705`, [arxiv](http://arxiv.org/abs/2404.19705v1), [pdf](http://arxiv.org/pdf/2404.19705v1.pdf), cication: [**-1**](None)
+
+	 *Tiziano Labruna, Jon Ander Campos, Gorka Azkune*
 - **Retrieval Head Mechanistically Explains Long-Context Factuality**, `arXiv, 2404.15574`, [arxiv](http://arxiv.org/abs/2404.15574v1), [pdf](http://arxiv.org/pdf/2404.15574v1.pdf), cication: [**-1**](None)
 
 	 *Wenhao Wu, Yizhong Wang, Guangxuan Xiao, Hao Peng, Yao Fu*
@@ -1067,6 +1075,9 @@
 - [各路大神献出自定义GPT，24小时Top 9名单在这 | 机器之心](https://www.jiqizhixin.com/articles/2023-11-13-13)
 
 ## Evaluation
+- [**stark**](https://github.com/snap-stanford/stark) - snap-stanford ![Star](https://img.shields.io/github/stars/snap-stanford/stark.svg?style=social&label=Star)
+
+	 *Official Code of "STaRK: Benchmarking LLM Retrieval on Textual and Relational Knowledge Bases"*
 - **MMInA: Benchmarking Multihop Multimodal Internet Agents**, `arXiv, 2404.09992`, [arxiv](http://arxiv.org/abs/2404.09992v1), [pdf](http://arxiv.org/pdf/2404.09992v1.pdf), cication: [**-1**](None)
 
 	 *Ziniu Zhang, Shulin Tian, Liangyu Chen, Ziwei Liu* · ([mmina.cliangyu](https://mmina.cliangyu.com))

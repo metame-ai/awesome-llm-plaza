@@ -444,6 +444,9 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652345558&idx=4&sn=95686435d5cad05d44cbe02bc26d6859))
 
 ## Interpretability 
+- **A Primer on the Inner Workings of Transformer-based Language Models**, `arXiv, 2405.00208`, [arxiv](http://arxiv.org/abs/2405.00208v2), [pdf](http://arxiv.org/pdf/2405.00208v2.pdf), cication: [**-1**](None)
+
+	 *Javier Ferrando, Gabriele Sarti, Arianna Bisazza, Marta R. Costa-jussà*
 - **Understanding Emergent Abilities of Language Models from the Loss
   Perspective**, `arXiv, 2403.15796`, [arxiv](http://arxiv.org/abs/2403.15796v2), [pdf](http://arxiv.org/pdf/2403.15796v2.pdf), cication: [**-1**](None)
 
@@ -623,6 +626,10 @@
 	 *Steve Yadlowsky, Lyric Doshi, Nilesh Tripuraneni*
 
 ## LLM editting
+- **Is Bigger Edit Batch Size Always Better? -- An Empirical Study on Model
+  Editing with Llama-3**, `arXiv, 2405.00664`, [arxiv](http://arxiv.org/abs/2405.00664v1), [pdf](http://arxiv.org/pdf/2405.00664v1.pdf), cication: [**-1**](None)
+
+	 *Junsang Yoon, Akshat Gupta, Gopala Anumanchipalli*
 - **Robust and Scalable Model Editing for Large Language Models**, `arXiv, 2403.17431`, [arxiv](http://arxiv.org/abs/2403.17431v1), [pdf](http://arxiv.org/pdf/2403.17431v1.pdf), cication: [**-1**](None)
 
 	 *Yingfa Chen, Zhengyan Zhang, Xu Han, Chaojun Xiao, Zhiyuan Liu, Chen Chen, Kuai Li, Tao Yang, Maosong Sun* · ([EREN](https://github.com/thunlp/EREN?tab=readme-ov-file) - thunlp) ![Star](https://img.shields.io/github/stars/thunlp/EREN.svg?style=social&label=Star)

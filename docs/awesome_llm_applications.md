@@ -248,6 +248,9 @@
 
 
 ## Medical
+- **Capabilities of Gemini Models in Medicine**, `arXiv, 2404.18416`, [arxiv](http://arxiv.org/abs/2404.18416v2), [pdf](http://arxiv.org/pdf/2404.18416v2.pdf), cication: [**-1**](None)
+
+	 *Khaled Saab, Tao Tu, Wei-Hung Weng, Ryutaro Tanno, David Stutz, Ellery Wulczyn, Fan Zhang, Tim Strother, Chunjong Park, Elahe Vedadi*
 - [**BioMistral-7B**](https://huggingface.co/BioMistral/BioMistral-7B) - BioMistral 🤗
 - [**base-7b-v0.2**](https://huggingface.co/internistai/base-7b-v0.2) - internistai 🤗
 - [The Open Medical-LLM Leaderboard: Benchmarking Large Language Models in Healthcare](https://huggingface.co/blog/leaderboard-medicalllm)

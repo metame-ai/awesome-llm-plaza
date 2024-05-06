@@ -12,6 +12,12 @@
 	 *Yeseung Kim, Dohyun Kim, Jieun Choi, Jisang Park, Nayoung Oh, Daehyung Park*
 
 ## Papers
+- **LEGENT: Open Platform for Embodied Agents**, `arXiv, 2404.18243`, [arxiv](http://arxiv.org/abs/2404.18243v1), [pdf](http://arxiv.org/pdf/2404.18243v1.pdf), cication: [**-1**](None)
+
+	 *Zhili Cheng, Zhitong Wang, Jinyi Hu, Shengding Hu, An Liu, Yuge Tu, Pengkai Li, Lei Shi, Zhiyuan Liu, Maosong Sun*
+- [DrEureka | Language Model Guided Sim-To-Real Transfer](https://eureka-research.github.io/dr-eureka/)
+
+	 · ([eureka-research.github](https://eureka-research.github.io/dr-eureka/assets/dreureka-paper.pdf)) · ([DrEureka](https://github.com/eureka-research/DrEureka) - eureka-research) ![Star](https://img.shields.io/github/stars/eureka-research/DrEureka.svg?style=social&label=Star)
 - [OpenEQA: Embodied Question Answering in the Era of Foundation Models](https://open-eqa.github.io/assets/pdfs/paper.pdf)
 
 	 · ([open-eqa.github](https://open-eqa.github.io/)) · ([open-eqa](https://github.com/facebookresearch/open-eqa) - facebookresearch) ![Star](https://img.shields.io/github/stars/facebookresearch/open-eqa.svg?style=social&label=Star)

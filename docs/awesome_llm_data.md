@@ -142,6 +142,10 @@
 - [**peS2o**](https://huggingface.co/datasets/allenai/peS2o) - allenai 🤗
 
 ### Misc
+- **WildChat: 1M ChatGPT Interaction Logs in the Wild**, `arXiv, 2405.01470`, [arxiv](http://arxiv.org/abs/2405.01470v1), [pdf](http://arxiv.org/pdf/2405.01470v1.pdf), cication: [**-1**](None)
+
+	 *Wenting Zhao, Xiang Ren, Jack Hessel, Claire Cardie, Yejin Choi, Yuntian Deng*
+	- https://wildchat.allen.ai
 - **CultureBank: An Online Community-Driven Knowledge Base Towards
   Culturally Aware Language Technologies**, `arXiv, 2404.15238`, [arxiv](http://arxiv.org/abs/2404.15238v1), [pdf](http://arxiv.org/pdf/2404.15238v1.pdf), cication: [**-1**](None)
 

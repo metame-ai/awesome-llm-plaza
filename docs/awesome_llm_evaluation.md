@@ -28,6 +28,14 @@
 	 *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang*
 
 ## Papers
+- **Replacing Judges with Juries: Evaluating LLM Generations with a Panel of
+  Diverse Models**, `arXiv, 2404.18796`, [arxiv](http://arxiv.org/abs/2404.18796v2), [pdf](http://arxiv.org/pdf/2404.18796v2.pdf), cication: [**-1**](None)
+
+	 *Pat Verga, Sebastian Hofstatter, Sophia Althammer, Yixuan Su, Aleksandra Piktus, Arkady Arkhangorodsky, Minjie Xu, Naomi White, Patrick Lewis*
+- **A Careful Examination of Large Language Model Performance on Grade
+  School Arithmetic**, `arXiv, 2405.00332`, [arxiv](http://arxiv.org/abs/2405.00332v3), [pdf](http://arxiv.org/pdf/2405.00332v3.pdf), cication: [**-1**](None)
+
+	 *Hugh Zhang, Jeff Da, Dean Lee, Vaughn Robinson, Catherine Wu, Will Song, Tiffany Zhao, Pranav Raja, Dylan Slack, Qin Lyu*
 - **How Good Are Low-bit Quantized LLaMA3 Models? An Empirical Study**, `arXiv, 2404.14047`, [arxiv](http://arxiv.org/abs/2404.14047v1), [pdf](http://arxiv.org/pdf/2404.14047v1.pdf), cication: [**-1**](None)
 
 	 *Wei Huang, Xudong Ma, Haotong Qin, Xingyu Zheng, Chengtao Lv, Hong Chen, Jie Luo, Xiaojuan Qi, Xianglong Liu, Michele Magno* · ([LLaMA3-Quantization](https://github.com/Macaronlin/LLaMA3-Quantization) - Macaronlin) ![Star](https://img.shields.io/github/stars/Macaronlin/LLaMA3-Quantization.svg?style=social&label=Star)
@@ -462,6 +470,12 @@
 	 *Lianmin Zheng, Wei-Lin Chiang, Ying Sheng, Siyuan Zhuang, Zhanghao Wu, Yonghao Zhuang, Zi Lin, Zhuohan Li, Dacheng Li, Eric. P Xing*
 
 ## Projects
+- [**prometheus-eval**](https://github.com/prometheus-eval/prometheus-eval) - prometheus-eval ![Star](https://img.shields.io/github/stars/prometheus-eval/prometheus-eval.svg?style=social&label=Star)
+
+	 *Evaluate your LLM's response with Prometheus 💯*
+- [**LLM-Performance-Leaderboard**](https://huggingface.co/spaces/ArtificialAnalysis/LLM-Performance-Leaderboard) - ArtificialAnalysis 🤗
+
+	 · ([huggingface](https://huggingface.co/blog/leaderboard-artificial-analysis))
 - [Introducing the Open Chain of Thought Leaderboard](https://huggingface.co/blog/leaderboard-cot)
 - [**arena-hard**](https://github.com/lm-sys/arena-hard) - lm-sys ![Star](https://img.shields.io/github/stars/lm-sys/arena-hard.svg?style=social&label=Star)
 

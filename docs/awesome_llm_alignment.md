@@ -32,6 +32,12 @@
 	 *Yufei Wang, Wanjun Zhong, Liangyou Li, Fei Mi, Xingshan Zeng, Wenyong Huang, Lifeng Shang, Xin Jiang, Qun Liu* · ([AlignLLMHumanSurvey](https://github.com/GaryYufei/AlignLLMHumanSurvey) - GaryYufei) ![Star](https://img.shields.io/github/stars/GaryYufei/AlignLLMHumanSurvey.svg?style=social&label=Star)
 
 ## Paper & Projects
+- **FLAME: Factuality-Aware Alignment for Large Language Models**, `arXiv, 2405.01525`, [arxiv](http://arxiv.org/abs/2405.01525v1), [pdf](http://arxiv.org/pdf/2405.01525v1.pdf), cication: [**-1**](None)
+
+	 *Sheng-Chieh Lin, Luyu Gao, Barlas Oguz, Wenhan Xiong, Jimmy Lin, Wen-tau Yih, Xilun Chen*
+- **NeMo-Aligner: Scalable Toolkit for Efficient Model Alignment**, `arXiv, 2405.01481`, [arxiv](http://arxiv.org/abs/2405.01481v1), [pdf](http://arxiv.org/pdf/2405.01481v1.pdf), cication: [**-1**](None)
+
+	 *Gerald Shen, Zhilin Wang, Olivier Delalleau, Jiaqi Zeng, Yi Dong, Daniel Egert, Shengyang Sun, Jimmy Zhang, Sahil Jain, Ali Taghibakhshi* · ([NeMo-Aligner](https://github.com/NVIDIA/NeMo-Aligner) - NVIDIA) ![Star](https://img.shields.io/github/stars/NVIDIA/NeMo-Aligner.svg?style=social&label=Star)
 - [Simple probes can catch sleeper agents \\ Anthropic](https://www.anthropic.com/research/probes-catch-sleeper-agents)
 - **The Instruction Hierarchy: Training LLMs to Prioritize Privileged
   Instructions**, `arXiv, 2404.13208`, [arxiv](http://arxiv.org/abs/2404.13208v1), [pdf](http://arxiv.org/pdf/2404.13208v1.pdf), cication: [**-1**](None)
@@ -223,6 +229,12 @@
 	 *Timo Kaufmann, Paul Weng, Viktor Bengs, Eyke Hüllermeier*
 
 ## Papers
+- **Self-Play Preference Optimization for Language Model Alignment**, `arXiv, 2405.00675`, [arxiv](http://arxiv.org/abs/2405.00675v1), [pdf](http://arxiv.org/pdf/2405.00675v1.pdf), cication: [**-1**](None)
+
+	 *Yue Wu, Zhiqing Sun, Huizhuo Yuan, Kaixuan Ji, Yiming Yang, Quanquan Gu*
+- **Iterative Reasoning Preference Optimization**, `arXiv, 2404.19733`, [arxiv](http://arxiv.org/abs/2404.19733v1), [pdf](http://arxiv.org/pdf/2404.19733v1.pdf), cication: [**-1**](None)
+
+	 *Richard Yuanzhe Pang, Weizhe Yuan, Kyunghyun Cho, He He, Sainbayar Sukhbaatar, Jason Weston*
 - **Insights into Alignment: Evaluating DPO and its Variants Across Multiple
   Tasks**, `arXiv, 2404.14723`, [arxiv](http://arxiv.org/abs/2404.14723v1), [pdf](http://arxiv.org/pdf/2404.14723v1.pdf), cication: [**-1**](None)
 

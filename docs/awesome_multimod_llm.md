@@ -15,6 +15,9 @@
 	- [Reference](#reference)
 
 ## Survey
+- **Hallucination of Multimodal Large Language Models: A Survey**, `arXiv, 2404.18930`, [arxiv](http://arxiv.org/abs/2404.18930v1), [pdf](http://arxiv.org/pdf/2404.18930v1.pdf), cication: [**-1**](None)
+
+	 *Zechen Bai, Pichao Wang, Tianjun Xiao, Tong He, Zongbo Han, Zheng Zhang, Mike Zheng Shou*
 - **A Review of Multi-Modal Large Language and Vision Models**, `arXiv, 2404.01322`, [arxiv](http://arxiv.org/abs/2404.01322v1), [pdf](http://arxiv.org/pdf/2404.01322v1.pdf), cication: [**-1**](None)
 
 	 *Kilian Carolan, Laura Fennelly, Alan F. Smeaton*
@@ -69,6 +72,10 @@
 - [**LocalMamba**](https://github.com/hunto/LocalMamba) - hunto ![Star](https://img.shields.io/github/stars/hunto/LocalMamba.svg?style=social&label=Star)
 
 	 *Code for paper LocalMamba: Visual State Space Model with Windowed Selective Scan*
+- **AM-RADIO: Agglomerative Vision Foundation Model -- Reduce All Domains
+  Into One**, `arXiv, 2312.06709`, [arxiv](http://arxiv.org/abs/2312.06709v5), [pdf](http://arxiv.org/pdf/2312.06709v5.pdf), cication: [**-1**](None)
+
+	 *Mike Ranzinger, Greg Heinrich, Jan Kautz, Pavlo Molchanov* · ([radio](https://github.com/nvlabs/radio) - nvlabs) ![Star](https://img.shields.io/github/stars/nvlabs/radio.svg?style=social&label=Star)
 
 ### Video
 - **PLLaVA : Parameter-free LLaVA Extension from Images to Videos for Video
@@ -216,6 +223,9 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
+- **Visual Fact Checker: Enabling High-Fidelity Detailed Caption Generation**, `arXiv, 2404.19752`, [arxiv](http://arxiv.org/abs/2404.19752v1), [pdf](http://arxiv.org/pdf/2404.19752v1.pdf), cication: [**-1**](None)
+
+	 *Yunhao Ge, Xiaohui Zeng, Jacob Samuel Huffman, Tsung-Yi Lin, Ming-Yu Liu, Yin Cui*
 - **TinyChart: Efficient Chart Understanding with Visual Token Merging and
   Program-of-Thoughts Learning**, `arXiv, 2404.16635`, [arxiv](http://arxiv.org/abs/2404.16635v1), [pdf](http://arxiv.org/pdf/2404.16635v1.pdf), cication: [**-1**](None)
 
@@ -977,6 +987,9 @@
 	 *Shaohan Huang, Li Dong, Wenhui Wang, Yaru Hao, Saksham Singhal, Shuming Ma, Tengchao Lv, Lei Cui, Owais Khan Mohammed, Barun Patra*
 
 ## Audio
+- **LLM-AD: Large Language Model based Audio Description System**, `arXiv, 2405.00983`, [arxiv](http://arxiv.org/abs/2405.00983v1), [pdf](http://arxiv.org/pdf/2405.00983v1.pdf), cication: [**-1**](None)
+
+	 *Peng Chu, Jiang Wang, Andre Abrantes*
 - **Teaching a Multilingual Large Language Model to Understand Multilingual
   Speech via Multi-Instructional Training**, `arXiv, 2404.10922`, [arxiv](http://arxiv.org/abs/2404.10922v1), [pdf](http://arxiv.org/pdf/2404.10922v1.pdf), cication: [**-1**](None)
 
@@ -1092,6 +1105,10 @@
 	 *Xueliang Zhao, Xinting Huang, Tingchen Fu, Qintong Li, Shansan Gong, Lemao Liu, Wei Bi, Lingpeng Kong*
 
 ## Efficient 
+- **Octopus v3: Technical Report for On-device Sub-billion Multimodal AI
+  Agent**, `arXiv, 2404.11459`, [arxiv](http://arxiv.org/abs/2404.11459v2), [pdf](http://arxiv.org/pdf/2404.11459v2.pdf), cication: [**-1**](None)
+
+	 *Wei Chen, Zhiyuan Li* · ([nexa4ai](https://www.nexa4ai.com/apply)) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-05-02-3))
 - **On Speculative Decoding for Multimodal Large Language Models**, `arXiv, 2404.08856`, [arxiv](http://arxiv.org/abs/2404.08856v1), [pdf](http://arxiv.org/pdf/2404.08856v1.pdf), cication: [**-1**](None)
 
 	 *Mukul Gagrani, Raghavv Goel, Wonseok Jeon, Junyoung Park, Mingu Lee, Christopher Lott*
@@ -1201,6 +1218,9 @@
 - [**BakLLaVA-1**](https://huggingface.co/SkunkworksAI/BakLLaVA-1) - SkunkworksAI 🤗
 
 ## Evaluation
+- [**reka-vibe-eval**](https://github.com/reka-ai/reka-vibe-eval) - reka-ai ![Star](https://img.shields.io/github/stars/reka-ai/reka-vibe-eval.svg?style=social&label=Star)
+
+	 *Multimodal language model benchmark, featuring challenging examples* · ([publications.reka](https://publications.reka.ai/reka-vibe-eval.pdf)) · ([huggingface](https://huggingface.co/datasets/RekaAI/VibeEval))
 - **SEED-Bench-2-Plus: Benchmarking Multimodal Large Language Models with
   Text-Rich Visual Comprehension**, `arXiv, 2404.16790`, [arxiv](http://arxiv.org/abs/2404.16790v1), [pdf](http://arxiv.org/pdf/2404.16790v1.pdf), cication: [**-1**](None)
 
@@ -1281,6 +1301,9 @@
 	 *Yuliang Liu, Zhang Li, Biao Yang, Chunyuan Li, Xucheng Yin, Cheng-lin Liu, Lianwen Jin, Xiang Bai* · ([MultimodalOCR](https://github.com/Yuliang-Liu/MultimodalOCR) - Yuliang-Liu) ![Star](https://img.shields.io/github/stars/Yuliang-Liu/MultimodalOCR.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652442102&idx=4&sn=64a53646c57797a00b9db186f339c5eb))
 
 ## Datasets
+- **DOCCI: Descriptions of Connected and Contrasting Images**, `arXiv, 2404.19753`, [arxiv](http://arxiv.org/abs/2404.19753v1), [pdf](http://arxiv.org/pdf/2404.19753v1.pdf), cication: [**-1**](None)
+
+	 *Yasumasa Onoe, Sunayana Rane, Zachary Berger, Yonatan Bitton, Jaemin Cho, Roopal Garg, Alexander Ku, Zarana Parekh, Jordi Pont-Tuset, Garrett Tanzer*
 - [**the_cauldron**](https://huggingface.co/datasets/HuggingFaceM4/the_cauldron) - HuggingFaceM4 🤗
 - **Unlocking the conversion of Web Screenshots into HTML Code with the
   WebSight Dataset**, `arXiv, 2403.09029`, [arxiv](http://arxiv.org/abs/2403.09029v1), [pdf](http://arxiv.org/pdf/2403.09029v1.pdf), cication: [**-1**](None)

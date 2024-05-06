@@ -308,7 +308,13 @@
 	 · [intercode-benchmark.github](https://intercode-benchmark.github.io/)
 
 ## Projects
-- [Site Unreachable](https://huggingface.co/bigcode/starcoder2-15b-instruct-v0.1)
+- [**codegemma-1.1-7b-it**](https://huggingface.co/google/codegemma-1.1-7b-it) - google 🤗
+- [**repoqa**](https://github.com/evalplus/repoqa) - evalplus ![Star](https://img.shields.io/github/stars/evalplus/repoqa.svg?style=social&label=Star)
+
+	 *RepoQA: Evaluating Long-Context Code Understanding* · ([repoqa](https://github.com/evalplus/repoqa) - evalplus) ![Star](https://img.shields.io/github/stars/evalplus/repoqa.svg?style=social&label=Star)
+- [**starcoder2-15b-instruct-v0.1**](https://huggingface.co/bigcode/starcoder2-15b-instruct-v0.1) - bigcode 🤗
+
+	 · ([huggingface](https://huggingface.co/blog/sc2-instruct))
 
 	 · ([huggingface](https://huggingface.co/blog/sc2-instruct))
 - [**leaderboard**](https://huggingface.co/spaces/livecodebench/leaderboard) - livecodebench 🤗
