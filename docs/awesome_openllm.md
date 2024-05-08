@@ -177,6 +177,7 @@
 - [**Llama-3-8B-Instruct-Gradient-1048k**](https://huggingface.co/gradientai/Llama-3-8B-Instruct-Gradient-1048k) - gradientai 🤗
 - [**Hermes-2-Pro-Llama-3-8B**](https://huggingface.co/NousResearch/Hermes-2-Pro-Llama-3-8B) - NousResearch 🤗
 - [**Llama3-ChatQA-1.5-8B**](https://huggingface.co/nvidia/Llama3-ChatQA-1.5-8B) - nvidia 🤗
+- [Site Unreachable](https://huggingface.co/mlabonne/Meta-Llama-3-120B-Instruct)
 ### Jamba
 - **Jamba: A Hybrid Transformer-Mamba Language Model**, `arXiv, 2403.19887`, [arxiv](http://arxiv.org/abs/2403.19887v1), [pdf](http://arxiv.org/pdf/2403.19887v1.pdf), cication: [**-1**](None)
 
@@ -511,6 +512,9 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652433445&idx=1&sn=0ee21f65b045cbedc99676144d66a502)) · ([huggingface](https://huggingface.co/internlm))
 - [**internlm2-chat-7b**](https://huggingface.co/internlm/internlm2-chat-7b) - internlm 🤗
 ### DeepSeek 
+- [**DeepSeek-V2**](https://github.com/deepseek-ai/DeepSeek-V2) - deepseek-ai ![Star](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-V2.svg?style=social&label=Star)
+
+	 · ([DeepSeek-V2](https://github.com/deepseek-ai/DeepSeek-V2/blob/main/deepseek-v2-tech-report.pdf) - deepseek-ai) ![Star](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-V2.svg?style=social&label=Star)
 - **DeepSeek-Coder: When the Large Language Model Meets Programming -- The
   Rise of Code Intelligence**, `arXiv, 2401.14196`, [arxiv](http://arxiv.org/abs/2401.14196v1), [pdf](http://arxiv.org/pdf/2401.14196v1.pdf), cication: [**-1**](None)
 

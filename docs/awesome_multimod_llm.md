@@ -563,6 +563,8 @@
 	 *Ji Lin, Hongxu Yin, Wei Ping, Yao Lu, Pavlo Molchanov, Andrew Tao, Huizi Mao, Jan Kautz, Mohammad Shoeybi, Song Han*
 
 	 · ([huggingface](https://huggingface.co/Efficient-Large-Model))
+
+	 · ([vila](https://github.com/efficient-large-model/vila) - efficient-large-model) ![Star](https://img.shields.io/github/stars/efficient-large-model/vila.svg?style=social&label=Star)
 - **Vary: Scaling up the Vision Vocabulary for Large Vision-Language Models**, `arXiv, 2312.06109`, [arxiv](http://arxiv.org/abs/2312.06109v1), [pdf](http://arxiv.org/pdf/2312.06109v1.pdf), cication: [**-1**](None)
 
 	 *Haoran Wei, Lingyu Kong, Jinyue Chen, Liang Zhao, Zheng Ge, Jinrong Yang, Jianjian Sun, Chunrui Han, Xiangyu Zhang*
@@ -1301,6 +1303,9 @@
 	 *Yuliang Liu, Zhang Li, Biao Yang, Chunyuan Li, Xucheng Yin, Cheng-lin Liu, Lianwen Jin, Xiang Bai* · ([MultimodalOCR](https://github.com/Yuliang-Liu/MultimodalOCR) - Yuliang-Liu) ![Star](https://img.shields.io/github/stars/Yuliang-Liu/MultimodalOCR.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652442102&idx=4&sn=64a53646c57797a00b9db186f339c5eb))
 
 ## Datasets
+- **ImageInWords: Unlocking Hyper-Detailed Image Descriptions**, `arXiv, 2405.02793`, [arxiv](http://arxiv.org/abs/2405.02793v1), [pdf](http://arxiv.org/pdf/2405.02793v1.pdf), cication: [**-1**](None)
+
+	 *Roopal Garg, Andrea Burns, Burcu Karagol Ayan, Yonatan Bitton, Ceslee Montgomery, Yasumasa Onoe, Andrew Bunner, Ranjay Krishna, Jason Baldridge, Radu Soricut* · ([imageinwords](https://github.com/google/imageinwords) - google) ![Star](https://img.shields.io/github/stars/google/imageinwords.svg?style=social&label=Star) · ([google.github](https://google.github.io/imageinwords))
 - **DOCCI: Descriptions of Connected and Contrasting Images**, `arXiv, 2404.19753`, [arxiv](http://arxiv.org/abs/2404.19753v1), [pdf](http://arxiv.org/pdf/2404.19753v1.pdf), cication: [**-1**](None)
 
 	 *Yasumasa Onoe, Sunayana Rane, Zachary Berger, Yonatan Bitton, Jaemin Cho, Roopal Garg, Alexander Ku, Zarana Parekh, Jordi Pont-Tuset, Garrett Tanzer*

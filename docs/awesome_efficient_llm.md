@@ -446,6 +446,9 @@
 	 *Shufang Xie, Huishuai Zhang, Junliang Guo, Xu Tan, Jiang Bian, Hany Hassan Awadalla, Arul Menezes, Tao Qin, Rui Yan* · ([ResiDual](https://github.com/microsoft/ResiDual) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/ResiDual.svg?style=social&label=Star)
 
 ## Efficient Inference
+- **Hybrid LLM: Cost-Efficient and Quality-Aware Query Routing**, `arXiv, 2404.14618`, [arxiv](http://arxiv.org/abs/2404.14618v1), [pdf](http://arxiv.org/pdf/2404.14618v1.pdf), cication: [**-1**](None)
+
+	 *Dujian Ding, Ankur Mallick, Chi Wang, Robert Sim, Subhabrata Mukherjee, Victor Ruhle, Laks V. S. Lakshmanan, Ahmed Hassan Awadallah*
 - **Clover: Regressive Lightweight Speculative Decoding with Sequential
   Knowledge**, `arXiv, 2405.00263`, [arxiv](http://arxiv.org/abs/2405.00263v1), [pdf](http://arxiv.org/pdf/2405.00263v1.pdf), cication: [**-1**](None)
 
@@ -790,6 +793,9 @@
 	 *DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.*
 
 ## Efficient transformer
+- **Is Flash Attention Stable?**, `arXiv, 2405.02803`, [arxiv](http://arxiv.org/abs/2405.02803v1), [pdf](http://arxiv.org/pdf/2405.02803v1.pdf), cication: [**-1**](None)
+
+	 *Alicia Golden, Samuel Hsia, Fei Sun, Bilge Acun, Basil Hosmer, Yejin Lee, Zachary DeVito, Jeff Johnson, Gu-Yeon Wei, David Brooks*
 - **RecurrentGemma: Moving Past Transformers for Efficient Open Language
   Models**, `arXiv, 2404.07839`, [arxiv](http://arxiv.org/abs/2404.07839v1), [pdf](http://arxiv.org/pdf/2404.07839v1.pdf), cication: [**-1**](None)
 

@@ -283,6 +283,7 @@
 	 *Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao*
 
 ## Robotics
+- [**lerobot**](https://github.com/huggingface/lerobot) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/lerobot.svg?style=social&label=Star)
 - **Learning H-Infinity Locomotion Control**, `arXiv, 2404.14405`, [arxiv](http://arxiv.org/abs/2404.14405v1), [pdf](http://arxiv.org/pdf/2404.14405v1.pdf), cication: [**-1**](None)
 
 	 *Junfeng Long, Wenye Yu, Quanyi Li, Zirui Wang, Dahua Lin, Jiangmiao Pang*

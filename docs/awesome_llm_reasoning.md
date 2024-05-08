@@ -28,6 +28,9 @@
 	 *Jiankai Sun, Chuanyang Zheng, Enze Xie, Zhengying Liu, Ruihang Chu, Jianing Qiu, Jiaqi Xu, Mingyu Ding, Hongyang Li, Mengzhe Geng* · ([Awesome-Reasoning-Foundation-Models](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models) - reasoning-survey) ![Star](https://img.shields.io/github/stars/reasoning-survey/Awesome-Reasoning-Foundation-Models.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652421688&idx=3&sn=fcdc24edc7bc89ebcbcca0f7665e40f6))
 
 ## Reasoning
+- **MAmmoTH2: Scaling Instructions from the Web**, `arXiv, 2405.03548`, [arxiv](http://arxiv.org/abs/2405.03548v1), [pdf](http://arxiv.org/pdf/2405.03548v1.pdf), cication: [**-1**](None)
+
+	 *Xiang Yue, Tuney Zheng, Ge Zhang, Wenhu Chen* · ([tiger-ai-lab.github](https://tiger-ai-lab.github.io/MAmmoTH2/)) · ([MAmmoTH2](https://github.com/TIGER-AI-Lab/MAmmoTH2) - TIGER-AI-Lab) ![Star](https://img.shields.io/github/stars/TIGER-AI-Lab/MAmmoTH2.svg?style=social&label=Star)
 - **Toward Self-Improvement of LLMs via Imagination, Searching, and
   Criticizing**, `arXiv, 2404.12253`, [arxiv](http://arxiv.org/abs/2404.12253v1), [pdf](http://arxiv.org/pdf/2404.12253v1.pdf), cication: [**-1**](None)
 
@@ -398,6 +401,9 @@
 - [大模型Fewshot推理如何选择更好的示例](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495177&idx=2&sn=fe8353efed16a81e35462be06d5a6cea)
 
 ## Math reasoning
+- **AlphaMath Almost Zero: process Supervision without process**, `arXiv, 2405.03553`, [arxiv](http://arxiv.org/abs/2405.03553v1), [pdf](http://arxiv.org/pdf/2405.03553v1.pdf), cication: [**-1**](None)
+
+	 *Guoxin Chen, Minpeng Liao, Chengxi Li, Kai Fan*
 - **Rho-1: Not All Tokens Are What You Need**, `arXiv, 2404.07965`, [arxiv](http://arxiv.org/abs/2404.07965v1), [pdf](http://arxiv.org/pdf/2404.07965v1.pdf), cication: [**-1**](None)
 
 	 *Zhenghao Lin, Zhibin Gou, Yeyun Gong, Xiao Liu, Yelong Shen, Ruochen Xu, Chen Lin, Yujiu Yang, Jian Jiao, Nan Duan* · ([huggingface](https://huggingface.co/microsoft/rho-math-7b-interpreter-v0.1))
@@ -691,6 +697,7 @@
 	 *Maciej Besta, Nils Blach, Ales Kubicek, Robert Gerstenberger, Lukas Gianinazzi, Joanna Gajda, Tomasz Lehmann, Michal Podstawski, Hubert Niewiadomski, Piotr Nyczyk* · ([graph-of-thoughts](https://github.com/spcl/graph-of-thoughts) - spcl) ![Star](https://img.shields.io/github/stars/spcl/graph-of-thoughts.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-08-25-3))
 
 ### Other
+- [Site Unreachable](https://cameronrwolfe.substack.com/p/modern-advances-in-prompt-engineering)
 - [Improving Prompt Consistency with Structured Generations](https://huggingface.co/blog/evaluation-structured-outputs)
 - [Lessons after a half-billion GPT tokens - Ken Kantzer's Blog](https://kenkantzer.com/lessons-after-a-half-billion-gpt-tokens)
 

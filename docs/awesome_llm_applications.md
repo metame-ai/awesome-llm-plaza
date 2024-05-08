@@ -54,6 +54,12 @@
 - [Navigating the Jagged Technological Frontier: Field Experimental Evidence of the Effects of AI on Knowledge Worker Productivity and Quality](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4573321)
 
 ## Toolkits 
+- [**web-llm**](https://github.com/mlc-ai/web-llm) - mlc-ai ![Star](https://img.shields.io/github/stars/mlc-ai/web-llm.svg?style=social&label=Star)
+
+	 *Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.*
+- [**secret-llama**](https://github.com/abi/secret-llama) - abi ![Star](https://img.shields.io/github/stars/abi/secret-llama.svg?style=social&label=Star)
+
+	 *Fully private LLM chatbot that runs entirely with a browser with no server needed. Supports Mistral and LLama 3.*
 - [**text-generation-inference**](https://github.com/huggingface/text-generation-inference) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/text-generation-inference.svg?style=social&label=Star)
 
 	 *Large Language Model Text Generation Inference*
@@ -248,6 +254,9 @@
 
 
 ## Medical
+- **Advancing Multimodal Medical Capabilities of Gemini**, `arXiv, 2405.03162`, [arxiv](http://arxiv.org/abs/2405.03162v1), [pdf](http://arxiv.org/pdf/2405.03162v1.pdf), cication: [**-1**](None)
+
+	 *Lin Yang, Shawn Xu, Andrew Sellergren, Timo Kohlberger, Yuchen Zhou, Ira Ktena, Atilla Kiraly, Faruk Ahmed, Farhad Hormozdiari, Tiam Jaroensri*
 - **Capabilities of Gemini Models in Medicine**, `arXiv, 2404.18416`, [arxiv](http://arxiv.org/abs/2404.18416v2), [pdf](http://arxiv.org/pdf/2404.18416v2.pdf), cication: [**-1**](None)
 
 	 *Khaled Saab, Tao Tu, Wei-Hung Weng, Ryutaro Tanno, David Stutz, Ellery Wulczyn, Fan Zhang, Tim Strother, Chunjong Park, Elahe Vedadi*

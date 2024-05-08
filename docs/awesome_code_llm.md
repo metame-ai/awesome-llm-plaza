@@ -308,6 +308,9 @@
 	 · [intercode-benchmark.github](https://intercode-benchmark.github.io/)
 
 ## Projects
+- [**granite-code-models**](https://github.com/ibm-granite/granite-code-models) - ibm-granite ![Star](https://img.shields.io/github/stars/ibm-granite/granite-code-models.svg?style=social&label=Star)
+
+	 *Granite Code Models: A Family of Open Foundation Models for Code Intelligence* · ([granite-code-models](https://github.com/ibm-granite/granite-code-models/blob/main/paper.pdf) - ibm-granite) ![Star](https://img.shields.io/github/stars/ibm-granite/granite-code-models.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/collections/ibm-granite/granite-code-models-6624c5cec322e4c148c8b330))
 - [**codegemma-1.1-7b-it**](https://huggingface.co/google/codegemma-1.1-7b-it) - google 🤗
 - [**repoqa**](https://github.com/evalplus/repoqa) - evalplus ![Star](https://img.shields.io/github/stars/evalplus/repoqa.svg?style=social&label=Star)
 
@@ -336,6 +339,8 @@
 
 	 *SWE-agent: Agent Computer Interfaces Enable Software Engineering Language Models*
 	- `the agent interacts with a specialized terminal and enables important processing of files and executable tests to achieve good performance; on SWE-bench, SWE-agent resolves 12.29% of issues, achieving the state-of-the-art performance on the full test set.`
+
+	 · ([swe-agent](https://swe-agent.com/paper.pdf))
 - [**stable-code-instruct-3b**](https://huggingface.co/stabilityai/stable-code-instruct-3b) - stabilityai 🤗
 - [**devika**](https://github.com/stitionai/devika) - stitionai ![Star](https://img.shields.io/github/stars/stitionai/devika.svg?style=social&label=Star)
 
