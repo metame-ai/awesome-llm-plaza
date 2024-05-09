@@ -311,6 +311,8 @@
 
 	 *Ilija Radosavovic, Bike Zhang, Baifeng Shi, Jathushan Rajasegaran, Sarthak Kamat, Trevor Darrell, Koushil Sreenath, Jitendra Malik* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652460909&idx=4&sn=35870451c2c9c90bbbfc7be2bebe75d5))
 ### Demos
+- [twitter.com/heyBarsee/status/1788222961989701878](https://twitter.com/heyBarsee/status/1788222961989701878)
+- [Barsee 🐶 on X: "4/ Hong Kong AI and robotics scientists create robots that can "swarm" to work collectively and achieve tasks that would be impossible individually. https://t.co/KOisEyCu4D" / X](https://twitter.com/heyBarsee/status/1788222902539546720)
 - [**low_cost_robot**](https://github.com/AlexanderKoch-Koch/low_cost_robot) - AlexanderKoch-Koch ![Star](https://img.shields.io/github/stars/AlexanderKoch-Koch/low_cost_robot.svg?style=social&label=Star)
 - [twitter.com/\_akhaliq/status/1770108427735314813](https://twitter.com/_akhaliq/status/1770108427735314813)
 - [Barsee 🐶 on X: "This year is going to be the year of robotics 🤖 UC San Diego introduces Expressive Humanoid. Now robots can easily perform rich, diverse, and expressive motions in the real world. A THREAD: 👇🧵 https://t.co/sHlVnoOjhL" / X](https://twitter.com/heyBarsee/status/1770110514045104460)
@@ -323,6 +325,7 @@
 	 · [[qbitai](https://www.qbitai.com/2023/07/69054.html)]
 
 ## Other
+- [The Road to Embodied AI - Wayve](https://wayve.ai/thinking/road-to-embodied-ai/)
 - [Pollen-Vision: Unified interface for Zero-Shot vision models in robotics](https://huggingface.co/blog/pollen-vision)
 - [A team trained Mistral 7B playing DOOM](https://twitter.com/reach_vb/status/1772008460122509525)
 - talk: [Foundation Agent: a roadmap to build generally capable embodied AI that acts skillfully across many worlds, virtual or real.](https://twitter.com/DrJimFan/status/1770848955519107345)

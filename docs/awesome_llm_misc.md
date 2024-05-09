@@ -339,6 +339,9 @@
 - [Mamba: Linear-Time Sequence Modeling with Selective State Spaces (Paper Explained) - YouTube](https://www.youtube.com/watch?v=9dSkvxS2EB0&ab_channel=YannicKilcher)
 
 ## New model
+- **xLSTM: Extended Long Short-Term Memory**, `arXiv, 2405.04517`, [arxiv](http://arxiv.org/abs/2405.04517v1), [pdf](http://arxiv.org/pdf/2405.04517v1.pdf), cication: [**-1**](None)
+
+	 *Maximilian Beck, Korbinian Pöppel, Markus Spanring, Andreas Auer, Oleksandra Prudnikova, Michael Kopp, Günter Klambauer, Johannes Brandstetter, Sepp Hochreiter*
 - **HGRN2: Gated Linear RNNs with State Expansion**, `arXiv, 2404.07904`, [arxiv](http://arxiv.org/abs/2404.07904v1), [pdf](http://arxiv.org/pdf/2404.07904v1.pdf), cication: [**-1**](None)
 
 	 *Zhen Qin, Songlin Yang, Weixuan Sun, Xuyang Shen, Dong Li, Weigao Sun, Yiran Zhong*

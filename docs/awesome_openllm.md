@@ -177,7 +177,8 @@
 - [**Llama-3-8B-Instruct-Gradient-1048k**](https://huggingface.co/gradientai/Llama-3-8B-Instruct-Gradient-1048k) - gradientai 🤗
 - [**Hermes-2-Pro-Llama-3-8B**](https://huggingface.co/NousResearch/Hermes-2-Pro-Llama-3-8B) - NousResearch 🤗
 - [**Llama3-ChatQA-1.5-8B**](https://huggingface.co/nvidia/Llama3-ChatQA-1.5-8B) - nvidia 🤗
-- [Site Unreachable](https://huggingface.co/mlabonne/Meta-Llama-3-120B-Instruct)
+- [**Meta-Llama-3-120B-Instruct**](https://huggingface.co/mlabonne/Meta-Llama-3-120B-Instruct) - mlabonne 🤗
+- [Fetching Title#hjvd](https://lmsys.org/blog/2024-05-08-llama3/)
 ### Jamba
 - **Jamba: A Hybrid Transformer-Mamba Language Model**, `arXiv, 2403.19887`, [arxiv](http://arxiv.org/abs/2403.19887v1), [pdf](http://arxiv.org/pdf/2403.19887v1.pdf), cication: [**-1**](None)
 
