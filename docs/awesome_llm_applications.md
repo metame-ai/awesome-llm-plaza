@@ -54,6 +54,9 @@
 - [Navigating the Jagged Technological Frontier: Field Experimental Evidence of the Effects of AI on Knowledge Worker Productivity and Quality](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4573321)
 
 ## Toolkits 
+- [**Scrapegraph-ai**](https://github.com/VinciGit00/Scrapegraph-ai) - VinciGit00 ![Star](https://img.shields.io/github/stars/VinciGit00/Scrapegraph-ai.svg?style=social&label=Star)
+
+	 *Python scraper based on AI*
 - [**personal-ai**](https://github.com/Sh4yy/personal-ai) - Sh4yy ![Star](https://img.shields.io/github/stars/Sh4yy/personal-ai.svg?style=social&label=Star)
 - [**web-llm**](https://github.com/mlc-ai/web-llm) - mlc-ai ![Star](https://img.shields.io/github/stars/mlc-ai/web-llm.svg?style=social&label=Star)
 

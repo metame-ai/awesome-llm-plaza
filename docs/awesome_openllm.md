@@ -178,7 +178,9 @@
 - [**Hermes-2-Pro-Llama-3-8B**](https://huggingface.co/NousResearch/Hermes-2-Pro-Llama-3-8B) - NousResearch 🤗
 - [**Llama3-ChatQA-1.5-8B**](https://huggingface.co/nvidia/Llama3-ChatQA-1.5-8B) - nvidia 🤗
 - [**Meta-Llama-3-120B-Instruct**](https://huggingface.co/mlabonne/Meta-Llama-3-120B-Instruct) - mlabonne 🤗
-- [Fetching Title#hjvd](https://lmsys.org/blog/2024-05-08-llama3/)
+- [What’s up with Llama 3? Arena data analysis | LMSYS Org](https://lmsys.org/blog/2024-05-08-llama3/)
+- [Planning for Distillation of Llama 3 70b -> 4x8b / 25b : r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/1cnlmz2/planning_for_distillation_of_llama_3_70b_4x8b_25b/)
+- [**Llama-3-Refueled**](https://huggingface.co/refuelai/Llama-3-Refueled) - refuelai 🤗
 ### Jamba
 - **Jamba: A Hybrid Transformer-Mamba Language Model**, `arXiv, 2403.19887`, [arxiv](http://arxiv.org/abs/2403.19887v1), [pdf](http://arxiv.org/pdf/2403.19887v1.pdf), cication: [**-1**](None)
 
@@ -225,7 +227,9 @@
 - [**GemMoE-Beta-1**](https://huggingface.co/Crystalcareai/GemMoE-Beta-1) - Crystalcareai 🤗
 - [**Hebrew-Gemma-11B**](https://huggingface.co/yam-peleg/Hebrew-Gemma-11B) - yam-peleg 🤗
 - [Gemma finetuning should be much better now : r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/1bd18y8/gemma_finetuning_should_be_much_better_now/?rdt=59207)
+- [Gemma-10M Technical Overview. Motivation | by Akshgarg | May, 2024 | Medium](https://medium.com/@akshgarg_36829/gemma-10m-technical-overview-900adc4fbeeb)
 
+	 · ([gemma-2B-10M](https://github.com/mustafaaljadery/gemma-2B-10M?tab=readme-ov-file) - mustafaaljadery) ![Star](https://img.shields.io/github/stars/mustafaaljadery/gemma-2B-10M.svg?style=social&label=Star)
 ### OLMo
 - [OLMo 1.7–7B: A 24 point improvement on MMLU | by AI2 | Apr, 2024 | AI2 Blog](https://blog.allenai.org/olmo-1-7-7b-a-24-point-improvement-on-mmlu-92b43f7d269d)
 - [**OLMo-1.7-7B**](https://huggingface.co/allenai/OLMo-1.7-7B) - allenai 🤗
@@ -360,6 +364,7 @@
 	 · ([pythia](https://github.com/EleutherAI/pythia) - EleutherAI) ![Star](https://img.shields.io/github/stars/EleutherAI/pythia.svg?style=social&label=Star)
 
 ### Other
+- [Timeline of recent major LLM releases (past 2 months) : r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/1cn9sxa/timeline_of_recent_major_llm_releases_past_2)
 - [The History of Open-Source LLMs: Imitation and Alignment (Part Three)](https://cameronrwolfe.substack.com/p/the-history-of-open-source-llms-imitation)
 
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI1MjQ2OTQ3Ng==&mid=2247623963&idx=1&sn=e4b4be03cf313a55da81384edd8e9283))
@@ -431,6 +436,9 @@
 # Mulitlingual (chinese)
 
 ## Foundation
+- **ChuXin: 1.6B Technical Report**, `arXiv, 2405.04828`, [arxiv](http://arxiv.org/abs/2405.04828v1), [pdf](http://arxiv.org/pdf/2405.04828v1.pdf), cication: [**-1**](None)
+
+	 *Xiaomin Zhuang, Yufan Jiang, Qiaozhi He, Zhihua Wu*
 - **Tele-FLM Technical Report**, `arXiv, 2404.16645`, [arxiv](http://arxiv.org/abs/2404.16645v1), [pdf](http://arxiv.org/pdf/2404.16645v1.pdf), cication: [**-1**](None)
 
 	 *Xiang Li, Yiqun Yao, Xin Jiang, Xuezhi Fang, Chao Wang, Xinzhang Liu, Zihan Wang, Yu Zhao, Xin Wang, Yuyao Huang*

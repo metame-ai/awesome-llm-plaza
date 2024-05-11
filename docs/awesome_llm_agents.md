@@ -92,6 +92,9 @@
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-18-4))
 ## Agents
+- [**pywinassistant**](https://github.com/a-real-ai/pywinassistant) - a-real-ai ![Star](https://img.shields.io/github/stars/a-real-ai/pywinassistant.svg?style=social&label=Star)
+
+	 *The first open source Large Action Model generalist Artificial Narrow Intelligence that controls completely human user interfaces by only using natural language. PyWinAssistant utilizes Visualization-of-Thought Elicits Spatial Reasoning in Large Language Models.*
 - [**agentkit**](https://github.com/holmeswww/agentkit) - holmeswww ![Star](https://img.shields.io/github/stars/holmeswww/agentkit.svg?style=social&label=Star)
 
 	 *An intuitive LLM prompting framework for multifunctional agents, by explicitly constructing a complex "thought process" from simple natural language prompts.*

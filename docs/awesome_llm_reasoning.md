@@ -57,6 +57,8 @@
 
 	 *Wenshan Wu, Shaoguang Mao, Yadong Zhang, Yan Xia, Li Dong, Lei Cui, Furu Wei*
 	- `VoT enables LLMs to "visualize" their reasoning traces, creating internal mental images, that help to guide subsequent reasoning steps; when tested on multi-hop spatial reasoning tasks like visual tiling and visual navigation, VoT outperforms existing multimodal LLMs.`
+
+	 · ([pywinassistant](https://github.com/a-real-ai/pywinassistant) - a-real-ai) ![Star](https://img.shields.io/github/stars/a-real-ai/pywinassistant.svg?style=social&label=Star)
 - **Advancing LLM Reasoning Generalists with Preference Trees**, `arXiv, 2404.02078`, [arxiv](http://arxiv.org/abs/2404.02078v1), [pdf](http://arxiv.org/pdf/2404.02078v1.pdf), cication: [**-1**](None)
 
 	 *Lifan Yuan, Ganqu Cui, Hanbin Wang, Ning Ding, Xingyao Wang, Jia Deng, Boji Shan, Huimin Chen, Ruobing Xie, Yankai Lin* · ([Eurus](https://github.com/OpenBMB/Eurus) - OpenBMB) ![Star](https://img.shields.io/github/stars/OpenBMB/Eurus.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/collections/openbmb/eurus-660bc40bec5376b3adc9d1c5))

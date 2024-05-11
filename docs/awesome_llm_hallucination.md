@@ -33,6 +33,9 @@
 	 *Cunxiang Wang, Xiaoze Liu, Yuanhao Yue, Xiangru Tang, Tianhang Zhang, Cheng Jiayang, Yunzhi Yao, Wenyang Gao, Xuming Hu, Zehan Qi* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-19-2))
 
 ## Papers
+- **Does Fine-Tuning LLMs on New Knowledge Encourage Hallucinations?**, `arXiv, 2405.05904`, [arxiv](http://arxiv.org/abs/2405.05904v1), [pdf](http://arxiv.org/pdf/2405.05904v1.pdf), cication: [**-1**](None)
+
+	 *Zorik Gekhman, Gal Yona, Roee Aharoni, Matan Eyal, Amir Feder, Roi Reichart, Jonathan Herzig*
 - **In Search of Truth: An Interrogation Approach to Hallucination Detection**, `arXiv, 2403.02889`, [arxiv](http://arxiv.org/abs/2403.02889v1), [pdf](http://arxiv.org/pdf/2403.02889v1.pdf), cication: [**-1**](None)
 
 	 *Yakir Yehuda, Itzik Malkiel, Oren Barkan, Jonathan Weill, Royi Ronen, Noam Koenigstein*

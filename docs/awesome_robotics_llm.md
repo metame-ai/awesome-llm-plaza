@@ -12,6 +12,10 @@
 	 *Yeseung Kim, Dohyun Kim, Jieun Choi, Jisang Park, Nayoung Oh, Daehyung Park*
 
 ## Papers
+- **From LLMs to Actions: Latent Codes as Bridges in Hierarchical Robot
+  Control**, `arXiv, 2405.04798`, [arxiv](http://arxiv.org/abs/2405.04798v1), [pdf](http://arxiv.org/pdf/2405.04798v1.pdf), cication: [**-1**](None)
+
+	 *Yide Shentu, Philipp Wu, Aravind Rajeswaran, Pieter Abbeel*
 - **LEGENT: Open Platform for Embodied Agents**, `arXiv, 2404.18243`, [arxiv](http://arxiv.org/abs/2404.18243v1), [pdf](http://arxiv.org/pdf/2404.18243v1.pdf), cication: [**-1**](None)
 
 	 *Zhili Cheng, Zhitong Wang, Jinyi Hu, Shengding Hu, An Liu, Yuge Tu, Pengkai Li, Lei Shi, Zhiyuan Liu, Maosong Sun*
@@ -311,6 +315,7 @@
 
 	 *Ilija Radosavovic, Bike Zhang, Baifeng Shi, Jathushan Rajasegaran, Sarthak Kamat, Trevor Darrell, Koushil Sreenath, Jitendra Malik* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652460909&idx=4&sn=35870451c2c9c90bbbfc7be2bebe75d5))
 ### Demos
+- [Fetching Title#oqzs](https://arstechnica.com/gadgets/2024/05/robot-dogs-armed-with-ai-targeting-rifles-undergo-us-marines-special-ops-evaluation/)
 - [twitter.com/heyBarsee/status/1788222961989701878](https://twitter.com/heyBarsee/status/1788222961989701878)
 - [Barsee 🐶 on X: "4/ Hong Kong AI and robotics scientists create robots that can "swarm" to work collectively and achieve tasks that would be impossible individually. https://t.co/KOisEyCu4D" / X](https://twitter.com/heyBarsee/status/1788222902539546720)
 - [**low_cost_robot**](https://github.com/AlexanderKoch-Koch/low_cost_robot) - AlexanderKoch-Koch ![Star](https://img.shields.io/github/stars/AlexanderKoch-Koch/low_cost_robot.svg?style=social&label=Star)

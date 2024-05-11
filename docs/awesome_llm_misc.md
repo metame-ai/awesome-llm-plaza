@@ -800,11 +800,16 @@
 - [Eye on AI - YouTube](https://www.youtube.com/@eyeonai3425/podcasts)
 
 ### Blogs
+- [**Transformers-Tutorials**](https://github.com/NielsRogge/Transformers-Tutorials) - NielsRogge ![Star](https://img.shields.io/github/stars/NielsRogge/Transformers-Tutorials.svg?style=social&label=Star)
+
+	 *This repository contains demos I made with the Transformers library by HuggingFace.*
 - [How I got into deep learning - Vikas Paruchuri](https://www.vikas.sh/post/how-i-got-into-deep-learning)
 - [NLP Newsletter | elvis | Substack](https://nlp.elvissaravia.com/)
 - [Archive • AI News • Buttondown](https://buttondown.email/ainews/archive/)
 - [Sebastian Raschka, PhD | Substack](https://substack.com/@rasbt)
 - [Lil'Log](https://lilianweng.github.io/)
+
+- [网传Ilya Sutskever的推荐清单火了，掌握当前AI 90% | 机器之心](https://www.jiqizhixin.com/articles/2024-05-09-7)
 
 ## Extra reference
 - [**mamba_state_space_model_paper_list**](https://github.com/event-ahu/mamba_state_space_model_paper_list) - event-ahu ![Star](https://img.shields.io/github/stars/event-ahu/mamba_state_space_model_paper_list.svg?style=social&label=Star)

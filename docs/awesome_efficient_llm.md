@@ -186,6 +186,7 @@
 	 *Peng Gao, Jiaming Han, Renrui Zhang, Ziyi Lin, Shijie Geng, Aojun Zhou, Wei Zhang, Pan Lu, Conghui He, Xiangyu Yue* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652345558&idx=3&sn=2a4d204397fe364a05ce5a35bb93d6ce))
 
 ### Other
+-  [instruction tuning experiments with LoRA/QLoRA](https://twitter.com/cwolferesearch/status/1788998798414410032)
 - [LoRA及其变体概述：LoRA, DoRA, AdaLoRA, Delta-LoRA](https://mp.weixin.qq.com/s?__biz=MzI1MjQ2OTQ3Ng==&mid=2247632908&idx=2&sn=f2daa489741ccc4a7f8f9c4c178c4740)
 
 ## Quantization
@@ -199,6 +200,10 @@
 	 *Xunyu Zhu, Jian Li, Yong Liu, Can Ma, Weiping Wang* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-08-26-5))
 
 ### Papers
+- **QServe: W4A8KV4 Quantization and System Co-design for Efficient LLM
+  Serving**, `arXiv, 2405.04532`, [arxiv](http://arxiv.org/abs/2405.04532v1), [pdf](http://arxiv.org/pdf/2405.04532v1.pdf), cication: [**-1**](None)
+
+	 *Yujun Lin, Haotian Tang, Shang Yang, Zhekai Zhang, Guangxuan Xiao, Chuang Gan, Song Han* · ([qserve](https://github.com/mit-han-lab/qserve) - mit-han-lab) ![Star](https://img.shields.io/github/stars/mit-han-lab/qserve.svg?style=social&label=Star)
 - **QuaRot: Outlier-Free 4-Bit Inference in Rotated LLMs**, `arXiv, 2404.00456`, [arxiv](http://arxiv.org/abs/2404.00456v1), [pdf](http://arxiv.org/pdf/2404.00456v1.pdf), cication: [**-1**](None)
 
 	 *Saleh Ashkboos, Amirkeivan Mohtashami, Maximilian L. Croci, Bo Li, Martin Jaggi, Dan Alistarh, Torsten Hoefler, James Hensman* · ([QuaRot](https://github.com/spcl/QuaRot?tab=readme-ov-file) - spcl) ![Star](https://img.shields.io/github/stars/spcl/QuaRot.svg?style=social&label=Star)
@@ -446,6 +451,10 @@
 	 *Shufang Xie, Huishuai Zhang, Junliang Guo, Xu Tan, Jiang Bian, Hany Hassan Awadalla, Arul Menezes, Tao Qin, Rui Yan* · ([ResiDual](https://github.com/microsoft/ResiDual) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/ResiDual.svg?style=social&label=Star)
 
 ## Efficient Inference
+- **vAttention: Dynamic Memory Management for Serving LLMs without
+  PagedAttention**, `arXiv, 2405.04437`, [arxiv](http://arxiv.org/abs/2405.04437v1), [pdf](http://arxiv.org/pdf/2405.04437v1.pdf), cication: [**-1**](None)
+
+	 *Ramya Prabhu, Ajay Nayak, Jayashree Mohan, Ramachandran Ramjee, Ashish Panwar*
 - **Hybrid LLM: Cost-Efficient and Quality-Aware Query Routing**, `arXiv, 2404.14618`, [arxiv](http://arxiv.org/abs/2404.14618v1), [pdf](http://arxiv.org/pdf/2404.14618v1.pdf), cication: [**-1**](None)
 
 	 *Dujian Ding, Ankur Mallick, Chi Wang, Robert Sim, Subhabrata Mukherjee, Victor Ruhle, Laks V. S. Lakshmanan, Ahmed Hassan Awadallah*
@@ -486,6 +495,9 @@
 - **Dynamic Memory Compression: Retrofitting LLMs for Accelerated Inference**, `arXiv, 2403.09636`, [arxiv](http://arxiv.org/abs/2403.09636v1), [pdf](http://arxiv.org/pdf/2403.09636v1.pdf), cication: [**-1**](None)
 
 	 *Piotr Nawrot, Adrian Łańcucki, Marcin Chochowski, David Tarjan, Edoardo M. Ponti*
+- **CLLMs: Consistency Large Language Models**, `arXiv, 2403.00835`, [arxiv](http://arxiv.org/abs/2403.00835v3), [pdf](http://arxiv.org/pdf/2403.00835v3.pdf), cication: [**-1**](None)
+
+	 *Siqi Kou, Lanxiang Hu, Zhezhi He, Zhijie Deng, Hao Zhang* · ([Consistency_LLM](https://github.com/hao-ai-lab/Consistency_LLM) - hao-ai-lab) ![Star](https://img.shields.io/github/stars/hao-ai-lab/Consistency_LLM.svg?style=social&label=Star) · ([hao-ai-lab.github](https://hao-ai-lab.github.io/blogs/cllm/))
 - **Keyformer: KV Cache Reduction through Key Tokens Selection for Efficient
   Generative Inference**, `arXiv, 2403.09054`, [arxiv](http://arxiv.org/abs/2403.09054v1), [pdf](http://arxiv.org/pdf/2403.09054v1.pdf), cication: [**-1**](None)
 
@@ -793,6 +805,9 @@
 	 *DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.*
 
 ## Efficient transformer
+- **You Only Cache Once: Decoder-Decoder Architectures for Language Models**, `arXiv, 2405.05254`, [arxiv](http://arxiv.org/abs/2405.05254v2), [pdf](http://arxiv.org/pdf/2405.05254v2.pdf), cication: [**-1**](None)
+
+	 *Yutao Sun, Li Dong, Yi Zhu, Shaohan Huang, Wenhui Wang, Shuming Ma, Quanlu Zhang, Jianyong Wang, Furu Wei* · ([aka](https://aka.ms/YOCO)) · ([unilm](https://github.com/microsoft/unilm/tree/master/YOCO) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/unilm.svg?style=social&label=Star)
 - **Is Flash Attention Stable?**, `arXiv, 2405.02803`, [arxiv](http://arxiv.org/abs/2405.02803v1), [pdf](http://arxiv.org/pdf/2405.02803v1.pdf), cication: [**-1**](None)
 
 	 *Alicia Golden, Samuel Hsia, Fei Sun, Bilge Acun, Basil Hosmer, Yejin Lee, Zachary DeVito, Jeff Johnson, Gu-Yeon Wei, David Brooks*

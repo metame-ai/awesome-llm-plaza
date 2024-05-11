@@ -482,6 +482,7 @@
 	 *Juhao Liang, Ziwei Wang, Zhuoheng Ma, Jianquan Li, Zhiyi Zhang, Xiangbo Wu, Benyou Wang*
 
 ## Toolkits
+- [ZeRO++ - DeepSpeed](https://www.deepspeed.ai/tutorials/zeropp/)
 - [**torchtitan**](https://github.com/pytorch/torchtitan) - pytorch ![Star](https://img.shields.io/github/stars/pytorch/torchtitan.svg?style=social&label=Star)
 
 	 *A native PyTorch Library for large model training*

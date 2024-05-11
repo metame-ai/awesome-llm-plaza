@@ -78,6 +78,7 @@
 	 *Mike Ranzinger, Greg Heinrich, Jan Kautz, Pavlo Molchanov* · ([radio](https://github.com/nvlabs/radio) - nvlabs) ![Star](https://img.shields.io/github/stars/nvlabs/radio.svg?style=social&label=Star)
 
 ### Video
+
 - **PLLaVA : Parameter-free LLaVA Extension from Images to Videos for Video
   Dense Captioning**, `arXiv, 2404.16994`, [arxiv](http://arxiv.org/abs/2404.16994v2), [pdf](http://arxiv.org/pdf/2404.16994v2.pdf), cication: [**-1**](None)
 
@@ -223,6 +224,12 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
+- **CuMo: Scaling Multimodal LLM with Co-Upcycled Mixture-of-Experts**, `arXiv, 2405.05949`, [arxiv](http://arxiv.org/abs/2405.05949v1), [pdf](http://arxiv.org/pdf/2405.05949v1.pdf), cication: [**-1**](None)
+
+	 *Jiachen Li, Xinyao Wang, Sijie Zhu, Chia-Wen Kuo, Lu Xu, Fan Chen, Jitesh Jain, Humphrey Shi, Longyin Wen* · ([CuMo](https://github.com/SHI-Labs/CuMo) - SHI-Labs) ![Star](https://img.shields.io/github/stars/SHI-Labs/CuMo.svg?style=social&label=Star) · ([chrisjuniorli.github](https://chrisjuniorli.github.io/project/CuMo/))
+- **Efficient Multimodal Learning from Data-centric Perspective**, `arXiv, 2402.11530`, [arxiv](http://arxiv.org/abs/2402.11530v1), [pdf](http://arxiv.org/pdf/2402.11530v1.pdf), cication: [**-1**](None)
+
+	 *Muyang He, Yexin Liu, Boya Wu, Jianhao Yuan, Yueze Wang, Tiejun Huang, Bo Zhao* · ([Bunny](https://github.com/BAAI-DCAI/Bunny) - BAAI-DCAI) ![Star](https://img.shields.io/github/stars/BAAI-DCAI/Bunny.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/BAAI/Bunny-Llama-3-8B-V))
 - **Visual Fact Checker: Enabling High-Fidelity Detailed Caption Generation**, `arXiv, 2404.19752`, [arxiv](http://arxiv.org/abs/2404.19752v1), [pdf](http://arxiv.org/pdf/2404.19752v1.pdf), cication: [**-1**](None)
 
 	 *Yunhao Ge, Xiaohui Zeng, Jacob Samuel Huffman, Tsung-Yi Lin, Ming-Yu Liu, Yin Cui*
@@ -1220,6 +1227,9 @@
 - [**BakLLaVA-1**](https://huggingface.co/SkunkworksAI/BakLLaVA-1) - SkunkworksAI 🤗
 
 ## Evaluation
+- [Stanford CRFM](https://crfm.stanford.edu/2024/05/08/vhelm-initial.html)
+
+	 · ([crfm.stanford](https://crfm.stanford.edu/helm/vhelm/v1.0.0/))
 - [**reka-vibe-eval**](https://github.com/reka-ai/reka-vibe-eval) - reka-ai ![Star](https://img.shields.io/github/stars/reka-ai/reka-vibe-eval.svg?style=social&label=Star)
 
 	 *Multimodal language model benchmark, featuring challenging examples* · ([publications.reka](https://publications.reka.ai/reka-vibe-eval.pdf)) · ([huggingface](https://huggingface.co/datasets/RekaAI/VibeEval))
