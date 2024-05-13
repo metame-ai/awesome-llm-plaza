@@ -500,6 +500,7 @@
 	 *基于CPM基础模型的中英双语多模态大模型系列* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-07-03-3))
 
 ### Yi-01
+- [Site Unreachable](https://huggingface.co/collections/01-ai/yi-15-2024-05-663f3ecab5f815a3eaca7ca8)
 - **Yi: Open Foundation Models by 01.AI**, `arXiv, 2403.04652`, [arxiv](http://arxiv.org/abs/2403.04652v1), [pdf](http://arxiv.org/pdf/2403.04652v1.pdf), cication: [**-1**](None)
 
 	 *01. AI, :, Alex Young, Bei Chen, Chao Li, Chengen Huang, Ge Zhang, Guanwei Zhang, Heng Li, Jiangcheng Zhu*

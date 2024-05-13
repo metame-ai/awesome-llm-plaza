@@ -224,6 +224,7 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
+- [LLaVA-NeXT: Stronger LLMs Supercharge Multimodal Capabilities in the Wild](https://llava-vl.github.io/blog/2024-05-10-llava-next-stronger-llms/)
 - **CuMo: Scaling Multimodal LLM with Co-Upcycled Mixture-of-Experts**, `arXiv, 2405.05949`, [arxiv](http://arxiv.org/abs/2405.05949v1), [pdf](http://arxiv.org/pdf/2405.05949v1.pdf), cication: [**-1**](None)
 
 	 *Jiachen Li, Xinyao Wang, Sijie Zhu, Chia-Wen Kuo, Lu Xu, Fan Chen, Jitesh Jain, Humphrey Shi, Longyin Wen* · ([CuMo](https://github.com/SHI-Labs/CuMo) - SHI-Labs) ![Star](https://img.shields.io/github/stars/SHI-Labs/CuMo.svg?style=social&label=Star) · ([chrisjuniorli.github](https://chrisjuniorli.github.io/project/CuMo/))

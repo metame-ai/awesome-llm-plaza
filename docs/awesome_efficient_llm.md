@@ -451,6 +451,9 @@
 	 *Shufang Xie, Huishuai Zhang, Junliang Guo, Xu Tan, Jiang Bian, Hany Hassan Awadalla, Arul Menezes, Tao Qin, Rui Yan* · ([ResiDual](https://github.com/microsoft/ResiDual) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/ResiDual.svg?style=social&label=Star)
 
 ## Efficient Inference
+- [**ThunderKittens**](https://github.com/HazyResearch/ThunderKittens) - HazyResearch ![Star](https://img.shields.io/github/stars/HazyResearch/ThunderKittens.svg?style=social&label=Star)
+
+	 *Tile primitives for speedy kernels* · ([hazyresearch.stanford](https://hazyresearch.stanford.edu/blog/2024-05-12-tk))
 - **vAttention: Dynamic Memory Management for Serving LLMs without
   PagedAttention**, `arXiv, 2405.04437`, [arxiv](http://arxiv.org/abs/2405.04437v1), [pdf](http://arxiv.org/pdf/2405.04437v1.pdf), cication: [**-1**](None)
 

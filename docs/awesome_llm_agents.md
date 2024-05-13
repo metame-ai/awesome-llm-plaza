@@ -25,6 +25,10 @@
 	- [Extra reference](#extra-reference)
 
 ## Survey
+- **A Survey on RAG Meets LLMs: Towards Retrieval-Augmented Large Language
+  Models**, `arXiv, 2405.06211`, [arxiv](http://arxiv.org/abs/2405.06211v1), [pdf](http://arxiv.org/pdf/2405.06211v1.pdf), cication: [**-1**](None)
+
+	 *Yujuan Ding, Wenqi Fan, Liangbo Ning, Shijie Wang, Hengyun Li, Dawei Yin, Tat-Seng Chua, Qing Li*
 - **RAG and RAU: A Survey on Retrieval-Augmented Language Model in Natural
   Language Processing**, `arXiv, 2404.19543`, [arxiv](http://arxiv.org/abs/2404.19543v1), [pdf](http://arxiv.org/pdf/2404.19543v1.pdf), cication: [**-1**](None)
 
@@ -469,6 +473,7 @@
 - [数字身份智能体的基本原理及应用前景展望](https://mp.weixin.qq.com/s?__biz=MzI1MjQ2OTQ3Ng==&mid=2247611020&idx=1&sn=eeea2012a2bcfe541a138c9a4c42b837)
 
 ## AutoGPT
+- [**AutoGroq**](https://github.com/jgravelle/AutoGroq) - jgravelle ![Star](https://img.shields.io/github/stars/jgravelle/AutoGroq.svg?style=social&label=Star)
 - [**plandex**](https://github.com/plandex-ai/plandex) - plandex-ai ![Star](https://img.shields.io/github/stars/plandex-ai/plandex.svg?style=social&label=Star)
 - [**aideml**](https://github.com/WecoAI/aideml) - WecoAI ![Star](https://img.shields.io/github/stars/WecoAI/aideml.svg?style=social&label=Star)
 

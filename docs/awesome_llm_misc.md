@@ -447,6 +447,10 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652345558&idx=4&sn=95686435d5cad05d44cbe02bc26d6859))
 
 ## Interpretability 
+- **Fishing for Magikarp: Automatically Detecting Under-trained Tokens in
+  Large Language Models**, `arXiv, 2405.05417`, [arxiv](http://arxiv.org/abs/2405.05417v1), [pdf](http://arxiv.org/pdf/2405.05417v1.pdf), cication: [**-1**](None)
+
+	 *Sander Land, Max Bartolo* · ([magikarp](https://github.com/cohere-ai/magikarp/) - cohere-ai) ![Star](https://img.shields.io/github/stars/cohere-ai/magikarp.svg?style=social&label=Star)
 - **A Primer on the Inner Workings of Transformer-based Language Models**, `arXiv, 2405.00208`, [arxiv](http://arxiv.org/abs/2405.00208v2), [pdf](http://arxiv.org/pdf/2405.00208v2.pdf), cication: [**-1**](None)
 
 	 *Javier Ferrando, Gabriele Sarti, Arianna Bisazza, Marta R. Costa-jussà*
