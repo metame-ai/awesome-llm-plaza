@@ -117,7 +117,7 @@
 
 ## Datasets
 - [**RedPajama-Data**](https://github.com/togethercomputer/RedPajama-Data) - togethercomputer ![Star](https://img.shields.io/github/stars/togethercomputer/RedPajama-Data.svg?style=social&label=Star)
-- [Fetching Title#llec](https://huggingface.co/datasets/HuggingFaceFW/fineweb)
+- [**fineweb**](https://huggingface.co/datasets/HuggingFaceFW/fineweb) - HuggingFaceFW 🤗
 - [**idl-wds**](https://huggingface.co/datasets/pixparse/idl-wds) - pixparse 🤗
 - [**synthetic_text_to_sql**](https://huggingface.co/datasets/gretelai/synthetic_text_to_sql) - gretelai 🤗
 - [**Caselaw_Access_Project**](https://huggingface.co/datasets/TeraflopAI/Caselaw_Access_Project) - TeraflopAI 🤗
@@ -142,6 +142,10 @@
 - [**peS2o**](https://huggingface.co/datasets/allenai/peS2o) - allenai 🤗
 
 ### Misc
+- **MS MARCO Web Search: a Large-scale Information-rich Web Dataset with
+  Millions of Real Click Labels**, `arXiv, 2405.07526`, [arxiv](http://arxiv.org/abs/2405.07526v1), [pdf](http://arxiv.org/pdf/2405.07526v1.pdf), cication: [**-1**](None)
+
+	 *Qi Chen, Xiubo Geng, Corby Rosset, Carolyn Buractaon, Jingwen Lu, Tao Shen, Kun Zhou, Chenyan Xiong, Yeyun Gong, Paul Bennett* · ([MS-MARCO-Web-Search](https://github.com/microsoft/MS-MARCO-Web-Search) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/MS-MARCO-Web-Search.svg?style=social&label=Star)
 - **WildChat: 1M ChatGPT Interaction Logs in the Wild**, `arXiv, 2405.01470`, [arxiv](http://arxiv.org/abs/2405.01470v1), [pdf](http://arxiv.org/pdf/2405.01470v1.pdf), cication: [**-1**](None)
 
 	 *Wenting Zhao, Xiang Ren, Jack Hessel, Claire Cardie, Yejin Choi, Yuntian Deng*

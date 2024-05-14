@@ -501,6 +501,9 @@
 	 *Chongming Gao, Wenqiang Lei, Xiangnan He, Maarten de Rijke, Tat-Seng Chua* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495345&idx=2&sn=5e3ac087c792081705dde1c2542c687a))
 
 ## Role play
+- **ChatQA: Building GPT-4 Level Conversational QA Models**, `arXiv, 2401.10225`, [arxiv](http://arxiv.org/abs/2401.10225v2), [pdf](http://arxiv.org/pdf/2401.10225v2.pdf), cication: [**-1**](None)
+
+	 *Zihan Liu, Wei Ping, Rajarshi Roy, Peng Xu, Chankyu Lee, Mohammad Shoeybi, Bryan Catanzaro*
 - **Social Skill Training with Large Language Models**, `arXiv, 2404.04204`, [arxiv](http://arxiv.org/abs/2404.04204v1), [pdf](http://arxiv.org/pdf/2404.04204v1.pdf), cication: [**-1**](None)
 
 	 *Diyi Yang, Caleb Ziems, William Held, Omar Shaikh, Michael S. Bernstein, John Mitchell*
@@ -905,6 +908,9 @@
 	 *Tongshuang Wu, Haiyi Zhu, Maya Albayrak, Alexis Axon, Amanda Bertsch, Wenxing Deng, Ziqi Ding, Bill Guo, Sireesh Gururaja, Tzu-Sheng Kuo*
 
 ## Misc
+- **Large Language Models as Planning Domain Generators**, `arXiv, 2405.06650`, [arxiv](http://arxiv.org/abs/2405.06650v1), [pdf](http://arxiv.org/pdf/2405.06650v1.pdf), cication: [**-1**](None)
+
+	 *James Oswald, Kavitha Srinivas, Harsha Kokel, Junkyu Lee, Michael Katz, Shirin Sohrabi* · ([NL2PDDL](https://github.com/IBM/NL2PDDL) - IBM) ![Star](https://img.shields.io/github/stars/IBM/NL2PDDL.svg?style=social&label=Star)
 - **From Words to Numbers: Your Large Language Model Is Secretly A Capable
   Regressor When Given In-Context Examples**, `arXiv, 2404.07544`, [arxiv](http://arxiv.org/abs/2404.07544v1), [pdf](http://arxiv.org/pdf/2404.07544v1.pdf), cication: [**-1**](None)
 

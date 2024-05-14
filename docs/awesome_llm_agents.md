@@ -67,6 +67,7 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652350213&idx=4&sn=47bef78ae85d99fccc45487e2fb1ff6b))
  
 ## LLM OS
+- [**phidata**](https://github.com/phidatahq/phidata/tree/main/cookbook/llm_os) - phidatahq ![Star](https://img.shields.io/github/stars/phidatahq/phidata.svg?style=social&label=Star)
 - **AIOS: LLM Agent Operating System**, `arXiv, 2403.16971`, [arxiv](http://arxiv.org/abs/2403.16971v2), [pdf](http://arxiv.org/pdf/2403.16971v2.pdf), cication: [**-1**](None)
 
 	 *Kai Mei, Zelong Li, Shuyuan Xu, Ruosong Ye, Yingqiang Ge, Yongfeng Zhang*
@@ -96,6 +97,9 @@
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-18-4))
 ## Agents
+- [**agentscope**](https://github.com/modelscope/agentscope) - modelscope ![Star](https://img.shields.io/github/stars/modelscope/agentscope.svg?style=social&label=Star)
+
+	 *Start building LLM-empowered multi-agent applications in an easier way.*
 - [**pywinassistant**](https://github.com/a-real-ai/pywinassistant) - a-real-ai ![Star](https://img.shields.io/github/stars/a-real-ai/pywinassistant.svg?style=social&label=Star)
 
 	 *The first open source Large Action Model generalist Artificial Narrow Intelligence that controls completely human user interfaces by only using natural language. PyWinAssistant utilizes Visualization-of-Thought Elicits Spatial Reasoning in Large Language Models.*
@@ -959,6 +963,9 @@
 	 *Interact privately with your documents using the power of GPT, 100% privately, no data leaks*
 
 ### Embedding
+- **Piccolo2: General Text Embedding with Multi-task Hybrid Loss Training**, `arXiv, 2405.06932`, [arxiv](http://arxiv.org/abs/2405.06932v1), [pdf](http://arxiv.org/pdf/2405.06932v1.pdf), cication: [**-1**](None)
+
+	 *Junqin Huang, Zhongjie Hu, Zihao Jing, Mengya Gao, Yichao Wu* · ([huggingface](https://huggingface.co/sensenova/))
 - [**snowflake-arctic-embed-m**](https://huggingface.co/Snowflake/snowflake-arctic-embed-m) - Snowflake 🤗
 
 	 · ([snowflake](https://www.snowflake.com/blog/introducing-snowflake-arctic-embed-snowflakes-state-of-the-art-text-embedding-family-of-models/))

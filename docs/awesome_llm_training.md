@@ -279,6 +279,9 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652375732&idx=2&sn=1cb4cefcd791af2a6ffacdf99e35225c))
 
 ## Optimization
+- [**psgd_torch**](https://github.com/lixilinx/psgd_torch) - lixilinx ![Star](https://img.shields.io/github/stars/lixilinx/psgd_torch.svg?style=social&label=Star)
+
+	 *Pytorch implementation of preconditioned stochastic gradient descent (affine group preconditioner, low-rank approximation preconditioner and more)* · ([Preconditioned-Stochastic-Gradient-Descent](https://github.com/opooladz/Preconditioned-Stochastic-Gradient-Descent) - opooladz) ![Star](https://img.shields.io/github/stars/opooladz/Preconditioned-Stochastic-Gradient-Descent.svg?style=social&label=Star)
 - **A Large-Scale Exploration of $μ$-Transfer**, `arXiv, 2404.05728`, [arxiv](http://arxiv.org/abs/2404.05728v1), [pdf](http://arxiv.org/pdf/2404.05728v1.pdf), cication: [**-1**](None)
 
 	 *Lucas Lingle*

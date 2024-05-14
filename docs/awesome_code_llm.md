@@ -23,6 +23,14 @@
 	 *Ziyin Zhang, Chaoyu Chen, Bingchang Liu, Cong Liao, Zi Gong, Hang Yu, Jianguo Li, Rui Wang*
 
 ## Paper
+- **LogoMotion: Visually Grounded Code Generation for Content-Aware
+  Animation**, `arXiv, 2405.07065`, [arxiv](http://arxiv.org/abs/2405.07065v1), [pdf](http://arxiv.org/pdf/2405.07065v1.pdf), cication: [**-1**](None)
+
+	 *Vivian Liu, Rubaiat Habib Kazi, Li-Yi Wei, Matthew Fisher, Timothy Langlois, Seth Walker, Lydia Chilton*
+- **Plot2Code: A Comprehensive Benchmark for Evaluating Multi-modal Large
+  Language Models in Code Generation from Scientific Plots**, `arXiv, 2405.07990`, [arxiv](http://arxiv.org/abs/2405.07990v1), [pdf](http://arxiv.org/pdf/2405.07990v1.pdf), cication: [**-1**](None)
+
+	 *Chengyue Wu, Yixiao Ge, Qiushan Guo, Jiahao Wang, Zhixuan Liang, Zeyu Lu, Ying Shan, Ping Luo* · ([huggingface](https://huggingface.co/datasets/TencentARC/Plot2Code))
 - **NExT: Teaching Large Language Models to Reason about Code Execution**, `arXiv, 2404.14662`, [arxiv](http://arxiv.org/abs/2404.14662v1), [pdf](http://arxiv.org/pdf/2404.14662v1.pdf), cication: [**-1**](None)
 
 	 *Ansong Ni, Miltiadis Allamanis, Arman Cohan, Yinlin Deng, Kensen Shi, Charles Sutton, Pengcheng Yin*
@@ -308,6 +316,7 @@
 	 · [intercode-benchmark.github](https://intercode-benchmark.github.io/)
 
 ## Projects
+- [**code_bagel_hermes-2.5**](https://huggingface.co/datasets/Replete-AI/code_bagel_hermes-2.5) - Replete-AI 🤗
 - [**granite-code-models**](https://github.com/ibm-granite/granite-code-models) - ibm-granite ![Star](https://img.shields.io/github/stars/ibm-granite/granite-code-models.svg?style=social&label=Star)
 
 	 *Granite Code Models: A Family of Open Foundation Models for Code Intelligence* · ([granite-code-models](https://github.com/ibm-granite/granite-code-models/blob/main/paper.pdf) - ibm-granite) ![Star](https://img.shields.io/github/stars/ibm-granite/granite-code-models.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/collections/ibm-granite/granite-code-models-6624c5cec322e4c148c8b330))

@@ -38,6 +38,10 @@
 # English
 
 ## Foundation
+- [**WizardLM-2-8x22B**](https://huggingface.co/alpindale/WizardLM-2-8x22B) - alpindale 🤗
+
+	 · ([wizardlm.github](https://wizardlm.github.io/WizardLM2/)) · ([WizardLM](https://github.com/victorsungo/WizardLM/tree/main/WizardLM-2) - victorsungo) ![Star](https://img.shields.io/github/stars/victorsungo/WizardLM.svg?style=social&label=Star)
+- [**MAP-NEO**](https://github.com/multimodal-art-projection/MAP-NEO) - multimodal-art-projection ![Star](https://img.shields.io/github/stars/multimodal-art-projection/MAP-NEO.svg?style=social&label=Star)
 - [Snowflake Arctic: The Best LLM for Enterprise AI — Efficiently Intelligent, Truly Open](https://www.snowflake.com/blog/arctic-open-efficient-foundation-language-models-snowflake/)
 
 	 · ([snowflake-arctic](https://github.com/Snowflake-Labs/snowflake-arctic) - Snowflake-Labs) ![Star](https://img.shields.io/github/stars/Snowflake-Labs/snowflake-arctic.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/Snowflake/snowflake-arctic-instruct)) · ([twitter](https://twitter.com/_philschmid/status/1783140561483960620))
@@ -645,6 +649,9 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s/Lf70i8M0KNDs9ZB8H32h4w))
 
 # Extra
+- **SUTRA: Scalable Multilingual Language Model Architecture**, `arXiv, 2405.06694`, [arxiv](http://arxiv.org/abs/2405.06694v1), [pdf](http://arxiv.org/pdf/2405.06694v1.pdf), cication: [**-1**](None)
+
+	 *Abhijit Bendale, Michael Sapienza, Steven Ripplinger, Simon Gibbs, Jaewon Lee, Pranav Mistry*
 - **SambaLingo: Teaching Large Language Models New Languages**, `arXiv, 2404.05829`, [arxiv](http://arxiv.org/abs/2404.05829v1), [pdf](http://arxiv.org/pdf/2404.05829v1.pdf), cication: [**-1**](None)
 
 	 *Zoltan Csaki, Bo Li, Jonathan Li, Qiantong Xu, Pian Pawakapan, Leon Zhang, Yun Du, Hengyu Zhao, Changran Hu, Urmish Thakker*

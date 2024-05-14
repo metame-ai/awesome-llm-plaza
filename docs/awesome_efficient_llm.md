@@ -451,6 +451,10 @@
 	 *Shufang Xie, Huishuai Zhang, Junliang Guo, Xu Tan, Jiang Bian, Hany Hassan Awadalla, Arul Menezes, Tao Qin, Rui Yan* · ([ResiDual](https://github.com/microsoft/ResiDual) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/ResiDual.svg?style=social&label=Star)
 
 ## Efficient Inference
+- **Conv-Basis: A New Paradigm for Efficient Attention Inference and
+  Gradient Computation in Transformers**, `arXiv, 2405.05219`, [arxiv](http://arxiv.org/abs/2405.05219v1), [pdf](http://arxiv.org/pdf/2405.05219v1.pdf), cication: [**-1**](None)
+
+	 *Jiuxiang Gu, Yingyu Liang, Heshan Liu, Zhenmei Shi, Zhao Song, Junze Yin*
 - [**ThunderKittens**](https://github.com/HazyResearch/ThunderKittens) - HazyResearch ![Star](https://img.shields.io/github/stars/HazyResearch/ThunderKittens.svg?style=social&label=Star)
 
 	 *Tile primitives for speedy kernels* · ([hazyresearch.stanford](https://hazyresearch.stanford.edu/blog/2024-05-12-tk))
