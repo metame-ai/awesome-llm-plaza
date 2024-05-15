@@ -185,6 +185,7 @@
 - [What’s up with Llama 3? Arena data analysis | LMSYS Org](https://lmsys.org/blog/2024-05-08-llama3/)
 - [Planning for Distillation of Llama 3 70b -> 4x8b / 25b : r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/1cnlmz2/planning_for_distillation_of_llama_3_70b_4x8b_25b/)
 - [**Llama-3-Refueled**](https://huggingface.co/refuelai/Llama-3-Refueled) - refuelai 🤗
+- [SFR-Instruct-LLaMA-3-8B-R - a Salesforce Collection](https://huggingface.co/collections/Salesforce/sfr-instruct-llama-3-8b-r-663d7063d49ef5e9e0b23b43)
 ### Jamba
 - **Jamba: A Hybrid Transformer-Mamba Language Model**, `arXiv, 2403.19887`, [arxiv](http://arxiv.org/abs/2403.19887v1), [pdf](http://arxiv.org/pdf/2403.19887v1.pdf), cication: [**-1**](None)
 
@@ -358,6 +359,7 @@
 	 *All the projects related to Llama*
 
 ### Falcon
+- [**falcon-11B**](https://huggingface.co/tiiuae/falcon-11B) - tiiuae 🤗
 - [Spread Your Wings: Falcon 180B is here](https://huggingface.co/blog/falcon-180b)
 - [**Falcon-LLM**](https://github.com/Sentdex/Falcon-LLM) - Sentdex ![Star](https://img.shields.io/github/stars/Sentdex/Falcon-LLM.svg?style=social&label=Star)
 

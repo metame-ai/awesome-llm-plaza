@@ -233,6 +233,9 @@
 
 	 *Kaijie Zhu, Jindong Wang, Jiaheng Zhou, Zichen Wang, Hao Chen, Yidong Wang, Linyi Yang, Wei Ye, Yue Zhang, Neil Zhenqiang Gong*
 ## Projects
+- [**prompt-injection-defenses**](https://github.com/tldrsec/prompt-injection-defenses) - tldrsec ![Star](https://img.shields.io/github/stars/tldrsec/prompt-injection-defenses.svg?style=social&label=Star)
+
+	 *Every practical and proposed defense against prompt injection.*
 - [**PurpleLlama**](https://github.com/meta-llama/PurpleLlama) - meta-llama ![Star](https://img.shields.io/github/stars/meta-llama/PurpleLlama.svg?style=social&label=Star)
 
 	 *Set of tools to assess and improve LLM security.*

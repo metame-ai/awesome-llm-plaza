@@ -576,6 +576,9 @@
 	 *RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models*
 
 ## Chat bots
+- [**bilibot**](https://github.com/linyiLYi/bilibot?tab=readme-ov-file) - linyiLYi ![Star](https://img.shields.io/github/stars/linyiLYi/bilibot.svg?style=social&label=Star)
+
+	 *A local chatbot fine-tuned by bilibili user comments.*
 - **Large Language Models as Zero-shot Dialogue State Tracker through
   Function Calling**, `arXiv, 2402.10466`, [arxiv](http://arxiv.org/abs/2402.10466v1), [pdf](http://arxiv.org/pdf/2402.10466v1.pdf), cication: [**-1**](None)
 

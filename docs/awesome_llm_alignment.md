@@ -232,6 +232,8 @@
 - **RLHF Workflow: From Reward Modeling to Online RLHF**, `arXiv, 2405.07863`, [arxiv](http://arxiv.org/abs/2405.07863v1), [pdf](http://arxiv.org/pdf/2405.07863v1.pdf), cication: [**-1**](None)
 
 	 *Hanze Dong, Wei Xiong, Bo Pang, Haoxiang Wang, Han Zhao, Yingbo Zhou, Nan Jiang, Doyen Sahoo, Caiming Xiong, Tong Zhang* · ([Online-RLHF](https://github.com/RLHFlow/Online-RLHF) - RLHFlow) ![Star](https://img.shields.io/github/stars/RLHFlow/Online-RLHF.svg?style=social&label=Star) · ([RLHF-Reward-Modeling](https://github.com/RLHFlow/RLHF-Reward-Modeling) - RLHFlow) ![Star](https://img.shields.io/github/stars/RLHFlow/RLHF-Reward-Modeling.svg?style=social&label=Star)
+
+	 · ([huggingface](https://huggingface.co/collections/Salesforce/sfr-instruct-llama-3-8b-r-663d7063d49ef5e9e0b23b43))
 - **Self-Play Preference Optimization for Language Model Alignment**, `arXiv, 2405.00675`, [arxiv](http://arxiv.org/abs/2405.00675v1), [pdf](http://arxiv.org/pdf/2405.00675v1.pdf), cication: [**-1**](None)
 
 	 *Yue Wu, Zhiqing Sun, Huizhuo Yuan, Kaixuan Ji, Yiming Yang, Quanquan Gu*

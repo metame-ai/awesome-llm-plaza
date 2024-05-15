@@ -224,6 +224,12 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
+- **What matters when building vision-language models?**, `arXiv, 2405.02246`, [arxiv](http://arxiv.org/abs/2405.02246v1), [pdf](http://arxiv.org/pdf/2405.02246v1.pdf), cication: [**-1**](None)
+
+	 *Hugo Laurençon, Léo Tronchon, Matthieu Cord, Victor Sanh*
+- [**big_vision**](https://github.com/google-research/big_vision/blob/main/big_vision/configs/proj/paligemma/README.md) - google-research ![Star](https://img.shields.io/github/stars/google-research/big_vision.svg?style=social&label=Star)
+
+	 · ([huggingface](https://huggingface.co/blog/paligemma)) · ([huggingface](https://huggingface.co/collections/google/paligemma-release-6643a9ffbf57de2ae0448dda)) · ([huggingface](https://huggingface.co/spaces/google/paligemma))
 - [LLaVA-NeXT: Stronger LLMs Supercharge Multimodal Capabilities in the Wild](https://llava-vl.github.io/blog/2024-05-10-llava-next-stronger-llms/)
 - **CuMo: Scaling Multimodal LLM with Co-Upcycled Mixture-of-Experts**, `arXiv, 2405.05949`, [arxiv](http://arxiv.org/abs/2405.05949v1), [pdf](http://arxiv.org/pdf/2405.05949v1.pdf), cication: [**-1**](None)
 
@@ -1159,6 +1165,7 @@
 
 	 *Mingsheng Li, Xin Chen, Chi Zhang, Sijin Chen, Hongyuan Zhu, Fukun Yin, Gang Yu, Tao Chen*
 ## Projects
+- [MMVP (MultiModal Visual Patterns)](https://huggingface.co/MMVP)
 - [**XVERSE-V-13B**](https://github.com/xverse-ai/XVERSE-V-13B) - xverse-ai ![Star](https://img.shields.io/github/stars/xverse-ai/XVERSE-V-13B.svg?style=social&label=Star)
 - [**LLaVA-pp**](https://github.com/mbzuai-oryx/LLaVA-pp) - mbzuai-oryx ![Star](https://img.shields.io/github/stars/mbzuai-oryx/LLaVA-pp.svg?style=social&label=Star)
 

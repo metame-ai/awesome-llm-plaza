@@ -279,6 +279,9 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652375732&idx=2&sn=1cb4cefcd791af2a6ffacdf99e35225c))
 
 ## Optimization
+- **The Entropy Enigma: Success and Failure of Entropy Minimization**, `arXiv, 2405.05012`, [arxiv](http://arxiv.org/abs/2405.05012v2), [pdf](http://arxiv.org/pdf/2405.05012v2.pdf), cication: [**-1**](None)
+
+	 *Ori Press, Ravid Shwartz-Ziv, Yann LeCun, Matthias Bethge* · ([EntropyEnigma](https://github.com/oripress/EntropyEnigma) - oripress) ![Star](https://img.shields.io/github/stars/oripress/EntropyEnigma.svg?style=social&label=Star)
 - [**psgd_torch**](https://github.com/lixilinx/psgd_torch) - lixilinx ![Star](https://img.shields.io/github/stars/lixilinx/psgd_torch.svg?style=social&label=Star)
 
 	 *Pytorch implementation of preconditioned stochastic gradient descent (affine group preconditioner, low-rank approximation preconditioner and more)* · ([Preconditioned-Stochastic-Gradient-Descent](https://github.com/opooladz/Preconditioned-Stochastic-Gradient-Descent) - opooladz) ![Star](https://img.shields.io/github/stars/opooladz/Preconditioned-Stochastic-Gradient-Descent.svg?style=social&label=Star)
