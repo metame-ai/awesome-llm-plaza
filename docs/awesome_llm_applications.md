@@ -169,6 +169,9 @@
 	 *A ChatGPT plugin that allows you to load and edit your local files in a controlled way, as well as run any Python, JavaScript, and bash script.*
 
 ## Writing
+- [**data-to-paper**](https://github.com/technion-kishony-lab/data-to-paper) - technion-kishony-lab ![Star](https://img.shields.io/github/stars/technion-kishony-lab/data-to-paper.svg?style=social&label=Star)
+
+	 *data-to-paper: AI-driven scientific research*
 - [**gpt-author**](https://github.com/mshumer/gpt-author) - mshumer ![Star](https://img.shields.io/github/stars/mshumer/gpt-author.svg?style=social&label=Star)
 - **Is ChatGPT Transforming Academics' Writing Style?**, `arXiv, 2404.08627`, [arxiv](http://arxiv.org/abs/2404.08627v1), [pdf](http://arxiv.org/pdf/2404.08627v1.pdf), cication: [**-1**](None)
 

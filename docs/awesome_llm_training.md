@@ -69,6 +69,10 @@
 - [贫穷让我预训练](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494110&idx=2&sn=52bfbf2d51d1704efc596263bccf23db)
 
 ## Scaling
+- **Beyond Scaling Laws: Understanding Transformer Performance with
+  Associative Memory**, `arXiv, 2405.08707`, [arxiv](http://arxiv.org/abs/2405.08707v1), [pdf](http://arxiv.org/pdf/2405.08707v1.pdf), cication: [**-1**](None)
+
+	 *Xueyan Niu, Bo Bai, Lei Deng, Wei Han*
 - **Chinchilla Scaling: A replication attempt**, `arXiv, 2404.10102`, [arxiv](http://arxiv.org/abs/2404.10102v1), [pdf](http://arxiv.org/pdf/2404.10102v1.pdf), cication: [**-1**](None)
 
 	 *Tamay Besiroglu, Ege Erdil, Matthew Barnett, Josh You*

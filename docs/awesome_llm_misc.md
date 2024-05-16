@@ -686,6 +686,8 @@
 - [Collective Intelligence for Deep Learning: A Survey of Recent Developments | 大トロ](https://blog.otoro.net/2022/10/01/collectiveintelligence/)
 
 ---
+- [融合RL与LLM思想，探寻世界模型以迈向AGI「中·下篇」](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495832&idx=3&sn=5eff30cfeb95402ba39ab27158f6a9da)
+- [融合RL与LLM思想，探寻世界模型以迈向AGI「上篇」](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495832&idx=2&sn=423e09552e24520af132c0e58fb9835c)
 - [强化学习之父Richard Sutton：通往AGI的另一种可能](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495731&idx=1&sn=c00430a203adb5e89cab3c036b62ee5e)
 - [图灵奖得主、神经网络之父Hinton最新公开演讲：数字智能会取代生物智能吗？（全文及PPT）](https://mp.weixin.qq.com/s?__biz=MzIyMzk1MDE3Nw==&mid=2247629387&idx=2&sn=fe485c8faa0cc42b23d1a91ded7cdb66)
 - [好问题比好答案更重要｜沈向洋大模型五问](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494275&idx=1&sn=4860205e6043435fe7ff871c8fb4c9c1)
