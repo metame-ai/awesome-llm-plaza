@@ -339,6 +339,9 @@
 - [Mamba: Linear-Time Sequence Modeling with Selective State Spaces (Paper Explained) - YouTube](https://www.youtube.com/watch?v=9dSkvxS2EB0&ab_channel=YannicKilcher)
 
 ## New model
+- [**linear_open_lm**](https://github.com/tri-ml/linear_open_lm) - tri-ml ![Star](https://img.shields.io/github/stars/tri-ml/linear_open_lm.svg?style=social&label=Star)
+
+	 *A repository for research on medium sized language models.*
 - **xLSTM: Extended Long Short-Term Memory**, `arXiv, 2405.04517`, [arxiv](http://arxiv.org/abs/2405.04517v1), [pdf](http://arxiv.org/pdf/2405.04517v1.pdf), cication: [**-1**](None)
 
 	 *Maximilian Beck, Korbinian Pöppel, Markus Spanring, Andreas Auer, Oleksandra Prudnikova, Michael Kopp, Günter Klambauer, Johannes Brandstetter, Sepp Hochreiter*

@@ -28,6 +28,10 @@
 	 *Jiankai Sun, Chuanyang Zheng, Enze Xie, Zhengying Liu, Ruihang Chu, Jianing Qiu, Jiaqi Xu, Mingyu Ding, Hongyang Li, Mengzhe Geng* · ([Awesome-Reasoning-Foundation-Models](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models) - reasoning-survey) ![Star](https://img.shields.io/github/stars/reasoning-survey/Awesome-Reasoning-Foundation-Models.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652421688&idx=3&sn=fcdc24edc7bc89ebcbcca0f7665e40f6))
 
 ## Reasoning
+- **ALPINE: Unveiling the Planning Capability of Autoregressive Learning in
+  Language Models**, `arXiv, 2405.09220`, [arxiv](http://arxiv.org/abs/2405.09220v1), [pdf](http://arxiv.org/pdf/2405.09220v1.pdf), cication: [**-1**](None)
+
+	 *Siwei Wang, Yifei Shen, Shi Feng, Haoran Sun, Shang-Hua Teng, Wei Chen*
 - **MAmmoTH2: Scaling Instructions from the Web**, `arXiv, 2405.03548`, [arxiv](http://arxiv.org/abs/2405.03548v1), [pdf](http://arxiv.org/pdf/2405.03548v1.pdf), cication: [**-1**](None)
 
 	 *Xiang Yue, Tuney Zheng, Ge Zhang, Wenhu Chen* · ([tiger-ai-lab.github](https://tiger-ai-lab.github.io/MAmmoTH2/)) · ([MAmmoTH2](https://github.com/TIGER-AI-Lab/MAmmoTH2) - TIGER-AI-Lab) ![Star](https://img.shields.io/github/stars/TIGER-AI-Lab/MAmmoTH2.svg?style=social&label=Star)

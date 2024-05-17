@@ -186,6 +186,7 @@
 	 *Peng Gao, Jiaming Han, Renrui Zhang, Ziyi Lin, Shijie Geng, Aojun Zhou, Wei Zhang, Pan Lu, Conghui He, Xiangyu Yue* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652345558&idx=3&sn=2a4d204397fe364a05ce5a35bb93d6ce))
 
 ### Other
+- [Finetuning LLMs with LoRA and QLoRA: Insights from Hundreds of Experiments - Lightning AI](https://lightning.ai/pages/community/lora-insights/)
 -  [instruction tuning experiments with LoRA/QLoRA](https://twitter.com/cwolferesearch/status/1788998798414410032)
 - [LoRA及其变体概述：LoRA, DoRA, AdaLoRA, Delta-LoRA](https://mp.weixin.qq.com/s?__biz=MzI1MjQ2OTQ3Ng==&mid=2247632908&idx=2&sn=f2daa489741ccc4a7f8f9c4c178c4740)
 
@@ -451,6 +452,9 @@
 	 *Shufang Xie, Huishuai Zhang, Junliang Guo, Xu Tan, Jiang Bian, Hany Hassan Awadalla, Arul Menezes, Tao Qin, Rui Yan* · ([ResiDual](https://github.com/microsoft/ResiDual) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/ResiDual.svg?style=social&label=Star)
 
 ## Efficient Inference
+- [**vidur**](https://github.com/microsoft/vidur) - microsoft ![Star](https://img.shields.io/github/stars/microsoft/vidur.svg?style=social&label=Star)
+
+	 *A large-scale simulation framework for LLM inference*
 - **Conv-Basis: A New Paradigm for Efficient Attention Inference and
   Gradient Computation in Transformers**, `arXiv, 2405.05219`, [arxiv](http://arxiv.org/abs/2405.05219v1), [pdf](http://arxiv.org/pdf/2405.05219v1.pdf), cication: [**-1**](None)
 

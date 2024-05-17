@@ -288,8 +288,12 @@
 	 *Xiang Deng, Yu Gu, Boyuan Zheng, Shijie Chen, Samuel Stevens, Boshi Wang, Huan Sun, Yu Su*
 
 ### Alignment
-- [Fetching Title#45ev](https://huggingface.co/datasets/argilla/Capybara-Preferences)
+- [**Capybara-Preferences**](https://huggingface.co/datasets/argilla/Capybara-Preferences) - argilla 🤗
+
 ### Synthetic 
+- **BEHAVIOR Vision Suite: Customizable Dataset Generation via Simulation**, `arXiv, 2405.09546`, [arxiv](http://arxiv.org/abs/2405.09546v1), [pdf](http://arxiv.org/pdf/2405.09546v1.pdf), cication: [**-1**](None)
+
+	 *Yunhao Ge, Yihe Tang, Jiashu Xu, Cem Gokmen, Chengshu Li, Wensi Ai, Benjamin Jose Martinez, Arman Aydin, Mona Anvari, Ayush K Chakravarthy*
 - [**Genstruct-7B**](https://huggingface.co/NousResearch/Genstruct-7B) - NousResearch 🤗
 - [Cosmopedia: how to create large-scale synthetic data for pre-training Large Language Models](https://huggingface.co/blog/cosmopedia)
 

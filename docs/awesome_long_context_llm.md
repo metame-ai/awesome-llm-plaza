@@ -35,6 +35,10 @@
 	 *Adyasha Maharana, Dong-Ho Lee, Sergey Tulyakov, Mohit Bansal, Francesco Barbieri, Yuwei Fang*
 
 ## Papers
+- **Challenges in Deploying Long-Context Transformers: A Theoretical Peak
+  Performance Analysis**, `arXiv, 2405.08944`, [arxiv](http://arxiv.org/abs/2405.08944v1), [pdf](http://arxiv.org/pdf/2405.08944v1.pdf), cication: [**-1**](None)
+
+	 *Yao Fu*
 - **Extending Llama-3's Context Ten-Fold Overnight**, `arXiv, 2404.19553`, [arxiv](http://arxiv.org/abs/2404.19553v1), [pdf](http://arxiv.org/pdf/2404.19553v1.pdf), cication: [**-1**](None)
 
 	 *Peitian Zhang, Ninglu Shao, Zheng Liu, Shitao Xiao, Hongjin Qian, Qiwei Ye, Zhicheng Dou* · ([FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding) - FlagOpen) ![Star](https://img.shields.io/github/stars/FlagOpen/FlagEmbedding.svg?style=social&label=Star)
