@@ -186,6 +186,9 @@
 - [Planning for Distillation of Llama 3 70b -> 4x8b / 25b : r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/1cnlmz2/planning_for_distillation_of_llama_3_70b_4x8b_25b/)
 - [**Llama-3-Refueled**](https://huggingface.co/refuelai/Llama-3-Refueled) - refuelai 🤗
 - [SFR-Instruct-LLaMA-3-8B-R - a Salesforce Collection](https://huggingface.co/collections/Salesforce/sfr-instruct-llama-3-8b-r-663d7063d49ef5e9e0b23b43)
+- [**Smaug-Llama-3-70B-Instruct**](https://huggingface.co/abacusai/Smaug-Llama-3-70B-Instruct) - abacusai 🤗
+
+	 · ([reddit](https://www.reddit.com/r/LocalLLaMA/comments/1cvly7e/creator_of_smaug_here_clearing_up_some/))
 ### Jamba
 - **Jamba: A Hybrid Transformer-Mamba Language Model**, `arXiv, 2403.19887`, [arxiv](http://arxiv.org/abs/2403.19887v1), [pdf](http://arxiv.org/pdf/2403.19887v1.pdf), cication: [**-1**](None)
 
@@ -506,7 +509,7 @@
 	 *基于CPM基础模型的中英双语多模态大模型系列* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-07-03-3))
 
 ### Yi-01
-- [Site Unreachable](https://huggingface.co/collections/01-ai/yi-15-2024-05-663f3ecab5f815a3eaca7ca8)
+- [Yi-1.5 (2024/05) - a 01-ai Collection](https://huggingface.co/collections/01-ai/yi-15-2024-05-663f3ecab5f815a3eaca7ca8)
 - **Yi: Open Foundation Models by 01.AI**, `arXiv, 2403.04652`, [arxiv](http://arxiv.org/abs/2403.04652v1), [pdf](http://arxiv.org/pdf/2403.04652v1.pdf), cication: [**-1**](None)
 
 	 *01. AI, :, Alex Young, Bei Chen, Chao Li, Chengen Huang, Ge Zhang, Guanwei Zhang, Heng Li, Jiangcheng Zhu*

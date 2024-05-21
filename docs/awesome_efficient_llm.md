@@ -452,6 +452,10 @@
 	 *Shufang Xie, Huishuai Zhang, Junliang Guo, Xu Tan, Jiang Bian, Hany Hassan Awadalla, Arul Menezes, Tao Qin, Rui Yan* · ([ResiDual](https://github.com/microsoft/ResiDual) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/ResiDual.svg?style=social&label=Star)
 
 ## Efficient Inference
+- **Layer-Condensed KV Cache for Efficient Inference of Large Language
+  Models**, `arXiv, 2405.10637`, [arxiv](http://arxiv.org/abs/2405.10637v1), [pdf](http://arxiv.org/pdf/2405.10637v1.pdf), cication: [**-1**](None)
+
+	 *Haoyi Wu, Kewei Tu* · ([LCKV](https://github.com/whyNLP/LCKV) - whyNLP) ![Star](https://img.shields.io/github/stars/whyNLP/LCKV.svg?style=social&label=Star)
 - [**vidur**](https://github.com/microsoft/vidur) - microsoft ![Star](https://img.shields.io/github/stars/microsoft/vidur.svg?style=social&label=Star)
 
 	 *A large-scale simulation framework for LLM inference*

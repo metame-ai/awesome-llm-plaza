@@ -28,6 +28,9 @@
 	 *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang*
 
 ## Papers
+- **MileBench: Benchmarking MLLMs in Long Context**, `arXiv, 2404.18532`, [arxiv](http://arxiv.org/abs/2404.18532v2), [pdf](http://arxiv.org/pdf/2404.18532v2.pdf), cication: [**-1**](None)
+
+	 *Dingjie Song, Shunian Chen, Guiming Hardy Chen, Fei Yu, Xiang Wan, Benyou Wang* · ([MileBench](https://github.com/MileBench/MileBench) - MileBench) ![Star](https://img.shields.io/github/stars/MileBench/MileBench.svg?style=social&label=Star)
 - **Replacing Judges with Juries: Evaluating LLM Generations with a Panel of
   Diverse Models**, `arXiv, 2404.18796`, [arxiv](http://arxiv.org/abs/2404.18796v2), [pdf](http://arxiv.org/pdf/2404.18796v2.pdf), cication: [**-1**](None)
 
@@ -470,7 +473,8 @@
 	 *Lianmin Zheng, Wei-Lin Chiang, Ying Sheng, Siyuan Zhuang, Zhanghao Wu, Yonghao Zhuang, Zi Lin, Zhuohan Li, Dacheng Li, Eric. P Xing*
 
 ## Projects
-- [Fetching Title#0pq6](https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro)
+- [**needle-in-a-needlestack**](https://github.com/llmonpy/needle-in-a-needlestack) - llmonpy ![Star](https://img.shields.io/github/stars/llmonpy/needle-in-a-needlestack.svg?style=social&label=Star)
+- [**MMLU-Pro**](https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro) - TIGER-Lab 🤗
 - [**prometheus-eval**](https://github.com/prometheus-eval/prometheus-eval) - prometheus-eval ![Star](https://img.shields.io/github/stars/prometheus-eval/prometheus-eval.svg?style=social&label=Star)
 
 	 *Evaluate your LLM's response with Prometheus 💯*

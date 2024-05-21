@@ -224,6 +224,14 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
+- **CuMo: Scaling Multimodal LLM with Co-Upcycled Mixture-of-Experts**, `arXiv, 2405.05949`, [arxiv](http://arxiv.org/abs/2405.05949v1), [pdf](http://arxiv.org/pdf/2405.05949v1.pdf), cication: [**-1**](None)
+
+	 *Jiachen Li, Xinyao Wang, Sijie Zhu, Chia-Wen Kuo, Lu Xu, Fan Chen, Jitesh Jain, Humphrey Shi, Longyin Wen* · ([huggingface](https://huggingface.co/spaces/shi-labs/CuMo-7b-zero)) · ([CuMo](https://github.com/SHI-Labs/CuMo) - SHI-Labs) ![Star](https://img.shields.io/github/stars/SHI-Labs/CuMo.svg?style=social&label=Star) · ([chrisjuniorli.github](https://chrisjuniorli.github.io/project/CuMo/))
+- [**kosmos-2.5**](https://huggingface.co/microsoft/kosmos-2.5) - microsoft 🤗
+- [**xgen-mm-phi3-mini-instruct-r-v1**](https://huggingface.co/Salesforce/xgen-mm-phi3-mini-instruct-r-v1) - Salesforce 🤗
+- **Chameleon: Mixed-Modal Early-Fusion Foundation Models**, `arXiv, 2405.09818`, [arxiv](http://arxiv.org/abs/2405.09818v1), [pdf](http://arxiv.org/pdf/2405.09818v1.pdf), cication: [**-1**](None)
+
+	 *Chameleon Team*
 - **What matters when building vision-language models?**, `arXiv, 2405.02246`, [arxiv](http://arxiv.org/abs/2405.02246v1), [pdf](http://arxiv.org/pdf/2405.02246v1.pdf), cication: [**-1**](None)
 
 	 *Hugo Laurençon, Léo Tronchon, Matthieu Cord, Victor Sanh*
@@ -1165,6 +1173,9 @@
 
 	 *Mingsheng Li, Xin Chen, Chi Zhang, Sijin Chen, Hongyuan Zhu, Fukun Yin, Gang Yu, Tao Chen*
 ## Projects
+- [**CogVLM2**](https://github.com/THUDM/CogVLM2) - THUDM ![Star](https://img.shields.io/github/stars/THUDM/CogVLM2.svg?style=social&label=Star)
+
+	 *第二代 CogVLM多模态预训练对话模型*
 - [MMVP (MultiModal Visual Patterns)](https://huggingface.co/MMVP)
 - [**XVERSE-V-13B**](https://github.com/xverse-ai/XVERSE-V-13B) - xverse-ai ![Star](https://img.shields.io/github/stars/xverse-ai/XVERSE-V-13B.svg?style=social&label=Star)
 - [**LLaVA-pp**](https://github.com/mbzuai-oryx/LLaVA-pp) - mbzuai-oryx ![Star](https://img.shields.io/github/stars/mbzuai-oryx/LLaVA-pp.svg?style=social&label=Star)

@@ -27,6 +27,7 @@
 	- [Extra reference](#extra-reference)
 
 ## Survey
+- [**agi-survey**](https://github.com/ulab-uiuc/agi-survey) - ulab-uiuc ![Star](https://img.shields.io/github/stars/ulab-uiuc/agi-survey.svg?style=social&label=Star)
 - **A Survey on Self-Evolution of Large Language Models**, `arXiv, 2404.14387`, [arxiv](http://arxiv.org/abs/2404.14387v1), [pdf](http://arxiv.org/pdf/2404.14387v1.pdf), cication: [**-1**](None)
 
 	 *Zhengwei Tao, Ting-En Lin, Xiancai Chen, Hangyu Li, Yuchuan Wu, Yongbin Li, Zhi Jin, Fei Huang, Dacheng Tao, Jingren Zhou*
@@ -225,6 +226,9 @@
 	 *Greg Serapio-García, Mustafa Safdari, Clément Crepy, Luning Sun, Stephen Fitz, Peter Romero, Marwa Abdulhai, Aleksandra Faust, Maja Matarić*
 
 ## World Model
+- **Robust agents learn causal world models**, `arXiv, 2402.10877`, [arxiv](http://arxiv.org/abs/2402.10877v6), [pdf](http://arxiv.org/pdf/2402.10877v6.pdf), cication: [**-1**](None)
+
+	 *Jonathan Richens, Tom Everitt*
 - **Learning and Leveraging World Models in Visual Representation Learning**, `arXiv, 2403.00504`, [arxiv](http://arxiv.org/abs/2403.00504v1), [pdf](http://arxiv.org/pdf/2403.00504v1.pdf), cication: [**-1**](None)
 
 	 *Quentin Garrido, Mahmoud Assran, Nicolas Ballas, Adrien Bardes, Laurent Najman, Yann LeCun*
@@ -393,6 +397,9 @@
 	 *John Hewitt, John Thickstun, Christopher D. Manning, Percy Liang* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-06-25-5)) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI1MjQ2OTQ3Ng==&mid=2247608689&idx=2&sn=ed29c1ee1f571f98b191805472feb79a))
 
 ## LLM detection
+- **MarkLLM: An Open-Source Toolkit for LLM Watermarking**, `arXiv, 2405.10051`, [arxiv](http://arxiv.org/abs/2405.10051v1), [pdf](http://arxiv.org/pdf/2405.10051v1.pdf), cication: [**-1**](None)
+
+	 *Leyi Pan, Aiwei Liu, Zhiwei He, Zitian Gao, Xuandong Zhao, Yijian Lu, Binglin Zhou, Shuliang Liu, Xuming Hu, Lijie Wen* · ([markllm](https://github.com/thu-bpm/markllm) - thu-bpm) ![Star](https://img.shields.io/github/stars/thu-bpm/markllm.svg?style=social&label=Star)
 - **Min-K%++: Improved Baseline for Detecting Pre-Training Data from Large
   Language Models**, `arXiv, 2404.02936`, [arxiv](http://arxiv.org/abs/2404.02936v1), [pdf](http://arxiv.org/pdf/2404.02936v1.pdf), cication: [**-1**](None)
 
@@ -450,6 +457,9 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652345558&idx=4&sn=95686435d5cad05d44cbe02bc26d6859))
 
 ## Interpretability 
+- **The Platonic Representation Hypothesis**, `arXiv, 2405.07987`, [arxiv](http://arxiv.org/abs/2405.07987v1), [pdf](http://arxiv.org/pdf/2405.07987v1.pdf), cication: [**-1**](None)
+
+	 *Minyoung Huh, Brian Cheung, Tongzhou Wang, Phillip Isola* · ([platonic-rep](https://github.com/minyoungg/platonic-rep?tab=readme-ov-file) - minyoungg) ![Star](https://img.shields.io/github/stars/minyoungg/platonic-rep.svg?style=social&label=Star) · ([phillipi.github](https://phillipi.github.io/prh/))
 - **Fishing for Magikarp: Automatically Detecting Under-trained Tokens in
   Large Language Models**, `arXiv, 2405.05417`, [arxiv](http://arxiv.org/abs/2405.05417v1), [pdf](http://arxiv.org/pdf/2405.05417v1.pdf), cication: [**-1**](None)
 
@@ -705,6 +715,10 @@
 	 *Zhangyue Yin, Qiushi Sun, Qipeng Guo, Jiawen Wu, Xipeng Qiu, Xuanjing Huang*
 
 ## Tokenization
+- **Zero-Shot Tokenizer Transfer**, `arXiv, 2405.07883`, [arxiv](http://arxiv.org/abs/2405.07883v1), [pdf](http://arxiv.org/pdf/2405.07883v1.pdf), cication: [**-1**](None)
+
+	 *Benjamin Minixhofer, Edoardo Maria Ponti, Ivan Vulić*
+	- 
 - **Toward a Theory of Tokenization in LLMs**, `arXiv, 2404.08335`, [arxiv](http://arxiv.org/abs/2404.08335v1), [pdf](http://arxiv.org/pdf/2404.08335v1.pdf), cication: [**-1**](None)
 
 	 *Nived Rajaraman, Jiantao Jiao, Kannan Ramchandran*
@@ -751,6 +765,9 @@
 - [MIT新研究：打工人不用担心被AI淘汰！成本巨贵，视觉工作只有23%可替代](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652436863&idx=3&sn=cd329df965557870646c7dd6fcb460cc)
 
 ## Course & Tutorial
+- [**llama3-from-scratch**](https://github.com/naklecha/llama3-from-scratch) - naklecha ![Star](https://img.shields.io/github/stars/naklecha/llama3-from-scratch.svg?style=social&label=Star)
+
+	 *llama3 implementation one matrix multiplication at a time*
 - [**cookbook**](https://huggingface.co/learn/cookbook/index) - learn 🤗
 - [GPT in 60 Lines of NumPy | Jay Mody](https://jaykmody.com/blog/gpt-from-scratch/)
 - [Fetching Title#4fnm](https://web.stanford.edu/class/cs25/)

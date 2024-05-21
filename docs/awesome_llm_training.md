@@ -66,6 +66,7 @@
 ### Other
 - [useful AI paper on optimizing training, comment with your finds](https://twitter.com/far__el/status/1770218968126820773)
 
+- [如何从零开始训练大模型（minicpm分享&讨论） - 知乎](https://zhuanlan.zhihu.com/p/686664720)
 - [贫穷让我预训练](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494110&idx=2&sn=52bfbf2d51d1704efc596263bccf23db)
 
 ## Scaling
