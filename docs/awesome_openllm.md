@@ -248,6 +248,7 @@
 - [**OLMo-7B-Instruct**](https://huggingface.co/allenai/OLMo-7B-Instruct) - allenai 🤗
 
 ### Phi
+- [**Phi-3-vision-128k-instruct**](https://huggingface.co/microsoft/Phi-3-vision-128k-instruct) - microsoft 🤗
 - [**models**](https://huggingface.co/models?other=phi3&sort=trending&search=microsoft) -  🤗
 - **Phi-3 Technical Report: A Highly Capable Language Model Locally on Your
   Phone**, `arXiv, 2404.14219`, [arxiv](http://arxiv.org/abs/2404.14219v1), [pdf](http://arxiv.org/pdf/2404.14219v1.pdf), cication: [**-1**](None)
@@ -260,6 +261,7 @@
 - [**phi-2**](https://huggingface.co/spaces/randomblock1/phi-2) - randomblock1 🤗
 - [**phixtral-4x2_8**](https://huggingface.co/mlabonne/phixtral-4x2_8) - mlabonne 🤗
 ### Mistral
+- [**Mistral-7B-Instruct-v0.3**](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3) - mistralai 🤗
 - [Cheaper, Better, Faster, Stronger | Mistral AI | Frontier AI in your hands](https://mistral.ai/news/mixtral-8x22b)
 - [Fetching Title#dsku](https://huggingface.co/mistralai/Mixtral-8x22B-v0.1)
 - [**mixtral-8x22b-instruct-oh**](https://huggingface.co/fireworks-ai/mixtral-8x22b-instruct-oh) - fireworks-ai 🤗
@@ -706,6 +708,7 @@
 	 · ([anthropic](https://www.anthropic.com/news/claude-3-haiku))
 
 # Extra reference
+- [Fetching Title#j9s6](https://crfm.stanford.edu/fmti/May-2024/index.html)
 - [Ecosystem Graphs for Foundation Models](https://crfm.stanford.edu/ecosystem-graphs/index.html?mode=table)
 - [LLM Collection | Prompt Engineering Guide](https://www.promptingguide.ai/models/collection)
 - [**open-llms**](https://github.com/eugeneyan/open-llms) - eugeneyan ![Star](https://img.shields.io/github/stars/eugeneyan/open-llms.svg?style=social&label=Star)

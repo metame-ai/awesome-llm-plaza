@@ -129,6 +129,8 @@
 - **Automated Unit Test Improvement using Large Language Models at Meta**, `arXiv, 2402.09171`, [arxiv](http://arxiv.org/abs/2402.09171v1), [pdf](http://arxiv.org/pdf/2402.09171v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=14636292858296547655&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Nadia Alshahwan, Jubin Chheda, Anastasia Finegenova, Beliz Gokkaya, Mark Harman, Inna Harper, Alexandru Marginean, Shubho Sengupta, Eddy Wang*
+
+	 · ([cover-agent](https://github.com/Codium-ai/cover-agent) - Codium-ai) ![Star](https://img.shields.io/github/stars/Codium-ai/cover-agent.svg?style=social&label=Star)
 - **ARKS: Active Retrieval in Knowledge Soup for Code Generation**, `arXiv, 2402.12317`, [arxiv](http://arxiv.org/abs/2402.12317v1), [pdf](http://arxiv.org/pdf/2402.12317v1.pdf), cication: [**-1**](None)
 
 	 *Hongjin Su, Shuyang Jiang, Yuhang Lai, Haoyuan Wu, Boao Shi, Che Liu, Qian Liu, Tao Yu*
@@ -316,6 +318,12 @@
 	 · [intercode-benchmark.github](https://intercode-benchmark.github.io/)
 
 ## Projects
+- [**Devon**](https://github.com/entropy-research/Devon) - entropy-research ![Star](https://img.shields.io/github/stars/entropy-research/Devon.svg?style=social&label=Star)
+
+	 *Devon: An open-source pair programmer*
+- [**cover-agent**](https://github.com/Codium-ai/cover-agent) - Codium-ai ![Star](https://img.shields.io/github/stars/Codium-ai/cover-agent.svg?style=social&label=Star)
+
+	 *CodiumAI Cover-Agent: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞* · ([x](https://x.com/svpino/status/1792897013920538944))
 - [**code_bagel_hermes-2.5**](https://huggingface.co/datasets/Replete-AI/code_bagel_hermes-2.5) - Replete-AI 🤗
 - [**granite-code-models**](https://github.com/ibm-granite/granite-code-models) - ibm-granite ![Star](https://img.shields.io/github/stars/ibm-granite/granite-code-models.svg?style=social&label=Star)
 

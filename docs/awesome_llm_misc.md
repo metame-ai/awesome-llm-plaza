@@ -226,6 +226,9 @@
 	 *Greg Serapio-García, Mustafa Safdari, Clément Crepy, Luning Sun, Stephen Fitz, Peter Romero, Marwa Abdulhai, Aleksandra Faust, Maja Matarić*
 
 ## World Model
+- **Diffusion for World Modeling: Visual Details Matter in Atari**, `arXiv, 2405.12399`, [arxiv](http://arxiv.org/abs/2405.12399v1), [pdf](http://arxiv.org/pdf/2405.12399v1.pdf), cication: [**-1**](None)
+
+	 *Eloi Alonso, Adam Jelley, Vincent Micheli, Anssi Kanervisto, Amos Storkey, Tim Pearce, François Fleuret* · ([diamond](https://github.com/eloialonso/diamond) - eloialonso) ![Star](https://img.shields.io/github/stars/eloialonso/diamond.svg?style=social&label=Star)
 - **Robust agents learn causal world models**, `arXiv, 2402.10877`, [arxiv](http://arxiv.org/abs/2402.10877v6), [pdf](http://arxiv.org/pdf/2402.10877v6.pdf), cication: [**-1**](None)
 
 	 *Jonathan Richens, Tom Everitt*
@@ -457,6 +460,12 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652345558&idx=4&sn=95686435d5cad05d44cbe02bc26d6859))
 
 ## Interpretability 
+- **Your Transformer is Secretly Linear**, `arXiv, 2405.12250`, [arxiv](http://arxiv.org/abs/2405.12250v1), [pdf](http://arxiv.org/pdf/2405.12250v1.pdf), cication: [**-1**](None)
+
+	 *Anton Razzhigaev, Matvey Mikhalchuk, Elizaveta Goncharova, Nikolai Gerasimenko, Ivan Oseledets, Denis Dimitrov, Andrey Kuznetsov*
+- [Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html)
+
+	 · ([anthropic](https://www.anthropic.com/research/mapping-mind-language-model?utm_source=ainews&utm_medium=email&utm_campaign=ainews-anthropic-cracks-the-llm-genome-project))
 - **The Platonic Representation Hypothesis**, `arXiv, 2405.07987`, [arxiv](http://arxiv.org/abs/2405.07987v1), [pdf](http://arxiv.org/pdf/2405.07987v1.pdf), cication: [**-1**](None)
 
 	 *Minyoung Huh, Brian Cheung, Tongzhou Wang, Phillip Isola* · ([platonic-rep](https://github.com/minyoungg/platonic-rep?tab=readme-ov-file) - minyoungg) ![Star](https://img.shields.io/github/stars/minyoungg/platonic-rep.svg?style=social&label=Star) · ([phillipi.github](https://phillipi.github.io/prh/))

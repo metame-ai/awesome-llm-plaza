@@ -12,6 +12,9 @@
 	 *Yeseung Kim, Dohyun Kim, Jieun Choi, Jisang Park, Nayoung Oh, Daehyung Park*
 
 ## Papers
+- **Octo: An Open-Source Generalist Robot Policy**, `arXiv, 2405.12213`, [arxiv](http://arxiv.org/abs/2405.12213v1), [pdf](http://arxiv.org/pdf/2405.12213v1.pdf), cication: [**26**](https://scholar.google.com/scholar?cites=577688306634111052&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Octo Model Team, Dibya Ghosh, Homer Walke, Karl Pertsch, Kevin Black, Oier Mees, Sudeep Dasari, Joey Hejna, Tobias Kreiman, Charles Xu* · ([octo-models.github](https://octo-models.github.io/)) · ([octo](https://github.com/octo-models/octo) - octo-models) ![Star](https://img.shields.io/github/stars/octo-models/octo.svg?style=social&label=Star)
 - **From LLMs to Actions: Latent Codes as Bridges in Hierarchical Robot
   Control**, `arXiv, 2405.04798`, [arxiv](http://arxiv.org/abs/2405.04798v1), [pdf](http://arxiv.org/pdf/2405.04798v1.pdf), cication: [**-1**](None)
 

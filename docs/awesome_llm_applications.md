@@ -54,6 +54,9 @@
 - [Navigating the Jagged Technological Frontier: Field Experimental Evidence of the Effects of AI on Knowledge Worker Productivity and Quality](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4573321)
 
 ## Toolkits 
+- [**activepieces**](https://github.com/activepieces/activepieces) - activepieces ![Star](https://img.shields.io/github/stars/activepieces/activepieces.svg?style=social&label=Star)
+
+	 *Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100+ integration / Enterprise automation tool / Zapier Alternative*
 - [**Scrapegraph-ai**](https://github.com/VinciGit00/Scrapegraph-ai) - VinciGit00 ![Star](https://img.shields.io/github/stars/VinciGit00/Scrapegraph-ai.svg?style=social&label=Star)
 
 	 *Python scraper based on AI*
@@ -657,7 +660,10 @@
 
 
 ## Machine Translation
+- **(Perhaps) Beyond Human Translation: Harnessing Multi-Agent Collaboration
+  for Translating Ultra-Long Literary Texts**, `arXiv, 2405.11804`, [arxiv](http://arxiv.org/abs/2405.11804v1), [pdf](http://arxiv.org/pdf/2405.11804v1.pdf), cication: [**-1**](None)
 
+	 *Minghao Wu, Yulin Yuan, Gholamreza Haffari, Longyue Wang*
 - **Tuning LLMs with Contrastive Alignment Instructions for Machine
   Translation in Unseen, Low-resource Languages**, `arXiv, 2401.05811`, [arxiv](http://arxiv.org/abs/2401.05811v1), [pdf](http://arxiv.org/pdf/2401.05811v1.pdf), cication: [**-1**](None)
 
@@ -780,7 +786,10 @@
 	 *Official repo for LayoutGPT*
 
 ## Science
+- **INDUS: Effective and Efficient Language Models for Scientific
+  Applications**, `arXiv, 2405.10725`, [arxiv](http://arxiv.org/abs/2405.10725v2), [pdf](http://arxiv.org/pdf/2405.10725v2.pdf), cication: [**-1**](None)
 
+	 *Bishwaranjan Bhattacharjee, Aashka Trivedi, Masayasu Muraoka, Muthukumaran Ramasubramanian, Takuma Udagawa, Iksha Gurung, Rong Zhang, Bharath Dandala, Rahul Ramachandran, Manil Maskey*
 - **Wu's Method can Boost Symbolic AI to Rival Silver Medalists and
   AlphaGeometry to Outperform Gold Medalists at IMO Geometry**, `arXiv, 2404.06405`, [arxiv](http://arxiv.org/abs/2404.06405v2), [pdf](http://arxiv.org/pdf/2404.06405v2.pdf), cication: [**-1**](None)
 

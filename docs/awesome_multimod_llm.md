@@ -78,7 +78,9 @@
 	 *Mike Ranzinger, Greg Heinrich, Jan Kautz, Pavlo Molchanov* · ([radio](https://github.com/nvlabs/radio) - nvlabs) ![Star](https://img.shields.io/github/stars/nvlabs/radio.svg?style=social&label=Star)
 
 ### Video
+- **Uni-MoE: Scaling Unified Multimodal LLMs with Mixture of Experts**, `arXiv, 2405.11273`, [arxiv](http://arxiv.org/abs/2405.11273v1), [pdf](http://arxiv.org/pdf/2405.11273v1.pdf), cication: [**-1**](None)
 
+	 *Yunxin Li, Shenyuan Jiang, Baotian Hu, Longyue Wang, Wanqi Zhong, Wenhan Luo, Lin Ma, Min Zhang* · ([UMOE-Scaling-Unified-Multimodal-LLMs](https://github.com/HITsz-TMG/UMOE-Scaling-Unified-Multimodal-LLMs) - HITsz-TMG) ![Star](https://img.shields.io/github/stars/HITsz-TMG/UMOE-Scaling-Unified-Multimodal-LLMs.svg?style=social&label=Star) · ([uni-moe.github](https://uni-moe.github.io/))
 - **PLLaVA : Parameter-free LLaVA Extension from Images to Videos for Video
   Dense Captioning**, `arXiv, 2404.16994`, [arxiv](http://arxiv.org/abs/2404.16994v2), [pdf](http://arxiv.org/pdf/2404.16994v2.pdf), cication: [**-1**](None)
 
@@ -224,6 +226,7 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
+- [**Phi-3-vision-128k-instruct**](https://huggingface.co/microsoft/Phi-3-vision-128k-instruct) - microsoft 🤗
 - **CuMo: Scaling Multimodal LLM with Co-Upcycled Mixture-of-Experts**, `arXiv, 2405.05949`, [arxiv](http://arxiv.org/abs/2405.05949v1), [pdf](http://arxiv.org/pdf/2405.05949v1.pdf), cication: [**-1**](None)
 
 	 *Jiachen Li, Xinyao Wang, Sijie Zhu, Chia-Wen Kuo, Lu Xu, Fan Chen, Jitesh Jain, Humphrey Shi, Longyin Wen* · ([huggingface](https://huggingface.co/spaces/shi-labs/CuMo-7b-zero)) · ([CuMo](https://github.com/SHI-Labs/CuMo) - SHI-Labs) ![Star](https://img.shields.io/github/stars/SHI-Labs/CuMo.svg?style=social&label=Star) · ([chrisjuniorli.github](https://chrisjuniorli.github.io/project/CuMo/))
@@ -1129,6 +1132,12 @@
 	 *Xueliang Zhao, Xinting Huang, Tingchen Fu, Qintong Li, Shansan Gong, Lemao Liu, Wei Bi, Lingpeng Kong*
 
 ## Efficient 
+- **Imp: Highly Capable Large Multimodal Models for Mobile Devices**, `arXiv, 2405.12107`, [arxiv](http://arxiv.org/abs/2405.12107v1), [pdf](http://arxiv.org/pdf/2405.12107v1.pdf), cication: [**-1**](None)
+
+	 *Zhenwei Shao, Zhou Yu, Jun Yu, Xuecheng Ouyang, Lihao Zheng, Zhenbiao Gai, Mingyang Wang, Jiajun Ding*
+- [**MiniCPM-V**](https://github.com/OpenBMB/MiniCPM-V) - OpenBMB ![Star](https://img.shields.io/github/stars/OpenBMB/MiniCPM-V.svg?style=social&label=Star)
+
+	 *MiniCPM-Llama3-V 2.5: A GPT-4V Level MLLM on Your Phone* · ([openbmb.vercel](https://openbmb.vercel.app/minicpm-v-2-en))
 - **Octopus v3: Technical Report for On-device Sub-billion Multimodal AI
   Agent**, `arXiv, 2404.11459`, [arxiv](http://arxiv.org/abs/2404.11459v2), [pdf](http://arxiv.org/pdf/2404.11459v2.pdf), cication: [**-1**](None)
 
@@ -1148,6 +1157,9 @@
 	 *Haoran Wei, Lingyu Kong, Jinyue Chen, Liang Zhao, Zheng Ge, En Yu, Jianjian Sun, Chunrui Han, Xiangyu Zhang*
 
 ## Extra Modalities 
+- **Grounded 3D-LLM with Referent Tokens**, `arXiv, 2405.10370`, [arxiv](http://arxiv.org/abs/2405.10370v1), [pdf](http://arxiv.org/pdf/2405.10370v1.pdf), cication: [**-1**](None)
+
+	 *Yilun Chen, Shuai Yang, Haifeng Huang, Tai Wang, Ruiyuan Lyu, Runsen Xu, Dahua Lin, Jiangmiao Pang* · ([groundedscenellm.github](https://groundedscenellm.github.io/grounded_3d-llm.github.io))
 - [**probe3d**](https://github.com/mbanani/probe3d/blob/main) - mbanani ![Star](https://img.shields.io/github/stars/mbanani/probe3d.svg?style=social&label=Star)
 
 	 *[CVPR 2024] Probing the 3D Awareness of Visual Foundation Models*

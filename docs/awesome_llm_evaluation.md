@@ -28,6 +28,7 @@
 	 *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang*
 
 ## Papers
+- [Testing theory of mind in large language models and humans | Nature Human Behaviour](https://www.nature.com/articles/s41562-024-01882-z)
 - **MileBench: Benchmarking MLLMs in Long Context**, `arXiv, 2404.18532`, [arxiv](http://arxiv.org/abs/2404.18532v2), [pdf](http://arxiv.org/pdf/2404.18532v2.pdf), cication: [**-1**](None)
 
 	 *Dingjie Song, Shunian Chen, Guiming Hardy Chen, Fei Yu, Xiang Wan, Benyou Wang* · ([MileBench](https://github.com/MileBench/MileBench) - MileBench) ![Star](https://img.shields.io/github/stars/MileBench/MileBench.svg?style=social&label=Star)
@@ -534,6 +535,7 @@
 	 · [huggingface](https://huggingface.co/blog/evaluating-mmlu-leaderboard)]
 
 ## Other
+- [Fetching Title#2yzr](https://lmsys.org/blog/2024-05-17-category-hard/)
 - [One of the most popular evaluation strategies is LLM-as-a-judge, which uses GPT-4 to evaluate model quality](https://twitter.com/cwolferesearch/status/1782453549223321660)
 - [Evaluation & Hallucination Detection for Abstractive Summaries](https://eugeneyan.com/writing/abstractive/)
 - [Measuring the Persuasiveness of Language Models](https://www.anthropic.com/news/measuring-model-persuasiveness)

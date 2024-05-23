@@ -55,6 +55,12 @@
 
 	 *Vladislav Lialin, Vijeta Deshpande, Anna Rumshisky*
 ## Efficient finetuning
+- **Towards Modular LLMs by Building and Reusing a Library of LoRAs**, `arXiv, 2405.11157`, [arxiv](http://arxiv.org/abs/2405.11157v1), [pdf](http://arxiv.org/pdf/2405.11157v1.pdf), cication: [**-1**](None)
+
+	 *Oleksiy Ostapenko, Zhan Su, Edoardo Maria Ponti, Laurent Charlin, Nicolas Le Roux, Matheus Pereira, Lucas Caccia, Alessandro Sordoni*
+- **MoRA: High-Rank Updating for Parameter-Efficient Fine-Tuning**, `arXiv, 2405.12130`, [arxiv](http://arxiv.org/abs/2405.12130v1), [pdf](http://arxiv.org/pdf/2405.12130v1.pdf), cication: [**-1**](None)
+
+	 *Ting Jiang, Shaohan Huang, Shengyue Luo, Zihan Zhang, Haizhen Huang, Furu Wei, Weiwei Deng, Feng Sun, Qi Zhang, Deqing Wang*
 - **LoRA Land: 310 Fine-tuned LLMs that Rival GPT-4, A Technical Report**, `arXiv, 2405.00732`, [arxiv](http://arxiv.org/abs/2405.00732v1), [pdf](http://arxiv.org/pdf/2405.00732v1.pdf), cication: [**-1**](None)
 
 	 *Justin Zhao, Timothy Wang, Wael Abid, Geoffrey Angus, Arnav Garg, Jeffery Kinnison, Alex Sherstinsky, Piero Molino, Travis Addair, Devvret Rishi*
@@ -452,6 +458,13 @@
 	 *Shufang Xie, Huishuai Zhang, Junliang Guo, Xu Tan, Jiang Bian, Hany Hassan Awadalla, Arul Menezes, Tao Qin, Rui Yan* · ([ResiDual](https://github.com/microsoft/ResiDual) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/ResiDual.svg?style=social&label=Star)
 
 ## Efficient Inference
+- **Reducing Transformer Key-Value Cache Size with Cross-Layer Attention**, `arXiv, 2405.12981`, [arxiv](http://arxiv.org/abs/2405.12981v1), [pdf](http://arxiv.org/pdf/2405.12981v1.pdf), cication: [**-1**](None)
+
+	 *William Brandon, Mayank Mishra, Aniruddha Nrusimha, Rameswar Panda, Jonathan Ragan Kelly*
+- **PyramidInfer: Pyramid KV Cache Compression for High-throughput LLM
+  Inference**, `arXiv, 2405.12532`, [arxiv](http://arxiv.org/abs/2405.12532v1), [pdf](http://arxiv.org/pdf/2405.12532v1.pdf), cication: [**-1**](None)
+
+	 *Dongjie Yang, XiaoDong Han, Yan Gao, Yao Hu, Shilin Zhang, Hai Zhao*
 - **Layer-Condensed KV Cache for Efficient Inference of Large Language
   Models**, `arXiv, 2405.10637`, [arxiv](http://arxiv.org/abs/2405.10637v1), [pdf](http://arxiv.org/pdf/2405.10637v1.pdf), cication: [**-1**](None)
 
@@ -820,6 +833,10 @@
 	 *DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.*
 
 ## Efficient transformer
+- **SLAB: Efficient Transformers with Simplified Linear Attention and
+  Progressive Re-parameterized Batch Normalization**, `arXiv, 2405.11582`, [arxiv](http://arxiv.org/abs/2405.11582v1), [pdf](http://arxiv.org/pdf/2405.11582v1.pdf), cication: [**-1**](None)
+
+	 *Jialong Guo, Xinghao Chen, Yehui Tang, Yunhe Wang* · ([SLAB](https://github.com/xinghaochen/SLAB) - xinghaochen) ![Star](https://img.shields.io/github/stars/xinghaochen/SLAB.svg?style=social&label=Star)
 - **You Only Cache Once: Decoder-Decoder Architectures for Language Models**, `arXiv, 2405.05254`, [arxiv](http://arxiv.org/abs/2405.05254v2), [pdf](http://arxiv.org/pdf/2405.05254v2.pdf), cication: [**-1**](None)
 
 	 *Yutao Sun, Li Dong, Yi Zhu, Shaohan Huang, Wenhui Wang, Shuming Ma, Quanlu Zhang, Jianyong Wang, Furu Wei* · ([aka](https://aka.ms/YOCO)) · ([unilm](https://github.com/microsoft/unilm/tree/master/YOCO) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/unilm.svg?style=social&label=Star)

@@ -33,6 +33,10 @@
 	 *Zige Wang, Wanjun Zhong, Yufei Wang, Qi Zhu, Fei Mi, Baojun Wang, Lifeng Shang, Xin Jiang, Qun Liu*
 
 ## Techs
+- **Dynamic data sampler for cross-language transfer learning in large
+  language models**, `icassp 2024-2024 ieee international conference on acoustics …, 2024`, [arxiv](http://arxiv.org/abs/2405.10626v1), [pdf](http://arxiv.org/pdf/2405.10626v1.pdf), cication: [**-1**](None)
+
+	 *Yudong Li, Yuhao Feng, Wen Zhou, Zhe Zhao, Linlin Shen, Cheng Hou, Xianxu Hou*
 - **Fewer Truncations Improve Language Modeling**, `arXiv, 2404.10830`, [arxiv](http://arxiv.org/abs/2404.10830v1), [pdf](http://arxiv.org/pdf/2404.10830v1.pdf), cication: [**-1**](None)
 
 	 *Hantian Ding, Zijian Wang, Giovanni Paolini, Varun Kumar, Anoop Deoras, Dan Roth, Stefano Soatto*

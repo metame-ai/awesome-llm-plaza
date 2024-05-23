@@ -70,6 +70,10 @@
 - [贫穷让我预训练](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494110&idx=2&sn=52bfbf2d51d1704efc596263bccf23db)
 
 ## Scaling
+- **Observational Scaling Laws and the Predictability of Language Model
+  Performance**, `arXiv, 2405.10938`, [arxiv](http://arxiv.org/abs/2405.10938v1), [pdf](http://arxiv.org/pdf/2405.10938v1.pdf), cication: [**-1**](None)
+
+	 *Yangjun Ruan, Chris J. Maddison, Tatsunori Hashimoto*
 - **Beyond Scaling Laws: Understanding Transformer Performance with
   Associative Memory**, `arXiv, 2405.08707`, [arxiv](http://arxiv.org/abs/2405.08707v1), [pdf](http://arxiv.org/pdf/2405.08707v1.pdf), cication: [**-1**](None)
 

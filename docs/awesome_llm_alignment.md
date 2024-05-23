@@ -229,6 +229,9 @@
 	 *Timo Kaufmann, Paul Weng, Viktor Bengs, Eyke Hüllermeier*
 
 ## Papers
+- **OpenRLHF: An Easy-to-use, Scalable and High-performance RLHF Framework**, `arXiv, 2405.11143`, [arxiv](http://arxiv.org/abs/2405.11143v1), [pdf](http://arxiv.org/pdf/2405.11143v1.pdf), cication: [**-1**](None)
+
+	 *Jian Hu, Xibin Wu, Weixun Wang, Xianyu, Dehao Zhang, Yu Cao* · ([OpenRLHF](https://github.com/OpenLLMAI/OpenRLHF) - OpenLLMAI) ![Star](https://img.shields.io/github/stars/OpenLLMAI/OpenRLHF.svg?style=social&label=Star)
 - **RLHF Workflow: From Reward Modeling to Online RLHF**, `arXiv, 2405.07863`, [arxiv](http://arxiv.org/abs/2405.07863v1), [pdf](http://arxiv.org/pdf/2405.07863v1.pdf), cication: [**-1**](None)
 
 	 *Hanze Dong, Wei Xiong, Bo Pang, Haoxiang Wang, Han Zhao, Yingbo Zhou, Nan Jiang, Doyen Sahoo, Caiming Xiong, Tong Zhang* · ([Online-RLHF](https://github.com/RLHFlow/Online-RLHF) - RLHFlow) ![Star](https://img.shields.io/github/stars/RLHFlow/Online-RLHF.svg?style=social&label=Star) · ([RLHF-Reward-Modeling](https://github.com/RLHFlow/RLHF-Reward-Modeling) - RLHFlow) ![Star](https://img.shields.io/github/stars/RLHFlow/RLHF-Reward-Modeling.svg?style=social&label=Star)
