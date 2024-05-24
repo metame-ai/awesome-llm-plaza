@@ -288,6 +288,9 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652375732&idx=2&sn=1cb4cefcd791af2a6ffacdf99e35225c))
 
 ## Optimization
+- **Thermodynamic Natural Gradient Descent**, `arXiv, 2405.13817`, [arxiv](http://arxiv.org/abs/2405.13817v1), [pdf](http://arxiv.org/pdf/2405.13817v1.pdf), cication: [**-1**](None)
+
+	 *Kaelan Donatella, Samuel Duffield, Maxwell Aifer, Denis Melanson, Gavin Crooks, Patrick J. Coles*
 - **The Entropy Enigma: Success and Failure of Entropy Minimization**, `arXiv, 2405.05012`, [arxiv](http://arxiv.org/abs/2405.05012v2), [pdf](http://arxiv.org/pdf/2405.05012v2.pdf), cication: [**-1**](None)
 
 	 *Ori Press, Ravid Shwartz-Ziv, Yann LeCun, Matthias Bethge* · ([EntropyEnigma](https://github.com/oripress/EntropyEnigma) - oripress) ![Star](https://img.shields.io/github/stars/oripress/EntropyEnigma.svg?style=social&label=Star)

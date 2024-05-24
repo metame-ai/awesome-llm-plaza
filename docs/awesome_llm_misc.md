@@ -460,6 +460,9 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652345558&idx=4&sn=95686435d5cad05d44cbe02bc26d6859))
 
 ## Interpretability 
+- **Not All Language Model Features Are Linear**, `arXiv, 2405.14860`, [arxiv](http://arxiv.org/abs/2405.14860v1), [pdf](http://arxiv.org/pdf/2405.14860v1.pdf), cication: [**-1**](None)
+
+	 *Joshua Engels, Isaac Liao, Eric J. Michaud, Wes Gurnee, Max Tegmark*
 - **Your Transformer is Secretly Linear**, `arXiv, 2405.12250`, [arxiv](http://arxiv.org/abs/2405.12250v1), [pdf](http://arxiv.org/pdf/2405.12250v1.pdf), cication: [**-1**](None)
 
 	 *Anton Razzhigaev, Matvey Mikhalchuk, Elizaveta Goncharova, Nikolai Gerasimenko, Ivan Oseledets, Denis Dimitrov, Andrey Kuznetsov*

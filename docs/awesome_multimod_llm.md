@@ -226,6 +226,13 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
+- **AlignGPT: Multi-modal Large Language Models with Adaptive Alignment
+  Capability**, `arXiv, 2405.14129`, [arxiv](http://arxiv.org/abs/2405.14129v1), [pdf](http://arxiv.org/pdf/2405.14129v1.pdf), cication: [**-1**](None)
+
+	 *Fei Zhao, Taotian Pang, Chunhui Li, Zhen Wu, Junjie Guo, Shangyu Xing, Xinyu Dai*
+- **Dense Connector for MLLMs**, `arXiv, 2405.13800`, [arxiv](http://arxiv.org/abs/2405.13800v1), [pdf](http://arxiv.org/pdf/2405.13800v1.pdf), cication: [**-1**](None)
+
+	 *Huanjin Yao, Wenhao Wu, Taojiannan Yang, YuXin Song, Mengxi Zhang, Haocheng Feng, Yifan Sun, Zhiheng Li, Wanli Ouyang, Jingdong Wang*
 - [**Phi-3-vision-128k-instruct**](https://huggingface.co/microsoft/Phi-3-vision-128k-instruct) - microsoft 🤗
 - **CuMo: Scaling Multimodal LLM with Co-Upcycled Mixture-of-Experts**, `arXiv, 2405.05949`, [arxiv](http://arxiv.org/abs/2405.05949v1), [pdf](http://arxiv.org/pdf/2405.05949v1.pdf), cication: [**-1**](None)
 

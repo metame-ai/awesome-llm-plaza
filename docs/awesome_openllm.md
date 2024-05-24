@@ -656,6 +656,9 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s/Lf70i8M0KNDs9ZB8H32h4w))
 
 # Extra
+- [**aya-101**](https://huggingface.co/CohereForAI/aya-101) - CohereForAI 🤗
+
+	 · ([huggingface](https://huggingface.co/datasets/CohereForAI/aya_collection)) · ([cohere](https://cohere.com/research/aya))
 - **SUTRA: Scalable Multilingual Language Model Architecture**, `arXiv, 2405.06694`, [arxiv](http://arxiv.org/abs/2405.06694v1), [pdf](http://arxiv.org/pdf/2405.06694v1.pdf), cication: [**-1**](None)
 
 	 *Abhijit Bendale, Michael Sapienza, Steven Ripplinger, Simon Gibbs, Jaewon Lee, Pranav Mistry*

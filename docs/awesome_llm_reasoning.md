@@ -407,6 +407,10 @@
 - [大模型Fewshot推理如何选择更好的示例](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495177&idx=2&sn=fe8353efed16a81e35462be06d5a6cea)
 
 ## Math reasoning
+- **DeepSeek-Prover: Advancing Theorem Proving in LLMs through Large-Scale
+  Synthetic Data**, `arXiv, 2405.14333`, [arxiv](http://arxiv.org/abs/2405.14333v1), [pdf](http://arxiv.org/pdf/2405.14333v1.pdf), cication: [**-1**](None)
+
+	 *Huajian Xin, Daya Guo, Zhihong Shao, Zhizhou Ren, Qihao Zhu, Bo Liu, Chong Ruan, Wenda Li, Xiaodan Liang*
 - **AlphaMath Almost Zero: process Supervision without process**, `arXiv, 2405.03553`, [arxiv](http://arxiv.org/abs/2405.03553v1), [pdf](http://arxiv.org/pdf/2405.03553v1.pdf), cication: [**-1**](None)
 
 	 *Guoxin Chen, Minpeng Liao, Chengxi Li, Kai Fan*

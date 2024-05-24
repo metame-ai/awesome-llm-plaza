@@ -17,6 +17,10 @@
 	- [Efficient transformer](#efficient-transformer)
 
 ## Survey
+- **A Comprehensive Survey of Accelerated Generation Techniques in Large
+  Language Models**, `arXiv, 2405.13019`, [arxiv](http://arxiv.org/abs/2405.13019v1), [pdf](http://arxiv.org/pdf/2405.13019v1.pdf), cication: [**-1**](None)
+
+	 *Mahsa Khoshnoodi, Vinija Jain, Mingye Gao, Malavika Srikanth, Aman Chadha*
 - **Beyond the Speculative Game: A Survey of Speculative Execution in Large
   Language Models**, `arXiv, 2404.14897`, [arxiv](http://arxiv.org/abs/2404.14897v1), [pdf](http://arxiv.org/pdf/2404.14897v1.pdf), cication: [**-1**](None)
 
@@ -458,6 +462,9 @@
 	 *Shufang Xie, Huishuai Zhang, Junliang Guo, Xu Tan, Jiang Bian, Hany Hassan Awadalla, Arul Menezes, Tao Qin, Rui Yan* · ([ResiDual](https://github.com/microsoft/ResiDual) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/ResiDual.svg?style=social&label=Star)
 
 ## Efficient Inference
+- **Distributed Speculative Inference of Large Language Models**, `arXiv, 2405.14105`, [arxiv](http://arxiv.org/abs/2405.14105v1), [pdf](http://arxiv.org/pdf/2405.14105v1.pdf), cication: [**-1**](None)
+
+	 *Nadav Timor, Jonathan Mamou, Daniel Korat, Moshe Berchansky, Oren Pereg, Moshe Wasserblat, Tomer Galanti, Michal Gordon, David Harel*
 - **Reducing Transformer Key-Value Cache Size with Cross-Layer Attention**, `arXiv, 2405.12981`, [arxiv](http://arxiv.org/abs/2405.12981v1), [pdf](http://arxiv.org/pdf/2405.12981v1.pdf), cication: [**-1**](None)
 
 	 *William Brandon, Mayank Mishra, Aniruddha Nrusimha, Rameswar Panda, Jonathan Ragan Kelly*

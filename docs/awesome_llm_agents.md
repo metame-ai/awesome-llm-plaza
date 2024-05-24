@@ -634,6 +634,9 @@
 - [陈丹琦ACL学术报告来了！详解大模型「外挂」数据库7大方向3大挑战，3小时干货满满 | 量子位](https://www.qbitai.com/2023/07/67259.html)
 
 ## Web browsing
+- [**fuji-web**](https://github.com/normal-computing/fuji-web) - normal-computing ![Star](https://img.shields.io/github/stars/normal-computing/fuji-web.svg?style=social&label=Star)
+
+	 *Fuji is an AI agent that lives in your browser's sidepanel. You can now get tasks done online with a single command!*
 - [**webllama**](https://github.com/McGill-NLP/webllama) - McGill-NLP ![Star](https://img.shields.io/github/stars/McGill-NLP/webllama.svg?style=social&label=Star)
 - **AutoCrawler: A Progressive Understanding Web Agent for Web Crawler
   Generation**, `arXiv, 2404.12753`, [arxiv](http://arxiv.org/abs/2404.12753v1), [pdf](http://arxiv.org/pdf/2404.12753v1.pdf), cication: [**-1**](None)
