@@ -33,6 +33,14 @@
 	 *Zige Wang, Wanjun Zhong, Yufei Wang, Qi Zhu, Fei Mi, Baojun Wang, Lifeng Shang, Xin Jiang, Qun Liu*
 
 ## Techs
+- **Data Mixing Made Efficient: A Bivariate Scaling Law for Language Model
+  Pretraining**, `arXiv, 2405.14908`, [arxiv](http://arxiv.org/abs/2405.14908v1), [pdf](http://arxiv.org/pdf/2405.14908v1.pdf), cication: [**-1**](None)
+
+	 *Ce Ge, Zhijian Ma, Daoyuan Chen, Yaliang Li, Bolin Ding*
+- **Automatic Data Curation for Self-Supervised Learning: A Clustering-Based
+  Approach**, `arXiv, 2405.15613`, [arxiv](http://arxiv.org/abs/2405.15613v1), [pdf](http://arxiv.org/pdf/2405.15613v1.pdf), cication: [**-1**](None)
+
+	 *Huy V. Vo, Vasil Khalidov, Timothée Darcet, Théo Moutakanni, Nikita Smetanin, Marc Szafraniec, Hugo Touvron, Camille Couprie, Maxime Oquab, Armand Joulin*
 - **Dynamic data sampler for cross-language transfer learning in large
   language models**, `icassp 2024-2024 ieee international conference on acoustics …, 2024`, [arxiv](http://arxiv.org/abs/2405.10626v1), [pdf](http://arxiv.org/pdf/2405.10626v1.pdf), cication: [**-1**](None)
 

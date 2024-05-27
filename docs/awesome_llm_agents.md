@@ -97,6 +97,10 @@
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-18-4))
 ## Agents
+- **Luban: Building Open-Ended Creative Agents via Autonomous Embodied
+  Verification**, `arXiv, 2405.15414`, [arxiv](http://arxiv.org/abs/2405.15414v1), [pdf](http://arxiv.org/pdf/2405.15414v1.pdf), cication: [**-1**](None)
+
+	 *Yuxuan Guo, Shaohui Peng, Jiaming Guo, Di Huang, Xishan Zhang, Rui Zhang, Yifan Hao, Ling Li, Zikang Tian, Mingju Gao*
 - [**agentscope**](https://github.com/modelscope/agentscope) - modelscope ![Star](https://img.shields.io/github/stars/modelscope/agentscope.svg?style=social&label=Star)
 
 	 *Start building LLM-empowered multi-agent applications in an easier way.*

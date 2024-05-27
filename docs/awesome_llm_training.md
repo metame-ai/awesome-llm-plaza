@@ -21,6 +21,14 @@
 
 
 ## Pretrain
+- **Stacking Your Transformers: A Closer Look at Model Growth for Efficient
+  LLM Pre-Training**, `arXiv, 2405.15319`, [arxiv](http://arxiv.org/abs/2405.15319v1), [pdf](http://arxiv.org/pdf/2405.15319v1.pdf), cication: [**-1**](None)
+
+	 *Wenyu Du, Tongxu Luo, Zihan Qiu, Zeyu Huang, Yikang Shen, Reynold Cheng, Yike Guo, Jie Fu* · ([llm-stacking.github](https://llm-stacking.github.io))
+- **Data Mixing Made Efficient: A Bivariate Scaling Law for Language Model
+  Pretraining**, `arXiv, 2405.14908`, [arxiv](http://arxiv.org/abs/2405.14908v1), [pdf](http://arxiv.org/pdf/2405.14908v1.pdf), cication: [**-1**](None)
+
+	 *Ce Ge, Zhijian Ma, Daoyuan Chen, Yaliang Li, Bolin Ding*
 - **Pre-training Small Base LMs with Fewer Tokens**, `arXiv, 2404.08634`, [arxiv](http://arxiv.org/abs/2404.08634v1), [pdf](http://arxiv.org/pdf/2404.08634v1.pdf), cication: [**-1**](None)
 
 	 *Sunny Sanyal, Sujay Sanghavi, Alexandros G. Dimakis* · ([LLM-Inheritune](https://github.com/sanyalsunny111/LLM-Inheritune) - sanyalsunny111) ![Star](https://img.shields.io/github/stars/sanyalsunny111/LLM-Inheritune.svg?style=social&label=Star)
@@ -288,6 +296,9 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652375732&idx=2&sn=1cb4cefcd791af2a6ffacdf99e35225c))
 
 ## Optimization
+- **The Road Less Scheduled**, `arXiv, 2405.15682`, [arxiv](http://arxiv.org/abs/2405.15682v1), [pdf](http://arxiv.org/pdf/2405.15682v1.pdf), cication: [**-1**](None)
+
+	 *Aaron Defazio, Xingyu, Yang, Harsh Mehta, Konstantin Mishchenko, Ahmed Khaled, Ashok Cutkosky* · ([schedule_free](https://github.com/facebookresearch/schedule_free) - facebookresearch) ![Star](https://img.shields.io/github/stars/facebookresearch/schedule_free.svg?style=social&label=Star)
 - **Thermodynamic Natural Gradient Descent**, `arXiv, 2405.13817`, [arxiv](http://arxiv.org/abs/2405.13817v1), [pdf](http://arxiv.org/pdf/2405.13817v1.pdf), cication: [**-1**](None)
 
 	 *Kaelan Donatella, Samuel Duffield, Maxwell Aifer, Denis Melanson, Gavin Crooks, Patrick J. Coles*
@@ -500,6 +511,7 @@
 	 *Juhao Liang, Ziwei Wang, Zhuoheng Ma, Jianquan Li, Zhiyi Zhang, Xiangbo Wu, Benyou Wang*
 
 ## Toolkits
+- [**mistral-finetune**](https://github.com/mistralai/mistral-finetune) - mistralai ![Star](https://img.shields.io/github/stars/mistralai/mistral-finetune.svg?style=social&label=Star)
 - [ZeRO++ - DeepSpeed](https://www.deepspeed.ai/tutorials/zeropp/)
 - [**torchtitan**](https://github.com/pytorch/torchtitan) - pytorch ![Star](https://img.shields.io/github/stars/pytorch/torchtitan.svg?style=social&label=Star)
 

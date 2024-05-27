@@ -229,6 +229,9 @@
 	 *Timo Kaufmann, Paul Weng, Viktor Bengs, Eyke Hüllermeier*
 
 ## Papers
+- **SimPO: Simple Preference Optimization with a Reference-Free Reward**, `arXiv, 2405.14734`, [arxiv](http://arxiv.org/abs/2405.14734v1), [pdf](http://arxiv.org/pdf/2405.14734v1.pdf), cication: [**-1**](None)
+
+	 *Yu Meng, Mengzhou Xia, Danqi Chen*
 - **OpenRLHF: An Easy-to-use, Scalable and High-performance RLHF Framework**, `arXiv, 2405.11143`, [arxiv](http://arxiv.org/abs/2405.11143v1), [pdf](http://arxiv.org/pdf/2405.11143v1.pdf), cication: [**-1**](None)
 
 	 *Jian Hu, Xibin Wu, Weixun Wang, Xianyu, Dehao Zhang, Yu Cao* · ([OpenRLHF](https://github.com/OpenLLMAI/OpenRLHF) - OpenLLMAI) ![Star](https://img.shields.io/github/stars/OpenLLMAI/OpenRLHF.svg?style=social&label=Star)

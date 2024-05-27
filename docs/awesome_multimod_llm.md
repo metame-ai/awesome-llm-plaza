@@ -15,6 +15,9 @@
 	- [Reference](#reference)
 
 ## Survey
+- **Efficient Multimodal Large Language Models: A Survey**, `arXiv, 2405.10739`, [arxiv](http://arxiv.org/abs/2405.10739v1), [pdf](http://arxiv.org/pdf/2405.10739v1.pdf), cication: [**-1**](None)
+
+	 *Yizhang Jin, Jian Li, Yexin Liu, Tianjun Gu, Kai Wu, Zhengkai Jiang, Muyang He, Bo Zhao, Xin Tan, Zhenye Gan* · ([efficient-multimodal-llms-survey](https://github.com/lijiannuist/efficient-multimodal-llms-survey) - lijiannuist) ![Star](https://img.shields.io/github/stars/lijiannuist/efficient-multimodal-llms-survey.svg?style=social&label=Star)
 - **Hallucination of Multimodal Large Language Models: A Survey**, `arXiv, 2404.18930`, [arxiv](http://arxiv.org/abs/2404.18930v1), [pdf](http://arxiv.org/pdf/2404.18930v1.pdf), cication: [**-1**](None)
 
 	 *Zechen Bai, Pichao Wang, Tianjun Xiao, Tong He, Zongbo Han, Zheng Zhang, Mike Zheng Shou*
@@ -226,6 +229,14 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
+- **ConvLLaVA: Hierarchical Backbones as Visual Encoder for Large Multimodal
+  Models**, `arXiv, 2405.15738`, [arxiv](http://arxiv.org/abs/2405.15738v1), [pdf](http://arxiv.org/pdf/2405.15738v1.pdf), cication: [**-1**](None)
+
+	 *Chunjiang Ge, Sijie Cheng, Ziming Wang, Jiale Yuan, Yuan Gao, Jun Song, Shiji Song, Gao Huang, Bo Zheng* · ([conv-llava](https://github.com/alibaba/conv-llava) - alibaba) ![Star](https://img.shields.io/github/stars/alibaba/conv-llava.svg?style=social&label=Star)
+- **Meteor: Mamba-based Traversal of Rationale for Large Language and Vision
+  Models**, `arXiv, 2405.15574`, [arxiv](http://arxiv.org/abs/2405.15574v1), [pdf](http://arxiv.org/pdf/2405.15574v1.pdf), cication: [**-1**](None)
+
+	 *Byung-Kwan Lee, Chae Won Kim, Beomchan Park, Yong Man Ro*
 - **AlignGPT: Multi-modal Large Language Models with Adaptive Alignment
   Capability**, `arXiv, 2405.14129`, [arxiv](http://arxiv.org/abs/2405.14129v1), [pdf](http://arxiv.org/pdf/2405.14129v1.pdf), cication: [**-1**](None)
 

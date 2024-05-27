@@ -31,6 +31,11 @@
 - **Lessons from the Trenches on Reproducible Evaluation of Language Models**, `arXiv, 2405.14782`, [arxiv](http://arxiv.org/abs/2405.14782v1), [pdf](http://arxiv.org/pdf/2405.14782v1.pdf), cication: [**-1**](None)
 
 	 *Stella Biderman, Hailey Schoelkopf, Lintang Sutawika, Leo Gao, Jonathan Tow, Baber Abbasi, Alham Fikri Aji, Pawan Sasanka Ammanamanchi, Sidney Black, Jordan Clive*
+- [Successful language model evals — Jason Wei](https://www.jasonwei.net/blog/evals)
+- [Let's talk about LLM evaluation](https://huggingface.co/blog/clefourrier/llm-evaluation)
+- **Lessons from the Trenches on Reproducible Evaluation of Language Models**, `arXiv, 2405.14782`, [arxiv](http://arxiv.org/abs/2405.14782v1), [pdf](http://arxiv.org/pdf/2405.14782v1.pdf), cication: [**-1**](None)
+
+	 *Stella Biderman, Hailey Schoelkopf, Lintang Sutawika, Leo Gao, Jonathan Tow, Baber Abbasi, Alham Fikri Aji, Pawan Sasanka Ammanamanchi, Sidney Black, Jordan Clive*
 - [Testing theory of mind in large language models and humans | Nature Human Behaviour](https://www.nature.com/articles/s41562-024-01882-z)
 - **MileBench: Benchmarking MLLMs in Long Context**, `arXiv, 2404.18532`, [arxiv](http://arxiv.org/abs/2404.18532v2), [pdf](http://arxiv.org/pdf/2404.18532v2.pdf), cication: [**-1**](None)
 
@@ -538,7 +543,8 @@
 	 · [huggingface](https://huggingface.co/blog/evaluating-mmlu-leaderboard)]
 
 ## Other
-- [Fetching Title#2yzr](https://lmsys.org/blog/2024-05-17-category-hard/)
+- [CyberSecEval 2 - A Comprehensive Evaluation Framework for Cybersecurity Risks and Capabilities of Large Language Models](https://huggingface.co/blog/leaderboard-llamaguard)
+- [Introducing Hard Prompts Category in Chatbot Arena | LMSYS Org](https://lmsys.org/blog/2024-05-17-category-hard)
 - [One of the most popular evaluation strategies is LLM-as-a-judge, which uses GPT-4 to evaluate model quality](https://twitter.com/cwolferesearch/status/1782453549223321660)
 - [Evaluation & Hallucination Detection for Abstractive Summaries](https://eugeneyan.com/writing/abstractive/)
 - [Measuring the Persuasiveness of Language Models](https://www.anthropic.com/news/measuring-model-persuasiveness)

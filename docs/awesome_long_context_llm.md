@@ -35,6 +35,9 @@
 	 *Adyasha Maharana, Dong-Ho Lee, Sergey Tulyakov, Mohit Bansal, Francesco Barbieri, Yuwei Fang*
 
 ## Papers
+- **Are Long-LLMs A Necessity For Long-Context Tasks?**, `arXiv, 2405.15318`, [arxiv](http://arxiv.org/abs/2405.15318v1), [pdf](http://arxiv.org/pdf/2405.15318v1.pdf), cication: [**-1**](None)
+
+	 *Hongjin Qian, Zheng Liu, Peitian Zhang, Kelong Mao, Yujia Zhou, Xu Chen, Zhicheng Dou*
 - **Challenges in Deploying Long-Context Transformers: A Theoretical Peak
   Performance Analysis**, `arXiv, 2405.08944`, [arxiv](http://arxiv.org/abs/2405.08944v1), [pdf](http://arxiv.org/pdf/2405.08944v1.pdf), cication: [**-1**](None)
 
@@ -279,6 +282,7 @@
 	 *LongLLaMA is a large language model capable of handling long contexts. It is based on OpenLLaMA and fine-tuned with the Focused Transformer (FoT) method.*
 
 ## Other
+- [Unlocking Longer Generation with Key-Value Cache Quantization](https://huggingface.co/blog/kv-cache-quantization)
 - [Unsloth - 4x longer context windows & 1.7x larger batch sizes](https://unsloth.ai/blog/long-context)
 -  [a certain pattern among many attention heads](https://twitter.com/arankomatsuzaki/status/1767276661894943226)
 - [How Do Language Models put Attention Weights over Long Context?](https://yaofu.notion.site/How-Do-Language-Models-put-Attention-Weights-over-Long-Context-10250219d5ce42e8b465087c383a034e)

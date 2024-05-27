@@ -226,6 +226,9 @@
 	 *Greg Serapio-García, Mustafa Safdari, Clément Crepy, Luning Sun, Stephen Fitz, Peter Romero, Marwa Abdulhai, Aleksandra Faust, Maja Matarić*
 
 ## World Model
+- **iVideoGPT: Interactive VideoGPTs are Scalable World Models**, `arXiv, 2405.15223`, [arxiv](http://arxiv.org/abs/2405.15223v1), [pdf](http://arxiv.org/pdf/2405.15223v1.pdf), cication: [**-1**](None)
+
+	 *Jialong Wu, Shaofeng Yin, Ningya Feng, Xu He, Dong Li, Jianye Hao, Mingsheng Long*
 - **Diffusion for World Modeling: Visual Details Matter in Atari**, `arXiv, 2405.12399`, [arxiv](http://arxiv.org/abs/2405.12399v1), [pdf](http://arxiv.org/pdf/2405.12399v1.pdf), cication: [**-1**](None)
 
 	 *Eloi Alonso, Adam Jelley, Vincent Micheli, Anssi Kanervisto, Amos Storkey, Tim Pearce, François Fleuret* · ([diamond](https://github.com/eloialonso/diamond) - eloialonso) ![Star](https://img.shields.io/github/stars/eloialonso/diamond.svg?style=social&label=Star)
@@ -346,6 +349,9 @@
 - [Mamba: Linear-Time Sequence Modeling with Selective State Spaces (Paper Explained) - YouTube](https://www.youtube.com/watch?v=9dSkvxS2EB0&ab_channel=YannicKilcher)
 
 ## New model
+- **Attention as an RNN**, `arXiv, 2405.13956`, [arxiv](http://arxiv.org/abs/2405.13956v1), [pdf](http://arxiv.org/pdf/2405.13956v1.pdf), cication: [**-1**](None)
+
+	 *Leo Feng, Frederick Tung, Hossein Hajimirsadeghi, Mohamed Osama Ahmed, Yoshua Bengio, Greg Mori* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-05-27-3))
 - [**linear_open_lm**](https://github.com/tri-ml/linear_open_lm) - tri-ml ![Star](https://img.shields.io/github/stars/tri-ml/linear_open_lm.svg?style=social&label=Star)
 
 	 *A repository for research on medium sized language models.*

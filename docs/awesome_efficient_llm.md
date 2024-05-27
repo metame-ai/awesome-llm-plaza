@@ -462,6 +462,7 @@
 	 *Shufang Xie, Huishuai Zhang, Junliang Guo, Xu Tan, Jiang Bian, Hany Hassan Awadalla, Arul Menezes, Tao Qin, Rui Yan* · ([ResiDual](https://github.com/microsoft/ResiDual) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/ResiDual.svg?style=social&label=Star)
 
 ## Efficient Inference
+- [Hamel’s Blog - Optimizing latency](https://hamel.dev/notes/llm/inference/03_inference.html)
 - **Distributed Speculative Inference of Large Language Models**, `arXiv, 2405.14105`, [arxiv](http://arxiv.org/abs/2405.14105v1), [pdf](http://arxiv.org/pdf/2405.14105v1.pdf), cication: [**-1**](None)
 
 	 *Nadav Timor, Jonathan Mamou, Daniel Korat, Moshe Berchansky, Oren Pereg, Moshe Wasserblat, Tomer Galanti, Michal Gordon, David Harel*

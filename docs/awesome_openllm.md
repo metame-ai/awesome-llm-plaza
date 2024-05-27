@@ -364,6 +364,7 @@
 	 *All the projects related to Llama*
 
 ### Falcon
+- [Falcon 2: An 11B parameter pretrained language model and VLM, trained on over 5000B tokens and 11 languages](https://huggingface.co/blog/falcon2-11b)
 - [**falcon-11B**](https://huggingface.co/tiiuae/falcon-11B) - tiiuae 🤗
 - [Spread Your Wings: Falcon 180B is here](https://huggingface.co/blog/falcon-180b)
 - [**Falcon-LLM**](https://github.com/Sentdex/Falcon-LLM) - Sentdex ![Star](https://img.shields.io/github/stars/Sentdex/Falcon-LLM.svg?style=social&label=Star)
@@ -656,6 +657,9 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s/Lf70i8M0KNDs9ZB8H32h4w))
 
 # Extra
+- **Aya 23: Open Weight Releases to Further Multilingual Progress**, `arXiv, 2405.15032`, [arxiv](http://arxiv.org/abs/2405.15032v1), [pdf](http://arxiv.org/pdf/2405.15032v1.pdf), cication: [**-1**](None)
+
+	 *Viraat Aryabumi, John Dang, Dwarak Talupuru, Saurabh Dash, David Cairuz, Hangyu Lin, Bharat Venkitesh, Madeline Smith, Kelly Marchisio, Sebastian Ruder*
 - [**aya-101**](https://huggingface.co/CohereForAI/aya-101) - CohereForAI 🤗
 
 	 · ([huggingface](https://huggingface.co/datasets/CohereForAI/aya_collection)) · ([cohere](https://cohere.com/research/aya))

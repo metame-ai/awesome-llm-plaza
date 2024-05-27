@@ -23,6 +23,10 @@
 	 *Ziyin Zhang, Chaoyu Chen, Bingchang Liu, Cong Liao, Zi Gong, Hang Yu, Jianguo Li, Rui Wang*
 
 ## Paper
+- **AutoCoder: Enhancing Code Large Language Model with
+  \textsc{AIEV-Instruct}**, `arXiv, 2405.14906`, [arxiv](http://arxiv.org/abs/2405.14906v1), [pdf](http://arxiv.org/pdf/2405.14906v1.pdf), cication: [**-1**](None)
+
+	 *Bin Lei, Yuchen Li, Qiuwu Chen*
 - **LogoMotion: Visually Grounded Code Generation for Content-Aware
   Animation**, `arXiv, 2405.07065`, [arxiv](http://arxiv.org/abs/2405.07065v1), [pdf](http://arxiv.org/pdf/2405.07065v1.pdf), cication: [**-1**](None)
 

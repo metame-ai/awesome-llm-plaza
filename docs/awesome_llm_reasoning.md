@@ -28,6 +28,10 @@
 	 *Jiankai Sun, Chuanyang Zheng, Enze Xie, Zhengying Liu, Ruihang Chu, Jianing Qiu, Jiaqi Xu, Mingyu Ding, Hongyang Li, Mengzhe Geng* · ([Awesome-Reasoning-Foundation-Models](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models) - reasoning-survey) ![Star](https://img.shields.io/github/stars/reasoning-survey/Awesome-Reasoning-Foundation-Models.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652421688&idx=3&sn=fcdc24edc7bc89ebcbcca0f7665e40f6))
 
 ## Reasoning
+- **Grokked Transformers are Implicit Reasoners: A Mechanistic Journey to
+  the Edge of Generalization**, `arXiv, 2405.15071`, [arxiv](http://arxiv.org/abs/2405.15071v1), [pdf](http://arxiv.org/pdf/2405.15071v1.pdf), cication: [**-1**](None)
+
+	 *Boshi Wang, Xiang Yue, Yu Su, Huan Sun*
 - **ALPINE: Unveiling the Planning Capability of Autoregressive Learning in
   Language Models**, `arXiv, 2405.09220`, [arxiv](http://arxiv.org/abs/2405.09220v1), [pdf](http://arxiv.org/pdf/2405.09220v1.pdf), cication: [**-1**](None)
 
