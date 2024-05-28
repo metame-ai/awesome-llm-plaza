@@ -973,6 +973,10 @@
 	 *Interact privately with your documents using the power of GPT, 100% privately, no data leaks*
 
 ### Embedding
+- **NV-Embed: Improved Techniques for Training LLMs as Generalist Embedding
+  Models**, `arXiv, 2405.17428`, [arxiv](http://arxiv.org/abs/2405.17428v1), [pdf](http://arxiv.org/pdf/2405.17428v1.pdf), cication: [**-1**](None)
+
+	 *Chankyu Lee, Rajarshi Roy, Mengyao Xu, Jonathan Raiman, Mohammad Shoeybi, Bryan Catanzaro, Wei Ping* · ([huggingface](https://huggingface.co/nvidia/NV-Embed-v1))
 - **Piccolo2: General Text Embedding with Multi-task Hybrid Loss Training**, `arXiv, 2405.06932`, [arxiv](http://arxiv.org/abs/2405.06932v1), [pdf](http://arxiv.org/pdf/2405.06932v1.pdf), cication: [**-1**](None)
 
 	 *Junqin Huang, Zhongjie Hu, Zihao Jing, Mengya Gao, Yichao Wu* · ([huggingface](https://huggingface.co/sensenova/))

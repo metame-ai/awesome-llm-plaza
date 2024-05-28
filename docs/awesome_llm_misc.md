@@ -293,6 +293,9 @@
 	 *Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers*
 
 ## State Space Model
+- **Zamba: A Compact 7B SSM Hybrid Model**, `arXiv, 2405.16712`, [arxiv](http://arxiv.org/abs/2405.16712v1), [pdf](http://arxiv.org/pdf/2405.16712v1.pdf), cication: [**-1**](None)
+
+	 *Paolo Glorioso, Quentin Anthony, Yury Tokpanov, James Whittington, Jonathan Pilault, Adam Ibrahim, Beren Millidge*
 - [**mamba-7b-rw**](https://huggingface.co/TRI-ML/mamba-7b-rw) - TRI-ML 🤗
 - **The Illusion of State in State-Space Models**, `arXiv, 2404.08819`, [arxiv](http://arxiv.org/abs/2404.08819v1), [pdf](http://arxiv.org/pdf/2404.08819v1.pdf), cication: [**-1**](None)
 

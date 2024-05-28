@@ -54,6 +54,9 @@
 - [Navigating the Jagged Technological Frontier: Field Experimental Evidence of the Effects of AI on Knowledge Worker Productivity and Quality](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4573321)
 
 ## Toolkits 
+- [**llama-fs**](https://github.com/iyaja/llama-fs) - iyaja ![Star](https://img.shields.io/github/stars/iyaja/llama-fs.svg?style=social&label=Star)
+
+	 *A self-organizing file system with llama 3*
 - [**activepieces**](https://github.com/activepieces/activepieces) - activepieces ![Star](https://img.shields.io/github/stars/activepieces/activepieces.svg?style=social&label=Star)
 
 	 *Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100+ integration / Enterprise automation tool / Zapier Alternative*

@@ -59,6 +59,10 @@
 
 	 *Vladislav Lialin, Vijeta Deshpande, Anna Rumshisky*
 ## Efficient finetuning
+- **$\textit{Trans-LoRA}$: towards data-free Transferable Parameter
+  Efficient Finetuning**, `arXiv, 2405.17258`, [arxiv](http://arxiv.org/abs/2405.17258v1), [pdf](http://arxiv.org/pdf/2405.17258v1.pdf), cication: [**-1**](None)
+
+	 *Runqian Wang, Soumya Ghosh, David Cox, Diego Antognini, Aude Oliva, Rogerio Feris, Leonid Karlinsky*
 - **Towards Modular LLMs by Building and Reusing a Library of LoRAs**, `arXiv, 2405.11157`, [arxiv](http://arxiv.org/abs/2405.11157v1), [pdf](http://arxiv.org/pdf/2405.11157v1.pdf), cication: [**-1**](None)
 
 	 *Oleksiy Ostapenko, Zhan Su, Edoardo Maria Ponti, Laurent Charlin, Nicolas Le Roux, Matheus Pereira, Lucas Caccia, Alessandro Sordoni*

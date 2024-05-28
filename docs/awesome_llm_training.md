@@ -394,6 +394,9 @@
 - [Weight averaging and model merging for LLMs seem to be the most interesting themes in 2024 so far. ](https://twitter.com/rasbt/status/1750180383398744106)
 
 ## MoE
+- **MoEUT: Mixture-of-Experts Universal Transformers**, `arXiv, 2405.16039`, [arxiv](http://arxiv.org/abs/2405.16039v1), [pdf](http://arxiv.org/pdf/2405.16039v1.pdf), cication: [**-1**](None)
+
+	 *Róbert Csordás, Kazuki Irie, Jürgen Schmidhuber, Christopher Potts, Christopher D. Manning* · ([moeut](https://github.com/robertcsordas/moeut) - robertcsordas) ![Star](https://img.shields.io/github/stars/robertcsordas/moeut.svg?style=social&label=Star)
 - **Multi-Head Mixture-of-Experts**, `arXiv, 2404.15045`, [arxiv](http://arxiv.org/abs/2404.15045v1), [pdf](http://arxiv.org/pdf/2404.15045v1.pdf), cication: [**-1**](None)
 
 	 *Xun Wu, Shaohan Huang, Wenhui Wang, Furu Wei*

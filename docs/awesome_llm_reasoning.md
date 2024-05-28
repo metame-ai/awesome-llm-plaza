@@ -411,6 +411,9 @@
 - [大模型Fewshot推理如何选择更好的示例](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495177&idx=2&sn=fe8353efed16a81e35462be06d5a6cea)
 
 ## Math reasoning
+- [**arithmetic**](https://github.com/mcleish7/arithmetic) - mcleish7 ![Star](https://img.shields.io/github/stars/mcleish7/arithmetic.svg?style=social&label=Star)
+
+	 *Code to reproduce "Transformers Can Do Arithmetic with the Right Embeddings", McLeish et al (2024)*
 - **DeepSeek-Prover: Advancing Theorem Proving in LLMs through Large-Scale
   Synthetic Data**, `arXiv, 2405.14333`, [arxiv](http://arxiv.org/abs/2405.14333v1), [pdf](http://arxiv.org/pdf/2405.14333v1.pdf), cication: [**-1**](None)
 

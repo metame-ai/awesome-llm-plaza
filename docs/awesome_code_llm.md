@@ -23,6 +23,10 @@
 	 *Ziyin Zhang, Chaoyu Chen, Bingchang Liu, Cong Liao, Zi Gong, Hang Yu, Jianguo Li, Rui Wang*
 
 ## Paper
+- **SWE-agent: Agent-Computer Interfaces Enable Automated Software
+  Engineering**, `arXiv, 2405.15793`, [arxiv](http://arxiv.org/abs/2405.15793v1), [pdf](http://arxiv.org/pdf/2405.15793v1.pdf), cication: [**-1**](None)
+
+	 *John Yang, Carlos E. Jimenez, Alexander Wettig, Kilian Lieret, Shunyu Yao, Karthik Narasimhan, Ofir Press*
 - **AutoCoder: Enhancing Code Large Language Model with
   \textsc{AIEV-Instruct}**, `arXiv, 2405.14906`, [arxiv](http://arxiv.org/abs/2405.14906v1), [pdf](http://arxiv.org/pdf/2405.14906v1.pdf), cication: [**-1**](None)
 

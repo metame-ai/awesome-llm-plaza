@@ -229,6 +229,15 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
+- **Matryoshka Multimodal Models**, `arXiv, 2405.17430`, [arxiv](http://arxiv.org/abs/2405.17430v1), [pdf](http://arxiv.org/pdf/2405.17430v1.pdf), cication: [**-1**](None)
+
+	 *Mu Cai, Jianwei Yang, Jianfeng Gao, Yong Jae Lee*
+- **An Introduction to Vision-Language Modeling**, `arXiv, 2405.17247`, [arxiv](http://arxiv.org/abs/2405.17247v1), [pdf](http://arxiv.org/pdf/2405.17247v1.pdf), cication: [**-1**](None)
+
+	 *Florian Bordes, Richard Yuanzhe Pang, Anurag Ajay, Alexander C. Li, Adrien Bardes, Suzanne Petryk, Oscar Mañas, Zhiqiu Lin, Anas Mahmoud, Bargav Jayaraman*
+- **Matryoshka Multimodal Models**, `arXiv, 2405.17430`, [arxiv](http://arxiv.org/abs/2405.17430v1), [pdf](http://arxiv.org/pdf/2405.17430v1.pdf), cication: [**-1**](None)
+
+	 *Mu Cai, Jianwei Yang, Jianfeng Gao, Yong Jae Lee* · ([matryoshka-mm.github](https://matryoshka-mm.github.io/)) · ([matryoshka-mm](https://github.com/mu-cai/matryoshka-mm) - mu-cai) ![Star](https://img.shields.io/github/stars/mu-cai/matryoshka-mm.svg?style=social&label=Star)
 - **ConvLLaVA: Hierarchical Backbones as Visual Encoder for Large Multimodal
   Models**, `arXiv, 2405.15738`, [arxiv](http://arxiv.org/abs/2405.15738v1), [pdf](http://arxiv.org/pdf/2405.15738v1.pdf), cication: [**-1**](None)
 
