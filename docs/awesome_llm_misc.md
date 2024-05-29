@@ -226,6 +226,9 @@
 	 *Greg Serapio-García, Mustafa Safdari, Clément Crepy, Luning Sun, Stephen Fitz, Peter Romero, Marwa Abdulhai, Aleksandra Faust, Maja Matarić*
 
 ## World Model
+- [**Pandora**](https://github.com/maitrix-org/Pandora?tab=readme-ov-file) - maitrix-org ![Star](https://img.shields.io/github/stars/maitrix-org/Pandora.svg?style=social&label=Star)
+
+	 *Pandora: Towards General World Model with Natural Language Actions and Video States* · ([world-model.maitrix](https://world-model.maitrix.org/))
 - **iVideoGPT: Interactive VideoGPTs are Scalable World Models**, `arXiv, 2405.15223`, [arxiv](http://arxiv.org/abs/2405.15223v1), [pdf](http://arxiv.org/pdf/2405.15223v1.pdf), cication: [**-1**](None)
 
 	 *Jialong Wu, Shaofeng Yin, Ningya Feng, Xu He, Dong Li, Jianye Hao, Mingsheng Long*

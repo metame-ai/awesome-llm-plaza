@@ -296,6 +296,9 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652375732&idx=2&sn=1cb4cefcd791af2a6ffacdf99e35225c))
 
 ## Optimization
+- **2BP: 2-Stage Backpropagation**, `arXiv, 2405.18047`, [arxiv](http://arxiv.org/abs/2405.18047v1), [pdf](http://arxiv.org/pdf/2405.18047v1.pdf), cication: [**-1**](None)
+
+	 *Christopher Rae, Joseph K. L. Lee, James Richings*
 - **The Road Less Scheduled**, `arXiv, 2405.15682`, [arxiv](http://arxiv.org/abs/2405.15682v1), [pdf](http://arxiv.org/pdf/2405.15682v1.pdf), cication: [**-1**](None)
 
 	 *Aaron Defazio, Xingyu, Yang, Harsh Mehta, Konstantin Mishchenko, Ahmed Khaled, Ashok Cutkosky* · ([schedule_free](https://github.com/facebookresearch/schedule_free) - facebookresearch) ![Star](https://img.shields.io/github/stars/facebookresearch/schedule_free.svg?style=social&label=Star)

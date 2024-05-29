@@ -59,6 +59,9 @@
 
 	 *Vladislav Lialin, Vijeta Deshpande, Anna Rumshisky*
 ## Efficient finetuning
+- **VeLoRA: Memory Efficient Training using Rank-1 Sub-Token Projections**, `arXiv, 2405.17991`, [arxiv](http://arxiv.org/abs/2405.17991v1), [pdf](http://arxiv.org/pdf/2405.17991v1.pdf), cication: [**-1**](None)
+
+	 *Roy Miles, Pradyumna Reddy, Ismail Elezi, Jiankang Deng*
 - **$\textit{Trans-LoRA}$: towards data-free Transferable Parameter
   Efficient Finetuning**, `arXiv, 2405.17258`, [arxiv](http://arxiv.org/abs/2405.17258v1), [pdf](http://arxiv.org/pdf/2405.17258v1.pdf), cication: [**-1**](None)
 
@@ -845,6 +848,10 @@
 	 *DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.*
 
 ## Efficient transformer
+- **LLaMA-NAS: Efficient Neural Architecture Search for Large Language
+  Models**, `arXiv, 2405.18377`, [arxiv](http://arxiv.org/abs/2405.18377v1), [pdf](http://arxiv.org/pdf/2405.18377v1.pdf), cication: [**-1**](None)
+
+	 *Anthony Sarah, Sharath Nittur Sridhar, Maciej Szankin, Sairam Sundaresan*
 - **SLAB: Efficient Transformers with Simplified Linear Attention and
   Progressive Re-parameterized Batch Normalization**, `arXiv, 2405.11582`, [arxiv](http://arxiv.org/abs/2405.11582v1), [pdf](http://arxiv.org/pdf/2405.11582v1.pdf), cication: [**-1**](None)
 

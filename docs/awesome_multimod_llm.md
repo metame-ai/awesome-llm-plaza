@@ -229,6 +229,9 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
+- - [Fetching Title#6cez](https://arxiv.org/abs/2405.11788)
+
+	 · ([TinyLLaVA_Factory](https://github.com/TinyLLaVA/TinyLLaVA_Factory) - TinyLLaVA) ![Star](https://img.shields.io/github/stars/TinyLLaVA/TinyLLaVA_Factory.svg?style=social&label=Star)
 - **Matryoshka Multimodal Models**, `arXiv, 2405.17430`, [arxiv](http://arxiv.org/abs/2405.17430v1), [pdf](http://arxiv.org/pdf/2405.17430v1.pdf), cication: [**-1**](None)
 
 	 *Mu Cai, Jianwei Yang, Jianfeng Gao, Yong Jae Lee*
@@ -1152,6 +1155,11 @@
 - **VeCLIP: Improving CLIP Training via Visual-enriched Captions**, `arXiv, 2310.07699`, [arxiv](http://arxiv.org/abs/2310.07699v2), [pdf](http://arxiv.org/pdf/2310.07699v2.pdf), cication: [**8**](https://scholar.google.com/scholar?cites=3904647199650419901&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Zhengfeng Lai, Haotian Zhang, Bowen Zhang, Wentao Wu, Haoping Bai, Aleksei Timofeev, Xianzhi Du, Zhe Gan, Jiulong Shan, Chen-Nee Chuah* · ([ml-veclip](https://github.com/apple/ml-veclip) - apple) ![Star](https://img.shields.io/github/stars/apple/ml-veclip.svg?style=social&label=Star)
+## Reasoning 
+- **Cantor: Inspiring Multimodal Chain-of-Thought of MLLM**, `arXiv, 2404.16033`, [arxiv](http://arxiv.org/abs/2404.16033v1), [pdf](http://arxiv.org/pdf/2404.16033v1.pdf), cication: [**-1**](None)
+
+	 *Timin Gao, Peixian Chen, Mengdan Zhang, Chaoyou Fu, Yunhang Shen, Yan Zhang, Shengchuan Zhang, Xiawu Zheng, Xing Sun, Liujuan Cao* · ([ggg0919.github](https://ggg0919.github.io/cantor/))
+
 ## Alignment
 - **BBA: Bi-Modal Behavioral Alignment for Reasoning with Large
   Vision-Language Models**, `arXiv, 2402.13577`, [arxiv](http://arxiv.org/abs/2402.13577v1), [pdf](http://arxiv.org/pdf/2402.13577v1.pdf), cication: [**-1**](None)
@@ -1212,6 +1220,7 @@
 
 	 *Mingsheng Li, Xin Chen, Chi Zhang, Sijin Chen, Hongyuan Zhu, Fukun Yin, Gang Yu, Tao Chen*
 ## Projects
+
 - [**CogVLM2**](https://github.com/THUDM/CogVLM2) - THUDM ![Star](https://img.shields.io/github/stars/THUDM/CogVLM2.svg?style=social&label=Star)
 
 	 *第二代 CogVLM多模态预训练对话模型*

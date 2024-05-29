@@ -448,6 +448,9 @@
 # Mulitlingual (chinese)
 
 ## Foundation
+- **Yuan 2.0-M32: Mixture of Experts with Attention Router**, `arXiv, 2405.17976`, [arxiv](http://arxiv.org/abs/2405.17976v1), [pdf](http://arxiv.org/pdf/2405.17976v1.pdf), cication: [**-1**](None)
+
+	 *Shaohua Wu, Jiangang Luo, Xi Chen, Lingjun Li, Xudong Zhao, Tong Yu, Chao Wang, Yue Wang, Fei Wang, Weixu Qiao*
 - **ChuXin: 1.6B Technical Report**, `arXiv, 2405.04828`, [arxiv](http://arxiv.org/abs/2405.04828v1), [pdf](http://arxiv.org/pdf/2405.04828v1.pdf), cication: [**-1**](None)
 
 	 *Xiaomin Zhuang, Yufan Jiang, Qiaozhi He, Zhihua Wu*
@@ -524,6 +527,10 @@
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-12-11-15))
 
 ### InterLM
+- [**InternLM-Math**](https://github.com/InternLM/InternLM-Math) - InternLM ![Star](https://img.shields.io/github/stars/InternLM/InternLM-Math.svg?style=social&label=Star)
+
+	 · ([huggingface](https://huggingface.co/spaces/internlm/internlm2-math-7b))
+- [**internlm2-math-plus-mixtral8x22b**](https://huggingface.co/internlm/internlm2-math-plus-mixtral8x22b) - internlm 🤗
 - **InternLM2 Technical Report**, `arXiv, 2403.17297`, [arxiv](http://arxiv.org/abs/2403.17297v1), [pdf](http://arxiv.org/pdf/2403.17297v1.pdf), cication: [**-1**](None)
 
 	 *Zheng Cai, Maosong Cao, Haojiong Chen, Kai Chen, Keyu Chen, Xin Chen, Xun Chen, Zehui Chen, Zhi Chen, Pei Chu*

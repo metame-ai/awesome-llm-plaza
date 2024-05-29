@@ -789,6 +789,9 @@
 	 *Official repo for LayoutGPT*
 
 ## Science
+- **AstroPT: Scaling Large Observation Models for Astronomy**, `arXiv, 2405.14930`, [arxiv](http://arxiv.org/abs/2405.14930v1), [pdf](http://arxiv.org/pdf/2405.14930v1.pdf), cication: [**-1**](None)
+
+	 *Michael J. Smith, Ryan J. Roberts, Eirini Angeloudi, Marc Huertas-Company* · ([astroPT](https://github.com/Smith42/astroPT) - Smith42) ![Star](https://img.shields.io/github/stars/Smith42/astroPT.svg?style=social&label=Star)
 - **INDUS: Effective and Efficient Language Models for Scientific
   Applications**, `arXiv, 2405.10725`, [arxiv](http://arxiv.org/abs/2405.10725v2), [pdf](http://arxiv.org/pdf/2405.10725v2.pdf), cication: [**-1**](None)
 
