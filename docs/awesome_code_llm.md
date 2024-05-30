@@ -326,6 +326,9 @@
 	 · [intercode-benchmark.github](https://intercode-benchmark.github.io/)
 
 ## Projects
+- [Codestral: Hello, World! | Mistral AI | Frontier AI in your hands](https://mistral.ai/news/codestral/)
+
+	 · ([huggingface](https://huggingface.co/mistralai/Codestral-22B-v0.1))
 - [**Devon**](https://github.com/entropy-research/Devon) - entropy-research ![Star](https://img.shields.io/github/stars/entropy-research/Devon.svg?style=social&label=Star)
 
 	 *Devon: An open-source pair programmer*

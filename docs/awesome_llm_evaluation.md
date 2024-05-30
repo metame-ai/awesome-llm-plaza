@@ -482,6 +482,7 @@
 	 *Lianmin Zheng, Wei-Lin Chiang, Ying Sheng, Siyuan Zhuang, Zhanghao Wu, Yonghao Zhuang, Zi Lin, Zhuohan Li, Dacheng Li, Eric. P Xing*
 
 ## Projects
+- [SEAL leaderboards](https://scale.com/leaderboard)
 - [**needle-in-a-needlestack**](https://github.com/llmonpy/needle-in-a-needlestack) - llmonpy ![Star](https://img.shields.io/github/stars/llmonpy/needle-in-a-needlestack.svg?style=social&label=Star)
 - [**MMLU-Pro**](https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro) - TIGER-Lab 🤗
 - [**prometheus-eval**](https://github.com/prometheus-eval/prometheus-eval) - prometheus-eval ![Star](https://img.shields.io/github/stars/prometheus-eval/prometheus-eval.svg?style=social&label=Star)

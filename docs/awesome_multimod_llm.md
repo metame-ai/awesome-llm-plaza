@@ -1220,7 +1220,9 @@
 
 	 *Mingsheng Li, Xin Chen, Chi Zhang, Sijin Chen, Hongyuan Zhu, Fukun Yin, Gang Yu, Tao Chen*
 ## Projects
+- [**llama3v**](https://github.com/mustafaaljadery/llama3v) - mustafaaljadery ![Star](https://img.shields.io/github/stars/mustafaaljadery/llama3v.svg?style=social&label=Star)
 
+	 *A SOTA vision model built on top of llama3 8B.*
 - [**CogVLM2**](https://github.com/THUDM/CogVLM2) - THUDM ![Star](https://img.shields.io/github/stars/THUDM/CogVLM2.svg?style=social&label=Star)
 
 	 *第二代 CogVLM多模态预训练对话模型*
