@@ -32,6 +32,13 @@
 	 *Yufei Wang, Wanjun Zhong, Liangyou Li, Fei Mi, Xingshan Zeng, Wenyong Huang, Lifeng Shang, Xin Jiang, Qun Liu* · ([AlignLLMHumanSurvey](https://github.com/GaryYufei/AlignLLMHumanSurvey) - GaryYufei) ![Star](https://img.shields.io/github/stars/GaryYufei/AlignLLMHumanSurvey.svg?style=social&label=Star)
 
 ## Paper & Projects
+- **Xwin-LM: Strong and Scalable Alignment Practice for LLMs**, `arXiv, 2405.20335`, [arxiv](http://arxiv.org/abs/2405.20335v1), [pdf](http://arxiv.org/pdf/2405.20335v1.pdf), cication: [**-1**](None)
+
+	 *Bolin Ni, JingCheng Hu, Yixuan Wei, Houwen Peng, Zheng Zhang, Gaofeng Meng, Han Hu* · ([Xwin-LM](https://github.com/Xwin-LM/Xwin-LM) - Xwin-LM) ![Star](https://img.shields.io/github/stars/Xwin-LM/Xwin-LM.svg?style=social&label=Star)
+- **Offline Regularised Reinforcement Learning for Large Language Models
+  Alignment**, `arXiv, 2405.19107`, [arxiv](http://arxiv.org/abs/2405.19107v1), [pdf](http://arxiv.org/pdf/2405.19107v1.pdf), cication: [**-1**](None)
+
+	 *Pierre Harvey Richemond, Yunhao Tang, Daniel Guo, Daniele Calandriello, Mohammad Gheshlaghi Azar, Rafael Rafailov, Bernardo Avila Pires, Eugene Tarassov, Lucas Spangher, Will Ellsworth*
 - **FLAME: Factuality-Aware Alignment for Large Language Models**, `arXiv, 2405.01525`, [arxiv](http://arxiv.org/abs/2405.01525v1), [pdf](http://arxiv.org/pdf/2405.01525v1.pdf), cication: [**-1**](None)
 
 	 *Sheng-Chieh Lin, Luyu Gao, Barlas Oguz, Wenhan Xiong, Jimmy Lin, Wen-tau Yih, Xilun Chen*
@@ -229,6 +236,14 @@
 	 *Timo Kaufmann, Paul Weng, Viktor Bengs, Eyke Hüllermeier*
 
 ## Papers
+- **Self-Exploring Language Models: Active Preference Elicitation for Online
+  Alignment**, `arXiv, 2405.19332`, [arxiv](http://arxiv.org/abs/2405.19332v1), [pdf](http://arxiv.org/pdf/2405.19332v1.pdf), cication: [**-1**](None)
+
+	 *Shenao Zhang, Donghan Yu, Hiteshi Sharma, Ziyi Yang, Shuohang Wang, Hany Hassan, Zhaoran Wang* · ([SELM](https://github.com/shenao-zhang/SELM) - shenao-zhang) ![Star](https://img.shields.io/github/stars/shenao-zhang/SELM.svg?style=social&label=Star)
+- **Value-Incentivized Preference Optimization: A Unified Approach to Online
+  and Offline RLHF**, `arXiv, 2405.19320`, [arxiv](http://arxiv.org/abs/2405.19320v1), [pdf](http://arxiv.org/pdf/2405.19320v1.pdf), cication: [**-1**](None)
+
+	 *Shicong Cen, Jincheng Mei, Katayoon Goshvadi, Hanjun Dai, Tong Yang, Sherry Yang, Dale Schuurmans, Yuejie Chi, Bo Dai*
 - **SimPO: Simple Preference Optimization with a Reference-Free Reward**, `arXiv, 2405.14734`, [arxiv](http://arxiv.org/abs/2405.14734v1), [pdf](http://arxiv.org/pdf/2405.14734v1.pdf), cication: [**-1**](None)
 
 	 *Yu Meng, Mengzhou Xia, Danqi Chen*

@@ -469,6 +469,9 @@
 	 *Shufang Xie, Huishuai Zhang, Junliang Guo, Xu Tan, Jiang Bian, Hany Hassan Awadalla, Arul Menezes, Tao Qin, Rui Yan* · ([ResiDual](https://github.com/microsoft/ResiDual) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/ResiDual.svg?style=social&label=Star)
 
 ## Efficient Inference
+- **Nearest Neighbor Speculative Decoding for LLM Generation and Attribution**, `arXiv, 2405.19325`, [arxiv](http://arxiv.org/abs/2405.19325v2), [pdf](http://arxiv.org/pdf/2405.19325v2.pdf), cication: [**-1**](None)
+
+	 *Minghan Li, Xilun Chen, Ari Holtzman, Beidi Chen, Jimmy Lin, Wen-tau Yih, Xi Victoria Lin*
 - [Hamel’s Blog - Optimizing latency](https://hamel.dev/notes/llm/inference/03_inference.html)
 - **Distributed Speculative Inference of Large Language Models**, `arXiv, 2405.14105`, [arxiv](http://arxiv.org/abs/2405.14105v1), [pdf](http://arxiv.org/pdf/2405.14105v1.pdf), cication: [**-1**](None)
 
@@ -759,6 +762,7 @@
 	 *Port of Facebook's LLaMA model in C/C++* · ([ggml](http://ggml.ai/)) · ([llama.cpp](https://github.com/ggerganov/llama.cpp/discussions/205) - ggerganov) ![Star](https://img.shields.io/github/stars/ggerganov/llama.cpp.svg?style=social&label=Star)
 
 ### Other
+- [Benchmarking Text Generation Inference](https://huggingface.co/blog/tgi-benchmarking)
 - [Accelerate Mixtral 8x7B with Speculative Decoding and Quantziation on Amazon SageMaker](https://www.philschmid.de/sagemaker-awq-medusa)
 - [LLM Inference Provider Leaderboard](https://leaderboard.withmartian.com/)
 

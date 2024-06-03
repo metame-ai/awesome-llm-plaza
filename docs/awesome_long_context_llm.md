@@ -35,6 +35,9 @@
 	 *Adyasha Maharana, Dong-Ho Lee, Sergey Tulyakov, Mohit Bansal, Francesco Barbieri, Yuwei Fang*
 
 ## Papers
+- **Contextual Position Encoding: Learning to Count What's Important**, `arXiv, 2405.18719`, [arxiv](http://arxiv.org/abs/2405.18719v2), [pdf](http://arxiv.org/pdf/2405.18719v2.pdf), cication: [**-1**](None)
+
+	 *Olga Golovneva, Tianlu Wang, Jason Weston, Sainbayar Sukhbaatar*
 - **Are Long-LLMs A Necessity For Long-Context Tasks?**, `arXiv, 2405.15318`, [arxiv](http://arxiv.org/abs/2405.15318v1), [pdf](http://arxiv.org/pdf/2405.15318v1.pdf), cication: [**-1**](None)
 
 	 *Hongjin Qian, Zheng Liu, Peitian Zhang, Kelong Mao, Yujia Zhou, Xu Chen, Zhicheng Dou*

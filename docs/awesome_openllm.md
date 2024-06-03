@@ -313,6 +313,7 @@
 - [**Hermes-2-Pro-Mistral-7B**](https://huggingface.co/NousResearch/Hermes-2-Pro-Mistral-7B) - NousResearch 🤗
 - [**dolphin-2.8-mistral-7b-v02**](https://huggingface.co/cognitivecomputations/dolphin-2.8-mistral-7b-v02) - cognitivecomputations 🤗
 - [**dolphin-2.8-mistral-7b-v02**](https://huggingface.co/cognitivecomputations/dolphin-2.8-mistral-7b-v02) - cognitivecomputations 🤗
+- [**dolphin-2.9.1-mixtral-1x22b**](https://huggingface.co/cognitivecomputations/dolphin-2.9.1-mixtral-1x22b) - cognitivecomputations 🤗
 
 ### StripedHyena-7B 
 - [**StripedHyena-Hessian-7B**](https://huggingface.co/togethercomputer/StripedHyena-Hessian-7B) - togethercomputer 🤗
@@ -448,9 +449,15 @@
 # Mulitlingual (chinese)
 
 ## Foundation
+- **MAP-Neo: Highly Capable and Transparent Bilingual Large Language Model
+  Series**, `arXiv, 2405.19327`, [arxiv](http://arxiv.org/abs/2405.19327v2), [pdf](http://arxiv.org/pdf/2405.19327v2.pdf), cication: [**-1**](None)
+
+	 *Ge Zhang, Scott Qu, Jiaheng Liu, Chenchen Zhang, Chenghua Lin, Chou Leuang Yu, Danny Pan, Esther Cheng, Jie Liu, Qunshu Lin* · ([map-neo.github](https://map-neo.github.io/))
 - **Yuan 2.0-M32: Mixture of Experts with Attention Router**, `arXiv, 2405.17976`, [arxiv](http://arxiv.org/abs/2405.17976v1), [pdf](http://arxiv.org/pdf/2405.17976v1.pdf), cication: [**-1**](None)
 
 	 *Shaohua Wu, Jiangang Luo, Xi Chen, Lingjun Li, Xudong Zhao, Tong Yu, Chao Wang, Yue Wang, Fei Wang, Weixu Qiao*
+
+	 · ([huggingface](https://huggingface.co/IEITYuan/Yuan2-M32-hf))
 - **ChuXin: 1.6B Technical Report**, `arXiv, 2405.04828`, [arxiv](http://arxiv.org/abs/2405.04828v1), [pdf](http://arxiv.org/pdf/2405.04828v1.pdf), cication: [**-1**](None)
 
 	 *Xiaomin Zhuang, Yufan Jiang, Qiaozhi He, Zhihua Wu*

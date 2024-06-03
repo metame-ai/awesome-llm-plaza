@@ -555,6 +555,7 @@
 - [AgentGPT](https://agentgpt.reworkd.ai/)
 
 ## Augmented LLM
+- [Fetching Title#r392](https://bair.berkeley.edu/blog/2024/05/29/tiny-agent/)
 - **FollowIR: Evaluating and Teaching Information Retrieval Models to Follow
   Instructions**, `arXiv, 2403.15246`, [arxiv](http://arxiv.org/abs/2403.15246v1), [pdf](http://arxiv.org/pdf/2403.15246v1.pdf), cication: [**-1**](None)
 
@@ -733,6 +734,10 @@
 - [GPT-4V学会用键鼠上网，人类眼睁睁看着它发帖玩游戏 | 量子位](https://www.qbitai.com/2023/11/95456.html)
 
 ## Retrieval agumented generation
+- **Similarity is Not All You Need: Endowing Retrieval Augmented Generation
+  with Multi Layered Thoughts**, `arXiv, 2405.19893`, [arxiv](http://arxiv.org/abs/2405.19893v1), [pdf](http://arxiv.org/pdf/2405.19893v1.pdf), cication: [**-1**](None)
+
+	 *Chunjing Gan, Dan Yang, Binbin Hu, Hanxiao Zhang, Siyuan Li, Ziqi Liu, Yue Shen, Lin Ju, Zhiqiang Zhang, Jinjie Gu*
 - [**Verba**](https://github.com/weaviate/Verba) - weaviate ![Star](https://img.shields.io/github/stars/weaviate/Verba.svg?style=social&label=Star)
 
 	 *Retrieval Augmented Generation (RAG) chatbot powered by Weaviate*

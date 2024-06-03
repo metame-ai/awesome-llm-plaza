@@ -290,6 +290,9 @@
 	 *Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao*
 
 ## Robotics
+- **RoboDreamer: Learning Compositional World Models for Robot Imagination**, `arXiv, 2404.12377`, [arxiv](http://arxiv.org/abs/2404.12377v1), [pdf](http://arxiv.org/pdf/2404.12377v1.pdf), cication: [**-1**](None)
+
+	 *Siyuan Zhou, Yilun Du, Jiaben Chen, Yandong Li, Dit-Yan Yeung, Chuang Gan* · ([robovideo.github](https://robovideo.github.io/))
 - **TRANSIC: Sim-to-Real Policy Transfer by Learning from Online Correction**, `arXiv, 2405.10315`, [arxiv](http://arxiv.org/abs/2405.10315v1), [pdf](http://arxiv.org/pdf/2405.10315v1.pdf), cication: [**-1**](None)
 
 	 *Yunfan Jiang, Chen Wang, Ruohan Zhang, Jiajun Wu, Li Fei-Fei* · ([transic-robot.github](https://transic-robot.github.io/))

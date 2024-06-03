@@ -355,6 +355,10 @@
 - [Mamba: Linear-Time Sequence Modeling with Selective State Spaces (Paper Explained) - YouTube](https://www.youtube.com/watch?v=9dSkvxS2EB0&ab_channel=YannicKilcher)
 
 ## New model
+- **A Unified Implicit Attention Formulation for Gated-Linear Recurrent
+  Sequence Models**, `arXiv, 2405.16504`, [arxiv](http://arxiv.org/abs/2405.16504v1), [pdf](http://arxiv.org/pdf/2405.16504v1.pdf), cication: [**-1**](None)
+
+	 *Itamar Zimerman, Ameen Ali, Lior Wolf* · ([UnifiedImplicitAttnRepr](https://github.com/Itamarzimm/UnifiedImplicitAttnRepr) - Itamarzimm) ![Star](https://img.shields.io/github/stars/Itamarzimm/UnifiedImplicitAttnRepr.svg?style=social&label=Star)
 - **Attention as an RNN**, `arXiv, 2405.13956`, [arxiv](http://arxiv.org/abs/2405.13956v1), [pdf](http://arxiv.org/pdf/2405.13956v1.pdf), cication: [**-1**](None)
 
 	 *Leo Feng, Frederick Tung, Hossein Hajimirsadeghi, Mohamed Osama Ahmed, Yoshua Bengio, Greg Mori* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-05-27-3))

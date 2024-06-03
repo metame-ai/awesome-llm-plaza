@@ -81,6 +81,10 @@
 	 *Mike Ranzinger, Greg Heinrich, Jan Kautz, Pavlo Molchanov* · ([radio](https://github.com/nvlabs/radio) - nvlabs) ![Star](https://img.shields.io/github/stars/nvlabs/radio.svg?style=social&label=Star)
 
 ### Video
+- **VideoTree: Adaptive Tree-based Video Representation for LLM Reasoning on
+  Long Videos**, `arXiv, 2405.19209`, [arxiv](http://arxiv.org/abs/2405.19209v1), [pdf](http://arxiv.org/pdf/2405.19209v1.pdf), cication: [**-1**](None)
+
+	 *Ziyang Wang, Shoubin Yu, Elias Stengel-Eskin, Jaehong Yoon, Feng Cheng, Gedas Bertasius, Mohit Bansal* · ([videotree2024.github](https://videotree2024.github.io/))
 - **Uni-MoE: Scaling Unified Multimodal LLMs with Mixture of Experts**, `arXiv, 2405.11273`, [arxiv](http://arxiv.org/abs/2405.11273v1), [pdf](http://arxiv.org/pdf/2405.11273v1.pdf), cication: [**-1**](None)
 
 	 *Yunxin Li, Shenyuan Jiang, Baotian Hu, Longyue Wang, Wanqi Zhong, Wenhan Luo, Lin Ma, Min Zhang* · ([UMOE-Scaling-Unified-Multimodal-LLMs](https://github.com/HITsz-TMG/UMOE-Scaling-Unified-Multimodal-LLMs) - HITsz-TMG) ![Star](https://img.shields.io/github/stars/HITsz-TMG/UMOE-Scaling-Unified-Multimodal-LLMs.svg?style=social&label=Star) · ([uni-moe.github](https://uni-moe.github.io/))
@@ -229,7 +233,16 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
-- - [Fetching Title#6cez](https://arxiv.org/abs/2405.11788)
+- **Zipper: A Multi-Tower Decoder Architecture for Fusing Modalities**, `arXiv, 2405.18669`, [arxiv](http://arxiv.org/abs/2405.18669v2), [pdf](http://arxiv.org/pdf/2405.18669v2.pdf), cication: [**-1**](None)
+
+	 *Vicky Zayats, Peter Chen, Melissa Ferrari, Dirk Padfield*
+- **Matryoshka Query Transformer for Large Vision-Language Models**, `arXiv, 2405.19315`, [arxiv](http://arxiv.org/abs/2405.19315v1), [pdf](http://arxiv.org/pdf/2405.19315v1.pdf), cication: [**-1**](None)
+
+	 *Wenbo Hu, Zi-Yi Dou, Liunian Harold Li, Amita Kamath, Nanyun Peng, Kai-Wei Chang*
+- **TinyLLaVA Factory: A Modularized Codebase for Small-scale Large
+  Multimodal Models**, `arXiv, 2405.11788`, [arxiv](http://arxiv.org/abs/2405.11788v1), [pdf](http://arxiv.org/pdf/2405.11788v1.pdf), cication: [**-1**](None)
+
+	 *Junlong Jia, Ying Hu, Xi Weng, Yiming Shi, Miao Li, Xingjian Zhang, Baichuan Zhou, Ziyu Liu, Jie Luo, Lei Huang*
 
 	 · ([TinyLLaVA_Factory](https://github.com/TinyLLaVA/TinyLLaVA_Factory) - TinyLLaVA) ![Star](https://img.shields.io/github/stars/TinyLLaVA/TinyLLaVA_Factory.svg?style=social&label=Star)
 - **Matryoshka Multimodal Models**, `arXiv, 2405.17430`, [arxiv](http://arxiv.org/abs/2405.17430v1), [pdf](http://arxiv.org/pdf/2405.17430v1.pdf), cication: [**-1**](None)
@@ -1123,7 +1136,12 @@
 - ["宝藏AI神器"通义听悟上新：超长音视频随便问，高校师生可获500小时免费时长 | 量子位](https://www.qbitai.com/2024/03/129271.html)
 
 ## CLIP
-- [Paper page - MoDE: CLIP Data Experts via Clustering](https://huggingface.co/papers/2404.16030)
+- **Jina CLIP: Your CLIP Model Is Also Your Text Retriever**, `arXiv, 2405.20204`, [arxiv](http://arxiv.org/abs/2405.20204v1), [pdf](http://arxiv.org/pdf/2405.20204v1.pdf), cication: [**-1**](None)
+
+	 *Andreas Koukounas, Georgios Mastrapas, Michael Günther, Bo Wang, Scott Martens, Isabelle Mohr, Saba Sturua, Mohammad Kalim Akram, Joan Fontanals Martínez, Saahil Ognawala*
+- **MoDE: CLIP Data Experts via Clustering**, `arXiv, 2404.16030`, [arxiv](http://arxiv.org/abs/2404.16030v1), [pdf](http://arxiv.org/pdf/2404.16030v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=6687597386819654107&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Jiawei Ma, Po-Yao Huang, Saining Xie, Shang-Wen Li, Luke Zettlemoyer, Shih-Fu Chang, Wen-Tau Yih, Hu Xu*
 
 	 · ([MetaCLIP](https://github.com/facebookresearch/MetaCLIP/tree/main/mode) - facebookresearch) ![Star](https://img.shields.io/github/stars/facebookresearch/MetaCLIP.svg?style=social&label=Star)
 - **CatLIP: CLIP-level Visual Recognition Accuracy with 2.7x Faster
