@@ -296,6 +296,10 @@
 	 *Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers*
 
 ## State Space Model
+- **Transformers are SSMs: Generalized Models and Efficient Algorithms
+  Through Structured State Space Duality**, `arXiv, 2405.21060`, [arxiv](http://arxiv.org/abs/2405.21060v1), [pdf](http://arxiv.org/pdf/2405.21060v1.pdf), cication: [**-1**](None)
+
+	 *Tri Dao, Albert Gu* · ([mamba](https://github.com/state-spaces/mamba) - state-spaces) ![Star](https://img.shields.io/github/stars/state-spaces/mamba.svg?style=social&label=Star) · ([goombalab.github](https://goombalab.github.io/blog/2024/mamba2-part1-model/))
 - **Zamba: A Compact 7B SSM Hybrid Model**, `arXiv, 2405.16712`, [arxiv](http://arxiv.org/abs/2405.16712v1), [pdf](http://arxiv.org/pdf/2405.16712v1.pdf), cication: [**-1**](None)
 
 	 *Paolo Glorioso, Quentin Anthony, Yury Tokpanov, James Whittington, Jonathan Pilault, Adam Ibrahim, Beren Millidge*
@@ -700,6 +704,7 @@
 	 *Must-read Papers on Model Editing.*
 
 ## AGI insights
+- [Site Unreachable](https://arxiv.org/abs/2406.00392)
 - [My AI Timelines Have Sped Up (Again)](https://www.alexirpan.com/2024/01/10/ai-timelines-2024.html)
 
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652453308&idx=2&sn=9101acc27aeff38e2f6f732357011b9c))

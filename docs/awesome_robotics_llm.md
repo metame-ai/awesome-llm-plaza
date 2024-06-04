@@ -324,7 +324,8 @@
 
 	 *Ilija Radosavovic, Bike Zhang, Baifeng Shi, Jathushan Rajasegaran, Sarthak Kamat, Trevor Darrell, Koushil Sreenath, Jitendra Malik* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652460909&idx=4&sn=35870451c2c9c90bbbfc7be2bebe75d5))
 ### Demos
-- [Fetching Title#oqzs](https://arstechnica.com/gadgets/2024/05/robot-dogs-armed-with-ai-targeting-rifles-undergo-us-marines-special-ops-evaluation/)
+- [Dino Robotics showed off a new video of its robot chef making schnitzel](https://x.com/adcock_brett/status/1797297988567449675)
+- [Robot dogs armed with AI-aimed rifles undergo US Marines Special Ops evaluation](https://arstechnica.com/gadgets/2024/05/robot-dogs-armed-with-ai-targeting-rifles-undergo-us-marines-special-ops-evaluation/)
 - [twitter.com/heyBarsee/status/1788222961989701878](https://twitter.com/heyBarsee/status/1788222961989701878)
 - [Barsee 🐶 on X: "4/ Hong Kong AI and robotics scientists create robots that can "swarm" to work collectively and achieve tasks that would be impossible individually. https://t.co/KOisEyCu4D" / X](https://twitter.com/heyBarsee/status/1788222902539546720)
 - [**low_cost_robot**](https://github.com/AlexanderKoch-Koch/low_cost_robot) - AlexanderKoch-Koch ![Star](https://img.shields.io/github/stars/AlexanderKoch-Koch/low_cost_robot.svg?style=social&label=Star)

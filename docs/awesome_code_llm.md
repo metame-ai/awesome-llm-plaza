@@ -23,6 +23,10 @@
 	 *Ziyin Zhang, Chaoyu Chen, Bingchang Liu, Cong Liao, Zi Gong, Hang Yu, Jianguo Li, Rui Wang*
 
 ## Paper
+- **DevEval: A Manually-Annotated Code Generation Benchmark Aligned with
+  Real-World Code Repositories**, `arXiv, 2405.19856`, [arxiv](http://arxiv.org/abs/2405.19856v1), [pdf](http://arxiv.org/pdf/2405.19856v1.pdf), cication: [**-1**](None)
+
+	 *Jia Li, Ge Li, Yunfei Zhao, Yongmin Li, Huanyu Liu, Hao Zhu, Lecheng Wang, Kaibo Liu, Zheng Fang, Lanshen Wang*
 - **SWE-agent: Agent-Computer Interfaces Enable Automated Software
   Engineering**, `arXiv, 2405.15793`, [arxiv](http://arxiv.org/abs/2405.15793v1), [pdf](http://arxiv.org/pdf/2405.15793v1.pdf), cication: [**-1**](None)
 

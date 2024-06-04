@@ -81,6 +81,9 @@
 	 *Mike Ranzinger, Greg Heinrich, Jan Kautz, Pavlo Molchanov* · ([radio](https://github.com/nvlabs/radio) - nvlabs) ![Star](https://img.shields.io/github/stars/nvlabs/radio.svg?style=social&label=Star)
 
 ### Video
+- **MotionLLM: Understanding Human Behaviors from Human Motions and Videos**, `arXiv, 2405.20340`, [arxiv](http://arxiv.org/abs/2405.20340v1), [pdf](http://arxiv.org/pdf/2405.20340v1.pdf), cication: [**-1**](None)
+
+	 *Ling-Hao Chen, Shunlin Lu, Ailing Zeng, Hao Zhang, Benyou Wang, Ruimao Zhang, Lei Zhang*
 - **VideoTree: Adaptive Tree-based Video Representation for LLM Reasoning on
   Long Videos**, `arXiv, 2405.19209`, [arxiv](http://arxiv.org/abs/2405.19209v1), [pdf](http://arxiv.org/pdf/2405.19209v1.pdf), cication: [**-1**](None)
 
@@ -1314,6 +1317,13 @@
 - [**BakLLaVA-1**](https://huggingface.co/SkunkworksAI/BakLLaVA-1) - SkunkworksAI 🤗
 
 ## Evaluation
+- **Video-MME: The First-Ever Comprehensive Evaluation Benchmark of
+  Multi-modal LLMs in Video Analysis**, `arXiv, 2405.21075`, [arxiv](http://arxiv.org/abs/2405.21075v1), [pdf](http://arxiv.org/pdf/2405.21075v1.pdf), cication: [**-1**](None)
+
+	 *Chaoyou Fu, Yuhan Dai, Yondong Luo, Lei Li, Shuhuai Ren, Renrui Zhang, Zihan Wang, Chenyu Zhou, Yunhang Shen, Mengdan Zhang* · ([video-mme.github](https://video-mme.github.io/home_page.html)) · ([Video-MME](https://github.com/BradyFU/Video-MME) - BradyFU) ![Star](https://img.shields.io/github/stars/BradyFU/Video-MME.svg?style=social&label=Star)
+- [Fetching Title#8tju](https://arxiv.org/abs/2406.01574)
+
+	 · ([huggingface](https://huggingface.co/spaces/TIGER-Lab/MMLU-Pro)) · ([MMLU-Pro](https://github.com/TIGER-AI-Lab/MMLU-Pro) - TIGER-AI-Lab) ![Star](https://img.shields.io/github/stars/TIGER-AI-Lab/MMLU-Pro.svg?style=social&label=Star)
 - [Stanford CRFM](https://crfm.stanford.edu/2024/05/08/vhelm-initial.html)
 
 	 · ([crfm.stanford](https://crfm.stanford.edu/helm/vhelm/v1.0.0/))

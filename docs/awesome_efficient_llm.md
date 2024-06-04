@@ -218,6 +218,9 @@
 	 *Xunyu Zhu, Jian Li, Yong Liu, Can Ma, Weiping Wang* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-08-26-5))
 
 ### Papers
+- **4-bit Shampoo for Memory-Efficient Network Training**, `arXiv, 2405.18144`, [arxiv](http://arxiv.org/abs/2405.18144v1), [pdf](http://arxiv.org/pdf/2405.18144v1.pdf), cication: [**-1**](None)
+
+	 *Sike Wang, Jia Li, Pan Zhou, Hua Huang*
 - **QServe: W4A8KV4 Quantization and System Co-design for Efficient LLM
   Serving**, `arXiv, 2405.04532`, [arxiv](http://arxiv.org/abs/2405.04532v1), [pdf](http://arxiv.org/pdf/2405.04532v1.pdf), cication: [**-1**](None)
 
@@ -435,6 +438,13 @@
 	 *Yuxian Gu, Li Dong, Furu Wei, Minlie Huang*
 
 ## Pruning
+- **Perplexed by Perplexity: Perplexity-Based Data Pruning With Small
+  Reference Models**, `arXiv, 2405.20541`, [arxiv](http://arxiv.org/abs/2405.20541v1), [pdf](http://arxiv.org/pdf/2405.20541v1.pdf), cication: [**-1**](None)
+
+	 *Zachary Ankner, Cody Blakeney, Kartik Sreenivasan, Max Marion, Matthew L. Leavitt, Mansheej Paul*
+- [**PruneGPT**](https://github.com/nyunAI/PruneGPT) - nyunAI ![Star](https://img.shields.io/github/stars/nyunAI/PruneGPT.svg?style=social&label=Star)
+
+	 · ([huggingface](https://huggingface.co/nyunai/nyun-llama3-62B))
 - **The Unreasonable Ineffectiveness of the Deeper Layers**, `arXiv, 2403.17887`, [arxiv](http://arxiv.org/abs/2403.17887v1), [pdf](http://arxiv.org/pdf/2403.17887v1.pdf), cication: [**-1**](None)
 
 	 *Andrey Gromov, Kushal Tirumala, Hassan Shapourian, Paolo Glorioso, Daniel A. Roberts*
@@ -469,6 +479,10 @@
 	 *Shufang Xie, Huishuai Zhang, Junliang Guo, Xu Tan, Jiang Bian, Hany Hassan Awadalla, Arul Menezes, Tao Qin, Rui Yan* · ([ResiDual](https://github.com/microsoft/ResiDual) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/ResiDual.svg?style=social&label=Star)
 
 ## Efficient Inference
+- **Parrot: Efficient Serving of LLM-based Applications with Semantic
+  Variable**, `arXiv, 2405.19888`, [arxiv](http://arxiv.org/abs/2405.19888v1), [pdf](http://arxiv.org/pdf/2405.19888v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=9249664411081274625&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Chaofan Lin, Zhenhua Han, Chengruidong Zhang, Yuqing Yang, Fan Yang, Chen Chen, Lili Qiu*
 - **Nearest Neighbor Speculative Decoding for LLM Generation and Attribution**, `arXiv, 2405.19325`, [arxiv](http://arxiv.org/abs/2405.19325v2), [pdf](http://arxiv.org/pdf/2405.19325v2.pdf), cication: [**-1**](None)
 
 	 *Minghan Li, Xilun Chen, Ari Holtzman, Beidi Chen, Jimmy Lin, Wen-tau Yih, Xi Victoria Lin*

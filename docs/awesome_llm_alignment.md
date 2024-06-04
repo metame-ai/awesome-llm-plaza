@@ -32,6 +32,9 @@
 	 *Yufei Wang, Wanjun Zhong, Liangyou Li, Fei Mi, Xingshan Zeng, Wenyong Huang, Lifeng Shang, Xin Jiang, Qun Liu* · ([AlignLLMHumanSurvey](https://github.com/GaryYufei/AlignLLMHumanSurvey) - GaryYufei) ![Star](https://img.shields.io/github/stars/GaryYufei/AlignLLMHumanSurvey.svg?style=social&label=Star)
 
 ## Paper & Projects
+- [Fetching Title#txna](https://arxiv.org/abs/2406.00888)
+
+	 · ([demonstrated-feedback](https://github.com/SALT-NLP/demonstrated-feedback) - SALT-NLP) ![Star](https://img.shields.io/github/stars/SALT-NLP/demonstrated-feedback.svg?style=social&label=Star)
 - **Xwin-LM: Strong and Scalable Alignment Practice for LLMs**, `arXiv, 2405.20335`, [arxiv](http://arxiv.org/abs/2405.20335v1), [pdf](http://arxiv.org/pdf/2405.20335v1.pdf), cication: [**-1**](None)
 
 	 *Bolin Ni, JingCheng Hu, Yixuan Wei, Houwen Peng, Zheng Zhang, Gaofeng Meng, Han Hu* · ([Xwin-LM](https://github.com/Xwin-LM/Xwin-LM) - Xwin-LM) ![Star](https://img.shields.io/github/stars/Xwin-LM/Xwin-LM.svg?style=social&label=Star)

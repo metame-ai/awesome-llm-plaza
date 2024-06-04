@@ -715,6 +715,9 @@
 	 *Tiffany Tseng, Ruijia Cheng, Jeffrey Nichols*
 
 ## Vision
+- [**Omost**](https://github.com/lllyasviel/Omost) - lllyasviel ![Star](https://img.shields.io/github/stars/lllyasviel/Omost.svg?style=social&label=Star)
+
+	 *Your image is almost there!*
 - **Adapting LLaMA Decoder to Vision Transformer**, `arXiv, 2404.06773`, [arxiv](http://arxiv.org/abs/2404.06773v1), [pdf](http://arxiv.org/pdf/2404.06773v1.pdf), cication: [**-1**](None)
 
 	 *Jiahao Wang, Wenqi Shao, Mengzhao Chen, Chengyue Wu, Yong Liu, Kaipeng Zhang, Songyang Zhang, Kai Chen, Ping Luo*

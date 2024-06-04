@@ -28,6 +28,9 @@
 	 *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang*
 
 ## Papers
+- [Fetching Title#8tju](https://arxiv.org/abs/2406.01574)
+
+	 · ([huggingface](https://huggingface.co/spaces/TIGER-Lab/MMLU-Pro))
 - **Lessons from the Trenches on Reproducible Evaluation of Language Models**, `arXiv, 2405.14782`, [arxiv](http://arxiv.org/abs/2405.14782v1), [pdf](http://arxiv.org/pdf/2405.14782v1.pdf), cication: [**-1**](None)
 
 	 *Stella Biderman, Hailey Schoelkopf, Lintang Sutawika, Leo Gao, Jonathan Tow, Baber Abbasi, Alham Fikri Aji, Pawan Sasanka Ammanamanchi, Sidney Black, Jordan Clive*

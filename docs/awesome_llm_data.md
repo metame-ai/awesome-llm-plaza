@@ -128,6 +128,8 @@
 	 · ([datablations](https://github.com/huggingface/datablations) - huggingface) ![Star](https://img.shields.io/github/stars/huggingface/datablations.svg?style=social&label=Star)
 
 ## Datasets
+- [**fineweb-edu**](https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu) - HuggingFaceFW 🤗
+- [**blogpost-fineweb-v1**](https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1) - HuggingFaceFW 🤗
 - [**RedPajama-Data**](https://github.com/togethercomputer/RedPajama-Data) - togethercomputer ![Star](https://img.shields.io/github/stars/togethercomputer/RedPajama-Data.svg?style=social&label=Star)
 - [**fineweb**](https://huggingface.co/datasets/HuggingFaceFW/fineweb) - HuggingFaceFW 🤗
 - [**idl-wds**](https://huggingface.co/datasets/pixparse/idl-wds) - pixparse 🤗
