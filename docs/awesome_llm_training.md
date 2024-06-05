@@ -330,7 +330,10 @@
 - **CAME: Confidence-guided Adaptive Memory Efficient Optimization**, `arXiv, 2307.02047`, [arxiv](http://arxiv.org/abs/2307.02047v2), [pdf](http://arxiv.org/pdf/2307.02047v2.pdf), cication: [**-1**](None)
 
 	 *Yang Luo, Xiaozhe Ren, Zangwei Zheng, Zhuo Jiang, Xin Jiang, Yang You* · ([qbitai](https://www.qbitai.com/2023/07/67814.html))
- 
+
+---
+- [用最酷的LR，训最猛的模型](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247496626&idx=1&sn=4ba786f28cd4f55d69ed91effe3e82fd)
+
 ## Ensemble
 - **Octopus v4: Graph of language models**, `arXiv, 2404.19296`, [arxiv](http://arxiv.org/abs/2404.19296v1), [pdf](http://arxiv.org/pdf/2404.19296v1.pdf), cication: [**-1**](None)
 

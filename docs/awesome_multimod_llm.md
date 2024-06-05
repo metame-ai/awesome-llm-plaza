@@ -242,6 +242,8 @@
 - **Matryoshka Query Transformer for Large Vision-Language Models**, `arXiv, 2405.19315`, [arxiv](http://arxiv.org/abs/2405.19315v1), [pdf](http://arxiv.org/pdf/2405.19315v1.pdf), cication: [**-1**](None)
 
 	 *Wenbo Hu, Zi-Yi Dou, Liunian Harold Li, Amita Kamath, Nanyun Peng, Kai-Wei Chang*
+
+	 · ([mqt-llava](https://github.com/gordonhu608/mqt-llava) - gordonhu608) ![Star](https://img.shields.io/github/stars/gordonhu608/mqt-llava.svg?style=social&label=Star)
 - **TinyLLaVA Factory: A Modularized Codebase for Small-scale Large
   Multimodal Models**, `arXiv, 2405.11788`, [arxiv](http://arxiv.org/abs/2405.11788v1), [pdf](http://arxiv.org/pdf/2405.11788v1.pdf), cication: [**-1**](None)
 

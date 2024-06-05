@@ -734,6 +734,14 @@
 - [GPT-4V学会用键鼠上网，人类眼睁睁看着它发帖玩游戏 | 量子位](https://www.qbitai.com/2023/11/95456.html)
 
 ## Retrieval agumented generation
+- **FlashRAG: A Modular Toolkit for Efficient Retrieval-Augmented Generation
+  Research**, `arXiv, 2405.13576`, [arxiv](http://arxiv.org/abs/2405.13576v1), [pdf](http://arxiv.org/pdf/2405.13576v1.pdf), cication: [**-1**](None)
+
+	 *Jiajie Jin, Yutao Zhu, Xinyu Yang, Chenghao Zhang, Zhicheng Dou* · ([FlashRAG](https://github.com/RUC-NLPIR/FlashRAG) - RUC-NLPIR) ![Star](https://img.shields.io/github/stars/RUC-NLPIR/FlashRAG.svg?style=social&label=Star)
+- **HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language
+  Models**, `arXiv, 2405.14831`, [arxiv](http://arxiv.org/abs/2405.14831v1), [pdf](http://arxiv.org/pdf/2405.14831v1.pdf), cication: [**-1**](None)
+
+	 *Bernal Jiménez Gutiérrez, Yiheng Shu, Yu Gu, Michihiro Yasunaga, Yu Su* · ([hipporag](https://github.com/osu-nlp-group/hipporag) - osu-nlp-group) ![Star](https://img.shields.io/github/stars/osu-nlp-group/hipporag.svg?style=social&label=Star)
 - **Similarity is Not All You Need: Endowing Retrieval Augmented Generation
   with Multi Layered Thoughts**, `arXiv, 2405.19893`, [arxiv](http://arxiv.org/abs/2405.19893v1), [pdf](http://arxiv.org/pdf/2405.19893v1.pdf), cication: [**-1**](None)
 

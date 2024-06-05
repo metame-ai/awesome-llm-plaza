@@ -11,6 +11,9 @@
 	- [Extra reference](#extra-reference)
 
 ## Survey
+- **Towards Scalable Automated Alignment of LLMs: A Survey**, `arXiv, 2406.01252`, [arxiv](http://arxiv.org/abs/2406.01252v1), [pdf](http://arxiv.org/pdf/2406.01252v1.pdf), cication: [**-1**](None)
+
+	 *Boxi Cao, Keming Lu, Xinyu Lu, Jiawei Chen, Mengjie Ren, Hao Xiang, Peilin Liu, Yaojie Lu, Ben He, Xianpei Han*
 - **Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study**, `arXiv, 2404.10719`, [arxiv](http://arxiv.org/abs/2404.10719v1), [pdf](http://arxiv.org/pdf/2404.10719v1.pdf), cication: [**-1**](None)
 
 	 *Shusheng Xu, Wei Fu, Jiaxuan Gao, Wenjie Ye, Weilin Liu, Zhiyu Mei, Guangju Wang, Chao Yu, Yi Wu*
@@ -32,6 +35,9 @@
 	 *Yufei Wang, Wanjun Zhong, Liangyou Li, Fei Mi, Xingshan Zeng, Wenyong Huang, Lifeng Shang, Xin Jiang, Qun Liu* · ([AlignLLMHumanSurvey](https://github.com/GaryYufei/AlignLLMHumanSurvey) - GaryYufei) ![Star](https://img.shields.io/github/stars/GaryYufei/AlignLLMHumanSurvey.svg?style=social&label=Star)
 
 ## Paper & Projects
+- **Self-Improving Robust Preference Optimization**, `arXiv, 2406.01660`, [arxiv](http://arxiv.org/abs/2406.01660v1), [pdf](http://arxiv.org/pdf/2406.01660v1.pdf), cication: [**-1**](None)
+
+	 *Eugene Choi, Arash Ahmadian, Matthieu Geist, Oilvier Pietquin, Mohammad Gheshlaghi Azar*
 - **Show, Don't Tell: Aligning Language Models with Demonstrated Feedback**, `arXiv, 2406.00888`, [arxiv](http://arxiv.org/abs/2406.00888v1), [pdf](http://arxiv.org/pdf/2406.00888v1.pdf), cication: [**-1**](None)
 
 	 *Omar Shaikh, Michelle Lam, Joey Hejna, Yijia Shao, Michael Bernstein, Diyi Yang*
@@ -507,6 +513,12 @@
   from Human Feedback**, `arXiv, 2204.05862`, [arxiv](http://arxiv.org/abs/2204.05862v1), [pdf](http://arxiv.org/pdf/2204.05862v1.pdf), cication: [**109**](https://scholar.google.com/scholar?cites=11199782510491151350&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Yuntao Bai, Andy Jones, Kamal Ndousse, Amanda Askell, Anna Chen, Nova DasSarma, Dawn Drain, Stanislav Fort, Deep Ganguli, Tom Henighan* · ([hh-rlhf](https://github.com/anthropics/hh-rlhf) - anthropics) ![Star](https://img.shields.io/github/stars/anthropics/hh-rlhf.svg?style=social&label=Star)
+- **Training language models to follow instructions with human feedback**, `NeurIPS, 2022`, [arxiv](http://arxiv.org/abs/2203.02155v1), [pdf](http://arxiv.org/pdf/2203.02155v1.pdf), cication: [**6793**](https://scholar.google.com/scholar?cites=12979976309017799162&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Long Ouyang, Jeff Wu, Xu Jiang, Diogo Almeida, Carroll L. Wainwright, Pamela Mishkin, Chong Zhang, Sandhini Agarwal, Katarina Slama, Alex Ray*
+- **Learning to summarize from human feedback**, `NeurIPS, 2020`, [arxiv](http://arxiv.org/abs/2009.01325v3), [pdf](http://arxiv.org/pdf/2009.01325v3.pdf), cication: [**1122**](https://scholar.google.com/scholar?cites=14483287577780422045&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Nisan Stiennon, Long Ouyang, Jeff Wu, Daniel M. Ziegler, Ryan Lowe, Chelsea Voss, Alec Radford, Dario Amodei, Paul Christiano*
 ## Projects
 - [**PairRM**](https://huggingface.co/llm-blender/PairRM) - llm-blender 🤗
 - [**OpenRLHF**](https://github.com/OpenLLMAI/OpenRLHF) - OpenLLMAI ![Star](https://img.shields.io/github/stars/OpenLLMAI/OpenRLHF.svg?style=social&label=Star)
