@@ -1321,7 +1321,10 @@
   Multi-modal LLMs in Video Analysis**, `arXiv, 2405.21075`, [arxiv](http://arxiv.org/abs/2405.21075v1), [pdf](http://arxiv.org/pdf/2405.21075v1.pdf), cication: [**-1**](None)
 
 	 *Chaoyou Fu, Yuhan Dai, Yondong Luo, Lei Li, Shuhuai Ren, Renrui Zhang, Zihan Wang, Chenyu Zhou, Yunhang Shen, Mengdan Zhang* · ([video-mme.github](https://video-mme.github.io/home_page.html)) · ([Video-MME](https://github.com/BradyFU/Video-MME) - BradyFU) ![Star](https://img.shields.io/github/stars/BradyFU/Video-MME.svg?style=social&label=Star)
-- [Fetching Title#8tju](https://arxiv.org/abs/2406.01574)
+- **MMLU-Pro: A More Robust and Challenging Multi-Task Language
+  Understanding Benchmark**, `arXiv, 2406.01574`, [arxiv](http://arxiv.org/abs/2406.01574v2), [pdf](http://arxiv.org/pdf/2406.01574v2.pdf), cication: [**-1**](None)
+
+	 *Yubo Wang, Xueguang Ma, Ge Zhang, Yuansheng Ni, Abhranil Chandra, Shiguang Guo, Weiming Ren, Aaran Arulraj, Xuan He, Ziyan Jiang*
 
 	 · ([huggingface](https://huggingface.co/spaces/TIGER-Lab/MMLU-Pro)) · ([MMLU-Pro](https://github.com/TIGER-AI-Lab/MMLU-Pro) - TIGER-AI-Lab) ![Star](https://img.shields.io/github/stars/TIGER-AI-Lab/MMLU-Pro.svg?style=social&label=Star)
 - [Stanford CRFM](https://crfm.stanford.edu/2024/05/08/vhelm-initial.html)

@@ -704,7 +704,10 @@
 	 *Must-read Papers on Model Editing.*
 
 ## AGI insights
-- [Site Unreachable](https://arxiv.org/abs/2406.00392)
+- **Artificial Generational Intelligence: Cultural Accumulation in
+  Reinforcement Learning**, `arXiv, 2406.00392`, [arxiv](http://arxiv.org/abs/2406.00392v1), [pdf](http://arxiv.org/pdf/2406.00392v1.pdf), cication: [**-1**](None)
+
+	 *Jonathan Cook, Chris Lu, Edward Hughes, Joel Z. Leibo, Jakob Foerster*
 - [My AI Timelines Have Sped Up (Again)](https://www.alexirpan.com/2024/01/10/ai-timelines-2024.html)
 
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652453308&idx=2&sn=9101acc27aeff38e2f6f732357011b9c))

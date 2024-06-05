@@ -28,7 +28,10 @@
 	 *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang*
 
 ## Papers
-- [Fetching Title#8tju](https://arxiv.org/abs/2406.01574)
+- **MMLU-Pro: A More Robust and Challenging Multi-Task Language
+  Understanding Benchmark**, `arXiv, 2406.01574`, [arxiv](http://arxiv.org/abs/2406.01574v2), [pdf](http://arxiv.org/pdf/2406.01574v2.pdf), cication: [**-1**](None)
+
+	 *Yubo Wang, Xueguang Ma, Ge Zhang, Yuansheng Ni, Abhranil Chandra, Shiguang Guo, Weiming Ren, Aaran Arulraj, Xuan He, Ziyan Jiang*
 
 	 · ([huggingface](https://huggingface.co/spaces/TIGER-Lab/MMLU-Pro))
 - **Lessons from the Trenches on Reproducible Evaluation of Language Models**, `arXiv, 2405.14782`, [arxiv](http://arxiv.org/abs/2405.14782v1), [pdf](http://arxiv.org/pdf/2405.14782v1.pdf), cication: [**-1**](None)
