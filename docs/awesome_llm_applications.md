@@ -510,6 +510,7 @@
 	 *Chongming Gao, Wenqiang Lei, Xiangnan He, Maarten de Rijke, Tat-Seng Chua* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495345&idx=2&sn=5e3ac087c792081705dde1c2542c687a))
 
 ## Role play
+- [Introducing NPC-Playground, a 3D playground to interact with LLM-powered NPCs](https://huggingface.co/blog/npc-gigax-cubzh)
 - **ChatQA: Building GPT-4 Level Conversational QA Models**, `arXiv, 2401.10225`, [arxiv](http://arxiv.org/abs/2401.10225v2), [pdf](http://arxiv.org/pdf/2401.10225v2.pdf), cication: [**-1**](None)
 
 	 *Zihan Liu, Wei Ping, Rajarshi Roy, Peng Xu, Chankyu Lee, Mohammad Shoeybi, Bryan Catanzaro*
@@ -585,6 +586,7 @@
 	 *RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models*
 
 ## Chat bots
+- [**alloy-voice-assistant**](https://github.com/svpino/alloy-voice-assistant) - svpino ![Star](https://img.shields.io/github/stars/svpino/alloy-voice-assistant.svg?style=social&label=Star)
 - [**bilibot**](https://github.com/linyiLYi/bilibot?tab=readme-ov-file) - linyiLYi ![Star](https://img.shields.io/github/stars/linyiLYi/bilibot.svg?style=social&label=Star)
 
 	 *A local chatbot fine-tuned by bilibili user comments.*
@@ -663,6 +665,7 @@
 
 
 ## Machine Translation
+- [Fetching Title#vjim](https://www.nature.com/articles/s41586-024-07335-x)
 - **(Perhaps) Beyond Human Translation: Harnessing Multi-Agent Collaboration
   for Translating Ultra-Long Literary Texts**, `arXiv, 2405.11804`, [arxiv](http://arxiv.org/abs/2405.11804v1), [pdf](http://arxiv.org/pdf/2405.11804v1.pdf), cication: [**-1**](None)
 

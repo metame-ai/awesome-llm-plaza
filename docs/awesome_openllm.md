@@ -607,6 +607,9 @@
 	 *A large-scale 7B pretraining language model developed by BaiChuan-Inc.*
 
 ### ChatGLM
+- [**GLM-4**](https://github.com/THUDM/GLM-4) - THUDM ![Star](https://img.shields.io/github/stars/THUDM/GLM-4.svg?style=social&label=Star)
+
+	 *GLM-4 series: Open Multilingual Multimodal Chat LMs | 开源多语言多模态对话模型* · ([huggingface](https://huggingface.co/THUDM/glm-4-9b-chat))
 - [**ChatGLM3**](https://github.com/THUDM/ChatGLM3) - THUDM ![Star](https://img.shields.io/github/stars/THUDM/ChatGLM3.svg?style=social&label=Star)
 
 	 *ChatGLM3 series: Open Bilingual Chat LLMs | 开源双语对话语言模型* · ([qbitai](https://www.qbitai.com/2023/10/93519.html))

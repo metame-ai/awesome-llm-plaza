@@ -28,6 +28,9 @@
 	 *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang*
 
 ## Papers
+- [**MixEval**](https://github.com/Psycoy/MixEval/blob/main/resources/paper/mixeval.pdf) - Psycoy ![Star](https://img.shields.io/github/stars/Psycoy/MixEval.svg?style=social&label=Star)
+
+	 · ([mixeval.github](https://mixeval.github.io/))
 - **MMLU-Pro: A More Robust and Challenging Multi-Task Language
   Understanding Benchmark**, `arXiv, 2406.01574`, [arxiv](http://arxiv.org/abs/2406.01574v2), [pdf](http://arxiv.org/pdf/2406.01574v2.pdf), cication: [**-1**](None)
 
@@ -488,6 +491,7 @@
 	 *Lianmin Zheng, Wei-Lin Chiang, Ying Sheng, Siyuan Zhuang, Zhanghao Wu, Yonghao Zhuang, Zi Lin, Zhuohan Li, Dacheng Li, Eric. P Xing*
 
 ## Projects
+- [Fetching Title#sigq](https://huggingface.co/spaces/DontPlanToEnd/UGI-Leaderboard?utm_source=ainews&utm_medium=email&utm_campaign=ainews-5-small-news-items)
 - [SEAL leaderboards](https://scale.com/leaderboard)
 
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s/s0YWofC2wJr02EzeyW2a8g))

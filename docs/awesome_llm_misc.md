@@ -192,6 +192,9 @@
 	 *FlagAI (Fast LArge-scale General AI models) is a fast, easy-to-use and extensible toolkit for large-scale model.*
 
 ## Unlearning
+- **What makes unlearning hard and what to do about it**, `arXiv, 2406.01257`, [arxiv](http://arxiv.org/abs/2406.01257v1), [pdf](http://arxiv.org/pdf/2406.01257v1.pdf), cication: [**-1**](None)
+
+	 *Kairan Zhao, Meghdad Kurmanji, George-Octavian Bărbulescu, Eleni Triantafillou, Peter Triantafillou*
 - **The WMDP Benchmark: Measuring and Reducing Malicious Use With Unlearning**, `arXiv, 2403.03218`, [arxiv](http://arxiv.org/abs/2403.03218v2), [pdf](http://arxiv.org/pdf/2403.03218v2.pdf), cication: [**-1**](None)
 
 	 *Nathaniel Li, Alexander Pan, Anjali Gopal, Summer Yue, Daniel Berrios, Alice Gatti, Justin D. Li, Ann-Kathrin Dombrowski, Shashwat Goel, Long Phan*
@@ -480,6 +483,8 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652345558&idx=4&sn=95686435d5cad05d44cbe02bc26d6859))
 
 ## Interpretability 
+- [sparse-autoencoders.pdf](https://cdn.openai.com/papers/sparse-autoencoders.pdf)
+- [llm.c by Hand](https://x.com/ProfTomYeh/status/1798042265883156651)
 - **Not All Language Model Features Are Linear**, `arXiv, 2405.14860`, [arxiv](http://arxiv.org/abs/2405.14860v1), [pdf](http://arxiv.org/pdf/2405.14860v1.pdf), cication: [**-1**](None)
 
 	 *Joshua Engels, Isaac Liao, Eric J. Michaud, Wes Gurnee, Max Tegmark*
@@ -769,6 +774,7 @@
 	 *Ritwik Gupta, Shufan Li, Tyler Zhu, Jitendra Malik, Trevor Darrell, Karttikeya Mangalam* · ([xT](https://github.com/bair-climate-initiative/xT) - bair-climate-initiative) ![Star](https://img.shields.io/github/stars/bair-climate-initiative/xT.svg?style=social&label=Star)
 
 ## Books
+- [GenAI Handbook](https://genai-handbook.github.io/)
 - [大规模语言模型：从理论到实践](https://intro-llm.github.io/)
 
 ## Privacy

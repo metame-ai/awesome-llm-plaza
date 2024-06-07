@@ -533,6 +533,7 @@
 - [**tril**](https://github.com/cornell-rl/tril) - cornell-rl ![Star](https://img.shields.io/github/stars/cornell-rl/tril.svg?style=social&label=Star)
 
 ## Other
+- [Fetching Title#c2rd](https://www.youtube.com/channel/UCCS4pukb_YnXdt40tptbCeg)
 - [History of Open Alignment](https://magnetic-share-282.notion.site/History-of-Open-Alignment-a7ef20aefb34438185336df68147809e)
 - [Alignment Guidebook](https://www.notion.so/Alignment-Guidebook-e5c64df77c0a4b528b7951e87337fa78)
 - [Constitutional AI with Open LLMs](https://huggingface.co/blog/constitutional_ai)

@@ -17,6 +17,9 @@
 	- [Efficient transformer](#efficient-transformer)
 
 ## Survey
+- **Parameter-Efficient Fine-Tuning for Large Models: A Comprehensive Survey**, `arXiv, 2403.14608`, [arxiv](http://arxiv.org/abs/2403.14608v5), [pdf](http://arxiv.org/pdf/2403.14608v5.pdf), cication: [**18**](https://scholar.google.com/scholar?cites=9566826564470542329&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Zeyu Han, Chao Gao, Jinyang Liu, Jeff Zhang, Sai Qian Zhang*
 - **A Comprehensive Survey of Accelerated Generation Techniques in Large
   Language Models**, `arXiv, 2405.13019`, [arxiv](http://arxiv.org/abs/2405.13019v1), [pdf](http://arxiv.org/pdf/2405.13019v1.pdf), cication: [**-1**](None)
 
@@ -438,6 +441,9 @@
 	 *Yuxian Gu, Li Dong, Furu Wei, Minlie Huang*
 
 ## Pruning
+- **Scalable MatMul-free Language Modeling**, `arXiv, 2406.02528`, [arxiv](http://arxiv.org/abs/2406.02528v1), [pdf](http://arxiv.org/pdf/2406.02528v1.pdf), cication: [**-1**](None)
+
+	 *Rui-Jie Zhu, Yu Zhang, Ethan Sifferman, Tyler Sheaves, Yiqiao Wang, Dustin Richmond, Peng Zhou, Jason K. Eshraghian* · ([matmulfreellm](https://github.com/ridgerchu/matmulfreellm) - ridgerchu) ![Star](https://img.shields.io/github/stars/ridgerchu/matmulfreellm.svg?style=social&label=Star)
 - **Perplexed by Perplexity: Perplexity-Based Data Pruning With Small
   Reference Models**, `arXiv, 2405.20541`, [arxiv](http://arxiv.org/abs/2405.20541v1), [pdf](http://arxiv.org/pdf/2405.20541v1.pdf), cication: [**-1**](None)
 
