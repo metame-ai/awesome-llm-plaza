@@ -237,8 +237,13 @@
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
 - [**ultravox**](https://github.com/fixie-ai/ultravox) - fixie-ai ![Star](https://img.shields.io/github/stars/fixie-ai/ultravox.svg?style=social&label=Star)
-- [[2406.02539] Parrot: Multilingual Visual Instruction Tuning](https://arxiv.org/abs/2406.02539)
-- [[2406.00977] Dragonfly: Multi-Resolution Zoom Supercharges Large Visual-Language Model](https://arxiv.org/abs/2406.00977)
+- **Parrot: Multilingual Visual Instruction Tuning**, `arXiv, 2406.02539`, [arxiv](http://arxiv.org/abs/2406.02539v1), [pdf](http://arxiv.org/pdf/2406.02539v1.pdf), cication: [**-1**](None)
+
+	 *Hai-Long Sun, Da-Wei Zhou, Yang Li, Shiyin Lu, Chao Yi, Qing-Guo Chen, Zhao Xu, Weihua Luo, Kaifu Zhang, De-Chuan Zhan*
+- **Dragonfly: Multi-Resolution Zoom Supercharges Large Visual-Language
+  Model**, `arXiv, 2406.00977`, [arxiv](http://arxiv.org/abs/2406.00977v1), [pdf](http://arxiv.org/pdf/2406.00977v1.pdf), cication: [**-1**](None)
+
+	 *Kezhen Chen, Rahul Thapa, Rahul Chalamala, Ben Athiwaratkun, Shuaiwen Leon Song, James Zou*
 
 	 · ([together](https://www.together.ai/blog/dragonfly-v1)) · ([Dragonfly](https://github.com/togethercomputer/Dragonfly) - togethercomputer) ![Star](https://img.shields.io/github/stars/togethercomputer/Dragonfly.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/togethercomputer/Llama-3-8B-Dragonfly-v1))
 - **Zipper: A Multi-Tower Decoder Architecture for Fusing Modalities**, `arXiv, 2405.18669`, [arxiv](http://arxiv.org/abs/2405.18669v2), [pdf](http://arxiv.org/pdf/2405.18669v2.pdf), cication: [**-1**](None)
@@ -1420,7 +1425,10 @@
 	 *Yuliang Liu, Zhang Li, Biao Yang, Chunyuan Li, Xucheng Yin, Cheng-lin Liu, Lianwen Jin, Xiang Bai* · ([MultimodalOCR](https://github.com/Yuliang-Liu/MultimodalOCR) - Yuliang-Liu) ![Star](https://img.shields.io/github/stars/Yuliang-Liu/MultimodalOCR.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652442102&idx=4&sn=64a53646c57797a00b9db186f339c5eb))
 
 ## Datasets
-- [[2406.04325] ShareGPT4Video: Improving Video Understanding and Generation with Better Captions](https://arxiv.org/abs/2406.04325)
+- **ShareGPT4Video: Improving Video Understanding and Generation with Better
+  Captions**, `arXiv, 2406.04325`, [arxiv](http://arxiv.org/abs/2406.04325v1), [pdf](http://arxiv.org/pdf/2406.04325v1.pdf), cication: [**-1**](None)
+
+	 *Lin Chen, Xilin Wei, Jinsong Li, Xiaoyi Dong, Pan Zhang, Yuhang Zang, Zehui Chen, Haodong Duan, Bin Lin, Zhenyu Tang*
 
 	 · ([huggingface](https://huggingface.co/collections/Lin-Chen/sharegpt4video-665360639a6d4a7431f589a6))
 - **ImageInWords: Unlocking Hyper-Detailed Image Descriptions**, `arXiv, 2405.02793`, [arxiv](http://arxiv.org/abs/2405.02793v1), [pdf](http://arxiv.org/pdf/2405.02793v1.pdf), cication: [**-1**](None)

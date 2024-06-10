@@ -28,7 +28,10 @@
 	 *Jiankai Sun, Chuanyang Zheng, Enze Xie, Zhengying Liu, Ruihang Chu, Jianing Qiu, Jiaqi Xu, Mingyu Ding, Hongyang Li, Mengzhe Geng* · ([Awesome-Reasoning-Foundation-Models](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models) - reasoning-survey) ![Star](https://img.shields.io/github/stars/reasoning-survey/Awesome-Reasoning-Foundation-Models.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652421688&idx=3&sn=fcdc24edc7bc89ebcbcca0f7665e40f6))
 
 ## Reasoning
-- [[2406.04271] Buffer of Thoughts: Thought-Augmented Reasoning with Large Language Models](https://arxiv.org/abs/2406.04271)
+- **Buffer of Thoughts: Thought-Augmented Reasoning with Large Language
+  Models**, `arXiv, 2406.04271`, [arxiv](http://arxiv.org/abs/2406.04271v1), [pdf](http://arxiv.org/pdf/2406.04271v1.pdf), cication: [**-1**](None)
+
+	 *Ling Yang, Zhaochen Yu, Tianjun Zhang, Shiyi Cao, Minkai Xu, Wentao Zhang, Joseph E. Gonzalez, Bin Cui*
 
 	 · ([buffer-of-thought-llm](https://github.com/YangLing0818/buffer-of-thought-llm) - YangLing0818) ![Star](https://img.shields.io/github/stars/YangLing0818/buffer-of-thought-llm.svg?style=social&label=Star)
 - **LLMs achieve adult human performance on higher-order theory of mind
@@ -739,7 +742,10 @@
 - [ChatGPT 詠唱案例懶人包 - 超過 40 個現實世界的應用範例 (持續更新) - 雷司紀的小道投資 raysky](https://www.rayskyinvest.com/96682/chatgpt-examples)
 
 ## In context learning
-- [Fetching Title#qx6y](https://arxiv.org/abs/2406.02550)
+- **Learning to grok: Emergence of in-context learning and skill composition
+  in modular arithmetic tasks**, `arXiv, 2406.02550`, [arxiv](http://arxiv.org/abs/2406.02550v1), [pdf](http://arxiv.org/pdf/2406.02550v1.pdf), cication: [**-1**](None)
+
+	 *Tianyu He, Darshil Doshi, Aritra Das, Andrey Gromov*
 - **LLM In-Context Recall is Prompt Dependent**, `arXiv, 2404.08865`, [arxiv](http://arxiv.org/abs/2404.08865v1), [pdf](http://arxiv.org/pdf/2404.08865v1.pdf), cication: [**-1**](None)
 
 	 *Daniel Machlab, Rick Battle*

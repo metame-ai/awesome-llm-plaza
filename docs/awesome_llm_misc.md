@@ -483,6 +483,9 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652345558&idx=4&sn=95686435d5cad05d44cbe02bc26d6859))
 
 ## Interpretability 
+- **Large Language Model Confidence Estimation via Black-Box Access**, `arXiv, 2406.04370`, [arxiv](http://arxiv.org/abs/2406.04370v1), [pdf](http://arxiv.org/pdf/2406.04370v1.pdf), cication: [**-1**](None)
+
+	 *Tejaswini Pedapati, Amit Dhurandhar, Soumya Ghosh, Soham Dan, Prasanna Sattigeri*
 - [sparse-autoencoders.pdf](https://cdn.openai.com/papers/sparse-autoencoders.pdf)
 - [llm.c by Hand](https://x.com/ProfTomYeh/status/1798042265883156651)
 - **Not All Language Model Features Are Linear**, `arXiv, 2405.14860`, [arxiv](http://arxiv.org/abs/2405.14860v1), [pdf](http://arxiv.org/pdf/2405.14860v1.pdf), cication: [**-1**](None)
@@ -709,7 +712,9 @@
 	 *Must-read Papers on Model Editing.*
 
 ## AGI insights
-- [[2406.04268] Open-Endedness is Essential for Artificial Superhuman Intelligence](https://arxiv.org/abs/2406.04268)
+- **Open-Endedness is Essential for Artificial Superhuman Intelligence**, `arXiv, 2406.04268`, [arxiv](http://arxiv.org/abs/2406.04268v1), [pdf](http://arxiv.org/pdf/2406.04268v1.pdf), cication: [**-1**](None)
+
+	 *Edward Hughes, Michael Dennis, Jack Parker-Holder, Feryal Behbahani, Aditi Mavalankar, Yuge Shi, Tom Schaul, Tim Rocktaschel*
 - **Artificial Generational Intelligence: Cultural Accumulation in
   Reinforcement Learning**, `arXiv, 2406.00392`, [arxiv](http://arxiv.org/abs/2406.00392v1), [pdf](http://arxiv.org/pdf/2406.00392v1.pdf), cication: [**-1**](None)
 

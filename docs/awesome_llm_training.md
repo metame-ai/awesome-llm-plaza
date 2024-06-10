@@ -78,6 +78,10 @@
 - [贫穷让我预训练](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494110&idx=2&sn=52bfbf2d51d1704efc596263bccf23db)
 
 ## Scaling
+- **Why Has Predicting Downstream Capabilities of Frontier AI Models with
+  Scale Remained Elusive?**, `arXiv, 2406.04391`, [arxiv](http://arxiv.org/abs/2406.04391v1), [pdf](http://arxiv.org/pdf/2406.04391v1.pdf), cication: [**-1**](None)
+
+	 *Rylan Schaeffer, Hailey Schoelkopf, Brando Miranda, Gabriel Mukobi, Varun Madan, Adam Ibrahim, Herbie Bradley, Stella Biderman, Sanmi Koyejo*
 - **Observational Scaling Laws and the Predictability of Language Model
   Performance**, `arXiv, 2405.10938`, [arxiv](http://arxiv.org/abs/2405.10938v1), [pdf](http://arxiv.org/pdf/2405.10938v1.pdf), cication: [**-1**](None)
 
@@ -269,6 +273,10 @@
 - [Fine-tuning GPT3.5-turbo based on 140k slack messages · Ross Lazerowitz](https://rosslazer.com/posts/fine-tuning/)
 
 ## Architectures
+- **Boosting Large-scale Parallel Training Efficiency with C4: A
+  Communication-Driven Approach**, `arXiv, 2406.04594`, [arxiv](http://arxiv.org/abs/2406.04594v1), [pdf](http://arxiv.org/pdf/2406.04594v1.pdf), cication: [**-1**](None)
+
+	 *Jianbo Dong, Bin Luo, Jun Zhang, Pengcheng Zhang, Fei Feng, Yikai Zhu, Ang Liu, Zian Chen, Yi Shi, Hairong Jiao*
 - **Linear Transformers with Learnable Kernel Functions are Better
   In-Context Models**, `arXiv, 2402.10644`, [arxiv](http://arxiv.org/abs/2402.10644v1), [pdf](http://arxiv.org/pdf/2402.10644v1.pdf), cication: [**-1**](None)
 

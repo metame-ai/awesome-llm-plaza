@@ -451,7 +451,9 @@
 # Mulitlingual (chinese)
 
 ## Foundation
-- [[2406.02856] Xmodel-LM Technical Report](https://arxiv.org/abs/2406.02856)
+- **Xmodel-LM Technical Report**, `arXiv, 2406.02856`, [arxiv](http://arxiv.org/abs/2406.02856v1), [pdf](http://arxiv.org/pdf/2406.02856v1.pdf), cication: [**-1**](None)
+
+	 *Yichuan Wang, Yang Liu, Yu Yan, Xucheng Huang, Ling Jiang*
 
 	 · ([XmodelLM](https://github.com/XiaoduoAILab/XmodelLM) - XiaoduoAILab) ![Star](https://img.shields.io/github/stars/XiaoduoAILab/XmodelLM.svg?style=social&label=Star)
 - **MAP-Neo: Highly Capable and Transparent Bilingual Large Language Model

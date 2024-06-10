@@ -28,7 +28,19 @@
 	 *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang*
 
 ## Papers
-- [[2406.04127] Are We Done with MMLU?](https://arxiv.org/abs/2406.04127)
+- **GenAI Arena: An Open Evaluation Platform for Generative Models**, `arXiv, 2406.04485`, [arxiv](http://arxiv.org/abs/2406.04485v1), [pdf](http://arxiv.org/pdf/2406.04485v1.pdf), cication: [**-1**](None)
+
+	 *Dongfu Jiang, Max Ku, Tianle Li, Yuansheng Ni, Shizhuo Sun, Rongqi Fan, Wenhu Chen*
+- **WildBench: Benchmarking LLMs with Challenging Tasks from Real Users in
+  the Wild**, `arXiv, 2406.04770`, [arxiv](http://arxiv.org/abs/2406.04770v1), [pdf](http://arxiv.org/pdf/2406.04770v1.pdf), cication: [**-1**](None)
+
+	 *Bill Yuchen Lin, Yuntian Deng, Khyathi Chandu, Faeze Brahman, Abhilasha Ravichander, Valentina Pyatkin, Nouha Dziri, Ronan Le Bras, Yejin Choi*
+- **NATURAL PLAN: Benchmarking LLMs on Natural Language Planning**, `arXiv, 2406.04520`, [arxiv](http://arxiv.org/abs/2406.04520v1), [pdf](http://arxiv.org/pdf/2406.04520v1.pdf), cication: [**-1**](None)
+
+	 *Huaixiu Steven Zheng, Swaroop Mishra, Hugh Zhang, Xinyun Chen, Minmin Chen, Azade Nova, Le Hou, Heng-Tze Cheng, Quoc V. Le, Ed H. Chi*
+- **Are We Done with MMLU?**, `arXiv, 2406.04127`, [arxiv](http://arxiv.org/abs/2406.04127v2), [pdf](http://arxiv.org/pdf/2406.04127v2.pdf), cication: [**-1**](None)
+
+	 *Aryo Pradipta Gema, Joshua Ong Jun Leang, Giwon Hong, Alessio Devoto, Alberto Carlo Maria Mancino, Rohit Saxena, Xuanli He, Yu Zhao, Xiaotang Du, Mohammad Reza Ghasemi Madani*
 
 	 · ([huggingface](https://huggingface.co/datasets/edinburgh-dawg/mmlu-redux))
 - [**MixEval**](https://github.com/Psycoy/MixEval/blob/main/resources/paper/mixeval.pdf) - Psycoy ![Star](https://img.shields.io/github/stars/Psycoy/MixEval.svg?style=social&label=Star)

@@ -438,6 +438,9 @@
 - [首个大模型教育产品开箱："最聪明"国产大模型加持的学习机，质变了吗 | 量子位](https://www.qbitai.com/2023/08/79632.html)
 
 ## Text Related
+- **Proofread: Fixes All Errors with One Tap**, `arXiv, 2406.04523`, [arxiv](http://arxiv.org/abs/2406.04523v1), [pdf](http://arxiv.org/pdf/2406.04523v1.pdf), cication: [**-1**](None)
+
+	 *Renjie Liu, Yanxiang Zhang, Yun Zhu, Haicheng Sun, Yuanbo Zhang, Michael Xuelin Huang, Shanqing Cai, Lei Meng, Shumin Zhai*
 - [**langchain-extract**](https://github.com/langchain-ai/langchain-extract) - langchain-ai ![Star](https://img.shields.io/github/stars/langchain-ai/langchain-extract.svg?style=social&label=Star)
 
 	 *🦜⛏️ Did you say you like data?*

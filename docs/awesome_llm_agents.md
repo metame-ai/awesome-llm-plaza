@@ -97,10 +97,19 @@
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-18-4))
 ## Agents
-- [[2406.01014] Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration](https://arxiv.org/abs/2406.01014)
+- **Mixture-of-Agents Enhances Large Language Model Capabilities**, `arXiv, 2406.04692`, [arxiv](http://arxiv.org/abs/2406.04692v1), [pdf](http://arxiv.org/pdf/2406.04692v1.pdf), cication: [**-1**](None)
+
+	 *Junlin Wang, Jue Wang, Ben Athiwaratkun, Ce Zhang, James Zou*
+- **Mobile-Agent-v2: Mobile Device Operation Assistant with Effective
+  Navigation via Multi-Agent Collaboration**, `arXiv, 2406.01014`, [arxiv](http://arxiv.org/abs/2406.01014v1), [pdf](http://arxiv.org/pdf/2406.01014v1.pdf), cication: [**-1**](None)
+
+	 *Junyang Wang, Haiyang Xu, Haitao Jia, Xi Zhang, Ming Yan, Weizhou Shen, Ji Zhang, Fei Huang, Jitao Sang*
 
 	 · ([MobileAgent](https://github.com/X-PLUG/MobileAgent) - X-PLUG) ![Star](https://img.shields.io/github/stars/X-PLUG/MobileAgent.svg?style=social&label=Star)
-- [[2406.04151] AgentGym: Evolving Large Language Model-based Agents across Diverse Environments](https://arxiv.org/abs/2406.04151)
+- **AgentGym: Evolving Large Language Model-based Agents across Diverse
+  Environments**, `arXiv, 2406.04151`, [arxiv](http://arxiv.org/abs/2406.04151v1), [pdf](http://arxiv.org/pdf/2406.04151v1.pdf), cication: [**-1**](None)
+
+	 *Zhiheng Xi, Yiwen Ding, Wenxiang Chen, Boyang Hong, Honglin Guo, Junzhe Wang, Dingwen Yang, Chenyang Liao, Xin Guo, Wei He*
 
 	 · ([AgentGym](https://github.com/WooooDyy/AgentGym) - WooooDyy) ![Star](https://img.shields.io/github/stars/WooooDyy/AgentGym.svg?style=social&label=Star) · ([AgentGym](https://github.com/WooooDyy/AgentGym) - WooooDyy) ![Star](https://img.shields.io/github/stars/WooooDyy/AgentGym.svg?style=social&label=Star)
 - **Luban: Building Open-Ended Creative Agents via Autonomous Embodied
@@ -740,6 +749,9 @@
 - [GPT-4V学会用键鼠上网，人类眼睁睁看着它发帖玩游戏 | 量子位](https://www.qbitai.com/2023/11/95456.html)
 
 ## Retrieval agumented generation
+- **CRAG -- Comprehensive RAG Benchmark**, `arXiv, 2406.04744`, [arxiv](http://arxiv.org/abs/2406.04744v1), [pdf](http://arxiv.org/pdf/2406.04744v1.pdf), cication: [**-1**](None)
+
+	 *Xiao Yang, Kai Sun, Hao Xin, Yushi Sun, Nikita Bhalla, Xiangsen Chen, Sajal Choudhary, Rongze Daniel Gui, Ziran Will Jiang, Ziyu Jiang* · ([aicrowd](https://www.aicrowd.com/challenges/meta-comprehensive-rag-benchmark-kdd-cup-2024))
 - **FlashRAG: A Modular Toolkit for Efficient Retrieval-Augmented Generation
   Research**, `arXiv, 2405.13576`, [arxiv](http://arxiv.org/abs/2405.13576v1), [pdf](http://arxiv.org/pdf/2405.13576v1.pdf), cication: [**-1**](None)
 
