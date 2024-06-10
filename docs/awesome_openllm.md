@@ -189,6 +189,8 @@
 - [**Smaug-Llama-3-70B-Instruct**](https://huggingface.co/abacusai/Smaug-Llama-3-70B-Instruct) - abacusai 🤗
 
 	 · ([reddit](https://www.reddit.com/r/LocalLLaMA/comments/1cvly7e/creator_of_smaug_here_clearing_up_some/))
+- [**Higgs-Llama-3-70B**](https://huggingface.co/bosonai/Higgs-Llama-3-70B) - bosonai 🤗
+- [Announcing the Higgs Family of LLMs](https://boson.ai/higgs-opensource/)
 ### Jamba
 - **Jamba: A Hybrid Transformer-Mamba Language Model**, `arXiv, 2403.19887`, [arxiv](http://arxiv.org/abs/2403.19887v1), [pdf](http://arxiv.org/pdf/2403.19887v1.pdf), cication: [**-1**](None)
 
@@ -449,6 +451,9 @@
 # Mulitlingual (chinese)
 
 ## Foundation
+- [[2406.02856] Xmodel-LM Technical Report](https://arxiv.org/abs/2406.02856)
+
+	 · ([XmodelLM](https://github.com/XiaoduoAILab/XmodelLM) - XiaoduoAILab) ![Star](https://img.shields.io/github/stars/XiaoduoAILab/XmodelLM.svg?style=social&label=Star)
 - **MAP-Neo: Highly Capable and Transparent Bilingual Large Language Model
   Series**, `arXiv, 2405.19327`, [arxiv](http://arxiv.org/abs/2405.19327v2), [pdf](http://arxiv.org/pdf/2405.19327v2.pdf), cication: [**-1**](None)
 
@@ -573,6 +578,11 @@
  - [xverse/XVERSE-13B-256K · Hugging Face](https://huggingface.co/xverse/XVERSE-13B-256K)
  
 ### Qwen
+- [**Qwen2**](https://github.com/QwenLM/Qwen2) - QwenLM ![Star](https://img.shields.io/github/stars/QwenLM/Qwen2.svg?style=social&label=Star)
+
+	 *Qwen2 is the large language model series developed by Qwen team, Alibaba Cloud.*
+- [Hello Qwen2 | Qwen](https://qwenlm.github.io/blog/qwen2/)
+- [**Qwen2-72B-Instruct**](https://huggingface.co/spaces/Qwen/Qwen2-72B-Instruct) - Qwen 🤗
 - [Qwen1.5-110B-Chat · 模型库](https://modelscope.cn/models/qwen/Qwen1.5-110B-Chat/summary)
 - [**Qwen1.5-110B-Chat-demo**](https://huggingface.co/spaces/Qwen/Qwen1.5-110B-Chat-demo) - Qwen 🤗
 - [**Qwen1.5-32B**](https://huggingface.co/Qwen/Qwen1.5-32B) - Qwen 🤗

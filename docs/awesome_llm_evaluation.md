@@ -28,6 +28,9 @@
 	 *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang*
 
 ## Papers
+- [[2406.04127] Are We Done with MMLU?](https://arxiv.org/abs/2406.04127)
+
+	 · ([huggingface](https://huggingface.co/datasets/edinburgh-dawg/mmlu-redux))
 - [**MixEval**](https://github.com/Psycoy/MixEval/blob/main/resources/paper/mixeval.pdf) - Psycoy ![Star](https://img.shields.io/github/stars/Psycoy/MixEval.svg?style=social&label=Star)
 
 	 · ([mixeval.github](https://mixeval.github.io/))

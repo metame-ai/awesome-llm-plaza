@@ -469,6 +469,9 @@
 	 *Derong Xu, Wei Chen, Wenjun Peng, Chao Zhang, Tong Xu, Xiangyu Zhao, Xian Wu, Yefeng Zheng, Enhong Chen* · ([awesome-llm4ie-papers](https://github.com/quqxui/awesome-llm4ie-papers) - quqxui) ![Star](https://img.shields.io/github/stars/quqxui/awesome-llm4ie-papers.svg?style=social&label=Star)
 
 ## Recommendation
+- **Item-Language Model for Conversational Recommendation**, `arXiv, 2406.02844`, [arxiv](http://arxiv.org/abs/2406.02844v1), [pdf](http://arxiv.org/pdf/2406.02844v1.pdf), cication: [**-1**](None)
+
+	 *Li Yang, Anushya Subbiah, Hardik Patel, Judith Yue Li, Yanwei Song, Reza Mirghaderi, Vikram Aggarwal*
 - [**recai**](https://github.com/microsoft/recai) - microsoft ![Star](https://img.shields.io/github/stars/microsoft/recai.svg?style=social&label=Star)
 - **Exploring the Impact of Large Language Models on Recommender Systems: An
   Extensive Review**, `arXiv, 2402.18590`, [arxiv](http://arxiv.org/abs/2402.18590v1), [pdf](http://arxiv.org/pdf/2402.18590v1.pdf), cication: [**-1**](None)
@@ -510,6 +513,7 @@
 	 *Chongming Gao, Wenqiang Lei, Xiangnan He, Maarten de Rijke, Tat-Seng Chua* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495345&idx=2&sn=5e3ac087c792081705dde1c2542c687a))
 
 ## Role play
+- [**Higgs-Llama-3-70B**](https://huggingface.co/bosonai/Higgs-Llama-3-70B) - bosonai 🤗
 - [Introducing NPC-Playground, a 3D playground to interact with LLM-powered NPCs](https://huggingface.co/blog/npc-gigax-cubzh)
 - **ChatQA: Building GPT-4 Level Conversational QA Models**, `arXiv, 2401.10225`, [arxiv](http://arxiv.org/abs/2401.10225v2), [pdf](http://arxiv.org/pdf/2401.10225v2.pdf), cication: [**-1**](None)
 
@@ -710,6 +714,10 @@
 	 *Longyue Wang, Chenyang Lyu, Tianbo Ji, Zhirui Zhang, Dian Yu, Shuming Shi, Zhaopeng Tu* · ([document-mt-llm](https://github.com/longyuewangdcu/document-mt-llm) - longyuewangdcu) ![Star](https://img.shields.io/github/stars/longyuewangdcu/document-mt-llm.svg?style=social&label=Star)
 
 ## Design
+- **PosterLLaVa: Constructing a Unified Multi-modal Layout Generator with
+  LLM**, `arXiv, 2406.02884`, [arxiv](http://arxiv.org/abs/2406.02884v1), [pdf](http://arxiv.org/pdf/2406.02884v1.pdf), cication: [**-1**](None)
+
+	 *Tao Yang, Yingmin Luo, Zhongang Qi, Yang Wu, Ying Shan, Chang Wen Chen* · ([PosterLLaVA](https://github.com/posterllava/PosterLLaVA) - posterllava) ![Star](https://img.shields.io/github/stars/posterllava/PosterLLaVA.svg?style=social&label=Star)
 - [**openui**](https://github.com/wandb/openui) - wandb ![Star](https://img.shields.io/github/stars/wandb/openui.svg?style=social&label=Star)
 
 	 *OpenUI let's you describe UI using your imagination, then see it rendered live.*

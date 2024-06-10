@@ -290,6 +290,9 @@
 	 *Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao*
 
 ## Robotics
+- [robocasa\_rss24.pdf](https://robocasa.ai/assets/robocasa_rss24.pdf)
+
+	 · ([robocasa](https://robocasa.ai/))
 - **RoboDreamer: Learning Compositional World Models for Robot Imagination**, `arXiv, 2404.12377`, [arxiv](http://arxiv.org/abs/2404.12377v1), [pdf](http://arxiv.org/pdf/2404.12377v1.pdf), cication: [**-1**](None)
 
 	 *Siyuan Zhou, Yilun Du, Jiaben Chen, Yandong Li, Dit-Yan Yeung, Chuang Gan* · ([robovideo.github](https://robovideo.github.io/))
@@ -324,6 +327,7 @@
 
 	 *Ilija Radosavovic, Bike Zhang, Baifeng Shi, Jathushan Rajasegaran, Sarthak Kamat, Trevor Darrell, Koushil Sreenath, Jitendra Malik* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652460909&idx=4&sn=35870451c2c9c90bbbfc7be2bebe75d5))
 ### Demos
+- [Reachy-1’s hardware is open-source ](https://x.com/Thom_Wolf/status/1799008162772836355)
 - [Dino Robotics showed off a new video of its robot chef making schnitzel](https://x.com/adcock_brett/status/1797297988567449675)
 - [Robot dogs armed with AI-aimed rifles undergo US Marines Special Ops evaluation](https://arstechnica.com/gadgets/2024/05/robot-dogs-armed-with-ai-targeting-rifles-undergo-us-marines-special-ops-evaluation/)
 - [twitter.com/heyBarsee/status/1788222961989701878](https://twitter.com/heyBarsee/status/1788222961989701878)

@@ -709,6 +709,7 @@
 	 *Must-read Papers on Model Editing.*
 
 ## AGI insights
+- [[2406.04268] Open-Endedness is Essential for Artificial Superhuman Intelligence](https://arxiv.org/abs/2406.04268)
 - **Artificial Generational Intelligence: Cultural Accumulation in
   Reinforcement Learning**, `arXiv, 2406.00392`, [arxiv](http://arxiv.org/abs/2406.00392v1), [pdf](http://arxiv.org/pdf/2406.00392v1.pdf), cication: [**-1**](None)
 

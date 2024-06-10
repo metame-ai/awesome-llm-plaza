@@ -35,6 +35,14 @@
 	 *Yufei Wang, Wanjun Zhong, Liangyou Li, Fei Mi, Xingshan Zeng, Wenyong Huang, Lifeng Shang, Xin Jiang, Qun Liu* · ([AlignLLMHumanSurvey](https://github.com/GaryYufei/AlignLLMHumanSurvey) - GaryYufei) ![Star](https://img.shields.io/github/stars/GaryYufei/AlignLLMHumanSurvey.svg?style=social&label=Star)
 
 ## Paper & Projects
+- **Step-aware Preference Optimization: Aligning Preference with Denoising
+  Performance at Each Step**, `arXiv, 2406.04314`, [arxiv](http://arxiv.org/abs/2406.04314v1), [pdf](http://arxiv.org/pdf/2406.04314v1.pdf), cication: [**-1**](None)
+
+	 *Zhanhao Liang, Yuhui Yuan, Shuyang Gu, Bohan Chen, Tiankai Hang, Ji Li, Liang Zheng* · ([rockeycoss.github](https://rockeycoss.github.io/spo.github.io/))
+- **Scaling Laws for Reward Model Overoptimization in Direct Alignment
+  Algorithms**, `arXiv, 2406.02900`, [arxiv](http://arxiv.org/abs/2406.02900v1), [pdf](http://arxiv.org/pdf/2406.02900v1.pdf), cication: [**-1**](None)
+
+	 *Rafael Rafailov, Yaswanth Chittepu, Ryan Park, Harshit Sikchi, Joey Hejna, Bradley Knox, Chelsea Finn, Scott Niekum*
 - **Self-Improving Robust Preference Optimization**, `arXiv, 2406.01660`, [arxiv](http://arxiv.org/abs/2406.01660v1), [pdf](http://arxiv.org/pdf/2406.01660v1.pdf), cication: [**-1**](None)
 
 	 *Eugene Choi, Arash Ahmadian, Matthieu Geist, Oilvier Pietquin, Mohammad Gheshlaghi Azar*

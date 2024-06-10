@@ -97,6 +97,12 @@
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-18-4))
 ## Agents
+- [[2406.01014] Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration](https://arxiv.org/abs/2406.01014)
+
+	 · ([MobileAgent](https://github.com/X-PLUG/MobileAgent) - X-PLUG) ![Star](https://img.shields.io/github/stars/X-PLUG/MobileAgent.svg?style=social&label=Star)
+- [[2406.04151] AgentGym: Evolving Large Language Model-based Agents across Diverse Environments](https://arxiv.org/abs/2406.04151)
+
+	 · ([AgentGym](https://github.com/WooooDyy/AgentGym) - WooooDyy) ![Star](https://img.shields.io/github/stars/WooooDyy/AgentGym.svg?style=social&label=Star) · ([AgentGym](https://github.com/WooooDyy/AgentGym) - WooooDyy) ![Star](https://img.shields.io/github/stars/WooooDyy/AgentGym.svg?style=social&label=Star)
 - **Luban: Building Open-Ended Creative Agents via Autonomous Embodied
   Verification**, `arXiv, 2405.15414`, [arxiv](http://arxiv.org/abs/2405.15414v1), [pdf](http://arxiv.org/pdf/2405.15414v1.pdf), cication: [**-1**](None)
 
@@ -986,6 +992,7 @@
 	 *Interact privately with your documents using the power of GPT, 100% privately, no data leaks*
 
 ### Embedding
+- [Generating Synthetic Data for Fine-Tuning Custom Embedding Models](https://x.com/_philschmid/status/1798388387822317933)
 - **NV-Embed: Improved Techniques for Training LLMs as Generalist Embedding
   Models**, `arXiv, 2405.17428`, [arxiv](http://arxiv.org/abs/2405.17428v1), [pdf](http://arxiv.org/pdf/2405.17428v1.pdf), cication: [**-1**](None)
 

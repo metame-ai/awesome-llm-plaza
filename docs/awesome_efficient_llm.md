@@ -62,6 +62,7 @@
 
 	 *Vladislav Lialin, Vijeta Deshpande, Anna Rumshisky*
 ## Efficient finetuning
+- [[2406.01775] OLoRA: Orthonormal Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2406.01775)
 - **VeLoRA: Memory Efficient Training using Rank-1 Sub-Token Projections**, `arXiv, 2405.17991`, [arxiv](http://arxiv.org/abs/2405.17991v1), [pdf](http://arxiv.org/pdf/2405.17991v1.pdf), cication: [**-1**](None)
 
 	 *Roy Miles, Pradyumna Reddy, Ismail Elezi, Jiankang Deng*
@@ -393,6 +394,7 @@
 - [Quantization](https://huggingface.co/docs/accelerate/usage_guides/quantization)
 
 ## Distillation
+- [[2406.02886] PLaD: Preference-based Large Language Model Distillation with Pseudo-Preference Pairs](https://arxiv.org/abs/2406.02886)
 - **Divide-or-Conquer? Which Part Should You Distill Your LLM?**, `arXiv, 2402.15000`, [arxiv](http://arxiv.org/abs/2402.15000v1), [pdf](http://arxiv.org/pdf/2402.15000v1.pdf), cication: [**-1**](None)
 
 	 *Zhuofeng Wu, He Bai, Aonan Zhang, Jiatao Gu, VG Vinod Vydiswaran, Navdeep Jaitly, Yizhe Zhang*
@@ -872,6 +874,9 @@
 	 *DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.*
 
 ## Efficient transformer
+- [[2406.02657] Block Transformer: Global-to-Local Language Modeling for Fast Inference](https://arxiv.org/abs/2406.02657)
+
+	 · ([block-transformer](https://github.com/itsnamgyu/block-transformer) - itsnamgyu) ![Star](https://img.shields.io/github/stars/itsnamgyu/block-transformer.svg?style=social&label=Star)
 - **LLaMA-NAS: Efficient Neural Architecture Search for Large Language
   Models**, `arXiv, 2405.18377`, [arxiv](http://arxiv.org/abs/2405.18377v1), [pdf](http://arxiv.org/pdf/2405.18377v1.pdf), cication: [**-1**](None)
 

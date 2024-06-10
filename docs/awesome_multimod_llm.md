@@ -236,6 +236,11 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
+- [**ultravox**](https://github.com/fixie-ai/ultravox) - fixie-ai ![Star](https://img.shields.io/github/stars/fixie-ai/ultravox.svg?style=social&label=Star)
+- [[2406.02539] Parrot: Multilingual Visual Instruction Tuning](https://arxiv.org/abs/2406.02539)
+- [[2406.00977] Dragonfly: Multi-Resolution Zoom Supercharges Large Visual-Language Model](https://arxiv.org/abs/2406.00977)
+
+	 · ([together](https://www.together.ai/blog/dragonfly-v1)) · ([Dragonfly](https://github.com/togethercomputer/Dragonfly) - togethercomputer) ![Star](https://img.shields.io/github/stars/togethercomputer/Dragonfly.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/togethercomputer/Llama-3-8B-Dragonfly-v1))
 - **Zipper: A Multi-Tower Decoder Architecture for Fusing Modalities**, `arXiv, 2405.18669`, [arxiv](http://arxiv.org/abs/2405.18669v2), [pdf](http://arxiv.org/pdf/2405.18669v2.pdf), cication: [**-1**](None)
 
 	 *Vicky Zayats, Peter Chen, Melissa Ferrari, Dirk Padfield*
@@ -1415,6 +1420,9 @@
 	 *Yuliang Liu, Zhang Li, Biao Yang, Chunyuan Li, Xucheng Yin, Cheng-lin Liu, Lianwen Jin, Xiang Bai* · ([MultimodalOCR](https://github.com/Yuliang-Liu/MultimodalOCR) - Yuliang-Liu) ![Star](https://img.shields.io/github/stars/Yuliang-Liu/MultimodalOCR.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652442102&idx=4&sn=64a53646c57797a00b9db186f339c5eb))
 
 ## Datasets
+- [[2406.04325] ShareGPT4Video: Improving Video Understanding and Generation with Better Captions](https://arxiv.org/abs/2406.04325)
+
+	 · ([huggingface](https://huggingface.co/collections/Lin-Chen/sharegpt4video-665360639a6d4a7431f589a6))
 - **ImageInWords: Unlocking Hyper-Detailed Image Descriptions**, `arXiv, 2405.02793`, [arxiv](http://arxiv.org/abs/2405.02793v1), [pdf](http://arxiv.org/pdf/2405.02793v1.pdf), cication: [**-1**](None)
 
 	 *Roopal Garg, Andrea Burns, Burcu Karagol Ayan, Yonatan Bitton, Ceslee Montgomery, Yasumasa Onoe, Andrew Bunner, Ranjay Krishna, Jason Baldridge, Radu Soricut* · ([imageinwords](https://github.com/google/imageinwords) - google) ![Star](https://img.shields.io/github/stars/google/imageinwords.svg?style=social&label=Star) · ([google.github](https://google.github.io/imageinwords))
