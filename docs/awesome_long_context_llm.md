@@ -35,6 +35,10 @@
 	 *Adyasha Maharana, Dong-Ho Lee, Sergey Tulyakov, Mohit Bansal, Francesco Barbieri, Yuwei Fang*
 
 ## Papers
+- **Recurrent Context Compression: Efficiently Expanding the Context Window
+  of LLM**, `arXiv, 2406.06110`, [arxiv](http://arxiv.org/abs/2406.06110v1), [pdf](http://arxiv.org/pdf/2406.06110v1.pdf), cication: [**-1**](None)
+
+	 *Chensen Huang, Guibo Zhu, Xuepeng Wang, Yifei Luo, Guojing Ge, Haoran Chen, Dong Yi, Jinqiao Wang* · ([RCC_Transformer](https://github.com/WUHU-G/RCC_Transformer?tab=readme-ov-file) - WUHU-G) ![Star](https://img.shields.io/github/stars/WUHU-G/RCC_Transformer.svg?style=social&label=Star)
 - **Contextual Position Encoding: Learning to Count What's Important**, `arXiv, 2405.18719`, [arxiv](http://arxiv.org/abs/2405.18719v2), [pdf](http://arxiv.org/pdf/2405.18719v2.pdf), cication: [**-1**](None)
 
 	 *Olga Golovneva, Tianlu Wang, Jason Weston, Sainbayar Sukhbaatar*

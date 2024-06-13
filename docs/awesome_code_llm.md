@@ -26,6 +26,9 @@
 	 *Ziyin Zhang, Chaoyu Chen, Bingchang Liu, Cong Liao, Zi Gong, Hang Yu, Jianguo Li, Rui Wang*
 
 ## Paper
+- **McEval: Massively Multilingual Code Evaluation**, `arXiv, 2406.07436`, [arxiv](http://arxiv.org/abs/2406.07436v1), [pdf](http://arxiv.org/pdf/2406.07436v1.pdf), cication: [**-1**](None)
+
+	 *Linzheng Chai, Shukai Liu, Jian Yang, Yuwei Yin, Ke Jin, Jiaheng Liu, Tao Sun, Ge Zhang, Changyu Ren, Hongcheng Guo* · ([mceval.github](https://mceval.github.io/))
 - **DevEval: A Manually-Annotated Code Generation Benchmark Aligned with
   Real-World Code Repositories**, `arXiv, 2405.19856`, [arxiv](http://arxiv.org/abs/2405.19856v1), [pdf](http://arxiv.org/pdf/2405.19856v1.pdf), cication: [**-1**](None)
 

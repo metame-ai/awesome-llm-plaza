@@ -81,6 +81,10 @@
 	 *Mike Ranzinger, Greg Heinrich, Jan Kautz, Pavlo Molchanov* · ([radio](https://github.com/nvlabs/radio) - nvlabs) ![Star](https://img.shields.io/github/stars/nvlabs/radio.svg?style=social&label=Star)
 
 ### Video
+- **VideoLLaMA 2: Advancing Spatial-Temporal Modeling and Audio
+  Understanding in Video-LLMs**, `arXiv, 2406.07476`, [arxiv](http://arxiv.org/abs/2406.07476v1), [pdf](http://arxiv.org/pdf/2406.07476v1.pdf), cication: [**-1**](None)
+
+	 *Zesen Cheng, Sicong Leng, Hang Zhang, Yifei Xin, Xin Li, Guanzheng Chen, Yongxin Zhu, Wenqi Zhang, Ziyang Luo, Deli Zhao*
 - **MotionLLM: Understanding Human Behaviors from Human Motions and Videos**, `arXiv, 2405.20340`, [arxiv](http://arxiv.org/abs/2405.20340v1), [pdf](http://arxiv.org/pdf/2405.20340v1.pdf), cication: [**-1**](None)
 
 	 *Ling-Hao Chen, Shunlin Lu, Ailing Zeng, Hao Zhang, Benyou Wang, Ruimao Zhang, Lei Zhang*
@@ -236,6 +240,7 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
+- [**glm-4v-9b**](https://huggingface.co/THUDM/glm-4v-9b) - THUDM 🤗
 - [**ultravox**](https://github.com/fixie-ai/ultravox) - fixie-ai ![Star](https://img.shields.io/github/stars/fixie-ai/ultravox.svg?style=social&label=Star)
 - **Parrot: Multilingual Visual Instruction Tuning**, `arXiv, 2406.02539`, [arxiv](http://arxiv.org/abs/2406.02539v1), [pdf](http://arxiv.org/pdf/2406.02539v1.pdf), cication: [**-1**](None)
 
@@ -1194,6 +1199,10 @@
 	 *Timin Gao, Peixian Chen, Mengdan Zhang, Chaoyou Fu, Yunhang Shen, Yan Zhang, Shengchuan Zhang, Xiawu Zheng, Xing Sun, Liujuan Cao* · ([ggg0919.github](https://ggg0919.github.io/cantor/))
 
 ## Alignment
+- **RLAIF-V: Aligning MLLMs through Open-Source AI Feedback for Super GPT-4V
+  Trustworthiness**, `arXiv, 2405.17220`, [arxiv](http://arxiv.org/abs/2405.17220v1), [pdf](http://arxiv.org/pdf/2405.17220v1.pdf), cication: [**-1**](None)
+
+	 *Tianyu Yu, Haoye Zhang, Yuan Yao, Yunkai Dang, Da Chen, Xiaoman Lu, Ganqu Cui, Taiwen He, Zhiyuan Liu, Tat-Seng Chua* · ([RLAIF-V](https://github.com/RLHF-V/RLAIF-V) - RLHF-V) ![Star](https://img.shields.io/github/stars/RLHF-V/RLAIF-V.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-06-11))
 - **BBA: Bi-Modal Behavioral Alignment for Reasoning with Large
   Vision-Language Models**, `arXiv, 2402.13577`, [arxiv](http://arxiv.org/abs/2402.13577v1), [pdf](http://arxiv.org/pdf/2402.13577v1.pdf), cication: [**-1**](None)
 
@@ -1225,6 +1234,10 @@
 	 *Haoran Wei, Lingyu Kong, Jinyue Chen, Liang Zhao, Zheng Ge, En Yu, Jianjian Sun, Chunrui Han, Xiangyu Zhang*
 
 ## Extra Modalities 
+- **3D-GRAND: A Million-Scale Dataset for 3D-LLMs with Better Grounding and
+  Less Hallucination**, `arXiv, 2406.05132`, [arxiv](http://arxiv.org/abs/2406.05132v2), [pdf](http://arxiv.org/pdf/2406.05132v2.pdf), cication: [**-1**](None)
+
+	 *Jianing Yang, Xuweiyi Chen, Nikhil Madaan, Madhavan Iyengar, Shengyi Qian, David F. Fouhey, Joyce Chai* · ([3d-grand.github](https://3d-grand.github.io))
 - **Grounded 3D-LLM with Referent Tokens**, `arXiv, 2405.10370`, [arxiv](http://arxiv.org/abs/2405.10370v1), [pdf](http://arxiv.org/pdf/2405.10370v1.pdf), cication: [**-1**](None)
 
 	 *Yilun Chen, Shuai Yang, Haifeng Huang, Tai Wang, Ruiyuan Lyu, Runsen Xu, Dahua Lin, Jiangmiao Pang* · ([groundedscenellm.github](https://groundedscenellm.github.io/grounded_3d-llm.github.io))
@@ -1425,6 +1438,9 @@
 	 *Yuliang Liu, Zhang Li, Biao Yang, Chunyuan Li, Xucheng Yin, Cheng-lin Liu, Lianwen Jin, Xiang Bai* · ([MultimodalOCR](https://github.com/Yuliang-Liu/MultimodalOCR) - Yuliang-Liu) ![Star](https://img.shields.io/github/stars/Yuliang-Liu/MultimodalOCR.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652442102&idx=4&sn=64a53646c57797a00b9db186f339c5eb))
 
 ## Datasets
+- **Vript: A Video Is Worth Thousands of Words**, `arXiv, 2406.06040`, [arxiv](http://arxiv.org/abs/2406.06040v1), [pdf](http://arxiv.org/pdf/2406.06040v1.pdf), cication: [**-1**](None)
+
+	 *Dongjie Yang, Suyuan Huang, Chengqiang Lu, Xiaodong Han, Haoxin Zhang, Yan Gao, Yao Hu, Hai Zhao* · ([Vript](https://github.com/mutonix/Vript) - mutonix) ![Star](https://img.shields.io/github/stars/mutonix/Vript.svg?style=social&label=Star)
 - **ShareGPT4Video: Improving Video Understanding and Generation with Better
   Captions**, `arXiv, 2406.04325`, [arxiv](http://arxiv.org/abs/2406.04325v1), [pdf](http://arxiv.org/pdf/2406.04325v1.pdf), cication: [**-1**](None)
 

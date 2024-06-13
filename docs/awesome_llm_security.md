@@ -24,6 +24,7 @@
 - [**Adversarial Attacks on LLMs | Lil'Log**](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/)
 
 ## Red teaming
+- [Challenges in Red Teaming AI Systems \\ Anthropic](https://www.anthropic.com/news/challenges-in-red-teaming-ai-systems)
 - **ALERT: A Comprehensive Benchmark for Assessing Large Language Models'
   Safety through Red Teaming**, `arXiv, 2404.08676`, [arxiv](http://arxiv.org/abs/2404.08676v1), [pdf](http://arxiv.org/pdf/2404.08676v1.pdf), cication: [**-1**](None)
 
@@ -64,6 +65,11 @@
 	 *Stephen Casper, Jason Lin, Joe Kwon, Gatlen Culp, Dylan Hadfield-Menell*
 
 ## Papers
+- **Merging Improves Self-Critique Against Jailbreak Attacks**, `arXiv, 2406.07188`, [arxiv](http://arxiv.org/abs/2406.07188v1), [pdf](http://arxiv.org/pdf/2406.07188v1.pdf), cication: [**-1**](None)
+
+	 *Victor Gallego*
+
+	 · ([merging-self-critique-jailbreaks](https://github.com/vicgalle/merging-self-critique-jailbreaks) - vicgalle) ![Star](https://img.shields.io/github/stars/vicgalle/merging-self-critique-jailbreaks.svg?style=social&label=Star)
 - **LLM Agents can Autonomously Exploit One-day Vulnerabilities**, `arXiv, 2404.08144`, [arxiv](http://arxiv.org/abs/2404.08144v2), [pdf](http://arxiv.org/pdf/2404.08144v2.pdf), cication: [**-1**](None)
 
 	 *Richard Fang, Rohan Bindu, Akul Gupta, Daniel Kang* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&mid=2247567179&idx=1&sn=52b0e7927174e9c1e235b109165ce1e6))
@@ -222,6 +228,10 @@
 - **International Institutions for Advanced AI**, `arXiv, 2307.04699`, [arxiv](http://arxiv.org/abs/2307.04699v2), [pdf](http://arxiv.org/pdf/2307.04699v2.pdf), cication: [**9**](https://scholar.google.com/scholar?cites=1522776054133119216&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Lewis Ho, Joslyn Barnhart, Robert Trager, Yoshua Bengio, Miles Brundage, Allison Carnegie, Rumman Chowdhury, Allan Dafoe, Gillian Hadfield, Margaret Levi*
+- **"Do Anything Now": Characterizing and Evaluating In-The-Wild Jailbreak
+  Prompts on Large Language Models**, `arXiv, 2308.03825`, [arxiv](http://arxiv.org/abs/2308.03825v2), [pdf](http://arxiv.org/pdf/2308.03825v2.pdf), cication: [**162**](https://scholar.google.com/scholar?cites=2730450320382131594&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Xinyue Shen, Zeyuan Chen, Michael Backes, Yun Shen, Yang Zhang* · ([jailbreak_llms](https://github.com/verazuo/jailbreak_llms?tab=readme-ov-file) - verazuo) ![Star](https://img.shields.io/github/stars/verazuo/jailbreak_llms.svg?style=social&label=Star)
 - **An Overview of Catastrophic AI Risks**, `arXiv, 2306.12001`, [arxiv](http://arxiv.org/abs/2306.12001v6), [pdf](http://arxiv.org/pdf/2306.12001v6.pdf), cication: [**20**](https://scholar.google.com/scholar?cites=13657604724019544721&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Dan Hendrycks, Mantas Mazeika, Thomas Woodside* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652349067&idx=5&sn=8fabac5f652ec41a0dfe86a078def978))
@@ -233,6 +243,9 @@
 
 	 *Kaijie Zhu, Jindong Wang, Jiaheng Zhou, Zichen Wang, Hao Chen, Yidong Wang, Linyi Yang, Wei Ye, Yue Zhang, Neil Zhenqiang Gong*
 ## Projects
+- [**jailbreak_llms**](https://github.com/verazuo/jailbreak_llms?tab=readme-ov-file) - verazuo ![Star](https://img.shields.io/github/stars/verazuo/jailbreak_llms.svg?style=social&label=Star)
+
+	 *[CCS'24] A dataset consists of 15,140 ChatGPT prompts from Reddit, Discord, websites, and open-source datasets (including 1,405 jailbreak prompts).*
 - [**prompt-injection-defenses**](https://github.com/tldrsec/prompt-injection-defenses) - tldrsec ![Star](https://img.shields.io/github/stars/tldrsec/prompt-injection-defenses.svg?style=social&label=Star)
 
 	 *Every practical and proposed defense against prompt injection.*

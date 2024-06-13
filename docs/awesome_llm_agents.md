@@ -749,6 +749,9 @@
 - [GPT-4V学会用键鼠上网，人类眼睁睁看着它发帖玩游戏 | 量子位](https://www.qbitai.com/2023/11/95456.html)
 
 ## Retrieval agumented generation
+- **Multi-Head RAG: Solving Multi-Aspect Problems with LLMs**, `arXiv, 2406.05085`, [arxiv](http://arxiv.org/abs/2406.05085v1), [pdf](http://arxiv.org/pdf/2406.05085v1.pdf), cication: [**-1**](None)
+
+	 *Maciej Besta, Ales Kubicek, Roman Niggli, Robert Gerstenberger, Lucas Weitzendorf, Mingyuan Chi, Patrick Iff, Joanna Gajda, Piotr Nyczyk, Jürgen Müller* · ([mrag](https://github.com/spcl/mrag) - spcl) ![Star](https://img.shields.io/github/stars/spcl/mrag.svg?style=social&label=Star)
 - **CRAG -- Comprehensive RAG Benchmark**, `arXiv, 2406.04744`, [arxiv](http://arxiv.org/abs/2406.04744v1), [pdf](http://arxiv.org/pdf/2406.04744v1.pdf), cication: [**-1**](None)
 
 	 *Xiao Yang, Kai Sun, Hao Xin, Yushi Sun, Nikita Bhalla, Xiangsen Chen, Sajal Choudhary, Rongze Daniel Gui, Ziran Will Jiang, Ziyu Jiang* · ([aicrowd](https://www.aicrowd.com/challenges/meta-comprehensive-rag-benchmark-kdd-cup-2024))
@@ -1004,6 +1007,9 @@
 	 *Interact privately with your documents using the power of GPT, 100% privately, no data leaks*
 
 ### Embedding
+- **Piccolo2: General Text Embedding with Multi-task Hybrid Loss Training**, `arXiv, 2405.06932`, [arxiv](http://arxiv.org/abs/2405.06932v1), [pdf](http://arxiv.org/pdf/2405.06932v1.pdf), cication: [**-1**](None)
+
+	 *Junqin Huang, Zhongjie Hu, Zihao Jing, Mengya Gao, Yichao Wu* · ([huggingface](https://huggingface.co/sensenova/piccolo-large-zh-v2))
 - [Generating Synthetic Data for Fine-Tuning Custom Embedding Models](https://x.com/_philschmid/status/1798388387822317933)
 - **NV-Embed: Improved Techniques for Training LLMs as Generalist Embedding
   Models**, `arXiv, 2405.17428`, [arxiv](http://arxiv.org/abs/2405.17428v1), [pdf](http://arxiv.org/pdf/2405.17428v1.pdf), cication: [**-1**](None)

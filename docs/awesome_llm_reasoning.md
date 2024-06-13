@@ -19,6 +19,9 @@
 
 
 ## Survey
+- **The Prompt Report: A Systematic Survey of Prompting Techniques**, `arXiv, 2406.06608`, [arxiv](http://arxiv.org/abs/2406.06608v1), [pdf](http://arxiv.org/pdf/2406.06608v1.pdf), cication: [**-1**](None)
+
+	 *Sander Schulhoff, Michael Ilie, Nishant Balepur, Konstantine Kahadze, Amanda Liu, Chenglei Si, Yinheng Li, Aayush Gupta, HyoJung Han, Sevien Schulhoff*
 - **Efficient Prompting Methods for Large Language Models: A Survey**, `arXiv, 2404.01077`, [arxiv](http://arxiv.org/abs/2404.01077v1), [pdf](http://arxiv.org/pdf/2404.01077v1.pdf), cication: [**-1**](None)
 
 	 *Kaiyan Chang, Songcheng Xu, Chenglong Wang, Yingfeng Luo, Tong Xiao, Jingbo Zhu*
@@ -28,6 +31,12 @@
 	 *Jiankai Sun, Chuanyang Zheng, Enze Xie, Zhengying Liu, Ruihang Chu, Jianing Qiu, Jiaqi Xu, Mingyu Ding, Hongyang Li, Mengzhe Geng* · ([Awesome-Reasoning-Foundation-Models](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models) - reasoning-survey) ![Star](https://img.shields.io/github/stars/reasoning-survey/Awesome-Reasoning-Foundation-Models.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652421688&idx=3&sn=fcdc24edc7bc89ebcbcca0f7665e40f6))
 
 ## Reasoning
+- **TextGrad: Automatic "Differentiation" via Text**, `arXiv, 2406.07496`, [arxiv](http://arxiv.org/abs/2406.07496v1), [pdf](http://arxiv.org/pdf/2406.07496v1.pdf), cication: [**-1**](None)
+
+	 *Mert Yuksekgonul, Federico Bianchi, Joseph Boen, Sheng Liu, Zhi Huang, Carlos Guestrin, James Zou* · ([textgrad](https://github.com/zou-group/textgrad) - zou-group) ![Star](https://img.shields.io/github/stars/zou-group/textgrad.svg?style=social&label=Star)
+- **Husky: A Unified, Open-Source Language Agent for Multi-Step Reasoning**, `arXiv, 2406.06469`, [arxiv](http://arxiv.org/abs/2406.06469v1), [pdf](http://arxiv.org/pdf/2406.06469v1.pdf), cication: [**-1**](None)
+
+	 *Joongwon Kim, Bhargavi Paranjape, Tushar Khot, Hannaneh Hajishirzi* · ([Husky-v1](https://github.com/agent-husky/Husky-v1) - agent-husky) ![Star](https://img.shields.io/github/stars/agent-husky/Husky-v1.svg?style=social&label=Star)
 - **Buffer of Thoughts: Thought-Augmented Reasoning with Large Language
   Models**, `arXiv, 2406.04271`, [arxiv](http://arxiv.org/abs/2406.04271v1), [pdf](http://arxiv.org/pdf/2406.04271v1.pdf), cication: [**-1**](None)
 
@@ -421,6 +430,18 @@
 - [大模型Fewshot推理如何选择更好的示例](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495177&idx=2&sn=fe8353efed16a81e35462be06d5a6cea)
 
 ## Math reasoning
+- **Improve Mathematical Reasoning in Language Models by Automated Process
+  Supervision**, `arXiv, 2406.06592`, [arxiv](http://arxiv.org/abs/2406.06592v1), [pdf](http://arxiv.org/pdf/2406.06592v1.pdf), cication: [**-1**](None)
+
+	 *Liangchen Luo, Yinxiao Liu, Rosanne Liu, Samrat Phatale, Harsh Lara, Yunxuan Li, Lei Shu, Yun Zhu, Lei Meng, Jiao Sun*
+- **Accessing GPT-4 level Mathematical Olympiad Solutions via Monte Carlo
+  Tree Self-refine with LLaMa-3 8B**, `arXiv, 2406.07394`, [arxiv](http://arxiv.org/abs/2406.07394v1), [pdf](http://arxiv.org/pdf/2406.07394v1.pdf), cication: [**-1**](None)
+
+	 *Di Zhang, Jiatong Li, Xiaoshui Huang, Dongzhan Zhou, Yuqiang Li, Wanli Ouyang*
+- **Improve Mathematical Reasoning in Language Models by Automated Process
+  Supervision**, `arXiv, 2406.06592`, [arxiv](http://arxiv.org/abs/2406.06592v1), [pdf](http://arxiv.org/pdf/2406.06592v1.pdf), cication: [**-1**](None)
+
+	 *Liangchen Luo, Yinxiao Liu, Rosanne Liu, Samrat Phatale, Harsh Lara, Yunxuan Li, Lei Shu, Yun Zhu, Lei Meng, Jiao Sun*
 - [**arithmetic**](https://github.com/mcleish7/arithmetic) - mcleish7 ![Star](https://img.shields.io/github/stars/mcleish7/arithmetic.svg?style=social&label=Star)
 
 	 *Code to reproduce "Transformers Can Do Arithmetic with the Right Embeddings", McLeish et al (2024)*

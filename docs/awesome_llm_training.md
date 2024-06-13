@@ -78,6 +78,10 @@
 - [贫穷让我预训练](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494110&idx=2&sn=52bfbf2d51d1704efc596263bccf23db)
 
 ## Scaling
+- **D-CPT Law: Domain-specific Continual Pre-Training Scaling Law for Large
+  Language Models**, `arXiv, 2406.01375`, [arxiv](http://arxiv.org/abs/2406.01375v1), [pdf](http://arxiv.org/pdf/2406.01375v1.pdf), cication: [**-1**](None)
+
+	 *Haoran Que, Jiaheng Liu, Ge Zhang, Chenchen Zhang, Xingwei Qu, Yinghao Ma, Feiyu Duan, Zhiqi Bai, Jiakai Wang, Yuanxing Zhang*
 - **Why Has Predicting Downstream Capabilities of Frontier AI Models with
   Scale Remained Elusive?**, `arXiv, 2406.04391`, [arxiv](http://arxiv.org/abs/2406.04391v1), [pdf](http://arxiv.org/pdf/2406.04391v1.pdf), cication: [**-1**](None)
 
@@ -340,6 +344,7 @@
 	 *Yang Luo, Xiaozhe Ren, Zangwei Zheng, Zhuo Jiang, Xin Jiang, Yang You* · ([qbitai](https://www.qbitai.com/2023/07/67814.html))
 
 ---
+- [Adam学习率Scaling law的「浪涌现象」](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247496722&idx=1&sn=26b0b52e8497b7af6182b6eab7e6e103)
 - [用最酷的LR，训最猛的模型](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247496626&idx=1&sn=4ba786f28cd4f55d69ed91effe3e82fd)
 
 ## Ensemble
@@ -408,6 +413,10 @@
 - [Weight averaging and model merging for LLMs seem to be the most interesting themes in 2024 so far. ](https://twitter.com/rasbt/status/1750180383398744106)
 
 ## MoE
+- **Skywork-MoE: A Deep Dive into Training Techniques for Mixture-of-Experts
+  Language Models**, `arXiv, 2406.06563`, [arxiv](http://arxiv.org/abs/2406.06563v1), [pdf](http://arxiv.org/pdf/2406.06563v1.pdf), cication: [**-1**](None)
+
+	 *Tianwen Wei, Bo Zhu, Liang Zhao, Cheng Cheng, Biye Li, Weiwei Lü, Peng Cheng, Jianhao Zhang, Xiaoyu Zhang, Liang Zeng*
 - **MoEUT: Mixture-of-Experts Universal Transformers**, `arXiv, 2405.16039`, [arxiv](http://arxiv.org/abs/2405.16039v1), [pdf](http://arxiv.org/pdf/2405.16039v1.pdf), cication: [**-1**](None)
 
 	 *Róbert Csordás, Kazuki Irie, Jürgen Schmidhuber, Christopher Potts, Christopher D. Manning* · ([moeut](https://github.com/robertcsordas/moeut) - robertcsordas) ![Star](https://img.shields.io/github/stars/robertcsordas/moeut.svg?style=social&label=Star)

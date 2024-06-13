@@ -156,6 +156,10 @@
 - [**peS2o**](https://huggingface.co/datasets/allenai/peS2o) - allenai 🤗
 
 ### Misc
+- [**CharacterCodex**](https://huggingface.co/datasets/NousResearch/CharacterCodex) - NousResearch 🤗
+- **Zyda: A 1.3T Dataset for Open Language Modeling**, `arXiv, 2406.01981`, [arxiv](http://arxiv.org/abs/2406.01981v1), [pdf](http://arxiv.org/pdf/2406.01981v1.pdf), cication: [**-1**](None)
+
+	 *Yury Tokpanov, Beren Millidge, Paolo Glorioso, Jonathan Pilault, Adam Ibrahim, James Whittington, Quentin Anthony* · ([zyphra](https://www.zyphra.com/zyda))
 - **MS MARCO Web Search: a Large-scale Information-rich Web Dataset with
   Millions of Real Click Labels**, `arXiv, 2405.07526`, [arxiv](http://arxiv.org/abs/2405.07526v1), [pdf](http://arxiv.org/pdf/2405.07526v1.pdf), cication: [**-1**](None)
 
@@ -249,7 +253,10 @@
 
 
 ### MulitiMod
-- [Fetching Title#bdwr](https://huggingface.co/datasets/HuggingFaceM4/the_cauldron)
+- **What If We Recaption Billions of Web Images with LLaMA-3?**, `arXiv, 2406.08478`, [arxiv](http://arxiv.org/abs/2406.08478v1), [pdf](http://arxiv.org/pdf/2406.08478v1.pdf), cication: [**-1**](None)
+
+	 *Xianhang Li, Haoqin Tu, Mude Hui, Zeyu Wang, Bingchen Zhao, Junfei Xiao, Sucheng Ren, Jieru Mei, Qing Liu, Huangjie Zheng* · ([Recap-DataComp-1B](https://github.com/UCSC-VLAA/Recap-DataComp-1B) - UCSC-VLAA) ![Star](https://img.shields.io/github/stars/UCSC-VLAA/Recap-DataComp-1B.svg?style=social&label=Star)
+- [**the_cauldron**](https://huggingface.co/datasets/HuggingFaceM4/the_cauldron) - HuggingFaceM4 🤗
 - [**Let-It-Wag**](https://huggingface.co/datasets/bethgelab/Let-It-Wag) - bethgelab 🤗
 - **MAGID: An Automated Pipeline for Generating Synthetic Multi-modal
   Datasets**, `arXiv, 2403.03194`, [arxiv](http://arxiv.org/abs/2403.03194v1), [pdf](http://arxiv.org/pdf/2403.03194v1.pdf), cication: [**-1**](None)
@@ -305,6 +312,10 @@
 - [**Capybara-Preferences**](https://huggingface.co/datasets/argilla/Capybara-Preferences) - argilla 🤗
 
 ### Synthetic 
+- **Magpie: Alignment Data Synthesis from Scratch by Prompting Aligned LLMs
+  with Nothing**, `arXiv, 2406.08464`, [arxiv](http://arxiv.org/abs/2406.08464v1), [pdf](http://arxiv.org/pdf/2406.08464v1.pdf), cication: [**-1**](None)
+
+	 *Zhangchen Xu, Fengqing Jiang, Luyao Niu, Yuntian Deng, Radha Poovendran, Yejin Choi, Bill Yuchen Lin* · ([huggingface](https://huggingface.co/Magpie-Align))
 - **BEHAVIOR Vision Suite: Customizable Dataset Generation via Simulation**, `arXiv, 2405.09546`, [arxiv](http://arxiv.org/abs/2405.09546v1), [pdf](http://arxiv.org/pdf/2405.09546v1.pdf), cication: [**-1**](None)
 
 	 *Yunhao Ge, Yihe Tang, Jiashu Xu, Cem Gokmen, Chengshu Li, Wensi Ai, Benjamin Jose Martinez, Arman Aydin, Mona Anvari, Ayush K Chakravarthy*

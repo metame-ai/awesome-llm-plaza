@@ -267,6 +267,16 @@
 
 
 ## Medical
+- **MedFuzz: Exploring the Robustness of Large Language Models in Medical
+  Question Answering**, `arXiv, 2406.06573`, [arxiv](http://arxiv.org/abs/2406.06573v1), [pdf](http://arxiv.org/pdf/2406.06573v1.pdf), cication: [**-1**](None)
+
+	 *Robert Osazuwa Ness, Katie Matton, Hayden Helm, Sheng Zhang, Junaid Bajwa, Carey E. Priebe, Eric Horvitz*
+- **Towards a Personal Health Large Language Model**, `arXiv, 2406.06474`, [arxiv](http://arxiv.org/abs/2406.06474v1), [pdf](http://arxiv.org/pdf/2406.06474v1.pdf), cication: [**-1**](None)
+
+	 *Justin Cosentino, Anastasiya Belyaeva, Xin Liu, Nicholas A. Furlotte, Zhun Yang, Chace Lee, Erik Schenck, Yojan Patel, Jian Cui, Logan Douglas Schneider*
+- **Tx-LLM: A Large Language Model for Therapeutics**, `arXiv, 2406.06316`, [arxiv](http://arxiv.org/abs/2406.06316v1), [pdf](http://arxiv.org/pdf/2406.06316v1.pdf), cication: [**-1**](None)
+
+	 *Juan Manuel Zambrano Chaves, Eric Wang, Tao Tu, Eeshit Dhaval Vaishnav, Byron Lee, S. Sara Mahdavi, Christopher Semturs, David Fleet, Vivek Natarajan, Shekoofeh Azizi*
 - **Advancing Multimodal Medical Capabilities of Gemini**, `arXiv, 2405.03162`, [arxiv](http://arxiv.org/abs/2405.03162v1), [pdf](http://arxiv.org/pdf/2405.03162v1.pdf), cication: [**-1**](None)
 
 	 *Lin Yang, Shawn Xu, Andrew Sellergren, Timo Kohlberger, Yuchen Zhou, Ira Ktena, Atilla Kiraly, Faruk Ahmed, Farhad Hormozdiari, Tiam Jaroensri*
@@ -438,6 +448,13 @@
 - [首个大模型教育产品开箱："最聪明"国产大模型加持的学习机，质变了吗 | 量子位](https://www.qbitai.com/2023/08/79632.html)
 
 ## Text Related
+- [**llama-zip**](https://github.com/AlexBuz/llama-zip) - AlexBuz ![Star](https://img.shields.io/github/stars/AlexBuz/llama-zip.svg?style=social&label=Star)
+
+	 *LLM-powered lossless compression tool*
+- **Multi-Dimensional Optimization for Text Summarization via Reinforcement
+  Learning**, `arXiv, 2406.00303`, [arxiv](http://arxiv.org/abs/2406.00303v1), [pdf](http://arxiv.org/pdf/2406.00303v1.pdf), cication: [**-1**](None)
+
+	 *Sangwon Ryu, Heejin Do, Yunsu Kim, Gary Geunbae Lee, Jungseul Ok*
 - **Proofread: Fixes All Errors with One Tap**, `arXiv, 2406.04523`, [arxiv](http://arxiv.org/abs/2406.04523v1), [pdf](http://arxiv.org/pdf/2406.04523v1.pdf), cication: [**-1**](None)
 
 	 *Renjie Liu, Yanxiang Zhang, Yun Zhu, Haicheng Sun, Yuanbo Zhang, Michael Xuelin Huang, Shanqing Cai, Lei Meng, Shumin Zhai*
@@ -516,6 +533,7 @@
 	 *Chongming Gao, Wenqiang Lei, Xiangnan He, Maarten de Rijke, Tat-Seng Chua* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495345&idx=2&sn=5e3ac087c792081705dde1c2542c687a))
 
 ## Role play
+- [**CharacterCodex**](https://huggingface.co/datasets/NousResearch/CharacterCodex) - NousResearch 🤗
 - [**Higgs-Llama-3-70B**](https://huggingface.co/bosonai/Higgs-Llama-3-70B) - bosonai 🤗
 - [Introducing NPC-Playground, a 3D playground to interact with LLM-powered NPCs](https://huggingface.co/blog/npc-gigax-cubzh)
 - **ChatQA: Building GPT-4 Level Conversational QA Models**, `arXiv, 2401.10225`, [arxiv](http://arxiv.org/abs/2401.10225v2), [pdf](http://arxiv.org/pdf/2401.10225v2.pdf), cication: [**-1**](None)
@@ -717,6 +735,10 @@
 	 *Longyue Wang, Chenyang Lyu, Tianbo Ji, Zhirui Zhang, Dian Yu, Shuming Shi, Zhaopeng Tu* · ([document-mt-llm](https://github.com/longyuewangdcu/document-mt-llm) - longyuewangdcu) ![Star](https://img.shields.io/github/stars/longyuewangdcu/document-mt-llm.svg?style=social&label=Star)
 
 ## Design
+- **DeTikZify: Synthesizing Graphics Programs for Scientific Figures and
+  Sketches with TikZ**, `arXiv, 2405.15306`, [arxiv](http://arxiv.org/abs/2405.15306v2), [pdf](http://arxiv.org/pdf/2405.15306v2.pdf), cication: [**-1**](None)
+
+	 *Jonas Belouadi, Simone Paolo Ponzetto, Steffen Eger* · ([detikzify](https://github.com/potamides/detikzify) - potamides) ![Star](https://img.shields.io/github/stars/potamides/detikzify.svg?style=social&label=Star)
 - **PosterLLaVa: Constructing a Unified Multi-modal Layout Generator with
   LLM**, `arXiv, 2406.02884`, [arxiv](http://arxiv.org/abs/2406.02884v1), [pdf](http://arxiv.org/pdf/2406.02884v1.pdf), cication: [**-1**](None)
 
@@ -1156,6 +1178,7 @@
 - [Inflection-2.5: meet the world's best personal AI](https://inflection.ai/inflection-2-5)
 - [Synthical: Science, Simplified](https://synthical.com/)
 
+- [当GPT-4o遇上情感陪伴：多巴胺的胜利，催产素的挑战](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247496639&idx=2&sn=ffcdae8798d0bfb1c73daccd26f1e30b)
 - [复盘“哄哄模拟器的复盘”：别错过这6点AI应用思考](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495598&idx=2&sn=37d18450708ff1eb4b6426ac52ccba64)
 - [开源大模型正在重塑企业AI应用，16个案例看看它们如何落地 | 机器之心](https://www.jiqizhixin.com/articles/2024-02-08-9)
 - [这个AI办公应用火了：简短提示词出PPT，打包GPTs帮你打工干活 | 量子位](https://www.qbitai.com/2024/02/121094.html)

@@ -448,6 +448,11 @@
 	 *Yuxian Gu, Li Dong, Furu Wei, Minlie Huang*
 
 ## Pruning
+- **ShiftAddLLM: Accelerating Pretrained LLMs via Post-Training
+  Multiplication-Less Reparameterization**, `arXiv, 2406.05981`, [arxiv](http://arxiv.org/abs/2406.05981v2), [pdf](http://arxiv.org/pdf/2406.05981v2.pdf), cication: [**-1**](None)
+
+	 *Haoran You, Yipin Guo, Yichao Fu, Wei Zhou, Huihong Shi, Xiaofan Zhang, Souvik Kundu, Amir Yazdanbakhsh, Yingyan, Lin* · ([ShiftAddLLM](https://github.com/GATECH-EIC/ShiftAddLLM) - GATECH-EIC) ![Star](https://img.shields.io/github/stars/GATECH-EIC/ShiftAddLLM.svg?style=social&label=Star)
+
 - **Scalable MatMul-free Language Modeling**, `arXiv, 2406.02528`, [arxiv](http://arxiv.org/abs/2406.02528v1), [pdf](http://arxiv.org/pdf/2406.02528v1.pdf), cication: [**-1**](None)
 
 	 *Rui-Jie Zhu, Yu Zhang, Ethan Sifferman, Tyler Sheaves, Yiqiao Wang, Dustin Richmond, Peng Zhou, Jason K. Eshraghian* · ([matmulfreellm](https://github.com/ridgerchu/matmulfreellm) - ridgerchu) ![Star](https://img.shields.io/github/stars/ridgerchu/matmulfreellm.svg?style=social&label=Star)
@@ -492,6 +497,18 @@
 	 *Shufang Xie, Huishuai Zhang, Junliang Guo, Xu Tan, Jiang Bian, Hany Hassan Awadalla, Arul Menezes, Tao Qin, Rui Yan* · ([ResiDual](https://github.com/microsoft/ResiDual) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/ResiDual.svg?style=social&label=Star)
 
 ## Efficient Inference
+- **PowerInfer-2: Fast Large Language Model Inference on a Smartphone**, `arXiv, 2406.06282`, [arxiv](http://arxiv.org/abs/2406.06282v2), [pdf](http://arxiv.org/pdf/2406.06282v2.pdf), cication: [**-1**](None)
+
+	 *Zhenliang Xue, Yixin Song, Zeyu Mi, Le Chen, Yubin Xia, Haibo Chen*
+- [PowerInfer-2: Fast Large Language Model Inference on a Smartphone | PowerInfer](www.powerinfer.ai/v2)
+- **Talaria: Interactively Optimizing Machine Learning Models for Efficient
+  Inference**, `proceedings of the chi conference on human factors in computing systems, 2024`, [arxiv](http://arxiv.org/abs/2404.03085v1), [pdf](http://arxiv.org/pdf/2404.03085v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=7871074300050378048&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Fred Hohman, Chaoqun Wang, Jinmook Lee, Jochen Görtler, Dominik Moritz, Jeffrey P Bigham, Zhile Ren, Cecile Foret, Qi Shan, Xiaoyi Zhang* · ([machinelearning.apple](https://machinelearning.apple.com/research/talaria?utm_source=ainews&utm_medium=email&utm_campaign=ainews-talaria-apples-new-mlops-superweapon-4066))
+- **Turbo Sparse: Achieving LLM SOTA Performance with Minimal Activated
+  Parameters**, `arXiv, 2406.05955`, [arxiv](http://arxiv.org/abs/2406.05955v2), [pdf](http://arxiv.org/pdf/2406.05955v2.pdf), cication: [**-1**](None)
+
+	 *Yixin Song, Haotong Xie, Zhengyan Zhang, Bo Wen, Li Ma, Zeyu Mi, Haibo Chen* · ([huggingface](https://huggingface.co/PowerInfer))
 - **Parrot: Efficient Serving of LLM-based Applications with Semantic
   Variable**, `arXiv, 2405.19888`, [arxiv](http://arxiv.org/abs/2405.19888v1), [pdf](http://arxiv.org/pdf/2405.19888v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=9249664411081274625&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 

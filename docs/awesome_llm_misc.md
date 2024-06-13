@@ -299,6 +299,13 @@
 	 *Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers*
 
 ## State Space Model
+- **Samba: Simple Hybrid State Space Models for Efficient Unlimited Context
+  Language Modeling**, `arXiv, 2406.07522`, [arxiv](http://arxiv.org/abs/2406.07522v1), [pdf](http://arxiv.org/pdf/2406.07522v1.pdf), cication: [**-1**](None)
+
+	 *Liliang Ren, Yang Liu, Yadong Lu, Yelong Shen, Chen Liang, Weizhu Chen*
+- **An Empirical Study of Mamba-based Language Models**, `arXiv, 2406.07887`, [arxiv](http://arxiv.org/abs/2406.07887v1), [pdf](http://arxiv.org/pdf/2406.07887v1.pdf), cication: [**-1**](None)
+
+	 *Roger Waleffe, Wonmin Byeon, Duncan Riach, Brandon Norick, Vijay Korthikanti, Tri Dao, Albert Gu, Ali Hatamizadeh, Sudhakar Singh, Deepak Narayanan*
 - **Transformers are SSMs: Generalized Models and Efficient Algorithms
   Through Structured State Space Duality**, `arXiv, 2405.21060`, [arxiv](http://arxiv.org/abs/2405.21060v1), [pdf](http://arxiv.org/pdf/2405.21060v1.pdf), cication: [**-1**](None)
 
@@ -362,6 +369,9 @@
 - [Mamba: Linear-Time Sequence Modeling with Selective State Spaces (Paper Explained) - YouTube](https://www.youtube.com/watch?v=9dSkvxS2EB0&ab_channel=YannicKilcher)
 
 ## New model
+- **Simple and Effective Masked Diffusion Language Models**, `arXiv, 2406.07524`, [arxiv](http://arxiv.org/abs/2406.07524v1), [pdf](http://arxiv.org/pdf/2406.07524v1.pdf), cication: [**-1**](None)
+
+	 *Subham Sekhar Sahoo, Marianne Arriola, Yair Schiff, Aaron Gokaslan, Edgar Marroquin, Justin T Chiu, Alexander Rush, Volodymyr Kuleshov* · ([mdlm](https://github.com/kuleshov-group/mdlm) - kuleshov-group) ![Star](https://img.shields.io/github/stars/kuleshov-group/mdlm.svg?style=social&label=Star)
 - **A Unified Implicit Attention Formulation for Gated-Linear Recurrent
   Sequence Models**, `arXiv, 2405.16504`, [arxiv](http://arxiv.org/abs/2405.16504v1), [pdf](http://arxiv.org/pdf/2405.16504v1.pdf), cication: [**-1**](None)
 

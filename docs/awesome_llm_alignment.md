@@ -35,10 +35,9 @@
 	 *Yufei Wang, Wanjun Zhong, Liangyou Li, Fei Mi, Xingshan Zeng, Wenyong Huang, Lifeng Shang, Xin Jiang, Qun Liu* · ([AlignLLMHumanSurvey](https://github.com/GaryYufei/AlignLLMHumanSurvey) - GaryYufei) ![Star](https://img.shields.io/github/stars/GaryYufei/AlignLLMHumanSurvey.svg?style=social&label=Star)
 
 ## Paper & Projects
-- **Step-aware Preference Optimization: Aligning Preference with Denoising
-  Performance at Each Step**, `arXiv, 2406.04314`, [arxiv](http://arxiv.org/abs/2406.04314v1), [pdf](http://arxiv.org/pdf/2406.04314v1.pdf), cication: [**-1**](None)
+- **Creativity Has Left the Chat: The Price of Debiasing Language Models**, `arXiv, 2406.05587`, [arxiv](http://arxiv.org/abs/2406.05587v1), [pdf](http://arxiv.org/pdf/2406.05587v1.pdf), cication: [**-1**](None)
 
-	 *Zhanhao Liang, Yuhui Yuan, Shuyang Gu, Bohan Chen, Tiankai Hang, Ji Li, Liang Zheng* · ([rockeycoss.github](https://rockeycoss.github.io/spo.github.io/))
+	 *Behnam Mohammadi*
 - **Scaling Laws for Reward Model Overoptimization in Direct Alignment
   Algorithms**, `arXiv, 2406.02900`, [arxiv](http://arxiv.org/abs/2406.02900v1), [pdf](http://arxiv.org/pdf/2406.02900v1.pdf), cication: [**-1**](None)
 
@@ -541,7 +540,8 @@
 - [**tril**](https://github.com/cornell-rl/tril) - cornell-rl ![Star](https://img.shields.io/github/stars/cornell-rl/tril.svg?style=social&label=Star)
 
 ## Other
-- [Fetching Title#c2rd](https://www.youtube.com/channel/UCCS4pukb_YnXdt40tptbCeg)
+- [Putting RL back in RLHF](https://huggingface.co/blog/putting_rl_back_in_rlhf_with_rloo)
+- [youtube.com/channel/UCCS4pukb\_YnXdt40tptbCeg](https://www.youtube.com/channel/UCCS4pukb_YnXdt40tptbCeg)
 - [History of Open Alignment](https://magnetic-share-282.notion.site/History-of-Open-Alignment-a7ef20aefb34438185336df68147809e)
 - [Alignment Guidebook](https://www.notion.so/Alignment-Guidebook-e5c64df77c0a4b528b7951e87337fa78)
 - [Constitutional AI with Open LLMs](https://huggingface.co/blog/constitutional_ai)

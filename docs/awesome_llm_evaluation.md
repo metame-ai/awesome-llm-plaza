@@ -506,7 +506,10 @@
 	 *Lianmin Zheng, Wei-Lin Chiang, Ying Sheng, Siyuan Zhuang, Zhanghao Wu, Yonghao Zhuang, Zi Lin, Zhuohan Li, Dacheng Li, Eric. P Xing*
 
 ## Projects
-- [Fetching Title#sigq](https://huggingface.co/spaces/DontPlanToEnd/UGI-Leaderboard?utm_source=ainews&utm_medium=email&utm_campaign=ainews-5-small-news-items)
+- [Fetching Title#wy2t](https://livebench.ai/#)
+
+	 · ([livebench](https://github.com/livebench/livebench) - livebench) ![Star](https://img.shields.io/github/stars/livebench/livebench.svg?style=social&label=Star)
+- [Fetching Title#knp6](https://huggingface.co/spaces/DontPlanToEnd/UGI-Leaderboard?utm_source=ainews&utm_medium=email&utm_campaign=ainews-5-small-news-items)
 - [SEAL leaderboards](https://scale.com/leaderboard)
 
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s/s0YWofC2wJr02EzeyW2a8g))
