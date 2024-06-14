@@ -229,6 +229,9 @@
 	 *Greg Serapio-García, Mustafa Safdari, Clément Crepy, Luning Sun, Stephen Fitz, Peter Romero, Marwa Abdulhai, Aleksandra Faust, Maja Matarić*
 
 ## World Model
+- **Cognitively Inspired Energy-Based World Models**, `arXiv, 2406.08862`, [arxiv](http://arxiv.org/abs/2406.08862v1), [pdf](http://arxiv.org/pdf/2406.08862v1.pdf), cication: [**-1**](None)
+
+	 *Alexi Gladstone, Ganesh Nanduru, Md Mofijul Islam, Aman Chadha, Jundong Li, Tariq Iqbal*
 - [**Pandora**](https://github.com/maitrix-org/Pandora?tab=readme-ov-file) - maitrix-org ![Star](https://img.shields.io/github/stars/maitrix-org/Pandora.svg?style=social&label=Star)
 
 	 *Pandora: Towards General World Model with Natural Language Actions and Video States* · ([world-model.maitrix](https://world-model.maitrix.org/))
@@ -493,6 +496,7 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652345558&idx=4&sn=95686435d5cad05d44cbe02bc26d6859))
 
 ## Interpretability 
+- [Site Unreachable](https://www.youtube.com/watch?v=sQar5NNGbw4&ab_channel=Anthropic)
 - **Large Language Model Confidence Estimation via Black-Box Access**, `arXiv, 2406.04370`, [arxiv](http://arxiv.org/abs/2406.04370v1), [pdf](http://arxiv.org/pdf/2406.04370v1.pdf), cication: [**-1**](None)
 
 	 *Tejaswini Pedapati, Amit Dhurandhar, Soumya Ghosh, Soham Dan, Prasanna Sattigeri*

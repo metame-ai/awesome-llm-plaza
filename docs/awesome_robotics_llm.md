@@ -12,6 +12,9 @@
 	 *Yeseung Kim, Dohyun Kim, Jieun Choi, Jisang Park, Nayoung Oh, Daehyung Park*
 
 ## Papers
+- **OpenVLA: An Open-Source Vision-Language-Action Model**, `arXiv, 2406.09246`, [arxiv](http://arxiv.org/abs/2406.09246v1), [pdf](http://arxiv.org/pdf/2406.09246v1.pdf), cication: [**-1**](None)
+
+	 *Moo Jin Kim, Karl Pertsch, Siddharth Karamcheti, Ted Xiao, Ashwin Balakrishna, Suraj Nair, Rafael Rafailov, Ethan Foster, Grace Lam, Pannag Sanketi* · ([openvla.github](https://openvla.github.io/)) · ([openvla](https://github.com/openvla/openvla) - openvla) ![Star](https://img.shields.io/github/stars/openvla/openvla.svg?style=social&label=Star)
 - **Octo: An Open-Source Generalist Robot Policy**, `arXiv, 2405.12213`, [arxiv](http://arxiv.org/abs/2405.12213v1), [pdf](http://arxiv.org/pdf/2405.12213v1.pdf), cication: [**26**](https://scholar.google.com/scholar?cites=577688306634111052&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Octo Model Team, Dibya Ghosh, Homer Walke, Karl Pertsch, Kevin Black, Oier Mees, Sudeep Dasari, Joey Hejna, Tobias Kreiman, Charles Xu* · ([octo-models.github](https://octo-models.github.io/)) · ([octo](https://github.com/octo-models/octo) - octo-models) ![Star](https://img.shields.io/github/stars/octo-models/octo.svg?style=social&label=Star)

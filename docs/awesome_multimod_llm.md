@@ -40,6 +40,10 @@
 
 ## Vision
 ### Vision Encoder
+- **An Image is Worth More Than 16x16 Patches: Exploring Transformers on
+  Individual Pixels**, `arXiv, 2406.09415`, [arxiv](http://arxiv.org/abs/2406.09415v1), [pdf](http://arxiv.org/pdf/2406.09415v1.pdf), cication: [**-1**](None)
+
+	 *Duy-Kien Nguyen, Mahmoud Assran, Unnat Jain, Martin R. Oswald, Cees G. M. Snoek, Xinlei Chen*
 - **Probing the 3D Awareness of Visual Foundation Models**, `arXiv, 2404.08636`, [arxiv](http://arxiv.org/abs/2404.08636v1), [pdf](http://arxiv.org/pdf/2404.08636v1.pdf), cication: [**-1**](None)
 
 	 *Mohamed El Banani, Amit Raj, Kevis-Kokitsi Maninis, Abhishek Kar, Yuanzhen Li, Michael Rubinstein, Deqing Sun, Leonidas Guibas, Justin Johnson, Varun Jampani* · ([probe3d](https://github.com/mbanani/probe3d) - mbanani) ![Star](https://img.shields.io/github/stars/mbanani/probe3d.svg?style=social&label=Star)
@@ -81,6 +85,10 @@
 	 *Mike Ranzinger, Greg Heinrich, Jan Kautz, Pavlo Molchanov* · ([radio](https://github.com/nvlabs/radio) - nvlabs) ![Star](https://img.shields.io/github/stars/nvlabs/radio.svg?style=social&label=Star)
 
 ### Video
+- **VideoGPT+: Integrating Image and Video Encoders for Enhanced Video
+  Understanding**, `arXiv, 2406.09418`, [arxiv](http://arxiv.org/abs/2406.09418v1), [pdf](http://arxiv.org/pdf/2406.09418v1.pdf), cication: [**-1**](None)
+
+	 *Muhammad Maaz, Hanoona Rasheed, Salman Khan, Fahad Khan* · ([VideoGPT-plus](https://github.com/mbzuai-oryx/VideoGPT-plus) - mbzuai-oryx) ![Star](https://img.shields.io/github/stars/mbzuai-oryx/VideoGPT-plus.svg?style=social&label=Star)
 - **VideoLLaMA 2: Advancing Spatial-Temporal Modeling and Audio
   Understanding in Video-LLMs**, `arXiv, 2406.07476`, [arxiv](http://arxiv.org/abs/2406.07476v1), [pdf](http://arxiv.org/pdf/2406.07476v1.pdf), cication: [**-1**](None)
 
@@ -240,6 +248,9 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
+- **Explore the Limits of Omni-modal Pretraining at Scale**, `arXiv, 2406.09412`, [arxiv](http://arxiv.org/abs/2406.09412v1), [pdf](http://arxiv.org/pdf/2406.09412v1.pdf), cication: [**-1**](None)
+
+	 *Yiyuan Zhang, Handong Li, Jing Liu, Xiangyu Yue* · ([MiCo](https://github.com/invictus717/MiCo) - invictus717) ![Star](https://img.shields.io/github/stars/invictus717/MiCo.svg?style=social&label=Star)
 - [**glm-4v-9b**](https://huggingface.co/THUDM/glm-4v-9b) - THUDM 🤗
 - [**ultravox**](https://github.com/fixie-ai/ultravox) - fixie-ai ![Star](https://img.shields.io/github/stars/fixie-ai/ultravox.svg?style=social&label=Star)
 - **Parrot: Multilingual Visual Instruction Tuning**, `arXiv, 2406.02539`, [arxiv](http://arxiv.org/abs/2406.02539v1), [pdf](http://arxiv.org/pdf/2406.02539v1.pdf), cication: [**-1**](None)
@@ -1194,6 +1205,10 @@
 
 	 *Zhengfeng Lai, Haotian Zhang, Bowen Zhang, Wentao Wu, Haoping Bai, Aleksei Timofeev, Xianzhi Du, Zhe Gan, Jiulong Shan, Chen-Nee Chuah* · ([ml-veclip](https://github.com/apple/ml-veclip) - apple) ![Star](https://img.shields.io/github/stars/apple/ml-veclip.svg?style=social&label=Star)
 ## Reasoning 
+- **Visual Sketchpad: Sketching as a Visual Chain of Thought for Multimodal
+  Language Models**, `arXiv, 2406.09403`, [arxiv](http://arxiv.org/abs/2406.09403v1), [pdf](http://arxiv.org/pdf/2406.09403v1.pdf), cication: [**-1**](None)
+
+	 *Yushi Hu, Weijia Shi, Xingyu Fu, Dan Roth, Mari Ostendorf, Luke Zettlemoyer, Noah A Smith, Ranjay Krishna* · ([visualsketchpad.github](https://visualsketchpad.github.io/))
 - **Cantor: Inspiring Multimodal Chain-of-Thought of MLLM**, `arXiv, 2404.16033`, [arxiv](http://arxiv.org/abs/2404.16033v1), [pdf](http://arxiv.org/pdf/2404.16033v1.pdf), cication: [**-1**](None)
 
 	 *Timin Gao, Peixian Chen, Mengdan Zhang, Chaoyou Fu, Yunhang Shen, Yan Zhang, Shengchuan Zhang, Xiawu Zheng, Xing Sun, Liujuan Cao* · ([ggg0919.github](https://ggg0919.github.io/cantor/))
@@ -1438,6 +1453,10 @@
 	 *Yuliang Liu, Zhang Li, Biao Yang, Chunyuan Li, Xucheng Yin, Cheng-lin Liu, Lianwen Jin, Xiang Bai* · ([MultimodalOCR](https://github.com/Yuliang-Liu/MultimodalOCR) - Yuliang-Liu) ![Star](https://img.shields.io/github/stars/Yuliang-Liu/MultimodalOCR.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652442102&idx=4&sn=64a53646c57797a00b9db186f339c5eb))
 
 ## Datasets
+- **OmniCorpus: An Unified Multimodal Corpus of 10 Billion-Level Images
+  Interleaved with Text**, `arXiv, 2406.08418`, [arxiv](http://arxiv.org/abs/2406.08418v1), [pdf](http://arxiv.org/pdf/2406.08418v1.pdf), cication: [**-1**](None)
+
+	 *Qingyun Li, Zhe Chen, Weiyun Wang, Wenhai Wang, Shenglong Ye, Zhenjiang Jin, Guanzhou Chen, Yinan He, Zhangwei Gao, Erfei Cui* · ([OmniCorpus](https://github.com/OpenGVLab/OmniCorpus) - OpenGVLab) ![Star](https://img.shields.io/github/stars/OpenGVLab/OmniCorpus.svg?style=social&label=Star)
 - **Vript: A Video Is Worth Thousands of Words**, `arXiv, 2406.06040`, [arxiv](http://arxiv.org/abs/2406.06040v1), [pdf](http://arxiv.org/pdf/2406.06040v1.pdf), cication: [**-1**](None)
 
 	 *Dongjie Yang, Suyuan Huang, Chengqiang Lu, Xiaodong Han, Haoxin Zhang, Yan Gao, Yao Hu, Hai Zhao* · ([Vript](https://github.com/mutonix/Vript) - mutonix) ![Star](https://img.shields.io/github/stars/mutonix/Vript.svg?style=social&label=Star)

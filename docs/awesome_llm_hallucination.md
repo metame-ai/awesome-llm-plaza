@@ -33,6 +33,12 @@
 	 *Cunxiang Wang, Xiaoze Liu, Yuanhao Yue, Xiangru Tang, Tianhang Zhang, Cheng Jiayang, Yunzhi Yao, Wenyang Gao, Xuming Hu, Zehan Qi* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-19-2))
 
 ## Papers
+- [**Lamini-Memory-Tuning**](https://github.com/lamini-ai/Lamini-Memory-Tuning/tree/main) - lamini-ai ![Star](https://img.shields.io/github/stars/lamini-ai/Lamini-Memory-Tuning.svg?style=social&label=Star)
+
+	 *Banishing LLM Hallucinations Requires Rethinking Generalization* · ([huggingface](https://huggingface.co/engineering-lamini/lamini-1-random))
+- **To Believe or Not to Believe Your LLM**, `arXiv, 2406.02543`, [arxiv](http://arxiv.org/abs/2406.02543v1), [pdf](http://arxiv.org/pdf/2406.02543v1.pdf), cication: [**-1**](None)
+
+	 *Yasin Abbasi Yadkori, Ilja Kuzborskij, András György, Csaba Szepesvári*
 - **Does Fine-Tuning LLMs on New Knowledge Encourage Hallucinations?**, `arXiv, 2405.05904`, [arxiv](http://arxiv.org/abs/2405.05904v1), [pdf](http://arxiv.org/pdf/2405.05904v1.pdf), cication: [**-1**](None)
 
 	 *Zorik Gekhman, Gal Yona, Roee Aharoni, Matan Eyal, Amir Feder, Roi Reichart, Jonathan Herzig*

@@ -254,6 +254,22 @@
 	 *Timo Kaufmann, Paul Weng, Viktor Bengs, Eyke Hüllermeier*
 
 ## Papers
+- **Mistral-C2F: Coarse to Fine Actor for Analytical and Reasoning
+  Enhancement in RLHF and Effective-Merged LLMs**, `arXiv, 2406.08657`, [arxiv](http://arxiv.org/abs/2406.08657v1), [pdf](http://arxiv.org/pdf/2406.08657v1.pdf), cication: [**-1**](None)
+
+	 *Chen Zheng, Ke Sun, Xun Zhou*
+- **HelpSteer2: Open-source dataset for training top-performing reward
+  models**, `arXiv, 2406.08673`, [arxiv](http://arxiv.org/abs/2406.08673v1), [pdf](http://arxiv.org/pdf/2406.08673v1.pdf), cication: [**-1**](None)
+
+	 *Zhilin Wang, Yi Dong, Olivier Delalleau, Jiaqi Zeng, Gerald Shen, Daniel Egert, Jimmy J. Zhang, Makesh Narsimhan Sreedhar, Oleksii Kuchaiev* · ([NeMo-Aligner](https://github.com/NVIDIA/NeMo-Aligner) - NVIDIA) ![Star](https://img.shields.io/github/stars/NVIDIA/NeMo-Aligner.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/datasets/nvidia/HelpSteer2))
+- **Unpacking DPO and PPO: Disentangling Best Practices for Learning from
+  Preference Feedback**, `arXiv, 2406.09279`, [arxiv](http://arxiv.org/abs/2406.09279v1), [pdf](http://arxiv.org/pdf/2406.09279v1.pdf), cication: [**-1**](None)
+
+	 *Hamish Ivison, Yizhong Wang, Jiacheng Liu, Zeqiu Wu, Valentina Pyatkin, Nathan Lambert, Noah A. Smith, Yejin Choi, Hannaneh Hajishirzi* · ([EasyLM](https://github.com/hamishivi/EasyLM) - hamishivi) ![Star](https://img.shields.io/github/stars/hamishivi/EasyLM.svg?style=social&label=Star)
+- **Discovering Preference Optimization Algorithms with and for Large
+  Language Models**, `arXiv, 2406.08414`, [arxiv](http://arxiv.org/abs/2406.08414v1), [pdf](http://arxiv.org/pdf/2406.08414v1.pdf), cication: [**-1**](None)
+
+	 *Chris Lu, Samuel Holt, Claudio Fanconi, Alex J. Chan, Jakob Foerster, Mihaela van der Schaar, Robert Tjarko Lange* · ([DiscoPOP](https://github.com/SakanaAI/DiscoPOP) - SakanaAI) ![Star](https://img.shields.io/github/stars/SakanaAI/DiscoPOP.svg?style=social&label=Star)
 - **Self-Exploring Language Models: Active Preference Elicitation for Online
   Alignment**, `arXiv, 2405.19332`, [arxiv](http://arxiv.org/abs/2405.19332v1), [pdf](http://arxiv.org/pdf/2405.19332v1.pdf), cication: [**-1**](None)
 

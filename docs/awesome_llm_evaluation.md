@@ -28,6 +28,17 @@
 	 *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang*
 
 ## Papers
+- **Language Model Council: Benchmarking Foundation Models on Highly
+  Subjective Tasks by Consensus**, `arXiv, 2406.08598`, [arxiv](http://arxiv.org/abs/2406.08598v1), [pdf](http://arxiv.org/pdf/2406.08598v1.pdf), cication: [**-1**](None)
+
+	 *Justin Zhao, Flor Miriam Plaza-del-Arco, Amanda Cercas Curry*
+- **CS-Bench: A Comprehensive Benchmark for Large Language Models towards
+  Computer Science Mastery**, `arXiv, 2406.08587`, [arxiv](http://arxiv.org/abs/2406.08587v1), [pdf](http://arxiv.org/pdf/2406.08587v1.pdf), cication: [**-1**](None)
+
+	 *Xiaoshuai Song, Muxi Diao, Guanting Dong, Zhengyang Wang, Yujia Fu, Runqi Qiao, Zhexu Wang, Dayuan Fu, Huangxuan Wu, Bin Liang* · ([csbench](https://github.com/csbench/csbench) - csbench) ![Star](https://img.shields.io/github/stars/csbench/csbench.svg?style=social&label=Star)
+- **Test of Time: A Benchmark for Evaluating LLMs on Temporal Reasoning**, `arXiv, 2406.09170`, [arxiv](http://arxiv.org/abs/2406.09170v1), [pdf](http://arxiv.org/pdf/2406.09170v1.pdf), cication: [**-1**](None)
+
+	 *Bahare Fatemi, Mehran Kazemi, Anton Tsitsulin, Karishma Malkan, Jinyeong Yim, John Palowitch, Sungyong Seo, Jonathan Halcrow, Bryan Perozzi*
 - **GenAI Arena: An Open Evaluation Platform for Generative Models**, `arXiv, 2406.04485`, [arxiv](http://arxiv.org/abs/2406.04485v1), [pdf](http://arxiv.org/pdf/2406.04485v1.pdf), cication: [**-1**](None)
 
 	 *Dongfu Jiang, Max Ku, Tianle Li, Yuansheng Ni, Shizhuo Sun, Rongqi Fan, Wenhu Chen*
@@ -506,10 +517,13 @@
 	 *Lianmin Zheng, Wei-Lin Chiang, Ying Sheng, Siyuan Zhuang, Zhanghao Wu, Yonghao Zhuang, Zi Lin, Zhuohan Li, Dacheng Li, Eric. P Xing*
 
 ## Projects
-- [Fetching Title#wy2t](https://livebench.ai/#)
+- [**ARC-AGI**](https://github.com/fchollet/ARC-AGI) - fchollet ![Star](https://img.shields.io/github/stars/fchollet/ARC-AGI.svg?style=social&label=Star)
+
+	 *The Abstraction and Reasoning Corpus*
+- [livebench](https://livebench.ai/#)
 
 	 · ([livebench](https://github.com/livebench/livebench) - livebench) ![Star](https://img.shields.io/github/stars/livebench/livebench.svg?style=social&label=Star)
-- [Fetching Title#knp6](https://huggingface.co/spaces/DontPlanToEnd/UGI-Leaderboard?utm_source=ainews&utm_medium=email&utm_campaign=ainews-5-small-news-items)
+- [**UGI-Leaderboard**](https://huggingface.co/spaces/DontPlanToEnd/UGI-Leaderboard) - DontPlanToEnd 🤗
 - [SEAL leaderboards](https://scale.com/leaderboard)
 
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s/s0YWofC2wJr02EzeyW2a8g))
