@@ -1357,6 +1357,16 @@
 - [**BakLLaVA-1**](https://huggingface.co/SkunkworksAI/BakLLaVA-1) - SkunkworksAI 🤗
 
 ## Evaluation
+- **Needle In A Multimodal Haystack**, `arXiv, 2406.07230`, [arxiv](http://arxiv.org/abs/2406.07230v1), [pdf](http://arxiv.org/pdf/2406.07230v1.pdf), cication: [**-1**](None)
+
+	 *Weiyun Wang, Shuibo Zhang, Yiming Ren, Yuchen Duan, Tiantong Li, Shuo Liu, Mengkang Hu, Zhe Chen, Kaipeng Zhang, Lewei Lu*
+- **DocGenome: An Open Large-scale Scientific Document Benchmark for
+  Training and Testing Multi-modal Large Language Models**, `arXiv, 2406.11633`, [arxiv](http://arxiv.org/abs/2406.11633v1), [pdf](http://arxiv.org/pdf/2406.11633v1.pdf), cication: [**-1**](None)
+
+	 *Renqiu Xia, Song Mao, Xiangchao Yan, Hongbin Zhou, Bo Zhang, Haoyang Peng, Jiahao Pi, Daocheng Fu, Wenjie Wu, Hancheng Ye* · ([unimodal4reasoning.github](https://unimodal4reasoning.github.io/DocGenome_page))
+- **VideoGUI: A Benchmark for GUI Automation from Instructional Videos**, `arXiv, 2406.10227`, [arxiv](http://arxiv.org/abs/2406.10227v1), [pdf](http://arxiv.org/pdf/2406.10227v1.pdf), cication: [**-1**](None)
+
+	 *Kevin Qinghong Lin, Linjie Li, Difei Gao, Qinchen WU, Mingyi Yan, Zhengyuan Yang, Lijuan Wang, Mike Zheng Shou* · ([showlab.github](https://showlab.github.io/videogui/)) · ([videogui](https://github.com/showlab/videogui) - showlab) ![Star](https://img.shields.io/github/stars/showlab/videogui.svg?style=social&label=Star)
 - **Video-MME: The First-Ever Comprehensive Evaluation Benchmark of
   Multi-modal LLMs in Video Analysis**, `arXiv, 2405.21075`, [arxiv](http://arxiv.org/abs/2405.21075v1), [pdf](http://arxiv.org/pdf/2405.21075v1.pdf), cication: [**-1**](None)
 
@@ -1453,6 +1463,20 @@
 	 *Yuliang Liu, Zhang Li, Biao Yang, Chunyuan Li, Xucheng Yin, Cheng-lin Liu, Lianwen Jin, Xiang Bai* · ([MultimodalOCR](https://github.com/Yuliang-Liu/MultimodalOCR) - Yuliang-Liu) ![Star](https://img.shields.io/github/stars/Yuliang-Liu/MultimodalOCR.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652442102&idx=4&sn=64a53646c57797a00b9db186f339c5eb))
 
 ## Datasets
+- **GUI Odyssey: A Comprehensive Dataset for Cross-App GUI Navigation on
+  Mobile Devices**, `arXiv, 2406.08451`, [arxiv](http://arxiv.org/abs/2406.08451v1), [pdf](http://arxiv.org/pdf/2406.08451v1.pdf), cication: [**-1**](None)
+
+	 *Quanfeng Lu, Wenqi Shao, Zitao Liu, Fanqing Meng, Boxuan Li, Botong Chen, Siyuan Huang, Kaipeng Zhang, Yu Qiao, Ping Luo* · ([GUI-Odyssey](https://github.com/OpenGVLab/GUI-Odyssey) - OpenGVLab) ![Star](https://img.shields.io/github/stars/OpenGVLab/GUI-Odyssey.svg?style=social&label=Star)
+- **MINT-1T: Scaling Open-Source Multimodal Data by 10x: A Multimodal
+  Dataset with One Trillion Tokens**, `arXiv, 2406.11271`, [arxiv](http://arxiv.org/abs/2406.11271v1), [pdf](http://arxiv.org/pdf/2406.11271v1.pdf), cication: [**-1**](None)
+
+	 *Anas Awadalla, Le Xue, Oscar Lo, Manli Shu, Hannah Lee, Etash Kumar Guha, Matt Jordan, Sheng Shen, Mohamed Awadalla, Silvio Savarese* · ([MINT-1T](https://github.com/mlfoundations/MINT-1T) - mlfoundations) ![Star](https://img.shields.io/github/stars/mlfoundations/MINT-1T.svg?style=social&label=Star)
+- **From Pixels to Prose: A Large Dataset of Dense Image Captions**, `arXiv, 2406.10328`, [arxiv](http://arxiv.org/abs/2406.10328v1), [pdf](http://arxiv.org/pdf/2406.10328v1.pdf), cication: [**-1**](None)
+
+	 *Vasu Singla, Kaiyu Yue, Sukriti Paul, Reza Shirkavand, Mayuka Jayawardhana, Alireza Ganjdanesh, Heng Huang, Abhinav Bhatele, Gowthami Somepalli, Tom Goldstein* · ([huggingface](https://huggingface.co/datasets/tomg-group-umd/pixelprose))
+- **GUI-WORLD: A Dataset for GUI-oriented Multimodal LLM-based Agents**, `arXiv, 2406.10819`, [arxiv](http://arxiv.org/abs/2406.10819v1), [pdf](http://arxiv.org/pdf/2406.10819v1.pdf), cication: [**-1**](None)
+
+	 *Dongping Chen, Yue Huang, Siyuan Wu, Jingyu Tang, Liuyi Chen, Yilin Bai, Zhigang He, Chenlong Wang, Huichi Zhou, Yiqiang Li* · ([gui-world.github](https://gui-world.github.io/)) · ([GUI-World](https://github.com/Dongping-Chen/GUI-World) - Dongping-Chen) ![Star](https://img.shields.io/github/stars/Dongping-Chen/GUI-World.svg?style=social&label=Star)
 - **OmniCorpus: An Unified Multimodal Corpus of 10 Billion-Level Images
   Interleaved with Text**, `arXiv, 2406.08418`, [arxiv](http://arxiv.org/abs/2406.08418v1), [pdf](http://arxiv.org/pdf/2406.08418v1.pdf), cication: [**-1**](None)
 

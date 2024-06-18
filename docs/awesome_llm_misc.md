@@ -229,6 +229,9 @@
 	 *Greg Serapio-García, Mustafa Safdari, Clément Crepy, Luning Sun, Stephen Fitz, Peter Romero, Marwa Abdulhai, Aleksandra Faust, Maja Matarić*
 
 ## World Model
+- **Can Language Models Serve as Text-Based World Simulators?**, `arXiv, 2406.06485`, [arxiv](http://arxiv.org/abs/2406.06485v1), [pdf](http://arxiv.org/pdf/2406.06485v1.pdf), cication: [**-1**](None)
+
+	 *Ruoyao Wang, Graham Todd, Ziang Xiao, Xingdi Yuan, Marc-Alexandre Côté, Peter Clark, Peter Jansen*
 - **Cognitively Inspired Energy-Based World Models**, `arXiv, 2406.08862`, [arxiv](http://arxiv.org/abs/2406.08862v1), [pdf](http://arxiv.org/pdf/2406.08862v1.pdf), cication: [**-1**](None)
 
 	 *Alexi Gladstone, Ganesh Nanduru, Md Mofijul Islam, Aman Chadha, Jundong Li, Tariq Iqbal*
@@ -496,7 +499,12 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652345558&idx=4&sn=95686435d5cad05d44cbe02bc26d6859))
 
 ## Interpretability 
-- [Site Unreachable](https://www.youtube.com/watch?v=sQar5NNGbw4&ab_channel=Anthropic)
+- **How Do Large Language Models Acquire Factual Knowledge During
+  Pretraining?**, `arXiv, 2406.11813`, [arxiv](http://arxiv.org/abs/2406.11813v1), [pdf](http://arxiv.org/pdf/2406.11813v1.pdf), cication: [**-1**](None)
+
+	 *Hoyeon Chang, Jinho Park, Seonghyeon Ye, Sohee Yang, Youngkyung Seo, Du-Seong Chang, Minjoon Seo*
+- [What Do Neural Networks Really Learn? Exploring the Brain of an AI Model - YouTube](https://www.youtube.com/watch?v=jGCvY4gNnA8&ab_channel=RationalAnimations)
+- [Scaling interpretability - YouTube](https://www.youtube.com/watch?v=sQar5NNGbw4&ab_channel=Anthropic)
 - **Large Language Model Confidence Estimation via Black-Box Access**, `arXiv, 2406.04370`, [arxiv](http://arxiv.org/abs/2406.04370v1), [pdf](http://arxiv.org/pdf/2406.04370v1.pdf), cication: [**-1**](None)
 
 	 *Tejaswini Pedapati, Amit Dhurandhar, Soumya Ghosh, Soham Dan, Prasanna Sattigeri*

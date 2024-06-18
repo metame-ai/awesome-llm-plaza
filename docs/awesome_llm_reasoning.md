@@ -433,6 +433,13 @@
 - [大模型Fewshot推理如何选择更好的示例](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495177&idx=2&sn=fe8353efed16a81e35462be06d5a6cea)
 
 ## Math reasoning
+- **ReST-MCTS*: LLM Self-Training via Process Reward Guided Tree Search**, `arXiv, 2406.03816`, [arxiv](http://arxiv.org/abs/2406.03816v1), [pdf](http://arxiv.org/pdf/2406.03816v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=16501772350745075519&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Dan Zhang, Sining Zhoubian, Yisong Yue, Yuxiao Dong, Jie Tang*
+- **Accessing GPT-4 level Mathematical Olympiad Solutions via Monte Carlo
+  Tree Self-refine with LLaMa-3 8B**, `arXiv, 2406.07394`, [arxiv](http://arxiv.org/abs/2406.07394v2), [pdf](http://arxiv.org/pdf/2406.07394v2.pdf), cication: [**-1**](None)
+
+	 *Di Zhang, Xiaoshui Huang, Dongzhan Zhou, Yuqiang Li, Wanli Ouyang*
 - **Improve Mathematical Reasoning in Language Models by Automated Process
   Supervision**, `arXiv, 2406.06592`, [arxiv](http://arxiv.org/abs/2406.06592v1), [pdf](http://arxiv.org/pdf/2406.06592v1.pdf), cication: [**-1**](None)
 

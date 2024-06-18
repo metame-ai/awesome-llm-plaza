@@ -26,6 +26,9 @@
 	 *Ziyin Zhang, Chaoyu Chen, Bingchang Liu, Cong Liao, Zi Gong, Hang Yu, Jianguo Li, Rui Wang*
 
 ## Paper
+- [**DeepSeek-Coder-V2**](https://github.com/deepseek-ai/DeepSeek-Coder-V2/tree/main) - deepseek-ai ![Star](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-Coder-V2.svg?style=social&label=Star)
+
+	 · ([DeepSeek-Coder-V2](https://github.com/deepseek-ai/DeepSeek-Coder-V2/blob/main/paper.pdf) - deepseek-ai) ![Star](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-Coder-V2.svg?style=social&label=Star)
 - **McEval: Massively Multilingual Code Evaluation**, `arXiv, 2406.07436`, [arxiv](http://arxiv.org/abs/2406.07436v1), [pdf](http://arxiv.org/pdf/2406.07436v1.pdf), cication: [**-1**](None)
 
 	 *Linzheng Chai, Shukai Liu, Jian Yang, Yuwei Yin, Ke Jin, Jiaheng Liu, Tao Sun, Ge Zhang, Changyu Ren, Hongcheng Guo* · ([mceval.github](https://mceval.github.io/))
@@ -336,6 +339,7 @@
 	 · [intercode-benchmark.github](https://intercode-benchmark.github.io/)
 
 ## Projects
+- [BigCodeBench: Benchmarking Large Language Models on Solving Practical and Challenging Programming Tasks](https://huggingface.co/blog/leaderboard-bigcodebench)
 - [Codestral: Hello, World! | Mistral AI | Frontier AI in your hands](https://mistral.ai/news/codestral/)
 
 	 · ([huggingface](https://huggingface.co/mistralai/Codestral-22B-v0.1))

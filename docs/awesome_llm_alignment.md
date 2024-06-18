@@ -254,6 +254,10 @@
 	 *Timo Kaufmann, Paul Weng, Viktor Bengs, Eyke Hüllermeier*
 
 ## Papers
+- **Sycophancy to Subterfuge: Investigating Reward-Tampering in Large
+  Language Models**, `arXiv, 2406.10162`, [arxiv](http://arxiv.org/abs/2406.10162v2), [pdf](http://arxiv.org/pdf/2406.10162v2.pdf), cication: [**-1**](None)
+
+	 *Carson Denison, Monte MacDiarmid, Fazl Barez, David Duvenaud, Shauna Kravec, Samuel Marks, Nicholas Schiefer, Ryan Soklaski, Alex Tamkin, Jared Kaplan*
 - **Mistral-C2F: Coarse to Fine Actor for Analytical and Reasoning
   Enhancement in RLHF and Effective-Merged LLMs**, `arXiv, 2406.08657`, [arxiv](http://arxiv.org/abs/2406.08657v1), [pdf](http://arxiv.org/pdf/2406.08657v1.pdf), cication: [**-1**](None)
 
@@ -543,6 +547,8 @@
 
 	 *Nisan Stiennon, Long Ouyang, Jeff Wu, Daniel M. Ziegler, Ryan Lowe, Chelsea Voss, Alec Radford, Dario Amodei, Paul Christiano*
 ## Projects
+- [Fetching Title#irv0](https://huggingface.co/datasets/nvidia/HelpSteer2)
+- [Fetching Title#uj49](https://huggingface.co/nvidia/Llama3-70B-SteerLM-RM)
 - [**PairRM**](https://huggingface.co/llm-blender/PairRM) - llm-blender 🤗
 - [**OpenRLHF**](https://github.com/OpenLLMAI/OpenRLHF) - OpenLLMAI ![Star](https://img.shields.io/github/stars/OpenLLMAI/OpenRLHF.svg?style=social&label=Star)
 

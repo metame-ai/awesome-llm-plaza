@@ -38,6 +38,13 @@
 # English
 
 ## Foundation
+- **GEB-1.3B: Open Lightweight Large Language Model**, `arXiv, 2406.09900`, [arxiv](http://arxiv.org/abs/2406.09900v1), [pdf](http://arxiv.org/pdf/2406.09900v1.pdf), cication: [**-1**](None)
+
+	 *Jie Wu, Yufeng Zhu, Lei Shen, Xuqing Lu*
+- [NVIDIA Releases Open Synthetic Data Generation Pipeline for Training Large Language Models | NVIDIA Blog](https://blogs.nvidia.com/blog/nemotron-4-synthetic-data-generation-llm-training/)
+
+	 · ([research.nvidia](https://research.nvidia.com/publication/2024-06_nemotron-4-340b))
+- [**Nemotron-4-340B-Instruct**](https://huggingface.co/nvidia/Nemotron-4-340B-Instruct) - nvidia 🤗
 - [**WizardLM-2-8x22B**](https://huggingface.co/alpindale/WizardLM-2-8x22B) - alpindale 🤗
 
 	 · ([wizardlm.github](https://wizardlm.github.io/WizardLM2/)) · ([WizardLM](https://github.com/victorsungo/WizardLM/tree/main/WizardLM-2) - victorsungo) ![Star](https://img.shields.io/github/stars/victorsungo/WizardLM.svg?style=social&label=Star)

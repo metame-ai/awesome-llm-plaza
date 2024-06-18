@@ -97,6 +97,9 @@
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-18-4))
 ## Agents
+- **GUICourse: From General Vision Language Models to Versatile GUI Agents**, `arXiv, 2406.11317`, [arxiv](http://arxiv.org/abs/2406.11317v1), [pdf](http://arxiv.org/pdf/2406.11317v1.pdf), cication: [**-1**](None)
+
+	 *Wentong Chen, Junbo Cui, Jinyi Hu, Yujia Qin, Junjie Fang, Yue Zhao, Chongyi Wang, Jun Liu, Guirong Chen, Yupeng Huo* · ([GUICourse](https://github.com/yiye3/GUICourse) - yiye3) ![Star](https://img.shields.io/github/stars/yiye3/GUICourse.svg?style=social&label=Star)
 - **Mixture-of-Agents Enhances Large Language Model Capabilities**, `arXiv, 2406.04692`, [arxiv](http://arxiv.org/abs/2406.04692v1), [pdf](http://arxiv.org/pdf/2406.04692v1.pdf), cication: [**-1**](None)
 
 	 *Junlin Wang, Jue Wang, Ben Athiwaratkun, Ce Zhang, James Zou*

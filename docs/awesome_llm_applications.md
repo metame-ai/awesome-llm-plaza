@@ -611,6 +611,9 @@
 	 *RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models*
 
 ## Chat bots
+- **Designing a Dashboard for Transparency and Control of Conversational AI**, `arXiv, 2406.07882`, [arxiv](http://arxiv.org/abs/2406.07882v2), [pdf](http://arxiv.org/pdf/2406.07882v2.pdf), cication: [**-1**](None)
+
+	 *Yida Chen, Aoyu Wu, Trevor DePodesta, Catherine Yeh, Kenneth Li, Nicholas Castillo Marin, Oam Patel, Jan Riecke, Shivam Raval, Olivia Seow*
 - [**alloy-voice-assistant**](https://github.com/svpino/alloy-voice-assistant) - svpino ![Star](https://img.shields.io/github/stars/svpino/alloy-voice-assistant.svg?style=social&label=Star)
 - [**bilibot**](https://github.com/linyiLYi/bilibot?tab=readme-ov-file) - linyiLYi ![Star](https://img.shields.io/github/stars/linyiLYi/bilibot.svg?style=social&label=Star)
 

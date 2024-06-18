@@ -28,6 +28,14 @@
 	 *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang*
 
 ## Papers
+- **BABILong: Testing the Limits of LLMs with Long Context
+  Reasoning-in-a-Haystack**, `arXiv, 2406.10149`, [arxiv](http://arxiv.org/abs/2406.10149v1), [pdf](http://arxiv.org/pdf/2406.10149v1.pdf), cication: [**-1**](None)
+
+	 *Yuri Kuratov, Aydar Bulatov, Petr Anokhin, Ivan Rodkin, Dmitry Sorokin, Artyom Sorokin, Mikhail Burtsev* · ([babilong](https://github.com/booydar/babilong) - booydar) ![Star](https://img.shields.io/github/stars/booydar/babilong.svg?style=social&label=Star)
+- **ChartMimic: Evaluating LMM's Cross-Modal Reasoning Capability via
+  Chart-to-Code Generation**, `arXiv, 2406.09961`, [arxiv](http://arxiv.org/abs/2406.09961v1), [pdf](http://arxiv.org/pdf/2406.09961v1.pdf), cication: [**-1**](None)
+
+	 *Chufan Shi, Cheng Yang, Yaxin Liu, Bo Shui, Junjie Wang, Mohan Jing, Linran Xu, Xinyu Zhu, Siheng Li, Yuxiang Zhang*
 - **Language Model Council: Benchmarking Foundation Models on Highly
   Subjective Tasks by Consensus**, `arXiv, 2406.08598`, [arxiv](http://arxiv.org/abs/2406.08598v1), [pdf](http://arxiv.org/pdf/2406.08598v1.pdf), cication: [**-1**](None)
 
@@ -517,6 +525,7 @@
 	 *Lianmin Zheng, Wei-Lin Chiang, Ying Sheng, Siyuan Zhuang, Zhanghao Wu, Yonghao Zhuang, Zi Lin, Zhuohan Li, Dacheng Li, Eric. P Xing*
 
 ## Projects
+- [BigCodeBench: Benchmarking Large Language Models on Solving Practical and Challenging Programming Tasks](https://huggingface.co/blog/leaderboard-bigcodebench)
 - [**ARC-AGI**](https://github.com/fchollet/ARC-AGI) - fchollet ![Star](https://img.shields.io/github/stars/fchollet/ARC-AGI.svg?style=social&label=Star)
 
 	 *The Abstraction and Reasoning Corpus*

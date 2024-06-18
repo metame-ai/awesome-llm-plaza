@@ -308,6 +308,10 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652375732&idx=2&sn=1cb4cefcd791af2a6ffacdf99e35225c))
 
 ## Optimization
+- **Be like a Goldfish, Don't Memorize! Mitigating Memorization in
+  Generative LLMs**, `arXiv, 2406.10209`, [arxiv](http://arxiv.org/abs/2406.10209v1), [pdf](http://arxiv.org/pdf/2406.10209v1.pdf), cication: [**-1**](None)
+
+	 *Abhimanyu Hans, Yuxin Wen, Neel Jain, John Kirchenbauer, Hamid Kazemi, Prajwal Singhania, Siddharth Singh, Gowthami Somepalli, Jonas Geiping, Abhinav Bhatele* · ([goldfish-loss](https://github.com/ahans30/goldfish-loss) - ahans30) ![Star](https://img.shields.io/github/stars/ahans30/goldfish-loss.svg?style=social&label=Star)
 - **2BP: 2-Stage Backpropagation**, `arXiv, 2405.18047`, [arxiv](http://arxiv.org/abs/2405.18047v1), [pdf](http://arxiv.org/pdf/2405.18047v1.pdf), cication: [**-1**](None)
 
 	 *Christopher Rae, Joseph K. L. Lee, James Richings*
@@ -619,6 +623,7 @@
 - [Zero 论文精读【论文精读】\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1tY411g7ZT/?spm_id_from=333.788&vd_source=1453a06a1e0b377f5c40946333b4423a)
 
 ## Other
+- [**deepspeed-to-fsdp-and-back**](https://huggingface.co/blog/deepspeed-to-fsdp-and-back) -  🤗
 - [Training great LLMs entirely from ground zero in the wilderness as a startup — Yi Tay](https://www.yitay.net/blog/training-great-llms-entirely-from-ground-zero-in-the-wilderness)
 
 	 · ([twitter](https://twitter.com/karpathy/status/1765424847705047247)) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652453339&idx=2&sn=15a1060927a2fe7e56d2dc5bfd3e1db1))
