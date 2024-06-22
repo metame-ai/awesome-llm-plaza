@@ -248,6 +248,10 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
+- **Florence-2: Advancing a Unified Representation for a Variety of Vision
+  Tasks**, `CVPR, 2024`, [arxiv](http://arxiv.org/abs/2311.06242v1), [pdf](http://arxiv.org/pdf/2311.06242v1.pdf), cication: [**10**](https://scholar.google.com/scholar?cites=16373650781234927391&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Bin Xiao, Haiping Wu, Weijian Xu, Xiyang Dai, Houdong Hu, Yumao Lu, Michael Zeng, Ce Liu, Lu Yuan*
 - **Explore the Limits of Omni-modal Pretraining at Scale**, `arXiv, 2406.09412`, [arxiv](http://arxiv.org/abs/2406.09412v1), [pdf](http://arxiv.org/pdf/2406.09412v1.pdf), cication: [**-1**](None)
 
 	 *Yiyuan Zhang, Handong Li, Jing Liu, Xiangyu Yue* · ([MiCo](https://github.com/invictus717/MiCo) - invictus717) ![Star](https://img.shields.io/github/stars/invictus717/MiCo.svg?style=social&label=Star)
@@ -309,6 +313,8 @@
 - **Chameleon: Mixed-Modal Early-Fusion Foundation Models**, `arXiv, 2405.09818`, [arxiv](http://arxiv.org/abs/2405.09818v1), [pdf](http://arxiv.org/pdf/2405.09818v1.pdf), cication: [**-1**](None)
 
 	 *Chameleon Team*
+
+	 · ([ai.meta](https://ai.meta.com/blog/meta-fair-research-new-releases/)) · ([chameleon](https://github.com/facebookresearch/chameleon/blob/main/chameleon/inference/chameleon.py#L188) - facebookresearch) ![Star](https://img.shields.io/github/stars/facebookresearch/chameleon.svg?style=social&label=Star)
 - **What matters when building vision-language models?**, `arXiv, 2405.02246`, [arxiv](http://arxiv.org/abs/2405.02246v1), [pdf](http://arxiv.org/pdf/2405.02246v1.pdf), cication: [**-1**](None)
 
 	 *Hugo Laurençon, Léo Tronchon, Matthieu Cord, Victor Sanh*
