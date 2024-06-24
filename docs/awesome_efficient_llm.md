@@ -497,6 +497,11 @@
 	 *Shufang Xie, Huishuai Zhang, Junliang Guo, Xu Tan, Jiang Bian, Hany Hassan Awadalla, Arul Menezes, Tao Qin, Rui Yan* · ([ResiDual](https://github.com/microsoft/ResiDual) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/ResiDual.svg?style=social&label=Star)
 
 ## Efficient Inference
+- [Optimizing AI Inference at Character.AI](https://research.character.ai/optimizing-inference/)
+- **A Simple and Effective $L_2$ Norm-Based Strategy for KV Cache
+  Compression**, `arXiv, 2406.11430`, [arxiv](http://arxiv.org/abs/2406.11430v1), [pdf](http://arxiv.org/pdf/2406.11430v1.pdf), cication: [**-1**](None)
+
+	 *Alessio Devoto, Yu Zhao, Simone Scardapane, Pasquale Minervini*
 - **PowerInfer-2: Fast Large Language Model Inference on a Smartphone**, `arXiv, 2406.06282`, [arxiv](http://arxiv.org/abs/2406.06282v2), [pdf](http://arxiv.org/pdf/2406.06282v2.pdf), cication: [**-1**](None)
 
 	 *Zhenliang Xue, Yixin Song, Zeyu Mi, Le Chen, Yubin Xia, Haibo Chen*
@@ -827,6 +832,9 @@
 - [研究完llama.cpp，我发现手机跑大模型竟这么简单 | 机器之心](https://www.jiqizhixin.com/articles/2023-08-17-8)
 
 ## Mobile
+- **HARE: HumAn pRiors, a key to small language model Efficiency**, `arXiv, 2406.11410`, [arxiv](http://arxiv.org/abs/2406.11410v2), [pdf](http://arxiv.org/pdf/2406.11410v2.pdf), cication: [**-1**](None)
+
+	 *Lingyun Zhang, Bin jin, Gaojian Ge, Lunhui Liu, Xuewen Shen, Mingyong Wu, Houqian Zhang, Yongneng Jiang, Shiqi Chen, Shi Pu*
 - **Octopus v2: On-device language model for super agent**, `arXiv, 2404.01744`, [arxiv](http://arxiv.org/abs/2404.01744v2), [pdf](http://arxiv.org/pdf/2404.01744v2.pdf), cication: [**-1**](None)
 
 	 *Wei Chen, Zhiyuan Li*

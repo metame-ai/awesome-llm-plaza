@@ -26,6 +26,17 @@
 	 *Ziyin Zhang, Chaoyu Chen, Bingchang Liu, Cong Liao, Zi Gong, Hang Yu, Jianguo Li, Rui Wang*
 
 ## Paper
+- **Long Code Arena: a Set of Benchmarks for Long-Context Code Models**, `arXiv, 2406.11612`, [arxiv](http://arxiv.org/abs/2406.11612v1), [pdf](http://arxiv.org/pdf/2406.11612v1.pdf), cication: [**-1**](None)
+
+	 *Egor Bogomolov, Aleksandra Eliseeva, Timur Galimzyanov, Evgeniy Glukhov, Anton Shapkin, Maria Tigina, Yaroslav Golubev, Alexander Kovrigin, Arie van Deursen, Maliheh Izadi* · ([huggingface](https://huggingface.co/spaces/JetBrains-Research/long-code-arena))
+- **AgileCoder: Dynamic Collaborative Agents for Software Development based
+  on Agile Methodology**, `arXiv, 2406.11912`, [arxiv](http://arxiv.org/abs/2406.11912v1), [pdf](http://arxiv.org/pdf/2406.11912v1.pdf), cication: [**-1**](None)
+
+	 *Minh Huynh Nguyen, Thang Phan Chau, Phong X. Nguyen, Nghi D. Q. Bui* · ([AgileCoder](https://github.com/FSoft-AI4Code/AgileCoder) - FSoft-AI4Code) ![Star](https://img.shields.io/github/stars/FSoft-AI4Code/AgileCoder.svg?style=social&label=Star)
+- **DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code
+  Intelligence**, `arXiv, 2406.11931`, [arxiv](http://arxiv.org/abs/2406.11931v1), [pdf](http://arxiv.org/pdf/2406.11931v1.pdf), cication: [**-1**](None)
+
+	 *DeepSeek-AI, Qihao Zhu, Daya Guo, Zhihong Shao, Dejian Yang, Peiyi Wang, Runxin Xu, Y. Wu, Yukun Li, Huazuo Gao*
 - [**DeepSeek-Coder-V2**](https://github.com/deepseek-ai/DeepSeek-Coder-V2/tree/main) - deepseek-ai ![Star](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-Coder-V2.svg?style=social&label=Star)
 
 	 · ([DeepSeek-Coder-V2](https://github.com/deepseek-ai/DeepSeek-Coder-V2/blob/main/paper.pdf) - deepseek-ai) ![Star](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-Coder-V2.svg?style=social&label=Star)
@@ -340,6 +351,8 @@
 
 ## Projects
 - [BigCodeBench: Benchmarking Large Language Models on Solving Practical and Challenging Programming Tasks](https://huggingface.co/blog/leaderboard-bigcodebench)
+
+	 · ([huggingface](https://huggingface.co/spaces/bigcode/bigcodebench-leaderboard)) · ([bigcodebench](https://github.com/bigcode-project/bigcodebench) - bigcode-project) ![Star](https://img.shields.io/github/stars/bigcode-project/bigcodebench.svg?style=social&label=Star)
 - [Codestral: Hello, World! | Mistral AI | Frontier AI in your hands](https://mistral.ai/news/codestral/)
 
 	 · ([huggingface](https://huggingface.co/mistralai/Codestral-22B-v0.1))
@@ -467,6 +480,7 @@
 	 *Specify what you want it to build, the AI asks for clarification, and then builds it.*
 
 ## Other
+- [Code Droid Technical Report](https://www.factory.ai/news/code-droid-technical-report)
 - [Introducing Devin, the first AI software engineer](https://www.cognition-labs.com/blog)
 - [phind.com/blog/introducing-phind-70b](https://www.phind.com/blog/introducing-phind-70b)
 - [Personal Copilot: Train Your Own Coding Assistant](https://huggingface.co/blog/personal-copilot)

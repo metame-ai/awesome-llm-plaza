@@ -533,6 +533,9 @@
 	 *Chongming Gao, Wenqiang Lei, Xiangnan He, Maarten de Rijke, Tat-Seng Chua* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495345&idx=2&sn=5e3ac087c792081705dde1c2542c687a))
 
 ## Role play
+- [DreamGen Opus v1.4 70B Llama 3 - a dreamgen Collection](https://huggingface.co/collections/dreamgen/dreamgen-opus-v14-70b-llama-3-6672c7b3cf95a2a36d061c6d)
+
+	 · ([reddit](https://www.reddit.com/r/LocalLLaMA/comments/1djo3of/llama_3_70b_roleplay_story_writing_model_dreamgen/?utm_source=ainews&utm_medium=email&utm_campaign=ainews-claude-crushes-code-92-humaneval-and))
 - [**CharacterCodex**](https://huggingface.co/datasets/NousResearch/CharacterCodex) - NousResearch 🤗
 - [**Higgs-Llama-3-70B**](https://huggingface.co/bosonai/Higgs-Llama-3-70B) - bosonai 🤗
 - [Introducing NPC-Playground, a 3D playground to interact with LLM-powered NPCs](https://huggingface.co/blog/npc-gigax-cubzh)
@@ -831,6 +834,10 @@
 	 *Official repo for LayoutGPT*
 
 ## Science
+- **$\nabla^2$DFT: A Universal Quantum Chemistry Dataset of Drug-Like
+  Molecules and a Benchmark for Neural Network Potentials**, `arXiv, 2406.14347`, [arxiv](http://arxiv.org/abs/2406.14347v1), [pdf](http://arxiv.org/pdf/2406.14347v1.pdf), cication: [**-1**](None)
+
+	 *Kuzma Khrabrov, Anton Ber, Artem Tsypin, Konstantin Ushenin, Egor Rumiantsev, Alexander Telepov, Dmitry Protasov, Ilya Shenbin, Anton Alekseev, Mikhail Shirokikh*
 - **AstroPT: Scaling Large Observation Models for Astronomy**, `arXiv, 2405.14930`, [arxiv](http://arxiv.org/abs/2405.14930v1), [pdf](http://arxiv.org/pdf/2405.14930v1.pdf), cication: [**-1**](None)
 
 	 *Michael J. Smith, Ryan J. Roberts, Eirini Angeloudi, Marc Huertas-Company* · ([astroPT](https://github.com/Smith42/astroPT) - Smith42) ![Star](https://img.shields.io/github/stars/Smith42/astroPT.svg?style=social&label=Star)

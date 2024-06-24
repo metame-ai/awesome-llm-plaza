@@ -198,6 +198,7 @@
 	 · ([reddit](https://www.reddit.com/r/LocalLLaMA/comments/1cvly7e/creator_of_smaug_here_clearing_up_some/))
 - [**Higgs-Llama-3-70B**](https://huggingface.co/bosonai/Higgs-Llama-3-70B) - bosonai 🤗
 - [Announcing the Higgs Family of LLMs](https://boson.ai/higgs-opensource/)
+- [**Hermes-2-Theta-Llama-3-70B**](https://huggingface.co/NousResearch/Hermes-2-Theta-Llama-3-70B) - NousResearch 🤗
 ### Jamba
 - **Jamba: A Hybrid Transformer-Mamba Language Model**, `arXiv, 2403.19887`, [arxiv](http://arxiv.org/abs/2403.19887v1), [pdf](http://arxiv.org/pdf/2403.19887v1.pdf), cication: [**-1**](None)
 
@@ -626,6 +627,10 @@
 	 *A large-scale 7B pretraining language model developed by BaiChuan-Inc.*
 
 ### ChatGLM
+- **ChatGLM: A Family of Large Language Models from GLM-130B to GLM-4 All
+  Tools**, `arXiv, 2406.12793`, [arxiv](http://arxiv.org/abs/2406.12793v1), [pdf](http://arxiv.org/pdf/2406.12793v1.pdf), cication: [**-1**](None)
+
+	 *Team GLM, :, Aohan Zeng, Bin Xu, Bowen Wang, Chenhui Zhang, Da Yin, Diego Rojas, Guanyu Feng, Hanlin Zhao*
 - [**GLM-4**](https://github.com/THUDM/GLM-4) - THUDM ![Star](https://img.shields.io/github/stars/THUDM/GLM-4.svg?style=social&label=Star)
 
 	 *GLM-4 series: Open Multilingual Multimodal Chat LMs | 开源多语言多模态对话模型* · ([huggingface](https://huggingface.co/THUDM/glm-4-9b-chat))

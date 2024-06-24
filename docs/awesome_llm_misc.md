@@ -499,6 +499,14 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652345558&idx=4&sn=95686435d5cad05d44cbe02bc26d6859))
 
 ## Interpretability 
+- **From RAGs to rich parameters: Probing how language models utilize
+  external knowledge over parametric information for factual queries**, `arXiv, 2406.12824`, [arxiv](http://arxiv.org/abs/2406.12824v1), [pdf](http://arxiv.org/pdf/2406.12824v1.pdf), cication: [**-1**](None)
+
+	 *Hitesh Wadhwa, Rahul Seetharaman, Somyaa Aggarwal, Reshmi Ghosh, Samyadeep Basu, Soundararajan Srinivasan, Wenlong Zhao, Shreyas Chaudhari, Ehsan Aghazadeh*
+- **How Do Large Language Models Acquire Factual Knowledge During
+  Pretraining?**, `arXiv, 2406.11813`, [arxiv](http://arxiv.org/abs/2406.11813v1), [pdf](http://arxiv.org/pdf/2406.11813v1.pdf), cication: [**-1**](None)
+
+	 *Hoyeon Chang, Jinho Park, Seonghyeon Ye, Sohee Yang, Youngkyung Seo, Du-Seong Chang, Minjoon Seo*
 - **How Do Large Language Models Acquire Factual Knowledge During
   Pretraining?**, `arXiv, 2406.11813`, [arxiv](http://arxiv.org/abs/2406.11813v1), [pdf](http://arxiv.org/pdf/2406.11813v1.pdf), cication: [**-1**](None)
 
@@ -708,6 +716,10 @@
 	 *Steve Yadlowsky, Lyric Doshi, Nilesh Tripuraneni*
 
 ## LLM editting
+- **Breaking Boundaries: Investigating the Effects of Model Editing on
+  Cross-linguistic Performance**, `arXiv, 2406.11139`, [arxiv](http://arxiv.org/abs/2406.11139v1), [pdf](http://arxiv.org/pdf/2406.11139v1.pdf), cication: [**-1**](None)
+
+	 *Somnath Banerjee, Avik Halder, Rajarshi Mandal, Sayan Layek, Ian Soboroff, Rima Hazra, Animesh Mukherjee*
 - **Is Bigger Edit Batch Size Always Better? -- An Empirical Study on Model
   Editing with Llama-3**, `arXiv, 2405.00664`, [arxiv](http://arxiv.org/abs/2405.00664v1), [pdf](http://arxiv.org/pdf/2405.00664v1.pdf), cication: [**-1**](None)
 
@@ -784,6 +796,9 @@
 	 *Zhangyue Yin, Qiushi Sun, Qipeng Guo, Jiawen Wu, Xipeng Qiu, Xuanjing Huang*
 
 ## Tokenization
+- **Tokenization Falling Short: The Curse of Tokenization**, `arXiv, 2406.11687`, [arxiv](http://arxiv.org/abs/2406.11687v1), [pdf](http://arxiv.org/pdf/2406.11687v1.pdf), cication: [**-1**](None)
+
+	 *Yekun Chai, Yewei Fang, Qiwei Peng, Xuhong Li*
 - **Zero-Shot Tokenizer Transfer**, `arXiv, 2405.07883`, [arxiv](http://arxiv.org/abs/2405.07883v1), [pdf](http://arxiv.org/pdf/2405.07883v1.pdf), cication: [**-1**](None)
 
 	 *Benjamin Minixhofer, Edoardo Maria Ponti, Ivan Vulić*

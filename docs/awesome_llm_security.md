@@ -65,6 +65,9 @@
 	 *Stephen Casper, Jason Lin, Joe Kwon, Gatlen Culp, Dylan Hadfield-Menell*
 
 ## Papers
+- **Adversarial Attacks on Multimodal Agents**, `arXiv, 2406.12814`, [arxiv](http://arxiv.org/abs/2406.12814v1), [pdf](http://arxiv.org/pdf/2406.12814v1.pdf), cication: [**-1**](None)
+
+	 *Chen Henry Wu, Jing Yu Koh, Ruslan Salakhutdinov, Daniel Fried, Aditi Raghunathan* · ([agent-attack](https://github.com/ChenWu98/agent-attack) - ChenWu98) ![Star](https://img.shields.io/github/stars/ChenWu98/agent-attack.svg?style=social&label=Star)
 - **Merging Improves Self-Critique Against Jailbreak Attacks**, `arXiv, 2406.07188`, [arxiv](http://arxiv.org/abs/2406.07188v1), [pdf](http://arxiv.org/pdf/2406.07188v1.pdf), cication: [**-1**](None)
 
 	 *Victor Gallego*

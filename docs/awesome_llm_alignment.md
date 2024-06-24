@@ -254,6 +254,16 @@
 	 *Timo Kaufmann, Paul Weng, Viktor Bengs, Eyke Hüllermeier*
 
 ## Papers
+- **Bootstrapping Language Models with DPO Implicit Rewards**, `arXiv, 2406.09760`, [arxiv](http://arxiv.org/abs/2406.09760v1), [pdf](http://arxiv.org/pdf/2406.09760v1.pdf), cication: [**-1**](None)
+
+	 *Changyu Chen, Zichen Liu, Chao Du, Tianyu Pang, Qian Liu, Arunesh Sinha, Pradeep Varakantham, Min Lin* · ([dice](https://github.com/sail-sg/dice) - sail-sg) ![Star](https://img.shields.io/github/stars/sail-sg/dice.svg?style=social&label=Star)
+- **WPO: Enhancing RLHF with Weighted Preference Optimization**, `arXiv, 2406.11827`, [arxiv](http://arxiv.org/abs/2406.11827v1), [pdf](http://arxiv.org/pdf/2406.11827v1.pdf), cication: [**-1**](None)
+
+	 *Wenxuan Zhou, Ravi Agrawal, Shujian Zhang, Sathish Reddy Indurthi, Sanqiang Zhao, Kaiqiang Song, Silei Xu, Chenguang Zhu* · ([WPO](https://github.com/wzhouad/WPO) - wzhouad) ![Star](https://img.shields.io/github/stars/wzhouad/WPO.svg?style=social&label=Star)
+- **mDPO: Conditional Preference Optimization for Multimodal Large Language
+  Models**, `arXiv, 2406.11839`, [arxiv](http://arxiv.org/abs/2406.11839v1), [pdf](http://arxiv.org/pdf/2406.11839v1.pdf), cication: [**-1**](None)
+
+	 *Fei Wang, Wenxuan Zhou, James Y. Huang, Nan Xu, Sheng Zhang, Hoifung Poon, Muhao Chen*
 - **Sycophancy to Subterfuge: Investigating Reward-Tampering in Large
   Language Models**, `arXiv, 2406.10162`, [arxiv](http://arxiv.org/abs/2406.10162v2), [pdf](http://arxiv.org/pdf/2406.10162v2.pdf), cication: [**-1**](None)
 

@@ -657,6 +657,10 @@
 - [陈丹琦ACL学术报告来了！详解大模型「外挂」数据库7大方向3大挑战，3小时干货满满 | 量子位](https://www.qbitai.com/2023/07/67259.html)
 
 ## Web browsing
+- **DigiRL: Training In-The-Wild Device-Control Agents with Autonomous
+  Reinforcement Learning**, `arXiv, 2406.11896`, [arxiv](http://arxiv.org/abs/2406.11896v1), [pdf](http://arxiv.org/pdf/2406.11896v1.pdf), cication: [**-1**](None)
+
+	 *Hao Bai, Yifei Zhou, Mert Cemri, Jiayi Pan, Alane Suhr, Sergey Levine, Aviral Kumar*
 - [**fuji-web**](https://github.com/normal-computing/fuji-web) - normal-computing ![Star](https://img.shields.io/github/stars/normal-computing/fuji-web.svg?style=social&label=Star)
 
 	 *Fuji is an AI agent that lives in your browser's sidepanel. You can now get tasks done online with a single command!*
@@ -1152,6 +1156,9 @@
 - [各路大神献出自定义GPT，24小时Top 9名单在这 | 机器之心](https://www.jiqizhixin.com/articles/2023-11-13-13)
 
 ## Evaluation
+- [**tau-bench**](https://github.com/sierra-research/tau-bench) - sierra-research ![Star](https://img.shields.io/github/stars/sierra-research/tau-bench.svg?style=social&label=Star)
+
+	 *Code and Data for Tau-Bench*
 - [**stark**](https://github.com/snap-stanford/stark) - snap-stanford ![Star](https://img.shields.io/github/stars/snap-stanford/stark.svg?style=social&label=Star)
 
 	 *Official Code of "STaRK: Benchmarking LLM Retrieval on Textual and Relational Knowledge Bases"*

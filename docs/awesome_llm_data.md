@@ -33,6 +33,10 @@
 	 *Zige Wang, Wanjun Zhong, Yufei Wang, Qi Zhu, Fei Mi, Baojun Wang, Lifeng Shang, Xin Jiang, Qun Liu*
 
 ## Techs
+- **DataComp-LM: In search of the next generation of training sets for
+  language models**, `arXiv, 2406.11794`, [arxiv](http://arxiv.org/abs/2406.11794v3), [pdf](http://arxiv.org/pdf/2406.11794v3.pdf), cication: [**-1**](None)
+
+	 *Jeffrey Li, Alex Fang, Georgios Smyrnis, Maor Ivgi, Matt Jordan, Samir Gadre, Hritik Bansal, Etash Guha, Sedrick Keh, Kushal Arora* · ([datacomp](https://www.datacomp.ai/dclm/))
 - **Data Mixing Made Efficient: A Bivariate Scaling Law for Language Model
   Pretraining**, `arXiv, 2405.14908`, [arxiv](http://arxiv.org/abs/2405.14908v1), [pdf](http://arxiv.org/pdf/2405.14908v1.pdf), cication: [**-1**](None)
 
@@ -253,6 +257,10 @@
 
 
 ### MulitiMod
+- **PIN: A Knowledge-Intensive Dataset for Paired and Interleaved Multimodal
+  Documents**, `arXiv, 2406.13923`, [arxiv](http://arxiv.org/abs/2406.13923v1), [pdf](http://arxiv.org/pdf/2406.13923v1.pdf), cication: [**-1**](None)
+
+	 *Junjie Wang, Yin Zhang, Yatai Ji, Yuxiang Zhang, Chunyang Jiang, Yubo Wang, Kang Zhu, Zekun Wang, Tiezhen Wang, Wenhao Huang*
 - **What If We Recaption Billions of Web Images with LLaMA-3?**, `arXiv, 2406.08478`, [arxiv](http://arxiv.org/abs/2406.08478v1), [pdf](http://arxiv.org/pdf/2406.08478v1.pdf), cication: [**-1**](None)
 
 	 *Xianhang Li, Haoqin Tu, Mude Hui, Zeyu Wang, Bingchen Zhao, Junfei Xiao, Sucheng Ren, Jieru Mei, Qing Liu, Huangjie Zheng* · ([Recap-DataComp-1B](https://github.com/UCSC-VLAA/Recap-DataComp-1B) - UCSC-VLAA) ![Star](https://img.shields.io/github/stars/UCSC-VLAA/Recap-DataComp-1B.svg?style=social&label=Star)
@@ -309,6 +317,7 @@
 	 *Xiang Deng, Yu Gu, Boyuan Zheng, Shijie Chen, Samuel Stevens, Boshi Wang, Huan Sun, Yu Su*
 
 ### Alignment
+- [**Infinity-Instruct**](https://huggingface.co/datasets/BAAI/Infinity-Instruct) - BAAI 🤗
 - [**Capybara-Preferences**](https://huggingface.co/datasets/argilla/Capybara-Preferences) - argilla 🤗
 
 ### Synthetic 

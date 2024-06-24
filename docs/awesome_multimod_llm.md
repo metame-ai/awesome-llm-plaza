@@ -40,6 +40,10 @@
 
 ## Vision
 ### Vision Encoder
+- **Probabilistic Conceptual Explainers: Trustworthy Conceptual Explanations
+  for Vision Foundation Models**, `arXiv, 2406.12649`, [arxiv](http://arxiv.org/abs/2406.12649v2), [pdf](http://arxiv.org/pdf/2406.12649v2.pdf), cication: [**-1**](None)
+
+	 *Hengyi Wang, Shiwei Tan, Hao Wang*
 - **An Image is Worth More Than 16x16 Patches: Exploring Transformers on
   Individual Pixels**, `arXiv, 2406.09415`, [arxiv](http://arxiv.org/abs/2406.09415v1), [pdf](http://arxiv.org/pdf/2406.09415v1.pdf), cication: [**-1**](None)
 
@@ -85,6 +89,9 @@
 	 *Mike Ranzinger, Greg Heinrich, Jan Kautz, Pavlo Molchanov* · ([radio](https://github.com/nvlabs/radio) - nvlabs) ![Star](https://img.shields.io/github/stars/nvlabs/radio.svg?style=social&label=Star)
 
 ### Video
+- **VideoLLM-online: Online Video Large Language Model for Streaming Video**, `CVPR, 2024`, [arxiv](http://arxiv.org/abs/2406.11816v1), [pdf](http://arxiv.org/pdf/2406.11816v1.pdf), cication: [**-1**](None)
+
+	 *Joya Chen, Zhaoyang Lv, Shiwei Wu, Kevin Qinghong Lin, Chenan Song, Difei Gao, Jia-Wei Liu, Ziteng Gao, Dongxing Mao, Mike Zheng Shou* · ([showlab.github](https://showlab.github.io/videollm-online/))
 - **VideoGPT+: Integrating Image and Video Encoders for Enhanced Video
   Understanding**, `arXiv, 2406.09418`, [arxiv](http://arxiv.org/abs/2406.09418v1), [pdf](http://arxiv.org/pdf/2406.09418v1.pdf), cication: [**-1**](None)
 
@@ -248,6 +255,12 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
+- **VoCo-LLaMA: Towards Vision Compression with Large Language Models**, `arXiv, 2406.12275`, [arxiv](http://arxiv.org/abs/2406.12275v1), [pdf](http://arxiv.org/pdf/2406.12275v1.pdf), cication: [**-1**](None)
+
+	 *Xubing Ye, Yukang Gan, Xiaoke Huang, Yixiao Ge, Ying Shan, Yansong Tang* · ([yxxxb.github](https://yxxxb.github.io/VoCo-LLaMA-page/))
+- **TroL: Traversal of Layers for Large Language and Vision Models**, `arXiv, 2406.12246`, [arxiv](http://arxiv.org/abs/2406.12246v2), [pdf](http://arxiv.org/pdf/2406.12246v2.pdf), cication: [**-1**](None)
+
+	 *Byung-Kwan Lee, Sangyun Chung, Chae Won Kim, Beomchan Park, Yong Man Ro* · ([TroL](https://github.com/ByungKwanLee/TroL) - ByungKwanLee) ![Star](https://img.shields.io/github/stars/ByungKwanLee/TroL.svg?style=social&label=Star)
 - **Florence-2: Advancing a Unified Representation for a Variety of Vision
   Tasks**, `CVPR, 2024`, [arxiv](http://arxiv.org/abs/2311.06242v1), [pdf](http://arxiv.org/pdf/2311.06242v1.pdf), cication: [**10**](https://scholar.google.com/scholar?cites=16373650781234927391&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
@@ -1094,6 +1107,10 @@
 	 *Shaohan Huang, Li Dong, Wenhui Wang, Yaru Hao, Saksham Singhal, Shuming Ma, Tengchao Lv, Lei Cui, Owais Khan Mohammed, Barun Patra*
 
 ## Audio
+- **GAMA: A Large Audio-Language Model with Advanced Audio Understanding and
+  Complex Reasoning Abilities**, `arXiv, 2406.11768`, [arxiv](http://arxiv.org/abs/2406.11768v1), [pdf](http://arxiv.org/pdf/2406.11768v1.pdf), cication: [**-1**](None)
+
+	 *Sreyan Ghosh, Sonal Kumar, Ashish Seth, Chandra Kiran Reddy Evuru, Utkarsh Tyagi, S Sakshi, Oriol Nieto, Ramani Duraiswami, Dinesh Manocha*
 - **LLM-AD: Large Language Model based Audio Description System**, `arXiv, 2405.00983`, [arxiv](http://arxiv.org/abs/2405.00983v1), [pdf](http://arxiv.org/pdf/2405.00983v1.pdf), cication: [**-1**](None)
 
 	 *Peng Chu, Jiang Wang, Andre Abrantes*
@@ -1211,6 +1228,9 @@
 
 	 *Zhengfeng Lai, Haotian Zhang, Bowen Zhang, Wentao Wu, Haoping Bai, Aleksei Timofeev, Xianzhi Du, Zhe Gan, Jiulong Shan, Chen-Nee Chuah* · ([ml-veclip](https://github.com/apple/ml-veclip) - apple) ![Star](https://img.shields.io/github/stars/apple/ml-veclip.svg?style=social&label=Star)
 ## Reasoning 
+- **Whiteboard-of-Thought: Thinking Step-by-Step Across Modalities**, `arXiv, 2406.14562`, [arxiv](http://arxiv.org/abs/2406.14562v1), [pdf](http://arxiv.org/pdf/2406.14562v1.pdf), cication: [**-1**](None)
+
+	 *Sachit Menon, Richard Zemel, Carl Vondrick*
 - **Visual Sketchpad: Sketching as a Visual Chain of Thought for Multimodal
   Language Models**, `arXiv, 2406.09403`, [arxiv](http://arxiv.org/abs/2406.09403v1), [pdf](http://arxiv.org/pdf/2406.09403v1.pdf), cication: [**-1**](None)
 
@@ -1362,7 +1382,31 @@
 	 *An open-source framework for training large multimodal models.*
 - [**BakLLaVA-1**](https://huggingface.co/SkunkworksAI/BakLLaVA-1) - SkunkworksAI 🤗
 
+
 ## Evaluation
+- **Prism: A Framework for Decoupling and Assessing the Capabilities of VLMs**, `arXiv, 2406.14544`, [arxiv](http://arxiv.org/abs/2406.14544v1), [pdf](http://arxiv.org/pdf/2406.14544v1.pdf), cication: [**-1**](None)
+
+	 *Yuxuan Qiao, Haodong Duan, Xinyu Fang, Junming Yang, Lin Chen, Songyang Zhang, Jiaqi Wang, Dahua Lin, Kai Chen* · ([Prism](https://github.com/SparksJoe/Prism) - SparksJoe) ![Star](https://img.shields.io/github/stars/SparksJoe/Prism.svg?style=social&label=Star)
+- **MMBench-Video: A Long-Form Multi-Shot Benchmark for Holistic Video
+  Understanding**, `arXiv, 2406.14515`, [arxiv](http://arxiv.org/abs/2406.14515v1), [pdf](http://arxiv.org/pdf/2406.14515v1.pdf), cication: [**-1**](None)
+
+	 *Xinyu Fang, Kangrui Mao, Haodong Duan, Xiangyu Zhao, Yining Li, Dahua Lin, Kai Chen* · ([VLMEvalKit](https://github.com/open-compass/VLMEvalKit) - open-compass) ![Star](https://img.shields.io/github/stars/open-compass/VLMEvalKit.svg?style=social&label=Star)
+- **Multimodal Needle in a Haystack: Benchmarking Long-Context Capability of
+  Multimodal Large Language Models**, `arXiv, 2406.11230`, [arxiv](http://arxiv.org/abs/2406.11230v1), [pdf](http://arxiv.org/pdf/2406.11230v1.pdf), cication: [**-1**](None)
+
+	 *Hengyi Wang, Haizhou Shi, Shiwei Tan, Weiyi Qin, Wenyuan Wang, Tunyu Zhang, Akshay Nambi, Tanuja Ganu, Hao Wang* · ([multimodal-needle-in-a-haystack](https://github.com/Wang-ML-Lab/multimodal-needle-in-a-haystack) - Wang-ML-Lab) ![Star](https://img.shields.io/github/stars/Wang-ML-Lab/multimodal-needle-in-a-haystack.svg?style=social&label=Star)
+- **Benchmarking Multi-Image Understanding in Vision and Language Models:
+  Perception, Knowledge, Reasoning, and Multi-Hop Reasoning**, `arXiv, 2406.12742`, [arxiv](http://arxiv.org/abs/2406.12742v1), [pdf](http://arxiv.org/pdf/2406.12742v1.pdf), cication: [**-1**](None)
+
+	 *Bingchen Zhao, Yongshuo Zong, Letian Zhang, Timothy Hospedales*
+- **WildVision: Evaluating Vision-Language Models in the Wild with Human
+  Preferences**, `arXiv, 2406.11069`, [arxiv](http://arxiv.org/abs/2406.11069v1), [pdf](http://arxiv.org/pdf/2406.11069v1.pdf), cication: [**-1**](None)
+
+	 *Yujie Lu, Dongfu Jiang, Wenhu Chen, William Yang Wang, Yejin Choi, Bill Yuchen Lin* · ([huggingface](https://huggingface.co/spaces/WildVision/vision-arena))
+- **MMDU: A Multi-Turn Multi-Image Dialog Understanding Benchmark and
+  Instruction-Tuning Dataset for LVLMs**, `arXiv, 2406.11833`, [arxiv](http://arxiv.org/abs/2406.11833v1), [pdf](http://arxiv.org/pdf/2406.11833v1.pdf), cication: [**-1**](None)
+
+	 *Ziyu Liu, Tao Chu, Yuhang Zang, Xilin Wei, Xiaoyi Dong, Pan Zhang, Zijian Liang, Yuanjun Xiong, Yu Qiao, Dahua Lin* · ([MMDU](https://github.com/Liuziyu77/MMDU) - Liuziyu77) ![Star](https://img.shields.io/github/stars/Liuziyu77/MMDU.svg?style=social&label=Star)
 - **Needle In A Multimodal Haystack**, `arXiv, 2406.07230`, [arxiv](http://arxiv.org/abs/2406.07230v1), [pdf](http://arxiv.org/pdf/2406.07230v1.pdf), cication: [**-1**](None)
 
 	 *Weiyun Wang, Shuibo Zhang, Yiming Ren, Yuchen Duan, Tiantong Li, Shuo Liu, Mengkang Hu, Zhe Chen, Kaipeng Zhang, Lewei Lu*
@@ -1469,6 +1513,14 @@
 	 *Yuliang Liu, Zhang Li, Biao Yang, Chunyuan Li, Xucheng Yin, Cheng-lin Liu, Lianwen Jin, Xiang Bai* · ([MultimodalOCR](https://github.com/Yuliang-Liu/MultimodalOCR) - Yuliang-Liu) ![Star](https://img.shields.io/github/stars/Yuliang-Liu/MultimodalOCR.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652442102&idx=4&sn=64a53646c57797a00b9db186f339c5eb))
 
 ## Datasets
+- **MINT-1T: Scaling Open-Source Multimodal Data by 10x: A Multimodal
+  Dataset with One Trillion Tokens**, `arXiv, 2406.11271`, [arxiv](http://arxiv.org/abs/2406.11271v1), [pdf](http://arxiv.org/pdf/2406.11271v1.pdf), cication: [**-1**](None)
+
+	 *Anas Awadalla, Le Xue, Oscar Lo, Manli Shu, Hannah Lee, Etash Kumar Guha, Matt Jordan, Sheng Shen, Mohamed Awadalla, Silvio Savarese* · ([MINT-1T](https://github.com/mlfoundations/MINT-1T) - mlfoundations) ![Star](https://img.shields.io/github/stars/mlfoundations/MINT-1T.svg?style=social&label=Star)
+- **From Pixels to Prose: A Large Dataset of Dense Image Captions**, `arXiv, 2406.10328`, [arxiv](http://arxiv.org/abs/2406.10328v1), [pdf](http://arxiv.org/pdf/2406.10328v1.pdf), cication: [**-1**](None)
+
+	 *Vasu Singla, Kaiyu Yue, Sukriti Paul, Reza Shirkavand, Mayuka Jayawardhana, Alireza Ganjdanesh, Heng Huang, Abhinav Bhatele, Gowthami Somepalli, Tom Goldstein* · ([huggingface](https://huggingface.co/datasets/tomg-group-umd/pixelprose))
+- [**pixelprose**](https://huggingface.co/datasets/tomg-group-umd/pixelprose) - tomg-group-umd 🤗
 - **GUI Odyssey: A Comprehensive Dataset for Cross-App GUI Navigation on
   Mobile Devices**, `arXiv, 2406.08451`, [arxiv](http://arxiv.org/abs/2406.08451v1), [pdf](http://arxiv.org/pdf/2406.08451v1.pdf), cication: [**-1**](None)
 

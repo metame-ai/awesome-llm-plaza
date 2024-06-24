@@ -21,6 +21,10 @@
 
 
 ## Pretrain
+- **Instruction Pre-Training: Language Models are Supervised Multitask
+  Learners**, `arXiv, 2406.14491`, [arxiv](http://arxiv.org/abs/2406.14491v1), [pdf](http://arxiv.org/pdf/2406.14491v1.pdf), cication: [**-1**](None)
+
+	 *Daixuan Cheng, Yuxian Gu, Shaohan Huang, Junyu Bi, Minlie Huang, Furu Wei* · ([LMOps](https://github.com/microsoft/LMOps) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/LMOps.svg?style=social&label=Star)
 - **Stacking Your Transformers: A Closer Look at Model Growth for Efficient
   LLM Pre-Training**, `arXiv, 2405.15319`, [arxiv](http://arxiv.org/abs/2405.15319v1), [pdf](http://arxiv.org/pdf/2405.15319v1.pdf), cication: [**-1**](None)
 
@@ -417,6 +421,10 @@
 - [Weight averaging and model merging for LLMs seem to be the most interesting themes in 2024 so far. ](https://twitter.com/rasbt/status/1750180383398744106)
 
 ## MoE
+- **Self-MoE: Towards Compositional Large Language Models with
+  Self-Specialized Experts**, `arXiv, 2406.12034`, [arxiv](http://arxiv.org/abs/2406.12034v1), [pdf](http://arxiv.org/pdf/2406.12034v1.pdf), cication: [**-1**](None)
+
+	 *Junmo Kang, Leonid Karlinsky, Hongyin Luo, Zhen Wang, Jacob Hansen, James Glass, David Cox, Rameswar Panda, Rogerio Feris, Alan Ritter*
 - **Skywork-MoE: A Deep Dive into Training Techniques for Mixture-of-Experts
   Language Models**, `arXiv, 2406.06563`, [arxiv](http://arxiv.org/abs/2406.06563v1), [pdf](http://arxiv.org/pdf/2406.06563v1.pdf), cication: [**-1**](None)
 

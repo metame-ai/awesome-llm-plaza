@@ -28,6 +28,18 @@
 	 *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang*
 
 ## Papers
+- **RepLiQA: A Question-Answering Dataset for Benchmarking LLMs on Unseen
+  Reference Content**, `arXiv, 2406.11811`, [arxiv](http://arxiv.org/abs/2406.11811v1), [pdf](http://arxiv.org/pdf/2406.11811v1.pdf), cication: [**-1**](None)
+
+	 *Joao Monteiro, Pierre-Andre Noel, Etienne Marcotte, Sai Rajeswar, Valentina Zantedeschi, David Vazquez, Nicolas Chapados, Christopher Pal, Perouz Taslakian*
+- **From Crowdsourced Data to High-Quality Benchmarks: Arena-Hard and
+  BenchBuilder Pipeline**, `arXiv, 2406.11939`, [arxiv](http://arxiv.org/abs/2406.11939v1), [pdf](http://arxiv.org/pdf/2406.11939v1.pdf), cication: [**-1**](None)
+
+	 *Tianle Li, Wei-Lin Chiang, Evan Frick, Lisa Dunlap, Tianhao Wu, Banghua Zhu, Joseph E. Gonzalez, Ion Stoica* · ([arena-hard-auto](https://github.com/lm-sys/arena-hard-auto) - lm-sys) ![Star](https://img.shields.io/github/stars/lm-sys/arena-hard-auto.svg?style=social&label=Star)
+- **OlympicArena: Benchmarking Multi-discipline Cognitive Reasoning for
+  Superintelligent AI**, `arXiv, 2406.12753`, [arxiv](http://arxiv.org/abs/2406.12753v1), [pdf](http://arxiv.org/pdf/2406.12753v1.pdf), cication: [**-1**](None)
+
+	 *Zhen Huang, Zengzhi Wang, Shijie Xia, Xuefeng Li, Haoyang Zou, Ruijie Xu, Run-Ze Fan, Lyumanshan Ye, Ethan Chern, Yixin Ye* · ([gair-nlp.github](https://gair-nlp.github.io/OlympicArena/)) · ([OlympicArena](https://github.com/GAIR-NLP/OlympicArena) - GAIR-NLP) ![Star](https://img.shields.io/github/stars/GAIR-NLP/OlympicArena.svg?style=social&label=Star)
 - **BABILong: Testing the Limits of LLMs with Long Context
   Reasoning-in-a-Haystack**, `arXiv, 2406.10149`, [arxiv](http://arxiv.org/abs/2406.10149v1), [pdf](http://arxiv.org/pdf/2406.10149v1.pdf), cication: [**-1**](None)
 

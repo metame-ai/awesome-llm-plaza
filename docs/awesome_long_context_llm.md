@@ -35,6 +35,13 @@
 	 *Adyasha Maharana, Dong-Ho Lee, Sergey Tulyakov, Mohit Bansal, Francesco Barbieri, Yuwei Fang*
 
 ## Papers
+- **Can Long-Context Language Models Subsume Retrieval, RAG, SQL, and More?**, `arXiv, 2406.13121`, [arxiv](http://arxiv.org/abs/2406.13121v1), [pdf](http://arxiv.org/pdf/2406.13121v1.pdf), cication: [**-1**](None)
+
+	 *Jinhyuk Lee, Anthony Chen, Zhuyun Dai, Dheeru Dua, Devendra Singh Sachan, Michael Boratko, Yi Luan, Sébastien M. R. Arnold, Vincent Perot, Siddharth Dalmia* · ([loft](https://github.com/google-deepmind/loft) - google-deepmind) ![Star](https://img.shields.io/github/stars/google-deepmind/loft.svg?style=social&label=Star)
+- **THEANINE: Revisiting Memory Management in Long-term Conversations with
+  Timeline-augmented Response Generation**, `arXiv, 2406.10996`, [arxiv](http://arxiv.org/abs/2406.10996v1), [pdf](http://arxiv.org/pdf/2406.10996v1.pdf), cication: [**-1**](None)
+
+	 *Seo Hyun Kim, Kai Tzu-iunn Ong, Taeyoon Kwon, Namyoung Kim, Keummin Ka, SeongHyeon Bae, Yohan Jo, Seung-won Hwang, Dongha Lee, Jinyoung Yeo* · ([theanine-693b0.web](https://theanine-693b0.web.app/))
 - **Recurrent Context Compression: Efficiently Expanding the Context Window
   of LLM**, `arXiv, 2406.06110`, [arxiv](http://arxiv.org/abs/2406.06110v1), [pdf](http://arxiv.org/pdf/2406.06110v1.pdf), cication: [**-1**](None)
 
