@@ -40,6 +40,9 @@
 
 ## Vision
 ### Vision Encoder
+- **OmniTokenizer: A Joint Image-Video Tokenizer for Visual Generation**, `arXiv, 2406.09399`, [arxiv](http://arxiv.org/abs/2406.09399v1), [pdf](http://arxiv.org/pdf/2406.09399v1.pdf), cication: [**-1**](None)
+
+	 *Junke Wang, Yi Jiang, Zehuan Yuan, Binyue Peng, Zuxuan Wu, Yu-Gang Jiang* · ([omnitokenizer](https://github.com/foundationvision/omnitokenizer) - foundationvision) ![Star](https://img.shields.io/github/stars/foundationvision/omnitokenizer.svg?style=social&label=Star)
 - **Probabilistic Conceptual Explainers: Trustworthy Conceptual Explanations
   for Vision Foundation Models**, `arXiv, 2406.12649`, [arxiv](http://arxiv.org/abs/2406.12649v2), [pdf](http://arxiv.org/pdf/2406.12649v2.pdf), cication: [**-1**](None)
 
@@ -255,6 +258,12 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
+- **MG-LLaVA: Towards Multi-Granularity Visual Instruction Tuning**, `arXiv, 2406.17770`, [arxiv](http://arxiv.org/abs/2406.17770v1), [pdf](http://arxiv.org/pdf/2406.17770v1.pdf), cication: [**-1**](None)
+
+	 *Xiangyu Zhao, Xiangtai Li, Haodong Duan, Haian Huang, Yining Li, Kai Chen, Hua Yang* · ([phoenixz810.github](https://phoenixz810.github.io/MGLLaVA/)) · ([MG-LLaVA](https://github.com/PhoenixZ810/MG-LLaVA) - PhoenixZ810) ![Star](https://img.shields.io/github/stars/PhoenixZ810/MG-LLaVA.svg?style=social&label=Star)
+- **Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs**, `arXiv, 2406.16860`, [arxiv](http://arxiv.org/abs/2406.16860v1), [pdf](http://arxiv.org/pdf/2406.16860v1.pdf), cication: [**-1**](None)
+
+	 *Shengbang Tong, Ellis Brown, Penghao Wu, Sanghyun Woo, Manoj Middepogu, Sai Charitha Akula, Jihan Yang, Shusheng Yang, Adithya Iyer, Xichen Pan* · ([cambrian](https://github.com/cambrian-mllm/cambrian) - cambrian-mllm) ![Star](https://img.shields.io/github/stars/cambrian-mllm/cambrian.svg?style=social&label=Star) · ([cambrian-mllm.github](https://cambrian-mllm.github.io/))
 - **VoCo-LLaMA: Towards Vision Compression with Large Language Models**, `arXiv, 2406.12275`, [arxiv](http://arxiv.org/abs/2406.12275v1), [pdf](http://arxiv.org/pdf/2406.12275v1.pdf), cication: [**-1**](None)
 
 	 *Xubing Ye, Yukang Gan, Xiaoke Huang, Yixiao Ge, Ying Shan, Yansong Tang* · ([yxxxb.github](https://yxxxb.github.io/VoCo-LLaMA-page/))
@@ -1228,6 +1237,10 @@
 
 	 *Zhengfeng Lai, Haotian Zhang, Bowen Zhang, Wentao Wu, Haoping Bai, Aleksei Timofeev, Xianzhi Du, Zhe Gan, Jiulong Shan, Chen-Nee Chuah* · ([ml-veclip](https://github.com/apple/ml-veclip) - apple) ![Star](https://img.shields.io/github/stars/apple/ml-veclip.svg?style=social&label=Star)
 ## Reasoning 
+- **Math-LLaVA: Bootstrapping Mathematical Reasoning for Multimodal Large
+  Language Models**, `arXiv, 2406.17294`, [arxiv](http://arxiv.org/abs/2406.17294v1), [pdf](http://arxiv.org/pdf/2406.17294v1.pdf), cication: [**-1**](None)
+
+	 *Wenhao Shi, Zhiqiang Hu, Yi Bin, Junhua Liu, Yang Yang, See-Kiong Ng, Lidong Bing, Roy Ka-Wei Lee*
 - **Whiteboard-of-Thought: Thinking Step-by-Step Across Modalities**, `arXiv, 2406.14562`, [arxiv](http://arxiv.org/abs/2406.14562v1), [pdf](http://arxiv.org/pdf/2406.14562v1.pdf), cication: [**-1**](None)
 
 	 *Sachit Menon, Richard Zemel, Carl Vondrick*
@@ -1384,6 +1397,9 @@
 
 
 ## Evaluation
+- **Long Context Transfer from Language to Vision**, `arXiv, 2406.16852`, [arxiv](http://arxiv.org/abs/2406.16852v1), [pdf](http://arxiv.org/pdf/2406.16852v1.pdf), cication: [**-1**](None)
+
+	 *Peiyuan Zhang, Kaichen Zhang, Bo Li, Guangtao Zeng, Jingkang Yang, Yuanhan Zhang, Ziyue Wang, Haoran Tan, Chunyuan Li, Ziwei Liu* · ([LongVA](https://github.com/EvolvingLMMs-Lab/LongVA?tab=readme-ov-file) - EvolvingLMMs-Lab) ![Star](https://img.shields.io/github/stars/EvolvingLMMs-Lab/LongVA.svg?style=social&label=Star)
 - **Prism: A Framework for Decoupling and Assessing the Capabilities of VLMs**, `arXiv, 2406.14544`, [arxiv](http://arxiv.org/abs/2406.14544v1), [pdf](http://arxiv.org/pdf/2406.14544v1.pdf), cication: [**-1**](None)
 
 	 *Yuxuan Qiao, Haodong Duan, Xinyu Fang, Junming Yang, Lin Chen, Songyang Zhang, Jiaqi Wang, Dahua Lin, Kai Chen* · ([Prism](https://github.com/SparksJoe/Prism) - SparksJoe) ![Star](https://img.shields.io/github/stars/SparksJoe/Prism.svg?style=social&label=Star)

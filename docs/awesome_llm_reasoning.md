@@ -31,6 +31,9 @@
 	 *Jiankai Sun, Chuanyang Zheng, Enze Xie, Zhengying Liu, Ruihang Chu, Jianing Qiu, Jiaqi Xu, Mingyu Ding, Hongyang Li, Mengzhe Geng* · ([Awesome-Reasoning-Foundation-Models](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models) - reasoning-survey) ![Star](https://img.shields.io/github/stars/reasoning-survey/Awesome-Reasoning-Foundation-Models.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652421688&idx=3&sn=fcdc24edc7bc89ebcbcca0f7665e40f6))
 
 ## Reasoning
+- **Q*: Improving Multi-step Reasoning for LLMs with Deliberative Planning**, `arXiv, 2406.14283`, [arxiv](http://arxiv.org/abs/2406.14283v2), [pdf](http://arxiv.org/pdf/2406.14283v2.pdf), cication: [**-1**](None)
+
+	 *Chaojie Wang, Yanchen Deng, Zhiyi Lv, Shuicheng Yan, An Bo*
 - **Transformers meet Neural Algorithmic Reasoners**, `arXiv, 2406.09308`, [arxiv](http://arxiv.org/abs/2406.09308v1), [pdf](http://arxiv.org/pdf/2406.09308v1.pdf), cication: [**-1**](None)
 
 	 *Wilfried Bounsi, Borja Ibarz, Andrew Dudzik, Jessica B. Hamrick, Larisa Markeeva, Alex Vitvitskyi, Razvan Pascanu, Petar Veličković*

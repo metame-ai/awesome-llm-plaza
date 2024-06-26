@@ -497,6 +497,13 @@
 	 *Shufang Xie, Huishuai Zhang, Junliang Guo, Xu Tan, Jiang Bian, Hany Hassan Awadalla, Arul Menezes, Tao Qin, Rui Yan* · ([ResiDual](https://github.com/microsoft/ResiDual) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/ResiDual.svg?style=social&label=Star)
 
 ## Efficient Inference
+- **Towards Fast Multilingual LLM Inference: Speculative Decoding and
+  Specialized Drafters**, `arXiv, 2406.16758`, [arxiv](http://arxiv.org/abs/2406.16758v1), [pdf](http://arxiv.org/pdf/2406.16758v1.pdf), cication: [**-1**](None)
+
+	 *Euiin Yi, Taehyeon Kim, Hongseok Jeung, Du-Seong Chang, Se-Young Yun* · ([Multilingual-SpecBench](https://github.com/Kthyeon/Multilingual-SpecBench) - Kthyeon) ![Star](https://img.shields.io/github/stars/Kthyeon/Multilingual-SpecBench.svg?style=social&label=Star)
+- **EAGLE-2: Faster Inference of Language Models with Dynamic Draft Trees**, `arXiv, 2406.16858`, [arxiv](http://arxiv.org/abs/2406.16858v1), [pdf](http://arxiv.org/pdf/2406.16858v1.pdf), cication: [**-1**](None)
+
+	 *Yuhui Li, Fangyun Wei, Chao Zhang, Hongyang Zhang*
 - [Optimizing AI Inference at Character.AI](https://research.character.ai/optimizing-inference/)
 - **A Simple and Effective $L_2$ Norm-Based Strategy for KV Cache
   Compression**, `arXiv, 2406.11430`, [arxiv](http://arxiv.org/abs/2406.11430v1), [pdf](http://arxiv.org/pdf/2406.11430v1.pdf), cication: [**-1**](None)

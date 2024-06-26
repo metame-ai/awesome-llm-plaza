@@ -254,6 +254,9 @@
 	 *Timo Kaufmann, Paul Weng, Viktor Bengs, Eyke Hüllermeier*
 
 ## Papers
+- **WARP: On the Benefits of Weight Averaged Rewarded Policies**, `arXiv, 2406.16768`, [arxiv](http://arxiv.org/abs/2406.16768v1), [pdf](http://arxiv.org/pdf/2406.16768v1.pdf), cication: [**-1**](None)
+
+	 *Alexandre Ramé, Johan Ferret, Nino Vieillard, Robert Dadashi, Léonard Hussenot, Pierre-Louis Cedoz, Pier Giuseppe Sessa, Sertan Girgin, Arthur Douillard, Olivier Bachem*
 - **Bootstrapping Language Models with DPO Implicit Rewards**, `arXiv, 2406.09760`, [arxiv](http://arxiv.org/abs/2406.09760v1), [pdf](http://arxiv.org/pdf/2406.09760v1.pdf), cication: [**-1**](None)
 
 	 *Changyu Chen, Zichen Liu, Chao Du, Tianyu Pang, Qian Liu, Arunesh Sinha, Pradeep Varakantham, Min Lin* · ([dice](https://github.com/sail-sg/dice) - sail-sg) ![Star](https://img.shields.io/github/stars/sail-sg/dice.svg?style=social&label=Star)

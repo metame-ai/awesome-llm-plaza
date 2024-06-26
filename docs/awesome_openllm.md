@@ -38,6 +38,7 @@
 # English
 
 ## Foundation
+- [Fetching Title#pwot](https://huggingface.co/wave-on-discord/gemini-nano)
 - **GEB-1.3B: Open Lightweight Large Language Model**, `arXiv, 2406.09900`, [arxiv](http://arxiv.org/abs/2406.09900v1), [pdf](http://arxiv.org/pdf/2406.09900v1.pdf), cication: [**-1**](None)
 
 	 *Jie Wu, Yufeng Zhu, Lei Shen, Xuqing Lu*
@@ -199,6 +200,7 @@
 - [**Higgs-Llama-3-70B**](https://huggingface.co/bosonai/Higgs-Llama-3-70B) - bosonai 🤗
 - [Announcing the Higgs Family of LLMs](https://boson.ai/higgs-opensource/)
 - [**Hermes-2-Theta-Llama-3-70B**](https://huggingface.co/NousResearch/Hermes-2-Theta-Llama-3-70B) - NousResearch 🤗
+- [**Llama-3-Refueled**](https://huggingface.co/refuelai/Llama-3-Refueled) - refuelai 🤗
 ### Jamba
 - **Jamba: A Hybrid Transformer-Mamba Language Model**, `arXiv, 2403.19887`, [arxiv](http://arxiv.org/abs/2403.19887v1), [pdf](http://arxiv.org/pdf/2403.19887v1.pdf), cication: [**-1**](None)
 

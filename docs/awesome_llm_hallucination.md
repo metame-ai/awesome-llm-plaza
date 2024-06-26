@@ -33,6 +33,10 @@
 	 *Cunxiang Wang, Xiaoze Liu, Yuanhao Yue, Xiangru Tang, Tianhang Zhang, Cheng Jiayang, Yunzhi Yao, Wenyang Gao, Xuming Hu, Zehan Qi* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-19-2))
 
 ## Papers
+- **VideoHallucer: Evaluating Intrinsic and Extrinsic Hallucinations in
+  Large Video-Language Models**, `arXiv, 2406.16338`, [arxiv](http://arxiv.org/abs/2406.16338v1), [pdf](http://arxiv.org/pdf/2406.16338v1.pdf), cication: [**-1**](None)
+
+	 *Yuxuan Wang, Yueqian Wang, Dongyan Zhao, Cihang Xie, Zilong Zheng*
 - [**Lamini-Memory-Tuning**](https://github.com/lamini-ai/Lamini-Memory-Tuning/tree/main) - lamini-ai ![Star](https://img.shields.io/github/stars/lamini-ai/Lamini-Memory-Tuning.svg?style=social&label=Star)
 
 	 *Banishing LLM Hallucinations Requires Rethinking Generalization* · ([huggingface](https://huggingface.co/engineering-lamini/lamini-1-random))

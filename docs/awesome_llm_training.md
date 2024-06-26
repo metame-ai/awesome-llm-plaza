@@ -21,6 +21,9 @@
 
 
 ## Pretrain
+- **Efficient Continual Pre-training by Mitigating the Stability Gap**, `arXiv, 2406.14833`, [arxiv](http://arxiv.org/abs/2406.14833v1), [pdf](http://arxiv.org/pdf/2406.14833v1.pdf), cication: [**-1**](None)
+
+	 *Yiduo Guo, Jie Fu, Huishuai Zhang, Dongyan Zhao, Yikang Shen*
 - **Instruction Pre-Training: Language Models are Supervised Multitask
   Learners**, `arXiv, 2406.14491`, [arxiv](http://arxiv.org/abs/2406.14491v1), [pdf](http://arxiv.org/pdf/2406.14491v1.pdf), cication: [**-1**](None)
 
@@ -82,6 +85,9 @@
 - [贫穷让我预训练](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494110&idx=2&sn=52bfbf2d51d1704efc596263bccf23db)
 
 ## Scaling
+- **Scaling Laws for Linear Complexity Language Models**, `arXiv, 2406.16690`, [arxiv](http://arxiv.org/abs/2406.16690v1), [pdf](http://arxiv.org/pdf/2406.16690v1.pdf), cication: [**-1**](None)
+
+	 *Xuyang Shen, Dong Li, Ruitao Leng, Zhen Qin, Weigao Sun, Yiran Zhong*
 - **D-CPT Law: Domain-specific Continual Pre-Training Scaling Law for Large
   Language Models**, `arXiv, 2406.01375`, [arxiv](http://arxiv.org/abs/2406.01375v1), [pdf](http://arxiv.org/pdf/2406.01375v1.pdf), cication: [**-1**](None)
 
@@ -312,6 +318,9 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652375732&idx=2&sn=1cb4cefcd791af2a6ffacdf99e35225c))
 
 ## Optimization
+- **Adam-mini: Use Fewer Learning Rates To Gain More**, `arXiv, 2406.16793`, [arxiv](http://arxiv.org/abs/2406.16793v2), [pdf](http://arxiv.org/pdf/2406.16793v2.pdf), cication: [**-1**](None)
+
+	 *Yushun Zhang, Congliang Chen, Ziniu Li, Tian Ding, Chenwei Wu, Yinyu Ye, Zhi-Quan Luo, Ruoyu Sun*
 - **Be like a Goldfish, Don't Memorize! Mitigating Memorization in
   Generative LLMs**, `arXiv, 2406.10209`, [arxiv](http://arxiv.org/abs/2406.10209v1), [pdf](http://arxiv.org/pdf/2406.10209v1.pdf), cication: [**-1**](None)
 

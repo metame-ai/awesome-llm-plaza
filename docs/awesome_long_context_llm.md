@@ -35,6 +35,10 @@
 	 *Adyasha Maharana, Dong-Ho Lee, Sergey Tulyakov, Mohit Bansal, Francesco Barbieri, Yuwei Fang*
 
 ## Papers
+- **Recite, Reconstruct, Recollect: Memorization in LMs as a Multifaceted
+  Phenomenon**, `arXiv, 2406.17746`, [arxiv](http://arxiv.org/abs/2406.17746v1), [pdf](http://arxiv.org/pdf/2406.17746v1.pdf), cication: [**-1**](None)
+
+	 *USVSN Sai Prashanth, Alvin Deng, Kyle O'Brien, Jyothir S V, Mohammad Aflah Khan, Jaydeep Borkar, Christopher A. Choquette-Choo, Jacob Ray Fuehne, Stella Biderman, Tracy Ke*
 - **Can Long-Context Language Models Subsume Retrieval, RAG, SQL, and More?**, `arXiv, 2406.13121`, [arxiv](http://arxiv.org/abs/2406.13121v1), [pdf](http://arxiv.org/pdf/2406.13121v1.pdf), cication: [**-1**](None)
 
 	 *Jinhyuk Lee, Anthony Chen, Zhuyun Dai, Dheeru Dua, Devendra Singh Sachan, Michael Boratko, Yi Luan, Sébastien M. R. Arnold, Vincent Perot, Siddharth Dalmia* · ([loft](https://github.com/google-deepmind/loft) - google-deepmind) ![Star](https://img.shields.io/github/stars/google-deepmind/loft.svg?style=social&label=Star)
@@ -296,6 +300,7 @@
 	 *LongLLaMA is a large language model capable of handling long contexts. It is based on OpenLLaMA and fine-tuned with the Focused Transformer (FoT) method.*
 
 ## Other
+-  [influential papers from the recent past, exploring efficient context-window increase of LLMs](https://x.com/rohanpaul_ai/status/1805382628742234179)
 - [Unlocking Longer Generation with Key-Value Cache Quantization](https://huggingface.co/blog/kv-cache-quantization)
 - [Unsloth - 4x longer context windows & 1.7x larger batch sizes](https://unsloth.ai/blog/long-context)
 -  [a certain pattern among many attention heads](https://twitter.com/arankomatsuzaki/status/1767276661894943226)

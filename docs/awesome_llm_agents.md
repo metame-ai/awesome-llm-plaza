@@ -756,6 +756,16 @@
 - [GPT-4V学会用键鼠上网，人类眼睁睁看着它发帖玩游戏 | 量子位](https://www.qbitai.com/2023/11/95456.html)
 
 ## Retrieval agumented generation
+- **Towards Retrieval Augmented Generation over Large Video Libraries**, `arXiv, 2406.14938`, [arxiv](http://arxiv.org/abs/2406.14938v1), [pdf](http://arxiv.org/pdf/2406.14938v1.pdf), cication: [**-1**](None)
+
+	 *Yannis Tevissen, Khalil Guetari, Frédéric Petitpont*
+- **LongRAG: Enhancing Retrieval-Augmented Generation with Long-context LLMs**, `arXiv, 2406.15319`, [arxiv](http://arxiv.org/abs/2406.15319v1), [pdf](http://arxiv.org/pdf/2406.15319v1.pdf), cication: [**-1**](None)
+
+	 *Ziyan Jiang, Xueguang Ma, Wenhu Chen* · ([LongRAG](https://github.com/TIGER-AI-Lab/LongRAG/) - TIGER-AI-Lab) ![Star](https://img.shields.io/github/stars/TIGER-AI-Lab/LongRAG.svg?style=social&label=Star) · ([tiger-ai-lab.github](https://tiger-ai-lab.github.io/LongRAG/))
+- **PlanRAG: A Plan-then-Retrieval Augmented Generation for Generative Large
+  Language Models as Decision Makers**, `arXiv, 2406.12430`, [arxiv](http://arxiv.org/abs/2406.12430v1), [pdf](http://arxiv.org/pdf/2406.12430v1.pdf), cication: [**-1**](None)
+
+	 *Myeonghwa Lee, Seonho An, Min-Soo Kim* · ([PlanRAG](https://github.com/myeon9h/PlanRAG) - myeon9h) ![Star](https://img.shields.io/github/stars/myeon9h/PlanRAG.svg?style=social&label=Star)
 - **Multi-Head RAG: Solving Multi-Aspect Problems with LLMs**, `arXiv, 2406.05085`, [arxiv](http://arxiv.org/abs/2406.05085v1), [pdf](http://arxiv.org/pdf/2406.05085v1.pdf), cication: [**-1**](None)
 
 	 *Maciej Besta, Ales Kubicek, Roman Niggli, Robert Gerstenberger, Lucas Weitzendorf, Mingyuan Chi, Patrick Iff, Joanna Gajda, Piotr Nyczyk, Jürgen Müller* · ([mrag](https://github.com/spcl/mrag) - spcl) ![Star](https://img.shields.io/github/stars/spcl/mrag.svg?style=social&label=Star)

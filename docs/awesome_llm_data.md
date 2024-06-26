@@ -14,12 +14,22 @@
 
 
 ## Survey
+- **On LLMs-Driven Synthetic Data Generation, Curation, and Evaluation: A
+  Survey**, `arXiv, 2406.15126`, [arxiv](http://arxiv.org/abs/2406.15126v1), [pdf](http://arxiv.org/pdf/2406.15126v1.pdf), cication: [**-1**](None)
+
+	 *Lin Long, Rui Wang, Ruixuan Xiao, Junbo Zhao, Xiao Ding, Gang Chen, Haobo Wang*
 - **On Protecting the Data Privacy of Large Language Models (LLMs): A Survey**, `arXiv, 2403.05156`, [arxiv](http://arxiv.org/abs/2403.05156v1), [pdf](http://arxiv.org/pdf/2403.05156v1.pdf), cication: [**-1**](None)
 
 	 *Biwei Yan, Kun Li, Minghui Xu, Yueyan Dong, Yue Zhang, Zhaochun Ren, Xiuzheng Cheng*
+- **The Responsible Foundation Model Development Cheatsheet: A Review of
+  Tools & Resources**, `arXiv, 2406.16746`, [arxiv](http://arxiv.org/abs/2406.16746v1), [pdf](http://arxiv.org/pdf/2406.16746v1.pdf), cication: [**-1**](None)
+
+	 *Shayne Longpre, Stella Biderman, Alon Albalak, Hailey Schoelkopf, Daniel McDuff, Sayash Kapoor, Kevin Klyman, Kyle Lo, Gabriel Ilharco, Nay San*
 - [**fm-cheatsheet**](https://github.com/allenai/fm-cheatsheet/tree/main) - allenai ![Star](https://img.shields.io/github/stars/allenai/fm-cheatsheet.svg?style=social&label=Star)
 
 	 *Website for hosting the Open Foundation Models Cheat Sheet.* · ([fm-cheatsheet](https://github.com/allenai/fm-cheatsheet/blob/main/app/resources/paper.pdf) - allenai) ![Star](https://img.shields.io/github/stars/allenai/fm-cheatsheet.svg?style=social&label=Star)
+
+	 · ([fmcheatsheet](https://fmcheatsheet.org/))
 - **Datasets for Large Language Models: A Comprehensive Survey**, `arXiv, 2402.18041`, [arxiv](http://arxiv.org/abs/2402.18041v1), [pdf](http://arxiv.org/pdf/2402.18041v1.pdf), cication: [**-1**](None)
 
 	 *Yang Liu, Jiahuan Cao, Chongyu Liu, Kai Ding, Lianwen Jin*
@@ -428,6 +438,7 @@
 	 *A one-stop data processing system to make data higher-quality, juicier, and more digestible for LLMs! 🍎 🍋 🌽 ➡️ ➡️🍸 🍹 🍷为大语言模型提供更高质量、更丰富、更易”消化“的数据！*
 
 ## Other
+- [Fetching Title#pnti](https://huggingface.co/blog/ethics-soc-6)
 - [Nomic Atlas](https://atlas.nomic.ai/map/f2fba2aa-3647-4f49-a0f3-9347daeee499/ee4a84bd-f125-4bcc-a683-1b4e231cb10f)
 - [**community-datasets**](https://huggingface.co/blog/community-datasets) -  🤗
 - [Synthetic data: save money, time and carbon with open source](https://huggingface.co/blog/synthetic-data-save-costs)

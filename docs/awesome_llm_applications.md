@@ -676,6 +676,9 @@
 - [小扎发布虚拟聊天AI，竟「1:1复刻」Character.AI？用户吐槽：设定太老土了](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652382135&idx=3&sn=b7e8ff8f375772a1bf71989d8e2f4565)
 
 ## Law
+- **InternLM-Law: An Open Source Chinese Legal Large Language Model**, `arXiv, 2406.14887`, [arxiv](http://arxiv.org/abs/2406.14887v1), [pdf](http://arxiv.org/pdf/2406.14887v1.pdf), cication: [**-1**](None)
+
+	 *Zhiwei Fei, Songyang Zhang, Xiaoyu Shen, Dawei Zhu, Xiao Wang, Maosong Cao, Fengzhe Zhou, Yining Li, Wenwei Zhang, Dahua Lin* · ([InternLM-Law](https://github.com/InternLM/InternLM-Law) - InternLM) ![Star](https://img.shields.io/github/stars/InternLM/InternLM-Law.svg?style=social&label=Star)
 - **FLawN-T5: An Empirical Examination of Effective Instruction-Tuning Data
   Mixtures for Legal Reasoning**, `arXiv, 2404.02127`, [arxiv](http://arxiv.org/abs/2404.02127v1), [pdf](http://arxiv.org/pdf/2404.02127v1.pdf), cication: [**-1**](None)
 

@@ -499,6 +499,12 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652345558&idx=4&sn=95686435d5cad05d44cbe02bc26d6859))
 
 ## Interpretability 
+- **The Missing Curve Detectors of InceptionV1: Applying Sparse Autoencoders
+  to InceptionV1 Early Vision**, `arXiv, 2406.03662`, [arxiv](http://arxiv.org/abs/2406.03662v1), [pdf](http://arxiv.org/pdf/2406.03662v1.pdf), cication: [**-1**](None)
+
+	 *Liv Gorton*
+
+	 · ([livgorton](https://livgorton.com/missing-curve-detectors/))
 - **From RAGs to rich parameters: Probing how language models utilize
   external knowledge over parametric information for factual queries**, `arXiv, 2406.12824`, [arxiv](http://arxiv.org/abs/2406.12824v1), [pdf](http://arxiv.org/pdf/2406.12824v1.pdf), cication: [**-1**](None)
 
