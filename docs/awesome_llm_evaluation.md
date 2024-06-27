@@ -28,6 +28,9 @@
 	 *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang*
 
 ## Papers
+- **LongIns: A Challenging Long-context Instruction-based Exam for LLMs**, `arXiv, 2406.17588`, [arxiv](http://arxiv.org/abs/2406.17588v2), [pdf](http://arxiv.org/pdf/2406.17588v2.pdf), cication: [**-1**](None)
+
+	 *Shawn Gavin, Tuney Zheng, Jiaheng Liu, Quehry Que, Noah Wang, Jian Yang, Chenchen Zhang, Wenhao Huang, Wenhu Chen, Ge Zhang*
 - **OlympicArena Medal Ranks: Who Is the Most Intelligent AI So Far?**, `arXiv, 2406.16772`, [arxiv](http://arxiv.org/abs/2406.16772v1), [pdf](http://arxiv.org/pdf/2406.16772v1.pdf), cication: [**-1**](None)
 
 	 *Zhen Huang, Zengzhi Wang, Shijie Xia, Pengfei Liu* · ([OlympicArena](https://github.com/GAIR-NLP/OlympicArena) - GAIR-NLP) ![Star](https://img.shields.io/github/stars/GAIR-NLP/OlympicArena.svg?style=social&label=Star) · ([gair-nlp.github](https://gair-nlp.github.io/OlympicArena/))

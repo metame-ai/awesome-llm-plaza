@@ -142,6 +142,10 @@
 	 · ([datablations](https://github.com/huggingface/datablations) - huggingface) ![Star](https://img.shields.io/github/stars/huggingface/datablations.svg?style=social&label=Star)
 
 ## Datasets
+- **The FineWeb Datasets: Decanting the Web for the Finest Text Data at
+  Scale**, `arXiv, 2406.17557`, [arxiv](http://arxiv.org/abs/2406.17557v1), [pdf](http://arxiv.org/pdf/2406.17557v1.pdf), cication: [**-1**](None)
+
+	 *Guilherme Penedo, Hynek Kydlíček, Loubna Ben allal, Anton Lozhkov, Margaret Mitchell, Colin Raffel, Leandro Von Werra, Thomas Wolf*
 - [**fineweb-edu**](https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu) - HuggingFaceFW 🤗
 - [**blogpost-fineweb-v1**](https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1) - HuggingFaceFW 🤗
 - [**RedPajama-Data**](https://github.com/togethercomputer/RedPajama-Data) - togethercomputer ![Star](https://img.shields.io/github/stars/togethercomputer/RedPajama-Data.svg?style=social&label=Star)

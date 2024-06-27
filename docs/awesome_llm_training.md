@@ -553,6 +553,9 @@
 
 
 ##  Online Learning
+- **Unlocking Continual Learning Abilities in Language Models**, `arXiv, 2406.17245`, [arxiv](http://arxiv.org/abs/2406.17245v1), [pdf](http://arxiv.org/pdf/2406.17245v1.pdf), cication: [**-1**](None)
+
+	 *Wenyu Du, Shuang Cheng, Tongxu Luo, Zihan Qiu, Zeyu Huang, Ka Chun Cheung, Reynold Cheng, Jie Fu* · ([MIGU](https://github.com/wenyudu/MIGU) - wenyudu) ![Star](https://img.shields.io/github/stars/wenyudu/MIGU.svg?style=social&label=Star)
 - **Online Training of Large Language Models: Learn while chatting**, `arXiv, 2403.04790`, [arxiv](http://arxiv.org/abs/2403.04790v1), [pdf](http://arxiv.org/pdf/2403.04790v1.pdf), cication: [**-1**](None)
 
 	 *Juhao Liang, Ziwei Wang, Zhuoheng Ma, Jianquan Li, Zhiyi Zhang, Xiangbo Wu, Benyou Wang*
