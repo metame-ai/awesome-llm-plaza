@@ -911,6 +911,7 @@
 	 *DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.*
 
 ## Efficient transformer
+- [Fetching Title#v73p](https://towardsdatascience.com/flash-attention-fast-and-memory-efficient-exact-attention-with-io-awareness-a-deep-dive-724af489997b)
 - **Block Transformer: Global-to-Local Language Modeling for Fast Inference**, `arXiv, 2406.02657`, [arxiv](http://arxiv.org/abs/2406.02657v1), [pdf](http://arxiv.org/pdf/2406.02657v1.pdf), cication: [**-1**](None)
 
 	 *Namgyu Ho, Sangmin Bae, Taehyeon Kim, Hyunjik Jo, Yireun Kim, Tal Schuster, Adam Fisch, James Thorne, Se-Young Yun*

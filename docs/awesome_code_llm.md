@@ -26,6 +26,9 @@
 	 *Ziyin Zhang, Chaoyu Chen, Bingchang Liu, Cong Liao, Zi Gong, Hang Yu, Jianguo Li, Rui Wang*
 
 ## Paper
+- [LLM Critics Help Catch LLM Bugs](https://cdn.openai.com/llm-critics-help-catch-llm-bugs-paper.pdf)
+
+	 · ([openai](https://openai.com/index/finding-gpt4s-mistakes-with-gpt-4/))
 - **Long Code Arena: a Set of Benchmarks for Long-Context Code Models**, `arXiv, 2406.11612`, [arxiv](http://arxiv.org/abs/2406.11612v1), [pdf](http://arxiv.org/pdf/2406.11612v1.pdf), cication: [**-1**](None)
 
 	 *Egor Bogomolov, Aleksandra Eliseeva, Timur Galimzyanov, Evgeniy Glukhov, Anton Shapkin, Maria Tigina, Yaroslav Golubev, Alexander Kovrigin, Arie van Deursen, Maliheh Izadi* · ([huggingface](https://huggingface.co/spaces/JetBrains-Research/long-code-arena))

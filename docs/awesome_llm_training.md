@@ -318,6 +318,7 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652375732&idx=2&sn=1cb4cefcd791af2a6ffacdf99e35225c))
 
 ## Optimization
+- [MiniCPM: Unveiling the Potential of End-side Large Language Models](https://shengdinghu.notion.site/MiniCPM-Unveiling-the-Potential-of-End-side-Large-Language-Models-d4d3a8c426424654a4e80e42a711cb20)
 - **Adam-mini: Use Fewer Learning Rates To Gain More**, `arXiv, 2406.16793`, [arxiv](http://arxiv.org/abs/2406.16793v2), [pdf](http://arxiv.org/pdf/2406.16793v2.pdf), cication: [**-1**](None)
 
 	 *Yushun Zhang, Congliang Chen, Ziniu Li, Tian Ding, Chenwei Wu, Yinyu Ye, Zhi-Quan Luo, Ruoyu Sun*
@@ -430,6 +431,9 @@
 - [Weight averaging and model merging for LLMs seem to be the most interesting themes in 2024 so far. ](https://twitter.com/rasbt/status/1750180383398744106)
 
 ## MoE
+- **A Closer Look into Mixture-of-Experts in Large Language Models**, `arXiv, 2406.18219`, [arxiv](http://arxiv.org/abs/2406.18219v1), [pdf](http://arxiv.org/pdf/2406.18219v1.pdf), cication: [**-1**](None)
+
+	 *Ka Man Lo, Zeyu Huang, Zihan Qiu, Zili Wang, Jie Fu* · ([Look-into-MoEs](https://github.com/kamanphoebe/Look-into-MoEs) - kamanphoebe) ![Star](https://img.shields.io/github/stars/kamanphoebe/Look-into-MoEs.svg?style=social&label=Star)
 - **Self-MoE: Towards Compositional Large Language Models with
   Self-Specialized Experts**, `arXiv, 2406.12034`, [arxiv](http://arxiv.org/abs/2406.12034v1), [pdf](http://arxiv.org/pdf/2406.12034v1.pdf), cication: [**-1**](None)
 

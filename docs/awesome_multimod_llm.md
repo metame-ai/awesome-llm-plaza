@@ -1199,6 +1199,9 @@
 - ["宝藏AI神器"通义听悟上新：超长音视频随便问，高校师生可获500小时免费时长 | 量子位](https://www.qbitai.com/2024/03/129271.html)
 
 ## CLIP
+- **4M-21: An Any-to-Any Vision Model for Tens of Tasks and Modalities**, `arXiv, 2406.09406`, [arxiv](http://arxiv.org/abs/2406.09406v2), [pdf](http://arxiv.org/pdf/2406.09406v2.pdf), cication: [**-1**](None)
+
+	 *Roman Bachmann, Oğuzhan Fatih Kar, David Mizrahi, Ali Garjani, Mingfei Gao, David Griffiths, Jiaming Hu, Afshin Dehghan, Amir Zamir*
 - **Jina CLIP: Your CLIP Model Is Also Your Text Retriever**, `arXiv, 2405.20204`, [arxiv](http://arxiv.org/abs/2405.20204v1), [pdf](http://arxiv.org/pdf/2405.20204v1.pdf), cication: [**-1**](None)
 
 	 *Andreas Koukounas, Georgios Mastrapas, Michael Günther, Bo Wang, Scott Martens, Isabelle Mohr, Saba Sturua, Mohammad Kalim Akram, Joan Fontanals Martínez, Saahil Ognawala*

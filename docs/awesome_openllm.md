@@ -218,7 +218,10 @@
 - [**dbrx-instruct**](https://huggingface.co/databricks/dbrx-instruct) - databricks 🤗
 
 ### Gemma
-- [Fetching Title#nst4](https://huggingface.co/google/gemma-1.1-7b-it)
+- [Gemma 2 Release - a google Collection](https://huggingface.co/collections/google/gemma-2-release-667d6600fd5220e7b967f315)
+
+	 · ([x](https://x.com/danielhanchen/status/1806372357684220308))
+- [**gemma-1.1-7b-it**](https://huggingface.co/google/gemma-1.1-7b-it) - google 🤗
 - **Gemma: Open Models Based on Gemini Research and Technology**, `arXiv, 2403.08295`, [arxiv](http://arxiv.org/abs/2403.08295v1), [pdf](http://arxiv.org/pdf/2403.08295v1.pdf), cication: [**-1**](None)
 
 	 *Gemma Team, Thomas Mesnard, Cassidy Hardin, Robert Dadashi, Surya Bhupatiraju, Shreya Pathak, Laurent Sifre, Morgane Rivière, Mihir Sanjay Kale, Juliette Love*

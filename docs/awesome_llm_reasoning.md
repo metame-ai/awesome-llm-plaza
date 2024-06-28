@@ -436,6 +436,10 @@
 - [大模型Fewshot推理如何选择更好的示例](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495177&idx=2&sn=fe8353efed16a81e35462be06d5a6cea)
 
 ## Math reasoning
+- **Math-LLaVA: Bootstrapping Mathematical Reasoning for Multimodal Large
+  Language Models**, `arXiv, 2406.17294`, [arxiv](http://arxiv.org/abs/2406.17294v2), [pdf](http://arxiv.org/pdf/2406.17294v2.pdf), cication: [**-1**](None)
+
+	 *Wenhao Shi, Zhiqiang Hu, Yi Bin, Junhua Liu, Yang Yang, See-Kiong Ng, Lidong Bing, Roy Ka-Wei Lee* · ([Math-LLaVA](https://github.com/HZQ950419/Math-LLaVA) - HZQ950419) ![Star](https://img.shields.io/github/stars/HZQ950419/Math-LLaVA.svg?style=social&label=Star)
 - **ReST-MCTS*: LLM Self-Training via Process Reward Guided Tree Search**, `arXiv, 2406.03816`, [arxiv](http://arxiv.org/abs/2406.03816v1), [pdf](http://arxiv.org/pdf/2406.03816v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=16501772350745075519&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Dan Zhang, Sining Zhoubian, Yisong Yue, Yuxiao Dong, Jie Tang*

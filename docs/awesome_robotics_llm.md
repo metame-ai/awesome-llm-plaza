@@ -12,6 +12,9 @@
 	 *Yeseung Kim, Dohyun Kim, Jieun Choi, Jisang Park, Nayoung Oh, Daehyung Park*
 
 ## Papers
+- **Octo-planner: On-device Language Model for Planner-Action Agents**, `arXiv, 2406.18082`, [arxiv](http://arxiv.org/abs/2406.18082v1), [pdf](http://arxiv.org/pdf/2406.18082v1.pdf), cication: [**-1**](None)
+
+	 *Wei Chen, Zhiyuan Li, Zhen Guo, Yikang Shen* · ([huggingface](https://huggingface.co/NexaAIDev/octopus-planning)) · ([nexa4ai](https://www.nexa4ai.com/octo-planner))
 - **OpenVLA: An Open-Source Vision-Language-Action Model**, `arXiv, 2406.09246`, [arxiv](http://arxiv.org/abs/2406.09246v1), [pdf](http://arxiv.org/pdf/2406.09246v1.pdf), cication: [**-1**](None)
 
 	 *Moo Jin Kim, Karl Pertsch, Siddharth Karamcheti, Ted Xiao, Ashwin Balakrishna, Suraj Nair, Rafael Rafailov, Ethan Foster, Grace Lam, Pannag Sanketi* · ([openvla.github](https://openvla.github.io/)) · ([openvla](https://github.com/openvla/openvla) - openvla) ![Star](https://img.shields.io/github/stars/openvla/openvla.svg?style=social&label=Star)

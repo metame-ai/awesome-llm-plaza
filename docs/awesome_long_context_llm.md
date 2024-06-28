@@ -35,6 +35,10 @@
 	 *Adyasha Maharana, Dong-Ho Lee, Sergey Tulyakov, Mohit Bansal, Francesco Barbieri, Yuwei Fang*
 
 ## Papers
+- **Sparser is Faster and Less is More: Efficient Sparse Attention for
+  Long-Range Transformers**, `arXiv, 2406.16747`, [arxiv](http://arxiv.org/abs/2406.16747v1), [pdf](http://arxiv.org/pdf/2406.16747v1.pdf), cication: [**-1**](None)
+
+	 *Chao Lou, Zixia Jia, Zilong Zheng, Kewei Tu*
 - **Recite, Reconstruct, Recollect: Memorization in LMs as a Multifaceted
   Phenomenon**, `arXiv, 2406.17746`, [arxiv](http://arxiv.org/abs/2406.17746v1), [pdf](http://arxiv.org/pdf/2406.17746v1.pdf), cication: [**-1**](None)
 

@@ -984,6 +984,7 @@
 	 *Tongshuang Wu, Haiyi Zhu, Maya Albayrak, Alexis Axon, Amanda Bertsch, Wenxing Deng, Ziqi Ding, Bill Guo, Sireesh Gururaja, Tzu-Sheng Kuo*
 
 ## Misc
+- [LLM Compiler - a facebook Collection](https://huggingface.co/collections/facebook/llm-compiler-667c5b05557fe99a9edd25cb)
 - **Large Language Models as Planning Domain Generators**, `arXiv, 2405.06650`, [arxiv](http://arxiv.org/abs/2405.06650v1), [pdf](http://arxiv.org/pdf/2405.06650v1.pdf), cication: [**-1**](None)
 
 	 *James Oswald, Kavitha Srinivas, Harsha Kokel, Junkyu Lee, Michael Katz, Shirin Sohrabi* · ([NL2PDDL](https://github.com/IBM/NL2PDDL) - IBM) ![Star](https://img.shields.io/github/stars/IBM/NL2PDDL.svg?style=social&label=Star)

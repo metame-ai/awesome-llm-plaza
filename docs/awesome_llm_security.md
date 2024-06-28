@@ -65,6 +65,10 @@
 	 *Stephen Casper, Jason Lin, Joe Kwon, Gatlen Culp, Dylan Hadfield-Menell*
 
 ## Papers
+- **WildGuard: Open One-Stop Moderation Tools for Safety Risks, Jailbreaks,
+  and Refusals of LLMs**, `arXiv, 2406.18495`, [arxiv](http://arxiv.org/abs/2406.18495v1), [pdf](http://arxiv.org/pdf/2406.18495v1.pdf), cication: [**-1**](None)
+
+	 *Seungju Han, Kavel Rao, Allyson Ettinger, Liwei Jiang, Bill Yuchen Lin, Nathan Lambert, Yejin Choi, Nouha Dziri*
 - **Jailbreaking as a Reward Misspecification Problem**, `arXiv, 2406.14393`, [arxiv](http://arxiv.org/abs/2406.14393v1), [pdf](http://arxiv.org/pdf/2406.14393v1.pdf), cication: [**-1**](None)
 
 	 *Zhihui Xie, Jiahui Gao, Lei Li, Zhenguo Li, Qi Liu, Lingpeng Kong*
