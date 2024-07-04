@@ -12,6 +12,13 @@
 	 *Yeseung Kim, Dohyun Kim, Jieun Choi, Jisang Park, Nayoung Oh, Daehyung Park*
 
 ## Papers
+- [[2406.20095] LLaRA: Supercharging Robot Learning Data for Vision-Language Policy](https://arxiv.org/abs/2406.20095)
+
+	 · ([LLaRA](https://github.com/LostXine/LLaRA) - LostXine) ![Star](https://img.shields.io/github/stars/LostXine/LLaRA.svg?style=social&label=Star)
+- [2406.20083](https://arxiv.org/pdf/2406.20083)
+- [[2407.00114] OmniJARVIS: Unified Vision-Language-Action Tokenization Enables Open-World Instruction Following Agents](https://arxiv.org/abs/2407.00114)
+
+	 · ([OmniJarvis](https://github.com/CraftJarvis/OmniJarvis) - CraftJarvis) ![Star](https://img.shields.io/github/stars/CraftJarvis/OmniJarvis.svg?style=social&label=Star) · ([omnijarvis.github](https://omnijarvis.github.io/))
 - **Octo-planner: On-device Language Model for Planner-Action Agents**, `arXiv, 2406.18082`, [arxiv](http://arxiv.org/abs/2406.18082v1), [pdf](http://arxiv.org/pdf/2406.18082v1.pdf), cication: [**-1**](None)
 
 	 *Wei Chen, Zhiyuan Li, Zhen Guo, Yikang Shen* · ([huggingface](https://huggingface.co/NexaAIDev/octopus-planning)) · ([nexa4ai](https://www.nexa4ai.com/octo-planner))

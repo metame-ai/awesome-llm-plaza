@@ -97,6 +97,10 @@
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-18-4))
 ## Agents
+- [[2407.01502] AI Agents That Matter](https://arxiv.org/abs/2407.01502)
+- [2407.01231](https://arxiv.org/pdf/2407.01231)
+
+	 · ([MIRAI](https://github.com/yecchen/MIRAI) - yecchen) ![Star](https://img.shields.io/github/stars/yecchen/MIRAI.svg?style=social&label=Star)
 - **GUICourse: From General Vision Language Models to Versatile GUI Agents**, `arXiv, 2406.11317`, [arxiv](http://arxiv.org/abs/2406.11317v1), [pdf](http://arxiv.org/pdf/2406.11317v1.pdf), cication: [**-1**](None)
 
 	 *Wentong Chen, Junbo Cui, Jinyi Hu, Yujia Qin, Junjie Fang, Yue Zhao, Chongyi Wang, Jun Liu, Guirong Chen, Yupeng Huo* · ([GUICourse](https://github.com/yiye3/GUICourse) - yiye3) ![Star](https://img.shields.io/github/stars/yiye3/GUICourse.svg?style=social&label=Star)
@@ -756,6 +760,10 @@
 - [GPT-4V学会用键鼠上网，人类眼睁睁看着它发帖玩游戏 | 量子位](https://www.qbitai.com/2023/11/95456.html)
 
 ## Retrieval agumented generation
+- [[2407.01219] Searching for Best Practices in Retrieval-Augmented Generation](https://arxiv.org/abs/2407.01219)
+- [**graphrag**](https://github.com/microsoft/graphrag) - microsoft ![Star](https://img.shields.io/github/stars/microsoft/graphrag.svg?style=social&label=Star)
+
+	 *A modular graph-based Retrieval-Augmented Generation (RAG) system*
 - **Towards Retrieval Augmented Generation over Large Video Libraries**, `arXiv, 2406.14938`, [arxiv](http://arxiv.org/abs/2406.14938v1), [pdf](http://arxiv.org/pdf/2406.14938v1.pdf), cication: [**-1**](None)
 
 	 *Yannis Tevissen, Khalil Guetari, Frédéric Petitpont*

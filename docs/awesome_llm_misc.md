@@ -229,6 +229,9 @@
 	 *Greg Serapio-García, Mustafa Safdari, Clément Crepy, Luning Sun, Stephen Fitz, Peter Romero, Marwa Abdulhai, Aleksandra Faust, Maja Matarić*
 
 ## World Model
+- [Fetching Title#t4fm](https://arxiv.org/abs/2406.19320)
+
+	 · ([delta-iris](https://github.com/vmicheli/delta-iris) - vmicheli) ![Star](https://img.shields.io/github/stars/vmicheli/delta-iris.svg?style=social&label=Star)
 - **Can Language Models Serve as Text-Based World Simulators?**, `arXiv, 2406.06485`, [arxiv](http://arxiv.org/abs/2406.06485v1), [pdf](http://arxiv.org/pdf/2406.06485v1.pdf), cication: [**-1**](None)
 
 	 *Ruoyao Wang, Graham Todd, Ziang Xiao, Xingdi Yuan, Marc-Alexandre Côté, Peter Clark, Peter Jansen*

@@ -533,6 +533,7 @@
 	 *Chongming Gao, Wenqiang Lei, Xiangnan He, Maarten de Rijke, Tat-Seng Chua* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495345&idx=2&sn=5e3ac087c792081705dde1c2542c687a))
 
 ## Role play
+
 - [DreamGen Opus v1.4 70B Llama 3 - a dreamgen Collection](https://huggingface.co/collections/dreamgen/dreamgen-opus-v14-70b-llama-3-6672c7b3cf95a2a36d061c6d)
 
 	 · ([reddit](https://www.reddit.com/r/LocalLLaMA/comments/1djo3of/llama_3_70b_roleplay_story_writing_model_dreamgen/?utm_source=ainews&utm_medium=email&utm_campaign=ainews-claude-crushes-code-92-humaneval-and))
@@ -984,6 +985,9 @@
 	 *Tongshuang Wu, Haiyi Zhu, Maya Albayrak, Alexis Axon, Amanda Bertsch, Wenxing Deng, Ziqi Ding, Bill Guo, Sireesh Gururaja, Tzu-Sheng Kuo*
 
 ## Misc
+- [2406.18665](https://arxiv.org/pdf/2406.18665)
+
+	 · ([RouteLLM](https://github.com/lm-sys/RouteLLM) - lm-sys) ![Star](https://img.shields.io/github/stars/lm-sys/RouteLLM.svg?style=social&label=Star) · ([youtube](https://www.youtube.com/watch?v=V_K6PCmdtRg&ab_channel=SamWitteveen))
 - [LLM Compiler - a facebook Collection](https://huggingface.co/collections/facebook/llm-compiler-667c5b05557fe99a9edd25cb)
 - **Large Language Models as Planning Domain Generators**, `arXiv, 2405.06650`, [arxiv](http://arxiv.org/abs/2405.06650v1), [pdf](http://arxiv.org/pdf/2405.06650v1.pdf), cication: [**-1**](None)
 

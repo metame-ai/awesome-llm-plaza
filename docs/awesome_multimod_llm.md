@@ -258,6 +258,9 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image
+- [[2407.03320] InternLM-XComposer-2.5: A Versatile Large Vision Language Model Supporting Long-Contextual Input and Output](https://arxiv.org/abs/2407.03320)
+
+	 · ([InternLM-XComposer](https://github.com/InternLM/InternLM-XComposer) - InternLM) ![Star](https://img.shields.io/github/stars/InternLM/InternLM-XComposer.svg?style=social&label=Star)
 - **MG-LLaVA: Towards Multi-Granularity Visual Instruction Tuning**, `arXiv, 2406.17770`, [arxiv](http://arxiv.org/abs/2406.17770v1), [pdf](http://arxiv.org/pdf/2406.17770v1.pdf), cication: [**-1**](None)
 
 	 *Xiangyu Zhao, Xiangtai Li, Haodong Duan, Haian Huang, Yining Li, Kai Chen, Hua Yang* · ([phoenixz810.github](https://phoenixz810.github.io/MGLLaVA/)) · ([MG-LLaVA](https://github.com/PhoenixZ810/MG-LLaVA) - PhoenixZ810) ![Star](https://img.shields.io/github/stars/PhoenixZ810/MG-LLaVA.svg?style=social&label=Star)
@@ -1323,6 +1326,7 @@
 
 	 *Mingsheng Li, Xin Chen, Chi Zhang, Sijin Chen, Hongyuan Zhu, Fukun Yin, Gang Yu, Tao Chen*
 ## Projects
+- [**internlm-xcomposer2d5-7b**](https://huggingface.co/internlm/internlm-xcomposer2d5-7b) - internlm 🤗
 - [**llama3v**](https://github.com/mustafaaljadery/llama3v) - mustafaaljadery ![Star](https://img.shields.io/github/stars/mustafaaljadery/llama3v.svg?style=social&label=Star)
 
 	 *A SOTA vision model built on top of llama3 8B.*
@@ -1532,6 +1536,9 @@
 	 *Yuliang Liu, Zhang Li, Biao Yang, Chunyuan Li, Xucheng Yin, Cheng-lin Liu, Lianwen Jin, Xiang Bai* · ([MultimodalOCR](https://github.com/Yuliang-Liu/MultimodalOCR) - Yuliang-Liu) ![Star](https://img.shields.io/github/stars/Yuliang-Liu/MultimodalOCR.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652442102&idx=4&sn=64a53646c57797a00b9db186f339c5eb))
 
 ## Datasets
+- [**webpage2code**](https://github.com/MBZUAI-LLM/webpage2code) - MBZUAI-LLM ![Star](https://img.shields.io/github/stars/MBZUAI-LLM/webpage2code.svg?style=social&label=Star)
+
+	 · ([mbzuai-llm.github](https://mbzuai-llm.github.io/webpage2code/))
 - **MINT-1T: Scaling Open-Source Multimodal Data by 10x: A Multimodal
   Dataset with One Trillion Tokens**, `arXiv, 2406.11271`, [arxiv](http://arxiv.org/abs/2406.11271v1), [pdf](http://arxiv.org/pdf/2406.11271v1.pdf), cication: [**-1**](None)
 

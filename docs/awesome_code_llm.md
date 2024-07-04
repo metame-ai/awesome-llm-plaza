@@ -353,6 +353,7 @@
 	 · [intercode-benchmark.github](https://intercode-benchmark.github.io/)
 
 ## Projects
+- [Fetching Title#4rwu](https://huggingface.co/blog/beating-gaia)
 - [BigCodeBench: Benchmarking Large Language Models on Solving Practical and Challenging Programming Tasks](https://huggingface.co/blog/leaderboard-bigcodebench)
 
 	 · ([huggingface](https://huggingface.co/spaces/bigcode/bigcodebench-leaderboard)) · ([bigcodebench](https://github.com/bigcode-project/bigcodebench) - bigcode-project) ![Star](https://img.shields.io/github/stars/bigcode-project/bigcodebench.svg?style=social&label=Star)

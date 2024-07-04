@@ -269,8 +269,8 @@
 
 	 *Suriya Gunasekar, Yi Zhang, Jyoti Aneja, Caio César Teodoro Mendes, Allie Del Giorno, Sivakanth Gopi, Mojan Javaheripi, Piero Kauffmann, Gustavo de Rosa, Olli Saarikivi* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-06-23)) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-09-14-4))
 
-
 ### MulitiMod
+- [**UpVoteWeb**](https://huggingface.co/datasets/OpenCo7/UpVoteWeb?row=0) - OpenCo7 🤗
 - **PIN: A Knowledge-Intensive Dataset for Paired and Interleaved Multimodal
   Documents**, `arXiv, 2406.13923`, [arxiv](http://arxiv.org/abs/2406.13923v1), [pdf](http://arxiv.org/pdf/2406.13923v1.pdf), cication: [**-1**](None)
 
@@ -322,6 +322,9 @@
 
 	 *Lei Li, Yuwei Yin, Shicheng Li, Liang Chen, Peiyi Wang, Shuhuai Ren, Mukai Li, Yazheng Yang, Jingjing Xu, Xu Sun*
 ### Reasoning & Action
+- [2406.18518](https://arxiv.org/pdf/2406.18518)
+
+	 · ([apigen-pipeline.github](https://apigen-pipeline.github.io/))
 - [**json-mode-eval**](https://huggingface.co/datasets/NousResearch/json-mode-eval?utm_source=ainews&utm_medium=email&utm_campaign=ainews-mm1-apples-first-large-multimodal-model) - NousResearch 🤗
 - **Can Large Language Models Infer Causation from Correlation?**, `arXiv, 2306.05836`, [arxiv](http://arxiv.org/abs/2306.05836v1), [pdf](http://arxiv.org/pdf/2306.05836v1.pdf), cication: [**11**](https://scholar.google.com/scholar?cites=10622702130608075727&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
@@ -336,6 +339,9 @@
 - [**Capybara-Preferences**](https://huggingface.co/datasets/argilla/Capybara-Preferences) - argilla 🤗
 
 ### Synthetic 
+- [2406.20094](https://arxiv.org/pdf/2406.20094)
+
+	 · ([persona-hub](https://github.com/tencent-ailab/persona-hub) - tencent-ailab) ![Star](https://img.shields.io/github/stars/tencent-ailab/persona-hub.svg?style=social&label=Star)
 - **Magpie: Alignment Data Synthesis from Scratch by Prompting Aligned LLMs
   with Nothing**, `arXiv, 2406.08464`, [arxiv](http://arxiv.org/abs/2406.08464v1), [pdf](http://arxiv.org/pdf/2406.08464v1.pdf), cication: [**-1**](None)
 

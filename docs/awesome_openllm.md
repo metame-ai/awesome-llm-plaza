@@ -263,6 +263,7 @@
 - [**OLMo-7B-Instruct**](https://huggingface.co/allenai/OLMo-7B-Instruct) - allenai 🤗
 
 ### Phi
+- [**Phi-3-mini-4k-instruct**](https://huggingface.co/microsoft/Phi-3-mini-4k-instruct) - microsoft 🤗
 - [**Phi-3-vision-128k-instruct**](https://huggingface.co/microsoft/Phi-3-vision-128k-instruct) - microsoft 🤗
 - [**models**](https://huggingface.co/models?other=phi3&sort=trending&search=microsoft) -  🤗
 - **Phi-3 Technical Report: A Highly Capable Language Model Locally on Your
@@ -620,6 +621,7 @@
 - [**Qwen-72B-Chat-Demo**](https://huggingface.co/spaces/Qwen/Qwen-72B-Chat-Demo) - Qwen 🤗
 - [Quyen - a vilm Collection](https://huggingface.co/collections/vilm/quyen-65bc71a29fa020161bc87859)
 - [**d-Qwen1.5-0.5B**](https://huggingface.co/aloobun/d-Qwen1.5-0.5B?utm_source=ainews&utm_medium=email&utm_campaign=ainews-mm1-apples-first-large-multimodal-model) - aloobun 🤗
+- [**Arcee-Spark**](https://huggingface.co/arcee-ai/Arcee-Spark) - arcee-ai 🤗
 ### Baichuan
 - **Baichuan 2: Open Large-scale Language Models**, `arXiv, 2309.10305`, [arxiv](http://arxiv.org/abs/2309.10305v2), [pdf](http://arxiv.org/pdf/2309.10305v2.pdf), cication: [**16**](https://scholar.google.com/scholar?cites=11092587028861989085&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
@@ -761,7 +763,7 @@
 	 · ([anthropic](https://www.anthropic.com/news/claude-3-haiku))
 
 # Extra reference
-- [Fetching Title#j9s6](https://crfm.stanford.edu/fmti/May-2024/index.html)
+- [The Foundation Model Transparency Index](https://crfm.stanford.edu/fmti/May-2024/index.html)
 - [Ecosystem Graphs for Foundation Models](https://crfm.stanford.edu/ecosystem-graphs/index.html?mode=table)
 - [LLM Collection | Prompt Engineering Guide](https://www.promptingguide.ai/models/collection)
 - [**open-llms**](https://github.com/eugeneyan/open-llms) - eugeneyan ![Star](https://img.shields.io/github/stars/eugeneyan/open-llms.svg?style=social&label=Star)
