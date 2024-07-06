@@ -9,6 +9,9 @@
 
 
 ## Survey
+- [2407.01599](https://arxiv.org/pdf/2407.01599)
+
+	 · ([chonghan-chen](https://chonghan-chen.com/llm-jailbreak-zoo-survey/)) · ([JailbreakZoo](https://github.com/Allen-piexl/JailbreakZoo) - Allen-piexl) ![Star](https://img.shields.io/github/stars/Allen-piexl/JailbreakZoo.svg?style=social&label=Star)
 - **Against The Achilles' Heel: A Survey on Red Teaming for Generative
   Models**, `arXiv, 2404.00629`, [arxiv](http://arxiv.org/abs/2404.00629v1), [pdf](http://arxiv.org/pdf/2404.00629v1.pdf), cication: [**-1**](None)
 

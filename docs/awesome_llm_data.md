@@ -270,6 +270,7 @@
 	 *Suriya Gunasekar, Yi Zhang, Jyoti Aneja, Caio César Teodoro Mendes, Allie Del Giorno, Sivakanth Gopi, Mojan Javaheripi, Piero Kauffmann, Gustavo de Rosa, Olli Saarikivi* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-06-23)) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-09-14-4))
 
 ### MulitiMod
+- [[2407.00203] PathGen-1.6M: 1.6 Million Pathology Image-text Pairs Generation through Multi-agent Collaboration](https://arxiv.org/abs/2407.00203)
 - [**UpVoteWeb**](https://huggingface.co/datasets/OpenCo7/UpVoteWeb?row=0) - OpenCo7 🤗
 - **PIN: A Knowledge-Intensive Dataset for Paired and Interleaved Multimodal
   Documents**, `arXiv, 2406.13923`, [arxiv](http://arxiv.org/abs/2406.13923v1), [pdf](http://arxiv.org/pdf/2406.13923v1.pdf), cication: [**-1**](None)

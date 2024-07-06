@@ -40,6 +40,10 @@
 
 ## Vision
 ### Vision Encoder
+- [[2407.02392] TokenPacker: Efficient Visual Projector for Multimodal LLM](https://arxiv.org/abs/2407.02392)
+
+	 · ([TokenPacker](https://github.com/CircleRadon/TokenPacker) - CircleRadon) ![Star](https://img.shields.io/github/stars/CircleRadon/TokenPacker.svg?style=social&label=Star)
+- [2407.03104](https://arxiv.org/pdf/2407.03104)
 - **OmniTokenizer: A Joint Image-Video Tokenizer for Visual Generation**, `arXiv, 2406.09399`, [arxiv](http://arxiv.org/abs/2406.09399v1), [pdf](http://arxiv.org/pdf/2406.09399v1.pdf), cication: [**-1**](None)
 
 	 *Junke Wang, Yi Jiang, Zehuan Yuan, Binyue Peng, Zuxuan Wu, Yu-Gang Jiang* · ([omnitokenizer](https://github.com/foundationvision/omnitokenizer) - foundationvision) ![Star](https://img.shields.io/github/stars/foundationvision/omnitokenizer.svg?style=social&label=Star)
@@ -1259,6 +1263,9 @@
 	 *Timin Gao, Peixian Chen, Mengdan Zhang, Chaoyou Fu, Yunhang Shen, Yan Zhang, Shengchuan Zhang, Xiawu Zheng, Xing Sun, Liujuan Cao* · ([ggg0919.github](https://ggg0919.github.io/cantor/))
 
 ## Alignment
+- [Fetching Title#j4xl](https://arxiv.org/abs/2406.19736)
+
+	 · ([MM-Instruct](https://github.com/jihaonew/MM-Instruct) - jihaonew) ![Star](https://img.shields.io/github/stars/jihaonew/MM-Instruct.svg?style=social&label=Star)
 - **RLAIF-V: Aligning MLLMs through Open-Source AI Feedback for Super GPT-4V
   Trustworthiness**, `arXiv, 2405.17220`, [arxiv](http://arxiv.org/abs/2405.17220v1), [pdf](http://arxiv.org/pdf/2405.17220v1.pdf), cication: [**-1**](None)
 
