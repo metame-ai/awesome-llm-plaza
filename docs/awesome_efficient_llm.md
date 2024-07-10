@@ -62,7 +62,10 @@
 
 	 *Vladislav Lialin, Vijeta Deshpande, Anna Rumshisky*
 ## Efficient finetuning
-- [Fetching Title#2q74](https://arxiv.org/abs/2407.01906)
+- **Let the Expert Stick to His Last: Expert-Specialized Fine-Tuning for
+  Sparse Architectural Large Language Models**, `arXiv, 2407.01906`, [arxiv](http://arxiv.org/abs/2407.01906v2), [pdf](http://arxiv.org/pdf/2407.01906v2.pdf), cication: [**-1**](None)
+
+	 *Zihan Wang, Deli Chen, Damai Dai, Runxin Xu, Zhuoshu Li, Y. Wu*
 - **OLoRA: Orthonormal Low-Rank Adaptation of Large Language Models**, `arXiv, 2406.01775`, [arxiv](http://arxiv.org/abs/2406.01775v1), [pdf](http://arxiv.org/pdf/2406.01775v1.pdf), cication: [**-1**](None)
 
 	 *Kerim Büyükakyüz*
@@ -498,7 +501,10 @@
 	 *Shufang Xie, Huishuai Zhang, Junliang Guo, Xu Tan, Jiang Bian, Hany Hassan Awadalla, Arul Menezes, Tao Qin, Rui Yan* · ([ResiDual](https://github.com/microsoft/ResiDual) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/ResiDual.svg?style=social&label=Star)
 
 ## Efficient Inference
-- [[2407.02490] MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention](https://arxiv.org/abs/2407.02490)
+- **MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via
+  Dynamic Sparse Attention**, `arXiv, 2407.02490`, [arxiv](http://arxiv.org/abs/2407.02490v1), [pdf](http://arxiv.org/pdf/2407.02490v1.pdf), cication: [**-1**](None)
+
+	 *Huiqiang Jiang, Yucheng Li, Chengruidong Zhang, Qianhui Wu, Xufang Luo, Surin Ahn, Zhenhua Han, Amir H. Abdi, Dongsheng Li, Chin-Yew Lin*
 
 	 · ([MInference](https://github.com/microsoft/MInference) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/MInference.svg?style=social&label=Star) · ([aka](https://aka.ms/MInference))
 - **Towards Fast Multilingual LLM Inference: Speculative Decoding and
@@ -843,7 +849,10 @@
 - [研究完llama.cpp，我发现手机跑大模型竟这么简单 | 机器之心](https://www.jiqizhixin.com/articles/2023-08-17-8)
 
 ## Mobile
-- [Fetching Title#3jf9](https://arxiv.org/abs/2402.14905)
+- **MobileLLM: Optimizing Sub-billion Parameter Language Models for
+  On-Device Use Cases**, `arXiv, 2402.14905`, [arxiv](http://arxiv.org/abs/2402.14905v2), [pdf](http://arxiv.org/pdf/2402.14905v2.pdf), cication: [**15**](https://scholar.google.com/scholar?cites=10746600429526080063&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Zechun Liu, Changsheng Zhao, Forrest Iandola, Chen Lai, Yuandong Tian, Igor Fedorov, Yunyang Xiong, Ernie Chang, Yangyang Shi, Raghuraman Krishnamoorthi*
 
 	 · ([MobileLLM](https://github.com/facebookresearch/MobileLLM) - facebookresearch) ![Star](https://img.shields.io/github/stars/facebookresearch/MobileLLM.svg?style=social&label=Star)
 - **HARE: HumAn pRiors, a key to small language model Efficiency**, `arXiv, 2406.11410`, [arxiv](http://arxiv.org/abs/2406.11410v2), [pdf](http://arxiv.org/pdf/2406.11410v2.pdf), cication: [**-1**](None)
@@ -918,7 +927,10 @@
 	 *DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.*
 
 ## Efficient transformer
-- [Fetching Title#5y4k](https://arxiv.org/abs/2406.14909)
+- **MoA: Mixture of Sparse Attention for Automatic Large Language Model
+  Compression**, `arXiv, 2406.14909`, [arxiv](http://arxiv.org/abs/2406.14909v1), [pdf](http://arxiv.org/pdf/2406.14909v1.pdf), cication: [**-1**](None)
+
+	 *Tianyu Fu, Haofeng Huang, Xuefei Ning, Genghan Zhang, Boju Chen, Tianqi Wu, Hongyi Wang, Zixiao Huang, Shiyao Li, Shengen Yan*
 - [Flash Attention (Fast and Memory-Efficient Exact Attention wi](https://towardsdatascience.com/flash-attention-fast-and-memory-efficient-exact-attention-with-io-awareness-a-deep-dive-724af489997b)
 - **Block Transformer: Global-to-Local Language Modeling for Fast Inference**, `arXiv, 2406.02657`, [arxiv](http://arxiv.org/abs/2406.02657v1), [pdf](http://arxiv.org/pdf/2406.02657v1.pdf), cication: [**-1**](None)
 

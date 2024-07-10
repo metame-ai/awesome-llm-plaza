@@ -35,8 +35,12 @@
 	 *Yufei Wang, Wanjun Zhong, Liangyou Li, Fei Mi, Xingshan Zeng, Wenyong Huang, Lifeng Shang, Xin Jiang, Qun Liu* · ([AlignLLMHumanSurvey](https://github.com/GaryYufei/AlignLLMHumanSurvey) - GaryYufei) ![Star](https://img.shields.io/github/stars/GaryYufei/AlignLLMHumanSurvey.svg?style=social&label=Star)
 
 ## Paper & Projects
-- [Fetching Title#r8cz](https://arxiv.org/abs/2406.19774)
-- [[2407.04622] On scalable oversight with weak LLMs judging strong LLMs](https://arxiv.org/abs/2407.04622)
+- **Direct Preference Knowledge Distillation for Large Language Models**, `arXiv, 2406.19774`, [arxiv](http://arxiv.org/abs/2406.19774v1), [pdf](http://arxiv.org/pdf/2406.19774v1.pdf), cication: [**-1**](None)
+
+	 *Yixing Li, Yuxian Gu, Li Dong, Dequan Wang, Yu Cheng, Furu Wei*
+- **On scalable oversight with weak LLMs judging strong LLMs**, `arXiv, 2407.04622`, [arxiv](http://arxiv.org/abs/2407.04622v1), [pdf](http://arxiv.org/pdf/2407.04622v1.pdf), cication: [**-1**](None)
+
+	 *Zachary Kenton, Noah Y. Siegel, János Kramár, Jonah Brown-Cohen, Samuel Albanie, Jannis Bulian, Rishabh Agarwal, David Lindner, Yunhao Tang, Noah D. Goodman*
 - **Creativity Has Left the Chat: The Price of Debiasing Language Models**, `arXiv, 2406.05587`, [arxiv](http://arxiv.org/abs/2406.05587v1), [pdf](http://arxiv.org/pdf/2406.05587v1.pdf), cication: [**-1**](None)
 
 	 *Behnam Mohammadi*
@@ -256,10 +260,16 @@
 	 *Timo Kaufmann, Paul Weng, Viktor Bengs, Eyke Hüllermeier*
 
 ## Papers
-- [[2407.00782] Step-Controlled DPO: Leveraging Stepwise Error for Enhanced Mathematical Reasoning](https://arxiv.org/abs/2407.00782)
+- **Step-Controlled DPO: Leveraging Stepwise Error for Enhanced Mathematical
+  Reasoning**, `arXiv, 2407.00782`, [arxiv](http://arxiv.org/abs/2407.00782v2), [pdf](http://arxiv.org/pdf/2407.00782v2.pdf), cication: [**-1**](None)
+
+	 *Zimu Lu, Aojun Zhou, Ke Wang, Houxing Ren, Weikang Shi, Junting Pan, Mingjie Zhan, Hongsheng Li*
 
 	 · ([Step-Controlled_DPO](https://github.com/mathllm/Step-Controlled_DPO) - mathllm) ![Star](https://img.shields.io/github/stars/mathllm/Step-Controlled_DPO.svg?style=social&label=Star)
-- [[2406.18629] Step-DPO: Step-wise Preference Optimization for Long-chain Reasoning of LLMs](https://arxiv.org/abs/2406.18629)
+- **Step-DPO: Step-wise Preference Optimization for Long-chain Reasoning of
+  LLMs**, `arXiv, 2406.18629`, [arxiv](http://arxiv.org/abs/2406.18629v1), [pdf](http://arxiv.org/pdf/2406.18629v1.pdf), cication: [**-1**](None)
+
+	 *Xin Lai, Zhuotao Tian, Yukang Chen, Senqiao Yang, Xiangru Peng, Jiaya Jia*
 
 	 · ([Step-DPO](https://github.com/dvlab-research/Step-DPO) - dvlab-research) ![Star](https://img.shields.io/github/stars/dvlab-research/Step-DPO.svg?style=social&label=Star)
 - **WARP: On the Benefits of Weight Averaged Rewarded Policies**, `arXiv, 2406.16768`, [arxiv](http://arxiv.org/abs/2406.16768v1), [pdf](http://arxiv.org/pdf/2406.16768v1.pdf), cication: [**-1**](None)

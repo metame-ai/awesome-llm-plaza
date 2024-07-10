@@ -192,10 +192,16 @@
 	 *FlagAI (Fast LArge-scale General AI models) is a fast, easy-to-use and extensible toolkit for large-scale model.*
 
 ## Unlearning
-- [Fetching Title#uyuh](https://arxiv.org/abs/2407.01920)
+- **To Forget or Not? Towards Practical Knowledge Unlearning for Large
+  Language Models**, `arXiv, 2407.01920`, [arxiv](http://arxiv.org/abs/2407.01920v1), [pdf](http://arxiv.org/pdf/2407.01920v1.pdf), cication: [**-1**](None)
+
+	 *Bozhong Tian, Xiaozhuan Liang, Siyuan Cheng, Qingbin Liu, Mengru Wang, Dianbo Sui, Xi Chen, Huajun Chen, Ningyu Zhang*
 
 	 · ([KnowUnDo](https://github.com/zjunlp/KnowUnDo) - zjunlp) ![Star](https://img.shields.io/github/stars/zjunlp/KnowUnDo.svg?style=social&label=Star)
-- [[2407.00106] UnUnlearning: Unlearning is not sufficient for content regulation in advanced generative AI](https://arxiv.org/abs/2407.00106)
+- **UnUnlearning: Unlearning is not sufficient for content regulation in
+  advanced generative AI**, `arXiv, 2407.00106`, [arxiv](http://arxiv.org/abs/2407.00106v1), [pdf](http://arxiv.org/pdf/2407.00106v1.pdf), cication: [**-1**](None)
+
+	 *Ilia Shumailov, Jamie Hayes, Eleni Triantafillou, Guillermo Ortiz-Jimenez, Nicolas Papernot, Matthew Jagielski, Itay Yona, Heidi Howard, Eugene Bagdasaryan*
 - **What makes unlearning hard and what to do about it**, `arXiv, 2406.01257`, [arxiv](http://arxiv.org/abs/2406.01257v1), [pdf](http://arxiv.org/pdf/2406.01257v1.pdf), cication: [**-1**](None)
 
 	 *Kairan Zhao, Meghdad Kurmanji, George-Octavian Bărbulescu, Eleni Triantafillou, Peter Triantafillou*
@@ -233,7 +239,9 @@
 	 *Greg Serapio-García, Mustafa Safdari, Clément Crepy, Luning Sun, Stephen Fitz, Peter Romero, Marwa Abdulhai, Aleksandra Faust, Maja Matarić*
 
 ## World Model
-- [Fetching Title#t4fm](https://arxiv.org/abs/2406.19320)
+- **Efficient World Models with Context-Aware Tokenization**, `arXiv, 2406.19320`, [arxiv](http://arxiv.org/abs/2406.19320v1), [pdf](http://arxiv.org/pdf/2406.19320v1.pdf), cication: [**-1**](None)
+
+	 *Vincent Micheli, Eloi Alonso, François Fleuret*
 
 	 · ([delta-iris](https://github.com/vmicheli/delta-iris) - vmicheli) ![Star](https://img.shields.io/github/stars/vmicheli/delta-iris.svg?style=social&label=Star)
 - **Can Language Models Serve as Text-Based World Simulators?**, `arXiv, 2406.06485`, [arxiv](http://arxiv.org/abs/2406.06485v1), [pdf](http://arxiv.org/pdf/2406.06485v1.pdf), cication: [**-1**](None)
@@ -382,7 +390,9 @@
 - [Mamba: Linear-Time Sequence Modeling with Selective State Spaces (Paper Explained) - YouTube](https://www.youtube.com/watch?v=9dSkvxS2EB0&ab_channel=YannicKilcher)
 
 ## New model
-- [[2407.04620] Learning to (Learn at Test Time): RNNs with Expressive Hidden States](https://arxiv.org/abs/2407.04620)
+- **Learning to (Learn at Test Time): RNNs with Expressive Hidden States**, `arXiv, 2407.04620`, [arxiv](http://arxiv.org/abs/2407.04620v1), [pdf](http://arxiv.org/pdf/2407.04620v1.pdf), cication: [**-1**](None)
+
+	 *Yu Sun, Xinhao Li, Karan Dalal, Jiarui Xu, Arjun Vikram, Genghan Zhang, Yann Dubois, Xinlei Chen, Xiaolong Wang, Sanmi Koyejo*
 - **Simple and Effective Masked Diffusion Language Models**, `arXiv, 2406.07524`, [arxiv](http://arxiv.org/abs/2406.07524v1), [pdf](http://arxiv.org/pdf/2406.07524v1.pdf), cication: [**-1**](None)
 
 	 *Subham Sekhar Sahoo, Marianne Arriola, Yair Schiff, Aaron Gokaslan, Edgar Marroquin, Justin T Chiu, Alexander Rush, Volodymyr Kuleshov* · ([mdlm](https://github.com/kuleshov-group/mdlm) - kuleshov-group) ![Star](https://img.shields.io/github/stars/kuleshov-group/mdlm.svg?style=social&label=Star)
@@ -507,7 +517,9 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652345558&idx=4&sn=95686435d5cad05d44cbe02bc26d6859))
 
 ## Interpretability 
-- [Fetching Title#up9g](https://arxiv.org/abs/2406.14629)
+- **Can LLMs Learn by Teaching? A Preliminary Study**, `arXiv, 2406.14629`, [arxiv](http://arxiv.org/abs/2406.14629v1), [pdf](http://arxiv.org/pdf/2406.14629v1.pdf), cication: [**-1**](None)
+
+	 *Xuefei Ning, Zifu Wang, Shiyao Li, Zinan Lin, Peiran Yao, Tianyu Fu, Matthew B. Blaschko, Guohao Dai, Huazhong Yang, Yu Wang*
 
 	 · ([lbt](https://github.com/imagination-research/lbt) - imagination-research) ![Star](https://img.shields.io/github/stars/imagination-research/lbt.svg?style=social&label=Star)
 - **The Missing Curve Detectors of InceptionV1: Applying Sparse Autoencoders
@@ -733,7 +745,9 @@
 	 *Steve Yadlowsky, Lyric Doshi, Nilesh Tripuraneni*
 
 ## LLM editting
-- [2407.06483](https://arxiv.org/pdf/2407.06483)
+- **Composable Interventions for Language Models**, `arXiv, 2407.06483`, [arxiv](http://arxiv.org/abs/2407.06483v1), [pdf](http://arxiv.org/pdf/2407.06483v1.pdf), cication: [**-1**](None)
+
+	 *Arinbjorn Kolbeinsson, Kyle O'Brien, Tianjin Huang, Shanghua Gao, Shiwei Liu, Jonathan Richard Schwarz, Anurag Vaidya, Faisal Mahmood, Marinka Zitnik, Tianlong Chen*
 - **Breaking Boundaries: Investigating the Effects of Model Editing on
   Cross-linguistic Performance**, `arXiv, 2406.11139`, [arxiv](http://arxiv.org/abs/2406.11139v1), [pdf](http://arxiv.org/pdf/2406.11139v1.pdf), cication: [**-1**](None)
 

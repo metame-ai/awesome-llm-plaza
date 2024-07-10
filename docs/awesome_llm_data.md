@@ -270,7 +270,10 @@
 	 *Suriya Gunasekar, Yi Zhang, Jyoti Aneja, Caio César Teodoro Mendes, Allie Del Giorno, Sivakanth Gopi, Mojan Javaheripi, Piero Kauffmann, Gustavo de Rosa, Olli Saarikivi* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-06-23)) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-09-14-4))
 
 ### MulitiMod
-- [[2407.00203] PathGen-1.6M: 1.6 Million Pathology Image-text Pairs Generation through Multi-agent Collaboration](https://arxiv.org/abs/2407.00203)
+- **PathGen-1.6M: 1.6 Million Pathology Image-text Pairs Generation through
+  Multi-agent Collaboration**, `arXiv, 2407.00203`, [arxiv](http://arxiv.org/abs/2407.00203v1), [pdf](http://arxiv.org/pdf/2407.00203v1.pdf), cication: [**-1**](None)
+
+	 *Yuxuan Sun, Yunlong Zhang, Yixuan Si, Chenglu Zhu, Zhongyi Shui, Kai Zhang, Jingxiong Li, Xingheng Lyu, Tao Lin, Lin Yang*
 - [**UpVoteWeb**](https://huggingface.co/datasets/OpenCo7/UpVoteWeb?row=0) - OpenCo7 🤗
 - **PIN: A Knowledge-Intensive Dataset for Paired and Interleaved Multimodal
   Documents**, `arXiv, 2406.13923`, [arxiv](http://arxiv.org/abs/2406.13923v1), [pdf](http://arxiv.org/pdf/2406.13923v1.pdf), cication: [**-1**](None)
@@ -323,7 +326,10 @@
 
 	 *Lei Li, Yuwei Yin, Shicheng Li, Liang Chen, Peiyi Wang, Shuhuai Ren, Mukai Li, Yazheng Yang, Jingjing Xu, Xu Sun*
 ### Reasoning & Action
-- [2406.18518](https://arxiv.org/pdf/2406.18518)
+- **APIGen: Automated Pipeline for Generating Verifiable and Diverse
+  Function-Calling Datasets**, `arXiv, 2406.18518`, [arxiv](http://arxiv.org/abs/2406.18518v1), [pdf](http://arxiv.org/pdf/2406.18518v1.pdf), cication: [**-1**](None)
+
+	 *Zuxin Liu, Thai Hoang, Jianguo Zhang, Ming Zhu, Tian Lan, Shirley Kokane, Juntao Tan, Weiran Yao, Zhiwei Liu, Yihao Feng*
 
 	 · ([apigen-pipeline.github](https://apigen-pipeline.github.io/))
 - [**json-mode-eval**](https://huggingface.co/datasets/NousResearch/json-mode-eval?utm_source=ainews&utm_medium=email&utm_campaign=ainews-mm1-apples-first-large-multimodal-model) - NousResearch 🤗
@@ -340,8 +346,13 @@
 - [**Capybara-Preferences**](https://huggingface.co/datasets/argilla/Capybara-Preferences) - argilla 🤗
 
 ### Synthetic 
-- [[2406.19227] Aligning Teacher with Student Preferences for Tailored Training Data Generation](https://arxiv.org/abs/2406.19227)
-- [2406.20094](https://arxiv.org/pdf/2406.20094)
+- **Aligning Teacher with Student Preferences for Tailored Training Data
+  Generation**, `arXiv, 2406.19227`, [arxiv](http://arxiv.org/abs/2406.19227v1), [pdf](http://arxiv.org/pdf/2406.19227v1.pdf), cication: [**-1**](None)
+
+	 *Yantao Liu, Zhao Zhang, Zijun Yao, Shulin Cao, Lei Hou, Juanzi Li*
+- **Scaling Synthetic Data Creation with 1,000,000,000 Personas**, `arXiv, 2406.20094`, [arxiv](http://arxiv.org/abs/2406.20094v1), [pdf](http://arxiv.org/pdf/2406.20094v1.pdf), cication: [**-1**](None)
+
+	 *Xin Chan, Xiaoyang Wang, Dian Yu, Haitao Mi, Dong Yu*
 
 	 · ([persona-hub](https://github.com/tencent-ailab/persona-hub) - tencent-ailab) ![Star](https://img.shields.io/github/stars/tencent-ailab/persona-hub.svg?style=social&label=Star)
 - **Magpie: Alignment Data Synthesis from Scratch by Prompting Aligned LLMs

@@ -12,14 +12,25 @@
 	 *Yeseung Kim, Dohyun Kim, Jieun Choi, Jisang Park, Nayoung Oh, Daehyung Park*
 
 ## Papers
-- [[2406.19741] ROS-LLM: A ROS framework for embodied AI with task feedback and structured reasoning](https://arxiv.org/abs/2406.19741)
+- **ROS-LLM: A ROS framework for embodied AI with task feedback and
+  structured reasoning**, `arXiv, 2406.19741`, [arxiv](http://arxiv.org/abs/2406.19741v2), [pdf](http://arxiv.org/pdf/2406.19741v2.pdf), cication: [**-1**](None)
+
+	 *Christopher E. Mower, Yuhui Wan, Hongzhan Yu, Antoine Grosnit, Jonas Gonzalez-Billandon, Matthieu Zimmer, Jinlong Wang, Xinyu Zhang, Yao Zhao, Anbang Zhai*
 
 	 · ([HEBO](https://github.com/huawei-noah/HEBO/tree/rosllm/ROSLLM) - huawei-noah) ![Star](https://img.shields.io/github/stars/huawei-noah/HEBO.svg?style=social&label=Star)
-- [[2406.20095] LLaRA: Supercharging Robot Learning Data for Vision-Language Policy](https://arxiv.org/abs/2406.20095)
+- **LLaRA: Supercharging Robot Learning Data for Vision-Language Policy**, `arXiv, 2406.20095`, [arxiv](http://arxiv.org/abs/2406.20095v1), [pdf](http://arxiv.org/pdf/2406.20095v1.pdf), cication: [**-1**](None)
+
+	 *Xiang Li, Cristina Mata, Jongwoo Park, Kumara Kahatapitiya, Yoo Sung Jang, Jinghuan Shang, Kanchana Ranasinghe, Ryan Burgert, Mu Cai, Yong Jae Lee*
 
 	 · ([LLaRA](https://github.com/LostXine/LLaRA) - LostXine) ![Star](https://img.shields.io/github/stars/LostXine/LLaRA.svg?style=social&label=Star)
-- [2406.20083](https://arxiv.org/pdf/2406.20083)
-- [[2407.00114] OmniJARVIS: Unified Vision-Language-Action Tokenization Enables Open-World Instruction Following Agents](https://arxiv.org/abs/2407.00114)
+- **PoliFormer: Scaling On-Policy RL with Transformers Results in Masterful
+  Navigators**, `arXiv, 2406.20083`, [arxiv](http://arxiv.org/abs/2406.20083v1), [pdf](http://arxiv.org/pdf/2406.20083v1.pdf), cication: [**-1**](None)
+
+	 *Kuo-Hao Zeng, Zichen Zhang, Kiana Ehsani, Rose Hendrix, Jordi Salvador, Alvaro Herrasti, Ross Girshick, Aniruddha Kembhavi, Luca Weihs*
+- **OmniJARVIS: Unified Vision-Language-Action Tokenization Enables
+  Open-World Instruction Following Agents**, `arXiv, 2407.00114`, [arxiv](http://arxiv.org/abs/2407.00114v1), [pdf](http://arxiv.org/pdf/2407.00114v1.pdf), cication: [**-1**](None)
+
+	 *Zihao Wang, Shaofei Cai, Zhancun Mu, Haowei Lin, Ceyao Zhang, Xuejie Liu, Qing Li, Anji Liu, Xiaojian Ma, Yitao Liang*
 
 	 · ([OmniJarvis](https://github.com/CraftJarvis/OmniJarvis) - CraftJarvis) ![Star](https://img.shields.io/github/stars/CraftJarvis/OmniJarvis.svg?style=social&label=Star) · ([omnijarvis.github](https://omnijarvis.github.io/))
 - **Octo-planner: On-device Language Model for Planner-Action Agents**, `arXiv, 2406.18082`, [arxiv](http://arxiv.org/abs/2406.18082v1), [pdf](http://arxiv.org/pdf/2406.18082v1.pdf), cication: [**-1**](None)

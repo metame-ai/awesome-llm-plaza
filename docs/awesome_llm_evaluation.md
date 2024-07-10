@@ -28,7 +28,9 @@
 	 *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang*
 
 ## Papers
-- [[2407.04694] Me, Myself, and AI: The Situational Awareness Dataset (SAD) for LLMs](https://arxiv.org/abs/2407.04694)
+- **Me, Myself, and AI: The Situational Awareness Dataset (SAD) for LLMs**, `arXiv, 2407.04694`, [arxiv](http://arxiv.org/abs/2407.04694v1), [pdf](http://arxiv.org/pdf/2407.04694v1.pdf), cication: [**-1**](None)
+
+	 *Rudolf Laine, Bilal Chughtai, Jan Betley, Kaivalya Hariharan, Jeremy Scheurer, Mikita Balesni, Marius Hobbhahn, Alexander Meinke, Owain Evans*
 
 	 · ([situational-awareness-dataset](https://situational-awareness-dataset.org/))
 - **LongIns: A Challenging Long-context Instruction-based Exam for LLMs**, `arXiv, 2406.17588`, [arxiv](http://arxiv.org/abs/2406.17588v2), [pdf](http://arxiv.org/pdf/2406.17588v2.pdf), cication: [**-1**](None)

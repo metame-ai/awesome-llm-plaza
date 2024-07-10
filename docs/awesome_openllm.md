@@ -707,7 +707,10 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s/Lf70i8M0KNDs9ZB8H32h4w))
 
 # Extra
-- [[2407.05975] LLaMAX: Scaling Linguistic Horizons of LLM by Enhancing Translation Capabilities Beyond 100 Languages](https://arxiv.org/abs/2407.05975)
+- **LLaMAX: Scaling Linguistic Horizons of LLM by Enhancing Translation
+  Capabilities Beyond 100 Languages**, `arXiv, 2407.05975`, [arxiv](http://arxiv.org/abs/2407.05975v1), [pdf](http://arxiv.org/pdf/2407.05975v1.pdf), cication: [**-1**](None)
+
+	 *Yinquan Lu, Wenhao Zhu, Lei Li, Yu Qiao, Fei Yuan*
 
 	 · ([LLaMAX](https://github.com/CONE-MT/LLaMAX/) - CONE-MT) ![Star](https://img.shields.io/github/stars/CONE-MT/LLaMAX.svg?style=social&label=Star)
 - **Aya 23: Open Weight Releases to Further Multilingual Progress**, `arXiv, 2405.15032`, [arxiv](http://arxiv.org/abs/2405.15032v1), [pdf](http://arxiv.org/pdf/2405.15032v1.pdf), cication: [**-1**](None)

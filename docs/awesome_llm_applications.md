@@ -267,7 +267,10 @@
 
 
 ## Medical
-- [[2406.19280] HuatuoGPT-Vision, Towards Injecting Medical Visual Knowledge into Multimodal LLMs at Scale](https://arxiv.org/abs/2406.19280)
+- **HuatuoGPT-Vision, Towards Injecting Medical Visual Knowledge into
+  Multimodal LLMs at Scale**, `arXiv, 2406.19280`, [arxiv](http://arxiv.org/abs/2406.19280v1), [pdf](http://arxiv.org/pdf/2406.19280v1.pdf), cication: [**-1**](None)
+
+	 *Junying Chen, Ruyi Ouyang, Anningzhe Gao, Shunian Chen, Guiming Hardy Chen, Xidong Wang, Ruifei Zhang, Zhenyang Cai, Ke Ji, Guangjun Yu*
 - **MedFuzz: Exploring the Robustness of Large Language Models in Medical
   Question Answering**, `arXiv, 2406.06573`, [arxiv](http://arxiv.org/abs/2406.06573v1), [pdf](http://arxiv.org/pdf/2406.06573v1.pdf), cication: [**-1**](None)
 
@@ -428,7 +431,9 @@
 	 *Licheng Wen, Xuemeng Yang, Daocheng Fu, Xiaofeng Wang, Pinlong Cai, Xin Li, Tao Ma, Yingxuan Li, Linran Xu, Dengke Shang* · ([gpt4v-ad-exploration](https://github.com/pjlab-adg/gpt4v-ad-exploration) - pjlab-adg) ![Star](https://img.shields.io/github/stars/pjlab-adg/gpt4v-ad-exploration.svg?style=social&label=Star)
 
 ## Education
-- [[2406.19226] Simulating Classroom Education with LLM-Empowered Agents](https://arxiv.org/abs/2406.19226)
+- **Simulating Classroom Education with LLM-Empowered Agents**, `arXiv, 2406.19226`, [arxiv](http://arxiv.org/abs/2406.19226v1), [pdf](http://arxiv.org/pdf/2406.19226v1.pdf), cication: [**-1**](None)
+
+	 *Zheyuan Zhang, Daniel Zhang-Li, Jifan Yu, Linlu Gong, Jinchang Zhou, Zhiyuan Liu, Lei Hou, Juanzi Li*
 - [**Mr.-Ranedeer-AI-Tutor**](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) - JushBJJ ![Star](https://img.shields.io/github/stars/JushBJJ/Mr.-Ranedeer-AI-Tutor.svg?style=social&label=Star)
 
 	 *A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.*
@@ -987,8 +992,12 @@
 	 *Tongshuang Wu, Haiyi Zhu, Maya Albayrak, Alexis Axon, Amanda Bertsch, Wenxing Deng, Ziqi Ding, Bill Guo, Sireesh Gururaja, Tzu-Sheng Kuo*
 
 ## Misc
-- [[2407.00320] LiteSearch: Efficacious Tree Search for LLM](https://arxiv.org/abs/2407.00320)
-- [2406.18665](https://arxiv.org/pdf/2406.18665)
+- **LiteSearch: Efficacious Tree Search for LLM**, `arXiv, 2407.00320`, [arxiv](http://arxiv.org/abs/2407.00320v1), [pdf](http://arxiv.org/pdf/2407.00320v1.pdf), cication: [**-1**](None)
+
+	 *Ante Wang, Linfeng Song, Ye Tian, Baolin Peng, Dian Yu, Haitao Mi, Jinsong Su, Dong Yu*
+- **RouteLLM: Learning to Route LLMs with Preference Data**, `arXiv, 2406.18665`, [arxiv](http://arxiv.org/abs/2406.18665v2), [pdf](http://arxiv.org/pdf/2406.18665v2.pdf), cication: [**-1**](None)
+
+	 *Isaac Ong, Amjad Almahairi, Vincent Wu, Wei-Lin Chiang, Tianhao Wu, Joseph E. Gonzalez, M Waleed Kadous, Ion Stoica*
 
 	 · ([RouteLLM](https://github.com/lm-sys/RouteLLM) - lm-sys) ![Star](https://img.shields.io/github/stars/lm-sys/RouteLLM.svg?style=social&label=Star) · ([youtube](https://www.youtube.com/watch?v=V_K6PCmdtRg&ab_channel=SamWitteveen))
 - [LLM Compiler - a facebook Collection](https://huggingface.co/collections/facebook/llm-compiler-667c5b05557fe99a9edd25cb)

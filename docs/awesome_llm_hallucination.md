@@ -119,7 +119,10 @@
 	 · ([wikichat](https://github.com/stanford-oval/wikichat?tab=readme-ov-file) - stanford-oval) ![Star](https://img.shields.io/github/stars/stanford-oval/wikichat?tab=readme-ov-file.svg?style=social&label=Star)
 
 ## Multi-Mod
-- [[2406.10900] AUTOHALLUSION: Automatic Generation of Hallucination Benchmarks for Vision-Language Models](https://arxiv.org/abs/2406.10900)
+- **AUTOHALLUSION: Automatic Generation of Hallucination Benchmarks for
+  Vision-Language Models**, `arXiv, 2406.10900`, [arxiv](http://arxiv.org/abs/2406.10900v1), [pdf](http://arxiv.org/pdf/2406.10900v1.pdf), cication: [**-1**](None)
+
+	 *Xiyang Wu, Tianrui Guan, Dianqi Li, Shuaiyi Huang, Xiaoyu Liu, Xijun Wang, Ruiqi Xian, Abhinav Shrivastava, Furong Huang, Jordan Lee Boyd-Graber*
 
 ## Evalution
 - **Long-form factuality in large language models**, `arXiv, 2403.18802`, [arxiv](http://arxiv.org/abs/2403.18802v1), [pdf](http://arxiv.org/pdf/2403.18802v1.pdf), cication: [**-1**](None)

@@ -97,14 +97,23 @@
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-18-4))
 ## Agents
-- [[2407.04363] AriGraph: Learning Knowledge Graph World Models with Episodic Memory for LLM Agents](https://arxiv.org/abs/2407.04363)
+- **AriGraph: Learning Knowledge Graph World Models with Episodic Memory for
+  LLM Agents**, `arXiv, 2407.04363`, [arxiv](http://arxiv.org/abs/2407.04363v1), [pdf](http://arxiv.org/pdf/2407.04363v1.pdf), cication: [**-1**](None)
+
+	 *Petr Anokhin, Nikita Semenov, Artyom Sorokin, Dmitry Evseev, Mikhail Burtsev, Evgeny Burnaev*
 
 	 · ([AriGraph](https://github.com/AIRI-Institute/AriGraph) - AIRI-Institute) ![Star](https://img.shields.io/github/stars/AIRI-Institute/AriGraph.svg?style=social&label=Star)
-- [[2407.01489] Agentless: Demystifying LLM-based Software Engineering Agents](https://arxiv.org/abs/2407.01489)
+- **Agentless: Demystifying LLM-based Software Engineering Agents**, `arXiv, 2407.01489`, [arxiv](http://arxiv.org/abs/2407.01489v1), [pdf](http://arxiv.org/pdf/2407.01489v1.pdf), cication: [**-1**](None)
+
+	 *Chunqiu Steven Xia, Yinlin Deng, Soren Dunn, Lingming Zhang*
 
 	 · ([Agentless](https://github.com/OpenAutoCoder/Agentless) - OpenAutoCoder) ![Star](https://img.shields.io/github/stars/OpenAutoCoder/Agentless.svg?style=social&label=Star)
-- [[2407.01502] AI Agents That Matter](https://arxiv.org/abs/2407.01502)
-- [2407.01231](https://arxiv.org/pdf/2407.01231)
+- **AI Agents That Matter**, `arXiv, 2407.01502`, [arxiv](http://arxiv.org/abs/2407.01502v1), [pdf](http://arxiv.org/pdf/2407.01502v1.pdf), cication: [**-1**](None)
+
+	 *Sayash Kapoor, Benedikt Stroebl, Zachary S. Siegel, Nitya Nadgir, Arvind Narayanan*
+- **MIRAI: Evaluating LLM Agents for Event Forecasting**, `arXiv, 2407.01231`, [arxiv](http://arxiv.org/abs/2407.01231v1), [pdf](http://arxiv.org/pdf/2407.01231v1.pdf), cication: [**-1**](None)
+
+	 *Chenchen Ye, Ziniu Hu, Yihe Deng, Zijie Huang, Mingyu Derek Ma, Yanqiao Zhu, Wei Wang*
 
 	 · ([MIRAI](https://github.com/yecchen/MIRAI) - yecchen) ![Star](https://img.shields.io/github/stars/yecchen/MIRAI.svg?style=social&label=Star)
 - **GUICourse: From General Vision Language Models to Versatile GUI Agents**, `arXiv, 2406.11317`, [arxiv](http://arxiv.org/abs/2406.11317v1), [pdf](http://arxiv.org/pdf/2406.11317v1.pdf), cication: [**-1**](None)
@@ -766,10 +775,15 @@
 - [GPT-4V学会用键鼠上网，人类眼睁睁看着它发帖玩游戏 | 量子位](https://www.qbitai.com/2023/11/95456.html)
 
 ## Retrieval agumented generation
-- [[2406.19215] SeaKR: Self-aware Knowledge Retrieval for Adaptive Retrieval Augmented Generation](https://arxiv.org/abs/2406.19215)
+- **SeaKR: Self-aware Knowledge Retrieval for Adaptive Retrieval Augmented
+  Generation**, `arXiv, 2406.19215`, [arxiv](http://arxiv.org/abs/2406.19215v1), [pdf](http://arxiv.org/pdf/2406.19215v1.pdf), cication: [**-1**](None)
+
+	 *Zijun Yao, Weijian Qi, Liangming Pan, Shulin Cao, Linmei Hu, Weichuan Liu, Lei Hou, Juanzi Li*
 
 	 · ([SeaKR](https://github.com/THU-KEG/SeaKR) - THU-KEG) ![Star](https://img.shields.io/github/stars/THU-KEG/SeaKR.svg?style=social&label=Star)
-- [[2407.01219] Searching for Best Practices in Retrieval-Augmented Generation](https://arxiv.org/abs/2407.01219)
+- **Searching for Best Practices in Retrieval-Augmented Generation**, `arXiv, 2407.01219`, [arxiv](http://arxiv.org/abs/2407.01219v1), [pdf](http://arxiv.org/pdf/2407.01219v1.pdf), cication: [**-1**](None)
+
+	 *Xiaohua Wang, Zhenghua Wang, Xuan Gao, Feiran Zhang, Yixin Wu, Zhibo Xu, Tianyuan Shi, Zhengyuan Wang, Shizheng Li, Qi Qian*
 - [**graphrag**](https://github.com/microsoft/graphrag) - microsoft ![Star](https://img.shields.io/github/stars/microsoft/graphrag.svg?style=social&label=Star)
 
 	 *A modular graph-based Retrieval-Augmented Generation (RAG) system*

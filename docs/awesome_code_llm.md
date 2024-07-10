@@ -26,8 +26,13 @@
 	 *Ziyin Zhang, Chaoyu Chen, Bingchang Liu, Cong Liao, Zi Gong, Hang Yu, Jianguo Li, Rui Wang*
 
 ## Paper
-- [Fetching Title#d59c](https://arxiv.org/abs/2407.05700)
-- [[2406.08316] Is Programming by Example solved by LLMs?](https://arxiv.org/abs/2406.08316)
+- **InverseCoder: Unleashing the Power of Instruction-Tuned Code LLMs with
+  Inverse-Instruct**, `arXiv, 2407.05700`, [arxiv](http://arxiv.org/abs/2407.05700v1), [pdf](http://arxiv.org/pdf/2407.05700v1.pdf), cication: [**-1**](None)
+
+	 *Yutong Wu, Di Huang, Wenxuan Shi, Wei Wang, Lingzhe Gao, Shihao Liu, Ziyuan Nan, Kaizhao Yuan, Rui Zhang, Xishan Zhang*
+- **Is Programming by Example solved by LLMs?**, `arXiv, 2406.08316`, [arxiv](http://arxiv.org/abs/2406.08316v2), [pdf](http://arxiv.org/pdf/2406.08316v2.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=17300001981086537608&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Wen-Ding Li, Kevin Ellis*
 
 	 · ([pbe-llm.github](https://pbe-llm.github.io/))
 - [LLM Critics Help Catch LLM Bugs](https://cdn.openai.com/llm-critics-help-catch-llm-bugs-paper.pdf)

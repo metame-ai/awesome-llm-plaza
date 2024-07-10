@@ -15,7 +15,9 @@
 	- [Reference](#reference)
 
 ## Survey
-- [[2407.02477] Understanding Alignment in Multimodal LLMs: A Comprehensive Study](https://arxiv.org/abs/2407.02477)
+- **Understanding Alignment in Multimodal LLMs: A Comprehensive Study**, `arXiv, 2407.02477`, [arxiv](http://arxiv.org/abs/2407.02477v1), [pdf](http://arxiv.org/pdf/2407.02477v1.pdf), cication: [**-1**](None)
+
+	 *Elmira Amirloo, Jean-Philippe Fauconnier, Christoph Roesmann, Christian Kerl, Rinu Boney, Yusu Qian, Zirui Wang, Afshin Dehghan, Yinfei Yang, Zhe Gan*
 - **Efficient Multimodal Large Language Models: A Survey**, `arXiv, 2405.10739`, [arxiv](http://arxiv.org/abs/2405.10739v1), [pdf](http://arxiv.org/pdf/2405.10739v1.pdf), cication: [**-1**](None)
 
 	 *Yizhang Jin, Jian Li, Yexin Liu, Tianjun Gu, Kai Wu, Zhengkai Jiang, Muyang He, Bo Zhao, Xin Tan, Zhenye Gan* · ([efficient-multimodal-llms-survey](https://github.com/lijiannuist/efficient-multimodal-llms-survey) - lijiannuist) ![Star](https://img.shields.io/github/stars/lijiannuist/efficient-multimodal-llms-survey.svg?style=social&label=Star)
@@ -41,10 +43,14 @@
 
 ## Vision
 ### Vision Encoder
-- [[2407.02392] TokenPacker: Efficient Visual Projector for Multimodal LLM](https://arxiv.org/abs/2407.02392)
+- **TokenPacker: Efficient Visual Projector for Multimodal LLM**, `arXiv, 2407.02392`, [arxiv](http://arxiv.org/abs/2407.02392v1), [pdf](http://arxiv.org/pdf/2407.02392v1.pdf), cication: [**-1**](None)
+
+	 *Wentong Li, Yuqian Yuan, Jian Liu, Dongqi Tang, Song Wang, Jianke Zhu, Lei Zhang*
 
 	 · ([TokenPacker](https://github.com/CircleRadon/TokenPacker) - CircleRadon) ![Star](https://img.shields.io/github/stars/CircleRadon/TokenPacker.svg?style=social&label=Star)
-- [2407.03104](https://arxiv.org/pdf/2407.03104)
+- **KeyVideoLLM: Towards Large-scale Video Keyframe Selection**, `arXiv, 2407.03104`, [arxiv](http://arxiv.org/abs/2407.03104v1), [pdf](http://arxiv.org/pdf/2407.03104v1.pdf), cication: [**-1**](None)
+
+	 *Hao Liang, Jiapeng Li, Tianyi Bai, Chong Chen, Conghui He, Bin Cui, Wentao Zhang*
 - **OmniTokenizer: A Joint Image-Video Tokenizer for Visual Generation**, `arXiv, 2406.09399`, [arxiv](http://arxiv.org/abs/2406.09399v1), [pdf](http://arxiv.org/pdf/2406.09399v1.pdf), cication: [**-1**](None)
 
 	 *Junke Wang, Yi Jiang, Zehuan Yuan, Binyue Peng, Zuxuan Wu, Yu-Gang Jiang* · ([omnitokenizer](https://github.com/foundationvision/omnitokenizer) - foundationvision) ![Star](https://img.shields.io/github/stars/foundationvision/omnitokenizer.svg?style=social&label=Star)
@@ -97,7 +103,10 @@
 	 *Mike Ranzinger, Greg Heinrich, Jan Kautz, Pavlo Molchanov* · ([radio](https://github.com/nvlabs/radio) - nvlabs) ![Star](https://img.shields.io/github/stars/nvlabs/radio.svg?style=social&label=Star)
 
 ### Video
-- [[2406.08085] Flash-VStream: Memory-Based Real-Time Understanding for Long Video Streams](https://arxiv.org/abs/2406.08085)
+- **Flash-VStream: Memory-Based Real-Time Understanding for Long Video
+  Streams**, `arXiv, 2406.08085`, [arxiv](http://arxiv.org/abs/2406.08085v2), [pdf](http://arxiv.org/pdf/2406.08085v2.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=16905593390266943748&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Haoji Zhang, Yiqin Wang, Yansong Tang, Yong Liu, Jiashi Feng, Jifeng Dai, Xiaojie Jin*
 
 	 · ([invinciblewyq.github](https://invinciblewyq.github.io/vstream-page/)) · ([Flash-VStream](https://github.com/IVGSZ/Flash-VStream) - IVGSZ) ![Star](https://img.shields.io/github/stars/IVGSZ/Flash-VStream.svg?style=social&label=Star)
 - **VideoLLM-online: Online Video Large Language Model for Streaming Video**, `CVPR, 2024`, [arxiv](http://arxiv.org/abs/2406.11816v1), [pdf](http://arxiv.org/pdf/2406.11816v1.pdf), cication: [**-1**](None)
@@ -266,19 +275,32 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image Gen
-- [[2406.18790] MUMU: Bootstrapping Multimodal Image Generation from Text-to-Image Data](https://arxiv.org/abs/2406.18790)
-- [[2407.06135] ANOLE: An Open, Autoregressive, Native Large Multimodal Models for Interleaved Image-Text Generation](http://arxiv.org/abs/2407.06135)
+- **MUMU: Bootstrapping Multimodal Image Generation from Text-to-Image Data**, `arXiv, 2406.18790`, [arxiv](http://arxiv.org/abs/2406.18790v1), [pdf](http://arxiv.org/pdf/2406.18790v1.pdf), cication: [**-1**](None)
+
+	 *William Berman, Alexander Peysakhovich*
+- **ANOLE: An Open, Autoregressive, Native Large Multimodal Models for
+  Interleaved Image-Text Generation**, `arXiv, 2407.06135`, [arxiv](http://arxiv.org/abs/2407.06135v1), [pdf](http://arxiv.org/pdf/2407.06135v1.pdf), cication: [**-1**](None)
+
+	 *Ethan Chern, Jiadi Su, Yan Ma, Pengfei Liu*
 
 	 · ([anole](https://github.com/GAIR-NLP/anole) - GAIR-NLP) ![Star](https://img.shields.io/github/stars/GAIR-NLP/anole.svg?style=social&label=Star)
 
 ### Image
-- [[2406.11832] Unveiling Encoder-Free Vision-Language Models](https://arxiv.org/abs/2406.11832)
+- **Unveiling Encoder-Free Vision-Language Models**, `arXiv, 2406.11832`, [arxiv](http://arxiv.org/abs/2406.11832v1), [pdf](http://arxiv.org/pdf/2406.11832v1.pdf), cication: [**-1**](None)
+
+	 *Haiwen Diao, Yufeng Cui, Xiaotong Li, Yueze Wang, Huchuan Lu, Xinlong Wang*
 
 	 · ([EVE](https://github.com/baaivision/EVE) - baaivision) ![Star](https://img.shields.io/github/stars/baaivision/EVE.svg?style=social&label=Star)
-- [[2406.19389] OMG-LLaVA: Bridging Image-level, Object-level, Pixel-level Reasoning and Understanding](https://arxiv.org/abs/2406.19389)
+- **OMG-LLaVA: Bridging Image-level, Object-level, Pixel-level Reasoning and
+  Understanding**, `arXiv, 2406.19389`, [arxiv](http://arxiv.org/abs/2406.19389v1), [pdf](http://arxiv.org/pdf/2406.19389v1.pdf), cication: [**-1**](None)
+
+	 *Tao Zhang, Xiangtai Li, Hao Fei, Haobo Yuan, Shengqiong Wu, Shunping Ji, Chen Change Loy, Shuicheng Yan*
 
 	 · ([lxtgh.github](https://lxtgh.github.io/project/omg_llava/)) · ([OMG-Seg](https://github.com/lxtGH/OMG-Seg) - lxtGH) ![Star](https://img.shields.io/github/stars/lxtGH/OMG-Seg.svg?style=social&label=Star)
-- [[2407.03320] InternLM-XComposer-2.5: A Versatile Large Vision Language Model Supporting Long-Contextual Input and Output](https://arxiv.org/abs/2407.03320)
+- **InternLM-XComposer-2.5: A Versatile Large Vision Language Model
+  Supporting Long-Contextual Input and Output**, `arXiv, 2407.03320`, [arxiv](http://arxiv.org/abs/2407.03320v1), [pdf](http://arxiv.org/pdf/2407.03320v1.pdf), cication: [**-1**](None)
+
+	 *Pan Zhang, Xiaoyi Dong, Yuhang Zang, Yuhang Cao, Rui Qian, Lin Chen, Qipeng Guo, Haodong Duan, Bin Wang, Linke Ouyang*
 
 	 · ([InternLM-XComposer](https://github.com/InternLM/InternLM-XComposer) - InternLM) ![Star](https://img.shields.io/github/stars/InternLM/InternLM-XComposer.svg?style=social&label=Star)
 - **MG-LLaVA: Towards Multi-Granularity Visual Instruction Tuning**, `arXiv, 2406.17770`, [arxiv](http://arxiv.org/abs/2406.17770v1), [pdf](http://arxiv.org/pdf/2406.17770v1.pdf), cication: [**-1**](None)
@@ -1139,7 +1161,10 @@
 	 *Shaohan Huang, Li Dong, Wenhui Wang, Yaru Hao, Saksham Singhal, Shuming Ma, Tengchao Lv, Lei Cui, Owais Khan Mohammed, Barun Patra*
 
 ## Audio
-- [Fetching Title#mgqv](https://arxiv.org/abs/2407.03169)
+- **Investigating Decoder-only Large Language Models for Speech-to-text
+  Translation**, `arXiv, 2407.03169`, [arxiv](http://arxiv.org/abs/2407.03169v1), [pdf](http://arxiv.org/pdf/2407.03169v1.pdf), cication: [**-1**](None)
+
+	 *Chao-Wei Huang, Hui Lu, Hongyu Gong, Hirofumi Inaguma, Ilia Kulikov, Ruslan Mavlyutov, Sravya Popuri*
 - **GAMA: A Large Audio-Language Model with Advanced Audio Understanding and
   Complex Reasoning Abilities**, `arXiv, 2406.11768`, [arxiv](http://arxiv.org/abs/2406.11768v1), [pdf](http://arxiv.org/pdf/2406.11768v1.pdf), cication: [**-1**](None)
 
@@ -1264,7 +1289,10 @@
 
 	 *Zhengfeng Lai, Haotian Zhang, Bowen Zhang, Wentao Wu, Haoping Bai, Aleksei Timofeev, Xianzhi Du, Zhe Gan, Jiulong Shan, Chen-Nee Chuah* · ([ml-veclip](https://github.com/apple/ml-veclip) - apple) ![Star](https://img.shields.io/github/stars/apple/ml-veclip.svg?style=social&label=Star)
 ## Reasoning 
-- [[2407.05131] RULE: Reliable Multimodal RAG for Factuality in Medical Vision Language Models](https://arxiv.org/abs/2407.05131)
+- **RULE: Reliable Multimodal RAG for Factuality in Medical Vision Language
+  Models**, `arXiv, 2407.05131`, [arxiv](http://arxiv.org/abs/2407.05131v1), [pdf](http://arxiv.org/pdf/2407.05131v1.pdf), cication: [**-1**](None)
+
+	 *Peng Xia, Kangyu Zhu, Haoran Li, Hongtu Zhu, Yun Li, Gang Li, Linjun Zhang, Huaxiu Yao*
 
 	 · ([RULE](https://github.com/richard-peng-xia/RULE) - richard-peng-xia) ![Star](https://img.shields.io/github/stars/richard-peng-xia/RULE.svg?style=social&label=Star)
 - **Math-LLaVA: Bootstrapping Mathematical Reasoning for Multimodal Large
@@ -1283,7 +1311,10 @@
 	 *Timin Gao, Peixian Chen, Mengdan Zhang, Chaoyou Fu, Yunhang Shen, Yan Zhang, Shengchuan Zhang, Xiawu Zheng, Xing Sun, Liujuan Cao* · ([ggg0919.github](https://ggg0919.github.io/cantor/))
 
 ## Alignment
-- [Fetching Title#j4xl](https://arxiv.org/abs/2406.19736)
+- **MM-Instruct: Generated Visual Instructions for Large Multimodal Model
+  Alignment**, `arXiv, 2406.19736`, [arxiv](http://arxiv.org/abs/2406.19736v1), [pdf](http://arxiv.org/pdf/2406.19736v1.pdf), cication: [**-1**](None)
+
+	 *Jihao Liu, Xin Huang, Jinliang Zheng, Boxiao Liu, Jia Wang, Osamu Yoshie, Yu Liu, Hongsheng Li*
 
 	 · ([MM-Instruct](https://github.com/jihaonew/MM-Instruct) - jihaonew) ![Star](https://img.shields.io/github/stars/jihaonew/MM-Instruct.svg?style=social&label=Star)
 - **RLAIF-V: Aligning MLLMs through Open-Source AI Feedback for Super GPT-4V
@@ -1431,10 +1462,15 @@
 
 
 ## Evaluation
-- [[2407.03418] HEMM: Holistic Evaluation of Multimodal Foundation Models](https://arxiv.org/abs/2407.03418)
+- **HEMM: Holistic Evaluation of Multimodal Foundation Models**, `arXiv, 2407.03418`, [arxiv](http://arxiv.org/abs/2407.03418v1), [pdf](http://arxiv.org/pdf/2407.03418v1.pdf), cication: [**-1**](None)
+
+	 *Paul Pu Liang, Akshay Goindani, Talha Chafekar, Leena Mathur, Haofei Yu, Ruslan Salakhutdinov, Louis-Philippe Morency*
 
 	 · ([HEMM](https://github.com/pliang279/HEMM) - pliang279) ![Star](https://img.shields.io/github/stars/pliang279/HEMM.svg?style=social&label=Star)
-- [[2407.00468] MMEvalPro: Calibrating Multimodal Benchmarks Towards Trustworthy and Efficient Evaluation](https://arxiv.org/abs/2407.00468)
+- **MMEvalPro: Calibrating Multimodal Benchmarks Towards Trustworthy and
+  Efficient Evaluation**, `arXiv, 2407.00468`, [arxiv](http://arxiv.org/abs/2407.00468v1), [pdf](http://arxiv.org/pdf/2407.00468v1.pdf), cication: [**-1**](None)
+
+	 *Jinsheng Huang, Liang Chen, Taian Guo, Fu Zeng, Yusheng Zhao, Bohan Wu, Ye Yuan, Haozhe Zhao, Zhihui Guo, Yichi Zhang*
 
 	 · ([MMEvalPro](https://github.com/chenllliang/MMEvalPro) - chenllliang) ![Star](https://img.shields.io/github/stars/chenllliang/MMEvalPro.svg?style=social&label=Star)
 - **Long Context Transfer from Language to Vision**, `arXiv, 2406.16852`, [arxiv](http://arxiv.org/abs/2406.16852v1), [pdf](http://arxiv.org/pdf/2406.16852v1.pdf), cication: [**-1**](None)
@@ -1569,7 +1605,10 @@
 	 *Yuliang Liu, Zhang Li, Biao Yang, Chunyuan Li, Xucheng Yin, Cheng-lin Liu, Lianwen Jin, Xiang Bai* · ([MultimodalOCR](https://github.com/Yuliang-Liu/MultimodalOCR) - Yuliang-Liu) ![Star](https://img.shields.io/github/stars/Yuliang-Liu/MultimodalOCR.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652442102&idx=4&sn=64a53646c57797a00b9db186f339c5eb))
 
 ## Datasets
-- [[2407.03958] Stark: Social Long-Term Multi-Modal Conversation with Persona Commonsense Knowledge](https://arxiv.org/abs/2407.03958)
+- **Stark: Social Long-Term Multi-Modal Conversation with Persona
+  Commonsense Knowledge**, `arXiv, 2407.03958`, [arxiv](http://arxiv.org/abs/2407.03958v1), [pdf](http://arxiv.org/pdf/2407.03958v1.pdf), cication: [**-1**](None)
+
+	 *Young-Jun Lee, Dokyong Lee, Junyoung Youn, Kyeongjin Oh, Byungsoo Ko, Jonghwan Hyeon, Ho-Jin Choi*
 
 	 · ([Stark](https://github.com/passing2961/Stark) - passing2961) ![Star](https://img.shields.io/github/stars/passing2961/Stark.svg?style=social&label=Star)
 - [**webpage2code**](https://github.com/MBZUAI-LLM/webpage2code) - MBZUAI-LLM ![Star](https://img.shields.io/github/stars/MBZUAI-LLM/webpage2code.svg?style=social&label=Star)

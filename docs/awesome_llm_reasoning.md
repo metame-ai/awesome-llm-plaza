@@ -436,10 +436,15 @@
 - [大模型Fewshot推理如何选择更好的示例](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495177&idx=2&sn=fe8353efed16a81e35462be06d5a6cea)
 
 ## Math reasoning
-- [Fetching Title#wbmz](https://arxiv.org/abs/2407.01284)
+- **We-Math: Does Your Large Multimodal Model Achieve Human-like
+  Mathematical Reasoning?**, `arXiv, 2407.01284`, [arxiv](http://arxiv.org/abs/2407.01284v1), [pdf](http://arxiv.org/pdf/2407.01284v1.pdf), cication: [**-1**](None)
+
+	 *Runqi Qiao, Qiuna Tan, Guanting Dong, Minhui Wu, Chong Sun, Xiaoshuai Song, Zhuoma GongQue, Shanglin Lei, Zhe Wei, Miaoxuan Zhang*
 
 	 · ([We-Math](https://github.com/We-Math/We-Math) - We-Math) ![Star](https://img.shields.io/github/stars/We-Math/We-Math.svg?style=social&label=Star)
-- [[2406.14283] Q\*: Improving Multi-step Reasoning for LLMs with Deliberative Planning](https://arxiv.org/abs/2406.14283)
+- **Q*: Improving Multi-step Reasoning for LLMs with Deliberative Planning**, `arXiv, 2406.14283`, [arxiv](http://arxiv.org/abs/2406.14283v3), [pdf](http://arxiv.org/pdf/2406.14283v3.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=8397897944203451859&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Chaojie Wang, Yanchen Deng, Zhiyi Lv, Zeng Liang, Jujie He, Shuicheng Yan, An Bo*
 - **Math-LLaVA: Bootstrapping Mathematical Reasoning for Multimodal Large
   Language Models**, `arXiv, 2406.17294`, [arxiv](http://arxiv.org/abs/2406.17294v2), [pdf](http://arxiv.org/pdf/2406.17294v2.pdf), cication: [**-1**](None)
 
@@ -646,7 +651,9 @@
 	 *Tianlu Wang, Ping Yu, Xiaoqing Ellen Tan, Sean O'Brien, Ramakanth Pasunuru, Jane Dwivedi-Yu, Olga Golovneva, Luke Zettlemoyer, Maryam Fazel-Zarandi, Asli Celikyilmaz* · ([shepherd](https://github.com/facebookresearch/shepherd) - facebookresearch) ![Star](https://img.shields.io/github/stars/facebookresearch/shepherd.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652366759&idx=3&sn=f183f4c8080a338c4c9fad0f026b14af))
 
 ## Prompting
-- [Fetching Title#1vx1](https://arxiv.org/abs/2407.06027)
+- **PAS: Data-Efficient Plug-and-Play Prompt Augmentation System**, `arXiv, 2407.06027`, [arxiv](http://arxiv.org/abs/2407.06027v1), [pdf](http://arxiv.org/pdf/2407.06027v1.pdf), cication: [**-1**](None)
+
+	 *Miao Zheng, Hao Liang, Fan Yang, Haoze Sun, Tianpeng Li, Lingchu Xiong, Yan Zhang, Yozhen Wu, Kun Li, Yanjun Sheng*
 - **AdvPrompter: Fast Adaptive Adversarial Prompting for LLMs**, `arXiv, 2404.16873`, [arxiv](http://arxiv.org/abs/2404.16873v1), [pdf](http://arxiv.org/pdf/2404.16873v1.pdf), cication: [**-1**](None)
 
 	 *Anselm Paulus, Arman Zharmagambetov, Chuan Guo, Brandon Amos, Yuandong Tian*

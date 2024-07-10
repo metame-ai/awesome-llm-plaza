@@ -9,7 +9,10 @@
 
 
 ## Survey
-- [2407.01599](https://arxiv.org/pdf/2407.01599)
+- **JailbreakZoo: Survey, Landscapes, and Horizons in Jailbreaking Large
+  Language and Vision-Language Models**, `arXiv, 2407.01599`, [arxiv](http://arxiv.org/abs/2407.01599v1), [pdf](http://arxiv.org/pdf/2407.01599v1.pdf), cication: [**-1**](None)
+
+	 *Haibo Jin, Leyang Hu, Xinuo Li, Peiyan Zhang, Chonghan Chen, Jun Zhuang, Haohan Wang*
 
 	 · ([chonghan-chen](https://chonghan-chen.com/llm-jailbreak-zoo-survey/)) · ([JailbreakZoo](https://github.com/Allen-piexl/JailbreakZoo) - Allen-piexl) ![Star](https://img.shields.io/github/stars/Allen-piexl/JailbreakZoo.svg?style=social&label=Star)
 - **Against The Achilles' Heel: A Survey on Red Teaming for Generative
@@ -68,7 +71,10 @@
 	 *Stephen Casper, Jason Lin, Joe Kwon, Gatlen Culp, Dylan Hadfield-Menell*
 
 ## Papers
-- [[2407.02855] Safe Unlearning: A Surprisingly Effective and Generalizable Solution to Defend Against Jailbreak Attacks](https://arxiv.org/abs/2407.02855)
+- **Safe Unlearning: A Surprisingly Effective and Generalizable Solution to
+  Defend Against Jailbreak Attacks**, `arXiv, 2407.02855`, [arxiv](http://arxiv.org/abs/2407.02855v1), [pdf](http://arxiv.org/pdf/2407.02855v1.pdf), cication: [**-1**](None)
+
+	 *Zhexin Zhang, Junxiao Yang, Pei Ke, Shiyao Cui, Chujie Zheng, Hongning Wang, Minlie Huang*
 
 	 · ([SafeUnlearning](https://github.com/thu-coai/SafeUnlearning) - thu-coai) ![Star](https://img.shields.io/github/stars/thu-coai/SafeUnlearning.svg?style=social&label=Star)
 - **WildGuard: Open One-Stop Moderation Tools for Safety Risks, Jailbreaks,

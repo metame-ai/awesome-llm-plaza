@@ -26,7 +26,9 @@
 - [Attention? Attention! | Lil'Log](https://lilianweng.github.io/posts/2018-06-24-attention/#a-family-of-attention-mechanisms)
 
 ## Evaluation
-- [[2407.01370] Summary of a Haystack: A Challenge to Long-Context LLMs and RAG Systems](https://arxiv.org/abs/2407.01370)
+- **Summary of a Haystack: A Challenge to Long-Context LLMs and RAG Systems**, `arXiv, 2407.01370`, [arxiv](http://arxiv.org/abs/2407.01370v1), [pdf](http://arxiv.org/pdf/2407.01370v1.pdf), cication: [**-1**](None)
+
+	 *Philippe Laban, Alexander R. Fabbri, Caiming Xiong, Chien-Sheng Wu*
 - **Counting-Stars: A Simple, Efficient, and Reasonable Strategy for
   Evaluating Long-Context Large Language Models**, `arXiv, 2403.11802`, [arxiv](http://arxiv.org/abs/2403.11802v2), [pdf](http://arxiv.org/pdf/2403.11802v2.pdf), cication: [**-1**](None)
 
@@ -36,8 +38,13 @@
 	 *Adyasha Maharana, Dong-Ho Lee, Sergey Tulyakov, Mohit Bansal, Francesco Barbieri, Yuwei Fang*
 
 ## Papers
-- [Fetching Title#w94w](https://arxiv.org/abs/2407.04841)
-- [[2407.00402] Is It Really Long Context if All You Need Is Retrieval? Towards Genuinely Difficult Long Context NLP](https://arxiv.org/abs/2407.00402)
+- **Associative Recurrent Memory Transformer**, `arXiv, 2407.04841`, [arxiv](http://arxiv.org/abs/2407.04841v1), [pdf](http://arxiv.org/pdf/2407.04841v1.pdf), cication: [**-1**](None)
+
+	 *Ivan Rodkin, Yuri Kuratov, Aydar Bulatov, Mikhail Burtsev*
+- **Is It Really Long Context if All You Need Is Retrieval? Towards
+  Genuinely Difficult Long Context NLP**, `arXiv, 2407.00402`, [arxiv](http://arxiv.org/abs/2407.00402v1), [pdf](http://arxiv.org/pdf/2407.00402v1.pdf), cication: [**-1**](None)
+
+	 *Omer Goldman, Alon Jacovi, Aviv Slobodkin, Aviya Maimon, Ido Dagan, Reut Tsarfaty*
 - **Sparser is Faster and Less is More: Efficient Sparse Attention for
   Long-Range Transformers**, `arXiv, 2406.16747`, [arxiv](http://arxiv.org/abs/2406.16747v1), [pdf](http://arxiv.org/pdf/2406.16747v1.pdf), cication: [**-1**](None)
 

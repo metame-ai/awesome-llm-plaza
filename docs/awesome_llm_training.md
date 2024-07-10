@@ -318,7 +318,9 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652375732&idx=2&sn=1cb4cefcd791af2a6ffacdf99e35225c))
 
 ## Optimization
-- [[2407.01392] Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion](https://arxiv.org/abs/2407.01392)
+- **Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion**, `arXiv, 2407.01392`, [arxiv](http://arxiv.org/abs/2407.01392v3), [pdf](http://arxiv.org/pdf/2407.01392v3.pdf), cication: [**-1**](None)
+
+	 *Boyuan Chen, Diego Marti Monso, Yilun Du, Max Simchowitz, Russ Tedrake, Vincent Sitzmann*
 
 	 · ([diffusion-forcing](https://github.com/buoyancy99/diffusion-forcing) - buoyancy99) ![Star](https://img.shields.io/github/stars/buoyancy99/diffusion-forcing.svg?style=social&label=Star)
 - [MiniCPM: Unveiling the Potential of End-side Large Language Models](https://shengdinghu.notion.site/MiniCPM-Unveiling-the-Potential-of-End-side-Large-Language-Models-d4d3a8c426424654a4e80e42a711cb20)
