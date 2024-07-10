@@ -555,6 +555,7 @@
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-12-11-15))
 
 ### InterLM
+- [Fetching Title#35ag](https://huggingface.co/collections/internlm/internlm25-66853f32717072d17581bc13)
 - [**InternLM-Math**](https://github.com/InternLM/InternLM-Math) - InternLM ![Star](https://img.shields.io/github/stars/InternLM/InternLM-Math.svg?style=social&label=Star)
 
 	 · ([huggingface](https://huggingface.co/spaces/internlm/internlm2-math-7b))
@@ -634,6 +635,7 @@
 	 *A large-scale 7B pretraining language model developed by BaiChuan-Inc.*
 
 ### ChatGLM
+- [Fetching Title#9hjh](https://huggingface.co/THUDM/codegeex4-all-9b)
 - **ChatGLM: A Family of Large Language Models from GLM-130B to GLM-4 All
   Tools**, `arXiv, 2406.12793`, [arxiv](http://arxiv.org/abs/2406.12793v1), [pdf](http://arxiv.org/pdf/2406.12793v1.pdf), cication: [**-1**](None)
 
@@ -705,6 +707,9 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s/Lf70i8M0KNDs9ZB8H32h4w))
 
 # Extra
+- [[2407.05975] LLaMAX: Scaling Linguistic Horizons of LLM by Enhancing Translation Capabilities Beyond 100 Languages](https://arxiv.org/abs/2407.05975)
+
+	 · ([LLaMAX](https://github.com/CONE-MT/LLaMAX/) - CONE-MT) ![Star](https://img.shields.io/github/stars/CONE-MT/LLaMAX.svg?style=social&label=Star)
 - **Aya 23: Open Weight Releases to Further Multilingual Progress**, `arXiv, 2405.15032`, [arxiv](http://arxiv.org/abs/2405.15032v1), [pdf](http://arxiv.org/pdf/2405.15032v1.pdf), cication: [**-1**](None)
 
 	 *Viraat Aryabumi, John Dang, Dwarak Talupuru, Saurabh Dash, David Cairuz, Hangyu Lin, Bharat Venkitesh, Madeline Smith, Kelly Marchisio, Sebastian Ruder*

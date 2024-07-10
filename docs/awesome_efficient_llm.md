@@ -62,6 +62,7 @@
 
 	 *Vladislav Lialin, Vijeta Deshpande, Anna Rumshisky*
 ## Efficient finetuning
+- [Fetching Title#2q74](https://arxiv.org/abs/2407.01906)
 - **OLoRA: Orthonormal Low-Rank Adaptation of Large Language Models**, `arXiv, 2406.01775`, [arxiv](http://arxiv.org/abs/2406.01775v1), [pdf](http://arxiv.org/pdf/2406.01775v1.pdf), cication: [**-1**](None)
 
 	 *Kerim Büyükakyüz*
@@ -497,6 +498,9 @@
 	 *Shufang Xie, Huishuai Zhang, Junliang Guo, Xu Tan, Jiang Bian, Hany Hassan Awadalla, Arul Menezes, Tao Qin, Rui Yan* · ([ResiDual](https://github.com/microsoft/ResiDual) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/ResiDual.svg?style=social&label=Star)
 
 ## Efficient Inference
+- [[2407.02490] MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention](https://arxiv.org/abs/2407.02490)
+
+	 · ([MInference](https://github.com/microsoft/MInference) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/MInference.svg?style=social&label=Star) · ([aka](https://aka.ms/MInference))
 - **Towards Fast Multilingual LLM Inference: Speculative Decoding and
   Specialized Drafters**, `arXiv, 2406.16758`, [arxiv](http://arxiv.org/abs/2406.16758v1), [pdf](http://arxiv.org/pdf/2406.16758v1.pdf), cication: [**-1**](None)
 
@@ -839,6 +843,9 @@
 - [研究完llama.cpp，我发现手机跑大模型竟这么简单 | 机器之心](https://www.jiqizhixin.com/articles/2023-08-17-8)
 
 ## Mobile
+- [Fetching Title#3jf9](https://arxiv.org/abs/2402.14905)
+
+	 · ([MobileLLM](https://github.com/facebookresearch/MobileLLM) - facebookresearch) ![Star](https://img.shields.io/github/stars/facebookresearch/MobileLLM.svg?style=social&label=Star)
 - **HARE: HumAn pRiors, a key to small language model Efficiency**, `arXiv, 2406.11410`, [arxiv](http://arxiv.org/abs/2406.11410v2), [pdf](http://arxiv.org/pdf/2406.11410v2.pdf), cication: [**-1**](None)
 
 	 *Lingyun Zhang, Bin jin, Gaojian Ge, Lunhui Liu, Xuewen Shen, Mingyong Wu, Houqian Zhang, Yongneng Jiang, Shiqi Chen, Shi Pu*
@@ -911,7 +918,8 @@
 	 *DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.*
 
 ## Efficient transformer
-- [Fetching Title#v73p](https://towardsdatascience.com/flash-attention-fast-and-memory-efficient-exact-attention-with-io-awareness-a-deep-dive-724af489997b)
+- [Fetching Title#5y4k](https://arxiv.org/abs/2406.14909)
+- [Flash Attention (Fast and Memory-Efficient Exact Attention wi](https://towardsdatascience.com/flash-attention-fast-and-memory-efficient-exact-attention-with-io-awareness-a-deep-dive-724af489997b)
 - **Block Transformer: Global-to-Local Language Modeling for Fast Inference**, `arXiv, 2406.02657`, [arxiv](http://arxiv.org/abs/2406.02657v1), [pdf](http://arxiv.org/pdf/2406.02657v1.pdf), cication: [**-1**](None)
 
 	 *Namgyu Ho, Sangmin Bae, Taehyeon Kim, Hyunjik Jo, Yireun Kim, Tal Schuster, Adam Fisch, James Thorne, Se-Young Yun*

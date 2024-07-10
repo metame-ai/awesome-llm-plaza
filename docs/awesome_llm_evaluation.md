@@ -28,6 +28,9 @@
 	 *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang*
 
 ## Papers
+- [[2407.04694] Me, Myself, and AI: The Situational Awareness Dataset (SAD) for LLMs](https://arxiv.org/abs/2407.04694)
+
+	 · ([situational-awareness-dataset](https://situational-awareness-dataset.org/))
 - **LongIns: A Challenging Long-context Instruction-based Exam for LLMs**, `arXiv, 2406.17588`, [arxiv](http://arxiv.org/abs/2406.17588v2), [pdf](http://arxiv.org/pdf/2406.17588v2.pdf), cication: [**-1**](None)
 
 	 *Shawn Gavin, Tuney Zheng, Jiaheng Liu, Quehry Que, Noah Wang, Jian Yang, Chenchen Zhang, Wenhao Huang, Wenhu Chen, Ge Zhang*
@@ -647,6 +650,7 @@
 - [SuperCLUE中文大模型评测：商汤商量揽总榜、AI智能体两项第一 | 量子位](https://www.qbitai.com/2023/10/89814.html)
 
 ## Extra reference
+- [Model & API Providers Analysis | Artificial Analysis](https://artificialanalysis.ai/)
 - [**awesome-llms-evaluation-papers**](https://github.com/tjunlp-lab/awesome-llms-evaluation-papers) - tjunlp-lab ![Star](https://img.shields.io/github/stars/tjunlp-lab/awesome-llms-evaluation-papers.svg?style=social&label=Star)
 
 	 *The papers are organized according to our survey: Evaluating Large Language Models: A Comprehensive Survey.* · [jiqizhixin](https://www.jiqizhixin.com/articles/2023-11-06)]

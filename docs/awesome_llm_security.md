@@ -68,6 +68,9 @@
 	 *Stephen Casper, Jason Lin, Joe Kwon, Gatlen Culp, Dylan Hadfield-Menell*
 
 ## Papers
+- [[2407.02855] Safe Unlearning: A Surprisingly Effective and Generalizable Solution to Defend Against Jailbreak Attacks](https://arxiv.org/abs/2407.02855)
+
+	 · ([SafeUnlearning](https://github.com/thu-coai/SafeUnlearning) - thu-coai) ![Star](https://img.shields.io/github/stars/thu-coai/SafeUnlearning.svg?style=social&label=Star)
 - **WildGuard: Open One-Stop Moderation Tools for Safety Risks, Jailbreaks,
   and Refusals of LLMs**, `arXiv, 2406.18495`, [arxiv](http://arxiv.org/abs/2406.18495v1), [pdf](http://arxiv.org/pdf/2406.18495v1.pdf), cication: [**-1**](None)
 

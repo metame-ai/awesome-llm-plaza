@@ -33,6 +33,7 @@
 	 *Cunxiang Wang, Xiaoze Liu, Yuanhao Yue, Xiangru Tang, Tianhang Zhang, Cheng Jiayang, Yunzhi Yao, Wenyang Gao, Xuming Hu, Zehan Qi* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-19-2))
 
 ## Papers
+- [Extrinsic Hallucinations in LLMs | Lil'Log](https://lilianweng.github.io/posts/2024-07-07-hallucination/)
 - **VideoHallucer: Evaluating Intrinsic and Extrinsic Hallucinations in
   Large Video-Language Models**, `arXiv, 2406.16338`, [arxiv](http://arxiv.org/abs/2406.16338v1), [pdf](http://arxiv.org/pdf/2406.16338v1.pdf), cication: [**-1**](None)
 
@@ -116,6 +117,9 @@
 	 *Sina J. Semnani, Violet Z. Yao, Heidi C. Zhang, Monica S. Lam*
 
 	 · ([wikichat](https://github.com/stanford-oval/wikichat?tab=readme-ov-file) - stanford-oval) ![Star](https://img.shields.io/github/stars/stanford-oval/wikichat?tab=readme-ov-file.svg?style=social&label=Star)
+
+## Multi-Mod
+- [[2406.10900] AUTOHALLUSION: Automatic Generation of Hallucination Benchmarks for Vision-Language Models](https://arxiv.org/abs/2406.10900)
 
 ## Evalution
 - **Long-form factuality in large language models**, `arXiv, 2403.18802`, [arxiv](http://arxiv.org/abs/2403.18802v1), [pdf](http://arxiv.org/pdf/2403.18802v1.pdf), cication: [**-1**](None)

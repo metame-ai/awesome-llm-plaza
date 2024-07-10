@@ -436,6 +436,9 @@
 - [大模型Fewshot推理如何选择更好的示例](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495177&idx=2&sn=fe8353efed16a81e35462be06d5a6cea)
 
 ## Math reasoning
+- [Fetching Title#wbmz](https://arxiv.org/abs/2407.01284)
+
+	 · ([We-Math](https://github.com/We-Math/We-Math) - We-Math) ![Star](https://img.shields.io/github/stars/We-Math/We-Math.svg?style=social&label=Star)
 - [[2406.14283] Q\*: Improving Multi-step Reasoning for LLMs with Deliberative Planning](https://arxiv.org/abs/2406.14283)
 - **Math-LLaVA: Bootstrapping Mathematical Reasoning for Multimodal Large
   Language Models**, `arXiv, 2406.17294`, [arxiv](http://arxiv.org/abs/2406.17294v2), [pdf](http://arxiv.org/pdf/2406.17294v2.pdf), cication: [**-1**](None)
@@ -643,6 +646,7 @@
 	 *Tianlu Wang, Ping Yu, Xiaoqing Ellen Tan, Sean O'Brien, Ramakanth Pasunuru, Jane Dwivedi-Yu, Olga Golovneva, Luke Zettlemoyer, Maryam Fazel-Zarandi, Asli Celikyilmaz* · ([shepherd](https://github.com/facebookresearch/shepherd) - facebookresearch) ![Star](https://img.shields.io/github/stars/facebookresearch/shepherd.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652366759&idx=3&sn=f183f4c8080a338c4c9fad0f026b14af))
 
 ## Prompting
+- [Fetching Title#1vx1](https://arxiv.org/abs/2407.06027)
 - **AdvPrompter: Fast Adaptive Adversarial Prompting for LLMs**, `arXiv, 2404.16873`, [arxiv](http://arxiv.org/abs/2404.16873v1), [pdf](http://arxiv.org/pdf/2404.16873v1.pdf), cication: [**-1**](None)
 
 	 *Anselm Paulus, Arman Zharmagambetov, Chuan Guo, Brandon Amos, Yuandong Tian*

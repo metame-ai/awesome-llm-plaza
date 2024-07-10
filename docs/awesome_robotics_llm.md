@@ -12,6 +12,9 @@
 	 *Yeseung Kim, Dohyun Kim, Jieun Choi, Jisang Park, Nayoung Oh, Daehyung Park*
 
 ## Papers
+- [[2406.19741] ROS-LLM: A ROS framework for embodied AI with task feedback and structured reasoning](https://arxiv.org/abs/2406.19741)
+
+	 · ([HEBO](https://github.com/huawei-noah/HEBO/tree/rosllm/ROSLLM) - huawei-noah) ![Star](https://img.shields.io/github/stars/huawei-noah/HEBO.svg?style=social&label=Star)
 - [[2406.20095] LLaRA: Supercharging Robot Learning Data for Vision-Language Policy](https://arxiv.org/abs/2406.20095)
 
 	 · ([LLaRA](https://github.com/LostXine/LLaRA) - LostXine) ![Star](https://img.shields.io/github/stars/LostXine/LLaRA.svg?style=social&label=Star)

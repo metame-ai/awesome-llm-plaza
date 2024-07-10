@@ -97,6 +97,12 @@
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-18-4))
 ## Agents
+- [[2407.04363] AriGraph: Learning Knowledge Graph World Models with Episodic Memory for LLM Agents](https://arxiv.org/abs/2407.04363)
+
+	 · ([AriGraph](https://github.com/AIRI-Institute/AriGraph) - AIRI-Institute) ![Star](https://img.shields.io/github/stars/AIRI-Institute/AriGraph.svg?style=social&label=Star)
+- [[2407.01489] Agentless: Demystifying LLM-based Software Engineering Agents](https://arxiv.org/abs/2407.01489)
+
+	 · ([Agentless](https://github.com/OpenAutoCoder/Agentless) - OpenAutoCoder) ![Star](https://img.shields.io/github/stars/OpenAutoCoder/Agentless.svg?style=social&label=Star)
 - [[2407.01502] AI Agents That Matter](https://arxiv.org/abs/2407.01502)
 - [2407.01231](https://arxiv.org/pdf/2407.01231)
 
@@ -760,6 +766,9 @@
 - [GPT-4V学会用键鼠上网，人类眼睁睁看着它发帖玩游戏 | 量子位](https://www.qbitai.com/2023/11/95456.html)
 
 ## Retrieval agumented generation
+- [[2406.19215] SeaKR: Self-aware Knowledge Retrieval for Adaptive Retrieval Augmented Generation](https://arxiv.org/abs/2406.19215)
+
+	 · ([SeaKR](https://github.com/THU-KEG/SeaKR) - THU-KEG) ![Star](https://img.shields.io/github/stars/THU-KEG/SeaKR.svg?style=social&label=Star)
 - [[2407.01219] Searching for Best Practices in Retrieval-Augmented Generation](https://arxiv.org/abs/2407.01219)
 - [**graphrag**](https://github.com/microsoft/graphrag) - microsoft ![Star](https://img.shields.io/github/stars/microsoft/graphrag.svg?style=social&label=Star)
 

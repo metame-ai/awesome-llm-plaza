@@ -340,6 +340,7 @@
 - [**Capybara-Preferences**](https://huggingface.co/datasets/argilla/Capybara-Preferences) - argilla 🤗
 
 ### Synthetic 
+- [[2406.19227] Aligning Teacher with Student Preferences for Tailored Training Data Generation](https://arxiv.org/abs/2406.19227)
 - [2406.20094](https://arxiv.org/pdf/2406.20094)
 
 	 · ([persona-hub](https://github.com/tencent-ailab/persona-hub) - tencent-ailab) ![Star](https://img.shields.io/github/stars/tencent-ailab/persona-hub.svg?style=social&label=Star)

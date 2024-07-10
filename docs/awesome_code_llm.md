@@ -26,6 +26,10 @@
 	 *Ziyin Zhang, Chaoyu Chen, Bingchang Liu, Cong Liao, Zi Gong, Hang Yu, Jianguo Li, Rui Wang*
 
 ## Paper
+- [Fetching Title#d59c](https://arxiv.org/abs/2407.05700)
+- [[2406.08316] Is Programming by Example solved by LLMs?](https://arxiv.org/abs/2406.08316)
+
+	 · ([pbe-llm.github](https://pbe-llm.github.io/))
 - [LLM Critics Help Catch LLM Bugs](https://cdn.openai.com/llm-critics-help-catch-llm-bugs-paper.pdf)
 
 	 · ([openai](https://openai.com/index/finding-gpt4s-mistakes-with-gpt-4/))
@@ -353,7 +357,8 @@
 	 · [intercode-benchmark.github](https://intercode-benchmark.github.io/)
 
 ## Projects
-- [Fetching Title#4rwu](https://huggingface.co/blog/beating-gaia)
+- [Fetching Title#shsd](https://huggingface.co/THUDM/codegeex4-all-9b)
+- [Fetching Title#83w9](https://huggingface.co/blog/beating-gaia)
 - [BigCodeBench: Benchmarking Large Language Models on Solving Practical and Challenging Programming Tasks](https://huggingface.co/blog/leaderboard-bigcodebench)
 
 	 · ([huggingface](https://huggingface.co/spaces/bigcode/bigcodebench-leaderboard)) · ([bigcodebench](https://github.com/bigcode-project/bigcodebench) - bigcode-project) ![Star](https://img.shields.io/github/stars/bigcode-project/bigcodebench.svg?style=social&label=Star)

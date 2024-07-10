@@ -35,6 +35,8 @@
 	 *Yufei Wang, Wanjun Zhong, Liangyou Li, Fei Mi, Xingshan Zeng, Wenyong Huang, Lifeng Shang, Xin Jiang, Qun Liu* · ([AlignLLMHumanSurvey](https://github.com/GaryYufei/AlignLLMHumanSurvey) - GaryYufei) ![Star](https://img.shields.io/github/stars/GaryYufei/AlignLLMHumanSurvey.svg?style=social&label=Star)
 
 ## Paper & Projects
+- [Fetching Title#r8cz](https://arxiv.org/abs/2406.19774)
+- [[2407.04622] On scalable oversight with weak LLMs judging strong LLMs](https://arxiv.org/abs/2407.04622)
 - **Creativity Has Left the Chat: The Price of Debiasing Language Models**, `arXiv, 2406.05587`, [arxiv](http://arxiv.org/abs/2406.05587v1), [pdf](http://arxiv.org/pdf/2406.05587v1.pdf), cication: [**-1**](None)
 
 	 *Behnam Mohammadi*
@@ -254,6 +256,12 @@
 	 *Timo Kaufmann, Paul Weng, Viktor Bengs, Eyke Hüllermeier*
 
 ## Papers
+- [[2407.00782] Step-Controlled DPO: Leveraging Stepwise Error for Enhanced Mathematical Reasoning](https://arxiv.org/abs/2407.00782)
+
+	 · ([Step-Controlled_DPO](https://github.com/mathllm/Step-Controlled_DPO) - mathllm) ![Star](https://img.shields.io/github/stars/mathllm/Step-Controlled_DPO.svg?style=social&label=Star)
+- [[2406.18629] Step-DPO: Step-wise Preference Optimization for Long-chain Reasoning of LLMs](https://arxiv.org/abs/2406.18629)
+
+	 · ([Step-DPO](https://github.com/dvlab-research/Step-DPO) - dvlab-research) ![Star](https://img.shields.io/github/stars/dvlab-research/Step-DPO.svg?style=social&label=Star)
 - **WARP: On the Benefits of Weight Averaged Rewarded Policies**, `arXiv, 2406.16768`, [arxiv](http://arxiv.org/abs/2406.16768v1), [pdf](http://arxiv.org/pdf/2406.16768v1.pdf), cication: [**-1**](None)
 
 	 *Alexandre Ramé, Johan Ferret, Nino Vieillard, Robert Dadashi, Léonard Hussenot, Pierre-Louis Cedoz, Pier Giuseppe Sessa, Sertan Girgin, Arthur Douillard, Olivier Bachem*
