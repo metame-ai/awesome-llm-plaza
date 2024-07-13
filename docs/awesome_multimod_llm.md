@@ -43,6 +43,7 @@
 
 ## Vision
 ### Vision Encoder
+- [**MambaVision**](https://github.com/NVlabs/MambaVision) - NVlabs ![Star](https://img.shields.io/github/stars/NVlabs/MambaVision.svg?style=social&label=Star)
 - **TokenPacker: Efficient Visual Projector for Multimodal LLM**, `arXiv, 2407.02392`, [arxiv](http://arxiv.org/abs/2407.02392v1), [pdf](http://arxiv.org/pdf/2407.02392v1.pdf), cication: [**-1**](None)
 
 	 *Wentong Li, Yuqian Yuan, Jian Liu, Dongqi Tang, Song Wang, Jianke Zhu, Lei Zhang*

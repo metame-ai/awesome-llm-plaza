@@ -436,6 +436,7 @@
 - [大模型Fewshot推理如何选择更好的示例](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495177&idx=2&sn=fe8353efed16a81e35462be06d5a6cea)
 
 ## Math reasoning
+- [Site Unreachable](https://huggingface.co/AI-MO/NuminaMath-7B-TIR)
 - **We-Math: Does Your Large Multimodal Model Achieve Human-like
   Mathematical Reasoning?**, `arXiv, 2407.01284`, [arxiv](http://arxiv.org/abs/2407.01284v1), [pdf](http://arxiv.org/pdf/2407.01284v1.pdf), cication: [**-1**](None)
 

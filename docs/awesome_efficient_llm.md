@@ -927,6 +927,9 @@
 	 *DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.*
 
 ## Efficient transformer
+- [FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision | Tri Dao](https://tridao.me/blog/2024/flash3/)
+
+	 · ([flash-attention](https://github.com/Dao-AILab/flash-attention) - Dao-AILab) ![Star](https://img.shields.io/github/stars/Dao-AILab/flash-attention.svg?style=social&label=Star)
 - **MoA: Mixture of Sparse Attention for Automatic Large Language Model
   Compression**, `arXiv, 2406.14909`, [arxiv](http://arxiv.org/abs/2406.14909v1), [pdf](http://arxiv.org/pdf/2406.14909v1.pdf), cication: [**-1**](None)
 
