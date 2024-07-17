@@ -287,6 +287,13 @@
 	 · ([anole](https://github.com/GAIR-NLP/anole) - GAIR-NLP) ![Star](https://img.shields.io/github/stars/GAIR-NLP/anole.svg?style=social&label=Star)
 
 ### Image
+- **DenseFusion-1M: Merging Vision Experts for Comprehensive Multimodal
+  Perception**, `arXiv, 2407.08303`, [arxiv](http://arxiv.org/abs/2407.08303v1), [pdf](http://arxiv.org/pdf/2407.08303v1.pdf), cication: [**-1**](None)
+
+	 *Xiaotong Li, Fan Zhang, Haiwen Diao, Yueze Wang, Xinlong Wang, Ling-Yu Duan* · ([DenseFusion](https://github.com/baaivision/DenseFusion) - baaivision) ![Star](https://img.shields.io/github/stars/baaivision/DenseFusion.svg?style=social&label=Star)
+- **PaliGemma: A versatile 3B VLM for transfer**, `arXiv, 2407.07726`, [arxiv](http://arxiv.org/abs/2407.07726v1), [pdf](http://arxiv.org/pdf/2407.07726v1.pdf), cication: [**-1**](None)
+
+	 *Lucas Beyer, Andreas Steiner, André Susano Pinto, Alexander Kolesnikov, Xiao Wang, Daniel Salz, Maxim Neumann, Ibrahim Alabdulmohsin, Michael Tschannen, Emanuele Bugliarello*
 - **Unveiling Encoder-Free Vision-Language Models**, `arXiv, 2406.11832`, [arxiv](http://arxiv.org/abs/2406.11832v1), [pdf](http://arxiv.org/pdf/2406.11832v1.pdf), cication: [**-1**](None)
 
 	 *Haiwen Diao, Yufeng Cui, Xiaotong Li, Yueze Wang, Huchuan Lu, Xinlong Wang*
@@ -1385,6 +1392,7 @@
 
 	 *Mingsheng Li, Xin Chen, Chi Zhang, Sijin Chen, Hongyuan Zhu, Fukun Yin, Gang Yu, Tao Chen*
 ## Projects
+- [Fetching Title#097l](https://huggingface.co/qnguyen3/nanoLLaVA-1.5)
 - [**internlm-xcomposer2d5-7b**](https://huggingface.co/internlm/internlm-xcomposer2d5-7b) - internlm 🤗
 - [**llama3v**](https://github.com/mustafaaljadery/llama3v) - mustafaaljadery ![Star](https://img.shields.io/github/stars/mustafaaljadery/llama3v.svg?style=social&label=Star)
 

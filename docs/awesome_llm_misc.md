@@ -828,6 +828,10 @@
 	 *Zhangyue Yin, Qiushi Sun, Qipeng Guo, Jiawen Wu, Xipeng Qiu, Xuanjing Huang*
 
 ## Tokenization
+- **T-FREE: Tokenizer-Free Generative LLMs via Sparse Representations for
+  Memory-Efficient Embeddings**, `arXiv, 2406.19223`, [arxiv](http://arxiv.org/abs/2406.19223v1), [pdf](http://arxiv.org/pdf/2406.19223v1.pdf), cication: [**-1**](None)
+
+	 *Björn Deiseroth, Manuel Brack, Patrick Schramowski, Kristian Kersting, Samuel Weinbach*
 - **Tokenization Falling Short: The Curse of Tokenization**, `arXiv, 2406.11687`, [arxiv](http://arxiv.org/abs/2406.11687v1), [pdf](http://arxiv.org/pdf/2406.11687v1.pdf), cication: [**-1**](None)
 
 	 *Yekun Chai, Yewei Fang, Qiwei Peng, Xuhong Li*
@@ -943,7 +947,10 @@
 - [Eye on AI - YouTube](https://www.youtube.com/@eyeonai3425/podcasts)
 
 ### Blogs
-- [Fetching Title#o83i](https://www.latent.space/p/yitay)
+- [Fetching Title#95rf](https://www.yitay.net/blog/model-architecture-blogpost-encoders-prefixlm-denoising)
+
+	 · ([x](https://x.com/srush_nlp/status/1779938508578165198))
+- [The 10,000x Yolo Researcher Metagame — with Yi Tay of Reka](https://www.latent.space/p/yitay)
 - [Deep Dive into Transformers by Hand ✍︎ | by Srijanie Dey, PhD | Towards Data Science](https://towardsdatascience.com/deep-dive-into-transformers-by-hand-%EF%B8%8E-68b8be4bd813)
 - [**Transformers-Tutorials**](https://github.com/NielsRogge/Transformers-Tutorials) - NielsRogge ![Star](https://img.shields.io/github/stars/NielsRogge/Transformers-Tutorials.svg?style=social&label=Star)
 

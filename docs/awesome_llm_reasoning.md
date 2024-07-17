@@ -436,7 +436,13 @@
 - [大模型Fewshot推理如何选择更好的示例](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495177&idx=2&sn=fe8353efed16a81e35462be06d5a6cea)
 
 ## Math reasoning
-- [Site Unreachable](https://huggingface.co/AI-MO/NuminaMath-7B-TIR)
+- [Fetching Title#a9bj](https://mistral.ai/news/mathstral/)
+
+	 · ([huggingface](https://huggingface.co/mistralai/mathstral-7B-v0.1))
+- [**dart-math**](https://github.com/hkust-nlp/dart-math) - hkust-nlp ![Star](https://img.shields.io/github/stars/hkust-nlp/dart-math.svg?style=social&label=Star)
+
+	 *Official implementation for the paper \*🎯DART-Math: Difficulty-Aware Rejection Tuning for Mathematical Problem-Solving\** · ([tongyx361.github](https://tongyx361.github.io/assets/dart-math/paper-dart-math.pdf))
+- [**NuminaMath-7B-TIR**](https://huggingface.co/AI-MO/NuminaMath-7B-TIR) - AI-MO 🤗
 - **We-Math: Does Your Large Multimodal Model Achieve Human-like
   Mathematical Reasoning?**, `arXiv, 2407.01284`, [arxiv](http://arxiv.org/abs/2407.01284v1), [pdf](http://arxiv.org/pdf/2407.01284v1.pdf), cication: [**-1**](None)
 

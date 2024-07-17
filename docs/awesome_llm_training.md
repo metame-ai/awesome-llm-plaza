@@ -211,6 +211,7 @@
 	 - [twitter](https://twitter.com/rasbt/status/1734920232173539796)
 
 ### Other
+- [Site Unreachable](https://www.primeintellect.ai/blog/opendiloco)
 - [scaling laws allow us to accurately predict the performance of larger training runs from much cheaper ones.](https://twitter.com/cwolferesearch/status/1777424149415145882)
 - [Techniques for training large neural networks](https://openai.com/research/techniques-for-training-large-neural-networks)
 - [How to Train Really Large Models on Many GPUs? | Lil'Log](https://lilianweng.github.io/posts/2021-09-25-train-large/)
@@ -436,6 +437,9 @@
 - [Weight averaging and model merging for LLMs seem to be the most interesting themes in 2024 so far. ](https://twitter.com/rasbt/status/1750180383398744106)
 
 ## MoE
+- **A Survey on Mixture of Experts**, `arXiv, 2407.06204`, [arxiv](http://arxiv.org/abs/2407.06204v1), [pdf](http://arxiv.org/pdf/2407.06204v1.pdf), cication: [**-1**](None)
+
+	 *Weilin Cai, Juyong Jiang, Fan Wang, Jing Tang, Sunghun Kim, Jiayi Huang*
 - **A Closer Look into Mixture-of-Experts in Large Language Models**, `arXiv, 2406.18219`, [arxiv](http://arxiv.org/abs/2406.18219v1), [pdf](http://arxiv.org/pdf/2406.18219v1.pdf), cication: [**-1**](None)
 
 	 *Ka Man Lo, Zeyu Huang, Zihan Qiu, Zili Wang, Jie Fu* · ([Look-into-MoEs](https://github.com/kamanphoebe/Look-into-MoEs) - kamanphoebe) ![Star](https://img.shields.io/github/stars/kamanphoebe/Look-into-MoEs.svg?style=social&label=Star)
@@ -570,6 +574,9 @@
 	 *Juhao Liang, Ziwei Wang, Zhuoheng Ma, Jianquan Li, Zhiyi Zhang, Xiangbo Wu, Benyou Wang*
 
 ## Toolkits
+- [**nanotron**](https://github.com/huggingface/nanotron/tree/main) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/nanotron.svg?style=social&label=Star)
+
+	 *Minimalistic large language model 3D-parallelism training*
 - [**mistral-finetune**](https://github.com/mistralai/mistral-finetune) - mistralai ![Star](https://img.shields.io/github/stars/mistralai/mistral-finetune.svg?style=social&label=Star)
 - [ZeRO++ - DeepSpeed](https://www.deepspeed.ai/tutorials/zeropp/)
 - [**torchtitan**](https://github.com/pytorch/torchtitan) - pytorch ![Star](https://img.shields.io/github/stars/pytorch/torchtitan.svg?style=social&label=Star)

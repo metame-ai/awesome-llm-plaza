@@ -142,6 +142,7 @@
 	 · ([datablations](https://github.com/huggingface/datablations) - huggingface) ![Star](https://img.shields.io/github/stars/huggingface/datablations.svg?style=social&label=Star)
 
 ## Datasets
+- [Fetching Title#mmxu](https://huggingface.co/datasets/HuggingFaceTB/smollm-corpus)
 - **The FineWeb Datasets: Decanting the Web for the Finest Text Data at
   Scale**, `arXiv, 2406.17557`, [arxiv](http://arxiv.org/abs/2406.17557v1), [pdf](http://arxiv.org/pdf/2406.17557v1.pdf), cication: [**-1**](None)
 
@@ -341,11 +342,16 @@
 	 *Xiang Deng, Yu Gu, Boyuan Zheng, Shijie Chen, Samuel Stevens, Boshi Wang, Huan Sun, Yu Su*
 
 ### Alignment
+- [**moss-002-sft-data**](https://huggingface.co/datasets/fnlp/moss-002-sft-data?row=98) - fnlp 🤗
 - [**tasksource_dpo_pairs**](https://huggingface.co/datasets/tasksource/tasksource_dpo_pairs) - tasksource 🤗
 - [**Infinity-Instruct**](https://huggingface.co/datasets/BAAI/Infinity-Instruct) - BAAI 🤗
 - [**Capybara-Preferences**](https://huggingface.co/datasets/argilla/Capybara-Preferences) - argilla 🤗
 
 ### Synthetic 
+- **AgentInstruct: Toward Generative Teaching with Agentic Flows**, `arXiv, 2407.03502`, [arxiv](http://arxiv.org/abs/2407.03502v1), [pdf](http://arxiv.org/pdf/2407.03502v1.pdf), cication: [**-1**](None)
+
+	 *Arindam Mitra, Luciano Del Corro, Guoqing Zheng, Shweti Mahajan, Dany Rouhana, Andres Codas, Yadong Lu, Wei-ge Chen, Olga Vrousgos, Corby Rosset* · ([x](https://x.com/_philschmid/status/1811308080166035549))
+- [**OpenArena**](https://github.com/syv-ai/OpenArena) - syv-ai ![Star](https://img.shields.io/github/stars/syv-ai/OpenArena.svg?style=social&label=Star)
 - **Aligning Teacher with Student Preferences for Tailored Training Data
   Generation**, `arXiv, 2406.19227`, [arxiv](http://arxiv.org/abs/2406.19227v1), [pdf](http://arxiv.org/pdf/2406.19227v1.pdf), cication: [**-1**](None)
 
@@ -440,6 +446,12 @@
   Training Data Instruction Tuning**, `arXiv, 2305.09246`, [arxiv](http://arxiv.org/abs/2305.09246v1), [pdf](http://arxiv.org/pdf/2305.09246v1.pdf), cication: [**6**](https://scholar.google.com/scholar?cites=6084596237044949489&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Hao Chen, Yiming Zhang, Qi Zhang, Hantao Yang, Xiaomeng Hu, Xuetao Ma, Yifan Yanggong, Junbo Zhao*
+
+## Vision
+- **The Unmet Promise of Synthetic Training Images: Using Retrieved Real
+  Images Performs Better**, `arXiv, 2406.05184`, [arxiv](http://arxiv.org/abs/2406.05184v2), [pdf](http://arxiv.org/pdf/2406.05184v2.pdf), cication: [**-1**](None)
+
+	 *Scott Geng, Cheng-Yu Hsieh, Vivek Ramanujan, Matthew Wallingford, Chun-Liang Li, Pang Wei Koh, Ranjay Krishna* · ([unmet-promise](https://github.com/scottgeng00/unmet-promise) - scottgeng00) ![Star](https://img.shields.io/github/stars/scottgeng00/unmet-promise.svg?style=social&label=Star)
 
 ## Toolkits
 - [**desbordante-core**](https://github.com/Desbordante/desbordante-core) - Desbordante ![Star](https://img.shields.io/github/stars/Desbordante/desbordante-core.svg?style=social&label=Star)

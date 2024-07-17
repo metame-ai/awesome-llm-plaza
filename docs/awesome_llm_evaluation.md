@@ -28,6 +28,11 @@
 	 *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang*
 
 ## Papers
+- **AutoBencher: Creating Salient, Novel, Difficult Datasets for Language
+  Models**, `arXiv, 2407.08351`, [arxiv](http://arxiv.org/abs/2407.08351v1), [pdf](http://arxiv.org/pdf/2407.08351v1.pdf), cication: [**-1**](None)
+
+	 *Xiang Lisa Li, Evan Zheran Liu, Percy Liang, Tatsunori Hashimoto*
+- [Arena Learning : Build Data Flywheel for LLMs Post-training via Simulated Chatbot Arena](https://www.microsoft.com/en-us/research/uploads/prodnew/2024/07/WizardLM_ArenaLearning.pdf)
 - **Me, Myself, and AI: The Situational Awareness Dataset (SAD) for LLMs**, `arXiv, 2407.04694`, [arxiv](http://arxiv.org/abs/2407.04694v1), [pdf](http://arxiv.org/pdf/2407.04694v1.pdf), cication: [**-1**](None)
 
 	 *Rudolf Laine, Bilal Chughtai, Jan Betley, Kaivalya Hariharan, Jeremy Scheurer, Mikita Balesni, Marius Hobbhahn, Alexander Meinke, Owain Evans*
@@ -624,6 +629,7 @@
 	 · [huggingface](https://huggingface.co/blog/evaluating-mmlu-leaderboard)]
 
 ## Other
+-  [LLM-as-a-judge techniques](https://x.com/cwolferesearch/status/1812949923010421192)
 - [CyberSecEval 2 - A Comprehensive Evaluation Framework for Cybersecurity Risks and Capabilities of Large Language Models](https://huggingface.co/blog/leaderboard-llamaguard)
 - [Introducing Hard Prompts Category in Chatbot Arena | LMSYS Org](https://lmsys.org/blog/2024-05-17-category-hard)
 - [One of the most popular evaluation strategies is LLM-as-a-judge, which uses GPT-4 to evaluate model quality](https://twitter.com/cwolferesearch/status/1782453549223321660)

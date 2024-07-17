@@ -97,6 +97,7 @@
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-18-4))
 ## Agents
+- [Recursive Introspection: Teaching Foundation Model Agents How to Self-Improve | OpenReview](https://openreview.net/forum?id=qDXdmdBLhR)
 - **AriGraph: Learning Knowledge Graph World Models with Episodic Memory for
   LLM Agents**, `arXiv, 2407.04363`, [arxiv](http://arxiv.org/abs/2407.04363v1), [pdf](http://arxiv.org/pdf/2407.04363v1.pdf), cication: [**-1**](None)
 
@@ -775,6 +776,13 @@
 - [GPT-4V学会用键鼠上网，人类眼睁睁看着它发帖玩游戏 | 量子位](https://www.qbitai.com/2023/11/95456.html)
 
 ## Retrieval agumented generation
+- **Context Embeddings for Efficient Answer Generation in RAG**, `arXiv, 2407.09252`, [arxiv](http://arxiv.org/abs/2407.09252v1), [pdf](http://arxiv.org/pdf/2407.09252v1.pdf), cication: [**-1**](None)
+
+	 *David Rau, Shuai Wang, Hervé Déjean, Stéphane Clinchant*
+- [**llama-recipes**](https://github.com/meta-llama/llama-recipes/tree/main/recipes/3p_integrations/llamaindex/dlai_agentic_rag) - meta-llama ![Star](https://img.shields.io/github/stars/meta-llama/llama-recipes.svg?style=social&label=Star)
+- [**cohere-toolkit**](https://github.com/cohere-ai/cohere-toolkit) - cohere-ai ![Star](https://img.shields.io/github/stars/cohere-ai/cohere-toolkit.svg?style=social&label=Star)
+
+	 *Cohere Toolkit is a collection of prebuilt components enabling users to quickly build and deploy RAG applications.*
 - **SeaKR: Self-aware Knowledge Retrieval for Adaptive Retrieval Augmented
   Generation**, `arXiv, 2406.19215`, [arxiv](http://arxiv.org/abs/2406.19215v1), [pdf](http://arxiv.org/pdf/2406.19215v1.pdf), cication: [**-1**](None)
 
@@ -1139,6 +1147,10 @@
 - [问答场景常用大模型解决方案](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494688&idx=2&sn=d871403a80a7fcf656ce0100f266f939)
 
 ## Code Interpreter
+- **APIGen: Automated Pipeline for Generating Verifiable and Diverse
+  Function-Calling Datasets**, `arXiv, 2406.18518`, [arxiv](http://arxiv.org/abs/2406.18518v1), [pdf](http://arxiv.org/pdf/2406.18518v1.pdf), cication: [**-1**](None)
+
+	 *Zuxin Liu, Thai Hoang, Jianguo Zhang, Ming Zhu, Tian Lan, Shirley Kokane, Juntao Tan, Weiran Yao, Zhiwei Liu, Yihao Feng* · ([apigen-pipeline.github](https://apigen-pipeline.github.io/)) · ([huggingface](https://huggingface.co/datasets/Salesforce/xlam-function-calling-60k))
 - [**instructor**](https://github.com/jxnl/instructor) - jxnl ![Star](https://img.shields.io/github/stars/jxnl/instructor.svg?style=social&label=Star)
 
 	 *structured outputs for llms*

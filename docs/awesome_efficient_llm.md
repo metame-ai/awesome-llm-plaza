@@ -228,6 +228,10 @@
 	 *Xunyu Zhu, Jian Li, Yong Liu, Can Ma, Weiping Wang* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-08-26-5))
 
 ### Papers
+- **Q-GaLore: Quantized GaLore with INT4 Projection and Layer-Adaptive
+  Low-Rank Gradients**, `arXiv, 2407.08296`, [arxiv](http://arxiv.org/abs/2407.08296v1), [pdf](http://arxiv.org/pdf/2407.08296v1.pdf), cication: [**-1**](None)
+
+	 *Zhenyu Zhang, Ajay Jaiswal, Lu Yin, Shiwei Liu, Jiawei Zhao, Yuandong Tian, Zhangyang Wang*
 - **4-bit Shampoo for Memory-Efficient Network Training**, `arXiv, 2405.18144`, [arxiv](http://arxiv.org/abs/2405.18144v1), [pdf](http://arxiv.org/pdf/2405.18144v1.pdf), cication: [**-1**](None)
 
 	 *Sike Wang, Jia Li, Pan Zhou, Hua Huang*
@@ -501,6 +505,9 @@
 	 *Shufang Xie, Huishuai Zhang, Junliang Guo, Xu Tan, Jiang Bian, Hany Hassan Awadalla, Arul Menezes, Tao Qin, Rui Yan* · ([ResiDual](https://github.com/microsoft/ResiDual) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/ResiDual.svg?style=social&label=Star)
 
 ## Efficient Inference
+- **Cascade Reward Sampling for Efficient Decoding-Time Alignment**, `arXiv, 2406.16306`, [arxiv](http://arxiv.org/abs/2406.16306v1), [pdf](http://arxiv.org/pdf/2406.16306v1.pdf), cication: [**-1**](None)
+
+	 *Bolian Li, Yifan Wang, Ananth Grama, Ruqi Zhang*
 - **MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via
   Dynamic Sparse Attention**, `arXiv, 2407.02490`, [arxiv](http://arxiv.org/abs/2407.02490v1), [pdf](http://arxiv.org/pdf/2407.02490v1.pdf), cication: [**-1**](None)
 

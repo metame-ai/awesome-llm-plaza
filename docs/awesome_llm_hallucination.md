@@ -117,6 +117,9 @@
 	 *Sina J. Semnani, Violet Z. Yao, Heidi C. Zhang, Monica S. Lam*
 
 	 · ([wikichat](https://github.com/stanford-oval/wikichat?tab=readme-ov-file) - stanford-oval) ![Star](https://img.shields.io/github/stars/stanford-oval/wikichat?tab=readme-ov-file.svg?style=social&label=Star)
+- **Let's Verify Step by Step**, `arXiv, 2305.20050`, [arxiv](http://arxiv.org/abs/2305.20050v1), [pdf](http://arxiv.org/pdf/2305.20050v1.pdf), cication: [**-1**](None)
+
+	 *Hunter Lightman, Vineet Kosaraju, Yura Burda, Harri Edwards, Bowen Baker, Teddy Lee, Jan Leike, John Schulman, Ilya Sutskever, Karl Cobbe* · ([docs.google](https://docs.google.com/document/d/1S2ZqCs-5Y4i8JYYPuYtw_77omBdqYRA_HuzuV1NcxU4/edit))
 
 ## Multi-Mod
 - **AUTOHALLUSION: Automatic Generation of Hallucination Benchmarks for
@@ -125,6 +128,9 @@
 	 *Xiyang Wu, Tianrui Guan, Dianqi Li, Shuaiyi Huang, Xiaoyu Liu, Xijun Wang, Ruiqi Xian, Abhinav Shrivastava, Furong Huang, Jordan Lee Boyd-Graber*
 
 ## Evalution
+- **Lynx: An Open Source Hallucination Evaluation Model**, `arXiv, 2407.08488`, [arxiv](http://arxiv.org/abs/2407.08488v1), [pdf](http://arxiv.org/pdf/2407.08488v1.pdf), cication: [**-1**](None)
+
+	 *Selvan Sunitha Ravi, Bartosz Mielczarek, Anand Kannappan, Douwe Kiela, Rebecca Qian* · ([huggingface](https://huggingface.co/PatronusAI/Llama-3-Patronus-Lynx-70B-Instruct))
 - **Long-form factuality in large language models**, `arXiv, 2403.18802`, [arxiv](http://arxiv.org/abs/2403.18802v1), [pdf](http://arxiv.org/pdf/2403.18802v1.pdf), cication: [**-1**](None)
 
 	 *Jerry Wei, Chengrun Yang, Xinying Song, Yifeng Lu, Nathan Hu, Dustin Tran, Daiyi Peng, Ruibo Liu, Da Huang, Cosmo Du* · ([long-form-factuality](https://github.com/google-deepmind/long-form-factuality) - google-deepmind) ![Star](https://img.shields.io/github/stars/google-deepmind/long-form-factuality.svg?style=social&label=Star)

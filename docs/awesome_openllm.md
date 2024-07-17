@@ -38,7 +38,13 @@
 # English
 
 ## Foundation
-- [Fetching Title#pwot](https://huggingface.co/wave-on-discord/gemini-nano)
+- [SmolLM - blazingly fast and remarkably powerful](https://huggingface.co/blog/smollm)
+
+	 · ([huggingface](https://huggingface.co/HuggingFaceTB/SmolLM-360M)) · ([huggingface](https://huggingface.co/collections/HuggingFaceTB/smollm-6695016cad7167254ce15966))
+- **H2O-Danube3 Technical Report**, `arXiv, 2407.09276`, [arxiv](http://arxiv.org/abs/2407.09276v1), [pdf](http://arxiv.org/pdf/2407.09276v1.pdf), cication: [**-1**](None)
+
+	 *Pascal Pfeiffer, Philipp Singer, Yauhen Babakhin, Gabor Fodor, Nischay Dhankhar, Sri Satish Ambati* · ([huggingface](https://huggingface.co/collections/h2oai/h2o-danube3-6687a993641452457854c609))
+- [**gemini-nano**](https://huggingface.co/wave-on-discord/gemini-nano) - wave-on-discord 🤗
 - **GEB-1.3B: Open Lightweight Large Language Model**, `arXiv, 2406.09900`, [arxiv](http://arxiv.org/abs/2406.09900v1), [pdf](http://arxiv.org/pdf/2406.09900v1.pdf), cication: [**-1**](None)
 
 	 *Jie Wu, Yufeng Zhu, Lei Shen, Xuqing Lu*
@@ -201,6 +207,7 @@
 - [Announcing the Higgs Family of LLMs](https://boson.ai/higgs-opensource/)
 - [**Hermes-2-Theta-Llama-3-70B**](https://huggingface.co/NousResearch/Hermes-2-Theta-Llama-3-70B) - NousResearch 🤗
 - [**Llama-3-Refueled**](https://huggingface.co/refuelai/Llama-3-Refueled) - refuelai 🤗
+- [Fetching Title#yke4](https://huggingface.co/ArliAI/ArliAI-Llama-3-8B-Formax-v1.0)
 ### Jamba
 - **Jamba: A Hybrid Transformer-Mamba Language Model**, `arXiv, 2403.19887`, [arxiv](http://arxiv.org/abs/2403.19887v1), [pdf](http://arxiv.org/pdf/2403.19887v1.pdf), cication: [**-1**](None)
 
@@ -600,6 +607,7 @@
 	 *Qwen2 is the large language model series developed by Qwen team, Alibaba Cloud.*
 - [Hello Qwen2 | Qwen](https://qwenlm.github.io/blog/qwen2/)
 - [**Qwen2-72B-Instruct**](https://huggingface.co/spaces/Qwen/Qwen2-72B-Instruct) - Qwen 🤗
+- [Magnum 72B – Provider Status and Load Balancing | OpenRouter](https://openrouter.ai/models/alpindale/magnum-72b/status)
 - [Qwen1.5-110B-Chat · 模型库](https://modelscope.cn/models/qwen/Qwen1.5-110B-Chat/summary)
 - [**Qwen1.5-110B-Chat-demo**](https://huggingface.co/spaces/Qwen/Qwen1.5-110B-Chat-demo) - Qwen 🤗
 - [**Qwen1.5-32B**](https://huggingface.co/Qwen/Qwen1.5-32B) - Qwen 🤗

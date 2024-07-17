@@ -26,6 +26,9 @@
 	 *Ziyin Zhang, Chaoyu Chen, Bingchang Liu, Cong Liao, Zi Gong, Hang Yu, Jianguo Li, Rui Wang*
 
 ## Paper
+- [SciCode - SciCode Benchmark](https://scicode-bench.github.io/)
+
+	 · ([scicode-bench.github.io](https://github.com/scicode-bench/scicode-bench.github.io/blob/main/SciCode.pdf) - scicode-bench) ![Star](https://img.shields.io/github/stars/scicode-bench/scicode-bench.github.io.svg?style=social&label=Star) · ([SciCode](https://github.com/scicode-bench/SciCode) - scicode-bench) ![Star](https://img.shields.io/github/stars/scicode-bench/SciCode.svg?style=social&label=Star)
 - **InverseCoder: Unleashing the Power of Instruction-Tuned Code LLMs with
   Inverse-Instruct**, `arXiv, 2407.05700`, [arxiv](http://arxiv.org/abs/2407.05700v1), [pdf](http://arxiv.org/pdf/2407.05700v1.pdf), cication: [**-1**](None)
 
@@ -362,8 +365,9 @@
 	 · [intercode-benchmark.github](https://intercode-benchmark.github.io/)
 
 ## Projects
-- [Fetching Title#shsd](https://huggingface.co/THUDM/codegeex4-all-9b)
-- [Fetching Title#83w9](https://huggingface.co/blog/beating-gaia)
+- [Fetching Title#gc1x](https://huggingface.co/mistralai/mamba-codestral-7B-v0.1)
+- [Fetching Title#tggz](https://huggingface.co/THUDM/codegeex4-all-9b)
+- [Fetching Title#2fk5](https://huggingface.co/blog/beating-gaia)
 - [BigCodeBench: Benchmarking Large Language Models on Solving Practical and Challenging Programming Tasks](https://huggingface.co/blog/leaderboard-bigcodebench)
 
 	 · ([huggingface](https://huggingface.co/spaces/bigcode/bigcodebench-leaderboard)) · ([bigcodebench](https://github.com/bigcode-project/bigcodebench) - bigcode-project) ![Star](https://img.shields.io/github/stars/bigcode-project/bigcodebench.svg?style=social&label=Star)

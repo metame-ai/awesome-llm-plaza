@@ -540,7 +540,13 @@
 	 *Chongming Gao, Wenqiang Lei, Xiangnan He, Maarten de Rijke, Tat-Seng Chua* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495345&idx=2&sn=5e3ac087c792081705dde1c2542c687a))
 
 ## Role play
+- **Virtual Personas for Language Models via an Anthology of Backstories**, `arXiv, 2407.06576`, [arxiv](http://arxiv.org/abs/2407.06576v1), [pdf](http://arxiv.org/pdf/2407.06576v1.pdf), cication: [**-1**](None)
 
+	 *Suhong Moon, Marwa Abdulhai, Minwoo Kang, Joseph Suh, Widyadewi Soedarmadji, Eran Kohen Behar, David M. Chan*
+- **LLM Roleplay: Simulating Human-Chatbot Interaction**, `arXiv, 2407.03974`, [arxiv](http://arxiv.org/abs/2407.03974v1), [pdf](http://arxiv.org/pdf/2407.03974v1.pdf), cication: [**-1**](None)
+
+	 *Hovhannes Tamoyan, Hendrik Schuff, Iryna Gurevych*
+- [The Impact of Generative AI on Storytelling and Narrative Creation | by Shikhar Nautiyal | Jun, 2024 | Medium](https://medium.com/@shikharnautiyal29/the-impact-of-generative-ai-on-storytelling-and-narrative-creation-d37898cc0126)
 - [DreamGen Opus v1.4 70B Llama 3 - a dreamgen Collection](https://huggingface.co/collections/dreamgen/dreamgen-opus-v14-70b-llama-3-6672c7b3cf95a2a36d061c6d)
 
 	 · ([reddit](https://www.reddit.com/r/LocalLLaMA/comments/1djo3of/llama_3_70b_roleplay_story_writing_model_dreamgen/?utm_source=ainews&utm_medium=email&utm_campaign=ainews-claude-crushes-code-92-humaneval-and))
@@ -936,6 +942,7 @@
 - [快速筛选海量数据，即时做出明智决策，MIT、普林斯顿&卡内基梅隆大学团队利用LLM进行聚变研究 | 机器之心](https://www.jiqizhixin.com/articles/2024-01-04-6)
 - [2023年科研领域「 科学ChatGPT」有哪些？LLM for Science有哪些探索...... | 机器之心](https://www.jiqizhixin.com/articles/2023-12-26-10)
 ## Finance
+- [Introduction - financial datasets](https://docs.financialdatasets.ai/introduction)
 - [**finrobot**](https://github.com/ai4finance-foundation/finrobot) - ai4finance-foundation ![Star](https://img.shields.io/github/stars/ai4finance-foundation/finrobot.svg?style=social&label=Star)
 
 	 *FinRobot: An Open-Source AI Agent Platform for Financial Applications using LLMs 🚀 🚀 🚀*
