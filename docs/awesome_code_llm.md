@@ -365,9 +365,10 @@
 	 · [intercode-benchmark.github](https://intercode-benchmark.github.io/)
 
 ## Projects
-- [Fetching Title#gc1x](https://huggingface.co/mistralai/mamba-codestral-7B-v0.1)
-- [Fetching Title#tggz](https://huggingface.co/THUDM/codegeex4-all-9b)
-- [Fetching Title#2fk5](https://huggingface.co/blog/beating-gaia)
+- [**mbpp**](https://huggingface.co/datasets/google-research-datasets/mbpp) - google-research-datasets 🤗
+- [**mamba-codestral-7B-v0.1**](https://huggingface.co/mistralai/mamba-codestral-7B-v0.1) - mistralai 🤗
+- [**codegeex4-all-9b**](https://huggingface.co/THUDM/codegeex4-all-9b) - THUDM 🤗
+- [Our Transformers Code Agent beats the GAIA benchmark 🏅](https://huggingface.co/blog/beating-gaia)
 - [BigCodeBench: Benchmarking Large Language Models on Solving Practical and Challenging Programming Tasks](https://huggingface.co/blog/leaderboard-bigcodebench)
 
 	 · ([huggingface](https://huggingface.co/spaces/bigcode/bigcodebench-leaderboard)) · ([bigcodebench](https://github.com/bigcode-project/bigcodebench) - bigcode-project) ![Star](https://img.shields.io/github/stars/bigcode-project/bigcodebench.svg?style=social&label=Star)

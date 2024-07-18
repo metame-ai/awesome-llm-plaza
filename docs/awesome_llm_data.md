@@ -454,6 +454,7 @@
 	 *Scott Geng, Cheng-Yu Hsieh, Vivek Ramanujan, Matthew Wallingford, Chun-Liang Li, Pang Wei Koh, Ranjay Krishna* · ([unmet-promise](https://github.com/scottgeng00/unmet-promise) - scottgeng00) ![Star](https://img.shields.io/github/stars/scottgeng00/unmet-promise.svg?style=social&label=Star)
 
 ## Toolkits
+- [**fineweb-edu-classifier**](https://huggingface.co/HuggingFaceFW/fineweb-edu-classifier) - HuggingFaceFW 🤗
 - [**desbordante-core**](https://github.com/Desbordante/desbordante-core) - Desbordante ![Star](https://img.shields.io/github/stars/Desbordante/desbordante-core.svg?style=social&label=Star)
 
 	 *Desbordante is a high-performance data profiler that is capable of discovering many different patterns in data using various algorithms. It also allows to run data cleaning scenarios using these algorithms. Desbordante has a console version and an easy-to-use web application.*

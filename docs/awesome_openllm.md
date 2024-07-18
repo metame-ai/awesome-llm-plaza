@@ -207,7 +207,8 @@
 - [Announcing the Higgs Family of LLMs](https://boson.ai/higgs-opensource/)
 - [**Hermes-2-Theta-Llama-3-70B**](https://huggingface.co/NousResearch/Hermes-2-Theta-Llama-3-70B) - NousResearch 🤗
 - [**Llama-3-Refueled**](https://huggingface.co/refuelai/Llama-3-Refueled) - refuelai 🤗
-- [Fetching Title#yke4](https://huggingface.co/ArliAI/ArliAI-Llama-3-8B-Formax-v1.0)
+- [**ArliAI-Llama-3-8B-Formax-v1.0**](https://huggingface.co/ArliAI/ArliAI-Llama-3-8B-Formax-v1.0) - ArliAI 🤗
+- [**Llama-3-Groq-8B-Tool-Use**](https://huggingface.co/Groq/Llama-3-Groq-8B-Tool-Use) - Groq 🤗
 ### Jamba
 - **Jamba: A Hybrid Transformer-Mamba Language Model**, `arXiv, 2403.19887`, [arxiv](http://arxiv.org/abs/2403.19887v1), [pdf](http://arxiv.org/pdf/2403.19887v1.pdf), cication: [**-1**](None)
 

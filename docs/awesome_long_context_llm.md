@@ -26,6 +26,10 @@
 - [Attention? Attention! | Lil'Log](https://lilianweng.github.io/posts/2018-06-24-attention/#a-family-of-attention-mechanisms)
 
 ## Evaluation
+- **NeedleBench: Can LLMs Do Retrieval and Reasoning in 1 Million Context
+  Window?**, `arXiv, 2407.11963`, [arxiv](http://arxiv.org/abs/2407.11963v1), [pdf](http://arxiv.org/pdf/2407.11963v1.pdf), cication: [**-1**](None)
+
+	 *Mo Li, Songyang Zhang, Yunxin Liu, Kai Chen* · ([opencompass](https://github.com/open-compass/opencompass) - open-compass) ![Star](https://img.shields.io/github/stars/open-compass/opencompass.svg?style=social&label=Star)
 - **Summary of a Haystack: A Challenge to Long-Context LLMs and RAG Systems**, `arXiv, 2407.01370`, [arxiv](http://arxiv.org/abs/2407.01370v1), [pdf](http://arxiv.org/pdf/2407.01370v1.pdf), cication: [**-1**](None)
 
 	 *Philippe Laban, Alexander R. Fabbri, Caiming Xiong, Chien-Sheng Wu*

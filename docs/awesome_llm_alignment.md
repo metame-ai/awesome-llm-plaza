@@ -611,6 +611,7 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652379509&idx=5&sn=910a60449c276ac9d0f29b8f71a60327))
 - [ICML '23 Tutorial on Reinforcement Learning from Human Feedback](https://docs.google.com/presentation/d/1b_ymNDU0WRQ1-rcQDK45_bH9F0giNyRmdi0iKso6G5E/edit#slide=id.g259dff58475_0_44)
 
+- [RLHF 101](https://meeting.tencent.com/user-center/shared-record-info?id=1b2f5363-5291-4f99-86e7-ff5274c6b7e2&from=3&record_type=2)
 - [大模型对齐阶段的Scaling Laws](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495763&idx=1&sn=1fd3e1a70e188dcab7e480cc153e32ff)
 - [RLHF中Reward model的trick](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495465&idx=1&sn=b0690e841f36d154024c0f6a9e922daf)
 - [怎样让 PPO 训练更稳定？早期人类征服 RLHF 的驯化经验](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495219&idx=2&sn=bcd6cf222963493fed29fd44838b5aa2)
