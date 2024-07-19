@@ -204,6 +204,7 @@
 
 	 · ([reddit](https://www.reddit.com/r/LocalLLaMA/comments/1cvly7e/creator_of_smaug_here_clearing_up_some/))
 - [**Higgs-Llama-3-70B**](https://huggingface.co/bosonai/Higgs-Llama-3-70B) - bosonai 🤗
+- [Announcing Higgs Llama V2](https://boson.ai/higgs-v2/)
 - [Announcing the Higgs Family of LLMs](https://boson.ai/higgs-opensource/)
 - [**Hermes-2-Theta-Llama-3-70B**](https://huggingface.co/NousResearch/Hermes-2-Theta-Llama-3-70B) - NousResearch 🤗
 - [**Llama-3-Refueled**](https://huggingface.co/refuelai/Llama-3-Refueled) - refuelai 🤗
@@ -285,9 +286,11 @@
 - [**phi-2**](https://huggingface.co/spaces/randomblock1/phi-2) - randomblock1 🤗
 - [**phixtral-4x2_8**](https://huggingface.co/mlabonne/phixtral-4x2_8) - mlabonne 🤗
 ### Mistral
+- [Site Unreachable](https://mistral.ai/news/mistral-nemo/)
+- [**Mistral-Nemo-Base-2407**](https://huggingface.co/mistralai/Mistral-Nemo-Base-2407) - mistralai 🤗
 - [**Mistral-7B-Instruct-v0.3**](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3) - mistralai 🤗
 - [Cheaper, Better, Faster, Stronger | Mistral AI | Frontier AI in your hands](https://mistral.ai/news/mixtral-8x22b)
-- [Fetching Title#dsku](https://huggingface.co/mistralai/Mixtral-8x22B-v0.1)
+- [**Mixtral-8x22B-v0.1**](https://huggingface.co/mistralai/Mixtral-8x22B-v0.1) - mistralai 🤗
 - [**mixtral-8x22b-instruct-oh**](https://huggingface.co/fireworks-ai/mixtral-8x22b-instruct-oh) - fireworks-ai 🤗
 - [**Mistral-22B-v0.2**](https://huggingface.co/Vezora/Mistral-22B-v0.2) - Vezora 🤗
 - [**Mistral-22B-v0.1**](https://huggingface.co/Vezora/Mistral-22B-v0.1) - Vezora 🤗
@@ -578,6 +581,7 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652433445&idx=1&sn=0ee21f65b045cbedc99676144d66a502)) · ([huggingface](https://huggingface.co/internlm))
 - [**internlm2-chat-7b**](https://huggingface.co/internlm/internlm2-chat-7b) - internlm 🤗
 ### DeepSeek 
+- [**DeepSeek-V2-Chat-0628**](https://huggingface.co/deepseek-ai/DeepSeek-V2-Chat-0628) - deepseek-ai 🤗
 - [**DeepSeek-V2**](https://github.com/deepseek-ai/DeepSeek-V2) - deepseek-ai ![Star](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-V2.svg?style=social&label=Star)
 
 	 · ([DeepSeek-V2](https://github.com/deepseek-ai/DeepSeek-V2/blob/main/deepseek-v2-tech-report.pdf) - deepseek-ai) ![Star](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-V2.svg?style=social&label=Star)
