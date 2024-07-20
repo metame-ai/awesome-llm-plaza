@@ -9,6 +9,10 @@
 
 
 ## Survey
+- **On the Workflows and Smells of Leaderboard Operations (LBOps): An
+  Exploratory Study of Foundation Model Leaderboards**, `arXiv, 2407.04065`, [arxiv](http://arxiv.org/abs/2407.04065v2), [pdf](http://arxiv.org/pdf/2407.04065v2.pdf), cication: [**-1**](None)
+
+	 *Zhimin Zhao, Abdul Ali Bangash, Filipe Roseiro Côgo, Bram Adams, Ahmed E. Hassan* · ([awesome-foundation-model-leaderboards](https://github.com/sailresearch/awesome-foundation-model-leaderboards?tab=readme-ov-file) - sailresearch) ![Star](https://img.shields.io/github/stars/sailresearch/awesome-foundation-model-leaderboards.svg?style=social&label=Star)
 - **Leveraging Large Language Models for NLG Evaluation: A Survey**, `arXiv, 2401.07103`, [arxiv](http://arxiv.org/abs/2401.07103v1), [pdf](http://arxiv.org/pdf/2401.07103v1.pdf), cication: [**-1**](None)
 
 	 *Zhen Li, Xiaohan Xu, Tao Shen, Can Xu, Jia-Chen Gu, Chongyang Tao*
@@ -557,6 +561,9 @@
 	 *Lianmin Zheng, Wei-Lin Chiang, Ying Sheng, Siyuan Zhuang, Zhanghao Wu, Yonghao Zhuang, Zi Lin, Zhuohan Li, Dacheng Li, Eric. P Xing*
 
 ## Projects
+- [**ZeroEval**](https://github.com/yuchenlin/ZeroEval?tab=readme-ov-file#results) - yuchenlin ![Star](https://img.shields.io/github/stars/yuchenlin/ZeroEval.svg?style=social&label=Star)
+
+	 *A simple unified framework for evaluating LLMs*
 - [BigCodeBench: Benchmarking Large Language Models on Solving Practical and Challenging Programming Tasks](https://huggingface.co/blog/leaderboard-bigcodebench)
 - [**ARC-AGI**](https://github.com/fchollet/ARC-AGI) - fchollet ![Star](https://img.shields.io/github/stars/fchollet/ARC-AGI.svg?style=social&label=Star)
 
@@ -658,6 +665,9 @@
 - [SuperCLUE中文大模型评测：商汤商量揽总榜、AI智能体两项第一 | 量子位](https://www.qbitai.com/2023/10/89814.html)
 
 ## Extra reference
+- [**awesome-foundation-model-leaderboards**](https://github.com/sailresearch/awesome-foundation-model-leaderboards) - sailresearch ![Star](https://img.shields.io/github/stars/sailresearch/awesome-foundation-model-leaderboards.svg?style=social&label=Star)
+
+	 *A curated list of awesome leaderboards for foundation models*
 - [Model & API Providers Analysis | Artificial Analysis](https://artificialanalysis.ai/)
 - [**awesome-llms-evaluation-papers**](https://github.com/tjunlp-lab/awesome-llms-evaluation-papers) - tjunlp-lab ![Star](https://img.shields.io/github/stars/tjunlp-lab/awesome-llms-evaluation-papers.svg?style=social&label=Star)
 

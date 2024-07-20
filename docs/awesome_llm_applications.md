@@ -687,6 +687,8 @@
 	 *AI companions with memory: a lightweight stack to create and host your own AI companions*
 
 ### Other
+- [How we leveraged distilabel to create an Argilla 2.0 Chatbot](https://huggingface.co/blog/argilla-chatbot)
+
 - [小扎发布虚拟聊天AI，竟「1:1复刻」Character.AI？用户吐槽：设定太老土了](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652382135&idx=3&sn=b7e8ff8f375772a1bf71989d8e2f4565)
 
 ## Law
@@ -851,6 +853,9 @@
 	 *Official repo for LayoutGPT*
 
 ## Science
+- **TheoremLlama: Transforming General-Purpose LLMs into Lean4 Experts**, `arXiv, 2407.03203`, [arxiv](http://arxiv.org/abs/2407.03203v1), [pdf](http://arxiv.org/pdf/2407.03203v1.pdf), cication: [**-1**](None)
+
+	 *Ruida Wang, Jipeng Zhang, Yizhen Jia, Rui Pan, Shizhe Diao, Renjie Pi, Tong Zhang*
 - **$\nabla^2$DFT: A Universal Quantum Chemistry Dataset of Drug-Like
   Molecules and a Benchmark for Neural Network Potentials**, `arXiv, 2406.14347`, [arxiv](http://arxiv.org/abs/2406.14347v1), [pdf](http://arxiv.org/pdf/2406.14347v1.pdf), cication: [**-1**](None)
 
@@ -1167,6 +1172,9 @@
 	 *Itzik Malkiel, Uri Alon, Yakir Yehuda, Shahar Keren, Oren Barkan, Royi Ronen, Noam Koenigstein*
 
 ## Game
+- **GAVEL: Generating Games Via Evolution and Language Models**, `arXiv, 2407.09388`, [arxiv](http://arxiv.org/abs/2407.09388v1), [pdf](http://arxiv.org/pdf/2407.09388v1.pdf), cication: [**-1**](None)
+
+	 *Graham Todd, Alexander Padula, Matthew Stephenson, Éric Piette, Dennis J. N. J. Soemers, Julian Togelius* · ([ludii](https://ludii.games/details.php?keyword=Havabu))
 - [**llm-colosseum**](https://github.com/OpenGenerativeAI/llm-colosseum) - OpenGenerativeAI ![Star](https://img.shields.io/github/stars/OpenGenerativeAI/llm-colosseum.svg?style=social&label=Star)
 
 	 *Benchmark LLMs by fighting in Street Fighter 3! The new way to evaluate the quality of an LLM* · ([qbitai](https://www.qbitai.com/2024/04/132384.html))

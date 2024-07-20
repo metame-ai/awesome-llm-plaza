@@ -210,6 +210,8 @@
 - [**Llama-3-Refueled**](https://huggingface.co/refuelai/Llama-3-Refueled) - refuelai 🤗
 - [**ArliAI-Llama-3-8B-Formax-v1.0**](https://huggingface.co/ArliAI/ArliAI-Llama-3-8B-Formax-v1.0) - ArliAI 🤗
 - [**Llama-3-Groq-8B-Tool-Use**](https://huggingface.co/Groq/Llama-3-Groq-8B-Tool-Use) - Groq 🤗
+- [Nexusflow.ai | Blog :: Athene-70B: Redefining the Boundaries of Post-Training for Open Models](https://nexusflow.ai/blogs/athene)
+- [**Athene-70B**](https://huggingface.co/Nexusflow/Athene-70B) - Nexusflow 🤗
 ### Jamba
 - **Jamba: A Hybrid Transformer-Mamba Language Model**, `arXiv, 2403.19887`, [arxiv](http://arxiv.org/abs/2403.19887v1), [pdf](http://arxiv.org/pdf/2403.19887v1.pdf), cication: [**-1**](None)
 
@@ -476,6 +478,10 @@
 # Mulitlingual (chinese)
 
 ## Foundation
+- **Taiwan LLM: Bridging the Linguistic Divide with a Culturally Aligned
+  Language Model**, `arXiv, 2311.17487`, [arxiv](http://arxiv.org/abs/2311.17487v1), [pdf](http://arxiv.org/pdf/2311.17487v1.pdf), cication: [**11**](https://scholar.google.com/scholar?cites=15545944787548593213&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Yen-Ting Lin, Yun-Nung Chen* · ([Taiwan-LLM](https://github.com/MiuLab/Taiwan-LLM) - MiuLab) ![Star](https://img.shields.io/github/stars/MiuLab/Taiwan-LLM.svg?style=social&label=Star)
 - **Xmodel-LM Technical Report**, `arXiv, 2406.02856`, [arxiv](http://arxiv.org/abs/2406.02856v1), [pdf](http://arxiv.org/pdf/2406.02856v1.pdf), cication: [**-1**](None)
 
 	 *Yichuan Wang, Yang Liu, Yu Yan, Xucheng Huang, Ling Jiang*

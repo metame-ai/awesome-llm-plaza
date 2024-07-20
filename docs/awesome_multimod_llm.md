@@ -43,6 +43,9 @@
 
 ## Vision
 ### Vision Encoder
+- [**e5-v**](https://github.com/kongds/e5-v) - kongds ![Star](https://img.shields.io/github/stars/kongds/e5-v.svg?style=social&label=Star)
+
+	 *E5-V: Universal Embeddings with Multimodal Large Language Models*
 - [**MambaVision**](https://github.com/NVlabs/MambaVision) - NVlabs ![Star](https://img.shields.io/github/stars/NVlabs/MambaVision.svg?style=social&label=Star)
 - **TokenPacker: Efficient Visual Projector for Multimodal LLM**, `arXiv, 2407.02392`, [arxiv](http://arxiv.org/abs/2407.02392v1), [pdf](http://arxiv.org/pdf/2407.02392v1.pdf), cication: [**-1**](None)
 
@@ -104,6 +107,14 @@
 	 *Mike Ranzinger, Greg Heinrich, Jan Kautz, Pavlo Molchanov* · ([radio](https://github.com/nvlabs/radio) - nvlabs) ![Star](https://img.shields.io/github/stars/nvlabs/radio.svg?style=social&label=Star)
 
 ### Video
+- **LLaVA-NeXT-Interleave: Tackling Multi-image, Video, and 3D in Large
+  Multimodal Models**, `arXiv, 2407.07895`, [arxiv](http://arxiv.org/abs/2407.07895v1), [pdf](http://arxiv.org/pdf/2407.07895v1.pdf), cication: [**-1**](None)
+
+	 *Feng Li, Renrui Zhang, Hao Zhang, Yuanhan Zhang, Bo Li, Wei Li, Zejun Ma, Chunyuan Li* · ([llava-vl.github](https://llava-vl.github.io/blog/2024-06-16-llava-next-interleave/))
+- **Video-STaR: Self-Training Enables Video Instruction Tuning with Any
+  Supervision**, `arXiv, 2407.06189`, [arxiv](http://arxiv.org/abs/2407.06189v1), [pdf](http://arxiv.org/pdf/2407.06189v1.pdf), cication: [**-1**](None)
+
+	 *Orr Zohar, Xiaohan Wang, Yonatan Bitton, Idan Szpektor, Serena Yeung-Levy* · ([Video-STaR](https://github.com/orrzohar/Video-STaR) - orrzohar) ![Star](https://img.shields.io/github/stars/orrzohar/Video-STaR.svg?style=social&label=Star) · ([orrzohar.github](https://orrzohar.github.io/projects/video-star/))
 - **Flash-VStream: Memory-Based Real-Time Understanding for Long Video
   Streams**, `arXiv, 2406.08085`, [arxiv](http://arxiv.org/abs/2406.08085v2), [pdf](http://arxiv.org/pdf/2406.08085v2.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=16905593390266943748&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
@@ -1319,6 +1330,10 @@
 	 *Timin Gao, Peixian Chen, Mengdan Zhang, Chaoyou Fu, Yunhang Shen, Yan Zhang, Shengchuan Zhang, Xiawu Zheng, Xing Sun, Liujuan Cao* · ([ggg0919.github](https://ggg0919.github.io/cantor/))
 
 ## Alignment
+- **MAVIS: Mathematical Visual Instruction Tuning**, `arXiv, 2407.08739`, [arxiv](http://arxiv.org/abs/2407.08739v1), [pdf](http://arxiv.org/pdf/2407.08739v1.pdf), cication: [**-1**](None)
+
+	 *Renrui Zhang, Xinyu Wei, Dongzhi Jiang, Yichi Zhang, Ziyu Guo, Chengzhuo Tong, Jiaming Liu, Aojun Zhou, Bin Wei, Shanghang Zhang* · ([MAVIS](https://github.com/ZrrSkywalker/MAVIS) - ZrrSkywalker) ![Star](https://img.shields.io/github/stars/ZrrSkywalker/MAVIS.svg?style=social&label=Star)
+- [Preference Optimization for Vision Language Models](https://huggingface.co/blog/dpo_vlm)
 - **MM-Instruct: Generated Visual Instructions for Large Multimodal Model
   Alignment**, `arXiv, 2406.19736`, [arxiv](http://arxiv.org/abs/2406.19736v1), [pdf](http://arxiv.org/pdf/2406.19736v1.pdf), cication: [**-1**](None)
 
@@ -1360,6 +1375,10 @@
 	 *Haoran Wei, Lingyu Kong, Jinyue Chen, Liang Zhao, Zheng Ge, En Yu, Jianjian Sun, Chunrui Han, Xiangyu Zhang*
 
 ## Extra Modalities 
+- **LLaVA-NeXT-Interleave: Tackling Multi-image, Video, and 3D in Large
+  Multimodal Models**, `arXiv, 2407.07895`, [arxiv](http://arxiv.org/abs/2407.07895v1), [pdf](http://arxiv.org/pdf/2407.07895v1.pdf), cication: [**-1**](None)
+
+	 *Feng Li, Renrui Zhang, Hao Zhang, Yuanhan Zhang, Bo Li, Wei Li, Zejun Ma, Chunyuan Li* · ([llava-vl.github](https://llava-vl.github.io/blog/2024-06-16-llava-next-interleave/))
 - **3D-GRAND: A Million-Scale Dataset for 3D-LLMs with Better Grounding and
   Less Hallucination**, `arXiv, 2406.05132`, [arxiv](http://arxiv.org/abs/2406.05132v2), [pdf](http://arxiv.org/pdf/2406.05132v2.pdf), cication: [**-1**](None)
 
@@ -1471,6 +1490,9 @@
 
 
 ## Evaluation
+- **Vision language models are blind**, `arXiv, 2407.06581`, [arxiv](http://arxiv.org/abs/2407.06581v3), [pdf](http://arxiv.org/pdf/2407.06581v3.pdf), cication: [**-1**](None)
+
+	 *Pooyan Rahmanzadehgervi, Logan Bolton, Mohammad Reza Taesiri, Anh Totti Nguyen* · ([vlmsareblind.github](https://vlmsareblind.github.io/))
 - **HEMM: Holistic Evaluation of Multimodal Foundation Models**, `arXiv, 2407.03418`, [arxiv](http://arxiv.org/abs/2407.03418v1), [pdf](http://arxiv.org/pdf/2407.03418v1.pdf), cication: [**-1**](None)
 
 	 *Paul Pu Liang, Akshay Goindani, Talha Chafekar, Leena Mathur, Haofei Yu, Ruslan Salakhutdinov, Louis-Philippe Morency*
@@ -1614,6 +1636,14 @@
 	 *Yuliang Liu, Zhang Li, Biao Yang, Chunyuan Li, Xucheng Yin, Cheng-lin Liu, Lianwen Jin, Xiang Bai* · ([MultimodalOCR](https://github.com/Yuliang-Liu/MultimodalOCR) - Yuliang-Liu) ![Star](https://img.shields.io/github/stars/Yuliang-Liu/MultimodalOCR.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652442102&idx=4&sn=64a53646c57797a00b9db186f339c5eb))
 
 ## Datasets
+- **The Synergy between Data and Multi-Modal Large Language Models: A Survey
+  from Co-Development Perspective**, `arXiv, 2407.08583`, [arxiv](http://arxiv.org/abs/2407.08583v1), [pdf](http://arxiv.org/pdf/2407.08583v1.pdf), cication: [**-1**](None)
+
+	 *Zhen Qin, Daoyuan Chen, Wenhao Zhang, Liuyi Yao, Yilun Huang, Bolin Ding, Yaliang Li, Shuiguang Deng* · ([data-juicer](https://github.com/modelscope/data-juicer/blob/main/docs/awesome_llm_data.md) - modelscope) ![Star](https://img.shields.io/github/stars/modelscope/data-juicer.svg?style=social&label=Star)
+- **Multimodal Self-Instruct: Synthetic Abstract Image and Visual Reasoning
+  Instruction Using Language Model**, `arXiv, 2407.07053`, [arxiv](http://arxiv.org/abs/2407.07053v2), [pdf](http://arxiv.org/pdf/2407.07053v2.pdf), cication: [**-1**](None)
+
+	 *Wenqi Zhang, Zhenglin Cheng, Yuanyu He, Mengna Wang, Yongliang Shen, Zeqi Tan, Guiyang Hou, Mingqian He, Yanna Ma, Weiming Lu* · ([Multi-modal-Self-instruct](https://github.com/zwq2018/Multi-modal-Self-instruct) - zwq2018) ![Star](https://img.shields.io/github/stars/zwq2018/Multi-modal-Self-instruct.svg?style=social&label=Star)
 - **Stark: Social Long-Term Multi-Modal Conversation with Persona
   Commonsense Knowledge**, `arXiv, 2407.03958`, [arxiv](http://arxiv.org/abs/2407.03958v1), [pdf](http://arxiv.org/pdf/2407.03958v1.pdf), cication: [**-1**](None)
 

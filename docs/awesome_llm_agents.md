@@ -97,6 +97,9 @@
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-18-4))
 ## Agents
+- [**ioa**](https://github.com/openbmb/ioa) - openbmb ![Star](https://img.shields.io/github/stars/openbmb/ioa.svg?style=social&label=Star)
+
+	 *An open-source framework for collaborative AI agents, enabling diverse, distributed agents to team up and tackle complex tasks through internet-like connectivity.*
 - [Recursive Introspection: Teaching Foundation Model Agents How to Self-Improve | OpenReview](https://openreview.net/forum?id=qDXdmdBLhR)
 - **AriGraph: Learning Knowledge Graph World Models with Episodic Memory for
   LLM Agents**, `arXiv, 2407.04363`, [arxiv](http://arxiv.org/abs/2407.04363v1), [pdf](http://arxiv.org/pdf/2407.04363v1.pdf), cication: [**-1**](None)
@@ -776,6 +779,9 @@
 - [GPT-4V学会用键鼠上网，人类眼睁睁看着它发帖玩游戏 | 量子位](https://www.qbitai.com/2023/11/95456.html)
 
 ## Retrieval agumented generation
+- [**mem0**](https://github.com/mem0ai/mem0) - mem0ai ![Star](https://img.shields.io/github/stars/mem0ai/mem0.svg?style=social&label=Star)
+
+	 *The memory layer for Personalized AI*
 - **Context Embeddings for Efficient Answer Generation in RAG**, `arXiv, 2407.09252`, [arxiv](http://arxiv.org/abs/2407.09252v1), [pdf](http://arxiv.org/pdf/2407.09252v1.pdf), cication: [**-1**](None)
 
 	 *David Rau, Shuai Wang, Hervé Déjean, Stéphane Clinchant*

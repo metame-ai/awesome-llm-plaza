@@ -517,6 +517,13 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652345558&idx=4&sn=95686435d5cad05d44cbe02bc26d6859))
 
 ## Interpretability 
+- **Self-Recognition in Language Models**, `arXiv, 2407.06946`, [arxiv](http://arxiv.org/abs/2407.06946v1), [pdf](http://arxiv.org/pdf/2407.06946v1.pdf), cication: [**-1**](None)
+
+	 *Tim R. Davidson, Viacheslav Surkov, Veniamin Veselovsky, Giuseppe Russo, Robert West, Caglar Gulcehre*
+- **Do Vision and Language Models Share Concepts? A Vector Space Alignment
+  Study**, `arXiv, 2302.06555`, [arxiv](http://arxiv.org/abs/2302.06555v2), [pdf](http://arxiv.org/pdf/2302.06555v2.pdf), cication: [**4**](https://scholar.google.com/scholar?cites=14801822930693996891&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Jiaang Li, Yova Kementchedjhieva, Constanza Fierro, Anders Søgaard* · ([VLCA](https://github.com/jiaangli/VLCA) - jiaangli) ![Star](https://img.shields.io/github/stars/jiaangli/VLCA.svg?style=social&label=Star)
 - **Can LLMs Learn by Teaching? A Preliminary Study**, `arXiv, 2406.14629`, [arxiv](http://arxiv.org/abs/2406.14629v1), [pdf](http://arxiv.org/pdf/2406.14629v1.pdf), cication: [**-1**](None)
 
 	 *Xuefei Ning, Zifu Wang, Shiyao Li, Zinan Lin, Peiran Yao, Tianyu Fu, Matthew B. Blaschko, Guohao Dai, Huazhong Yang, Yu Wang*
@@ -745,6 +752,9 @@
 	 *Steve Yadlowsky, Lyric Doshi, Nilesh Tripuraneni*
 
 ## LLM editting
+- **Model Surgery: Modulating LLM's Behavior Via Simple Parameter Editing**, `arXiv, 2407.08770`, [arxiv](http://arxiv.org/abs/2407.08770v1), [pdf](http://arxiv.org/pdf/2407.08770v1.pdf), cication: [**-1**](None)
+
+	 *Huanqian Wang, Yang Yue, Rui Lu, Jingxin Shi, Andrew Zhao, Shenzhi Wang, Shiji Song, Gao Huang*
 - **Composable Interventions for Language Models**, `arXiv, 2407.06483`, [arxiv](http://arxiv.org/abs/2407.06483v1), [pdf](http://arxiv.org/pdf/2407.06483v1.pdf), cication: [**-1**](None)
 
 	 *Arinbjorn Kolbeinsson, Kyle O'Brien, Tianjin Huang, Shanghua Gao, Shiwei Liu, Jonathan Richard Schwarz, Anurag Vaidya, Faisal Mahmood, Marinka Zitnik, Tianlong Chen*
@@ -947,7 +957,10 @@
 - [Eye on AI - YouTube](https://www.youtube.com/@eyeonai3425/podcasts)
 
 ### Blogs
-- [Fetching Title#95rf](https://www.yitay.net/blog/model-architecture-blogpost-encoders-prefixlm-denoising)
+- [**ML-Papers-Explained**](https://github.com/dair-ai/ML-Papers-Explained?tab=readme-ov-file) - dair-ai ![Star](https://img.shields.io/github/stars/dair-ai/ML-Papers-Explained.svg?style=social&label=Star)
+
+	 *Explanation to key concepts in ML*
+- [What happened to BERT & T5? On Transformer Encoders, PrefixLM and Denoising Objectives — Yi Tay](https://www.yitay.net/blog/model-architecture-blogpost-encoders-prefixlm-denoising)
 
 	 · ([x](https://x.com/srush_nlp/status/1779938508578165198))
 - [The 10,000x Yolo Researcher Metagame — with Yi Tay of Reka](https://www.latent.space/p/yitay)

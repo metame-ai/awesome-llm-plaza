@@ -47,6 +47,8 @@
   language models**, `arXiv, 2406.11794`, [arxiv](http://arxiv.org/abs/2406.11794v3), [pdf](http://arxiv.org/pdf/2406.11794v3.pdf), cication: [**-1**](None)
 
 	 *Jeffrey Li, Alex Fang, Georgios Smyrnis, Maor Ivgi, Matt Jordan, Samir Gadre, Hritik Bansal, Etash Guha, Sedrick Keh, Kushal Arora* · ([datacomp](https://www.datacomp.ai/dclm/))
+
+	 · ([dclm](https://github.com/mlfoundations/dclm?tab=readme-ov-file) - mlfoundations) ![Star](https://img.shields.io/github/stars/mlfoundations/dclm.svg?style=social&label=Star)
 - **Data Mixing Made Efficient: A Bivariate Scaling Law for Language Model
   Pretraining**, `arXiv, 2405.14908`, [arxiv](http://arxiv.org/abs/2405.14908v1), [pdf](http://arxiv.org/pdf/2405.14908v1.pdf), cication: [**-1**](None)
 

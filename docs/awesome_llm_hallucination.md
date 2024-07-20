@@ -33,6 +33,10 @@
 	 *Cunxiang Wang, Xiaoze Liu, Yuanhao Yue, Xiangru Tang, Tianhang Zhang, Cheng Jiayang, Yunzhi Yao, Wenyang Gao, Xuming Hu, Zehan Qi* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-19-2))
 
 ## Papers
+- **Lookback Lens: Detecting and Mitigating Contextual Hallucinations in
+  Large Language Models Using Only Attention Maps**, `arXiv, 2407.07071`, [arxiv](http://arxiv.org/abs/2407.07071v1), [pdf](http://arxiv.org/pdf/2407.07071v1.pdf), cication: [**-1**](None)
+
+	 *Yung-Sung Chuang, Linlu Qiu, Cheng-Yu Hsieh, Ranjay Krishna, Yoon Kim, James Glass* · ([Lookback-Lens](https://github.com/voidism/Lookback-Lens) - voidism) ![Star](https://img.shields.io/github/stars/voidism/Lookback-Lens.svg?style=social&label=Star)
 - [PROVER-VERIFIER GAMES IMPROVE LEGIBILITY OF LLM OUTPUTS](https://cdn.openai.com/prover-verifier-games-improve-legibility-of-llm-outputs/legibility.pdf)
 - [Extrinsic Hallucinations in LLMs | Lil'Log](https://lilianweng.github.io/posts/2024-07-07-hallucination/)
 - **VideoHallucer: Evaluating Intrinsic and Extrinsic Hallucinations in

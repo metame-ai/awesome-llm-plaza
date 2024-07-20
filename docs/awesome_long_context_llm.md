@@ -42,6 +42,9 @@
 	 *Adyasha Maharana, Dong-Ho Lee, Sergey Tulyakov, Mohit Bansal, Francesco Barbieri, Yuwei Fang*
 
 ## Papers
+- **Human-like Episodic Memory for Infinite Context LLMs**, `arXiv, 2407.09450`, [arxiv](http://arxiv.org/abs/2407.09450v1), [pdf](http://arxiv.org/pdf/2407.09450v1.pdf), cication: [**-1**](None)
+
+	 *Zafeirios Fountas, Martin A Benfeghoul, Adnan Oomerjee, Fenia Christopoulou, Gerasimos Lampouras, Haitham Bou-Ammar, Jun Wang*
 - **Associative Recurrent Memory Transformer**, `arXiv, 2407.04841`, [arxiv](http://arxiv.org/abs/2407.04841v1), [pdf](http://arxiv.org/pdf/2407.04841v1.pdf), cication: [**-1**](None)
 
 	 *Ivan Rodkin, Yuri Kuratov, Aydar Bulatov, Mikhail Burtsev*

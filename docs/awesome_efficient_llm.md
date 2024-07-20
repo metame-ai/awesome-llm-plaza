@@ -213,6 +213,7 @@
 	 *Peng Gao, Jiaming Han, Renrui Zhang, Ziyi Lin, Shijie Geng, Aojun Zhou, Wei Zhang, Pan Lu, Conghui He, Xiangyu Yue* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652345558&idx=3&sn=2a4d204397fe364a05ce5a35bb93d6ce))
 
 ### Other
+- [TGI Multi-LoRA: Deploy Once, Serve 30 Models](https://huggingface.co/blog/multi-lora-serving)
 - [Finetuning LLMs with LoRA and QLoRA: Insights from Hundreds of Experiments - Lightning AI](https://lightning.ai/pages/community/lora-insights/)
 -  [instruction tuning experiments with LoRA/QLoRA](https://twitter.com/cwolferesearch/status/1788998798414410032)
 - [LoRA及其变体概述：LoRA, DoRA, AdaLoRA, Delta-LoRA](https://mp.weixin.qq.com/s?__biz=MzI1MjQ2OTQ3Ng==&mid=2247632908&idx=2&sn=f2daa489741ccc4a7f8f9c4c178c4740)
@@ -228,6 +229,9 @@
 	 *Xunyu Zhu, Jian Li, Yong Liu, Can Ma, Weiping Wang* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-08-26-5))
 
 ### Papers
+- **Q-Sparse: All Large Language Models can be Fully Sparsely-Activated**, `arXiv, 2407.10969`, [arxiv](http://arxiv.org/abs/2407.10969v1), [pdf](http://arxiv.org/pdf/2407.10969v1.pdf), cication: [**-1**](None)
+
+	 *Hongyu Wang, Shuming Ma, Ruiping Wang, Furu Wei*
 - **Q-GaLore: Quantized GaLore with INT4 Projection and Layer-Adaptive
   Low-Rank Gradients**, `arXiv, 2407.08296`, [arxiv](http://arxiv.org/abs/2407.08296v1), [pdf](http://arxiv.org/pdf/2407.08296v1.pdf), cication: [**-1**](None)
 
@@ -505,6 +509,12 @@
 	 *Shufang Xie, Huishuai Zhang, Junliang Guo, Xu Tan, Jiang Bian, Hany Hassan Awadalla, Arul Menezes, Tao Qin, Rui Yan* · ([ResiDual](https://github.com/microsoft/ResiDual) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/ResiDual.svg?style=social&label=Star)
 
 ## Efficient Inference
+- **Inference Performance Optimization for Large Language Models on CPUs**, `arXiv, 2407.07304`, [arxiv](http://arxiv.org/abs/2407.07304v1), [pdf](http://arxiv.org/pdf/2407.07304v1.pdf), cication: [**-1**](None)
+
+	 *Pujiang He, Shan Zhou, Wenhuan Huang, Changqing Li, Duyi Wang, Bin Guo, Chen Meng, Sheng Gui, Weifei Yu, Yi Xie* · ([xFasterTransformer](https://github.com/intel/xFasterTransformer) - intel) ![Star](https://img.shields.io/github/stars/intel/xFasterTransformer.svg?style=social&label=Star)
+- **Mooncake: A KVCache-centric Disaggregated Architecture for LLM Serving**, `arXiv, 2407.00079`, [arxiv](http://arxiv.org/abs/2407.00079v3), [pdf](http://arxiv.org/pdf/2407.00079v3.pdf), cication: [**-1**](None)
+
+	 *Ruoyu Qin, Zheming Li, Weiran He, Mingxing Zhang, Yongwei Wu, Weimin Zheng, Xinran Xu* · ([Mooncake](https://github.com/kvcache-ai/Mooncake) - kvcache-ai) ![Star](https://img.shields.io/github/stars/kvcache-ai/Mooncake.svg?style=social&label=Star)
 - **Cascade Reward Sampling for Efficient Decoding-Time Alignment**, `arXiv, 2406.16306`, [arxiv](http://arxiv.org/abs/2406.16306v1), [pdf](http://arxiv.org/pdf/2406.16306v1.pdf), cication: [**-1**](None)
 
 	 *Bolian Li, Yifan Wang, Ananth Grama, Ruqi Zhang*
