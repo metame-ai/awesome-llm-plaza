@@ -26,6 +26,10 @@
 	 *Ziyin Zhang, Chaoyu Chen, Bingchang Liu, Cong Liao, Zi Gong, Hang Yu, Jianguo Li, Rui Wang*
 
 ## Paper
+- **OpenDevin: An Open Platform for AI Software Developers as Generalist
+  Agents**, `arXiv, 2407.16741`, [arxiv](http://arxiv.org/abs/2407.16741v1), [pdf](http://arxiv.org/pdf/2407.16741v1.pdf), cication: [**-1**](None)
+
+	 *Xingyao Wang, Boxuan Li, Yufan Song, Frank F. Xu, Xiangru Tang, Mingchen Zhuge, Jiayi Pan, Yueqi Song, Bowen Li, Jaskirat Singh* · ([OpenDevin](https://github.com/OpenDevin/OpenDevin) - OpenDevin) ![Star](https://img.shields.io/github/stars/OpenDevin/OpenDevin.svg?style=social&label=Star)
 - [SciCode - SciCode Benchmark](https://scicode-bench.github.io/)
 
 	 · ([scicode-bench.github.io](https://github.com/scicode-bench/scicode-bench.github.io/blob/main/SciCode.pdf) - scicode-bench) ![Star](https://img.shields.io/github/stars/scicode-bench/scicode-bench.github.io.svg?style=social&label=Star) · ([SciCode](https://github.com/scicode-bench/SciCode) - scicode-bench) ![Star](https://img.shields.io/github/stars/scicode-bench/SciCode.svg?style=social&label=Star)

@@ -38,6 +38,9 @@
 # English
 
 ## Foundation
+- [Fetching Title#a73f](https://huggingface.co/apple/DCLM-7B)
+- [**DCLM-1B**](https://huggingface.co/TRI-ML/DCLM-1B) - TRI-ML 🤗
+- [Minitron - a nvidia Collection](https://huggingface.co/collections/nvidia/minitron-669ac727dc9c86e6ab7f0f3e)
 - [SmolLM - blazingly fast and remarkably powerful](https://huggingface.co/blog/smollm)
 
 	 · ([huggingface](https://huggingface.co/HuggingFaceTB/SmolLM-360M)) · ([huggingface](https://huggingface.co/collections/HuggingFaceTB/smollm-6695016cad7167254ce15966))
@@ -175,6 +178,8 @@
 	 *Kaiyuan Gao, Sunan He, Zhenyu He, Jiacheng Lin, QiZhi Pei, Jie Shao, Wei Zhang* · ([gpt_alternatives](https://github.com/GPT-Alternatives/gpt_alternatives) - GPT-Alternatives) ![Star](https://img.shields.io/github/stars/GPT-Alternatives/gpt_alternatives.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-09-12-3))
 
 ### Llama 3
+- [**huggingface-llama-recipes**](https://github.com/huggingface/huggingface-llama-recipes) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/huggingface-llama-recipes.svg?style=social&label=Star)
+- [the-llama-3-herd-of-models](https://ai.meta.com/research/publications/the-llama-3-herd-of-models/)
 - [Welcome Llama 3 - Meta's new open LLM](https://huggingface.co/blog/llama3)
 - [Site Unreachable](https://ai.meta.com/blog/meta-llama-3/)
 - [**llama3**](https://github.com/meta-llama/llama3/tree/main) - meta-llama ![Star](https://img.shields.io/github/stars/meta-llama/llama3.svg?style=social&label=Star)
@@ -288,7 +293,9 @@
 - [**phi-2**](https://huggingface.co/spaces/randomblock1/phi-2) - randomblock1 🤗
 - [**phixtral-4x2_8**](https://huggingface.co/mlabonne/phixtral-4x2_8) - mlabonne 🤗
 ### Mistral
-- [Site Unreachable](https://mistral.ai/news/mistral-nemo/)
+- [Fetching Title#25bf](https://mistral.ai/news/mistral-large-2407/)
+- [Fetching Title#wvsi](https://huggingface.co/mistralai/Mistral-Large-Instruct-2407)
+- [Mistral NeMo](https://mistral.ai/news/mistral-nemo/)
 - [**Mistral-Nemo-Base-2407**](https://huggingface.co/mistralai/Mistral-Nemo-Base-2407) - mistralai 🤗
 - [**Mistral-7B-Instruct-v0.3**](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3) - mistralai 🤗
 - [Cheaper, Better, Faster, Stronger | Mistral AI | Frontier AI in your hands](https://mistral.ai/news/mixtral-8x22b)
@@ -478,6 +485,8 @@
 # Mulitlingual (chinese)
 
 ## Foundation
+- [**DCLM-7B**](https://huggingface.co/apple/DCLM-7B) - apple 🤗
+- [Fetching Title#b7lb](https://huggingface.co/CofeAI/Tele-FLM-1T)
 - **Taiwan LLM: Bridging the Linguistic Divide with a Culturally Aligned
   Language Model**, `arXiv, 2311.17487`, [arxiv](http://arxiv.org/abs/2311.17487v1), [pdf](http://arxiv.org/pdf/2311.17487v1.pdf), cication: [**11**](https://scholar.google.com/scholar?cites=15545944787548593213&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
@@ -726,6 +735,7 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s/Lf70i8M0KNDs9ZB8H32h4w))
 
 # Extra
+- [**T-lite-instruct-0.1**](https://huggingface.co/AnatoliiPotapov/T-lite-instruct-0.1) - AnatoliiPotapov 🤗
 - **LLaMAX: Scaling Linguistic Horizons of LLM by Enhancing Translation
   Capabilities Beyond 100 Languages**, `arXiv, 2407.05975`, [arxiv](http://arxiv.org/abs/2407.05975v1), [pdf](http://arxiv.org/pdf/2407.05975v1.pdf), cication: [**-1**](None)
 
@@ -780,6 +790,9 @@
 	 *Risto Luukkonen, Ville Komulainen, Jouni Luoma, Anni Eskelinen, Jenna Kanerva, Hanna-Mari Kupari, Filip Ginter, Veronika Laippala, Niklas Muennighoff, Aleksandra Piktus* · ([turkunlp](https://turkunlp.org/gpt3-finnish))
 
 # Toolkits
+- **NNsight and NDIF: Democratizing Access to Foundation Model Internals**, `arXiv, 2407.14561`, [arxiv](http://arxiv.org/abs/2407.14561v1), [pdf](http://arxiv.org/pdf/2407.14561v1.pdf), cication: [**-1**](None)
+
+	 *Jaden Fiotto-Kaufman, Alexander R Loftus, Eric Todd, Jannik Brinkmann, Caden Juang, Koyena Pal, Can Rager, Aaron Mueller, Samuel Marks, Arnab Sen Sharma* · ([nnsight](https://nnsight.net/))
 - [**LLMZoo**](https://github.com/FreedomIntelligence/LLMZoo) - FreedomIntelligence ![Star](https://img.shields.io/github/stars/FreedomIntelligence/LLMZoo.svg?style=social&label=Star)
 
 	 *⚡LLM Zoo is a project that provides data, models, and evaluation benchmark for large language models.⚡*

@@ -267,6 +267,9 @@
 
 
 ## Medical
+- **CoD, Towards an Interpretable Medical Agent using Chain of Diagnosis**, `arXiv, 2407.13301`, [arxiv](http://arxiv.org/abs/2407.13301v1), [pdf](http://arxiv.org/pdf/2407.13301v1.pdf), cication: [**-1**](None)
+
+	 *Junying Chen, Chi Gui, Anningzhe Gao, Ke Ji, Xidong Wang, Xiang Wan, Benyou Wang* · ([Chain-of-Diagnosis](https://github.com/FreedomIntelligence/Chain-of-Diagnosis) - FreedomIntelligence) ![Star](https://img.shields.io/github/stars/FreedomIntelligence/Chain-of-Diagnosis.svg?style=social&label=Star)
 - **HuatuoGPT-Vision, Towards Injecting Medical Visual Knowledge into
   Multimodal LLMs at Scale**, `arXiv, 2406.19280`, [arxiv](http://arxiv.org/abs/2406.19280v1), [pdf](http://arxiv.org/pdf/2406.19280v1.pdf), cication: [**-1**](None)
 
@@ -431,6 +434,7 @@
 	 *Licheng Wen, Xuemeng Yang, Daocheng Fu, Xiaofeng Wang, Pinlong Cai, Xin Li, Tao Ma, Yingxuan Li, Linran Xu, Dengke Shang* · ([gpt4v-ad-exploration](https://github.com/pjlab-adg/gpt4v-ad-exploration) - pjlab-adg) ![Star](https://img.shields.io/github/stars/pjlab-adg/gpt4v-ad-exploration.svg?style=social&label=Star)
 
 ## Education
+- [Llama Tutor – AI Personal Tutor](https://llamatutor.together.ai/)
 - **Simulating Classroom Education with LLM-Empowered Agents**, `arXiv, 2406.19226`, [arxiv](http://arxiv.org/abs/2406.19226v1), [pdf](http://arxiv.org/pdf/2406.19226v1.pdf), cication: [**-1**](None)
 
 	 *Zheyuan Zhang, Daniel Zhang-Li, Jifan Yu, Linlu Gong, Jinchang Zhou, Zhiyuan Liu, Lei Hou, Juanzi Li*
@@ -947,6 +951,9 @@
 - [快速筛选海量数据，即时做出明智决策，MIT、普林斯顿&卡内基梅隆大学团队利用LLM进行聚变研究 | 机器之心](https://www.jiqizhixin.com/articles/2024-01-04-6)
 - [2023年科研领域「 科学ChatGPT」有哪些？LLM for Science有哪些探索...... | 机器之心](https://www.jiqizhixin.com/articles/2023-12-26-10)
 ## Finance
+- [**dsRAG**](https://github.com/D-Star-AI/dsRAG) - D-Star-AI ![Star](https://img.shields.io/github/stars/D-Star-AI/dsRAG.svg?style=social&label=Star)
+
+	 *High-performance retrieval engine for unstructured data*
 - [Introduction - financial datasets](https://docs.financialdatasets.ai/introduction)
 - [**finrobot**](https://github.com/ai4finance-foundation/finrobot) - ai4finance-foundation ![Star](https://img.shields.io/github/stars/ai4finance-foundation/finrobot.svg?style=social&label=Star)
 
@@ -1172,6 +1179,9 @@
 	 *Itzik Malkiel, Uri Alon, Yakir Yehuda, Shahar Keren, Oren Barkan, Royi Ronen, Noam Koenigstein*
 
 ## Game
+- **VideoGameBunny: Towards vision assistants for video games**, `arXiv, 2407.15295`, [arxiv](http://arxiv.org/abs/2407.15295v1), [pdf](http://arxiv.org/pdf/2407.15295v1.pdf), cication: [**-1**](None)
+
+	 *Mohammad Reza Taesiri, Cor-Paul Bezemer* · ([videogamebunny.github](https://videogamebunny.github.io/))
 - **GAVEL: Generating Games Via Evolution and Language Models**, `arXiv, 2407.09388`, [arxiv](http://arxiv.org/abs/2407.09388v1), [pdf](http://arxiv.org/pdf/2407.09388v1.pdf), cication: [**-1**](None)
 
 	 *Graham Todd, Alexander Padula, Matthew Stephenson, Éric Piette, Dennis J. N. J. Soemers, Julian Togelius* · ([ludii](https://ludii.games/details.php?keyword=Havabu))

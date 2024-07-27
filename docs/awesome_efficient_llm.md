@@ -460,6 +460,9 @@
 	 *Yuxian Gu, Li Dong, Furu Wei, Minlie Huang*
 
 ## Pruning
+- **Compact Language Models via Pruning and Knowledge Distillation**, `arXiv, 2407.14679`, [arxiv](http://arxiv.org/abs/2407.14679v1), [pdf](http://arxiv.org/pdf/2407.14679v1.pdf), cication: [**-1**](None)
+
+	 *Saurav Muralidharan, Sharath Turuvekere Sreenivas, Raviraj Joshi, Marcin Chochowski, Mostofa Patwary, Mohammad Shoeybi, Bryan Catanzaro, Jan Kautz, Pavlo Molchanov* · ([minitron](https://github.com/nvlabs/minitron) - nvlabs) ![Star](https://img.shields.io/github/stars/nvlabs/minitron.svg?style=social&label=Star)
 - **ShiftAddLLM: Accelerating Pretrained LLMs via Post-Training
   Multiplication-Less Reparameterization**, `arXiv, 2406.05981`, [arxiv](http://arxiv.org/abs/2406.05981v2), [pdf](http://arxiv.org/pdf/2406.05981v2.pdf), cication: [**-1**](None)
 
@@ -509,6 +512,10 @@
 	 *Shufang Xie, Huishuai Zhang, Junliang Guo, Xu Tan, Jiang Bian, Hany Hassan Awadalla, Arul Menezes, Tao Qin, Rui Yan* · ([ResiDual](https://github.com/microsoft/ResiDual) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/ResiDual.svg?style=social&label=Star)
 
 ## Efficient Inference
+- [Fetching Title#j02n](https://lmsys.org/blog/2024-07-25-sglang-llama3/)
+- **LazyLLM: Dynamic Token Pruning for Efficient Long Context LLM Inference**, `arXiv, 2407.14057`, [arxiv](http://arxiv.org/abs/2407.14057v1), [pdf](http://arxiv.org/pdf/2407.14057v1.pdf), cication: [**-1**](None)
+
+	 *Qichen Fu, Minsik Cho, Thomas Merth, Sachin Mehta, Mohammad Rastegari, Mahyar Najibi*
 - **Inference Performance Optimization for Large Language Models on CPUs**, `arXiv, 2407.07304`, [arxiv](http://arxiv.org/abs/2407.07304v1), [pdf](http://arxiv.org/pdf/2407.07304v1.pdf), cication: [**-1**](None)
 
 	 *Pujiang He, Shan Zhou, Wenhuan Huang, Changqing Li, Duyi Wang, Bin Guo, Chen Meng, Sheng Gui, Weifei Yu, Yi Xie* · ([xFasterTransformer](https://github.com/intel/xFasterTransformer) - intel) ![Star](https://img.shields.io/github/stars/intel/xFasterTransformer.svg?style=social&label=Star)

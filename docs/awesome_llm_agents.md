@@ -25,6 +25,13 @@
 	- [Extra reference](#extra-reference)
 
 ## Survey
+- **Retrieval-Augmented Generation for Natural Language Processing: A Survey**, `arXiv, 2407.13193`, [arxiv](http://arxiv.org/abs/2407.13193v2), [pdf](http://arxiv.org/pdf/2407.13193v2.pdf), cication: [**-1**](None)
+
+	 *Shangyu Wu, Ying Xiong, Yufei Cui, Haolun Wu, Can Chen, Ye Yuan, Lianming Huang, Xue Liu, Tei-Wei Kuo, Nan Guan*
+- **Retrieval Augmented Generation or Long-Context LLMs? A Comprehensive
+  Study and Hybrid Approach**, `arXiv, 2407.16833`, [arxiv](http://arxiv.org/abs/2407.16833v1), [pdf](http://arxiv.org/pdf/2407.16833v1.pdf), cication: [**-1**](None)
+
+	 *Zhuowan Li, Cheng Li, Mingyang Zhang, Qiaozhu Mei, Michael Bendersky*
 - **A Survey on RAG Meets LLMs: Towards Retrieval-Augmented Large Language
   Models**, `arXiv, 2405.06211`, [arxiv](http://arxiv.org/abs/2405.06211v1), [pdf](http://arxiv.org/pdf/2405.06211v1.pdf), cication: [**-1**](None)
 
@@ -97,6 +104,9 @@
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-18-4))
 ## Agents
+-  [Fetching Title#nl37](https://arxiv.org/abs/2407.15325)
+
+	 · ([odyssey](https://github.com/zju-vipa/odyssey) - zju-vipa) ![Star](https://img.shields.io/github/stars/zju-vipa/odyssey.svg?style=social&label=Star)
 - [**ioa**](https://github.com/openbmb/ioa) - openbmb ![Star](https://img.shields.io/github/stars/openbmb/ioa.svg?style=social&label=Star)
 
 	 *An open-source framework for collaborative AI agents, enabling diverse, distributed agents to team up and tackle complex tasks through internet-like connectivity.*
@@ -680,6 +690,9 @@
 - [陈丹琦ACL学术报告来了！详解大模型「外挂」数据库7大方向3大挑战，3小时干货满满 | 量子位](https://www.qbitai.com/2023/07/67259.html)
 
 ## Web browsing
+- **AssistantBench: Can Web Agents Solve Realistic and Time-Consuming Tasks?**, `arXiv, 2407.15711`, [arxiv](http://arxiv.org/abs/2407.15711v1), [pdf](http://arxiv.org/pdf/2407.15711v1.pdf), cication: [**-1**](None)
+
+	 *Ori Yoran, Samuel Joseph Amouyal, Chaitanya Malaviya, Ben Bogin, Ofir Press, Jonathan Berant* · ([assistantbench.github](https://assistantbench.github.io/)) · ([assistantbench](https://github.com/oriyor/assistantbench) - oriyor) ![Star](https://img.shields.io/github/stars/oriyor/assistantbench.svg?style=social&label=Star)
 - **DigiRL: Training In-The-Wild Device-Control Agents with Autonomous
   Reinforcement Learning**, `arXiv, 2406.11896`, [arxiv](http://arxiv.org/abs/2406.11896v1), [pdf](http://arxiv.org/pdf/2406.11896v1.pdf), cication: [**-1**](None)
 

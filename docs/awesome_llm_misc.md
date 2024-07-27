@@ -390,6 +390,9 @@
 - [Mamba: Linear-Time Sequence Modeling with Selective State Spaces (Paper Explained) - YouTube](https://www.youtube.com/watch?v=9dSkvxS2EB0&ab_channel=YannicKilcher)
 
 ## New model
+- **Discrete Flow Matching**, `arXiv, 2407.15595`, [arxiv](http://arxiv.org/abs/2407.15595v1), [pdf](http://arxiv.org/pdf/2407.15595v1.pdf), cication: [**-1**](None)
+
+	 *Itai Gat, Tal Remez, Neta Shaul, Felix Kreuk, Ricky T. Q. Chen, Gabriel Synnaeve, Yossi Adi, Yaron Lipman*
 - **Learning to (Learn at Test Time): RNNs with Expressive Hidden States**, `arXiv, 2407.04620`, [arxiv](http://arxiv.org/abs/2407.04620v1), [pdf](http://arxiv.org/pdf/2407.04620v1.pdf), cication: [**-1**](None)
 
 	 *Yu Sun, Xinhao Li, Karan Dalal, Jiarui Xu, Arjun Vikram, Genghan Zhang, Yann Dubois, Xinlei Chen, Xiaolong Wang, Sanmi Koyejo*
@@ -517,6 +520,10 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652345558&idx=4&sn=95686435d5cad05d44cbe02bc26d6859))
 
 ## Interpretability 
+- **Knowledge Mechanisms in Large Language Models: A Survey and Perspective**, `arXiv, 2407.15017`, [arxiv](http://arxiv.org/abs/2407.15017v1), [pdf](http://arxiv.org/pdf/2407.15017v1.pdf), cication: [**-1**](None)
+
+	 *Mengru Wang, Yunzhi Yao, Ziwen Xu, Shuofei Qiao, Shumin Deng, Peng Wang, Xiang Chen, Jia-Chen Gu, Yong Jiang, Pengjun Xie*
+- [Fetching Title#6ef9](https://icml.cc/virtual/2024/tutorial/35223)
 - **Self-Recognition in Language Models**, `arXiv, 2407.06946`, [arxiv](http://arxiv.org/abs/2407.06946v1), [pdf](http://arxiv.org/pdf/2407.06946v1.pdf), cication: [**-1**](None)
 
 	 *Tim R. Davidson, Viacheslav Surkov, Veniamin Veselovsky, Giuseppe Russo, Robert West, Caglar Gulcehre*
@@ -896,6 +903,7 @@
 - [MIT新研究：打工人不用担心被AI淘汰！成本巨贵，视觉工作只有23%可替代](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652436863&idx=3&sn=cd329df965557870646c7dd6fcb460cc)
 
 ## Course & Tutorial
+- [Fetching Title#lmxk](https://icml.cc/virtual/2024/tutorial/35223)
 - [**llama3-from-scratch**](https://github.com/naklecha/llama3-from-scratch) - naklecha ![Star](https://img.shields.io/github/stars/naklecha/llama3-from-scratch.svg?style=social&label=Star)
 
 	 *llama3 implementation one matrix multiplication at a time*

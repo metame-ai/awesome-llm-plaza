@@ -144,7 +144,8 @@
 	 · ([datablations](https://github.com/huggingface/datablations) - huggingface) ![Star](https://img.shields.io/github/stars/huggingface/datablations.svg?style=social&label=Star)
 
 ## Datasets
-- [Fetching Title#mmxu](https://huggingface.co/datasets/HuggingFaceTB/smollm-corpus)
+- [**dclm-baseline-1.0**](https://huggingface.co/datasets/mlfoundations/dclm-baseline-1.0) - mlfoundations 🤗
+- [**smollm-corpus**](https://huggingface.co/datasets/HuggingFaceTB/smollm-corpus) - HuggingFaceTB 🤗
 - **The FineWeb Datasets: Decanting the Web for the Finest Text Data at
   Scale**, `arXiv, 2406.17557`, [arxiv](http://arxiv.org/abs/2406.17557v1), [pdf](http://arxiv.org/pdf/2406.17557v1.pdf), cication: [**-1**](None)
 

@@ -71,6 +71,9 @@
 	 *Stephen Casper, Jason Lin, Joe Kwon, Gatlen Culp, Dylan Hadfield-Menell*
 
 ## Papers
+- [Improving Model Safety Behavior with Rule-Based Rewards | OpenAI](https://openai.com/index/improving-model-safety-behavior-with-rule-based-rewards/)
+
+	 · ([cdn.openai](https://cdn.openai.com/rule-based-rewards-for-language-model-safety.pdf)) · ([safety-rbr-code-and-data](https://github.com/openai/safety-rbr-code-and-data) - openai) ![Star](https://img.shields.io/github/stars/openai/safety-rbr-code-and-data.svg?style=social&label=Star)
 - **Safe Unlearning: A Surprisingly Effective and Generalizable Solution to
   Defend Against Jailbreak Attacks**, `arXiv, 2407.02855`, [arxiv](http://arxiv.org/abs/2407.02855v1), [pdf](http://arxiv.org/pdf/2407.02855v1.pdf), cication: [**-1**](None)
 
@@ -265,6 +268,7 @@
 
 	 *Kaijie Zhu, Jindong Wang, Jiaheng Zhou, Zichen Wang, Hao Chen, Yidong Wang, Linyi Yang, Wei Ye, Yue Zhang, Neil Zhenqiang Gong*
 ## Projects
+- [**Prompt-Guard-86M**](https://huggingface.co/meta-llama/Prompt-Guard-86M) - meta-llama 🤗
 - [**jailbreak_llms**](https://github.com/verazuo/jailbreak_llms?tab=readme-ov-file) - verazuo ![Star](https://img.shields.io/github/stars/verazuo/jailbreak_llms.svg?style=social&label=Star)
 
 	 *[CCS'24] A dataset consists of 15,140 ChatGPT prompts from Reddit, Discord, websites, and open-source datasets (including 1,405 jailbreak prompts).*

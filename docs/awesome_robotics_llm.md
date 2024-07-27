@@ -317,6 +317,10 @@
 	 *Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao*
 
 ## Robotics
+- **Cross Anything: General Quadruped Robot Navigation through Complex
+  Terrains**, `arXiv, 2407.16412`, [arxiv](http://arxiv.org/abs/2407.16412v1), [pdf](http://arxiv.org/pdf/2407.16412v1.pdf), cication: [**-1**](None)
+
+	 *Shaoting Zhu, Derun Li, Yong Liu, Ningyi Xu, Hang Zhao* · ([cross-anything.github](https://cross-anything.github.io/))
 - [robocasa\_rss24.pdf](https://robocasa.ai/assets/robocasa_rss24.pdf)
 
 	 · ([robocasa](https://robocasa.ai/))

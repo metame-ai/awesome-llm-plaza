@@ -11,6 +11,10 @@
 	- [Extra reference](#extra-reference)
 
 ## Survey
+- **A Comprehensive Survey of LLM Alignment Techniques: RLHF, RLAIF, PPO,
+  DPO and More**, `arXiv, 2407.16216`, [arxiv](http://arxiv.org/abs/2407.16216v1), [pdf](http://arxiv.org/pdf/2407.16216v1.pdf), cication: [**-1**](None)
+
+	 *Zhichao Wang, Bin Bi, Shiva Kumar Pentyala, Kiran Ramnath, Sougata Chaudhuri, Shubham Mehrotra, Zixu, Zhu, Xiang-Bo Mao, Sitaram Asur*
 - **Towards Scalable Automated Alignment of LLMs: A Survey**, `arXiv, 2406.01252`, [arxiv](http://arxiv.org/abs/2406.01252v1), [pdf](http://arxiv.org/pdf/2406.01252v1.pdf), cication: [**-1**](None)
 
 	 *Boxi Cao, Keming Lu, Xinyu Lu, Jiawei Chen, Mengjie Ren, Hao Xiang, Peilin Liu, Yaojie Lu, Ben He, Xianpei Han*
@@ -260,6 +264,10 @@
 	 *Timo Kaufmann, Paul Weng, Viktor Bengs, Eyke Hüllermeier*
 
 ## Papers
+- **Conditioned Language Policy: A General Framework for Steerable
+  Multi-Objective Finetuning**, `arXiv, 2407.15762`, [arxiv](http://arxiv.org/abs/2407.15762v1), [pdf](http://arxiv.org/pdf/2407.15762v1.pdf), cication: [**-1**](None)
+
+	 *Kaiwen Wang, Rahul Kidambi, Ryan Sullivan, Alekh Agarwal, Christoph Dann, Andrea Michi, Marco Gelmi, Yunxuan Li, Raghav Gupta, Avinava Dubey*
 - **Step-Controlled DPO: Leveraging Stepwise Error for Enhanced Mathematical
   Reasoning**, `arXiv, 2407.00782`, [arxiv](http://arxiv.org/abs/2407.00782v2), [pdf](http://arxiv.org/pdf/2407.00782v2.pdf), cication: [**-1**](None)
 

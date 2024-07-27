@@ -107,6 +107,14 @@
 	 *Mike Ranzinger, Greg Heinrich, Jan Kautz, Pavlo Molchanov* · ([radio](https://github.com/nvlabs/radio) - nvlabs) ![Star](https://img.shields.io/github/stars/nvlabs/radio.svg?style=social&label=Star)
 
 ### Video
+- **LongVideoBench: A Benchmark for Long-context Interleaved Video-Language
+  Understanding**, `arXiv, 2407.15754`, [arxiv](http://arxiv.org/abs/2407.15754v1), [pdf](http://arxiv.org/pdf/2407.15754v1.pdf), cication: [**-1**](None)
+
+	 *Haoning Wu, Dongxu Li, Bei Chen, Junnan Li* · ([LongVideoBench](https://github.com/longvideobench/LongVideoBench) - longvideobench) ![Star](https://img.shields.io/github/stars/longvideobench/LongVideoBench.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/datasets/longvideobench/LongVideoBench)) · ([longvideobench.github](https://longvideobench.github.io/))
+- **SlowFast-LLaVA: A Strong Training-Free Baseline for Video Large Language
+  Models**, `arXiv, 2407.15841`, [arxiv](http://arxiv.org/abs/2407.15841v1), [pdf](http://arxiv.org/pdf/2407.15841v1.pdf), cication: [**-1**](None)
+
+	 *Mingze Xu, Mingfei Gao, Zhe Gan, Hong-You Chen, Zhengfeng Lai, Haiming Gang, Kai Kang, Afshin Dehghan*
 - **LLaVA-NeXT-Interleave: Tackling Multi-image, Video, and 3D in Large
   Multimodal Models**, `arXiv, 2407.07895`, [arxiv](http://arxiv.org/abs/2407.07895v1), [pdf](http://arxiv.org/pdf/2407.07895v1.pdf), cication: [**-1**](None)
 
@@ -298,6 +306,13 @@
 	 · ([anole](https://github.com/GAIR-NLP/anole) - GAIR-NLP) ![Star](https://img.shields.io/github/stars/GAIR-NLP/anole.svg?style=social&label=Star)
 
 ### Image
+- **INF-LLaVA: Dual-perspective Perception for High-Resolution Multimodal
+  Large Language Model**, `arXiv, 2407.16198`, [arxiv](http://arxiv.org/abs/2407.16198v1), [pdf](http://arxiv.org/pdf/2407.16198v1.pdf), cication: [**-1**](None)
+
+	 *Yiwei Ma, Zhibin Wang, Xiaoshuai Sun, Weihuang Lin, Qiang Zhou, Jiayi Ji, Rongrong Ji* · ([INF-LLaVA](https://github.com/WeihuangLin/INF-LLaVA) - WeihuangLin) ![Star](https://img.shields.io/github/stars/WeihuangLin/INF-LLaVA.svg?style=social&label=Star)
+- **$VILA^2$: VILA Augmented VILA**, `arXiv, 2407.17453`, [arxiv](http://arxiv.org/abs/2407.17453v1), [pdf](http://arxiv.org/pdf/2407.17453v1.pdf), cication: [**-1**](None)
+
+	 *Yunhao Fang, Ligeng Zhu, Yao Lu, Yan Wang, Pavlo Molchanov, Jang Hyun Cho, Marco Pavone, Song Han, Hongxu Yin*
 - **DenseFusion-1M: Merging Vision Experts for Comprehensive Multimodal
   Perception**, `arXiv, 2407.08303`, [arxiv](http://arxiv.org/abs/2407.08303v1), [pdf](http://arxiv.org/pdf/2407.08303v1.pdf), cication: [**-1**](None)
 
