@@ -9,6 +9,10 @@
 
 
 ## Survey
+- **Benchmarking Trustworthiness of Multimodal Large Language Models: A
+  Comprehensive Study**, `arXiv, 2406.07057`, [arxiv](http://arxiv.org/abs/2406.07057v1), [pdf](http://arxiv.org/pdf/2406.07057v1.pdf), cication: [**-1**](None)
+
+	 *Yichi Zhang, Yao Huang, Yitong Sun, Chang Liu, Zhe Zhao, Zhengwei Fang, Yifan Wang, Huanran Chen, Xiao Yang, Xingxing Wei* · ([multi-trust.github](https://multi-trust.github.io/))
 - **Can We Catch the Elephant? The Evolvement of Hallucination Evaluation on
   Natural Language Generation: A Survey**, `arXiv, 2404.12041`, [arxiv](http://arxiv.org/abs/2404.12041v1), [pdf](http://arxiv.org/pdf/2404.12041v1.pdf), cication: [**-1**](None)
 
@@ -33,6 +37,7 @@
 	 *Cunxiang Wang, Xiaoze Liu, Yuanhao Yue, Xiangru Tang, Tianhang Zhang, Cheng Jiayang, Yunzhi Yao, Wenyang Gao, Xuming Hu, Zehan Qi* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-19-2))
 
 ## Papers
+
 - **Generation Constraint Scaling Can Mitigate Hallucination**, `arXiv, 2407.16908`, [arxiv](http://arxiv.org/abs/2407.16908v1), [pdf](http://arxiv.org/pdf/2407.16908v1.pdf), cication: [**-1**](None)
 
 	 *Georgios Kollias, Payel Das, Subhajit Chaudhury*

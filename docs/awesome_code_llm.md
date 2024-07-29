@@ -26,6 +26,9 @@
 	 *Ziyin Zhang, Chaoyu Chen, Bingchang Liu, Cong Liao, Zi Gong, Hang Yu, Jianguo Li, Rui Wang*
 
 ## Paper
+- **Scaling Granite Code Models to 128K Context**, `arXiv, 2407.13739`, [arxiv](http://arxiv.org/abs/2407.13739v1), [pdf](http://arxiv.org/pdf/2407.13739v1.pdf), cication: [**-1**](None)
+
+	 *Matt Stallone, Vaibhav Saxena, Leonid Karlinsky, Bridget McGinn, Tim Bula, Mayank Mishra, Adriana Meza Soria, Gaoyuan Zhang, Aditya Prasad, Yikang Shen* · ([granite-code-models](https://github.com/ibm-granite/granite-code-models) - ibm-granite) ![Star](https://img.shields.io/github/stars/ibm-granite/granite-code-models.svg?style=social&label=Star)
 - **OpenDevin: An Open Platform for AI Software Developers as Generalist
   Agents**, `arXiv, 2407.16741`, [arxiv](http://arxiv.org/abs/2407.16741v1), [pdf](http://arxiv.org/pdf/2407.16741v1.pdf), cication: [**-1**](None)
 

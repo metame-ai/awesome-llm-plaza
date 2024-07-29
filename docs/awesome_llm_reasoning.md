@@ -19,6 +19,10 @@
 
 
 ## Survey
+- **Internal Consistency and Self-Feedback in Large Language Models: A
+  Survey**, `arXiv, 2407.14507`, [arxiv](http://arxiv.org/abs/2407.14507v1), [pdf](http://arxiv.org/pdf/2407.14507v1.pdf), cication: [**-1**](None)
+
+	 *Xun Liang, Shichao Song, Zifan Zheng, Hanyu Wang, Qingchen Yu, Xunkai Li, Rong-Hua Li, Feiyu Xiong, Zhiyu Li* · ([ICSFSurvey](https://github.com/IAAR-Shanghai/ICSFSurvey) - IAAR-Shanghai) ![Star](https://img.shields.io/github/stars/IAAR-Shanghai/ICSFSurvey.svg?style=social&label=Star) · ([yuque](https://www.yuque.com/zhiyu-n2wnm/ugzwgf/gmqfkfigd6xw26eg))
 - **The Prompt Report: A Systematic Survey of Prompting Techniques**, `arXiv, 2406.06608`, [arxiv](http://arxiv.org/abs/2406.06608v1), [pdf](http://arxiv.org/pdf/2406.06608v1.pdf), cication: [**-1**](None)
 
 	 *Sander Schulhoff, Michael Ilie, Nishant Balepur, Konstantine Kahadze, Amanda Liu, Chenglei Si, Yinheng Li, Aayush Gupta, HyoJung Han, Sevien Schulhoff*
@@ -31,6 +35,7 @@
 	 *Jiankai Sun, Chuanyang Zheng, Enze Xie, Zhengying Liu, Ruihang Chu, Jianing Qiu, Jiaqi Xu, Mingyu Ding, Hongyang Li, Mengzhe Geng* · ([Awesome-Reasoning-Foundation-Models](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models) - reasoning-survey) ![Star](https://img.shields.io/github/stars/reasoning-survey/Awesome-Reasoning-Foundation-Models.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652421688&idx=3&sn=fcdc24edc7bc89ebcbcca0f7665e40f6))
 
 ## Reasoning
+
 - **Q*: Improving Multi-step Reasoning for LLMs with Deliberative Planning**, `arXiv, 2406.14283`, [arxiv](http://arxiv.org/abs/2406.14283v2), [pdf](http://arxiv.org/pdf/2406.14283v2.pdf), cication: [**-1**](None)
 
 	 *Chaojie Wang, Yanchen Deng, Zhiyi Lv, Shuicheng Yan, An Bo*

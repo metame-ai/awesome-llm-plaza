@@ -1365,6 +1365,10 @@
 	 *Xueliang Zhao, Xinting Huang, Tingchen Fu, Qintong Li, Shansan Gong, Lemao Liu, Wei Bi, Lingpeng Kong*
 
 ## Efficient 
+- **EVLM: An Efficient Vision-Language Model for Visual Understanding**, `arXiv, 2407.14177`, [arxiv](http://arxiv.org/abs/2407.14177v1), [pdf](http://arxiv.org/pdf/2407.14177v1.pdf), cication: [**-1**](None)
+
+	 *Kaibing Chen, Dong Shen, Hanwen Zhong, Huasong Zhong, Kui Xia, Di Xu, Wei Yuan, Yifei Hu, Bin Wen, Tianke Zhang*
+	- 
 - **Imp: Highly Capable Large Multimodal Models for Mobile Devices**, `arXiv, 2405.12107`, [arxiv](http://arxiv.org/abs/2405.12107v1), [pdf](http://arxiv.org/pdf/2405.12107v1.pdf), cication: [**-1**](None)
 
 	 *Zhenwei Shao, Zhou Yu, Jun Yu, Xuecheng Ouyang, Lihao Zheng, Zhenbiao Gai, Mingyang Wang, Jiajun Ding*

@@ -39,6 +39,10 @@
 	 *Yufei Wang, Wanjun Zhong, Liangyou Li, Fei Mi, Xingshan Zeng, Wenyong Huang, Lifeng Shang, Xin Jiang, Qun Liu* · ([AlignLLMHumanSurvey](https://github.com/GaryYufei/AlignLLMHumanSurvey) - GaryYufei) ![Star](https://img.shields.io/github/stars/GaryYufei/AlignLLMHumanSurvey.svg?style=social&label=Star)
 
 ## Paper & Projects
+- **Phi-3 Safety Post-Training: Aligning Language Models with a "Break-Fix"
+  Cycle**, `arXiv, 2407.13833`, [arxiv](http://arxiv.org/abs/2407.13833v1), [pdf](http://arxiv.org/pdf/2407.13833v1.pdf), cication: [**-1**](None)
+
+	 *Emman Haider, Daniel Perez-Becker, Thomas Portet, Piyush Madan, Amit Garg, David Majercak, Wen Wen, Dongwoo Kim, Ziyi Yang, Jianwen Zhang*
 - **Direct Preference Knowledge Distillation for Large Language Models**, `arXiv, 2406.19774`, [arxiv](http://arxiv.org/abs/2406.19774v1), [pdf](http://arxiv.org/pdf/2406.19774v1.pdf), cication: [**-1**](None)
 
 	 *Yixing Li, Yuxian Gu, Li Dong, Dequan Wang, Yu Cheng, Furu Wei*
@@ -264,6 +268,9 @@
 	 *Timo Kaufmann, Paul Weng, Viktor Bengs, Eyke Hüllermeier*
 
 ## Papers
+- **Understanding Reference Policies in Direct Preference Optimization**, `arXiv, 2407.13709`, [arxiv](http://arxiv.org/abs/2407.13709v1), [pdf](http://arxiv.org/pdf/2407.13709v1.pdf), cication: [**-1**](None)
+
+	 *Yixin Liu, Pengfei Liu, Arman Cohan* · ([refdpo](https://github.com/yale-nlp/refdpo) - yale-nlp) ![Star](https://img.shields.io/github/stars/yale-nlp/refdpo.svg?style=social&label=Star)
 - **Conditioned Language Policy: A General Framework for Steerable
   Multi-Objective Finetuning**, `arXiv, 2407.15762`, [arxiv](http://arxiv.org/abs/2407.15762v1), [pdf](http://arxiv.org/pdf/2407.15762v1.pdf), cication: [**-1**](None)
 

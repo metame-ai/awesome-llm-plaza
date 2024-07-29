@@ -792,6 +792,9 @@
 - [GPT-4V学会用键鼠上网，人类眼睁睁看着它发帖玩游戏 | 量子位](https://www.qbitai.com/2023/11/95456.html)
 
 ## Retrieval agumented generation
+- **Scaling Retrieval-Based Language Models with a Trillion-Token Datastore**, `arXiv, 2407.12854`, [arxiv](http://arxiv.org/abs/2407.12854v1), [pdf](http://arxiv.org/pdf/2407.12854v1.pdf), cication: [**-1**](None)
+
+	 *Rulin Shao, Jacqueline He, Akari Asai, Weijia Shi, Tim Dettmers, Sewon Min, Luke Zettlemoyer, Pang Wei Koh* · ([retrieval-scaling](https://github.com/RulinShao/retrieval-scaling) - RulinShao) ![Star](https://img.shields.io/github/stars/RulinShao/retrieval-scaling.svg?style=social&label=Star)
 - [**mem0**](https://github.com/mem0ai/mem0) - mem0ai ![Star](https://img.shields.io/github/stars/mem0ai/mem0.svg?style=social&label=Star)
 
 	 *The memory layer for Personalized AI*

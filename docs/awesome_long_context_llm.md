@@ -42,6 +42,10 @@
 	 *Adyasha Maharana, Dong-Ho Lee, Sergey Tulyakov, Mohit Bansal, Francesco Barbieri, Yuwei Fang*
 
 ## Papers
+- **ChatQA 2: Bridging the Gap to Proprietary LLMs in Long Context and RAG
+  Capabilities**, `arXiv, 2407.14482`, [arxiv](http://arxiv.org/abs/2407.14482v1), [pdf](http://arxiv.org/pdf/2407.14482v1.pdf), cication: [**-1**](None)
+
+	 *Peng Xu, Wei Ping, Xianchao Wu, Zihan Liu, Mohammad Shoeybi, Bryan Catanzaro*
 - **Human-like Episodic Memory for Infinite Context LLMs**, `arXiv, 2407.09450`, [arxiv](http://arxiv.org/abs/2407.09450v1), [pdf](http://arxiv.org/pdf/2407.09450v1.pdf), cication: [**-1**](None)
 
 	 *Zafeirios Fountas, Martin A Benfeghoul, Adnan Oomerjee, Fenia Christopoulou, Gerasimos Lampouras, Haitham Bou-Ammar, Jun Wang*

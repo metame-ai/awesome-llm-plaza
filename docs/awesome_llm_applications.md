@@ -780,6 +780,9 @@
 	 *Tiffany Tseng, Ruijia Cheng, Jeffrey Nichols*
 
 ## Vision
+- **The Vision of Autonomic Computing: Can LLMs Make It a Reality?**, `arXiv, 2407.14402`, [arxiv](http://arxiv.org/abs/2407.14402v1), [pdf](http://arxiv.org/pdf/2407.14402v1.pdf), cication: [**-1**](None)
+
+	 *Zhiyang Zhang, Fangkai Yang, Xiaoting Qin, Jue Zhang, Qingwei Lin, Gong Cheng, Dongmei Zhang, Saravan Rajmohan, Qi Zhang* · ([eta-zhang.github](https://eta-zhang.github.io/ACV-LLM/))
 - [**Omost**](https://github.com/lllyasviel/Omost) - lllyasviel ![Star](https://img.shields.io/github/stars/lllyasviel/Omost.svg?style=social&label=Star)
 
 	 *Your image is almost there!*
