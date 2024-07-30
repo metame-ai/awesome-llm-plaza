@@ -1430,7 +1430,11 @@
 
 	 *Mingsheng Li, Xin Chen, Chi Zhang, Sijin Chen, Hongyuan Zhu, Fukun Yin, Gang Yu, Tao Chen*
 ## Projects
-- [Fetching Title#097l](https://huggingface.co/qnguyen3/nanoLLaVA-1.5)
+- [**moondream2**](https://huggingface.co/vikhyatk/moondream2) - vikhyatk 🤗
+
+	 · ([moondream](https://github.com/vikhyat/moondream) - vikhyat) ![Star](https://img.shields.io/github/stars/vikhyat/moondream.svg?style=social&label=Star)
+- [**InternVL2-Llama3-76B**](https://huggingface.co/OpenGVLab/InternVL2-Llama3-76B) - OpenGVLab 🤗
+- [**nanoLLaVA-1.5**](https://huggingface.co/qnguyen3/nanoLLaVA-1.5) - qnguyen3 🤗
 - [**internlm-xcomposer2d5-7b**](https://huggingface.co/internlm/internlm-xcomposer2d5-7b) - internlm 🤗
 - [**llama3v**](https://github.com/mustafaaljadery/llama3v) - mustafaaljadery ![Star](https://img.shields.io/github/stars/mustafaaljadery/llama3v.svg?style=social&label=Star)
 

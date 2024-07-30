@@ -512,7 +512,7 @@
 	 *Shufang Xie, Huishuai Zhang, Junliang Guo, Xu Tan, Jiang Bian, Hany Hassan Awadalla, Arul Menezes, Tao Qin, Rui Yan* · ([ResiDual](https://github.com/microsoft/ResiDual) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/ResiDual.svg?style=social&label=Star)
 
 ## Efficient Inference
-- [Fetching Title#j02n](https://lmsys.org/blog/2024-07-25-sglang-llama3/)
+- [Fetching Title#by7u](https://lmsys.org/blog/2024-07-25-sglang-llama3/)
 - **LazyLLM: Dynamic Token Pruning for Efficient Long Context LLM Inference**, `arXiv, 2407.14057`, [arxiv](http://arxiv.org/abs/2407.14057v1), [pdf](http://arxiv.org/pdf/2407.14057v1.pdf), cication: [**-1**](None)
 
 	 *Qichen Fu, Minsik Cho, Thomas Merth, Sachin Mehta, Mohammad Rastegari, Mahyar Najibi*
@@ -873,6 +873,7 @@
 - [研究完llama.cpp，我发现手机跑大模型竟这么简单 | 机器之心](https://www.jiqizhixin.com/articles/2023-08-17-8)
 
 ## Mobile
+- [machinelearning.apple.com/papers/apple\_intelligence\_foundation\_language\_models.pdf](https://machinelearning.apple.com/papers/apple_intelligence_foundation_language_models.pdf)
 - **MobileLLM: Optimizing Sub-billion Parameter Language Models for
   On-Device Use Cases**, `arXiv, 2402.14905`, [arxiv](http://arxiv.org/abs/2402.14905v2), [pdf](http://arxiv.org/pdf/2402.14905v2.pdf), cication: [**15**](https://scholar.google.com/scholar?cites=10746600429526080063&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 

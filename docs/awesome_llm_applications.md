@@ -409,6 +409,9 @@
 	 *Yunkang Cao, Xiaohao Xu, Chen Sun, Xiaonan Huang, Weiming Shen* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-11-13))
 
 ## Auto driving
+- **Large Language Models for Human-like Autonomous Driving: A Survey**, `arXiv, 2407.19280`, [arxiv](http://arxiv.org/abs/2407.19280v1), [pdf](http://arxiv.org/pdf/2407.19280v1.pdf), cication: [**-1**](None)
+
+	 *Yun Li, Kai Katsumata, Ehsan Javanmardi, Manabu Tsukada*
 - **PlanGPT: Enhancing Urban Planning with Tailored Language Model and
   Efficient Retrieval**, `arXiv, 2402.19273`, [arxiv](http://arxiv.org/abs/2402.19273v1), [pdf](http://arxiv.org/pdf/2402.19273v1.pdf), cication: [**-1**](None)
 
@@ -860,6 +863,9 @@
 	 *Official repo for LayoutGPT*
 
 ## Science
+- [**chemlactica**](https://github.com/yerevann/chemlactica) - yerevann ![Star](https://img.shields.io/github/stars/yerevann/chemlactica.svg?style=social&label=Star)
+
+	 *Fine-tuning Galactica and Gemma to operate on SMILES. Integrates into a molecular optimization algorithm.*
 - **TheoremLlama: Transforming General-Purpose LLMs into Lean4 Experts**, `arXiv, 2407.03203`, [arxiv](http://arxiv.org/abs/2407.03203v1), [pdf](http://arxiv.org/pdf/2407.03203v1.pdf), cication: [**-1**](None)
 
 	 *Ruida Wang, Jipeng Zhang, Yizhen Jia, Rui Pan, Shizhe Diao, Renjie Pi, Tong Zhang*
@@ -1252,6 +1258,8 @@
 - [顺网科技发布AI引擎"SPICE"以及个人陪伴应用"顺网灵悉" | 量子位](https://www.qbitai.com/2023/07/72178.html)
 
 ## Other
+- [Andrej Karpathy's Keynote & Winner Pitches at UC Berkeley AI Hackathon 2024 Awards Ceremony - YouTube](https://www.youtube.com/watch?v=tsTeEkzO9xc&t=245s&ab_channel=BerkeleySkyDeck)
+
 - [大模型badcase修复方案思考](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495163&idx=2&sn=839b561bcc583ae813cffaf2686ad658)
 - [大模型落地应用架构的一种模式](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494829&idx=2&sn=45b033900b589cd960479c1f8c52f287)
 - [领域大模型-训练Trick&落地思考](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494320&idx=2&sn=8edd6ea37bbd73768caa306d9daa2cf7&poc_token=HHnX8GSjlZWMp0JU8WwdwPTmPLYtaqYEMl6TlWkB)
