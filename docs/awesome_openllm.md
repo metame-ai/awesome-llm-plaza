@@ -181,7 +181,7 @@
 - [**huggingface-llama-recipes**](https://github.com/huggingface/huggingface-llama-recipes) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/huggingface-llama-recipes.svg?style=social&label=Star)
 - [the-llama-3-herd-of-models](https://ai.meta.com/research/publications/the-llama-3-herd-of-models/)
 - [Welcome Llama 3 - Meta's new open LLM](https://huggingface.co/blog/llama3)
-- [Site Unreachable](https://ai.meta.com/blog/meta-llama-3/)
+- [Introducing Meta Llama 3: The most capable openly available LLM to date](https://ai.meta.com/blog/meta-llama-3/)
 - [**llama3**](https://github.com/meta-llama/llama3/tree/main) - meta-llama ![Star](https://img.shields.io/github/stars/meta-llama/llama3.svg?style=social&label=Star)
 
 	 *The official Meta Llama 3 GitHub site*
