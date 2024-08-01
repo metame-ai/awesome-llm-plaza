@@ -441,8 +441,12 @@
 - [大模型Fewshot推理如何选择更好的示例](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495177&idx=2&sn=fe8353efed16a81e35462be06d5a6cea)
 
 ## Math reasoning
-- [Fetching Title#nw27](https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/?utm_source=x&utm_medium=social&utm_campaign=&utm_content=)
-- [Fetching Title#8yo8](https://huggingface.co/collections/AI-MO/numinamath-6697df380293bcfdbc1d978c)
+- **LEAN-GitHub: Compiling GitHub LEAN repositories for a versatile LEAN
+  prover**, `arXiv, 2407.17227`, [arxiv](http://arxiv.org/abs/2407.17227v1), [pdf](http://arxiv.org/pdf/2407.17227v1.pdf), cication: [**-1**](None)
+
+	 *Zijian Wu, Jiayu Wang, Dahua Lin, Kai Chen* · ([InternLM-Math](https://github.com/InternLM/InternLM-Math) - InternLM) ![Star](https://img.shields.io/github/stars/InternLM/InternLM-Math.svg?style=social&label=Star)
+- [AI achieves silver-medal standard solving International Mathematical Olympiad problems](https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/?utm_source=x&utm_medium=social&utm_campaign=&utm_content=)
+- [NuminaMath - a AI-MO Collection](https://huggingface.co/collections/AI-MO/numinamath-6697df380293bcfdbc1d978c)
 - **Is Your Model Really A Good Math Reasoner? Evaluating Mathematical
   Reasoning with Checklist**, `arXiv, 2407.08733`, [arxiv](http://arxiv.org/abs/2407.08733v1), [pdf](http://arxiv.org/pdf/2407.08733v1.pdf), cication: [**-1**](None)
 

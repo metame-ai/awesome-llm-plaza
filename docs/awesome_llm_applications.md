@@ -267,6 +267,10 @@
 
 
 ## Medical
+- **Integrating Large Language Models into a Tri-Modal Architecture for
+  Automated Depression Classification**, `arXiv, 2407.19340`, [arxiv](http://arxiv.org/abs/2407.19340v1), [pdf](http://arxiv.org/pdf/2407.19340v1.pdf), cication: [**-1**](None)
+
+	 *Santosh V. Patapati*
 - **CoD, Towards an Interpretable Medical Agent using Chain of Diagnosis**, `arXiv, 2407.13301`, [arxiv](http://arxiv.org/abs/2407.13301v1), [pdf](http://arxiv.org/pdf/2407.13301v1.pdf), cication: [**-1**](None)
 
 	 *Junying Chen, Chi Gui, Anningzhe Gao, Ke Ji, Xidong Wang, Xiang Wan, Benyou Wang* · ([Chain-of-Diagnosis](https://github.com/FreedomIntelligence/Chain-of-Diagnosis) - FreedomIntelligence) ![Star](https://img.shields.io/github/stars/FreedomIntelligence/Chain-of-Diagnosis.svg?style=social&label=Star)
@@ -993,6 +997,9 @@
 	 *Ethan Callanan, Amarachi Mbakwe, Antony Papadimitriou, Yulong Pei, Mathieu Sibue, Xiaodan Zhu, Zhiqiang Ma, Xiaomo Liu, Sameena Shah*
 
 ## Data Related
+- [**gptzip**](https://github.com/jxmorris12/gptzip) - jxmorris12 ![Star](https://img.shields.io/github/stars/jxmorris12/gptzip.svg?style=social&label=Star)
+
+	 *Losslessly encode text natively with arithmetic coding and HuggingFace Transformers*
 - [**llm-scraper**](https://github.com/mishushakov/llm-scraper?tab=readme-ov-file) - mishushakov ![Star](https://img.shields.io/github/stars/mishushakov/llm-scraper.svg?style=social&label=Star)
 
 	 *Turn any webpage into structured data using LLMs*
@@ -1239,6 +1246,7 @@
 	 *An open source AI wearable device that captures what you say and hear in the real world and then transcribes and stores it on your own server. You can then chat with Adeus using the app, and it will have all the right context about what you want to talk about - a truly personalized, personal AI.* · ([qbitai](https://www.qbitai.com/2024/02/120864.html))
 
 ## Products
+- [Omnipilot - Your AI copilot everywhere on macOS](https://omnipilot.ai/)
 - [Inflection-2.5: meet the world's best personal AI](https://inflection.ai/inflection-2-5)
 - [Synthical: Science, Simplified](https://synthical.com/)
 

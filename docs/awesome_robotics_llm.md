@@ -317,6 +317,9 @@
 	 *Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao*
 
 ## Robotics
+- **Theia: Distilling Diverse Vision Foundation Models for Robot Learning**, `arXiv, 2407.20179`, [arxiv](http://arxiv.org/abs/2407.20179v1), [pdf](http://arxiv.org/pdf/2407.20179v1.pdf), cication: [**-1**](None)
+
+	 *Jinghuan Shang, Karl Schmeckpeper, Brandon B. May, Maria Vittoria Minniti, Tarik Kelestemur, David Watkins, Laura Herlant*
 - **Cross Anything: General Quadruped Robot Navigation through Complex
   Terrains**, `arXiv, 2407.16412`, [arxiv](http://arxiv.org/abs/2407.16412v1), [pdf](http://arxiv.org/pdf/2407.16412v1.pdf), cication: [**-1**](None)
 

@@ -107,6 +107,9 @@
 	 *Mike Ranzinger, Greg Heinrich, Jan Kautz, Pavlo Molchanov* · ([radio](https://github.com/nvlabs/radio) - nvlabs) ![Star](https://img.shields.io/github/stars/nvlabs/radio.svg?style=social&label=Star)
 
 ### Video
+- [**Video-LLaVA-7B-hf-CinePile**](https://huggingface.co/mfarre/Video-LLaVA-7B-hf-CinePile) - mfarre 🤗
+
+	 · ([Video-LLaVA-7B-hf-CinePile](https://github.com/mfarre/Video-LLaVA-7B-hf-CinePile) - mfarre) ![Star](https://img.shields.io/github/stars/mfarre/Video-LLaVA-7B-hf-CinePile.svg?style=social&label=Star)
 - **LongVideoBench: A Benchmark for Long-context Interleaved Video-Language
   Understanding**, `arXiv, 2407.15754`, [arxiv](http://arxiv.org/abs/2407.15754v1), [pdf](http://arxiv.org/pdf/2407.15754v1.pdf), cication: [**-1**](None)
 

@@ -268,6 +268,7 @@
 
 	 *Kaijie Zhu, Jindong Wang, Jiaheng Zhou, Zichen Wang, Hao Chen, Yidong Wang, Linyi Yang, Wei Ye, Yue Zhang, Neil Zhenqiang Gong*
 ## Projects
+- [**Llama-Guard-3-8B**](https://huggingface.co/meta-llama/Llama-Guard-3-8B) - meta-llama 🤗
 - [**Prompt-Guard-86M**](https://huggingface.co/meta-llama/Prompt-Guard-86M) - meta-llama 🤗
 - [**jailbreak_llms**](https://github.com/verazuo/jailbreak_llms?tab=readme-ov-file) - verazuo ![Star](https://img.shields.io/github/stars/verazuo/jailbreak_llms.svg?style=social&label=Star)
 

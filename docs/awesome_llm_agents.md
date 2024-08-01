@@ -1231,6 +1231,7 @@
 - [各路大神献出自定义GPT，24小时Top 9名单在这 | 机器之心](https://www.jiqizhixin.com/articles/2023-11-13-13)
 
 ## Evaluation
+- [**snowflake-arctic-embed-m-v1.5**](https://huggingface.co/Snowflake/snowflake-arctic-embed-m-v1.5) - Snowflake 🤗
 - **PersonaGym: Evaluating Persona Agents and LLMs**, `arXiv, 2407.18416`, [arxiv](http://arxiv.org/abs/2407.18416v2), [pdf](http://arxiv.org/pdf/2407.18416v2.pdf), cication: [**-1**](None)
 
 	 *Vinay Samuel, Henry Peng Zou, Yue Zhou, Shreyas Chaudhari, Ashwin Kalyan, Tanmay Rajpurohit, Ameet Deshpande, Karthik Narasimhan, Vishvak Murahari*
