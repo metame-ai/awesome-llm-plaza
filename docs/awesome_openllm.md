@@ -234,6 +234,7 @@
 - [**dbrx-instruct**](https://huggingface.co/databricks/dbrx-instruct) - databricks 🤗
 
 ### Gemma
+- [Fetching Title#5g95](https://huggingface.co/collections/google/gemma-2-2b-release-66a20f3796a2ff2a7c76f98f)
 - [Gemma 2 Release - a google Collection](https://huggingface.co/collections/google/gemma-2-release-667d6600fd5220e7b967f315)
 
 	 · ([x](https://x.com/danielhanchen/status/1806372357684220308))
@@ -269,6 +270,7 @@
 - [Gemma-10M Technical Overview. Motivation | by Akshgarg | May, 2024 | Medium](https://medium.com/@akshgarg_36829/gemma-10m-technical-overview-900adc4fbeeb)
 
 	 · ([gemma-2B-10M](https://github.com/mustafaaljadery/gemma-2B-10M?tab=readme-ov-file) - mustafaaljadery) ![Star](https://img.shields.io/github/stars/mustafaaljadery/gemma-2B-10M.svg?style=social&label=Star)
+- [**bge-multilingual-gemma2**](https://huggingface.co/BAAI/bge-multilingual-gemma2) - BAAI 🤗
 ### OLMo
 - [OLMo 1.7–7B: A 24 point improvement on MMLU | by AI2 | Apr, 2024 | AI2 Blog](https://blog.allenai.org/olmo-1-7-7b-a-24-point-improvement-on-mmlu-92b43f7d269d)
 - [**OLMo-1.7-7B**](https://huggingface.co/allenai/OLMo-1.7-7B) - allenai 🤗
@@ -581,7 +583,7 @@
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-12-11-15))
 
 ### InterLM
-- [Fetching Title#35ag](https://huggingface.co/collections/internlm/internlm25-66853f32717072d17581bc13)
+- [InternLM2.5 - a internlm Collection](https://huggingface.co/collections/internlm/internlm25-66853f32717072d17581bc13)
 - [**InternLM-Math**](https://github.com/InternLM/InternLM-Math) - InternLM ![Star](https://img.shields.io/github/stars/InternLM/InternLM-Math.svg?style=social&label=Star)
 
 	 · ([huggingface](https://huggingface.co/spaces/internlm/internlm2-math-7b))
@@ -735,6 +737,9 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s/Lf70i8M0KNDs9ZB8H32h4w))
 
 # Extra
+- **EXAONE 3.0 7.8B Instruction Tuned Language Model**, `arXiv, 2408.03541`, [arxiv](http://arxiv.org/abs/2408.03541v2), [pdf](http://arxiv.org/pdf/2408.03541v2.pdf), cication: [**-1**](None)
+
+	 *LG AI Research, :, Soyoung An, Kyunghoon Bae, Eunbi Choi, Stanley Jungkyu Choi, Yemuk Choi, Seokhee Hong, Yeonjung Hong, Junwon Hwang* · ([huggingface](https://huggingface.co/LGAI-EXAONE/EXAONE-3.0-7.8B-Instruct))
 - [**T-lite-instruct-0.1**](https://huggingface.co/AnatoliiPotapov/T-lite-instruct-0.1) - AnatoliiPotapov 🤗
 - **LLaMAX: Scaling Linguistic Horizons of LLM by Enhancing Translation
   Capabilities Beyond 100 Languages**, `arXiv, 2407.05975`, [arxiv](http://arxiv.org/abs/2407.05975v1), [pdf](http://arxiv.org/pdf/2407.05975v1.pdf), cication: [**-1**](None)

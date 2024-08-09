@@ -71,6 +71,13 @@
 	 *Stephen Casper, Jason Lin, Joe Kwon, Gatlen Culp, Dylan Hadfield-Menell*
 
 ## Papers
+- **Towards Guaranteed Safe AI: A Framework for Ensuring Robust and Reliable
+  AI Systems**, `arXiv, 2405.06624`, [arxiv](http://arxiv.org/abs/2405.06624v3), [pdf](http://arxiv.org/pdf/2405.06624v3.pdf), cication: [**12**](https://scholar.google.com/scholar?cites=12483606360867487294&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *David "davidad" Dalrymple, Joar Skalse, Yoshua Bengio, Stuart Russell, Max Tegmark, Sanjit Seshia, Steve Omohundro, Christian Szegedy, Ben Goldhaber, Nora Ammann* · ([mp.weixin.qq](https://mp.weixin.qq.com/s/tDa46iKHeLqJS39PamnAPw))
+- **The GPT Dilemma: Foundation Models and the Shadow of Dual-Use**, `arXiv, 2407.20442`, [arxiv](http://arxiv.org/abs/2407.20442v1), [pdf](http://arxiv.org/pdf/2407.20442v1.pdf), cication: [**-1**](None)
+
+	 *Alan Hickey*
 - [Improving Model Safety Behavior with Rule-Based Rewards | OpenAI](https://openai.com/index/improving-model-safety-behavior-with-rule-based-rewards/)
 
 	 · ([cdn.openai](https://cdn.openai.com/rule-based-rewards-for-language-model-safety.pdf)) · ([safety-rbr-code-and-data](https://github.com/openai/safety-rbr-code-and-data) - openai) ![Star](https://img.shields.io/github/stars/openai/safety-rbr-code-and-data.svg?style=social&label=Star)

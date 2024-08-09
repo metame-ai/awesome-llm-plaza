@@ -54,6 +54,9 @@
 - [Navigating the Jagged Technological Frontier: Field Experimental Evidence of the Effects of AI on Knowledge Worker Productivity and Quality](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4573321)
 
 ## Toolkits 
+- [**torchchat**](https://github.com/pytorch/torchchat) - pytorch ![Star](https://img.shields.io/github/stars/pytorch/torchchat.svg?style=social&label=Star)
+
+	 *Run PyTorch LLMs locally on servers, desktop and mobile*
 - [**llama-fs**](https://github.com/iyaja/llama-fs) - iyaja ![Star](https://img.shields.io/github/stars/iyaja/llama-fs.svg?style=social&label=Star)
 
 	 *A self-organizing file system with llama 3*
@@ -460,6 +463,7 @@
 	 *Sarah J. Zhang, Samuel Florin, Ariel N. Lee, Eamon Niknafs, Andrei Marginean, Annie Wang, Keith Tyser, Zad Chin, Yann Hicke, Nikhil Singh*
 
 ### Other
+- [AI tutors could turn every child into a genius. : r/singularity](https://www.reddit.com/r/singularity/comments/1ejz7xa/ai_tutors_could_turn_every_child_into_a_genius/)
 - [Paper Brief](https://paperbrief.net/)
 - [Nature｜LLM正在重塑教育，所有学生都需要学习AI，RAG是解决幻觉的关键](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652412307&idx=3&sn=e9c3e1e97e6b83450540cb00ba06a2f0)
 - [大模型将如何重塑教育科技？](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495079&idx=1&sn=9de2538e89e13ac6c2de9ef3c9485849&poc_token=HKGfW2Wjxt97Kx-SL9trVy0vcjiIk55sTn_aWI01)
@@ -551,6 +555,7 @@
 	 *Chongming Gao, Wenqiang Lei, Xiangnan He, Maarten de Rijke, Tat-Seng Chua* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495345&idx=2&sn=5e3ac087c792081705dde1c2542c687a))
 
 ## Role play
+- [**MN-12B-Celeste-V1.9**](https://huggingface.co/nothingiisreal/MN-12B-Celeste-V1.9) - nothingiisreal 🤗
 - **Virtual Personas for Language Models via an Anthology of Backstories**, `arXiv, 2407.06576`, [arxiv](http://arxiv.org/abs/2407.06576v1), [pdf](http://arxiv.org/pdf/2407.06576v1.pdf), cication: [**-1**](None)
 
 	 *Suhong Moon, Marwa Abdulhai, Minwoo Kang, Joseph Suh, Widyadewi Soedarmadji, Eran Kohen Behar, David M. Chan*

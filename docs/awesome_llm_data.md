@@ -351,6 +351,7 @@
 - [**Capybara-Preferences**](https://huggingface.co/datasets/argilla/Capybara-Preferences) - argilla 🤗
 
 ### Synthetic 
+- [**magpie-ultra-v0.1**](https://huggingface.co/datasets/argilla/magpie-ultra-v0.1?row=0) - argilla 🤗
 - **AgentInstruct: Toward Generative Teaching with Agentic Flows**, `arXiv, 2407.03502`, [arxiv](http://arxiv.org/abs/2407.03502v1), [pdf](http://arxiv.org/pdf/2407.03502v1.pdf), cication: [**-1**](None)
 
 	 *Arindam Mitra, Luciano Del Corro, Guoqing Zheng, Shweti Mahajan, Dany Rouhana, Andres Codas, Yadong Lu, Wei-ge Chen, Olga Vrousgos, Corby Rosset* · ([x](https://x.com/_philschmid/status/1811308080166035549))

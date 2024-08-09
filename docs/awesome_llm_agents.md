@@ -25,6 +25,10 @@
 	- [Extra reference](#extra-reference)
 
 ## Survey
+- **From LLMs to LLM-based Agents for Software Engineering: A Survey of
+  Current, Challenges and Future**, `arXiv, 2408.02479`, [arxiv](http://arxiv.org/abs/2408.02479v1), [pdf](http://arxiv.org/pdf/2408.02479v1.pdf), cication: [**-1**](None)
+
+	 *Haolin Jin, Linghan Huang, Haipeng Cai, Jun Yan, Bo Li, Huaming Chen*
 - **Retrieval-Augmented Generation for Natural Language Processing: A Survey**, `arXiv, 2407.13193`, [arxiv](http://arxiv.org/abs/2407.13193v2), [pdf](http://arxiv.org/pdf/2407.13193v2.pdf), cication: [**-1**](None)
 
 	 *Shangyu Wu, Ying Xiong, Yufei Cui, Haolun Wu, Can Chen, Ye Yuan, Lianming Huang, Xue Liu, Tei-Wei Kuo, Nan Guan*
@@ -104,6 +108,10 @@
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-18-4))
 ## Agents
+- **Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in
+  Long-Horizon Tasks**, `arXiv, 2408.03615`, [arxiv](http://arxiv.org/abs/2408.03615v1), [pdf](http://arxiv.org/pdf/2408.03615v1.pdf), cication: [**-1**](None)
+
+	 *Zaijing Li, Yuquan Xie, Rui Shao, Gongwei Chen, Dongmei Jiang, Liqiang Nie* · ([cybertronagent.github](https://cybertronagent.github.io/Optimus-1.github.io/)) · ([Optimus-1](https://github.com/JiuTian-VL/Optimus-1) - JiuTian-VL) ![Star](https://img.shields.io/github/stars/JiuTian-VL/Optimus-1.svg?style=social&label=Star)
 -  [Fetching Title#nl37](https://arxiv.org/abs/2407.15325)
 
 	 · ([odyssey](https://github.com/zju-vipa/odyssey) - zju-vipa) ![Star](https://img.shields.io/github/stars/zju-vipa/odyssey.svg?style=social&label=Star)
@@ -690,6 +698,9 @@
 - [陈丹琦ACL学术报告来了！详解大模型「外挂」数据库7大方向3大挑战，3小时干货满满 | 量子位](https://www.qbitai.com/2023/07/67259.html)
 
 ## Web browsing
+- [**MindSearch**](https://github.com/InternLM/MindSearch) - InternLM ![Star](https://img.shields.io/github/stars/InternLM/MindSearch.svg?style=social&label=Star)
+
+	 *🔍 An LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai Pro and SearchGPT)*
 - **AssistantBench: Can Web Agents Solve Realistic and Time-Consuming Tasks?**, `arXiv, 2407.15711`, [arxiv](http://arxiv.org/abs/2407.15711v1), [pdf](http://arxiv.org/pdf/2407.15711v1.pdf), cication: [**-1**](None)
 
 	 *Ori Yoran, Samuel Joseph Amouyal, Chaitanya Malaviya, Ben Bogin, Ofir Press, Jonathan Berant* · ([assistantbench.github](https://assistantbench.github.io/)) · ([assistantbench](https://github.com/oriyor/assistantbench) - oriyor) ![Star](https://img.shields.io/github/stars/oriyor/assistantbench.svg?style=social&label=Star)
@@ -792,6 +803,7 @@
 - [GPT-4V学会用键鼠上网，人类眼睁睁看着它发帖玩游戏 | 量子位](https://www.qbitai.com/2023/11/95456.html)
 
 ## Retrieval agumented generation
+- [**RAGFoundry**](https://github.com/IntelLabs/RAGFoundry) - IntelLabs ![Star](https://img.shields.io/github/stars/IntelLabs/RAGFoundry.svg?style=social&label=Star)
 - **Scaling Retrieval-Based Language Models with a Trillion-Token Datastore**, `arXiv, 2407.12854`, [arxiv](http://arxiv.org/abs/2407.12854v1), [pdf](http://arxiv.org/pdf/2407.12854v1.pdf), cication: [**-1**](None)
 
 	 *Rulin Shao, Jacqueline He, Akari Asai, Weijia Shi, Tim Dettmers, Sewon Min, Luke Zettlemoyer, Pang Wei Koh* · ([retrieval-scaling](https://github.com/RulinShao/retrieval-scaling) - RulinShao) ![Star](https://img.shields.io/github/stars/RulinShao/retrieval-scaling.svg?style=social&label=Star)
@@ -1085,6 +1097,9 @@
 	 *Interact privately with your documents using the power of GPT, 100% privately, no data leaks*
 
 ### Embedding
+- [**sqlite-vec**](https://github.com/asg017/sqlite-vec) - asg017 ![Star](https://img.shields.io/github/stars/asg017/sqlite-vec.svg?style=social&label=Star)
+
+	 *A vector search SQLite extension that runs anywhere!*
 - **Piccolo2: General Text Embedding with Multi-task Hybrid Loss Training**, `arXiv, 2405.06932`, [arxiv](http://arxiv.org/abs/2405.06932v1), [pdf](http://arxiv.org/pdf/2405.06932v1.pdf), cication: [**-1**](None)
 
 	 *Junqin Huang, Zhongjie Hu, Zihao Jing, Mengya Gao, Yichao Wu* · ([huggingface](https://huggingface.co/sensenova/piccolo-large-zh-v2))

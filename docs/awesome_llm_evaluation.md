@@ -32,6 +32,12 @@
 	 *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang*
 
 ## Papers
+- **Self-Taught Evaluators**, `arXiv, 2408.02666`, [arxiv](http://arxiv.org/abs/2408.02666v2), [pdf](http://arxiv.org/pdf/2408.02666v2.pdf), cication: [**-1**](None)
+
+	 *Tianlu Wang, Ilia Kulikov, Olga Golovneva, Ping Yu, Weizhe Yuan, Jane Dwivedi-Yu, Richard Yuanzhe Pang, Maryam Fazel-Zarandi, Jason Weston, Xian Li*
+- **CoverBench: A Challenging Benchmark for Complex Claim Verification**, `arXiv, 2408.03325`, [arxiv](http://arxiv.org/abs/2408.03325v1), [pdf](http://arxiv.org/pdf/2408.03325v1.pdf), cication: [**-1**](None)
+
+	 *Alon Jacovi, Moran Ambar, Eyal Ben-David, Uri Shaham, Amir Feder, Mor Geva, Dror Marcus, Avi Caciularu*
 - **AutoBencher: Creating Salient, Novel, Difficult Datasets for Language
   Models**, `arXiv, 2407.08351`, [arxiv](http://arxiv.org/abs/2407.08351v1), [pdf](http://arxiv.org/pdf/2407.08351v1.pdf), cication: [**-1**](None)
 

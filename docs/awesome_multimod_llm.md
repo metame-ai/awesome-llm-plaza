@@ -107,6 +107,9 @@
 	 *Mike Ranzinger, Greg Heinrich, Jan Kautz, Pavlo Molchanov* · ([radio](https://github.com/nvlabs/radio) - nvlabs) ![Star](https://img.shields.io/github/stars/nvlabs/radio.svg?style=social&label=Star)
 
 ### Video
+- **LLaVA-OneVision: Easy Visual Task Transfer**, `arXiv, 2408.03326`, [arxiv](http://arxiv.org/abs/2408.03326v1), [pdf](http://arxiv.org/pdf/2408.03326v1.pdf), cication: [**-1**](None)
+
+	 *Bo Li, Yuanhan Zhang, Dong Guo, Renrui Zhang, Feng Li, Hao Zhang, Kaichen Zhang, Yanwei Li, Ziwei Liu, Chunyuan Li* · ([llava-vl.github](https://llava-vl.github.io/blog/2024-08-05-llava-onevision/)) · ([LLaVA-NeXT](https://github.com/LLaVA-VL/LLaVA-NeXT) - LLaVA-VL) ![Star](https://img.shields.io/github/stars/LLaVA-VL/LLaVA-NeXT.svg?style=social&label=Star)
 - [**Video-LLaVA-7B-hf-CinePile**](https://huggingface.co/mfarre/Video-LLaVA-7B-hf-CinePile) - mfarre 🤗
 
 	 · ([Video-LLaVA-7B-hf-CinePile](https://github.com/mfarre/Video-LLaVA-7B-hf-CinePile) - mfarre) ![Star](https://img.shields.io/github/stars/mfarre/Video-LLaVA-7B-hf-CinePile.svg?style=social&label=Star)
@@ -1397,6 +1400,9 @@
 	 *Haoran Wei, Lingyu Kong, Jinyue Chen, Liang Zhao, Zheng Ge, En Yu, Jianjian Sun, Chunrui Han, Xiangyu Zhang*
 
 ## Extra Modalities 
+- **SpatialBot: Precise Spatial Understanding with Vision Language Models**, `arXiv, 2406.13642`, [arxiv](http://arxiv.org/abs/2406.13642v5), [pdf](http://arxiv.org/pdf/2406.13642v5.pdf), cication: [**-1**](None)
+
+	 *Wenxiao Cai, Yaroslav Ponomarenko, Jianhao Yuan, Xiaoqi Li, Wankou Yang, Hao Dong, Bo Zhao* · ([SpatialBot](https://github.com/BAAI-DCAI/SpatialBot) - BAAI-DCAI) ![Star](https://img.shields.io/github/stars/BAAI-DCAI/SpatialBot.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s/X1iqkkEMsop9DGCY08AfCw))
 - **LLaVA-NeXT-Interleave: Tackling Multi-image, Video, and 3D in Large
   Multimodal Models**, `arXiv, 2407.07895`, [arxiv](http://arxiv.org/abs/2407.07895v1), [pdf](http://arxiv.org/pdf/2407.07895v1.pdf), cication: [**-1**](None)
 
@@ -1433,6 +1439,10 @@
 
 	 *Mingsheng Li, Xin Chen, Chi Zhang, Sijin Chen, Hongyuan Zhu, Fukun Yin, Gang Yu, Tao Chen*
 ## Projects
+- [Site Unreachable](https://huggingface.co/HuggingFaceM4/Idefics3-8B-Llama3)
+- [**MiniCPM-V**](https://github.com/OpenBMB/MiniCPM-V) - OpenBMB ![Star](https://img.shields.io/github/stars/OpenBMB/MiniCPM-V.svg?style=social&label=Star)
+
+	 *MiniCPM-V 2.6: A GPT-4V Level MLLM for Single Image, Multi Image and Video on Your Phone*
 - [**moondream2**](https://huggingface.co/vikhyatk/moondream2) - vikhyatk 🤗
 
 	 · ([moondream](https://github.com/vikhyat/moondream) - vikhyat) ![Star](https://img.shields.io/github/stars/vikhyat/moondream.svg?style=social&label=Star)
@@ -1516,6 +1526,10 @@
 
 
 ## Evaluation
+- **MMIU: Multimodal Multi-image Understanding for Evaluating Large
+  Vision-Language Models**, `arXiv, 2408.02718`, [arxiv](http://arxiv.org/abs/2408.02718v1), [pdf](http://arxiv.org/pdf/2408.02718v1.pdf), cication: [**-1**](None)
+
+	 *Fanqing Meng, Jin Wang, Chuanhao Li, Quanfeng Lu, Hao Tian, Jiaqi Liao, Xizhou Zhu, Jifeng Dai, Yu Qiao, Ping Luo* · ([mmiu-bench.github](https://mmiu-bench.github.io/)) · ([MMIU](https://github.com/OpenGVLab/MMIU) - OpenGVLab) ![Star](https://img.shields.io/github/stars/OpenGVLab/MMIU.svg?style=social&label=Star)
 - **Vision language models are blind**, `arXiv, 2407.06581`, [arxiv](http://arxiv.org/abs/2407.06581v3), [pdf](http://arxiv.org/pdf/2407.06581v3.pdf), cication: [**-1**](None)
 
 	 *Pooyan Rahmanzadehgervi, Logan Bolton, Mohammad Reza Taesiri, Anh Totti Nguyen* · ([vlmsareblind.github](https://vlmsareblind.github.io/))
@@ -1662,6 +1676,7 @@
 	 *Yuliang Liu, Zhang Li, Biao Yang, Chunyuan Li, Xucheng Yin, Cheng-lin Liu, Lianwen Jin, Xiang Bai* · ([MultimodalOCR](https://github.com/Yuliang-Liu/MultimodalOCR) - Yuliang-Liu) ![Star](https://img.shields.io/github/stars/Yuliang-Liu/MultimodalOCR.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652442102&idx=4&sn=64a53646c57797a00b9db186f339c5eb))
 
 ## Datasets
+- [Openstory++ : A Large-scale Dataset and Benchmark for Instance-aware Open-domain Visual Storytelling](https://openstorypp.github.io/)
 - **The Synergy between Data and Multi-Modal Large Language Models: A Survey
   from Co-Development Perspective**, `arXiv, 2407.08583`, [arxiv](http://arxiv.org/abs/2407.08583v1), [pdf](http://arxiv.org/pdf/2407.08583v1.pdf), cication: [**-1**](None)
 

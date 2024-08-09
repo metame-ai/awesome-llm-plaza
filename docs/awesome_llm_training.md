@@ -85,6 +85,10 @@
 - [贫穷让我预训练](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494110&idx=2&sn=52bfbf2d51d1704efc596263bccf23db)
 
 ## Scaling
+- **Scaling LLM Test-Time Compute Optimally can be More Effective than
+  Scaling Model Parameters**, `arXiv, 2408.03314`, [arxiv](http://arxiv.org/abs/2408.03314v1), [pdf](http://arxiv.org/pdf/2408.03314v1.pdf), cication: [**-1**](None)
+
+	 *Charlie Snell, Jaehoon Lee, Kelvin Xu, Aviral Kumar*
 - **Scaling Laws for Linear Complexity Language Models**, `arXiv, 2406.16690`, [arxiv](http://arxiv.org/abs/2406.16690v1), [pdf](http://arxiv.org/pdf/2406.16690v1.pdf), cication: [**-1**](None)
 
 	 *Xuyang Shen, Dong Li, Ruitao Leng, Zhen Qin, Weigao Sun, Yiran Zhong*
@@ -320,6 +324,11 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652375732&idx=2&sn=1cb4cefcd791af2a6ffacdf99e35225c))
 
 ## Optimization
+- [**optimizers**](https://github.com/facebookresearch/optimizers/blob/main/distributed_shampoo/README.md) - facebookresearch ![Star](https://img.shields.io/github/stars/facebookresearch/optimizers.svg?style=social&label=Star)
+- **Scaling Exponents Across Parameterizations and Optimizers**, `arXiv, 2407.05872`, [arxiv](http://arxiv.org/abs/2407.05872v2), [pdf](http://arxiv.org/pdf/2407.05872v2.pdf), cication: [**-1**](None)
+
+	 *Katie Everett, Lechao Xiao, Mitchell Wortsman, Alexander A. Alemi, Roman Novak, Peter J. Liu, Izzeddin Gur, Jascha Sohl-Dickstein, Leslie Pack Kaelbling, Jaehoon Lee*
+- [Announcing the results of the inaugural AlgoPerf: Training Algorithms benchmark competition - MLCommons](https://mlcommons.org/2024/08/mlc-algoperf-benchmark-competition/)
 - **Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion**, `arXiv, 2407.01392`, [arxiv](http://arxiv.org/abs/2407.01392v3), [pdf](http://arxiv.org/pdf/2407.01392v3.pdf), cication: [**-1**](None)
 
 	 *Boyuan Chen, Diego Marti Monso, Yilun Du, Max Simchowitz, Russ Tedrake, Vincent Sitzmann*
@@ -575,6 +584,7 @@
 	 *Juhao Liang, Ziwei Wang, Zhuoheng Ma, Jianquan Li, Zhiyi Zhang, Xiangbo Wu, Benyou Wang*
 
 ## Toolkits
+- [**autotrain-advanced**](https://github.com/huggingface/autotrain-advanced) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/autotrain-advanced.svg?style=social&label=Star)
 - [**nanotron**](https://github.com/huggingface/nanotron/tree/main) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/nanotron.svg?style=social&label=Star)
 
 	 *Minimalistic large language model 3D-parallelism training*

@@ -12,6 +12,10 @@
 	 *Yeseung Kim, Dohyun Kim, Jieun Choi, Jisang Park, Nayoung Oh, Daehyung Park*
 
 ## Papers
+- **Diffusion Augmented Agents: A Framework for Efficient Exploration and
+  Transfer Learning**, `arXiv, 2407.20798`, [arxiv](http://arxiv.org/abs/2407.20798v1), [pdf](http://arxiv.org/pdf/2407.20798v1.pdf), cication: [**-1**](None)
+
+	 *Norman Di Palo, Leonard Hasenclever, Jan Humplik, Arunkumar Byravan* · ([sites.google](https://sites.google.com/view/diffusion-augmented-agents/)) · ([mp.weixin.qq](https://mp.weixin.qq.com/s/P-x8EDrfd1ydCnPP8MYu6g))
 - **ROS-LLM: A ROS framework for embodied AI with task feedback and
   structured reasoning**, `arXiv, 2406.19741`, [arxiv](http://arxiv.org/abs/2406.19741v2), [pdf](http://arxiv.org/pdf/2406.19741v2.pdf), cication: [**-1**](None)
 
@@ -317,6 +321,10 @@
 	 *Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao*
 
 ## Robotics
+- **Achieving Human Level Competitive Robot Table Tennis**, `arXiv, 2408.03906`, [arxiv](http://arxiv.org/abs/2408.03906v1), [pdf](http://arxiv.org/pdf/2408.03906v1.pdf), cication: [**-1**](None)
+
+	 *David B. D'Ambrosio, Saminda Abeyruwan, Laura Graesser, Atil Iscen, Heni Ben Amor, Alex Bewley, Barney J. Reed, Krista Reymann, Leila Takayama, Yuval Tassa* · ([sites.google](https://sites.google.com/view/competitive-robot-table-tennis))
+- [Berkeley Humanoid: A Research Platform for Learning-based Control](https://berkeley-humanoid.com/)
 - **Theia: Distilling Diverse Vision Foundation Models for Robot Learning**, `arXiv, 2407.20179`, [arxiv](http://arxiv.org/abs/2407.20179v1), [pdf](http://arxiv.org/pdf/2407.20179v1.pdf), cication: [**-1**](None)
 
 	 *Jinghuan Shang, Karl Schmeckpeper, Brandon B. May, Maria Vittoria Minniti, Tarik Kelestemur, David Watkins, Laura Herlant*

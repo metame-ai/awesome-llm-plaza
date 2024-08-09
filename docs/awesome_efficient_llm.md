@@ -365,6 +365,7 @@
 	 · ([bitsandbytes](https://github.com/timdettmers/bitsandbytes) - timdettmers) ![Star](https://img.shields.io/github/stars/timdettmers/bitsandbytes.svg?style=social&label=Star)
 
 ### Projects
+- [A Visual Guide to Quantization - by Maarten Grootendorst](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization)
 - [lmstudio-community (LM Studio Community)](https://huggingface.co/lmstudio-community)
 - [**BitMat**](https://github.com/astramind-ai/BitMat) - astramind-ai ![Star](https://img.shields.io/github/stars/astramind-ai/BitMat.svg?style=social&label=Star)
 
@@ -402,12 +403,16 @@
 	 *SqueezeLLM: Dense-and-Sparse Quantization*
 
 ### Other
+- [Do you want to learn about quantization? Here are five free resources to get started](https://x.com/osanseviero/status/1820124474965897466?utm_source=ainews&utm_medium=email&utm_campaign=ainews-how-carlini-uses-ai)
 - [Overview of natively supported quantization schemes in 🤗 Transformers](https://huggingface.co/blog/overview-quantization-transformers)
 - [Making LLMs lighter with AutoGPTQ and transformers](https://huggingface.co/blog/gptq-integration)
 - [TheBloke (Tom Jobbins)](https://huggingface.co/TheBloke)
 - [Quantization](https://huggingface.co/docs/accelerate/usage_guides/quantization)
 
 ## Distillation
+- [DistillKit - Arcee-AI](https://arcee-ai-distillkit.my.canva.site/)
+
+	 · ([DistillKit](https://github.com/arcee-ai/DistillKit) - arcee-ai) ![Star](https://img.shields.io/github/stars/arcee-ai/DistillKit.svg?style=social&label=Star)
 - **PLaD: Preference-based Large Language Model Distillation with
   Pseudo-Preference Pairs**, `arXiv, 2406.02886`, [arxiv](http://arxiv.org/abs/2406.02886v2), [pdf](http://arxiv.org/pdf/2406.02886v2.pdf), cication: [**-1**](None)
 
@@ -512,7 +517,7 @@
 	 *Shufang Xie, Huishuai Zhang, Junliang Guo, Xu Tan, Jiang Bian, Hany Hassan Awadalla, Arul Menezes, Tao Qin, Rui Yan* · ([ResiDual](https://github.com/microsoft/ResiDual) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/ResiDual.svg?style=social&label=Star)
 
 ## Efficient Inference
-- [Fetching Title#by7u](https://lmsys.org/blog/2024-07-25-sglang-llama3/)
+- [Achieving Faster Open-Source Llama3 Serving with SGLang Runtime (vs. TensorRT-LLM, vLLM)](https://lmsys.org/blog/2024-07-25-sglang-llama3/)
 - **LazyLLM: Dynamic Token Pruning for Efficient Long Context LLM Inference**, `arXiv, 2407.14057`, [arxiv](http://arxiv.org/abs/2407.14057v1), [pdf](http://arxiv.org/pdf/2407.14057v1.pdf), cication: [**-1**](None)
 
 	 *Qichen Fu, Minsik Cho, Thomas Merth, Sachin Mehta, Mohammad Rastegari, Mahyar Najibi*
@@ -852,6 +857,7 @@
 	 *Port of Facebook's LLaMA model in C/C++* · ([ggml](http://ggml.ai/)) · ([llama.cpp](https://github.com/ggerganov/llama.cpp/discussions/205) - ggerganov) ![Star](https://img.shields.io/github/stars/ggerganov/llama.cpp.svg?style=social&label=Star)
 
 ### Other
+- [Faster ternary inference is possible : r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/1egg8qx/faster_ternary_inference_is_possible/)
 - [Benchmarking Text Generation Inference](https://huggingface.co/blog/tgi-benchmarking)
 - [Accelerate Mixtral 8x7B with Speculative Decoding and Quantziation on Amazon SageMaker](https://www.philschmid.de/sagemaker-awq-medusa)
 - [LLM Inference Provider Leaderboard](https://leaderboard.withmartian.com/)
@@ -909,6 +915,7 @@
 	 *Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-05-04)) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-06-05-2))
 
 ## Toolkits
+- [FlexAttention: The Flexibility of PyTorch with the Performance of FlashAttention | PyTorch](https://pytorch.org/blog/flexattention/)
 - [**transformer-heads**](https://github.com/center-for-humans-and-machines/transformer-heads) - center-for-humans-and-machines ![Star](https://img.shields.io/github/stars/center-for-humans-and-machines/transformer-heads.svg?style=social&label=Star)
 
 	 *Toolkit for attaching, training, saving and loading of new heads for transformer models*

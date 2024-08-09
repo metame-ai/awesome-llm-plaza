@@ -27,6 +27,9 @@
 	- [Extra reference](#extra-reference)
 
 ## Survey
+- **A Survey of Mamba**, `arXiv, 2408.01129`, [arxiv](http://arxiv.org/abs/2408.01129v1), [pdf](http://arxiv.org/pdf/2408.01129v1.pdf), cication: [**-1**](None)
+
+	 *Haohao Qu, Liangbo Ning, Rui An, Wenqi Fan, Tyler Derr, Xin Xu, Qing Li*
 - [**agi-survey**](https://github.com/ulab-uiuc/agi-survey) - ulab-uiuc ![Star](https://img.shields.io/github/stars/ulab-uiuc/agi-survey.svg?style=social&label=Star)
 - **A Survey on Self-Evolution of Large Language Models**, `arXiv, 2404.14387`, [arxiv](http://arxiv.org/abs/2404.14387v1), [pdf](http://arxiv.org/pdf/2404.14387v1.pdf), cication: [**-1**](None)
 
@@ -320,6 +323,13 @@
 	 *Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers*
 
 ## State Space Model
+- **A Survey of Mamba**, `arXiv, 2408.01129`, [arxiv](http://arxiv.org/abs/2408.01129v1), [pdf](http://arxiv.org/pdf/2408.01129v1.pdf), cication: [**-1**](None)
+
+	 *Haohao Qu, Liangbo Ning, Rui An, Wenqi Fan, Tyler Derr, Xin Xu, Qing Li*
+- **MoMa: Efficient Early-Fusion Pre-training with Mixture of Modality-Aware
+  Experts**, `arXiv, 2407.21770`, [arxiv](http://arxiv.org/abs/2407.21770v2), [pdf](http://arxiv.org/pdf/2407.21770v2.pdf), cication: [**-1**](None)
+
+	 *Xi Victoria Lin, Akshat Shrivastava, Liang Luo, Srinivasan Iyer, Mike Lewis, Gargi Gosh, Luke Zettlemoyer, Armen Aghajanyan*
 - **Samba: Simple Hybrid State Space Models for Efficient Unlimited Context
   Language Modeling**, `arXiv, 2406.07522`, [arxiv](http://arxiv.org/abs/2406.07522v1), [pdf](http://arxiv.org/pdf/2406.07522v1.pdf), cication: [**-1**](None)
 
@@ -906,7 +916,7 @@
 - [MIT新研究：打工人不用担心被AI淘汰！成本巨贵，视觉工作只有23%可替代](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652436863&idx=3&sn=cd329df965557870646c7dd6fcb460cc)
 
 ## Course & Tutorial
-- [Fetching Title#lmxk](https://icml.cc/virtual/2024/tutorial/35223)
+- [Physics of Language Models](https://icml.cc/virtual/2024/tutorial/35223)
 - [**llama3-from-scratch**](https://github.com/naklecha/llama3-from-scratch) - naklecha ![Star](https://img.shields.io/github/stars/naklecha/llama3-from-scratch.svg?style=social&label=Star)
 
 	 *llama3 implementation one matrix multiplication at a time*
@@ -949,6 +959,10 @@
 	 · ([youtu](https://youtu.be/nOxKexn3iBo))
 
 ### Videos
+- [Low Level Technicals of LLMs: Daniel Han - YouTube](https://www.youtube.com/watch?v=pRM_P6UfdIc&ab_channel=AIEngineer)
+- [Fixing bugs in Gemma, Llama, & Phi 3: Daniel Han - YouTube](https://www.youtube.com/watch?v=TKmfBnW0mQA&ab_channel=AIEngineer)
+- [Interviewing Sebastian Raschka on the state of open LLMs, Llama 3.1, and AI education](https://www.interconnects.ai/p/interviewing-sebastian-raschka)
+- [one transistor to a small CPU](https://x.com/karpathy/status/1818897688571920514)
 - [Before you continue to YouTube](https://www.youtube.com/@srush_nlp/videos)
 - [Yann Lecun | Objective-Driven AI: Towards AI systems that can learn, remember, reason, and plan - YouTube](https://www.youtube.com/watch?v=MiqLoAZFRSE&ab_channel=HarvardCMSA)
 

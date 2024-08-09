@@ -441,6 +441,9 @@
 - [大模型Fewshot推理如何选择更好的示例](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495177&idx=2&sn=fe8353efed16a81e35462be06d5a6cea)
 
 ## Math reasoning
+- [Introducing Qwen2-Math | Qwen](https://qwenlm.github.io/blog/qwen2-math/)
+
+	 · ([huggingface](https://huggingface.co/collections/Qwen/qwen2-math-66b4c9e072eda65b5ec7534d))
 - **LEAN-GitHub: Compiling GitHub LEAN repositories for a versatile LEAN
   prover**, `arXiv, 2407.17227`, [arxiv](http://arxiv.org/abs/2407.17227v1), [pdf](http://arxiv.org/pdf/2407.17227v1.pdf), cication: [**-1**](None)
 
@@ -801,7 +804,8 @@
 	 *Maciej Besta, Nils Blach, Ales Kubicek, Robert Gerstenberger, Lukas Gianinazzi, Joanna Gajda, Tomasz Lehmann, Michal Podstawski, Hubert Niewiadomski, Piotr Nyczyk* · ([graph-of-thoughts](https://github.com/spcl/graph-of-thoughts) - spcl) ![Star](https://img.shields.io/github/stars/spcl/graph-of-thoughts.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-08-25-3))
 
 ### Other
-- [Site Unreachable](https://cameronrwolfe.substack.com/p/modern-advances-in-prompt-engineering)
+- [Fetching Title#ga2j](https://www.theverge.com/2024/8/5/24213861/apple-intelligence-instructions-macos-15-1-sequoia-beta)
+- [Modern Advances in Prompt Engineering](https://cameronrwolfe.substack.com/p/modern-advances-in-prompt-engineering)
 - [Improving Prompt Consistency with Structured Generations](https://huggingface.co/blog/evaluation-structured-outputs)
 - [Lessons after a half-billion GPT tokens - Ken Kantzer's Blog](https://kenkantzer.com/lessons-after-a-half-billion-gpt-tokens)
 
@@ -887,6 +891,7 @@
 - [大模型Fewshot推理如何选择更好的示例](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495177&idx=2&sn=fe8353efed16a81e35462be06d5a6cea&poc_token=HE6fdWWjA3UlhR8UcCAzGYGsTFLzGAxqYc3EV_8T)
 
 ## Knowledge
+- [**Triplex**](https://huggingface.co/SciPhi/Triplex) - SciPhi 🤗
 - **StructLM: Towards Building Generalist Models for Structured Knowledge
   Grounding**, `arXiv, 2402.16671`, [arxiv](http://arxiv.org/abs/2402.16671v1), [pdf](http://arxiv.org/pdf/2402.16671v1.pdf), cication: [**-1**](None)
 
@@ -915,6 +920,7 @@
 	 *吴恩达大模型系列课程中文版，包括《Prompt Engineering》、《Building System》和《LangChain》*
 
 ## Extra reference
+- [**system-2-research**](https://github.com/open-thought/system-2-research) - open-thought ![Star](https://img.shields.io/github/stars/open-thought/system-2-research.svg?style=social&label=Star)
 - [**Awesome-Reasoning-Foundation-Models**](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models) - reasoning-survey ![Star](https://img.shields.io/github/stars/reasoning-survey/Awesome-Reasoning-Foundation-Models.svg?style=social&label=Star)
 
 	 *✨✨Latest Papers and Benchmarks in Reasoning with Foundation Models*
