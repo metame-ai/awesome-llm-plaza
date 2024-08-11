@@ -43,6 +43,9 @@
 	 *Zige Wang, Wanjun Zhong, Yufei Wang, Qi Zhu, Fei Mi, Baojun Wang, Lifeng Shang, Xin Jiang, Qun Liu*
 
 ## Techs
+- **Data Contamination Report from the 2024 CONDA Shared Task**, `arXiv, 2407.21530`, [arxiv](http://arxiv.org/abs/2407.21530v2), [pdf](http://arxiv.org/pdf/2407.21530v2.pdf), cication: [**-1**](None)
+
+	 *Oscar Sainz, Iker García-Ferrero, Alon Jacovi, Jon Ander Campos, Yanai Elazar, Eneko Agirre, Yoav Goldberg, Wei-Lin Chen, Jenny Chim, Leshem Choshen* · ([conda-workshop.github](https://conda-workshop.github.io/))
 - **DataComp-LM: In search of the next generation of training sets for
   language models**, `arXiv, 2406.11794`, [arxiv](http://arxiv.org/abs/2406.11794v3), [pdf](http://arxiv.org/pdf/2406.11794v3.pdf), cication: [**-1**](None)
 
@@ -274,6 +277,10 @@
 	 *Suriya Gunasekar, Yi Zhang, Jyoti Aneja, Caio César Teodoro Mendes, Allie Del Giorno, Sivakanth Gopi, Mojan Javaheripi, Piero Kauffmann, Gustavo de Rosa, Olli Saarikivi* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-06-23)) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-09-14-4))
 
 ### MulitiMod
+- **MedTrinity-25M: A Large-scale Multimodal Dataset with Multigranular
+  Annotations for Medicine**, `arXiv, 2408.02900`, [arxiv](http://arxiv.org/abs/2408.02900v1), [pdf](http://arxiv.org/pdf/2408.02900v1.pdf), cication: [**-1**](None)
+
+	 *Yunfei Xie, Ce Zhou, Lang Gao, Juncheng Wu, Xianhang Li, Hong-Yu Zhou, Sheng Liu, Lei Xing, James Zou, Cihang Xie*
 - **PathGen-1.6M: 1.6 Million Pathology Image-text Pairs Generation through
   Multi-agent Collaboration**, `arXiv, 2407.00203`, [arxiv](http://arxiv.org/abs/2407.00203v1), [pdf](http://arxiv.org/pdf/2407.00203v1.pdf), cication: [**-1**](None)
 
@@ -351,6 +358,14 @@
 - [**Capybara-Preferences**](https://huggingface.co/datasets/argilla/Capybara-Preferences) - argilla 🤗
 
 ### Synthetic 
+- **SynthVLM: High-Efficiency and High-Quality Synthetic Data for Vision
+  Language Models**, `arXiv, 2407.20756`, [arxiv](http://arxiv.org/abs/2407.20756v2), [pdf](http://arxiv.org/pdf/2407.20756v2.pdf), cication: [**-1**](None)
+
+	 *Zheng Liu, Hao Liang, Xijie Huang, Wentao Xiong, Qinhan Yu, Linzhuang Sun, Chong Chen, Conghui He, Bin Cui, Wentao Zhang*
+- **Img-Diff: Contrastive Data Synthesis for Multimodal Large Language
+  Models**, `arXiv, 2408.04594`, [arxiv](http://arxiv.org/abs/2408.04594v1), [pdf](http://arxiv.org/pdf/2408.04594v1.pdf), cication: [**-1**](None)
+
+	 *Qirui Jiao, Daoyuan Chen, Yilun Huang, Yaliang Li, Ying Shen* · ([data-juicer](https://github.com/modelscope/data-juicer/tree/ImgDiff) - modelscope) ![Star](https://img.shields.io/github/stars/modelscope/data-juicer.svg?style=social&label=Star)
 - [**magpie-ultra-v0.1**](https://huggingface.co/datasets/argilla/magpie-ultra-v0.1?row=0) - argilla 🤗
 - **AgentInstruct: Toward Generative Teaching with Agentic Flows**, `arXiv, 2407.03502`, [arxiv](http://arxiv.org/abs/2407.03502v1), [pdf](http://arxiv.org/pdf/2407.03502v1.pdf), cication: [**-1**](None)
 

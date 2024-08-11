@@ -43,6 +43,12 @@
 
 ## Vision
 ### Vision Encoder
+- [**toc_h-dcid**](https://github.com/haihuangcode/toc_h-dcid) - haihuangcode ![Star](https://img.shields.io/github/stars/haihuangcode/toc_h-dcid.svg?style=social&label=Star)
+
+	 *This is the Pytorch implementation of our paper: Unlocking the Potential of Multimodal Unified Discrete Representation through Training-Free Codebook Optimization and Hierarchical Alignment*
+- **E5-V: Universal Embeddings with Multimodal Large Language Models**, `arXiv, 2407.12580`, [arxiv](http://arxiv.org/abs/2407.12580v1), [pdf](http://arxiv.org/pdf/2407.12580v1.pdf), cication: [**-1**](None)
+
+	 *Ting Jiang, Minghui Song, Zihan Zhang, Haizhen Huang, Weiwei Deng, Feng Sun, Qi Zhang, Deqing Wang, Fuzhen Zhuang*
 - [**e5-v**](https://github.com/kongds/e5-v) - kongds ![Star](https://img.shields.io/github/stars/kongds/e5-v.svg?style=social&label=Star)
 
 	 *E5-V: Universal Embeddings with Multimodal Large Language Models*
@@ -107,6 +113,9 @@
 	 *Mike Ranzinger, Greg Heinrich, Jan Kautz, Pavlo Molchanov* · ([radio](https://github.com/nvlabs/radio) - nvlabs) ![Star](https://img.shields.io/github/stars/nvlabs/radio.svg?style=social&label=Star)
 
 ### Video
+- **Goldfish: Vision-Language Understanding of Arbitrarily Long Videos**, `arXiv, 2407.12679`, [arxiv](http://arxiv.org/abs/2407.12679v1), [pdf](http://arxiv.org/pdf/2407.12679v1.pdf), cication: [**-1**](None)
+
+	 *Kirolos Ataallah, Xiaoqian Shen, Eslam Abdelrahman, Essam Sleiman, Mingchen Zhuge, Jian Ding, Deyao Zhu, Jürgen Schmidhuber, Mohamed Elhoseiny* · ([vision-cair.github](https://vision-cair.github.io/Goldfish_website/))
 - **LLaVA-OneVision: Easy Visual Task Transfer**, `arXiv, 2408.03326`, [arxiv](http://arxiv.org/abs/2408.03326v1), [pdf](http://arxiv.org/pdf/2408.03326v1.pdf), cication: [**-1**](None)
 
 	 *Bo Li, Yuanhan Zhang, Dong Guo, Renrui Zhang, Feng Li, Hao Zhang, Kaichen Zhang, Yanwei Li, Ziwei Liu, Chunyuan Li* · ([llava-vl.github](https://llava-vl.github.io/blog/2024-08-05-llava-onevision/)) · ([LLaVA-NeXT](https://github.com/LLaVA-VL/LLaVA-NeXT) - LLaVA-VL) ![Star](https://img.shields.io/github/stars/LLaVA-VL/LLaVA-NeXT.svg?style=social&label=Star)
@@ -312,6 +321,10 @@
 	 · ([anole](https://github.com/GAIR-NLP/anole) - GAIR-NLP) ![Star](https://img.shields.io/github/stars/GAIR-NLP/anole.svg?style=social&label=Star)
 
 ### Image
+- **Mixture of Nested Experts: Adaptive Processing of Visual Tokens**, `arXiv, 2407.19985`, [arxiv](http://arxiv.org/abs/2407.19985v2), [pdf](http://arxiv.org/pdf/2407.19985v2.pdf), cication: [**-1**](None)
+
+	 *Gagan Jain, Nidhi Hegde, Aditya Kusupati, Arsha Nagrani, Shyamal Buch, Prateek Jain, Anurag Arnab, Sujoy Paul*
+	- 
 - **INF-LLaVA: Dual-perspective Perception for High-Resolution Multimodal
   Large Language Model**, `arXiv, 2407.16198`, [arxiv](http://arxiv.org/abs/2407.16198v1), [pdf](http://arxiv.org/pdf/2407.16198v1.pdf), cication: [**-1**](None)
 
@@ -1201,6 +1214,10 @@
 	 *Shaohan Huang, Li Dong, Wenhui Wang, Yaru Hao, Saksham Singhal, Shuming Ma, Tengchao Lv, Lei Cui, Owais Khan Mohammed, Barun Patra*
 
 ## Audio
+- **MuChoMusic: Evaluating Music Understanding in Multimodal Audio-Language
+  Models**, `arXiv, 2408.01337`, [arxiv](http://arxiv.org/abs/2408.01337v1), [pdf](http://arxiv.org/pdf/2408.01337v1.pdf), cication: [**-1**](None)
+
+	 *Benno Weck, Ilaria Manco, Emmanouil Benetos, Elio Quinton, George Fazekas, Dmitry Bogdanov* · ([mulab-mir.github](https://mulab-mir.github.io/muchomusic/))
 - **Investigating Decoder-only Large Language Models for Speech-to-text
   Translation**, `arXiv, 2407.03169`, [arxiv](http://arxiv.org/abs/2407.03169v1), [pdf](http://arxiv.org/pdf/2407.03169v1.pdf), cication: [**-1**](None)
 
@@ -1288,6 +1305,9 @@
 - ["宝藏AI神器"通义听悟上新：超长音视频随便问，高校师生可获500小时免费时长 | 量子位](https://www.qbitai.com/2024/03/129271.html)
 
 ## CLIP
+- **Diffusion Feedback Helps CLIP See Better**, `arXiv, 2407.20171`, [arxiv](http://arxiv.org/abs/2407.20171v2), [pdf](http://arxiv.org/pdf/2407.20171v2.pdf), cication: [**-1**](None)
+
+	 *Wenxuan Wang, Quan Sun, Fan Zhang, Yepeng Tang, Jing Liu, Xinlong Wang* · ([DIVA](https://github.com/baaivision/DIVA) - baaivision) ![Star](https://img.shields.io/github/stars/baaivision/DIVA.svg?style=social&label=Star)
 - **4M-21: An Any-to-Any Vision Model for Tens of Tasks and Modalities**, `arXiv, 2406.09406`, [arxiv](http://arxiv.org/abs/2406.09406v2), [pdf](http://arxiv.org/pdf/2406.09406v2.pdf), cication: [**-1**](None)
 
 	 *Roman Bachmann, Oğuzhan Fatih Kar, David Mizrahi, Ali Garjani, Mingfei Gao, David Griffiths, Jiaming Hu, Afshin Dehghan, Amir Zamir*
@@ -1526,6 +1546,17 @@
 
 
 ## Evaluation
+- **GMAI-MMBench: A Comprehensive Multimodal Evaluation Benchmark Towards
+  General Medical AI**, `arXiv, 2408.03361`, [arxiv](http://arxiv.org/abs/2408.03361v2), [pdf](http://arxiv.org/pdf/2408.03361v2.pdf), cication: [**-1**](None)
+
+	 *Pengcheng Chen, Jin Ye, Guoan Wang, Yanjun Li, Zhongying Deng, Wei Li, Tianbin Li, Haodong Duan, Ziyan Huang, Yanzhou Su* · ([uni-medical.github](https://uni-medical.github.io/GMAI-MMBench.github.io/))
+- **VLMEvalKit: An Open-Source Toolkit for Evaluating Large Multi-Modality
+  Models**, `arXiv, 2407.11691`, [arxiv](http://arxiv.org/abs/2407.11691v1), [pdf](http://arxiv.org/pdf/2407.11691v1.pdf), cication: [**-1**](None)
+
+	 *Haodong Duan, Junming Yang, Yuxuan Qiao, Xinyu Fang, Lin Chen, Yuan Liu, Xiaoyi Dong, Yuhang Zang, Pan Zhang, Jiaqi Wang*
+- **LMMs-Eval: Reality Check on the Evaluation of Large Multimodal Models**, `arXiv, 2407.12772`, [arxiv](http://arxiv.org/abs/2407.12772v1), [pdf](http://arxiv.org/pdf/2407.12772v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=12873766268631334964&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Kaichen Zhang, Bo Li, Peiyuan Zhang, Fanyi Pu, Joshua Adrian Cahyono, Kairui Hu, Shuai Liu, Yuanhan Zhang, Jingkang Yang, Chunyuan Li* · ([lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval) - EvolvingLMMs-Lab) ![Star](https://img.shields.io/github/stars/EvolvingLMMs-Lab/lmms-eval.svg?style=social&label=Star)
 - **MMIU: Multimodal Multi-image Understanding for Evaluating Large
   Vision-Language Models**, `arXiv, 2408.02718`, [arxiv](http://arxiv.org/abs/2408.02718v1), [pdf](http://arxiv.org/pdf/2408.02718v1.pdf), cication: [**-1**](None)
 
@@ -1764,6 +1795,7 @@
 	 · ([publications.reka](https://publications.reka.ai/reka-core-tech-report.pdf))
 
 ## Other
+- [Site Unreachable](https://www.youtube.com/watch?v=vAmKB7iPkWw)
 - **PMG : Personalized Multimodal Generation with Large Language Models**, `arXiv, 2404.08677`, [arxiv](http://arxiv.org/abs/2404.08677v1), [pdf](http://arxiv.org/pdf/2404.08677v1.pdf), cication: [**-1**](None)
 
 	 *Xiaoteng Shen, Rui Zhang, Xiaoyan Zhao, Jieming Zhu, Xi Xiao*

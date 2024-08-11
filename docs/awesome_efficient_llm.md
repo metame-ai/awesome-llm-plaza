@@ -229,6 +229,14 @@
 	 *Xunyu Zhu, Jian Li, Yong Liu, Can Ma, Weiping Wang* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-08-26-5))
 
 ### Papers
+- **LLMC: Benchmarking Large Language Model Quantization with a Versatile
+  Compression Toolkit**, `arXiv, 2405.06001`, [arxiv](http://arxiv.org/abs/2405.06001v2), [pdf](http://arxiv.org/pdf/2405.06001v2.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=8755898344620001632&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Ruihao Gong, Yang Yong, Shiqiao Gu, Yushi Huang, Chentao Lv, Yunchen Zhang, Xianglong Liu, Dacheng Tao* · ([llmc](https://github.com/modeltc/llmc) - modeltc) ![Star](https://img.shields.io/github/stars/modeltc/llmc.svg?style=social&label=Star)
+- **Spectra: A Comprehensive Study of Ternary, Quantized, and FP16 Language
+  Models**, `arXiv, 2407.12327`, [arxiv](http://arxiv.org/abs/2407.12327v1), [pdf](http://arxiv.org/pdf/2407.12327v1.pdf), cication: [**-1**](None)
+
+	 *Ayush Kaushal, Tejas Pandey, Tejas Vaidhya, Aaryan Bhagat, Irina Rish*
 - **Q-Sparse: All Large Language Models can be Fully Sparsely-Activated**, `arXiv, 2407.10969`, [arxiv](http://arxiv.org/abs/2407.10969v1), [pdf](http://arxiv.org/pdf/2407.10969v1.pdf), cication: [**-1**](None)
 
 	 *Hongyu Wang, Shuming Ma, Ruiping Wang, Furu Wei*
@@ -517,6 +525,9 @@
 	 *Shufang Xie, Huishuai Zhang, Junliang Guo, Xu Tan, Jiang Bian, Hany Hassan Awadalla, Arul Menezes, Tao Qin, Rui Yan* · ([ResiDual](https://github.com/microsoft/ResiDual) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/ResiDual.svg?style=social&label=Star)
 
 ## Efficient Inference
+- **ThinK: Thinner Key Cache by Query-Driven Pruning**, `arXiv, 2407.21018`, [arxiv](http://arxiv.org/abs/2407.21018v1), [pdf](http://arxiv.org/pdf/2407.21018v1.pdf), cication: [**-1**](None)
+
+	 *Yuhui Xu, Zhanming Jie, Hanze Dong, Lei Wang, Xudong Lu, Aojun Zhou, Amrita Saha, Caiming Xiong, Doyen Sahoo*
 - [Achieving Faster Open-Source Llama3 Serving with SGLang Runtime (vs. TensorRT-LLM, vLLM)](https://lmsys.org/blog/2024-07-25-sglang-llama3/)
 - **LazyLLM: Dynamic Token Pruning for Efficient Long Context LLM Inference**, `arXiv, 2407.14057`, [arxiv](http://arxiv.org/abs/2407.14057v1), [pdf](http://arxiv.org/pdf/2407.14057v1.pdf), cication: [**-1**](None)
 
@@ -959,6 +970,10 @@
 	 *DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.*
 
 ## Efficient transformer
+- **GoldFinch: High Performance RWKV/Transformer Hybrid with Linear Pre-Fill
+  and Extreme KV-Cache Compression**, `arXiv, 2407.12077`, [arxiv](http://arxiv.org/abs/2407.12077v1), [pdf](http://arxiv.org/pdf/2407.12077v1.pdf), cication: [**-1**](None)
+
+	 *Daniel Goldstein, Fares Obeid, Eric Alcaide, Guangyu Song, Eugene Cheah* · ([GoldFinch-paper](https://github.com/recursal/GoldFinch-paper) - recursal) ![Star](https://img.shields.io/github/stars/recursal/GoldFinch-paper.svg?style=social&label=Star)
 - [FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision | Tri Dao](https://tridao.me/blog/2024/flash3/)
 
 	 · ([flash-attention](https://github.com/Dao-AILab/flash-attention) - Dao-AILab) ![Star](https://img.shields.io/github/stars/Dao-AILab/flash-attention.svg?style=social&label=Star)

@@ -39,6 +39,9 @@
 	 *Yufei Wang, Wanjun Zhong, Liangyou Li, Fei Mi, Xingshan Zeng, Wenyong Huang, Lifeng Shang, Xin Jiang, Qun Liu* · ([AlignLLMHumanSurvey](https://github.com/GaryYufei/AlignLLMHumanSurvey) - GaryYufei) ![Star](https://img.shields.io/github/stars/GaryYufei/AlignLLMHumanSurvey.svg?style=social&label=Star)
 
 ## Paper & Projects
+- **Course-Correction: Safety Alignment Using Synthetic Preferences**, `arXiv, 2407.16637`, [arxiv](http://arxiv.org/abs/2407.16637v1), [pdf](http://arxiv.org/pdf/2407.16637v1.pdf), cication: [**-1**](None)
+
+	 *Rongwu Xu, Yishuo Cai, Zhenhong Zhou, Renjie Gu, Haiqin Weng, Yan Liu, Tianwei Zhang, Wei Xu, Han Qiu*
 - **Better Alignment with Instruction Back-and-Forth Translation**, `arXiv, 2408.04614`, [arxiv](http://arxiv.org/abs/2408.04614v1), [pdf](http://arxiv.org/pdf/2408.04614v1.pdf), cication: [**-1**](None)
 
 	 *Thao Nguyen, Jeffrey Li, Sewoong Oh, Ludwig Schmidt, Jason Weston, Luke Zettlemoyer, Xian Li*

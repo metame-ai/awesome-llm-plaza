@@ -21,6 +21,9 @@
 
 
 ## Pretrain
+- **POA: Pre-training Once for Models of All Sizes**, `arXiv, 2408.01031`, [arxiv](http://arxiv.org/abs/2408.01031v1), [pdf](http://arxiv.org/pdf/2408.01031v1.pdf), cication: [**-1**](None)
+
+	 *Yingying Zhang, Xin Guo, Jiangwei Lao, Lei Yu, Lixiang Ru, Jian Wang, Guo Ye, Huimei He, Jingdong Chen, Ming Yang* · ([POA](https://github.com/Qichuzyy/POA) - Qichuzyy) ![Star](https://img.shields.io/github/stars/Qichuzyy/POA.svg?style=social&label=Star)
 - **Efficient Continual Pre-training by Mitigating the Stability Gap**, `arXiv, 2406.14833`, [arxiv](http://arxiv.org/abs/2406.14833v1), [pdf](http://arxiv.org/pdf/2406.14833v1.pdf), cication: [**-1**](None)
 
 	 *Yiduo Guo, Jie Fu, Huishuai Zhang, Dongyan Zhao, Yikang Shen*
@@ -324,6 +327,9 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652375732&idx=2&sn=1cb4cefcd791af2a6ffacdf99e35225c))
 
 ## Optimization
+- **Patch-Level Training for Large Language Models**, `arXiv, 2407.12665`, [arxiv](http://arxiv.org/abs/2407.12665v1), [pdf](http://arxiv.org/pdf/2407.12665v1.pdf), cication: [**-1**](None)
+
+	 *Chenze Shao, Fandong Meng, Jie Zhou* · ([PatchTrain](https://github.com/shaochenze/PatchTrain) - shaochenze) ![Star](https://img.shields.io/github/stars/shaochenze/PatchTrain.svg?style=social&label=Star)
 - [**optimizers**](https://github.com/facebookresearch/optimizers/blob/main/distributed_shampoo/README.md) - facebookresearch ![Star](https://img.shields.io/github/stars/facebookresearch/optimizers.svg?style=social&label=Star)
 - **Scaling Exponents Across Parameterizations and Optimizers**, `arXiv, 2407.05872`, [arxiv](http://arxiv.org/abs/2407.05872v2), [pdf](http://arxiv.org/pdf/2407.05872v2.pdf), cication: [**-1**](None)
 
@@ -447,6 +453,9 @@
 - [Weight averaging and model merging for LLMs seem to be the most interesting themes in 2024 so far. ](https://twitter.com/rasbt/status/1750180383398744106)
 
 ## MoE
+- **Mixture of A Million Experts**, `arXiv, 2407.04153`, [arxiv](http://arxiv.org/abs/2407.04153v1), [pdf](http://arxiv.org/pdf/2407.04153v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=3525688853177784556&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Xu Owen He*
 - **A Survey on Mixture of Experts**, `arXiv, 2407.06204`, [arxiv](http://arxiv.org/abs/2407.06204v1), [pdf](http://arxiv.org/pdf/2407.06204v1.pdf), cication: [**-1**](None)
 
 	 *Weilin Cai, Juyong Jiang, Fan Wang, Jing Tang, Sunghun Kim, Jiayi Huang*

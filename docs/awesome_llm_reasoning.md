@@ -35,7 +35,13 @@
 	 *Jiankai Sun, Chuanyang Zheng, Enze Xie, Zhengying Liu, Ruihang Chu, Jianing Qiu, Jiaqi Xu, Mingyu Ding, Hongyang Li, Mengzhe Geng* · ([Awesome-Reasoning-Foundation-Models](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models) - reasoning-survey) ![Star](https://img.shields.io/github/stars/reasoning-survey/Awesome-Reasoning-Foundation-Models.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652421688&idx=3&sn=fcdc24edc7bc89ebcbcca0f7665e40f6))
 
 ## Reasoning
+- **CoverBench: A Challenging Benchmark for Complex Claim Verification**, `arXiv, 2408.03325`, [arxiv](http://arxiv.org/abs/2408.03325v1), [pdf](http://arxiv.org/pdf/2408.03325v1.pdf), cication: [**-1**](None)
 
+	 *Alon Jacovi, Moran Ambar, Eyal Ben-David, Uri Shaham, Amir Feder, Mor Geva, Dror Marcus, Avi Caciularu* · ([huggingface](https://huggingface.co/datasets/google/coverbench))
+- **Self-Training with Direct Preference Optimization Improves
+  Chain-of-Thought Reasoning**, `arXiv, 2407.18248`, [arxiv](http://arxiv.org/abs/2407.18248v1), [pdf](http://arxiv.org/pdf/2407.18248v1.pdf), cication: [**-1**](None)
+
+	 *Tianduo Wang, Shichen Li, Wei Lu* · ([DPO-ST](https://github.com/TianduoWang/DPO-ST) - TianduoWang) ![Star](https://img.shields.io/github/stars/TianduoWang/DPO-ST.svg?style=social&label=Star)
 - **Q*: Improving Multi-step Reasoning for LLMs with Deliberative Planning**, `arXiv, 2406.14283`, [arxiv](http://arxiv.org/abs/2406.14283v2), [pdf](http://arxiv.org/pdf/2406.14283v2.pdf), cication: [**-1**](None)
 
 	 *Chaojie Wang, Yanchen Deng, Zhiyi Lv, Shuicheng Yan, An Bo*

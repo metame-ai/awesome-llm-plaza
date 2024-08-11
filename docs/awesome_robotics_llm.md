@@ -7,6 +7,10 @@
 	- [Reference](#reference)
 
 ## Survey
+- **Aligning Cyber Space with Physical World: A Comprehensive Survey on
+  Embodied AI**, `arXiv, 2407.06886`, [arxiv](http://arxiv.org/abs/2407.06886v6), [pdf](http://arxiv.org/pdf/2407.06886v6.pdf), cication: [**2**](https://scholar.google.com/scholar?cites=5047172009300036805&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Yang Liu, Weixing Chen, Yongjie Bai, Guanbin Li, Wen Gao, Liang Lin* · ([embodied_ai_paper_list](https://github.com/hcplab-sysu/embodied_ai_paper_list) - hcplab-sysu) ![Star](https://img.shields.io/github/stars/hcplab-sysu/embodied_ai_paper_list.svg?style=social&label=Star)
 - **A Survey on Integration of Large Language Models with Intelligent Robots**, `arXiv, 2404.09228`, [arxiv](http://arxiv.org/abs/2404.09228v1), [pdf](http://arxiv.org/pdf/2404.09228v1.pdf), cication: [**-1**](None)
 
 	 *Yeseung Kim, Dohyun Kim, Jieun Choi, Jisang Park, Nayoung Oh, Daehyung Park*
@@ -321,6 +325,12 @@
 	 *Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao*
 
 ## Robotics
+- **Berkeley Humanoid: A Research Platform for Learning-based Control**, `arXiv, 2407.21781`, [arxiv](http://arxiv.org/abs/2407.21781v1), [pdf](http://arxiv.org/pdf/2407.21781v1.pdf), cication: [**-1**](None)
+
+	 *Qiayuan Liao, Bike Zhang, Xuanyu Huang, Xiaoyu Huang, Zhongyu Li, Koushil Sreenath* · ([berkeley-humanoid](https://berkeley-humanoid.com/))
+- **Theia: Distilling Diverse Vision Foundation Models for Robot Learning**, `arXiv, 2407.20179`, [arxiv](http://arxiv.org/abs/2407.20179v1), [pdf](http://arxiv.org/pdf/2407.20179v1.pdf), cication: [**-1**](None)
+
+	 *Jinghuan Shang, Karl Schmeckpeper, Brandon B. May, Maria Vittoria Minniti, Tarik Kelestemur, David Watkins, Laura Herlant* · ([theia.theaiinstitute](http://theia.theaiinstitute.com/))
 - **Achieving Human Level Competitive Robot Table Tennis**, `arXiv, 2408.03906`, [arxiv](http://arxiv.org/abs/2408.03906v1), [pdf](http://arxiv.org/pdf/2408.03906v1.pdf), cication: [**-1**](None)
 
 	 *David B. D'Ambrosio, Saminda Abeyruwan, Laura Graesser, Atil Iscen, Heni Ben Amor, Alex Bewley, Barney J. Reed, Krista Reymann, Leila Takayama, Yuval Tassa* · ([sites.google](https://sites.google.com/view/competitive-robot-table-tennis))

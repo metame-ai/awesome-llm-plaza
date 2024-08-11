@@ -530,6 +530,9 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652345558&idx=4&sn=95686435d5cad05d44cbe02bc26d6859))
 
 ## Interpretability 
+- **Transformer Explainer: Interactive Learning of Text-Generative Models**, `arXiv, 2408.04619`, [arxiv](http://arxiv.org/abs/2408.04619v1), [pdf](http://arxiv.org/pdf/2408.04619v1.pdf), cication: [**-1**](None)
+
+	 *Aeree Cho, Grace C. Kim, Alexander Karpekov, Alec Helbling, Zijie J. Wang, Seongmin Lee, Benjamin Hoover, Duen Horng Chau* · ([poloclub.github](https://poloclub.github.io/transformer-explainer/))
 - **Knowledge Mechanisms in Large Language Models: A Survey and Perspective**, `arXiv, 2407.15017`, [arxiv](http://arxiv.org/abs/2407.15017v1), [pdf](http://arxiv.org/pdf/2407.15017v1.pdf), cication: [**-1**](None)
 
 	 *Mengru Wang, Yunzhi Yao, Ziwen Xu, Shuofei Qiao, Shumin Deng, Peng Wang, Xiang Chen, Jia-Chen Gu, Yong Jiang, Pengjun Xie*
@@ -855,6 +858,10 @@
 	 *Zhangyue Yin, Qiushi Sun, Qipeng Guo, Jiawen Wu, Xipeng Qiu, Xuanjing Huang*
 
 ## Tokenization
+- **Data Mixture Inference: What do BPE Tokenizers Reveal about their
+  Training Data?**, `arXiv, 2407.16607`, [arxiv](http://arxiv.org/abs/2407.16607v2), [pdf](http://arxiv.org/pdf/2407.16607v2.pdf), cication: [**-1**](None)
+
+	 *Jonathan Hayase, Alisa Liu, Yejin Choi, Sewoong Oh, Noah A. Smith*
 - **Scaling Laws with Vocabulary: Larger Models Deserve Larger Vocabularies**, `arXiv, 2407.13623`, [arxiv](http://arxiv.org/abs/2407.13623v2), [pdf](http://arxiv.org/pdf/2407.13623v2.pdf), cication: [**-1**](None)
 
 	 *Chaofan Tao, Qian Liu, Longxu Dou, Niklas Muennighoff, Zhongwei Wan, Ping Luo, Min Lin, Ngai Wong* · ([scaling-with-vocab](https://github.com/sail-sg/scaling-with-vocab) - sail-sg) ![Star](https://img.shields.io/github/stars/sail-sg/scaling-with-vocab.svg?style=social&label=Star)

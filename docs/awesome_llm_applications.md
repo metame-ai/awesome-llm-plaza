@@ -708,6 +708,10 @@
 - [小扎发布虚拟聊天AI，竟「1:1复刻」Character.AI？用户吐槽：设定太老土了](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652382135&idx=3&sn=b7e8ff8f375772a1bf71989d8e2f4565)
 
 ## Law
+- **SaulLM-54B & SaulLM-141B: Scaling Up Domain Adaptation for the Legal
+  Domain**, `arXiv, 2407.19584`, [arxiv](http://arxiv.org/abs/2407.19584v1), [pdf](http://arxiv.org/pdf/2407.19584v1.pdf), cication: [**-1**](None)
+
+	 *Pierre Colombo, Telmo Pires, Malik Boudiaf, Rui Melo, Dominic Culver, Sofia Morgado, Etienne Malaboeuf, Gabriel Hautreux, Johanne Charpentier, Michael Desa*
 - **InternLM-Law: An Open Source Chinese Legal Large Language Model**, `arXiv, 2406.14887`, [arxiv](http://arxiv.org/abs/2406.14887v1), [pdf](http://arxiv.org/pdf/2406.14887v1.pdf), cication: [**-1**](None)
 
 	 *Zhiwei Fei, Songyang Zhang, Xiaoyu Shen, Dawei Zhu, Xiao Wang, Maosong Cao, Fengzhe Zhou, Yining Li, Wenwei Zhang, Dahua Lin* · ([InternLM-Law](https://github.com/InternLM/InternLM-Law) - InternLM) ![Star](https://img.shields.io/github/stars/InternLM/InternLM-Law.svg?style=social&label=Star)
@@ -753,6 +757,10 @@
 	 *Patrick Fernandes, Daniel Deutsch, Mara Finkelstein, Parker Riley, André F. T. Martins, Graham Neubig, Ankush Garg, Jonathan H. Clark, Markus Freitag, Orhan Firat*
 
 ## Audio
+- **Towards Achieving Human Parity on End-to-end Simultaneous Speech
+  Translation via LLM Agent**, `arXiv, 2407.21646`, [arxiv](http://arxiv.org/abs/2407.21646v1), [pdf](http://arxiv.org/pdf/2407.21646v1.pdf), cication: [**-1**](None)
+
+	 *Shanbo Cheng, Zhichao Huang, Tom Ko, Hang Li, Ningxin Peng, Lu Xu, Qini Zhang* · ([byteresearchcla.github](https://byteresearchcla.github.io/clasi/))
 - **Where Visual Speech Meets Language: VSP-LLM Framework for Efficient and
   Context-Aware Visual Speech Processing**, `arXiv, 2402.15151`, [arxiv](http://arxiv.org/abs/2402.15151v1), [pdf](http://arxiv.org/pdf/2402.15151v1.pdf), cication: [**-1**](None)
 
@@ -872,6 +880,10 @@
 	 *Official repo for LayoutGPT*
 
 ## Science
+- **A Large Encoder-Decoder Family of Foundation Models For Chemical
+  Language**, `arXiv, 2407.20267`, [arxiv](http://arxiv.org/abs/2407.20267v1), [pdf](http://arxiv.org/pdf/2407.20267v1.pdf), cication: [**-1**](None)
+
+	 *Eduardo Soares, Victor Shirasuna, Emilio Vital Brazil, Renato Cerqueira, Dmitry Zubarev, Kristin Schmidt*
 - [**chemlactica**](https://github.com/yerevann/chemlactica) - yerevann ![Star](https://img.shields.io/github/stars/yerevann/chemlactica.svg?style=social&label=Star)
 
 	 *Fine-tuning Galactica and Gemma to operate on SMILES. Integrates into a molecular optimization algorithm.*

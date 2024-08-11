@@ -108,6 +108,15 @@
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-18-4))
 ## Agents
+- **AMEX: Android Multi-annotation Expo Dataset for Mobile GUI Agents**, `arXiv, 2407.17490`, [arxiv](http://arxiv.org/abs/2407.17490v1), [pdf](http://arxiv.org/pdf/2407.17490v1.pdf), cication: [**-1**](None)
+
+	 *Yuxiang Chai, Siyuan Huang, Yazhe Niu, Han Xiao, Liang Liu, Dingyu Zhang, Peng Gao, Shuai Ren, Hongsheng Li* · ([yuxiangchai.github](https://yuxiangchai.github.io/AMEX/))
+- **Very Large-Scale Multi-Agent Simulation in AgentScope**, `arXiv, 2407.17789`, [arxiv](http://arxiv.org/abs/2407.17789v1), [pdf](http://arxiv.org/pdf/2407.17789v1.pdf), cication: [**-1**](None)
+
+	 *Xuchen Pan, Dawei Gao, Yuexiang Xie, Zhewei Wei, Yaliang Li, Bolin Ding, Ji-Rong Wen, Jingren Zhou* · ([agentscope](https://github.com/modelscope/agentscope) - modelscope) ![Star](https://img.shields.io/github/stars/modelscope/agentscope.svg?style=social&label=Star)
+- **LAMBDA: A Large Model Based Data Agent**, `arXiv, 2407.17535`, [arxiv](http://arxiv.org/abs/2407.17535v1), [pdf](http://arxiv.org/pdf/2407.17535v1.pdf), cication: [**-1**](None)
+
+	 *Maojun Sun, Ruijian Han, Binyan Jiang, Houduo Qi, Defeng Sun, Yancheng Yuan, Jian Huang* · ([polyu.edu](https://www.polyu.edu.hk/ama/cmfai/lambda.html))
 - **Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in
   Long-Horizon Tasks**, `arXiv, 2408.03615`, [arxiv](http://arxiv.org/abs/2408.03615v1), [pdf](http://arxiv.org/pdf/2408.03615v1.pdf), cication: [**-1**](None)
 
@@ -698,6 +707,9 @@
 - [陈丹琦ACL学术报告来了！详解大模型「外挂」数据库7大方向3大挑战，3小时干货满满 | 量子位](https://www.qbitai.com/2023/07/67259.html)
 
 ## Web browsing
+- **OmniParser for Pure Vision Based GUI Agent**, `arXiv, 2408.00203`, [arxiv](http://arxiv.org/abs/2408.00203v1), [pdf](http://arxiv.org/pdf/2408.00203v1.pdf), cication: [**-1**](None)
+
+	 *Yadong Lu, Jianwei Yang, Yelong Shen, Ahmed Awadallah*
 - [**MindSearch**](https://github.com/InternLM/MindSearch) - InternLM ![Star](https://img.shields.io/github/stars/InternLM/MindSearch.svg?style=social&label=Star)
 
 	 *🔍 An LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai Pro and SearchGPT)*
@@ -803,7 +815,10 @@
 - [GPT-4V学会用键鼠上网，人类眼睁睁看着它发帖玩游戏 | 量子位](https://www.qbitai.com/2023/11/95456.html)
 
 ## Retrieval agumented generation
-- [**RAGFoundry**](https://github.com/IntelLabs/RAGFoundry) - IntelLabs ![Star](https://img.shields.io/github/stars/IntelLabs/RAGFoundry.svg?style=social&label=Star)
+- **RAG Foundry: A Framework for Enhancing LLMs for Retrieval Augmented
+  Generation**, `arXiv, 2408.02545`, [arxiv](http://arxiv.org/abs/2408.02545v1), [pdf](http://arxiv.org/pdf/2408.02545v1.pdf), cication: [**-1**](None)
+
+	 *Daniel Fleischer, Moshe Berchansky, Moshe Wasserblat, Peter Izsak* · ([RAGFoundry) - IntelLabs ![Star](https:](https://github.com/IntelLabs/RAGFoundry) - IntelLabs ![Star](https://img.shields.io/github/stars/IntelLabs/RAGFoundry.svg?style=social&label=Star) - IntelLabs) ![Star](https://img.shields.io/github/stars/IntelLabs/RAGFoundry) - IntelLabs ![Star](https:.svg?style=social&label=Star)
 - **Scaling Retrieval-Based Language Models with a Trillion-Token Datastore**, `arXiv, 2407.12854`, [arxiv](http://arxiv.org/abs/2407.12854v1), [pdf](http://arxiv.org/pdf/2407.12854v1.pdf), cication: [**-1**](None)
 
 	 *Rulin Shao, Jacqueline He, Akari Asai, Weijia Shi, Tim Dettmers, Sewon Min, Luke Zettlemoyer, Pang Wei Koh* · ([retrieval-scaling](https://github.com/RulinShao/retrieval-scaling) - RulinShao) ![Star](https://img.shields.io/github/stars/RulinShao/retrieval-scaling.svg?style=social&label=Star)
@@ -1246,6 +1261,9 @@
 - [各路大神献出自定义GPT，24小时Top 9名单在这 | 机器之心](https://www.jiqizhixin.com/articles/2023-11-13-13)
 
 ## Evaluation
+- **MMAU: A Holistic Benchmark of Agent Capabilities Across Diverse Domains**, `arXiv, 2407.18961`, [arxiv](http://arxiv.org/abs/2407.18961v2), [pdf](http://arxiv.org/pdf/2407.18961v2.pdf), cication: [**-1**](None)
+
+	 *Guoli Yin, Haoping Bai, Shuang Ma, Feng Nan, Yanchao Sun, Zhaoyang Xu, Shen Ma, Jiarui Lu, Xiang Kong, Aonan Zhang* · ([axlearn](https://github.com/apple/axlearn/docs/research/mmau) - apple) ![Star](https://img.shields.io/github/stars/apple/axlearn.svg?style=social&label=Star)
 - [**snowflake-arctic-embed-m-v1.5**](https://huggingface.co/Snowflake/snowflake-arctic-embed-m-v1.5) - Snowflake 🤗
 - **PersonaGym: Evaluating Persona Agents and LLMs**, `arXiv, 2407.18416`, [arxiv](http://arxiv.org/abs/2407.18416v2), [pdf](http://arxiv.org/pdf/2407.18416v2.pdf), cication: [**-1**](None)
 

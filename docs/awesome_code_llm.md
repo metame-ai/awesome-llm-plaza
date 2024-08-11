@@ -26,6 +26,14 @@
 	 *Ziyin Zhang, Chaoyu Chen, Bingchang Liu, Cong Liao, Zi Gong, Hang Yu, Jianguo Li, Rui Wang*
 
 ## Paper
+- **CodexGraph: Bridging Large Language Models and Code Repositories via
+  Code Graph Databases**, `arXiv, 2408.03910`, [arxiv](http://arxiv.org/abs/2408.03910v1), [pdf](http://arxiv.org/pdf/2408.03910v1.pdf), cication: [**-1**](None)
+
+	 *Xiangyan Liu, Bo Lan, Zhiyuan Hu, Yang Liu, Zhicheng Zhang, Wenmeng Zhou, Fei Wang, Michael Shieh* · ([modelscope-agent](https://github.com/modelscope/modelscope-agent/tree/master/apps/codexgraph_agent) - modelscope) ![Star](https://img.shields.io/github/stars/modelscope/modelscope-agent.svg?style=social&label=Star)
+- **AppWorld: A Controllable World of Apps and People for Benchmarking
+  Interactive Coding Agents**, `arXiv, 2407.18901`, [arxiv](http://arxiv.org/abs/2407.18901v1), [pdf](http://arxiv.org/pdf/2407.18901v1.pdf), cication: [**-1**](None)
+
+	 *Harsh Trivedi, Tushar Khot, Mareike Hartmann, Ruskin Manku, Vinty Dong, Edward Li, Shashank Gupta, Ashish Sabharwal, Niranjan Balasubramanian* · ([appworld](https://github.com/stonybrooknlp/appworld) - stonybrooknlp) ![Star](https://img.shields.io/github/stars/stonybrooknlp/appworld.svg?style=social&label=Star)
 - **Scaling Granite Code Models to 128K Context**, `arXiv, 2407.13739`, [arxiv](http://arxiv.org/abs/2407.13739v1), [pdf](http://arxiv.org/pdf/2407.13739v1.pdf), cication: [**-1**](None)
 
 	 *Matt Stallone, Vaibhav Saxena, Leonid Karlinsky, Bridget McGinn, Tim Bula, Mayank Mishra, Adriana Meza Soria, Gaoyuan Zhang, Aditya Prasad, Yikang Shen* · ([granite-code-models](https://github.com/ibm-granite/granite-code-models) - ibm-granite) ![Star](https://img.shields.io/github/stars/ibm-granite/granite-code-models.svg?style=social&label=Star)

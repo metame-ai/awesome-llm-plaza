@@ -71,6 +71,17 @@
 	 *Stephen Casper, Jason Lin, Joe Kwon, Gatlen Culp, Dylan Hadfield-Menell*
 
 ## Papers
+- **WalledEval: A Comprehensive Safety Evaluation Toolkit for Large Language
+  Models**, `arXiv, 2408.03837`, [arxiv](http://arxiv.org/abs/2408.03837v1), [pdf](http://arxiv.org/pdf/2408.03837v1.pdf), cication: [**-1**](None)
+
+	 *Prannaya Gupta, Le Qi Yau, Hao Han Low, I-Shiang Lee, Hugo Maximus Lim, Yu Xin Teoh, Jia Hng Koh, Dar Win Liew, Rishabh Bhardwaj, Rajat Bhardwaj*
+- **ShieldGemma: Generative AI Content Moderation Based on Gemma**, `arXiv, 2407.21772`, [arxiv](http://arxiv.org/abs/2407.21772v2), [pdf](http://arxiv.org/pdf/2407.21772v2.pdf), cication: [**-1**](None)
+
+	 *Wenjun Zeng, Yuchi Liu, Ryan Mullins, Ludovic Peran, Joe Fernandez, Hamza Harkous, Karthik Narasimhan, Drew Proud, Piyush Kumar, Bhaktipriya Radharapu* · ([huggingface](https://huggingface.co/google/shieldgemma-2b))
+- **AgentPoison: Red-teaming LLM Agents via Poisoning Memory or Knowledge
+  Bases**, `arXiv, 2407.12784`, [arxiv](http://arxiv.org/abs/2407.12784v1), [pdf](http://arxiv.org/pdf/2407.12784v1.pdf), cication: [**-1**](None)
+
+	 *Zhaorun Chen, Zhen Xiang, Chaowei Xiao, Dawn Song, Bo Li*
 - **Towards Guaranteed Safe AI: A Framework for Ensuring Robust and Reliable
   AI Systems**, `arXiv, 2405.06624`, [arxiv](http://arxiv.org/abs/2405.06624v3), [pdf](http://arxiv.org/pdf/2405.06624v3.pdf), cication: [**12**](https://scholar.google.com/scholar?cites=12483606360867487294&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 

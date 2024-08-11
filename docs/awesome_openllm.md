@@ -217,6 +217,7 @@
 - [**Llama-3-Groq-8B-Tool-Use**](https://huggingface.co/Groq/Llama-3-Groq-8B-Tool-Use) - Groq 🤗
 - [Nexusflow.ai | Blog :: Athene-70B: Redefining the Boundaries of Post-Training for Open Models](https://nexusflow.ai/blogs/athene)
 - [**Athene-70B**](https://huggingface.co/Nexusflow/Athene-70B) - Nexusflow 🤗
+- [Fetching Title#zifu](https://huggingface.co/mlabonne/BigLlama-3.1-1T-Instruct)
 ### Jamba
 - **Jamba: A Hybrid Transformer-Mamba Language Model**, `arXiv, 2403.19887`, [arxiv](http://arxiv.org/abs/2403.19887v1), [pdf](http://arxiv.org/pdf/2403.19887v1.pdf), cication: [**-1**](None)
 
@@ -234,7 +235,10 @@
 - [**dbrx-instruct**](https://huggingface.co/databricks/dbrx-instruct) - databricks 🤗
 
 ### Gemma
-- [Fetching Title#5g95](https://huggingface.co/collections/google/gemma-2-2b-release-66a20f3796a2ff2a7c76f98f)
+- **Gemma 2: Improving Open Language Models at a Practical Size**, `arXiv, 2408.00118`, [arxiv](http://arxiv.org/abs/2408.00118v2), [pdf](http://arxiv.org/pdf/2408.00118v2.pdf), cication: [**2**](https://scholar.google.com/scholar?cites=14597234697933566851&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Gemma Team, Morgane Riviere, Shreya Pathak, Pier Giuseppe Sessa, Cassidy Hardin, Surya Bhupatiraju, Léonard Hussenot, Thomas Mesnard, Bobak Shahriari, Alexandre Ramé*
+- [Fetching Title#yrrb](https://huggingface.co/collections/google/gemma-2-2b-release-66a20f3796a2ff2a7c76f98f)
 - [Gemma 2 Release - a google Collection](https://huggingface.co/collections/google/gemma-2-release-667d6600fd5220e7b967f315)
 
 	 · ([x](https://x.com/danielhanchen/status/1806372357684220308))
@@ -624,6 +628,9 @@
  - [xverse/XVERSE-13B-256K · Hugging Face](https://huggingface.co/xverse/XVERSE-13B-256K)
  
 ### Qwen
+- **Qwen2 Technical Report**, `arXiv, 2407.10671`, [arxiv](http://arxiv.org/abs/2407.10671v3), [pdf](http://arxiv.org/pdf/2407.10671v3.pdf), cication: [**13**](https://scholar.google.com/scholar?cites=12701601611854231531&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *An Yang, Baosong Yang, Binyuan Hui, Bo Zheng, Bowen Yu, Chang Zhou, Chengpeng Li, Chengyuan Li, Dayiheng Liu, Fei Huang*
 - [**Qwen2**](https://github.com/QwenLM/Qwen2) - QwenLM ![Star](https://img.shields.io/github/stars/QwenLM/Qwen2.svg?style=social&label=Star)
 
 	 *Qwen2 is the large language model series developed by Qwen team, Alibaba Cloud.*
@@ -737,6 +744,10 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s/Lf70i8M0KNDs9ZB8H32h4w))
 
 # Extra
+- **SeaLLMs 3: Open Foundation and Chat Multilingual Large Language Models
+  for Southeast Asian Languages**, `arXiv, 2407.19672`, [arxiv](http://arxiv.org/abs/2407.19672v1), [pdf](http://arxiv.org/pdf/2407.19672v1.pdf), cication: [**-1**](None)
+
+	 *Wenxuan Zhang, Hou Pong Chan, Yiran Zhao, Mahani Aljunied, Jianyu Wang, Chaoqun Liu, Yue Deng, Zhiqiang Hu, Weiwen Xu, Yew Ken Chia* · ([damo-nlp-sg.github](https://damo-nlp-sg.github.io/SeaLLMs/))
 - **EXAONE 3.0 7.8B Instruction Tuned Language Model**, `arXiv, 2408.03541`, [arxiv](http://arxiv.org/abs/2408.03541v2), [pdf](http://arxiv.org/pdf/2408.03541v2.pdf), cication: [**-1**](None)
 
 	 *LG AI Research, :, Soyoung An, Kyunghoon Bae, Eunbi Choi, Stanley Jungkyu Choi, Yemuk Choi, Seokhee Hong, Yeonjung Hong, Junwon Hwang* · ([huggingface](https://huggingface.co/LGAI-EXAONE/EXAONE-3.0-7.8B-Instruct))
