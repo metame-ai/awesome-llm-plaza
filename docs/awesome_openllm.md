@@ -38,7 +38,8 @@
 # English
 
 ## Foundation
-- [Fetching Title#a73f](https://huggingface.co/apple/DCLM-7B)
+- [**falcon-mamba-7b**](https://huggingface.co/tiiuae/falcon-mamba-7b) - tiiuae 🤗
+- [**DCLM-7B**](https://huggingface.co/apple/DCLM-7B) - apple 🤗
 - [**DCLM-1B**](https://huggingface.co/TRI-ML/DCLM-1B) - TRI-ML 🤗
 - [Minitron - a nvidia Collection](https://huggingface.co/collections/nvidia/minitron-669ac727dc9c86e6ab7f0f3e)
 - [SmolLM - blazingly fast and remarkably powerful](https://huggingface.co/blog/smollm)
@@ -660,6 +661,7 @@
 - [Quyen - a vilm Collection](https://huggingface.co/collections/vilm/quyen-65bc71a29fa020161bc87859)
 - [**d-Qwen1.5-0.5B**](https://huggingface.co/aloobun/d-Qwen1.5-0.5B?utm_source=ainews&utm_medium=email&utm_campaign=ainews-mm1-apples-first-large-multimodal-model) - aloobun 🤗
 - [**Arcee-Spark**](https://huggingface.co/arcee-ai/Arcee-Spark) - arcee-ai 🤗
+- [Fetching Title#omeo](https://huggingface.co/dnhkng/RYS-XLarge)
 ### Baichuan
 - **Baichuan 2: Open Large-scale Language Models**, `arXiv, 2309.10305`, [arxiv](http://arxiv.org/abs/2309.10305v2), [pdf](http://arxiv.org/pdf/2309.10305v2.pdf), cication: [**16**](https://scholar.google.com/scholar?cites=11092587028861989085&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 

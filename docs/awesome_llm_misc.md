@@ -530,6 +530,9 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652345558&idx=4&sn=95686435d5cad05d44cbe02bc26d6859))
 
 ## Interpretability 
+- **Gemma Scope: Open Sparse Autoencoders Everywhere All At Once on Gemma 2**, `arXiv, 2408.05147`, [arxiv](http://arxiv.org/abs/2408.05147v1), [pdf](http://arxiv.org/pdf/2408.05147v1.pdf), cication: [**-1**](None)
+
+	 *Tom Lieberum, Senthooran Rajamanoharan, Arthur Conmy, Lewis Smith, Nicolas Sonnerat, Vikrant Varma, János Kramár, Anca Dragan, Rohin Shah, Neel Nanda*
 - **Transformer Explainer: Interactive Learning of Text-Generative Models**, `arXiv, 2408.04619`, [arxiv](http://arxiv.org/abs/2408.04619v1), [pdf](http://arxiv.org/pdf/2408.04619v1.pdf), cication: [**-1**](None)
 
 	 *Aeree Cho, Grace C. Kim, Alexander Karpekov, Alec Helbling, Zijie J. Wang, Seongmin Lee, Benjamin Hoover, Duen Horng Chau* · ([poloclub.github](https://poloclub.github.io/transformer-explainer/))

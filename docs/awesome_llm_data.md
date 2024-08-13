@@ -473,6 +473,7 @@
 	 *Scott Geng, Cheng-Yu Hsieh, Vivek Ramanujan, Matthew Wallingford, Chun-Liang Li, Pang Wei Koh, Ranjay Krishna* · ([unmet-promise](https://github.com/scottgeng00/unmet-promise) - scottgeng00) ![Star](https://img.shields.io/github/stars/scottgeng00/unmet-promise.svg?style=social&label=Star)
 
 ## Toolkits
+- [**quality-classifier-deberta**](https://huggingface.co/nvidia/quality-classifier-deberta) - nvidia 🤗
 - [**fineweb-edu-classifier**](https://huggingface.co/HuggingFaceFW/fineweb-edu-classifier) - HuggingFaceFW 🤗
 - [**desbordante-core**](https://github.com/Desbordante/desbordante-core) - Desbordante ![Star](https://img.shields.io/github/stars/Desbordante/desbordante-core.svg?style=social&label=Star)
 

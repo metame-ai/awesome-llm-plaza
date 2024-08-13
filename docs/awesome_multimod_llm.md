@@ -321,6 +321,10 @@
 	 · ([anole](https://github.com/GAIR-NLP/anole) - GAIR-NLP) ![Star](https://img.shields.io/github/stars/GAIR-NLP/anole.svg?style=social&label=Star)
 
 ### Image
+- **mPLUG-Owl3: Towards Long Image-Sequence Understanding in Multi-Modal
+  Large Language Models**, `arXiv, 2408.04840`, [arxiv](http://arxiv.org/abs/2408.04840v1), [pdf](http://arxiv.org/pdf/2408.04840v1.pdf), cication: [**-1**](None)
+
+	 *Jiabo Ye, Haiyang Xu, Haowei Liu, Anwen Hu, Ming Yan, Qi Qian, Ji Zhang, Fei Huang, Jingren Zhou*
 - **Mixture of Nested Experts: Adaptive Processing of Visual Tokens**, `arXiv, 2407.19985`, [arxiv](http://arxiv.org/abs/2407.19985v2), [pdf](http://arxiv.org/pdf/2407.19985v2.pdf), cication: [**-1**](None)
 
 	 *Gagan Jain, Nidhi Hegde, Aditya Kusupati, Arsha Nagrani, Shyamal Buch, Prateek Jain, Anurag Arnab, Sujoy Paul*
@@ -1349,6 +1353,10 @@
 
 	 *Zhengfeng Lai, Haotian Zhang, Bowen Zhang, Wentao Wu, Haoping Bai, Aleksei Timofeev, Xianzhi Du, Zhe Gan, Jiulong Shan, Chen-Nee Chuah* · ([ml-veclip](https://github.com/apple/ml-veclip) - apple) ![Star](https://img.shields.io/github/stars/apple/ml-veclip.svg?style=social&label=Star)
 ## Reasoning 
+- **UniBench: Visual Reasoning Requires Rethinking Vision-Language Beyond
+  Scaling**, `arXiv, 2408.04810`, [arxiv](http://arxiv.org/abs/2408.04810v1), [pdf](http://arxiv.org/pdf/2408.04810v1.pdf), cication: [**-1**](None)
+
+	 *Haider Al-Tahan, Quentin Garrido, Randall Balestriero, Diane Bouchacourt, Caner Hazirbas, Mark Ibrahim*
 - **RULE: Reliable Multimodal RAG for Factuality in Medical Vision Language
   Models**, `arXiv, 2407.05131`, [arxiv](http://arxiv.org/abs/2407.05131v1), [pdf](http://arxiv.org/pdf/2407.05131v1.pdf), cication: [**-1**](None)
 

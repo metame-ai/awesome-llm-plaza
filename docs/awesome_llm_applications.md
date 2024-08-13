@@ -178,6 +178,7 @@
 	 *A ChatGPT plugin that allows you to load and edit your local files in a controlled way, as well as run any Python, JavaScript, and bash script.*
 
 ## Writing
+- [**magnum-12b-v2**](https://huggingface.co/anthracite-org/magnum-12b-v2) - anthracite-org 🤗
 - [**data-to-paper**](https://github.com/technion-kishony-lab/data-to-paper) - technion-kishony-lab ![Star](https://img.shields.io/github/stars/technion-kishony-lab/data-to-paper.svg?style=social&label=Star)
 
 	 *data-to-paper: AI-driven scientific research*
@@ -270,6 +271,9 @@
 
 
 ## Medical
+- [**ECG-FM**](https://github.com/bowang-lab/ECG-FM) - bowang-lab ![Star](https://img.shields.io/github/stars/bowang-lab/ECG-FM.svg?style=social&label=Star)
+
+	 *An electrocardiogram analysis foundation model.*
 - **Integrating Large Language Models into a Tri-Modal Architecture for
   Automated Depression Classification**, `arXiv, 2407.19340`, [arxiv](http://arxiv.org/abs/2407.19340v1), [pdf](http://arxiv.org/pdf/2407.19340v1.pdf), cication: [**-1**](None)
 
@@ -880,6 +884,10 @@
 	 *Official repo for LayoutGPT*
 
 ## Science
+- **The AI Scientist: Towards Fully Automated Open-Ended Scientific
+  Discovery**, `arXiv, 2408.06292`, [arxiv](http://arxiv.org/abs/2408.06292v1), [pdf](http://arxiv.org/pdf/2408.06292v1.pdf), cication: [**-1**](None)
+
+	 *Chris Lu, Cong Lu, Robert Tjarko Lange, Jakob Foerster, Jeff Clune, David Ha* · ([AI-Scientist](https://github.com/SakanaAI/AI-Scientist) - SakanaAI) ![Star](https://img.shields.io/github/stars/SakanaAI/AI-Scientist.svg?style=social&label=Star)
 - **A Large Encoder-Decoder Family of Foundation Models For Chemical
   Language**, `arXiv, 2407.20267`, [arxiv](http://arxiv.org/abs/2407.20267v1), [pdf](http://arxiv.org/pdf/2407.20267v1.pdf), cication: [**-1**](None)
 

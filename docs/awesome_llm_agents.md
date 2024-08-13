@@ -623,7 +623,11 @@
 - [AgentGPT](https://agentgpt.reworkd.ai/)
 
 ## Augmented LLM
-- [Fetching Title#r392](https://bair.berkeley.edu/blog/2024/05/29/tiny-agent/)
+- **ToolSandbox: A Stateful, Conversational, Interactive Evaluation
+  Benchmark for LLM Tool Use Capabilities**, `arXiv, 2408.04682`, [arxiv](http://arxiv.org/abs/2408.04682v1), [pdf](http://arxiv.org/pdf/2408.04682v1.pdf), cication: [**-1**](None)
+
+	 *Jiarui Lu, Thomas Holleis, Yizhe Zhang, Bernhard Aumayer, Feng Nan, Felix Bai, Shuang Ma, Shen Ma, Mengyu Li, Guoli Yin* · ([ToolSandbox](https://github.com/apple/ToolSandbox) - apple) ![Star](https://img.shields.io/github/stars/apple/ToolSandbox.svg?style=social&label=Star)
+- [TinyAgent: Function Calling at the Edge](https://bair.berkeley.edu/blog/2024/05/29/tiny-agent/)
 - **FollowIR: Evaluating and Teaching Information Retrieval Models to Follow
   Instructions**, `arXiv, 2403.15246`, [arxiv](http://arxiv.org/abs/2403.15246v1), [pdf](http://arxiv.org/pdf/2403.15246v1.pdf), cication: [**-1**](None)
 

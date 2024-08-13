@@ -380,6 +380,7 @@
 	 · [intercode-benchmark.github](https://intercode-benchmark.github.io/)
 
 ## Projects
+- [Technical Report: Building Genie](https://cosine.sh/blog/genie-technical-report)
 - [Announcing BigCodeBench-Hard, and More](https://huggingface.co/blog/terryyz/bigcodebench-hard)
 - [**mbpp**](https://huggingface.co/datasets/google-research-datasets/mbpp) - google-research-datasets 🤗
 - [**mamba-codestral-7B-v0.1**](https://huggingface.co/mistralai/mamba-codestral-7B-v0.1) - mistralai 🤗

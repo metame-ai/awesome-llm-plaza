@@ -567,6 +567,9 @@
 	 *Lianmin Zheng, Wei-Lin Chiang, Ying Sheng, Siyuan Zhuang, Zhanghao Wu, Yonghao Zhuang, Zi Lin, Zhuohan Li, Dacheng Li, Eric. P Xing*
 
 ## Projects
+- [**test**](https://github.com/hendrycks/test) - hendrycks ![Star](https://img.shields.io/github/stars/hendrycks/test.svg?style=social&label=Star)
+
+	 *Measuring Massive Multitask Language Understanding | ICLR 2021*
 - [**ZeroEval**](https://github.com/yuchenlin/ZeroEval?tab=readme-ov-file#results) - yuchenlin ![Star](https://img.shields.io/github/stars/yuchenlin/ZeroEval.svg?style=social&label=Star)
 
 	 *A simple unified framework for evaluating LLMs*
