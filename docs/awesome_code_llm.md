@@ -380,6 +380,7 @@
 	 · [intercode-benchmark.github](https://intercode-benchmark.github.io/)
 
 ## Projects
+- [Introducing SWE-bench Verified | OpenAI](https://openai.com/index/introducing-swe-bench-verified/)
 - [Technical Report: Building Genie](https://cosine.sh/blog/genie-technical-report)
 - [Announcing BigCodeBench-Hard, and More](https://huggingface.co/blog/terryyz/bigcodebench-hard)
 - [**mbpp**](https://huggingface.co/datasets/google-research-datasets/mbpp) - google-research-datasets 🤗

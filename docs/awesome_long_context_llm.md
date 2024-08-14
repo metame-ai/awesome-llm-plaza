@@ -325,6 +325,9 @@
 	 *LongLLaMA is a large language model capable of handling long contexts. It is based on OpenLLaMA and fine-tuned with the Focused Transformer (FoT) method.*
 
 ## Other
+- [Long Context RAG Performance of LLMs | Databricks Blog](https://www.databricks.com/blog/long-context-rag-performance-llms)
+
+	 · ([x](https://x.com/DbrxMosaicAI/status/1823129597288046979?utm_source=ainews&utm_medium=email&utm_campaign=ainews-gemini-live))
 -  [influential papers from the recent past, exploring efficient context-window increase of LLMs](https://x.com/rohanpaul_ai/status/1805382628742234179)
 - [Unlocking Longer Generation with Key-Value Cache Quantization](https://huggingface.co/blog/kv-cache-quantization)
 - [Unsloth - 4x longer context windows & 1.7x larger batch sizes](https://unsloth.ai/blog/long-context)

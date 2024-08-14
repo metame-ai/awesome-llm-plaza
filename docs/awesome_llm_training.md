@@ -593,6 +593,9 @@
 	 *Juhao Liang, Ziwei Wang, Zhuoheng Ma, Jianquan Li, Zhiyi Zhang, Xiangbo Wu, Benyou Wang*
 
 ## Toolkits
+- [**cookbook**](https://github.com/EleutherAI/cookbook) - EleutherAI ![Star](https://img.shields.io/github/stars/EleutherAI/cookbook.svg?style=social&label=Star)
+
+	 *Deep learning for dummies. All the practical details and useful utilities that go into working with real models.*
 - [**autotrain-advanced**](https://github.com/huggingface/autotrain-advanced) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/autotrain-advanced.svg?style=social&label=Star)
 - [**nanotron**](https://github.com/huggingface/nanotron/tree/main) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/nanotron.svg?style=social&label=Star)
 

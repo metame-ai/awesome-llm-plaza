@@ -35,6 +35,9 @@
 	 *Jiankai Sun, Chuanyang Zheng, Enze Xie, Zhengying Liu, Ruihang Chu, Jianing Qiu, Jiaqi Xu, Mingyu Ding, Hongyang Li, Mengzhe Geng* · ([Awesome-Reasoning-Foundation-Models](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models) - reasoning-survey) ![Star](https://img.shields.io/github/stars/reasoning-survey/Awesome-Reasoning-Foundation-Models.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652421688&idx=3&sn=fcdc24edc7bc89ebcbcca0f7665e40f6))
 
 ## Reasoning
+- **Mutual Reasoning Makes Smaller LLMs Stronger Problem-Solvers**, `arXiv, 2408.06195`, [arxiv](http://arxiv.org/abs/2408.06195v1), [pdf](http://arxiv.org/pdf/2408.06195v1.pdf), cication: [**-1**](None)
+
+	 *Zhenting Qi, Mingyuan Ma, Jiahang Xu, Li Lyna Zhang, Fan Yang, Mao Yang* · ([rStar](https://github.com/zhentingqi/rStar) - zhentingqi) ![Star](https://img.shields.io/github/stars/zhentingqi/rStar.svg?style=social&label=Star)
 - **CoverBench: A Challenging Benchmark for Complex Claim Verification**, `arXiv, 2408.03325`, [arxiv](http://arxiv.org/abs/2408.03325v1), [pdf](http://arxiv.org/pdf/2408.03325v1.pdf), cication: [**-1**](None)
 
 	 *Alon Jacovi, Moran Ambar, Eyal Ben-David, Uri Shaham, Amir Feder, Mor Geva, Dror Marcus, Avi Caciularu* · ([huggingface](https://huggingface.co/datasets/google/coverbench))

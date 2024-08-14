@@ -271,6 +271,9 @@
 
 
 ## Medical
+- **Med42-v2: A Suite of Clinical LLMs**, `arXiv, 2408.06142`, [arxiv](http://arxiv.org/abs/2408.06142v1), [pdf](http://arxiv.org/pdf/2408.06142v1.pdf), cication: [**-1**](None)
+
+	 *Clément Christophe, Praveen K Kanithi, Tathagata Raha, Shadab Khan, Marco AF Pimentel* · ([huggingface](https://huggingface.co/m42-health))
 - [**ECG-FM**](https://github.com/bowang-lab/ECG-FM) - bowang-lab ![Star](https://img.shields.io/github/stars/bowang-lab/ECG-FM.svg?style=social&label=Star)
 
 	 *An electrocardiogram analysis foundation model.*
@@ -515,6 +518,10 @@
 	 *Derong Xu, Wei Chen, Wenjun Peng, Chao Zhang, Tong Xu, Xiangyu Zhao, Xian Wu, Yefeng Zheng, Enhong Chen* · ([awesome-llm4ie-papers](https://github.com/quqxui/awesome-llm4ie-papers) - quqxui) ![Star](https://img.shields.io/github/stars/quqxui/awesome-llm4ie-papers.svg?style=social&label=Star)
 
 ## Recommendation
+- **Lifelong Personalized Low-Rank Adaptation of Large Language Models for
+  Recommendation**, `arXiv, 2408.03533`, [arxiv](http://arxiv.org/abs/2408.03533v2), [pdf](http://arxiv.org/pdf/2408.03533v2.pdf), cication: [**-1**](None)
+
+	 *Jiachen Zhu, Jianghao Lin, Xinyi Dai, Bo Chen, Rong Shan, Jieming Zhu, Ruiming Tang, Yong Yu, Weinan Zhang*
 - **Item-Language Model for Conversational Recommendation**, `arXiv, 2406.02844`, [arxiv](http://arxiv.org/abs/2406.02844v1), [pdf](http://arxiv.org/pdf/2406.02844v1.pdf), cication: [**-1**](None)
 
 	 *Li Yang, Anushya Subbiah, Hardik Patel, Judith Yue Li, Yanwei Song, Reza Mirghaderi, Vikram Aggarwal*

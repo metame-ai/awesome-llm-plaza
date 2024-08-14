@@ -1554,6 +1554,10 @@
 
 
 ## Evaluation
+- **VisualAgentBench: Towards Large Multimodal Models as Visual Foundation
+  Agents**, `arXiv, 2408.06327`, [arxiv](http://arxiv.org/abs/2408.06327v1), [pdf](http://arxiv.org/pdf/2408.06327v1.pdf), cication: [**-1**](None)
+
+	 *Xiao Liu, Tianjie Zhang, Yu Gu, Iat Long Iong, Yifan Xu, Xixuan Song, Shudan Zhang, Hanyu Lai, Xinyi Liu, Hanlin Zhao* · ([VisualAgentBench](https://github.com/THUDM/VisualAgentBench) - THUDM) ![Star](https://img.shields.io/github/stars/THUDM/VisualAgentBench.svg?style=social&label=Star)
 - **GMAI-MMBench: A Comprehensive Multimodal Evaluation Benchmark Towards
   General Medical AI**, `arXiv, 2408.03361`, [arxiv](http://arxiv.org/abs/2408.03361v2), [pdf](http://arxiv.org/pdf/2408.03361v2.pdf), cication: [**-1**](None)
 

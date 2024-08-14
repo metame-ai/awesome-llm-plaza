@@ -530,6 +530,10 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652345558&idx=4&sn=95686435d5cad05d44cbe02bc26d6859))
 
 ## Interpretability 
+- **Does Liking Yellow Imply Driving a School Bus? Semantic Leakage in
+  Language Models**, `arXiv, 2408.06518`, [arxiv](http://arxiv.org/abs/2408.06518v1), [pdf](http://arxiv.org/pdf/2408.06518v1.pdf), cication: [**-1**](None)
+
+	 *Hila Gonen, Terra Blevins, Alisa Liu, Luke Zettlemoyer, Noah A. Smith*
 - **Gemma Scope: Open Sparse Autoencoders Everywhere All At Once on Gemma 2**, `arXiv, 2408.05147`, [arxiv](http://arxiv.org/abs/2408.05147v1), [pdf](http://arxiv.org/pdf/2408.05147v1.pdf), cication: [**-1**](None)
 
 	 *Tom Lieberum, Senthooran Rajamanoharan, Arthur Conmy, Lewis Smith, Nicolas Sonnerat, Vikrant Varma, János Kramár, Anca Dragan, Rohin Shah, Neel Nanda*
@@ -926,6 +930,9 @@
 - [MIT新研究：打工人不用担心被AI淘汰！成本巨贵，视觉工作只有23%可替代](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652436863&idx=3&sn=cd329df965557870646c7dd6fcb460cc)
 
 ## Course & Tutorial
+- [**cookbook**](https://github.com/EleutherAI/cookbook) - EleutherAI ![Star](https://img.shields.io/github/stars/EleutherAI/cookbook.svg?style=social&label=Star)
+
+	 *Deep learning for dummies. All the practical details and useful utilities that go into working with real models.*
 - [Physics of Language Models](https://icml.cc/virtual/2024/tutorial/35223)
 - [**llama3-from-scratch**](https://github.com/naklecha/llama3-from-scratch) - naklecha ![Star](https://img.shields.io/github/stars/naklecha/llama3-from-scratch.svg?style=social&label=Star)
 

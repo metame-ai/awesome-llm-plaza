@@ -62,6 +62,9 @@
 
 	 *Vladislav Lialin, Vijeta Deshpande, Anna Rumshisky*
 ## Efficient finetuning
+- **LoRA Learns Less and Forgets Less**, `arXiv, 2405.09673`, [arxiv](http://arxiv.org/abs/2405.09673v1), [pdf](http://arxiv.org/pdf/2405.09673v1.pdf), cication: [**17**](https://scholar.google.com/scholar?cites=11449236051528835430&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Dan Biderman, Jose Gonzalez Ortiz, Jacob Portes, Mansheej Paul, Philip Greengard, Connor Jennings, Daniel King, Sam Havens, Vitaliy Chiley, Jonathan Frankle*
 - **Let the Expert Stick to His Last: Expert-Specialized Fine-Tuning for
   Sparse Architectural Large Language Models**, `arXiv, 2407.01906`, [arxiv](http://arxiv.org/abs/2407.01906v2), [pdf](http://arxiv.org/pdf/2407.01906v2.pdf), cication: [**-1**](None)
 
@@ -926,6 +929,10 @@
 	 *Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-05-04)) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-06-05-2))
 
 ## Toolkits
+- [**flash-linear-attention**](https://github.com/sustcsonglin/flash-linear-attention) - sustcsonglin ![Star](https://img.shields.io/github/stars/sustcsonglin/flash-linear-attention.svg?style=social&label=Star)
+
+	 *Efficient implementations of state-of-the-art linear attention models in Pytorch and Triton*
+- [Fetching Title#al68](https://huggingface.co/blog/introduction-to-ggml)
 - [FlexAttention: The Flexibility of PyTorch with the Performance of FlashAttention | PyTorch](https://pytorch.org/blog/flexattention/)
 - [**transformer-heads**](https://github.com/center-for-humans-and-machines/transformer-heads) - center-for-humans-and-machines ![Star](https://img.shields.io/github/stars/center-for-humans-and-machines/transformer-heads.svg?style=social&label=Star)
 

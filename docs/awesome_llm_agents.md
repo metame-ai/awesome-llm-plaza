@@ -1265,6 +1265,10 @@
 - [各路大神献出自定义GPT，24小时Top 9名单在这 | 机器之心](https://www.jiqizhixin.com/articles/2023-11-13-13)
 
 ## Evaluation
+- **CRAB: Cross-environment Agent Benchmark for Multimodal Language Model
+  Agents**, `arXiv, 2407.01511`, [arxiv](http://arxiv.org/abs/2407.01511v1), [pdf](http://arxiv.org/pdf/2407.01511v1.pdf), cication: [**-1**](None)
+
+	 *Tianqi Xu, Linyao Chen, Dai-Jie Wu, Yanjun Chen, Zecheng Zhang, Xiang Yao, Zhiqiang Xie, Yongchao Chen, Shilong Liu, Bochen Qian* · ([crab.camel-ai](https://crab.camel-ai.org/)) · ([crab](https://github.com/camel-ai/crab) - camel-ai) ![Star](https://img.shields.io/github/stars/camel-ai/crab.svg?style=social&label=Star)
 - **MMAU: A Holistic Benchmark of Agent Capabilities Across Diverse Domains**, `arXiv, 2407.18961`, [arxiv](http://arxiv.org/abs/2407.18961v2), [pdf](http://arxiv.org/pdf/2407.18961v2.pdf), cication: [**-1**](None)
 
 	 *Guoli Yin, Haoping Bai, Shuang Ma, Feng Nan, Yanchao Sun, Zhaoyang Xu, Shen Ma, Jiarui Lu, Xiang Kong, Aonan Zhang* · ([axlearn](https://github.com/apple/axlearn/docs/research/mmau) - apple) ![Star](https://img.shields.io/github/stars/apple/axlearn.svg?style=social&label=Star)
