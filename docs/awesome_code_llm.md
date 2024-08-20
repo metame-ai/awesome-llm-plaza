@@ -26,6 +26,10 @@
 	 *Ziyin Zhang, Chaoyu Chen, Bingchang Liu, Cong Liao, Zi Gong, Hang Yu, Jianguo Li, Rui Wang*
 
 ## Paper
+- **Diversity Empowers Intelligence: Integrating Expertise of Software
+  Engineering Agents**, `arXiv, 2408.07060`, [arxiv](http://arxiv.org/abs/2408.07060v1), [pdf](http://arxiv.org/pdf/2408.07060v1.pdf), cication: [**-1**](None)
+
+	 *Kexun Zhang, Weiran Yao, Zuxin Liu, Yihao Feng, Zhiwei Liu, Rithesh Murthy, Tian Lan, Lei Li, Renze Lou, Jiacheng Xu*
 - **CodexGraph: Bridging Large Language Models and Code Repositories via
   Code Graph Databases**, `arXiv, 2408.03910`, [arxiv](http://arxiv.org/abs/2408.03910v1), [pdf](http://arxiv.org/pdf/2408.03910v1.pdf), cication: [**-1**](None)
 
@@ -380,6 +384,9 @@
 	 · [intercode-benchmark.github](https://intercode-benchmark.github.io/)
 
 ## Projects
+- [**agilecoder**](https://github.com/fsoft-ai4code/agilecoder) - fsoft-ai4code ![Star](https://img.shields.io/github/stars/fsoft-ai4code/agilecoder.svg?style=social&label=Star)
+
+	 *Incorporating Agile methodology into agents to create complex real-world softwares*
 - [Introducing SWE-bench Verified | OpenAI](https://openai.com/index/introducing-swe-bench-verified/)
 - [Technical Report: Building Genie](https://cosine.sh/blog/genie-technical-report)
 - [Announcing BigCodeBench-Hard, and More](https://huggingface.co/blog/terryyz/bigcodebench-hard)
@@ -517,6 +524,7 @@
 	 *Specify what you want it to build, the AI asks for clarification, and then builds it.*
 
 ## Other
+- [LLMs are bad at returning code in JSON | aider](https://aider.chat/2024/08/14/code-in-json.html)
 - [Code Droid Technical Report](https://www.factory.ai/news/code-droid-technical-report)
 - [Introducing Devin, the first AI software engineer](https://www.cognition-labs.com/blog)
 - [phind.com/blog/introducing-phind-70b](https://www.phind.com/blog/introducing-phind-70b)

@@ -9,6 +9,9 @@
 
 
 ## Survey
+- **AI Deception: A Survey of Examples, Risks, and Potential Solutions**, `patterns, 2024`, [arxiv](http://arxiv.org/abs/2308.14752v1), [pdf](http://arxiv.org/pdf/2308.14752v1.pdf), cication: [**78**](https://scholar.google.com/scholar?cites=6393651602609022233&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Peter S. Park, Simon Goldstein, Aidan O'Gara, Michael Chen, Dan Hendrycks*
 - **JailbreakZoo: Survey, Landscapes, and Horizons in Jailbreaking Large
   Language and Vision-Language Models**, `arXiv, 2407.01599`, [arxiv](http://arxiv.org/abs/2407.01599v1), [pdf](http://arxiv.org/pdf/2407.01599v1.pdf), cication: [**-1**](None)
 
@@ -286,6 +289,9 @@
 
 	 *Kaijie Zhu, Jindong Wang, Jiaheng Zhou, Zichen Wang, Hao Chen, Yidong Wang, Linyi Yang, Wei Ye, Yue Zhang, Neil Zhenqiang Gong*
 ## Projects
+- [**CJA_Comprehensive_Jailbreak_Assessment**](https://github.com/Junjie-Chu/CJA_Comprehensive_Jailbreak_Assessment) - Junjie-Chu ![Star](https://img.shields.io/github/stars/Junjie-Chu/CJA_Comprehensive_Jailbreak_Assessment.svg?style=social&label=Star)
+
+	 *This is the public code repository of paper 'Comprehensive Assessment of Jailbreak Attacks Against LLMs'*
 - [**Llama-Guard-3-8B**](https://huggingface.co/meta-llama/Llama-Guard-3-8B) - meta-llama 🤗
 - [**Prompt-Guard-86M**](https://huggingface.co/meta-llama/Prompt-Guard-86M) - meta-llama 🤗
 - [**jailbreak_llms**](https://github.com/verazuo/jailbreak_llms?tab=readme-ov-file) - verazuo ![Star](https://img.shields.io/github/stars/verazuo/jailbreak_llms.svg?style=social&label=Star)

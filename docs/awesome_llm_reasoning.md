@@ -450,6 +450,10 @@
 - [大模型Fewshot推理如何选择更好的示例](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495177&idx=2&sn=fe8353efed16a81e35462be06d5a6cea)
 
 ## Math reasoning
+- **DeepSeek-Prover-V1.5: Harnessing Proof Assistant Feedback for
+  Reinforcement Learning and Monte-Carlo Tree Search**, `arXiv, 2408.08152`, [arxiv](http://arxiv.org/abs/2408.08152v1), [pdf](http://arxiv.org/pdf/2408.08152v1.pdf), cication: [**-1**](None)
+
+	 *Huajian Xin, Z. Z. Ren, Junxiao Song, Zhihong Shao, Wanjia Zhao, Haocheng Wang, Bo Liu, Liyue Zhang, Xuan Lu, Qiushi Du*
 - [Introducing Qwen2-Math | Qwen](https://qwenlm.github.io/blog/qwen2-math/)
 
 	 · ([huggingface](https://huggingface.co/collections/Qwen/qwen2-math-66b4c9e072eda65b5ec7534d))

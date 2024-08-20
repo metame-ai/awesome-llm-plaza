@@ -42,6 +42,9 @@
 	 *Adyasha Maharana, Dong-Ho Lee, Sergey Tulyakov, Mohit Bansal, Francesco Barbieri, Yuwei Fang*
 
 ## Papers
+- **LongWriter: Unleashing 10,000+ Word Generation from Long Context LLMs**, `arXiv, 2408.07055`, [arxiv](http://arxiv.org/abs/2408.07055v1), [pdf](http://arxiv.org/pdf/2408.07055v1.pdf), cication: [**-1**](None)
+
+	 *Yushi Bai, Jiajie Zhang, Xin Lv, Linzhi Zheng, Siqi Zhu, Lei Hou, Yuxiao Dong, Jie Tang, Juanzi Li* · ([LongWriter](https://github.com/THUDM/LongWriter) - THUDM) ![Star](https://img.shields.io/github/stars/THUDM/LongWriter.svg?style=social&label=Star)
 - **ChatQA 2: Bridging the Gap to Proprietary LLMs in Long Context and RAG
   Capabilities**, `arXiv, 2407.14482`, [arxiv](http://arxiv.org/abs/2407.14482v1), [pdf](http://arxiv.org/pdf/2407.14482v1.pdf), cication: [**-1**](None)
 
@@ -325,6 +328,7 @@
 	 *LongLLaMA is a large language model capable of handling long contexts. It is based on OpenLLaMA and fine-tuned with the Focused Transformer (FoT) method.*
 
 ## Other
+- [A failed experiment: Infini-Attention, and why we should keep trying?](https://huggingface.co/blog/infini-attention)
 - [Long Context RAG Performance of LLMs | Databricks Blog](https://www.databricks.com/blog/long-context-rag-performance-llms)
 
 	 · ([x](https://x.com/DbrxMosaicAI/status/1823129597288046979?utm_source=ainews&utm_medium=email&utm_campaign=ainews-gemini-live))

@@ -113,6 +113,9 @@
 	 *Mike Ranzinger, Greg Heinrich, Jan Kautz, Pavlo Molchanov* · ([radio](https://github.com/nvlabs/radio) - nvlabs) ![Star](https://img.shields.io/github/stars/nvlabs/radio.svg?style=social&label=Star)
 
 ### Video
+- **LongVILA: Scaling Long-Context Visual Language Models for Long Videos**, `arXiv, 2408.10188`, [arxiv](http://arxiv.org/abs/2408.10188v1), [pdf](http://arxiv.org/pdf/2408.10188v1.pdf), cication: [**-1**](None)
+
+	 *Fuzhao Xue, Yukang Chen, Dacheng Li, Qinghao Hu, Ligeng Zhu, Xiuyu Li, Yunhao Fang, Haotian Tang, Shang Yang, Zhijian Liu* · ([VILA](https://github.com/NVlabs/VILA/blob/main/LongVILA.md) - NVlabs) ![Star](https://img.shields.io/github/stars/NVlabs/VILA.svg?style=social&label=Star)
 - **Goldfish: Vision-Language Understanding of Arbitrarily Long Videos**, `arXiv, 2407.12679`, [arxiv](http://arxiv.org/abs/2407.12679v1), [pdf](http://arxiv.org/pdf/2407.12679v1.pdf), cication: [**-1**](None)
 
 	 *Kirolos Ataallah, Xiaoqian Shen, Eslam Abdelrahman, Essam Sleiman, Mingchen Zhuge, Jian Ding, Deyao Zhu, Jürgen Schmidhuber, Mohamed Elhoseiny* · ([vision-cair.github](https://vision-cair.github.io/Goldfish_website/))
@@ -321,6 +324,9 @@
 	 · ([anole](https://github.com/GAIR-NLP/anole) - GAIR-NLP) ![Star](https://img.shields.io/github/stars/GAIR-NLP/anole.svg?style=social&label=Star)
 
 ### Image
+- **xGen-MM (BLIP-3): A Family of Open Large Multimodal Models**, `arXiv, 2408.08872`, [arxiv](http://arxiv.org/abs/2408.08872v1), [pdf](http://arxiv.org/pdf/2408.08872v1.pdf), cication: [**-1**](None)
+
+	 *Le Xue, Manli Shu, Anas Awadalla, Jun Wang, An Yan, Senthil Purushwalkam, Honglu Zhou, Viraj Prabhu, Yutong Dai, Michael S Ryoo* · ([LAVIS](https://github.com/salesforce/LAVIS/tree/xgen-mm) - salesforce) ![Star](https://img.shields.io/github/stars/salesforce/LAVIS.svg?style=social&label=Star)
 - **mPLUG-Owl3: Towards Long Image-Sequence Understanding in Multi-Modal
   Large Language Models**, `arXiv, 2408.04840`, [arxiv](http://arxiv.org/abs/2408.04840v1), [pdf](http://arxiv.org/pdf/2408.04840v1.pdf), cication: [**-1**](None)
 

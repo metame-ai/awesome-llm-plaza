@@ -530,6 +530,9 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652345558&idx=4&sn=95686435d5cad05d44cbe02bc26d6859))
 
 ## Interpretability 
+- **Towards flexible perception with visual memory**, `arXiv, 2408.08172`, [arxiv](http://arxiv.org/abs/2408.08172v1), [pdf](http://arxiv.org/pdf/2408.08172v1.pdf), cication: [**-1**](None)
+
+	 *Robert Geirhos, Priyank Jaini, Austin Stone, Sourabh Medapati, Xi Yi, George Toderici, Abhijit Ogale, Jonathon Shlens*
 - **Does Liking Yellow Imply Driving a School Bus? Semantic Leakage in
   Language Models**, `arXiv, 2408.06518`, [arxiv](http://arxiv.org/abs/2408.06518v1), [pdf](http://arxiv.org/pdf/2408.06518v1.pdf), cication: [**-1**](None)
 
@@ -976,6 +979,7 @@
 	 · ([youtu](https://youtu.be/nOxKexn3iBo))
 
 ### Videos
+- [Unreasonably Effective AI with Demis Hassabis - YouTube](https://www.youtube.com/watch?v=pZybROKrj2Q)
 - [Low Level Technicals of LLMs: Daniel Han - YouTube](https://www.youtube.com/watch?v=pRM_P6UfdIc&ab_channel=AIEngineer)
 - [Fixing bugs in Gemma, Llama, & Phi 3: Daniel Han - YouTube](https://www.youtube.com/watch?v=TKmfBnW0mQA&ab_channel=AIEngineer)
 - [Interviewing Sebastian Raschka on the state of open LLMs, Llama 3.1, and AI education](https://www.interconnects.ai/p/interviewing-sebastian-raschka)

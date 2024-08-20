@@ -891,6 +891,10 @@
 	 *Official repo for LayoutGPT*
 
 ## Science
+- **ChemVLM: Exploring the Power of Multimodal Large Language Models in
+  Chemistry Area**, `arXiv, 2408.07246`, [arxiv](http://arxiv.org/abs/2408.07246v2), [pdf](http://arxiv.org/pdf/2408.07246v2.pdf), cication: [**-1**](None)
+
+	 *Junxian Li, Di Zhang, Xunzhi Wang, Zeying Hao, Jingdi Lei, Qian Tan, Cai Zhou, Wei Liu, Yaotian Yang, Xinrui Xiong* · ([huggingface](https://huggingface.co/AI4Chem/ChemVLM-26B))
 - **The AI Scientist: Towards Fully Automated Open-Ended Scientific
   Discovery**, `arXiv, 2408.06292`, [arxiv](http://arxiv.org/abs/2408.06292v1), [pdf](http://arxiv.org/pdf/2408.06292v1.pdf), cication: [**-1**](None)
 

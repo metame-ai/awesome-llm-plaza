@@ -108,6 +108,9 @@
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-18-4))
 ## Agents
+- **Automated Design of Agentic Systems**, `arXiv, 2408.08435`, [arxiv](http://arxiv.org/abs/2408.08435v1), [pdf](http://arxiv.org/pdf/2408.08435v1.pdf), cication: [**-1**](None)
+
+	 *Shengran Hu, Cong Lu, Jeff Clune* · ([ADAS](https://github.com/ShengranHu/ADAS) - ShengranHu) ![Star](https://img.shields.io/github/stars/ShengranHu/ADAS.svg?style=social&label=Star)
 - **AMEX: Android Multi-annotation Expo Dataset for Mobile GUI Agents**, `arXiv, 2407.17490`, [arxiv](http://arxiv.org/abs/2407.17490v1), [pdf](http://arxiv.org/pdf/2407.17490v1.pdf), cication: [**-1**](None)
 
 	 *Yuxiang Chai, Siyuan Huang, Yazhe Niu, Han Xiao, Liang Liu, Dingyu Zhang, Peng Gao, Shuai Ren, Hongsheng Li* · ([yuxiangchai.github](https://yuxiangchai.github.io/AMEX/))

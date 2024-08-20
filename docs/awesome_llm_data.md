@@ -352,6 +352,10 @@
 	 *Xiang Deng, Yu Gu, Boyuan Zheng, Shijie Chen, Samuel Stevens, Boshi Wang, Huan Sun, Yu Su*
 
 ### Alignment
+- **Magpie: Alignment Data Synthesis from Scratch by Prompting Aligned LLMs
+  with Nothing**, `arXiv, 2406.08464`, [arxiv](http://arxiv.org/abs/2406.08464v1), [pdf](http://arxiv.org/pdf/2406.08464v1.pdf), cication: [**2**](https://scholar.google.com/scholar?cites=15774191660364799148&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Zhangchen Xu, Fengqing Jiang, Luyao Niu, Yuntian Deng, Radha Poovendran, Yejin Choi, Bill Yuchen Lin* · ([huggingface](https://huggingface.co/datasets/Magpie-Align/Magpie-Pro-300K-Filtered?row=0)) · ([magpie](https://github.com/magpie-align/magpie) - magpie-align) ![Star](https://img.shields.io/github/stars/magpie-align/magpie.svg?style=social&label=Star) · ([magpie-align.github](https://magpie-align.github.io/))
 - [**moss-002-sft-data**](https://huggingface.co/datasets/fnlp/moss-002-sft-data?row=98) - fnlp 🤗
 - [**tasksource_dpo_pairs**](https://huggingface.co/datasets/tasksource/tasksource_dpo_pairs) - tasksource 🤗
 - [**Infinity-Instruct**](https://huggingface.co/datasets/BAAI/Infinity-Instruct) - BAAI 🤗
@@ -495,12 +499,13 @@
 	 *A one-stop data processing system to make data higher-quality, juicier, and more digestible for LLMs! 🍎 🍋 🌽 ➡️ ➡️🍸 🍹 🍷为大语言模型提供更高质量、更丰富、更易”消化“的数据！*
 
 ## Other
-- [Fetching Title#pnti](https://huggingface.co/blog/ethics-soc-6)
+- [Ethics and Society Newsletter #6: Building Better AI: The Importance of Data Quality](https://huggingface.co/blog/ethics-soc-6)
 - [Nomic Atlas](https://atlas.nomic.ai/map/f2fba2aa-3647-4f49-a0f3-9347daeee499/ee4a84bd-f125-4bcc-a683-1b4e231cb10f)
 - [**community-datasets**](https://huggingface.co/blog/community-datasets) -  🤗
 - [Synthetic data: save money, time and carbon with open source](https://huggingface.co/blog/synthetic-data-save-costs)
 - [Thinking about High-Quality Human Data | Lil'Log](https://lilianweng.github.io/posts/2024-02-05-human-data-quality/)
 
+- [Alignment下一站：合成数据](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247496962&idx=1&sn=64e580c84324861b49ab3bfe22191c58)
 - [30 个优质 NLP 数据集和模型，一键使用 8 个 demo](https://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&mid=2247561069&idx=3&sn=46849d9ae13a9a51421f839d03151281)
 
 ## Extra reference

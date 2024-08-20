@@ -528,6 +528,7 @@
 	 *Shufang Xie, Huishuai Zhang, Junliang Guo, Xu Tan, Jiang Bian, Hany Hassan Awadalla, Arul Menezes, Tao Qin, Rui Yan* · ([ResiDual](https://github.com/microsoft/ResiDual) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/ResiDual.svg?style=social&label=Star)
 
 ## Efficient Inference
+- [Text Generation Inference](https://huggingface.co/docs/text-generation-inference/en/index)
 - **ThinK: Thinner Key Cache by Query-Driven Pruning**, `arXiv, 2407.21018`, [arxiv](http://arxiv.org/abs/2407.21018v1), [pdf](http://arxiv.org/pdf/2407.21018v1.pdf), cication: [**-1**](None)
 
 	 *Yuhui Xu, Zhanming Jie, Hanze Dong, Lei Wang, Xudong Lu, Aojun Zhou, Amrita Saha, Caiming Xiong, Doyen Sahoo*
@@ -932,8 +933,10 @@
 - [**flash-linear-attention**](https://github.com/sustcsonglin/flash-linear-attention) - sustcsonglin ![Star](https://img.shields.io/github/stars/sustcsonglin/flash-linear-attention.svg?style=social&label=Star)
 
 	 *Efficient implementations of state-of-the-art linear attention models in Pytorch and Triton*
-- [Fetching Title#al68](https://huggingface.co/blog/introduction-to-ggml)
+- [Introduction to ggml](https://huggingface.co/blog/introduction-to-ggml)
 - [FlexAttention: The Flexibility of PyTorch with the Performance of FlashAttention | PyTorch](https://pytorch.org/blog/flexattention/)
+
+	 · ([eb339f9ff2261616e563ea7684d1df0c](https://gist.github.com/Chillee/eb339f9ff2261616e563ea7684d1df0c) - Chillee) ![Star](https://img.shields.io/github/stars/Chillee/eb339f9ff2261616e563ea7684d1df0c.svg?style=social&label=Star)
 - [**transformer-heads**](https://github.com/center-for-humans-and-machines/transformer-heads) - center-for-humans-and-machines ![Star](https://img.shields.io/github/stars/center-for-humans-and-machines/transformer-heads.svg?style=social&label=Star)
 
 	 *Toolkit for attaching, training, saving and loading of new heads for transformer models*

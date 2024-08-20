@@ -288,6 +288,9 @@
 	 *Weiyang Liu, Zeju Qiu, Yao Feng, Yuliang Xiu, Yuxuan Xue, Longhui Yu, Haiwen Feng, Zhen Liu, Juyeon Heo, Songyou Peng*
 
 ### Other
+- [Llama-3.1-Storm-8B: Improved SLM with Self-Curation + Model Merging](https://huggingface.co/blog/akjindal53244/llama31-storm8b)
+
+	 · ([huggingface](https://huggingface.co/akjindal53244/Llama-3.1-Storm-8B#%F0%9F%92%BB-how-to-use-the-model)) · ([x](https://x.com/marksaroufim/status/1825584558789865877))
 - [Fine-tune Llama 3.1 Ultra-Efficiently with Unsloth](https://huggingface.co/blog/mlabonne/sft-llama3)
 - [Efficiently fine-tune Llama 3 with PyTorch FSDP and Q-Lora](https://www.philschmid.de/fsdp-qlora-llama3)
 - [Answer.AI - Efficient finetuning of Llama 3 with FSDP QDoRA](https://www.answer.ai/posts/2024-04-26-fsdp-qdora-llama3.html)
@@ -453,6 +456,13 @@
 - [Weight averaging and model merging for LLMs seem to be the most interesting themes in 2024 so far. ](https://twitter.com/rasbt/status/1750180383398744106)
 
 ## MoE
+- **BAM! Just Like That: Simple and Efficient Parameter Upcycling for
+  Mixture of Experts**, `arXiv, 2408.08274`, [arxiv](http://arxiv.org/abs/2408.08274v2), [pdf](http://arxiv.org/pdf/2408.08274v2.pdf), cication: [**-1**](None)
+
+	 *Qizhen Zhang, Nikolas Gritsch, Dwaraknath Gnaneshwar, Simon Guo, David Cairuz, Bharat Venkitesh, Jakob Foerster, Phil Blunsom, Sebastian Ruder, Ahmet Ustun*
+- **Layerwise Recurrent Router for Mixture-of-Experts**, `arXiv, 2408.06793`, [arxiv](http://arxiv.org/abs/2408.06793v1), [pdf](http://arxiv.org/pdf/2408.06793v1.pdf), cication: [**-1**](None)
+
+	 *Zihan Qiu, Zeyu Huang, Shuang Cheng, Yizhi Zhou, Zili Wang, Ivan Titov, Jie Fu* · ([RMoE](https://github.com/qiuzh20/RMoE) - qiuzh20) ![Star](https://img.shields.io/github/stars/qiuzh20/RMoE.svg?style=social&label=Star)
 - **Mixture of A Million Experts**, `arXiv, 2407.04153`, [arxiv](http://arxiv.org/abs/2407.04153v1), [pdf](http://arxiv.org/pdf/2407.04153v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=3525688853177784556&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Xu Owen He*

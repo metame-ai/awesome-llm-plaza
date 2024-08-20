@@ -38,13 +38,20 @@
 # English
 
 ## Foundation
+- [Hermes 3 - NOUS RESEARCH](https://nousresearch.com/hermes3/)
+
+	 · ([nousresearch](https://nousresearch.com/wp-content/uploads/2024/08/Hermes-3-Technical-Report.pdf))
 - [**falcon-mamba-7b**](https://huggingface.co/tiiuae/falcon-mamba-7b) - tiiuae 🤗
 - [**DCLM-7B**](https://huggingface.co/apple/DCLM-7B) - apple 🤗
 - [**DCLM-1B**](https://huggingface.co/TRI-ML/DCLM-1B) - TRI-ML 🤗
 - [Minitron - a nvidia Collection](https://huggingface.co/collections/nvidia/minitron-669ac727dc9c86e6ab7f0f3e)
+
+	 · ([huggingface](https://huggingface.co/nvidia/Minitron-4B-Base))
 - [SmolLM - blazingly fast and remarkably powerful](https://huggingface.co/blog/smollm)
 
 	 · ([huggingface](https://huggingface.co/HuggingFaceTB/SmolLM-360M)) · ([huggingface](https://huggingface.co/collections/HuggingFaceTB/smollm-6695016cad7167254ce15966))
+
+	 · ([huggingface](https://huggingface.co/collections/HuggingFaceTB/local-smollms-66c0f3b2a15b4eed7fb198d0))
 - **H2O-Danube3 Technical Report**, `arXiv, 2407.09276`, [arxiv](http://arxiv.org/abs/2407.09276v1), [pdf](http://arxiv.org/pdf/2407.09276v1.pdf), cication: [**-1**](None)
 
 	 *Pascal Pfeiffer, Philipp Singer, Yauhen Babakhin, Gabor Fodor, Nischay Dhankhar, Sri Satish Ambati* · ([huggingface](https://huggingface.co/collections/h2oai/h2o-danube3-6687a993641452457854c609))
@@ -735,6 +742,10 @@
 	 *Shaolei Zhang, Qingkai Fang, Zhuocheng Zhang, Zhengrui Ma, Yan Zhou, Langlin Huang, Mengyu Bu, Shangtong Gui, Yunji Chen, Xilin Chen* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-06-30-4)) · ([BayLing](https://github.com/ictnlp/BayLing) - ictnlp) ![Star](https://img.shields.io/github/stars/ictnlp/BayLing.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/ICTNLP/bayling-13b-diff))
 
 ## Other
+- **FuxiTranyu: A Multilingual Large Language Model Trained with Balanced
+  Data**, `arXiv, 2408.06273`, [arxiv](http://arxiv.org/abs/2408.06273v2), [pdf](http://arxiv.org/pdf/2408.06273v2.pdf), cication: [**-1**](None)
+
+	 *Haoran Sun, Renren Jin, Shaoyang Xu, Leiyu Pan, Supryadi, Menglong Cui, Jiangcun Du, Yikun Lei, Lei Yang, Ling Shi*
 - [Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context](https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf)
 - [Gemini: A Family of Highly Capable Multimodal Models](https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf)
 - [**LLMs-In-China**](https://github.com/wgwang/LLMs-In-China) - wgwang ![Star](https://img.shields.io/github/stars/wgwang/LLMs-In-China.svg?style=social&label=Star)

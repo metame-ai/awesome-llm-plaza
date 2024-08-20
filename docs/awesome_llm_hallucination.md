@@ -37,7 +37,10 @@
 	 *Cunxiang Wang, Xiaoze Liu, Yuanhao Yue, Xiangru Tang, Tianhang Zhang, Cheng Jiayang, Yunzhi Yao, Wenyang Gao, Xuming Hu, Zehan Qi* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-19-2))
 
 ## Papers
+- **Training Language Models on the Knowledge Graph: Insights on
+  Hallucinations and Their Detectability**, `arXiv, 2408.07852`, [arxiv](http://arxiv.org/abs/2408.07852v1), [pdf](http://arxiv.org/pdf/2408.07852v1.pdf), cication: [**-1**](None)
 
+	 *Jiri Hron, Laura Culp, Gamaleldin Elsayed, Rosanne Liu, Ben Adlam, Maxwell Bileschi, Bernd Bohnet, JD Co-Reyes, Noah Fiedel, C. Daniel Freeman*
 - **Generation Constraint Scaling Can Mitigate Hallucination**, `arXiv, 2407.16908`, [arxiv](http://arxiv.org/abs/2407.16908v1), [pdf](http://arxiv.org/pdf/2407.16908v1.pdf), cication: [**-1**](None)
 
 	 *Georgios Kollias, Payel Das, Subhajit Chaudhury*
