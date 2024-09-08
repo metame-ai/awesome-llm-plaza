@@ -7,6 +7,13 @@
 	- [Reference](#reference)
 
 ## Survey
+- **A Survey of Embodied Learning for Object-Centric Robotic Manipulation**, `arXiv, 2408.11537`, [arxiv](http://arxiv.org/abs/2408.11537v1), [pdf](http://arxiv.org/pdf/2408.11537v1.pdf), cication: [**-1**](None)
+
+	 *Ying Zheng, Lei Yao, Yuejiao Su, Yi Zhang, Yi Wang, Sicheng Zhao, Yiyi Zhang, Lap-Pui Chau* · ([ocrm_survey](https://github.com/rayyoh/ocrm_survey) - rayyoh) ![Star](https://img.shields.io/github/stars/rayyoh/ocrm_survey.svg?style=social&label=Star)
+- **When LLMs step into the 3D World: A Survey and Meta-Analysis of 3D Tasks
+  via Multi-modal Large Language Models**, `arXiv, 2405.10255`, [arxiv](http://arxiv.org/abs/2405.10255v1), [pdf](http://arxiv.org/pdf/2405.10255v1.pdf), cication: [**3**](https://scholar.google.com/scholar?cites=3066496559366068505&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Xianzheng Ma, Yash Bhalgat, Brandon Smart, Shuai Chen, Xinghui Li, Jian Ding, Jindong Gu, Dave Zhenyu Chen, Songyou Peng, Jia-Wang Bian*
 - **Aligning Cyber Space with Physical World: A Comprehensive Survey on
   Embodied AI**, `arXiv, 2407.06886`, [arxiv](http://arxiv.org/abs/2407.06886v6), [pdf](http://arxiv.org/pdf/2407.06886v6.pdf), cication: [**2**](https://scholar.google.com/scholar?cites=5047172009300036805&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
@@ -16,6 +23,17 @@
 	 *Yeseung Kim, Dohyun Kim, Jieun Choi, Jisang Park, Nayoung Oh, Daehyung Park*
 
 ## Papers
+- **Diffusion Models Are Real-Time Game Engines**, `arXiv, 2408.14837`, [arxiv](http://arxiv.org/abs/2408.14837v1), [pdf](http://arxiv.org/pdf/2408.14837v1.pdf), cication: [**-1**](None)
+
+	 *Dani Valevski, Yaniv Leviathan, Moab Arar, Shlomi Fruchter* · ([gamengen.github](https://gamengen.github.io/))
+- **Scaling Cross-Embodied Learning: One Policy for Manipulation,
+  Navigation, Locomotion and Aviation**, `arXiv, 2408.11812`, [arxiv](http://arxiv.org/abs/2408.11812v1), [pdf](http://arxiv.org/pdf/2408.11812v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=1288216298584926140&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Ria Doshi, Homer Walke, Oier Mees, Sudeep Dasari, Sergey Levine* · ([crossformer-model.github](https://crossformer-model.github.io/))
+- **All Robots in One: A New Standard and Unified Dataset for Versatile,
+  General-Purpose Embodied Agents**, `arXiv, 2408.10899`, [arxiv](http://arxiv.org/abs/2408.10899v1), [pdf](http://arxiv.org/pdf/2408.10899v1.pdf), cication: [**-1**](None)
+
+	 *Zhiqiang Wang, Hao Zheng, Yunshuang Nie, Wenjun Xu, Qingwei Wang, Hua Ye, Zhe Li, Kaidong Zhang, Xuewen Cheng, Wanxi Dong* · ([imaei.github](https://imaei.github.io/project_pages/ario/)) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-08-23-2))
 - **Diffusion Augmented Agents: A Framework for Efficient Exploration and
   Transfer Learning**, `arXiv, 2407.20798`, [arxiv](http://arxiv.org/abs/2407.20798v1), [pdf](http://arxiv.org/pdf/2407.20798v1.pdf), cication: [**-1**](None)
 
@@ -325,6 +343,10 @@
 	 *Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao*
 
 ## Robotics
+- **ACE: A Cross-Platform Visual-Exoskeletons System for Low-Cost Dexterous
+  Teleoperation**, `arXiv, 2408.11805`, [arxiv](http://arxiv.org/abs/2408.11805v1), [pdf](http://arxiv.org/pdf/2408.11805v1.pdf), cication: [**-1**](None)
+
+	 *Shiqi Yang, Minghuan Liu, Yuzhe Qin, Runyu Ding, Jialong Li, Xuxin Cheng, Ruihan Yang, Sha Yi, Xiaolong Wang* · ([ACETeleop](https://github.com/ACETeleop/ACETeleop) - ACETeleop) ![Star](https://img.shields.io/github/stars/ACETeleop/ACETeleop.svg?style=social&label=Star) · ([ace-teleop.github](https://ace-teleop.github.io/))
 - **Berkeley Humanoid: A Research Platform for Learning-based Control**, `arXiv, 2407.21781`, [arxiv](http://arxiv.org/abs/2407.21781v1), [pdf](http://arxiv.org/pdf/2407.21781v1.pdf), cication: [**-1**](None)
 
 	 *Qiayuan Liao, Bike Zhang, Xuanyu Huang, Xiaoyu Huang, Zhongyu Li, Koushil Sreenath* · ([berkeley-humanoid](https://berkeley-humanoid.com/))
@@ -396,6 +418,8 @@
 	 · [[qbitai](https://www.qbitai.com/2023/07/69054.html)]
 
 ## Other
+- [Scaling robotics datasets with video encoding](https://huggingface.co/blog/video-encoding)
+- [HumanPlus and MobileAloha: LeRobot Tech Talk #6 by Zipeng Fu - YouTube](https://www.youtube.com/watch?v=tPz0gc6f-W8)
 - [The Road to Embodied AI - Wayve](https://wayve.ai/thinking/road-to-embodied-ai/)
 - [Pollen-Vision: Unified interface for Zero-Shot vision models in robotics](https://huggingface.co/blog/pollen-vision)
 - [A team trained Mistral 7B playing DOOM](https://twitter.com/reach_vb/status/1772008460122509525)
@@ -409,4 +433,7 @@
 - [EmbodiedGPT｜具身智能或将成为实现AGI的最后一公里](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494040&idx=1&sn=c6ada8db1bdf84a1026fd78a636b27c5)
 
 ## Reference
+- [**Awesome-Robotics-3D**](https://github.com/zubair-irshad/Awesome-Robotics-3D) - zubair-irshad ![Star](https://img.shields.io/github/stars/zubair-irshad/Awesome-Robotics-3D.svg?style=social&label=Star)
+
+	 *A curated list of 3D Vision papers relating to Robotics domain in the era of large models i.e. LLMs/VLMs, inspired by awesome-computer-vision, including papers, codes, and related websites*
 - [**Awesome-Robotics-Foundation-Models**](https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models) - robotics-survey ![Star](https://img.shields.io/github/stars/robotics-survey/Awesome-Robotics-Foundation-Models.svg?style=social&label=Star)

@@ -32,6 +32,17 @@
 	 *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang*
 
 ## Papers
+- **SysBench: Can Large Language Models Follow System Messages?**, `arXiv, 2408.10943`, [arxiv](http://arxiv.org/abs/2408.10943v1), [pdf](http://arxiv.org/pdf/2408.10943v1.pdf), cication: [**-1**](None)
+
+	 *Yanzhao Qin, Tao Zhang, Tao Zhang, Yanjun Shen, Wenjing Luo, Haoze Sun, Yan Zhang, Yujing Qiao, Weipeng Chen, Zenan Zhou* · ([SysBench](https://github.com/PKU-Baichuan-MLSystemLab/SysBench) - PKU-Baichuan-MLSystemLab) ![Star](https://img.shields.io/github/stars/PKU-Baichuan-MLSystemLab/SysBench.svg?style=social&label=Star)
+- **TableBench: A Comprehensive and Complex Benchmark for Table Question
+  Answering**, `arXiv, 2408.09174`, [arxiv](http://arxiv.org/abs/2408.09174v1), [pdf](http://arxiv.org/pdf/2408.09174v1.pdf), cication: [**-1**](None)
+
+	 *Xianjie Wu, Jian Yang, Linzheng Chai, Ge Zhang, Jiaheng Liu, Xinrun Du, Di Liang, Daixin Shu, Xianfu Cheng, Tianzhen Sun* · ([tablebench.github](https://tablebench.github.io/)) · ([TableBench](https://github.com/TableBench/TableBench) - TableBench) ![Star](https://img.shields.io/github/stars/TableBench/TableBench.svg?style=social&label=Star)
+- **Multilingual Needle in a Haystack: Investigating Long-Context Behavior
+  of Multilingual Large Language Models**, `arXiv, 2408.10151`, [arxiv](http://arxiv.org/abs/2408.10151v1), [pdf](http://arxiv.org/pdf/2408.10151v1.pdf), cication: [**-1**](None)
+
+	 *Amey Hengle, Prasoon Bajpai, Soham Dan, Tanmoy Chakraborty*
 - **Self-Taught Evaluators**, `arXiv, 2408.02666`, [arxiv](http://arxiv.org/abs/2408.02666v2), [pdf](http://arxiv.org/pdf/2408.02666v2.pdf), cication: [**-1**](None)
 
 	 *Tianlu Wang, Ilia Kulikov, Olga Golovneva, Ping Yu, Weizhe Yuan, Jane Dwivedi-Yu, Richard Yuanzhe Pang, Maryam Fazel-Zarandi, Jason Weston, Xian Li*
@@ -645,6 +656,7 @@
 	 · [huggingface](https://huggingface.co/blog/evaluating-mmlu-leaderboard)]
 
 ## Other
+- [Fetching Title#9hmk](https://eugeneyan.com/writing/llm-evaluators/)
 -  [LLM-as-a-judge techniques](https://x.com/cwolferesearch/status/1812949923010421192)
 - [CyberSecEval 2 - A Comprehensive Evaluation Framework for Cybersecurity Risks and Capabilities of Large Language Models](https://huggingface.co/blog/leaderboard-llamaguard)
 - [Introducing Hard Prompts Category in Chatbot Arena | LMSYS Org](https://lmsys.org/blog/2024-05-17-category-hard)

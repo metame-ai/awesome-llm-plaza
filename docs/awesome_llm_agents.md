@@ -25,6 +25,9 @@
 	- [Extra reference](#extra-reference)
 
 ## Survey
+- **Graph Retrieval-Augmented Generation: A Survey**, `arXiv, 2408.08921`, [arxiv](http://arxiv.org/abs/2408.08921v1), [pdf](http://arxiv.org/pdf/2408.08921v1.pdf), cication: [**-1**](None)
+
+	 *Boci Peng, Yun Zhu, Yongchao Liu, Xiaohe Bo, Haizhou Shi, Chuntao Hong, Yan Zhang, Siliang Tang*
 - **From LLMs to LLM-based Agents for Software Engineering: A Survey of
   Current, Challenges and Future**, `arXiv, 2408.02479`, [arxiv](http://arxiv.org/abs/2408.02479v1), [pdf](http://arxiv.org/pdf/2408.02479v1.pdf), cication: [**-1**](None)
 
@@ -822,6 +825,18 @@
 - [GPT-4V学会用键鼠上网，人类眼睁睁看着它发帖玩游戏 | 量子位](https://www.qbitai.com/2023/11/95456.html)
 
 ## Retrieval agumented generation
+- [**openresearcher**](https://github.com/gair-nlp/openresearcher) - gair-nlp ![Star](https://img.shields.io/github/stars/gair-nlp/openresearcher.svg?style=social&label=Star)
+- **BMX: Entropy-weighted Similarity and Semantic-enhanced Lexical Search**, `arXiv, 2408.06643`, [arxiv](http://arxiv.org/abs/2408.06643v2), [pdf](http://arxiv.org/pdf/2408.06643v2.pdf), cication: [**-1**](None)
+
+	 *Xianming Li, Julius Lipp, Aamir Shakir, Rui Huang, Jing Li* · ([baguetter](https://github.com/mixedbread-ai/baguetter) - mixedbread-ai) ![Star](https://img.shields.io/github/stars/mixedbread-ai/baguetter.svg?style=social&label=Star)
+- **RAGLAB: A Modular and Research-Oriented Unified Framework for
+  Retrieval-Augmented Generation**, `arXiv, 2408.11381`, [arxiv](http://arxiv.org/abs/2408.11381v1), [pdf](http://arxiv.org/pdf/2408.11381v1.pdf), cication: [**-1**](None)
+
+	 *Xuanwang Zhang, Yunze Song, Yidong Wang, Shuyun Tang, Xinfeng Li, Zhengran Zeng, Zhen Wu, Wei Ye, Wenyuan Xu, Yue Zhang* · ([raglab](https://github.com/fate-ubw/raglab) - fate-ubw) ![Star](https://img.shields.io/github/stars/fate-ubw/raglab.svg?style=social&label=Star)
+- **RAGChecker: A Fine-grained Framework for Diagnosing Retrieval-Augmented
+  Generation**, `arXiv, 2408.08067`, [arxiv](http://arxiv.org/abs/2408.08067v2), [pdf](http://arxiv.org/pdf/2408.08067v2.pdf), cication: [**-1**](None)
+
+	 *Dongyu Ru, Lin Qiu, Xiangkun Hu, Tianhang Zhang, Peng Shi, Shuaichen Chang, Cheng Jiayang, Cunxiang Wang, Shichao Sun, Huanyu Li* · ([ragchecker](https://github.com/amazon-science/ragchecker) - amazon-science) ![Star](https://img.shields.io/github/stars/amazon-science/ragchecker.svg?style=social&label=Star)
 - **RAG Foundry: A Framework for Enhancing LLMs for Retrieval Augmented
   Generation**, `arXiv, 2408.02545`, [arxiv](http://arxiv.org/abs/2408.02545v1), [pdf](http://arxiv.org/pdf/2408.02545v1.pdf), cication: [**-1**](None)
 
@@ -1205,7 +1220,14 @@
 - [RAG+GPT-4 Turbo让模型性能飙升！更长上下文不是终局，「大海捞针」实验成本仅4%](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652415774&idx=3&sn=8672aeb9f7cce15c3cb43620873b25bb)
 - [问答场景常用大模型解决方案](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494688&idx=2&sn=d871403a80a7fcf656ce0100f266f939)
 
+## Multimodel Agents
+- **OmAgent: A Multi-modal Agent Framework for Complex Video Understanding
+  with Task Divide-and-Conquer**, `arXiv, 2406.16620`, [arxiv](http://arxiv.org/abs/2406.16620v2), [pdf](http://arxiv.org/pdf/2406.16620v2.pdf), cication: [**-1**](None)
+
+	 *Lu Zhang, Tiancheng Zhao, Heting Ying, Yibo Ma, Kyusong Lee* · ([OmAgent](https://github.com/om-ai-lab/OmAgent) - om-ai-lab) ![Star](https://img.shields.io/github/stars/om-ai-lab/OmAgent.svg?style=social&label=Star)
+
 ## Code Interpreter
+- [Fetching Title#6xkf](https://huggingface.co/meetkai/functionary-medium-v3.1)
 - **APIGen: Automated Pipeline for Generating Verifiable and Diverse
   Function-Calling Datasets**, `arXiv, 2406.18518`, [arxiv](http://arxiv.org/abs/2406.18518v1), [pdf](http://arxiv.org/pdf/2406.18518v1.pdf), cication: [**-1**](None)
 
@@ -1268,6 +1290,7 @@
 - [各路大神献出自定义GPT，24小时Top 9名单在这 | 机器之心](https://www.jiqizhixin.com/articles/2023-11-13-13)
 
 ## Evaluation
+- [BFCL V2 • Live Dataset](https://gorilla.cs.berkeley.edu/blogs/12_bfcl_v2_live.html)
 - **CRAB: Cross-environment Agent Benchmark for Multimodal Language Model
   Agents**, `arXiv, 2407.01511`, [arxiv](http://arxiv.org/abs/2407.01511v1), [pdf](http://arxiv.org/pdf/2407.01511v1.pdf), cication: [**-1**](None)
 

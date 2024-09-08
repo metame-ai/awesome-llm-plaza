@@ -43,6 +43,9 @@
 	 *Zige Wang, Wanjun Zhong, Yufei Wang, Qi Zhu, Fei Mi, Baojun Wang, Lifeng Shang, Xin Jiang, Qun Liu*
 
 ## Techs
+- **Heavy Labels Out! Dataset Distillation with Label Space Lightening**, `arXiv, 2408.08201`, [arxiv](http://arxiv.org/abs/2408.08201v1), [pdf](http://arxiv.org/pdf/2408.08201v1.pdf), cication: [**-1**](None)
+
+	 *Ruonan Yu, Songhua Liu, Zigeng Chen, Jingwen Ye, Xinchao Wang*
 - **Data Contamination Report from the 2024 CONDA Shared Task**, `arXiv, 2407.21530`, [arxiv](http://arxiv.org/abs/2407.21530v2), [pdf](http://arxiv.org/pdf/2407.21530v2.pdf), cication: [**-1**](None)
 
 	 *Oscar Sainz, Iker García-Ferrero, Alon Jacovi, Jon Ander Campos, Yanai Elazar, Eneko Agirre, Yoav Goldberg, Wei-Lin Chen, Jenny Chim, Leshem Choshen* · ([conda-workshop.github](https://conda-workshop.github.io/))
@@ -147,6 +150,7 @@
 	 · ([datablations](https://github.com/huggingface/datablations) - huggingface) ![Star](https://img.shields.io/github/stars/huggingface/datablations.svg?style=social&label=Star)
 
 ## Datasets
+- [**minipile**](https://huggingface.co/datasets/JeanKaddour/minipile) - JeanKaddour 🤗
 - [**dclm-baseline-1.0**](https://huggingface.co/datasets/mlfoundations/dclm-baseline-1.0) - mlfoundations 🤗
 - [**smollm-corpus**](https://huggingface.co/datasets/HuggingFaceTB/smollm-corpus) - HuggingFaceTB 🤗
 - **The FineWeb Datasets: Decanting the Web for the Finest Text Data at
@@ -277,6 +281,7 @@
 	 *Suriya Gunasekar, Yi Zhang, Jyoti Aneja, Caio César Teodoro Mendes, Allie Del Giorno, Sivakanth Gopi, Mojan Javaheripi, Piero Kauffmann, Gustavo de Rosa, Olli Saarikivi* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-06-23)) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-09-14-4))
 
 ### MulitiMod
+- [**miniG**](https://huggingface.co/CausalLM/miniG) - CausalLM 🤗
 - **MedTrinity-25M: A Large-scale Multimodal Dataset with Multigranular
   Annotations for Medicine**, `arXiv, 2408.02900`, [arxiv](http://arxiv.org/abs/2408.02900v1), [pdf](http://arxiv.org/pdf/2408.02900v1.pdf), cication: [**-1**](None)
 
@@ -362,6 +367,12 @@
 - [**Capybara-Preferences**](https://huggingface.co/datasets/argilla/Capybara-Preferences) - argilla 🤗
 
 ### Synthetic 
+- [**Sonnet3.5-Charcard-Roleplay**](https://huggingface.co/datasets/Gryphe/Sonnet3.5-Charcard-Roleplay) - Gryphe 🤗
+- [**ShareLM**](https://huggingface.co/datasets/shachardon/ShareLM?row=7) - shachardon 🤗
+- **The ShareLM Collection and Plugin: Contributing Human-Model Chats for
+  the Benefit of the Community**, `arXiv, 2408.08291`, [arxiv](http://arxiv.org/abs/2408.08291v1), [pdf](http://arxiv.org/pdf/2408.08291v1.pdf), cication: [**-1**](None)
+
+	 *Shachar Don-Yehiya, Leshem Choshen, Omri Abend* · ([share-lm](https://github.com/shachardon/share-lm) - shachardon) ![Star](https://img.shields.io/github/stars/shachardon/share-lm.svg?style=social&label=Star)
 - **SynthVLM: High-Efficiency and High-Quality Synthetic Data for Vision
   Language Models**, `arXiv, 2407.20756`, [arxiv](http://arxiv.org/abs/2407.20756v2), [pdf](http://arxiv.org/pdf/2407.20756v2.pdf), cication: [**-1**](None)
 
@@ -477,6 +488,9 @@
 	 *Scott Geng, Cheng-Yu Hsieh, Vivek Ramanujan, Matthew Wallingford, Chun-Liang Li, Pang Wei Koh, Ranjay Krishna* · ([unmet-promise](https://github.com/scottgeng00/unmet-promise) - scottgeng00) ![Star](https://img.shields.io/github/stars/scottgeng00/unmet-promise.svg?style=social&label=Star)
 
 ## Toolkits
+- [**firecrawl**](https://github.com/mendableai/firecrawl) - mendableai ![Star](https://img.shields.io/github/stars/mendableai/firecrawl.svg?style=social&label=Star)
+
+	 *🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.*
 - [**quality-classifier-deberta**](https://huggingface.co/nvidia/quality-classifier-deberta) - nvidia 🤗
 - [**fineweb-edu-classifier**](https://huggingface.co/HuggingFaceFW/fineweb-edu-classifier) - HuggingFaceFW 🤗
 - [**desbordante-core**](https://github.com/Desbordante/desbordante-core) - Desbordante ![Star](https://img.shields.io/github/stars/Desbordante/desbordante-core.svg?style=social&label=Star)

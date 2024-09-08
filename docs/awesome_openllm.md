@@ -38,6 +38,7 @@
 # English
 
 ## Foundation
+- [Fetching Title#tea3](https://huggingface.co/nvidia/Mistral-NeMo-Minitron-8B-Base)
 - [Hermes 3 - NOUS RESEARCH](https://nousresearch.com/hermes3/)
 
 	 · ([nousresearch](https://nousresearch.com/wp-content/uploads/2024/08/Hermes-3-Technical-Report.pdf))
@@ -227,6 +228,12 @@
 - [**Athene-70B**](https://huggingface.co/Nexusflow/Athene-70B) - Nexusflow 🤗
 - [Fetching Title#zifu](https://huggingface.co/mlabonne/BigLlama-3.1-1T-Instruct)
 ### Jamba
+- **Jamba-1.5: Hybrid Transformer-Mamba Models at Scale**, `arXiv, 2408.12570`, [arxiv](http://arxiv.org/abs/2408.12570v1), [pdf](http://arxiv.org/pdf/2408.12570v1.pdf), cication: [**-1**](None)
+
+	 *Jamba Team, Barak Lenz, Alan Arazi, Amir Bergman, Avshalom Manevich, Barak Peleg, Ben Aviram, Chen Almagor, Clara Fridman, Dan Padnos*
+- [Jamba-1.5 - a ai21labs Collection](https://huggingface.co/collections/ai21labs/jamba-15-66c44befa474a917fcf55251)
+
+	 · ([ai21](https://www.ai21.com/blog/announcing-jamba-model-family))
 - **Jamba: A Hybrid Transformer-Mamba Language Model**, `arXiv, 2403.19887`, [arxiv](http://arxiv.org/abs/2403.19887v1), [pdf](http://arxiv.org/pdf/2403.19887v1.pdf), cication: [**-1**](None)
 
 	 *Opher Lieber, Barak Lenz, Hofit Bata, Gal Cohen, Jhonathan Osin, Itay Dalmedigos, Erez Safahi, Shaked Meirom, Yonatan Belinkov, Shai Shalev-Shwartz* · ([huggingface](https://huggingface.co/ai21labs/Jamba-v0.1))
@@ -293,6 +300,8 @@
 - [**OLMo-7B-Instruct**](https://huggingface.co/allenai/OLMo-7B-Instruct) - allenai 🤗
 
 ### Phi
+- [**webllm-phi-3.5-mini**](https://huggingface.co/spaces/cfahlgren1/webllm-phi-3.5-mini) - cfahlgren1 🤗
+- [**Phi-3.5-mini-instruct**](https://huggingface.co/microsoft/Phi-3.5-mini-instruct) - microsoft 🤗
 - [**Phi-3-mini-4k-instruct**](https://huggingface.co/microsoft/Phi-3-mini-4k-instruct) - microsoft 🤗
 - [**Phi-3-vision-128k-instruct**](https://huggingface.co/microsoft/Phi-3-vision-128k-instruct) - microsoft 🤗
 - [**models**](https://huggingface.co/models?other=phi3&sort=trending&search=microsoft) -  🤗
@@ -307,8 +316,9 @@
 - [**phi-2**](https://huggingface.co/spaces/randomblock1/phi-2) - randomblock1 🤗
 - [**phixtral-4x2_8**](https://huggingface.co/mlabonne/phixtral-4x2_8) - mlabonne 🤗
 ### Mistral
-- [Fetching Title#25bf](https://mistral.ai/news/mistral-large-2407/)
-- [Fetching Title#wvsi](https://huggingface.co/mistralai/Mistral-Large-Instruct-2407)
+- [**magnum-v2-123b**](https://huggingface.co/anthracite-org/magnum-v2-123b) - anthracite-org 🤗
+- [Large Enough | Mistral AI | Frontier AI in your hands](https://mistral.ai/news/mistral-large-2407/)
+- [**Mistral-Large-Instruct-2407**](https://huggingface.co/mistralai/Mistral-Large-Instruct-2407) - mistralai 🤗
 - [Mistral NeMo](https://mistral.ai/news/mistral-nemo/)
 - [**Mistral-Nemo-Base-2407**](https://huggingface.co/mistralai/Mistral-Nemo-Base-2407) - mistralai 🤗
 - [**Mistral-7B-Instruct-v0.3**](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3) - mistralai 🤗

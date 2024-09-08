@@ -178,6 +178,12 @@
 	 *A ChatGPT plugin that allows you to load and edit your local files in a controlled way, as well as run any Python, JavaScript, and bash script.*
 
 ## Writing
+- [**AlwaysReddy**](https://github.com/ILikeAI/AlwaysReddy) - ILikeAI ![Star](https://img.shields.io/github/stars/ILikeAI/AlwaysReddy.svg?style=social&label=Star)
+
+	 *AlwaysReddy is a LLM voice assistant that is always just a hotkey away.*
+- [Using Whipser+GPT for automatic note taking and tagging : r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/1ewi9m2/using_whipsergpt_for_automatic_note_taking_and/)
+
+	 · ([alwaysreddy_add_to_md_note](https://github.com/ILikeAI/alwaysreddy_add_to_md_note) - ILikeAI) ![Star](https://img.shields.io/github/stars/ILikeAI/alwaysreddy_add_to_md_note.svg?style=social&label=Star)
 - [**magnum-12b-v2**](https://huggingface.co/anthracite-org/magnum-12b-v2) - anthracite-org 🤗
 - [**data-to-paper**](https://github.com/technion-kishony-lab/data-to-paper) - technion-kishony-lab ![Star](https://img.shields.io/github/stars/technion-kishony-lab/data-to-paper.svg?style=social&label=Star)
 
@@ -518,6 +524,10 @@
 	 *Derong Xu, Wei Chen, Wenjun Peng, Chao Zhang, Tong Xu, Xiangyu Zhao, Xian Wu, Yefeng Zheng, Enhong Chen* · ([awesome-llm4ie-papers](https://github.com/quqxui/awesome-llm4ie-papers) - quqxui) ![Star](https://img.shields.io/github/stars/quqxui/awesome-llm4ie-papers.svg?style=social&label=Star)
 
 ## Recommendation
+- **Customizing Language Models with Instance-wise LoRA for Sequential
+  Recommendation**, `arXiv, 2408.10159`, [arxiv](http://arxiv.org/abs/2408.10159v1), [pdf](http://arxiv.org/pdf/2408.10159v1.pdf), cication: [**-1**](None)
+
+	 *Xiaoyu Kong, Jiancan Wu, An Zhang, Leheng Sheng, Hui Lin, Xiang Wang, Xiangnan He*
 - **Lifelong Personalized Low-Rank Adaptation of Large Language Models for
   Recommendation**, `arXiv, 2408.03533`, [arxiv](http://arxiv.org/abs/2408.03533v2), [pdf](http://arxiv.org/pdf/2408.03533v2.pdf), cication: [**-1**](None)
 
@@ -566,6 +576,9 @@
 	 *Chongming Gao, Wenqiang Lei, Xiangnan He, Maarten de Rijke, Tat-Seng Chua* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495345&idx=2&sn=5e3ac087c792081705dde1c2542c687a))
 
 ## Role play
+- [**Llama-3.1-8B-Stheno-v3.4**](https://huggingface.co/Sao10K/Llama-3.1-8B-Stheno-v3.4) - Sao10K 🤗
+
+	 · ([huggingface](https://huggingface.co/datasets/Gryphe/Sonnet3.5-Charcard-Roleplay))
 - [**MN-12B-Celeste-V1.9**](https://huggingface.co/nothingiisreal/MN-12B-Celeste-V1.9) - nothingiisreal 🤗
 - **Virtual Personas for Language Models via an Anthology of Backstories**, `arXiv, 2407.06576`, [arxiv](http://arxiv.org/abs/2407.06576v1), [pdf](http://arxiv.org/pdf/2407.06576v1.pdf), cication: [**-1**](None)
 
@@ -655,6 +668,9 @@
 	 *RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models*
 
 ## Chat bots
+- [**HelpingAI2-9B**](https://huggingface.co/OEvortex/HelpingAI2-9B) - OEvortex 🤗
+
+	 · ([huggingface](https://huggingface.co/datasets/OEvortex/SentimentSynth?row=11)) · ([huggingface](https://huggingface.co/datasets/OEvortex/vortex-mini?row=8))
 - **Designing a Dashboard for Transparency and Control of Conversational AI**, `arXiv, 2406.07882`, [arxiv](http://arxiv.org/abs/2406.07882v2), [pdf](http://arxiv.org/pdf/2406.07882v2.pdf), cication: [**-1**](None)
 
 	 *Yida Chen, Aoyu Wu, Trevor DePodesta, Catherine Yeh, Kenneth Li, Nicholas Castillo Marin, Oam Patel, Jan Riecke, Shivam Raval, Olivia Seow*
@@ -891,6 +907,10 @@
 	 *Official repo for LayoutGPT*
 
 ## Science
+- [**openresearcher**](https://github.com/gair-nlp/openresearcher) - gair-nlp ![Star](https://img.shields.io/github/stars/gair-nlp/openresearcher.svg?style=social&label=Star)
+- **Accelerating Giant Impact Simulations with Machine Learning**, `arXiv, 2408.08873`, [arxiv](http://arxiv.org/abs/2408.08873v1), [pdf](http://arxiv.org/pdf/2408.08873v1.pdf), cication: [**-1**](None)
+
+	 *Caleb Lammers, Miles Cranmer, Sam Hadden, Shirley Ho, Norman Murray, Daniel Tamayo* · ([spock](https://github.com/dtamayo/spock) - dtamayo) ![Star](https://img.shields.io/github/stars/dtamayo/spock.svg?style=social&label=Star)
 - **ChemVLM: Exploring the Power of Multimodal Large Language Models in
   Chemistry Area**, `arXiv, 2408.07246`, [arxiv](http://arxiv.org/abs/2408.07246v2), [pdf](http://arxiv.org/pdf/2408.07246v2.pdf), cication: [**-1**](None)
 
@@ -1000,6 +1020,13 @@
 - [快速筛选海量数据，即时做出明智决策，MIT、普林斯顿&卡内基梅隆大学团队利用LLM进行聚变研究 | 机器之心](https://www.jiqizhixin.com/articles/2024-01-04-6)
 - [2023年科研领域「 科学ChatGPT」有哪些？LLM for Science有哪些探索...... | 机器之心](https://www.jiqizhixin.com/articles/2023-12-26-10)
 ## Finance
+- **Open-FinLLMs: Open Multimodal Large Language Models for Financial
+  Applications**, `arXiv, 2408.11878`, [arxiv](http://arxiv.org/abs/2408.11878v1), [pdf](http://arxiv.org/pdf/2408.11878v1.pdf), cication: [**-1**](None)
+
+	 *Qianqian Xie, Dong Li, Mengxi Xiao, Zihao Jiang, Ruoyu Xiang, Xiao Zhang, Zhengyu Chen, Yueru He, Weiguang Han, Yuzhe Yang*
+- [**OpenBB**](https://github.com/OpenBB-finance/OpenBB) - OpenBB-finance ![Star](https://img.shields.io/github/stars/OpenBB-finance/OpenBB.svg?style=social&label=Star)
+
+	 *Investment Research for Everyone, Everywhere.*
 - [**dsRAG**](https://github.com/D-Star-AI/dsRAG) - D-Star-AI ![Star](https://img.shields.io/github/stars/D-Star-AI/dsRAG.svg?style=social&label=Star)
 
 	 *High-performance retrieval engine for unstructured data*

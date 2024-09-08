@@ -62,6 +62,9 @@
 
 	 *Vladislav Lialin, Vijeta Deshpande, Anna Rumshisky*
 ## Efficient finetuning
+- **Flexora: Flexible Low Rank Adaptation for Large Language Models**, `arXiv, 2408.10774`, [arxiv](http://arxiv.org/abs/2408.10774v2), [pdf](http://arxiv.org/pdf/2408.10774v2.pdf), cication: [**-1**](None)
+
+	 *Chenxing Wei, Yao Shu, Ying Tiffany He, Fei Richard Yu* · ([x](https://x.com/rohanpaul_ai/status/1826733730746282290))
 - **LoRA Learns Less and Forgets Less**, `arXiv, 2405.09673`, [arxiv](http://arxiv.org/abs/2405.09673v1), [pdf](http://arxiv.org/pdf/2405.09673v1.pdf), cication: [**17**](https://scholar.google.com/scholar?cites=11449236051528835430&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Dan Biderman, Jose Gonzalez Ortiz, Jacob Portes, Mansheej Paul, Philip Greengard, Connor Jennings, Daniel King, Sam Havens, Vitaliy Chiley, Jonathan Frankle*
@@ -232,6 +235,9 @@
 	 *Xunyu Zhu, Jian Li, Yong Liu, Can Ma, Weiping Wang* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-08-26-5))
 
 ### Papers
+- **MobileQuant: Mobile-friendly Quantization for On-device Language Models**, `arXiv, 2408.13933`, [arxiv](http://arxiv.org/abs/2408.13933v1), [pdf](http://arxiv.org/pdf/2408.13933v1.pdf), cication: [**-1**](None)
+
+	 *Fuwen Tan, Royson Lee, Łukasz Dudziak, Shell Xu Hu, Sourav Bhattacharya, Timothy Hospedales, Georgios Tzimiropoulos, Brais Martinez* · ([MobileQuant](https://github.com/saic-fi/MobileQuant) - saic-fi) ![Star](https://img.shields.io/github/stars/saic-fi/MobileQuant.svg?style=social&label=Star)
 - **LLMC: Benchmarking Large Language Model Quantization with a Versatile
   Compression Toolkit**, `arXiv, 2405.06001`, [arxiv](http://arxiv.org/abs/2405.06001v2), [pdf](http://arxiv.org/pdf/2405.06001v2.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=8755898344620001632&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
@@ -421,6 +427,9 @@
 - [Quantization](https://huggingface.co/docs/accelerate/usage_guides/quantization)
 
 ## Distillation
+- **LLM Pruning and Distillation in Practice: The Minitron Approach**, `arXiv, 2408.11796`, [arxiv](http://arxiv.org/abs/2408.11796v2), [pdf](http://arxiv.org/pdf/2408.11796v2.pdf), cication: [**-1**](None)
+
+	 *Sharath Turuvekere Sreenivas, Saurav Muralidharan, Raviraj Joshi, Marcin Chochowski, Mostofa Patwary, Mohammad Shoeybi, Bryan Catanzaro, Jan Kautz, Pavlo Molchanov*
 - [DistillKit - Arcee-AI](https://arcee-ai-distillkit.my.canva.site/)
 
 	 · ([DistillKit](https://github.com/arcee-ai/DistillKit) - arcee-ai) ![Star](https://img.shields.io/github/stars/arcee-ai/DistillKit.svg?style=social&label=Star)
@@ -528,6 +537,23 @@
 	 *Shufang Xie, Huishuai Zhang, Junliang Guo, Xu Tan, Jiang Bian, Hany Hassan Awadalla, Arul Menezes, Tao Qin, Rui Yan* · ([ResiDual](https://github.com/microsoft/ResiDual) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/ResiDual.svg?style=social&label=Star)
 
 ## Efficient Inference
+- **NanoFlow: Towards Optimal Large Language Model Serving Throughput**, `arXiv, 2408.12757`, [arxiv](http://arxiv.org/abs/2408.12757v1), [pdf](http://arxiv.org/pdf/2408.12757v1.pdf), cication: [**-1**](None)
+
+	 *Kan Zhu, Yilong Zhao, Liangyu Zhao, Gefei Zuo, Yile Gu, Dedong Xie, Yufei Gao, Qinyu Xu, Tian Tang, Zihao Ye* · ([Nanoflow](https://github.com/efeslab/Nanoflow) - efeslab) ![Star](https://img.shields.io/github/stars/efeslab/Nanoflow.svg?style=social&label=Star)
+- **LlamaDuo: LLMOps Pipeline for Seamless Migration from Service LLMs to
+  Small-Scale Local LLMs**, `arXiv, 2408.13467`, [arxiv](http://arxiv.org/abs/2408.13467v2), [pdf](http://arxiv.org/pdf/2408.13467v2.pdf), cication: [**-1**](None)
+
+	 *Chansung Park, Juyong Jiang, Fan Wang, Sayak Paul, Jing Tang* · ([llamaduo](https://github.com/deep-diver/llamaduo) - deep-diver) ![Star](https://img.shields.io/github/stars/deep-diver/llamaduo.svg?style=social&label=Star)
+- [How to double tokens per second for Llama 3 with Medusa](https://www.baseten.co/blog/how-to-double-tokens-per-second-for-llama-3-with-medusa/)
+
+	 · ([x](https://x.com/basetenco/status/1825897599573844107))
+- [**LitServe**](https://github.com/Lightning-AI/LitServe) - Lightning-AI ![Star](https://img.shields.io/github/stars/Lightning-AI/LitServe.svg?style=social&label=Star)
+
+	 *High-throughput serving engine for AI models. Easy to use. Flexible. Enterprise scale.* · ([lightning](https://lightning.ai/docs/litserve/home/speed-up-serving-by-200x))
+- **MagicDec: Breaking the Latency-Throughput Tradeoff for Long Context
+  Generation with Speculative Decoding**, `arXiv, 2408.11049`, [arxiv](http://arxiv.org/abs/2408.11049v3), [pdf](http://arxiv.org/pdf/2408.11049v3.pdf), cication: [**-1**](None)
+
+	 *Jian Chen, Vashisth Tiwari, Ranajoy Sadhukhan, Zhuoming Chen, Jinyuan Shi, Ian En-Hsu Yen, Beidi Chen* · ([MagicDec](https://github.com/Infini-AI-Lab/MagicDec/) - Infini-AI-Lab) ![Star](https://img.shields.io/github/stars/Infini-AI-Lab/MagicDec.svg?style=social&label=Star)
 - [Text Generation Inference](https://huggingface.co/docs/text-generation-inference/en/index)
 - **ThinK: Thinner Key Cache by Query-Driven Pruning**, `arXiv, 2407.21018`, [arxiv](http://arxiv.org/abs/2407.21018v1), [pdf](http://arxiv.org/pdf/2407.21018v1.pdf), cication: [**-1**](None)
 
@@ -872,6 +898,7 @@
 	 *Port of Facebook's LLaMA model in C/C++* · ([ggml](http://ggml.ai/)) · ([llama.cpp](https://github.com/ggerganov/llama.cpp/discussions/205) - ggerganov) ![Star](https://img.shields.io/github/stars/ggerganov/llama.cpp.svg?style=social&label=Star)
 
 ### Other
+- [Cerebras This is instant A](https://inference.cerebras.ai/)
 - [Faster ternary inference is possible : r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/1egg8qx/faster_ternary_inference_is_possible/)
 - [Benchmarking Text Generation Inference](https://huggingface.co/blog/tgi-benchmarking)
 - [Accelerate Mixtral 8x7B with Speculative Decoding and Quantziation on Amazon SageMaker](https://www.philschmid.de/sagemaker-awq-medusa)

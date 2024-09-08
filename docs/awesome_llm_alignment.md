@@ -39,6 +39,13 @@
 	 *Yufei Wang, Wanjun Zhong, Liangyou Li, Fei Mi, Xingshan Zeng, Wenyong Huang, Lifeng Shang, Xin Jiang, Qun Liu* · ([AlignLLMHumanSurvey](https://github.com/GaryYufei/AlignLLMHumanSurvey) - GaryYufei) ![Star](https://img.shields.io/github/stars/GaryYufei/AlignLLMHumanSurvey.svg?style=social&label=Star)
 
 ## Paper & Projects
+- **Personality Alignment of Large Language Models**, `arXiv, 2408.11779`, [arxiv](http://arxiv.org/abs/2408.11779v1), [pdf](http://arxiv.org/pdf/2408.11779v1.pdf), cication: [**-1**](None)
+
+	 *Minjun Zhu, Linyi Yang, Yue Zhang* · ([PAlign](https://github.com/zhu-minjun/PAlign) - zhu-minjun) ![Star](https://img.shields.io/github/stars/zhu-minjun/PAlign.svg?style=social&label=Star)
+- **I-SHEEP: Self-Alignment of LLM from Scratch through an Iterative
+  Self-Enhancement Paradigm**, `arXiv, 2408.08072`, [arxiv](http://arxiv.org/abs/2408.08072v2), [pdf](http://arxiv.org/pdf/2408.08072v2.pdf), cication: [**-1**](None)
+
+	 *Yiming Liang, Ge Zhang, Xingwei Qu, Tianyu Zheng, Jiawei Guo, Xinrun Du, Zhenzhu Yang, Jiaheng Liu, Chenghua Lin, Lei Ma*
 - **Course-Correction: Safety Alignment Using Synthetic Preferences**, `arXiv, 2407.16637`, [arxiv](http://arxiv.org/abs/2407.16637v1), [pdf](http://arxiv.org/pdf/2407.16637v1.pdf), cication: [**-1**](None)
 
 	 *Rongwu Xu, Yishuo Cai, Zhenhong Zhou, Renjie Gu, Haiqin Weng, Yan Liu, Tianwei Zhang, Wei Xu, Han Qiu*
@@ -274,6 +281,12 @@
 	 *Timo Kaufmann, Paul Weng, Viktor Bengs, Eyke Hüllermeier*
 
 ## Papers
+- **Generative Verifiers: Reward Modeling as Next-Token Prediction**, `arXiv, 2408.15240`, [arxiv](http://arxiv.org/abs/2408.15240v1), [pdf](http://arxiv.org/pdf/2408.15240v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=3003095881399838944&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Lunjun Zhang, Arian Hosseini, Hritik Bansal, Mehran Kazemi, Aviral Kumar, Rishabh Agarwal*
+- **Critique-out-Loud Reward Models**, `arXiv, 2408.11791`, [arxiv](http://arxiv.org/abs/2408.11791v1), [pdf](http://arxiv.org/pdf/2408.11791v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=6010470182001940159&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Zachary Ankner, Mansheej Paul, Brandon Cui, Jonathan D. Chang, Prithviraj Ammanabrolu*
 - **Understanding Reference Policies in Direct Preference Optimization**, `arXiv, 2407.13709`, [arxiv](http://arxiv.org/abs/2407.13709v1), [pdf](http://arxiv.org/pdf/2407.13709v1.pdf), cication: [**-1**](None)
 
 	 *Yixin Liu, Pengfei Liu, Arman Cohan* · ([refdpo](https://github.com/yale-nlp/refdpo) - yale-nlp) ![Star](https://img.shields.io/github/stars/yale-nlp/refdpo.svg?style=social&label=Star)

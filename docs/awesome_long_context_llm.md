@@ -42,6 +42,10 @@
 	 *Adyasha Maharana, Dong-Ho Lee, Sergey Tulyakov, Mohit Bansal, Francesco Barbieri, Yuwei Fang*
 
 ## Papers
+
+- **FocusLLM: Scaling LLM's Context by Parallel Decoding**, `arXiv, 2408.11745`, [arxiv](http://arxiv.org/abs/2408.11745v1), [pdf](http://arxiv.org/pdf/2408.11745v1.pdf), cication: [**-1**](None)
+
+	 *Zhenyu Li, Yike Zhang, Tengyu Pan, Yutao Sun, Zhichao Duan, Junjie Fang, Rong Han, Zixuan Wang, Jianyong Wang* · ([FocusLLM](https://github.com/leezythu/FocusLLM) - leezythu) ![Star](https://img.shields.io/github/stars/leezythu/FocusLLM.svg?style=social&label=Star)
 - **LongWriter: Unleashing 10,000+ Word Generation from Long Context LLMs**, `arXiv, 2408.07055`, [arxiv](http://arxiv.org/abs/2408.07055v1), [pdf](http://arxiv.org/pdf/2408.07055v1.pdf), cication: [**-1**](None)
 
 	 *Yushi Bai, Jiajie Zhang, Xin Lv, Linzhi Zheng, Siqi Zhu, Lei Hou, Yuxiao Dong, Jie Tang, Juanzi Li* · ([LongWriter](https://github.com/THUDM/LongWriter) - THUDM) ![Star](https://img.shields.io/github/stars/THUDM/LongWriter.svg?style=social&label=Star)
@@ -282,6 +286,10 @@
 - **Lost in the Middle: How Language Models Use Long Contexts**, `arXiv, 2307.03172`, [arxiv](http://arxiv.org/abs/2307.03172v2), [pdf](http://arxiv.org/pdf/2307.03172v2.pdf), cication: [**64**](https://scholar.google.com/scholar?cites=9077647831317733932&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Nelson F. Liu, Kevin Lin, John Hewitt, Ashwin Paranjape, Michele Bevilacqua, Fabio Petroni, Percy Liang*
+- **Compressing Context to Enhance Inference Efficiency of Large Language
+  Models**, `arXiv, 2310.06201`, [arxiv](http://arxiv.org/abs/2310.06201v1), [pdf](http://arxiv.org/pdf/2310.06201v1.pdf), cication: [**45**](https://scholar.google.com/scholar?cites=13868303632723655161&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Yucheng Li, Bo Dong, Chenghua Lin, Frank Guerin* · ([selective_context](https://github.com/liyucheng09/selective_context) - liyucheng09) ![Star](https://img.shields.io/github/stars/liyucheng09/selective_context.svg?style=social&label=Star)
 - **LongNet: Scaling Transformers to 1,000,000,000 Tokens**, `arXiv, 2307.02486`, [arxiv](http://arxiv.org/abs/2307.02486v2), [pdf](http://arxiv.org/pdf/2307.02486v2.pdf), cication: [**15**](https://scholar.google.com/scholar?cites=9993250623533435628&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Jiayu Ding, Shuming Ma, Li Dong, Xingxing Zhang, Shaohan Huang, Wenhui Wang, Nanning Zheng, Furu Wei*

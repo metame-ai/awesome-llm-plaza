@@ -21,6 +21,9 @@
 
 
 ## Pretrain
+- **To Code, or Not To Code? Exploring Impact of Code in Pre-training**, `arXiv, 2408.10914`, [arxiv](http://arxiv.org/abs/2408.10914v1), [pdf](http://arxiv.org/pdf/2408.10914v1.pdf), cication: [**-1**](None)
+
+	 *Viraat Aryabumi, Yixuan Su, Raymond Ma, Adrien Morisot, Ivan Zhang, Acyr Locatelli, Marzieh Fadaee, Ahmet Üstün, Sara Hooker*
 - **POA: Pre-training Once for Models of All Sizes**, `arXiv, 2408.01031`, [arxiv](http://arxiv.org/abs/2408.01031v1), [pdf](http://arxiv.org/pdf/2408.01031v1.pdf), cication: [**-1**](None)
 
 	 *Yingying Zhang, Xin Guo, Jiangwei Lao, Lei Yu, Lixiang Ru, Jian Wang, Guo Ye, Huimei He, Jingdong Chen, Ming Yang* · ([POA](https://github.com/Qichuzyy/POA) - Qichuzyy) ![Star](https://img.shields.io/github/stars/Qichuzyy/POA.svg?style=social&label=Star)
@@ -288,6 +291,14 @@
 	 *Weiyang Liu, Zeju Qiu, Yao Feng, Yuliang Xiu, Yuxuan Xue, Longhui Yu, Haiwen Feng, Zhen Liu, Juyeon Heo, Songyou Peng*
 
 ### Other
+- [Site Unreachable](https://ai.meta.com/blog/how-to-fine-tune-llms-peft-dataset-curation/)
+- [Site Unreachable](https://ai.meta.com/blog/when-to-fine-tune-llms-vs-other-techniques/)
+- [Site Unreachable](https://ai.meta.com/blog/adapting-large-language-models-llms/)
+
+	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652515439&idx=3&sn=93f409d18116778aa6749da1f671afbf))
+- [A recipe for frontier model post-training](https://www.interconnects.ai/p/frontier-model-post-training)
+
+	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652513055&idx=4&sn=b6c8871de918f070cf6580a802fbada0))
 - [Llama-3.1-Storm-8B: Improved SLM with Self-Curation + Model Merging](https://huggingface.co/blog/akjindal53244/llama31-storm8b)
 
 	 · ([huggingface](https://huggingface.co/akjindal53244/Llama-3.1-Storm-8B#%F0%9F%92%BB-how-to-use-the-model)) · ([x](https://x.com/marksaroufim/status/1825584558789865877))
@@ -330,6 +341,11 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652375732&idx=2&sn=1cb4cefcd791af2a6ffacdf99e35225c))
 
 ## Optimization
+- **Power Scheduler: A Batch Size and Token Number Agnostic Learning Rate
+  Scheduler**, `arXiv, 2408.13359`, [arxiv](http://arxiv.org/abs/2408.13359v1), [pdf](http://arxiv.org/pdf/2408.13359v1.pdf), cication: [**-1**](None)
+
+	 *Yikang Shen, Matthew Stallone, Mayank Mishra, Gaoyuan Zhang, Shawn Tan, Aditya Prasad, Adriana Meza Soria, David D. Cox, Rameswar Panda* · ([huggingface](https://huggingface.co/collections/ibm/power-lm-66be64ae647ddf11b9808000))
+- [**grokadamw**](https://github.com/cognitivecomputations/grokadamw) - cognitivecomputations ![Star](https://img.shields.io/github/stars/cognitivecomputations/grokadamw.svg?style=social&label=Star)
 - **Patch-Level Training for Large Language Models**, `arXiv, 2407.12665`, [arxiv](http://arxiv.org/abs/2407.12665v1), [pdf](http://arxiv.org/pdf/2407.12665v1.pdf), cication: [**-1**](None)
 
 	 *Chenze Shao, Fandong Meng, Jie Zhou* · ([PatchTrain](https://github.com/shaochenze/PatchTrain) - shaochenze) ![Star](https://img.shields.io/github/stars/shaochenze/PatchTrain.svg?style=social&label=Star)
@@ -603,6 +619,15 @@
 	 *Juhao Liang, Ziwei Wang, Zhuoheng Ma, Jianquan Li, Zhiyi Zhang, Xiangbo Wu, Benyou Wang*
 
 ## Toolkits
+- [**DisTrO**](https://github.com/NousResearch/DisTrO/tree/main?tab=readme-ov-file) - NousResearch ![Star](https://img.shields.io/github/stars/NousResearch/DisTrO.svg?style=social&label=Star)
+
+	 *Distributed Training Over-The-Internet*
+- [**1.5-Pints**](https://github.com/Pints-AI/1.5-Pints) - Pints-AI ![Star](https://img.shields.io/github/stars/Pints-AI/1.5-Pints.svg?style=social&label=Star)
+
+	 *A compact LLM pretrained in 9 days by using high quality data*
+- [**Liger-Kernel**](https://github.com/linkedin/Liger-Kernel) - linkedin ![Star](https://img.shields.io/github/stars/linkedin/Liger-Kernel.svg?style=social&label=Star)
+
+	 *Efficient Triton Kernels for LLM Training*
 - [**cookbook**](https://github.com/EleutherAI/cookbook) - EleutherAI ![Star](https://img.shields.io/github/stars/EleutherAI/cookbook.svg?style=social&label=Star)
 
 	 *Deep learning for dummies. All the practical details and useful utilities that go into working with real models.*
@@ -692,6 +717,7 @@
 - [Zero 论文精读【论文精读】\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1tY411g7ZT/?spm_id_from=333.788&vd_source=1453a06a1e0b377f5c40946333b4423a)
 
 ## Other
+- [**packing-with-FA2**](https://huggingface.co/blog/packing-with-FA2) -  🤗
 - [**deepspeed-to-fsdp-and-back**](https://huggingface.co/blog/deepspeed-to-fsdp-and-back) -  🤗
 - [Training great LLMs entirely from ground zero in the wilderness as a startup — Yi Tay](https://www.yitay.net/blog/training-great-llms-entirely-from-ground-zero-in-the-wilderness)
 

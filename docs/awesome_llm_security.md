@@ -33,6 +33,10 @@
 - [**Adversarial Attacks on LLMs | Lil'Log**](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/)
 
 ## Red teaming
+- **Ferret: Faster and Effective Automated Red Teaming with Reward-Based
+  Scoring Technique**, `arXiv, 2408.10701`, [arxiv](http://arxiv.org/abs/2408.10701v1), [pdf](http://arxiv.org/pdf/2408.10701v1.pdf), cication: [**-1**](None)
+
+	 *Tej Deep Pala, Vernon Y. H. Toh, Rishabh Bhardwaj, Soujanya Poria* · ([ferret](https://github.com/declare-lab/ferret) - declare-lab) ![Star](https://img.shields.io/github/stars/declare-lab/ferret.svg?style=social&label=Star)
 - [Challenges in Red Teaming AI Systems \\ Anthropic](https://www.anthropic.com/news/challenges-in-red-teaming-ai-systems)
 - **ALERT: A Comprehensive Benchmark for Assessing Large Language Models'
   Safety through Red Teaming**, `arXiv, 2404.08676`, [arxiv](http://arxiv.org/abs/2404.08676v1), [pdf](http://arxiv.org/pdf/2404.08676v1.pdf), cication: [**-1**](None)
@@ -74,6 +78,25 @@
 	 *Stephen Casper, Jason Lin, Joe Kwon, Gatlen Culp, Dylan Hadfield-Menell*
 
 ## Papers
+- **CYBERSECEVAL 3: Advancing the Evaluation of Cybersecurity Risks and
+  Capabilities in Large Language Models**, `arXiv, 2408.01605`, [arxiv](http://arxiv.org/abs/2408.01605v1), [pdf](http://arxiv.org/pdf/2408.01605v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=12377625893403588904&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Shengye Wan, Cyrus Nikolaidis, Daniel Song, David Molnar, James Crnkovich, Jayson Grace, Manish Bhatt, Sahana Chennabasappa, Spencer Whitman, Stephanie Ding*
+- **Efficient Detection of Toxic Prompts in Large Language Models**, `arXiv, 2408.11727`, [arxiv](http://arxiv.org/abs/2408.11727v1), [pdf](http://arxiv.org/pdf/2408.11727v1.pdf), cication: [**-1**](None)
+
+	 *Yi Liu, Junzhe Yu, Huijia Sun, Ling Shi, Gelei Deng, Yuqi Chen, Yang Liu*
+- **BackdoorLLM: A Comprehensive Benchmark for Backdoor Attacks on Large
+  Language Models**, `arXiv, 2408.12798`, [arxiv](http://arxiv.org/abs/2408.12798v1), [pdf](http://arxiv.org/pdf/2408.12798v1.pdf), cication: [**-1**](None)
+
+	 *Yige Li, Hanxun Huang, Yunhan Zhao, Xingjun Ma, Jun Sun* · ([BackdoorLLM](https://github.com/bboylyg/BackdoorLLM) - bboylyg) ![Star](https://img.shields.io/github/stars/bboylyg/BackdoorLLM.svg?style=social&label=Star)
+- **Empirical Analysis of Large Vision-Language Models against Goal
+  Hijacking via Visual Prompt Injection**, `arXiv, 2408.03554`, [arxiv](http://arxiv.org/abs/2408.03554v1), [pdf](http://arxiv.org/pdf/2408.03554v1.pdf), cication: [**-1**](None)
+
+	 *Subaru Kimura, Ryota Tanaka, Shumpei Miyawaki, Jun Suzuki, Keisuke Sakaguchi*
+- **Cybench: A Framework for Evaluating Cybersecurity Capabilities and Risk
+  of Language Models**, `arXiv, 2408.08926`, [arxiv](http://arxiv.org/abs/2408.08926v1), [pdf](http://arxiv.org/pdf/2408.08926v1.pdf), cication: [**-1**](None)
+
+	 *Andy K. Zhang, Neil Perry, Riya Dulepet, Eliot Jones, Justin W. Lin, Joey Ji, Celeste Menders, Gashon Hussein, Samantha Liu, Donovan Jasper* · ([cybench](https://github.com/andyzorigin/cybench) - andyzorigin) ![Star](https://img.shields.io/github/stars/andyzorigin/cybench.svg?style=social&label=Star)
 - **WalledEval: A Comprehensive Safety Evaluation Toolkit for Large Language
   Models**, `arXiv, 2408.03837`, [arxiv](http://arxiv.org/abs/2408.03837v1), [pdf](http://arxiv.org/pdf/2408.03837v1.pdf), cication: [**-1**](None)
 

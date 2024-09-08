@@ -27,6 +27,13 @@
 	- [Extra reference](#extra-reference)
 
 ## Survey
+- **Controllable Text Generation for Large Language Models: A Survey**, `arXiv, 2408.12599`, [arxiv](http://arxiv.org/abs/2408.12599v1), [pdf](http://arxiv.org/pdf/2408.12599v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=16876198695229003709&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Xun Liang, Hanyu Wang, Yezhaohui Wang, Shichao Song, Jiawei Yang, Simin Niu, Jie Hu, Dan Liu, Shunyu Yao, Feiyu Xiong* · ([CTGSurvey](https://github.com/IAAR-Shanghai/CTGSurvey) - IAAR-Shanghai) ![Star](https://img.shields.io/github/stars/IAAR-Shanghai/CTGSurvey.svg?style=social&label=Star)
+- **Language Modeling on Tabular Data: A Survey of Foundations, Techniques
+  and Evolution**, `arXiv, 2408.10548`, [arxiv](http://arxiv.org/abs/2408.10548v1), [pdf](http://arxiv.org/pdf/2408.10548v1.pdf), cication: [**-1**](None)
+
+	 *Yucheng Ruan, Xiang Lan, Jingying Ma, Yizhi Dong, Kai He, Mengling Feng* · ([Language-Modeling-on-Tabular-Data-Survey.git](https://github.com/lanxiang1017/Language-Modeling-on-Tabular-Data-Survey.git) - lanxiang1017) ![Star](https://img.shields.io/github/stars/lanxiang1017/Language-Modeling-on-Tabular-Data-Survey.git.svg?style=social&label=Star)
 - **A Survey of Mamba**, `arXiv, 2408.01129`, [arxiv](http://arxiv.org/abs/2408.01129v1), [pdf](http://arxiv.org/pdf/2408.01129v1.pdf), cication: [**-1**](None)
 
 	 *Haohao Qu, Liangbo Ning, Rui An, Wenqi Fan, Tyler Derr, Xin Xu, Qing Li*
@@ -323,6 +330,14 @@
 	 *Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers*
 
 ## State Space Model
+- [**Zamba2-1.2B**](https://huggingface.co/Zyphra/Zamba2-1.2B) - Zyphra 🤗
+- **The Mamba in the Llama: Distilling and Accelerating Hybrid Models**, `arXiv, 2408.15237`, [arxiv](http://arxiv.org/abs/2408.15237v1), [pdf](http://arxiv.org/pdf/2408.15237v1.pdf), cication: [**-1**](None)
+
+	 *Junxiong Wang, Daniele Paliotta, Avner May, Alexander M. Rush, Tri Dao* · ([MambaInLlama](https://github.com/jxiw/MambaInLlama) - jxiw) ![Star](https://img.shields.io/github/stars/jxiw/MambaInLlama.svg?style=social&label=Star)
+- **Transformers to SSMs: Distilling Quadratic Knowledge to Subquadratic
+  Models**, `arXiv, 2408.10189`, [arxiv](http://arxiv.org/abs/2408.10189v1), [pdf](http://arxiv.org/pdf/2408.10189v1.pdf), cication: [**-1**](None)
+
+	 *Aviv Bick, Kevin Y. Li, Eric P. Xing, J. Zico Kolter, Albert Gu* · ([phi-mamba](https://github.com/goombalab/phi-mamba) - goombalab) ![Star](https://img.shields.io/github/stars/goombalab/phi-mamba.svg?style=social&label=Star)
 - **A Survey of Mamba**, `arXiv, 2408.01129`, [arxiv](http://arxiv.org/abs/2408.01129v1), [pdf](http://arxiv.org/pdf/2408.01129v1.pdf), cication: [**-1**](None)
 
 	 *Haohao Qu, Liangbo Ning, Rui An, Wenqi Fan, Tyler Derr, Xin Xu, Qing Li*
@@ -933,6 +948,7 @@
 - [MIT新研究：打工人不用担心被AI淘汰！成本巨贵，视觉工作只有23%可替代](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652436863&idx=3&sn=cd329df965557870646c7dd6fcb460cc)
 
 ## Course & Tutorial
+- [Lectures](https://dlsyscourse.org/lectures/)
 - [**cookbook**](https://github.com/EleutherAI/cookbook) - EleutherAI ![Star](https://img.shields.io/github/stars/EleutherAI/cookbook.svg?style=social&label=Star)
 
 	 *Deep learning for dummies. All the practical details and useful utilities that go into working with real models.*

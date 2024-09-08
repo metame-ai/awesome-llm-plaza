@@ -450,6 +450,10 @@
 - [大模型Fewshot推理如何选择更好的示例](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495177&idx=2&sn=fe8353efed16a81e35462be06d5a6cea)
 
 ## Math reasoning
+- **InfinityMATH: A Scalable Instruction Tuning Dataset in Programmatic
+  Mathematical Reasoning**, `arXiv, 2408.07089`, [arxiv](http://arxiv.org/abs/2408.07089v1), [pdf](http://arxiv.org/pdf/2408.07089v1.pdf), cication: [**-1**](None)
+
+	 *Bo-Wen Zhang, Yan Yan, Lin Li, Guang Liu* · ([huggingface](https://huggingface.co/datasets/flagopen/InfinityMATH))
 - **DeepSeek-Prover-V1.5: Harnessing Proof Assistant Feedback for
   Reinforcement Learning and Monte-Carlo Tree Search**, `arXiv, 2408.08152`, [arxiv](http://arxiv.org/abs/2408.08152v1), [pdf](http://arxiv.org/pdf/2408.08152v1.pdf), cication: [**-1**](None)
 
@@ -817,7 +821,7 @@
 	 *Maciej Besta, Nils Blach, Ales Kubicek, Robert Gerstenberger, Lukas Gianinazzi, Joanna Gajda, Tomasz Lehmann, Michal Podstawski, Hubert Niewiadomski, Piotr Nyczyk* · ([graph-of-thoughts](https://github.com/spcl/graph-of-thoughts) - spcl) ![Star](https://img.shields.io/github/stars/spcl/graph-of-thoughts.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-08-25-3))
 
 ### Other
-- [Fetching Title#ga2j](https://www.theverge.com/2024/8/5/24213861/apple-intelligence-instructions-macos-15-1-sequoia-beta)
+- [Apple Intelligence instructions](https://www.theverge.com/2024/8/5/24213861/apple-intelligence-instructions-macos-15-1-sequoia-beta)
 - [Modern Advances in Prompt Engineering](https://cameronrwolfe.substack.com/p/modern-advances-in-prompt-engineering)
 - [Improving Prompt Consistency with Structured Generations](https://huggingface.co/blog/evaluation-structured-outputs)
 - [Lessons after a half-billion GPT tokens - Ken Kantzer's Blog](https://kenkantzer.com/lessons-after-a-half-billion-gpt-tokens)
@@ -829,6 +833,7 @@
 - [Stanford CS25: V3 I Beyond LLMs: Agents, Emergent Abilities, Intermediate-Guided Reasoning, BabyLM - YouTube](https://youtu.be/ylEk1TE1uBo?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM&t=469)
 - [Steering at the Frontier: Extending the Power of Prompting - Microsoft Research](https://www.microsoft.com/en-us/research/blog/steering-at-the-frontier-extending-the-power-of-prompting/)
 
+- [Claude才是真正的Open AI？连系统提示词都公布了！](https://mp.weixin.qq.com/s/A1RCQY4bY8H9JZ2G06qADQ)
 - [万字长文 - LLM prompt tutorial](https://mp.weixin.qq.com/s?__biz=MzI1MjQ2OTQ3Ng==&mid=2247634224&idx=1&sn=d08626602cdeba68c01761b86bbddc1b)
 - [Meta官方的Prompt工程指南：Llama 2这样用更高效 | 机器之心](https://www.jiqizhixin.com/articles/2024-01-29-13)
 - [OpenAI官方的Prompt工程指南：你可以这么玩ChatGPT | 机器之心](https://www.jiqizhixin.com/articles/2023-12-18-17)
@@ -904,6 +909,7 @@
 - [大模型Fewshot推理如何选择更好的示例](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495177&idx=2&sn=fe8353efed16a81e35462be06d5a6cea&poc_token=HE6fdWWjA3UlhR8UcCAzGYGsTFLzGAxqYc3EV_8T)
 
 ## Knowledge
+- [**fact-finder**](https://github.com/chrschy/fact-finder) - chrschy ![Star](https://img.shields.io/github/stars/chrschy/fact-finder.svg?style=social&label=Star)
 - [**Triplex**](https://huggingface.co/SciPhi/Triplex) - SciPhi 🤗
 - **StructLM: Towards Building Generalist Models for Structured Knowledge
   Grounding**, `arXiv, 2402.16671`, [arxiv](http://arxiv.org/abs/2402.16671v1), [pdf](http://arxiv.org/pdf/2402.16671v1.pdf), cication: [**-1**](None)

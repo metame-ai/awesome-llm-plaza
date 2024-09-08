@@ -15,6 +15,9 @@
 	- [Reference](#reference)
 
 ## Survey
+- **A Survey on Benchmarks of Multimodal Large Language Models**, `arXiv, 2408.08632`, [arxiv](http://arxiv.org/abs/2408.08632v1), [pdf](http://arxiv.org/pdf/2408.08632v1.pdf), cication: [**-1**](None)
+
+	 *Jian Li, Weiheng Lu* · ([Evaluation-Multimodal-LLMs-Survey](https://github.com/swordlidev/Evaluation-Multimodal-LLMs-Survey) - swordlidev) ![Star](https://img.shields.io/github/stars/swordlidev/Evaluation-Multimodal-LLMs-Survey.svg?style=social&label=Star)
 - **Understanding Alignment in Multimodal LLMs: A Comprehensive Study**, `arXiv, 2407.02477`, [arxiv](http://arxiv.org/abs/2407.02477v1), [pdf](http://arxiv.org/pdf/2407.02477v1.pdf), cication: [**-1**](None)
 
 	 *Elmira Amirloo, Jean-Philippe Fauconnier, Christoph Roesmann, Christian Kerl, Rinu Boney, Yusu Qian, Zirui Wang, Afshin Dehghan, Yinfei Yang, Zhe Gan*
@@ -43,6 +46,7 @@
 
 ## Vision
 ### Vision Encoder
+- [On the speed of ViTs and CNNs](http://lucasb.eyer.be/articles/vit_cnn_speed.html)
 - [**toc_h-dcid**](https://github.com/haihuangcode/toc_h-dcid) - haihuangcode ![Star](https://img.shields.io/github/stars/haihuangcode/toc_h-dcid.svg?style=social&label=Star)
 
 	 *This is the Pytorch implementation of our paper: Unlocking the Potential of Multimodal Unified Discrete Representation through Training-Free Codebook Optimization and Hierarchical Alignment*
@@ -158,6 +162,8 @@
   Understanding in Video-LLMs**, `arXiv, 2406.07476`, [arxiv](http://arxiv.org/abs/2406.07476v1), [pdf](http://arxiv.org/pdf/2406.07476v1.pdf), cication: [**-1**](None)
 
 	 *Zesen Cheng, Sicong Leng, Hang Zhang, Yifei Xin, Xin Li, Guanzheng Chen, Yongxin Zhu, Wenqi Zhang, Ziyang Luo, Deli Zhao*
+
+	 · ([huggingface](https://huggingface.co/collections/DAMO-NLP-SG/videollama-2-6669b6b6f0493188305c87ed))
 - **MotionLLM: Understanding Human Behaviors from Human Motions and Videos**, `arXiv, 2405.20340`, [arxiv](http://arxiv.org/abs/2405.20340v1), [pdf](http://arxiv.org/pdf/2405.20340v1.pdf), cication: [**-1**](None)
 
 	 *Ling-Hao Chen, Shunlin Lu, Ailing Zeng, Hao Zhang, Benyou Wang, Ruimao Zhang, Lei Zhang*
@@ -313,6 +319,10 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image Gen
+- **Show-o: One Single Transformer to Unify Multimodal Understanding and
+  Generation**, `arXiv, 2408.12528`, [arxiv](http://arxiv.org/abs/2408.12528v2), [pdf](http://arxiv.org/pdf/2408.12528v2.pdf), cication: [**-1**](None)
+
+	 *Jinheng Xie, Weijia Mao, Zechen Bai, David Junhao Zhang, Weihao Wang, Kevin Qinghong Lin, Yuchao Gu, Zhijie Chen, Zhenheng Yang, Mike Zheng Shou* · ([Show-o](https://github.com/showlab/Show-o) - showlab) ![Star](https://img.shields.io/github/stars/showlab/Show-o.svg?style=social&label=Star)
 - **MUMU: Bootstrapping Multimodal Image Generation from Text-to-Image Data**, `arXiv, 2406.18790`, [arxiv](http://arxiv.org/abs/2406.18790v1), [pdf](http://arxiv.org/pdf/2406.18790v1.pdf), cication: [**-1**](None)
 
 	 *William Berman, Alexander Peysakhovich*
@@ -324,6 +334,16 @@
 	 · ([anole](https://github.com/GAIR-NLP/anole) - GAIR-NLP) ![Star](https://img.shields.io/github/stars/GAIR-NLP/anole.svg?style=social&label=Star)
 
 ### Image
+- **Building and better understanding vision-language models: insights and
+  future directions**, `arXiv, 2408.12637`, [arxiv](http://arxiv.org/abs/2408.12637v1), [pdf](http://arxiv.org/pdf/2408.12637v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=14804174071127590531&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Hugo Laurençon, Andrés Marafioti, Victor Sanh, Léo Tronchon* · ([huggingface](https://huggingface.co/HuggingFaceM4/Idefics3-8B-Llama3))
+- **Semantic Alignment for Multimodal Large Language Models**, `arXiv, 2408.12867`, [arxiv](http://arxiv.org/abs/2408.12867v1), [pdf](http://arxiv.org/pdf/2408.12867v1.pdf), cication: [**-1**](None)
+
+	 *Tao Wu, Mengze Li, Jingyuan Chen, Wei Ji, Wang Lin, Jinyang Gao, Kun Kuang, Zhou Zhao, Fei Wu* · ([SAM](https://github.com/McCartney01/SAM) - McCartney01) ![Star](https://img.shields.io/github/stars/McCartney01/SAM.svg?style=social&label=Star)
+- **A Practitioner's Guide to Continual Multimodal Pretraining**, `arXiv, 2408.14471`, [arxiv](http://arxiv.org/abs/2408.14471v1), [pdf](http://arxiv.org/pdf/2408.14471v1.pdf), cication: [**-1**](None)
+
+	 *Karsten Roth, Vishaal Udandarao, Sebastian Dziadzio, Ameya Prabhu, Mehdi Cherti, Oriol Vinyals, Olivier Hénaff, Samuel Albanie, Matthias Bethge, Zeynep Akata* · ([fomo_in_flux](https://github.com/ExplainableML/fomo_in_flux) - ExplainableML) ![Star](https://img.shields.io/github/stars/ExplainableML/fomo_in_flux.svg?style=social&label=Star)
 - **xGen-MM (BLIP-3): A Family of Open Large Multimodal Models**, `arXiv, 2408.08872`, [arxiv](http://arxiv.org/abs/2408.08872v1), [pdf](http://arxiv.org/pdf/2408.08872v1.pdf), cication: [**-1**](None)
 
 	 *Le Xue, Manli Shu, Anas Awadalla, Jun Wang, An Yan, Senthil Purushwalkam, Honglu Zhou, Viraj Prabhu, Yutong Dai, Michael S Ryoo* · ([LAVIS](https://github.com/salesforce/LAVIS/tree/xgen-mm) - salesforce) ![Star](https://img.shields.io/github/stars/salesforce/LAVIS.svg?style=social&label=Star)
@@ -1224,6 +1244,10 @@
 	 *Shaohan Huang, Li Dong, Wenhui Wang, Yaru Hao, Saksham Singhal, Shuming Ma, Tengchao Lv, Lei Cui, Owais Khan Mohammed, Barun Patra*
 
 ## Audio
+- **MooER: LLM-based Speech Recognition and Translation Models from Moore
+  Threads**, `arXiv, 2408.05101`, [arxiv](http://arxiv.org/abs/2408.05101v1), [pdf](http://arxiv.org/pdf/2408.05101v1.pdf), cication: [**-1**](None)
+
+	 *Junhao Xu, Zhenlin Liang, Yi Liu, Yichao Hu, Jian Li, Yajun Zheng, Meng Cai, Hua Wang* · ([mooer](https://github.com/moorethreads/mooer) - moorethreads) ![Star](https://img.shields.io/github/stars/moorethreads/mooer.svg?style=social&label=Star)
 - **MuChoMusic: Evaluating Music Understanding in Multimodal Audio-Language
   Models**, `arXiv, 2408.01337`, [arxiv](http://arxiv.org/abs/2408.01337v1), [pdf](http://arxiv.org/pdf/2408.01337v1.pdf), cication: [**-1**](None)
 
@@ -1405,6 +1429,7 @@
 	 *Xueliang Zhao, Xinting Huang, Tingchen Fu, Qintong Li, Shansan Gong, Lemao Liu, Wei Bi, Lingpeng Kong*
 
 ## Efficient 
+- [Fetching Title#8gxt](https://huggingface.co/IntelLabs/LlavaOLMoBitnet1B)
 - **EVLM: An Efficient Vision-Language Model for Visual Understanding**, `arXiv, 2407.14177`, [arxiv](http://arxiv.org/abs/2407.14177v1), [pdf](http://arxiv.org/pdf/2407.14177v1.pdf), cication: [**-1**](None)
 
 	 *Kaibing Chen, Dong Shen, Hanwen Zhong, Huasong Zhong, Kui Xia, Di Xu, Wei Yuan, Yifei Hu, Bin Wen, Tianke Zhang*
@@ -1473,7 +1498,8 @@
 
 	 *Mingsheng Li, Xin Chen, Chi Zhang, Sijin Chen, Hongyuan Zhu, Fukun Yin, Gang Yu, Tao Chen*
 ## Projects
-- [Site Unreachable](https://huggingface.co/HuggingFaceM4/Idefics3-8B-Llama3)
+- [Fetching Title#a774](https://huggingface.co/microsoft/Phi-3.5-vision-instruct)
+- [Fetching Title#wmtz](https://huggingface.co/HuggingFaceM4/Idefics3-8B-Llama3)
 - [**MiniCPM-V**](https://github.com/OpenBMB/MiniCPM-V) - OpenBMB ![Star](https://img.shields.io/github/stars/OpenBMB/MiniCPM-V.svg?style=social&label=Star)
 
 	 *MiniCPM-V 2.6: A GPT-4V Level MLLM for Single Image, Multi Image and Video on Your Phone*
@@ -1560,6 +1586,11 @@
 
 
 ## Evaluation
+- **MME-RealWorld: Could Your Multimodal LLM Challenge High-Resolution
+  Real-World Scenarios that are Difficult for Humans?**, `arXiv, 2408.13257`, [arxiv](http://arxiv.org/abs/2408.13257v1), [pdf](http://arxiv.org/pdf/2408.13257v1.pdf), cication: [**-1**](None)
+
+	 *Yi-Fan Zhang, Huanyu Zhang, Haochen Tian, Chaoyou Fu, Shuangqing Zhang, Junfei Wu, Feng Li, Kun Wang, Qingsong Wen, Zhang Zhang*
+	- https://mme-realworld.github.io/
 - **VisualAgentBench: Towards Large Multimodal Models as Visual Foundation
   Agents**, `arXiv, 2408.06327`, [arxiv](http://arxiv.org/abs/2408.06327v1), [pdf](http://arxiv.org/pdf/2408.06327v1.pdf), cication: [**-1**](None)
 

@@ -26,6 +26,13 @@
 	 *Ziyin Zhang, Chaoyu Chen, Bingchang Liu, Cong Liao, Zi Gong, Hang Yu, Jianguo Li, Rui Wang*
 
 ## Paper
+- **SWE-bench-java: A GitHub Issue Resolving Benchmark for Java**, `arXiv, 2408.14354`, [arxiv](http://arxiv.org/abs/2408.14354v1), [pdf](http://arxiv.org/pdf/2408.14354v1.pdf), cication: [**-1**](None)
+
+	 *Daoguang Zan, Zhirong Huang, Ailun Yu, Shaoxin Lin, Yifan Shi, Wei Liu, Dong Chen, Zongshuai Qi, Hao Yu, Lei Yu*
+- **CodeJudge-Eval: Can Large Language Models be Good Judges in Code
+  Understanding?**, `arXiv, 2408.10718`, [arxiv](http://arxiv.org/abs/2408.10718v1), [pdf](http://arxiv.org/pdf/2408.10718v1.pdf), cication: [**-1**](None)
+
+	 *Yuwei Zhao, Ziyang Luo, Yuchen Tian, Hongzhan Lin, Weixiang Yan, Annan Li, Jing Ma* · ([CodeJudge-Eval](https://github.com/CodeLLM-Research/CodeJudge-Eval) - CodeLLM-Research) ![Star](https://img.shields.io/github/stars/CodeLLM-Research/CodeJudge-Eval.svg?style=social&label=Star)
 - **Diversity Empowers Intelligence: Integrating Expertise of Software
   Engineering Agents**, `arXiv, 2408.07060`, [arxiv](http://arxiv.org/abs/2408.07060v1), [pdf](http://arxiv.org/pdf/2408.07060v1.pdf), cication: [**-1**](None)
 
@@ -384,6 +391,8 @@
 	 · [intercode-benchmark.github](https://intercode-benchmark.github.io/)
 
 ## Projects
+- [abacusai (Abacus.AI, Inc.)](https://huggingface.co/abacusai)
+- [**Dracarys-Llama-3.1-70B-Instruct**](https://huggingface.co/abacusai/Dracarys-Llama-3.1-70B-Instruct) - abacusai 🤗
 - [**agilecoder**](https://github.com/fsoft-ai4code/agilecoder) - fsoft-ai4code ![Star](https://img.shields.io/github/stars/fsoft-ai4code/agilecoder.svg?style=social&label=Star)
 
 	 *Incorporating Agile methodology into agents to create complex real-world softwares*
@@ -522,6 +531,10 @@
 - [**gpt-engineer**](https://github.com/AntonOsika/gpt-engineer) - AntonOsika ![Star](https://img.shields.io/github/stars/AntonOsika/gpt-engineer.svg?style=social&label=Star)
 
 	 *Specify what you want it to build, the AI asks for clarification, and then builds it.*
+
+## Products
+- [Codegen | Reshape Your Codebase](https://www.codegen.com/)
+- [Introducing Zed AI](https://zed.dev/blog/zed-ai)
 
 ## Other
 - [LLMs are bad at returning code in JSON | aider](https://aider.chat/2024/08/14/code-in-json.html)
