@@ -907,6 +907,10 @@
 	 *Official repo for LayoutGPT*
 
 ## Science
+- **Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with
+  100+ NLP Researchers**, `arXiv, 2409.04109`, [arxiv](http://arxiv.org/abs/2409.04109v1), [pdf](http://arxiv.org/pdf/2409.04109v1.pdf), cication: [**-1**](None)
+
+	 *Chenglei Si, Diyi Yang, Tatsunori Hashimoto*
 - [**openresearcher**](https://github.com/gair-nlp/openresearcher) - gair-nlp ![Star](https://img.shields.io/github/stars/gair-nlp/openresearcher.svg?style=social&label=Star)
 - **Accelerating Giant Impact Simulations with Machine Learning**, `arXiv, 2408.08873`, [arxiv](http://arxiv.org/abs/2408.08873v1), [pdf](http://arxiv.org/pdf/2408.08873v1.pdf), cication: [**-1**](None)
 

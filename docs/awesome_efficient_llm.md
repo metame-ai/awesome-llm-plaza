@@ -17,6 +17,7 @@
 	- [Efficient transformer](#efficient-transformer)
 
 ## Survey
+- [[2409.04833] Achieving Peak Performance for Large Language Models: A Systematic Review](https://arxiv.org/abs/2409.04833)
 - **Parameter-Efficient Fine-Tuning for Large Models: A Comprehensive Survey**, `arXiv, 2403.14608`, [arxiv](http://arxiv.org/abs/2403.14608v5), [pdf](http://arxiv.org/pdf/2403.14608v5.pdf), cication: [**18**](https://scholar.google.com/scholar?cites=9566826564470542329&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Zeyu Han, Chao Gao, Jinyang Liu, Jeff Zhang, Sai Qian Zhang*
