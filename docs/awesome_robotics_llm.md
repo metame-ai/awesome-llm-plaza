@@ -23,6 +23,9 @@
 	 *Yeseung Kim, Dohyun Kim, Jieun Choi, Jisang Park, Nayoung Oh, Daehyung Park*
 
 ## Papers
+- **xLAM: A Family of Large Action Models to Empower AI Agent Systems**, `arXiv, 2409.03215`, [arxiv](http://arxiv.org/abs/2409.03215v1), [pdf](http://arxiv.org/pdf/2409.03215v1.pdf), cication: [**-1**](None)
+
+	 *Jianguo Zhang, Tian Lan, Ming Zhu, Zuxin Liu, Thai Hoang, Shirley Kokane, Weiran Yao, Juntao Tan, Akshara Prabhakar, Haolin Chen*
 - **Diffusion Models Are Real-Time Game Engines**, `arXiv, 2408.14837`, [arxiv](http://arxiv.org/abs/2408.14837v1), [pdf](http://arxiv.org/pdf/2408.14837v1.pdf), cication: [**-1**](None)
 
 	 *Dani Valevski, Yaniv Leviathan, Moab Arar, Shlomi Fruchter* · ([gamengen.github](https://gamengen.github.io/))
@@ -343,6 +346,9 @@
 	 *Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao*
 
 ## Robotics
+- [ALOHA Unleashed 🌋: A Simple Recipe for Robot Dexterity](https://aloha-unleashed.github.io/assets/aloha_unleashed.pdf)
+
+	 · ([aloha-unleashed.github](https://aloha-unleashed.github.io/))
 - **ACE: A Cross-Platform Visual-Exoskeletons System for Low-Cost Dexterous
   Teleoperation**, `arXiv, 2408.11805`, [arxiv](http://arxiv.org/abs/2408.11805v1), [pdf](http://arxiv.org/pdf/2408.11805v1.pdf), cication: [**-1**](None)
 

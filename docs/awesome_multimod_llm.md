@@ -1498,8 +1498,9 @@
 
 	 *Mingsheng Li, Xin Chen, Chi Zhang, Sijin Chen, Hongyuan Zhu, Fukun Yin, Gang Yu, Tao Chen*
 ## Projects
-- [Fetching Title#a774](https://huggingface.co/microsoft/Phi-3.5-vision-instruct)
-- [Fetching Title#wmtz](https://huggingface.co/HuggingFaceM4/Idefics3-8B-Llama3)
+- [**pixtral-12b-240910**](https://huggingface.co/mistral-community/pixtral-12b-240910) - mistral-community 🤗
+- [**Phi-3.5-vision-instruct**](https://huggingface.co/microsoft/Phi-3.5-vision-instruct) - microsoft 🤗
+- [**Idefics3-8B-Llama3**](https://huggingface.co/HuggingFaceM4/Idefics3-8B-Llama3) - HuggingFaceM4 🤗
 - [**MiniCPM-V**](https://github.com/OpenBMB/MiniCPM-V) - OpenBMB ![Star](https://img.shields.io/github/stars/OpenBMB/MiniCPM-V.svg?style=social&label=Star)
 
 	 *MiniCPM-V 2.6: A GPT-4V Level MLLM for Single Image, Multi Image and Video on Your Phone*

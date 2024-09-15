@@ -7,6 +7,9 @@
 	- [Other](#other)
 
 ## Survey
+- **Large Language Model-Based Agents for Software Engineering: A Survey**, `arXiv, 2409.02977`, [arxiv](http://arxiv.org/abs/2409.02977v1), [pdf](http://arxiv.org/pdf/2409.02977v1.pdf), cication: [**-1**](None)
+
+	 *Junwei Liu, Kaixin Wang, Yixuan Chen, Xin Peng, Zhenpeng Chen, Lingming Zhang, Yiling Lou* · ([Agent4SE-Paper-List](https://github.com/FudanSELab/Agent4SE-Paper-List) - FudanSELab) ![Star](https://img.shields.io/github/stars/FudanSELab/Agent4SE-Paper-List.svg?style=social&label=Star)
 - **A Survey on Large Language Models for Code Generation**, `arXiv, 2406.00515`, [arxiv](http://arxiv.org/abs/2406.00515v1), [pdf](http://arxiv.org/pdf/2406.00515v1.pdf), cication: [**-1**](None)
 
 	 *Juyong Jiang, Fan Wang, Jiasi Shen, Sungju Kim, Sunghun Kim*
@@ -26,6 +29,12 @@
 	 *Ziyin Zhang, Chaoyu Chen, Bingchang Liu, Cong Liao, Zi Gong, Hang Yu, Jianguo Li, Rui Wang*
 
 ## Paper
+- **Planning In Natural Language Improves LLM Search For Code Generation**, `arXiv, 2409.03733`, [arxiv](http://arxiv.org/abs/2409.03733v1), [pdf](http://arxiv.org/pdf/2409.03733v1.pdf), cication: [**-1**](None)
+
+	 *Evan Wang, Federico Cassano, Catherine Wu, Yunfeng Bai, Will Song, Vaskar Nath, Ziwen Han, Sean Hendryx, Summer Yue, Hugh Zhang*
+- **Arctic-SnowCoder: Demystifying High-Quality Data in Code Pretraining**, `arXiv, 2409.02326`, [arxiv](http://arxiv.org/abs/2409.02326v1), [pdf](http://arxiv.org/pdf/2409.02326v1.pdf), cication: [**-1**](None)
+
+	 *Yuxiang Wei, Hojae Han, Rajhans Samdani*
 - **SWE-bench-java: A GitHub Issue Resolving Benchmark for Java**, `arXiv, 2408.14354`, [arxiv](http://arxiv.org/abs/2408.14354v1), [pdf](http://arxiv.org/pdf/2408.14354v1.pdf), cication: [**-1**](None)
 
 	 *Daoguang Zan, Zhirong Huang, Ailun Yu, Shaoxin Lin, Yifan Shi, Wei Liu, Dong Chen, Zongshuai Qi, Hao Yu, Lei Yu*
@@ -391,6 +400,8 @@
 	 · [intercode-benchmark.github](https://intercode-benchmark.github.io/)
 
 ## Projects
+- [Meet Yi-Coder: A Small but Mighty LLM for Code](https://01-ai.github.io/blog.html?post=en/2024-09-05-A-Small-but-Mighty-LLM-for-Code.md)
+- [**DeepSeek-Coder-V2-Instruct-0724**](https://huggingface.co/deepseek-ai/DeepSeek-Coder-V2-Instruct-0724) - deepseek-ai 🤗
 - [abacusai (Abacus.AI, Inc.)](https://huggingface.co/abacusai)
 - [**Dracarys-Llama-3.1-70B-Instruct**](https://huggingface.co/abacusai/Dracarys-Llama-3.1-70B-Instruct) - abacusai 🤗
 - [**agilecoder**](https://github.com/fsoft-ai4code/agilecoder) - fsoft-ai4code ![Star](https://img.shields.io/github/stars/fsoft-ai4code/agilecoder.svg?style=social&label=Star)
@@ -533,6 +544,7 @@
 	 *Specify what you want it to build, the AI asks for clarification, and then builds it.*
 
 ## Products
+- [Announcing Replit Agent in early access](https://x.com/amasad/status/1831730911685308857)
 - [Codegen | Reshape Your Codebase](https://www.codegen.com/)
 - [Introducing Zed AI](https://zed.dev/blog/zed-ai)
 

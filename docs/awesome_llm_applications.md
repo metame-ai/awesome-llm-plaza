@@ -233,6 +233,9 @@
 	 *Yizhe Zhang, Jiatao Gu, Zhuofeng Wu, Shuangfei Zhai, Josh Susskind, Navdeep Jaitly*
 
 ## WebUI
+- [**anything-llm**](https://github.com/Mintplex-Labs/anything-llm?tab=readme-ov-file) - Mintplex-Labs ![Star](https://img.shields.io/github/stars/Mintplex-Labs/anything-llm.svg?style=social&label=Star)
+
+	 *The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.*
 - [**every-chatgpt-gui**](https://github.com/billmei/every-chatgpt-gui) - billmei ![Star](https://img.shields.io/github/stars/billmei/every-chatgpt-gui.svg?style=social&label=Star)
 
 	 *Every front-end GUI client for ChatGPT*
@@ -784,6 +787,7 @@
 	 *Patrick Fernandes, Daniel Deutsch, Mara Finkelstein, Parker Riley, André F. T. Martins, Graham Neubig, Ankush Garg, Jonathan H. Clark, Markus Freitag, Orhan Firat*
 
 ## Audio
+- [NotebookLM now lets you listen to a conversation about your sources](https://blog.google/technology/ai/notebooklm-audio-overviews/)
 - **Towards Achieving Human Parity on End-to-end Simultaneous Speech
   Translation via LLM Agent**, `arXiv, 2407.21646`, [arxiv](http://arxiv.org/abs/2407.21646v1), [pdf](http://arxiv.org/pdf/2407.21646v1.pdf), cication: [**-1**](None)
 
@@ -907,6 +911,12 @@
 	 *Official repo for LayoutGPT*
 
 ## Science
+- **Can Large Language Models Unlock Novel Scientific Research Ideas?**, `arXiv, 2409.06185`, [arxiv](http://arxiv.org/abs/2409.06185v1), [pdf](http://arxiv.org/pdf/2409.06185v1.pdf), cication: [**-1**](None)
+
+	 *Sandeep Kumar, Tirthankar Ghosal, Vinayak Goyal, Asif Ekbal*
+- **Generative Hierarchical Materials Search**, `arXiv, 2409.06762`, [arxiv](http://arxiv.org/abs/2409.06762v1), [pdf](http://arxiv.org/pdf/2409.06762v1.pdf), cication: [**-1**](None)
+
+	 *Sherry Yang, Simon Batzner, Ruiqi Gao, Muratahan Aykol, Alexander L. Gaunt, Brendan McMorrow, Danilo J. Rezende, Dale Schuurmans, Igor Mordatch, Ekin D. Cubuk* · ([generative-materials.github](https://generative-materials.github.io/genms/))
 - **Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with
   100+ NLP Researchers**, `arXiv, 2409.04109`, [arxiv](http://arxiv.org/abs/2409.04109v1), [pdf](http://arxiv.org/pdf/2409.04109v1.pdf), cication: [**-1**](None)
 

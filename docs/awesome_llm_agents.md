@@ -81,6 +81,9 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652350213&idx=4&sn=47bef78ae85d99fccc45487e2fb1ff6b))
  
 ## LLM OS
+- [**01-app**](https://github.com/OpenInterpreter/01-app) - OpenInterpreter ![Star](https://img.shields.io/github/stars/OpenInterpreter/01-app.svg?style=social&label=Star)
+
+	 *The AI assistant for computer control.*
 - [**phidata**](https://github.com/phidatahq/phidata/tree/main/cookbook/llm_os) - phidatahq ![Star](https://img.shields.io/github/stars/phidatahq/phidata.svg?style=social&label=Star)
 - **AIOS: LLM Agent Operating System**, `arXiv, 2403.16971`, [arxiv](http://arxiv.org/abs/2403.16971v2), [pdf](http://arxiv.org/pdf/2403.16971v2.pdf), cication: [**-1**](None)
 
@@ -111,6 +114,9 @@
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-18-4))
 ## Agents
+- **Agent Workflow Memory**, `arXiv, 2409.07429`, [arxiv](http://arxiv.org/abs/2409.07429v1), [pdf](http://arxiv.org/pdf/2409.07429v1.pdf), cication: [**-1**](None)
+
+	 *Zora Zhiruo Wang, Jiayuan Mao, Daniel Fried, Graham Neubig*
 - **Automated Design of Agentic Systems**, `arXiv, 2408.08435`, [arxiv](http://arxiv.org/abs/2408.08435v1), [pdf](http://arxiv.org/pdf/2408.08435v1.pdf), cication: [**-1**](None)
 
 	 *Shengran Hu, Cong Lu, Jeff Clune* · ([ADAS](https://github.com/ShengranHu/ADAS) - ShengranHu) ![Star](https://img.shields.io/github/stars/ShengranHu/ADAS.svg?style=social&label=Star)
@@ -825,6 +831,9 @@
 - [GPT-4V学会用键鼠上网，人类眼睁睁看着它发帖玩游戏 | 量子位](https://www.qbitai.com/2023/11/95456.html)
 
 ## Retrieval agumented generation
+- **OneGen: Efficient One-Pass Unified Generation and Retrieval for LLMs**, `arXiv, 2409.05152`, [arxiv](http://arxiv.org/abs/2409.05152v1), [pdf](http://arxiv.org/pdf/2409.05152v1.pdf), cication: [**-1**](None)
+
+	 *Jintian Zhang, Cheng Peng, Mengshu Sun, Xiang Chen, Lei Liang, Zhiqiang Zhang, Jun Zhou, Huajun Chen, Ningyu Zhang* · ([OneGen](https://github.com/zjunlp/OneGen) - zjunlp) ![Star](https://img.shields.io/github/stars/zjunlp/OneGen.svg?style=social&label=Star)
 - [**openresearcher**](https://github.com/gair-nlp/openresearcher) - gair-nlp ![Star](https://img.shields.io/github/stars/gair-nlp/openresearcher.svg?style=social&label=Star)
 - **BMX: Entropy-weighted Similarity and Semantic-enhanced Lexical Search**, `arXiv, 2408.06643`, [arxiv](http://arxiv.org/abs/2408.06643v2), [pdf](http://arxiv.org/pdf/2408.06643v2.pdf), cication: [**-1**](None)
 
@@ -1290,6 +1299,9 @@
 - [各路大神献出自定义GPT，24小时Top 9名单在这 | 机器之心](https://www.jiqizhixin.com/articles/2023-11-13-13)
 
 ## Evaluation
+- **Windows Agent Arena: Evaluating Multi-Modal OS Agents at Scale**, `arXiv, 2409.08264`, [arxiv](http://arxiv.org/abs/2409.08264v1), [pdf](http://arxiv.org/pdf/2409.08264v1.pdf), cication: [**-1**](None)
+
+	 *Rogerio Bonatti, Dan Zhao, Francesco Bonacci, Dillon Dupont, Sara Abdali, Yinheng Li, Justin Wagle, Kazuhito Koishida, Arthur Bucker, Lawrence Jang* · ([WindowsAgentArena](https://github.com/microsoft/WindowsAgentArena) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/WindowsAgentArena.svg?style=social&label=Star) · ([microsoft.github](https://microsoft.github.io/WindowsAgentArena/))
 - [BFCL V2 • Live Dataset](https://gorilla.cs.berkeley.edu/blogs/12_bfcl_v2_live.html)
 - **CRAB: Cross-environment Agent Benchmark for Multimodal Language Model
   Agents**, `arXiv, 2407.01511`, [arxiv](http://arxiv.org/abs/2407.01511v1), [pdf](http://arxiv.org/pdf/2407.01511v1.pdf), cication: [**-1**](None)

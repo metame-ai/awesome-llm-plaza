@@ -38,7 +38,12 @@
 # English
 
 ## Foundation
-- [Fetching Title#tea3](https://huggingface.co/nvidia/Mistral-NeMo-Minitron-8B-Base)
+- [Power-LM - a ibm Collection](https://huggingface.co/collections/ibm/power-lm-66be64ae647ddf11b9808000)
+- [**Zamba2-1.2B**](https://huggingface.co/Zyphra/Zamba2-1.2B) - Zyphra 🤗
+- [NVEagle (NVIDIA-Eagle)](https://huggingface.co/NVEagle)
+- [**c4ai-command-r-plus**](https://huggingface.co/CohereForAI/c4ai-command-r-plus) - CohereForAI 🤗
+- [cartesia-ai (Cartesia)](https://huggingface.co/cartesia-ai)
+- [**Mistral-NeMo-Minitron-8B-Base**](https://huggingface.co/nvidia/Mistral-NeMo-Minitron-8B-Base) - nvidia 🤗
 - [Hermes 3 - NOUS RESEARCH](https://nousresearch.com/hermes3/)
 
 	 · ([nousresearch](https://nousresearch.com/wp-content/uploads/2024/08/Hermes-3-Technical-Report.pdf))
@@ -226,7 +231,8 @@
 - [**Llama-3-Groq-8B-Tool-Use**](https://huggingface.co/Groq/Llama-3-Groq-8B-Tool-Use) - Groq 🤗
 - [Nexusflow.ai | Blog :: Athene-70B: Redefining the Boundaries of Post-Training for Open Models](https://nexusflow.ai/blogs/athene)
 - [**Athene-70B**](https://huggingface.co/Nexusflow/Athene-70B) - Nexusflow 🤗
-- [Fetching Title#zifu](https://huggingface.co/mlabonne/BigLlama-3.1-1T-Instruct)
+- [**BigLlama-3.1-1T-Instruct**](https://huggingface.co/mlabonne/BigLlama-3.1-1T-Instruct) - mlabonne 🤗
+- [Arcee-SuperNova: Training Pipeline and Model Composition](https://blog.arcee.ai/arcee-supernova-training-pipeline-and-model-composition/)
 ### Jamba
 - **Jamba-1.5: Hybrid Transformer-Mamba Models at Scale**, `arXiv, 2408.12570`, [arxiv](http://arxiv.org/abs/2408.12570v1), [pdf](http://arxiv.org/pdf/2408.12570v1.pdf), cication: [**-1**](None)
 
@@ -620,6 +626,7 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652433445&idx=1&sn=0ee21f65b045cbedc99676144d66a502)) · ([huggingface](https://huggingface.co/internlm))
 - [**internlm2-chat-7b**](https://huggingface.co/internlm/internlm2-chat-7b) - internlm 🤗
 ### DeepSeek 
+- [**DeepSeek-V2.5**](https://huggingface.co/deepseek-ai/DeepSeek-V2.5) - deepseek-ai 🤗
 - [**DeepSeek-V2-Chat-0628**](https://huggingface.co/deepseek-ai/DeepSeek-V2-Chat-0628) - deepseek-ai 🤗
 - [**DeepSeek-V2**](https://github.com/deepseek-ai/DeepSeek-V2) - deepseek-ai ![Star](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-V2.svg?style=social&label=Star)
 
@@ -637,6 +644,7 @@
 - [Fetching Title#j2s8](https://huggingface.co/spaces/deepseek-ai/DeepSeek-VL-7B)
 
 ### Xverse
+- [**XVERSE-MoE-A36B**](https://huggingface.co/xverse/XVERSE-MoE-A36B) - xverse 🤗
  - [GitHub - xverse-ai/XVERSE-65B: XVERSE-65B: A multilingual large language model developed by XVERSE Technology Inc.](https://github.com/xverse-ai/XVERSE-65B)
 
 	 · ([huggingface](https://huggingface.co/xverse/XVERSE-65B)) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-11-06-10))
@@ -842,6 +850,7 @@
 	 · ([anthropic](https://www.anthropic.com/news/claude-3-haiku))
 
 # Extra reference
+- [Fetching Title#0e4g](https://huyenchip.com/llama-police)
 - [The Foundation Model Transparency Index](https://crfm.stanford.edu/fmti/May-2024/index.html)
 - [Ecosystem Graphs for Foundation Models](https://crfm.stanford.edu/ecosystem-graphs/index.html?mode=table)
 - [LLM Collection | Prompt Engineering Guide](https://www.promptingguide.ai/models/collection)

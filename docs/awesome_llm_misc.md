@@ -330,7 +330,10 @@
 	 *Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers*
 
 ## State Space Model
+- [Fetching Title#0oaq](https://www.together.ai/blog/the-mamba-in-the-llama-distilling-and-accelerating-hybrid-models)
 - [**Zamba2-1.2B**](https://huggingface.co/Zyphra/Zamba2-1.2B) - Zyphra 🤗
+
+	 · ([huggingface](https://huggingface.co/Zyphra/Zamba2-1.2B))
 - **The Mamba in the Llama: Distilling and Accelerating Hybrid Models**, `arXiv, 2408.15237`, [arxiv](http://arxiv.org/abs/2408.15237v1), [pdf](http://arxiv.org/pdf/2408.15237v1.pdf), cication: [**-1**](None)
 
 	 *Junxiong Wang, Daniele Paliotta, Avner May, Alexander M. Rush, Tri Dao* · ([MambaInLlama](https://github.com/jxiw/MambaInLlama) - jxiw) ![Star](https://img.shields.io/github/stars/jxiw/MambaInLlama.svg?style=social&label=Star)

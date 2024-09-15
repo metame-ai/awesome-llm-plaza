@@ -32,6 +32,10 @@
 	 *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang*
 
 ## Papers
+- **MMMU-Pro: A More Robust Multi-discipline Multimodal Understanding
+  Benchmark**, `arXiv, 2409.02813`, [arxiv](http://arxiv.org/abs/2409.02813v2), [pdf](http://arxiv.org/pdf/2409.02813v2.pdf), cication: [**-1**](None)
+
+	 *Xiang Yue, Tianyu Zheng, Yuansheng Ni, Yubo Wang, Kai Zhang, Shengbang Tong, Yuxuan Sun, Botao Yu, Ge Zhang, Huan Sun* · ([mmmu-benchmark.github](https://mmmu-benchmark.github.io/#leaderboard))
 - **SysBench: Can Large Language Models Follow System Messages?**, `arXiv, 2408.10943`, [arxiv](http://arxiv.org/abs/2408.10943v1), [pdf](http://arxiv.org/pdf/2408.10943v1.pdf), cication: [**-1**](None)
 
 	 *Yanzhao Qin, Tao Zhang, Tao Zhang, Yanjun Shen, Wenjing Luo, Haoze Sun, Yan Zhang, Yujing Qiao, Weipeng Chen, Zenan Zhou* · ([SysBench](https://github.com/PKU-Baichuan-MLSystemLab/SysBench) - PKU-Baichuan-MLSystemLab) ![Star](https://img.shields.io/github/stars/PKU-Baichuan-MLSystemLab/SysBench.svg?style=social&label=Star)

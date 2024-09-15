@@ -37,6 +37,7 @@
 	 *Cunxiang Wang, Xiaoze Liu, Yuanhao Yue, Xiangru Tang, Tianhang Zhang, Cheng Jiayang, Yunzhi Yao, Wenyang Gao, Xuming Hu, Zehan Qi* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-19-2))
 
 ## Papers
+- [Why do large language models hallucinate?](https://portal.acm.org/citation.cfm?id=3688007)
 - **Training Language Models on the Knowledge Graph: Insights on
   Hallucinations and Their Detectability**, `arXiv, 2408.07852`, [arxiv](http://arxiv.org/abs/2408.07852v1), [pdf](http://arxiv.org/pdf/2408.07852v1.pdf), cication: [**-1**](None)
 

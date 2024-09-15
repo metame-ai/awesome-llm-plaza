@@ -34,6 +34,26 @@
 
 	 *Jiankai Sun, Chuanyang Zheng, Enze Xie, Zhengying Liu, Ruihang Chu, Jianing Qiu, Jiaqi Xu, Mingyu Ding, Hongyang Li, Mengzhe Geng* · ([Awesome-Reasoning-Foundation-Models](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models) - reasoning-survey) ![Star](https://img.shields.io/github/stars/reasoning-survey/Awesome-Reasoning-Foundation-Models.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652421688&idx=3&sn=fcdc24edc7bc89ebcbcca0f7665e40f6))
 
+## O1-Reasoning
+- **Scaling LLM Test-Time Compute Optimally can be More Effective than
+  Scaling Model Parameters**, `arXiv, 2408.03314`, [arxiv](http://arxiv.org/abs/2408.03314v1), [pdf](http://arxiv.org/pdf/2408.03314v1.pdf), cication: [**4**](https://scholar.google.com/scholar?cites=10282131377233540155&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Charlie Snell, Jaehoon Lee, Kelvin Xu, Aviral Kumar*
+- [2309.17179](https://arxiv.org/pdf/2309.17179)
+- **Large Language Monkeys: Scaling Inference Compute with Repeated Sampling**, `arXiv, 2407.21787`, [arxiv](http://arxiv.org/abs/2407.21787v1), [pdf](http://arxiv.org/pdf/2407.21787v1.pdf), cication: [**5**](https://scholar.google.com/scholar?cites=5658336227944123944&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Bradley Brown, Jordan Juravsky, Ryan Ehrlich, Ronald Clark, Quoc V. Le, Christopher Ré, Azalia Mirhoseini*
+- **Quiet-STaR: Language Models Can Teach Themselves to Think Before
+  Speaking**, `arXiv, 2403.09629`, [arxiv](http://arxiv.org/abs/2403.09629v2), [pdf](http://arxiv.org/pdf/2403.09629v2.pdf), cication: [**10**](https://scholar.google.com/scholar?cites=14769685511035391680&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Eric Zelikman, Georges Harik, Yijia Shao, Varuna Jayasiri, Nick Haber, Noah D. Goodman*
+- **Let's Verify Step by Step**, `arXiv, 2305.20050`, [arxiv](http://arxiv.org/abs/2305.20050v1), [pdf](http://arxiv.org/pdf/2305.20050v1.pdf), cication: [**294**](https://scholar.google.com/scholar?cites=3594089577812846684&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Hunter Lightman, Vineet Kosaraju, Yura Burda, Harri Edwards, Bowen Baker, Teddy Lee, Jan Leike, John Schulman, Ilya Sutskever, Karl Cobbe*
+
+**Other**
+- [**o1**](https://huggingface.co/spaces/yuntian-deng/o1) - yuntian-deng 🤗
+- [**o1mini**](https://huggingface.co/spaces/yuntian-deng/o1mini) - yuntian-deng 🤗
 ## Reasoning
 - **Mutual Reasoning Makes Smaller LLMs Stronger Problem-Solvers**, `arXiv, 2408.06195`, [arxiv](http://arxiv.org/abs/2408.06195v1), [pdf](http://arxiv.org/pdf/2408.06195v1.pdf), cication: [**-1**](None)
 
@@ -698,6 +718,9 @@
 	 *Tianlu Wang, Ping Yu, Xiaoqing Ellen Tan, Sean O'Brien, Ramakanth Pasunuru, Jane Dwivedi-Yu, Olga Golovneva, Luke Zettlemoyer, Maryam Fazel-Zarandi, Asli Celikyilmaz* · ([shepherd](https://github.com/facebookresearch/shepherd) - facebookresearch) ![Star](https://img.shields.io/github/stars/facebookresearch/shepherd.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652366759&idx=3&sn=f183f4c8080a338c4c9fad0f026b14af))
 
 ## Prompting
+- [**ell**](https://github.com/MadcowD/ell) - MadcowD ![Star](https://img.shields.io/github/stars/MadcowD/ell.svg?style=social&label=Star)
+
+	 *A language model programming library.*
 - **PAS: Data-Efficient Plug-and-Play Prompt Augmentation System**, `arXiv, 2407.06027`, [arxiv](http://arxiv.org/abs/2407.06027v1), [pdf](http://arxiv.org/pdf/2407.06027v1.pdf), cication: [**-1**](None)
 
 	 *Miao Zheng, Hao Liang, Fan Yang, Haoze Sun, Tianpeng Li, Lingchu Xiong, Yan Zhang, Yozhen Wu, Kun Li, Yanjun Sheng*
@@ -841,6 +864,9 @@
 - [ChatGPT 詠唱案例懶人包 - 超過 40 個現實世界的應用範例 (持續更新) - 雷司紀的小道投資 raysky](https://www.rayskyinvest.com/96682/chatgpt-examples)
 
 ## In context learning
+- **ContextCite: Attributing Model Generation to Context**, `arXiv, 2409.00729`, [arxiv](http://arxiv.org/abs/2409.00729v1), [pdf](http://arxiv.org/pdf/2409.00729v1.pdf), cication: [**-1**](None)
+
+	 *Benjamin Cohen-Wang, Harshay Shah, Kristian Georgiev, Aleksander Madry* · ([context-cite](https://github.com/MadryLab/context-cite) - MadryLab) ![Star](https://img.shields.io/github/stars/MadryLab/context-cite.svg?style=social&label=Star)
 - **Learning to grok: Emergence of in-context learning and skill composition
   in modular arithmetic tasks**, `arXiv, 2406.02550`, [arxiv](http://arxiv.org/abs/2406.02550v1), [pdf](http://arxiv.org/pdf/2406.02550v1.pdf), cication: [**-1**](None)
 

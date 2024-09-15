@@ -17,6 +17,9 @@
 	- [Efficient transformer](#efficient-transformer)
 
 ## Survey
+- **What is the Role of Small Models in the LLM Era: A Survey**, `arXiv, 2409.06857`, [arxiv](http://arxiv.org/abs/2409.06857v2), [pdf](http://arxiv.org/pdf/2409.06857v2.pdf), cication: [**-1**](None)
+
+	 *Lihu Chen, Gaël Varoquaux* · ([role_of_small_models](https://github.com/tigerchen52/role_of_small_models) - tigerchen52) ![Star](https://img.shields.io/github/stars/tigerchen52/role_of_small_models.svg?style=social&label=Star)
 - **Achieving Peak Performance for Large Language Models: A Systematic
   Review**, `arXiv, 2409.04833`, [arxiv](http://arxiv.org/abs/2409.04833v1), [pdf](http://arxiv.org/pdf/2409.04833v1.pdf), cication: [**-1**](None)
 

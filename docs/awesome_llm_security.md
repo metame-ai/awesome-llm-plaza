@@ -312,6 +312,7 @@
 
 	 *Kaijie Zhu, Jindong Wang, Jiaheng Zhou, Zichen Wang, Hao Chen, Yidong Wang, Linyi Yang, Wei Ye, Yue Zhang, Neil Zhenqiang Gong*
 ## Projects
+- [**redteam-arena**](https://github.com/redteaming-arena/redteam-arena) - redteaming-arena ![Star](https://img.shields.io/github/stars/redteaming-arena/redteam-arena.svg?style=social&label=Star)
 - [**CJA_Comprehensive_Jailbreak_Assessment**](https://github.com/Junjie-Chu/CJA_Comprehensive_Jailbreak_Assessment) - Junjie-Chu ![Star](https://img.shields.io/github/stars/Junjie-Chu/CJA_Comprehensive_Jailbreak_Assessment.svg?style=social&label=Star)
 
 	 *This is the public code repository of paper 'Comprehensive Assessment of Jailbreak Attacks Against LLMs'*

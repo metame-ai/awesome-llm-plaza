@@ -230,6 +230,9 @@
 - [Chinchilla之死：只要训练足够长时间，小模型也能超过大模型 | 机器之心](https://www.jiqizhixin.com/articles/2023-10-03-9)
 
 ## Fine-tuning
+- **Unforgettable Generalization in Language Models**, `arXiv, 2409.02228`, [arxiv](http://arxiv.org/abs/2409.02228v1), [pdf](http://arxiv.org/pdf/2409.02228v1.pdf), cication: [**-1**](None)
+
+	 *Eric Zhang, Leshem Chosen, Jacob Andreas*
 - **LlamaFactory: Unified Efficient Fine-Tuning of 100+ Language Models**, `arXiv, 2403.13372`, [arxiv](http://arxiv.org/abs/2403.13372v1), [pdf](http://arxiv.org/pdf/2403.13372v1.pdf), cication: [**-1**](None)
 
 	 *Yaowei Zheng, Richong Zhang, Junhao Zhang, Yanhan Ye, Zheyan Luo* · ([LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - hiyouga) ![Star](https://img.shields.io/github/stars/hiyouga/LLaMA-Factory.svg?style=social&label=Star)
@@ -341,6 +344,12 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652375732&idx=2&sn=1cb4cefcd791af2a6ffacdf99e35225c))
 
 ## Optimization
+- **Theory, Analysis, and Best Practices for Sigmoid Self-Attention**, `arXiv, 2409.04431`, [arxiv](http://arxiv.org/abs/2409.04431v1), [pdf](http://arxiv.org/pdf/2409.04431v1.pdf), cication: [**-1**](None)
+
+	 *Jason Ramapuram, Federico Danieli, Eeshan Dhekane, Floris Weers, Dan Busbridge, Pierre Ablin, Tatiana Likhomanenko, Jagrit Digani, Zijin Gu, Amitis Shidani* · ([ml-sigmoid-attention](https://github.com/apple/ml-sigmoid-attention) - apple) ![Star](https://img.shields.io/github/stars/apple/ml-sigmoid-attention.svg?style=social&label=Star)
+- **The AdEMAMix Optimizer: Better, Faster, Older**, `arXiv, 2409.03137`, [arxiv](http://arxiv.org/abs/2409.03137v1), [pdf](http://arxiv.org/pdf/2409.03137v1.pdf), cication: [**-1**](None)
+
+	 *Matteo Pagliardini, Pierre Ablin, David Grangier*
 - **Power Scheduler: A Batch Size and Token Number Agnostic Learning Rate
   Scheduler**, `arXiv, 2408.13359`, [arxiv](http://arxiv.org/abs/2408.13359v1), [pdf](http://arxiv.org/pdf/2408.13359v1.pdf), cication: [**-1**](None)
 
@@ -472,6 +481,9 @@
 - [Weight averaging and model merging for LLMs seem to be the most interesting themes in 2024 so far. ](https://twitter.com/rasbt/status/1750180383398744106)
 
 ## MoE
+- **OLMoE: Open Mixture-of-Experts Language Models**, `arXiv, 2409.02060`, [arxiv](http://arxiv.org/abs/2409.02060v1), [pdf](http://arxiv.org/pdf/2409.02060v1.pdf), cication: [**-1**](None)
+
+	 *Niklas Muennighoff, Luca Soldaini, Dirk Groeneveld, Kyle Lo, Jacob Morrison, Sewon Min, Weijia Shi, Pete Walsh, Oyvind Tafjord, Nathan Lambert* · ([OLMoE](https://github.com/allenai/OLMoE) - allenai) ![Star](https://img.shields.io/github/stars/allenai/OLMoE.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/collections/allenai/olmoe-66cf678c047657a30c8cd3da)) · ([interconnects](https://www.interconnects.ai/p/olmoe-and-building-better-llms))
 - **BAM! Just Like That: Simple and Efficient Parameter Upcycling for
   Mixture of Experts**, `arXiv, 2408.08274`, [arxiv](http://arxiv.org/abs/2408.08274v2), [pdf](http://arxiv.org/pdf/2408.08274v2.pdf), cication: [**-1**](None)
 

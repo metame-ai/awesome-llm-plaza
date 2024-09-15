@@ -281,6 +281,9 @@
 	 *Suriya Gunasekar, Yi Zhang, Jyoti Aneja, Caio César Teodoro Mendes, Allie Del Giorno, Sivakanth Gopi, Mojan Javaheripi, Piero Kauffmann, Gustavo de Rosa, Olli Saarikivi* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-06-23)) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-09-14-4))
 
 ### MulitiMod
+- [Releasing Re-LAION 5B: transparent iteration on LAION-5B with additional safety fixes | LAION](https://laion.ai/blog/relaion-5b/)
+- [**idl-wds**](https://huggingface.co/datasets/pixparse/idl-wds) - pixparse 🤗
+- [**finevideo**](https://huggingface.co/datasets/HuggingFaceFV/finevideo) - HuggingFaceFV 🤗
 - [**miniG**](https://huggingface.co/CausalLM/miniG) - CausalLM 🤗
 - **MedTrinity-25M: A Large-scale Multimodal Dataset with Multigranular
   Annotations for Medicine**, `arXiv, 2408.02900`, [arxiv](http://arxiv.org/abs/2408.02900v1), [pdf](http://arxiv.org/pdf/2408.02900v1.pdf), cication: [**-1**](None)
@@ -367,6 +370,13 @@
 - [**Capybara-Preferences**](https://huggingface.co/datasets/argilla/Capybara-Preferences) - argilla 🤗
 
 ### Synthetic 
+- **Synthetic continued pretraining**, `arXiv, 2409.07431`, [arxiv](http://arxiv.org/abs/2409.07431v1), [pdf](http://arxiv.org/pdf/2409.07431v1.pdf), cication: [**-1**](None)
+
+	 *Zitong Yang, Neil Band, Shuangping Li, Emmanuel Candès, Tatsunori Hashimoto*
+- **Source2Synth: Synthetic Data Generation and Curation Grounded in Real
+  Data Sources**, `arXiv, 2409.08239`, [arxiv](http://arxiv.org/abs/2409.08239v1), [pdf](http://arxiv.org/pdf/2409.08239v1.pdf), cication: [**-1**](None)
+
+	 *Alisia Lupidi, Carlos Gemmell, Nicola Cancedda, Jane Dwivedi-Yu, Jason Weston, Jakob Foerster, Roberta Raileanu, Maria Lomeli*
 - [**Sonnet3.5-Charcard-Roleplay**](https://huggingface.co/datasets/Gryphe/Sonnet3.5-Charcard-Roleplay) - Gryphe 🤗
 - [**ShareLM**](https://huggingface.co/datasets/shachardon/ShareLM?row=7) - shachardon 🤗
 - **The ShareLM Collection and Plugin: Contributing Human-Model Chats for
