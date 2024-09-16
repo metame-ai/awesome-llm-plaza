@@ -38,6 +38,10 @@
 # English
 
 ## Foundation
+- [**solar-pro-preview-instruct**](https://huggingface.co/upstage/solar-pro-preview-instruct) - upstage 🤗
+- **OLMoE: Open Mixture-of-Experts Language Models**, `arXiv, 2409.02060`, [arxiv](http://arxiv.org/abs/2409.02060v1), [pdf](http://arxiv.org/pdf/2409.02060v1.pdf), cication: [**-1**](None)
+
+	 *Niklas Muennighoff, Luca Soldaini, Dirk Groeneveld, Kyle Lo, Jacob Morrison, Sewon Min, Weijia Shi, Pete Walsh, Oyvind Tafjord, Nathan Lambert* · ([OLMoE](https://github.com/allenai/OLMoE) - allenai) ![Star](https://img.shields.io/github/stars/allenai/OLMoE.svg?style=social&label=Star)
 - [Power-LM - a ibm Collection](https://huggingface.co/collections/ibm/power-lm-66be64ae647ddf11b9808000)
 - [**Zamba2-1.2B**](https://huggingface.co/Zyphra/Zamba2-1.2B) - Zyphra 🤗
 - [NVEagle (NVIDIA-Eagle)](https://huggingface.co/NVEagle)

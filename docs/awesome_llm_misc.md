@@ -27,6 +27,9 @@
 	- [Extra reference](#extra-reference)
 
 ## Survey
+- **A Survey for Large Language Models in Biomedicine**, `arXiv, 2409.00133`, [arxiv](http://arxiv.org/abs/2409.00133v1), [pdf](http://arxiv.org/pdf/2409.00133v1.pdf), cication: [**-1**](None)
+
+	 *Chong Wang, Mengyao Li, Junjun He, Zhongruo Wang, Erfan Darzi, Zan Chen, Jin Ye, Tianbin Li, Yanzhou Su, Jing Ke*
 - **Controllable Text Generation for Large Language Models: A Survey**, `arXiv, 2408.12599`, [arxiv](http://arxiv.org/abs/2408.12599v1), [pdf](http://arxiv.org/pdf/2408.12599v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=16876198695229003709&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Xun Liang, Hanyu Wang, Yezhaohui Wang, Shichao Song, Jiawei Yang, Simin Niu, Jie Hu, Dan Liu, Shunyu Yao, Feiyu Xiong* · ([CTGSurvey](https://github.com/IAAR-Shanghai/CTGSurvey) - IAAR-Shanghai) ![Star](https://img.shields.io/github/stars/IAAR-Shanghai/CTGSurvey.svg?style=social&label=Star)
@@ -330,7 +333,12 @@
 	 *Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers*
 
 ## State Space Model
-- [Fetching Title#0oaq](https://www.together.ai/blog/the-mamba-in-the-llama-distilling-and-accelerating-hybrid-models)
+- **ReMamba: Equip Mamba with Effective Long-Sequence Modeling**, `arXiv, 2408.15496`, [arxiv](http://arxiv.org/abs/2408.15496v3), [pdf](http://arxiv.org/pdf/2408.15496v3.pdf), cication: [**-1**](None)
+
+	 *Danlong Yuan, Jiahao Liu, Bei Li, Huishuai Zhang, Jingang Wang, Xunliang Cai, Dongyan Zhao*
+- **The Mamba in the Llama: Distilling and Accelerating Hybrid Models**, `arXiv, 2408.15237`, [arxiv](http://arxiv.org/abs/2408.15237v1), [pdf](http://arxiv.org/pdf/2408.15237v1.pdf), cication: [**-1**](None)
+
+	 *Junxiong Wang, Daniele Paliotta, Avner May, Alexander M. Rush, Tri Dao* · ([together](https://www.together.ai/blog/the-mamba-in-the-llama-distilling-and-accelerating-hybrid-models)) · ([MambaInLlama](https://github.com/jxiw/MambaInLlama) - jxiw) ![Star](https://img.shields.io/github/stars/jxiw/MambaInLlama.svg?style=social&label=Star)
 - [**Zamba2-1.2B**](https://huggingface.co/Zyphra/Zamba2-1.2B) - Zyphra 🤗
 
 	 · ([huggingface](https://huggingface.co/Zyphra/Zamba2-1.2B))
@@ -418,6 +426,9 @@
 - [Mamba: Linear-Time Sequence Modeling with Selective State Spaces (Paper Explained) - YouTube](https://www.youtube.com/watch?v=9dSkvxS2EB0&ab_channel=YannicKilcher)
 
 ## New model
+- **Configurable Foundation Models: Building LLMs from a Modular Perspective**, `arXiv, 2409.02877`, [arxiv](http://arxiv.org/abs/2409.02877v1), [pdf](http://arxiv.org/pdf/2409.02877v1.pdf), cication: [**-1**](None)
+
+	 *Chaojun Xiao, Zhengyan Zhang, Chenyang Song, Dazhi Jiang, Feng Yao, Xu Han, Xiaozhi Wang, Shuo Wang, Yufei Huang, Guanyu Lin*
 - **Discrete Flow Matching**, `arXiv, 2407.15595`, [arxiv](http://arxiv.org/abs/2407.15595v1), [pdf](http://arxiv.org/pdf/2407.15595v1.pdf), cication: [**-1**](None)
 
 	 *Itai Gat, Tal Remez, Neta Shaul, Felix Kreuk, Ricky T. Q. Chen, Gabriel Synnaeve, Yossi Adi, Yaron Lipman*
@@ -548,6 +559,10 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652345558&idx=4&sn=95686435d5cad05d44cbe02bc26d6859))
 
 ## Interpretability 
+- **Physics of Language Models: Part 2.2, How to Learn From Mistakes on
+  Grade-School Math Problems**, `arXiv, 2408.16293`, [arxiv](http://arxiv.org/abs/2408.16293v1), [pdf](http://arxiv.org/pdf/2408.16293v1.pdf), cication: [**-1**](None)
+
+	 *Tian Ye, Zicheng Xu, Yuanzhi Li, Zeyuan Allen-Zhu* · ([x](https://x.com/ZeyuanAllenZhu/status/1829326495757853005))
 - **Towards flexible perception with visual memory**, `arXiv, 2408.08172`, [arxiv](http://arxiv.org/abs/2408.08172v1), [pdf](http://arxiv.org/pdf/2408.08172v1.pdf), cication: [**-1**](None)
 
 	 *Robert Geirhos, Priyank Jaini, Austin Stone, Sourabh Medapati, Xi Yi, George Toderici, Abhijit Ogale, Jonathon Shlens*

@@ -78,6 +78,7 @@
 	 *Stephen Casper, Jason Lin, Joe Kwon, Gatlen Culp, Dylan Hadfield-Menell*
 
 ## Papers
+- [How to Evaluate Jailbreak Methods: A Case Study with the StrongREJECT Benchmark – The Berkeley Artificial Intelligence Research Blog](https://bair.berkeley.edu/blog/2024/08/28/strong-reject/)
 - **CYBERSECEVAL 3: Advancing the Evaluation of Cybersecurity Risks and
   Capabilities in Large Language Models**, `arXiv, 2408.01605`, [arxiv](http://arxiv.org/abs/2408.01605v1), [pdf](http://arxiv.org/pdf/2408.01605v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=12377625893403588904&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 

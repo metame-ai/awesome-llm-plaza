@@ -39,7 +39,10 @@
   Scaling Model Parameters**, `arXiv, 2408.03314`, [arxiv](http://arxiv.org/abs/2408.03314v1), [pdf](http://arxiv.org/pdf/2408.03314v1.pdf), cication: [**4**](https://scholar.google.com/scholar?cites=10282131377233540155&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Charlie Snell, Jaehoon Lee, Kelvin Xu, Aviral Kumar*
-- [2309.17179](https://arxiv.org/pdf/2309.17179)
+- **Alphazero-like Tree-Search can Guide Large Language Model Decoding and
+  Training**, `arXiv, 2309.17179`, [arxiv](http://arxiv.org/abs/2309.17179v2), [pdf](http://arxiv.org/pdf/2309.17179v2.pdf), cication: [**29**](https://scholar.google.com/scholar?cites=12391024127440976227&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Xidong Feng, Ziyu Wan, Muning Wen, Stephen Marcus McAleer, Ying Wen, Weinan Zhang, Jun Wang*
 - **Large Language Monkeys: Scaling Inference Compute with Repeated Sampling**, `arXiv, 2407.21787`, [arxiv](http://arxiv.org/abs/2407.21787v1), [pdf](http://arxiv.org/pdf/2407.21787v1.pdf), cication: [**5**](https://scholar.google.com/scholar?cites=5658336227944123944&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Bradley Brown, Jordan Juravsky, Ryan Ehrlich, Ronald Clark, Quoc V. Le, Christopher Ré, Azalia Mirhoseini*
@@ -470,6 +473,9 @@
 - [大模型Fewshot推理如何选择更好的示例](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495177&idx=2&sn=fe8353efed16a81e35462be06d5a6cea)
 
 ## Math reasoning
+- **Building Math Agents with Multi-Turn Iterative Preference Learning**, `arXiv, 2409.02392`, [arxiv](http://arxiv.org/abs/2409.02392v1), [pdf](http://arxiv.org/pdf/2409.02392v1.pdf), cication: [**-1**](None)
+
+	 *Wei Xiong, Chengshuai Shi, Jiaming Shen, Aviv Rosenberg, Zhen Qin, Daniele Calandriello, Misha Khalman, Rishabh Joshi, Bilal Piot, Mohammad Saleh*
 - **InfinityMATH: A Scalable Instruction Tuning Dataset in Programmatic
   Mathematical Reasoning**, `arXiv, 2408.07089`, [arxiv](http://arxiv.org/abs/2408.07089v1), [pdf](http://arxiv.org/pdf/2408.07089v1.pdf), cication: [**-1**](None)
 
@@ -718,6 +724,10 @@
 	 *Tianlu Wang, Ping Yu, Xiaoqing Ellen Tan, Sean O'Brien, Ramakanth Pasunuru, Jane Dwivedi-Yu, Olga Golovneva, Luke Zettlemoyer, Maryam Fazel-Zarandi, Asli Celikyilmaz* · ([shepherd](https://github.com/facebookresearch/shepherd) - facebookresearch) ![Star](https://img.shields.io/github/stars/facebookresearch/shepherd.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652366759&idx=3&sn=f183f4c8080a338c4c9fad0f026b14af))
 
 ## Prompting
+- **Superposition Prompting: Improving and Accelerating Retrieval-Augmented
+  Generation**, `arXiv, 2404.06910`, [arxiv](http://arxiv.org/abs/2404.06910v2), [pdf](http://arxiv.org/pdf/2404.06910v2.pdf), cication: [**-1**](None)
+
+	 *Thomas Merth, Qichen Fu, Mohammad Rastegari, Mahyar Najibi* · ([ml-superposition-prompting](https://github.com/apple/ml-superposition-prompting) - apple) ![Star](https://img.shields.io/github/stars/apple/ml-superposition-prompting.svg?style=social&label=Star)
 - [**ell**](https://github.com/MadcowD/ell) - MadcowD ![Star](https://img.shields.io/github/stars/MadcowD/ell.svg?style=social&label=Star)
 
 	 *A language model programming library.*
@@ -959,6 +969,9 @@
 - [面向知识图谱构建的垂直微调大模型：KnowLM、TechGPT](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247494182&idx=2&sn=5db8ad3a148ce6e2db707f790960ed54)
 
 ## Tutorials
+- [**courses**](https://github.com/anthropics/courses) - anthropics ![Star](https://img.shields.io/github/stars/anthropics/courses.svg?style=social&label=Star)
+
+	 *Anthropic's educational courses*
 - [Prompt Engineering Guide | Prompt Engineering Guide](https://www.promptingguide.ai/)
 - [**prompt-engineering-for-developers**](https://github.com/datawhalechina/prompt-engineering-for-developers) - datawhalechina ![Star](https://img.shields.io/github/stars/datawhalechina/prompt-engineering-for-developers.svg?style=social&label=Star)
 

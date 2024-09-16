@@ -26,6 +26,9 @@
 - [Attention? Attention! | Lil'Log](https://lilianweng.github.io/posts/2018-06-24-attention/#a-family-of-attention-mechanisms)
 
 ## Evaluation
+- **LongGenbench: Benchmarking Long-Form Generation in Long Context LLMs**, `arXiv, 2409.02076`, [arxiv](http://arxiv.org/abs/2409.02076v3), [pdf](http://arxiv.org/pdf/2409.02076v3.pdf), cication: [**-1**](None)
+
+	 *Yuhao Wu, Ming Shan Hee, Zhiqing Hu, Roy Ka-Wei Lee* · ([SGT](https://github.com/mozhu621/SGT/tree/main/Dataset) - mozhu621) ![Star](https://img.shields.io/github/stars/mozhu621/SGT.svg?style=social&label=Star)
 - **NeedleBench: Can LLMs Do Retrieval and Reasoning in 1 Million Context
   Window?**, `arXiv, 2407.11963`, [arxiv](http://arxiv.org/abs/2407.11963v1), [pdf](http://arxiv.org/pdf/2407.11963v1.pdf), cication: [**-1**](None)
 
@@ -42,7 +45,15 @@
 	 *Adyasha Maharana, Dong-Ho Lee, Sergey Tulyakov, Mohit Bansal, Francesco Barbieri, Yuwei Fang*
 
 ## Papers
+- [Late Chunking in Long-Context Embedding Models](https://jina.ai/news/late-chunking-in-long-context-embedding-models/?nocache=1)
+- **LongRecipe: Recipe for Efficient Long Context Generalization in Large
+  Language Models**, `arXiv, 2409.00509`, [arxiv](http://arxiv.org/abs/2409.00509v2), [pdf](http://arxiv.org/pdf/2409.00509v2.pdf), cication: [**-1**](None)
 
+	 *Zhiyuan Hu, Yuliang Liu, Jinman Zhao, Suyuchen Wang, Yan Wang, Wei Shen, Qing Gu, Anh Tuan Luu, See-Kiong Ng, Zhiwei Jiang* · ([LongRecipe](https://github.com/zhiyuanhubj/LongRecipe) - zhiyuanhubj) ![Star](https://img.shields.io/github/stars/zhiyuanhubj/LongRecipe.svg?style=social&label=Star)
+- **Writing in the Margins: Better Inference Pattern for Long Context
+  Retrieval**, `arXiv, 2408.14906`, [arxiv](http://arxiv.org/abs/2408.14906v1), [pdf](http://arxiv.org/pdf/2408.14906v1.pdf), cication: [**-1**](None)
+
+	 *Melisa Russak, Umar Jamil, Christopher Bryant, Kiran Kamble, Axel Magnuson, Mateusz Russak, Waseem AlShikh* · ([writing-in-the-margins](https://github.com/writer/writing-in-the-margins) - writer) ![Star](https://img.shields.io/github/stars/writer/writing-in-the-margins.svg?style=social&label=Star)
 - **FocusLLM: Scaling LLM's Context by Parallel Decoding**, `arXiv, 2408.11745`, [arxiv](http://arxiv.org/abs/2408.11745v1), [pdf](http://arxiv.org/pdf/2408.11745v1.pdf), cication: [**-1**](None)
 
 	 *Zhenyu Li, Yike Zhang, Tengyu Pan, Yutao Sun, Zhichao Duan, Junjie Fang, Rong Han, Zixuan Wang, Jianyong Wang* · ([FocusLLM](https://github.com/leezythu/FocusLLM) - leezythu) ![Star](https://img.shields.io/github/stars/leezythu/FocusLLM.svg?style=social&label=Star)

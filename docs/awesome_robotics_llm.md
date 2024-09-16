@@ -7,6 +7,9 @@
 	- [Reference](#reference)
 
 ## Survey
+- **A Survey on Self-play Methods in Reinforcement Learning**, `arXiv, 2408.01072`, [arxiv](http://arxiv.org/abs/2408.01072v1), [pdf](http://arxiv.org/pdf/2408.01072v1.pdf), cication: [**-1**](None)
+
+	 *Ruize Zhang, Zelai Xu, Chengdong Ma, Chao Yu, Wei-Wei Tu, Shiyu Huang, Deheng Ye, Wenbo Ding, Yaodong Yang, Yu Wang* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-09-10))
 - **A Survey of Embodied Learning for Object-Centric Robotic Manipulation**, `arXiv, 2408.11537`, [arxiv](http://arxiv.org/abs/2408.11537v1), [pdf](http://arxiv.org/pdf/2408.11537v1.pdf), cication: [**-1**](None)
 
 	 *Ying Zheng, Lei Yao, Yuejiao Su, Yi Zhang, Yi Wang, Sicheng Zhao, Yiyi Zhang, Lap-Pui Chau* · ([ocrm_survey](https://github.com/rayyoh/ocrm_survey) - rayyoh) ![Star](https://img.shields.io/github/stars/rayyoh/ocrm_survey.svg?style=social&label=Star)
@@ -346,6 +349,9 @@
 	 *Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao*
 
 ## Robotics
+- **Diffusion Policy Policy Optimization**, `arXiv, 2409.00588`, [arxiv](http://arxiv.org/abs/2409.00588v1), [pdf](http://arxiv.org/pdf/2409.00588v1.pdf), cication: [**-1**](None)
+
+	 *Allen Z. Ren, Justin Lidard, Lars L. Ankile, Anthony Simeonov, Pulkit Agrawal, Anirudha Majumdar, Benjamin Burchfiel, Hongkai Dai, Max Simchowitz* · ([diffusion-ppo.github](https://diffusion-ppo.github.io/))
 - [ALOHA Unleashed 🌋: A Simple Recipe for Robot Dexterity](https://aloha-unleashed.github.io/assets/aloha_unleashed.pdf)
 
 	 · ([aloha-unleashed.github](https://aloha-unleashed.github.io/))

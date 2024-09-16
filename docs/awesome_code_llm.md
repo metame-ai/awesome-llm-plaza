@@ -7,6 +7,10 @@
 	- [Other](#other)
 
 ## Survey
+- **Can OpenSource beat ChatGPT? -- A Comparative Study of Large Language
+  Models for Text-to-Code Generation**, `arXiv, 2409.04164`, [arxiv](http://arxiv.org/abs/2409.04164v1), [pdf](http://arxiv.org/pdf/2409.04164v1.pdf), cication: [**-1**](None)
+
+	 *Luis Mayer, Christian Heumann, Matthias Aßenmacher*
 - **Large Language Model-Based Agents for Software Engineering: A Survey**, `arXiv, 2409.02977`, [arxiv](http://arxiv.org/abs/2409.02977v1), [pdf](http://arxiv.org/pdf/2409.02977v1.pdf), cication: [**-1**](None)
 
 	 *Junwei Liu, Kaixin Wang, Yixuan Chen, Xin Peng, Zhenpeng Chen, Lingming Zhang, Yiling Lou* · ([Agent4SE-Paper-List](https://github.com/FudanSELab/Agent4SE-Paper-List) - FudanSELab) ![Star](https://img.shields.io/github/stars/FudanSELab/Agent4SE-Paper-List.svg?style=social&label=Star)
@@ -29,9 +33,18 @@
 	 *Ziyin Zhang, Chaoyu Chen, Bingchang Liu, Cong Liao, Zi Gong, Hang Yu, Jianguo Li, Rui Wang*
 
 ## Paper
+- **How Do Your Code LLMs Perform? Empowering Code Instruction Tuning with
+  High-Quality Data**, `arXiv, 2409.03810`, [arxiv](http://arxiv.org/abs/2409.03810v1), [pdf](http://arxiv.org/pdf/2409.03810v1.pdf), cication: [**-1**](None)
+
+	 *Yejie Wang, Keqing He, Dayuan Fu, Zhuoma Gongque, Heyang Xu, Yanxu Chen, Zhexu Wang, Yujia Fu, Guanting Dong, Muxi Diao* · ([XCoder](https://github.com/banksy23/XCoder) - banksy23) ![Star](https://img.shields.io/github/stars/banksy23/XCoder.svg?style=social&label=Star)
+- **FuzzCoder: Byte-level Fuzzing Test via Large Language Model**, `arXiv, 2409.01944`, [arxiv](http://arxiv.org/abs/2409.01944v1), [pdf](http://arxiv.org/pdf/2409.01944v1.pdf), cication: [**-1**](None)
+
+	 *Liqun Yang, Jian Yang, Chaoren Wei, Guanglin Niu, Ge Zhang, Yunli Wang, Linzheng ChaI, Wanxu Xia, Hongcheng Guo, Shun Zhang* · ([FUZZ-CODER](https://github.com/weimo3221/FUZZ-CODER) - weimo3221) ![Star](https://img.shields.io/github/stars/weimo3221/FUZZ-CODER.svg?style=social&label=Star)
 - **Planning In Natural Language Improves LLM Search For Code Generation**, `arXiv, 2409.03733`, [arxiv](http://arxiv.org/abs/2409.03733v1), [pdf](http://arxiv.org/pdf/2409.03733v1.pdf), cication: [**-1**](None)
 
 	 *Evan Wang, Federico Cassano, Catherine Wu, Yunfeng Bai, Will Song, Vaskar Nath, Ziwen Han, Sean Hendryx, Summer Yue, Hugh Zhang*
+
+	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-09-11-5))
 - **Arctic-SnowCoder: Demystifying High-Quality Data in Code Pretraining**, `arXiv, 2409.02326`, [arxiv](http://arxiv.org/abs/2409.02326v1), [pdf](http://arxiv.org/pdf/2409.02326v1.pdf), cication: [**-1**](None)
 
 	 *Yuxiang Wei, Hojae Han, Rajhans Samdani*
@@ -400,6 +413,7 @@
 	 · [intercode-benchmark.github](https://intercode-benchmark.github.io/)
 
 ## Projects
+- [**Yi-Coder-9B-Chat**](https://huggingface.co/01-ai/Yi-Coder-9B-Chat) - 01-ai 🤗
 - [Meet Yi-Coder: A Small but Mighty LLM for Code](https://01-ai.github.io/blog.html?post=en/2024-09-05-A-Small-but-Mighty-LLM-for-Code.md)
 - [**DeepSeek-Coder-V2-Instruct-0724**](https://huggingface.co/deepseek-ai/DeepSeek-Coder-V2-Instruct-0724) - deepseek-ai 🤗
 - [abacusai (Abacus.AI, Inc.)](https://huggingface.co/abacusai)

@@ -11,6 +11,10 @@
 	- [Extra reference](#extra-reference)
 
 ## Survey
+- **Towards a Unified View of Preference Learning for Large Language Models:
+  A Survey**, `arXiv, 2409.02795`, [arxiv](http://arxiv.org/abs/2409.02795v3), [pdf](http://arxiv.org/pdf/2409.02795v3.pdf), cication: [**-1**](None)
+
+	 *Bofei Gao, Feifan Song, Yibo Miao, Zefan Cai, Zhe Yang, Liang Chen, Helan Hu, Runxin Xu, Qingxiu Dong, Ce Zheng* · ([Awesome-LLM-Preference-Learning](https://github.com/KbsdJames/Awesome-LLM-Preference-Learning) - KbsdJames) ![Star](https://img.shields.io/github/stars/KbsdJames/Awesome-LLM-Preference-Learning.svg?style=social&label=Star) · ([aeolian-agenda-626.notion](https://aeolian-agenda-626.notion.site/Towards-a-unified-view-of-preference-learning-for-LLMs-A-survey-f09b77391f5a4899998ee4046dc89460))
 - **A Comprehensive Survey of LLM Alignment Techniques: RLHF, RLAIF, PPO,
   DPO and More**, `arXiv, 2407.16216`, [arxiv](http://arxiv.org/abs/2407.16216v1), [pdf](http://arxiv.org/pdf/2407.16216v1.pdf), cication: [**-1**](None)
 

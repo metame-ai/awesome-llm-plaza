@@ -54,6 +54,9 @@
 - [Navigating the Jagged Technological Frontier: Field Experimental Evidence of the Effects of AI on Knowledge Worker Productivity and Quality](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4573321)
 
 ## Toolkits 
+- [**self-hosted-ai-starter-kit**](https://github.com/n8n-io/self-hosted-ai-starter-kit) - n8n-io ![Star](https://img.shields.io/github/stars/n8n-io/self-hosted-ai-starter-kit.svg?style=social&label=Star)
+
+	 *The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.* · ([x](https://x.com/svpino/status/1826590311948452035?utm_source=ainews&utm_medium=email&utm_campaign=ainews-everybody-shipped-small-things-this))
 - [**torchchat**](https://github.com/pytorch/torchchat) - pytorch ![Star](https://img.shields.io/github/stars/pytorch/torchchat.svg?style=social&label=Star)
 
 	 *Run PyTorch LLMs locally on servers, desktop and mobile*
@@ -233,6 +236,9 @@
 	 *Yizhe Zhang, Jiatao Gu, Zhuofeng Wu, Shuangfei Zhai, Josh Susskind, Navdeep Jaitly*
 
 ## WebUI
+- [**kotaemon**](https://github.com/Cinnamon/kotaemon) - Cinnamon ![Star](https://img.shields.io/github/stars/Cinnamon/kotaemon.svg?style=social&label=Star)
+
+	 *An open-source RAG-based tool for chatting with your documents.*
 - [**anything-llm**](https://github.com/Mintplex-Labs/anything-llm?tab=readme-ov-file) - Mintplex-Labs ![Star](https://img.shields.io/github/stars/Mintplex-Labs/anything-llm.svg?style=social&label=Star)
 
 	 *The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.*
@@ -280,6 +286,10 @@
 
 
 ## Medical
+- **MEDIC: Towards a Comprehensive Framework for Evaluating LLMs in Clinical
+  Applications**, `arXiv, 2409.07314`, [arxiv](http://arxiv.org/abs/2409.07314v1), [pdf](http://arxiv.org/pdf/2409.07314v1.pdf), cication: [**-1**](None)
+
+	 *Praveen K Kanithi, Clément Christophe, Marco AF Pimentel, Tathagata Raha, Nada Saadi, Hamza Javed, Svetlana Maslenkova, Nasir Hayat, Ronnie Rajan, Shadab Khan*
 - **Med42-v2: A Suite of Clinical LLMs**, `arXiv, 2408.06142`, [arxiv](http://arxiv.org/abs/2408.06142v1), [pdf](http://arxiv.org/pdf/2408.06142v1.pdf), cication: [**-1**](None)
 
 	 *Clément Christophe, Praveen K Kanithi, Tathagata Raha, Shadab Khan, Marco AF Pimentel* · ([huggingface](https://huggingface.co/m42-health))
@@ -460,6 +470,10 @@
 	 *Licheng Wen, Xuemeng Yang, Daocheng Fu, Xiaofeng Wang, Pinlong Cai, Xin Li, Tao Ma, Yingxuan Li, Linran Xu, Dengke Shang* · ([gpt4v-ad-exploration](https://github.com/pjlab-adg/gpt4v-ad-exploration) - pjlab-adg) ![Star](https://img.shields.io/github/stars/pjlab-adg/gpt4v-ad-exploration.svg?style=social&label=Star)
 
 ## Education
+- **From MOOC to MAIC: Reshaping Online Teaching and Learning through
+  LLM-driven Agents**, `arXiv, 2409.03512`, [arxiv](http://arxiv.org/abs/2409.03512v1), [pdf](http://arxiv.org/pdf/2409.03512v1.pdf), cication: [**-1**](None)
+
+	 *Jifan Yu, Zheyuan Zhang, Daniel Zhang-li, Shangqing Tu, Zhanxin Hao, Rui Miao Li, Haoxuan Li, Yuanchun Wang, Hanming Li, Linlu Gong*
 - [Llama Tutor – AI Personal Tutor](https://llamatutor.together.ai/)
 - **Simulating Classroom Education with LLM-Empowered Agents**, `arXiv, 2406.19226`, [arxiv](http://arxiv.org/abs/2406.19226v1), [pdf](http://arxiv.org/pdf/2406.19226v1.pdf), cication: [**-1**](None)
 
@@ -579,6 +593,12 @@
 	 *Chongming Gao, Wenqiang Lei, Xiangnan He, Maarten de Rijke, Tat-Seng Chua* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495345&idx=2&sn=5e3ac087c792081705dde1c2542c687a))
 
 ## Role play
+- **PingPong: A Benchmark for Role-Playing Language Models with User
+  Emulation and Multi-Model Evaluation**, `arXiv, 2409.06820`, [arxiv](http://arxiv.org/abs/2409.06820v1), [pdf](http://arxiv.org/pdf/2409.06820v1.pdf), cication: [**-1**](None)
+
+	 *Ilya Gusev*
+
+	 · ([ping_pong_bench](https://github.com/IlyaGusev/ping_pong_bench/) - IlyaGusev) ![Star](https://img.shields.io/github/stars/IlyaGusev/ping_pong_bench.svg?style=social&label=Star)
 - [**Llama-3.1-8B-Stheno-v3.4**](https://huggingface.co/Sao10K/Llama-3.1-8B-Stheno-v3.4) - Sao10K 🤗
 
 	 · ([huggingface](https://huggingface.co/datasets/Gryphe/Sonnet3.5-Charcard-Roleplay))
@@ -911,6 +931,21 @@
 	 *Official repo for LayoutGPT*
 
 ## Science
+- **Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with
+  100+ NLP Researchers**, `arXiv, 2409.04109`, [arxiv](http://arxiv.org/abs/2409.04109v1), [pdf](http://arxiv.org/pdf/2409.04109v1.pdf), cication: [**-1**](None)
+
+	 *Chenglei Si, Diyi Yang, Tatsunori Hashimoto*
+- **DSBench: How Far Are Data Science Agents to Becoming Data Science
+  Experts?**, `arXiv, 2409.07703`, [arxiv](http://arxiv.org/abs/2409.07703v1), [pdf](http://arxiv.org/pdf/2409.07703v1.pdf), cication: [**-1**](None)
+
+	 *Liqiang Jing, Zhehui Huang, Xiaoyang Wang, Wenlin Yao, Wenhao Yu, Kaixin Ma, Hongming Zhang, Xinya Du, Dong Yu* · ([DSBench](https://github.com/LiqiangJing/DSBench) - LiqiangJing) ![Star](https://img.shields.io/github/stars/LiqiangJing/DSBench.svg?style=social&label=Star)
+- **Paper Copilot: A Self-Evolving and Efficient LLM System for Personalized
+  Academic Assistance**, `arXiv, 2409.04593`, [arxiv](http://arxiv.org/abs/2409.04593v1), [pdf](http://arxiv.org/pdf/2409.04593v1.pdf), cication: [**-1**](None)
+
+	 *Guanyu Lin, Tao Feng, Pengrui Han, Ge Liu, Jiaxuan You* · ([huggingface](https://huggingface.co/spaces/ulab-ai/ArxivCopilot))
+- **SciLitLLM: How to Adapt LLMs for Scientific Literature Understanding**, `arXiv, 2408.15545`, [arxiv](http://arxiv.org/abs/2408.15545v2), [pdf](http://arxiv.org/pdf/2408.15545v2.pdf), cication: [**-1**](None)
+
+	 *Sihang Li, Jin Huang, Jiaxi Zhuang, Yaorui Shi, Xiaochen Cai, Mingjun Xu, Xiang Wang, Linfeng Zhang, Guolin Ke, Hengxing Cai*
 - **Can Large Language Models Unlock Novel Scientific Research Ideas?**, `arXiv, 2409.06185`, [arxiv](http://arxiv.org/abs/2409.06185v1), [pdf](http://arxiv.org/pdf/2409.06185v1.pdf), cication: [**-1**](None)
 
 	 *Sandeep Kumar, Tirthankar Ghosal, Vinayak Goyal, Asif Ekbal*
@@ -1074,6 +1109,9 @@
 	 *Ethan Callanan, Amarachi Mbakwe, Antony Papadimitriou, Yulong Pei, Mathieu Sibue, Xiaodan Zhu, Zhiqiang Ma, Xiaomo Liu, Sameena Shah*
 
 ## Data Related
+- [DataGemmaPaper](https://datacommons.org/link/DataGemmaPaper)
+
+	 · ([huggingface](https://huggingface.co/google/datagemma-rag-27b-it))
 - [**gptzip**](https://github.com/jxmorris12/gptzip) - jxmorris12 ![Star](https://img.shields.io/github/stars/jxmorris12/gptzip.svg?style=social&label=Star)
 
 	 *Losslessly encode text natively with arithmetic coding and HuggingFace Transformers*

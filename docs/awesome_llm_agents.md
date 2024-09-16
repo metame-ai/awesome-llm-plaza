@@ -114,9 +114,14 @@
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-18-4))
 ## Agents
+- [**agent-zero**](https://github.com/frdel/agent-zero) - frdel ![Star](https://img.shields.io/github/stars/frdel/agent-zero.svg?style=social&label=Star)
+
+	 *Agent Zero AI framework*
 - **Agent Workflow Memory**, `arXiv, 2409.07429`, [arxiv](http://arxiv.org/abs/2409.07429v1), [pdf](http://arxiv.org/pdf/2409.07429v1.pdf), cication: [**-1**](None)
 
 	 *Zora Zhiruo Wang, Jiayuan Mao, Daniel Fried, Graham Neubig*
+
+	 · ([agent-workflow-memory](https://github.com/zorazrw/agent-workflow-memory) - zorazrw) ![Star](https://img.shields.io/github/stars/zorazrw/agent-workflow-memory.svg?style=social&label=Star)
 - **Automated Design of Agentic Systems**, `arXiv, 2408.08435`, [arxiv](http://arxiv.org/abs/2408.08435v1), [pdf](http://arxiv.org/pdf/2408.08435v1.pdf), cication: [**-1**](None)
 
 	 *Shengran Hu, Cong Lu, Jeff Clune* · ([ADAS](https://github.com/ShengranHu/ADAS) - ShengranHu) ![Star](https://img.shields.io/github/stars/ShengranHu/ADAS.svg?style=social&label=Star)
@@ -831,6 +836,16 @@
 - [GPT-4V学会用键鼠上网，人类眼睁睁看着它发帖玩游戏 | 量子位](https://www.qbitai.com/2023/11/95456.html)
 
 ## Retrieval agumented generation
+- **In Defense of RAG in the Era of Long-Context Language Models**, `arXiv, 2409.01666`, [arxiv](http://arxiv.org/abs/2409.01666v1), [pdf](http://arxiv.org/pdf/2409.01666v1.pdf), cication: [**-1**](None)
+
+	 *Tan Yu, Anbang Xu, Rama Akkiraju*
+- **MemoRAG: Moving towards Next-Gen RAG Via Memory-Inspired Knowledge
+  Discovery**, `arXiv, 2409.05591`, [arxiv](http://arxiv.org/abs/2409.05591v2), [pdf](http://arxiv.org/pdf/2409.05591v2.pdf), cication: [**-1**](None)
+
+	 *Hongjin Qian, Peitian Zhang, Zheng Liu, Kelong Mao, Zhicheng Dou*
+- **ContextCite: Attributing Model Generation to Context**, `arXiv, 2409.00729`, [arxiv](http://arxiv.org/abs/2409.00729v1), [pdf](http://arxiv.org/pdf/2409.00729v1.pdf), cication: [**-1**](None)
+
+	 *Benjamin Cohen-Wang, Harshay Shah, Kristian Georgiev, Aleksander Madry* · ([context-cite](https://github.com/MadryLab/context-cite) - MadryLab) ![Star](https://img.shields.io/github/stars/MadryLab/context-cite.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/spaces/contextcite/context-cite))
 - **OneGen: Efficient One-Pass Unified Generation and Retrieval for LLMs**, `arXiv, 2409.05152`, [arxiv](http://arxiv.org/abs/2409.05152v1), [pdf](http://arxiv.org/pdf/2409.05152v1.pdf), cication: [**-1**](None)
 
 	 *Jintian Zhang, Cheng Peng, Mengshu Sun, Xiang Chen, Lei Liang, Zhiqiang Zhang, Jun Zhou, Huajun Chen, Ningyu Zhang* · ([OneGen](https://github.com/zjunlp/OneGen) - zjunlp) ![Star](https://img.shields.io/github/stars/zjunlp/OneGen.svg?style=social&label=Star)

@@ -43,6 +43,13 @@
 	 *Zige Wang, Wanjun Zhong, Yufei Wang, Qi Zhu, Fei Mi, Baojun Wang, Lifeng Shang, Xin Jiang, Qun Liu*
 
 ## Techs
+- **WildVis: Open Source Visualizer for Million-Scale Chat Logs in the Wild**, `arXiv, 2409.03753`, [arxiv](http://arxiv.org/abs/2409.03753v2), [pdf](http://arxiv.org/pdf/2409.03753v2.pdf), cication: [**-1**](None)
+
+	 *Yuntian Deng, Wenting Zhao, Jack Hessel, Xiang Ren, Claire Cardie, Yejin Choi* · ([wildvisualizer](https://wildvisualizer.com/embeddings/english?contains=python))
+- **BaichuanSEED: Sharing the Potential of ExtensivE Data Collection and
+  Deduplication by Introducing a Competitive Large Language Model Baseline**, `arXiv, 2408.15079`, [arxiv](http://arxiv.org/abs/2408.15079v1), [pdf](http://arxiv.org/pdf/2408.15079v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=16152976867257938196&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Guosheng Dong, Da Pan, Yiding Sun, Shusen Zhang, Zheng Liang, Xin Wu, Yanjun Shen, Fan Yang, Haoze Sun, Tianpeng Li* · ([baichuanseed.github](https://baichuanseed.github.io/))
 - **Heavy Labels Out! Dataset Distillation with Label Space Lightening**, `arXiv, 2408.08201`, [arxiv](http://arxiv.org/abs/2408.08201v1), [pdf](http://arxiv.org/pdf/2408.08201v1.pdf), cication: [**-1**](None)
 
 	 *Ruonan Yu, Songhua Liu, Zigeng Chen, Jingwen Ye, Xinchao Wang*
@@ -185,6 +192,10 @@
 - [**peS2o**](https://huggingface.co/datasets/allenai/peS2o) - allenai 🤗
 
 ### Misc
+- **SurveySum: A Dataset for Summarizing Multiple Scientific Articles into a
+  Survey Section**, `arXiv, 2408.16444`, [arxiv](http://arxiv.org/abs/2408.16444v1), [pdf](http://arxiv.org/pdf/2408.16444v1.pdf), cication: [**-1**](None)
+
+	 *Leandro Carísio Fernandes, Gustavo Bartz Guedes, Thiago Soares Laitz, Thales Sales Almeida, Rodrigo Nogueira, Roberto Lotufo, Jayr Pereira*
 - [**CharacterCodex**](https://huggingface.co/datasets/NousResearch/CharacterCodex) - NousResearch 🤗
 - **Zyda: A 1.3T Dataset for Open Language Modeling**, `arXiv, 2406.01981`, [arxiv](http://arxiv.org/abs/2406.01981v1), [pdf](http://arxiv.org/pdf/2406.01981v1.pdf), cication: [**-1**](None)
 
@@ -281,6 +292,9 @@
 	 *Suriya Gunasekar, Yi Zhang, Jyoti Aneja, Caio César Teodoro Mendes, Allie Del Giorno, Sivakanth Gopi, Mojan Javaheripi, Piero Kauffmann, Gustavo de Rosa, Olli Saarikivi* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-06-23)) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-09-14-4))
 
 ### MulitiMod
+- **Kvasir-VQA: A Text-Image Pair GI Tract Dataset**, `arXiv, 2409.01437`, [arxiv](http://arxiv.org/abs/2409.01437v1), [pdf](http://arxiv.org/pdf/2409.01437v1.pdf), cication: [**-1**](None)
+
+	 *Sushant Gautam, Andrea Storås, Cise Midoglu, Steven A. Hicks, Vajira Thambawita, Pål Halvorsen, Michael A. Riegler* · ([datasets.simula](https://datasets.simula.no/kvasir-vqa/))
 - [Releasing Re-LAION 5B: transparent iteration on LAION-5B with additional safety fixes | LAION](https://laion.ai/blog/relaion-5b/)
 - [**idl-wds**](https://huggingface.co/datasets/pixparse/idl-wds) - pixparse 🤗
 - [**finevideo**](https://huggingface.co/datasets/HuggingFaceFV/finevideo) - HuggingFaceFV 🤗
@@ -498,6 +512,12 @@
 	 *Scott Geng, Cheng-Yu Hsieh, Vivek Ramanujan, Matthew Wallingford, Chun-Liang Li, Pang Wei Koh, Ranjay Krishna* · ([unmet-promise](https://github.com/scottgeng00/unmet-promise) - scottgeng00) ![Star](https://img.shields.io/github/stars/scottgeng00/unmet-promise.svg?style=social&label=Star)
 
 ## Toolkits
+- [**unstract-llmwhisperer-sample**](https://github.com/svpino/unstract-llmwhisperer-sample) - svpino ![Star](https://img.shields.io/github/stars/svpino/unstract-llmwhisperer-sample.svg?style=social&label=Star)
+- [**piiranha-v1-detect-personal-information**](https://huggingface.co/iiiorg/piiranha-v1-detect-personal-information) - iiiorg 🤗
+- [**reader-lm-1.5b**](https://huggingface.co/jinaai/reader-lm-1.5b) - jinaai 🤗
+- [**docling**](https://github.com/DS4SD/docling) - DS4SD ![Star](https://img.shields.io/github/stars/DS4SD/docling.svg?style=social&label=Star)
+
+	 *🥚 Transform PDF to JSON or Markdown with ease and speed 🐣*
 - [**firecrawl**](https://github.com/mendableai/firecrawl) - mendableai ![Star](https://img.shields.io/github/stars/mendableai/firecrawl.svg?style=social&label=Star)
 
 	 *🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.*

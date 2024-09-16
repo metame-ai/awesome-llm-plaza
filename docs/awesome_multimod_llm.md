@@ -15,6 +15,9 @@
 	- [Reference](#reference)
 
 ## Survey
+- **A Survey on Evaluation of Multimodal Large Language Models**, `arXiv, 2408.15769`, [arxiv](http://arxiv.org/abs/2408.15769v1), [pdf](http://arxiv.org/pdf/2408.15769v1.pdf), cication: [**-1**](None)
+
+	 *Jiaxing Huang, Jingyi Zhang*
 - **A Survey on Benchmarks of Multimodal Large Language Models**, `arXiv, 2408.08632`, [arxiv](http://arxiv.org/abs/2408.08632v1), [pdf](http://arxiv.org/pdf/2408.08632v1.pdf), cication: [**-1**](None)
 
 	 *Jian Li, Weiheng Lu* · ([Evaluation-Multimodal-LLMs-Survey](https://github.com/swordlidev/Evaluation-Multimodal-LLMs-Survey) - swordlidev) ![Star](https://img.shields.io/github/stars/swordlidev/Evaluation-Multimodal-LLMs-Survey.svg?style=social&label=Star)
@@ -46,6 +49,16 @@
 
 ## Vision
 ### Vision Encoder
+- **Finite Scalar Quantization: VQ-VAE Made Simple**, `arXiv, 2309.15505`, [arxiv](http://arxiv.org/abs/2309.15505v2), [pdf](http://arxiv.org/pdf/2309.15505v2.pdf), cication: [**48**](https://scholar.google.com/scholar?cites=6562591541374820279&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Fabian Mentzer, David Minnen, Eirikur Agustsson, Michael Tschannen* · ([google-research](https://github.com/google-research/google-research/tree/master/fsq) - google-research) ![Star](https://img.shields.io/github/stars/google-research/google-research.svg?style=social&label=Star)
+- **Law of Vision Representation in MLLMs**, `arXiv, 2408.16357`, [arxiv](http://arxiv.org/abs/2408.16357v1), [pdf](http://arxiv.org/pdf/2408.16357v1.pdf), cication: [**-1**](None)
+
+	 *Shijia Yang, Bohan Zhai, Quanzeng You, Jianbo Yuan, Hongxia Yang, Chenfeng Xu*
+- **Eagle: Exploring The Design Space for Multimodal LLMs with Mixture of
+  Encoders**, `arXiv, 2408.15998`, [arxiv](http://arxiv.org/abs/2408.15998v1), [pdf](http://arxiv.org/pdf/2408.15998v1.pdf), cication: [**-1**](None)
+
+	 *Min Shi, Fuxiao Liu, Shihao Wang, Shijia Liao, Subhashree Radhakrishnan, De-An Huang, Hongxu Yin, Karan Sapra, Yaser Yacoob, Humphrey Shi* · ([Eagle](https://github.com/NVlabs/Eagle) - NVlabs) ![Star](https://img.shields.io/github/stars/NVlabs/Eagle.svg?style=social&label=Star)
 - [On the speed of ViTs and CNNs](http://lucasb.eyer.be/articles/vit_cnn_speed.html)
 - [**toc_h-dcid**](https://github.com/haihuangcode/toc_h-dcid) - haihuangcode ![Star](https://img.shields.io/github/stars/haihuangcode/toc_h-dcid.svg?style=social&label=Star)
 
@@ -117,6 +130,16 @@
 	 *Mike Ranzinger, Greg Heinrich, Jan Kautz, Pavlo Molchanov* · ([radio](https://github.com/nvlabs/radio) - nvlabs) ![Star](https://img.shields.io/github/stars/nvlabs/radio.svg?style=social&label=Star)
 
 ### Video
+- **PiTe: Pixel-Temporal Alignment for Large Video-Language Model**, `arXiv, 2409.07239`, [arxiv](http://arxiv.org/abs/2409.07239v1), [pdf](http://arxiv.org/pdf/2409.07239v1.pdf), cication: [**-1**](None)
+
+	 *Yang Liu, Pengxiang Ding, Siteng Huang, Min Zhang, Han Zhao, Donglin Wang*
+- **VideoLLaMB: Long-context Video Understanding with Recurrent Memory
+  Bridges**, `arXiv, 2409.01071`, [arxiv](http://arxiv.org/abs/2409.01071v1), [pdf](http://arxiv.org/pdf/2409.01071v1.pdf), cication: [**-1**](None)
+
+	 *Yuxuan Wang, Cihang Xie, Yang Liu, Zilong Zheng* · ([videollamb.github](https://videollamb.github.io/)) · ([VideoLLaMB](https://github.com/bigai-nlco/VideoLLaMB) - bigai-nlco) ![Star](https://img.shields.io/github/stars/bigai-nlco/VideoLLaMB.svg?style=social&label=Star)
+- **CogVLM2: Visual Language Models for Image and Video Understanding**, `arXiv, 2408.16500`, [arxiv](http://arxiv.org/abs/2408.16500v1), [pdf](http://arxiv.org/pdf/2408.16500v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=10436678688340530902&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Wenyi Hong, Weihan Wang, Ming Ding, Wenmeng Yu, Qingsong Lv, Yan Wang, Yean Cheng, Shiyu Huang, Junhui Ji, Zhao Xue* · ([CogVLM2](https://github.com/THUDM/CogVLM2) - THUDM) ![Star](https://img.shields.io/github/stars/THUDM/CogVLM2.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/collections/THUDM/cogvlm2-6645f36a29948b67dc4eef75))
 - **LongVILA: Scaling Long-Context Visual Language Models for Long Videos**, `arXiv, 2408.10188`, [arxiv](http://arxiv.org/abs/2408.10188v1), [pdf](http://arxiv.org/pdf/2408.10188v1.pdf), cication: [**-1**](None)
 
 	 *Fuzhao Xue, Yukang Chen, Dacheng Li, Qinghao Hu, Ligeng Zhu, Xiuyu Li, Yunhao Fang, Haotian Tang, Shang Yang, Zhijian Liu* · ([VILA](https://github.com/NVlabs/VILA/blob/main/LongVILA.md) - NVlabs) ![Star](https://img.shields.io/github/stars/NVlabs/VILA.svg?style=social&label=Star)
@@ -334,6 +357,14 @@
 	 · ([anole](https://github.com/GAIR-NLP/anole) - GAIR-NLP) ![Star](https://img.shields.io/github/stars/GAIR-NLP/anole.svg?style=social&label=Star)
 
 ### Image
+- [ColPali: Efficient Document Retrieval with Vision Language Models 👀](https://huggingface.co/blog/manu/colpali)
+- **POINTS: Improving Your Vision-language Model with Affordable Strategies**, `arXiv, 2409.04828`, [arxiv](http://arxiv.org/abs/2409.04828v1), [pdf](http://arxiv.org/pdf/2409.04828v1.pdf), cication: [**-1**](None)
+
+	 *Yuan Liu, Zhongyin Zhao, Ziyuan Zhuang, Le Tian, Xiao Zhou, Jie Zhou*
+- **mPLUG-DocOwl2: High-resolution Compressing for OCR-free Multi-page
+  Document Understanding**, `arXiv, 2409.03420`, [arxiv](http://arxiv.org/abs/2409.03420v2), [pdf](http://arxiv.org/pdf/2409.03420v2.pdf), cication: [**-1**](None)
+
+	 *Anwen Hu, Haiyang Xu, Liang Zhang, Jiabo Ye, Ming Yan, Ji Zhang, Qin Jin, Fei Huang, Jingren Zhou* · ([mPLUG-DocOwl](https://github.com/X-PLUG/mPLUG-DocOwl/tree/main/DocOwl2) - X-PLUG) ![Star](https://img.shields.io/github/stars/X-PLUG/mPLUG-DocOwl.svg?style=social&label=Star)
 - **Building and better understanding vision-language models: insights and
   future directions**, `arXiv, 2408.12637`, [arxiv](http://arxiv.org/abs/2408.12637v1), [pdf](http://arxiv.org/pdf/2408.12637v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=14804174071127590531&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
@@ -1429,7 +1460,10 @@
 	 *Xueliang Zhao, Xinting Huang, Tingchen Fu, Qintong Li, Shansan Gong, Lemao Liu, Wei Bi, Lingpeng Kong*
 
 ## Efficient 
-- [Fetching Title#8gxt](https://huggingface.co/IntelLabs/LlavaOLMoBitnet1B)
+- **LLaVA-MoD: Making LLaVA Tiny via MoE Knowledge Distillation**, `arXiv, 2408.15881`, [arxiv](http://arxiv.org/abs/2408.15881v1), [pdf](http://arxiv.org/pdf/2408.15881v1.pdf), cication: [**-1**](None)
+
+	 *Fangxun Shu, Yue Liao, Le Zhuo, Chenning Xu, Guanghao Zhang, Haonan Shi, Long Chen, Tao Zhong, Wanggui He, Siming Fu* · ([LLaVA-MoD](https://github.com/shufangxun/LLaVA-MoD) - shufangxun) ![Star](https://img.shields.io/github/stars/shufangxun/LLaVA-MoD.svg?style=social&label=Star)
+- [**LlavaOLMoBitnet1B**](https://huggingface.co/IntelLabs/LlavaOLMoBitnet1B) - IntelLabs 🤗
 - **EVLM: An Efficient Vision-Language Model for Visual Understanding**, `arXiv, 2407.14177`, [arxiv](http://arxiv.org/abs/2407.14177v1), [pdf](http://arxiv.org/pdf/2407.14177v1.pdf), cication: [**-1**](None)
 
 	 *Kaibing Chen, Dong Shen, Hanwen Zhong, Huasong Zhong, Kui Xia, Di Xu, Wei Yuan, Yifei Hu, Bin Wen, Tianke Zhang*
@@ -1587,6 +1621,10 @@
 
 
 ## Evaluation
+- **UrBench: A Comprehensive Benchmark for Evaluating Large Multimodal
+  Models in Multi-View Urban Scenarios**, `arXiv, 2408.17267`, [arxiv](http://arxiv.org/abs/2408.17267v1), [pdf](http://arxiv.org/pdf/2408.17267v1.pdf), cication: [**-1**](None)
+
+	 *Baichuan Zhou, Haote Yang, Dairong Chen, Junyan Ye, Tianyi Bai, Jinhua Yu, Songyang Zhang, Dahua Lin, Conghui He, Weijia Li* · ([opendatalab.github](https://opendatalab.github.io/UrBench/))
 - **MME-RealWorld: Could Your Multimodal LLM Challenge High-Resolution
   Real-World Scenarios that are Difficult for Humans?**, `arXiv, 2408.13257`, [arxiv](http://arxiv.org/abs/2408.13257v1), [pdf](http://arxiv.org/pdf/2408.13257v1.pdf), cication: [**-1**](None)
 
@@ -1757,6 +1795,9 @@
 	 *Yuliang Liu, Zhang Li, Biao Yang, Chunyuan Li, Xucheng Yin, Cheng-lin Liu, Lianwen Jin, Xiang Bai* · ([MultimodalOCR](https://github.com/Yuliang-Liu/MultimodalOCR) - Yuliang-Liu) ![Star](https://img.shields.io/github/stars/Yuliang-Liu/MultimodalOCR.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652442102&idx=4&sn=64a53646c57797a00b9db186f339c5eb))
 
 ## Datasets
+- **MMEvol: Empowering Multimodal Large Language Models with Evol-Instruct**, `arXiv, 2409.05840`, [arxiv](http://arxiv.org/abs/2409.05840v1), [pdf](http://arxiv.org/pdf/2409.05840v1.pdf), cication: [**-1**](None)
+
+	 *Run Luo, Haonan Zhang, Longze Chen, Ting-En Lin, Xiong Liu, Yuchuan Wu, Min Yang, Minzheng Wang, Pengpeng Zeng, Lianli Gao*
 - [Openstory++ : A Large-scale Dataset and Benchmark for Instance-aware Open-domain Visual Storytelling](https://openstorypp.github.io/)
 - **The Synergy between Data and Multi-Modal Large Language Models: A Survey
   from Co-Development Perspective**, `arXiv, 2407.08583`, [arxiv](http://arxiv.org/abs/2407.08583v1), [pdf](http://arxiv.org/pdf/2407.08583v1.pdf), cication: [**-1**](None)
@@ -1845,7 +1886,8 @@
 	 · ([publications.reka](https://publications.reka.ai/reka-core-tech-report.pdf))
 
 ## Other
-- [Site Unreachable](https://www.youtube.com/watch?v=vAmKB7iPkWw)
+- [ColPali: Efficient Document Retrieval with Vision Language Models 👀](https://huggingface.co/blog/manu/colpali)
+- [Coding a Multimodal (Vision) Language Model from scratch in PyTorch with full explanation](https://www.youtube.com/watch?v=vAmKB7iPkWw)
 - **PMG : Personalized Multimodal Generation with Large Language Models**, `arXiv, 2404.08677`, [arxiv](http://arxiv.org/abs/2404.08677v1), [pdf](http://arxiv.org/pdf/2404.08677v1.pdf), cication: [**-1**](None)
 
 	 *Xiaoteng Shen, Rui Zhang, Xiaoyan Zhao, Jieming Zhu, Xi Xiao*

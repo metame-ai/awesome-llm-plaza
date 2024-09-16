@@ -32,6 +32,19 @@
 	 *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang*
 
 ## Papers
+- **PingPong: A Benchmark for Role-Playing Language Models with User
+  Emulation and Multi-Model Evaluation**, `arXiv, 2409.06820`, [arxiv](http://arxiv.org/abs/2409.06820v1), [pdf](http://arxiv.org/pdf/2409.06820v1.pdf), cication: [**-1**](None)
+
+	 *Ilya Gusev*
+
+	 · ([ping_pong_bench](https://github.com/IlyaGusev/ping_pong_bench/) - IlyaGusev) ![Star](https://img.shields.io/github/stars/IlyaGusev/ping_pong_bench.svg?style=social&label=Star)
+- **GroUSE: A Benchmark to Evaluate Evaluators in Grounded Question
+  Answering**, `arXiv, 2409.06595`, [arxiv](http://arxiv.org/abs/2409.06595v1), [pdf](http://arxiv.org/pdf/2409.06595v1.pdf), cication: [**-1**](None)
+
+	 *Sacha Muller, António Loison, Bilel Omrani, Gautier Viaud* · ([grouse](https://github.com/illuin-tech/grouse) - illuin-tech) ![Star](https://img.shields.io/github/stars/illuin-tech/grouse.svg?style=social&label=Star)
+- **Benchmarking Chinese Knowledge Rectification in Large Language Models**, `arXiv, 2409.05806`, [arxiv](http://arxiv.org/abs/2409.05806v1), [pdf](http://arxiv.org/pdf/2409.05806v1.pdf), cication: [**-1**](None)
+
+	 *Tianhe Lu, Jizhan Fang, Yunzhi Yao, Xin Xu, Ningyu Zhang, Huajun Chen* · ([huggingface](https://huggingface.co/datasets/zjunlp/CKnowEdit))
 - **MMMU-Pro: A More Robust Multi-discipline Multimodal Understanding
   Benchmark**, `arXiv, 2409.02813`, [arxiv](http://arxiv.org/abs/2409.02813v2), [pdf](http://arxiv.org/pdf/2409.02813v2.pdf), cication: [**-1**](None)
 

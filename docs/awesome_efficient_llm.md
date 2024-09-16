@@ -17,6 +17,10 @@
 	- [Efficient transformer](#efficient-transformer)
 
 ## Survey
+- [[2409.00088] On-Device Language Models: A Comprehensive Review](https://arxiv.org/abs/2409.00088)
+- **Attention Heads of Large Language Models: A Survey**, `arXiv, 2409.03752`, [arxiv](http://arxiv.org/abs/2409.03752v1), [pdf](http://arxiv.org/pdf/2409.03752v1.pdf), cication: [**-1**](None)
+
+	 *Zifan Zheng, Yezhaohui Wang, Yuxin Huang, Shichao Song, Bo Tang, Feiyu Xiong, Zhiyu Li* · ([Awesome-Attention-Heads](https://github.com/IAAR-Shanghai/Awesome-Attention-Heads) - IAAR-Shanghai) ![Star](https://img.shields.io/github/stars/IAAR-Shanghai/Awesome-Attention-Heads.svg?style=social&label=Star)
 - **What is the Role of Small Models in the LLM Era: A Survey**, `arXiv, 2409.06857`, [arxiv](http://arxiv.org/abs/2409.06857v2), [pdf](http://arxiv.org/pdf/2409.06857v2.pdf), cication: [**-1**](None)
 
 	 *Lihu Chen, Gaël Varoquaux* · ([role_of_small_models](https://github.com/tigerchen52/role_of_small_models) - tigerchen52) ![Star](https://img.shields.io/github/stars/tigerchen52/role_of_small_models.svg?style=social&label=Star)
@@ -492,6 +496,9 @@
 	 *Yuxian Gu, Li Dong, Furu Wei, Minlie Huang*
 
 ## Pruning
+- **Training-Free Activation Sparsity in Large Language Models**, `arXiv, 2408.14690`, [arxiv](http://arxiv.org/abs/2408.14690v1), [pdf](http://arxiv.org/pdf/2408.14690v1.pdf), cication: [**-1**](None)
+
+	 *James Liu, Pragaash Ponnusamy, Tianle Cai, Han Guo, Yoon Kim, Ben Athiwaratkun* · ([teal](https://github.com/fasterdecoding/teal) - fasterdecoding) ![Star](https://img.shields.io/github/stars/fasterdecoding/teal.svg?style=social&label=Star)
 - **Compact Language Models via Pruning and Knowledge Distillation**, `arXiv, 2407.14679`, [arxiv](http://arxiv.org/abs/2407.14679v1), [pdf](http://arxiv.org/pdf/2407.14679v1.pdf), cication: [**-1**](None)
 
 	 *Saurav Muralidharan, Sharath Turuvekere Sreenivas, Raviraj Joshi, Marcin Chochowski, Mostofa Patwary, Mohammad Shoeybi, Bryan Catanzaro, Jan Kautz, Pavlo Molchanov* · ([minitron](https://github.com/nvlabs/minitron) - nvlabs) ![Star](https://img.shields.io/github/stars/nvlabs/minitron.svg?style=social&label=Star)
@@ -928,6 +935,9 @@
 - [研究完llama.cpp，我发现手机跑大模型竟这么简单 | 机器之心](https://www.jiqizhixin.com/articles/2023-08-17-8)
 
 ## Mobile
+- [[2408.15518] Squid: Long Context as a New Modality for Energy-Efficient On-Device Language Models](https://arxiv.org/abs/2408.15518)
+
+	 · ([huggingface](https://huggingface.co/NexaAIDev/Dolphin))
 - [machinelearning.apple.com/papers/apple\_intelligence\_foundation\_language\_models.pdf](https://machinelearning.apple.com/papers/apple_intelligence_foundation_language_models.pdf)
 - **MobileLLM: Optimizing Sub-billion Parameter Language Models for
   On-Device Use Cases**, `arXiv, 2402.14905`, [arxiv](http://arxiv.org/abs/2402.14905v2), [pdf](http://arxiv.org/pdf/2402.14905v2.pdf), cication: [**15**](https://scholar.google.com/scholar?cites=10746600429526080063&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
@@ -1014,6 +1024,9 @@
 	 *DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.*
 
 ## Efficient transformer
+- **Gated Slot Attention for Efficient Linear-Time Sequence Modeling**, `arXiv, 2409.07146`, [arxiv](http://arxiv.org/abs/2409.07146v1), [pdf](http://arxiv.org/pdf/2409.07146v1.pdf), cication: [**-1**](None)
+
+	 *Yu Zhang, Songlin Yang, Ruijie Zhu, Yue Zhang, Leyang Cui, Yiqiao Wang, Bolun Wang, Freda Shi, Bailin Wang, Wei Bi*
 - **GoldFinch: High Performance RWKV/Transformer Hybrid with Linear Pre-Fill
   and Extreme KV-Cache Compression**, `arXiv, 2407.12077`, [arxiv](http://arxiv.org/abs/2407.12077v1), [pdf](http://arxiv.org/pdf/2407.12077v1.pdf), cication: [**-1**](None)
 
