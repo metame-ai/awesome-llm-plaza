@@ -836,6 +836,10 @@
 - [GPT-4V学会用键鼠上网，人类眼睁睁看着它发帖玩游戏 | 量子位](https://www.qbitai.com/2023/11/95456.html)
 
 ## Retrieval agumented generation
+- [Fetching Title#v2u9](https://docs.google.com/presentation/d/1Zczs5Sk3FsCO06ZLDznqkOOhbTe96PwJa4_7FwyMBrA/edit#slide=id.g2fb9bca875a_0_62)
+- [**paper-qa**](https://github.com/Future-House/paper-qa) - Future-House ![Star](https://img.shields.io/github/stars/Future-House/paper-qa.svg?style=social&label=Star)
+
+	 *High accuracy RAG for answering questions from scientific documents with citations*
 - **In Defense of RAG in the Era of Long-Context Language Models**, `arXiv, 2409.01666`, [arxiv](http://arxiv.org/abs/2409.01666v1), [pdf](http://arxiv.org/pdf/2409.01666v1.pdf), cication: [**-1**](None)
 
 	 *Tan Yu, Anbang Xu, Rama Akkiraju*

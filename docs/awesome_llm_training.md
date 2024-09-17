@@ -350,6 +350,8 @@
 - **The AdEMAMix Optimizer: Better, Faster, Older**, `arXiv, 2409.03137`, [arxiv](http://arxiv.org/abs/2409.03137v1), [pdf](http://arxiv.org/pdf/2409.03137v1.pdf), cication: [**-1**](None)
 
 	 *Matteo Pagliardini, Pierre Ablin, David Grangier*
+
+	 · ([AdEMAMix-Optimizer-Pytorch](https://github.com/nanowell/AdEMAMix-Optimizer-Pytorch) - nanowell) ![Star](https://img.shields.io/github/stars/nanowell/AdEMAMix-Optimizer-Pytorch.svg?style=social&label=Star)
 - **Power Scheduler: A Batch Size and Token Number Agnostic Learning Rate
   Scheduler**, `arXiv, 2408.13359`, [arxiv](http://arxiv.org/abs/2408.13359v1), [pdf](http://arxiv.org/pdf/2408.13359v1.pdf), cication: [**-1**](None)
 
@@ -473,6 +475,7 @@
 	 *Dongfu Jiang, Xiang Ren, Bill Yuchen Lin* · ([LLM-Blender](https://github.com/yuchenlin/LLM-Blender) - yuchenlin) ![Star](https://img.shields.io/github/stars/yuchenlin/LLM-Blender.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652343982&idx=4&sn=ce5c51039d91531178257024d883db90))
 
 ### Other
+- [Model Merging: A Survey - by Cameron R. Wolfe, Ph.D.](https://cameronrwolfe.substack.com/p/model-merging)
 - [Evolutionary Model Merging For All](https://blog.arcee.ai/tutorial-tutorial-how-to-get-started-with-evolutionary-model-merging/)
 - [**mergekit-gui**](https://huggingface.co/spaces/julien-c/mergekit-gui) - julien-c 🤗
 - [Model merging lessons in The Waifu Research Department](https://www.interconnects.ai/p/model-merging)

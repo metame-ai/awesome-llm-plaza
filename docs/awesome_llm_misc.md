@@ -559,6 +559,9 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652345558&idx=4&sn=95686435d5cad05d44cbe02bc26d6859))
 
 ## Interpretability 
+- [**TensorHue**](https://github.com/epistoteles/TensorHue) - epistoteles ![Star](https://img.shields.io/github/stars/epistoteles/TensorHue.svg?style=social&label=Star)
+
+	 *TensorHue is a Python library that allows you to visualize tensors right in your console, making understanding and debugging tensor contents easier.*
 - **Physics of Language Models: Part 2.2, How to Learn From Mistakes on
   Grade-School Math Problems**, `arXiv, 2408.16293`, [arxiv](http://arxiv.org/abs/2408.16293v1), [pdf](http://arxiv.org/pdf/2408.16293v1.pdf), cication: [**-1**](None)
 

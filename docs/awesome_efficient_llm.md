@@ -17,7 +17,9 @@
 	- [Efficient transformer](#efficient-transformer)
 
 ## Survey
-- [[2409.00088] On-Device Language Models: A Comprehensive Review](https://arxiv.org/abs/2409.00088)
+- **On-Device Language Models: A Comprehensive Review**, `arXiv, 2409.00088`, [arxiv](http://arxiv.org/abs/2409.00088v2), [pdf](http://arxiv.org/pdf/2409.00088v2.pdf), cication: [**-1**](None)
+
+	 *Jiajun Xu, Zhiyuan Li, Wei Chen, Qun Wang, Xin Gao, Qi Cai, Ziyuan Ling*
 - **Attention Heads of Large Language Models: A Survey**, `arXiv, 2409.03752`, [arxiv](http://arxiv.org/abs/2409.03752v1), [pdf](http://arxiv.org/pdf/2409.03752v1.pdf), cication: [**-1**](None)
 
 	 *Zifan Zheng, Yezhaohui Wang, Yuxin Huang, Shichao Song, Bo Tang, Feiyu Xiong, Zhiyu Li* · ([Awesome-Attention-Heads](https://github.com/IAAR-Shanghai/Awesome-Attention-Heads) - IAAR-Shanghai) ![Star](https://img.shields.io/github/stars/IAAR-Shanghai/Awesome-Attention-Heads.svg?style=social&label=Star)
@@ -935,7 +937,10 @@
 - [研究完llama.cpp，我发现手机跑大模型竟这么简单 | 机器之心](https://www.jiqizhixin.com/articles/2023-08-17-8)
 
 ## Mobile
-- [[2408.15518] Squid: Long Context as a New Modality for Energy-Efficient On-Device Language Models](https://arxiv.org/abs/2408.15518)
+- **Squid: Long Context as a New Modality for Energy-Efficient On-Device
+  Language Models**, `arXiv, 2408.15518`, [arxiv](http://arxiv.org/abs/2408.15518v2), [pdf](http://arxiv.org/pdf/2408.15518v2.pdf), cication: [**-1**](None)
+
+	 *Wei Chen, Zhiyuan Li, Shuo Xin, Yihao Wang*
 
 	 · ([huggingface](https://huggingface.co/NexaAIDev/Dolphin))
 - [machinelearning.apple.com/papers/apple\_intelligence\_foundation\_language\_models.pdf](https://machinelearning.apple.com/papers/apple_intelligence_foundation_language_models.pdf)

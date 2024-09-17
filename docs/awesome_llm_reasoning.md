@@ -35,6 +35,9 @@
 	 *Jiankai Sun, Chuanyang Zheng, Enze Xie, Zhengying Liu, Ruihang Chu, Jianing Qiu, Jiaqi Xu, Mingyu Ding, Hongyang Li, Mengzhe Geng* · ([Awesome-Reasoning-Foundation-Models](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models) - reasoning-survey) ![Star](https://img.shields.io/github/stars/reasoning-survey/Awesome-Reasoning-Foundation-Models.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652421688&idx=3&sn=fcdc24edc7bc89ebcbcca0f7665e40f6))
 
 ## O1-Reasoning
+- [**Awesome-LLM-Strawberry**](https://github.com/hijkzzz/Awesome-LLM-Strawberry) - hijkzzz ![Star](https://img.shields.io/github/stars/hijkzzz/Awesome-LLM-Strawberry.svg?style=social&label=Star)
+
+	 *A collection of LLM papers, blogs, and projects, with a focus on OpenAI o1 and reasoning techniques.* · ([mp.weixin.qq](https://mp.weixin.qq.com/s/sPYeM5LbfAwyHUxbQ78Vsg))
 - **Scaling LLM Test-Time Compute Optimally can be More Effective than
   Scaling Model Parameters**, `arXiv, 2408.03314`, [arxiv](http://arxiv.org/abs/2408.03314v1), [pdf](http://arxiv.org/pdf/2408.03314v1.pdf), cication: [**4**](https://scholar.google.com/scholar?cites=10282131377233540155&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
@@ -874,6 +877,10 @@
 - [ChatGPT 詠唱案例懶人包 - 超過 40 個現實世界的應用範例 (持續更新) - 雷司紀的小道投資 raysky](https://www.rayskyinvest.com/96682/chatgpt-examples)
 
 ## In context learning
+- **Learning vs Retrieval: The Role of In-Context Examples in Regression
+  with LLMs**, `arXiv, 2409.04318`, [arxiv](http://arxiv.org/abs/2409.04318v1), [pdf](http://arxiv.org/pdf/2409.04318v1.pdf), cication: [**-1**](None)
+
+	 *Aliakbar Nafar, Kristen Brent Venable, Parisa Kordjamshidi*
 - **ContextCite: Attributing Model Generation to Context**, `arXiv, 2409.00729`, [arxiv](http://arxiv.org/abs/2409.00729v1), [pdf](http://arxiv.org/pdf/2409.00729v1.pdf), cication: [**-1**](None)
 
 	 *Benjamin Cohen-Wang, Harshay Shah, Kristian Georgiev, Aleksander Madry* · ([context-cite](https://github.com/MadryLab/context-cite) - MadryLab) ![Star](https://img.shields.io/github/stars/MadryLab/context-cite.svg?style=social&label=Star)
