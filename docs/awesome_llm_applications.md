@@ -54,6 +54,15 @@
 - [Navigating the Jagged Technological Frontier: Field Experimental Evidence of the Effects of AI on Knowledge Worker Productivity and Quality](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4573321)
 
 ## Toolkits 
+- [**chat-macOS**](https://github.com/huggingface/chat-macOS) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/chat-macOS.svg?style=social&label=Star)
+
+	 *Making the community's best AI chat models available to everyone.*
+- [**Local-File-Organizer**](https://github.com/QiuYannnn/Local-File-Organizer) - QiuYannnn ![Star](https://img.shields.io/github/stars/QiuYannnn/Local-File-Organizer.svg?style=social&label=Star)
+
+	 *An AI-powered file management tool that ensures complete privacy by organizing local documents, images, and PDFs using Google Gemma 2-2B and Llava v1.6 models. Initialized with the Nexa SDK, it intuitively scans and structures your files for seamless access.*
+- [**exo**](https://github.com/exo-explore/exo) - exo-explore ![Star](https://img.shields.io/github/stars/exo-explore/exo.svg?style=social&label=Star)
+
+	 *Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚*
 - [**self-hosted-ai-starter-kit**](https://github.com/n8n-io/self-hosted-ai-starter-kit) - n8n-io ![Star](https://img.shields.io/github/stars/n8n-io/self-hosted-ai-starter-kit.svg?style=social&label=Star)
 
 	 *The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.* · ([x](https://x.com/svpino/status/1826590311948452035?utm_source=ainews&utm_medium=email&utm_campaign=ainews-everybody-shipped-small-things-this))
@@ -286,6 +295,8 @@
 
 
 ## Medical
+- [From Words to Molecules Harnessing Generative AI for Breakthroughs in Language and Molecular Design - YouTube](https://www.youtube.com/watch?v=32OvtSuBfv0&ab_channel=LanguageTechnologiesInstituteatCarnegieMellon)
+- [[2409.04481] Large Language Models in Drug Discovery and Development: From Disease Mechanisms to Clinical Trials](https://arxiv.org/abs/2409.04481)
 - **MEDIC: Towards a Comprehensive Framework for Evaluating LLMs in Clinical
   Applications**, `arXiv, 2409.07314`, [arxiv](http://arxiv.org/abs/2409.07314v1), [pdf](http://arxiv.org/pdf/2409.07314v1.pdf), cication: [**-1**](None)
 
@@ -691,6 +702,7 @@
 	 *RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models*
 
 ## Chat bots
+- [[2409.11901] LLMs + Persona-Plug = Personalized LLMs](https://arxiv.org/abs/2409.11901)
 - [**HelpingAI2-9B**](https://huggingface.co/OEvortex/HelpingAI2-9B) - OEvortex 🤗
 
 	 · ([huggingface](https://huggingface.co/datasets/OEvortex/SentimentSynth?row=11)) · ([huggingface](https://huggingface.co/datasets/OEvortex/vortex-mini?row=8))
@@ -807,6 +819,11 @@
 	 *Patrick Fernandes, Daniel Deutsch, Mara Finkelstein, Parker Riley, André F. T. Martins, Graham Neubig, Ankush Garg, Jonathan H. Clark, Markus Freitag, Orhan Firat*
 
 ## Audio
+- [**PDF2Audio**](https://github.com/lamm-mit/PDF2Audio) - lamm-mit ![Star](https://img.shields.io/github/stars/lamm-mit/PDF2Audio.svg?style=social&label=Star)
+- [[2409.12962] CLAIR-A: Leveraging Large Language Models to Judge Audio Captions](https://arxiv.org/abs/2409.12962)
+
+	 · ([clair-a](https://github.com/DavidMChan/clair-a) - DavidMChan) ![Star](https://img.shields.io/github/stars/DavidMChan/clair-a.svg?style=social&label=Star)
+- [[2409.08554] LLM-Powered Grapheme-to-Phoneme Conversion: Benchmark and Case Study](https://arxiv.org/abs/2409.08554)
 - [NotebookLM now lets you listen to a conversation about your sources](https://blog.google/technology/ai/notebooklm-audio-overviews/)
 - **Towards Achieving Human Parity on End-to-end Simultaneous Speech
   Translation via LLM Agent**, `arXiv, 2407.21646`, [arxiv](http://arxiv.org/abs/2407.21646v1), [pdf](http://arxiv.org/pdf/2407.21646v1.pdf), cication: [**-1**](None)
@@ -931,6 +948,7 @@
 	 *Official repo for LayoutGPT*
 
 ## Science
+- [[2409.02231] SmileyLlama: Modifying Large Language Models for Directed Chemical Space Exploration](https://arxiv.org/abs/2409.02231)
 - **Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with
   100+ NLP Researchers**, `arXiv, 2409.04109`, [arxiv](http://arxiv.org/abs/2409.04109v1), [pdf](http://arxiv.org/pdf/2409.04109v1.pdf), cication: [**-1**](None)
 

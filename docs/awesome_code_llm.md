@@ -7,6 +7,7 @@
 	- [Other](#other)
 
 ## Survey
+- [[2409.09030] Agents in Software Engineering: Survey, Landscape, and Vision](https://arxiv.org/abs/2409.09030)
 - **Can OpenSource beat ChatGPT? -- A Comparative Study of Large Language
   Models for Text-to-Code Generation**, `arXiv, 2409.04164`, [arxiv](http://arxiv.org/abs/2409.04164v1), [pdf](http://arxiv.org/pdf/2409.04164v1.pdf), cication: [**-1**](None)
 
@@ -33,6 +34,10 @@
 	 *Ziyin Zhang, Chaoyu Chen, Bingchang Liu, Cong Liao, Zi Gong, Hang Yu, Jianguo Li, Rui Wang*
 
 ## Paper
+- [[2409.08692] B4: Towards Optimal Assessment of Plausible Code Solutions with Plausible Tests](https://arxiv.org/abs/2409.08692)
+
+	 · ([B4](https://github.com/ZJU-CTAG/B4) - ZJU-CTAG) ![Star](https://img.shields.io/github/stars/ZJU-CTAG/B4.svg?style=social&label=Star)
+- [[2409.12186] Qwen2.5-Coder Technical Report](https://arxiv.org/abs/2409.12186)
 - **How Do Your Code LLMs Perform? Empowering Code Instruction Tuning with
   High-Quality Data**, `arXiv, 2409.03810`, [arxiv](http://arxiv.org/abs/2409.03810v1), [pdf](http://arxiv.org/pdf/2409.03810v1.pdf), cication: [**-1**](None)
 
@@ -413,6 +418,8 @@
 	 · [intercode-benchmark.github](https://intercode-benchmark.github.io/)
 
 ## Projects
+- [Site Unreachable](https://ai.meta.com/blog/together-ai-llamacoder)
+- [**GRADIO-CODER**](https://huggingface.co/matrixglitch/GRADIO-CODER) - matrixglitch 🤗
 - [**Yi-Coder-9B-Chat**](https://huggingface.co/01-ai/Yi-Coder-9B-Chat) - 01-ai 🤗
 - [Meet Yi-Coder: A Small but Mighty LLM for Code](https://01-ai.github.io/blog.html?post=en/2024-09-05-A-Small-but-Mighty-LLM-for-Code.md)
 - [**DeepSeek-Coder-V2-Instruct-0724**](https://huggingface.co/deepseek-ai/DeepSeek-Coder-V2-Instruct-0724) - deepseek-ai 🤗

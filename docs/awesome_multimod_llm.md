@@ -15,6 +15,10 @@
 	- [Reference](#reference)
 
 ## Survey
+- [Bridging Images and Text - a Survey of VLMs](https://nanonets.com/blog/bridging-images-and-text-a-survey-of-vlms/)
+- [[2409.09502] One missing piece in Vision and Language: A Survey on Comics Understanding](https://arxiv.org/abs/2409.09502)
+
+	 · ([awesome-comics-understanding](https://github.com/emanuelevivoli/awesome-comics-understanding) - emanuelevivoli) ![Star](https://img.shields.io/github/stars/emanuelevivoli/awesome-comics-understanding.svg?style=social&label=Star)
 - **A Survey on Evaluation of Multimodal Large Language Models**, `arXiv, 2408.15769`, [arxiv](http://arxiv.org/abs/2408.15769v1), [pdf](http://arxiv.org/pdf/2408.15769v1.pdf), cication: [**-1**](None)
 
 	 *Jiaxing Huang, Jingyi Zhang*
@@ -357,6 +361,22 @@
 	 · ([anole](https://github.com/GAIR-NLP/anole) - GAIR-NLP) ![Star](https://img.shields.io/github/stars/GAIR-NLP/anole.svg?style=social&label=Star)
 
 ### Image
+- [[2409.02889] LongLLaVA: Scaling Multi-modal LLMs to 1000 Images Efficiently via Hybrid Architecture](https://arxiv.org/abs/2409.02889)
+
+	 · ([LongLLaVA](https://github.com/FreedomIntelligence/LongLLaVA/blob/main) - FreedomIntelligence) ![Star](https://img.shields.io/github/stars/FreedomIntelligence/LongLLaVA.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-09-21-5))
+- [[2409.12961] Oryx MLLM: On-Demand Spatial-Temporal Understanding at Arbitrary Resolution](https://arxiv.org/abs/2409.12961)
+
+	 · ([Oryx](https://github.com/Oryx-mllm/Oryx) - Oryx-mllm) ![Star](https://img.shields.io/github/stars/Oryx-mllm/Oryx.svg?style=social&label=Star)
+- [[2405.20797] Ovis: Structural Embedding Alignment for Multimodal Large Language Model](https://arxiv.org/abs/2405.20797)
+
+	 · ([huggingface](https://huggingface.co/AIDC-AI/Ovis1.6-Gemma2-9B)) · ([Ovis](https://github.com/AIDC-AI/Ovis) - AIDC-AI) ![Star](https://img.shields.io/github/stars/AIDC-AI/Ovis.svg?style=social&label=Star)
+- [[2406.17711] Data curation via joint example selection further accelerates multimodal learning](https://arxiv.org/abs/2406.17711)
+- [[2409.12191] Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution](https://arxiv.org/abs/2409.12191)
+
+	 · ([Qwen2-VL](https://github.com/QwenLM/Qwen2-VL) - QwenLM) ![Star](https://img.shields.io/github/stars/QwenLM/Qwen2-VL.svg?style=social&label=Star)
+- [[2409.11402] NVLM: Open Frontier-Class Multimodal LLMs](https://arxiv.org/abs/2409.11402)
+
+	 · ([nvlm-project.github](https://nvlm-project.github.io/))
 - [ColPali: Efficient Document Retrieval with Vision Language Models 👀](https://huggingface.co/blog/manu/colpali)
 - **POINTS: Improving Your Vision-language Model with Affordable Strategies**, `arXiv, 2409.04828`, [arxiv](http://arxiv.org/abs/2409.04828v1), [pdf](http://arxiv.org/pdf/2409.04828v1.pdf), cication: [**-1**](None)
 
@@ -1439,6 +1459,11 @@
 
 	 *Timin Gao, Peixian Chen, Mengdan Zhang, Chaoyou Fu, Yunhang Shen, Yan Zhang, Shengchuan Zhang, Xiawu Zheng, Xing Sun, Liujuan Cao* · ([ggg0919.github](https://ggg0919.github.io/cantor/))
 
+## Toolkits
+- [**qwen2-vl-finetune-huggingface**](https://github.com/wjbmattingly/qwen2-vl-finetune-huggingface) - wjbmattingly ![Star](https://img.shields.io/github/stars/wjbmattingly/qwen2-vl-finetune-huggingface.svg?style=social&label=Star)
+
+	 *This project is a collection of fine-tuning scripts to help researchers fine-tune Qwen 2 VL on HuggingFace datasets.*
+
 ## Alignment
 - **MAVIS: Mathematical Visual Instruction Tuning**, `arXiv, 2407.08739`, [arxiv](http://arxiv.org/abs/2407.08739v1), [pdf](http://arxiv.org/pdf/2407.08739v1.pdf), cication: [**-1**](None)
 
@@ -1460,6 +1485,9 @@
 	 *Xueliang Zhao, Xinting Huang, Tingchen Fu, Qintong Li, Shansan Gong, Lemao Liu, Wei Bi, Lingpeng Kong*
 
 ## Efficient 
+- [[2409.14713] Phantom of Latent for Large Language and Vision Models](https://arxiv.org/abs/2409.14713)
+
+	 · ([Phantom](https://github.com/ByungKwanLee/Phantom) - ByungKwanLee) ![Star](https://img.shields.io/github/stars/ByungKwanLee/Phantom.svg?style=social&label=Star)
 - **LLaVA-MoD: Making LLaVA Tiny via MoE Knowledge Distillation**, `arXiv, 2408.15881`, [arxiv](http://arxiv.org/abs/2408.15881v1), [pdf](http://arxiv.org/pdf/2408.15881v1.pdf), cication: [**-1**](None)
 
 	 *Fangxun Shu, Yue Liao, Le Zhuo, Chenning Xu, Guanghao Zhang, Haonan Shi, Long Chen, Tao Zhong, Wanggui He, Siming Fu* · ([LLaVA-MoD](https://github.com/shufangxun/LLaVA-MoD) - shufangxun) ![Star](https://img.shields.io/github/stars/shufangxun/LLaVA-MoD.svg?style=social&label=Star)
@@ -1532,6 +1560,7 @@
 
 	 *Mingsheng Li, Xin Chen, Chi Zhang, Sijin Chen, Hongyuan Zhu, Fukun Yin, Gang Yu, Tao Chen*
 ## Projects
+- [**Ovis1.6-Gemma2-9B**](https://huggingface.co/AIDC-AI/Ovis1.6-Gemma2-9B) - AIDC-AI 🤗
 - [**pixtral-12b-240910**](https://huggingface.co/mistral-community/pixtral-12b-240910) - mistral-community 🤗
 - [**Phi-3.5-vision-instruct**](https://huggingface.co/microsoft/Phi-3.5-vision-instruct) - microsoft 🤗
 - [**Idefics3-8B-Llama3**](https://huggingface.co/HuggingFaceM4/Idefics3-8B-Llama3) - HuggingFaceM4 🤗
@@ -1621,6 +1650,12 @@
 
 
 ## Evaluation
+- [[2409.13592] YesBut: A High-Quality Annotated Multimodal Dataset for evaluating Satire Comprehension capability of Vision-Language Models](https://arxiv.org/abs/2409.13592)
+
+	 · ([yesbut_dataset](https://github.com/abhi1nandy2/yesbut_dataset) - abhi1nandy2) ![Star](https://img.shields.io/github/stars/abhi1nandy2/yesbut_dataset.svg?style=social&label=Star)
+- [[2409.12959] MMSearch: Benchmarking the Potential of Large Models as Multi-modal Search Engines](https://arxiv.org/abs/2409.12959)
+
+	 · ([mmsearch.github](https://mmsearch.github.io/))
 - **UrBench: A Comprehensive Benchmark for Evaluating Large Multimodal
   Models in Multi-View Urban Scenarios**, `arXiv, 2408.17267`, [arxiv](http://arxiv.org/abs/2408.17267v1), [pdf](http://arxiv.org/pdf/2408.17267v1.pdf), cication: [**-1**](None)
 
@@ -1795,6 +1830,9 @@
 	 *Yuliang Liu, Zhang Li, Biao Yang, Chunyuan Li, Xucheng Yin, Cheng-lin Liu, Lianwen Jin, Xiang Bai* · ([MultimodalOCR](https://github.com/Yuliang-Liu/MultimodalOCR) - Yuliang-Liu) ![Star](https://img.shields.io/github/stars/Yuliang-Liu/MultimodalOCR.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652442102&idx=4&sn=64a53646c57797a00b9db186f339c5eb))
 
 ## Datasets
+- [[2409.12568] InfiMM-WebMath-40B: Advancing Multimodal Pre-Training for Enhanced Mathematical Reasoning](https://arxiv.org/abs/2409.12568)
+
+	 · ([huggingface](https://huggingface.co/datasets/Infi-MM/InfiMM-WebMath-40B))
 - **MMEvol: Empowering Multimodal Large Language Models with Evol-Instruct**, `arXiv, 2409.05840`, [arxiv](http://arxiv.org/abs/2409.05840v1), [pdf](http://arxiv.org/pdf/2409.05840v1.pdf), cication: [**-1**](None)
 
 	 *Run Luo, Haonan Zhang, Longze Chen, Ting-En Lin, Xiong Liu, Yuchuan Wu, Min Yang, Minzheng Wang, Pengpeng Zeng, Lianli Gao*

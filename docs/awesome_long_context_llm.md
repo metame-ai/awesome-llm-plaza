@@ -26,6 +26,7 @@
 - [Attention? Attention! | Lil'Log](https://lilianweng.github.io/posts/2018-06-24-attention/#a-family-of-attention-mechanisms)
 
 ## Evaluation
+- [[2409.12640] Michelangelo: Long Context Evaluations Beyond Haystacks via Latent Structure Queries](https://arxiv.org/abs/2409.12640)
 - **LongGenbench: Benchmarking Long-Form Generation in Long Context LLMs**, `arXiv, 2409.02076`, [arxiv](http://arxiv.org/abs/2409.02076v3), [pdf](http://arxiv.org/pdf/2409.02076v3.pdf), cication: [**-1**](None)
 
 	 *Yuhao Wu, Ming Shan Hee, Zhiqing Hu, Roy Ka-Wei Lee* · ([SGT](https://github.com/mozhu621/SGT/tree/main/Dataset) - mozhu621) ![Star](https://img.shields.io/github/stars/mozhu621/SGT.svg?style=social&label=Star)
@@ -45,6 +46,8 @@
 	 *Adyasha Maharana, Dong-Ho Lee, Sergey Tulyakov, Mohit Bansal, Francesco Barbieri, Yuwei Fang*
 
 ## Papers
+- [[2409.12181] A Controlled Study on Long Context Extension and Generalization in LLMs](https://arxiv.org/abs/2409.12181)
+- [[2409.10516] RetrievalAttention: Accelerating Long-Context LLM Inference via Vector Retrieval](https://arxiv.org/abs/2409.10516)
 - [Late Chunking in Long-Context Embedding Models](https://jina.ai/news/late-chunking-in-long-context-embedding-models/?nocache=1)
 - **LongRecipe: Recipe for Efficient Long Context Generalization in Large
   Language Models**, `arXiv, 2409.00509`, [arxiv](http://arxiv.org/abs/2409.00509v2), [pdf](http://arxiv.org/pdf/2409.00509v2.pdf), cication: [**-1**](None)

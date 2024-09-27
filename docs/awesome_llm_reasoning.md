@@ -23,6 +23,8 @@
   Survey**, `arXiv, 2407.14507`, [arxiv](http://arxiv.org/abs/2407.14507v1), [pdf](http://arxiv.org/pdf/2407.14507v1.pdf), cication: [**-1**](None)
 
 	 *Xun Liang, Shichao Song, Zifan Zheng, Hanyu Wang, Qingchen Yu, Xunkai Li, Rong-Hua Li, Feiyu Xiong, Zhiyu Li* · ([ICSFSurvey](https://github.com/IAAR-Shanghai/ICSFSurvey) - IAAR-Shanghai) ![Star](https://img.shields.io/github/stars/IAAR-Shanghai/ICSFSurvey.svg?style=social&label=Star) · ([yuque](https://www.yuque.com/zhiyu-n2wnm/ugzwgf/gmqfkfigd6xw26eg))
+
+	 · ([x](https://x.com/Ki_Seki_here/status/1836020241538908529))
 - **The Prompt Report: A Systematic Survey of Prompting Techniques**, `arXiv, 2406.06608`, [arxiv](http://arxiv.org/abs/2406.06608v1), [pdf](http://arxiv.org/pdf/2406.06608v1.pdf), cication: [**-1**](None)
 
 	 *Sander Schulhoff, Michael Ilie, Nishant Balepur, Konstantine Kahadze, Amanda Liu, Chenglei Si, Yinheng Li, Aayush Gupta, HyoJung Han, Sevien Schulhoff*
@@ -35,6 +37,13 @@
 	 *Jiankai Sun, Chuanyang Zheng, Enze Xie, Zhengying Liu, Ruihang Chu, Jianing Qiu, Jiaqi Xu, Mingyu Ding, Hongyang Li, Mengzhe Geng* · ([Awesome-Reasoning-Foundation-Models](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models) - reasoning-survey) ![Star](https://img.shields.io/github/stars/reasoning-survey/Awesome-Reasoning-Foundation-Models.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652421688&idx=3&sn=fcdc24edc7bc89ebcbcca0f7665e40f6))
 
 ## O1-Reasoning
+- [[2409.13373] LLMs Still Can't Plan; Can LRMs? A Preliminary Evaluation of OpenAI's o1 on PlanBench](https://arxiv.org/abs/2409.13373)
+- [[2409.12917] Training Language Models to Self-Correct via Reinforcement Learning](https://arxiv.org/abs/2409.12917)
+- [**g1**](https://github.com/bklieger-groq/g1) - bklieger-groq ![Star](https://img.shields.io/github/stars/bklieger-groq/g1.svg?style=social&label=Star)
+
+	 *g1: Using Llama-3.1 70b on Groq to create o1-like reasoning chains*
+- [[2402.12875] Chain of Thought Empowers Transformers to Solve Inherently Serial Problems](https://arxiv.org/abs/2402.12875)
+- [Improving LLM Reasoning using SElf-generated data: RL and Verifiers](https://drive.google.com/file/d/1komQ7s9kPPvDx_8AxTh9A6tlfJA0j6dR/view)
 - [**Awesome-LLM-Strawberry**](https://github.com/hijkzzz/Awesome-LLM-Strawberry) - hijkzzz ![Star](https://img.shields.io/github/stars/hijkzzz/Awesome-LLM-Strawberry.svg?style=social&label=Star)
 
 	 *A collection of LLM papers, blogs, and projects, with a focus on OpenAI o1 and reasoning techniques.* · ([mp.weixin.qq](https://mp.weixin.qq.com/s/sPYeM5LbfAwyHUxbQ78Vsg))
@@ -61,6 +70,9 @@
 - [**o1**](https://huggingface.co/spaces/yuntian-deng/o1) - yuntian-deng 🤗
 - [**o1mini**](https://huggingface.co/spaces/yuntian-deng/o1mini) - yuntian-deng 🤗
 ## Reasoning
+- [[2409.12618] Iteration of Thought: Leveraging Inner Dialogue for Autonomous Large Language Model Reasoning](https://arxiv.org/abs/2409.12618)
+- [LLM-Reasoning-Berkeley.pdf](https://dennyzhou.github.io/LLM-Reasoning-Berkeley.pdf)
+- [[2409.12183] To CoT or not to CoT? Chain-of-thought helps mainly on math and symbolic reasoning](https://arxiv.org/abs/2409.12183)
 - **Mutual Reasoning Makes Smaller LLMs Stronger Problem-Solvers**, `arXiv, 2408.06195`, [arxiv](http://arxiv.org/abs/2408.06195v1), [pdf](http://arxiv.org/pdf/2408.06195v1.pdf), cication: [**-1**](None)
 
 	 *Zhenting Qi, Mingyuan Ma, Jiahang Xu, Li Lyna Zhang, Fan Yang, Mao Yang* · ([rStar](https://github.com/zhentingqi/rStar) - zhentingqi) ![Star](https://img.shields.io/github/stars/zhentingqi/rStar.svg?style=social&label=Star)
@@ -476,6 +488,13 @@
 - [大模型Fewshot推理如何选择更好的示例](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495177&idx=2&sn=fe8353efed16a81e35462be06d5a6cea)
 
 ## Math reasoning
+- [**Omni-MATH**](https://github.com/KbsdJames/Omni-MATH/?tab=readme-ov-file) - KbsdJames ![Star](https://img.shields.io/github/stars/KbsdJames/Omni-MATH.svg?style=social&label=Star)
+
+	 *The official repository of the Omni-MATH benchmark.* · ([omni-math.github](https://omni-math.github.io/))
+- [[2409.12183] To CoT or not to CoT? Chain-of-thought helps mainly on math and symbolic reasoning](https://arxiv.org/abs/2409.12183)
+
+	 · ([To-CoT-or-not-to-CoT](https://github.com/Zayne-sprague/To-CoT-or-not-to-CoT) - Zayne-sprague) ![Star](https://img.shields.io/github/stars/Zayne-sprague/To-CoT-or-not-to-CoT.svg?style=social&label=Star)
+- [Qwen2.5-Math - a Qwen Collection](https://huggingface.co/collections/Qwen/qwen25-math-66eaa240a1b7d5ee65f1da3e)
 - **Building Math Agents with Multi-Turn Iterative Preference Learning**, `arXiv, 2409.02392`, [arxiv](http://arxiv.org/abs/2409.02392v1), [pdf](http://arxiv.org/pdf/2409.02392v1.pdf), cication: [**-1**](None)
 
 	 *Wei Xiong, Chengshuai Shi, Jiaming Shen, Aviv Rosenberg, Zhen Qin, Daniele Calandriello, Misha Khalman, Rishabh Joshi, Bilal Piot, Mohammad Saleh*
@@ -707,6 +726,9 @@
 - [千亿级、数学专用，MathGPT大模型开始公测了 | 机器之心](https://www.jiqizhixin.com/articles/2023-08-24-2)
 
 ## Self correction
+- [[2402.06457] V-STaR: Training Verifiers for Self-Taught Reasoners](https://arxiv.org/abs/2402.06457)
+
+	 · ([x](https://x.com/_philschmid/status/1835936839057740043))
 - **Step-On-Feet Tuning: Scaling Self-Alignment of LLMs via Bootstrapping**, `arXiv, 2402.07610`, [arxiv](http://arxiv.org/abs/2402.07610v1), [pdf](http://arxiv.org/pdf/2402.07610v1.pdf), cication: [**-1**](None)
 
 	 *Haoyu Wang, Guozheng Ma, Ziqiao Meng, Zeyu Qin, Li Shen, Zhong Zhang, Bingzhe Wu, Liu Liu, Yatao Bian, Tingyang Xu*
@@ -727,6 +749,10 @@
 	 *Tianlu Wang, Ping Yu, Xiaoqing Ellen Tan, Sean O'Brien, Ramakanth Pasunuru, Jane Dwivedi-Yu, Olga Golovneva, Luke Zettlemoyer, Maryam Fazel-Zarandi, Asli Celikyilmaz* · ([shepherd](https://github.com/facebookresearch/shepherd) - facebookresearch) ![Star](https://img.shields.io/github/stars/facebookresearch/shepherd.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652366759&idx=3&sn=f183f4c8080a338c4c9fad0f026b14af))
 
 ## Prompting
+- [[2409.13449] Minstrel: Structural Prompt Generation with Multi-Agents Coordination for Non-AI Experts](https://arxiv.org/abs/2409.13449)
+- [**sammo**](https://github.com/microsoft/sammo) - microsoft ![Star](https://img.shields.io/github/stars/microsoft/sammo.svg?style=social&label=Star)
+
+	 *A library for prompt engineering and optimization (SAMMO = Structure-aware Multi-Objective Metaprompt Optimization)*
 - **Superposition Prompting: Improving and Accelerating Retrieval-Augmented
   Generation**, `arXiv, 2404.06910`, [arxiv](http://arxiv.org/abs/2404.06910v2), [pdf](http://arxiv.org/pdf/2404.06910v2.pdf), cication: [**-1**](None)
 

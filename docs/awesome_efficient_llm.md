@@ -17,6 +17,10 @@
 	- [Efficient transformer](#efficient-transformer)
 
 ## Survey
+- [[2409.15790] Small Language Models: Survey, Measurements, and Insights](https://arxiv.org/abs/2409.15790)
+- [[2409.03384] Hardware Acceleration of LLMs: A comprehensive survey and comparison](https://arxiv.org/abs/2409.03384)
+
+	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-09-20-4))
 - **On-Device Language Models: A Comprehensive Review**, `arXiv, 2409.00088`, [arxiv](http://arxiv.org/abs/2409.00088v2), [pdf](http://arxiv.org/pdf/2409.00088v2.pdf), cication: [**-1**](None)
 
 	 *Jiajun Xu, Zhiyuan Li, Wei Chen, Qun Wang, Xin Gao, Qi Cai, Ziyuan Ling*
@@ -553,6 +557,12 @@
 	 *Shufang Xie, Huishuai Zhang, Junliang Guo, Xu Tan, Jiang Bian, Hany Hassan Awadalla, Arul Menezes, Tao Qin, Rui Yan* · ([ResiDual](https://github.com/microsoft/ResiDual) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/ResiDual.svg?style=social&label=Star)
 
 ## Efficient Inference
+- [**LMCache**](https://github.com/LMCache/LMCache) - LMCache ![Star](https://img.shields.io/github/stars/LMCache/LMCache.svg?style=social&label=Star)
+
+	 · ([lmcache.github](https://lmcache.github.io/2024-09-17-release/)) · ([x](https://x.com/lmcache/status/1836136395477520507))
+- [**optillm**](https://github.com/codelion/optillm) - codelion ![Star](https://img.shields.io/github/stars/codelion/optillm.svg?style=social&label=Star)
+
+	 *Optimizing inference proxy for LLMs*
 - **NanoFlow: Towards Optimal Large Language Model Serving Throughput**, `arXiv, 2408.12757`, [arxiv](http://arxiv.org/abs/2408.12757v1), [pdf](http://arxiv.org/pdf/2408.12757v1.pdf), cication: [**-1**](None)
 
 	 *Kan Zhu, Yilong Zhao, Liangyu Zhao, Gefei Zuo, Yile Gu, Dedong Xie, Yufei Gao, Qinyu Xu, Tian Tang, Zihao Ye* · ([Nanoflow](https://github.com/efeslab/Nanoflow) - efeslab) ![Star](https://img.shields.io/github/stars/efeslab/Nanoflow.svg?style=social&label=Star)
@@ -1146,6 +1156,10 @@
 	 · ([zhuanlan.zhihu](https://zhuanlan.zhihu.com/p/634236135))
 
 ## Hardware
+
+- [**zml**](https://github.com/zml/zml) - zml ![Star](https://img.shields.io/github/stars/zml/zml.svg?style=social&label=Star)
+
+	 *High performance AI inference stack. Built for production. @ziglang / @openxla / MLIR / @bazelbuild*
 - **Adding NVMe SSDs to Enable and Accelerate 100B Model Fine-tuning on a
   Single GPU**, `arXiv, 2403.06504`, [arxiv](http://arxiv.org/abs/2403.06504v1), [pdf](http://arxiv.org/pdf/2403.06504v1.pdf), cication: [**-1**](None)
 

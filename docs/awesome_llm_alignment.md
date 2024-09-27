@@ -11,6 +11,7 @@
 	- [Extra reference](#extra-reference)
 
 ## Survey
+- [[2409.11564] Preference Tuning with Human Feedback on Language, Speech, and Vision Tasks: A Survey](https://arxiv.org/abs/2409.11564)
 - **Towards a Unified View of Preference Learning for Large Language Models:
   A Survey**, `arXiv, 2409.02795`, [arxiv](http://arxiv.org/abs/2409.02795v3), [pdf](http://arxiv.org/pdf/2409.02795v3.pdf), cication: [**-1**](None)
 

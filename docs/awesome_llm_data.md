@@ -384,6 +384,10 @@
 - [**Capybara-Preferences**](https://huggingface.co/datasets/argilla/Capybara-Preferences) - argilla 🤗
 
 ### Synthetic 
+- [**FinePersonas-v0.1**](https://huggingface.co/datasets/argilla/FinePersonas-v0.1?row=9) - argilla 🤗
+- [[2406.08464] Magpie: Alignment Data Synthesis from Scratch by Prompting Aligned LLMs with Nothing](https://arxiv.org/abs/2406.08464)
+
+	 · ([magpie-align.github](https://magpie-align.github.io/))
 - **Synthetic continued pretraining**, `arXiv, 2409.07431`, [arxiv](http://arxiv.org/abs/2409.07431v1), [pdf](http://arxiv.org/pdf/2409.07431v1.pdf), cication: [**-1**](None)
 
 	 *Zitong Yang, Neil Band, Shuangping Li, Emmanuel Candès, Tatsunori Hashimoto*

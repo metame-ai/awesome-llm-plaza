@@ -114,6 +114,9 @@
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-18-4))
 ## Agents
+- [[2409.10568] On the limits of agency in agent-based models](https://arxiv.org/abs/2409.10568)
+
+	 · ([AgentTorch](https://github.com/AgentTorch/AgentTorch) - AgentTorch) ![Star](https://img.shields.io/github/stars/AgentTorch/AgentTorch.svg?style=social&label=Star)
 - [**agent-zero**](https://github.com/frdel/agent-zero) - frdel ![Star](https://img.shields.io/github/stars/frdel/agent-zero.svg?style=social&label=Star)
 
 	 *Agent Zero AI framework*
@@ -836,7 +839,11 @@
 - [GPT-4V学会用键鼠上网，人类眼睁睁看着它发帖玩游戏 | 量子位](https://www.qbitai.com/2023/11/95456.html)
 
 ## Retrieval agumented generation
-- [Fetching Title#v2u9](https://docs.google.com/presentation/d/1Zczs5Sk3FsCO06ZLDznqkOOhbTe96PwJa4_7FwyMBrA/edit#slide=id.g2fb9bca875a_0_62)
+- [**storm**](https://github.com/stanford-oval/storm?tab=readme-ov-file) - stanford-oval ![Star](https://img.shields.io/github/stars/stanford-oval/storm.svg?style=social&label=Star)
+
+	 *An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.*
+- [Introducing Contextual Retrieval \\ Anthropic](https://www.anthropic.com/news/contextual-retrieval)
+- [RAG\_Beyond\_Dense - Google Slides](https://docs.google.com/presentation/d/1Zczs5Sk3FsCO06ZLDznqkOOhbTe96PwJa4_7FwyMBrA/edit#slide=id.g2fb9bca875a_0_62)
 - [**paper-qa**](https://github.com/Future-House/paper-qa) - Future-House ![Star](https://img.shields.io/github/stars/Future-House/paper-qa.svg?style=social&label=Star)
 
 	 *High accuracy RAG for answering questions from scientific documents with citations*
@@ -1162,6 +1169,8 @@
 	 *Interact privately with your documents using the power of GPT, 100% privately, no data leaks*
 
 ### Embedding
+- [**word-llama-l2-supercat**](https://huggingface.co/dleemiller/word-llama-l2-supercat) - dleemiller 🤗
+- [[2409.10173] jina-embeddings-v3: Multilingual Embeddings With Task LoRA](https://arxiv.org/abs/2409.10173)
 - [**sqlite-vec**](https://github.com/asg017/sqlite-vec) - asg017 ![Star](https://img.shields.io/github/stars/asg017/sqlite-vec.svg?style=social&label=Star)
 
 	 *A vector search SQLite extension that runs anywhere!*
@@ -1318,6 +1327,9 @@
 - [各路大神献出自定义GPT，24小时Top 9名单在这 | 机器之心](https://www.jiqizhixin.com/articles/2023-11-13-13)
 
 ## Evaluation
+- [Berkeley Function Calling Leaderboard](https://gorilla.cs.berkeley.edu/blogs/8_berkeley_function_calling_leaderboard.html)
+
+	 · ([gorilla](https://github.com/ShishirPatil/gorilla/tree/main/berkeley-function-call-leaderboard) - ShishirPatil) ![Star](https://img.shields.io/github/stars/ShishirPatil/gorilla.svg?style=social&label=Star)
 - **Windows Agent Arena: Evaluating Multi-Modal OS Agents at Scale**, `arXiv, 2409.08264`, [arxiv](http://arxiv.org/abs/2409.08264v1), [pdf](http://arxiv.org/pdf/2409.08264v1.pdf), cication: [**-1**](None)
 
 	 *Rogerio Bonatti, Dan Zhao, Francesco Bonacci, Dillon Dupont, Sara Abdali, Yinheng Li, Justin Wagle, Kazuhito Koishida, Arthur Bucker, Lawrence Jang* · ([WindowsAgentArena](https://github.com/microsoft/WindowsAgentArena) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/WindowsAgentArena.svg?style=social&label=Star) · ([microsoft.github](https://microsoft.github.io/WindowsAgentArena/))

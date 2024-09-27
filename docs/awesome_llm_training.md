@@ -21,6 +21,7 @@
 
 
 ## Pretrain
+- [[2409.12903] Scaling Smart: Accelerating Large Language Model Pre-training with Small Model Initialization](https://arxiv.org/abs/2409.12903)
 - **To Code, or Not To Code? Exploring Impact of Code in Pre-training**, `arXiv, 2408.10914`, [arxiv](http://arxiv.org/abs/2408.10914v1), [pdf](http://arxiv.org/pdf/2408.10914v1.pdf), cication: [**-1**](None)
 
 	 *Viraat Aryabumi, Yixuan Su, Raymond Ma, Adrien Morisot, Ivan Zhang, Acyr Locatelli, Marzieh Fadaee, Ahmet Üstün, Sara Hooker*
@@ -344,6 +345,9 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652375732&idx=2&sn=1cb4cefcd791af2a6ffacdf99e35225c))
 
 ## Optimization
+- [[2409.11321] SOAP: Improving and Stabilizing Shampoo using Adam](https://arxiv.org/abs/2409.11321)
+
+	 · ([SOAP](https://github.com/nikhilvyas/SOAP) - nikhilvyas) ![Star](https://img.shields.io/github/stars/nikhilvyas/SOAP.svg?style=social&label=Star)
 - **Theory, Analysis, and Best Practices for Sigmoid Self-Attention**, `arXiv, 2409.04431`, [arxiv](http://arxiv.org/abs/2409.04431v1), [pdf](http://arxiv.org/pdf/2409.04431v1.pdf), cication: [**-1**](None)
 
 	 *Jason Ramapuram, Federico Danieli, Eeshan Dhekane, Floris Weers, Dan Busbridge, Pierre Ablin, Tatiana Likhomanenko, Jagrit Digani, Zijin Gu, Amitis Shidani* · ([ml-sigmoid-attention](https://github.com/apple/ml-sigmoid-attention) - apple) ![Star](https://img.shields.io/github/stars/apple/ml-sigmoid-attention.svg?style=social&label=Star)
@@ -634,6 +638,9 @@
 	 *Juhao Liang, Ziwei Wang, Zhuoheng Ma, Jianquan Li, Zhiyi Zhang, Xiangbo Wu, Benyou Wang*
 
 ## Toolkits
+- [**torchtitan**](https://github.com/pytorch/torchtitan) - pytorch ![Star](https://img.shields.io/github/stars/pytorch/torchtitan.svg?style=social&label=Star)
+
+	 *A native PyTorch Library for large model training*
 - [**DisTrO**](https://github.com/NousResearch/DisTrO/tree/main?tab=readme-ov-file) - NousResearch ![Star](https://img.shields.io/github/stars/NousResearch/DisTrO.svg?style=social&label=Star)
 
 	 *Distributed Training Over-The-Internet*
@@ -732,6 +739,9 @@
 - [Zero 论文精读【论文精读】\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1tY411g7ZT/?spm_id_from=333.788&vd_source=1453a06a1e0b377f5c40946333b4423a)
 
 ## Other
+- [static.sched.com/hosted\_files/pytorch2024/8f/Pytorch Conference - Making LLM training faster.pdf](https://static.sched.com/hosted_files/pytorch2024/8f/Pytorch%20Conference%20-%20Making%20LLM%20training%20faster.pdf)
+
+	 · ([x](https://x.com/danielhanchen/status/1836489911647850788))
 - [**packing-with-FA2**](https://huggingface.co/blog/packing-with-FA2) -  🤗
 - [**deepspeed-to-fsdp-and-back**](https://huggingface.co/blog/deepspeed-to-fsdp-and-back) -  🤗
 - [Training great LLMs entirely from ground zero in the wilderness as a startup — Yi Tay](https://www.yitay.net/blog/training-great-llms-entirely-from-ground-zero-in-the-wilderness)

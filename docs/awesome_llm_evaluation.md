@@ -32,6 +32,11 @@
 	 *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang*
 
 ## Papers
+- [[2407.16711] Benchmarks as Microscopes: A Call for Model Metrology](https://arxiv.org/abs/2407.16711)
+- [[2409.13373] LLMs Still Can't Plan; Can LRMs? A Preliminary Evaluation of OpenAI's o1 on PlanBench](https://arxiv.org/abs/2409.13373)
+- [Flow Judge: An Open Small Language Model for LLM System Evaluations | Flow AI](https://www.flow-ai.com/blog/flow-judge)
+
+	 · ([huggingface](https://huggingface.co/flowaicom/Flow-Judge-v0.1))
 - **PingPong: A Benchmark for Role-Playing Language Models with User
   Emulation and Multi-Model Evaluation**, `arXiv, 2409.06820`, [arxiv](http://arxiv.org/abs/2409.06820v1), [pdf](http://arxiv.org/pdf/2409.06820v1.pdf), cication: [**-1**](None)
 
@@ -595,6 +600,7 @@
 	 *Lianmin Zheng, Wei-Lin Chiang, Ying Sheng, Siyuan Zhuang, Zhanghao Wu, Yonghao Zhuang, Zi Lin, Zhuohan Li, Dacheng Li, Eric. P Xing*
 
 ## Projects
+- [**MMMLU**](https://huggingface.co/datasets/openai/MMMLU) - openai 🤗
 - [**test**](https://github.com/hendrycks/test) - hendrycks ![Star](https://img.shields.io/github/stars/hendrycks/test.svg?style=social&label=Star)
 
 	 *Measuring Massive Multitask Language Understanding | ICLR 2021*
@@ -673,7 +679,8 @@
 	 · [huggingface](https://huggingface.co/blog/evaluating-mmlu-leaderboard)]
 
 ## Other
-- [Fetching Title#9hmk](https://eugeneyan.com/writing/llm-evaluators/)
+- [Submit Your Toughest Questions for Humanity's Last Exam | CAIS](https://www.safe.ai/blog/humanitys-last-exam)
+- [Evaluating the Effectiveness of LLM-Evaluators (aka LLM-as-Judge)](https://eugeneyan.com/writing/llm-evaluators/)
 -  [LLM-as-a-judge techniques](https://x.com/cwolferesearch/status/1812949923010421192)
 - [CyberSecEval 2 - A Comprehensive Evaluation Framework for Cybersecurity Risks and Capabilities of Large Language Models](https://huggingface.co/blog/leaderboard-llamaguard)
 - [Introducing Hard Prompts Category in Chatbot Arena | LMSYS Org](https://lmsys.org/blog/2024-05-17-category-hard)

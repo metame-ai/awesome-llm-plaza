@@ -252,6 +252,7 @@
 	 *Greg Serapio-García, Mustafa Safdari, Clément Crepy, Luning Sun, Stephen Fitz, Peter Romero, Marwa Abdulhai, Aleksandra Faust, Maja Matarić*
 
 ## World Model
+- [1X World Model](https://www.1x.tech/discover/1x-world-model)
 - **Efficient World Models with Context-Aware Tokenization**, `arXiv, 2406.19320`, [arxiv](http://arxiv.org/abs/2406.19320v1), [pdf](http://arxiv.org/pdf/2406.19320v1.pdf), cication: [**-1**](None)
 
 	 *Vincent Micheli, Eloi Alonso, François Fleuret*
@@ -426,6 +427,9 @@
 - [Mamba: Linear-Time Sequence Modeling with Selective State Spaces (Paper Explained) - YouTube](https://www.youtube.com/watch?v=9dSkvxS2EB0&ab_channel=YannicKilcher)
 
 ## New model
+- [**nanoDD**](https://github.com/flukeskywalker/nanoDD) - flukeskywalker ![Star](https://img.shields.io/github/stars/flukeskywalker/nanoDD.svg?style=social&label=Star)
+
+	 *Simple Scalable Discrete Diffusion for text in PyTorch*
 - **Configurable Foundation Models: Building LLMs from a Modular Perspective**, `arXiv, 2409.02877`, [arxiv](http://arxiv.org/abs/2409.02877v1), [pdf](http://arxiv.org/pdf/2409.02877v1.pdf), cication: [**-1**](None)
 
 	 *Chaojun Xiao, Zhengyan Zhang, Chenyang Song, Dazhi Jiang, Feng Yao, Xu Han, Xiaozhi Wang, Shuo Wang, Yufei Huang, Guanyu Lin*
@@ -559,6 +563,8 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652345558&idx=4&sn=95686435d5cad05d44cbe02bc26d6859))
 
 ## Interpretability 
+- [2409.14254](https://arxiv.org/pdf/2409.14254)
+- [Physics of Language Models: Part 2.1, Grade-School Math and the Hidden Reasoning Process - YouTube](https://www.youtube.com/watch?v=bpp6Dz8N2zY&ab_channel=ZeyuanAllen-Zhu)
 - [**TensorHue**](https://github.com/epistoteles/TensorHue) - epistoteles ![Star](https://img.shields.io/github/stars/epistoteles/TensorHue.svg?style=social&label=Star)
 
 	 *TensorHue is a Python library that allows you to visualize tensors right in your console, making understanding and debugging tensor contents easier.*
@@ -582,7 +588,7 @@
 - **Knowledge Mechanisms in Large Language Models: A Survey and Perspective**, `arXiv, 2407.15017`, [arxiv](http://arxiv.org/abs/2407.15017v1), [pdf](http://arxiv.org/pdf/2407.15017v1.pdf), cication: [**-1**](None)
 
 	 *Mengru Wang, Yunzhi Yao, Ziwen Xu, Shuofei Qiao, Shumin Deng, Peng Wang, Xiang Chen, Jia-Chen Gu, Yong Jiang, Pengjun Xie*
-- [Fetching Title#6ef9](https://icml.cc/virtual/2024/tutorial/35223)
+- [Physics of Language Models](https://icml.cc/virtual/2024/tutorial/35223)
 - **Self-Recognition in Language Models**, `arXiv, 2407.06946`, [arxiv](http://arxiv.org/abs/2407.06946v1), [pdf](http://arxiv.org/pdf/2407.06946v1.pdf), cication: [**-1**](None)
 
 	 *Tim R. Davidson, Viacheslav Surkov, Veniamin Veselovsky, Giuseppe Russo, Robert West, Caglar Gulcehre*

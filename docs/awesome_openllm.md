@@ -38,6 +38,10 @@
 # English
 
 ## Foundation
+- [2409.12136](https://arxiv.org/pdf/2409.12136)
+
+	 · ([GRIN-MoE](https://github.com/microsoft/GRIN-MoE?tab=readme-ov-file) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/GRIN-MoE.svg?style=social&label=Star)
+- [MagpieLM](https://huggingface.co/collections/Magpie-Align/magpielm-66e2221f31fa3bf05b10786a)
 - [**solar-pro-preview-instruct**](https://huggingface.co/upstage/solar-pro-preview-instruct) - upstage 🤗
 - **OLMoE: Open Mixture-of-Experts Language Models**, `arXiv, 2409.02060`, [arxiv](http://arxiv.org/abs/2409.02060v1), [pdf](http://arxiv.org/pdf/2409.02060v1.pdf), cication: [**-1**](None)
 
@@ -196,6 +200,7 @@
 	 *Kaiyuan Gao, Sunan He, Zhenyu He, Jiacheng Lin, QiZhi Pei, Jie Shao, Wei Zhang* · ([gpt_alternatives](https://github.com/GPT-Alternatives/gpt_alternatives) - GPT-Alternatives) ![Star](https://img.shields.io/github/stars/GPT-Alternatives/gpt_alternatives.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-09-12-3))
 
 ### Llama 3
+- [**Llama-3_1-Nemotron-51B-Instruct**](https://huggingface.co/nvidia/Llama-3_1-Nemotron-51B-Instruct) - nvidia 🤗
 - [**huggingface-llama-recipes**](https://github.com/huggingface/huggingface-llama-recipes) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/huggingface-llama-recipes.svg?style=social&label=Star)
 - [the-llama-3-herd-of-models](https://ai.meta.com/research/publications/the-llama-3-herd-of-models/)
 - [Welcome Llama 3 - Meta's new open LLM](https://huggingface.co/blog/llama3)
@@ -260,6 +265,9 @@
 - [**dbrx-instruct**](https://huggingface.co/databricks/dbrx-instruct) - databricks 🤗
 
 ### Gemma
+- [**gemma-2-9b-it-SimPO**](https://huggingface.co/princeton-nlp/gemma-2-9b-it-SimPO) - princeton-nlp 🤗
+
+	 · ([arxiv](https://arxiv.org/pdf/2405.14734))
 - **Gemma 2: Improving Open Language Models at a Practical Size**, `arXiv, 2408.00118`, [arxiv](http://arxiv.org/abs/2408.00118v2), [pdf](http://arxiv.org/pdf/2408.00118v2.pdf), cication: [**2**](https://scholar.google.com/scholar?cites=14597234697933566851&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Gemma Team, Morgane Riviere, Shreya Pathak, Pier Giuseppe Sessa, Cassidy Hardin, Surya Bhupatiraju, Léonard Hussenot, Thomas Mesnard, Bobak Shahriari, Alexandre Ramé*
@@ -326,6 +334,7 @@
 - [**phi-2**](https://huggingface.co/spaces/randomblock1/phi-2) - randomblock1 🤗
 - [**phixtral-4x2_8**](https://huggingface.co/mlabonne/phixtral-4x2_8) - mlabonne 🤗
 ### Mistral
+- [**Mistral-Small-Instruct-2409**](https://huggingface.co/mistralai/Mistral-Small-Instruct-2409) - mistralai 🤗
 - [**magnum-v2-123b**](https://huggingface.co/anthracite-org/magnum-v2-123b) - anthracite-org 🤗
 - [Large Enough | Mistral AI | Frontier AI in your hands](https://mistral.ai/news/mistral-large-2407/)
 - [**Mistral-Large-Instruct-2407**](https://huggingface.co/mistralai/Mistral-Large-Instruct-2407) - mistralai 🤗
@@ -658,6 +667,9 @@
  - [xverse/XVERSE-13B-256K · Hugging Face](https://huggingface.co/xverse/XVERSE-13B-256K)
  
 ### Qwen
+- [Qwen2.5 - a Qwen Collection](https://huggingface.co/collections/Qwen/qwen25-66e81a666513e518adb90d9e)
+
+	 · ([qwen.readthedocs](https://qwen.readthedocs.io/en/latest/))
 - **Qwen2 Technical Report**, `arXiv, 2407.10671`, [arxiv](http://arxiv.org/abs/2407.10671v3), [pdf](http://arxiv.org/pdf/2407.10671v3.pdf), cication: [**13**](https://scholar.google.com/scholar?cites=12701601611854231531&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *An Yang, Baosong Yang, Binyuan Hui, Bo Zheng, Bowen Yu, Chang Zhou, Chengpeng Li, Chengyuan Li, Dayiheng Liu, Fei Huang*
@@ -703,7 +715,7 @@
 	 *A large-scale 7B pretraining language model developed by BaiChuan-Inc.*
 
 ### ChatGLM
-- [Fetching Title#9hjh](https://huggingface.co/THUDM/codegeex4-all-9b)
+- [**codegeex4-all-9b**](https://huggingface.co/THUDM/codegeex4-all-9b) - THUDM 🤗
 - **ChatGLM: A Family of Large Language Models from GLM-130B to GLM-4 All
   Tools**, `arXiv, 2406.12793`, [arxiv](http://arxiv.org/abs/2406.12793v1), [pdf](http://arxiv.org/pdf/2406.12793v1.pdf), cication: [**-1**](None)
 
