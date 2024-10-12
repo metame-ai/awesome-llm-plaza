@@ -38,7 +38,9 @@
 # English
 
 ## Foundation
-- [2409.12136](https://arxiv.org/pdf/2409.12136)
+- **GRIN: GRadient-INformed MoE**, `arXiv, 2409.12136`, [arxiv](http://arxiv.org/abs/2409.12136v1), [pdf](http://arxiv.org/pdf/2409.12136v1.pdf), cication: [**-1**](None)
+
+	 *Liyuan Liu, Young Jin Kim, Shuohang Wang, Chen Liang, Yelong Shen, Hao Cheng, Xiaodong Liu, Masahiro Tanaka, Xiaoxia Wu, Wenxiang Hu*
 
 	 · ([GRIN-MoE](https://github.com/microsoft/GRIN-MoE?tab=readme-ov-file) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/GRIN-MoE.svg?style=social&label=Star)
 - [MagpieLM](https://huggingface.co/collections/Magpie-Align/magpielm-66e2221f31fa3bf05b10786a)
@@ -200,6 +202,8 @@
 	 *Kaiyuan Gao, Sunan He, Zhenyu He, Jiacheng Lin, QiZhi Pei, Jie Shao, Wei Zhang* · ([gpt_alternatives](https://github.com/GPT-Alternatives/gpt_alternatives) - GPT-Alternatives) ![Star](https://img.shields.io/github/stars/GPT-Alternatives/gpt_alternatives.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-09-12-3))
 
 ### Llama 3
+- [Fetching Title#ffvt](https://huggingface.co/amd/AMD-Llama-135m)
+- [**Self-taught-evaluator-llama3.1-70B**](https://huggingface.co/facebook/Self-taught-evaluator-llama3.1-70B) - facebook 🤗
 - [**Llama-3_1-Nemotron-51B-Instruct**](https://huggingface.co/nvidia/Llama-3_1-Nemotron-51B-Instruct) - nvidia 🤗
 - [**huggingface-llama-recipes**](https://github.com/huggingface/huggingface-llama-recipes) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/huggingface-llama-recipes.svg?style=social&label=Star)
 - [the-llama-3-herd-of-models](https://ai.meta.com/research/publications/the-llama-3-herd-of-models/)
@@ -667,6 +671,7 @@
  - [xverse/XVERSE-13B-256K · Hugging Face](https://huggingface.co/xverse/XVERSE-13B-256K)
  
 ### Qwen
+- [**Dracarys2-72B-Instruct**](https://huggingface.co/abacusai/Dracarys2-72B-Instruct) - abacusai 🤗
 - [Qwen2.5 - a Qwen Collection](https://huggingface.co/collections/Qwen/qwen25-66e81a666513e518adb90d9e)
 
 	 · ([qwen.readthedocs](https://qwen.readthedocs.io/en/latest/))
@@ -791,6 +796,7 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s/Lf70i8M0KNDs9ZB8H32h4w))
 
 # Extra
+- [**salamandra-7b-instruct**](https://huggingface.co/BSC-LT/salamandra-7b-instruct) - BSC-LT 🤗
 - **SeaLLMs 3: Open Foundation and Chat Multilingual Large Language Models
   for Southeast Asian Languages**, `arXiv, 2407.19672`, [arxiv](http://arxiv.org/abs/2407.19672v1), [pdf](http://arxiv.org/pdf/2407.19672v1.pdf), cication: [**-1**](None)
 

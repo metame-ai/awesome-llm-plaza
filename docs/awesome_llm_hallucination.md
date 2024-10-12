@@ -9,6 +9,9 @@
 
 
 ## Survey
+- **A Survey on the Honesty of Large Language Models**, `arXiv, 2409.18786`, [arxiv](http://arxiv.org/abs/2409.18786v1), [pdf](http://arxiv.org/pdf/2409.18786v1.pdf), cication: [**-1**](None)
+
+	 *Siheng Li, Cheng Yang, Taiqiang Wu, Chufan Shi, Yuji Zhang, Xinyu Zhu, Zesen Cheng, Deng Cai, Mo Yu, Lemao Liu* · ([LLM-Honesty-Survey](https://github.com/SihengLi99/LLM-Honesty-Survey) - SihengLi99) ![Star](https://img.shields.io/github/stars/SihengLi99/LLM-Honesty-Survey.svg?style=social&label=Star)
 - **Benchmarking Trustworthiness of Multimodal Large Language Models: A
   Comprehensive Study**, `arXiv, 2406.07057`, [arxiv](http://arxiv.org/abs/2406.07057v1), [pdf](http://arxiv.org/pdf/2406.07057v1.pdf), cication: [**-1**](None)
 
@@ -37,6 +40,13 @@
 	 *Cunxiang Wang, Xiaoze Liu, Yuanhao Yue, Xiangru Tang, Tianhang Zhang, Cheng Jiayang, Yunzhi Yao, Wenyang Gao, Xuming Hu, Zehan Qi* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-19-2))
 
 ## Papers
+- **LLMs Know More Than They Show: On the Intrinsic Representation of LLM
+  Hallucinations**, `arXiv, 2410.02707`, [arxiv](http://arxiv.org/abs/2410.02707v2), [pdf](http://arxiv.org/pdf/2410.02707v2.pdf), cication: [**-1**](None)
+
+	 *Hadas Orgad, Michael Toker, Zorik Gekhman, Roi Reichart, Idan Szpektor, Hadas Kotek, Yonatan Belinkov*
+- **Differential Transformer**, `arXiv, 2410.05258`, [arxiv](http://arxiv.org/abs/2410.05258v1), [pdf](http://arxiv.org/pdf/2410.05258v1.pdf), cication: [**-1**](None)
+
+	 *Tianzhu Ye, Li Dong, Yuqing Xia, Yutao Sun, Yi Zhu, Gao Huang, Furu Wei*
 - [Why do large language models hallucinate?](https://portal.acm.org/citation.cfm?id=3688007)
 - **Training Language Models on the Knowledge Graph: Insights on
   Hallucinations and Their Detectability**, `arXiv, 2408.07852`, [arxiv](http://arxiv.org/abs/2408.07852v1), [pdf](http://arxiv.org/pdf/2408.07852v1.pdf), cication: [**-1**](None)

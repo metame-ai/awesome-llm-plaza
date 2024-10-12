@@ -21,7 +21,10 @@
 
 
 ## Pretrain
-- [[2409.12903] Scaling Smart: Accelerating Large Language Model Pre-training with Small Model Initialization](https://arxiv.org/abs/2409.12903)
+- **Scaling Smart: Accelerating Large Language Model Pre-training with Small
+  Model Initialization**, `arXiv, 2409.12903`, [arxiv](http://arxiv.org/abs/2409.12903v2), [pdf](http://arxiv.org/pdf/2409.12903v2.pdf), cication: [**-1**](None)
+
+	 *Mohammad Samragh, Iman Mirzadeh, Keivan Alizadeh Vahid, Fartash Faghri, Minsik Cho, Moin Nabi, Devang Naik, Mehrdad Farajtabar*
 - **To Code, or Not To Code? Exploring Impact of Code in Pre-training**, `arXiv, 2408.10914`, [arxiv](http://arxiv.org/abs/2408.10914v1), [pdf](http://arxiv.org/pdf/2408.10914v1.pdf), cication: [**-1**](None)
 
 	 *Viraat Aryabumi, Yixuan Su, Raymond Ma, Adrien Morisot, Ivan Zhang, Acyr Locatelli, Marzieh Fadaee, Ahmet Üstün, Sara Hooker*
@@ -345,7 +348,9 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652375732&idx=2&sn=1cb4cefcd791af2a6ffacdf99e35225c))
 
 ## Optimization
-- [[2409.11321] SOAP: Improving and Stabilizing Shampoo using Adam](https://arxiv.org/abs/2409.11321)
+- **SOAP: Improving and Stabilizing Shampoo using Adam**, `arXiv, 2409.11321`, [arxiv](http://arxiv.org/abs/2409.11321v1), [pdf](http://arxiv.org/pdf/2409.11321v1.pdf), cication: [**-1**](None)
+
+	 *Nikhil Vyas, Depen Morwani, Rosie Zhao, Itai Shapira, David Brandfonbrener, Lucas Janson, Sham Kakade*
 
 	 · ([SOAP](https://github.com/nikhilvyas/SOAP) - nikhilvyas) ![Star](https://img.shields.io/github/stars/nikhilvyas/SOAP.svg?style=social&label=Star)
 - **Theory, Analysis, and Best Practices for Sigmoid Self-Attention**, `arXiv, 2409.04431`, [arxiv](http://arxiv.org/abs/2409.04431v1), [pdf](http://arxiv.org/pdf/2409.04431v1.pdf), cication: [**-1**](None)
@@ -422,6 +427,12 @@
 - [用最酷的LR，训最猛的模型](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247496626&idx=1&sn=4ba786f28cd4f55d69ed91effe3e82fd)
 
 ## Ensemble
+- **What Matters for Model Merging at Scale?**, `arXiv, 2410.03617`, [arxiv](http://arxiv.org/abs/2410.03617v1), [pdf](http://arxiv.org/pdf/2410.03617v1.pdf), cication: [**-1**](None)
+
+	 *Prateek Yadav, Tu Vu, Jonathan Lai, Alexandra Chronopoulou, Manaal Faruqui, Mohit Bansal, Tsendsuren Munkhdalai*
+- **Realistic Evaluation of Model Merging for Compositional Generalization**, `arXiv, 2409.18314`, [arxiv](http://arxiv.org/abs/2409.18314v1), [pdf](http://arxiv.org/pdf/2409.18314v1.pdf), cication: [**-1**](None)
+
+	 *Derek Tam, Yash Kant, Brian Lester, Igor Gilitschenski, Colin Raffel*
 - **Octopus v4: Graph of language models**, `arXiv, 2404.19296`, [arxiv](http://arxiv.org/abs/2404.19296v1), [pdf](http://arxiv.org/pdf/2404.19296v1.pdf), cication: [**-1**](None)
 
 	 *Wei Chen, Zhiyuan Li*
@@ -488,6 +499,9 @@
 - [Weight averaging and model merging for LLMs seem to be the most interesting themes in 2024 so far. ](https://twitter.com/rasbt/status/1750180383398744106)
 
 ## MoE
+- **Upcycling Large Language Models into Mixture of Experts**, `arXiv, 2410.07524`, [arxiv](http://arxiv.org/abs/2410.07524v1), [pdf](http://arxiv.org/pdf/2410.07524v1.pdf), cication: [**-1**](None)
+
+	 *Ethan He, Abhinav Khattar, Ryan Prenger, Vijay Korthikanti, Zijie Yan, Tong Liu, Shiqing Fan, Ashwath Aithal, Mohammad Shoeybi, Bryan Catanzaro*
 - **OLMoE: Open Mixture-of-Experts Language Models**, `arXiv, 2409.02060`, [arxiv](http://arxiv.org/abs/2409.02060v1), [pdf](http://arxiv.org/pdf/2409.02060v1.pdf), cication: [**-1**](None)
 
 	 *Niklas Muennighoff, Luca Soldaini, Dirk Groeneveld, Kyle Lo, Jacob Morrison, Sewon Min, Weijia Shi, Pete Walsh, Oyvind Tafjord, Nathan Lambert* · ([OLMoE](https://github.com/allenai/OLMoE) - allenai) ![Star](https://img.shields.io/github/stars/allenai/OLMoE.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/collections/allenai/olmoe-66cf678c047657a30c8cd3da)) · ([interconnects](https://www.interconnects.ai/p/olmoe-and-building-better-llms))
@@ -616,6 +630,7 @@
 	 *Noam Shazeer, Azalia Mirhoseini, Krzysztof Maziarz, Andy Davis, Quoc Le, Geoffrey Hinton, Jeff Dean*
 
 ### Other
+- [A Visual Guide to Mixture of Experts (MoE)](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mixture-of-experts)
 - [How do mixture-of-experts layers affect transformer models? - Stack Overflow](https://stackoverflow.blog/2024/04/04/how-do-mixture-of-experts-layers-affect-transformer-models)
 - [Accelerating MoE model inference with Locality-Aware Kernel Design | PyTorch](https://pytorch.org/blog/accelerating-moe-model/?utm_content=288416924&utm_medium=social&utm_source=twitter&hss_channel=tw-776585502606721024)
 - [a mini-tutorial on three types of Mixture of Experts (MoE): Pre-trained MoE, upcycled MoEs, and FrankenMoEs](https://twitter.com/osanseviero/status/1773360705682411750?utm_source=ainews&utm_medium=email&utm_campaign=ainews-evals-based-ai-engineering)
@@ -731,8 +746,9 @@
 
 	 *Adam Fisch, Amal Rannen-Triki, Razvan Pascanu, Jörg Bornschein, Angeliki Lazaridou, Elena Gribovskaya, Marc'Aurelio Ranzato*
 
-## Courses
-- [Fetching Title#hxa6](https://magazine.sebastianraschka.com/p/using-and-finetuning-pretrained-transformers)
+## Coursekks
+- [Hacks to Make LLM Training Faster - Daniel Han, Unsloth AI - YouTube](https://www.youtube.com/watch?v=PdtKkc5jB4g&ab_channel=PyTorch)
+- [Using and Finetuning Pretrained Transformers](https://magazine.sebastianraschka.com/p/using-and-finetuning-pretrained-transformers)
 - [Pathways 论文精读【论文精读】\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1xB4y1m7Xi/?spm_id_from=333.788&vd_source=1453a06a1e0b377f5c40946333b4423a)
 - [GPipe论文精读【论文精读】\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1v34y1E7zu/?spm_id_from=333.788&vd_source=1453a06a1e0b377f5c40946333b4423a)
 - [Megatron LM 论文精读【论文精读】\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1nB4y1R7Yz/?spm_id_from=333.788&vd_source=1453a06a1e0b377f5c40946333b4423a)

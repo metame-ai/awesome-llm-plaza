@@ -17,8 +17,16 @@
 	- [Efficient transformer](#efficient-transformer)
 
 ## Survey
-- [[2409.15790] Small Language Models: Survey, Measurements, and Insights](https://arxiv.org/abs/2409.15790)
-- [[2409.03384] Hardware Acceleration of LLMs: A comprehensive survey and comparison](https://arxiv.org/abs/2409.03384)
+- **A Survey of Low-bit Large Language Models: Basics, Systems, and
+  Algorithms**, `arXiv, 2409.16694`, [arxiv](http://arxiv.org/abs/2409.16694v2), [pdf](http://arxiv.org/pdf/2409.16694v2.pdf), cication: [**-1**](None)
+
+	 *Ruihao Gong, Yifu Ding, Zining Wang, Chengtao Lv, Xingyu Zheng, Jinyang Du, Haotong Qin, Jinyang Guo, Michele Magno, Xianglong Liu*
+- **Small Language Models: Survey, Measurements, and Insights**, `arXiv, 2409.15790`, [arxiv](http://arxiv.org/abs/2409.15790v1), [pdf](http://arxiv.org/pdf/2409.15790v1.pdf), cication: [**-1**](None)
+
+	 *Zhenyan Lu, Xiang Li, Dongqi Cai, Rongjie Yi, Fangming Liu, Xiwen Zhang, Nicholas D. Lane, Mengwei Xu*
+- **Hardware Acceleration of LLMs: A comprehensive survey and comparison**, `arXiv, 2409.03384`, [arxiv](http://arxiv.org/abs/2409.03384v1), [pdf](http://arxiv.org/pdf/2409.03384v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=270840162181392146&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Nikoletta Koilia, Christoforos Kachris*
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-09-20-4))
 - **On-Device Language Models: A Comprehensive Review**, `arXiv, 2409.00088`, [arxiv](http://arxiv.org/abs/2409.00088v2), [pdf](http://arxiv.org/pdf/2409.00088v2.pdf), cication: [**-1**](None)
@@ -252,6 +260,10 @@
 	 *Xunyu Zhu, Jian Li, Yong Liu, Can Ma, Weiping Wang* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-08-26-5))
 
 ### Papers
+- **VPTQ: Extreme Low-bit Vector Post-Training Quantization for Large
+  Language Models**, `arXiv, 2409.17066`, [arxiv](http://arxiv.org/abs/2409.17066v1), [pdf](http://arxiv.org/pdf/2409.17066v1.pdf), cication: [**-1**](None)
+
+	 *Yifei Liu, Jicheng Wen, Yang Wang, Shengyu Ye, Li Lyna Zhang, Ting Cao, Cheng Li, Mao Yang* · ([VPTQ](https://github.com/microsoft/VPTQ) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/VPTQ.svg?style=social&label=Star)
 - **MobileQuant: Mobile-friendly Quantization for On-device Language Models**, `arXiv, 2408.13933`, [arxiv](http://arxiv.org/abs/2408.13933v1), [pdf](http://arxiv.org/pdf/2408.13933v1.pdf), cication: [**-1**](None)
 
 	 *Fuwen Tan, Royson Lee, Łukasz Dudziak, Shell Xu Hu, Sourav Bhattacharya, Timothy Hospedales, Georgios Tzimiropoulos, Brais Martinez* · ([MobileQuant](https://github.com/saic-fi/MobileQuant) - saic-fi) ![Star](https://img.shields.io/github/stars/saic-fi/MobileQuant.svg?style=social&label=Star)
@@ -502,6 +514,9 @@
 	 *Yuxian Gu, Li Dong, Furu Wei, Minlie Huang*
 
 ## Pruning
+- **MaskLLM: Learnable Semi-Structured Sparsity for Large Language Models**, `arXiv, 2409.17481`, [arxiv](http://arxiv.org/abs/2409.17481v1), [pdf](http://arxiv.org/pdf/2409.17481v1.pdf), cication: [**-1**](None)
+
+	 *Gongfan Fang, Hongxu Yin, Saurav Muralidharan, Greg Heinrich, Jeff Pool, Jan Kautz, Pavlo Molchanov, Xinchao Wang* · ([MaskLLM](https://github.com/NVlabs/MaskLLM) - NVlabs) ![Star](https://img.shields.io/github/stars/NVlabs/MaskLLM.svg?style=social&label=Star)
 - **Training-Free Activation Sparsity in Large Language Models**, `arXiv, 2408.14690`, [arxiv](http://arxiv.org/abs/2408.14690v1), [pdf](http://arxiv.org/pdf/2408.14690v1.pdf), cication: [**-1**](None)
 
 	 *James Liu, Pragaash Ponnusamy, Tianle Cai, Han Guo, Yoon Kim, Ben Athiwaratkun* · ([teal](https://github.com/fasterdecoding/teal) - fasterdecoding) ![Star](https://img.shields.io/github/stars/fasterdecoding/teal.svg?style=social&label=Star)
@@ -557,6 +572,9 @@
 	 *Shufang Xie, Huishuai Zhang, Junliang Guo, Xu Tan, Jiang Bian, Hany Hassan Awadalla, Arul Menezes, Tao Qin, Rui Yan* · ([ResiDual](https://github.com/microsoft/ResiDual) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/ResiDual.svg?style=social&label=Star)
 
 ## Efficient Inference
+- **TPI-LLM: Serving 70B-scale LLMs Efficiently on Low-resource Edge Devices**, `arXiv, 2410.00531`, [arxiv](http://arxiv.org/abs/2410.00531v1), [pdf](http://arxiv.org/pdf/2410.00531v1.pdf), cication: [**-1**](None)
+
+	 *Zonghang Li, Wenjiao Feng, Mohsen Guizani, Hongfang Yu* · ([TPI-LLM](https://github.com/Lizonghang/TPI-LLM) - Lizonghang) ![Star](https://img.shields.io/github/stars/Lizonghang/TPI-LLM.svg?style=social&label=Star)
 - [**LMCache**](https://github.com/LMCache/LMCache) - LMCache ![Star](https://img.shields.io/github/stars/LMCache/LMCache.svg?style=social&label=Star)
 
 	 · ([lmcache.github](https://lmcache.github.io/2024-09-17-release/)) · ([x](https://x.com/lmcache/status/1836136395477520507))
@@ -1039,6 +1057,19 @@
 	 *DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.*
 
 ## Efficient transformer
+- **Differential Transformer**, `arXiv, 2410.05258`, [arxiv](http://arxiv.org/abs/2410.05258v1), [pdf](http://arxiv.org/pdf/2410.05258v1.pdf), cication: [**-1**](None)
+
+	 *Tianzhu Ye, Li Dong, Yuqing Xia, Yutao Sun, Yi Zhu, Gao Huang, Furu Wei*
+- **Selective Attention Improves Transformer**, `arXiv, 2410.02703`, [arxiv](http://arxiv.org/abs/2410.02703v1), [pdf](http://arxiv.org/pdf/2410.02703v1.pdf), cication: [**-1**](None)
+
+	 *Yaniv Leviathan, Matan Kalman, Yossi Matias*
+- **Addition is All You Need for Energy-efficient Language Models**, `arXiv, 2410.00907`, [arxiv](http://arxiv.org/abs/2410.00907v2), [pdf](http://arxiv.org/pdf/2410.00907v2.pdf), cication: [**-1**](None)
+
+	 *Hongyin Luo, Wei Sun*
+- **SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference
+  Acceleration**, `arXiv, 2410.02367`, [arxiv](http://arxiv.org/abs/2410.02367v1), [pdf](http://arxiv.org/pdf/2410.02367v1.pdf), cication: [**-1**](None)
+
+	 *Jintao Zhang, Jia wei, Pengle Zhang, Jun Zhu, Jianfei Chen* · ([SageAttention](https://github.com/thu-ml/SageAttention) - thu-ml) ![Star](https://img.shields.io/github/stars/thu-ml/SageAttention.svg?style=social&label=Star)
 - **Gated Slot Attention for Efficient Linear-Time Sequence Modeling**, `arXiv, 2409.07146`, [arxiv](http://arxiv.org/abs/2409.07146v1), [pdf](http://arxiv.org/pdf/2409.07146v1.pdf), cication: [**-1**](None)
 
 	 *Yu Zhang, Songlin Yang, Ruijie Zhu, Yue Zhang, Leyang Cui, Yiqiao Wang, Bolun Wang, Freda Shi, Bailin Wang, Wei Bi*

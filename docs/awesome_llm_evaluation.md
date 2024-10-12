@@ -32,8 +32,23 @@
 	 *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang*
 
 ## Papers
-- [[2407.16711] Benchmarks as Microscopes: A Call for Model Metrology](https://arxiv.org/abs/2407.16711)
-- [[2409.13373] LLMs Still Can't Plan; Can LRMs? A Preliminary Evaluation of OpenAI's o1 on PlanBench](https://arxiv.org/abs/2409.13373)
+- **TurtleBench: Evaluating Top Language Models via Real-World Yes/No
+  Puzzles**, `arXiv, 2410.05262`, [arxiv](http://arxiv.org/abs/2410.05262v1), [pdf](http://arxiv.org/pdf/2410.05262v1.pdf), cication: [**-1**](None)
+
+	 *Qingchen Yu, Shichao Song, Ke Fang, Yunfeng Shi, Zifan Zheng, Hanyu Wang, Simin Niu, Zhiyu Li* · ([TurtleBench](https://github.com/mazzzystar/TurtleBench) - mazzzystar) ![Star](https://img.shields.io/github/stars/mazzzystar/TurtleBench.svg?style=social&label=Star)
+- **Evaluation of OpenAI o1: Opportunities and Challenges of AGI**, `arXiv, 2409.18486`, [arxiv](http://arxiv.org/abs/2409.18486v1), [pdf](http://arxiv.org/pdf/2409.18486v1.pdf), cication: [**-1**](None)
+
+	 *Tianyang Zhong, Zhengliang Liu, Yi Pan, Yutong Zhang, Yifan Zhou, Shizhe Liang, Zihao Wu, Yanjun Lyu, Peng Shu, Xiaowei Yu*
+- **Law of the Weakest Link: Cross Capabilities of Large Language Models**, `arXiv, 2409.19951`, [arxiv](http://arxiv.org/abs/2409.19951v2), [pdf](http://arxiv.org/pdf/2409.19951v2.pdf), cication: [**-1**](None)
+
+	 *Ming Zhong, Aston Zhang, Xuewei Wang, Rui Hou, Wenhan Xiong, Chenguang Zhu, Zhengxing Chen, Liang Tan, Chloe Bi, Mike Lewis* · ([llm-cross-capabilities](https://www.llm-cross-capabilities.org/))
+- **Benchmarks as Microscopes: A Call for Model Metrology**, `arXiv, 2407.16711`, [arxiv](http://arxiv.org/abs/2407.16711v2), [pdf](http://arxiv.org/pdf/2407.16711v2.pdf), cication: [**-1**](None)
+
+	 *Michael Saxon, Ari Holtzman, Peter West, William Yang Wang, Naomi Saphra*
+- **LLMs Still Can't Plan; Can LRMs? A Preliminary Evaluation of OpenAI's o1
+  on PlanBench**, `arXiv, 2409.13373`, [arxiv](http://arxiv.org/abs/2409.13373v1), [pdf](http://arxiv.org/pdf/2409.13373v1.pdf), cication: [**2**](https://scholar.google.com/scholar?cites=13149528520885859987&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Karthik Valmeekam, Kaya Stechly, Subbarao Kambhampati*
 - [Flow Judge: An Open Small Language Model for LLM System Evaluations | Flow AI](https://www.flow-ai.com/blog/flow-judge)
 
 	 · ([huggingface](https://huggingface.co/flowaicom/Flow-Judge-v0.1))
@@ -68,6 +83,8 @@
 - **Self-Taught Evaluators**, `arXiv, 2408.02666`, [arxiv](http://arxiv.org/abs/2408.02666v2), [pdf](http://arxiv.org/pdf/2408.02666v2.pdf), cication: [**-1**](None)
 
 	 *Tianlu Wang, Ilia Kulikov, Olga Golovneva, Ping Yu, Weizhe Yuan, Jane Dwivedi-Yu, Richard Yuanzhe Pang, Maryam Fazel-Zarandi, Jason Weston, Xian Li*
+
+	 · ([RAM](https://github.com/facebookresearch/RAM/tree/main/projects/self_taught_evaluator) - facebookresearch) ![Star](https://img.shields.io/github/stars/facebookresearch/RAM.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/facebook/Self-taught-evaluator-llama3.1-70B))
 - **CoverBench: A Challenging Benchmark for Complex Claim Verification**, `arXiv, 2408.03325`, [arxiv](http://arxiv.org/abs/2408.03325v1), [pdf](http://arxiv.org/pdf/2408.03325v1.pdf), cication: [**-1**](None)
 
 	 *Alon Jacovi, Moran Ambar, Eyal Ben-David, Uri Shaham, Amir Feder, Mor Geva, Dror Marcus, Avi Caciularu*
@@ -600,6 +617,7 @@
 	 *Lianmin Zheng, Wei-Lin Chiang, Ying Sheng, Siyuan Zhuang, Zhanghao Wu, Yonghao Zhuang, Zi Lin, Zhuohan Li, Dacheng Li, Eric. P Xing*
 
 ## Projects
+- [**evaluation-guidebook**](https://github.com/huggingface/evaluation-guidebook) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/evaluation-guidebook.svg?style=social&label=Star)
 - [**MMMLU**](https://huggingface.co/datasets/openai/MMMLU) - openai 🤗
 - [**test**](https://github.com/hendrycks/test) - hendrycks ![Star](https://img.shields.io/github/stars/hendrycks/test.svg?style=social&label=Star)
 

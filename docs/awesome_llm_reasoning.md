@@ -37,12 +37,24 @@
 	 *Jiankai Sun, Chuanyang Zheng, Enze Xie, Zhengying Liu, Ruihang Chu, Jianing Qiu, Jiaqi Xu, Mingyu Ding, Hongyang Li, Mengzhe Geng* · ([Awesome-Reasoning-Foundation-Models](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models) - reasoning-survey) ![Star](https://img.shields.io/github/stars/reasoning-survey/Awesome-Reasoning-Foundation-Models.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652421688&idx=3&sn=fcdc24edc7bc89ebcbcca0f7665e40f6))
 
 ## O1-Reasoning
-- [[2409.13373] LLMs Still Can't Plan; Can LRMs? A Preliminary Evaluation of OpenAI's o1 on PlanBench](https://arxiv.org/abs/2409.13373)
-- [[2409.12917] Training Language Models to Self-Correct via Reinforcement Learning](https://arxiv.org/abs/2409.12917)
+- **Rewarding Progress: Scaling Automated Process Verifiers for LLM
+  Reasoning**, `arXiv, 2410.08146`, [arxiv](http://arxiv.org/abs/2410.08146v1), [pdf](http://arxiv.org/pdf/2410.08146v1.pdf), cication: [**-1**](None)
+
+	 *Amrith Setlur, Chirag Nagpal, Adam Fisch, Xinyang Geng, Jacob Eisenstein, Rishabh Agarwal, Alekh Agarwal, Jonathan Berant, Aviral Kumar*
+- **LLMs Still Can't Plan; Can LRMs? A Preliminary Evaluation of OpenAI's o1
+  on PlanBench**, `arXiv, 2409.13373`, [arxiv](http://arxiv.org/abs/2409.13373v1), [pdf](http://arxiv.org/pdf/2409.13373v1.pdf), cication: [**2**](https://scholar.google.com/scholar?cites=13149528520885859987&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Karthik Valmeekam, Kaya Stechly, Subbarao Kambhampati*
+- **Training Language Models to Self-Correct via Reinforcement Learning**, `arXiv, 2409.12917`, [arxiv](http://arxiv.org/abs/2409.12917v2), [pdf](http://arxiv.org/pdf/2409.12917v2.pdf), cication: [**6**](https://scholar.google.com/scholar?cites=2657384453197838851&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Aviral Kumar, Vincent Zhuang, Rishabh Agarwal, Yi Su, John D Co-Reyes, Avi Singh, Kate Baumli, Shariq Iqbal, Colton Bishop, Rebecca Roelofs*
 - [**g1**](https://github.com/bklieger-groq/g1) - bklieger-groq ![Star](https://img.shields.io/github/stars/bklieger-groq/g1.svg?style=social&label=Star)
 
 	 *g1: Using Llama-3.1 70b on Groq to create o1-like reasoning chains*
-- [[2402.12875] Chain of Thought Empowers Transformers to Solve Inherently Serial Problems](https://arxiv.org/abs/2402.12875)
+- **Chain of Thought Empowers Transformers to Solve Inherently Serial
+  Problems**, `arXiv, 2402.12875`, [arxiv](http://arxiv.org/abs/2402.12875v4), [pdf](http://arxiv.org/pdf/2402.12875v4.pdf), cication: [**24**](https://scholar.google.com/scholar?cites=11728270641767049962&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Zhiyuan Li, Hong Liu, Denny Zhou, Tengyu Ma*
 - [Improving LLM Reasoning using SElf-generated data: RL and Verifiers](https://drive.google.com/file/d/1komQ7s9kPPvDx_8AxTh9A6tlfJA0j6dR/view)
 - [**Awesome-LLM-Strawberry**](https://github.com/hijkzzz/Awesome-LLM-Strawberry) - hijkzzz ![Star](https://img.shields.io/github/stars/hijkzzz/Awesome-LLM-Strawberry.svg?style=social&label=Star)
 
@@ -70,9 +82,18 @@
 - [**o1**](https://huggingface.co/spaces/yuntian-deng/o1) - yuntian-deng 🤗
 - [**o1mini**](https://huggingface.co/spaces/yuntian-deng/o1mini) - yuntian-deng 🤗
 ## Reasoning
-- [[2409.12618] Iteration of Thought: Leveraging Inner Dialogue for Autonomous Large Language Model Reasoning](https://arxiv.org/abs/2409.12618)
+- **RATIONALYST: Pre-training Process-Supervision for Improving Reasoning**, `arXiv, 2410.01044`, [arxiv](http://arxiv.org/abs/2410.01044v1), [pdf](http://arxiv.org/pdf/2410.01044v1.pdf), cication: [**-1**](None)
+
+	 *Dongwei Jiang, Guoxuan Wang, Yining Lu, Andrew Wang, Jingyu Zhang, Chuyu Liu, Benjamin Van Durme, Daniel Khashabi*
+- **Iteration of Thought: Leveraging Inner Dialogue for Autonomous Large
+  Language Model Reasoning**, `arXiv, 2409.12618`, [arxiv](http://arxiv.org/abs/2409.12618v2), [pdf](http://arxiv.org/pdf/2409.12618v2.pdf), cication: [**-1**](None)
+
+	 *Santosh Kumar Radha, Yasamin Nouri Jelyani, Ara Ghukasyan, Oktay Goktas*
 - [LLM-Reasoning-Berkeley.pdf](https://dennyzhou.github.io/LLM-Reasoning-Berkeley.pdf)
-- [[2409.12183] To CoT or not to CoT? Chain-of-thought helps mainly on math and symbolic reasoning](https://arxiv.org/abs/2409.12183)
+- **To CoT or not to CoT? Chain-of-thought helps mainly on math and symbolic
+  reasoning**, `arXiv, 2409.12183`, [arxiv](http://arxiv.org/abs/2409.12183v1), [pdf](http://arxiv.org/pdf/2409.12183v1.pdf), cication: [**5**](https://scholar.google.com/scholar?cites=15167469291991704150&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Zayne Sprague, Fangcong Yin, Juan Diego Rodriguez, Dongwei Jiang, Manya Wadhwa, Prasann Singhal, Xinyu Zhao, Xi Ye, Kyle Mahowald, Greg Durrett*
 - **Mutual Reasoning Makes Smaller LLMs Stronger Problem-Solvers**, `arXiv, 2408.06195`, [arxiv](http://arxiv.org/abs/2408.06195v1), [pdf](http://arxiv.org/pdf/2408.06195v1.pdf), cication: [**-1**](None)
 
 	 *Zhenting Qi, Mingyuan Ma, Jiahang Xu, Li Lyna Zhang, Fan Yang, Mao Yang* · ([rStar](https://github.com/zhentingqi/rStar) - zhentingqi) ![Star](https://img.shields.io/github/stars/zhentingqi/rStar.svg?style=social&label=Star)
@@ -488,10 +509,32 @@
 - [大模型Fewshot推理如何选择更好的示例](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495177&idx=2&sn=fe8353efed16a81e35462be06d5a6cea)
 
 ## Math reasoning
+- **GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in
+  Large Language Models**, `arXiv, 2410.05229`, [arxiv](http://arxiv.org/abs/2410.05229v1), [pdf](http://arxiv.org/pdf/2410.05229v1.pdf), cication: [**-1**](None)
+
+	 *Iman Mirzadeh, Keivan Alizadeh, Hooman Shahrokhi, Oncel Tuzel, Samy Bengio, Mehrdad Farajtabar*
+- **LLaMA-Berry: Pairwise Optimization for O1-like Olympiad-Level
+  Mathematical Reasoning**, `arXiv, 2410.02884`, [arxiv](http://arxiv.org/abs/2410.02884v1), [pdf](http://arxiv.org/pdf/2410.02884v1.pdf), cication: [**-1**](None)
+
+	 *Di Zhang, Jianbo Wu, Jingdi Lei, Tong Che, Jiatong Li, Tong Xie, Xiaoshui Huang, Shufei Zhang, Marco Pavone, Yuqiang Li*
+- **GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in
+  Large Language Models**, `arXiv, 2410.05229`, [arxiv](http://arxiv.org/abs/2410.05229v1), [pdf](http://arxiv.org/pdf/2410.05229v1.pdf), cication: [**-1**](None)
+
+	 *Iman Mirzadeh, Keivan Alizadeh, Hooman Shahrokhi, Oncel Tuzel, Samy Bengio, Mehrdad Farajtabar*
+- **MathHay: An Automated Benchmark for Long-Context Mathematical Reasoning
+  in LLMs**, `arXiv, 2410.04698`, [arxiv](http://arxiv.org/abs/2410.04698v1), [pdf](http://arxiv.org/pdf/2410.04698v1.pdf), cication: [**-1**](None)
+
+	 *Lei Wang, Shan Dong, Yuhui Xu, Hanze Dong, Yalu Wang, Amrita Saha, Ee-Peng Lim, Caiming Xiong, Doyen Sahoo*
+- **Not All LLM Reasoners Are Created Equal**, `arXiv, 2410.01748`, [arxiv](http://arxiv.org/abs/2410.01748v1), [pdf](http://arxiv.org/pdf/2410.01748v1.pdf), cication: [**-1**](None)
+
+	 *Arian Hosseini, Alessandro Sordoni, Daniel Toyama, Aaron Courville, Rishabh Agarwal*
 - [**Omni-MATH**](https://github.com/KbsdJames/Omni-MATH/?tab=readme-ov-file) - KbsdJames ![Star](https://img.shields.io/github/stars/KbsdJames/Omni-MATH.svg?style=social&label=Star)
 
 	 *The official repository of the Omni-MATH benchmark.* · ([omni-math.github](https://omni-math.github.io/))
-- [[2409.12183] To CoT or not to CoT? Chain-of-thought helps mainly on math and symbolic reasoning](https://arxiv.org/abs/2409.12183)
+- **To CoT or not to CoT? Chain-of-thought helps mainly on math and symbolic
+  reasoning**, `arXiv, 2409.12183`, [arxiv](http://arxiv.org/abs/2409.12183v1), [pdf](http://arxiv.org/pdf/2409.12183v1.pdf), cication: [**5**](https://scholar.google.com/scholar?cites=15167469291991704150&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Zayne Sprague, Fangcong Yin, Juan Diego Rodriguez, Dongwei Jiang, Manya Wadhwa, Prasann Singhal, Xinyu Zhao, Xi Ye, Kyle Mahowald, Greg Durrett*
 
 	 · ([To-CoT-or-not-to-CoT](https://github.com/Zayne-sprague/To-CoT-or-not-to-CoT) - Zayne-sprague) ![Star](https://img.shields.io/github/stars/Zayne-sprague/To-CoT-or-not-to-CoT.svg?style=social&label=Star)
 - [Qwen2.5-Math - a Qwen Collection](https://huggingface.co/collections/Qwen/qwen25-math-66eaa240a1b7d5ee65f1da3e)
@@ -726,7 +769,9 @@
 - [千亿级、数学专用，MathGPT大模型开始公测了 | 机器之心](https://www.jiqizhixin.com/articles/2023-08-24-2)
 
 ## Self correction
-- [[2402.06457] V-STaR: Training Verifiers for Self-Taught Reasoners](https://arxiv.org/abs/2402.06457)
+- **V-STaR: Training Verifiers for Self-Taught Reasoners**, `arXiv, 2402.06457`, [arxiv](http://arxiv.org/abs/2402.06457v2), [pdf](http://arxiv.org/pdf/2402.06457v2.pdf), cication: [**19**](https://scholar.google.com/scholar?cites=12044817922319023148&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Arian Hosseini, Xingdi Yuan, Nikolay Malkin, Aaron Courville, Alessandro Sordoni, Rishabh Agarwal*
 
 	 · ([x](https://x.com/_philschmid/status/1835936839057740043))
 - **Step-On-Feet Tuning: Scaling Self-Alignment of LLMs via Bootstrapping**, `arXiv, 2402.07610`, [arxiv](http://arxiv.org/abs/2402.07610v1), [pdf](http://arxiv.org/pdf/2402.07610v1.pdf), cication: [**-1**](None)
@@ -749,7 +794,10 @@
 	 *Tianlu Wang, Ping Yu, Xiaoqing Ellen Tan, Sean O'Brien, Ramakanth Pasunuru, Jane Dwivedi-Yu, Olga Golovneva, Luke Zettlemoyer, Maryam Fazel-Zarandi, Asli Celikyilmaz* · ([shepherd](https://github.com/facebookresearch/shepherd) - facebookresearch) ![Star](https://img.shields.io/github/stars/facebookresearch/shepherd.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652366759&idx=3&sn=f183f4c8080a338c4c9fad0f026b14af))
 
 ## Prompting
-- [[2409.13449] Minstrel: Structural Prompt Generation with Multi-Agents Coordination for Non-AI Experts](https://arxiv.org/abs/2409.13449)
+- **Minstrel: Structural Prompt Generation with Multi-Agents Coordination
+  for Non-AI Experts**, `arXiv, 2409.13449`, [arxiv](http://arxiv.org/abs/2409.13449v1), [pdf](http://arxiv.org/pdf/2409.13449v1.pdf), cication: [**-1**](None)
+
+	 *Ming Wang, Yuanzhong Liu, Xiaoyu Liang, Yijie Huang, Daling Wang, Xiaocui Yang, Sijia Shen, Shi Feng, Xiaoming Zhang, Chaofeng Guan*
 - [**sammo**](https://github.com/microsoft/sammo) - microsoft ![Star](https://img.shields.io/github/stars/microsoft/sammo.svg?style=social&label=Star)
 
 	 *A library for prompt engineering and optimization (SAMMO = Structure-aware Multi-Objective Metaprompt Optimization)*

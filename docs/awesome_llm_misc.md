@@ -27,6 +27,13 @@
 	- [Extra reference](#extra-reference)
 
 ## Survey
+- **Large Language Model Enhanced Text-to-SQL Generation: A Survey**, `arXiv, 2410.06011`, [arxiv](http://arxiv.org/abs/2410.06011v1), [pdf](http://arxiv.org/pdf/2410.06011v1.pdf), cication: [**-1**](None)
+
+	 *Xiaohu Zhu, Qian Li, Lizhen Cui, Yongkang Liu*
+- **The Imperative of Conversation Analysis in the Era of LLMs: A Survey of
+  Tasks, Techniques, and Trends**, `arXiv, 2409.14195`, [arxiv](http://arxiv.org/abs/2409.14195v1), [pdf](http://arxiv.org/pdf/2409.14195v1.pdf), cication: [**-1**](None)
+
+	 *Xinghua Zhang, Haiyang Yu, Yongbin Li, Minzheng Wang, Longze Chen, Fei Huang*
 - **A Survey for Large Language Models in Biomedicine**, `arXiv, 2409.00133`, [arxiv](http://arxiv.org/abs/2409.00133v1), [pdf](http://arxiv.org/pdf/2409.00133v1.pdf), cication: [**-1**](None)
 
 	 *Chong Wang, Mengyao Li, Junjun He, Zhongruo Wang, Erfan Darzi, Zan Chen, Jin Ye, Tianbin Li, Yanzhou Su, Jing Ke*
@@ -205,6 +212,9 @@
 	 *FlagAI (Fast LArge-scale General AI models) is a fast, easy-to-use and extensible toolkit for large-scale model.*
 
 ## Unlearning
+- **Erasing Conceptual Knowledge from Language Models**, `arXiv, 2410.02760`, [arxiv](http://arxiv.org/abs/2410.02760v1), [pdf](http://arxiv.org/pdf/2410.02760v1.pdf), cication: [**-1**](None)
+
+	 *Rohit Gandikota, Sheridan Feucht, Samuel Marks, David Bau* · ([erasing-llm](https://github.com/rohitgandikota/erasing-llm) - rohitgandikota) ![Star](https://img.shields.io/github/stars/rohitgandikota/erasing-llm.svg?style=social&label=Star) · ([elm.baulab](https://elm.baulab.info/))
 - **To Forget or Not? Towards Practical Knowledge Unlearning for Large
   Language Models**, `arXiv, 2407.01920`, [arxiv](http://arxiv.org/abs/2407.01920v1), [pdf](http://arxiv.org/pdf/2407.01920v1.pdf), cication: [**-1**](None)
 
@@ -334,6 +344,10 @@
 	 *Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers*
 
 ## State Space Model
+- [**falcon-mamba-7b**](https://huggingface.co/tiiuae/falcon-mamba-7b) - tiiuae 🤗
+- [Intro to SSMs | Chus](https://chus.space/blog/2024/ssm_1_context/)
+- [**Zamba2-2.7B-instruct**](https://huggingface.co/Zyphra/Zamba2-2.7B-instruct) - Zyphra 🤗
+- [Chus Antonanzas - home](https://chus.space/)
 - **ReMamba: Equip Mamba with Effective Long-Sequence Modeling**, `arXiv, 2408.15496`, [arxiv](http://arxiv.org/abs/2408.15496v3), [pdf](http://arxiv.org/pdf/2408.15496v3.pdf), cication: [**-1**](None)
 
 	 *Danlong Yuan, Jiahao Liu, Bei Li, Huishuai Zhang, Jingang Wang, Xunliang Cai, Dongyan Zhao*
@@ -427,6 +441,13 @@
 - [Mamba: Linear-Time Sequence Modeling with Selective State Spaces (Paper Explained) - YouTube](https://www.youtube.com/watch?v=9dSkvxS2EB0&ab_channel=YannicKilcher)
 
 ## New model
+- **nGPT: Normalized Transformer with Representation Learning on the
+  Hypersphere**, `arXiv, 2410.01131`, [arxiv](http://arxiv.org/abs/2410.01131v1), [pdf](http://arxiv.org/pdf/2410.01131v1.pdf), cication: [**-1**](None)
+
+	 *Ilya Loshchilov, Cheng-Ping Hsieh, Simeng Sun, Boris Ginsburg*
+- **Were RNNs All We Needed?**, `arXiv, 2410.01201`, [arxiv](http://arxiv.org/abs/2410.01201v2), [pdf](http://arxiv.org/pdf/2410.01201v2.pdf), cication: [**-1**](None)
+
+	 *Leo Feng, Frederick Tung, Mohamed Osama Ahmed, Yoshua Bengio, Hossein Hajimirsadegh*
 - [**nanoDD**](https://github.com/flukeskywalker/nanoDD) - flukeskywalker ![Star](https://img.shields.io/github/stars/flukeskywalker/nanoDD.svg?style=social&label=Star)
 
 	 *Simple Scalable Discrete Diffusion for text in PyTorch*
@@ -503,6 +524,9 @@
 	 *John Hewitt, John Thickstun, Christopher D. Manning, Percy Liang* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-06-25-5)) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI1MjQ2OTQ3Ng==&mid=2247608689&idx=2&sn=ed29c1ee1f571f98b191805472feb79a))
 
 ## LLM detection
+- **Signal Watermark on Large Language Models**, `arXiv, 2410.06545`, [arxiv](http://arxiv.org/abs/2410.06545v1), [pdf](http://arxiv.org/pdf/2410.06545v1.pdf), cication: [**-1**](None)
+
+	 *Zhenyu Xu, Victor S. Sheng*
 - **MarkLLM: An Open-Source Toolkit for LLM Watermarking**, `arXiv, 2405.10051`, [arxiv](http://arxiv.org/abs/2405.10051v1), [pdf](http://arxiv.org/pdf/2405.10051v1.pdf), cication: [**-1**](None)
 
 	 *Leyi Pan, Aiwei Liu, Zhiwei He, Zitian Gao, Xuandong Zhao, Yijian Lu, Binglin Zhou, Shuliang Liu, Xuming Hu, Lijie Wen* · ([markllm](https://github.com/thu-bpm/markllm) - thu-bpm) ![Star](https://img.shields.io/github/stars/thu-bpm/markllm.svg?style=social&label=Star)
@@ -563,7 +587,13 @@
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652345558&idx=4&sn=95686435d5cad05d44cbe02bc26d6859))
 
 ## Interpretability 
-- [2409.14254](https://arxiv.org/pdf/2409.14254)
+- **LLMs Know More Than They Show: On the Intrinsic Representation of LLM
+  Hallucinations**, `arXiv, 2410.02707`, [arxiv](http://arxiv.org/abs/2410.02707v2), [pdf](http://arxiv.org/pdf/2410.02707v2.pdf), cication: [**-1**](None)
+
+	 *Hadas Orgad, Michael Toker, Zorik Gekhman, Roi Reichart, Idan Szpektor, Hadas Kotek, Yonatan Belinkov*
+- **Instruction Following without Instruction Tuning**, `arXiv, 2409.14254`, [arxiv](http://arxiv.org/abs/2409.14254v1), [pdf](http://arxiv.org/pdf/2409.14254v1.pdf), cication: [**-1**](None)
+
+	 *John Hewitt, Nelson F. Liu, Percy Liang, Christopher D. Manning*
 - [Physics of Language Models: Part 2.1, Grade-School Math and the Hidden Reasoning Process - YouTube](https://www.youtube.com/watch?v=bpp6Dz8N2zY&ab_channel=ZeyuanAllen-Zhu)
 - [**TensorHue**](https://github.com/epistoteles/TensorHue) - epistoteles ![Star](https://img.shields.io/github/stars/epistoteles/TensorHue.svg?style=social&label=Star)
 
@@ -824,6 +854,7 @@
 	 *Steve Yadlowsky, Lyric Doshi, Nilesh Tripuraneni*
 
 ## LLM editting
+- [**antislop-sampler**](https://github.com/sam-paech/antislop-sampler) - sam-paech ![Star](https://img.shields.io/github/stars/sam-paech/antislop-sampler.svg?style=social&label=Star)
 - **Model Surgery: Modulating LLM's Behavior Via Simple Parameter Editing**, `arXiv, 2407.08770`, [arxiv](http://arxiv.org/abs/2407.08770v1), [pdf](http://arxiv.org/pdf/2407.08770v1.pdf), cication: [**-1**](None)
 
 	 *Huanqian Wang, Yang Yue, Rui Lu, Jingxin Shi, Andrew Zhao, Shenzhi Wang, Shiji Song, Gao Huang*
@@ -860,6 +891,9 @@
 	 *Must-read Papers on Model Editing.*
 
 ## AGI insights
+- **Intelligence at the Edge of Chaos**, `arXiv, 2410.02536`, [arxiv](http://arxiv.org/abs/2410.02536v2), [pdf](http://arxiv.org/pdf/2410.02536v2.pdf), cication: [**-1**](None)
+
+	 *Shiyang Zhang, Aakash Patel, Syed A Rizvi, Nianchen Liu, Sizhuang He, Amin Karbasi, Emanuele Zappala, David van Dijk*
 - **Open-Endedness is Essential for Artificial Superhuman Intelligence**, `arXiv, 2406.04268`, [arxiv](http://arxiv.org/abs/2406.04268v1), [pdf](http://arxiv.org/pdf/2406.04268v1.pdf), cication: [**-1**](None)
 
 	 *Edward Hughes, Michael Dennis, Jack Parker-Holder, Feryal Behbahani, Aditi Mavalankar, Yuge Shi, Tom Schaul, Tim Rocktaschel*

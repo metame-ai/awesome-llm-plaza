@@ -54,6 +54,12 @@
 - [Navigating the Jagged Technological Frontier: Field Experimental Evidence of the Effects of AI on Knowledge Worker Productivity and Quality](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4573321)
 
 ## Toolkits 
+- [**screenpipe**](https://github.com/mediar-ai/screenpipe) - mediar-ai ![Star](https://img.shields.io/github/stars/mediar-ai/screenpipe.svg?style=social&label=Star)
+
+	 *24/7 local AI screen & mic recording. Build AI apps that have the full context. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust.*
+- [**llama-stack**](https://github.com/meta-llama/llama-stack) - meta-llama ![Star](https://img.shields.io/github/stars/meta-llama/llama-stack.svg?style=social&label=Star)
+
+	 *Model components of the Llama Stack APIs*
 - [**chat-macOS**](https://github.com/huggingface/chat-macOS) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/chat-macOS.svg?style=social&label=Star)
 
 	 *Making the community's best AI chat models available to everyone.*
@@ -245,6 +251,15 @@
 	 *Yizhe Zhang, Jiatao Gu, Zhuofeng Wu, Shuangfei Zhai, Josh Susskind, Navdeep Jaitly*
 
 ## WebUI
+- [**llm-chatbot-web-ui**](https://github.com/QinWenFeng/llm-chatbot-web-ui) - QinWenFeng ![Star](https://img.shields.io/github/stars/QinWenFeng/llm-chatbot-web-ui.svg?style=social&label=Star)
+
+	 *LLM Chatbot Web UI*
+- [**open-llm-webui**](https://github.com/Uminosachi/open-llm-webui) - Uminosachi ![Star](https://img.shields.io/github/stars/Uminosachi/open-llm-webui.svg?style=social&label=Star)
+
+	 *This repository contains a web application designed to execute relatively compact, locally-operated Large Language Models (LLMs).*
+- [**multimodal-chat**](https://github.com/danilop/multimodal-chat) - danilop ![Star](https://img.shields.io/github/stars/danilop/multimodal-chat.svg?style=social&label=Star)
+
+	 *A multimodal chat interface with many tools.*
 - [**kotaemon**](https://github.com/Cinnamon/kotaemon) - Cinnamon ![Star](https://img.shields.io/github/stars/Cinnamon/kotaemon.svg?style=social&label=Star)
 
 	 *An open-source RAG-based tool for chatting with your documents.*
@@ -295,8 +310,21 @@
 
 
 ## Medical
+- **Boosting Healthcare LLMs Through Retrieved Context**, `arXiv, 2409.15127`, [arxiv](http://arxiv.org/abs/2409.15127v1), [pdf](http://arxiv.org/pdf/2409.15127v1.pdf), cication: [**-1**](None)
+
+	 *Jordi Bayarri-Planas, Ashwin Kumar Gururajan, Dario Garcia-Gasulla*
+- **Beyond Fine-tuning: Unleashing the Potential of Continuous Pretraining
+  for Clinical LLMs**, `arXiv, 2409.14988`, [arxiv](http://arxiv.org/abs/2409.14988v1), [pdf](http://arxiv.org/pdf/2409.14988v1.pdf), cication: [**-1**](None)
+
+	 *Clément Christophe, Tathagata Raha, Svetlana Maslenkova, Muhammad Umar Salman, Praveen K Kanithi, Marco AF Pimentel, Shadab Khan*
+- **A Preliminary Study of o1 in Medicine: Are We Closer to an AI Doctor?**, `arXiv, 2409.15277`, [arxiv](http://arxiv.org/abs/2409.15277v1), [pdf](http://arxiv.org/pdf/2409.15277v1.pdf), cication: [**-1**](None)
+
+	 *Yunfei Xie, Juncheng Wu, Haoqin Tu, Siwei Yang, Bingchen Zhao, Yongshuo Zong, Qiao Jin, Cihang Xie, Yuyin Zhou* · ([ucsc-vlaa.github](https://ucsc-vlaa.github.io/o1_medicine/))
 - [From Words to Molecules Harnessing Generative AI for Breakthroughs in Language and Molecular Design - YouTube](https://www.youtube.com/watch?v=32OvtSuBfv0&ab_channel=LanguageTechnologiesInstituteatCarnegieMellon)
-- [[2409.04481] Large Language Models in Drug Discovery and Development: From Disease Mechanisms to Clinical Trials](https://arxiv.org/abs/2409.04481)
+- **Large Language Models in Drug Discovery and Development: From Disease
+  Mechanisms to Clinical Trials**, `arXiv, 2409.04481`, [arxiv](http://arxiv.org/abs/2409.04481v1), [pdf](http://arxiv.org/pdf/2409.04481v1.pdf), cication: [**-1**](None)
+
+	 *Yizhen Zheng, Huan Yee Koh, Maddie Yang, Li Li, Lauren T. May, Geoffrey I. Webb, Shirui Pan, George Church*
 - **MEDIC: Towards a Comprehensive Framework for Evaluating LLMs in Clinical
   Applications**, `arXiv, 2409.07314`, [arxiv](http://arxiv.org/abs/2409.07314v1), [pdf](http://arxiv.org/pdf/2409.07314v1.pdf), cication: [**-1**](None)
 
@@ -481,6 +509,9 @@
 	 *Licheng Wen, Xuemeng Yang, Daocheng Fu, Xiaofeng Wang, Pinlong Cai, Xin Li, Tao Ma, Yingxuan Li, Linran Xu, Dengke Shang* · ([gpt4v-ad-exploration](https://github.com/pjlab-adg/gpt4v-ad-exploration) - pjlab-adg) ![Star](https://img.shields.io/github/stars/pjlab-adg/gpt4v-ad-exploration.svg?style=social&label=Star)
 
 ## Education
+- **Tutor CoPilot: A Human-AI Approach for Scaling Real-Time Expertise**, `arXiv, 2410.03017`, [arxiv](http://arxiv.org/abs/2410.03017v1), [pdf](http://arxiv.org/pdf/2410.03017v1.pdf), cication: [**-1**](None)
+
+	 *Rose E. Wang, Ana T. Ribeiro, Carly D. Robinson, Susanna Loeb, Dora Demszky* · ([osf](https://osf.io/8d6ha))
 - **From MOOC to MAIC: Reshaping Online Teaching and Learning through
   LLM-driven Agents**, `arXiv, 2409.03512`, [arxiv](http://arxiv.org/abs/2409.03512v1), [pdf](http://arxiv.org/pdf/2409.03512v1.pdf), cication: [**-1**](None)
 
@@ -702,7 +733,9 @@
 	 *RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models*
 
 ## Chat bots
-- [[2409.11901] LLMs + Persona-Plug = Personalized LLMs](https://arxiv.org/abs/2409.11901)
+- **LLMs + Persona-Plug = Personalized LLMs**, `arXiv, 2409.11901`, [arxiv](http://arxiv.org/abs/2409.11901v1), [pdf](http://arxiv.org/pdf/2409.11901v1.pdf), cication: [**-1**](None)
+
+	 *Jiongnan Liu, Yutao Zhu, Shuting Wang, Xiaochi Wei, Erxue Min, Yu Lu, Shuaiqiang Wang, Dawei Yin, Zhicheng Dou*
 - [**HelpingAI2-9B**](https://huggingface.co/OEvortex/HelpingAI2-9B) - OEvortex 🤗
 
 	 · ([huggingface](https://huggingface.co/datasets/OEvortex/SentimentSynth?row=11)) · ([huggingface](https://huggingface.co/datasets/OEvortex/vortex-mini?row=8))
@@ -770,6 +803,9 @@
 - [小扎发布虚拟聊天AI，竟「1:1复刻」Character.AI？用户吐槽：设定太老土了](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652382135&idx=3&sn=b7e8ff8f375772a1bf71989d8e2f4565)
 
 ## Law
+- [**lexeval**](https://github.com/cshaitao/lexeval) - cshaitao ![Star](https://img.shields.io/github/stars/cshaitao/lexeval.svg?style=social&label=Star)
+
+	 *LexEval: A Comprehensive Benchmark for Evaluating Large Language Models in Legal Domain*
 - **SaulLM-54B & SaulLM-141B: Scaling Up Domain Adaptation for the Legal
   Domain**, `arXiv, 2407.19584`, [arxiv](http://arxiv.org/abs/2407.19584v1), [pdf](http://arxiv.org/pdf/2407.19584v1.pdf), cication: [**-1**](None)
 
@@ -819,11 +855,24 @@
 	 *Patrick Fernandes, Daniel Deutsch, Mara Finkelstein, Parker Riley, André F. T. Martins, Graham Neubig, Ankush Garg, Jonathan H. Clark, Markus Freitag, Orhan Firat*
 
 ## Audio
+- [**podcastfy-demo**](https://github.com/souzatharsis/podcastfy-demo?tab=readme-ov-file) - souzatharsis ![Star](https://img.shields.io/github/stars/souzatharsis/podcastfy-demo.svg?style=social&label=Star)
+
+	 *podcastfy.ai gradio demo app*
+- [**podcastfy**](https://github.com/souzatharsis/podcastfy) - souzatharsis ![Star](https://img.shields.io/github/stars/souzatharsis/podcastfy.svg?style=social&label=Star)
+
+	 *Transforming Multi-Sourced Text into Captivating Multi-Lingual Audio Conversations with GenAI*
+- [**open-notebooklm**](https://github.com/gabrielchua/open-notebooklm) - gabrielchua ![Star](https://img.shields.io/github/stars/gabrielchua/open-notebooklm.svg?style=social&label=Star)
+
+	 *Convert any PDF into a podcast episode!*
 - [**PDF2Audio**](https://github.com/lamm-mit/PDF2Audio) - lamm-mit ![Star](https://img.shields.io/github/stars/lamm-mit/PDF2Audio.svg?style=social&label=Star)
-- [[2409.12962] CLAIR-A: Leveraging Large Language Models to Judge Audio Captions](https://arxiv.org/abs/2409.12962)
+- **CLAIR-A: Leveraging Large Language Models to Judge Audio Captions**, `arXiv, 2409.12962`, [arxiv](http://arxiv.org/abs/2409.12962v1), [pdf](http://arxiv.org/pdf/2409.12962v1.pdf), cication: [**-1**](None)
+
+	 *Tsung-Han Wu, Joseph E. Gonzalez, Trevor Darrell, David M. Chan*
 
 	 · ([clair-a](https://github.com/DavidMChan/clair-a) - DavidMChan) ![Star](https://img.shields.io/github/stars/DavidMChan/clair-a.svg?style=social&label=Star)
-- [[2409.08554] LLM-Powered Grapheme-to-Phoneme Conversion: Benchmark and Case Study](https://arxiv.org/abs/2409.08554)
+- **LLM-Powered Grapheme-to-Phoneme Conversion: Benchmark and Case Study**, `arXiv, 2409.08554`, [arxiv](http://arxiv.org/abs/2409.08554v1), [pdf](http://arxiv.org/pdf/2409.08554v1.pdf), cication: [**-1**](None)
+
+	 *Mahta Fetrat Qharabagh, Zahra Dehghanian, Hamid R. Rabiee*
 - [NotebookLM now lets you listen to a conversation about your sources](https://blog.google/technology/ai/notebooklm-audio-overviews/)
 - **Towards Achieving Human Parity on End-to-end Simultaneous Speech
   Translation via LLM Agent**, `arXiv, 2407.21646`, [arxiv](http://arxiv.org/abs/2407.21646v1), [pdf](http://arxiv.org/pdf/2407.21646v1.pdf), cication: [**-1**](None)
@@ -948,7 +997,14 @@
 	 *Official repo for LayoutGPT*
 
 ## Science
-- [[2409.02231] SmileyLlama: Modifying Large Language Models for Directed Chemical Space Exploration](https://arxiv.org/abs/2409.02231)
+- **ScienceAgentBench: Toward Rigorous Assessment of Language Agents for
+  Data-Driven Scientific Discovery**, `arXiv, 2410.05080`, [arxiv](http://arxiv.org/abs/2410.05080v1), [pdf](http://arxiv.org/pdf/2410.05080v1.pdf), cication: [**-1**](None)
+
+	 *Ziru Chen, Shijie Chen, Yuting Ning, Qianheng Zhang, Boshi Wang, Botao Yu, Yifei Li, Zeyi Liao, Chen Wei, Zitong Lu*
+- **SmileyLlama: Modifying Large Language Models for Directed Chemical Space
+  Exploration**, `arXiv, 2409.02231`, [arxiv](http://arxiv.org/abs/2409.02231v2), [pdf](http://arxiv.org/pdf/2409.02231v2.pdf), cication: [**-1**](None)
+
+	 *Joseph M. Cavanagh, Kunyang Sun, Andrew Gritsevskiy, Dorian Bagni, Thomas D. Bannister, Teresa Head-Gordon*
 - **Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with
   100+ NLP Researchers**, `arXiv, 2409.04109`, [arxiv](http://arxiv.org/abs/2409.04109v1), [pdf](http://arxiv.org/pdf/2409.04109v1.pdf), cication: [**-1**](None)
 
@@ -1087,6 +1143,10 @@
 - [快速筛选海量数据，即时做出明智决策，MIT、普林斯顿&卡内基梅隆大学团队利用LLM进行聚变研究 | 机器之心](https://www.jiqizhixin.com/articles/2024-01-04-6)
 - [2023年科研领域「 科学ChatGPT」有哪些？LLM for Science有哪些探索...... | 机器之心](https://www.jiqizhixin.com/articles/2023-12-26-10)
 ## Finance
+- [Introducing the Open FinLLM Leaderboard](https://huggingface.co/blog/leaderboard-finbench)
+- [**financial-agent-ui**](https://github.com/virattt/financial-agent-ui) - virattt ![Star](https://img.shields.io/github/stars/virattt/financial-agent-ui.svg?style=social&label=Star)
+
+	 *Financial agent + generative UI*
 - **Open-FinLLMs: Open Multimodal Large Language Models for Financial
   Applications**, `arXiv, 2408.11878`, [arxiv](http://arxiv.org/abs/2408.11878v1), [pdf](http://arxiv.org/pdf/2408.11878v1.pdf), cication: [**-1**](None)
 
@@ -1127,6 +1187,9 @@
 	 *Ethan Callanan, Amarachi Mbakwe, Antony Papadimitriou, Yulong Pei, Mathieu Sibue, Xiaodan Zhu, Zhiqiang Ma, Xiaomo Liu, Sameena Shah*
 
 ## Data Related
+- [**crawl4ai**](https://github.com/unclecode/crawl4ai) - unclecode ![Star](https://img.shields.io/github/stars/unclecode/crawl4ai.svg?style=social&label=Star)
+
+	 *🔥🕷️ Crawl4AI: Open-source LLM Friendly Web Crawler & Scrapper*
 - [DataGemmaPaper](https://datacommons.org/link/DataGemmaPaper)
 
 	 · ([huggingface](https://huggingface.co/google/datagemma-rag-27b-it))

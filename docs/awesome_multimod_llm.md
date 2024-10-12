@@ -16,7 +16,10 @@
 
 ## Survey
 - [Bridging Images and Text - a Survey of VLMs](https://nanonets.com/blog/bridging-images-and-text-a-survey-of-vlms/)
-- [[2409.09502] One missing piece in Vision and Language: A Survey on Comics Understanding](https://arxiv.org/abs/2409.09502)
+- **One missing piece in Vision and Language: A Survey on Comics
+  Understanding**, `arXiv, 2409.09502`, [arxiv](http://arxiv.org/abs/2409.09502v1), [pdf](http://arxiv.org/pdf/2409.09502v1.pdf), cication: [**-1**](None)
+
+	 *Emanuele Vivoli, Andrey Barsky, Mohamed Ali Souibgui, Artemis LLabres, Marco Bertini, Dimosthenis Karatzas*
 
 	 · ([awesome-comics-understanding](https://github.com/emanuelevivoli/awesome-comics-understanding) - emanuelevivoli) ![Star](https://img.shields.io/github/stars/emanuelevivoli/awesome-comics-understanding.svg?style=social&label=Star)
 - **A Survey on Evaluation of Multimodal Large Language Models**, `arXiv, 2408.15769`, [arxiv](http://arxiv.org/abs/2408.15769v1), [pdf](http://arxiv.org/pdf/2408.15769v1.pdf), cication: [**-1**](None)
@@ -134,6 +137,14 @@
 	 *Mike Ranzinger, Greg Heinrich, Jan Kautz, Pavlo Molchanov* · ([radio](https://github.com/nvlabs/radio) - nvlabs) ![Star](https://img.shields.io/github/stars/nvlabs/radio.svg?style=social&label=Star)
 
 ### Video
+- [LLaVA-Video - a lmms-lab Collection](https://huggingface.co/collections/lmms-lab/llava-video-661e86f5e8dabc3ff793c944)
+- **Vinoground: Scrutinizing LMMs over Dense Temporal Reasoning with Short
+  Videos**, `arXiv, 2410.02763`, [arxiv](http://arxiv.org/abs/2410.02763v1), [pdf](http://arxiv.org/pdf/2410.02763v1.pdf), cication: [**-1**](None)
+
+	 *Jianrui Zhang, Mu Cai, Yong Jae Lee* · ([vinoground.github](https://vinoground.github.io/)) · ([Vinoground](https://github.com/Vinoground/Vinoground) - Vinoground) ![Star](https://img.shields.io/github/stars/Vinoground/Vinoground.svg?style=social&label=Star)
+- **MIO: A Foundation Model on Multimodal Tokens**, `arXiv, 2409.17692`, [arxiv](http://arxiv.org/abs/2409.17692v1), [pdf](http://arxiv.org/pdf/2409.17692v1.pdf), cication: [**-1**](None)
+
+	 *Zekun Wang, King Zhu, Chunpu Xu, Wangchunshu Zhou, Jiaheng Liu, Yibo Zhang, Jiashuo Wang, Ning Shi, Siyu Li, Yizhi Li*
 - **PiTe: Pixel-Temporal Alignment for Large Video-Language Model**, `arXiv, 2409.07239`, [arxiv](http://arxiv.org/abs/2409.07239v1), [pdf](http://arxiv.org/pdf/2409.07239v1.pdf), cication: [**-1**](None)
 
 	 *Yang Liu, Pengxiang Ding, Siteng Huang, Min Zhang, Han Zhao, Donglin Wang*
@@ -346,6 +357,9 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image Gen
+- **Emu3: Next-Token Prediction is All You Need**, `arXiv, 2409.18869`, [arxiv](http://arxiv.org/abs/2409.18869v1), [pdf](http://arxiv.org/pdf/2409.18869v1.pdf), cication: [**-1**](None)
+
+	 *Xinlong Wang, Xiaosong Zhang, Zhengxiong Luo, Quan Sun, Yufeng Cui, Jinsheng Wang, Fan Zhang, Yueze Wang, Zhen Li, Qiying Yu* · ([emu.baai.ac](https://emu.baai.ac.cn/))
 - **Show-o: One Single Transformer to Unify Multimodal Understanding and
   Generation**, `arXiv, 2408.12528`, [arxiv](http://arxiv.org/abs/2408.12528v2), [pdf](http://arxiv.org/pdf/2408.12528v2.pdf), cication: [**-1**](None)
 
@@ -361,22 +375,54 @@
 	 · ([anole](https://github.com/GAIR-NLP/anole) - GAIR-NLP) ![Star](https://img.shields.io/github/stars/GAIR-NLP/anole.svg?style=social&label=Star)
 
 ### Image
-- [[2409.02889] LongLLaVA: Scaling Multi-modal LLMs to 1000 Images Efficiently via Hybrid Architecture](https://arxiv.org/abs/2409.02889)
+- **Aria: An Open Multimodal Native Mixture-of-Experts Model**, `arXiv, 2410.05993`, [arxiv](http://arxiv.org/abs/2410.05993v1), [pdf](http://arxiv.org/pdf/2410.05993v1.pdf), cication: [**-1**](None)
+
+	 *Dongxu Li, Yudong Liu, Haoning Wu, Yue Wang, Zhiqi Shen, Bowen Qu, Xinyao Niu, Guoyin Wang, Bei Chen, Junnan Li* · ([Aria](https://github.com/rhymes-ai/Aria) - rhymes-ai) ![Star](https://img.shields.io/github/stars/rhymes-ai/Aria.svg?style=social&label=Star) · ([rhymes](https://rhymes.ai/)) · ([huggingface](https://huggingface.co/rhymes-ai/Aria)) · ([rhymes](https://www.rhymes.ai/blog-details/aria-first-open-multimodal-native-moe-model))
+- **PDF-WuKong: A Large Multimodal Model for Efficient Long PDF Reading with
+  End-to-End Sparse Sampling**, `arXiv, 2410.05970`, [arxiv](http://arxiv.org/abs/2410.05970v1), [pdf](http://arxiv.org/pdf/2410.05970v1.pdf), cication: [**-1**](None)
+
+	 *Xudong Xie, Liang Yin, Hao Yan, Yang Liu, Jing Ding, Minghui Liao, Yuliang Liu, Wei Chen, Xiang Bai* · ([PDF-Wukong](https://github.com/yh-hust/PDF-Wukong) - yh-hust) ![Star](https://img.shields.io/github/stars/yh-hust/PDF-Wukong.svg?style=social&label=Star)
+- **Leopard: A Vision Language Model For Text-Rich Multi-Image Tasks**, `arXiv, 2410.01744`, [arxiv](http://arxiv.org/abs/2410.01744v2), [pdf](http://arxiv.org/pdf/2410.01744v2.pdf), cication: [**-1**](None)
+
+	 *Mengzhao Jia, Wenhao Yu, Kaixin Ma, Tianqing Fang, Zhihan Zhang, Siru Ouyang, Hongming Zhang, Meng Jiang, Dong Yu*
+- **Molmo and PixMo: Open Weights and Open Data for State-of-the-Art
+  Multimodal Models**, `arXiv, 2409.17146`, [arxiv](http://arxiv.org/abs/2409.17146v1), [pdf](http://arxiv.org/pdf/2409.17146v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=18139020847063770619&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Matt Deitke, Christopher Clark, Sangho Lee, Rohun Tripathi, Yue Yang, Jae Sung Park, Mohammadreza Salehi, Niklas Muennighoff, Kyle Lo, Luca Soldaini* · ([molmo.allenai](https://molmo.allenai.org/)) · ([molmo.allenai](https://molmo.allenai.org/blog))
+- **LongLLaVA: Scaling Multi-modal LLMs to 1000 Images Efficiently via a
+  Hybrid Architecture**, `arXiv, 2409.02889`, [arxiv](http://arxiv.org/abs/2409.02889v2), [pdf](http://arxiv.org/pdf/2409.02889v2.pdf), cication: [**-1**](None)
+
+	 *Xidong Wang, Dingjie Song, Shunian Chen, Chen Zhang, Benyou Wang*
 
 	 · ([LongLLaVA](https://github.com/FreedomIntelligence/LongLLaVA/blob/main) - FreedomIntelligence) ![Star](https://img.shields.io/github/stars/FreedomIntelligence/LongLLaVA.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-09-21-5))
-- [[2409.12961] Oryx MLLM: On-Demand Spatial-Temporal Understanding at Arbitrary Resolution](https://arxiv.org/abs/2409.12961)
+- **Oryx MLLM: On-Demand Spatial-Temporal Understanding at Arbitrary
+  Resolution**, `arXiv, 2409.12961`, [arxiv](http://arxiv.org/abs/2409.12961v1), [pdf](http://arxiv.org/pdf/2409.12961v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=14898590386500993892&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Zuyan Liu, Yuhao Dong, Ziwei Liu, Winston Hu, Jiwen Lu, Yongming Rao*
 
 	 · ([Oryx](https://github.com/Oryx-mllm/Oryx) - Oryx-mllm) ![Star](https://img.shields.io/github/stars/Oryx-mllm/Oryx.svg?style=social&label=Star)
-- [[2405.20797] Ovis: Structural Embedding Alignment for Multimodal Large Language Model](https://arxiv.org/abs/2405.20797)
+- **Ovis: Structural Embedding Alignment for Multimodal Large Language Model**, `arXiv, 2405.20797`, [arxiv](http://arxiv.org/abs/2405.20797v2), [pdf](http://arxiv.org/pdf/2405.20797v2.pdf), cication: [**2**](https://scholar.google.com/scholar?cites=6134971130413850602&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Shiyin Lu, Yang Li, Qing-Guo Chen, Zhao Xu, Weihua Luo, Kaifu Zhang, Han-Jia Ye*
 
 	 · ([huggingface](https://huggingface.co/AIDC-AI/Ovis1.6-Gemma2-9B)) · ([Ovis](https://github.com/AIDC-AI/Ovis) - AIDC-AI) ![Star](https://img.shields.io/github/stars/AIDC-AI/Ovis.svg?style=social&label=Star)
-- [[2406.17711] Data curation via joint example selection further accelerates multimodal learning](https://arxiv.org/abs/2406.17711)
-- [[2409.12191] Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution](https://arxiv.org/abs/2409.12191)
+- **Data curation via joint example selection further accelerates multimodal
+  learning**, `arXiv, 2406.17711`, [arxiv](http://arxiv.org/abs/2406.17711v1), [pdf](http://arxiv.org/pdf/2406.17711v1.pdf), cication: [**-1**](None)
+
+	 *Talfan Evans, Nikhil Parthasarathy, Hamza Merzic, Olivier J. Henaff*
+- **Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at
+  Any Resolution**, `arXiv, 2409.12191`, [arxiv](http://arxiv.org/abs/2409.12191v2), [pdf](http://arxiv.org/pdf/2409.12191v2.pdf), cication: [**6**](https://scholar.google.com/scholar?cites=14843704410658720039&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Peng Wang, Shuai Bai, Sinan Tan, Shijie Wang, Zhihao Fan, Jinze Bai, Keqin Chen, Xuejing Liu, Jialin Wang, Wenbin Ge*
 
 	 · ([Qwen2-VL](https://github.com/QwenLM/Qwen2-VL) - QwenLM) ![Star](https://img.shields.io/github/stars/QwenLM/Qwen2-VL.svg?style=social&label=Star)
-- [[2409.11402] NVLM: Open Frontier-Class Multimodal LLMs](https://arxiv.org/abs/2409.11402)
+- **NVLM: Open Frontier-Class Multimodal LLMs**, `arXiv, 2409.11402`, [arxiv](http://arxiv.org/abs/2409.11402v1), [pdf](http://arxiv.org/pdf/2409.11402v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=1263179302226549502&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Wenliang Dai, Nayeon Lee, Boxin Wang, Zhuoling Yang, Zihan Liu, Jon Barker, Tuomas Rintamaki, Mohammad Shoeybi, Bryan Catanzaro, Wei Ping*
 
 	 · ([nvlm-project.github](https://nvlm-project.github.io/))
+
+	 · ([huggingface](https://huggingface.co/nvidia/NVLM-D-72B)) · ([x](https://x.com/reach_vb/status/1843262465141846333))
 - [ColPali: Efficient Document Retrieval with Vision Language Models 👀](https://huggingface.co/blog/manu/colpali)
 - **POINTS: Improving Your Vision-language Model with Affordable Strategies**, `arXiv, 2409.04828`, [arxiv](http://arxiv.org/abs/2409.04828v1), [pdf](http://arxiv.org/pdf/2409.04828v1.pdf), cication: [**-1**](None)
 
@@ -1294,6 +1340,11 @@
 
 	 *Shaohan Huang, Li Dong, Wenhui Wang, Yaru Hao, Saksham Singhal, Shuming Ma, Tengchao Lv, Lei Cui, Owais Khan Mohammed, Barun Patra*
 
+## Omni
+- **OmniBench: Towards The Future of Universal Omni-Language Models**, `arXiv, 2409.15272`, [arxiv](http://arxiv.org/abs/2409.15272v3), [pdf](http://arxiv.org/pdf/2409.15272v3.pdf), cication: [**-1**](None)
+
+	 *Yizhi Li, Ge Zhang, Yinghao Ma, Ruibin Yuan, Kang Zhu, Hangyu Guo, Yiming Liang, Jiaheng Liu, Zekun Wang, Jian Yang* · ([m-a-p](https://m-a-p.ai/OmniBench))
+
 ## Audio
 - **MooER: LLM-based Speech Recognition and Translation Models from Moore
   Threads**, `arXiv, 2408.05101`, [arxiv](http://arxiv.org/abs/2408.05101v1), [pdf](http://arxiv.org/pdf/2408.05101v1.pdf), cication: [**-1**](None)
@@ -1390,6 +1441,10 @@
 - ["宝藏AI神器"通义听悟上新：超长音视频随便问，高校师生可获500小时免费时长 | 量子位](https://www.qbitai.com/2024/03/129271.html)
 
 ## CLIP
+- **CLIP-MoE: Towards Building Mixture of Experts for CLIP with Diversified
+  Multiplet Upcycling**, `arXiv, 2409.19291`, [arxiv](http://arxiv.org/abs/2409.19291v2), [pdf](http://arxiv.org/pdf/2409.19291v2.pdf), cication: [**-1**](None)
+
+	 *Jihai Zhang, Xiaoye Qu, Tong Zhu, Yu Cheng*
 - **Diffusion Feedback Helps CLIP See Better**, `arXiv, 2407.20171`, [arxiv](http://arxiv.org/abs/2407.20171v2), [pdf](http://arxiv.org/pdf/2407.20171v2.pdf), cication: [**-1**](None)
 
 	 *Wenxuan Wang, Quan Sun, Fan Zhang, Yepeng Tang, Jing Liu, Xinlong Wang* · ([DIVA](https://github.com/baaivision/DIVA) - baaivision) ![Star](https://img.shields.io/github/stars/baaivision/DIVA.svg?style=social&label=Star)
@@ -1465,6 +1520,16 @@
 	 *This project is a collection of fine-tuning scripts to help researchers fine-tune Qwen 2 VL on HuggingFace datasets.*
 
 ## Alignment
+- **TLDR: Token-Level Detective Reward Model for Large Vision Language
+  Models**, `arXiv, 2410.04734`, [arxiv](http://arxiv.org/abs/2410.04734v1), [pdf](http://arxiv.org/pdf/2410.04734v1.pdf), cication: [**-1**](None)
+
+	 *Deqing Fu, Tong Xiao, Rui Wang, Wang Zhu, Pengchuan Zhang, Guan Pang, Robin Jia, Lawrence Chen*
+- **Video Instruction Tuning With Synthetic Data**, `arXiv, 2410.02713`, [arxiv](http://arxiv.org/abs/2410.02713v2), [pdf](http://arxiv.org/pdf/2410.02713v2.pdf), cication: [**-1**](None)
+
+	 *Yuanhan Zhang, Jinming Wu, Wei Li, Bo Li, Zejun Ma, Ziwei Liu, Chunyuan Li* · ([llava-vl.github](https://llava-vl.github.io/blog/2024-09-30-llava-video/))
+- **MM1.5: Methods, Analysis & Insights from Multimodal LLM Fine-tuning**, `arXiv, 2409.20566`, [arxiv](http://arxiv.org/abs/2409.20566v1), [pdf](http://arxiv.org/pdf/2409.20566v1.pdf), cication: [**-1**](None)
+
+	 *Haotian Zhang, Mingfei Gao, Zhe Gan, Philipp Dufter, Nina Wenzel, Forrest Huang, Dhruti Shah, Xianzhi Du, Bowen Zhang, Yanghao Li*
 - **MAVIS: Mathematical Visual Instruction Tuning**, `arXiv, 2407.08739`, [arxiv](http://arxiv.org/abs/2407.08739v1), [pdf](http://arxiv.org/pdf/2407.08739v1.pdf), cication: [**-1**](None)
 
 	 *Renrui Zhang, Xinyu Wei, Dongzhi Jiang, Yichi Zhang, Ziyu Guo, Chengzhuo Tong, Jiaming Liu, Aojun Zhou, Bin Wei, Shanghang Zhang* · ([MAVIS](https://github.com/ZrrSkywalker/MAVIS) - ZrrSkywalker) ![Star](https://img.shields.io/github/stars/ZrrSkywalker/MAVIS.svg?style=social&label=Star)
@@ -1485,7 +1550,9 @@
 	 *Xueliang Zhao, Xinting Huang, Tingchen Fu, Qintong Li, Shansan Gong, Lemao Liu, Wei Bi, Lingpeng Kong*
 
 ## Efficient 
-- [[2409.14713] Phantom of Latent for Large Language and Vision Models](https://arxiv.org/abs/2409.14713)
+- **Phantom of Latent for Large Language and Vision Models**, `arXiv, 2409.14713`, [arxiv](http://arxiv.org/abs/2409.14713v1), [pdf](http://arxiv.org/pdf/2409.14713v1.pdf), cication: [**-1**](None)
+
+	 *Byung-Kwan Lee, Sangyun Chung, Chae Won Kim, Beomchan Park, Yong Man Ro*
 
 	 · ([Phantom](https://github.com/ByungKwanLee/Phantom) - ByungKwanLee) ![Star](https://img.shields.io/github/stars/ByungKwanLee/Phantom.svg?style=social&label=Star)
 - **LLaVA-MoD: Making LLaVA Tiny via MoE Knowledge Distillation**, `arXiv, 2408.15881`, [arxiv](http://arxiv.org/abs/2408.15881v1), [pdf](http://arxiv.org/pdf/2408.15881v1.pdf), cication: [**-1**](None)
@@ -1521,6 +1588,13 @@
 	 *Haoran Wei, Lingyu Kong, Jinyue Chen, Liang Zhao, Zheng Ge, En Yu, Jianjian Sun, Chunrui Han, Xiangyu Zhang*
 
 ## Extra Modalities 
+- **Robin3D: Improving 3D Large Language Model via Robust Instruction Tuning**, `arXiv, 2410.00255`, [arxiv](http://arxiv.org/abs/2410.00255v1), [pdf](http://arxiv.org/pdf/2410.00255v1.pdf), cication: [**-1**](None)
+
+	 *Weitai Kang, Haifeng Huang, Yuzhang Shang, Mubarak Shah, Yan Yan*
+- **LLaVA-3D: A Simple yet Effective Pathway to Empowering LMMs with
+  3D-awareness**, `arXiv, 2409.18125`, [arxiv](http://arxiv.org/abs/2409.18125v1), [pdf](http://arxiv.org/pdf/2409.18125v1.pdf), cication: [**-1**](None)
+
+	 *Chenming Zhu, Tai Wang, Wenwei Zhang, Jiangmiao Pang, Xihui Liu* · ([zcmax.github](https://zcmax.github.io/projects/LLaVA-3D/))
 - **SpatialBot: Precise Spatial Understanding with Vision Language Models**, `arXiv, 2406.13642`, [arxiv](http://arxiv.org/abs/2406.13642v5), [pdf](http://arxiv.org/pdf/2406.13642v5.pdf), cication: [**-1**](None)
 
 	 *Wenxiao Cai, Yaroslav Ponomarenko, Jianhao Yuan, Xiaoqi Li, Wankou Yang, Hao Dong, Bo Zhao* · ([SpatialBot](https://github.com/BAAI-DCAI/SpatialBot) - BAAI-DCAI) ![Star](https://img.shields.io/github/stars/BAAI-DCAI/SpatialBot.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s/X1iqkkEMsop9DGCY08AfCw))
@@ -1560,6 +1634,14 @@
 
 	 *Mingsheng Li, Xin Chen, Chi Zhang, Sijin Chen, Hongyuan Zhu, Fukun Yin, Gang Yu, Tao Chen*
 ## Projects
+- [**colqwen2-v0.1**](https://huggingface.co/vidore/colqwen2-v0.1) - vidore 🤗
+- [**clean-ui**](https://github.com/ThetaCursed/clean-ui) - ThetaCursed ![Star](https://img.shields.io/github/stars/ThetaCursed/clean-ui.svg?style=social&label=Star)
+
+	 *Simple UI for Llama-3.2-11B-Vision*
+- [**multimodal-chat**](https://github.com/danilop/multimodal-chat) - danilop ![Star](https://img.shields.io/github/stars/danilop/multimodal-chat.svg?style=social&label=Star)
+
+	 *A multimodal chat interface with many tools.*
+- [Llama can now see and run on your device - welcome Llama 3.2](https://huggingface.co/blog/llama32)
 - [**Ovis1.6-Gemma2-9B**](https://huggingface.co/AIDC-AI/Ovis1.6-Gemma2-9B) - AIDC-AI 🤗
 - [**pixtral-12b-240910**](https://huggingface.co/mistral-community/pixtral-12b-240910) - mistral-community 🤗
 - [**Phi-3.5-vision-instruct**](https://huggingface.co/microsoft/Phi-3.5-vision-instruct) - microsoft 🤗
@@ -1650,10 +1732,22 @@
 
 
 ## Evaluation
-- [[2409.13592] YesBut: A High-Quality Annotated Multimodal Dataset for evaluating Satire Comprehension capability of Vision-Language Models](https://arxiv.org/abs/2409.13592)
+- **NL-Eye: Abductive NLI for Images**, `arXiv, 2410.02613`, [arxiv](http://arxiv.org/abs/2410.02613v1), [pdf](http://arxiv.org/pdf/2410.02613v1.pdf), cication: [**-1**](None)
+
+	 *Mor Ventura, Michael Toker, Nitay Calderon, Zorik Gekhman, Yonatan Bitton, Roi Reichart*
+- **LLaVA-Critic: Learning to Evaluate Multimodal Models**, `arXiv, 2410.02712`, [arxiv](http://arxiv.org/abs/2410.02712v1), [pdf](http://arxiv.org/pdf/2410.02712v1.pdf), cication: [**-1**](None)
+
+	 *Tianyi Xiong, Xiyao Wang, Dong Guo, Qinghao Ye, Haoqi Fan, Quanquan Gu, Heng Huang, Chunyuan Li* · ([llava-vl.github](https://llava-vl.github.io/blog/2024-10-03-llava-critic/))
+- **YesBut: A High-Quality Annotated Multimodal Dataset for evaluating
+  Satire Comprehension capability of Vision-Language Models**, `arXiv, 2409.13592`, [arxiv](http://arxiv.org/abs/2409.13592v1), [pdf](http://arxiv.org/pdf/2409.13592v1.pdf), cication: [**-1**](None)
+
+	 *Abhilash Nandy, Yash Agarwal, Ashish Patwa, Millon Madhur Das, Aman Bansal, Ankit Raj, Pawan Goyal, Niloy Ganguly*
 
 	 · ([yesbut_dataset](https://github.com/abhi1nandy2/yesbut_dataset) - abhi1nandy2) ![Star](https://img.shields.io/github/stars/abhi1nandy2/yesbut_dataset.svg?style=social&label=Star)
-- [[2409.12959] MMSearch: Benchmarking the Potential of Large Models as Multi-modal Search Engines](https://arxiv.org/abs/2409.12959)
+- **MMSearch: Benchmarking the Potential of Large Models as Multi-modal
+  Search Engines**, `arXiv, 2409.12959`, [arxiv](http://arxiv.org/abs/2409.12959v1), [pdf](http://arxiv.org/pdf/2409.12959v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=5024918059289829315&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Dongzhi Jiang, Renrui Zhang, Ziyu Guo, Yanmin Wu, Jiayi Lei, Pengshuo Qiu, Pan Lu, Zehui Chen, Guanglu Song, Peng Gao*
 
 	 · ([mmsearch.github](https://mmsearch.github.io/))
 - **UrBench: A Comprehensive Benchmark for Evaluating Large Multimodal
@@ -1830,7 +1924,17 @@
 	 *Yuliang Liu, Zhang Li, Biao Yang, Chunyuan Li, Xucheng Yin, Cheng-lin Liu, Lianwen Jin, Xiang Bai* · ([MultimodalOCR](https://github.com/Yuliang-Liu/MultimodalOCR) - Yuliang-Liu) ![Star](https://img.shields.io/github/stars/Yuliang-Liu/MultimodalOCR.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652442102&idx=4&sn=64a53646c57797a00b9db186f339c5eb))
 
 ## Datasets
-- [[2409.12568] InfiMM-WebMath-40B: Advancing Multimodal Pre-Training for Enhanced Mathematical Reasoning](https://arxiv.org/abs/2409.12568)
+- **Contrastive Localized Language-Image Pre-Training**, `arXiv, 2410.02746`, [arxiv](http://arxiv.org/abs/2410.02746v1), [pdf](http://arxiv.org/pdf/2410.02746v1.pdf), cication: [**-1**](None)
+
+	 *Hong-You Chen, Zhengfeng Lai, Haotian Zhang, Xinze Wang, Marcin Eichner, Keen You, Meng Cao, Bowen Zhang, Yinfei Yang, Zhe Gan*
+- **Revisit Large-Scale Image-Caption Data in Pre-training Multimodal
+  Foundation Models**, `arXiv, 2410.02740`, [arxiv](http://arxiv.org/abs/2410.02740v1), [pdf](http://arxiv.org/pdf/2410.02740v1.pdf), cication: [**-1**](None)
+
+	 *Zhengfeng Lai, Vasileios Saveris, Chen Chen, Hong-You Chen, Haotian Zhang, Bowen Zhang, Juan Lao Tebar, Wenze Hu, Zhe Gan, Peter Grasch*
+- **InfiMM-WebMath-40B: Advancing Multimodal Pre-Training for Enhanced
+  Mathematical Reasoning**, `arXiv, 2409.12568`, [arxiv](http://arxiv.org/abs/2409.12568v1), [pdf](http://arxiv.org/pdf/2409.12568v1.pdf), cication: [**-1**](None)
+
+	 *Xiaotian Han, Yiren Jian, Xuefeng Hu, Haogeng Liu, Yiqi Wang, Qihang Fan, Yuang Ai, Huaibo Huang, Ran He, Zhenheng Yang*
 
 	 · ([huggingface](https://huggingface.co/datasets/Infi-MM/InfiMM-WebMath-40B))
 - **MMEvol: Empowering Multimodal Large Language Models with Evol-Instruct**, `arXiv, 2409.05840`, [arxiv](http://arxiv.org/abs/2409.05840v1), [pdf](http://arxiv.org/pdf/2409.05840v1.pdf), cication: [**-1**](None)

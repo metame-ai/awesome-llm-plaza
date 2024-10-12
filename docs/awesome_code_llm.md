@@ -7,7 +7,9 @@
 	- [Other](#other)
 
 ## Survey
-- [[2409.09030] Agents in Software Engineering: Survey, Landscape, and Vision](https://arxiv.org/abs/2409.09030)
+- **Agents in Software Engineering: Survey, Landscape, and Vision**, `arXiv, 2409.09030`, [arxiv](http://arxiv.org/abs/2409.09030v2), [pdf](http://arxiv.org/pdf/2409.09030v2.pdf), cication: [**-1**](None)
+
+	 *Yanlin Wang, Wanjun Zhong, Yanxian Huang, Ensheng Shi, Min Yang, Jiachi Chen, Hui Li, Yuchi Ma, Qianxiang Wang, Zibin Zheng*
 - **Can OpenSource beat ChatGPT? -- A Comparative Study of Large Language
   Models for Text-to-Code Generation**, `arXiv, 2409.04164`, [arxiv](http://arxiv.org/abs/2409.04164v1), [pdf](http://arxiv.org/pdf/2409.04164v1.pdf), cication: [**-1**](None)
 
@@ -34,10 +36,37 @@
 	 *Ziyin Zhang, Chaoyu Chen, Bingchang Liu, Cong Liao, Zi Gong, Hang Yu, Jianguo Li, Rui Wang*
 
 ## Paper
-- [[2409.08692] B4: Towards Optimal Assessment of Plausible Code Solutions with Plausible Tests](https://arxiv.org/abs/2409.08692)
+- **CursorCore: Assist Programming through Aligning Anything**, `arXiv, 2410.07002`, [arxiv](http://arxiv.org/abs/2410.07002v1), [pdf](http://arxiv.org/pdf/2410.07002v1.pdf), cication: [**-1**](None)
+
+	 *Hao Jiang, Qi Liu, Rui Li, Shengyu Ye, Shijin Wang* · ([CursorCore](https://github.com/TechxGenus/CursorCore) - TechxGenus) ![Star](https://img.shields.io/github/stars/TechxGenus/CursorCore.svg?style=social&label=Star)
+- **MLE-bench: Evaluating Machine Learning Agents on Machine Learning
+  Engineering**, `arXiv, 2410.07095`, [arxiv](http://arxiv.org/abs/2410.07095v1), [pdf](http://arxiv.org/pdf/2410.07095v1.pdf), cication: [**-1**](None)
+
+	 *Jun Shern Chan, Neil Chowdhury, Oliver Jaffe, James Aung, Dane Sherburn, Evan Mays, Giulio Starace, Kevin Liu, Leon Maksin, Tejal Patwardhan* · ([mle-bench](http://github.com/openai/mle-bench/) - openai) ![Star](https://img.shields.io/github/stars/openai/mle-bench.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s/0lyyPfih1eE0RfiVcps10A))
+- **Training Language Models on Synthetic Edit Sequences Improves Code
+  Synthesis**, `arXiv, 2410.02749`, [arxiv](http://arxiv.org/abs/2410.02749v1), [pdf](http://arxiv.org/pdf/2410.02749v1.pdf), cication: [**-1**](None)
+
+	 *Ulyana Piterbarg, Lerrel Pinto, Rob Fergus*
+- **From Code to Correctness: Closing the Last Mile of Code Generation with
+  Hierarchical Debugging**, `arXiv, 2410.01215`, [arxiv](http://arxiv.org/abs/2410.01215v2), [pdf](http://arxiv.org/pdf/2410.01215v2.pdf), cication: [**-1**](None)
+
+	 *Yuling Shi, Songsong Wang, Chengcheng Wan, Xiaodong Gu* · ([MGDebugger](https://github.com/YerbaPage/MGDebugger) - YerbaPage) ![Star](https://img.shields.io/github/stars/YerbaPage/MGDebugger.svg?style=social&label=Star)
+- **RLEF: Grounding Code LLMs in Execution Feedback with Reinforcement
+  Learning**, `arXiv, 2410.02089`, [arxiv](http://arxiv.org/abs/2410.02089v1), [pdf](http://arxiv.org/pdf/2410.02089v1.pdf), cication: [**-1**](None)
+
+	 *Jonas Gehring, Kunhao Zheng, Jade Copet, Vegard Mella, Taco Cohen, Gabriel Synnaeve*
+- [[2409.16299] HyperAgent: Generalist Software Engineering Agents to Solve Coding Tasks at Scale](https://arxiv.org/abs/2409.16299)
+
+	 · ([HyperAgent](https://github.com/FSoft-AI4Code/HyperAgent) - FSoft-AI4Code) ![Star](https://img.shields.io/github/stars/FSoft-AI4Code/HyperAgent.svg?style=social&label=Star)
+- **B4: Towards Optimal Assessment of Plausible Code Solutions with
+  Plausible Tests**, `arXiv, 2409.08692`, [arxiv](http://arxiv.org/abs/2409.08692v1), [pdf](http://arxiv.org/pdf/2409.08692v1.pdf), cication: [**-1**](None)
+
+	 *Mouxiang Chen, Zhongxin Liu, He Tao, Yusu Hong, David Lo, Xin Xia, Jianling Sun*
 
 	 · ([B4](https://github.com/ZJU-CTAG/B4) - ZJU-CTAG) ![Star](https://img.shields.io/github/stars/ZJU-CTAG/B4.svg?style=social&label=Star)
-- [[2409.12186] Qwen2.5-Coder Technical Report](https://arxiv.org/abs/2409.12186)
+- **Qwen2.5-Coder Technical Report**, `arXiv, 2409.12186`, [arxiv](http://arxiv.org/abs/2409.12186v1), [pdf](http://arxiv.org/pdf/2409.12186v1.pdf), cication: [**4**](https://scholar.google.com/scholar?cites=18051007919046244106&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Binyuan Hui, Jian Yang, Zeyu Cui, Jiaxi Yang, Dayiheng Liu, Lei Zhang, Tianyu Liu, Jiajun Zhang, Bowen Yu, Kai Dang*
 - **How Do Your Code LLMs Perform? Empowering Code Instruction Tuning with
   High-Quality Data**, `arXiv, 2409.03810`, [arxiv](http://arxiv.org/abs/2409.03810v1), [pdf](http://arxiv.org/pdf/2409.03810v1.pdf), cication: [**-1**](None)
 
@@ -418,7 +447,16 @@
 	 · [intercode-benchmark.github](https://intercode-benchmark.github.io/)
 
 ## Projects
-- [Site Unreachable](https://ai.meta.com/blog/together-ai-llamacoder)
+- [**cline**](https://github.com/clinebot/cline) - clinebot ![Star](https://img.shields.io/github/stars/clinebot/cline.svg?style=social&label=Star)
+
+	 *Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way.*
+- [**bolt.new**](https://github.com/stackblitz/bolt.new) - stackblitz ![Star](https://img.shields.io/github/stars/stackblitz/bolt.new.svg?style=social&label=Star)
+
+	 *Prompt, run, edit, and deploy full-stack web applications*
+- [**safe-code-execution**](https://github.com/EtiennePerot/safe-code-execution) - EtiennePerot ![Star](https://img.shields.io/github/stars/EtiennePerot/safe-code-execution.svg?style=social&label=Star)
+
+	 *Code execution utilities for Open WebUI & Ollama*
+- [Fetching Title#giva](https://ai.meta.com/blog/together-ai-llamacoder)
 - [**GRADIO-CODER**](https://huggingface.co/matrixglitch/GRADIO-CODER) - matrixglitch 🤗
 - [**Yi-Coder-9B-Chat**](https://huggingface.co/01-ai/Yi-Coder-9B-Chat) - 01-ai 🤗
 - [Meet Yi-Coder: A Small but Mighty LLM for Code](https://01-ai.github.io/blog.html?post=en/2024-09-05-A-Small-but-Mighty-LLM-for-Code.md)

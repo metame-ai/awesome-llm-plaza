@@ -43,6 +43,14 @@
 	 *Zige Wang, Wanjun Zhong, Yufei Wang, Qi Zhu, Fei Mi, Baojun Wang, Lifeng Shang, Xin Jiang, Qun Liu*
 
 ## Techs
+- **Data curation via joint example selection further accelerates multimodal
+  learning**, `arXiv, 2406.17711`, [arxiv](http://arxiv.org/abs/2406.17711v1), [pdf](http://arxiv.org/pdf/2406.17711v1.pdf), cication: [**-1**](None)
+
+	 *Talfan Evans, Nikhil Parthasarathy, Hamza Merzic, Olivier J. Henaff*
+- **Programming Every Example: Lifting Pre-training Data Quality like
+  Experts at Scale**, `arXiv, 2409.17115`, [arxiv](http://arxiv.org/abs/2409.17115v1), [pdf](http://arxiv.org/pdf/2409.17115v1.pdf), cication: [**-1**](None)
+
+	 *Fan Zhou, Zengzhi Wang, Qian Liu, Junlong Li, Pengfei Liu* · ([ProX](https://github.com/GAIR-NLP/ProX) - GAIR-NLP) ![Star](https://img.shields.io/github/stars/GAIR-NLP/ProX.svg?style=social&label=Star)
 - **WildVis: Open Source Visualizer for Million-Scale Chat Logs in the Wild**, `arXiv, 2409.03753`, [arxiv](http://arxiv.org/abs/2409.03753v2), [pdf](http://arxiv.org/pdf/2409.03753v2.pdf), cication: [**-1**](None)
 
 	 *Yuntian Deng, Wenting Zhao, Jack Hessel, Xiang Ren, Claire Cardie, Yejin Choi* · ([wildvisualizer](https://wildvisualizer.com/embeddings/english?contains=python))
@@ -157,6 +165,7 @@
 	 · ([datablations](https://github.com/huggingface/datablations) - huggingface) ![Star](https://img.shields.io/github/stars/huggingface/datablations.svg?style=social&label=Star)
 
 ## Datasets
+- [**TxT360**](https://huggingface.co/datasets/LLM360/TxT360) - LLM360 🤗
 - [**minipile**](https://huggingface.co/datasets/JeanKaddour/minipile) - JeanKaddour 🤗
 - [**dclm-baseline-1.0**](https://huggingface.co/datasets/mlfoundations/dclm-baseline-1.0) - mlfoundations 🤗
 - [**smollm-corpus**](https://huggingface.co/datasets/HuggingFaceTB/smollm-corpus) - HuggingFaceTB 🤗
@@ -384,8 +393,18 @@
 - [**Capybara-Preferences**](https://huggingface.co/datasets/argilla/Capybara-Preferences) - argilla 🤗
 
 ### Synthetic 
+- **DataEnvGym: Data Generation Agents in Teacher Environments with Student
+  Feedback**, `arXiv, 2410.06215`, [arxiv](http://arxiv.org/abs/2410.06215v1), [pdf](http://arxiv.org/pdf/2410.06215v1.pdf), cication: [**-1**](None)
+
+	 *Zaid Khan, Elias Stengel-Eskin, Jaemin Cho, Mohit Bansal* · ([dataenvgym.github](https://dataenvgym.github.io/)) · ([DataEnvGym](https://github.com/codezakh/DataEnvGym) - codezakh) ![Star](https://img.shields.io/github/stars/codezakh/DataEnvGym.svg?style=social&label=Star) · ([x](https://x.com/codezakh/status/1844064267999531151))
+- **DiaSynth -- Synthetic Dialogue Generation Framework**, `arXiv, 2409.19020`, [arxiv](http://arxiv.org/abs/2409.19020v1), [pdf](http://arxiv.org/pdf/2409.19020v1.pdf), cication: [**-1**](None)
+
+	 *Sathya Krishnan Suresh, Wu Mengjun, Tushar Pranav, Eng Siong Chng*
 - [**FinePersonas-v0.1**](https://huggingface.co/datasets/argilla/FinePersonas-v0.1?row=9) - argilla 🤗
-- [[2406.08464] Magpie: Alignment Data Synthesis from Scratch by Prompting Aligned LLMs with Nothing](https://arxiv.org/abs/2406.08464)
+- **Magpie: Alignment Data Synthesis from Scratch by Prompting Aligned LLMs
+  with Nothing**, `arXiv, 2406.08464`, [arxiv](http://arxiv.org/abs/2406.08464v2), [pdf](http://arxiv.org/pdf/2406.08464v2.pdf), cication: [**9**](https://scholar.google.com/scholar?cites=15774191660364799148&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Zhangchen Xu, Fengqing Jiang, Luyao Niu, Yuntian Deng, Radha Poovendran, Yejin Choi, Bill Yuchen Lin*
 
 	 · ([magpie-align.github](https://magpie-align.github.io/))
 - **Synthetic continued pretraining**, `arXiv, 2409.07431`, [arxiv](http://arxiv.org/abs/2409.07431v1), [pdf](http://arxiv.org/pdf/2409.07431v1.pdf), cication: [**-1**](None)
@@ -547,6 +566,7 @@
 	 *A one-stop data processing system to make data higher-quality, juicier, and more digestible for LLMs! 🍎 🍋 🌽 ➡️ ➡️🍸 🍹 🍷为大语言模型提供更高质量、更丰富、更易”消化“的数据！*
 
 ## Other
+- [**dask-scaling**](https://huggingface.co/blog/dask-scaling) -  🤗
 - [Ethics and Society Newsletter #6: Building Better AI: The Importance of Data Quality](https://huggingface.co/blog/ethics-soc-6)
 - [Nomic Atlas](https://atlas.nomic.ai/map/f2fba2aa-3647-4f49-a0f3-9347daeee499/ee4a84bd-f125-4bcc-a683-1b4e231cb10f)
 - [**community-datasets**](https://huggingface.co/blog/community-datasets) -  🤗

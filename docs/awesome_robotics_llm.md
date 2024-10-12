@@ -26,6 +26,13 @@
 	 *Yeseung Kim, Dohyun Kim, Jieun Choi, Jisang Park, Nayoung Oh, Daehyung Park*
 
 ## Papers
+- **Robotic Control via Embodied Chain-of-Thought Reasoning**, `arXiv, 2407.08693`, [arxiv](http://arxiv.org/abs/2407.08693v2), [pdf](http://arxiv.org/pdf/2407.08693v2.pdf), cication: [**2**](https://scholar.google.com/scholar?cites=6062596892385266197&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Michał Zawalski, William Chen, Karl Pertsch, Oier Mees, Chelsea Finn, Sergey Levine* · ([learning-language-navigation](https://github.com/NHirose/learning-language-navigation) - NHirose) ![Star](https://img.shields.io/github/stars/NHirose/learning-language-navigation.svg?style=social&label=Star) · ([learning-language-navigation.github](https://learning-language-navigation.github.io/))
+- **Helpful DoggyBot: Open-World Object Fetching using Legged Robots and
+  Vision-Language Models**, `arXiv, 2410.00231`, [arxiv](http://arxiv.org/abs/2410.00231v1), [pdf](http://arxiv.org/pdf/2410.00231v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=13381783459738202953&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Qi Wu, Zipeng Fu, Xuxin Cheng, Xiaolong Wang, Chelsea Finn* · ([helpful-doggybot.github](https://helpful-doggybot.github.io/))
 - **xLAM: A Family of Large Action Models to Empower AI Agent Systems**, `arXiv, 2409.03215`, [arxiv](http://arxiv.org/abs/2409.03215v1), [pdf](http://arxiv.org/pdf/2409.03215v1.pdf), cication: [**-1**](None)
 
 	 *Jianguo Zhang, Tian Lan, Ming Zhu, Zuxin Liu, Thai Hoang, Shirley Kokane, Weiran Yao, Juntao Tan, Akshara Prabhakar, Haolin Chen*
@@ -349,6 +356,18 @@
 	 *Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao*
 
 ## Robotics
+- **Robot See Robot Do: Imitating Articulated Object Manipulation with
+  Monocular 4D Reconstruction**, `arXiv, 2409.18121`, [arxiv](http://arxiv.org/abs/2409.18121v1), [pdf](http://arxiv.org/pdf/2409.18121v1.pdf), cication: [**-1**](None)
+
+	 *Justin Kerr, Chung Min Kim, Mingxuan Wu, Brent Yi, Qianqian Wang, Ken Goldberg, Angjoo Kanazawa* · ([robot-see-robot-do.github](https://robot-see-robot-do.github.io/))
+- **Gen2Act: Human Video Generation in Novel Scenarios enables Generalizable
+  Robot Manipulation**, `arXiv, 2409.16283`, [arxiv](http://arxiv.org/abs/2409.16283v1), [pdf](http://arxiv.org/pdf/2409.16283v1.pdf), cication: [**-1**](None)
+
+	 *Homanga Bharadhwaj, Debidatta Dwibedi, Abhinav Gupta, Shubham Tulsiani, Carl Doersch, Ted Xiao, Dhruv Shah, Fei Xia, Dorsa Sadigh, Sean Kirmani* · ([homangab.github](https://homangab.github.io/gen2act/))
+- **RACER: Rich Language-Guided Failure Recovery Policies for Imitation
+  Learning**, `arXiv, 2409.14674`, [arxiv](http://arxiv.org/abs/2409.14674v1), [pdf](http://arxiv.org/pdf/2409.14674v1.pdf), cication: [**-1**](None)
+
+	 *Yinpei Dai, Jayjun Lee, Nima Fazeli, Joyce Chai* · ([rich-language-failure-recovery.github](https://rich-language-failure-recovery.github.io))
 - **Diffusion Policy Policy Optimization**, `arXiv, 2409.00588`, [arxiv](http://arxiv.org/abs/2409.00588v1), [pdf](http://arxiv.org/pdf/2409.00588v1.pdf), cication: [**-1**](None)
 
 	 *Allen Z. Ren, Justin Lidard, Lars L. Ankile, Anthony Simeonov, Pulkit Agrawal, Anirudha Majumdar, Benjamin Burchfiel, Hongkai Dai, Max Simchowitz* · ([diffusion-ppo.github](https://diffusion-ppo.github.io/))

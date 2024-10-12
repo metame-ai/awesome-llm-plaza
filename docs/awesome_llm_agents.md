@@ -114,7 +114,12 @@
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-18-4))
 ## Agents
-- [[2409.10568] On the limits of agency in agent-based models](https://arxiv.org/abs/2409.10568)
+- [**gptme**](https://github.com/ErikBjare/gptme) - ErikBjare ![Star](https://img.shields.io/github/stars/ErikBjare/gptme.svg?style=social&label=Star)
+
+	 *Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.*
+- **On the limits of agency in agent-based models**, `arXiv, 2409.10568`, [arxiv](http://arxiv.org/abs/2409.10568v1), [pdf](http://arxiv.org/pdf/2409.10568v1.pdf), cication: [**-1**](None)
+
+	 *Ayush Chopra, Shashank Kumar, Nurullah Giray-Kuru, Ramesh Raskar, Arnau Quera-Bofarull*
 
 	 · ([AgentTorch](https://github.com/AgentTorch/AgentTorch) - AgentTorch) ![Star](https://img.shields.io/github/stars/AgentTorch/AgentTorch.svg?style=social&label=Star)
 - [**agent-zero**](https://github.com/frdel/agent-zero) - frdel ![Star](https://img.shields.io/github/stars/frdel/agent-zero.svg?style=social&label=Star)
@@ -643,6 +648,9 @@
 - [AgentGPT](https://agentgpt.reworkd.ai/)
 
 ## Augmented LLM
+- [**safe-code-execution**](https://github.com/EtiennePerot/safe-code-execution) - EtiennePerot ![Star](https://img.shields.io/github/stars/EtiennePerot/safe-code-execution.svg?style=social&label=Star)
+
+	 *Code execution utilities for Open WebUI & Ollama*
 - **ToolSandbox: A Stateful, Conversational, Interactive Evaluation
   Benchmark for LLM Tool Use Capabilities**, `arXiv, 2408.04682`, [arxiv](http://arxiv.org/abs/2408.04682v1), [pdf](http://arxiv.org/pdf/2408.04682v1.pdf), cication: [**-1**](None)
 
@@ -731,6 +739,10 @@
 - [陈丹琦ACL学术报告来了！详解大模型「外挂」数据库7大方向3大挑战，3小时干货满满 | 量子位](https://www.qbitai.com/2023/07/67259.html)
 
 ## Web browsing
+- **Navigating the Digital World as Humans Do: Universal Visual Grounding
+  for GUI Agents**, `arXiv, 2410.05243`, [arxiv](http://arxiv.org/abs/2410.05243v1), [pdf](http://arxiv.org/pdf/2410.05243v1.pdf), cication: [**-1**](None)
+
+	 *Boyu Gou, Ruohan Wang, Boyuan Zheng, Yanan Xie, Cheng Chang, Yiheng Shu, Huan Sun, Yu Su*
 - **OmniParser for Pure Vision Based GUI Agent**, `arXiv, 2408.00203`, [arxiv](http://arxiv.org/abs/2408.00203v1), [pdf](http://arxiv.org/pdf/2408.00203v1.pdf), cication: [**-1**](None)
 
 	 *Yadong Lu, Jianwei Yang, Yelong Shen, Ahmed Awadallah*
@@ -839,6 +851,16 @@
 - [GPT-4V学会用键鼠上网，人类眼睁睁看着它发帖玩游戏 | 量子位](https://www.qbitai.com/2023/11/95456.html)
 
 ## Retrieval agumented generation
+- [**rag-chatbot**](https://github.com/datvodinh/rag-chatbot) - datvodinh ![Star](https://img.shields.io/github/stars/datvodinh/rag-chatbot.svg?style=social&label=Star)
+
+	 *Chat with multiple PDFs locally*
+- **Astute RAG: Overcoming Imperfect Retrieval Augmentation and Knowledge
+  Conflicts for Large Language Models**, `arXiv, 2410.07176`, [arxiv](http://arxiv.org/abs/2410.07176v1), [pdf](http://arxiv.org/pdf/2410.07176v1.pdf), cication: [**-1**](None)
+
+	 *Fei Wang, Xingchen Wan, Ruoxi Sun, Jiefeng Chen, Sercan Ö. Arık*
+- [**graphrag-ui**](https://github.com/wade1010/graphrag-ui?tab=readme-ov-file) - wade1010 ![Star](https://img.shields.io/github/stars/wade1010/graphrag-ui.svg?style=social&label=Star)
+
+	 *The latest graphrag interface is used, using the local ollama to provide the LLM interface.Support for using the pip installation*
 - [**storm**](https://github.com/stanford-oval/storm?tab=readme-ov-file) - stanford-oval ![Star](https://img.shields.io/github/stars/stanford-oval/storm.svg?style=social&label=Star)
 
 	 *An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.*
@@ -1169,8 +1191,14 @@
 	 *Interact privately with your documents using the power of GPT, 100% privately, no data leaks*
 
 ### Embedding
+- [**cde-small-v1**](https://huggingface.co/jxm/cde-small-v1) - jxm 🤗
+- **Making Text Embedders Few-Shot Learners**, `arXiv, 2409.15700`, [arxiv](http://arxiv.org/abs/2409.15700v1), [pdf](http://arxiv.org/pdf/2409.15700v1.pdf), cication: [**-1**](None)
+
+	 *Chaofan Li, MingHao Qin, Shitao Xiao, Jianlyu Chen, Kun Luo, Yingxia Shao, Defu Lian, Zheng Liu* · ([FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding) - FlagOpen) ![Star](https://img.shields.io/github/stars/FlagOpen/FlagEmbedding.svg?style=social&label=Star)
 - [**word-llama-l2-supercat**](https://huggingface.co/dleemiller/word-llama-l2-supercat) - dleemiller 🤗
-- [[2409.10173] jina-embeddings-v3: Multilingual Embeddings With Task LoRA](https://arxiv.org/abs/2409.10173)
+- **jina-embeddings-v3: Multilingual Embeddings With Task LoRA**, `arXiv, 2409.10173`, [arxiv](http://arxiv.org/abs/2409.10173v3), [pdf](http://arxiv.org/pdf/2409.10173v3.pdf), cication: [**-1**](None)
+
+	 *Saba Sturua, Isabelle Mohr, Mohammad Kalim Akram, Michael Günther, Bo Wang, Markus Krimmel, Feng Wang, Georgios Mastrapas, Andreas Koukounas, Nan Wang*
 - [**sqlite-vec**](https://github.com/asg017/sqlite-vec) - asg017 ![Star](https://img.shields.io/github/stars/asg017/sqlite-vec.svg?style=social&label=Star)
 
 	 *A vector search SQLite extension that runs anywhere!*
@@ -1327,6 +1355,13 @@
 - [各路大神献出自定义GPT，24小时Top 9名单在这 | 机器之心](https://www.jiqizhixin.com/articles/2023-11-13-13)
 
 ## Evaluation
+- [BFCL V3 • Multi-Turn & Multi-Step Function Calling](https://gorilla.cs.berkeley.edu/blogs/13_bfcl_v3_multi_turn.html)
+
+	 · ([x](https://x.com/shishirpatil_/status/1837205152132153803))
+- **Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented
+  Generation**, `arXiv, 2409.12941`, [arxiv](http://arxiv.org/abs/2409.12941v1), [pdf](http://arxiv.org/pdf/2409.12941v1.pdf), cication: [**-1**](None)
+
+	 *Satyapriya Krishna, Kalpesh Krishna, Anhad Mohananey, Steven Schwarcz, Adam Stambler, Shyam Upadhyay, Manaal Faruqui* · ([huggingface](https://huggingface.co/datasets/google/frames-benchmark))
 - [Berkeley Function Calling Leaderboard](https://gorilla.cs.berkeley.edu/blogs/8_berkeley_function_calling_leaderboard.html)
 
 	 · ([gorilla](https://github.com/ShishirPatil/gorilla/tree/main/berkeley-function-call-leaderboard) - ShishirPatil) ![Star](https://img.shields.io/github/stars/ShishirPatil/gorilla.svg?style=social&label=Star)

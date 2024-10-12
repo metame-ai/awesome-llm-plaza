@@ -26,7 +26,13 @@
 - [Attention? Attention! | Lil'Log](https://lilianweng.github.io/posts/2018-06-24-attention/#a-family-of-attention-mechanisms)
 
 ## Evaluation
-- [[2409.12640] Michelangelo: Long Context Evaluations Beyond Haystacks via Latent Structure Queries](https://arxiv.org/abs/2409.12640)
+- **A Controlled Study on Long Context Extension and Generalization in LLMs**, `arXiv, 2409.12181`, [arxiv](http://arxiv.org/abs/2409.12181v2), [pdf](http://arxiv.org/pdf/2409.12181v2.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=18417659314857474187&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Yi Lu, Jing Nathan Yan, Songlin Yang, Justin T. Chiu, Siyu Ren, Fei Yuan, Wenting Zhao, Zhiyong Wu, Alexander M. Rush* · ([HelloBench](https://github.com/Quehry/HelloBench) - Quehry) ![Star](https://img.shields.io/github/stars/Quehry/HelloBench.svg?style=social&label=Star)
+- **Michelangelo: Long Context Evaluations Beyond Haystacks via Latent
+  Structure Queries**, `arXiv, 2409.12640`, [arxiv](http://arxiv.org/abs/2409.12640v2), [pdf](http://arxiv.org/pdf/2409.12640v2.pdf), cication: [**-1**](None)
+
+	 *Kiran Vodrahalli, Santiago Ontanon, Nilesh Tripuraneni, Kelvin Xu, Sanil Jain, Rakesh Shivanna, Jeffrey Hui, Nishanth Dikkala, Mehran Kazemi, Bahare Fatemi*
 - **LongGenbench: Benchmarking Long-Form Generation in Long Context LLMs**, `arXiv, 2409.02076`, [arxiv](http://arxiv.org/abs/2409.02076v3), [pdf](http://arxiv.org/pdf/2409.02076v3.pdf), cication: [**-1**](None)
 
 	 *Yuhao Wu, Ming Shan Hee, Zhiqing Hu, Roy Ka-Wei Lee* · ([SGT](https://github.com/mozhu621/SGT/tree/main/Dataset) - mozhu621) ![Star](https://img.shields.io/github/stars/mozhu621/SGT.svg?style=social&label=Star)
@@ -46,8 +52,21 @@
 	 *Adyasha Maharana, Dong-Ho Lee, Sergey Tulyakov, Mohit Bansal, Francesco Barbieri, Yuwei Fang*
 
 ## Papers
-- [[2409.12181] A Controlled Study on Long Context Extension and Generalization in LLMs](https://arxiv.org/abs/2409.12181)
-- [[2409.10516] RetrievalAttention: Accelerating Long-Context LLM Inference via Vector Retrieval](https://arxiv.org/abs/2409.10516)
+- **Long-Context LLMs Meet RAG: Overcoming Challenges for Long Inputs in RAG**, `arXiv, 2410.05983`, [arxiv](http://arxiv.org/abs/2410.05983v1), [pdf](http://arxiv.org/pdf/2410.05983v1.pdf), cication: [**-1**](None)
+
+	 *Bowen Jin, Jinsung Yoon, Jiawei Han, Sercan O. Arik*
+- **Ruler: A Model-Agnostic Method to Control Generated Length for Large
+  Language Models**, `arXiv, 2409.18943`, [arxiv](http://arxiv.org/abs/2409.18943v2), [pdf](http://arxiv.org/pdf/2409.18943v2.pdf), cication: [**-1**](None)
+
+	 *Jiaming Li, Lei Zhang, Yunshui Li, Ziqiang Liu, yuelin bai, Run Luo, Longze Chen, Min Yang* · ([Ruler](https://github.com/Geaming2002/Ruler) - Geaming2002) ![Star](https://img.shields.io/github/stars/Geaming2002/Ruler.svg?style=social&label=Star)
+- **Discovering the Gems in Early Layers: Accelerating Long-Context LLMs
+  with 1000x Input Token Reduction**, `arXiv, 2409.17422`, [arxiv](http://arxiv.org/abs/2409.17422v1), [pdf](http://arxiv.org/pdf/2409.17422v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=9375432174449913232&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Zhenmei Shi, Yifei Ming, Xuan-Phi Nguyen, Yingyu Liang, Shafiq Joty* · ([GemFilter](https://github.com/SalesforceAIResearch/GemFilter) - SalesforceAIResearch) ![Star](https://img.shields.io/github/stars/SalesforceAIResearch/GemFilter.svg?style=social&label=Star)
+- **RetrievalAttention: Accelerating Long-Context LLM Inference via Vector
+  Retrieval**, `arXiv, 2409.10516`, [arxiv](http://arxiv.org/abs/2409.10516v2), [pdf](http://arxiv.org/pdf/2409.10516v2.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=4240926382873051229&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Di Liu, Meng Chen, Baotong Lu, Huiqiang Jiang, Zhenhua Han, Qianxi Zhang, Qi Chen, Chengruidong Zhang, Bailu Ding, Kai Zhang*
 - [Late Chunking in Long-Context Embedding Models](https://jina.ai/news/late-chunking-in-long-context-embedding-models/?nocache=1)
 - **LongRecipe: Recipe for Efficient Long Context Generalization in Large
   Language Models**, `arXiv, 2409.00509`, [arxiv](http://arxiv.org/abs/2409.00509v2), [pdf](http://arxiv.org/pdf/2409.00509v2.pdf), cication: [**-1**](None)

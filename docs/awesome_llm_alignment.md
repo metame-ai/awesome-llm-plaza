@@ -11,7 +11,10 @@
 	- [Extra reference](#extra-reference)
 
 ## Survey
-- [[2409.11564] Preference Tuning with Human Feedback on Language, Speech, and Vision Tasks: A Survey](https://arxiv.org/abs/2409.11564)
+- **Preference Tuning with Human Feedback on Language, Speech, and Vision
+  Tasks: A Survey**, `arXiv, 2409.11564`, [arxiv](http://arxiv.org/abs/2409.11564v1), [pdf](http://arxiv.org/pdf/2409.11564v1.pdf), cication: [**2**](https://scholar.google.com/scholar?cites=10864850676957134242&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Genta Indra Winata, Hanyang Zhao, Anirban Das, Wenpin Tang, David D. Yao, Shi-Xiong Zhang, Sambit Sahu*
 - **Towards a Unified View of Preference Learning for Large Language Models:
   A Survey**, `arXiv, 2409.02795`, [arxiv](http://arxiv.org/abs/2409.02795v3), [pdf](http://arxiv.org/pdf/2409.02795v3.pdf), cication: [**-1**](None)
 
@@ -286,6 +289,31 @@
 	 *Timo Kaufmann, Paul Weng, Viktor Bengs, Eyke Hüllermeier*
 
 ## Papers
+- **General Preference Modeling with Preference Representations for Aligning
+  Language Models**, `arXiv, 2410.02197`, [arxiv](http://arxiv.org/abs/2410.02197v1), [pdf](http://arxiv.org/pdf/2410.02197v1.pdf), cication: [**-1**](None)
+
+	 *Yifan Zhang, Ge Zhang, Yue Wu, Kangping Xu, Quanquan Gu* · ([general-preference-model](https://github.com/general-preference/general-preference-model) - general-preference) ![Star](https://img.shields.io/github/stars/general-preference/general-preference-model.svg?style=social&label=Star) · ([x](https://x.com/yifan_zhang_/status/1842115884619624522))
+- **HelpSteer2-Preference: Complementing Ratings with Preferences**, `arXiv, 2410.01257`, [arxiv](http://arxiv.org/abs/2410.01257v1), [pdf](http://arxiv.org/pdf/2410.01257v1.pdf), cication: [**-1**](None)
+
+	 *Zhilin Wang, Alexander Bukharin, Olivier Delalleau, Daniel Egert, Gerald Shen, Jiaqi Zeng, Oleksii Kuchaiev, Yi Dong* · ([huggingface](https://huggingface.co/nvidia/Llama-3.1-Nemotron-70B-Reward))
+- **Modulated Intervention Preference Optimization (MIPO): Keep the Easy,
+  Refine the Difficult**, `arXiv, 2409.17545`, [arxiv](http://arxiv.org/abs/2409.17545v2), [pdf](http://arxiv.org/pdf/2409.17545v2.pdf), cication: [**-1**](None)
+
+	 *Cheolhun Jang*
+- **The Perfect Blend: Redefining RLHF with Mixture of Judges**, `arXiv, 2409.20370`, [arxiv](http://arxiv.org/abs/2409.20370v1), [pdf](http://arxiv.org/pdf/2409.20370v1.pdf), cication: [**-1**](None)
+
+	 *Tengyu Xu, Eryk Helenowski, Karthik Abinav Sankararaman, Di Jin, Kaiyan Peng, Eric Han, Shaoliang Nie, Chen Zhu, Hejia Zhang, Wenxuan Zhou*
+- **RLEF: Grounding Code LLMs in Execution Feedback with Reinforcement
+  Learning**, `arXiv, 2410.02089`, [arxiv](http://arxiv.org/abs/2410.02089v1), [pdf](http://arxiv.org/pdf/2410.02089v1.pdf), cication: [**-1**](None)
+
+	 *Jonas Gehring, Kunhao Zheng, Jade Copet, Vegard Mella, Taco Cohen, Gabriel Synnaeve*
+- **Reward-Robust RLHF in LLMs**, `arXiv, 2409.15360`, [arxiv](http://arxiv.org/abs/2409.15360v2), [pdf](http://arxiv.org/pdf/2409.15360v2.pdf), cication: [**-1**](None)
+
+	 *Yuzi Yan, Xingzhou Lou, Jialian Li, Yiping Zhang, Jian Xie, Chao Yu, Yu Wang, Dong Yan, Yuan Shen*
+- **Unpacking DPO and PPO: Disentangling Best Practices for Learning from
+  Preference Feedback**, `arXiv, 2406.09279`, [arxiv](http://arxiv.org/abs/2406.09279v2), [pdf](http://arxiv.org/pdf/2406.09279v2.pdf), cication: [**3**](https://scholar.google.com/scholar?cites=1218964789365706425&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Hamish Ivison, Yizhong Wang, Jiacheng Liu, Zeqiu Wu, Valentina Pyatkin, Nathan Lambert, Noah A. Smith, Yejin Choi, Hannaneh Hajishirzi* · ([EasyLM](https://github.com/hamishivi/EasyLM) - hamishivi) ![Star](https://img.shields.io/github/stars/hamishivi/EasyLM.svg?style=social&label=Star) · ([open-instruct](https://github.com/allenai/open-instruct) - allenai) ![Star](https://img.shields.io/github/stars/allenai/open-instruct.svg?style=social&label=Star)
 - **Generative Verifiers: Reward Modeling as Next-Token Prediction**, `arXiv, 2408.15240`, [arxiv](http://arxiv.org/abs/2408.15240v1), [pdf](http://arxiv.org/pdf/2408.15240v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=3003095881399838944&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Lunjun Zhang, Arian Hosseini, Hritik Bansal, Mehran Kazemi, Aviral Kumar, Rishabh Agarwal*
@@ -617,8 +645,9 @@
 
 	 *Nisan Stiennon, Long Ouyang, Jeff Wu, Daniel M. Ziegler, Ryan Lowe, Chelsea Voss, Alec Radford, Dario Amodei, Paul Christiano*
 ## Projects
-- [Fetching Title#irv0](https://huggingface.co/datasets/nvidia/HelpSteer2)
-- [Fetching Title#uj49](https://huggingface.co/nvidia/Llama3-70B-SteerLM-RM)
+- [**Llama-3.1-Nemotron-70B-Reward**](https://huggingface.co/nvidia/Llama-3.1-Nemotron-70B-Reward) - nvidia 🤗
+- [**HelpSteer2**](https://huggingface.co/datasets/nvidia/HelpSteer2) - nvidia 🤗
+- [**Llama3-70B-SteerLM-RM**](https://huggingface.co/nvidia/Llama3-70B-SteerLM-RM) - nvidia 🤗
 - [**PairRM**](https://huggingface.co/llm-blender/PairRM) - llm-blender 🤗
 - [**OpenRLHF**](https://github.com/OpenLLMAI/OpenRLHF) - OpenLLMAI ![Star](https://img.shields.io/github/stars/OpenLLMAI/OpenRLHF.svg?style=social&label=Star)
 
