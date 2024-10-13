@@ -55,7 +55,10 @@
   Learning**, `arXiv, 2410.02089`, [arxiv](http://arxiv.org/abs/2410.02089v1), [pdf](http://arxiv.org/pdf/2410.02089v1.pdf), cication: [**-1**](None)
 
 	 *Jonas Gehring, Kunhao Zheng, Jade Copet, Vegard Mella, Taco Cohen, Gabriel Synnaeve*
-- [[2409.16299] HyperAgent: Generalist Software Engineering Agents to Solve Coding Tasks at Scale](https://arxiv.org/abs/2409.16299)
+- **HyperAgent: Generalist Software Engineering Agents to Solve Coding Tasks
+  at Scale**, `arXiv, 2409.16299`, [arxiv](http://arxiv.org/abs/2409.16299v1), [pdf](http://arxiv.org/pdf/2409.16299v1.pdf), cication: [**-1**](None)
+
+	 *Huy Nhat Phan, Phong X. Nguyen, Nghi D. Q. Bui*
 
 	 · ([HyperAgent](https://github.com/FSoft-AI4Code/HyperAgent) - FSoft-AI4Code) ![Star](https://img.shields.io/github/stars/FSoft-AI4Code/HyperAgent.svg?style=social&label=Star)
 - **B4: Towards Optimal Assessment of Plausible Code Solutions with

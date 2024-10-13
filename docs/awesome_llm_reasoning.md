@@ -37,6 +37,10 @@
 	 *Jiankai Sun, Chuanyang Zheng, Enze Xie, Zhengying Liu, Ruihang Chu, Jianing Qiu, Jiaqi Xu, Mingyu Ding, Hongyang Li, Mengzhe Geng* · ([Awesome-Reasoning-Foundation-Models](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models) - reasoning-survey) ![Star](https://img.shields.io/github/stars/reasoning-survey/Awesome-Reasoning-Foundation-Models.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652421688&idx=3&sn=fcdc24edc7bc89ebcbcca0f7665e40f6))
 
 ## O1-Reasoning
+- [**openr**](https://github.com/openreasoner/openr/blob/main/reports/Tutorial-LLM-Reasoning-Wang.pdf) - openreasoner ![Star](https://img.shields.io/github/stars/openreasoner/openr.svg?style=social&label=Star)
+- [**O1-Journey**](https://github.com/GAIR-NLP/O1-Journey) - GAIR-NLP ![Star](https://img.shields.io/github/stars/GAIR-NLP/O1-Journey.svg?style=social&label=Star)
+
+	 *O1 Replication Journey: A Strategic Progress Report – Part I* · ([O1-Journey](https://github.com/GAIR-NLP/O1-Journey/blob/main/resource/report.pdf) - GAIR-NLP) ![Star](https://img.shields.io/github/stars/GAIR-NLP/O1-Journey.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-10-09-3))
 - **Rewarding Progress: Scaling Automated Process Verifiers for LLM
   Reasoning**, `arXiv, 2410.08146`, [arxiv](http://arxiv.org/abs/2410.08146v1), [pdf](http://arxiv.org/pdf/2410.08146v1.pdf), cication: [**-1**](None)
 
@@ -513,14 +517,12 @@
   Large Language Models**, `arXiv, 2410.05229`, [arxiv](http://arxiv.org/abs/2410.05229v1), [pdf](http://arxiv.org/pdf/2410.05229v1.pdf), cication: [**-1**](None)
 
 	 *Iman Mirzadeh, Keivan Alizadeh, Hooman Shahrokhi, Oncel Tuzel, Samy Bengio, Mehrdad Farajtabar*
+
+	 · ([x](https://x.com/denny_zhou/status/1845115215450604019))
 - **LLaMA-Berry: Pairwise Optimization for O1-like Olympiad-Level
   Mathematical Reasoning**, `arXiv, 2410.02884`, [arxiv](http://arxiv.org/abs/2410.02884v1), [pdf](http://arxiv.org/pdf/2410.02884v1.pdf), cication: [**-1**](None)
 
 	 *Di Zhang, Jianbo Wu, Jingdi Lei, Tong Che, Jiatong Li, Tong Xie, Xiaoshui Huang, Shufei Zhang, Marco Pavone, Yuqiang Li*
-- **GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in
-  Large Language Models**, `arXiv, 2410.05229`, [arxiv](http://arxiv.org/abs/2410.05229v1), [pdf](http://arxiv.org/pdf/2410.05229v1.pdf), cication: [**-1**](None)
-
-	 *Iman Mirzadeh, Keivan Alizadeh, Hooman Shahrokhi, Oncel Tuzel, Samy Bengio, Mehrdad Farajtabar*
 - **MathHay: An Automated Benchmark for Long-Context Mathematical Reasoning
   in LLMs**, `arXiv, 2410.04698`, [arxiv](http://arxiv.org/abs/2410.04698v1), [pdf](http://arxiv.org/pdf/2410.04698v1.pdf), cication: [**-1**](None)
 

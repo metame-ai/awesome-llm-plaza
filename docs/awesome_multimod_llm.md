@@ -1520,6 +1520,9 @@
 	 *This project is a collection of fine-tuning scripts to help researchers fine-tune Qwen 2 VL on HuggingFace datasets.*
 
 ## Alignment
+- **Personalized Visual Instruction Tuning**, `arXiv, 2410.07113`, [arxiv](http://arxiv.org/abs/2410.07113v1), [pdf](http://arxiv.org/pdf/2410.07113v1.pdf), cication: [**-1**](None)
+
+	 *Renjie Pi, Jianshu Zhang, Tianyang Han, Jipeng Zhang, Rui Pan, Tong Zhang*
 - **TLDR: Token-Level Detective Reward Model for Large Vision Language
   Models**, `arXiv, 2410.04734`, [arxiv](http://arxiv.org/abs/2410.04734v1), [pdf](http://arxiv.org/pdf/2410.04734v1.pdf), cication: [**-1**](None)
 

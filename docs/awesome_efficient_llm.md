@@ -514,6 +514,9 @@
 	 *Yuxian Gu, Li Dong, Furu Wei, Minlie Huang*
 
 ## Pruning
+- **Inheritune: Training Smaller Yet More Attentive Language Models**, `arXiv, 2404.08634`, [arxiv](http://arxiv.org/abs/2404.08634v2), [pdf](http://arxiv.org/pdf/2404.08634v2.pdf), cication: [**2**](https://scholar.google.com/scholar?cites=3581681678753917814&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Sunny Sanyal, Ravid Shwartz-Ziv, Alexandros G. Dimakis, Sujay Sanghavi* · ([LLM-Inheritune](https://github.com/sanyalsunny111/LLM-Inheritune) - sanyalsunny111) ![Star](https://img.shields.io/github/stars/sanyalsunny111/LLM-Inheritune.svg?style=social&label=Star) · ([x](https://x.com/ziv_ravid/status/1844755154383311007))
 - **MaskLLM: Learnable Semi-Structured Sparsity for Large Language Models**, `arXiv, 2409.17481`, [arxiv](http://arxiv.org/abs/2409.17481v1), [pdf](http://arxiv.org/pdf/2409.17481v1.pdf), cication: [**-1**](None)
 
 	 *Gongfan Fang, Hongxu Yin, Saurav Muralidharan, Greg Heinrich, Jeff Pool, Jan Kautz, Pavlo Molchanov, Xinchao Wang* · ([MaskLLM](https://github.com/NVlabs/MaskLLM) - NVlabs) ![Star](https://img.shields.io/github/stars/NVlabs/MaskLLM.svg?style=social&label=Star)

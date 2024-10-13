@@ -114,6 +114,9 @@
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-18-4))
 ## Agents
+- [Don't Sleep on Single-agent Systems](https://www.all-hands.dev/blog/dont-sleep-on-single-agent-systems)
+
+	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-10-10-5))
 - [**gptme**](https://github.com/ErikBjare/gptme) - ErikBjare ![Star](https://img.shields.io/github/stars/ErikBjare/gptme.svg?style=social&label=Star)
 
 	 *Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.*

@@ -951,6 +951,8 @@
 - **Scaling Laws with Vocabulary: Larger Models Deserve Larger Vocabularies**, `arXiv, 2407.13623`, [arxiv](http://arxiv.org/abs/2407.13623v2), [pdf](http://arxiv.org/pdf/2407.13623v2.pdf), cication: [**-1**](None)
 
 	 *Chaofan Tao, Qian Liu, Longxu Dou, Niklas Muennighoff, Zhongwei Wan, Ping Luo, Min Lin, Ngai Wong* · ([scaling-with-vocab](https://github.com/sail-sg/scaling-with-vocab) - sail-sg) ![Star](https://img.shields.io/github/stars/sail-sg/scaling-with-vocab.svg?style=social&label=Star)
+
+	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-10-11-2))
 - **T-FREE: Tokenizer-Free Generative LLMs via Sparse Representations for
   Memory-Efficient Embeddings**, `arXiv, 2406.19223`, [arxiv](http://arxiv.org/abs/2406.19223v1), [pdf](http://arxiv.org/pdf/2406.19223v1.pdf), cication: [**-1**](None)
 

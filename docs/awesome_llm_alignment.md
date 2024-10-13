@@ -289,6 +289,10 @@
 	 *Timo Kaufmann, Paul Weng, Viktor Bengs, Eyke Hüllermeier*
 
 ## Papers
+- **UNA: Unifying Alignments of RLHF/PPO, DPO and KTO by a Generalized
+  Implicit Reward Function**, `arXiv, 2408.15339`, [arxiv](http://arxiv.org/abs/2408.15339v2), [pdf](http://arxiv.org/pdf/2408.15339v2.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=5609954440411205988&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Zhichao Wang, Bin Bi, Can Huang, Shiva Kumar Pentyala, Zixu James Zhu, Sitaram Asur, Na Claire Cheng* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-10-09-5))
 - **General Preference Modeling with Preference Representations for Aligning
   Language Models**, `arXiv, 2410.02197`, [arxiv](http://arxiv.org/abs/2410.02197v1), [pdf](http://arxiv.org/pdf/2410.02197v1.pdf), cication: [**-1**](None)
 

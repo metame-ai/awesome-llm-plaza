@@ -52,6 +52,9 @@
 	 *Adyasha Maharana, Dong-Ho Lee, Sergey Tulyakov, Mohit Bansal, Francesco Barbieri, Yuwei Fang*
 
 ## Papers
+- **DAPE: Data-Adaptive Positional Encoding for Length Extrapolation**, `arXiv, 2405.14722`, [arxiv](http://arxiv.org/abs/2405.14722v5), [pdf](http://arxiv.org/pdf/2405.14722v5.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=15380823334373100515&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Chuanyang Zheng, Yihang Gao, Han Shi, Minbin Huang, Jingyao Li, Jing Xiong, Xiaozhe Ren, Michael Ng, Xin Jiang, Zhenguo Li* · ([DAPE](https://github.com/chuanyang-Zheng/DAPE) - chuanyang-Zheng) ![Star](https://img.shields.io/github/stars/chuanyang-Zheng/DAPE.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-10-12))
 - **Long-Context LLMs Meet RAG: Overcoming Challenges for Long Inputs in RAG**, `arXiv, 2410.05983`, [arxiv](http://arxiv.org/abs/2410.05983v1), [pdf](http://arxiv.org/pdf/2410.05983v1.pdf), cication: [**-1**](None)
 
 	 *Bowen Jin, Jinsung Yoon, Jiawei Han, Sercan O. Arik*
