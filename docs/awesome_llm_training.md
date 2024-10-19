@@ -653,6 +653,9 @@
 	 *Juhao Liang, Ziwei Wang, Zhuoheng Ma, Jianquan Li, Zhiyi Zhang, Xiangbo Wu, Benyou Wang*
 
 ## Toolkits
+- [**lingua**](https://github.com/facebookresearch/lingua) - facebookresearch ![Star](https://img.shields.io/github/stars/facebookresearch/lingua.svg?style=social&label=Star)
+
+	 *Meta Lingua: a lean, efficient, and easy-to-hack codebase to research LLMs.*
 - [**torchtitan**](https://github.com/pytorch/torchtitan) - pytorch ![Star](https://img.shields.io/github/stars/pytorch/torchtitan.svg?style=social&label=Star)
 
 	 *A native PyTorch Library for large model training*

@@ -37,6 +37,17 @@
 	 *Jiankai Sun, Chuanyang Zheng, Enze Xie, Zhengying Liu, Ruihang Chu, Jianing Qiu, Jiaqi Xu, Mingyu Ding, Hongyang Li, Mengzhe Geng* · ([Awesome-Reasoning-Foundation-Models](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models) - reasoning-survey) ![Star](https://img.shields.io/github/stars/reasoning-survey/Awesome-Reasoning-Foundation-Models.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652421688&idx=3&sn=fcdc24edc7bc89ebcbcca0f7665e40f6))
 
 ## O1-Reasoning
+- **Thinking LLMs: General Instruction Following with Thought Generation**, `arXiv, 2410.10630`, [arxiv](http://arxiv.org/abs/2410.10630v1), [pdf](http://arxiv.org/pdf/2410.10630v1.pdf), cication: [**-1**](None)
+
+	 *Tianhao Wu, Janice Lan, Weizhe Yuan, Jiantao Jiao, Jason Weston, Sainbayar Sukhbaatar*
+- **Dualformer: Controllable Fast and Slow Thinking by Learning with
+  Randomized Reasoning Traces**, `arXiv, 2410.09918`, [arxiv](http://arxiv.org/abs/2410.09918v1), [pdf](http://arxiv.org/pdf/2410.09918v1.pdf), cication: [**-1**](None)
+
+	 *DiJia Su, Sainbayar Sukhbaatar, Michael Rabbat, Yuandong Tian, Qinqing Zheng*
+- [**awesome-o1**](https://github.com/srush/awesome-o1/) - srush ![Star](https://img.shields.io/github/stars/srush/awesome-o1.svg?style=social&label=Star)
+- **Inference Scaling for Long-Context Retrieval Augmented Generation**, `arXiv, 2410.04343`, [arxiv](http://arxiv.org/abs/2410.04343v1), [pdf](http://arxiv.org/pdf/2410.04343v1.pdf), cication: [**-1**](None)
+
+	 *Zhenrui Yue, Honglei Zhuang, Aijun Bai, Kai Hui, Rolf Jagerman, Hansi Zeng, Zhen Qin, Dong Wang, Xuanhui Wang, Michael Bendersky*
 - [**openr**](https://github.com/openreasoner/openr/blob/main/reports/Tutorial-LLM-Reasoning-Wang.pdf) - openreasoner ![Star](https://img.shields.io/github/stars/openreasoner/openr.svg?style=social&label=Star)
 - [**O1-Journey**](https://github.com/GAIR-NLP/O1-Journey) - GAIR-NLP ![Star](https://img.shields.io/github/stars/GAIR-NLP/O1-Journey.svg?style=social&label=Star)
 
@@ -508,11 +519,17 @@
 	 *Namgyu Ho, Laura Schmid, Se-Young Yun* · ([reasoning-teacher](https://github.com/itsnamgyu/reasoning-teacher) - itsnamgyu) ![Star](https://img.shields.io/github/stars/itsnamgyu/reasoning-teacher.svg?style=social&label=Star)
 
 ### Other
+- [LLM Reasoning Papers - a philschmid Collection](https://huggingface.co/collections/philschmid/llm-reasoning-papers-66e6abbdf5579b829f214de8)
+
 - [陶哲轩支持！AI奥林匹克数学奖来了，奖金500万美元，寻找能得IMO金牌的大模型 | 量子位](https://www.qbitai.com/2023/11/101471.html)
 - [Keynote IV: Teaching LLMs to Reason](https://icml.cc/virtual/2023/29160)
 - [大模型Fewshot推理如何选择更好的示例](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495177&idx=2&sn=fe8353efed16a81e35462be06d5a6cea)
 
 ## Math reasoning
+- **MathCoder2: Better Math Reasoning from Continued Pretraining on
+  Model-translated Mathematical Code**, `arXiv, 2410.08196`, [arxiv](http://arxiv.org/abs/2410.08196v1), [pdf](http://arxiv.org/pdf/2410.08196v1.pdf), cication: [**-1**](None)
+
+	 *Zimu Lu, Aojun Zhou, Ke Wang, Houxing Ren, Weikang Shi, Junting Pan, Mingjie Zhan, Hongsheng Li* · ([mathllm.github](https://mathllm.github.io/mathcoder2/))
 - **GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in
   Large Language Models**, `arXiv, 2410.05229`, [arxiv](http://arxiv.org/abs/2410.05229v1), [pdf](http://arxiv.org/pdf/2410.05229v1.pdf), cication: [**-1**](None)
 
@@ -762,6 +779,10 @@
 -  [GitHub - zwq2018/Multi-view-Consistency-for-MWP: EMNLP22: Multi-View Reasoning: Consistent Contrastive Learning for Math Word Problem](https://github.com/zwq2018/multi-view-consistency-for-mwp)
 
 ### Benchmarks
+- **Omni-MATH: A Universal Olympiad Level Mathematic Benchmark For Large
+  Language Models**, `arXiv, 2410.07985`, [arxiv](http://arxiv.org/abs/2410.07985v2), [pdf](http://arxiv.org/pdf/2410.07985v2.pdf), cication: [**-1**](None)
+
+	 *Bofei Gao, Feifan Song, Zhe Yang, Zefan Cai, Yibo Miao, Qingxiu Dong, Lei Li, Chenghao Ma, Liang Chen, Runxin Xu* · ([Omni-MATH](https://github.com/KbsdJames/Omni-MATH) - KbsdJames) ![Star](https://img.shields.io/github/stars/KbsdJames/Omni-MATH.svg?style=social&label=Star) · ([omni-math.github](https://omni-math.github.io/))
 - **MathVista: Evaluating Math Reasoning in Visual Contexts with GPT-4V,
   Bard, and Other Large Multimodal Models**, `arXiv, 2310.02255`, [arxiv](http://arxiv.org/abs/2310.02255v2), [pdf](http://arxiv.org/pdf/2310.02255v2.pdf), cication: [**3**](https://scholar.google.com/scholar?cites=8391766948698077395&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 

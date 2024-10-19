@@ -450,6 +450,9 @@
 	 · [intercode-benchmark.github](https://intercode-benchmark.github.io/)
 
 ## Projects
+- [**copilot-arena**](https://github.com/lmarena/copilot-arena) - lmarena ![Star](https://img.shields.io/github/stars/lmarena/copilot-arena.svg?style=social&label=Star)
+
+	 · ([x](https://x.com/lmarena_ai/status/1846604894402498766))
 - [**cline**](https://github.com/clinebot/cline) - clinebot ![Star](https://img.shields.io/github/stars/clinebot/cline.svg?style=social&label=Star)
 
 	 *Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way.*

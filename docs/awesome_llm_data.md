@@ -43,6 +43,9 @@
 	 *Zige Wang, Wanjun Zhong, Yufei Wang, Qi Zhu, Fei Mi, Baojun Wang, Lifeng Shang, Xin Jiang, Qun Liu*
 
 ## Techs
+- **Multi-Agent Collaborative Data Selection for Efficient LLM Pretraining**, `arXiv, 2410.08102`, [arxiv](http://arxiv.org/abs/2410.08102v2), [pdf](http://arxiv.org/pdf/2410.08102v2.pdf), cication: [**-1**](None)
+
+	 *Tianyi Bai, Ling Yang, Zhen Hao Wong, Jiahui Peng, Xinlin Zhuang, Chi Zhang, Lijun Wu, Jiantao Qiu, Wentao Zhang, Binhang Yuan* · ([multi-agent-data-selection](https://github.com/beccabai/multi-agent-data-selection) - beccabai) ![Star](https://img.shields.io/github/stars/beccabai/multi-agent-data-selection.svg?style=social&label=Star)
 - **Data curation via joint example selection further accelerates multimodal
   learning**, `arXiv, 2406.17711`, [arxiv](http://arxiv.org/abs/2406.17711v1), [pdf](http://arxiv.org/pdf/2406.17711v1.pdf), cication: [**-1**](None)
 

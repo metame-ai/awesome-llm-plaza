@@ -38,6 +38,7 @@
 # English
 
 ## Foundation
+- [**SuperNova-Medius**](https://huggingface.co/arcee-ai/SuperNova-Medius) - arcee-ai 🤗
 - **GRIN: GRadient-INformed MoE**, `arXiv, 2409.12136`, [arxiv](http://arxiv.org/abs/2409.12136v1), [pdf](http://arxiv.org/pdf/2409.12136v1.pdf), cication: [**-1**](None)
 
 	 *Liyuan Liu, Young Jin Kim, Shuohang Wang, Chen Liang, Yelong Shen, Hao Cheng, Xiaodong Liu, Masahiro Tanaka, Xiaoxia Wu, Wenxiang Hu*
@@ -202,7 +203,8 @@
 	 *Kaiyuan Gao, Sunan He, Zhenyu He, Jiacheng Lin, QiZhi Pei, Jie Shao, Wei Zhang* · ([gpt_alternatives](https://github.com/GPT-Alternatives/gpt_alternatives) - GPT-Alternatives) ![Star](https://img.shields.io/github/stars/GPT-Alternatives/gpt_alternatives.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-09-12-3))
 
 ### Llama 3
-- [Fetching Title#ffvt](https://huggingface.co/amd/AMD-Llama-135m)
+- [Llama-3.1-Nemotron-70B - a nvidia Collection](https://huggingface.co/collections/nvidia/llama-31-nemotron-70b-670e93cd366feea16abc13d8)
+- [**AMD-Llama-135m**](https://huggingface.co/amd/AMD-Llama-135m) - amd 🤗
 - [**Self-taught-evaluator-llama3.1-70B**](https://huggingface.co/facebook/Self-taught-evaluator-llama3.1-70B) - facebook 🤗
 - [**Llama-3_1-Nemotron-51B-Instruct**](https://huggingface.co/nvidia/Llama-3_1-Nemotron-51B-Instruct) - nvidia 🤗
 - [**huggingface-llama-recipes**](https://github.com/huggingface/huggingface-llama-recipes) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/huggingface-llama-recipes.svg?style=social&label=Star)
@@ -338,6 +340,8 @@
 - [**phi-2**](https://huggingface.co/spaces/randomblock1/phi-2) - randomblock1 🤗
 - [**phixtral-4x2_8**](https://huggingface.co/mlabonne/phixtral-4x2_8) - mlabonne 🤗
 ### Mistral
+- [Un Ministral, des Ministraux | Mistral AI | Frontier AI in your hands](https://mistral.ai/news/ministraux/)
+- [**Ministral-8B-Instruct-2410**](https://huggingface.co/mistralai/Ministral-8B-Instruct-2410) - mistralai 🤗
 - [**Mistral-Small-Instruct-2409**](https://huggingface.co/mistralai/Mistral-Small-Instruct-2409) - mistralai 🤗
 - [**magnum-v2-123b**](https://huggingface.co/anthracite-org/magnum-v2-123b) - anthracite-org 🤗
 - [Large Enough | Mistral AI | Frontier AI in your hands](https://mistral.ai/news/mistral-large-2407/)

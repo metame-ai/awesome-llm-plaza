@@ -26,6 +26,13 @@
 	 *Yeseung Kim, Dohyun Kim, Jieun Choi, Jisang Park, Nayoung Oh, Daehyung Park*
 
 ## Papers
+- **MLLM as Retriever: Interactively Learning Multimodal Retrieval for
+  Embodied Agents**, `arXiv, 2410.03450`, [arxiv](http://arxiv.org/abs/2410.03450v1), [pdf](http://arxiv.org/pdf/2410.03450v1.pdf), cication: [**-1**](None)
+
+	 *Junpeng Yue, Xinru Xu, Börje F. Karlsson, Zongqing Lu*
+- **Latent Action Pretraining from Videos**, `arXiv, 2410.11758`, [arxiv](http://arxiv.org/abs/2410.11758v1), [pdf](http://arxiv.org/pdf/2410.11758v1.pdf), cication: [**-1**](None)
+
+	 *Seonghyeon Ye, Joel Jang, Byeongguk Jeon, Sejune Joo, Jianwei Yang, Baolin Peng, Ajay Mandlekar, Reuben Tan, Yu-Wei Chao, Bill Yuchen Lin* · ([LAPA](https://github.com/LatentActionPretraining/LAPA) - LatentActionPretraining) ![Star](https://img.shields.io/github/stars/LatentActionPretraining/LAPA.svg?style=social&label=Star) · ([latentactionpretraining.github](https://latentactionpretraining.github.io/))
 - **Robotic Control via Embodied Chain-of-Thought Reasoning**, `arXiv, 2407.08693`, [arxiv](http://arxiv.org/abs/2407.08693v2), [pdf](http://arxiv.org/pdf/2407.08693v2.pdf), cication: [**2**](https://scholar.google.com/scholar?cites=6062596892385266197&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Michał Zawalski, William Chen, Karl Pertsch, Oier Mees, Chelsea Finn, Sergey Levine* · ([learning-language-navigation](https://github.com/NHirose/learning-language-navigation) - NHirose) ![Star](https://img.shields.io/github/stars/NHirose/learning-language-navigation.svg?style=social&label=Star) · ([learning-language-navigation.github](https://learning-language-navigation.github.io/))

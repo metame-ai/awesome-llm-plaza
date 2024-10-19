@@ -32,6 +32,17 @@
 	 *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang*
 
 ## Papers
+- **GLEE: A Unified Framework and Benchmark for Language-based Economic
+  Environments**, `arXiv, 2410.05254`, [arxiv](http://arxiv.org/abs/2410.05254v1), [pdf](http://arxiv.org/pdf/2410.05254v1.pdf), cication: [**-1**](None)
+
+	 *Eilam Shapira, Omer Madmon, Itamar Reinman, Samuel Joseph Amouyal, Roi Reichart, Moshe Tennenholtz*
+- **RevisEval: Improving LLM-as-a-Judge via Response-Adapted References**, `arXiv, 2410.05193`, [arxiv](http://arxiv.org/abs/2410.05193v1), [pdf](http://arxiv.org/pdf/2410.05193v1.pdf), cication: [**-1**](None)
+
+	 *Qiyuan Zhang, Yufei Wang, Tiezheng YU, Yuxin Jiang, Chuhan Wu, Liangyou Li, Yasheng Wang, Xin Jiang, Lifeng Shang, Ruiming Tang*
+- [Sabotage evaluations for frontier models \\ Anthropic](https://www.anthropic.com/research/sabotage-evaluations)
+- **Language model developers should report train-test overlap**, `arXiv, 2410.08385`, [arxiv](http://arxiv.org/abs/2410.08385v1), [pdf](http://arxiv.org/pdf/2410.08385v1.pdf), cication: [**-1**](None)
+
+	 *Andy K Zhang, Kevin Klyman, Yifan Mai, Yoav Levine, Yian Zhang, Rishi Bommasani, Percy Liang*
 - **TurtleBench: Evaluating Top Language Models via Real-World Yes/No
   Puzzles**, `arXiv, 2410.05262`, [arxiv](http://arxiv.org/abs/2410.05262v1), [pdf](http://arxiv.org/pdf/2410.05262v1.pdf), cication: [**-1**](None)
 

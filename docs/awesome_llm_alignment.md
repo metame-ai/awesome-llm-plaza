@@ -47,6 +47,10 @@
 	 *Yufei Wang, Wanjun Zhong, Liangyou Li, Fei Mi, Xingshan Zeng, Wenyong Huang, Lifeng Shang, Xin Jiang, Qun Liu* · ([AlignLLMHumanSurvey](https://github.com/GaryYufei/AlignLLMHumanSurvey) - GaryYufei) ![Star](https://img.shields.io/github/stars/GaryYufei/AlignLLMHumanSurvey.svg?style=social&label=Star)
 
 ## Paper & Projects
+- **$\textbf{Only-IF}$:Revealing the Decisive Effect of Instruction
+  Diversity on Generalization**, `arXiv, 2410.04717`, [arxiv](http://arxiv.org/abs/2410.04717v2), [pdf](http://arxiv.org/pdf/2410.04717v2.pdf), cication: [**-1**](None)
+
+	 *Dylan Zhang, Justin Wang, Francois Charton*
 - **Personality Alignment of Large Language Models**, `arXiv, 2408.11779`, [arxiv](http://arxiv.org/abs/2408.11779v1), [pdf](http://arxiv.org/pdf/2408.11779v1.pdf), cication: [**-1**](None)
 
 	 *Minjun Zhu, Linyi Yang, Yue Zhang* · ([PAlign](https://github.com/zhu-minjun/PAlign) - zhu-minjun) ![Star](https://img.shields.io/github/stars/zhu-minjun/PAlign.svg?style=social&label=Star)

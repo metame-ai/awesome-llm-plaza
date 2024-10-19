@@ -26,6 +26,9 @@
 - [Attention? Attention! | Lil'Log](https://lilianweng.github.io/posts/2018-06-24-attention/#a-family-of-attention-mechanisms)
 
 ## Evaluation
+- **LongGenBench: Long-context Generation Benchmark**, `arXiv, 2410.04199`, [arxiv](http://arxiv.org/abs/2410.04199v2), [pdf](http://arxiv.org/pdf/2410.04199v2.pdf), cication: [**-1**](None)
+
+	 *Xiang Liu, Peijie Dong, Xuming Hu, Xiaowen Chu*
 - **A Controlled Study on Long Context Extension and Generalization in LLMs**, `arXiv, 2409.12181`, [arxiv](http://arxiv.org/abs/2409.12181v2), [pdf](http://arxiv.org/pdf/2409.12181v2.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=18417659314857474187&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Yi Lu, Jing Nathan Yan, Songlin Yang, Justin T. Chiu, Siyu Ren, Fei Yuan, Wenting Zhao, Zhiyong Wu, Alexander M. Rush* · ([HelloBench](https://github.com/Quehry/HelloBench) - Quehry) ![Star](https://img.shields.io/github/stars/Quehry/HelloBench.svg?style=social&label=Star)
@@ -52,6 +55,10 @@
 	 *Adyasha Maharana, Dong-Ho Lee, Sergey Tulyakov, Mohit Bansal, Francesco Barbieri, Yuwei Fang*
 
 ## Papers
+- **LongCite: Enabling LLMs to Generate Fine-grained Citations in
+  Long-context QA**, `arXiv, 2409.02897`, [arxiv](http://arxiv.org/abs/2409.02897v3), [pdf](http://arxiv.org/pdf/2409.02897v3.pdf), cication: [**-1**](None)
+
+	 *Jiajie Zhang, Yushi Bai, Xin Lv, Wanjun Gu, Danqing Liu, Minhao Zou, Shulin Cao, Lei Hou, Yuxiao Dong, Ling Feng* · ([x](https://x.com/rasbt/status/1845468766118850862))
 - **DAPE: Data-Adaptive Positional Encoding for Length Extrapolation**, `arXiv, 2405.14722`, [arxiv](http://arxiv.org/abs/2405.14722v5), [pdf](http://arxiv.org/pdf/2405.14722v5.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=15380823334373100515&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Chuanyang Zheng, Yihang Gao, Han Shi, Minbin Huang, Jingyao Li, Jing Xiong, Xiaozhe Ren, Michael Ng, Xin Jiang, Zhenguo Li* · ([DAPE](https://github.com/chuanyang-Zheng/DAPE) - chuanyang-Zheng) ![Star](https://img.shields.io/github/stars/chuanyang-Zheng/DAPE.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-10-12))
@@ -349,6 +356,10 @@
 - **GLIMMER: generalized late-interaction memory reranker**, `arXiv, 2306.10231`, [arxiv](http://arxiv.org/abs/2306.10231v1), [pdf](http://arxiv.org/pdf/2306.10231v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=13889321003607649821&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Michiel de Jong, Yury Zemlyanskiy, Nicholas FitzGerald, Sumit Sanghai, William W. Cohen, Joshua Ainslie*
+- **The Impact of Positional Encoding on Length Generalization in
+  Transformers**, `NeurIPS, 2024`, [arxiv](http://arxiv.org/abs/2305.19466v2), [pdf](http://arxiv.org/pdf/2305.19466v2.pdf), cication: [**74**](https://scholar.google.com/scholar?cites=15655673383746969532&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Amirhossein Kazemnejad, Inkit Padhi, Karthikeyan Natesan Ramamurthy, Payel Das, Siva Reddy*
 - **Augmenting Language Models with Long-Term Memory**, `arXiv, 2306.07174`, [arxiv](http://arxiv.org/abs/2306.07174v1), [pdf](http://arxiv.org/pdf/2306.07174v1.pdf), cication: [**7**](https://scholar.google.com/scholar?cites=10032266285163330345&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Weizhi Wang, Li Dong, Hao Cheng, Xiaodong Liu, Xifeng Yan, Jianfeng Gao, Furu Wei* · ([aka](https://aka.ms/LongMem))

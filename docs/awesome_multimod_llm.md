@@ -137,6 +137,9 @@
 	 *Mike Ranzinger, Greg Heinrich, Jan Kautz, Pavlo Molchanov* · ([radio](https://github.com/nvlabs/radio) - nvlabs) ![Star](https://img.shields.io/github/stars/nvlabs/radio.svg?style=social&label=Star)
 
 ### Video
+- **Temporal Reasoning Transfer from Text to Video**, `arXiv, 2410.06166`, [arxiv](http://arxiv.org/abs/2410.06166v1), [pdf](http://arxiv.org/pdf/2410.06166v1.pdf), cication: [**-1**](None)
+
+	 *Lei Li, Yuanxin Liu, Linli Yao, Peiyuan Zhang, Chenxin An, Lean Wang, Xu Sun, Lingpeng Kong, Qi Liu* · ([video-t3.github](https://video-t3.github.io/))
 - [LLaVA-Video - a lmms-lab Collection](https://huggingface.co/collections/lmms-lab/llava-video-661e86f5e8dabc3ff793c944)
 - **Vinoground: Scrutinizing LMMs over Dense Temporal Reasoning with Short
   Videos**, `arXiv, 2410.02763`, [arxiv](http://arxiv.org/abs/2410.02763v1), [pdf](http://arxiv.org/pdf/2410.02763v1.pdf), cication: [**-1**](None)
@@ -357,6 +360,14 @@
 	 *Hang Zhang, Xin Li, Lidong Bing*
 	 · [[Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - DAMO-NLP-SG] ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)
 ### Image Gen
+- **EvolveDirector: Approaching Advanced Text-to-Image Generation with Large
+  Vision-Language Models**, `arXiv, 2410.07133`, [arxiv](http://arxiv.org/abs/2410.07133v2), [pdf](http://arxiv.org/pdf/2410.07133v2.pdf), cication: [**-1**](None)
+
+	 *Rui Zhao, Hangjie Yuan, Yujie Wei, Shiwei Zhang, Yuchao Gu, Lingmin Ran, Xiang Wang, Zhangjie Wu, Junhao Zhang, Yingya Zhang* · ([EvolveDirector](https://github.com/showlab/EvolveDirector) - showlab) ![Star](https://img.shields.io/github/stars/showlab/EvolveDirector.svg?style=social&label=Star)
+- **Janus: Decoupling Visual Encoding for Unified Multimodal Understanding
+  and Generation**, `arXiv, 2410.13848`, [arxiv](http://arxiv.org/abs/2410.13848v1), [pdf](http://arxiv.org/pdf/2410.13848v1.pdf), cication: [**-1**](None)
+
+	 *Chengyue Wu, Xiaokang Chen, Zhiyu Wu, Yiyang Ma, Xingchao Liu, Zizheng Pan, Wen Liu, Zhenda Xie, Xingkai Yu, Chong Ruan* · ([huggingface](https://huggingface.co/deepseek-ai/Janus-1.3B)) · ([Janus](https://github.com/deepseek-ai/Janus) - deepseek-ai) ![Star](https://img.shields.io/github/stars/deepseek-ai/Janus.svg?style=social&label=Star)
 - **Emu3: Next-Token Prediction is All You Need**, `arXiv, 2409.18869`, [arxiv](http://arxiv.org/abs/2409.18869v1), [pdf](http://arxiv.org/pdf/2409.18869v1.pdf), cication: [**-1**](None)
 
 	 *Xinlong Wang, Xiaosong Zhang, Zhengxiong Luo, Quan Sun, Yufeng Cui, Jinsheng Wang, Fan Zhang, Yueze Wang, Zhen Li, Qiying Yu* · ([emu.baai.ac](https://emu.baai.ac.cn/))
@@ -375,6 +386,9 @@
 	 · ([anole](https://github.com/GAIR-NLP/anole) - GAIR-NLP) ![Star](https://img.shields.io/github/stars/GAIR-NLP/anole.svg?style=social&label=Star)
 
 ### Image
+- **Pixtral 12B**, `arXiv, 2410.07073`, [arxiv](http://arxiv.org/abs/2410.07073v2), [pdf](http://arxiv.org/pdf/2410.07073v2.pdf), cication: [**-1**](None)
+
+	 *Pravesh Agrawal, Szymon Antoniak, Emma Bou Hanna, Baptiste Bout, Devendra Chaplot, Jessica Chudnovsky, Diogo Costa, Baudouin De Monicault, Saurabh Garg, Theophile Gervet*
 - **Aria: An Open Multimodal Native Mixture-of-Experts Model**, `arXiv, 2410.05993`, [arxiv](http://arxiv.org/abs/2410.05993v1), [pdf](http://arxiv.org/pdf/2410.05993v1.pdf), cication: [**-1**](None)
 
 	 *Dongxu Li, Yudong Liu, Haoning Wu, Yue Wang, Zhiqi Shen, Bowen Qu, Xinyao Niu, Guoyin Wang, Bei Chen, Junnan Li* · ([Aria](https://github.com/rhymes-ai/Aria) - rhymes-ai) ![Star](https://img.shields.io/github/stars/rhymes-ai/Aria.svg?style=social&label=Star) · ([rhymes](https://rhymes.ai/)) · ([huggingface](https://huggingface.co/rhymes-ai/Aria)) · ([rhymes](https://www.rhymes.ai/blog-details/aria-first-open-multimodal-native-moe-model))
@@ -1489,6 +1503,9 @@
 
 	 *Zhengfeng Lai, Haotian Zhang, Bowen Zhang, Wentao Wu, Haoping Bai, Aleksei Timofeev, Xianzhi Du, Zhe Gan, Jiulong Shan, Chen-Nee Chuah* · ([ml-veclip](https://github.com/apple/ml-veclip) - apple) ![Star](https://img.shields.io/github/stars/apple/ml-veclip.svg?style=social&label=Star)
 ## Reasoning 
+- **Intriguing Properties of Large Language and Vision Models**, `arXiv, 2410.04751`, [arxiv](http://arxiv.org/abs/2410.04751v1), [pdf](http://arxiv.org/pdf/2410.04751v1.pdf), cication: [**-1**](None)
+
+	 *Young-Jun Lee, Byungsoo Ko, Han-Gyu Kim, Yechan Hwang, Ho-Jin Choi* · ([IP-LLVM](https://github.com/passing2961/IP-LLVM) - passing2961) ![Star](https://img.shields.io/github/stars/passing2961/IP-LLVM.svg?style=social&label=Star)
 - **UniBench: Visual Reasoning Requires Rethinking Vision-Language Beyond
   Scaling**, `arXiv, 2408.04810`, [arxiv](http://arxiv.org/abs/2408.04810v1), [pdf](http://arxiv.org/pdf/2408.04810v1.pdf), cication: [**-1**](None)
 
@@ -1520,6 +1537,14 @@
 	 *This project is a collection of fine-tuning scripts to help researchers fine-tune Qwen 2 VL on HuggingFace datasets.*
 
 ## Alignment
+- **From Generalist to Specialist: Adapting Vision Language Models via
+  Task-Specific Visual Instruction Tuning**, `arXiv, 2410.06456`, [arxiv](http://arxiv.org/abs/2410.06456v1), [pdf](http://arxiv.org/pdf/2410.06456v1.pdf), cication: [**-1**](None)
+
+	 *Yang Bai, Yang Zhou, Jun Zhou, Rick Siow Mong Goh, Daniel Shu Wei Ting, Yong Liu* · ([VITask](https://github.com/baiyang4/VITask) - baiyang4) ![Star](https://img.shields.io/github/stars/baiyang4/VITask.svg?style=social&label=Star)
+- **Deciphering Cross-Modal Alignment in Large Vision-Language Models with
+  Modality Integration Rate**, `arXiv, 2410.07167`, [arxiv](http://arxiv.org/abs/2410.07167v2), [pdf](http://arxiv.org/pdf/2410.07167v2.pdf), cication: [**-1**](None)
+
+	 *Qidong Huang, Xiaoyi Dong, Pan Zhang, Yuhang Zang, Yuhang Cao, Jiaqi Wang, Dahua Lin, Weiming Zhang, Nenghai Yu* · ([Modality-Integration-Rate](https://github.com/shikiw/Modality-Integration-Rate) - shikiw) ![Star](https://img.shields.io/github/stars/shikiw/Modality-Integration-Rate.svg?style=social&label=Star)
 - **Personalized Visual Instruction Tuning**, `arXiv, 2410.07113`, [arxiv](http://arxiv.org/abs/2410.07113v1), [pdf](http://arxiv.org/pdf/2410.07113v1.pdf), cication: [**-1**](None)
 
 	 *Renjie Pi, Jianshu Zhang, Tianyang Han, Jipeng Zhang, Rui Pan, Tong Zhang*
@@ -1735,6 +1760,21 @@
 
 
 ## Evaluation
+- **TemporalBench: Benchmarking Fine-grained Temporal Understanding for
+  Multimodal Video Models**, `arXiv, 2410.10818`, [arxiv](http://arxiv.org/abs/2410.10818v2), [pdf](http://arxiv.org/pdf/2410.10818v2.pdf), cication: [**-1**](None)
+
+	 *Mu Cai, Reuben Tan, Jianrui Zhang, Bocheng Zou, Kai Zhang, Feng Yao, Fangrui Zhu, Jing Gu, Yiwu Zhong, Yuzhang Shang* · ([TemporalBench](https://github.com/mu-cai/TemporalBench) - mu-cai) ![Star](https://img.shields.io/github/stars/mu-cai/TemporalBench.svg?style=social&label=Star) · ([temporalbench.github](https://temporalbench.github.io/))
+- **MEGA-Bench: Scaling Multimodal Evaluation to over 500 Real-World Tasks**, `arXiv, 2410.10563`, [arxiv](http://arxiv.org/abs/2410.10563v1), [pdf](http://arxiv.org/pdf/2410.10563v1.pdf), cication: [**-1**](None)
+
+	 *Jiacheng Chen, Tianhao Liang, Sherman Siu, Zhengqing Wang, Kai Wang, Yubo Wang, Yuansheng Ni, Wang Zhu, Ziyan Jiang, Bohan Lyu* · ([MEGA-Bench](https://github.com/TIGER-AI-Lab/MEGA-Bench) - TIGER-AI-Lab) ![Star](https://img.shields.io/github/stars/TIGER-AI-Lab/MEGA-Bench.svg?style=social&label=Star) · ([tiger-ai-lab.github](https://tiger-ai-lab.github.io/MEGA-Bench/)) · ([huggingface](https://huggingface.co/spaces/TIGER-Lab/MEGA-Bench))
+- **OmnixR: Evaluating Omni-modality Language Models on Reasoning across
+  Modalities**, `arXiv, 2410.12219`, [arxiv](http://arxiv.org/abs/2410.12219v1), [pdf](http://arxiv.org/pdf/2410.12219v1.pdf), cication: [**-1**](None)
+
+	 *Lichang Chen, Hexiang Hu, Mingda Zhang, Yiwen Chen, Zifeng Wang, Yandong Li, Pranav Shyam, Tianyi Zhou, Heng Huang, Ming-Hsuan Yang*
+- **The Curse of Multi-Modalities: Evaluating Hallucinations of Large
+  Multimodal Models across Language, Visual, and Audio**, `arXiv, 2410.12787`, [arxiv](http://arxiv.org/abs/2410.12787v1), [pdf](http://arxiv.org/pdf/2410.12787v1.pdf), cication: [**-1**](None)
+
+	 *Sicong Leng, Yun Xing, Zesen Cheng, Yang Zhou, Hang Zhang, Xin Li, Deli Zhao, Shijian Lu, Chunyan Miao, Lidong Bing* · ([CMM](https://github.com/DAMO-NLP-SG/CMM) - DAMO-NLP-SG) ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/CMM.svg?style=social&label=Star)
 - **NL-Eye: Abductive NLI for Images**, `arXiv, 2410.02613`, [arxiv](http://arxiv.org/abs/2410.02613v1), [pdf](http://arxiv.org/pdf/2410.02613v1.pdf), cication: [**-1**](None)
 
 	 *Mor Ventura, Michael Toker, Nitay Calderon, Zorik Gekhman, Yonatan Bitton, Roi Reichart*

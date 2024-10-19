@@ -262,6 +262,10 @@
 	 *Greg Serapio-García, Mustafa Safdari, Clément Crepy, Luning Sun, Stephen Fitz, Peter Romero, Marwa Abdulhai, Aleksandra Faust, Maja Matarić*
 
 ## World Model
+- **WALL-E: World Alignment by Rule Learning Improves World Model-based LLM
+  Agents**, `arXiv, 2410.07484`, [arxiv](http://arxiv.org/abs/2410.07484v2), [pdf](http://arxiv.org/pdf/2410.07484v2.pdf), cication: [**-1**](None)
+
+	 *Siyu Zhou, Tianyi Zhou, Yijun Yang, Guodong Long, Deheng Ye, Jing Jiang, Chengqi Zhang* · ([WALL-E](https://github.com/elated-sawyer/WALL-E) - elated-sawyer) ![Star](https://img.shields.io/github/stars/elated-sawyer/WALL-E.svg?style=social&label=Star)
 - [1X World Model](https://www.1x.tech/discover/1x-world-model)
 - **Efficient World Models with Context-Aware Tokenization**, `arXiv, 2406.19320`, [arxiv](http://arxiv.org/abs/2406.19320v1), [pdf](http://arxiv.org/pdf/2406.19320v1.pdf), cication: [**-1**](None)
 
@@ -344,7 +348,13 @@
 	 *Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers*
 
 ## State Space Model
-- [**falcon-mamba-7b**](https://huggingface.co/tiiuae/falcon-mamba-7b) - tiiuae 🤗
+- [**Zamba2-7B**](https://huggingface.co/Zyphra/Zamba2-7B) - Zyphra 🤗
+
+	 · ([x](https://x.com/ZyphraAI/status/1845939850958327822)) · ([zyphra](https://www.zyphra.com/post/zamba2-7b))
+- [Mamba: Linear-Time Sequence Modeling with Selective State Spaces (COLM Oral 2024) - YouTube](https://www.youtube.com/watch?v=X-7rgesJaGM&list=PL22oH4RYsSoOD2DXhB8zZLPtam3yesEwG&index=10&ab_channel=ConferenceonLanguageModeling)
+- **Falcon Mamba: The First Competitive Attention-free 7B Language Model**, `arXiv, 2410.05355`, [arxiv](http://arxiv.org/abs/2410.05355v1), [pdf](http://arxiv.org/pdf/2410.05355v1.pdf), cication: [**-1**](None)
+
+	 *Jingwei Zuo, Maksim Velikanov, Dhia Eddine Rhaiem, Ilyas Chahed, Younes Belkada, Guillaume Kunsch, Hakim Hacid* · ([huggingface](https://huggingface.co/tiiuae/falcon-mamba-7b))
 - [Intro to SSMs | Chus](https://chus.space/blog/2024/ssm_1_context/)
 - [**Zamba2-2.7B-instruct**](https://huggingface.co/Zyphra/Zamba2-2.7B-instruct) - Zyphra 🤗
 - [Chus Antonanzas - home](https://chus.space/)

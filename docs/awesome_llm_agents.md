@@ -114,6 +114,9 @@
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-10-18-4))
 ## Agents
+- [**swarm**](https://github.com/openai/swarm) - openai ![Star](https://img.shields.io/github/stars/openai/swarm.svg?style=social&label=Star)
+
+	 *Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-10-12-3))
 - [Don't Sleep on Single-agent Systems](https://www.all-hands.dev/blog/dont-sleep-on-single-agent-systems)
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-10-10-5))
@@ -742,6 +745,9 @@
 - [陈丹琦ACL学术报告来了！详解大模型「外挂」数据库7大方向3大挑战，3小时干货满满 | 量子位](https://www.qbitai.com/2023/07/67259.html)
 
 ## Web browsing
+- **Agent S: An Open Agentic Framework that Uses Computers Like a Human**, `arXiv, 2410.08164`, [arxiv](http://arxiv.org/abs/2410.08164v1), [pdf](http://arxiv.org/pdf/2410.08164v1.pdf), cication: [**-1**](None)
+
+	 *Saaket Agashe, Jiuzhou Han, Shuyu Gan, Jiachen Yang, Ang Li, Xin Eric Wang* · ([Agent-S](http://github.com/simular-ai/Agent-S) - simular-ai) ![Star](https://img.shields.io/github/stars/simular-ai/Agent-S.svg?style=social&label=Star)
 - **Navigating the Digital World as Humans Do: Universal Visual Grounding
   for GUI Agents**, `arXiv, 2410.05243`, [arxiv](http://arxiv.org/abs/2410.05243v1), [pdf](http://arxiv.org/pdf/2410.05243v1.pdf), cication: [**-1**](None)
 
@@ -854,6 +860,10 @@
 - [GPT-4V学会用键鼠上网，人类眼睁睁看着它发帖玩游戏 | 量子位](https://www.qbitai.com/2023/11/95456.html)
 
 ## Retrieval agumented generation
+- **StructRAG: Boosting Knowledge Intensive Reasoning of LLMs via
+  Inference-time Hybrid Information Structurization**, `arXiv, 2410.08815`, [arxiv](http://arxiv.org/abs/2410.08815v1), [pdf](http://arxiv.org/pdf/2410.08815v1.pdf), cication: [**-1**](None)
+
+	 *Zhuoqun Li, Xuanang Chen, Haiyang Yu, Hongyu Lin, Yaojie Lu, Qiaoyu Tang, Fei Huang, Xianpei Han, Le Sun, Yongbin Li*
 - [**rag-chatbot**](https://github.com/datvodinh/rag-chatbot) - datvodinh ![Star](https://img.shields.io/github/stars/datvodinh/rag-chatbot.svg?style=social&label=Star)
 
 	 *Chat with multiple PDFs locally*

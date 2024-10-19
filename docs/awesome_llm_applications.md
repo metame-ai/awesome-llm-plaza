@@ -54,6 +54,9 @@
 - [Navigating the Jagged Technological Frontier: Field Experimental Evidence of the Effects of AI on Knowledge Worker Productivity and Quality](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4573321)
 
 ## Toolkits 
+- [**arch**](https://github.com/katanemo/arch) - katanemo ![Star](https://img.shields.io/github/stars/katanemo/arch.svg?style=social&label=Star)
+
+	 *Arch is an intelligent prompt gateway. Engineered with (fast) LLMs for the secure handling, robust observability, and seamless integration of prompts with APIs - all outside business logic. Built by the core contributors of Envoy proxy, on Envoy.*
 - [**screenpipe**](https://github.com/mediar-ai/screenpipe) - mediar-ai ![Star](https://img.shields.io/github/stars/mediar-ai/screenpipe.svg?style=social&label=Star)
 
 	 *24/7 local AI screen & mic recording. Build AI apps that have the full context. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust.*
@@ -1143,6 +1146,10 @@
 - [快速筛选海量数据，即时做出明智决策，MIT、普林斯顿&卡内基梅隆大学团队利用LLM进行聚变研究 | 机器之心](https://www.jiqizhixin.com/articles/2024-01-04-6)
 - [2023年科研领域「 科学ChatGPT」有哪些？LLM for Science有哪些探索...... | 机器之心](https://www.jiqizhixin.com/articles/2023-12-26-10)
 ## Finance
+- **GLEE: A Unified Framework and Benchmark for Language-based Economic
+  Environments**, `arXiv, 2410.05254`, [arxiv](http://arxiv.org/abs/2410.05254v1), [pdf](http://arxiv.org/pdf/2410.05254v1.pdf), cication: [**-1**](None)
+
+	 *Eilam Shapira, Omer Madmon, Itamar Reinman, Samuel Joseph Amouyal, Roi Reichart, Moshe Tennenholtz*
 - [Introducing the Open FinLLM Leaderboard](https://huggingface.co/blog/leaderboard-finbench)
 - [**financial-agent-ui**](https://github.com/virattt/financial-agent-ui) - virattt ![Star](https://img.shields.io/github/stars/virattt/financial-agent-ui.svg?style=social&label=Star)
 

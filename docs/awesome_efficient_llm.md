@@ -575,6 +575,12 @@
 	 *Shufang Xie, Huishuai Zhang, Junliang Guo, Xu Tan, Jiang Bian, Hany Hassan Awadalla, Arul Menezes, Tao Qin, Rui Yan* · ([ResiDual](https://github.com/microsoft/ResiDual) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/ResiDual.svg?style=social&label=Star)
 
 ## Efficient Inference
+- **KV Prediction for Improved Time to First Token**, `arXiv, 2410.08391`, [arxiv](http://arxiv.org/abs/2410.08391v1), [pdf](http://arxiv.org/pdf/2410.08391v1.pdf), cication: [**-1**](None)
+
+	 *Maxwell Horton, Qingqing Cao, Chenfan Sun, Yanzi Jin, Sachin Mehta, Mohammad Rastegari, Moin Nabi* · ([corenet](https://github.com/apple/corenet/tree/main/projects/kv-prediction) - apple) ![Star](https://img.shields.io/github/stars/apple/corenet.svg?style=social&label=Star)
+- **LayerSkip: Enabling Early Exit Inference and Self-Speculative Decoding**, `arXiv, 2404.16710`, [arxiv](http://arxiv.org/abs/2404.16710v3), [pdf](http://arxiv.org/pdf/2404.16710v3.pdf), cication: [**25**](https://scholar.google.com/scholar?cites=2243830506588578267&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Mostafa Elhoushi, Akshat Shrivastava, Diana Liskovich, Basil Hosmer, Bram Wasti, Liangzhen Lai, Anas Mahmoud, Bilge Acun, Saurabh Agarwal, Ahmed Roman* · ([LayerSkip](https://github.com/facebookresearch/LayerSkip) - facebookresearch) ![Star](https://img.shields.io/github/stars/facebookresearch/LayerSkip.svg?style=social&label=Star)
 - **TPI-LLM: Serving 70B-scale LLMs Efficiently on Low-resource Edge Devices**, `arXiv, 2410.00531`, [arxiv](http://arxiv.org/abs/2410.00531v1), [pdf](http://arxiv.org/pdf/2410.00531v1.pdf), cication: [**-1**](None)
 
 	 *Zonghang Li, Wenjiao Feng, Mohsen Guizani, Hongfang Yu* · ([TPI-LLM](https://github.com/Lizonghang/TPI-LLM) - Lizonghang) ![Star](https://img.shields.io/github/stars/Lizonghang/TPI-LLM.svg?style=social&label=Star)
@@ -945,6 +951,7 @@
 	 *Port of Facebook's LLaMA model in C/C++* · ([ggml](http://ggml.ai/)) · ([llama.cpp](https://github.com/ggerganov/llama.cpp/discussions/205) - ggerganov) ![Star](https://img.shields.io/github/stars/ggerganov/llama.cpp.svg?style=social&label=Star)
 
 ### Other
+- [Faster Assisted Generation with Dynamic Speculation](https://huggingface.co/blog/dynamic_speculation_lookahead)
 - [Cerebras This is instant A](https://inference.cerebras.ai/)
 - [Faster ternary inference is possible : r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/1egg8qx/faster_ternary_inference_is_possible/)
 - [Benchmarking Text Generation Inference](https://huggingface.co/blog/tgi-benchmarking)
@@ -1010,6 +1017,7 @@
 	 *Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-05-04)) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-06-05-2))
 
 ## Toolkits
+- [**xFasterTransformer**](https://github.com/intel/xFasterTransformer?tab=readme-ov-file#web-demo) - intel ![Star](https://img.shields.io/github/stars/intel/xFasterTransformer.svg?style=social&label=Star)
 - [**flash-linear-attention**](https://github.com/sustcsonglin/flash-linear-attention) - sustcsonglin ![Star](https://img.shields.io/github/stars/sustcsonglin/flash-linear-attention.svg?style=social&label=Star)
 
 	 *Efficient implementations of state-of-the-art linear attention models in Pytorch and Triton*

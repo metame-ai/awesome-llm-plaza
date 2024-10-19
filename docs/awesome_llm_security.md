@@ -78,6 +78,10 @@
 	 *Stephen Casper, Jason Lin, Joe Kwon, Gatlen Culp, Dylan Hadfield-Menell*
 
 ## Papers
+- **AutoDAN-Turbo: A Lifelong Agent for Strategy Self-Exploration to
+  Jailbreak LLMs**, `arXiv, 2410.05295`, [arxiv](http://arxiv.org/abs/2410.05295v2), [pdf](http://arxiv.org/pdf/2410.05295v2.pdf), cication: [**-1**](None)
+
+	 *Xiaogeng Liu, Peiran Li, Edward Suh, Yevgeniy Vorobeychik, Zhuoqing Mao, Somesh Jha, Patrick McDaniel, Huan Sun, Bo Li, Chaowei Xiao* · ([autodans.github](https://autodans.github.io/AutoDAN-Turbo/)) · ([AutoDAN-Turbo](https://github.com/SaFoLab-WISC/AutoDAN-Turbo) - SaFoLab-WISC) ![Star](https://img.shields.io/github/stars/SaFoLab-WISC/AutoDAN-Turbo.svg?style=social&label=Star)
 - **Backtracking Improves Generation Safety**, `arXiv, 2409.14586`, [arxiv](http://arxiv.org/abs/2409.14586v1), [pdf](http://arxiv.org/pdf/2409.14586v1.pdf), cication: [**-1**](None)
 
 	 *Yiming Zhang, Jianfeng Chi, Hailey Nguyen, Kartikeya Upasani, Daniel M. Bikel, Jason Weston, Eric Michael Smith*
