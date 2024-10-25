@@ -13,7 +13,10 @@
 
 ## World Model
 
-- [Paper page - Web Agents with World Models: Learning and Leveraging Environment  Dynamics in Web Navigation](https://huggingface.co/papers/2410.13232)
+- **Web Agents with World Models: Learning and Leveraging Environment
+  Dynamics in Web Navigation**, `arXiv, 2410.13232`, [arxiv](http://arxiv.org/abs/2410.13232v1), [pdf](http://arxiv.org/pdf/2410.13232v1.pdf), cication: [**-1**](None)
+
+	 *Hyungjoo Chae, Namyoung Kim, Kai Tzu-iunn Ong, ..., Dongha Lee, Jinyoung Yeo*
 
 ## AGI Insights
 
@@ -23,5 +26,4 @@
 - [It's Not About Scale, It's About Abstraction](https://www.youtube.com/watch?v=s7_NlkBwdj8)
 
 ## Misc
-
 

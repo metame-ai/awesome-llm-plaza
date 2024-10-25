@@ -35,14 +35,20 @@
 
 ## Chatbot
 
-- [Paper page - LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive  Memory](https://huggingface.co/papers/2410.10813)
+- **LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive
+  Memory**, `arXiv, 2410.10813`, [arxiv](http://arxiv.org/abs/2410.10813v1), [pdf](http://arxiv.org/pdf/2410.10813v1.pdf), cication: [**-1**](None)
+
+	 *Di Wu, Hongwei Wang, Wenhao Yu, ..., Kai-Wei Chang, Dong Yu*
 
 ## Writing
 
 
 ## Medical
 
-- [Paper page - Efficiently Democratizing Medical LLMs for 50 Languages via a Mixture of  Language Family Experts](https://huggingface.co/papers/2410.10626)
+- **Efficiently Democratizing Medical LLMs for 50 Languages via a Mixture of
+  Language Family Experts**, `arXiv, 2410.10626`, [arxiv](http://arxiv.org/abs/2410.10626v1), [pdf](http://arxiv.org/pdf/2410.10626v1.pdf), cication: [**-1**](None)
+
+	 *Guorui Zheng, Xidong Wang, Juhao Liang, ..., Yuping Zheng, Benyou Wang*
 
 ## Auto Drive
 
@@ -77,7 +83,7 @@
 
 ## Projects
 
-- [PocketPal AI is a pocket-sized AI assistant powered by small language models (SLMs) that run directly on your phone.](https://github.com/a-ghorbani/pocketpal-ai)
+- [**pocketpal-ai**](https://github.com/a-ghorbani/pocketpal-ai) - a-ghorbani ![Star](https://img.shields.io/github/stars/a-ghorbani/pocketpal-ai.svg?style=social&label=Star)
 
 ## LLM Applications
 
@@ -86,5 +92,4 @@
 
 
 ## Misc
-
 

@@ -13,7 +13,10 @@
 
 ## Long Context
 
-- [Paper page - LLMtimesMapReduce: Simplified Long-Sequence Processing using Large  Language Models](https://huggingface.co/papers/2410.09342)
+- **LLM$\times$MapReduce: Simplified Long-Sequence Processing using Large
+  Language Models**, `arXiv, 2410.09342`, [arxiv](http://arxiv.org/abs/2410.09342v1), [pdf](http://arxiv.org/pdf/2410.09342v1.pdf), cication: [**-1**](None)
+
+	 *Zihan Zhou, Chong Li, Xinyi Chen, ..., Zhiyuan Liu, Maosong Sun*
 
 ## Evaluation
 
@@ -22,5 +25,4 @@
 
 
 ## Misc
-
 

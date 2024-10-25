@@ -26,9 +26,13 @@
 
 ## Video
 
-- [Paper page - VidEgoThink: Assessing Egocentric Video Understanding Capabilities for  Embodied AI](https://huggingface.co/papers/2410.11623)
-- [Paper page - OMCAT: Omni Context Aware Transformer](https://huggingface.co/papers/2410.12109)
-   - [om-cat.github.io](https://om-cat.github.io/)
+- **VidEgoThink: Assessing Egocentric Video Understanding Capabilities for
+  Embodied AI**, `arXiv, 2410.11623`, [arxiv](http://arxiv.org/abs/2410.11623v1), [pdf](http://arxiv.org/pdf/2410.11623v1.pdf), cication: [**-1**](None)
+
+	 *Sijie Cheng, Kechen Fang, Yangyang Yu, ..., Lei Han, Yang Liu*
+- **OMCAT: Omni Context Aware Transformer**, `arXiv, 2410.12109`, [arxiv](http://arxiv.org/abs/2410.12109v1), [pdf](http://arxiv.org/pdf/2410.12109v1.pdf), cication: [**-1**](None)
+
+	 *Arushi Goel, Karan Sapra, Matthieu Le, ..., Andrew Tao, Bryan Catanzaro* · ([om-cat.github](https://om-cat.github.io/))
 
 ## Encoder
 
@@ -38,38 +42,57 @@
 
 ## Evaluation
 
-- [Paper page - MMIE: Massive Multimodal Interleaved Comprehension Benchmark for Large  Vision-Language Models](https://huggingface.co/papers/2410.10139)
-   - [mmie-bench.github.io](https://mmie-bench.github.io/)
-   - [github.com](https://github.com/Lillianwei-h/MMIE)
-   - [huggingface.co](https://huggingface.co/MMIE/MMIE-Score)
-- [Paper page - MEGA-Bench: Scaling Multimodal Evaluation to over 500 Real-World Tasks](https://huggingface.co/papers/2410.10563)
-   - [tiger-ai-lab.github.io](https://tiger-ai-lab.github.io/MEGA-Bench/)
-- [Paper page - LiveXiv -- A Multi-Modal Live Benchmark Based on Arxiv Papers Content](https://huggingface.co/papers/2410.10783)
-- [Paper page - TemporalBench: Benchmarking Fine-grained Temporal Understanding for  Multimodal Video Models](https://huggingface.co/papers/2410.10818)
-- [Paper page - NaturalBench: Evaluating Vision-Language Models on Natural Adversarial  Samples](https://huggingface.co/papers/2410.14669)
-   - [arxiv.org](https://arxiv.org/abs/2410.14669)
-   - [huggingface.co](https://huggingface.co/datasets/BaiqiL/NaturalBench)
-   - [linzhiqiu.github.io](https://linzhiqiu.github.io/papers/naturalbench/)
-- [Paper page - WorldCuisines: A Massive-Scale Benchmark for Multilingual and  Multicultural Visual Question Answering on Global Cuisines](https://huggingface.co/papers/2410.12705)
-- [Paper page - HumanEval-V: Evaluating Visual Understanding and Reasoning Abilities of  Large Multimodal Models Through Coding Tasks](https://huggingface.co/papers/2410.12381)
+- **MMIE: Massive Multimodal Interleaved Comprehension Benchmark for Large
+  Vision-Language Models**, `arXiv, 2410.10139`, [arxiv](http://arxiv.org/abs/2410.10139v1), [pdf](http://arxiv.org/pdf/2410.10139v1.pdf), cication: [**-1**](None)
+
+	 *Peng Xia, Siwei Han, Shi Qiu, ..., Lijuan Wang, Huaxiu Yao* · ([mmie-bench.github](https://mmie-bench.github.io/)) · ([MMIE](https://github.com/Lillianwei-h/MMIE) - Lillianwei-h) ![Star](https://img.shields.io/github/stars/Lillianwei-h/MMIE.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/MMIE/MMIE-Score))
+- **MEGA-Bench: Scaling Multimodal Evaluation to over 500 Real-World Tasks**, `arXiv, 2410.10563`, [arxiv](http://arxiv.org/abs/2410.10563v1), [pdf](http://arxiv.org/pdf/2410.10563v1.pdf), cication: [**-1**](None)
+
+	 *Jiacheng Chen, Tianhao Liang, Sherman Siu, ..., Xiang Yue, Wenhu Chen* · ([tiger-ai-lab.github](https://tiger-ai-lab.github.io/MEGA-Bench/))
+- **LiveXiv -- A Multi-Modal Live Benchmark Based on Arxiv Papers Content**, `arXiv, 2410.10783`, [arxiv](http://arxiv.org/abs/2410.10783v2), [pdf](http://arxiv.org/pdf/2410.10783v2.pdf), cication: [**-1**](None)
+
+	 *Nimrod Shabtay, Felipe Maia Polo, Sivan Doveh, ..., Leonid Karlinsky, Raja Giryes*
+- **TemporalBench: Benchmarking Fine-grained Temporal Understanding for
+  Multimodal Video Models**, `arXiv, 2410.10818`, [arxiv](http://arxiv.org/abs/2410.10818v2), [pdf](http://arxiv.org/pdf/2410.10818v2.pdf), cication: [**-1**](None)
+
+	 *Mu Cai, Reuben Tan, Jianrui Zhang, ..., Yong Jae Lee, Jianwei Yang*
+- **NaturalBench: Evaluating Vision-Language Models on Natural Adversarial
+  Samples**, `arXiv, 2410.14669`, [arxiv](http://arxiv.org/abs/2410.14669v2), [pdf](http://arxiv.org/pdf/2410.14669v2.pdf), cication: [**-1**](None)
+
+	 *Baiqi Li, Zhiqiu Lin, Wenxuan Peng, ..., Graham Neubig, Deva Ramanan* · ([arxiv](https://arxiv.org/abs/2410.14669)) · ([huggingface](https://huggingface.co/datasets/BaiqiL/NaturalBench)) · ([linzhiqiu.github](https://linzhiqiu.github.io/papers/naturalbench/))
+- **WorldCuisines: A Massive-Scale Benchmark for Multilingual and
+  Multicultural Visual Question Answering on Global Cuisines**, `arXiv, 2410.12705`, [arxiv](http://arxiv.org/abs/2410.12705v1), [pdf](http://arxiv.org/pdf/2410.12705v1.pdf), cication: [**-1**](None)
+
+	 *Genta Indra Winata, Frederikus Hudi, Patrick Amadeus Irawan, ..., Alice Oh, Chong-Wah Ngo*
+- **HumanEval-V: Evaluating Visual Understanding and Reasoning Abilities of
+  Large Multimodal Models Through Coding Tasks**, `arXiv, 2410.12381`, [arxiv](http://arxiv.org/abs/2410.12381v2), [pdf](http://arxiv.org/pdf/2410.12381v2.pdf), cication: [**-1**](None)
+
+	 *Fengji Zhang, Linquan Wu, Huiyu Bai, ..., Bei Chen, Jacky Keung*
 
 ## Efficient
 
 
 ## Generation
 
-- [Paper page - Janus: Decoupling Visual Encoding for Unified Multimodal Understanding  and Generation](https://huggingface.co/papers/2410.13848)
-- [Paper page - PUMA: Empowering Unified MLLM with Multi-granular Visual Generation](https://huggingface.co/papers/2410.13861)
+- **Janus: Decoupling Visual Encoding for Unified Multimodal Understanding
+  and Generation**, `arXiv, 2410.13848`, [arxiv](http://arxiv.org/abs/2410.13848v1), [pdf](http://arxiv.org/pdf/2410.13848v1.pdf), cication: [**-1**](None)
+
+	 *Chengyue Wu, Xiaokang Chen, Zhiyu Wu, ..., Chong Ruan, Ping Luo*
+- **PUMA: Empowering Unified MLLM with Multi-granular Visual Generation**, `arXiv, 2410.13861`, [arxiv](http://arxiv.org/abs/2410.13861v2), [pdf](http://arxiv.org/pdf/2410.13861v2.pdf), cication: [**-1**](None)
+
+	 *Rongyao Fang, Chengqi Duan, Kun Wang, ..., Hongsheng Li, Xihui Liu*
 
 ## Dataset
 
-- [Paper page - Harnessing Webpage UIs for Text-Rich Visual Understanding](https://huggingface.co/papers/2410.13824)
-- [Paper page - LVD-2M: A Long-take Video Dataset with Temporally Dense Captions](https://huggingface.co/papers/2410.10816)
-   - [silentview.github.io](https://silentview.github.io/LVD-2M/)
+- **Harnessing Webpage UIs for Text-Rich Visual Understanding**, `arXiv, 2410.13824`, [arxiv](http://arxiv.org/abs/2410.13824v2), [pdf](http://arxiv.org/pdf/2410.13824v2.pdf), cication: [**-1**](None)
+
+	 *Junpeng Liu, Tianyue Ou, Yifan Song, ..., Graham Neubig, Xiang Yue*
+- **LVD-2M: A Long-take Video Dataset with Temporally Dense Captions**, `arXiv, 2410.10816`, [arxiv](http://arxiv.org/abs/2410.10816v1), [pdf](http://arxiv.org/pdf/2410.10816v1.pdf), cication: [**-1**](None)
+
+	 *Tianwei Xiong, Yuqing Wang, Daquan Zhou, ..., Jiashi Feng, Xihui Liu* · ([silentview.github](https://silentview.github.io/LVD-2M/))
 
 ## Products
 
 
 ## Misc
-
 

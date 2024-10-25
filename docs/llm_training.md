@@ -22,11 +22,16 @@
 
 ## Pretraining
 
-- [Paper page - Pre-training Distillation for Large Language Models: A Design Space  Exploration](https://huggingface.co/papers/2410.16215)
+- **Pre-training Distillation for Large Language Models: A Design Space
+  Exploration**, `arXiv, 2410.16215`, [arxiv](http://arxiv.org/abs/2410.16215v1), [pdf](http://arxiv.org/pdf/2410.16215v1.pdf), cication: [**-1**](None)
+
+	 *Hao Peng, Xin Lv, Yushi Bai, ..., Lei Hou, Juanzi Li*
 
 ## Finetuning
 
-- [Paper page - SemiEvol: Semi-supervised Fine-tuning for LLM Adaptation](https://huggingface.co/papers/2410.14745)
+- **SemiEvol: Semi-supervised Fine-tuning for LLM Adaptation**, `arXiv, 2410.14745`, [arxiv](http://arxiv.org/abs/2410.14745v1), [pdf](http://arxiv.org/pdf/2410.14745v1.pdf), cication: [**-1**](None)
+
+	 *Junyu Luo, Xiao Luo, Xiusi Chen, ..., Wei Ju, Ming Zhang*
 
 ## Optimization
 
@@ -39,8 +44,9 @@
 
 ## Merge
 
-- [Paper page - Exploring Model Kinship for Merging Large Language Models](https://huggingface.co/papers/2410.12613)
-   - [github.com](https://github.com/zjunlp/ModelKinship)
+- **Exploring Model Kinship for Merging Large Language Models**, `arXiv, 2410.12613`, [arxiv](http://arxiv.org/abs/2410.12613v1), [pdf](http://arxiv.org/pdf/2410.12613v1.pdf), cication: [**-1**](None)
+
+	 *Yedi Hu, Yunzhi Yao, Ningyu Zhang, ..., Shumin Deng, Huajun Chen* · ([ModelKinship](https://github.com/zjunlp/ModelKinship) - zjunlp) ![Star](https://img.shields.io/github/stars/zjunlp/ModelKinship.svg?style=social&label=Star)
 
 ## Online Learning
 
@@ -48,9 +54,11 @@
 ## Toolkits
 
 - [Fixed a bug which caused all training losses to diverge for large gradient accumulation sizes.](https://x.com/danielhanchen/status/1846235913443262891)
-- [Paper page - AutoTrain: No-code training for state-of-the-art models](https://huggingface.co/papers/2410.15735)
-   - [github.com](https://github.com/huggingface/autotrain-advanced)
+- **AutoTrain: No-code training for state-of-the-art models**, `arXiv, 2410.15735`, [arxiv](http://arxiv.org/abs/2410.15735v1), [pdf](http://arxiv.org/pdf/2410.15735v1.pdf), cication: [**-1**](None)
+
+	 *Abhishek Thakur*
+
+	 · ([autotrain-advanced](https://github.com/huggingface/autotrain-advanced) - huggingface) ![Star](https://img.shields.io/github/stars/huggingface/autotrain-advanced.svg?style=social&label=Star)
 
 ## Misc
-
 

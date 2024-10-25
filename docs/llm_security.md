@@ -19,9 +19,9 @@
 
 ## Projects
 
-- [Arch is an intelligent Layer 7 gateway designed to protect, observe, and personalize LLM applications](https://github.com/katanemo/arch)
-   - [x.com](https://x.com/salman_paracha/status/1848374304196719047)
+- [**arch**](https://github.com/katanemo/arch) - katanemo ![Star](https://img.shields.io/github/stars/katanemo/arch.svg?style=social&label=Star)
+
+	 · ([x](https://x.com/salman_paracha/status/1848374304196719047))
 
 ## Misc
-
 

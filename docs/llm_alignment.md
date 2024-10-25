@@ -12,12 +12,12 @@
 
 ## LLM Alignment
 
-- [Paper page - Baichuan Alignment Technical Report](https://huggingface.co/papers/2410.14940)
-   - [huggingface.co](https://huggingface.co/PKU-Baichuan-MLSystemLab/Llama3-PBM-Nova-70B)
+- **Baichuan Alignment Technical Report**, `arXiv, 2410.14940`, [arxiv](http://arxiv.org/abs/2410.14940v1), [pdf](http://arxiv.org/pdf/2410.14940v1.pdf), cication: [**-1**](None)
+
+	 *Mingan Lin, Fan Yang, Yanjun Shen, ..., Zenan Zhou, Weipeng Chen* · ([huggingface](https://huggingface.co/PKU-Baichuan-MLSystemLab/Llama3-PBM-Nova-70B))
 
 ## Projects
 
 
 ## Misc
-
 
