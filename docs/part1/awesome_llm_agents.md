@@ -1305,7 +1305,7 @@
 	 *Lu Zhang, Tiancheng Zhao, Heting Ying, Yibo Ma, Kyusong Lee* · ([OmAgent](https://github.com/om-ai-lab/OmAgent) - om-ai-lab) ![Star](https://img.shields.io/github/stars/om-ai-lab/OmAgent.svg?style=social&label=Star)
 
 ## Code Interpreter
-- [Fetching Title#6xkf](https://huggingface.co/meetkai/functionary-medium-v3.1)
+- [meetkai/functionary-medium-v3.1 · Hugging Face](https://huggingface.co/meetkai/functionary-medium-v3.1)
 - **APIGen: Automated Pipeline for Generating Verifiable and Diverse
   Function-Calling Datasets**, `arXiv, 2406.18518`, [arxiv](http://arxiv.org/abs/2406.18518v1), [pdf](http://arxiv.org/pdf/2406.18518v1.pdf), cication: [**-1**](None)
 
