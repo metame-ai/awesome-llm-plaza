@@ -28,6 +28,7 @@
 
 ## Tool GPT
 
+- [**outlines**](https://github.com/dottxt-ai/outlines) - dottxt-ai ![Star](https://img.shields.io/github/stars/dottxt-ai/outlines.svg?style=social&label=Star)
 - [cfahlgren1 / qwen-2.5-code-interpreter](https://huggingface.co/spaces/cfahlgren1/qwen-2.5-code-interpreter/tree/main)
 
 	 · ([x](https://x.com/reach_vb/status/1847675297270776136))
@@ -42,6 +43,10 @@
 
 ## UI Agent
 
+- [**computer_use_ootb**](https://github.com/showlab/computer_use_ootb) - showlab ![Star](https://img.shields.io/github/stars/showlab/computer_use_ootb.svg?style=social&label=Star)
+- [**OmniParser**](https://github.com/microsoft/OmniParser) - microsoft ![Star](https://img.shields.io/github/stars/microsoft/OmniParser.svg?style=social&label=Star)
+
+	 *Screen Parsing tool for Pure Vision Based GUI Agent* · ([arxiv](https://arxiv.org/abs/2408.00203))
 - [Developing a computer use model](https://www.anthropic.com/research/developing-computer-use)
 - **Web Agents with World Models: Learning and Leveraging Environment
   Dynamics in Web Navigation**, `arXiv, 2410.13232`, [arxiv](http://arxiv.org/abs/2410.13232v1), [pdf](http://arxiv.org/pdf/2410.13232v1.pdf), cication: [**-1**](None)
@@ -62,9 +67,12 @@
 
 ## Projects
 
+- [**taskgen**](https://github.com/simbianai/taskgen) - simbianai ![Star](https://img.shields.io/github/stars/simbianai/taskgen.svg?style=social&label=Star)
+
+	 · ([taskgen](https://github.com/tanchongmin/taskgen) - tanchongmin) ![Star](https://img.shields.io/github/stars/tanchongmin/taskgen.svg?style=social&label=Star)
+- [**bee-agent-framework**](https://github.com/i-am-bee/bee-agent-framework) - i-am-bee ![Star](https://img.shields.io/github/stars/i-am-bee/bee-agent-framework.svg?style=social&label=Star)
 
 ## Products
 
 
 ## Misc
-

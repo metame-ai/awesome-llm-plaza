@@ -8,9 +8,11 @@
   - [Self Correction](#self-correction)
   - [Knowledge](#knowledge)
   - [Context Learning](#context-learning)
+  - [Chain Of Thought](#chain-of-thought)
   - [Prompt](#prompt)
   - [Projects](#projects)
   - [Misc](#misc)
+  - [Planning](#planning)
 
 
 ## Survey
@@ -18,6 +20,9 @@
 
 ## Reasoning
 
+- [Paper page - Improve Vision Language Model Chain-of-thought Reasoning](https://huggingface.co/papers/2410.16198)
+
+	 · ([LLaVA-Reasoner-DPO](https://github.com/RifleZhang/LLaVA-Reasoner-DPO) - RifleZhang) ![Star](https://img.shields.io/github/stars/RifleZhang/LLaVA-Reasoner-DPO.svg?style=social&label=Star)
 
 ## Math Reasoning
 
@@ -28,6 +33,7 @@
 
 ## O1 Reasoning
 
+- [Dualformer: Controllable Fast and Slow Thinking by Learning with Randomized Reasoning Traces](https://arxiv.org/abs/2410.09918)
 - [**O1-Journey**](https://github.com/GAIR-NLP/O1-Journey) - GAIR-NLP ![Star](https://img.shields.io/github/stars/GAIR-NLP/O1-Journey.svg?style=social&label=Star)
 
 	 *A Strategic Progress Report*
@@ -42,6 +48,9 @@
 
 
 ## Context Learning
+
+
+## Chain Of Thought
 
 
 ## Prompt

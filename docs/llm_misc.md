@@ -11,21 +11,29 @@
   - [Editing](#editing)
   - [Calibration](#calibration)
   - [Tokenization](#tokenization)
+  - [Visualization](#visualization)
   - [Privacy](#privacy)
   - [Society](#society)
   - [Tutorials](#tutorials)
   - [Toolkits](#toolkits)
+  - [Misc Talks](#misc-talks)
   - [Misc](#misc)
 
 
 ## Survey
 
+- [Paper page - LLM-based Optimization of Compound AI Systems: A Survey](https://huggingface.co/papers/2410.16392)
+
+	 · ([LLM-based-Optimization-of-Compound-AI-Systems](https://github.com/linyuhongg/LLM-based-Optimization-of-Compound-AI-Systems) - linyuhongg) ![Star](https://img.shields.io/github/stars/linyuhongg/LLM-based-Optimization-of-Compound-AI-Systems.svg?style=social&label=Star)
 - **Ecosystem Graphs: The Social Footprint of Foundation Models**, `arXiv, 2303.15772`, [arxiv](http://arxiv.org/abs/2303.15772v1), [pdf](http://arxiv.org/pdf/2303.15772v1.pdf), cication: [**26**](https://scholar.google.com/scholar?cites=1512209463489040407&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Rishi Bommasani, Dilara Soylu, Thomas I. Liao, ..., Kathleen A. Creel, Percy Liang* · ([crfm.stanford](https://crfm.stanford.edu/ecosystem-graphs/))
 
 ## Interpretability
 
+- [Evaluating feature steering: A case study in mitigating social biases](https://www.anthropic.com/research/evaluating-feature-steering)
+
+	 · ([x](https://x.com/AnthropicAI/status/1849840131412296039))
 - [Introducing Transluce](https://transluce.org/introducing-transluce)
 - [ICML 2024 Tutorial: Physics of Language Models](https://www.youtube.com/watch?v=yBL7J0kgldU)
 - [Physics of Language Models](https://physics.allen-zhu.com/home)
@@ -43,6 +51,10 @@
 
 ## Detection
 
+- [Paper page - Robust Watermarking Using Generative Priors Against Image Editing: From  Benchmarking to Advances](https://huggingface.co/papers/2410.18775)
+
+	 · ([VINE](https://github.com/Shilin-LU/VINE) - Shilin-LU) ![Star](https://img.shields.io/github/stars/Shilin-LU/VINE.svg?style=social&label=Star)
+- [Introducing SynthID Text](https://huggingface.co/blog/synthid-text)
 - **A Watermark for Black-Box Language Models**, `arXiv, 2410.02099`, [arxiv](http://arxiv.org/abs/2410.02099v1), [pdf](http://arxiv.org/pdf/2410.02099v1.pdf), cication: [**-1**](None)
 
 	 *Dara Bahri, John Wieting, Dana Alon, ..., Donald Metzler*
@@ -56,12 +68,21 @@
 
 ## Editing
 
+- [Paper page - Can Knowledge Editing Really Correct Hallucinations?](https://huggingface.co/papers/2410.16251)
+
+	 · ([llm-editing.github](https://llm-editing.github.io/))
 
 ## Calibration
 
 
 ## Tokenization
 
+
+## Visualization
+
+- [**data-formulator**](https://github.com/microsoft/data-formulator) - microsoft ![Star](https://img.shields.io/github/stars/microsoft/data-formulator.svg?style=social&label=Star)
+
+	 *Create Rich Visualizations with AI*
 
 ## Privacy
 
@@ -73,6 +94,9 @@
 
 
 ## Toolkits
+
+
+## Misc Talks
 
 
 ## Misc

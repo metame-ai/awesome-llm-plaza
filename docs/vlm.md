@@ -11,21 +11,35 @@
   - [Efficient](#efficient)
   - [Generation](#generation)
   - [Dataset](#dataset)
+  - [Projects](#projects)
   - [Products](#products)
   - [Misc](#misc)
 
 
 ## Survey
 
+- [A Survey of Hallucination in Large Visual Language Models](https://arxiv.org/abs/2410.15359)
 
 ## Vision-Language Models
 
+- [Paper page - Improve Vision Language Model Chain-of-thought Reasoning](https://huggingface.co/papers/2410.16198)
+
+	 · ([LLaVA-Reasoner-DPO](https://github.com/RifleZhang/LLaVA-Reasoner-DPO) - RifleZhang) ![Star](https://img.shields.io/github/stars/RifleZhang/LLaVA-Reasoner-DPO.svg?style=social&label=Star)
+- [Paper page - Mitigating Object Hallucination via Concentric Causal Attention](https://huggingface.co/papers/2410.15926)
+
+	 · ([cca-llava](https://github.com/xing0047/cca-llava) - xing0047) ![Star](https://img.shields.io/github/stars/xing0047/cca-llava.svg?style=social&label=Star) · ([arxiv](https://arxiv.org/abs/2410.15926))
 
 ## Image
 
 
 ## Video
 
+- [Paper page - xGen-MM-Vid (BLIP-3-Video): You Only Need 32 Tokens to Represent a Video  Even in VLMs](https://huggingface.co/papers/2410.16267)
+
+	 · ([salesforceairesearch](https://www.salesforceairesearch.com/opensource/xGen-MM-Vid/index.html))
+- [Paper page - LongVU: Spatiotemporal Adaptive Compression for Long Video-Language  Understanding](https://huggingface.co/papers/2410.17434)
+
+	 · ([vision-cair.github](https://vision-cair.github.io/LongVU)) · ([LongVU](https://github.com/Vision-CAIR/LongVU) - Vision-CAIR) ![Star](https://img.shields.io/github/stars/Vision-CAIR/LongVU.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/collections/Vision-CAIR/longvu-67181d2debabfc1eb050c21d)) · ([huggingface](https://huggingface.co/spaces/Vision-CAIR/LongVU))
 - **VidEgoThink: Assessing Egocentric Video Understanding Capabilities for
   Embodied AI**, `arXiv, 2410.11623`, [arxiv](http://arxiv.org/abs/2410.11623v1), [pdf](http://arxiv.org/pdf/2410.11623v1.pdf), cication: [**-1**](None)
 
@@ -36,12 +50,19 @@
 
 ## Encoder
 
+- [Paper page - Breaking the Memory Barrier: Near Infinite Batch Size Scaling for  Contrastive Loss](https://huggingface.co/papers/2410.17243)
+
+	 · ([Inf-CLIP](https://github.com/DAMO-NLP-SG/Inf-CLIP) - DAMO-NLP-SG) ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Inf-CLIP.svg?style=social&label=Star) · ([arxiv](https://arxiv.org/pdf/2410.17243))
 
 ## Alignment
 
+- [Paper page - MIA-DPO: Multi-Image Augmented Direct Preference Optimization For Large  Vision-Language Models](https://huggingface.co/papers/2410.17637)
 
 ## Evaluation
 
+- [AVHBench: A Cross-Modal Hallucination Benchmark for Audio-Visual Large Language Models](https://arxiv.org/abs/2410.18325)
+
+	 · ([AVHBench](https://github.com/AVHBench/AVHBench) - AVHBench) ![Star](https://img.shields.io/github/stars/AVHBench/AVHBench.svg?style=social&label=Star)
 - **MMIE: Massive Multimodal Interleaved Comprehension Benchmark for Large
   Vision-Language Models**, `arXiv, 2410.10139`, [arxiv](http://arxiv.org/abs/2410.10139v1), [pdf](http://arxiv.org/pdf/2410.10139v1.pdf), cication: [**-1**](None)
 
@@ -71,6 +92,9 @@
 
 ## Efficient
 
+- [Paper page - PyramidDrop: Accelerating Your Large Vision-Language Models via Pyramid  Visual Redundancy Reduction](https://huggingface.co/papers/2410.17247)
+
+	 · ([PyramidDrop](https://github.com/Cooperx521/PyramidDrop) - Cooperx521) ![Star](https://img.shields.io/github/stars/Cooperx521/PyramidDrop.svg?style=social&label=Star)
 
 ## Generation
 
@@ -84,6 +108,9 @@
 
 ## Dataset
 
+- [LVD-2M: A Long-take Video Dataset with Temporally Dense Captions](https://arxiv.org/abs/2410.10816)
+
+	 · ([LVD-2M](https://github.com/SilentView/LVD-2M) - SilentView) ![Star](https://img.shields.io/github/stars/SilentView/LVD-2M.svg?style=social&label=Star)
 - **Harnessing Webpage UIs for Text-Rich Visual Understanding**, `arXiv, 2410.13824`, [arxiv](http://arxiv.org/abs/2410.13824v2), [pdf](http://arxiv.org/pdf/2410.13824v2.pdf), cication: [**-1**](None)
 
 	 *Junpeng Liu, Tianyue Ou, Yifan Song, ..., Graham Neubig, Xiang Yue*
@@ -91,8 +118,10 @@
 
 	 *Tianwei Xiong, Yuqing Wang, Daquan Zhou, ..., Jiashi Feng, Xihui Liu* · ([silentview.github](https://silentview.github.io/LVD-2M/))
 
+## Projects
+
+
 ## Products
 
 
 ## Misc
-

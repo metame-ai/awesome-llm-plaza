@@ -32,6 +32,7 @@
 
 ## Synthetic
 
+- [Paper page - Unleashing Reasoning Capability of LLMs via Scalable Question Synthesis  from Scratch](https://huggingface.co/papers/2410.18693)
 
 ## Reasoning
 
@@ -43,4 +44,3 @@
 
 
 ## Misc
-

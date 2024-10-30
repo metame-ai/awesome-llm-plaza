@@ -31,6 +31,9 @@
 
 ## Science
 
+- [**CoI-Agent**](https://github.com/DAMO-NLP-SG/CoI-Agent) - DAMO-NLP-SG ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/CoI-Agent.svg?style=social&label=Star)
+
+	 *Revolutionizing Research Via Novel Idea Development with LLM Agents*
 - [how an AI model can encode and predict physical behaviours.](https://x.com/adcock_brett/status/1848032235716215157)
 
 ## Chatbot
@@ -92,4 +95,3 @@
 
 
 ## Misc
-

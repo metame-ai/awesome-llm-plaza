@@ -46,6 +46,7 @@
 
 ## Transformer
 
+- [Differential Transformer 论文原理逐段讲解](https://www.bilibili.com/video/BV1Jq1PYPEYG/)
 - **SeerAttention: Learning Intrinsic Sparse Attention in Your LLMs**, `arXiv, 2410.13276`, [arxiv](http://arxiv.org/abs/2410.13276v2), [pdf](http://arxiv.org/pdf/2410.13276v2.pdf), cication: [**-1**](None)
 
 	 *Yizhao Gao, Zhichen Zeng, Dayou Du, ..., Fan Yang, Mao Yang*
@@ -55,6 +56,7 @@
 
 ## Hardware
 
+- [database of Machine Learning Hardware](https://x.com/EpochAIResearch/status/1849135255833158124)
 
 ## Tutorials
 

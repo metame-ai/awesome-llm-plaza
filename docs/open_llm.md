@@ -18,6 +18,7 @@
 
 ## English Models
 
+- [Steiner is a series of reasoning models trained on synthetic data using reinforcement learning.](https://huggingface.co/peakji/steiner-32b-preview)
 - [Granite 3.0 models](https://huggingface.co/collections/ibm-granite/granite-30-models-66fdb59bbb54785c3512114f)
 
 ## Chinese Models
@@ -33,4 +34,3 @@
 
 
 ## Misc
-
