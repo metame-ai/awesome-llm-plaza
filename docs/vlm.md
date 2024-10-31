@@ -18,14 +18,20 @@
 
 ## Survey
 
-- [A Survey of Hallucination in Large Visual Language Models](https://arxiv.org/abs/2410.15359)
+- **A Survey of Hallucination in Large Visual Language Models**, `arXiv, 2410.15359`, [arxiv](http://arxiv.org/abs/2410.15359v1), [pdf](http://arxiv.org/pdf/2410.15359v1.pdf), cication: [**-1**](None)
+
+	 *Wei Lan, Wenyi Chen, Qingfeng Chen, ..., Huiyu Zhou, Yi Pan*
 
 ## Vision-Language Models
 
-- [Paper page - Improve Vision Language Model Chain-of-thought Reasoning](https://huggingface.co/papers/2410.16198)
+- **Improve Vision Language Model Chain-of-thought Reasoning**, `arXiv, 2410.16198`, [arxiv](http://arxiv.org/abs/2410.16198v1), [pdf](http://arxiv.org/pdf/2410.16198v1.pdf), cication: [**-1**](None)
+
+	 *Ruohong Zhang, Bowen Zhang, Yanghao Li, ..., Ruoming Pang, Yiming Yang*
 
 	 · ([LLaVA-Reasoner-DPO](https://github.com/RifleZhang/LLaVA-Reasoner-DPO) - RifleZhang) ![Star](https://img.shields.io/github/stars/RifleZhang/LLaVA-Reasoner-DPO.svg?style=social&label=Star)
-- [Paper page - Mitigating Object Hallucination via Concentric Causal Attention](https://huggingface.co/papers/2410.15926)
+- **Mitigating Object Hallucination via Concentric Causal Attention**, `arXiv, 2410.15926`, [arxiv](http://arxiv.org/abs/2410.15926v1), [pdf](http://arxiv.org/pdf/2410.15926v1.pdf), cication: [**-1**](None)
+
+	 *Yun Xing, Yiheng Li, Ivan Laptev, ..., Shijian Lu*
 
 	 · ([cca-llava](https://github.com/xing0047/cca-llava) - xing0047) ![Star](https://img.shields.io/github/stars/xing0047/cca-llava.svg?style=social&label=Star) · ([arxiv](https://arxiv.org/abs/2410.15926))
 
@@ -34,10 +40,16 @@
 
 ## Video
 
-- [Paper page - xGen-MM-Vid (BLIP-3-Video): You Only Need 32 Tokens to Represent a Video  Even in VLMs](https://huggingface.co/papers/2410.16267)
+- **xGen-MM-Vid (BLIP-3-Video): You Only Need 32 Tokens to Represent a Video
+  Even in VLMs**, `arXiv, 2410.16267`, [arxiv](http://arxiv.org/abs/2410.16267v1), [pdf](http://arxiv.org/pdf/2410.16267v1.pdf), cication: [**-1**](None)
+
+	 *Michael S. Ryoo, Honglu Zhou, Shrikant Kendre, ..., Caiming Xiong, Juan Carlos Niebles*
 
 	 · ([salesforceairesearch](https://www.salesforceairesearch.com/opensource/xGen-MM-Vid/index.html))
-- [Paper page - LongVU: Spatiotemporal Adaptive Compression for Long Video-Language  Understanding](https://huggingface.co/papers/2410.17434)
+- **LongVU: Spatiotemporal Adaptive Compression for Long Video-Language
+  Understanding**, `arXiv, 2410.17434`, [arxiv](http://arxiv.org/abs/2410.17434v1), [pdf](http://arxiv.org/pdf/2410.17434v1.pdf), cication: [**-1**](None)
+
+	 *Xiaoqian Shen, Yunyang Xiong, Changsheng Zhao, ..., Mohamed Elhoseiny, Vikas Chandra*
 
 	 · ([vision-cair.github](https://vision-cair.github.io/LongVU)) · ([LongVU](https://github.com/Vision-CAIR/LongVU) - Vision-CAIR) ![Star](https://img.shields.io/github/stars/Vision-CAIR/LongVU.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/collections/Vision-CAIR/longvu-67181d2debabfc1eb050c21d)) · ([huggingface](https://huggingface.co/spaces/Vision-CAIR/LongVU))
 - **VidEgoThink: Assessing Egocentric Video Understanding Capabilities for
@@ -50,17 +62,29 @@
 
 ## Encoder
 
-- [Paper page - Breaking the Memory Barrier: Near Infinite Batch Size Scaling for  Contrastive Loss](https://huggingface.co/papers/2410.17243)
+- **LARP: Tokenizing Videos with a Learned Autoregressive Generative Prior**, `arXiv, 2410.21264`, [arxiv](http://arxiv.org/abs/2410.21264v1), [pdf](http://arxiv.org/pdf/2410.21264v1.pdf), cication: [**-1**](None)
+
+	 *Hanyu Wang, Saksham Suri, Yixuan Ren, ..., Hao Chen, Abhinav Shrivastava* · ([hywang66.github](https://hywang66.github.io/larp/))
+- **Breaking the Memory Barrier: Near Infinite Batch Size Scaling for
+  Contrastive Loss**, `arXiv, 2410.17243`, [arxiv](http://arxiv.org/abs/2410.17243v1), [pdf](http://arxiv.org/pdf/2410.17243v1.pdf), cication: [**-1**](None)
+
+	 *Zesen Cheng, Hang Zhang, Kehan Li, ..., Xin Li, Lidong Bing*
 
 	 · ([Inf-CLIP](https://github.com/DAMO-NLP-SG/Inf-CLIP) - DAMO-NLP-SG) ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Inf-CLIP.svg?style=social&label=Star) · ([arxiv](https://arxiv.org/pdf/2410.17243))
 
 ## Alignment
 
-- [Paper page - MIA-DPO: Multi-Image Augmented Direct Preference Optimization For Large  Vision-Language Models](https://huggingface.co/papers/2410.17637)
+- **MIA-DPO: Multi-Image Augmented Direct Preference Optimization For Large
+  Vision-Language Models**, `arXiv, 2410.17637`, [arxiv](http://arxiv.org/abs/2410.17637v1), [pdf](http://arxiv.org/pdf/2410.17637v1.pdf), cication: [**-1**](None)
+
+	 *Ziyu Liu, Yuhang Zang, Xiaoyi Dong, ..., Dahua Lin, Jiaqi Wang*
 
 ## Evaluation
 
-- [AVHBench: A Cross-Modal Hallucination Benchmark for Audio-Visual Large Language Models](https://arxiv.org/abs/2410.18325)
+- **AVHBench: A Cross-Modal Hallucination Benchmark for Audio-Visual Large
+  Language Models**, `arXiv, 2410.18325`, [arxiv](http://arxiv.org/abs/2410.18325v1), [pdf](http://arxiv.org/pdf/2410.18325v1.pdf), cication: [**-1**](None)
+
+	 *Kim Sung-Bin, Oh Hyun-Bin, JungMok Lee, ..., Joon Son Chung, Tae-Hyun Oh*
 
 	 · ([AVHBench](https://github.com/AVHBench/AVHBench) - AVHBench) ![Star](https://img.shields.io/github/stars/AVHBench/AVHBench.svg?style=social&label=Star)
 - **MMIE: Massive Multimodal Interleaved Comprehension Benchmark for Large
@@ -92,7 +116,10 @@
 
 ## Efficient
 
-- [Paper page - PyramidDrop: Accelerating Your Large Vision-Language Models via Pyramid  Visual Redundancy Reduction](https://huggingface.co/papers/2410.17247)
+- **PyramidDrop: Accelerating Your Large Vision-Language Models via Pyramid
+  Visual Redundancy Reduction**, `arXiv, 2410.17247`, [arxiv](http://arxiv.org/abs/2410.17247v1), [pdf](http://arxiv.org/pdf/2410.17247v1.pdf), cication: [**-1**](None)
+
+	 *Long Xing, Qidong Huang, Xiaoyi Dong, ..., Feng Wu, Dahua Lin*
 
 	 · ([PyramidDrop](https://github.com/Cooperx521/PyramidDrop) - Cooperx521) ![Star](https://img.shields.io/github/stars/Cooperx521/PyramidDrop.svg?style=social&label=Star)
 
@@ -108,7 +135,10 @@
 
 ## Dataset
 
-- [LVD-2M: A Long-take Video Dataset with Temporally Dense Captions](https://arxiv.org/abs/2410.10816)
+- [This dataset is our multimodal, fine-grained, ranking Google Shopping dataset, Marqo-GS-10M](https://huggingface.co/datasets/Marqo/marqo-GS-10M)
+- **LVD-2M: A Long-take Video Dataset with Temporally Dense Captions**, `arXiv, 2410.10816`, [arxiv](http://arxiv.org/abs/2410.10816v1), [pdf](http://arxiv.org/pdf/2410.10816v1.pdf), cication: [**-1**](None)
+
+	 *Tianwei Xiong, Yuqing Wang, Daquan Zhou, ..., Jiashi Feng, Xihui Liu*
 
 	 · ([LVD-2M](https://github.com/SilentView/LVD-2M) - SilentView) ![Star](https://img.shields.io/github/stars/SilentView/LVD-2M.svg?style=social&label=Star)
 - **Harnessing Webpage UIs for Text-Rich Visual Understanding**, `arXiv, 2410.13824`, [arxiv](http://arxiv.org/abs/2410.13824v2), [pdf](http://arxiv.org/pdf/2410.13824v2.pdf), cication: [**-1**](None)
@@ -125,3 +155,6 @@
 
 
 ## Misc
+
+- [Moondream: how does a tiny vision model slap so hard? — Vikhyat Korrapati](https://www.youtube.com/watch?v=T7sxvrJLJ14)
+- [Hannaneh Hajishirzi - OLMo: Accelerating the Science of Language Modeling (COLM)](https://www.youtube.com/watch?v=qMTzor0j418)

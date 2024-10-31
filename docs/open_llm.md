@@ -26,6 +26,7 @@
 
 ## Multilingual Models
 
+- [Multilinguality and LLMs Special Session](https://www.youtube.com/watch?v=aNPa00_-DbA)
 - **Pangea: A Fully Open Multilingual Multimodal LLM for 39 Languages**, `arXiv, 2410.16153`, [arxiv](http://arxiv.org/abs/2410.16153v1), [pdf](http://arxiv.org/pdf/2410.16153v1.pdf), cication: [**-1**](None)
 
 	 *Xiang Yue, Yueqi Song, Akari Asai, ..., Sathyanarayanan Ramamoorthy, Graham Neubig* · ([Pangea](https://github.com/neulab/Pangea) - neulab) ![Star](https://img.shields.io/github/stars/neulab/Pangea.svg?style=social&label=Star) · ([neulab.github](https://neulab.github.io/Pangea/)) · ([x](https://x.com/xiangyue96/status/1848753709787795679))

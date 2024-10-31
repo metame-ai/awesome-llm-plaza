@@ -49,11 +49,16 @@
 
 ## Projects
 
+- [**AutoRAG**](https://github.com/Marker-Inc-Korea/AutoRAG) - Marker-Inc-Korea ![Star](https://img.shields.io/github/stars/Marker-Inc-Korea/AutoRAG.svg?style=social&label=Star)
+- [**KAG**](https://github.com/OpenSPG/KAG) - OpenSPG ![Star](https://img.shields.io/github/stars/OpenSPG/KAG.svg?style=social&label=Star)
+
+	 *Knowledge Augmented Generation*
 
 ## Products
 
 
 ## Misc
 
+- [Expert Support case study: Bolstering a RAG app with LLM-as-a-Judge](https://huggingface.co/blog/digital-green-llm-judge)
 
 ## Vector Database

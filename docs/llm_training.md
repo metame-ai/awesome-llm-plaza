@@ -22,7 +22,9 @@
 
 ## Pretraining
 
-- [Paper page - MiniPLM: Knowledge Distillation for Pre-Training Language Models](https://huggingface.co/papers/2410.17215)
+- **MiniPLM: Knowledge Distillation for Pre-Training Language Models**, `arXiv, 2410.17215`, [arxiv](http://arxiv.org/abs/2410.17215v2), [pdf](http://arxiv.org/pdf/2410.17215v2.pdf), cication: [**-1**](None)
+
+	 *Yuxian Gu, Hao Zhou, Fandong Meng, ..., Jie Zhou, Minlie Huang*
 - **Pre-training Distillation for Large Language Models: A Design Space
   Exploration**, `arXiv, 2410.16215`, [arxiv](http://arxiv.org/abs/2410.16215v1), [pdf](http://arxiv.org/pdf/2410.16215v1.pdf), cication: [**-1**](None)
 
@@ -55,6 +57,9 @@
 
 ## Toolkits
 
+- [experimental async-TP](https://x.com/StasBekman/status/1850696223092850848)
+
+	 · ([t](https://t.co/1eA0rHU25a))
 - [torchtune: Easy and Accessible Finetuning in Native PyTorch - Evan Smothers, Meta](https://www.youtube.com/watch?v=43X9E25-Qg0)
 - [Fixing Gradient Accumulation](https://huggingface.co/blog/gradient_accumulation)
 - [Fixed a bug which caused all training losses to diverge for large gradient accumulation sizes.](https://x.com/danielhanchen/status/1846235913443262891)

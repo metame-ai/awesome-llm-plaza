@@ -12,6 +12,9 @@
 
 ## Omni
 
+- **GPT-4o System Card**, `arXiv, 2410.21276`, [arxiv](http://arxiv.org/abs/2410.21276v1), [pdf](http://arxiv.org/pdf/2410.21276v1.pdf), cication: [**-1**](None)
+
+	 *OpenAI, :, Aaron Hurst, ..., Yunxing Dai, Yury Malkov*
 - **Ichigo: Mixed-Modal Early-Fusion Realtime Voice Assistant**, `arXiv, 2410.15316`, [arxiv](http://arxiv.org/abs/2410.15316v1), [pdf](http://arxiv.org/pdf/2410.15316v1.pdf), cication: [**-1**](None)
 
 	 *Alan Dao, Dinh Bach Vu, Huy Hoang Ha* · ([ichigo.homebrew](https://ichigo.homebrew.ltd/)) · ([homebrew](https://homebrew.ltd/)) · ([ichigo](https://github.com/homebrewltd/ichigo) - homebrewltd) ![Star](https://img.shields.io/github/stars/homebrewltd/ichigo.svg?style=social&label=Star)

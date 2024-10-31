@@ -19,6 +19,9 @@
 
 ## Agents
 
+- **Agentic Information Retrieval**, `arXiv, 2410.09713`, [arxiv](http://arxiv.org/abs/2410.09713v2), [pdf](http://arxiv.org/pdf/2410.09713v2.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=17360183302542926961&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Weinan Zhang, Junwei Liao, Ning Li, ..., Kounianhua Du*
 
 ## LLM OS
 
@@ -43,6 +46,10 @@
 
 ## UI Agent
 
+- [Ferret-UI is the first UI-centric multimodal large language model (MLLM) designed for referring](https://huggingface.co/jadechoghari/Ferret-UI-Llama8b)
+- [**agent.exe**](https://github.com/corbt/agent.exe) - corbt ![Star](https://img.shields.io/github/stars/corbt/agent.exe.svg?style=social&label=Star)
+
+	 *the easiest way to let Claude's new computer use capabilities take over your computer!*
 - [**computer_use_ootb**](https://github.com/showlab/computer_use_ootb) - showlab ![Star](https://img.shields.io/github/stars/showlab/computer_use_ootb.svg?style=social&label=Star)
 - [**OmniParser**](https://github.com/microsoft/OmniParser) - microsoft ![Star](https://img.shields.io/github/stars/microsoft/OmniParser.svg?style=social&label=Star)
 

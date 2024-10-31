@@ -22,7 +22,9 @@
 
 ## Survey
 
-- [Paper page - LLM-based Optimization of Compound AI Systems: A Survey](https://huggingface.co/papers/2410.16392)
+- **LLM-based Optimization of Compound AI Systems: A Survey**, `arXiv, 2410.16392`, [arxiv](http://arxiv.org/abs/2410.16392v1), [pdf](http://arxiv.org/pdf/2410.16392v1.pdf), cication: [**-1**](None)
+
+	 *Matthieu Lin, Jenny Sheng, Andrew Zhao, ..., Gao Huang, Yong-Jin Liu*
 
 	 · ([LLM-based-Optimization-of-Compound-AI-Systems](https://github.com/linyuhongg/LLM-based-Optimization-of-Compound-AI-Systems) - linyuhongg) ![Star](https://img.shields.io/github/stars/linyuhongg/LLM-based-Optimization-of-Compound-AI-Systems.svg?style=social&label=Star)
 - **Ecosystem Graphs: The Social Footprint of Foundation Models**, `arXiv, 2303.15772`, [arxiv](http://arxiv.org/abs/2303.15772v1), [pdf](http://arxiv.org/pdf/2303.15772v1.pdf), cication: [**26**](https://scholar.google.com/scholar?cites=1512209463489040407&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
@@ -31,6 +33,9 @@
 
 ## Interpretability
 
+- **Large Language Models Reflect the Ideology of their Creators**, `arXiv, 2410.18417`, [arxiv](http://arxiv.org/abs/2410.18417v1), [pdf](http://arxiv.org/pdf/2410.18417v1.pdf), cication: [**-1**](None)
+
+	 *Maarten Buyl, Alexander Rogiers, Sander Noels, ..., Jefrey Lijffijt, Tijl De Bie*
 - [Evaluating feature steering: A case study in mitigating social biases](https://www.anthropic.com/research/evaluating-feature-steering)
 
 	 · ([x](https://x.com/AnthropicAI/status/1849840131412296039))
@@ -51,7 +56,10 @@
 
 ## Detection
 
-- [Paper page - Robust Watermarking Using Generative Priors Against Image Editing: From  Benchmarking to Advances](https://huggingface.co/papers/2410.18775)
+- **Robust Watermarking Using Generative Priors Against Image Editing: From
+  Benchmarking to Advances**, `arXiv, 2410.18775`, [arxiv](http://arxiv.org/abs/2410.18775v1), [pdf](http://arxiv.org/pdf/2410.18775v1.pdf), cication: [**-1**](None)
+
+	 *Shilin Lu, Zihan Zhou, Jiayou Lu, ..., Yuanzhi Zhu, Adams Wai-Kin Kong*
 
 	 · ([VINE](https://github.com/Shilin-LU/VINE) - Shilin-LU) ![Star](https://img.shields.io/github/stars/Shilin-LU/VINE.svg?style=social&label=Star)
 - [Introducing SynthID Text](https://huggingface.co/blog/synthid-text)
@@ -68,7 +76,9 @@
 
 ## Editing
 
-- [Paper page - Can Knowledge Editing Really Correct Hallucinations?](https://huggingface.co/papers/2410.16251)
+- **Can Knowledge Editing Really Correct Hallucinations?**, `arXiv, 2410.16251`, [arxiv](http://arxiv.org/abs/2410.16251v2), [pdf](http://arxiv.org/pdf/2410.16251v2.pdf), cication: [**-1**](None)
+
+	 *Baixiang Huang, Canyu Chen, Xiongxiao Xu, ..., Ali Payani, Kai Shu*
 
 	 · ([llm-editing.github](https://llm-editing.github.io/))
 

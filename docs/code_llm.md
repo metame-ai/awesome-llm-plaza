@@ -39,5 +39,6 @@
 
 ## Products
 
+- [Find out how we’re evolving GitHub and GitHub Copilot—and get access to the latest previews and GA releases.](https://github.blog/news-insights/product-news/universe-2024-previews-releases/)
 
 ## Misc

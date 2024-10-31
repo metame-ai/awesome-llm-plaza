@@ -40,6 +40,13 @@
 
 ## Inference
 
+- [Battle of Inference Engines: Llama.cpp vs MLC LLM vs vLLM](https://buttondown.com/ainews/archive/ainews-not-much-happened-this-weekend-2670/)
+
+	 · ([reddit](https://www.reddit.com/gallery/1gdccyr))
+- [Universal Assisted Generation: Faster Decoding with Any Assistant Model](https://huggingface.co/blog/universal_assisted_generation)
+- [Models continually pretrained using LayerSkip](https://huggingface.co/collections/facebook/layerskip-666b25c50c8ae90e1965727a)
+
+	 · ([arxiv](https://arxiv.org/abs/2404.16710))
 
 ## Mobile
 
@@ -70,4 +77,5 @@
 
 ## Misc
 
+- [How FlashAttention Accelerates the Generative AI Revolution](https://www.youtube.com/watch?v=gBMO1JZav44)
 - [k-mktr / gpu-poor-llm-arena](https://huggingface.co/spaces/k-mktr/gpu-poor-llm-arena/tree/main)

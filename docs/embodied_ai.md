@@ -11,9 +11,16 @@
 
 ## Survey
 
+- **Neural Fields in Robotics: A Survey**, `arXiv, 2410.20220`, [arxiv](http://arxiv.org/abs/2410.20220v1), [pdf](http://arxiv.org/pdf/2410.20220v1.pdf), cication: [**-1**](None)
+
+	 *Muhammad Zubair Irshad, Mauro Comi, Yen-Chen Lin, ..., Zsolt Kira, Jonathan Tremblay* · ([robonerf.github](https://robonerf.github.io/))
 
 ## Embodied AI
 
+- **VLMimic: Vision Language Models are Visual Imitation Learner for
+  Fine-grained Actions**, `arXiv, 2410.20927`, [arxiv](http://arxiv.org/abs/2410.20927v2), [pdf](http://arxiv.org/pdf/2410.20927v2.pdf), cication: [**-1**](None)
+
+	 *Guanyan Chen, Meiling Wang, Te Cui, ..., Yi Yang, Yufeng Yue*
 - **VidEgoThink: Assessing Egocentric Video Understanding Capabilities for
   Embodied AI**, `arXiv, 2410.11623`, [arxiv](http://arxiv.org/abs/2410.11623v1), [pdf](http://arxiv.org/pdf/2410.11623v1.pdf), cication: [**-1**](None)
 
@@ -29,6 +36,7 @@
 
 ## Humanoids
 
+- [EngineAI unveiled SE01, a humanoid robot achieving natural walking through advanced joint modules and neural networks.](https://x.com/adcock_brett/status/1850569193365676202)
 - [Introducing Torso, a bimanual android actuated with artificial muscles.](https://x.com/clonerobotics/status/1849181515022053845)
 - [CooHOI, a learning-based framework designed for the cooperative transportation of objects by multiple humanoid robots.](https://x.com/WinstonGu_/status/1848393460849799439)
 - **CooHOI: Learning Cooperative Human-Object Interaction with Manipulated
