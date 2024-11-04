@@ -93,7 +93,7 @@
 
 ## Hardware
 
-- [database of Machine Learning Hardware](https://x.com/EpochAIResearch/status/1849135255833158124) 
+- [database of Machine Learning Hardware](https://x.com/EpochAIResearch/status/1849135255833158124)  𝕏
 
 ## Tutorials
 

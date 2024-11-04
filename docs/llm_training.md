@@ -77,12 +77,12 @@
 - [**academic-pretraining**](https://github.com/apoorvkh/academic-pretraining) - apoorvkh ![Star](https://img.shields.io/github/stars/apoorvkh/academic-pretraining.svg?style=social&label=Star) 
 
 	 *Trade-offs when Pre-Training with Academic Resources* · ([arxiv](https://arxiv.org/abs/2410.23261))
-- [experimental async-TP](https://x.com/StasBekman/status/1850696223092850848) 
+- [experimental async-TP](https://x.com/StasBekman/status/1850696223092850848)  𝕏
 
 	 · ([t](https://t.co/1eA0rHU25a))
 - :clapper: [torchtune: Easy and Accessible Finetuning in Native PyTorch - Evan Smothers, Meta](https://www.youtube.com/watch?v=43X9E25-Qg0) 
 - [Fixing Gradient Accumulation](https://huggingface.co/blog/gradient_accumulation)  🤗 
-- [Fixed a bug which caused all training losses to diverge for large gradient accumulation sizes.](https://x.com/danielhanchen/status/1846235913443262891) 
+- [Fixed a bug which caused all training losses to diverge for large gradient accumulation sizes.](https://x.com/danielhanchen/status/1846235913443262891)  𝕏
 - **AutoTrain: No-code training for state-of-the-art models**, `arXiv, 2410.15735`, [arxiv](http://arxiv.org/abs/2410.15735v1), [pdf](http://arxiv.org/pdf/2410.15735v1.pdf), cication: [**-1**](None) 
 
 	 *Abhishek Thakur*

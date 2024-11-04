@@ -46,14 +46,14 @@
 
 ## Leaderboard
 
-- [TIGER-Lab / MMLU-Pro](https://huggingface.co/spaces/TIGER-Lab/MMLU-Pro/tree/main)  🤗
+- [TIGER-Lab / MMLU-Pro](https://huggingface.co/spaces/TIGER-Lab/MMLU-Pro/tree/main)  🤗 
 
 ## Projects
 
 - :star2: [**simple-evals**](https://github.com/openai/simple-evals) - openai ![Star](https://img.shields.io/github/stars/openai/simple-evals.svg?style=social&label=Star) 
 
 ## Misc
-## Misc
+
 - [Chatbot Arena Categories](https://lmarena.github.io/blog/2024/arena-category/) 
 
 	 · ([x](https://x.com/lmarena_ai/status/1852400728935150017))

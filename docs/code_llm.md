@@ -33,7 +33,7 @@
 - **Can Language Models Replace Programmers? REPOCOD Says 'Not Yet'**, `arXiv, 2410.21647`, [arxiv](http://arxiv.org/abs/2410.21647v2), [pdf](http://arxiv.org/pdf/2410.21647v2.pdf), cication: [**-1**](None) 
 
 	 *Shanchao Liang, Yiran Hu, Nan Jiang, ..., Lin Tan*
-- [cursor + claude is cool but not coming for our jobs either imo](https://x.com/abidlabs/status/1852215315071119869) 
+- [cursor + claude is cool but not coming for our jobs either imo](https://x.com/abidlabs/status/1852215315071119869)  𝕏
 - [Aider LLM Leaderboards](https://aider.chat/docs/leaderboards/) 
 - **SecCodePLT: A Unified Platform for Evaluating the Security of Code GenAI**, `arXiv, 2410.11096`, [arxiv](http://arxiv.org/abs/2410.11096v1), [pdf](http://arxiv.org/pdf/2410.11096v1.pdf), cication: [**-1**](None) 
 

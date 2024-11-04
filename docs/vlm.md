@@ -18,7 +18,7 @@
 
 ## Survey
 
-- [short survey of trends in VLMs since Llava 1.0 came out](https://x.com/mervenoyann/status/1851708916729798799) 
+- [short survey of trends in VLMs since Llava 1.0 came out](https://x.com/mervenoyann/status/1851708916729798799)  𝕏
 
 	 · ([huggingface](https://huggingface.co/collections/merve/mit-talk-31-10-papers-671f6a16e156f77739820c89)) · ([youtube](https://www.youtube.com/watch?v=_TlhKHTgWjY))
 - **Towards Unifying Understanding and Generation in the Era of Vision 

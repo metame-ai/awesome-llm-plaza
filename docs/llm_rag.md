@@ -65,7 +65,7 @@
 ## Projects
 
 - [**pgai**](https://github.com/timescale/pgai) - timescale ![Star](https://img.shields.io/github/stars/timescale/pgai.svg?style=social&label=Star) 
-- [Contextual RAG from Anthropic](https://x.com/togethercompute/status/1850939031301099919) 
+- [Contextual RAG from Anthropic](https://x.com/togethercompute/status/1850939031301099919)  𝕏
 
 	 · ([together-cookbook](https://github.com/togethercomputer/together-cookbook/blob/main/Open_Contextual_RAG.ipynb) - togethercomputer) ![Star](https://img.shields.io/github/stars/togethercomputer/together-cookbook.svg?style=social&label=Star)
 - [**AutoRAG**](https://github.com/Marker-Inc-Korea/AutoRAG) - Marker-Inc-Korea ![Star](https://img.shields.io/github/stars/Marker-Inc-Korea/AutoRAG.svg?style=social&label=Star) 

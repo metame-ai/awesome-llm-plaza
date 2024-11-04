@@ -84,8 +84,8 @@
 
 ## Prompt
 
-- [MacOS 15.1 Apple Intelligence Prompt Templates](https://x.com/reach_vb/status/1851264423450587302) 
-- [use RL to automatically improve our prompts](https://x.com/cwolferesearch/status/1850919005407662435) 
+- [MacOS 15.1 Apple Intelligence Prompt Templates](https://x.com/reach_vb/status/1851264423450587302)  𝕏
+- [use RL to automatically improve our prompts](https://x.com/cwolferesearch/status/1850919005407662435)  𝕏
 - **ProSA: Assessing and Understanding the Prompt Sensitivity of LLMs**, `arXiv, 2410.12405`, [arxiv](http://arxiv.org/abs/2410.12405v1), [pdf](http://arxiv.org/pdf/2410.12405v1.pdf), cication: [**-1**](None) 
 
 	 *Jingming Zhuo, Songyang Zhang, Xinyu Fang, ..., Dahua Lin, Kai Chen* · ([ProSA](https://github.com/open-compass/ProSA) - open-compass) ![Star](https://img.shields.io/github/stars/open-compass/ProSA.svg?style=social&label=Star)
