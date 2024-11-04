@@ -18,12 +18,22 @@
 
 ## Survey
 
+- [short survey of trends in VLMs since Llava 1.0 came out](https://x.com/mervenoyann/status/1851708916729798799)
+
+	 · ([huggingface](https://huggingface.co/collections/merve/mit-talk-31-10-papers-671f6a16e156f77739820c89)) · ([youtube](https://www.youtube.com/watch?v=_TlhKHTgWjY))
+- **Towards Unifying Understanding and Generation in the Era of Vision
+  Foundation Models: A Survey from the Autoregression Perspective**, `arXiv, 2410.22217`, [arxiv](http://arxiv.org/abs/2410.22217v2), [pdf](http://arxiv.org/pdf/2410.22217v2.pdf), cication: [**-1**](None)
+
+	 *Shenghao Xie, Wenqiang Zu, Mingyang Zhao, ..., Shanghang Zhang, Lei Ma*
 - **A Survey of Hallucination in Large Visual Language Models**, `arXiv, 2410.15359`, [arxiv](http://arxiv.org/abs/2410.15359v1), [pdf](http://arxiv.org/pdf/2410.15359v1.pdf), cication: [**-1**](None)
 
 	 *Wei Lan, Wenyi Chen, Qingfeng Chen, ..., Huiyu Zhou, Yi Pan*
 
 ## Vision-Language Models
 
+- :star2: 🤗 **CLEAR: Character Unlearning in Textual and Visual Modalities**, `arXiv, 2410.18057`, [arxiv](http://arxiv.org/abs/2410.18057v1), [pdf](http://arxiv.org/pdf/2410.18057v1.pdf), cication: [**-1**](None)
+
+	 *Alexey Dontsov, Dmitrii Korzh, Alexey Zhavoronkin, ..., Ivan Oseledets, Elena Tutubalina* · ([huggingface](https://huggingface.co/datasets/therem/CLEAR)) · ([multimodal_unlearning](https://github.com/somvy/multimodal_unlearning) - somvy) ![Star](https://img.shields.io/github/stars/somvy/multimodal_unlearning.svg?style=social&label=Star)
 - **Improve Vision Language Model Chain-of-thought Reasoning**, `arXiv, 2410.16198`, [arxiv](http://arxiv.org/abs/2410.16198v1), [pdf](http://arxiv.org/pdf/2410.16198v1.pdf), cication: [**-1**](None)
 
 	 *Ruohong Zhang, Bowen Zhang, Yanghao Li, ..., Ruoming Pang, Yiming Yang*
@@ -37,6 +47,9 @@
 
 ## Image
 
+- 🤗 **Teach Multimodal LLMs to Comprehend Electrocardiographic Images**, `arXiv, 2410.19008`, [arxiv](http://arxiv.org/abs/2410.19008v1), [pdf](http://arxiv.org/pdf/2410.19008v1.pdf), cication: [**-1**](None)
+
+	 *Ruoqi Liu, Yuelin Bai, Xiang Yue, ..., Ping Zhang*
 
 ## Video
 
@@ -81,6 +94,10 @@
 
 ## Evaluation
 
+- **Image2Struct: Benchmarking Structure Extraction for Vision-Language
+  Models**, `arXiv, 2410.22456`, [arxiv](http://arxiv.org/abs/2410.22456v1), [pdf](http://arxiv.org/pdf/2410.22456v1.pdf), cication: [**-1**](None)
+
+	 *Josselin Somerville Roberts, Tony Lee, Chi Heem Wong, ..., Yifan Mai, Percy Liang* · ([crfm.stanford](https://crfm.stanford.edu/helm/image2struct/v1.0.1/)) · ([x](https://x.com/JossSomerville/status/1852354431766909264))
 - **AVHBench: A Cross-Modal Hallucination Benchmark for Audio-Visual Large
   Language Models**, `arXiv, 2410.18325`, [arxiv](http://arxiv.org/abs/2410.18325v1), [pdf](http://arxiv.org/pdf/2410.18325v1.pdf), cication: [**-1**](None)
 
@@ -135,7 +152,11 @@
 
 ## Dataset
 
-- [This dataset is our multimodal, fine-grained, ranking Google Shopping dataset, Marqo-GS-10M](https://huggingface.co/datasets/Marqo/marqo-GS-10M)
+- 🤗 **Infinity-MM: Scaling Multimodal Performance with Large-Scale and
+  High-Quality Instruction Data**, `arXiv, 2410.18558`, [arxiv](http://arxiv.org/abs/2410.18558v1), [pdf](http://arxiv.org/pdf/2410.18558v1.pdf), cication: [**-1**](None)
+
+	 *Shuhao Gu, Jialing Zhang, Siyuan Zhou, ..., Fangxiang Feng, Guang Liu*
+- 🤗 [This dataset is our multimodal, fine-grained, ranking Google Shopping dataset, Marqo-GS-10M](https://huggingface.co/datasets/Marqo/marqo-GS-10M)
 - **LVD-2M: A Long-take Video Dataset with Temporally Dense Captions**, `arXiv, 2410.10816`, [arxiv](http://arxiv.org/abs/2410.10816v1), [pdf](http://arxiv.org/pdf/2410.10816v1.pdf), cication: [**-1**](None)
 
 	 *Tianwei Xiong, Yuqing Wang, Daquan Zhou, ..., Jiashi Feng, Xihui Liu*
@@ -156,5 +177,6 @@
 
 ## Misc
 
-- [Moondream: how does a tiny vision model slap so hard? — Vikhyat Korrapati](https://www.youtube.com/watch?v=T7sxvrJLJ14)
-- [Hannaneh Hajishirzi - OLMo: Accelerating the Science of Language Modeling (COLM)](https://www.youtube.com/watch?v=qMTzor0j418)
+- [Understanding Multimodal LLMs](https://magazine.sebastianraschka.com/p/understanding-multimodal-llms)
+- :clapper: [Moondream: how does a tiny vision model slap so hard? — Vikhyat Korrapati](https://www.youtube.com/watch?v=T7sxvrJLJ14)
+- :clapper: [Hannaneh Hajishirzi - OLMo: Accelerating the Science of Language Modeling (COLM)](https://www.youtube.com/watch?v=qMTzor0j418)

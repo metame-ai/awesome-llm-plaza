@@ -13,6 +13,15 @@
 
 ## LLM Evaluation
 
+- [SimpleQA that measures the ability for language models to answer short, fact-seeking questions.](https://openai.com/index/introducing-simpleqa/)
+
+	 · ([cdn.openai](https://cdn.openai.com/papers/simpleqa.pdf)) · ([simple-evals](https://github.com/openai/simple-evals/) - openai) ![Star](https://img.shields.io/github/stars/openai/simple-evals.svg?style=social&label=Star)
+- 🤗 **Are LLMs Better than Reported? Detecting Label Errors and Mitigating
+  Their Effect on Model Performance**, `arXiv, 2410.18889`, [arxiv](http://arxiv.org/abs/2410.18889v1), [pdf](http://arxiv.org/pdf/2410.18889v1.pdf), cication: [**-1**](None)
+
+	 *Omer Nahum, Nitay Calderon, Orgad Keller, ..., Idan Szpektor, Roi Reichart*
+- :clapper: [How to Construct Domain Specific LLM Evaluation Systems: Hamel Husain and Emil Sedgh](https://www.youtube.com/watch?v=eLXF0VojuSs)
+- :star2: [Creating a LLM-as-a-Judge That Drives Business Results](https://hamel.dev/blog/posts/llm-judge/)
 - **LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive
   Memory**, `arXiv, 2410.10813`, [arxiv](http://arxiv.org/abs/2410.10813v1), [pdf](http://arxiv.org/pdf/2410.10813v1.pdf), cication: [**-1**](None)
 
@@ -37,9 +46,14 @@
 
 ## Leaderboard
 
-- [TIGER-Lab / MMLU-Pro](https://huggingface.co/spaces/TIGER-Lab/MMLU-Pro/tree/main)
+- 🤗 [TIGER-Lab / MMLU-Pro](https://huggingface.co/spaces/TIGER-Lab/MMLU-Pro/tree/main)
 
 ## Projects
 
+- :star2: [**simple-evals**](https://github.com/openai/simple-evals) - openai ![Star](https://img.shields.io/github/stars/openai/simple-evals.svg?style=social&label=Star)
 
 ## Misc
+## Misc
+- [Chatbot Arena Categories](https://lmarena.github.io/blog/2024/arena-category/)
+
+	 · ([x](https://x.com/lmarena_ai/status/1852400728935150017))

@@ -17,6 +17,9 @@
 
 ## Hallucination
 
+- 🤗 **Distinguishing Ignorance from Error in LLM Hallucinations**, `arXiv, 2410.22071`, [arxiv](http://arxiv.org/abs/2410.22071v1), [pdf](http://arxiv.org/pdf/2410.22071v1.pdf), cication: [**-1**](None)
+
+	 *Adi Simhi, Jonathan Herzig, Idan Szpektor, ..., Yonatan Belinkov* · ([hallucination-mitigation](https://github.com/technion-cs-nlp/hallucination-mitigation) - technion-cs-nlp) ![Star](https://img.shields.io/github/stars/technion-cs-nlp/hallucination-mitigation.svg?style=social&label=Star) · ([x](https://x.com/AdiSimhi/status/1851650371615125563))
 - **Mitigating Object Hallucination via Concentric Causal Attention**, `arXiv, 2410.15926`, [arxiv](http://arxiv.org/abs/2410.15926v1), [pdf](http://arxiv.org/pdf/2410.15926v1.pdf), cication: [**-1**](None)
 
 	 *Yun Xing, Yiheng Li, Ivan Laptev, ..., Shijian Lu*
@@ -52,3 +55,5 @@
 - [**hallucination-leaderboard**](https://github.com/vectara/hallucination-leaderboard) - vectara ![Star](https://img.shields.io/github/stars/vectara/hallucination-leaderboard.svg?style=social&label=Star)
 
 ## Misc
+## Misc
+- [papers on LLM hallucinations](https://x.com/omarsar0/status/1852733583036682710)

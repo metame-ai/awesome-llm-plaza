@@ -5,6 +5,7 @@
   - [Education](#education)
   - [Science](#science)
   - [Chatbot](#chatbot)
+  - [Role Play](#role-play)
   - [Writing](#writing)
   - [Medical](#medical)
   - [Auto Drive](#auto-drive)
@@ -35,7 +36,11 @@
 
 ## Science
 
-- [Llama-3.1-Centaur-70B is a foundation model of cognition model that can predict and simulate human behavior in any behavioral experiment expressed in natural language.](https://huggingface.co/marcelbinz/Llama-3.1-Centaur-70B-adapter)
+- **Two Heads Are Better Than One: A Multi-Agent System Has the Potential to
+  Improve Scientific Idea Generation**, `arXiv, 2410.09403`, [arxiv](http://arxiv.org/abs/2410.09403v1), [pdf](http://arxiv.org/pdf/2410.09403v1.pdf), cication: [**-1**](None)
+
+	 *Haoyang Su, Renqi Chen, Shixiang Tang, ..., Wanli Ouyang, Nanqing Dong* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-11-04-5))
+- 🤗 [Llama-3.1-Centaur-70B is a foundation model of cognition model that can predict and simulate human behavior in any behavioral experiment expressed in natural language.](https://huggingface.co/marcelbinz/Llama-3.1-Centaur-70B-adapter)
 - [**CoI-Agent**](https://github.com/DAMO-NLP-SG/CoI-Agent) - DAMO-NLP-SG ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/CoI-Agent.svg?style=social&label=Star)
 
 	 *Revolutionizing Research Via Novel Idea Development with LLM Agents*
@@ -47,6 +52,12 @@
   Memory**, `arXiv, 2410.10813`, [arxiv](http://arxiv.org/abs/2410.10813v1), [pdf](http://arxiv.org/pdf/2410.10813v1.pdf), cication: [**-1**](None)
 
 	 *Di Wu, Hongwei Wang, Wenhao Yu, ..., Kai-Wei Chang, Dong Yu*
+
+## Role Play
+
+- [LLM Recommendation for Erotic Roleplay](https://buttondown.com/ainews/archive/ainews-github-copilot-strikes-back-3402/)
+
+	 · ([reddit](https://reddit.com//r/LocalLLaMA/comments/1ge2fzf/llm_recommendation_for_erotic_roleplay/))
 
 ## Writing
 
@@ -75,13 +86,19 @@
 
 ## Game
 
+- [Oasis: A Universe in a Transformer](https://oasis-model.github.io/)
+
+	 · ([open-oasis](https://github.com/etched-ai/open-oasis) - etched-ai) ![Star](https://img.shields.io/github/stars/etched-ai/open-oasis.svg?style=social&label=Star)
+- [AI IN VIDEO GAMES](https://diffusiondigest.beehiiv.com/p/adobe-firefly-video-ai-in-games-efficientvit-this-week-in-ai-art)
+
+	 · ([youtu](https://youtu.be/1SqF-2pH-eU)) · ([youtu](https://youtu.be/YWVry-P8ZVU))
 - **Unbounded: A Generative Infinite Game of Character Life Simulation**, `arXiv, 2410.18975`, [arxiv](http://arxiv.org/abs/2410.18975v2), [pdf](http://arxiv.org/pdf/2410.18975v2.pdf), cication: [**-1**](None)
 
 	 *Jialu Li, Yuanzhen Li, Neal Wadhwa, ..., Mohit Bansal, Nataniel Ruiz* · ([generative-infinite-game.github](https://generative-infinite-game.github.io/)) · ([x](https://x.com/JialuLi96/status/1849869554719260721)) · ([x](https://x.com/natanielruizg/status/1849807021131874583)) · ([mp.weixin.qq](https://mp.weixin.qq.com/s/7xBtIo2x_TbTMNzFxtDXiQ))
 
 ## UI
 
-- [gabrielchua / gradio-canvas](https://huggingface.co/spaces/gabrielchua/gradio-canvas/tree/main)
+- 🤗 [gabrielchua / gradio-canvas](https://huggingface.co/spaces/gabrielchua/gradio-canvas/tree/main)
 
 ## Vision
 
@@ -94,6 +111,10 @@
 
 ## Projects
 
+- [**cortex.cpp**](https://github.com/janhq/cortex.cpp) - janhq ![Star](https://img.shields.io/github/stars/janhq/cortex.cpp.svg?style=social&label=Star)
+
+	 · ([reddit](https://www.reddit.com/r/LocalLLaMA/comments/1gfiihi/cortex_local_ai_api_platform_a_journey_to_build_a/))
+- [**ServerlessLLM**](https://github.com/ServerlessLLM/ServerlessLLM) - ServerlessLLM ![Star](https://img.shields.io/github/stars/ServerlessLLM/ServerlessLLM.svg?style=social&label=Star)
 - [**llama-recipes**](https://github.com/meta-llama/llama-recipes/tree/main/recipes/quickstart/NotebookLlama) - meta-llama ![Star](https://img.shields.io/github/stars/meta-llama/llama-recipes.svg?style=social&label=Star)
 
 	 *An Open Source version of NotebookLM*
@@ -104,5 +125,6 @@
 
 ## Products
 
+- [Learn About](https://learning.google.com/experiments/learn-about/signup)
 
 ## Misc

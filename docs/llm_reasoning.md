@@ -20,6 +20,15 @@
 
 ## Reasoning
 
+- 🤗 **SocialGPT: Prompting LLMs for Social Relation Reasoning via Greedy
+  Segment Optimization**, `arXiv, 2410.21411`, [arxiv](http://arxiv.org/abs/2410.21411v1), [pdf](http://arxiv.org/pdf/2410.21411v1.pdf), cication: [**-1**](None)
+
+	 *Wanhua Li, Zibin Meng, Jiawei Zhou, ..., Chuang Gan, Hanspeter Pfister* · ([SocialGPT](https://github.com/Mengzibin/SocialGPT) - Mengzibin) ![Star](https://img.shields.io/github/stars/Mengzibin/SocialGPT.svg?style=social&label=Star)
+- 🤗 **A Pointer Network-based Approach for Joint Extraction and Detection of
+  Multi-Label Multi-Class Intents**, `arXiv, 2410.22476`, [arxiv](http://arxiv.org/abs/2410.22476v1), [pdf](http://arxiv.org/pdf/2410.22476v1.pdf), cication: [**-1**](None)
+
+	 *Ankan Mullick, Sombit Bose, Abhilash Nandy, ..., Gajula Sai Chaitanya, Pawan Goyal*
+- [Combining Induction and Transduction for Abstract Reasoning](https://openreview.net/forum?id=UmdotAAVDe)
 - **Improve Vision Language Model Chain-of-thought Reasoning**, `arXiv, 2410.16198`, [arxiv](http://arxiv.org/abs/2410.16198v1), [pdf](http://arxiv.org/pdf/2410.16198v1.pdf), cication: [**-1**](None)
 
 	 *Ruohong Zhang, Bowen Zhang, Yanghao Li, ..., Ruoming Pang, Yiming Yang*
@@ -28,6 +37,14 @@
 
 ## Math Reasoning
 
+- 🤗 **Flow-DPO: Improving LLM Mathematical Reasoning through Online
+  Multi-Agent Learning**, `arXiv, 2410.22304`, [arxiv](http://arxiv.org/abs/2410.22304v1), [pdf](http://arxiv.org/pdf/2410.22304v1.pdf), cication: [**-1**](None)
+
+	 *Yihe Deng, Paul Mineiro*
+- 🤗 **Arithmetic Without Algorithms: Language Models Solve Math With a Bag of
+  Heuristics**, `arXiv, 2410.21272`, [arxiv](http://arxiv.org/abs/2410.21272v1), [pdf](http://arxiv.org/pdf/2410.21272v1.pdf), cication: [**-1**](None)
+
+	 *Yaniv Nikankin, Anja Reusch, Aaron Mueller, ..., Yonatan Belinkov* · ([x](https://x.com/omarsar0/status/1851233281116946923))
 - **Omni-MATH: A Universal Olympiad Level Mathematic Benchmark For Large
   Language Models**, `arXiv, 2410.07985`, [arxiv](http://arxiv.org/abs/2410.07985v2), [pdf](http://arxiv.org/pdf/2410.07985v2.pdf), cication: [**-1**](None)
 
@@ -60,6 +77,10 @@
 
 ## Chain Of Thought
 
+- 🤗 **Mind Your Step (by Step): Chain-of-Thought can Reduce Performance on
+  Tasks where Thinking Makes Humans Worse**, `arXiv, 2410.21333`, [arxiv](http://arxiv.org/abs/2410.21333v1), [pdf](http://arxiv.org/pdf/2410.21333v1.pdf), cication: [**-1**](None)
+
+	 *Ryan Liu, Jiayi Geng, Addison J. Wu, ..., Tania Lombrozo, Thomas L. Griffiths*
 
 ## Prompt
 
@@ -71,7 +92,7 @@
 
 ## Projects
 
-- [steiner-preview  updated			3 days ago Reasoning models trained on synthetic data using reinforcement learning.](https://huggingface.co/collections/peakji/steiner-preview-6712c6987110ce932a44e9a6)
+- 🤗 [steiner-preview  updated			3 days ago Reasoning models trained on synthetic data using reinforcement learning.](https://huggingface.co/collections/peakji/steiner-preview-6712c6987110ce932a44e9a6)
 
 ## Misc
 

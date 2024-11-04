@@ -5,6 +5,7 @@
   - [RAG](#rag)
   - [Multi Modal](#multi-modal)
   - [Embedding](#embedding)
+  - [Evaluation](#evaluation)
   - [Database](#database)
   - [Projects](#projects)
   - [Products](#products)
@@ -17,6 +18,9 @@
 
 ## RAG
 
+- **In Defense of RAG in the Era of Long-Context Language Models**, `arXiv, 2409.01666`, [arxiv](http://arxiv.org/abs/2409.01666v1), [pdf](http://arxiv.org/pdf/2409.01666v1.pdf), cication: [**3**](https://scholar.google.com/scholar?cites=3261789221345650637&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Tan Yu, Anbang Xu, Rama Akkiraju* · ([zyphra](https://www.zyphra.com/post/reaching-1b-context-length-with-rag))
 - **Toward General Instruction-Following Alignment for Retrieval-Augmented
   Generation**, `arXiv, 2410.09584`, [arxiv](http://arxiv.org/abs/2410.09584v1), [pdf](http://arxiv.org/pdf/2410.09584v1.pdf), cication: [**-1**](None)
 
@@ -31,6 +35,10 @@
 
 ## Multi Modal
 
+- **Beyond Text: Optimizing RAG with Multimodal Inputs for Industrial
+  Applications**, `arXiv, 2410.21943`, [arxiv](http://arxiv.org/abs/2410.21943v1), [pdf](http://arxiv.org/pdf/2410.21943v1.pdf), cication: [**-1**](None)
+
+	 *Monica Riedler, Stefan Langer* · ([x](https://x.com/omarsar0/status/1851479149690642456))
 - **VisRAG: Vision-based Retrieval-augmented Generation on Multi-modality
   Documents**, `arXiv, 2410.10594`, [arxiv](http://arxiv.org/abs/2410.10594v1), [pdf](http://arxiv.org/pdf/2410.10594v1.pdf), cication: [**-1**](None)
 
@@ -44,11 +52,22 @@
 ## Embedding
 
 
+## Evaluation
+
+- 🤗 **CORAL: Benchmarking Multi-turn Conversational Retrieval-Augmentation
+  Generation**, `arXiv, 2410.23090`, [arxiv](http://arxiv.org/abs/2410.23090v1), [pdf](http://arxiv.org/pdf/2410.23090v1.pdf), cication: [**-1**](None)
+
+	 *Yiruo Cheng, Kelong Mao, Ziliang Zhao, ..., Ji-Rong Wen, Zhicheng Dou* · ([CORAL](https://github.com/Ariya12138/CORAL) - Ariya12138) ![Star](https://img.shields.io/github/stars/Ariya12138/CORAL.svg?style=social&label=Star)
+
 ## Database
 
 
 ## Projects
 
+- [**pgai**](https://github.com/timescale/pgai) - timescale ![Star](https://img.shields.io/github/stars/timescale/pgai.svg?style=social&label=Star)
+- [Contextual RAG from Anthropic](https://x.com/togethercompute/status/1850939031301099919)
+
+	 · ([together-cookbook](https://github.com/togethercomputer/together-cookbook/blob/main/Open_Contextual_RAG.ipynb) - togethercomputer) ![Star](https://img.shields.io/github/stars/togethercomputer/together-cookbook.svg?style=social&label=Star)
 - [**AutoRAG**](https://github.com/Marker-Inc-Korea/AutoRAG) - Marker-Inc-Korea ![Star](https://img.shields.io/github/stars/Marker-Inc-Korea/AutoRAG.svg?style=social&label=Star)
 - [**KAG**](https://github.com/OpenSPG/KAG) - OpenSPG ![Star](https://img.shields.io/github/stars/OpenSPG/KAG.svg?style=social&label=Star)
 
@@ -59,6 +78,6 @@
 
 ## Misc
 
-- [Expert Support case study: Bolstering a RAG app with LLM-as-a-Judge](https://huggingface.co/blog/digital-green-llm-judge)
+- 🤗 [Expert Support case study: Bolstering a RAG app with LLM-as-a-Judge](https://huggingface.co/blog/digital-green-llm-judge)
 
 ## Vector Database

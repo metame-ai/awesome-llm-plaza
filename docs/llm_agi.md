@@ -13,6 +13,9 @@
 
 ## World Model
 
+- [Oasis: A Universe in a Transformer](https://oasis-model.github.io/)
+
+	 · ([open-oasis](https://github.com/etched-ai/open-oasis) - etched-ai) ![Star](https://img.shields.io/github/stars/etched-ai/open-oasis.svg?style=social&label=Star)
 - **WorldSimBench: Towards Video Generation Models as World Simulators**, `arXiv, 2410.18072`, [arxiv](http://arxiv.org/abs/2410.18072v1), [pdf](http://arxiv.org/pdf/2410.18072v1.pdf), cication: [**-1**](None)
 
 	 *Yiran Qin, Zhelun Shi, Jiwen Yu, ..., Wanli Ouyang, Ruimao Zhang*
@@ -28,7 +31,7 @@
 
 ## Talks
 
-- [No Priors Ep. 80 | With Andrej Karpathy from OpenAI and Tesla](https://www.youtube.com/)
-- [It's Not About Scale, It's About Abstraction](https://www.youtube.com/watch?v=s7_NlkBwdj8)
+- :clapper: [No Priors Ep. 80 | With Andrej Karpathy from OpenAI and Tesla](https://www.youtube.com/)
+- :clapper: [It's Not About Scale, It's About Abstraction](https://www.youtube.com/watch?v=s7_NlkBwdj8)
 
 ## Misc
