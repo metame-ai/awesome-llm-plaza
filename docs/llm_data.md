@@ -24,17 +24,17 @@
   Structured Information Extraction**, `arXiv, 2410.21169`, [arxiv](http://arxiv.org/abs/2410.21169v2), [pdf](http://arxiv.org/pdf/2410.21169v2.pdf), cication: [**-1**](None)
 
 	 *Qintong Zhang, Victor Shea-Jay Huang, Bin Wang, ..., Conghui He, Wentao Zhang*
-- [Dolma is a dataset of 3 trillion tokens from a diverse mix of web content, academic publications, code, books, and encyclopedic materials.](https://huggingface.co/datasets/allenai/dolma)  🤗
+- [Dolma is a dataset of 3 trillion tokens from a diverse mix of web content, academic publications, code, books, and encyclopedic materials.](https://huggingface.co/datasets/allenai/dolma)  🤗 
 
 	 · ([arxiv](https://arxiv.org/abs/2402.00159))
-- [Arxiver consists of 63,357 arXiv papers converted to multi-markdown (.mmd) format.](https://huggingface.co/datasets/neuralwork/arxiver)  🤗
+- [Arxiver consists of 63,357 arXiv papers converted to multi-markdown (.mmd) format.](https://huggingface.co/datasets/neuralwork/arxiver)  🤗 
 - **Compute-Constrained Data Selection**, `arXiv, 2410.16208`, [arxiv](http://arxiv.org/abs/2410.16208v1), [pdf](http://arxiv.org/pdf/2410.16208v1.pdf), cication: [**-1**](None) 
 
 	 *Junjie Oscar Yin, Alexander M. Rush*
 
 ## Multi Modal
 
-- [PangeaIns is a 6M multilingual multicultural multimodal instruction tuning dataset spanning 39 languages.](https://huggingface.co/datasets/neulab/PangeaInstruct)  🤗
+- [PangeaIns is a 6M multilingual multicultural multimodal instruction tuning dataset spanning 39 languages.](https://huggingface.co/datasets/neulab/PangeaInstruct)  🤗 
 
 	 · ([Pangea](https://github.com/neulab/Pangea/tree/main) - neulab) ![Star](https://img.shields.io/github/stars/neulab/Pangea.svg?style=social&label=Star)
 

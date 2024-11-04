@@ -16,7 +16,7 @@
 - [SimpleQA that measures the ability for language models to answer short, fact-seeking questions.](https://openai.com/index/introducing-simpleqa/) 
 
 	 · ([cdn.openai](https://cdn.openai.com/papers/simpleqa.pdf)) · ([simple-evals](https://github.com/openai/simple-evals/) - openai) ![Star](https://img.shields.io/github/stars/openai/simple-evals.svg?style=social&label=Star)
-- 🤗 **Are LLMs Better than Reported? Detecting Label Errors and Mitigating 
+- **Are LLMs Better than Reported? Detecting Label Errors and Mitigating 
   Their Effect on Model Performance**, `arXiv, 2410.18889`, [arxiv](http://arxiv.org/abs/2410.18889v1), [pdf](http://arxiv.org/pdf/2410.18889v1.pdf), cication: [**-1**](None)
 
 	 *Omer Nahum, Nitay Calderon, Orgad Keller, ..., Idan Szpektor, Roi Reichart*
@@ -46,7 +46,7 @@
 
 ## Leaderboard
 
-- 🤗 [TIGER-Lab / MMLU-Pro](https://huggingface.co/spaces/TIGER-Lab/MMLU-Pro/tree/main) 
+- [TIGER-Lab / MMLU-Pro](https://huggingface.co/spaces/TIGER-Lab/MMLU-Pro/tree/main)  🤗
 
 ## Projects
 

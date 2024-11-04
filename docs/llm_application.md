@@ -40,7 +40,7 @@
   Improve Scientific Idea Generation**, `arXiv, 2410.09403`, [arxiv](http://arxiv.org/abs/2410.09403v1), [pdf](http://arxiv.org/pdf/2410.09403v1.pdf), cication: [**-1**](None)
 
 	 *Haoyang Su, Renqi Chen, Shixiang Tang, ..., Wanli Ouyang, Nanqing Dong* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-11-04-5))
-- [Llama-3.1-Centaur-70B is a foundation model of cognition model that can predict and simulate human behavior in any behavioral experiment expressed in natural language.](https://huggingface.co/marcelbinz/Llama-3.1-Centaur-70B-adapter)  🤗
+- [Llama-3.1-Centaur-70B is a foundation model of cognition model that can predict and simulate human behavior in any behavioral experiment expressed in natural language.](https://huggingface.co/marcelbinz/Llama-3.1-Centaur-70B-adapter)  🤗 
 - [**CoI-Agent**](https://github.com/DAMO-NLP-SG/CoI-Agent) - DAMO-NLP-SG ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/CoI-Agent.svg?style=social&label=Star) 
 
 	 *Revolutionizing Research Via Novel Idea Development with LLM Agents*
@@ -98,7 +98,7 @@
 
 ## UI
 
-- [gabrielchua / gradio-canvas](https://huggingface.co/spaces/gabrielchua/gradio-canvas/tree/main)  🤗
+- [gabrielchua / gradio-canvas](https://huggingface.co/spaces/gabrielchua/gradio-canvas/tree/main)  🤗 
 
 ## Vision
 

@@ -156,7 +156,7 @@
   High-Quality Instruction Data**, `arXiv, 2410.18558`, [arxiv](http://arxiv.org/abs/2410.18558v1), [pdf](http://arxiv.org/pdf/2410.18558v1.pdf), cication: [**-1**](None)
 
 	 *Shuhao Gu, Jialing Zhang, Siyuan Zhou, ..., Fangxiang Feng, Guang Liu*
-- [This dataset is our multimodal, fine-grained, ranking Google Shopping dataset, Marqo-GS-10M](https://huggingface.co/datasets/Marqo/marqo-GS-10M)  🤗
+- [This dataset is our multimodal, fine-grained, ranking Google Shopping dataset, Marqo-GS-10M](https://huggingface.co/datasets/Marqo/marqo-GS-10M)  🤗 
 - **LVD-2M: A Long-take Video Dataset with Temporally Dense Captions**, `arXiv, 2410.10816`, [arxiv](http://arxiv.org/abs/2410.10816v1), [pdf](http://arxiv.org/pdf/2410.10816v1.pdf), cication: [**-1**](None) 
 
 	 *Tianwei Xiong, Yuqing Wang, Daquan Zhou, ..., Jiashi Feng, Xihui Liu*

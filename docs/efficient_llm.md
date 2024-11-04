@@ -67,14 +67,14 @@
 - [Battle of Inference Engines: Llama.cpp vs MLC LLM vs vLLM](https://buttondown.com/ainews/archive/ainews-not-much-happened-this-weekend-2670/) 
 
 	 · ([reddit](https://www.reddit.com/gallery/1gdccyr))
-- [Universal Assisted Generation: Faster Decoding with Any Assistant Model](https://huggingface.co/blog/universal_assisted_generation)  🤗
-- [Models continually pretrained using LayerSkip](https://huggingface.co/collections/facebook/layerskip-666b25c50c8ae90e1965727a)  🤗
+- [Universal Assisted Generation: Faster Decoding with Any Assistant Model](https://huggingface.co/blog/universal_assisted_generation)  🤗 
+- [Models continually pretrained using LayerSkip](https://huggingface.co/collections/facebook/layerskip-666b25c50c8ae90e1965727a)  🤗 
 
 	 · ([arxiv](https://arxiv.org/abs/2404.16710))
 
 ## Small Language Models
 
-- [MobileLLM is an auto-regressive language model leveraging an optimized transformer architecture](https://huggingface.co/facebook/MobileLLM-125M)  🤗
+- [MobileLLM is an auto-regressive language model leveraging an optimized transformer architecture](https://huggingface.co/facebook/MobileLLM-125M)  🤗 
 
 	 · ([arxiv](https://arxiv.org/abs/2402.14905))
 
@@ -108,4 +108,4 @@
 ## Misc
 
 - :clapper: [How FlashAttention Accelerates the Generative AI Revolution](https://www.youtube.com/watch?v=gBMO1JZav44) 
-- [k-mktr / gpu-poor-llm-arena](https://huggingface.co/spaces/k-mktr/gpu-poor-llm-arena/tree/main)  🤗
+- [k-mktr / gpu-poor-llm-arena](https://huggingface.co/spaces/k-mktr/gpu-poor-llm-arena/tree/main)  🤗 

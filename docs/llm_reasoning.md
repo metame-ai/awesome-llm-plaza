@@ -92,7 +92,7 @@
 
 ## Projects
 
-- [steiner-preview  updated			3 days ago Reasoning models trained on synthetic data using reinforcement learning.](https://huggingface.co/collections/peakji/steiner-preview-6712c6987110ce932a44e9a6)  🤗
+- [steiner-preview  updated			3 days ago Reasoning models trained on synthetic data using reinforcement learning.](https://huggingface.co/collections/peakji/steiner-preview-6712c6987110ce932a44e9a6)  🤗 
 
 ## Misc
 

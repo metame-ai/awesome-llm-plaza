@@ -40,7 +40,7 @@
 ## Tool GPT
 
 - [**outlines**](https://github.com/dottxt-ai/outlines) - dottxt-ai ![Star](https://img.shields.io/github/stars/dottxt-ai/outlines.svg?style=social&label=Star) 
-- [cfahlgren1 / qwen-2.5-code-interpreter](https://huggingface.co/spaces/cfahlgren1/qwen-2.5-code-interpreter/tree/main)  🤗
+- [cfahlgren1 / qwen-2.5-code-interpreter](https://huggingface.co/spaces/cfahlgren1/qwen-2.5-code-interpreter/tree/main)  🤗 
 
 	 · ([x](https://x.com/reach_vb/status/1847675297270776136))
 - **MTU-Bench: A Multi-granularity Tool-Use Benchmark for Large Language 
@@ -68,7 +68,7 @@
   Exploration, Feedback and Optimization**, `arXiv, 2410.19609`, [arxiv](http://arxiv.org/abs/2410.19609v1), [pdf](http://arxiv.org/pdf/2410.19609v1.pdf), cication: [**-1**](None)
 
 	 *Hongliang He, Wenlin Yao, Kaixin Ma, ..., Zhenzhong Lan, Dong Yu*
-- [Ferret-UI is the first UI-centric multimodal large language model (MLLM) designed for referring](https://huggingface.co/jadechoghari/Ferret-UI-Llama8b)  🤗
+- [Ferret-UI is the first UI-centric multimodal large language model (MLLM) designed for referring](https://huggingface.co/jadechoghari/Ferret-UI-Llama8b)  🤗 
 - [**agent.exe**](https://github.com/corbt/agent.exe) - corbt ![Star](https://img.shields.io/github/stars/corbt/agent.exe.svg?style=social&label=Star) 
 
 	 *the easiest way to let Claude's new computer use capabilities take over your computer!*

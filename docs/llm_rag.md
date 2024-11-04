@@ -78,6 +78,6 @@
 
 ## Misc
 
-- [Expert Support case study: Bolstering a RAG app with LLM-as-a-Judge](https://huggingface.co/blog/digital-green-llm-judge)  🤗
+- [Expert Support case study: Bolstering a RAG app with LLM-as-a-Judge](https://huggingface.co/blog/digital-green-llm-judge)  🤗 
 
 ## Vector Database

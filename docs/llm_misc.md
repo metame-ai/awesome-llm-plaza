@@ -79,7 +79,7 @@
 	 *Shilin Lu, Zihan Zhou, Jiayou Lu, ..., Yuanzhi Zhu, Adams Wai-Kin Kong*
 
 	 · ([VINE](https://github.com/Shilin-LU/VINE) - Shilin-LU) ![Star](https://img.shields.io/github/stars/Shilin-LU/VINE.svg?style=social&label=Star)
-- [Introducing SynthID Text](https://huggingface.co/blog/synthid-text)  🤗
+- [Introducing SynthID Text](https://huggingface.co/blog/synthid-text)  🤗 
 - **A Watermark for Black-Box Language Models**, `arXiv, 2410.02099`, [arxiv](http://arxiv.org/abs/2410.02099v1), [pdf](http://arxiv.org/pdf/2410.02099v1.pdf), cication: [**-1**](None) 
 
 	 *Dara Bahri, John Wieting, Dana Alon, ..., Donald Metzler*
