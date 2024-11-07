@@ -21,7 +21,7 @@
 
 	 *Omer Nahum, Nitay Calderon, Orgad Keller, ..., Idan Szpektor, Roi Reichart*
 - :clapper: [How to Construct Domain Specific LLM Evaluation Systems: Hamel Husain and Emil Sedgh](https://www.youtube.com/watch?v=eLXF0VojuSs) 
-- :star2: [Creating a LLM-as-a-Judge That Drives Business Results](https://hamel.dev/blog/posts/llm-judge/) 
+- 🌟 [Creating a LLM-as-a-Judge That Drives Business Results](https://hamel.dev/blog/posts/llm-judge/) 
 - **LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive 
   Memory**, `arXiv, 2410.10813`, [arxiv](http://arxiv.org/abs/2410.10813v1), [pdf](http://arxiv.org/pdf/2410.10813v1.pdf), cication: [**-1**](None)
 
@@ -46,11 +46,11 @@
 
 ## Leaderboard
 
-- [TIGER-Lab / MMLU-Pro](https://huggingface.co/spaces/TIGER-Lab/MMLU-Pro/tree/main)  🤗 
+- [TIGER-Lab / MMLU-Pro](https://huggingface.co/spaces/TIGER-Lab/MMLU-Pro/tree/main) 🤗 
 
 ## Projects
 
-- :star2: [**simple-evals**](https://github.com/openai/simple-evals) - openai ![Star](https://img.shields.io/github/stars/openai/simple-evals.svg?style=social&label=Star) 
+- 🌟 [**simple-evals**](https://github.com/openai/simple-evals) - openai ![Star](https://img.shields.io/github/stars/openai/simple-evals.svg?style=social&label=Star) 
 
 ## Misc
 

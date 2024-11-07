@@ -1,24 +1,25 @@
 # Vision-Language Models
 
 - [Vision-Language Models](#vision-language-models) 
-  - [Survey](#survey)
-  - [Vision-Language Models](#vision-language-models-1)
-  - [Image](#image)
-  - [Video](#video)
-  - [Encoder](#encoder)
-  - [Alignment](#alignment)
-  - [Evaluation](#evaluation)
-  - [Efficient](#efficient)
-  - [Generation](#generation)
-  - [Dataset](#dataset)
-  - [Projects](#projects)
-  - [Products](#products)
-  - [Misc](#misc)
+	- [Survey](#survey)
+	- [Vision-Language Models](#vision-language-models-1)
+	- [Image](#image)
+	- [Video](#video)
+	- [Encoder](#encoder)
+	- [Alignment](#alignment)
+	- [Reasoning](#reasoning)
+	- [Evaluation](#evaluation)
+	- [Efficient](#efficient)
+	- [Generation](#generation)
+	- [Dataset](#dataset)
+	- [Projects](#projects)
+	- [Products](#products)
+	- [Misc](#misc)
 
 
 ## Survey
 
-- [short survey of trends in VLMs since Llava 1.0 came out](https://x.com/mervenoyann/status/1851708916729798799)  𝕏
+- [short survey of trends in VLMs since Llava 1.0 came out](https://x.com/mervenoyann/status/1851708916729798799)  𝕏 
 
 	 · ([huggingface](https://huggingface.co/collections/merve/mit-talk-31-10-papers-671f6a16e156f77739820c89)) · ([youtube](https://www.youtube.com/watch?v=_TlhKHTgWjY))
 - **Towards Unifying Understanding and Generation in the Era of Vision 
@@ -31,7 +32,7 @@
 
 ## Vision-Language Models
 
-- :star2: 🤗 **CLEAR: Character Unlearning in Textual and Visual Modalities**, `arXiv, 2410.18057`, [arxiv](http://arxiv.org/abs/2410.18057v1), [pdf](http://arxiv.org/pdf/2410.18057v1.pdf), cication: [**-1**](None) 
+- 🌟 **CLEAR: Character Unlearning in Textual and Visual Modalities**, `arXiv, 2410.18057`, [arxiv](http://arxiv.org/abs/2410.18057v1), [pdf](http://arxiv.org/pdf/2410.18057v1.pdf), cication: [**-1**](None) 
 
 	 *Alexey Dontsov, Dmitrii Korzh, Alexey Zhavoronkin, ..., Ivan Oseledets, Elena Tutubalina* · ([huggingface](https://huggingface.co/datasets/therem/CLEAR)) · ([multimodal_unlearning](https://github.com/somvy/multimodal_unlearning) - somvy) ![Star](https://img.shields.io/github/stars/somvy/multimodal_unlearning.svg?style=social&label=Star)
 - **Improve Vision Language Model Chain-of-thought Reasoning**, `arXiv, 2410.16198`, [arxiv](http://arxiv.org/abs/2410.16198v1), [pdf](http://arxiv.org/pdf/2410.16198v1.pdf), cication: [**-1**](None) 
@@ -92,8 +93,15 @@
 
 	 *Ziyu Liu, Yuhang Zang, Xiaoyi Dong, ..., Dahua Lin, Jiaqi Wang*
 
+## Reasoning
+
+
 ## Evaluation
 
+- **TOMATO: Assessing Visual Temporal Reasoning Capabilities in Multimodal
+  Foundation Models**, `arXiv, 2410.23266`, [arxiv](http://arxiv.org/abs/2410.23266v1), [pdf](http://arxiv.org/pdf/2410.23266v1.pdf), cication: [**-1**](None) 
+
+	 *Ziyao Shangguan, Chuhan Li, Yuxuan Ding, ..., Tesca Fitzgerald, Arman Cohan* · ([TOMATO](https://github.com/yale-nlp/TOMATO) - yale-nlp) ![Star](https://img.shields.io/github/stars/yale-nlp/TOMATO.svg?style=social&label=Star)
 - **Image2Struct: Benchmarking Structure Extraction for Vision-Language 
   Models**, `arXiv, 2410.22456`, [arxiv](http://arxiv.org/abs/2410.22456v1), [pdf](http://arxiv.org/pdf/2410.22456v1.pdf), cication: [**-1**](None)
 

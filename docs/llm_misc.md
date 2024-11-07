@@ -33,6 +33,9 @@
 
 ## Interpretability
 
+- **Physics in Next-token Prediction**, `arXiv, 2411.00660`, [arxiv](http://arxiv.org/abs/2411.00660v1), [pdf](http://arxiv.org/pdf/2411.00660v1.pdf), cication: [**-1**](None) 
+
+	 *Hongjun An, Yiliang Song, Xuelong Li* · ([youtube](https://www.youtube.com/watch?v=hzQLqVZKn7c))
 - **Mixture of Parrots: Experts improve memorization more than reasoning**, `arXiv, 2410.19034`, [arxiv](http://arxiv.org/abs/2410.19034v1), [pdf](http://arxiv.org/pdf/2410.19034v1.pdf), cication: [**-1**](None) 
 
 	 *Samy Jelassi, Clara Mohri, David Brandfonbrener, ..., Sham M. Kakade, Eran Malach*
@@ -61,12 +64,19 @@
 
 ## Unlearning
 
-- :star2: 🤗 **CLEAR: Character Unlearning in Textual and Visual Modalities**, `arXiv, 2410.18057`, [arxiv](http://arxiv.org/abs/2410.18057v1), [pdf](http://arxiv.org/pdf/2410.18057v1.pdf), cication: [**-1**](None) 
+- **Does your LLM truly unlearn? An embarrassingly simple approach to
+  recover unlearned knowledge**, `arXiv, 2410.16454`, [arxiv](http://arxiv.org/abs/2410.16454v1), [pdf](http://arxiv.org/pdf/2410.16454v1.pdf), cication: [**-1**](None) 
+
+	 *Zhiwei Zhang, Fali Wang, Xiaomin Li, ..., Wenpeng Yin, Suhang Wang* · ([𝕏](https://x.com/llm_sec/status/1853533265774436816)) · ([t](https://t.co/Gn3AOAn48D))
+- 🌟 **CLEAR: Character Unlearning in Textual and Visual Modalities**, `arXiv, 2410.18057`, [arxiv](http://arxiv.org/abs/2410.18057v1), [pdf](http://arxiv.org/pdf/2410.18057v1.pdf), cication: [**-1**](None) 
 
 	 *Alexey Dontsov, Dmitrii Korzh, Alexey Zhavoronkin, ..., Ivan Oseledets, Elena Tutubalina* · ([huggingface](https://huggingface.co/datasets/therem/CLEAR)) · ([multimodal_unlearning](https://github.com/somvy/multimodal_unlearning) - somvy) ![Star](https://img.shields.io/github/stars/somvy/multimodal_unlearning.svg?style=social&label=Star)
 
 ## Personalization
 
+- **Personalization of Large Language Models: A Survey**, `arXiv, 2411.00027`, [arxiv](http://arxiv.org/abs/2411.00027v1), [pdf](http://arxiv.org/pdf/2411.00027v1.pdf), cication: [**-1**](None) 
+
+	 *Zhehao Zhang, Ryan A. Rossi, Branislav Kveton, ..., Nesreen Ahmed, Yu Wang*
 
 ## Forecasting
 

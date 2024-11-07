@@ -52,6 +52,9 @@
 
 ## O1 Reasoning
 
+- [**LLaMA-O1**](https://github.com/SimpleBerry/LLaMA-O1) - SimpleBerry ![Star](https://img.shields.io/github/stars/SimpleBerry/LLaMA-O1.svg?style=social&label=Star)
+
+	 *Open Large Reasoning Model Frameworks For Training, Inference and Evaluation With PyTorch and HuggingFace* · ([qbitai](https://www.qbitai.com/2024/11/215576.html))
 - **A Comparative Study on Reasoning Patterns of OpenAI's o1 Model**, `arXiv, 2410.13639`, [arxiv](http://arxiv.org/abs/2410.13639v2), [pdf](http://arxiv.org/pdf/2410.13639v2.pdf), cication: [**-1**](None) 
 
 	 *Siwei Wu, Zhongyuan Peng, Xinrun Du, ..., Chenghua Lin, J. H. Liu*
@@ -84,8 +87,10 @@
 
 ## Prompt
 
-- [MacOS 15.1 Apple Intelligence Prompt Templates](https://x.com/reach_vb/status/1851264423450587302)  𝕏
-- [use RL to automatically improve our prompts](https://x.com/cwolferesearch/status/1850919005407662435)  𝕏
+- [automatic prompt optimization algorithms](https://x.com/cwolferesearch/status/1853465302031556725)  𝕏
+- [Automatic Prompt Optimization](https://cameronrwolfe.substack.com/p/automatic-prompt-optimization) 
+- [MacOS 15.1 Apple Intelligence Prompt Templates](https://x.com/reach_vb/status/1851264423450587302)  𝕏 
+- [use RL to automatically improve our prompts](https://x.com/cwolferesearch/status/1850919005407662435)  𝕏 
 - **ProSA: Assessing and Understanding the Prompt Sensitivity of LLMs**, `arXiv, 2410.12405`, [arxiv](http://arxiv.org/abs/2410.12405v1), [pdf](http://arxiv.org/pdf/2410.12405v1.pdf), cication: [**-1**](None) 
 
 	 *Jingming Zhuo, Songyang Zhang, Xinyu Fang, ..., Dahua Lin, Kai Chen* · ([ProSA](https://github.com/open-compass/ProSA) - open-compass) ![Star](https://img.shields.io/github/stars/open-compass/ProSA.svg?style=social&label=Star)

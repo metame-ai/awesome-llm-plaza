@@ -13,6 +13,9 @@
 
 ## LLM Security
 
+- **AgentHarm: A Benchmark for Measuring Harmfulness of LLM Agents**, `arXiv, 2410.09024`, [arxiv](http://arxiv.org/abs/2410.09024v2), [pdf](http://arxiv.org/pdf/2410.09024v2.pdf), cication: [**2**](https://scholar.google.com/scholar?cites=2401564792328774425&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII) 
+
+	 *Maksym Andriushchenko, Alexandra Souly, Mateusz Dziemian, ..., Yarin Gal, Xander Davies*
 
 ## Red Team
 

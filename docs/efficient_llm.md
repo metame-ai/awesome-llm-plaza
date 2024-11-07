@@ -31,6 +31,10 @@
 
 ## Quantization
 
+- **"Give Me BF16 or Give Me Death"? Accuracy-Performance Trade-Offs in LLM
+  Quantization**, `arXiv, 2411.02355`, [arxiv](http://arxiv.org/abs/2411.02355v1), [pdf](http://arxiv.org/pdf/2411.02355v1.pdf), cication: [**-1**](None) 
+
+	 *Eldar Kurtic, Alexandre Marques, Shubhra Pandit, ..., Mark Kurtz, Dan Alistarh*
 - **QTIP: Quantization with Trellises and Incoherence Processing**, `arXiv, 2406.11235`, [arxiv](http://arxiv.org/abs/2406.11235v3), [pdf](http://arxiv.org/pdf/2406.11235v3.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=11756629272535530144&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII) 
 
 	 *Albert Tseng, Qingyao Sun, David Hou, ..., Christopher De Sa* · ([qtip](https://github.com/Cornell-RelaxML/qtip) - Cornell-RelaxML) ![Star](https://img.shields.io/github/stars/Cornell-RelaxML/qtip.svg?style=social&label=Star) · ([x](https://x.com/togethercompute/status/1851698873347235986)) · ([t](https://t.co/GSxwHHJ7EW))
@@ -50,6 +54,8 @@
 
 ## Inference
 
+- [OpenAI beats Anthropic and Fireworks to releasing Speculative Decoding](https://buttondown.com/ainews/archive/ainews-openai-beats-anthropic-and-fireworks-to/) 
+- [Latency optimizationImprove latency across a wide variety of LLM-related use cases.](https://platform.openai.com/docs/guides/latency-optimization) 
 - **A Simple and Effective $L_2$ Norm-Based Strategy for KV Cache 
   Compression**, `arXiv, 2406.11430`, [arxiv](http://arxiv.org/abs/2406.11430v3), [pdf](http://arxiv.org/pdf/2406.11430v3.pdf), cication: [**5**](https://scholar.google.com/scholar?cites=5168052951707843815&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
@@ -93,7 +99,7 @@
 
 ## Hardware
 
-- [database of Machine Learning Hardware](https://x.com/EpochAIResearch/status/1849135255833158124)  𝕏
+- [database of Machine Learning Hardware](https://x.com/EpochAIResearch/status/1849135255833158124)  𝕏 
 
 ## Tutorials
 

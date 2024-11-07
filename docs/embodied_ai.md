@@ -42,7 +42,7 @@
 - [Advancing embodied AI through progress in touch perception, dexterity, and human-robot interaction](https://ai.meta.com/blog/fair-robotics-open-source/) 
 
 	 · ([x](https://x.com/AIatMeta/status/1852019804292682200))
-- [what is the largest public dataset of robot expert demonstrations across diverse manipulations tasks, constrained to a single form factor?](https://x.com/ericjang11/status/1851987666000101596)  𝕏
+- [what is the largest public dataset of robot expert demonstrations across diverse manipulations tasks, constrained to a single form factor?](https://x.com/ericjang11/status/1851987666000101596)  𝕏 
 - [AI-assisted multi-arm robot for apple picking](https://buttondown.com/ainews/archive/ainews-github-copilot-strikes-back-3402/) 
 
 	 · ([v.redd](https://v.redd.it/552w8berqhxd1))
@@ -54,10 +54,10 @@
 
 ## Humanoids
 
-- [Boston Dynamics showcased Atlas autonomously transferring engine covers using ML vision for object detection and localization](https://x.com/adcock_brett/status/1853120940651024503)  𝕏
-- [EngineAI unveiled SE01, a humanoid robot achieving natural walking through advanced joint modules and neural networks.](https://x.com/adcock_brett/status/1850569193365676202)  𝕏
-- [Introducing Torso, a bimanual android actuated with artificial muscles.](https://x.com/clonerobotics/status/1849181515022053845)  𝕏
-- [CooHOI, a learning-based framework designed for the cooperative transportation of objects by multiple humanoid robots.](https://x.com/WinstonGu_/status/1848393460849799439)  𝕏
+- [Boston Dynamics showcased Atlas autonomously transferring engine covers using ML vision for object detection and localization](https://x.com/adcock_brett/status/1853120940651024503)  𝕏 
+- [EngineAI unveiled SE01, a humanoid robot achieving natural walking through advanced joint modules and neural networks.](https://x.com/adcock_brett/status/1850569193365676202)  𝕏 
+- [Introducing Torso, a bimanual android actuated with artificial muscles.](https://x.com/clonerobotics/status/1849181515022053845)  𝕏 
+- [CooHOI, a learning-based framework designed for the cooperative transportation of objects by multiple humanoid robots.](https://x.com/WinstonGu_/status/1848393460849799439)  𝕏 
 - **CooHOI: Learning Cooperative Human-Object Interaction with Manipulated 
   Object Dynamics**, `arXiv, 2406.14558`, [arxiv](http://arxiv.org/abs/2406.14558v2), [pdf](http://arxiv.org/pdf/2406.14558v2.pdf), cication: [**-1**](None)
 

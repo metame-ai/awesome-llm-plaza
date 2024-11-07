@@ -13,6 +13,12 @@
 
 ## Long Context
 
+- **KV-Compress: Paged KV-Cache Compression with Variable Compression Rates
+  per Attention Head**, `arXiv, 2410.00161`, [arxiv](http://arxiv.org/abs/2410.00161v2), [pdf](http://arxiv.org/pdf/2410.00161v2.pdf), cication: [**-1**](None) 
+
+	 *Isaac Rehg*
+
+	 · ([vllm-kvcompress](https://github.com/IsaacRe/vllm-kvcompress/tree/main?tab=readme-ov-file) - IsaacRe) ![Star](https://img.shields.io/github/stars/IsaacRe/vllm-kvcompress.svg?style=social&label=Star)
 - **A Simple and Effective $L_2$ Norm-Based Strategy for KV Cache 
   Compression**, `arXiv, 2406.11430`, [arxiv](http://arxiv.org/abs/2406.11430v3), [pdf](http://arxiv.org/pdf/2406.11430v3.pdf), cication: [**5**](https://scholar.google.com/scholar?cites=5168052951707843815&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 

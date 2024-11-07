@@ -2,7 +2,7 @@
 
 - [LLM Training](#llm-training) 
   - [Survey](#survey)
-  - [LLM Training](#llm-training)
+  - [LLM Training](#llm-training-1)
   - [Pretraining](#pretraining)
   - [Finetuning](#finetuning)
   - [Optimization](#optimization)
@@ -71,18 +71,18 @@
 
 ## Toolkits
 
-- :star2: [**open-instruct**](https://github.com/allenai/open-instruct) - allenai ![Star](https://img.shields.io/github/stars/allenai/open-instruct.svg?style=social&label=Star) 
+- 🌟 [**open-instruct**](https://github.com/allenai/open-instruct) - allenai ![Star](https://img.shields.io/github/stars/allenai/open-instruct.svg?style=social&label=Star) 
 
 	 · ([arxiv](https://arxiv.org/abs/2406.09279))
 - [**academic-pretraining**](https://github.com/apoorvkh/academic-pretraining) - apoorvkh ![Star](https://img.shields.io/github/stars/apoorvkh/academic-pretraining.svg?style=social&label=Star) 
 
 	 *Trade-offs when Pre-Training with Academic Resources* · ([arxiv](https://arxiv.org/abs/2410.23261))
-- [experimental async-TP](https://x.com/StasBekman/status/1850696223092850848)  𝕏
+- [experimental async-TP](https://x.com/StasBekman/status/1850696223092850848)  𝕏 
 
 	 · ([t](https://t.co/1eA0rHU25a))
 - :clapper: [torchtune: Easy and Accessible Finetuning in Native PyTorch - Evan Smothers, Meta](https://www.youtube.com/watch?v=43X9E25-Qg0) 
 - [Fixing Gradient Accumulation](https://huggingface.co/blog/gradient_accumulation)  🤗 
-- [Fixed a bug which caused all training losses to diverge for large gradient accumulation sizes.](https://x.com/danielhanchen/status/1846235913443262891)  𝕏
+- [Fixed a bug which caused all training losses to diverge for large gradient accumulation sizes.](https://x.com/danielhanchen/status/1846235913443262891)  𝕏 
 - **AutoTrain: No-code training for state-of-the-art models**, `arXiv, 2410.15735`, [arxiv](http://arxiv.org/abs/2410.15735v1), [pdf](http://arxiv.org/pdf/2410.15735v1.pdf), cication: [**-1**](None) 
 
 	 *Abhishek Thakur*
@@ -90,3 +90,6 @@
 	 · ([autotrain-advanced](https://github.com/huggingface/autotrain-advanced) - huggingface) ![Star](https://img.shields.io/github/stars/huggingface/autotrain-advanced.svg?style=social&label=Star)
 
 ## Misc
+
+- [SGLang Developer Sync - 20241102](https://www.youtube.com/watch?v=k8Jo6-XcStM)  :clapper:
+- [Argilla 2.4: Easily Build Fine-Tuning and Evaluation Datasets on the Hub — No Code Required](https://huggingface.co/blog/argilla-ui-hub)  🤗

@@ -56,4 +56,4 @@
 
 ## Misc
 ## Misc
-- [papers on LLM hallucinations](https://x.com/omarsar0/status/1852733583036682710)  𝕏
+- [papers on LLM hallucinations](https://x.com/omarsar0/status/1852733583036682710)  𝕏 

@@ -54,6 +54,10 @@
 
 ## UI Agent
 
+- :star2: **OS-ATLAS: A Foundation Action Model for Generalist GUI Agents**, `arXiv, 2410.23218`, [arxiv](http://arxiv.org/abs/2410.23218v1), [pdf](http://arxiv.org/pdf/2410.23218v1.pdf), cication: [**-1**](None) 
+
+	 *Zhiyong Wu, Zhenyu Wu, Fangzhi Xu, ..., Paul Pu Liang, Yu Qiao* · ([osatlas.github](https://osatlas.github.io/)) · ([OS-Atlas](https://github.com/OS-Copilot/OS-Atlas) - OS-Copilot) ![Star](https://img.shields.io/github/stars/OS-Copilot/OS-Atlas.svg?style=social&label=Star)
+- [jadechoghari / OmniParser](https://huggingface.co/spaces/jadechoghari/OmniParser/tree/main)  🤗
 - [**skyvern**](https://github.com/Skyvern-AI/skyvern) - Skyvern-AI ![Star](https://img.shields.io/github/stars/Skyvern-AI/skyvern.svg?style=social&label=Star) 
 
 	 · ([skyvern](https://www.skyvern.com/))

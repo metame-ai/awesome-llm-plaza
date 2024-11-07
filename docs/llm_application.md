@@ -36,6 +36,10 @@
 
 ## Science
 
+- **Adapting While Learning: Grounding LLMs for Scientific Problems with
+  Intelligent Tool Usage Adaptation**, `arXiv, 2411.00412`, [arxiv](http://arxiv.org/abs/2411.00412v1), [pdf](http://arxiv.org/pdf/2411.00412v1.pdf), cication: [**-1**](None) 
+
+	 *Bohan Lyu, Yadi Cao, Duncan Watson-Parris, ..., Taylor Berg-Kirkpatrick, Rose Yu*
 - **Two Heads Are Better Than One: A Multi-Agent System Has the Potential to 
   Improve Scientific Idea Generation**, `arXiv, 2410.09403`, [arxiv](http://arxiv.org/abs/2410.09403v1), [pdf](http://arxiv.org/pdf/2410.09403v1.pdf), cication: [**-1**](None)
 
@@ -44,7 +48,7 @@
 - [**CoI-Agent**](https://github.com/DAMO-NLP-SG/CoI-Agent) - DAMO-NLP-SG ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/CoI-Agent.svg?style=social&label=Star) 
 
 	 *Revolutionizing Research Via Novel Idea Development with LLM Agents*
-- [how an AI model can encode and predict physical behaviours.](https://x.com/adcock_brett/status/1848032235716215157)  𝕏
+- [how an AI model can encode and predict physical behaviours.](https://x.com/adcock_brett/status/1848032235716215157)  𝕏 
 
 ## Chatbot
 
@@ -64,6 +68,9 @@
 
 ## Medical
 
+- [Medical AI: Top Research Papers/Models  (October 26 - November 2, 2024)](https://x.com/OpenlifesciAI/status/1852685220912464066)  𝕏
+
+	 · ([huggingface](https://huggingface.co/posts/aaditya/563565199854269))
 - **Efficiently Democratizing Medical LLMs for 50 Languages via a Mixture of 
   Language Family Experts**, `arXiv, 2410.10626`, [arxiv](http://arxiv.org/abs/2410.10626v1), [pdf](http://arxiv.org/pdf/2410.10626v1.pdf), cication: [**-1**](None)
 
@@ -86,6 +93,9 @@
 
 ## Game
 
+- [**HEP-LLM-play-StarCraftII**](https://github.com/NKAI-Decision-Team/HEP-LLM-play-StarCraftII) - NKAI-Decision-Team ![Star](https://img.shields.io/github/stars/NKAI-Decision-Team/HEP-LLM-play-StarCraftII.svg?style=social&label=Star)
+
+	 *An Approch Defeat Elite AI in TextStarCraft-II for the First Time*
 - [Oasis: A Universe in a Transformer](https://oasis-model.github.io/) 
 
 	 · ([open-oasis](https://github.com/etched-ai/open-oasis) - etched-ai) ![Star](https://img.shields.io/github/stars/etched-ai/open-oasis.svg?style=social&label=Star)

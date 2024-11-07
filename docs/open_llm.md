@@ -25,6 +25,10 @@
 
 ## Chinese Models
 
+- **Hunyuan-Large: An Open-Source MoE Model with 52 Billion Activated
+  Parameters by Tencent**, `arXiv, 2411.02265`, [arxiv](http://arxiv.org/abs/2411.02265v3), [pdf](http://arxiv.org/pdf/2411.02265v3.pdf), cication: [**-1**](None) 
+
+	 *Xingwu Sun, Yanfeng Chen, Yiqing Huang, ..., Di Wang, Jie Jiang* · ([huggingface](https://huggingface.co/tencent/Tencent-Hunyuan-Large)) · ([Hunyuan-Large](https://github.com/Tencent/Hunyuan-Large) - Tencent) ![Star](https://img.shields.io/github/stars/Tencent/Hunyuan-Large.svg?style=social&label=Star)
 
 ## Small Language Models
 
