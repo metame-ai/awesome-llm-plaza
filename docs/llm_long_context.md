@@ -13,7 +13,7 @@
 
 ## Long Context
 
-- **KV-Compress: Paged KV-Cache Compression with Variable Compression Rates
+- **KV-Compress: Paged KV-Cache Compression with Variable Compression Rates 
   per Attention Head**, `arXiv, 2410.00161`, [arxiv](http://arxiv.org/abs/2410.00161v2), [pdf](http://arxiv.org/pdf/2410.00161v2.pdf), cication: [**-1**](None) 
 
 	 *Isaac Rehg*

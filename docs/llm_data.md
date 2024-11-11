@@ -20,6 +20,10 @@
 
 ## LLM Data
 
+- 🌟 **Both Text and Images Leaked! A Systematic Analysis of Multimodal LLM
+  Data Contamination**, `arXiv, 2411.03823`, [arxiv](http://arxiv.org/abs/2411.03823v1), [pdf](http://arxiv.org/pdf/2411.03823v1.pdf), cication: [**-1**](None) 
+
+	 *Dingjie Song, Sicheng Lai, Shunian Chen, ..., Lichao Sun, Benyou Wang* · ([MM-Detect](https://github.com/MLLM-Data-Contamination/MM-Detect) - MLLM-Data-Contamination) ![Star](https://img.shields.io/github/stars/MLLM-Data-Contamination/MM-Detect.svg?style=social&label=Star)
 - **Document Parsing Unveiled: Techniques, Challenges, and Prospects for 
   Structured Information Extraction**, `arXiv, 2410.21169`, [arxiv](http://arxiv.org/abs/2410.21169v2), [pdf](http://arxiv.org/pdf/2410.21169v2.pdf), cication: [**-1**](None)
 
@@ -47,6 +51,10 @@
 
 ## Synthetic
 
+- 🌟 **WizardLM: Empowering Large Language Models to Follow Complex
+  Instructions**, `arXiv, 2304.12244`, [arxiv](http://arxiv.org/abs/2304.12244v2), [pdf](http://arxiv.org/pdf/2304.12244v2.pdf), cication: [**-1**](None) 
+
+	 *Can Xu, Qingfeng Sun, Kai Zheng, ..., Chongyang Tao, Daxin Jiang*
 - **Fictitious Synthetic Data Can Improve LLM Factuality via Prerequisite 
   Learning**, `arXiv, 2410.19290`, [arxiv](http://arxiv.org/abs/2410.19290v1), [pdf](http://arxiv.org/pdf/2410.19290v1.pdf), cication: [**-1**](None)
 
@@ -70,6 +78,7 @@
 
 ## Toolkits
 
+- [**docling**](https://github.com/DS4SD/docling) - DS4SD ![Star](https://img.shields.io/github/stars/DS4SD/docling.svg?style=social&label=Star)
 - [**maxun**](https://github.com/getmaxun/maxun) - getmaxun ![Star](https://img.shields.io/github/stars/getmaxun/maxun.svg?style=social&label=Star) 
 
 ## Misc

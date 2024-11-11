@@ -31,6 +31,10 @@
 
 ## Multimodal
 
+- 🌟 **Mixture-of-Transformers: A Sparse and Scalable Architecture for
+  Multi-Modal Foundation Models**, `arXiv, 2411.04996`, [arxiv](http://arxiv.org/abs/2411.04996v1), [pdf](http://arxiv.org/pdf/2411.04996v1.pdf), cication: [**-1**](None) 
+
+	 *Weixin Liang, Lili Yu, Liang Luo, ..., Luke Zettlemoyer, Xi Victoria Lin*
 - **DPLM-2: A Multimodal Diffusion Protein Language Model**, `arXiv, 2410.13782`, [arxiv](http://arxiv.org/abs/2410.13782v1), [pdf](http://arxiv.org/pdf/2410.13782v1.pdf), cication: [**-1**](None) 
 
 	 *Xinyou Wang, Zaixiang Zheng, Fei Ye, ..., Shujian Huang, Quanquan Gu* · ([bytedance.github](https://bytedance.github.io/dplm/dplm-2)) · ([arxiv](https://arxiv.org/abs/2410.13782))

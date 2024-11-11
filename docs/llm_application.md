@@ -36,7 +36,11 @@
 
 ## Science
 
-- **Adapting While Learning: Grounding LLMs for Scientific Problems with
+- **IdeaBench: Benchmarking Large Language Models for Research Idea
+  Generation**, `arXiv, 2411.02429`, [arxiv](http://arxiv.org/abs/2411.02429v1), [pdf](http://arxiv.org/pdf/2411.02429v1.pdf), cication: [**-1**](None) 
+
+	 *Sikun Guo, Amir Hassan Shariatmadari, Guangzhi Xiong, ..., Stefan Bekiranov, Aidong Zhang*
+- **Adapting While Learning: Grounding LLMs for Scientific Problems with 
   Intelligent Tool Usage Adaptation**, `arXiv, 2411.00412`, [arxiv](http://arxiv.org/abs/2411.00412v1), [pdf](http://arxiv.org/pdf/2411.00412v1.pdf), cication: [**-1**](None) 
 
 	 *Bohan Lyu, Yadi Cao, Duncan Watson-Parris, ..., Taylor Berg-Kirkpatrick, Rose Yu*
@@ -52,6 +56,10 @@
 
 ## Chatbot
 
+- **Thanos: Enhancing Conversational Agents with Skill-of-Mind-Infused Large
+  Language Model**, `arXiv, 2411.04496`, [arxiv](http://arxiv.org/abs/2411.04496v1), [pdf](http://arxiv.org/pdf/2411.04496v1.pdf), cication: [**-1**](None) 
+
+	 *Young-Jun Lee, Dokyong Lee, Junyoung Youn, ..., Kyeongjin Oh, Ho-Jin Choi* · ([Thanos](https://github.com/passing2961/Thanos) - passing2961) ![Star](https://img.shields.io/github/stars/passing2961/Thanos.svg?style=social&label=Star)
 - **LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive 
   Memory**, `arXiv, 2410.10813`, [arxiv](http://arxiv.org/abs/2410.10813v1), [pdf](http://arxiv.org/pdf/2410.10813v1.pdf), cication: [**-1**](None)
 
@@ -59,6 +67,9 @@
 
 ## Role Play
 
+- **Benchmarking Bias in Large Language Models during Role-Playing**, `arXiv, 2411.00585`, [arxiv](http://arxiv.org/abs/2411.00585v1), [pdf](http://arxiv.org/pdf/2411.00585v1.pdf), cication: [**-1**](None) 
+
+	 *Xinyue Li, Zhenpeng Chen, Jie M. Zhang, ..., Yang Liu, Xuanzhe Liu*
 - [LLM Recommendation for Erotic Roleplay](https://buttondown.com/ainews/archive/ainews-github-copilot-strikes-back-3402/) 
 
 	 · ([reddit](https://reddit.com//r/LocalLLaMA/comments/1ge2fzf/llm_recommendation_for_erotic_roleplay/))
@@ -68,7 +79,11 @@
 
 ## Medical
 
-- [Medical AI: Top Research Papers/Models  (October 26 - November 2, 2024)](https://x.com/OpenlifesciAI/status/1852685220912464066)  𝕏
+- **From Medprompt to o1: Exploration of Run-Time Strategies for Medical
+  Challenge Problems and Beyond**, `arXiv, 2411.03590`, [arxiv](http://arxiv.org/abs/2411.03590v1), [pdf](http://arxiv.org/pdf/2411.03590v1.pdf), cication: [**-1**](None) 
+
+	 *Harsha Nori, Naoto Usuyama, Nicholas King, ..., Sheng Zhang, Eric Horvitz*
+- [Medical AI: Top Research Papers/Models  (October 26 - November 2, 2024)](https://x.com/OpenlifesciAI/status/1852685220912464066)  𝕏 
 
 	 · ([huggingface](https://huggingface.co/posts/aaditya/563565199854269))
 - **Efficiently Democratizing Medical LLMs for 50 Languages via a Mixture of 
@@ -93,7 +108,7 @@
 
 ## Game
 
-- [**HEP-LLM-play-StarCraftII**](https://github.com/NKAI-Decision-Team/HEP-LLM-play-StarCraftII) - NKAI-Decision-Team ![Star](https://img.shields.io/github/stars/NKAI-Decision-Team/HEP-LLM-play-StarCraftII.svg?style=social&label=Star)
+- [**HEP-LLM-play-StarCraftII**](https://github.com/NKAI-Decision-Team/HEP-LLM-play-StarCraftII) - NKAI-Decision-Team ![Star](https://img.shields.io/github/stars/NKAI-Decision-Team/HEP-LLM-play-StarCraftII.svg?style=social&label=Star) 
 
 	 *An Approch Defeat Elite AI in TextStarCraft-II for the First Time*
 - [Oasis: A Universe in a Transformer](https://oasis-model.github.io/) 
@@ -115,12 +130,16 @@
 
 ## Audio
 
+- [How to build an Open Source NotebookLM: PDF to Podcast](https://docs.together.ai/docs/open-notebooklm-pdf-to-podcast) 
 
 ## Toolkits
 
 
 ## Projects
 
+- 🌟 [**anything-llm**](https://github.com/Mintplex-Labs/anything-llm) - Mintplex-Labs ![Star](https://img.shields.io/github/stars/Mintplex-Labs/anything-llm.svg?style=social&label=Star)
+- [**screenshot-to-code**](https://github.com/abi/screenshot-to-code) - abi ![Star](https://img.shields.io/github/stars/abi/screenshot-to-code.svg?style=social&label=Star)
+- [**paper-reviewer**](https://github.com/deep-diver/paper-reviewer) - deep-diver ![Star](https://img.shields.io/github/stars/deep-diver/paper-reviewer.svg?style=social&label=Star)
 - [**cortex.cpp**](https://github.com/janhq/cortex.cpp) - janhq ![Star](https://img.shields.io/github/stars/janhq/cortex.cpp.svg?style=social&label=Star) 
 
 	 · ([reddit](https://www.reddit.com/r/LocalLLaMA/comments/1gfiihi/cortex_local_ai_api_platform_a_journey_to_build_a/))

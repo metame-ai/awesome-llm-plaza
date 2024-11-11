@@ -19,13 +19,14 @@
 
 ## English Models
 
+- [Tess-R1 is designed with test-time compute in mind, and has the capabilities to produce a Chain-of-Thought (CoT) reasoning before producing the final output.](https://huggingface.co/migtissera/Tess-R1-Limerick-Llama-3.1-70B)  🤗
 - [AMD-OLMo are a series of 1 billion parameter language models trained by AMD on AMD Instinct™ MI250 GPUs based on OLMo.](https://huggingface.co/collections/amd/amd-olmo-6723e7d04a49116d8ec95070)  🤗 
 - [Steiner is a series of reasoning models trained on synthetic data using reinforcement learning.](https://huggingface.co/peakji/steiner-32b-preview)  🤗 
 - [Granite 3.0 models](https://huggingface.co/collections/ibm-granite/granite-30-models-66fdb59bbb54785c3512114f)  🤗 
 
 ## Chinese Models
 
-- **Hunyuan-Large: An Open-Source MoE Model with 52 Billion Activated
+- **Hunyuan-Large: An Open-Source MoE Model with 52 Billion Activated 
   Parameters by Tencent**, `arXiv, 2411.02265`, [arxiv](http://arxiv.org/abs/2411.02265v3), [pdf](http://arxiv.org/pdf/2411.02265v3.pdf), cication: [**-1**](None) 
 
 	 *Xingwu Sun, Yanfeng Chen, Yiqing Huang, ..., Di Wang, Jie Jiang* · ([huggingface](https://huggingface.co/tencent/Tencent-Hunyuan-Large)) · ([Hunyuan-Large](https://github.com/Tencent/Hunyuan-Large) - Tencent) ![Star](https://img.shields.io/github/stars/Tencent/Hunyuan-Large.svg?style=social&label=Star)

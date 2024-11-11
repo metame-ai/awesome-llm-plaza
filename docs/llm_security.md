@@ -27,3 +27,5 @@
 	 · ([x](https://x.com/salman_paracha/status/1848374304196719047))
 
 ## Misc
+## Misc
+- [Open Source AI Can Help America Lead in AI and Strengthen Global Security](https://about.fb.com/news/2024/11/open-source-ai-america-global-security/) 

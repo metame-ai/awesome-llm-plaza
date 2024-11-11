@@ -13,6 +13,12 @@
 
 ## RLHF
 
+- **Self-Evolved Reward Learning for LLMs**, `arXiv, 2411.00418`, [arxiv](http://arxiv.org/abs/2411.00418v1), [pdf](http://arxiv.org/pdf/2411.00418v1.pdf), cication: [**-1**](None) 
+
+	 *Chenghua Huang, Zhizhen Fan, Lu Wang, ..., Saravan Rajmohan, Qi Zhang*
+- **Self-Consistency Preference Optimization**, `arXiv, 2411.04109`, [arxiv](http://arxiv.org/abs/2411.04109v2), [pdf](http://arxiv.org/pdf/2411.04109v2.pdf), cication: [**-1**](None) 
+
+	 *Archiki Prasad, Weizhe Yuan, Richard Yuanzhe Pang, ..., Jason Weston, Jane Yu*
 - **Evolving Alignment via Asymmetric Self-Play**, `arXiv, 2411.00062`, [arxiv](http://arxiv.org/abs/2411.00062v1), [pdf](http://arxiv.org/pdf/2411.00062v1.pdf), cication: [**-1**](None) 
 
 	 *Ziyu Ye, Rishabh Agarwal, Tianqi Liu, ..., Qijun Tan, Yuan Liu* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-11-05-6))
@@ -47,7 +53,7 @@
 
 ## Projects
 
-- :star2: [**OpenRLHF**](https://github.com/OpenRLHF/OpenRLHF) - OpenRLHF ![Star](https://img.shields.io/github/stars/OpenRLHF/OpenRLHF.svg?style=social&label=Star)
+- :star2: [**OpenRLHF**](https://github.com/OpenRLHF/OpenRLHF) - OpenRLHF ![Star](https://img.shields.io/github/stars/OpenRLHF/OpenRLHF.svg?style=social&label=Star) 
 
 	 · ([arxiv](https://arxiv.org/abs/2405.11143)) · ([docs.google](https://docs.google.com/presentation/d/1JRhB1d7csofx0PIZBmfyBdMluxNd5JLPpUHrrvVhGnk/edit?usp=sharing))
 - [**verl**](https://github.com/volcengine/verl) - volcengine ![Star](https://img.shields.io/github/stars/volcengine/verl.svg?style=social&label=Star) 

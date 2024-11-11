@@ -10,9 +10,17 @@
 
 ## Survey
 
+- **When Benchmarks are Targets: Revealing the Sensitivity of Large Language
+  Model Leaderboards**, `arXiv, 2402.01781`, [arxiv](http://arxiv.org/abs/2402.01781v2), [pdf](http://arxiv.org/pdf/2402.01781v2.pdf), cication: [**-1**](None) 
+
+	 *Norah Alzahrani, Hisham Abdullah Alyahya, Yazeed Alnumay, ..., M Saiful Bari, Haidar Khan* · ([lm-evaluation-harness](https://github.com/National-Center-for-AI-Saudi-Arabia/lm-evaluation-harness) - National-Center-for-AI-Saudi-Arabia) ![Star](https://img.shields.io/github/stars/National-Center-for-AI-Saudi-Arabia/lm-evaluation-harness.svg?style=social&label=Star)
 
 ## LLM Evaluation
 
+- **FrontierMath: A Benchmark for Evaluating Advanced Mathematical Reasoning
+  in AI**, `arXiv, 2411.04872`, [arxiv](http://arxiv.org/abs/2411.04872v1), [pdf](http://arxiv.org/pdf/2411.04872v1.pdf), cication: [**-1**](None) 
+
+	 *Elliot Glazer, Ege Erdil, Tamay Besiroglu, ..., Tetiana Grechuk, Shreepranav Varma Enugandla* · ([epochai](https://epochai.org/frontiermath)) · ([𝕏](https://x.com/EpochAIResearch/status/1854993676524831046))
 - [SimpleQA that measures the ability for language models to answer short, fact-seeking questions.](https://openai.com/index/introducing-simpleqa/) 
 
 	 · ([cdn.openai](https://cdn.openai.com/papers/simpleqa.pdf)) · ([simple-evals](https://github.com/openai/simple-evals/) - openai) ![Star](https://img.shields.io/github/stars/openai/simple-evals.svg?style=social&label=Star)

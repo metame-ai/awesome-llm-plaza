@@ -22,6 +22,9 @@
 
 ## Survey
 
+- **Survey of Cultural Awareness in Language Models: Text and Beyond**, `arXiv, 2411.00860`, [arxiv](http://arxiv.org/abs/2411.00860v1), [pdf](http://arxiv.org/pdf/2411.00860v1.pdf), cication: [**-1**](None) 
+
+	 *Siddhesh Pawar, Junyeong Park, Jiho Jin, ..., Alice Oh, Isabelle Augenstein*
 - **LLM-based Optimization of Compound AI Systems: A Survey**, `arXiv, 2410.16392`, [arxiv](http://arxiv.org/abs/2410.16392v1), [pdf](http://arxiv.org/pdf/2410.16392v1.pdf), cication: [**-1**](None) 
 
 	 *Matthieu Lin, Jenny Sheng, Andrew Zhao, ..., Gao Huang, Yong-Jin Liu*
@@ -33,6 +36,12 @@
 
 ## Interpretability
 
+- **Interpretable Language Modeling via Induction-head Ngram Models**, `arXiv, 2411.00066`, [arxiv](http://arxiv.org/abs/2411.00066v1), [pdf](http://arxiv.org/pdf/2411.00066v1.pdf), cication: [**-1**](None) 
+
+	 *Eunji Kim, Sriya Mantena, Weiwei Yang, ..., Sungroh Yoon, Jianfeng Gao* · ([induction-gram](https://github.com/ejkim47/induction-gram?tab=readme-ov-file) - ejkim47) ![Star](https://img.shields.io/github/stars/ejkim47/induction-gram.svg?style=social&label=Star)
+- **Analyzing The Language of Visual Tokens**, `arXiv, 2411.05001`, [arxiv](http://arxiv.org/abs/2411.05001v1), [pdf](http://arxiv.org/pdf/2411.05001v1.pdf), cication: [**-1**](None) 
+
+	 *David M. Chan, Rodolfo Corona, Joonyong Park, ..., Yutong Bai, Trevor Darrell*
 - **Physics in Next-token Prediction**, `arXiv, 2411.00660`, [arxiv](http://arxiv.org/abs/2411.00660v1), [pdf](http://arxiv.org/pdf/2411.00660v1.pdf), cication: [**-1**](None) 
 
 	 *Hongjun An, Yiliang Song, Xuelong Li* · ([youtube](https://www.youtube.com/watch?v=hzQLqVZKn7c))
@@ -64,7 +73,7 @@
 
 ## Unlearning
 
-- **Does your LLM truly unlearn? An embarrassingly simple approach to
+- **Does your LLM truly unlearn? An embarrassingly simple approach to 
   recover unlearned knowledge**, `arXiv, 2410.16454`, [arxiv](http://arxiv.org/abs/2410.16454v1), [pdf](http://arxiv.org/pdf/2410.16454v1.pdf), cication: [**-1**](None) 
 
 	 *Zhiwei Zhang, Fali Wang, Xiaomin Li, ..., Wenpeng Yin, Suhang Wang* · ([𝕏](https://x.com/llm_sec/status/1853533265774436816)) · ([t](https://t.co/Gn3AOAn48D))
@@ -83,6 +92,9 @@
 
 ## Detection
 
+- **LLMmap: Fingerprinting For Large Language Models**, `arXiv, 2407.15847`, [arxiv](http://arxiv.org/abs/2407.15847v3), [pdf](http://arxiv.org/pdf/2407.15847v3.pdf), cication: [**-1**](None) 
+
+	 *Dario Pasquini, Evgenios M. Kornaropoulos, Giuseppe Ateniese*
 - **Robust Watermarking Using Generative Priors Against Image Editing: From 
   Benchmarking to Advances**, `arXiv, 2410.18775`, [arxiv](http://arxiv.org/abs/2410.18775v1), [pdf](http://arxiv.org/pdf/2410.18775v1.pdf), cication: [**-1**](None)
 

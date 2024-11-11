@@ -42,6 +42,16 @@
 
 ## Optimization
 
+- [The Practitioner’s Guide to the Maximal Update Parameterization](https://cerebras.ai/blog/the-practitioners-guide-to-the-maximal-update-parameterization/) 
+
+	 · ([nanoGPT-mup](https://github.com/EleutherAI/nanoGPT-mup) - EleutherAI) ![Star](https://img.shields.io/github/stars/EleutherAI/nanoGPT-mup.svg?style=social&label=Star)
+- **Polynomial Composition Activations: Unleashing the Dynamics of Large
+  Language Models**, `arXiv, 2411.03884`, [arxiv](http://arxiv.org/abs/2411.03884v1), [pdf](http://arxiv.org/pdf/2411.03884v1.pdf), cication: [**-1**](None) 
+
+	 *Zhijian Zhuo, Ya Wang, Yutao Zeng, ..., Xun Zhou, Jinwen Ma* · ([PolyCom](https://github.com/BryceZhuo/PolyCom) - BryceZhuo) ![Star](https://img.shields.io/github/stars/BryceZhuo/PolyCom.svg?style=social&label=Star)
+- **The Road Less Scheduled**, `arXiv, 2405.15682`, [arxiv](http://arxiv.org/abs/2405.15682v4), [pdf](http://arxiv.org/pdf/2405.15682v4.pdf), cication: [**-1**](None) 
+
+	 *Aaron Defazio, Xingyu Alice Yang, Harsh Mehta, ..., Ahmed Khaled, Ashok Cutkosky* · ([schedule_free](https://github.com/facebookresearch/schedule_free) - facebookresearch) ![Star](https://img.shields.io/github/stars/facebookresearch/schedule_free.svg?style=social&label=Star)
 - :clapper: [Hacks to Make LLM Training Faster - Daniel Han, Unsloth AI](https://www.youtube.com/watch?v=PdtKkc5jB4g) 
 
 ## Architecture
@@ -49,6 +59,10 @@
 
 ## Mixture Of Experts
 
+- **LIBMoE: A Library for comprehensive benchmarking Mixture of Experts in
+  Large Language Models**, `arXiv, 2411.00918`, [arxiv](http://arxiv.org/abs/2411.00918v1), [pdf](http://arxiv.org/pdf/2411.00918v1.pdf), cication: [**-1**](None) 
+
+	 *Nam V. Nguyen, Thong T. Doan, Luong Tran, ..., Van Nguyen, Quang Pham* · ([LibMoE](https://github.com/Fsoft-AIC/LibMoE) - Fsoft-AIC) ![Star](https://img.shields.io/github/stars/Fsoft-AIC/LibMoE.svg?style=social&label=Star)
 - **Mixture of Parrots: Experts improve memorization more than reasoning**, `arXiv, 2410.19034`, [arxiv](http://arxiv.org/abs/2410.19034v1), [pdf](http://arxiv.org/pdf/2410.19034v1.pdf), cication: [**-1**](None) 
 
 	 *Samy Jelassi, Clara Mohri, David Brandfonbrener, ..., Sham M. Kakade, Eran Malach*
@@ -71,6 +85,7 @@
 
 ## Toolkits
 
+- [**cohere-finetune**](https://github.com/cohere-ai/cohere-finetune) - cohere-ai ![Star](https://img.shields.io/github/stars/cohere-ai/cohere-finetune.svg?style=social&label=Star)
 - 🌟 [**open-instruct**](https://github.com/allenai/open-instruct) - allenai ![Star](https://img.shields.io/github/stars/allenai/open-instruct.svg?style=social&label=Star) 
 
 	 · ([arxiv](https://arxiv.org/abs/2406.09279))
@@ -91,5 +106,5 @@
 
 ## Misc
 
-- [SGLang Developer Sync - 20241102](https://www.youtube.com/watch?v=k8Jo6-XcStM)  :clapper:
-- [Argilla 2.4: Easily Build Fine-Tuning and Evaluation Datasets on the Hub — No Code Required](https://huggingface.co/blog/argilla-ui-hub)  🤗
+- [SGLang Developer Sync - 20241102](https://www.youtube.com/watch?v=k8Jo6-XcStM)  :clapper: 
+- [Argilla 2.4: Easily Build Fine-Tuning and Evaluation Datasets on the Hub — No Code Required](https://huggingface.co/blog/argilla-ui-hub)  🤗 

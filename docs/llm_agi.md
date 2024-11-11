@@ -13,6 +13,9 @@
 
 ## World Model
 
+- **How Far is Video Generation from World Model: A Physical Law Perspective**, `arXiv, 2411.02385`, [arxiv](http://arxiv.org/abs/2411.02385v1), [pdf](http://arxiv.org/pdf/2411.02385v1.pdf), cication: [**-1**](None) 
+
+	 *Bingyi Kang, Yang Yue, Rui Lu, ..., Gao Huang, Jiashi Feng* · ([phyworld.github](https://phyworld.github.io/))
 - [Oasis: A Universe in a Transformer](https://oasis-model.github.io/) 
 
 	 · ([open-oasis](https://github.com/etched-ai/open-oasis) - etched-ai) ![Star](https://img.shields.io/github/stars/etched-ai/open-oasis.svg?style=social&label=Star)

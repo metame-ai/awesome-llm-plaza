@@ -19,6 +19,11 @@
 
 ## Survey
 
+- **A Comprehensive Survey of Small Language Models in the Era of Large
+  Language Models: Techniques, Enhancements, Applications, Collaboration with
+  LLMs, and Trustworthiness**, `arXiv, 2411.03350`, [arxiv](http://arxiv.org/abs/2411.03350v1), [pdf](http://arxiv.org/pdf/2411.03350v1.pdf), cication: [**-1**](None) 
+
+	 *Fali Wang, Zhiwei Zhang, Xianren Zhang, ..., Ming Huang, Suhang Wang*
 - **A Survey of Small Language Models**, `arXiv, 2410.20011`, [arxiv](http://arxiv.org/abs/2410.20011v1), [pdf](http://arxiv.org/pdf/2410.20011v1.pdf), cication: [**-1**](None) 
 
 	 *Chien Van Nguyen, Xuan Shen, Ryan Aponte, ..., Ryan A. Rossi, Thien Huu Nguyen*
@@ -28,10 +33,16 @@
 
 ## Finetune
 
+- **LoRA vs Full Fine-tuning: An Illusion of Equivalence**, `arXiv, 2410.21228`, [arxiv](http://arxiv.org/abs/2410.21228v1), [pdf](http://arxiv.org/pdf/2410.21228v1.pdf), cication: [**-1**](None) 
+
+	 *Reece Shuttleworth, Jacob Andreas, Antonio Torralba, ..., Pratyusha Sharma* · ([𝕏](https://x.com/danielhanchen/status/1854992153992479165))
 
 ## Quantization
 
-- **"Give Me BF16 or Give Me Death"? Accuracy-Performance Trade-Offs in LLM
+- 🌟 **BitNet a4.8: 4-bit Activations for 1-bit LLMs**, `arXiv, 2411.04965`, [arxiv](http://arxiv.org/abs/2411.04965v1), [pdf](http://arxiv.org/pdf/2411.04965v1.pdf), cication: [**-1**](None) 
+
+	 *Hongyu Wang, Shuming Ma, Furu Wei*
+- **"Give Me BF16 or Give Me Death"? Accuracy-Performance Trade-Offs in LLM 
   Quantization**, `arXiv, 2411.02355`, [arxiv](http://arxiv.org/abs/2411.02355v1), [pdf](http://arxiv.org/pdf/2411.02355v1.pdf), cication: [**-1**](None) 
 
 	 *Eldar Kurtic, Alexandre Marques, Shubhra Pandit, ..., Mark Kurtz, Dan Alistarh*
@@ -48,6 +59,10 @@
 
 ## Pruning
 
+- **Sparsing Law: Towards Large Language Models with Greater Activation
+  Sparsity**, `arXiv, 2411.02335`, [arxiv](http://arxiv.org/abs/2411.02335v1), [pdf](http://arxiv.org/pdf/2411.02335v1.pdf), cication: [**-1**](None) 
+
+	 *Yuqi Luo, Chenyang Song, Xu Han, ..., Zhiyuan Liu, Maosong Sun*
 - **What Matters in Transformers? Not All Attention is Needed**, `arXiv, 2406.15786`, [arxiv](http://arxiv.org/abs/2406.15786v6), [pdf](http://arxiv.org/pdf/2406.15786v6.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=18204847320375312044&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII) 
 
 	 *Shwai He, Guoheng Sun, Zheyu Shen, ..., Ang Li*

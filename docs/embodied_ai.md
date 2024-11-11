@@ -17,6 +17,14 @@
 
 ## Embodied AI
 
+- **DeeR-VLA: Dynamic Inference of Multimodal Large Language Models for
+  Efficient Robot Execution**, `arXiv, 2411.02359`, [arxiv](http://arxiv.org/abs/2411.02359v1), [pdf](http://arxiv.org/pdf/2411.02359v1.pdf), cication: [**-1**](None) 
+
+	 *Yang Yue, Yulin Wang, Bingyi Kang, ..., Jiashi Feng, Gao Huang* · ([DeeR-VLA](https://github.com/yueyang130/DeeR-VLA) - yueyang130) ![Star](https://img.shields.io/github/stars/yueyang130/DeeR-VLA.svg?style=social&label=Star)
+- **DynaMem: Online Dynamic Spatio-Semantic Memory for Open World Mobile
+  Manipulation**, `arXiv, 2411.04999`, [arxiv](http://arxiv.org/abs/2411.04999v1), [pdf](http://arxiv.org/pdf/2411.04999v1.pdf), cication: [**-1**](None) 
+
+	 *Peiqi Liu, Zhanqiu Guo, Mohit Warke, ..., Nur Muhammad Mahi Shafiullah, Lerrel Pinto* · ([dynamem.github](https://dynamem.github.io/))
 - **A Large Recurrent Action Model: xLSTM enables Fast Inference for 
   Robotics Tasks**, `arXiv, 2410.22391`, [arxiv](http://arxiv.org/abs/2410.22391v1), [pdf](http://arxiv.org/pdf/2410.22391v1.pdf), cication: [**-1**](None)
 

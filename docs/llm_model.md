@@ -13,6 +13,9 @@
 
 ## LLM Models
 
+- **Wave Network: An Ultra-Small Language Model**, `arXiv, 2411.02674`, [arxiv](http://arxiv.org/abs/2411.02674v3), [pdf](http://arxiv.org/pdf/2411.02674v3.pdf), cication: [**-1**](None) 
+
+	 *Xin Zhang, Victor S. Sheng*
 - **TokenFormer: Rethinking Transformer Scaling with Tokenized Model 
   Parameters**, `arXiv, 2410.23168`, [arxiv](http://arxiv.org/abs/2410.23168v1), [pdf](http://arxiv.org/pdf/2410.23168v1.pdf), cication: [**-1**](None)
 

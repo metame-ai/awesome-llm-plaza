@@ -18,6 +18,14 @@
 
 ## RAG
 
+- 🌟 **HtmlRAG: HTML is Better Than Plain Text for Modeling Retrieved Knowledge
+  in RAG Systems**, `arXiv, 2411.02959`, [arxiv](http://arxiv.org/abs/2411.02959v1), [pdf](http://arxiv.org/pdf/2411.02959v1.pdf), cication: [**-1**](None) 
+
+	 *Jiejun Tan, Zhicheng Dou, Wen Wang, ..., Weipeng Chen, Ji-Rong Wen*
+- **M3DocRAG: Multi-modal Retrieval is What You Need for Multi-page
+  Multi-document Understanding**, `arXiv, 2411.04952`, [arxiv](http://arxiv.org/abs/2411.04952v1), [pdf](http://arxiv.org/pdf/2411.04952v1.pdf), cication: [**-1**](None) 
+
+	 *Jaemin Cho, Debanjan Mahata, Ozan Irsoy, ..., Yujie He, Mohit Bansal* · ([m3docrag.github](https://m3docrag.github.io/))
 - **In Defense of RAG in the Era of Long-Context Language Models**, `arXiv, 2409.01666`, [arxiv](http://arxiv.org/abs/2409.01666v1), [pdf](http://arxiv.org/pdf/2409.01666v1.pdf), cication: [**3**](https://scholar.google.com/scholar?cites=3261789221345650637&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII) 
 
 	 *Tan Yu, Anbang Xu, Rama Akkiraju* · ([zyphra](https://www.zyphra.com/post/reaching-1b-context-length-with-rag))
@@ -54,6 +62,9 @@
 
 ## Evaluation
 
+- **Long Context RAG Performance of Large Language Models**, `arXiv, 2411.03538`, [arxiv](http://arxiv.org/abs/2411.03538v1), [pdf](http://arxiv.org/pdf/2411.03538v1.pdf), cication: [**-1**](None) 
+
+	 *Quinn Leng, Jacob Portes, Sam Havens, ..., Matei Zaharia, Michael Carbin*
 - **CORAL: Benchmarking Multi-turn Conversational Retrieval-Augmentation 
   Generation**, `arXiv, 2410.23090`, [arxiv](http://arxiv.org/abs/2410.23090v1), [pdf](http://arxiv.org/pdf/2410.23090v1.pdf), cication: [**-1**](None)
 
@@ -64,6 +75,9 @@
 
 ## Projects
 
+- 🌟 [**RAGViz**](https://github.com/cxcscmu/RAGViz) - cxcscmu ![Star](https://img.shields.io/github/stars/cxcscmu/RAGViz.svg?style=social&label=Star)
+
+	 · ([youtube](https://www.youtube.com/embed/cTAbuTu6ur4?si=-uZ2AyNLx-5p8MZC))
 - [**pgai**](https://github.com/timescale/pgai) - timescale ![Star](https://img.shields.io/github/stars/timescale/pgai.svg?style=social&label=Star) 
 - [Contextual RAG from Anthropic](https://x.com/togethercompute/status/1850939031301099919)  𝕏 
 
@@ -78,6 +92,9 @@
 
 ## Misc
 
+- [What is Agentic RAG](https://weaviate.io/blog/what-is-agentic-rag) 
+
+	 · ([𝕏](https://x.com/helloiamleonie/status/1853832634448687451))
 - [Expert Support case study: Bolstering a RAG app with LLM-as-a-Judge](https://huggingface.co/blog/digital-green-llm-judge)  🤗 
 
 ## Vector Database
