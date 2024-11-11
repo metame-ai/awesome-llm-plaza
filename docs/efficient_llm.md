@@ -19,7 +19,7 @@
 
 ## Survey
 
-- **A Comprehensive Survey of Small Language Models in the Era of Large
+- **A Comprehensive Survey of Small Language Models in the Era of Large 
   Language Models: Techniques, Enhancements, Applications, Collaboration with
   LLMs, and Trustworthiness**, `arXiv, 2411.03350`, [arxiv](http://arxiv.org/abs/2411.03350v1), [pdf](http://arxiv.org/pdf/2411.03350v1.pdf), cication: [**-1**](None) 
 
@@ -59,7 +59,7 @@
 
 ## Pruning
 
-- **Sparsing Law: Towards Large Language Models with Greater Activation
+- **Sparsing Law: Towards Large Language Models with Greater Activation 
   Sparsity**, `arXiv, 2411.02335`, [arxiv](http://arxiv.org/abs/2411.02335v1), [pdf](http://arxiv.org/pdf/2411.02335v1.pdf), cication: [**-1**](None) 
 
 	 *Yuqi Luo, Chenyang Song, Xu Han, ..., Zhiyuan Liu, Maosong Sun*

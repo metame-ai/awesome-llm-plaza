@@ -40,7 +40,7 @@
 
 ## Math Reasoning
 
-- **FrontierMath: A Benchmark for Evaluating Advanced Mathematical Reasoning
+- **FrontierMath: A Benchmark for Evaluating Advanced Mathematical Reasoning 
   in AI**, `arXiv, 2411.04872`, [arxiv](http://arxiv.org/abs/2411.04872v1), [pdf](http://arxiv.org/pdf/2411.04872v1.pdf), cication: [**-1**](None) 
 
 	 *Elliot Glazer, Ege Erdil, Tamay Besiroglu, ..., Tetiana Grechuk, Shreepranav Varma Enugandla* · ([epochai](https://epochai.org/frontiermath)) · ([𝕏](https://x.com/EpochAIResearch/status/1854993676524831046))
@@ -59,7 +59,7 @@
 
 ## O1 Reasoning
 
-- [Tess-R1 is designed with test-time compute in mind, and has the capabilities to produce a Chain-of-Thought (CoT) reasoning before producing the final output.](https://huggingface.co/migtissera/Tess-R1-Limerick-Llama-3.1-70B)  🤗
+- [Tess-R1 is designed with test-time compute in mind, and has the capabilities to produce a Chain-of-Thought (CoT) reasoning before producing the final output.](https://huggingface.co/migtissera/Tess-R1-Limerick-Llama-3.1-70B)  🤗 
 - [**LLaMA-O1**](https://github.com/SimpleBerry/LLaMA-O1) - SimpleBerry ![Star](https://img.shields.io/github/stars/SimpleBerry/LLaMA-O1.svg?style=social&label=Star) 
 
 	 *Open Large Reasoning Model Frameworks For Training, Inference and Evaluation With PyTorch and HuggingFace* · ([qbitai](https://www.qbitai.com/2024/11/215576.html))

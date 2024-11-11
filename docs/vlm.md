@@ -32,7 +32,7 @@
 
 ## Vision-Language Models
 
-- **Unified Generative and Discriminative Training for Multi-modal Large
+- **Unified Generative and Discriminative Training for Multi-modal Large 
   Language Models**, `arXiv, 2411.00304`, [arxiv](http://arxiv.org/abs/2411.00304v1), [pdf](http://arxiv.org/pdf/2411.00304v1.pdf), cication: [**-1**](None) 
 
 	 *Wei Chow, Juncheng Li, Qifan Yu, ..., Hanwang Zhang, Qianru Sun*
@@ -61,7 +61,7 @@
 - **PPLLaVA: Varied Video Sequence Understanding With Prompt Guidance**, `arXiv, 2411.02327`, [arxiv](http://arxiv.org/abs/2411.02327v2), [pdf](http://arxiv.org/pdf/2411.02327v2.pdf), cication: [**-1**](None) 
 
 	 *Ruyang Liu, Haoran Tang, Haibo Liu, ..., Chen Li, Jiankun Yang* · ([PPLLaVA.](https://github.com/farewellthree/PPLLaVA.) - farewellthree) ![Star](https://img.shields.io/github/stars/farewellthree/PPLLaVA..svg?style=social&label=Star)
-- **VideoGLaMM: A Large Multimodal Model for Pixel-Level Visual Grounding in
+- **VideoGLaMM: A Large Multimodal Model for Pixel-Level Visual Grounding in 
   Videos**, `arXiv, 2411.04923`, [arxiv](http://arxiv.org/abs/2411.04923v1), [pdf](http://arxiv.org/pdf/2411.04923v1.pdf), cication: [**-1**](None) 
 
 	 *Shehan Munasinghe, Hanan Gani, Wenqi Zhu, ..., Fahad Shahbaz Khan, Salman Khan* · ([mbzuai-oryx.github](https://mbzuai-oryx.github.io/VideoGLaMM/))
@@ -102,7 +102,7 @@
 
 ## Alignment
 
-- **V-DPO: Mitigating Hallucination in Large Vision Language Models via
+- **V-DPO: Mitigating Hallucination in Large Vision Language Models via 
   Vision-Guided Direct Preference Optimization**, `arXiv, 2411.02712`, [arxiv](http://arxiv.org/abs/2411.02712v1), [pdf](http://arxiv.org/pdf/2411.02712v1.pdf), cication: [**-1**](None) 
 
 	 *Yuxi Xie, Guanzhen Li, Xiao Xu, ..., Min-Yen Kan* · ([V-DPO](https://github.com/YuxiXie/V-DPO) - YuxiXie) ![Star](https://img.shields.io/github/stars/YuxiXie/V-DPO.svg?style=social&label=Star)
@@ -119,15 +119,15 @@
 
 ## Evaluation
 
-- **DynaMath: A Dynamic Visual Benchmark for Evaluating Mathematical
+- **DynaMath: A Dynamic Visual Benchmark for Evaluating Mathematical 
   Reasoning Robustness of Vision Language Models**, `arXiv, 2411.00836`, [arxiv](http://arxiv.org/abs/2411.00836v1), [pdf](http://arxiv.org/pdf/2411.00836v1.pdf), cication: [**-1**](None) 
 
 	 *Chengke Zou, Xingang Guo, Rui Yang, ..., Bin Hu, Huan Zhang* · ([DynaMath](https://github.com/DynaMath/DynaMath) - DynaMath) ![Star](https://img.shields.io/github/stars/DynaMath/DynaMath.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/datasets/DynaMath/DynaMath_Sample.))
-- 🌟 **Both Text and Images Leaked! A Systematic Analysis of Multimodal LLM
+- 🌟 **Both Text and Images Leaked! A Systematic Analysis of Multimodal LLM 
   Data Contamination**, `arXiv, 2411.03823`, [arxiv](http://arxiv.org/abs/2411.03823v1), [pdf](http://arxiv.org/pdf/2411.03823v1.pdf), cication: [**-1**](None) 
 
 	 *Dingjie Song, Sicheng Lai, Shunian Chen, ..., Lichao Sun, Benyou Wang* · ([MM-Detect](https://github.com/MLLM-Data-Contamination/MM-Detect) - MLLM-Data-Contamination) ![Star](https://img.shields.io/github/stars/MLLM-Data-Contamination/MM-Detect.svg?style=social&label=Star)
-- **StreamingBench: Assessing the Gap for MLLMs to Achieve Streaming Video
+- **StreamingBench: Assessing the Gap for MLLMs to Achieve Streaming Video 
   Understanding**, `arXiv, 2411.03628`, [arxiv](http://arxiv.org/abs/2411.03628v1), [pdf](http://arxiv.org/pdf/2411.03628v1.pdf), cication: [**-1**](None) 
 
 	 *Junming Lin, Zheng Fang, Chi Chen, ..., Yang Liu, Maosong Sun*
@@ -186,7 +186,7 @@
 
 ## Generation
 
-- 🌟 **Mixture-of-Transformers: A Sparse and Scalable Architecture for
+- 🌟 **Mixture-of-Transformers: A Sparse and Scalable Architecture for 
   Multi-Modal Foundation Models**, `arXiv, 2411.04996`, [arxiv](http://arxiv.org/abs/2411.04996v1), [pdf](http://arxiv.org/pdf/2411.04996v1.pdf), cication: [**-1**](None) 
 
 	 *Weixin Liang, Lili Yu, Liang Luo, ..., Luke Zettlemoyer, Xi Victoria Lin*

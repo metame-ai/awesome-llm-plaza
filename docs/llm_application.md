@@ -36,7 +36,7 @@
 
 ## Science
 
-- **IdeaBench: Benchmarking Large Language Models for Research Idea
+- **IdeaBench: Benchmarking Large Language Models for Research Idea 
   Generation**, `arXiv, 2411.02429`, [arxiv](http://arxiv.org/abs/2411.02429v1), [pdf](http://arxiv.org/pdf/2411.02429v1.pdf), cication: [**-1**](None) 
 
 	 *Sikun Guo, Amir Hassan Shariatmadari, Guangzhi Xiong, ..., Stefan Bekiranov, Aidong Zhang*
@@ -56,7 +56,7 @@
 
 ## Chatbot
 
-- **Thanos: Enhancing Conversational Agents with Skill-of-Mind-Infused Large
+- **Thanos: Enhancing Conversational Agents with Skill-of-Mind-Infused Large 
   Language Model**, `arXiv, 2411.04496`, [arxiv](http://arxiv.org/abs/2411.04496v1), [pdf](http://arxiv.org/pdf/2411.04496v1.pdf), cication: [**-1**](None) 
 
 	 *Young-Jun Lee, Dokyong Lee, Junyoung Youn, ..., Kyeongjin Oh, Ho-Jin Choi* · ([Thanos](https://github.com/passing2961/Thanos) - passing2961) ![Star](https://img.shields.io/github/stars/passing2961/Thanos.svg?style=social&label=Star)
@@ -79,7 +79,7 @@
 
 ## Medical
 
-- **From Medprompt to o1: Exploration of Run-Time Strategies for Medical
+- **From Medprompt to o1: Exploration of Run-Time Strategies for Medical 
   Challenge Problems and Beyond**, `arXiv, 2411.03590`, [arxiv](http://arxiv.org/abs/2411.03590v1), [pdf](http://arxiv.org/pdf/2411.03590v1.pdf), cication: [**-1**](None) 
 
 	 *Harsha Nori, Naoto Usuyama, Nicholas King, ..., Sheng Zhang, Eric Horvitz*
@@ -137,9 +137,9 @@
 
 ## Projects
 
-- 🌟 [**anything-llm**](https://github.com/Mintplex-Labs/anything-llm) - Mintplex-Labs ![Star](https://img.shields.io/github/stars/Mintplex-Labs/anything-llm.svg?style=social&label=Star)
-- [**screenshot-to-code**](https://github.com/abi/screenshot-to-code) - abi ![Star](https://img.shields.io/github/stars/abi/screenshot-to-code.svg?style=social&label=Star)
-- [**paper-reviewer**](https://github.com/deep-diver/paper-reviewer) - deep-diver ![Star](https://img.shields.io/github/stars/deep-diver/paper-reviewer.svg?style=social&label=Star)
+- 🌟 [**anything-llm**](https://github.com/Mintplex-Labs/anything-llm) - Mintplex-Labs ![Star](https://img.shields.io/github/stars/Mintplex-Labs/anything-llm.svg?style=social&label=Star) 
+- [**screenshot-to-code**](https://github.com/abi/screenshot-to-code) - abi ![Star](https://img.shields.io/github/stars/abi/screenshot-to-code.svg?style=social&label=Star) 
+- [**paper-reviewer**](https://github.com/deep-diver/paper-reviewer) - deep-diver ![Star](https://img.shields.io/github/stars/deep-diver/paper-reviewer.svg?style=social&label=Star) 
 - [**cortex.cpp**](https://github.com/janhq/cortex.cpp) - janhq ![Star](https://img.shields.io/github/stars/janhq/cortex.cpp.svg?style=social&label=Star) 
 
 	 · ([reddit](https://www.reddit.com/r/LocalLLaMA/comments/1gfiihi/cortex_local_ai_api_platform_a_journey_to_build_a/))

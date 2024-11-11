@@ -28,7 +28,7 @@
 - **DynaSaur: Large Language Agents Beyond Predefined Actions**, `arXiv, 2411.01747`, [arxiv](http://arxiv.org/abs/2411.01747v1), [pdf](http://arxiv.org/pdf/2411.01747v1.pdf), cication: [**-1**](None) 
 
 	 *Dang Nguyen, Viet Dac Lai, Seunghyun Yoon, ..., Franck Dernoncourt, Tianyi Zhou* · ([dynasaur](https://github.com/adobe-research/dynasaur) - adobe-research) ![Star](https://img.shields.io/github/stars/adobe-research/dynasaur.svg?style=social&label=Star)
-- 🌟 **Large Language Models Orchestrating Structured Reasoning Achieve Kaggle
+- 🌟 **Large Language Models Orchestrating Structured Reasoning Achieve Kaggle 
   Grandmaster Level**, `arXiv, 2411.03562`, [arxiv](http://arxiv.org/abs/2411.03562v1), [pdf](http://arxiv.org/pdf/2411.03562v1.pdf), cication: [**-1**](None) 
 
 	 *Antoine Grosnit, Alexandre Maraval, James Doran, ..., Haitham Bou-Ammar, Jun Wang*
@@ -67,7 +67,7 @@
 
 ## UI Agent
 
-- **WebRL: Training LLM Web Agents via Self-Evolving Online Curriculum
+- **WebRL: Training LLM Web Agents via Self-Evolving Online Curriculum 
   Reinforcement Learning**, `arXiv, 2411.02337`, [arxiv](http://arxiv.org/abs/2411.02337v1), [pdf](http://arxiv.org/pdf/2411.02337v1.pdf), cication: [**-1**](None) 
 
 	 *Zehan Qi, Xiao Liu, Iat Long Iong, ..., Jie Tang, Yuxiao Dong*
@@ -114,7 +114,7 @@
 
 ## Evaluation
 
-- **AndroidLab: Training and Systematic Benchmarking of Android Autonomous
+- **AndroidLab: Training and Systematic Benchmarking of Android Autonomous 
   Agents**, `arXiv, 2410.24024`, [arxiv](http://arxiv.org/abs/2410.24024v2), [pdf](http://arxiv.org/pdf/2410.24024v2.pdf), cication: [**-1**](None) 
 
 	 *Yifan Xu, Xiao Liu, Xueqiao Sun, ..., Jie Tang, Yuxiao Dong* · ([Android-Lab](https://github.com/THUDM/Android-Lab) - THUDM) ![Star](https://img.shields.io/github/stars/THUDM/Android-Lab.svg?style=social&label=Star)
@@ -124,7 +124,7 @@
 
 ## Projects
 
-- [**composio**](https://github.com/ComposioHQ/composio) - ComposioHQ ![Star](https://img.shields.io/github/stars/ComposioHQ/composio.svg?style=social&label=Star)
+- [**composio**](https://github.com/ComposioHQ/composio) - ComposioHQ ![Star](https://img.shields.io/github/stars/ComposioHQ/composio.svg?style=social&label=Star) 
 - [**taskgen**](https://github.com/simbianai/taskgen) - simbianai ![Star](https://img.shields.io/github/stars/simbianai/taskgen.svg?style=social&label=Star) 
 
 	 · ([taskgen](https://github.com/tanchongmin/taskgen) - tanchongmin) ![Star](https://img.shields.io/github/stars/tanchongmin/taskgen.svg?style=social&label=Star)
@@ -135,7 +135,7 @@
 
 ## Misc
 ## Multi Agent
-- [**autogen**](https://github.com/microsoft/autogen/tree/main/python/packages/autogen-magentic-one) - microsoft ![Star](https://img.shields.io/github/stars/microsoft/autogen.svg?style=social&label=Star)
+- [**autogen**](https://github.com/microsoft/autogen/tree/main/python/packages/autogen-magentic-one) - microsoft ![Star](https://img.shields.io/github/stars/microsoft/autogen.svg?style=social&label=Star) 
 
 	 · ([microsoft](https://www.microsoft.com/en-us/research/articles/magentic-one-a-generalist-multi-agent-system-for-solving-complex-tasks/))
 - **Project Sid: Many-agent simulations toward AI civilization**, `arXiv, 2411.00114`, [arxiv](http://arxiv.org/abs/2411.00114v1), [pdf](http://arxiv.org/pdf/2411.00114v1.pdf), cication: [**-1**](None) 

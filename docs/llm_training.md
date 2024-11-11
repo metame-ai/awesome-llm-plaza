@@ -45,7 +45,7 @@
 - [The Practitioner’s Guide to the Maximal Update Parameterization](https://cerebras.ai/blog/the-practitioners-guide-to-the-maximal-update-parameterization/) 
 
 	 · ([nanoGPT-mup](https://github.com/EleutherAI/nanoGPT-mup) - EleutherAI) ![Star](https://img.shields.io/github/stars/EleutherAI/nanoGPT-mup.svg?style=social&label=Star)
-- **Polynomial Composition Activations: Unleashing the Dynamics of Large
+- **Polynomial Composition Activations: Unleashing the Dynamics of Large 
   Language Models**, `arXiv, 2411.03884`, [arxiv](http://arxiv.org/abs/2411.03884v1), [pdf](http://arxiv.org/pdf/2411.03884v1.pdf), cication: [**-1**](None) 
 
 	 *Zhijian Zhuo, Ya Wang, Yutao Zeng, ..., Xun Zhou, Jinwen Ma* · ([PolyCom](https://github.com/BryceZhuo/PolyCom) - BryceZhuo) ![Star](https://img.shields.io/github/stars/BryceZhuo/PolyCom.svg?style=social&label=Star)
@@ -59,7 +59,7 @@
 
 ## Mixture Of Experts
 
-- **LIBMoE: A Library for comprehensive benchmarking Mixture of Experts in
+- **LIBMoE: A Library for comprehensive benchmarking Mixture of Experts in 
   Large Language Models**, `arXiv, 2411.00918`, [arxiv](http://arxiv.org/abs/2411.00918v1), [pdf](http://arxiv.org/pdf/2411.00918v1.pdf), cication: [**-1**](None) 
 
 	 *Nam V. Nguyen, Thong T. Doan, Luong Tran, ..., Van Nguyen, Quang Pham* · ([LibMoE](https://github.com/Fsoft-AIC/LibMoE) - Fsoft-AIC) ![Star](https://img.shields.io/github/stars/Fsoft-AIC/LibMoE.svg?style=social&label=Star)
@@ -85,7 +85,7 @@
 
 ## Toolkits
 
-- [**cohere-finetune**](https://github.com/cohere-ai/cohere-finetune) - cohere-ai ![Star](https://img.shields.io/github/stars/cohere-ai/cohere-finetune.svg?style=social&label=Star)
+- [**cohere-finetune**](https://github.com/cohere-ai/cohere-finetune) - cohere-ai ![Star](https://img.shields.io/github/stars/cohere-ai/cohere-finetune.svg?style=social&label=Star) 
 - 🌟 [**open-instruct**](https://github.com/allenai/open-instruct) - allenai ![Star](https://img.shields.io/github/stars/allenai/open-instruct.svg?style=social&label=Star) 
 
 	 · ([arxiv](https://arxiv.org/abs/2406.09279))

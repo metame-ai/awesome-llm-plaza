@@ -15,7 +15,7 @@
 
 ## Code LLM
 
-- 🌟 **Large Language Models Orchestrating Structured Reasoning Achieve Kaggle
+- 🌟 **Large Language Models Orchestrating Structured Reasoning Achieve Kaggle 
   Grandmaster Level**, `arXiv, 2411.03562`, [arxiv](http://arxiv.org/abs/2411.03562v1), [pdf](http://arxiv.org/pdf/2411.03562v1.pdf), cication: [**-1**](None) 
 
 	 *Antoine Grosnit, Alexandre Maraval, James Doran, ..., Haitham Bou-Ammar, Jun Wang*
@@ -48,8 +48,8 @@
 
 ## Projects
 
-- [**screenshot-to-code**](https://github.com/abi/screenshot-to-code) - abi ![Star](https://img.shields.io/github/stars/abi/screenshot-to-code.svg?style=social&label=Star)
-- [**composio**](https://github.com/ComposioHQ/composio) - ComposioHQ ![Star](https://img.shields.io/github/stars/ComposioHQ/composio.svg?style=social&label=Star)
+- [**screenshot-to-code**](https://github.com/abi/screenshot-to-code) - abi ![Star](https://img.shields.io/github/stars/abi/screenshot-to-code.svg?style=social&label=Star) 
+- [**composio**](https://github.com/ComposioHQ/composio) - ComposioHQ ![Star](https://img.shields.io/github/stars/ComposioHQ/composio.svg?style=social&label=Star) 
 - [**fast-apply**](https://github.com/kortix-ai/fast-apply) - kortix-ai ![Star](https://img.shields.io/github/stars/kortix-ai/fast-apply.svg?style=social&label=Star) 
 
 	 *Pipeline for Data Generation & Fine-Tuning Qwen2.5 Coder Models*

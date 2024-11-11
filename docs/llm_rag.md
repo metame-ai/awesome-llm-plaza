@@ -18,11 +18,11 @@
 
 ## RAG
 
-- 🌟 **HtmlRAG: HTML is Better Than Plain Text for Modeling Retrieved Knowledge
+- 🌟 **HtmlRAG: HTML is Better Than Plain Text for Modeling Retrieved Knowledge 
   in RAG Systems**, `arXiv, 2411.02959`, [arxiv](http://arxiv.org/abs/2411.02959v1), [pdf](http://arxiv.org/pdf/2411.02959v1.pdf), cication: [**-1**](None) 
 
 	 *Jiejun Tan, Zhicheng Dou, Wen Wang, ..., Weipeng Chen, Ji-Rong Wen*
-- **M3DocRAG: Multi-modal Retrieval is What You Need for Multi-page
+- **M3DocRAG: Multi-modal Retrieval is What You Need for Multi-page 
   Multi-document Understanding**, `arXiv, 2411.04952`, [arxiv](http://arxiv.org/abs/2411.04952v1), [pdf](http://arxiv.org/pdf/2411.04952v1.pdf), cication: [**-1**](None) 
 
 	 *Jaemin Cho, Debanjan Mahata, Ozan Irsoy, ..., Yujie He, Mohit Bansal* · ([m3docrag.github](https://m3docrag.github.io/))
@@ -75,7 +75,7 @@
 
 ## Projects
 
-- 🌟 [**RAGViz**](https://github.com/cxcscmu/RAGViz) - cxcscmu ![Star](https://img.shields.io/github/stars/cxcscmu/RAGViz.svg?style=social&label=Star)
+- 🌟 [**RAGViz**](https://github.com/cxcscmu/RAGViz) - cxcscmu ![Star](https://img.shields.io/github/stars/cxcscmu/RAGViz.svg?style=social&label=Star) 
 
 	 · ([youtube](https://www.youtube.com/embed/cTAbuTu6ur4?si=-uZ2AyNLx-5p8MZC))
 - [**pgai**](https://github.com/timescale/pgai) - timescale ![Star](https://img.shields.io/github/stars/timescale/pgai.svg?style=social&label=Star) 
