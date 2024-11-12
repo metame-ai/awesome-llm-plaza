@@ -19,6 +19,9 @@
 
 ## English Models
 
+- [TableGPT2-7B, a large-scale decoder specifically tailored for data-intensive tasks, with a focus on interpreting and analyzing tabular data.](https://huggingface.co/tablegpt/TableGPT2-7B)  🤗
+
+	 · ([tablegpt-agent](https://github.com/tablegpt/tablegpt-agent) - tablegpt) ![Star](https://img.shields.io/github/stars/tablegpt/tablegpt-agent.svg?style=social&label=Star)
 - [Tess-R1 is designed with test-time compute in mind, and has the capabilities to produce a Chain-of-Thought (CoT) reasoning before producing the final output.](https://huggingface.co/migtissera/Tess-R1-Limerick-Llama-3.1-70B)  🤗 
 - [AMD-OLMo are a series of 1 billion parameter language models trained by AMD on AMD Instinct™ MI250 GPUs based on OLMo.](https://huggingface.co/collections/amd/amd-olmo-6723e7d04a49116d8ec95070)  🤗 
 - [Steiner is a series of reasoning models trained on synthetic data using reinforcement learning.](https://huggingface.co/peakji/steiner-32b-preview)  🤗 

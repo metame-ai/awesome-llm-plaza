@@ -15,6 +15,7 @@
 
 ## Code LLM
 
+- [Qwen2.5-Coder is the latest series of Code-Specific Qwen large language models (formerly known as CodeQwen).](https://huggingface.co/Qwen/Qwen2.5-Coder-32B-Instruct)  🤗
 - 🌟 **Large Language Models Orchestrating Structured Reasoning Achieve Kaggle 
   Grandmaster Level**, `arXiv, 2411.03562`, [arxiv](http://arxiv.org/abs/2411.03562v1), [pdf](http://arxiv.org/pdf/2411.03562v1.pdf), cication: [**-1**](None) 
 
@@ -64,6 +65,7 @@
 
 ## Misc
 
+- [Qwen / Qwen2.5-Coder-Artifacts](https://huggingface.co/spaces/Qwen/Qwen2.5-Coder-Artifacts/tree/main)  🤗
 - [Using Large Language Models To Catch Vulnerabilities In Real-World Code](https://googleprojectzero.blogspot.com/2024/10/from-naptime-to-big-sleep.html) 
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-11-02-4))

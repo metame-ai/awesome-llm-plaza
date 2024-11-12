@@ -13,6 +13,9 @@
 
 ## RLHF
 
+- [Mira: A Decentralized Network for Trustless AI Output Verification](https://mira.network/research/mira-whitepaper.pdf) 
+
+	 · ([mira](https://mira.network/)) · ([huggingface](https://huggingface.co/datasets/Mira-Network/ensemble-validation?row=0))
 - **Self-Evolved Reward Learning for LLMs**, `arXiv, 2411.00418`, [arxiv](http://arxiv.org/abs/2411.00418v1), [pdf](http://arxiv.org/pdf/2411.00418v1.pdf), cication: [**-1**](None) 
 
 	 *Chenghua Huang, Zhizhen Fan, Lu Wang, ..., Saravan Rajmohan, Qi Zhang*

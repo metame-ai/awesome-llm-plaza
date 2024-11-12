@@ -87,6 +87,9 @@
 
 ## Encoder
 
+- **In Search of Forgotten Domain Generalization**, `arXiv, 2410.08258`, [arxiv](http://arxiv.org/abs/2410.08258v1), [pdf](http://arxiv.org/pdf/2410.08258v1.pdf), cication: [**-1**](None) 
+
+	 *Prasanna Mayilvahanan, Roland S. Zimmermann, Thaddäus Wiedemer, ..., Matthias Bethge, Wieland Brendel* · ([𝕏](https://x.com/wielandbr/status/1856020430219555266))
 - **Adaptive Length Image Tokenization via Recurrent Allocation**, `arXiv, 2411.02393`, [arxiv](http://arxiv.org/abs/2411.02393v1), [pdf](http://arxiv.org/pdf/2411.02393v1.pdf), cication: [**-1**](None) 
 
 	 *Shivam Duggal, Phillip Isola, Antonio Torralba, ..., William T. Freeman*

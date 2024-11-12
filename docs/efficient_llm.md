@@ -33,6 +33,10 @@
 
 ## Finetune
 
+- **Parameter-Efficient Fine-Tuning of Large Language Models for Unit Test
+  Generation: An Empirical Study**, `arXiv, 2411.02462`, [arxiv](http://arxiv.org/abs/2411.02462v1), [pdf](http://arxiv.org/pdf/2411.02462v1.pdf), cication: [**-1**](None) 
+
+	 *André Storhaug, Jingyue Li* · ([peft-unit-test-generation-replication-package](https://github.com/andstor/peft-unit-test-generation-replication-package) - andstor) ![Star](https://img.shields.io/github/stars/andstor/peft-unit-test-generation-replication-package.svg?style=social&label=Star)
 - **LoRA vs Full Fine-tuning: An Illusion of Equivalence**, `arXiv, 2410.21228`, [arxiv](http://arxiv.org/abs/2410.21228v1), [pdf](http://arxiv.org/pdf/2410.21228v1.pdf), cication: [**-1**](None) 
 
 	 *Reece Shuttleworth, Jacob Andreas, Antonio Torralba, ..., Pratyusha Sharma* · ([𝕏](https://x.com/danielhanchen/status/1854992153992479165))
@@ -122,6 +126,9 @@
 
 ## Projects
 
+- [**exo**](https://github.com/exo-explore/exo) - exo-explore ![Star](https://img.shields.io/github/stars/exo-explore/exo.svg?style=social&label=Star)
+
+	 *Run your own AI cluster at home with everyday devices.*
 
 ## Products
 

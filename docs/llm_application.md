@@ -67,6 +67,21 @@
 
 ## Role Play
 
+- **RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities
+  of Large Language Models**, `arXiv, 2310.00746`, [arxiv](http://arxiv.org/abs/2310.00746v3), [pdf](http://arxiv.org/pdf/2310.00746v3.pdf), cication: [**119**](https://scholar.google.com/scholar?cites=17525742729663905763&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII) 
+
+	 *Zekun Moore Wang, Zhongyuan Peng, Haoran Que, ..., Jie Fu, Junran Peng* · ([RoleLLM-public](https://github.com/InteractiveNLP-Team/RoleLLM-public) - InteractiveNLP-Team) ![Star](https://img.shields.io/github/stars/InteractiveNLP-Team/RoleLLM-public.svg?style=social&label=Star)
+- **Character is Destiny: Can Large Language Models Simulate Persona-Driven
+  Decisions in Role-Playing?**, `arXiv, 2404.12138`, [arxiv](http://arxiv.org/abs/2404.12138v1), [pdf](http://arxiv.org/pdf/2404.12138v1.pdf), cication: [**11**](https://scholar.google.com/scholar?cites=11482100265479178380&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII) 
+
+	 *Rui Xu, Xintao Wang, Jiangjie Chen, ..., Xiaoqing Dong, Yanghua Xiao*
+- **From Role-Play to Drama-Interaction: An LLM Solution**, `arXiv, 2405.14231`, [arxiv](http://arxiv.org/abs/2405.14231v1), [pdf](http://arxiv.org/pdf/2405.14231v1.pdf), cication: [**8**](https://scholar.google.com/scholar?cites=8850107612916878775&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII) 
+
+	 *Weiqi Wu, Hongqiu Wu, Lai Jiang, ..., Hai Zhao, Min Zhang*
+- **Character-LLM: A Trainable Agent for Role-Playing**, `arXiv, 2310.10158`, [arxiv](http://arxiv.org/abs/2310.10158v2), [pdf](http://arxiv.org/pdf/2310.10158v2.pdf), cication: [**115**](https://scholar.google.com/scholar?cites=8468156573203816381&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII) 
+
+	 *Yunfan Shao, Linyang Li, Junqi Dai, ..., Xipeng Qiu* · ([trainable-agents](https://github.com/choosewhatulike/trainable-agents) - choosewhatulike) ![Star](https://img.shields.io/github/stars/choosewhatulike/trainable-agents.svg?style=social&label=Star)
+- [Chaiverse calculates the ELO of LLMs via human feedback, obtained through blind selection testing using the Chai app.](https://console.chaiverse.com/) 
 - **Benchmarking Bias in Large Language Models during Role-Playing**, `arXiv, 2411.00585`, [arxiv](http://arxiv.org/abs/2411.00585v1), [pdf](http://arxiv.org/pdf/2411.00585v1.pdf), cication: [**-1**](None) 
 
 	 *Xinyue Li, Zhenpeng Chen, Jie M. Zhang, ..., Yang Liu, Xuanzhe Liu*

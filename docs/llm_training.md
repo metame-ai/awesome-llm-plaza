@@ -19,6 +19,9 @@
 
 ## LLM Training
 
+- **Learning to (Learn at Test Time): RNNs with Expressive Hidden States**, `arXiv, 2407.04620`, [arxiv](http://arxiv.org/abs/2407.04620v2), [pdf](http://arxiv.org/pdf/2407.04620v2.pdf), cication: [**19**](https://scholar.google.com/scholar?cites=4859112994803550513&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII) 
+
+	 *Yu Sun, Xinhao Li, Karan Dalal, ..., Tatsunori Hashimoto, Carlos Guestrin* · ([yueatsprograms.github](https://yueatsprograms.github.io/ttt/home.html)) · ([ttt-lm-pytorch](https://github.com/test-time-training/ttt-lm-pytorch) - test-time-training) ![Star](https://img.shields.io/github/stars/test-time-training/ttt-lm-pytorch.svg?style=social&label=Star)
 - **What Happened in LLMs Layers when Trained for Fast vs. Slow Thinking: A 
   Gradient Perspective**, `arXiv, 2410.23743`, [arxiv](http://arxiv.org/abs/2410.23743v1), [pdf](http://arxiv.org/pdf/2410.23743v1.pdf), cication: [**-1**](None)
 
@@ -106,5 +109,8 @@
 
 ## Misc
 
+- **Pretraining on the Test Set Is All You Need**, `arXiv, 2309.08632`, [arxiv](http://arxiv.org/abs/2309.08632v1), [pdf](http://arxiv.org/pdf/2309.08632v1.pdf), cication: [**14**](https://scholar.google.com/scholar?cites=12205479803973588820&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII) 
+
+	 *Rylan Schaeffer*
 - [SGLang Developer Sync - 20241102](https://www.youtube.com/watch?v=k8Jo6-XcStM)  :clapper: 
 - [Argilla 2.4: Easily Build Fine-Tuning and Evaluation Datasets on the Hub — No Code Required](https://huggingface.co/blog/argilla-ui-hub)  🤗 

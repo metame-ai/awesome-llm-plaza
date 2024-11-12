@@ -20,6 +20,12 @@
 
 ## Reasoning
 
+- :star2: **Combining Induction and Transduction for Abstract Reasoning**, `arXiv, 2411.02272`, [arxiv](http://arxiv.org/abs/2411.02272v1), [pdf](http://arxiv.org/pdf/2411.02272v1.pdf), cication: [**-1**](None) 
+
+	 *Wen-Ding Li, Keya Hu, Carter Larsen, ..., Yewen Pu, Kevin Ellis* · ([𝕏](https://x.com/ellisk_kellis/status/1852690768042897661))
+- :star2: [The Surprising Effectiveness ofTest-Time Training for Abstract Reasoning](https://ekinakyurek.github.io/papers/ttt.pdf) 
+
+	 · ([𝕏](https://x.com/akyurekekin/status/1855680785715478546)) · ([marc](https://github.com/ekinakyurek/marc) - ekinakyurek) ![Star](https://img.shields.io/github/stars/ekinakyurek/marc.svg?style=social&label=Star)
 - **Can Language Models Learn to Skip Steps?**, `arXiv, 2411.01855`, [arxiv](http://arxiv.org/abs/2411.01855v1), [pdf](http://arxiv.org/pdf/2411.01855v1.pdf), cication: [**-1**](None) 
 
 	 *Tengxiao Liu, Qipeng Guo, Xiangkun Hu, ..., Xipeng Qiu, Zheng Zhang*
@@ -88,6 +94,10 @@
 
 ## Chain Of Thought
 
+- **A Theoretical Understanding of Chain-of-Thought: Coherent Reasoning and
+  Error-Aware Demonstration**, `arXiv, 2410.16540`, [arxiv](http://arxiv.org/abs/2410.16540v1), [pdf](http://arxiv.org/pdf/2410.16540v1.pdf), cication: [**-1**](None) 
+
+	 *Yingqian Cui, Pengfei He, Xianfeng Tang, ..., Jiliang Tang, Yue Xing* · ([𝕏](https://x.com/_philschmid/status/1855926845855699311))
 - **Mind Your Step (by Step): Chain-of-Thought can Reduce Performance on 
   Tasks where Thinking Makes Humans Worse**, `arXiv, 2410.21333`, [arxiv](http://arxiv.org/abs/2410.21333v1), [pdf](http://arxiv.org/pdf/2410.21333v1.pdf), cication: [**-1**](None)
 
