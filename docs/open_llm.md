@@ -19,7 +19,10 @@
 
 ## English Models
 
-- [TableGPT2-7B, a large-scale decoder specifically tailored for data-intensive tasks, with a focus on interpreting and analyzing tabular data.](https://huggingface.co/tablegpt/TableGPT2-7B)  🤗
+- 🌟 [Athene-V2-Chat-72B, an open-weights LLM on-par with GPT-4o across benchmarks](https://huggingface.co/Nexusflow/Athene-V2-Chat)  🤗
+
+	 · ([nexusflow](https://nexusflow.ai/blogs/athene-v2))
+- [TableGPT2-7B, a large-scale decoder specifically tailored for data-intensive tasks, with a focus on interpreting and analyzing tabular data.](https://huggingface.co/tablegpt/TableGPT2-7B)  🤗 
 
 	 · ([tablegpt-agent](https://github.com/tablegpt/tablegpt-agent) - tablegpt) ![Star](https://img.shields.io/github/stars/tablegpt/tablegpt-agent.svg?style=social&label=Star)
 - [Tess-R1 is designed with test-time compute in mind, and has the capabilities to produce a Chain-of-Thought (CoT) reasoning before producing the final output.](https://huggingface.co/migtissera/Tess-R1-Limerick-Llama-3.1-70B)  🤗 

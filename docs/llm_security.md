@@ -13,6 +13,9 @@
 
 ## LLM Security
 
+- **Rapid Response: Mitigating LLM Jailbreaks with a Few Examples**, `arXiv, 2411.07494`, [arxiv](http://arxiv.org/abs/2411.07494v1), [pdf](http://arxiv.org/pdf/2411.07494v1.pdf), cication: [**-1**](None) 
+
+	 *Alwin Peng, Julian Michael, Henry Sleight, ..., Ethan Perez, Mrinank Sharma* · ([𝕏](https://x.com/AnthropicAI/status/1856752093945540673)) · ([rapidresponsebench](https://github.com/rapidresponsebench/rapidresponsebench) - rapidresponsebench) ![Star](https://img.shields.io/github/stars/rapidresponsebench/rapidresponsebench.svg?style=social&label=Star)
 - **AgentHarm: A Benchmark for Measuring Harmfulness of LLM Agents**, `arXiv, 2410.09024`, [arxiv](http://arxiv.org/abs/2410.09024v2), [pdf](http://arxiv.org/pdf/2410.09024v2.pdf), cication: [**2**](https://scholar.google.com/scholar?cites=2401564792328774425&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII) 
 
 	 *Maksym Andriushchenko, Alexandra Souly, Mateusz Dziemian, ..., Yarin Gal, Xander Davies*

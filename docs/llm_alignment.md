@@ -12,6 +12,10 @@
 
 ## LLM Alignment
 
+- **IOPO: Empowering LLMs with Complex Instruction Following via
+  Input-Output Preference Optimization**, `arXiv, 2411.06208`, [arxiv](http://arxiv.org/abs/2411.06208v1), [pdf](http://arxiv.org/pdf/2411.06208v1.pdf), cication: [**-1**](None) 
+
+	 *Xinghua Zhang, Haiyang Yu, Cheng Fu, ..., Fei Huang, Yongbin Li*
 - **Aligning Large Language Models via Self-Steering Optimization**, `arXiv, 2410.17131`, [arxiv](http://arxiv.org/abs/2410.17131v1), [pdf](http://arxiv.org/pdf/2410.17131v1.pdf), cication: [**-1**](None) 
 
 	 *Hao Xiang, Bowen Yu, Hongyu Lin, ..., Jingren Zhou, Junyang Lin*

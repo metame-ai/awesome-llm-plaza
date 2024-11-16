@@ -13,6 +13,7 @@
   - [Translation](#translation)
   - [Design](#design)
   - [Recommendation](#recommendation)
+  - [Search](#search)
   - [Game](#game)
   - [UI](#ui)
   - [Vision](#vision)
@@ -67,11 +68,14 @@
 
 ## Role Play
 
-- **RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities
+- [UnslopNemo v4.1 is the latest addition from the creator of Rocinante, designed for adventure writing and role-play scenarios.](https://openrouter.ai/thedrummer/unslopnemo-12b) 
+- [**TinyTroupe**](https://github.com/microsoft/TinyTroupe) - microsoft ![Star](https://img.shields.io/github/stars/microsoft/TinyTroupe.svg?style=social&label=Star)
+- [RPMax is a series of models that are trained on a diverse set of curated creative writing and RP datasets with a focus on variety and deduplication.](https://huggingface.co/ArliAI/Qwen2.5-32B-ArliAI-RPMax-v1.3)  🤗
+- **RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities 
   of Large Language Models**, `arXiv, 2310.00746`, [arxiv](http://arxiv.org/abs/2310.00746v3), [pdf](http://arxiv.org/pdf/2310.00746v3.pdf), cication: [**119**](https://scholar.google.com/scholar?cites=17525742729663905763&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII) 
 
 	 *Zekun Moore Wang, Zhongyuan Peng, Haoran Que, ..., Jie Fu, Junran Peng* · ([RoleLLM-public](https://github.com/InteractiveNLP-Team/RoleLLM-public) - InteractiveNLP-Team) ![Star](https://img.shields.io/github/stars/InteractiveNLP-Team/RoleLLM-public.svg?style=social&label=Star)
-- **Character is Destiny: Can Large Language Models Simulate Persona-Driven
+- **Character is Destiny: Can Large Language Models Simulate Persona-Driven 
   Decisions in Role-Playing?**, `arXiv, 2404.12138`, [arxiv](http://arxiv.org/abs/2404.12138v1), [pdf](http://arxiv.org/pdf/2404.12138v1.pdf), cication: [**11**](https://scholar.google.com/scholar?cites=11482100265479178380&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII) 
 
 	 *Rui Xu, Xintao Wang, Jiangjie Chen, ..., Xiaoqing Dong, Yanghua Xiao*
@@ -121,6 +125,9 @@
 ## Recommendation
 
 
+## Search
+
+
 ## Game
 
 - [**HEP-LLM-play-StarCraftII**](https://github.com/NKAI-Decision-Team/HEP-LLM-play-StarCraftII) - NKAI-Decision-Team ![Star](https://img.shields.io/github/stars/NKAI-Decision-Team/HEP-LLM-play-StarCraftII.svg?style=social&label=Star) 
@@ -138,6 +145,7 @@
 
 ## UI
 
+- [**coai**](https://github.com/coaidev/coai) - coaidev ![Star](https://img.shields.io/github/stars/coaidev/coai.svg?style=social&label=Star)
 - [gabrielchua / gradio-canvas](https://huggingface.co/spaces/gabrielchua/gradio-canvas/tree/main)  🤗 
 
 ## Vision
@@ -152,6 +160,9 @@
 
 ## Projects
 
+- [**HK-O1aw**](https://github.com/HKAIR-Lab/HK-O1aw) - HKAIR-Lab ![Star](https://img.shields.io/github/stars/HKAIR-Lab/HK-O1aw.svg?style=social&label=Star)
+- [**dsRAG**](https://github.com/D-Star-AI/dsRAG) - D-Star-AI ![Star](https://img.shields.io/github/stars/D-Star-AI/dsRAG.svg?style=social&label=Star)
+- [**eliza**](https://github.com/ai16z/eliza) - ai16z ![Star](https://img.shields.io/github/stars/ai16z/eliza.svg?style=social&label=Star)
 - 🌟 [**anything-llm**](https://github.com/Mintplex-Labs/anything-llm) - Mintplex-Labs ![Star](https://img.shields.io/github/stars/Mintplex-Labs/anything-llm.svg?style=social&label=Star) 
 - [**screenshot-to-code**](https://github.com/abi/screenshot-to-code) - abi ![Star](https://img.shields.io/github/stars/abi/screenshot-to-code.svg?style=social&label=Star) 
 - [**paper-reviewer**](https://github.com/deep-diver/paper-reviewer) - deep-diver ![Star](https://img.shields.io/github/stars/deep-diver/paper-reviewer.svg?style=social&label=Star) 
@@ -166,6 +177,9 @@
 
 ## LLM Applications
 
+- **LLaMA-Mesh: Unifying 3D Mesh Generation with Language Models**, `arXiv, 2411.09595`, [arxiv](http://arxiv.org/abs/2411.09595v1), [pdf](http://arxiv.org/pdf/2411.09595v1.pdf), cication: [**-1**](None) 
+
+	 *Zhengyi Wang, Jonathan Lorraine, Yikai Wang, ..., Sanja Fidler, Xiaohui Zeng*
 
 ## Products
 

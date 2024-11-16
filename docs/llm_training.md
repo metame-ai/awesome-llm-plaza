@@ -19,6 +19,9 @@
 
 ## LLM Training
 
+- **Balancing Pipeline Parallelism with Vocabulary Parallelism**, `arXiv, 2411.05288`, [arxiv](http://arxiv.org/abs/2411.05288v1), [pdf](http://arxiv.org/pdf/2411.05288v1.pdf), cication: [**-1**](None) 
+
+	 *Man Tsung Yeung, Penghui Qi, Min Lin, ..., Xinyi Wan* · ([VocabularyParallelism](https://github.com/sail-sg/VocabularyParallelism) - sail-sg) ![Star](https://img.shields.io/github/stars/sail-sg/VocabularyParallelism.svg?style=social&label=Star)
 - **Learning to (Learn at Test Time): RNNs with Expressive Hidden States**, `arXiv, 2407.04620`, [arxiv](http://arxiv.org/abs/2407.04620v2), [pdf](http://arxiv.org/pdf/2407.04620v2.pdf), cication: [**19**](https://scholar.google.com/scholar?cites=4859112994803550513&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII) 
 
 	 *Yu Sun, Xinhao Li, Karan Dalal, ..., Tatsunori Hashimoto, Carlos Guestrin* · ([yueatsprograms.github](https://yueatsprograms.github.io/ttt/home.html)) · ([ttt-lm-pytorch](https://github.com/test-time-training/ttt-lm-pytorch) - test-time-training) ![Star](https://img.shields.io/github/stars/test-time-training/ttt-lm-pytorch.svg?style=social&label=Star)
@@ -39,6 +42,9 @@
 
 ## Finetuning
 
+- **DELIFT: Data Efficient Language model Instruction Fine Tuning**, `arXiv, 2411.04425`, [arxiv](http://arxiv.org/abs/2411.04425v2), [pdf](http://arxiv.org/pdf/2411.04425v2.pdf), cication: [**-1**](None) 
+
+	 *Ishika Agarwal, Krishnateja Killamsetty, Lucian Popa, ..., Marina Danilevksy* · ([𝕏](https://x.com/wonderingishika/status/1854770402590851119))
 - **SemiEvol: Semi-supervised Fine-tuning for LLM Adaptation**, `arXiv, 2410.14745`, [arxiv](http://arxiv.org/abs/2410.14745v1), [pdf](http://arxiv.org/pdf/2410.14745v1.pdf), cication: [**-1**](None) 
 
 	 *Junyu Luo, Xiao Luo, Xiusi Chen, ..., Wei Ju, Ming Zhang*
@@ -62,6 +68,9 @@
 
 ## Mixture Of Experts
 
+- [Overview of the Largest Mixture of Expert Models Released So Far](https://buttondown.com/ainews/archive/ainews-common-corpus-2t-open-tokens-with/) 
+
+	 · ([reddit](https://reddit.com/r/LocalLLaMA/comments/1gprkxw/overview_of_the_largest_mixture_of_expert_models/))
 - **LIBMoE: A Library for comprehensive benchmarking Mixture of Experts in 
   Large Language Models**, `arXiv, 2411.00918`, [arxiv](http://arxiv.org/abs/2411.00918v1), [pdf](http://arxiv.org/pdf/2411.00918v1.pdf), cication: [**-1**](None) 
 
@@ -88,6 +97,7 @@
 
 ## Toolkits
 
+- [**unsloth**](https://github.com/unslothai/unsloth) - unslothai ![Star](https://img.shields.io/github/stars/unslothai/unsloth.svg?style=social&label=Star)
 - [**cohere-finetune**](https://github.com/cohere-ai/cohere-finetune) - cohere-ai ![Star](https://img.shields.io/github/stars/cohere-ai/cohere-finetune.svg?style=social&label=Star) 
 - 🌟 [**open-instruct**](https://github.com/allenai/open-instruct) - allenai ![Star](https://img.shields.io/github/stars/allenai/open-instruct.svg?style=social&label=Star) 
 

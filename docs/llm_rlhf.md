@@ -13,6 +13,9 @@
 
 ## RLHF
 
+- **Direct Preference Optimization Using Sparse Feature-Level Constraints**, `arXiv, 2411.07618`, [arxiv](http://arxiv.org/abs/2411.07618v1), [pdf](http://arxiv.org/pdf/2411.07618v1.pdf), cication: [**-1**](None) 
+
+	 *Qingyu Yin, Chak Tou Leong, Hongbo Zhang, ..., Yue Zhang, Linyi Yang*
 - [Mira: A Decentralized Network for Trustless AI Output Verification](https://mira.network/research/mira-whitepaper.pdf) 
 
 	 · ([mira](https://mira.network/)) · ([huggingface](https://huggingface.co/datasets/Mira-Network/ensemble-validation?row=0))

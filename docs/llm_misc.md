@@ -36,6 +36,13 @@
 
 ## Interpretability
 
+- [The Rate Distortion Dance of Sparse Autoencoders](https://tilderesearch.com/blog) 
+
+	 · ([𝕏](https://x.com/tilderesearch/status/1856404543808131334))
+- **The Semantic Hub Hypothesis: Language Models Share Semantic
+  Representations Across Languages and Modalities**, `arXiv, 2411.04986`, [arxiv](http://arxiv.org/abs/2411.04986v1), [pdf](http://arxiv.org/pdf/2411.04986v1.pdf), cication: [**-1**](None) 
+
+	 *Zhaofeng Wu, Xinyan Velocity Yu, Dani Yogatama, ..., Jiasen Lu, Yoon Kim*
 - **Interpretable Language Modeling via Induction-head Ngram Models**, `arXiv, 2411.00066`, [arxiv](http://arxiv.org/abs/2411.00066v1), [pdf](http://arxiv.org/pdf/2411.00066v1.pdf), cication: [**-1**](None) 
 
 	 *Eunji Kim, Sriya Mantena, Weiwei Yang, ..., Sungroh Yoon, Jianfeng Gao* · ([induction-gram](https://github.com/ejkim47/induction-gram?tab=readme-ov-file) - ejkim47) ![Star](https://img.shields.io/github/stars/ejkim47/induction-gram.svg?style=social&label=Star)

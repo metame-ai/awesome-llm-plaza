@@ -87,6 +87,10 @@
 
 ## Encoder
 
+- [SigLIP model pre-trained on WebLi at resolution 224x224.](https://huggingface.co/google/siglip-so400m-patch14-224)  🤗
+- 🌟 **LLM2CLIP: Powerful Language Model Unlocks Richer Visual Representation**, `arXiv, 2411.04997`, [arxiv](http://arxiv.org/abs/2411.04997v2), [pdf](http://arxiv.org/pdf/2411.04997v2.pdf), cication: [**-1**](None) 
+
+	 *Weiquan Huang, Aoqi Wu, Yifan Yang, ..., Chong Luo, Lili Qiu* · ([aka](https://aka.ms/llm2clip)) · ([LLM2CLIP](https://github.com/microsoft/LLM2CLIP/) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/LLM2CLIP.svg?style=social&label=Star)
 - **In Search of Forgotten Domain Generalization**, `arXiv, 2410.08258`, [arxiv](http://arxiv.org/abs/2410.08258v1), [pdf](http://arxiv.org/pdf/2410.08258v1.pdf), cication: [**-1**](None) 
 
 	 *Prasanna Mayilvahanan, Roland S. Zimmermann, Thaddäus Wiedemer, ..., Matthias Bethge, Wieland Brendel* · ([𝕏](https://x.com/wielandbr/status/1856020430219555266))
@@ -122,6 +126,10 @@
 
 ## Evaluation
 
+- **M-Longdoc: A Benchmark For Multimodal Super-Long Document Understanding
+  And A Retrieval-Aware Tuning Framework**, `arXiv, 2411.06176`, [arxiv](http://arxiv.org/abs/2411.06176v1), [pdf](http://arxiv.org/pdf/2411.06176v1.pdf), cication: [**-1**](None) 
+
+	 *Yew Ken Chia, Liying Cheng, Hou Pong Chan, ..., Soujanya Poria, Lidong Bing* · ([multimodal-documents.github](https://multimodal-documents.github.io))
 - **DynaMath: A Dynamic Visual Benchmark for Evaluating Mathematical 
   Reasoning Robustness of Vision Language Models**, `arXiv, 2411.00836`, [arxiv](http://arxiv.org/abs/2411.00836v1), [pdf](http://arxiv.org/pdf/2411.00836v1.pdf), cication: [**-1**](None) 
 
@@ -189,6 +197,10 @@
 
 ## Generation
 
+- 🌟 **JanusFlow: Harmonizing Autoregression and Rectified Flow for Unified
+  Multimodal Understanding and Generation**, `arXiv, 2411.07975`, [arxiv](http://arxiv.org/abs/2411.07975v1), [pdf](http://arxiv.org/pdf/2411.07975v1.pdf), cication: [**-1**](None) 
+
+	 *Yiyang Ma, Xingchao Liu, Xiaokang Chen, ..., Jiaying Liu, Chong Ruan* · ([Janus](https://github.com/deepseek-ai/Janus?tab=readme-ov-file) - deepseek-ai) ![Star](https://img.shields.io/github/stars/deepseek-ai/Janus.svg?style=social&label=Star)
 - 🌟 **Mixture-of-Transformers: A Sparse and Scalable Architecture for 
   Multi-Modal Foundation Models**, `arXiv, 2411.04996`, [arxiv](http://arxiv.org/abs/2411.04996v1), [pdf](http://arxiv.org/pdf/2411.04996v1.pdf), cication: [**-1**](None) 
 
@@ -206,6 +218,9 @@
 
 ## Dataset
 
+- **BLIP3-KALE: Knowledge Augmented Large-Scale Dense Captions**, `arXiv, 2411.07461`, [arxiv](http://arxiv.org/abs/2411.07461v1), [pdf](http://arxiv.org/pdf/2411.07461v1.pdf), cication: [**-1**](None) 
+
+	 *Anas Awadalla, Le Xue, Manli Shu, ..., Caiming Xiong, Ran Xu* · ([huggingface](https://huggingface.co/datasets/Salesforce/blip3-kale))
 - **HumanVLM: Foundation for Human-Scene Vision-Language Model**, `arXiv, 2411.03034`, [arxiv](http://arxiv.org/abs/2411.03034v1), [pdf](http://arxiv.org/pdf/2411.03034v1.pdf), cication: [**-1**](None) 
 
 	 *Dawei Dai, Xu Long, Li Yutang, ..., Zhang Yuanhui, Shuyin Xia*
@@ -231,6 +246,9 @@
 
 ## Projects
 
+- [**neptune**](https://github.com/google-deepmind/neptune) - google-deepmind ![Star](https://img.shields.io/github/stars/google-deepmind/neptune.svg?style=social&label=Star)
+
+	 · ([storage.googleapis](https://storage.googleapis.com/neptune-paper/neptune-paper.pdf)) · ([research](https://research.google/blog/neptune-the-long-orbit-to-benchmarking-long-video-understanding/?linkId=11668820))
 
 ## Products
 

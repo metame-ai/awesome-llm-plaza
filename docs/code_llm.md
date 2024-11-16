@@ -15,7 +15,14 @@
 
 ## Code LLM
 
-- [Qwen2.5-Coder is the latest series of Code-Specific Qwen large language models (formerly known as CodeQwen).](https://huggingface.co/Qwen/Qwen2.5-Coder-32B-Instruct)  🤗
+- [Bug fixes & analysis for Qwen 2.5](https://x.com/danielhanchen/status/1856442699689414970)  𝕏
+
+	 · ([t](https://t.co/NcPZiB0Wj9))
+- **GitChameleon: Unmasking the Version-Switching Capabilities of Code
+  Generation Models**, `arXiv, 2411.05830`, [arxiv](http://arxiv.org/abs/2411.05830v1), [pdf](http://arxiv.org/pdf/2411.05830v1.pdf), cication: [**-1**](None) 
+
+	 *Nizar Islah, Justine Gehring, Diganta Misra, ..., Terry Yue Zhuo, Massimo Caccia* · ([GitChameleon](https://github.com/NizarIslah/GitChameleon) - NizarIslah) ![Star](https://img.shields.io/github/stars/NizarIslah/GitChameleon.svg?style=social&label=Star)
+- [Qwen2.5-Coder is the latest series of Code-Specific Qwen large language models (formerly known as CodeQwen).](https://huggingface.co/Qwen/Qwen2.5-Coder-32B-Instruct)  🤗 
 - 🌟 **Large Language Models Orchestrating Structured Reasoning Achieve Kaggle 
   Grandmaster Level**, `arXiv, 2411.03562`, [arxiv](http://arxiv.org/abs/2411.03562v1), [pdf](http://arxiv.org/pdf/2411.03562v1.pdf), cication: [**-1**](None) 
 
@@ -38,6 +45,7 @@
 
 ## Evaluation
 
+- [Copilot Arena](https://lmarena.github.io/blog/2024/copilot-arena/) 
 - **Can Language Models Replace Programmers? REPOCOD Says 'Not Yet'**, `arXiv, 2410.21647`, [arxiv](http://arxiv.org/abs/2410.21647v2), [pdf](http://arxiv.org/pdf/2410.21647v2.pdf), cication: [**-1**](None) 
 
 	 *Shanchao Liang, Yiran Hu, Nan Jiang, ..., Lin Tan*
@@ -49,6 +57,8 @@
 
 ## Projects
 
+- [**Awesome-Code-LLM**](https://github.com/huybery/Awesome-Code-LLM) - huybery ![Star](https://img.shields.io/github/stars/huybery/Awesome-Code-LLM.svg?style=social&label=Star)
+- [**aider**](https://github.com/Aider-AI/aider) - Aider-AI ![Star](https://img.shields.io/github/stars/Aider-AI/aider.svg?style=social&label=Star)
 - [**screenshot-to-code**](https://github.com/abi/screenshot-to-code) - abi ![Star](https://img.shields.io/github/stars/abi/screenshot-to-code.svg?style=social&label=Star) 
 - [**composio**](https://github.com/ComposioHQ/composio) - ComposioHQ ![Star](https://img.shields.io/github/stars/ComposioHQ/composio.svg?style=social&label=Star) 
 - [**fast-apply**](https://github.com/kortix-ai/fast-apply) - kortix-ai ![Star](https://img.shields.io/github/stars/kortix-ai/fast-apply.svg?style=social&label=Star) 
@@ -60,12 +70,13 @@
 
 ## Products
 
+- [The first agentic IDE, and then some. The Windsurf Editor is where the work of developers and AI truly flow together, allowing for a coding experience that feels like literal magic](https://codeium.com/) 
 - [Edit your codebase and run commands quicklywith natural language in your terminal.](https://www.codebuff.com/) 
 - [Find out how we’re evolving GitHub and GitHub Copilot—and get access to the latest previews and GA releases.](https://github.blog/news-insights/product-news/universe-2024-previews-releases/) 
 
 ## Misc
 
-- [Qwen / Qwen2.5-Coder-Artifacts](https://huggingface.co/spaces/Qwen/Qwen2.5-Coder-Artifacts/tree/main)  🤗
+- [Qwen / Qwen2.5-Coder-Artifacts](https://huggingface.co/spaces/Qwen/Qwen2.5-Coder-Artifacts/tree/main)  🤗 
 - [Using Large Language Models To Catch Vulnerabilities In Real-World Code](https://googleprojectzero.blogspot.com/2024/10/from-naptime-to-big-sleep.html) 
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-11-02-4))

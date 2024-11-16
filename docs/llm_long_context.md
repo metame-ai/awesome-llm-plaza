@@ -13,6 +13,9 @@
 
 ## Long Context
 
+- **Large Language Models Can Self-Improve in Long-context Reasoning**, `arXiv, 2411.08147`, [arxiv](http://arxiv.org/abs/2411.08147v1), [pdf](http://arxiv.org/pdf/2411.08147v1.pdf), cication: [**-1**](None) 
+
+	 *Siheng Li, Cheng Yang, Zesen Cheng, ..., Yujiu Yang, Wai Lam*
 - **KV-Compress: Paged KV-Cache Compression with Variable Compression Rates 
   per Attention Head**, `arXiv, 2410.00161`, [arxiv](http://arxiv.org/abs/2410.00161v2), [pdf](http://arxiv.org/pdf/2410.00161v2.pdf), cication: [**-1**](None) 
 
@@ -60,5 +63,6 @@
 
 ## Projects
 
+- [**Awesome-LLM-Long-Context-Modeling**](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling) - Xnhyacinth ![Star](https://img.shields.io/github/stars/Xnhyacinth/Awesome-LLM-Long-Context-Modeling.svg?style=social&label=Star)
 
 ## Misc

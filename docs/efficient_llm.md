@@ -33,7 +33,7 @@
 
 ## Finetune
 
-- **Parameter-Efficient Fine-Tuning of Large Language Models for Unit Test
+- **Parameter-Efficient Fine-Tuning of Large Language Models for Unit Test 
   Generation: An Empirical Study**, `arXiv, 2411.02462`, [arxiv](http://arxiv.org/abs/2411.02462v1), [pdf](http://arxiv.org/pdf/2411.02462v1.pdf), cication: [**-1**](None) 
 
 	 *André Storhaug, Jingyue Li* · ([peft-unit-test-generation-replication-package](https://github.com/andstor/peft-unit-test-generation-replication-package) - andstor) ![Star](https://img.shields.io/github/stars/andstor/peft-unit-test-generation-replication-package.svg?style=social&label=Star)
@@ -43,6 +43,9 @@
 
 ## Quantization
 
+- 🌟 **Scaling Laws for Precision**, `arXiv, 2411.04330`, [arxiv](http://arxiv.org/abs/2411.04330v1), [pdf](http://arxiv.org/pdf/2411.04330v1.pdf), cication: [**-1**](None) 
+
+	 *Tanishq Kumar, Zachary Ankner, Benjamin F. Spector, ..., Christopher Ré, Aditi Raghunathan* · ([𝕏](https://x.com/Tim_Dettmers/status/1856338252120068523)) · ([𝕏](https://x.com/Tanishq97836660/status/1856045610756886750))
 - 🌟 **BitNet a4.8: 4-bit Activations for 1-bit LLMs**, `arXiv, 2411.04965`, [arxiv](http://arxiv.org/abs/2411.04965v1), [pdf](http://arxiv.org/pdf/2411.04965v1.pdf), cication: [**-1**](None) 
 
 	 *Hongyu Wang, Shuming Ma, Furu Wei*
@@ -56,6 +59,9 @@
 
 ## Distillation
 
+- **Stronger Models are NOT Stronger Teachers for Instruction Tuning**, `arXiv, 2411.07133`, [arxiv](http://arxiv.org/abs/2411.07133v2), [pdf](http://arxiv.org/pdf/2411.07133v2.pdf), cication: [**-1**](None) 
+
+	 *Zhangchen Xu, Fengqing Jiang, Luyao Niu, ..., Bill Yuchen Lin, Radha Poovendran*
 - **Speculative Knowledge Distillation: Bridging the Teacher-Student Gap 
   Through Interleaved Sampling**, `arXiv, 2410.11325`, [arxiv](http://arxiv.org/abs/2410.11325v1), [pdf](http://arxiv.org/pdf/2410.11325v1.pdf), cication: [**-1**](None)
 
@@ -73,6 +79,8 @@
 
 ## Inference
 
+- [**distributed-llama**](https://github.com/b4rtaz/distributed-llama) - b4rtaz ![Star](https://img.shields.io/github/stars/b4rtaz/distributed-llama.svg?style=social&label=Star)
+- [SGLang: Fast Serving Framework for Large Language and Vision-Language Models on AMD GPUs](https://rocm.blogs.amd.com/artificial-intelligence/sglang/README.html) 
 - [OpenAI beats Anthropic and Fireworks to releasing Speculative Decoding](https://buttondown.com/ainews/archive/ainews-openai-beats-anthropic-and-fireworks-to/) 
 - [Latency optimizationImprove latency across a wide variety of LLM-related use cases.](https://platform.openai.com/docs/guides/latency-optimization) 
 - **A Simple and Effective $L_2$ Norm-Based Strategy for KV Cache 
@@ -126,7 +134,7 @@
 
 ## Projects
 
-- [**exo**](https://github.com/exo-explore/exo) - exo-explore ![Star](https://img.shields.io/github/stars/exo-explore/exo.svg?style=social&label=Star)
+- [**exo**](https://github.com/exo-explore/exo) - exo-explore ![Star](https://img.shields.io/github/stars/exo-explore/exo.svg?style=social&label=Star) 
 
 	 *Run your own AI cluster at home with everyday devices.*
 

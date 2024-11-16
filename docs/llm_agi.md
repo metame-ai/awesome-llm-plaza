@@ -13,6 +13,11 @@
 
 ## World Model
 
+- [**lucid-v1**](https://github.com/SonicCodes/lucid-v1) - SonicCodes ![Star](https://img.shields.io/github/stars/SonicCodes/lucid-v1.svg?style=social&label=Star)
+- **WHALE: Towards Generalizable and Scalable World Models for Embodied
+  Decision-making**, `arXiv, 2411.05619`, [arxiv](http://arxiv.org/abs/2411.05619v1), [pdf](http://arxiv.org/pdf/2411.05619v1.pdf), cication: [**-1**](None) 
+
+	 *Zhilong Zhang, Ruifeng Chen, Junyin Ye, ..., Yang Yu, Zhi-Hua Zhou*
 - **How Far is Video Generation from World Model: A Physical Law Perspective**, `arXiv, 2411.02385`, [arxiv](http://arxiv.org/abs/2411.02385v1), [pdf](http://arxiv.org/pdf/2411.02385v1.pdf), cication: [**-1**](None) 
 
 	 *Bingyi Kang, Yang Yue, Rui Lu, ..., Gao Huang, Jiashi Feng* · ([phyworld.github](https://phyworld.github.io/))

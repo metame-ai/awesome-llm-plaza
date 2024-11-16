@@ -20,6 +20,13 @@
 
 ## Reasoning
 
+- 🌟 **Language Models are Hidden Reasoners: Unlocking Latent Reasoning
+  Capabilities via Self-Rewarding**, `arXiv, 2411.04282`, [arxiv](http://arxiv.org/abs/2411.04282v1), [pdf](http://arxiv.org/pdf/2411.04282v1.pdf), cication: [**-1**](None) 
+
+	 *Haolin Chen, Yihao Feng, Zuxin Liu, ..., Caiming Xiong, Huan Wang* · ([LaTRO](https://github.com/SalesforceAIResearch/LaTRO) - SalesforceAIResearch) ![Star](https://img.shields.io/github/stars/SalesforceAIResearch/LaTRO.svg?style=social&label=Star)
+- **Large Language Models Can Self-Improve in Long-context Reasoning**, `arXiv, 2411.08147`, [arxiv](http://arxiv.org/abs/2411.08147v1), [pdf](http://arxiv.org/pdf/2411.08147v1.pdf), cication: [**-1**](None) 
+
+	 *Siheng Li, Cheng Yang, Zesen Cheng, ..., Yujiu Yang, Wai Lam*
 - :star2: **Combining Induction and Transduction for Abstract Reasoning**, `arXiv, 2411.02272`, [arxiv](http://arxiv.org/abs/2411.02272v1), [pdf](http://arxiv.org/pdf/2411.02272v1.pdf), cication: [**-1**](None) 
 
 	 *Wen-Ding Li, Keya Hu, Carter Larsen, ..., Yewen Pu, Kevin Ellis* · ([𝕏](https://x.com/ellisk_kellis/status/1852690768042897661))
@@ -65,6 +72,7 @@
 
 ## O1 Reasoning
 
+- [Speculations on Test-Time Scaling (o1)](https://www.youtube.com/watch?v=6PEJ96k1kiw)  :clapper:
 - [Tess-R1 is designed with test-time compute in mind, and has the capabilities to produce a Chain-of-Thought (CoT) reasoning before producing the final output.](https://huggingface.co/migtissera/Tess-R1-Limerick-Llama-3.1-70B)  🤗 
 - [**LLaMA-O1**](https://github.com/SimpleBerry/LLaMA-O1) - SimpleBerry ![Star](https://img.shields.io/github/stars/SimpleBerry/LLaMA-O1.svg?style=social&label=Star) 
 
@@ -94,7 +102,7 @@
 
 ## Chain Of Thought
 
-- **A Theoretical Understanding of Chain-of-Thought: Coherent Reasoning and
+- **A Theoretical Understanding of Chain-of-Thought: Coherent Reasoning and 
   Error-Aware Demonstration**, `arXiv, 2410.16540`, [arxiv](http://arxiv.org/abs/2410.16540v1), [pdf](http://arxiv.org/pdf/2410.16540v1.pdf), cication: [**-1**](None) 
 
 	 *Yingqian Cui, Pengfei He, Xianfeng Tang, ..., Jiliang Tang, Yue Xing* · ([𝕏](https://x.com/_philschmid/status/1855926845855699311))
