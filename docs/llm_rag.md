@@ -44,7 +44,7 @@
 
 ## Multi Modal
 
-- [MM-Embed, an extension of NV-Embed-v1 with multimodal retrieval capability.](https://huggingface.co/nvidia/MM-Embed)  🤗
+- [MM-Embed, an extension of NV-Embed-v1 with multimodal retrieval capability.](https://huggingface.co/nvidia/MM-Embed)  🤗 
 - **Beyond Text: Optimizing RAG with Multimodal Inputs for Industrial 
   Applications**, `arXiv, 2410.21943`, [arxiv](http://arxiv.org/abs/2410.21943v1), [pdf](http://arxiv.org/pdf/2410.21943v1.pdf), cication: [**-1**](None)
 
@@ -77,7 +77,7 @@
 
 ## Projects
 
-- [**dsRAG**](https://github.com/D-Star-AI/dsRAG) - D-Star-AI ![Star](https://img.shields.io/github/stars/D-Star-AI/dsRAG.svg?style=social&label=Star)
+- [**dsRAG**](https://github.com/D-Star-AI/dsRAG) - D-Star-AI ![Star](https://img.shields.io/github/stars/D-Star-AI/dsRAG.svg?style=social&label=Star) 
 - 🌟 [**RAGViz**](https://github.com/cxcscmu/RAGViz) - cxcscmu ![Star](https://img.shields.io/github/stars/cxcscmu/RAGViz.svg?style=social&label=Star) 
 
 	 · ([youtube](https://www.youtube.com/embed/cTAbuTu6ur4?si=-uZ2AyNLx-5p8MZC))
@@ -95,7 +95,7 @@
 
 ## Misc
 
-- [GraphRAG-esque metadata tagging + retrieval](https://x.com/jerryjliu0/status/1856768968973062620)  𝕏
+- [GraphRAG-esque metadata tagging + retrieval](https://x.com/jerryjliu0/status/1856768968973062620)  𝕏 
 
 	 · ([llama_parse](https://github.com/run-llama/llama_parse/blob/main/examples/advanced_rag/dynamic_section_retrieval.ipynb) - run-llama) ![Star](https://img.shields.io/github/stars/run-llama/llama_parse.svg?style=social&label=Star)
 - [What is Agentic RAG](https://weaviate.io/blog/what-is-agentic-rag) 

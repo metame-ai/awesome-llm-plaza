@@ -20,7 +20,7 @@
 
 ## Reasoning
 
-- 🌟 **Language Models are Hidden Reasoners: Unlocking Latent Reasoning
+- 🌟 **Language Models are Hidden Reasoners: Unlocking Latent Reasoning 
   Capabilities via Self-Rewarding**, `arXiv, 2411.04282`, [arxiv](http://arxiv.org/abs/2411.04282v1), [pdf](http://arxiv.org/pdf/2411.04282v1.pdf), cication: [**-1**](None) 
 
 	 *Haolin Chen, Yihao Feng, Zuxin Liu, ..., Caiming Xiong, Huan Wang* · ([LaTRO](https://github.com/SalesforceAIResearch/LaTRO) - SalesforceAIResearch) ![Star](https://img.shields.io/github/stars/SalesforceAIResearch/LaTRO.svg?style=social&label=Star)
@@ -72,7 +72,7 @@
 
 ## O1 Reasoning
 
-- [Speculations on Test-Time Scaling (o1)](https://www.youtube.com/watch?v=6PEJ96k1kiw)  :clapper:
+- [Speculations on Test-Time Scaling (o1)](https://www.youtube.com/watch?v=6PEJ96k1kiw)  :clapper: 
 - [Tess-R1 is designed with test-time compute in mind, and has the capabilities to produce a Chain-of-Thought (CoT) reasoning before producing the final output.](https://huggingface.co/migtissera/Tess-R1-Limerick-Llama-3.1-70B)  🤗 
 - [**LLaMA-O1**](https://github.com/SimpleBerry/LLaMA-O1) - SimpleBerry ![Star](https://img.shields.io/github/stars/SimpleBerry/LLaMA-O1.svg?style=social&label=Star) 
 

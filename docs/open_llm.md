@@ -19,7 +19,7 @@
 
 ## English Models
 
-- 🌟 [Athene-V2-Chat-72B, an open-weights LLM on-par with GPT-4o across benchmarks](https://huggingface.co/Nexusflow/Athene-V2-Chat)  🤗
+- 🌟 [Athene-V2-Chat-72B, an open-weights LLM on-par with GPT-4o across benchmarks](https://huggingface.co/Nexusflow/Athene-V2-Chat)  🤗 
 
 	 · ([nexusflow](https://nexusflow.ai/blogs/athene-v2))
 - [TableGPT2-7B, a large-scale decoder specifically tailored for data-intensive tasks, with a focus on interpreting and analyzing tabular data.](https://huggingface.co/tablegpt/TableGPT2-7B)  🤗 

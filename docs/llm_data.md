@@ -20,9 +20,9 @@
 
 ## LLM Data
 
-- [Zyda-2 is a 5 trillion token language modeling dataset created by collecting open and high quality datasets and combining them and cross-deduplication and model-based quality filtering.](https://huggingface.co/datasets/Zyphra/Zyda-2)  🤗
-- [Common Corpus is the largest open and permissible licensed text dataset, comprising over 2 trillion tokens](https://huggingface.co/datasets/PleIAs/common_corpus)  🤗
-- [Releasing the largest multilingual open pretraining dataset](https://huggingface.co/blog/Pclanglais/two-trillion-tokens-open)  🤗
+- [Zyda-2 is a 5 trillion token language modeling dataset created by collecting open and high quality datasets and combining them and cross-deduplication and model-based quality filtering.](https://huggingface.co/datasets/Zyphra/Zyda-2)  🤗 
+- [Common Corpus is the largest open and permissible licensed text dataset, comprising over 2 trillion tokens](https://huggingface.co/datasets/PleIAs/common_corpus)  🤗 
+- [Releasing the largest multilingual open pretraining dataset](https://huggingface.co/blog/Pclanglais/two-trillion-tokens-open)  🤗 
 - 🌟 **Both Text and Images Leaked! A Systematic Analysis of Multimodal LLM 
   Data Contamination**, `arXiv, 2411.03823`, [arxiv](http://arxiv.org/abs/2411.03823v1), [pdf](http://arxiv.org/pdf/2411.03823v1.pdf), cication: [**-1**](None) 
 
@@ -54,7 +54,7 @@
 
 ## Synthetic
 
-- [synthetic set of instruction pairs where both the prompts and the responses have been synthetically generated, using the AgentInstruct framework.](https://huggingface.co/datasets/microsoft/orca-agentinstruct-1M-v1)  🤗
+- [synthetic set of instruction pairs where both the prompts and the responses have been synthetically generated, using the AgentInstruct framework.](https://huggingface.co/datasets/microsoft/orca-agentinstruct-1M-v1)  🤗 
 - 🌟 **WizardLM: Empowering Large Language Models to Follow Complex 
   Instructions**, `arXiv, 2304.12244`, [arxiv](http://arxiv.org/abs/2304.12244v2), [pdf](http://arxiv.org/pdf/2304.12244v2.pdf), cication: [**-1**](None) 
 

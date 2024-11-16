@@ -15,10 +15,10 @@
 
 ## Code LLM
 
-- [Bug fixes & analysis for Qwen 2.5](https://x.com/danielhanchen/status/1856442699689414970)  𝕏
+- [Bug fixes & analysis for Qwen 2.5](https://x.com/danielhanchen/status/1856442699689414970)  𝕏 
 
 	 · ([t](https://t.co/NcPZiB0Wj9))
-- **GitChameleon: Unmasking the Version-Switching Capabilities of Code
+- **GitChameleon: Unmasking the Version-Switching Capabilities of Code 
   Generation Models**, `arXiv, 2411.05830`, [arxiv](http://arxiv.org/abs/2411.05830v1), [pdf](http://arxiv.org/pdf/2411.05830v1.pdf), cication: [**-1**](None) 
 
 	 *Nizar Islah, Justine Gehring, Diganta Misra, ..., Terry Yue Zhuo, Massimo Caccia* · ([GitChameleon](https://github.com/NizarIslah/GitChameleon) - NizarIslah) ![Star](https://img.shields.io/github/stars/NizarIslah/GitChameleon.svg?style=social&label=Star)
@@ -57,8 +57,8 @@
 
 ## Projects
 
-- [**Awesome-Code-LLM**](https://github.com/huybery/Awesome-Code-LLM) - huybery ![Star](https://img.shields.io/github/stars/huybery/Awesome-Code-LLM.svg?style=social&label=Star)
-- [**aider**](https://github.com/Aider-AI/aider) - Aider-AI ![Star](https://img.shields.io/github/stars/Aider-AI/aider.svg?style=social&label=Star)
+- [**Awesome-Code-LLM**](https://github.com/huybery/Awesome-Code-LLM) - huybery ![Star](https://img.shields.io/github/stars/huybery/Awesome-Code-LLM.svg?style=social&label=Star) 
+- [**aider**](https://github.com/Aider-AI/aider) - Aider-AI ![Star](https://img.shields.io/github/stars/Aider-AI/aider.svg?style=social&label=Star) 
 - [**screenshot-to-code**](https://github.com/abi/screenshot-to-code) - abi ![Star](https://img.shields.io/github/stars/abi/screenshot-to-code.svg?style=social&label=Star) 
 - [**composio**](https://github.com/ComposioHQ/composio) - ComposioHQ ![Star](https://img.shields.io/github/stars/ComposioHQ/composio.svg?style=social&label=Star) 
 - [**fast-apply**](https://github.com/kortix-ai/fast-apply) - kortix-ai ![Star](https://img.shields.io/github/stars/kortix-ai/fast-apply.svg?style=social&label=Star) 

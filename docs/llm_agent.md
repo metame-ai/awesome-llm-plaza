@@ -111,7 +111,7 @@
 
 ## Multi Modal
 
-- **Vision Search Assistant: Empower Vision-Language Models as Multimodal
+- **Vision Search Assistant: Empower Vision-Language Models as Multimodal 
   Search Engines**, `arXiv, 2410.21220`, [arxiv](http://arxiv.org/abs/2410.21220v1), [pdf](http://arxiv.org/pdf/2410.21220v1.pdf), cication: [**-1**](None) 
 
 	 *Zhixin Zhang, Yiyuan Zhang, Xiaohan Ding, ..., Xiangyu Yue* · ([arxiv](https://arxiv.org/abs/2410.21220)) · ([cnzzx.github](https://cnzzx.github.io/VSA/)) · ([VSA](https://github.com/cnzzx/VSA) - cnzzx) ![Star](https://img.shields.io/github/stars/cnzzx/VSA.svg?style=social&label=Star)
@@ -128,7 +128,7 @@
 
 ## Projects
 
-- [Athene-V2-Agent is an open-source Agent LLM that surpasses the state-of-the-art in function calling and agentic capabilities.](https://huggingface.co/Nexusflow/Athene-V2-Agent)  🤗
+- [Athene-V2-Agent is an open-source Agent LLM that surpasses the state-of-the-art in function calling and agentic capabilities.](https://huggingface.co/Nexusflow/Athene-V2-Agent)  🤗 
 
 	 · ([nexusflow](https://nexusflow.ai/blogs/athene-v2))
 - [**composio**](https://github.com/ComposioHQ/composio) - ComposioHQ ![Star](https://img.shields.io/github/stars/ComposioHQ/composio.svg?style=social&label=Star) 
@@ -145,8 +145,8 @@
 
 ## Multi Agent
 
-- [**TinyTroupe**](https://github.com/microsoft/TinyTroupe) - microsoft ![Star](https://img.shields.io/github/stars/microsoft/TinyTroupe.svg?style=social&label=Star)
-- [**ag2**](https://github.com/ag2ai/ag2) - ag2ai ![Star](https://img.shields.io/github/stars/ag2ai/ag2.svg?style=social&label=Star)
+- [**TinyTroupe**](https://github.com/microsoft/TinyTroupe) - microsoft ![Star](https://img.shields.io/github/stars/microsoft/TinyTroupe.svg?style=social&label=Star) 
+- [**ag2**](https://github.com/ag2ai/ag2) - ag2ai ![Star](https://img.shields.io/github/stars/ag2ai/ag2.svg?style=social&label=Star) 
 - [**autogen**](https://github.com/microsoft/autogen/tree/main/python/packages/autogen-magentic-one) - microsoft ![Star](https://img.shields.io/github/stars/microsoft/autogen.svg?style=social&label=Star) 
 
 	 · ([microsoft](https://www.microsoft.com/en-us/research/articles/magentic-one-a-generalist-multi-agent-system-for-solving-complex-tasks/))

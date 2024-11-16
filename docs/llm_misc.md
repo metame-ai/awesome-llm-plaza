@@ -39,7 +39,7 @@
 - [The Rate Distortion Dance of Sparse Autoencoders](https://tilderesearch.com/blog) 
 
 	 · ([𝕏](https://x.com/tilderesearch/status/1856404543808131334))
-- **The Semantic Hub Hypothesis: Language Models Share Semantic
+- **The Semantic Hub Hypothesis: Language Models Share Semantic 
   Representations Across Languages and Modalities**, `arXiv, 2411.04986`, [arxiv](http://arxiv.org/abs/2411.04986v1), [pdf](http://arxiv.org/pdf/2411.04986v1.pdf), cication: [**-1**](None) 
 
 	 *Zhaofeng Wu, Xinyan Velocity Yu, Dani Yogatama, ..., Jiasen Lu, Yoon Kim*

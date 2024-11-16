@@ -69,8 +69,8 @@
 ## Role Play
 
 - [UnslopNemo v4.1 is the latest addition from the creator of Rocinante, designed for adventure writing and role-play scenarios.](https://openrouter.ai/thedrummer/unslopnemo-12b) 
-- [**TinyTroupe**](https://github.com/microsoft/TinyTroupe) - microsoft ![Star](https://img.shields.io/github/stars/microsoft/TinyTroupe.svg?style=social&label=Star)
-- [RPMax is a series of models that are trained on a diverse set of curated creative writing and RP datasets with a focus on variety and deduplication.](https://huggingface.co/ArliAI/Qwen2.5-32B-ArliAI-RPMax-v1.3)  🤗
+- [**TinyTroupe**](https://github.com/microsoft/TinyTroupe) - microsoft ![Star](https://img.shields.io/github/stars/microsoft/TinyTroupe.svg?style=social&label=Star) 
+- [RPMax is a series of models that are trained on a diverse set of curated creative writing and RP datasets with a focus on variety and deduplication.](https://huggingface.co/ArliAI/Qwen2.5-32B-ArliAI-RPMax-v1.3)  🤗 
 - **RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities 
   of Large Language Models**, `arXiv, 2310.00746`, [arxiv](http://arxiv.org/abs/2310.00746v3), [pdf](http://arxiv.org/pdf/2310.00746v3.pdf), cication: [**119**](https://scholar.google.com/scholar?cites=17525742729663905763&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII) 
 
@@ -145,7 +145,7 @@
 
 ## UI
 
-- [**coai**](https://github.com/coaidev/coai) - coaidev ![Star](https://img.shields.io/github/stars/coaidev/coai.svg?style=social&label=Star)
+- [**coai**](https://github.com/coaidev/coai) - coaidev ![Star](https://img.shields.io/github/stars/coaidev/coai.svg?style=social&label=Star) 
 - [gabrielchua / gradio-canvas](https://huggingface.co/spaces/gabrielchua/gradio-canvas/tree/main)  🤗 
 
 ## Vision
@@ -160,9 +160,9 @@
 
 ## Projects
 
-- [**HK-O1aw**](https://github.com/HKAIR-Lab/HK-O1aw) - HKAIR-Lab ![Star](https://img.shields.io/github/stars/HKAIR-Lab/HK-O1aw.svg?style=social&label=Star)
-- [**dsRAG**](https://github.com/D-Star-AI/dsRAG) - D-Star-AI ![Star](https://img.shields.io/github/stars/D-Star-AI/dsRAG.svg?style=social&label=Star)
-- [**eliza**](https://github.com/ai16z/eliza) - ai16z ![Star](https://img.shields.io/github/stars/ai16z/eliza.svg?style=social&label=Star)
+- [**HK-O1aw**](https://github.com/HKAIR-Lab/HK-O1aw) - HKAIR-Lab ![Star](https://img.shields.io/github/stars/HKAIR-Lab/HK-O1aw.svg?style=social&label=Star) 
+- [**dsRAG**](https://github.com/D-Star-AI/dsRAG) - D-Star-AI ![Star](https://img.shields.io/github/stars/D-Star-AI/dsRAG.svg?style=social&label=Star) 
+- [**eliza**](https://github.com/ai16z/eliza) - ai16z ![Star](https://img.shields.io/github/stars/ai16z/eliza.svg?style=social&label=Star) 
 - 🌟 [**anything-llm**](https://github.com/Mintplex-Labs/anything-llm) - Mintplex-Labs ![Star](https://img.shields.io/github/stars/Mintplex-Labs/anything-llm.svg?style=social&label=Star) 
 - [**screenshot-to-code**](https://github.com/abi/screenshot-to-code) - abi ![Star](https://img.shields.io/github/stars/abi/screenshot-to-code.svg?style=social&label=Star) 
 - [**paper-reviewer**](https://github.com/deep-diver/paper-reviewer) - deep-diver ![Star](https://img.shields.io/github/stars/deep-diver/paper-reviewer.svg?style=social&label=Star) 

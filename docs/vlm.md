@@ -87,7 +87,7 @@
 
 ## Encoder
 
-- [SigLIP model pre-trained on WebLi at resolution 224x224.](https://huggingface.co/google/siglip-so400m-patch14-224)  🤗
+- [SigLIP model pre-trained on WebLi at resolution 224x224.](https://huggingface.co/google/siglip-so400m-patch14-224)  🤗 
 - 🌟 **LLM2CLIP: Powerful Language Model Unlocks Richer Visual Representation**, `arXiv, 2411.04997`, [arxiv](http://arxiv.org/abs/2411.04997v2), [pdf](http://arxiv.org/pdf/2411.04997v2.pdf), cication: [**-1**](None) 
 
 	 *Weiquan Huang, Aoqi Wu, Yifan Yang, ..., Chong Luo, Lili Qiu* · ([aka](https://aka.ms/llm2clip)) · ([LLM2CLIP](https://github.com/microsoft/LLM2CLIP/) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/LLM2CLIP.svg?style=social&label=Star)
@@ -126,7 +126,7 @@
 
 ## Evaluation
 
-- **M-Longdoc: A Benchmark For Multimodal Super-Long Document Understanding
+- **M-Longdoc: A Benchmark For Multimodal Super-Long Document Understanding 
   And A Retrieval-Aware Tuning Framework**, `arXiv, 2411.06176`, [arxiv](http://arxiv.org/abs/2411.06176v1), [pdf](http://arxiv.org/pdf/2411.06176v1.pdf), cication: [**-1**](None) 
 
 	 *Yew Ken Chia, Liying Cheng, Hou Pong Chan, ..., Soujanya Poria, Lidong Bing* · ([multimodal-documents.github](https://multimodal-documents.github.io))
@@ -197,7 +197,7 @@
 
 ## Generation
 
-- 🌟 **JanusFlow: Harmonizing Autoregression and Rectified Flow for Unified
+- 🌟 **JanusFlow: Harmonizing Autoregression and Rectified Flow for Unified 
   Multimodal Understanding and Generation**, `arXiv, 2411.07975`, [arxiv](http://arxiv.org/abs/2411.07975v1), [pdf](http://arxiv.org/pdf/2411.07975v1.pdf), cication: [**-1**](None) 
 
 	 *Yiyang Ma, Xingchao Liu, Xiaokang Chen, ..., Jiaying Liu, Chong Ruan* · ([Janus](https://github.com/deepseek-ai/Janus?tab=readme-ov-file) - deepseek-ai) ![Star](https://img.shields.io/github/stars/deepseek-ai/Janus.svg?style=social&label=Star)
@@ -246,7 +246,7 @@
 
 ## Projects
 
-- [**neptune**](https://github.com/google-deepmind/neptune) - google-deepmind ![Star](https://img.shields.io/github/stars/google-deepmind/neptune.svg?style=social&label=Star)
+- [**neptune**](https://github.com/google-deepmind/neptune) - google-deepmind ![Star](https://img.shields.io/github/stars/google-deepmind/neptune.svg?style=social&label=Star) 
 
 	 · ([storage.googleapis](https://storage.googleapis.com/neptune-paper/neptune-paper.pdf)) · ([research](https://research.google/blog/neptune-the-long-orbit-to-benchmarking-long-video-understanding/?linkId=11668820))
 
