@@ -128,6 +128,7 @@
 
 ## Projects
 
+- [**letta**](https://github.com/letta-ai/letta) - letta-ai ![Star](https://img.shields.io/github/stars/letta-ai/letta.svg?style=social&label=Star)
 - [Athene-V2-Agent is an open-source Agent LLM that surpasses the state-of-the-art in function calling and agentic capabilities.](https://huggingface.co/Nexusflow/Athene-V2-Agent)  🤗 
 
 	 · ([nexusflow](https://nexusflow.ai/blogs/athene-v2))

@@ -87,6 +87,9 @@
 
 ## Encoder
 
+- **Don't Look Twice: Faster Video Transformers with Run-Length Tokenization**, `arXiv, 2411.05222`, [arxiv](http://arxiv.org/abs/2411.05222v1), [pdf](http://arxiv.org/pdf/2411.05222v1.pdf), cication: [**-1**](None) 
+
+	 *Rohan Choudhury, Guanglei Zhu, Sihan Liu, ..., Kris M. Kitani, László Jeni* · ([rccchoudhury.github](https://rccchoudhury.github.io/projects/rlt)) · ([rlt](https://github.com/rccchoudhury/rlt?tab=readme-ov-file) - rccchoudhury) ![Star](https://img.shields.io/github/stars/rccchoudhury/rlt.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247758620&idx=2&sn=27eeae5b60283615f9abf3f8f0dd8780&chksm=e9d9b997a6e17483de1ee3b9e9199635e16afe381d3c7e19c0ccf8d02e937411137cda7f63d0&scene=0&xtrack=1))
 - [SigLIP model pre-trained on WebLi at resolution 224x224.](https://huggingface.co/google/siglip-so400m-patch14-224)  🤗 
 - 🌟 **LLM2CLIP: Powerful Language Model Unlocks Richer Visual Representation**, `arXiv, 2411.04997`, [arxiv](http://arxiv.org/abs/2411.04997v2), [pdf](http://arxiv.org/pdf/2411.04997v2.pdf), cication: [**-1**](None) 
 

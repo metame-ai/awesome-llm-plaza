@@ -57,6 +57,9 @@
 
 ## Projects
 
+- [**Lingma-SWE-GPT**](https://github.com/LingmaTongyi/Lingma-SWE-GPT) - LingmaTongyi ![Star](https://img.shields.io/github/stars/LingmaTongyi/Lingma-SWE-GPT.svg?style=social&label=Star)
+
+	 *SoftWare Engineering Process Data Synthesis and Inference Workflow for Lingma SWE-GPT*
 - [**Awesome-Code-LLM**](https://github.com/huybery/Awesome-Code-LLM) - huybery ![Star](https://img.shields.io/github/stars/huybery/Awesome-Code-LLM.svg?style=social&label=Star) 
 - [**aider**](https://github.com/Aider-AI/aider) - Aider-AI ![Star](https://img.shields.io/github/stars/Aider-AI/aider.svg?style=social&label=Star) 
 - [**screenshot-to-code**](https://github.com/abi/screenshot-to-code) - abi ![Star](https://img.shields.io/github/stars/abi/screenshot-to-code.svg?style=social&label=Star) 
@@ -70,6 +73,7 @@
 
 ## Products
 
+- [NEO A fully autonomousMachine Learning Engineer](https://heyneo.so/blog) 
 - [The first agentic IDE, and then some. The Windsurf Editor is where the work of developers and AI truly flow together, allowing for a coding experience that feels like literal magic](https://codeium.com/) 
 - [Edit your codebase and run commands quicklywith natural language in your terminal.](https://www.codebuff.com/) 
 - [Find out how we’re evolving GitHub and GitHub Copilot—and get access to the latest previews and GA releases.](https://github.blog/news-insights/product-news/universe-2024-previews-releases/) 

@@ -155,6 +155,7 @@
 
 ## Tutorials
 
+- [An attempt to reconstruct Ilya Sutskever's 2020 AI reading list](https://tensorlabbet.com/2024/11/11/lost-reading-items/) 
 
 ## Toolkits
 
