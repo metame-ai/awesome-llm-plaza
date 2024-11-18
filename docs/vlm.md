@@ -249,6 +249,9 @@
 
 ## Projects
 
+- [OmniVision-968M: World's Smallest Vision Language Model](https://nexa.ai/blogs/[object%20Object]) 
+
+	 · ([huggingface](https://huggingface.co/spaces/NexaAIDev/omnivlm-dpo-demo))
 - [**neptune**](https://github.com/google-deepmind/neptune) - google-deepmind ![Star](https://img.shields.io/github/stars/google-deepmind/neptune.svg?style=social&label=Star) 
 
 	 · ([storage.googleapis](https://storage.googleapis.com/neptune-paper/neptune-paper.pdf)) · ([research](https://research.google/blog/neptune-the-long-orbit-to-benchmarking-long-video-understanding/?linkId=11668820))

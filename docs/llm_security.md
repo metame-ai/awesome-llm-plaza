@@ -25,6 +25,7 @@
 
 ## Projects
 
+- [**garak**](https://github.com/NVIDIA/garak) - NVIDIA ![Star](https://img.shields.io/github/stars/NVIDIA/garak.svg?style=social&label=Star)
 - [**arch**](https://github.com/katanemo/arch) - katanemo ![Star](https://img.shields.io/github/stars/katanemo/arch.svg?style=social&label=Star) 
 
 	 · ([x](https://x.com/salman_paracha/status/1848374304196719047))

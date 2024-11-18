@@ -33,6 +33,10 @@
 
 ## Finetune
 
+- **Knowledge Composition using Task Vectors with Learned Anisotropic
+  Scaling**, `arXiv, 2407.02880`, [arxiv](http://arxiv.org/abs/2407.02880v2), [pdf](http://arxiv.org/pdf/2407.02880v2.pdf), cication: [**-1**](None) 
+
+	 *Frederic Z. Zhang, Paul Albert, Cristian Rodriguez-Opazo, ..., Anton van den Hengel, Ehsan Abbasnejad* · ([atlas](https://github.com/fredzzhang/atlas?tab=readme-ov-file) - fredzzhang) ![Star](https://img.shields.io/github/stars/fredzzhang/atlas.svg?style=social&label=Star)
 - **Parameter-Efficient Fine-Tuning of Large Language Models for Unit Test 
   Generation: An Empirical Study**, `arXiv, 2411.02462`, [arxiv](http://arxiv.org/abs/2411.02462v1), [pdf](http://arxiv.org/pdf/2411.02462v1.pdf), cication: [**-1**](None) 
 

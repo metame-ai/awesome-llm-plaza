@@ -72,8 +72,8 @@
 
 ## O1 Reasoning
 
-- 🌟 [**entropix**](https://github.com/xjdr-alt/entropix) - xjdr-alt ![Star](https://img.shields.io/github/stars/xjdr-alt/entropix.svg?style=social&label=Star)
-- [**Thinking-Claude**](https://github.com/richards199999/Thinking-Claude) - richards199999 ![Star](https://img.shields.io/github/stars/richards199999/Thinking-Claude.svg?style=social&label=Star)
+- 🌟 [**entropix**](https://github.com/xjdr-alt/entropix) - xjdr-alt ![Star](https://img.shields.io/github/stars/xjdr-alt/entropix.svg?style=social&label=Star) 
+- [**Thinking-Claude**](https://github.com/richards199999/Thinking-Claude) - richards199999 ![Star](https://img.shields.io/github/stars/richards199999/Thinking-Claude.svg?style=social&label=Star) 
 - [Speculations on Test-Time Scaling (o1)](https://www.youtube.com/watch?v=6PEJ96k1kiw)  :clapper: 
 - [Tess-R1 is designed with test-time compute in mind, and has the capabilities to produce a Chain-of-Thought (CoT) reasoning before producing the final output.](https://huggingface.co/migtissera/Tess-R1-Limerick-Llama-3.1-70B)  🤗 
 - [**LLaMA-O1**](https://github.com/SimpleBerry/LLaMA-O1) - SimpleBerry ![Star](https://img.shields.io/github/stars/SimpleBerry/LLaMA-O1.svg?style=social&label=Star) 

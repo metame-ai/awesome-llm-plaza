@@ -18,6 +18,9 @@
 
 ## RAG
 
+- **Long Term Memory: The Foundation of AI Self-Evolution**, `arXiv, 2410.15665`, [arxiv](http://arxiv.org/abs/2410.15665v2), [pdf](http://arxiv.org/pdf/2410.15665v2.pdf), cication: [**-1**](None) 
+
+	 *Xun Jiang, Feng Li, Han Zhao, ..., Mengdi Wang, Tianqiao Chen* · ([𝕏](https://x.com/TankaChat/status/1857272126358880267))
 - [Binary vector embeddings are so cool](https://emschwartz.me/binary-vector-embeddings-are-so-cool/) 
 - 🌟 **HtmlRAG: HTML is Better Than Plain Text for Modeling Retrieved Knowledge 
   in RAG Systems**, `arXiv, 2411.02959`, [arxiv](http://arxiv.org/abs/2411.02959v1), [pdf](http://arxiv.org/pdf/2411.02959v1.pdf), cication: [**-1**](None) 

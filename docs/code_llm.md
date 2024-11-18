@@ -57,7 +57,7 @@
 
 ## Projects
 
-- [**Lingma-SWE-GPT**](https://github.com/LingmaTongyi/Lingma-SWE-GPT) - LingmaTongyi ![Star](https://img.shields.io/github/stars/LingmaTongyi/Lingma-SWE-GPT.svg?style=social&label=Star)
+- [**Lingma-SWE-GPT**](https://github.com/LingmaTongyi/Lingma-SWE-GPT) - LingmaTongyi ![Star](https://img.shields.io/github/stars/LingmaTongyi/Lingma-SWE-GPT.svg?style=social&label=Star) 
 
 	 *SoftWare Engineering Process Data Synthesis and Inference Workflow for Lingma SWE-GPT*
 - [**Awesome-Code-LLM**](https://github.com/huybery/Awesome-Code-LLM) - huybery ![Star](https://img.shields.io/github/stars/huybery/Awesome-Code-LLM.svg?style=social&label=Star) 

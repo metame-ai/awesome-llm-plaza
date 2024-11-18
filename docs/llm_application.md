@@ -37,6 +37,9 @@
 
 ## Science
 
+- [The Virtual Lab: AI Agents Design New SARS-CoV-2 Nanobodies with Experimental Validation](https://www.biorxiv.org/content/10.1101/2024.11.11.623004v1) 
+
+	 · ([𝕏](https://x.com/james_y_zou/status/1856729107045982607))
 - **IdeaBench: Benchmarking Large Language Models for Research Idea 
   Generation**, `arXiv, 2411.02429`, [arxiv](http://arxiv.org/abs/2411.02429v1), [pdf](http://arxiv.org/pdf/2411.02429v1.pdf), cication: [**-1**](None) 
 
@@ -98,6 +101,10 @@
 
 ## Medical
 
+- **ClinicalBench: Can LLMs Beat Traditional ML Models in Clinical
+  Prediction?**, `arXiv, 2411.06469`, [arxiv](http://arxiv.org/abs/2411.06469v1), [pdf](http://arxiv.org/pdf/2411.06469v1.pdf), cication: [**-1**](None) 
+
+	 *Canyu Chen, Jian Yu, Shan Chen, ..., Fei Wang, Kai Shu* · ([clinicalbench.github](https://clinicalbench.github.io)) · ([ClinicalBench](https://github.com/canyuchen/ClinicalBench) - canyuchen) ![Star](https://img.shields.io/github/stars/canyuchen/ClinicalBench.svg?style=social&label=Star)
 - **From Medprompt to o1: Exploration of Run-Time Strategies for Medical 
   Challenge Problems and Beyond**, `arXiv, 2411.03590`, [arxiv](http://arxiv.org/abs/2411.03590v1), [pdf](http://arxiv.org/pdf/2411.03590v1.pdf), cication: [**-1**](None) 
 

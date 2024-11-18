@@ -67,6 +67,9 @@
 
 ## UI Agent
 
+- **Sharingan: Extract User Action Sequence from Desktop Recordings**, `arXiv, 2411.08768`, [arxiv](http://arxiv.org/abs/2411.08768v1), [pdf](http://arxiv.org/pdf/2411.08768v1.pdf), cication: [**-1**](None) 
+
+	 *Yanting Chen, Yi Ren, Xiaoting Qin, ..., Saravan Rajmohan, Qi Zhang*
 - **WebRL: Training LLM Web Agents via Self-Evolving Online Curriculum 
   Reinforcement Learning**, `arXiv, 2411.02337`, [arxiv](http://arxiv.org/abs/2411.02337v1), [pdf](http://arxiv.org/pdf/2411.02337v1.pdf), cication: [**-1**](None) 
 
@@ -128,7 +131,7 @@
 
 ## Projects
 
-- [**letta**](https://github.com/letta-ai/letta) - letta-ai ![Star](https://img.shields.io/github/stars/letta-ai/letta.svg?style=social&label=Star)
+- [**letta**](https://github.com/letta-ai/letta) - letta-ai ![Star](https://img.shields.io/github/stars/letta-ai/letta.svg?style=social&label=Star) 
 - [Athene-V2-Agent is an open-source Agent LLM that surpasses the state-of-the-art in function calling and agentic capabilities.](https://huggingface.co/Nexusflow/Athene-V2-Agent)  🤗 
 
 	 · ([nexusflow](https://nexusflow.ai/blogs/athene-v2))
@@ -146,6 +149,9 @@
 
 ## Multi Agent
 
+- [The Virtual Lab: AI Agents Design New SARS-CoV-2 Nanobodies with Experimental Validation](https://www.biorxiv.org/content/10.1101/2024.11.11.623004v1) 
+
+	 · ([𝕏](https://x.com/james_y_zou/status/1856729107045982607))
 - [**TinyTroupe**](https://github.com/microsoft/TinyTroupe) - microsoft ![Star](https://img.shields.io/github/stars/microsoft/TinyTroupe.svg?style=social&label=Star) 
 - [**ag2**](https://github.com/ag2ai/ag2) - ag2ai ![Star](https://img.shields.io/github/stars/ag2ai/ag2.svg?style=social&label=Star) 
 - [**autogen**](https://github.com/microsoft/autogen/tree/main/python/packages/autogen-magentic-one) - microsoft ![Star](https://img.shields.io/github/stars/microsoft/autogen.svg?style=social&label=Star) 

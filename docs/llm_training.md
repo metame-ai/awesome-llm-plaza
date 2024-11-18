@@ -51,6 +51,9 @@
 
 ## Optimization
 
+- **Cut Your Losses in Large-Vocabulary Language Models**, `arXiv, 2411.09009`, [arxiv](http://arxiv.org/abs/2411.09009v1), [pdf](http://arxiv.org/pdf/2411.09009v1.pdf), cication: [**-1**](None) 
+
+	 *Erik Wijmans, Brody Huval, Alexander Hertzberg, ..., Vladlen Koltun, Philipp Krähenbühl* · ([ml-cross-entropy](https://github.com/apple/ml-cross-entropy) - apple) ![Star](https://img.shields.io/github/stars/apple/ml-cross-entropy.svg?style=social&label=Star)
 - [The Practitioner’s Guide to the Maximal Update Parameterization](https://cerebras.ai/blog/the-practitioners-guide-to-the-maximal-update-parameterization/) 
 
 	 · ([nanoGPT-mup](https://github.com/EleutherAI/nanoGPT-mup) - EleutherAI) ![Star](https://img.shields.io/github/stars/EleutherAI/nanoGPT-mup.svg?style=social&label=Star)
