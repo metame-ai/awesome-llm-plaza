@@ -17,6 +17,13 @@
 
 ## LLM Evaluation
 
+- [Emotional Intelligence Benchmark for LLMs](https://eqbench.com/judgemark.html) 
+- **Adding Error Bars to Evals: A Statistical Approach to Language Model
+  Evaluations**, `arXiv, 2411.00640`, [arxiv](http://arxiv.org/abs/2411.00640v1), [pdf](http://arxiv.org/pdf/2411.00640v1.pdf), cication: [**-1**](None) 
+
+	 *Evan Miller*
+
+	 · ([anthropic](https://www.anthropic.com/research/statistical-approach-to-model-evals))
 - **Chinese SimpleQA: A Chinese Factuality Evaluation for Large Language 
   Models**, `arXiv, 2411.07140`, [arxiv](http://arxiv.org/abs/2411.07140v2), [pdf](http://arxiv.org/pdf/2411.07140v2.pdf), cication: [**-1**](None) 
 
@@ -61,14 +68,25 @@
 
 ## Leaderboard
 
+- [Judge Arena: Benchmarking LLMs as Evaluators](https://huggingface.co/blog/arena-atla)  🤗
+
+	 · ([huggingface](https://huggingface.co/spaces/AtlaAI/judge-arena))
 - [TIGER-Lab / MMLU-Pro](https://huggingface.co/spaces/TIGER-Lab/MMLU-Pro/tree/main) 🤗 
 
 ## Projects
 
+- [**RPBench-Auto**](https://github.com/boson-ai/RPBench-Auto) - boson-ai ![Star](https://img.shields.io/github/stars/boson-ai/RPBench-Auto.svg?style=social&label=Star)
+
+	 · ([boson](https://boson.ai/rpbench-blog/))
+- [**documind**](https://github.com/DocumindHQ/documind) - DocumindHQ ![Star](https://img.shields.io/github/stars/DocumindHQ/documind.svg?style=social&label=Star)
+- 🌟 [**evalchemy**](https://github.com/mlfoundations/evalchemy) - mlfoundations ![Star](https://img.shields.io/github/stars/mlfoundations/evalchemy.svg?style=social&label=Star)
+- [**OLMo-Eval**](https://github.com/allenai/OLMo-Eval) - allenai ![Star](https://img.shields.io/github/stars/allenai/OLMo-Eval.svg?style=social&label=Star)
+- [**olmes**](https://github.com/allenai/olmes) - allenai ![Star](https://img.shields.io/github/stars/allenai/olmes.svg?style=social&label=Star)
 - 🌟 [**simple-evals**](https://github.com/openai/simple-evals) - openai ![Star](https://img.shields.io/github/stars/openai/simple-evals.svg?style=social&label=Star) 
 
 ## Misc
 
+- [Say What You Mean: A Response to 'Let Me Speak Freely'](https://blog.dottxt.co/say-what-you-mean.html) 
 - [Chatbot Arena Categories](https://lmarena.github.io/blog/2024/arena-category/) 
 
 	 · ([x](https://x.com/lmarena_ai/status/1852400728935150017))

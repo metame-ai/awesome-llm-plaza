@@ -15,6 +15,9 @@
 
 ## Code LLM
 
+- [Leveraging training and search for better software engineering agents](https://nebius.com/blog/posts/training-and-search-for-software-engineering-agents) 
+
+	 · ([𝕏](https://x.com/hr0nix/status/1857416444830425515))
 - [Bug fixes & analysis for Qwen 2.5](https://x.com/danielhanchen/status/1856442699689414970)  𝕏 
 
 	 · ([t](https://t.co/NcPZiB0Wj9))

@@ -12,6 +12,15 @@
 
 ## Omni
 
+- [**AnyModal**](https://github.com/ritabratamaiti/AnyModal) - ritabratamaiti ![Star](https://img.shields.io/github/stars/ritabratamaiti/AnyModal.svg?style=social&label=Star)
+
+	 *A Flexible Multimodal Language Model Framework*
+- **Everything is a Video: Unifying Modalities through Next-Frame Prediction**, `arXiv, 2411.10503`, [arxiv](http://arxiv.org/abs/2411.10503v1), [pdf](http://arxiv.org/pdf/2411.10503v1.pdf), cication: [**-1**](None) 
+
+	 *G. Thomas Hudson, Dean Slack, Thomas Winterbottom, ..., Junjie Shentu, Noura Al Moubayed*
+- **WavChat: A Survey of Spoken Dialogue Models**, `arXiv, 2411.13577`, [arxiv](http://arxiv.org/abs/2411.13577v1), [pdf](http://arxiv.org/pdf/2411.13577v1.pdf), cication: [**-1**](None) 
+
+	 *Shengpeng Ji, Yifu Chen, Minghui Fang, ..., Jin Xu, Zhou Zhao*
 - **GPT-4o System Card**, `arXiv, 2410.21276`, [arxiv](http://arxiv.org/abs/2410.21276v1), [pdf](http://arxiv.org/pdf/2410.21276v1.pdf), cication: [**-1**](None) 
 
 	 *OpenAI, :, Aaron Hurst, ..., Yunxing Dai, Yury Malkov*

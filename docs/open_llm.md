@@ -19,6 +19,7 @@
 
 ## English Models
 
+- [Mistral-Large-Instruct-2411 is an advanced dense Large Language Model (LLM) of 123B parameters with state-of-the-art reasoning](https://huggingface.co/mistralai/Mistral-Large-Instruct-2411)  🤗
 - 🌟 [Athene-V2-Chat-72B, an open-weights LLM on-par with GPT-4o across benchmarks](https://huggingface.co/Nexusflow/Athene-V2-Chat)  🤗 
 
 	 · ([nexusflow](https://nexusflow.ai/blogs/athene-v2))
@@ -39,6 +40,9 @@
 
 ## Small Language Models
 
+- 🌟 [**smollm**](https://github.com/huggingface/smollm) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/smollm.svg?style=social&label=Star)
+
+	 *135M, 360M, and 1.7B parameters.* · ([smollm](https://github.com/huggingface/smollm) - huggingface) ![Star](https://img.shields.io/github/stars/huggingface/smollm.svg?style=social&label=Star) · ([𝕏](https://x.com/_philschmid/status/1859598525723488478)) · ([huggingface](https://huggingface.co/datasets/HuggingFaceTB/smoltalk))
 - [State-of-the-art compact LLMs for on-device applications: 1.7B, 360M, 135M    Upvote 107   +97](https://huggingface.co/collections/HuggingFaceTB/smollm2-6723884218bcda64b34d7db9)  🤗 
 
 	 · ([x](https://x.com/loubnabenallal1/status/1852055582494294414?s=46&t=MGz8l5Z36lvN2cHgl1IVqA))
@@ -49,6 +53,9 @@
 
 ## Multilingual Models
 
+- **Xmodel-1.5: An 1B-scale Multilingual LLM**, `arXiv, 2411.10083`, [arxiv](http://arxiv.org/abs/2411.10083v1), [pdf](http://arxiv.org/pdf/2411.10083v1.pdf), cication: [**-1**](None) 
+
+	 *Wang Qun, Liu Yang, Lin Qingquan, ..., Jiang Ling* · ([XmodelLM](https://github.com/XiaoduoAILab/XmodelLM) - XiaoduoAILab) ![Star](https://img.shields.io/github/stars/XiaoduoAILab/XmodelLM.svg?style=social&label=Star)
 - **Bielik 7B v0.1: A Polish Language Model -- Development, Insights, and 
   Evaluation**, `arXiv, 2410.18565`, [arxiv](http://arxiv.org/abs/2410.18565v1), [pdf](http://arxiv.org/pdf/2410.18565v1.pdf), cication: [**-1**](None)
 
@@ -62,3 +69,6 @@
 
 
 ## Misc
+## Misc
+- [OLMo: Everything You Need to Train an Open Source LLM](https://twimlai.com/podcast/twimlai/olmo-everything-you-need-to-train-an-open-source-llm/) 
+- [Opening the Language Model Pipeline: A Tutorial on Data Preparation, Model Training, and Adaptation](https://neurips.cc/virtual/2024/tutorial/99526) 

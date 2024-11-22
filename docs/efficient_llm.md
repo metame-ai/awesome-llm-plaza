@@ -33,7 +33,7 @@
 
 ## Finetune
 
-- **Knowledge Composition using Task Vectors with Learned Anisotropic
+- **Knowledge Composition using Task Vectors with Learned Anisotropic 
   Scaling**, `arXiv, 2407.02880`, [arxiv](http://arxiv.org/abs/2407.02880v2), [pdf](http://arxiv.org/pdf/2407.02880v2.pdf), cication: [**-1**](None) 
 
 	 *Frederic Z. Zhang, Paul Albert, Cristian Rodriguez-Opazo, ..., Anton van den Hengel, Ehsan Abbasnejad* · ([atlas](https://github.com/fredzzhang/atlas?tab=readme-ov-file) - fredzzhang) ![Star](https://img.shields.io/github/stars/fredzzhang/atlas.svg?style=social&label=Star)
@@ -47,6 +47,10 @@
 
 ## Quantization
 
+- **PrefixQuant: Static Quantization Beats Dynamic through Prefixed Outliers
+  in LLMs**, `arXiv, 2410.05265`, [arxiv](http://arxiv.org/abs/2410.05265v1), [pdf](http://arxiv.org/pdf/2410.05265v1.pdf), cication: [**-1**](None) 
+
+	 *Mengzhao Chen, Yi Liu, Jiahao Wang, ..., Wenqi Shao, Ping Luo* · ([PrefixQuant](https://github.com/ChenMnZ/PrefixQuant) - ChenMnZ) ![Star](https://img.shields.io/github/stars/ChenMnZ/PrefixQuant.svg?style=social&label=Star) · ([arxiv](https://arxiv.org/abs/2410.05265v1))
 - 🌟 **Scaling Laws for Precision**, `arXiv, 2411.04330`, [arxiv](http://arxiv.org/abs/2411.04330v1), [pdf](http://arxiv.org/pdf/2411.04330v1.pdf), cication: [**-1**](None) 
 
 	 *Tanishq Kumar, Zachary Ankner, Benjamin F. Spector, ..., Christopher Ré, Aditi Raghunathan* · ([𝕏](https://x.com/Tim_Dettmers/status/1856338252120068523)) · ([𝕏](https://x.com/Tanishq97836660/status/1856045610756886750))
@@ -73,6 +77,9 @@
 
 ## Pruning
 
+- **The Super Weight in Large Language Models**, `arXiv, 2411.07191`, [arxiv](http://arxiv.org/abs/2411.07191v1), [pdf](http://arxiv.org/pdf/2411.07191v1.pdf), cication: [**-1**](None) 
+
+	 *Mengxia Yu, De Wang, Qi Shan, ..., Colorado Reed, Alvin Wan*
 - **Sparsing Law: Towards Large Language Models with Greater Activation 
   Sparsity**, `arXiv, 2411.02335`, [arxiv](http://arxiv.org/abs/2411.02335v1), [pdf](http://arxiv.org/pdf/2411.02335v1.pdf), cication: [**-1**](None) 
 
@@ -83,6 +90,17 @@
 
 ## Inference
 
+- **SAM Decoding: Speculative Decoding via Suffix Automaton**, `arXiv, 2411.10666`, [arxiv](http://arxiv.org/abs/2411.10666v1), [pdf](http://arxiv.org/pdf/2411.10666v1.pdf), cication: [**-1**](None) 
+
+	 *Yuxuan Hu, Ke Wang, Jing Zhang, ..., Cuiping Li, Hong Chen* · ([SAM-Decoding](https://github.com/hyx1999/SAM-Decoding?tab=readme-ov-file) - hyx1999) ![Star](https://img.shields.io/github/stars/hyx1999/SAM-Decoding.svg?style=social&label=Star)
+- **FastDraft: How to Train Your Draft**, `arXiv, 2411.11055`, [arxiv](http://arxiv.org/abs/2411.11055v1), [pdf](http://arxiv.org/pdf/2411.11055v1.pdf), cication: [**-1**](None) 
+
+	 *Ofir Zafrir, Igor Margulis, Dorin Shteyman, ..., Guy Boudoukh*
+- **SageAttention2 Technical Report: Accurate 4 Bit Attention for
+  Plug-and-play Inference Acceleration**, `arXiv, 2411.10958`, [arxiv](http://arxiv.org/abs/2411.10958v1), [pdf](http://arxiv.org/pdf/2411.10958v1.pdf), cication: [**-1**](None) 
+
+	 *Jintao Zhang, Haofeng Huang, Pengle Zhang, ..., Jun Zhu, Jianfei Chen* · ([SageAttention](https://github.com/thu-ml/SageAttention) - thu-ml) ![Star](https://img.shields.io/github/stars/thu-ml/SageAttention.svg?style=social&label=Star)
+- [Faster Text Generation with Self-Speculative Decoding](https://huggingface.co/blog/layerskip)  🤗
 - [**distributed-llama**](https://github.com/b4rtaz/distributed-llama) - b4rtaz ![Star](https://img.shields.io/github/stars/b4rtaz/distributed-llama.svg?style=social&label=Star) 
 - [SGLang: Fast Serving Framework for Large Language and Vision-Language Models on AMD GPUs](https://rocm.blogs.amd.com/artificial-intelligence/sglang/README.html) 
 - [OpenAI beats Anthropic and Fireworks to releasing Speculative Decoding](https://buttondown.com/ainews/archive/ainews-openai-beats-anthropic-and-fireworks-to/) 
@@ -111,12 +129,23 @@
 
 ## Small Language Models
 
+- **SlimLM: An Efficient Small Language Model for On-Device Document
+  Assistance**, `arXiv, 2411.09944`, [arxiv](http://arxiv.org/abs/2411.09944v1), [pdf](http://arxiv.org/pdf/2411.09944v1.pdf), cication: [**-1**](None) 
+
+	 *Thang M. Pham, Phat T. Nguyen, Seunghyun Yoon, ..., Franck Dernoncourt, Trung Bui*
+- **Hymba: A Hybrid-head Architecture for Small Language Models**, `arXiv, 2411.13676`, [arxiv](http://arxiv.org/abs/2411.13676v1), [pdf](http://arxiv.org/pdf/2411.13676v1.pdf), cication: [**-1**](None) 
+
+	 *Xin Dong, Yonggan Fu, Shizhe Diao, ..., Jan Kautz, Pavlo Molchanov*
 - [MobileLLM is an auto-regressive language model leveraging an optimized transformer architecture](https://huggingface.co/facebook/MobileLLM-125M)  🤗 
 
 	 · ([arxiv](https://arxiv.org/abs/2402.14905))
 
 ## Transformer
 
+- 🌟 **SageAttention2 Technical Report: Accurate 4 Bit Attention for
+  Plug-and-play Inference Acceleration**, `arXiv, 2411.10958`, [arxiv](http://arxiv.org/abs/2411.10958v1), [pdf](http://arxiv.org/pdf/2411.10958v1.pdf), cication: [**-1**](None) 
+
+	 *Jintao Zhang, Haofeng Huang, Pengle Zhang, ..., Jun Zhu, Jianfei Chen* · ([SageAttention.](https://github.com/thu-ml/SageAttention.) - thu-ml) ![Star](https://img.shields.io/github/stars/thu-ml/SageAttention..svg?style=social&label=Star)
 - **ThunderKittens: Simple, Fast, and Adorable AI Kernels**, `arXiv, 2410.20399`, [arxiv](http://arxiv.org/abs/2410.20399v1), [pdf](http://arxiv.org/pdf/2410.20399v1.pdf), cication: [**-1**](None) 
 
 	 *Benjamin F. Spector, Simran Arora, Aaryan Singhal, ..., Daniel Y. Fu, Christopher Ré*
@@ -134,10 +163,15 @@
 
 ## Tutorials
 
+- [Dynamic  Sparsity  in  Machine  Learning](https://dynamic-sparsity.github.io/) 
 - :clapper: [Lecture 32: Unsloth](https://www.youtube.com/watch?v=hfb_AIhDYnA) 
 
 ## Projects
 
+- [**nano-sparse-attention**](https://github.com/PiotrNawrot/nano-sparse-attention) - PiotrNawrot ![Star](https://img.shields.io/github/stars/PiotrNawrot/nano-sparse-attention.svg?style=social&label=Star)
+
+	 · ([𝕏](https://x.com/p_nawrot/status/1858903361858265460))
+- [**sgl-learning-materials**](https://github.com/sgl-project/sgl-learning-materials) - sgl-project ![Star](https://img.shields.io/github/stars/sgl-project/sgl-learning-materials.svg?style=social&label=Star)
 - [**exo**](https://github.com/exo-explore/exo) - exo-explore ![Star](https://img.shields.io/github/stars/exo-explore/exo.svg?style=social&label=Star) 
 
 	 *Run your own AI cluster at home with everyday devices.*

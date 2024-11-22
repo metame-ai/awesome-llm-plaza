@@ -18,6 +18,12 @@
 
 ## RAG
 
+- [NV-Embed-v2, a generalist embedding model that ranks No. 1 on the Massive Text Embedding Benchmark (MTEB benchmark)](https://huggingface.co/nvidia/NV-Embed-v2)  🤗
+
+	 · ([arxiv](https://arxiv.org/pdf/2405.17428))
+- [Jina CLIP v2: Multilingual Multimodal Embeddings for Texts and Images](https://huggingface.co/jinaai/jina-clip-v2)  🤗
+
+	 · ([huggingface](https://huggingface.co/jinaai/jina-clip-v2))
 - **Long Term Memory: The Foundation of AI Self-Evolution**, `arXiv, 2410.15665`, [arxiv](http://arxiv.org/abs/2410.15665v2), [pdf](http://arxiv.org/pdf/2410.15665v2.pdf), cication: [**-1**](None) 
 
 	 *Xun Jiang, Feng Li, Han Zhao, ..., Mengdi Wang, Tianqiao Chen* · ([𝕏](https://x.com/TankaChat/status/1857272126358880267))
@@ -80,6 +86,9 @@
 
 ## Projects
 
+- [**fast-graphrag**](https://github.com/circlemind-ai/fast-graphrag) - circlemind-ai ![Star](https://img.shields.io/github/stars/circlemind-ai/fast-graphrag.svg?style=social&label=Star)
+- [**txtai**](https://github.com/neuml/txtai) - neuml ![Star](https://img.shields.io/github/stars/neuml/txtai.svg?style=social&label=Star)
+- [**Perplexica**](https://github.com/ItzCrazyKns/Perplexica) - ItzCrazyKns ![Star](https://img.shields.io/github/stars/ItzCrazyKns/Perplexica.svg?style=social&label=Star)
 - [**dsRAG**](https://github.com/D-Star-AI/dsRAG) - D-Star-AI ![Star](https://img.shields.io/github/stars/D-Star-AI/dsRAG.svg?style=social&label=Star) 
 - 🌟 [**RAGViz**](https://github.com/cxcscmu/RAGViz) - cxcscmu ![Star](https://img.shields.io/github/stars/cxcscmu/RAGViz.svg?style=social&label=Star) 
 

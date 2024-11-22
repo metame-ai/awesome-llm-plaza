@@ -1,17 +1,18 @@
 # LLM Training
 
 - [LLM Training](#llm-training) 
-  - [Survey](#survey)
-  - [LLM Training](#llm-training-1)
-  - [Pretraining](#pretraining)
-  - [Finetuning](#finetuning)
-  - [Optimization](#optimization)
-  - [Architecture](#architecture)
-  - [Mixture Of Experts](#mixture-of-experts)
-  - [Merge](#merge)
-  - [Online Learning](#online-learning)
-  - [Toolkits](#toolkits)
-  - [Misc](#misc)
+	- [Survey](#survey)
+	- [LLM Training](#llm-training-1)
+	- [Pretraining](#pretraining)
+	- [Post Training](#post-training)
+	- [Finetuning](#finetuning)
+	- [Optimization](#optimization)
+	- [Architecture](#architecture)
+	- [Mixture Of Experts](#mixture-of-experts)
+	- [Merge](#merge)
+	- [Online Learning](#online-learning)
+	- [Toolkits](#toolkits)
+	- [Misc](#misc)
 
 
 ## Survey
@@ -19,6 +20,10 @@
 
 ## LLM Training
 
+- 🌟 **Observational Scaling Laws and the Predictability of Language Model
+  Performance**, `arXiv, 2405.10938`, [arxiv](http://arxiv.org/abs/2405.10938v3), [pdf](http://arxiv.org/pdf/2405.10938v3.pdf), cication: [**-1**](None) 
+
+	 *Yangjun Ruan, Chris J. Maddison, Tatsunori Hashimoto*
 - **Balancing Pipeline Parallelism with Vocabulary Parallelism**, `arXiv, 2411.05288`, [arxiv](http://arxiv.org/abs/2411.05288v1), [pdf](http://arxiv.org/pdf/2411.05288v1.pdf), cication: [**-1**](None) 
 
 	 *Man Tsung Yeung, Penghui Qi, Min Lin, ..., Xinyi Wan* · ([VocabularyParallelism](https://github.com/sail-sg/VocabularyParallelism) - sail-sg) ![Star](https://img.shields.io/github/stars/sail-sg/VocabularyParallelism.svg?style=social&label=Star)
@@ -40,6 +45,9 @@
 
 	 *Hao Peng, Xin Lv, Yushi Bai, ..., Lei Hou, Juanzi Li*
 
+## Post Training
+
+
 ## Finetuning
 
 - **DELIFT: Data Efficient Language model Instruction Fine Tuning**, `arXiv, 2411.04425`, [arxiv](http://arxiv.org/abs/2411.04425v2), [pdf](http://arxiv.org/pdf/2411.04425v2.pdf), cication: [**-1**](None) 
@@ -51,6 +59,17 @@
 
 ## Optimization
 
+- **MARS: Unleashing the Power of Variance Reduction for Training Large
+  Models**, `arXiv, 2411.10438`, [arxiv](http://arxiv.org/abs/2411.10438v1), [pdf](http://arxiv.org/pdf/2411.10438v1.pdf), cication: [**-1**](None) 
+
+	 *Huizhuo Yuan, Yifeng Liu, Shuang Wu, ..., Xun Zhou, Quanquan Gu* · ([MARS.](https://github.com/AGI-Arena/MARS.) - AGI-Arena) ![Star](https://img.shields.io/github/stars/AGI-Arena/MARS..svg?style=social&label=Star)
+- **nGPT: Normalized Transformer with Representation Learning on the
+  Hypersphere**, `arXiv, 2410.01131`, [arxiv](http://arxiv.org/abs/2410.01131v1), [pdf](http://arxiv.org/pdf/2410.01131v1.pdf), cication: [**-1**](None) 
+
+	 *Ilya Loshchilov, Cheng-Ping Hsieh, Simeng Sun, ..., Boris Ginsburg* · ([ngpt](https://github.com/NVIDIA/ngpt?tab=readme-ov-file) - NVIDIA) ![Star](https://img.shields.io/github/stars/NVIDIA/ngpt.svg?style=social&label=Star)
+- **Top-$nσ$: Not All Logits Are You Need**, `arXiv, 2411.07641`, [arxiv](http://arxiv.org/abs/2411.07641v1), [pdf](http://arxiv.org/pdf/2411.07641v1.pdf), cication: [**-1**](None) 
+
+	 *Chenxia Tang, Jianchun Liu, Hongli Xu, ..., Liusheng Huang* · ([top_nsigma](https://github.com/Tomorrowdawn/top_nsigma) - Tomorrowdawn) ![Star](https://img.shields.io/github/stars/Tomorrowdawn/top_nsigma.svg?style=social&label=Star)
 - **Cut Your Losses in Large-Vocabulary Language Models**, `arXiv, 2411.09009`, [arxiv](http://arxiv.org/abs/2411.09009v1), [pdf](http://arxiv.org/pdf/2411.09009v1.pdf), cication: [**-1**](None) 
 
 	 *Erik Wijmans, Brody Huval, Alexander Hertzberg, ..., Vladlen Koltun, Philipp Krähenbühl* · ([ml-cross-entropy](https://github.com/apple/ml-cross-entropy) - apple) ![Star](https://img.shields.io/github/stars/apple/ml-cross-entropy.svg?style=social&label=Star)
@@ -71,6 +90,10 @@
 
 ## Mixture Of Experts
 
+- **MoE Jetpack: From Dense Checkpoints to Adaptive Mixture of Experts for
+  Vision Tasks**, `arXiv, 2406.04801`, [arxiv](http://arxiv.org/abs/2406.04801v1), [pdf](http://arxiv.org/pdf/2406.04801v1.pdf), cication: [**-1**](None) 
+
+	 *Xingkui Zhu, Yiran Guan, Dingkang Liang, ..., Yuliang Liu, Xiang Bai* · ([MoE-Jetpack](https://github.com/Adlith/MoE-Jetpack) - Adlith) ![Star](https://img.shields.io/github/stars/Adlith/MoE-Jetpack.svg?style=social&label=Star)
 - [Overview of the Largest Mixture of Expert Models Released So Far](https://buttondown.com/ainews/archive/ainews-common-corpus-2t-open-tokens-with/) 
 
 	 · ([reddit](https://reddit.com/r/LocalLLaMA/comments/1gprkxw/overview_of_the_largest_mixture_of_expert_models/))
@@ -122,6 +145,7 @@
 
 ## Misc
 
+- 🌟 [**modded-nanogpt**](https://github.com/KellerJordan/modded-nanogpt) - KellerJordan ![Star](https://img.shields.io/github/stars/KellerJordan/modded-nanogpt.svg?style=social&label=Star)
 - **Pretraining on the Test Set Is All You Need**, `arXiv, 2309.08632`, [arxiv](http://arxiv.org/abs/2309.08632v1), [pdf](http://arxiv.org/pdf/2309.08632v1.pdf), cication: [**14**](https://scholar.google.com/scholar?cites=12205479803973588820&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII) 
 
 	 *Rylan Schaeffer*

@@ -17,6 +17,7 @@
 
 ## Embodied AI
 
+- [foundation models for the physical world.](https://perceptron.inc/) 
 - **DeeR-VLA: Dynamic Inference of Multimodal Large Language Models for 
   Efficient Robot Execution**, `arXiv, 2411.02359`, [arxiv](http://arxiv.org/abs/2411.02359v1), [pdf](http://arxiv.org/pdf/2411.02359v1.pdf), cication: [**-1**](None) 
 
@@ -40,8 +41,11 @@
 
 ## Robotics
 
-- [trained surgical robots through video-based imitation learning to match human surgeon skill levels](https://x.com/adcock_brett/status/1858194256680079674)  𝕏
-- [DEEP Robotics shared a new video of their new commercially available robot dog](https://x.com/adcock_brett/status/1858194279056744876)  𝕏
+- **Soft Robotic Dynamic In-Hand Pen Spinning**, `arXiv, 2411.12734`, [arxiv](http://arxiv.org/abs/2411.12734v1), [pdf](http://arxiv.org/pdf/2411.12734v1.pdf), cication: [**-1**](None) 
+
+	 *Yunchao Yao, Uksang Yoo, Jean Oh, ..., Christopher G. Atkeson, Jeffrey Ichnowski* · ([soft-spin.github](https://soft-spin.github.io/))
+- [trained surgical robots through video-based imitation learning to match human surgeon skill levels](https://x.com/adcock_brett/status/1858194256680079674)  𝕏 
+- [DEEP Robotics shared a new video of their new commercially available robot dog](https://x.com/adcock_brett/status/1858194279056744876)  𝕏 
 - **HOVER: Versatile Neural Whole-Body Controller for Humanoid Robots**, `arXiv, 2410.21229`, [arxiv](http://arxiv.org/abs/2410.21229v1), [pdf](http://arxiv.org/pdf/2410.21229v1.pdf), cication: [**-1**](None) 
 
 	 *Tairan He, Wenli Xiao, Toru Lin, ..., Linxi Fan, Yuke Zhu* · ([x](https://x.com/DrJimFan/status/1851643431803830551)) · ([hover-versatile-humanoid.github](https://hover-versatile-humanoid.github.io/))

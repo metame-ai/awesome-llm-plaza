@@ -13,6 +13,9 @@
 
 ## LLM Models
 
+- **Bi-Mamba: Towards Accurate 1-Bit State Space Models**, `arXiv, 2411.11843`, [arxiv](http://arxiv.org/abs/2411.11843v1), [pdf](http://arxiv.org/pdf/2411.11843v1.pdf), cication: [**-1**](None) 
+
+	 *Shengkun Tang, Liqun Ma, Haonan Li, ..., Mingjie Sun, Zhiqiang Shen* · ([𝕏](https://x.com/omarsar0/status/1858878654736199850))
 - **Learning to (Learn at Test Time): RNNs with Expressive Hidden States**, `arXiv, 2407.04620`, [arxiv](http://arxiv.org/abs/2407.04620v2), [pdf](http://arxiv.org/pdf/2407.04620v2.pdf), cication: [**19**](https://scholar.google.com/scholar?cites=4859112994803550513&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII) 
 
 	 *Yu Sun, Xinhao Li, Karan Dalal, ..., Tatsunori Hashimoto, Carlos Guestrin* · ([yueatsprograms.github](https://yueatsprograms.github.io/ttt/home.html)) · ([ttt-lm-pytorch](https://github.com/test-time-training/ttt-lm-pytorch) - test-time-training) ![Star](https://img.shields.io/github/stars/test-time-training/ttt-lm-pytorch.svg?style=social&label=Star)

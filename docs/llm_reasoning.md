@@ -5,6 +5,7 @@
   - [Reasoning](#reasoning)
   - [Math Reasoning](#math-reasoning)
   - [O1 Reasoning](#o1-reasoning)
+  - [Disentanglement](#disentanglement)
   - [Self Correction](#self-correction)
   - [Knowledge](#knowledge)
   - [Context Learning](#context-learning)
@@ -20,6 +21,10 @@
 
 ## Reasoning
 
+- [DeepSeek-R1-Lite-Preview is now live: unleashing supercharged reasoning power](https://x.com/deepseek_ai/status/1859200145037869485)  𝕏
+- **BALROG: Benchmarking Agentic LLM and VLM Reasoning On Games**, `arXiv, 2411.13543`, [arxiv](http://arxiv.org/abs/2411.13543v1), [pdf](http://arxiv.org/pdf/2411.13543v1.pdf), cication: [**-1**](None) 
+
+	 *Davide Paglieri, Bartłomiej Cupiał, Samuel Coward, ..., Jack Parker-Holder, Tim Rocktäschel*
 - 🌟 **Language Models are Hidden Reasoners: Unlocking Latent Reasoning 
   Capabilities via Self-Rewarding**, `arXiv, 2411.04282`, [arxiv](http://arxiv.org/abs/2411.04282v1), [pdf](http://arxiv.org/pdf/2411.04282v1.pdf), cication: [**-1**](None) 
 
@@ -72,6 +77,20 @@
 
 ## O1 Reasoning
 
+- [Beyond Decoding: Meta-Generation Algorithms for Large Language Models](https://neurips.cc/virtual/2024/tutorial/99522) 
+
+	 · ([simons.berkeley](https://simons.berkeley.edu/talks/sean-welleck-carnegie-mellon-university-2024-11-19))
+- 🌟 **From Decoding to Meta-Generation: Inference-time Algorithms for Large
+  Language Models**, `arXiv, 2406.16838`, [arxiv](http://arxiv.org/abs/2406.16838v2), [pdf](http://arxiv.org/pdf/2406.16838v2.pdf), cication: [**-1**](None) 
+
+	 *Sean Welleck, Amanda Bertsch, Matthew Finlayson, ..., Ilia Kulikov, Zaid Harchaoui* · ([cmu-l3.github](https://cmu-l3.github.io/neurips2024-inference-tutorial/))
+- [honorable mentions to Nous Forge Reasoning API and Fireworks f1, DeepSeek appear to have made the first convincing attempt](https://buttondown.com/ainews/archive/ainews-deepseek-r1-claims-to-beat-o1-preview-and/) 
+- [DeepSeek-R1-Lite-Preview is now live: unleashing supercharged reasoning power!](https://x.com/deepseek_ai/status/1859200141355536422)  𝕏
+
+	 · ([t](https://t.co/v1TFy7LHNy))
+- 🌟 **Marco-o1: Towards Open Reasoning Models for Open-Ended Solutions**, `arXiv, 2411.14405`, [arxiv](http://arxiv.org/abs/2411.14405v1), [pdf](http://arxiv.org/pdf/2411.14405v1.pdf), cication: [**-1**](None) 
+
+	 *Yu Zhao, Huifeng Yin, Bo Zeng, ..., Weihua Luo, Kaifu Zhang* · ([Marco-o1](https://github.com/AIDC-AI/Marco-o1) - AIDC-AI) ![Star](https://img.shields.io/github/stars/AIDC-AI/Marco-o1.svg?style=social&label=Star)
 - 🌟 [**entropix**](https://github.com/xjdr-alt/entropix) - xjdr-alt ![Star](https://img.shields.io/github/stars/xjdr-alt/entropix.svg?style=social&label=Star) 
 - [**Thinking-Claude**](https://github.com/richards199999/Thinking-Claude) - richards199999 ![Star](https://img.shields.io/github/stars/richards199999/Thinking-Claude.svg?style=social&label=Star) 
 - [Speculations on Test-Time Scaling (o1)](https://www.youtube.com/watch?v=6PEJ96k1kiw)  :clapper: 
@@ -92,6 +111,12 @@
 - **A Comparative Study on Reasoning Patterns of OpenAI's o1 Model**, `arXiv, 2410.13639`, [arxiv](http://arxiv.org/abs/2410.13639v2), [pdf](http://arxiv.org/pdf/2410.13639v2.pdf), cication: [**-1**](None) 
 
 	 *Siwei Wu, Zhongyuan Peng, Xinrun Du, ..., Chenghua Lin, J. H. Liu*
+
+## Disentanglement
+
+- **Disentangling Memory and Reasoning Ability in Large Language Models**, `arXiv, 2411.13504`, [arxiv](http://arxiv.org/abs/2411.13504v2), [pdf](http://arxiv.org/pdf/2411.13504v2.pdf), cication: [**-1**](None) 
+
+	 *Mingyu Jin, Weidi Luo, Sitao Cheng, ..., William Yang Wang, Yongfeng Zhang* · ([Disentangling-Memory-and-Reasoning](https://github.com/MingyuJ666/Disentangling-Memory-and-Reasoning?tab=readme-ov-file) - MingyuJ666) ![Star](https://img.shields.io/github/stars/MingyuJ666/Disentangling-Memory-and-Reasoning.svg?style=social&label=Star)
 
 ## Self Correction
 
@@ -115,6 +140,9 @@
 
 ## Prompt
 
+- **Does Prompt Formatting Have Any Impact on LLM Performance?**, `arXiv, 2411.10541`, [arxiv](http://arxiv.org/abs/2411.10541v1), [pdf](http://arxiv.org/pdf/2411.10541v1.pdf), cication: [**-1**](None) 
+
+	 *Jia He, Mukund Rungta, David Koleczek, ..., Franklin X Wang, Sadid Hasan*
 - [automatic prompt optimization algorithms](https://x.com/cwolferesearch/status/1853465302031556725)  𝕏 
 - [Automatic Prompt Optimization](https://cameronrwolfe.substack.com/p/automatic-prompt-optimization) 
 - [MacOS 15.1 Apple Intelligence Prompt Templates](https://x.com/reach_vb/status/1851264423450587302)  𝕏 

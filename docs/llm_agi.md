@@ -13,6 +13,12 @@
 
 ## World Model
 
+- 🌟 **Generative World Explorer**, `arXiv, 2411.11844`, [arxiv](http://arxiv.org/abs/2411.11844v2), [pdf](http://arxiv.org/pdf/2411.11844v2.pdf), cication: [**-1**](None) 
+
+	 *Taiming Lu, Tianmin Shu, Alan Yuille, ..., Daniel Khashabi, Jieneng Chen* · ([generative-world-explorer.github](https://generative-world-explorer.github.io/)) · ([𝕏](https://x.com/jieneng_chen/status/1858754157697790210)) · ([youtube](https://www.youtube.com/watch?v=_1YMpI-oHWU&ab_channel=JienengChen))
+- [The Matrix        Infinite-Horizon World Generation with Real-Time Interaction](https://thematrix1999.github.io/) 
+
+	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247760141&idx=4&sn=f6e815d57fcb6df68d7dfa2e9e7fedb0&chksm=e991229bca440619bccda5fdddf49c2ce501162db94bd203cdf32666ad56fc4318f5b1b0d8e7&scene=0&xtrack=1))
 - [DINO-WM: World Models on Pre-trained                                   Visual Features enable Zero-shot Planning](https://dino-wm.github.io/) 
 - [**lucid-v1**](https://github.com/SonicCodes/lucid-v1) - SonicCodes ![Star](https://img.shields.io/github/stars/SonicCodes/lucid-v1.svg?style=social&label=Star) 
 - **WHALE: Towards Generalizable and Scalable World Models for Embodied 

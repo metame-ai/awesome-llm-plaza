@@ -13,6 +13,10 @@
 
 ## Long Context
 
+- **When Precision Meets Position: BFloat16 Breaks Down RoPE in Long-Context
+  Training**, `arXiv, 2411.13476`, [arxiv](http://arxiv.org/abs/2411.13476v1), [pdf](http://arxiv.org/pdf/2411.13476v1.pdf), cication: [**-1**](None) 
+
+	 *Haonan Wang, Qian Liu, Chao Du, ..., Kenji Kawaguchi, Tianyu Pang* · ([AnchorContext](https://github.com/haonan3/AnchorContext) - haonan3) ![Star](https://img.shields.io/github/stars/haonan3/AnchorContext.svg?style=social&label=Star)
 - **Long Term Memory: The Foundation of AI Self-Evolution**, `arXiv, 2410.15665`, [arxiv](http://arxiv.org/abs/2410.15665v2), [pdf](http://arxiv.org/pdf/2410.15665v2.pdf), cication: [**-1**](None) 
 
 	 *Xun Jiang, Feng Li, Han Zhao, ..., Mengdi Wang, Tianqiao Chen* · ([𝕏](https://x.com/TankaChat/status/1857272126358880267))
@@ -69,3 +73,5 @@
 - [**Awesome-LLM-Long-Context-Modeling**](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling) - Xnhyacinth ![Star](https://img.shields.io/github/stars/Xnhyacinth/Awesome-LLM-Long-Context-Modeling.svg?style=social&label=Star) 
 
 ## Misc
+## Misc
+- [Extending the Context Length to 1M Tokens!](http://qwenlm.github.io/blog/qwen2.5-turbo/) 

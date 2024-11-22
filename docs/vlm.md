@@ -32,6 +32,10 @@
 
 ## Vision-Language Models
 
+- **Llama Guard 3 Vision: Safeguarding Human-AI Image Understanding
+  Conversations**, `arXiv, 2411.10414`, [arxiv](http://arxiv.org/abs/2411.10414v1), [pdf](http://arxiv.org/pdf/2411.10414v1.pdf), cication: [**-1**](None) 
+
+	 *Jianfeng Chi, Ujjwal Karn, Hongyuan Zhan, ..., Kartikeya Upasani, Mahesh Pasupuleti* · ([llama](https://www.llama.com/trust-and-safety/)) · ([llama-recipes](https://github.com/meta-llama/llama-recipes/tree/main/recipes/responsible_ai/llama_guard) - meta-llama) ![Star](https://img.shields.io/github/stars/meta-llama/llama-recipes.svg?style=social&label=Star)
 - **Unified Generative and Discriminative Training for Multi-modal Large 
   Language Models**, `arXiv, 2411.00304`, [arxiv](http://arxiv.org/abs/2411.00304v1), [pdf](http://arxiv.org/pdf/2411.00304v1.pdf), cication: [**-1**](None) 
 
@@ -58,6 +62,12 @@
 
 ## Video
 
+- **Number it: Temporal Grounding Videos like Flipping Manga**, `arXiv, 2411.10332`, [arxiv](http://arxiv.org/abs/2411.10332v1), [pdf](http://arxiv.org/pdf/2411.10332v1.pdf), cication: [**-1**](None) 
+
+	 *Yongliang Wu, Xinting Hu, Yuyang Sun, ..., Bernt Schiele, Xu Yang* · ([NumPro.](https://github.com/yongliang-wu/NumPro.) - yongliang-wu) ![Star](https://img.shields.io/github/stars/yongliang-wu/NumPro..svg?style=social&label=Star)
+- **Video-RAG: Visually-aligned Retrieval-Augmented Long Video Comprehension**, `arXiv, 2411.13093`, [arxiv](http://arxiv.org/abs/2411.13093v1), [pdf](http://arxiv.org/pdf/2411.13093v1.pdf), cication: [**-1**](None) 
+
+	 *Yongdong Luo, Xiawu Zheng, Xiao Yang, ..., Jiebo Luo, Rongrong Ji*
 - **PPLLaVA: Varied Video Sequence Understanding With Prompt Guidance**, `arXiv, 2411.02327`, [arxiv](http://arxiv.org/abs/2411.02327v2), [pdf](http://arxiv.org/pdf/2411.02327v2.pdf), cication: [**-1**](None) 
 
 	 *Ruyang Liu, Haoran Tang, Haibo Liu, ..., Chen Li, Jiankun Yang* · ([PPLLaVA.](https://github.com/farewellthree/PPLLaVA.) - farewellthree) ![Star](https://img.shields.io/github/stars/farewellthree/PPLLaVA..svg?style=social&label=Star)
@@ -87,6 +97,13 @@
 
 ## Encoder
 
+- **REDUCIO! Generating 1024$\times$1024 Video within 16 Seconds using
+  Extremely Compressed Motion Latents**, `arXiv, 2411.13552`, [arxiv](http://arxiv.org/abs/2411.13552v1), [pdf](http://arxiv.org/pdf/2411.13552v1.pdf), cication: [**-1**](None) 
+
+	 *Rui Tian, Qi Dai, Jianmin Bao, ..., Zuxuan Wu, Yu-Gang Jiang* · ([Reducio-VAE](https://github.com/microsoft/Reducio-VAE) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/Reducio-VAE.svg?style=social&label=Star)
+- **Multimodal Autoregressive Pre-training of Large Vision Encoders**, `arXiv, 2411.14402`, [arxiv](http://arxiv.org/abs/2411.14402v1), [pdf](http://arxiv.org/pdf/2411.14402v1.pdf), cication: [**-1**](None) 
+
+	 *Enrico Fini, Mustafa Shukor, Xiujun Li, ..., Joshua M. Susskind, Alaaeldin El-Nouby* · ([ml-aim](https://github.com/apple/ml-aim) - apple) ![Star](https://img.shields.io/github/stars/apple/ml-aim.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/collections/apple/aimv2-6720fe1558d94c7805f7688c))
 - **Don't Look Twice: Faster Video Transformers with Run-Length Tokenization**, `arXiv, 2411.05222`, [arxiv](http://arxiv.org/abs/2411.05222v1), [pdf](http://arxiv.org/pdf/2411.05222v1.pdf), cication: [**-1**](None) 
 
 	 *Rohan Choudhury, Guanglei Zhu, Sihan Liu, ..., Kris M. Kitani, László Jeni* · ([rccchoudhury.github](https://rccchoudhury.github.io/projects/rlt)) · ([rlt](https://github.com/rccchoudhury/rlt?tab=readme-ov-file) - rccchoudhury) ![Star](https://img.shields.io/github/stars/rccchoudhury/rlt.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247758620&idx=2&sn=27eeae5b60283615f9abf3f8f0dd8780&chksm=e9d9b997a6e17483de1ee3b9e9199635e16afe381d3c7e19c0ccf8d02e937411137cda7f63d0&scene=0&xtrack=1))
@@ -112,6 +129,10 @@
 
 ## Alignment
 
+- **SymDPO: Boosting In-Context Learning of Large Multimodal Models with
+  Symbol Demonstration Direct Preference Optimization**, `arXiv, 2411.11909`, [arxiv](http://arxiv.org/abs/2411.11909v1), [pdf](http://arxiv.org/pdf/2411.11909v1.pdf), cication: [**-1**](None) 
+
+	 *Hongrui Jia, Chaoya Jiang, Haiyang Xu, ..., Fei Huang, Shikun Zhang*
 - **V-DPO: Mitigating Hallucination in Large Vision Language Models via 
   Vision-Guided Direct Preference Optimization**, `arXiv, 2411.02712`, [arxiv](http://arxiv.org/abs/2411.02712v1), [pdf](http://arxiv.org/pdf/2411.02712v1.pdf), cication: [**-1**](None) 
 
@@ -123,12 +144,24 @@
 
 ## Reasoning
 
+- 🌟 **LLaVA-o1: Let Vision Language Models Reason Step-by-Step**, `arXiv, 2411.10440`, [arxiv](http://arxiv.org/abs/2411.10440v1), [pdf](http://arxiv.org/pdf/2411.10440v1.pdf), cication: [**-1**](None) 
+
+	 *Guowei Xu, Peng Jin, Li Hao, ..., Lichao Sun, Li Yuan* · ([LLaVA-o1](https://github.com/PKU-YuanGroup/LLaVA-o1) - PKU-YuanGroup) ![Star](https://img.shields.io/github/stars/PKU-YuanGroup/LLaVA-o1.svg?style=social&label=Star)
+- [Llama-3.2V-11B-cot is the first version of LLaVA-o1, which is a visual language model capable of spontaneous, systematic reasoning.](https://huggingface.co/Xkev/Llama-3.2V-11B-cot)  🤗
 - **Vision-Language Models Can Self-Improve Reasoning via Reflection**, `arXiv, 2411.00855`, [arxiv](http://arxiv.org/abs/2411.00855v1), [pdf](http://arxiv.org/pdf/2411.00855v1.pdf), cication: [**-1**](None) 
 
 	 *Kanzhi Cheng, Yantao Li, Fangzhi Xu, ..., Hao Zhou, Yang Liu*
 
 ## Evaluation
 
+- **VideoAutoArena: An Automated Arena for Evaluating Large Multimodal
+  Models in Video Analysis through User Simulation**, `arXiv, 2411.13281`, [arxiv](http://arxiv.org/abs/2411.13281v1), [pdf](http://arxiv.org/pdf/2411.13281v1.pdf), cication: [**-1**](None) 
+
+	 *Ziyang Luo, Haoning Wu, Dongxu Li, ..., Mohan Kankanhalli, Junnan Li* · ([videoautoarena.github](https://videoautoarena.github.io!))
+- **ViBe: A Text-to-Video Benchmark for Evaluating Hallucination in Large
+  Multimodal Models**, `arXiv, 2411.10867`, [arxiv](http://arxiv.org/abs/2411.10867v1), [pdf](http://arxiv.org/pdf/2411.10867v1.pdf), cication: [**-1**](None) 
+
+	 *Vipula Rawte, Sarthak Jain, Aarush Sinha, ..., Amit P. Sheth, Amitava Das*
 - **M-Longdoc: A Benchmark For Multimodal Super-Long Document Understanding 
   And A Retrieval-Aware Tuning Framework**, `arXiv, 2411.06176`, [arxiv](http://arxiv.org/abs/2411.06176v1), [pdf](http://arxiv.org/pdf/2411.06176v1.pdf), cication: [**-1**](None) 
 
@@ -188,6 +221,10 @@
 
 ## Efficient
 
+- 🌟 **BlueLM-V-3B: Algorithm and System Co-Design for Multimodal Large
+  Language Models on Mobile Devices**, `arXiv, 2411.10640`, [arxiv](http://arxiv.org/abs/2411.10640v1), [pdf](http://arxiv.org/pdf/2411.10640v1.pdf), cication: [**-1**](None) 
+
+	 *Xudong Lu, Yinghao Chen, Cheng Chen, ..., Shuai Ren, Hongsheng Li*
 - **Inference Optimal VLMs Need Only One Visual Token but Larger Models**, `arXiv, 2411.03312`, [arxiv](http://arxiv.org/abs/2411.03312v1), [pdf](http://arxiv.org/pdf/2411.03312v1.pdf), cication: [**-1**](None) 
 
 	 *Kevin Y. Li, Sachin Goyal, Joao D. Semedo, ..., J. Zico Kolter* · ([llava-token-compression](https://github.com/locuslab/llava-token-compression) - locuslab) ![Star](https://img.shields.io/github/stars/locuslab/llava-token-compression.svg?style=social&label=Star)
@@ -249,6 +286,11 @@
 
 ## Projects
 
+- [Pixtral Large](https://mistral.ai/news/pixtral-large/) 
+
+	 · ([huggingface](https://huggingface.co/mistralai/Pixtral-Large-Instruct-2411))
+- [**IPLoc**](https://github.com/SivanDoveh/IPLoc) - SivanDoveh ![Star](https://img.shields.io/github/stars/SivanDoveh/IPLoc.svg?style=social&label=Star)
+- [Vision finetuning is finally in@UnslothAI](https://x.com/danielhanchen/status/1859672815693414853)  𝕏
 - [OmniVision-968M: World's Smallest Vision Language Model](https://nexa.ai/blogs/[object%20Object]) 
 
 	 · ([huggingface](https://huggingface.co/spaces/NexaAIDev/omnivlm-dpo-demo))
@@ -263,4 +305,4 @@
 
 - [Understanding Multimodal LLMs](https://magazine.sebastianraschka.com/p/understanding-multimodal-llms) 
 - :clapper: [Moondream: how does a tiny vision model slap so hard? — Vikhyat Korrapati](https://www.youtube.com/watch?v=T7sxvrJLJ14) 
-- :clapper: [Hannaneh Hajishirzi - OLMo: Accelerating the Science of Language Modeling (COLM)](https://www.youtube.com/watch?v=qMTzor0j418) 
+- 🌟 [Hannaneh Hajishirzi - OLMo: Accelerating the Science of Language Modeling (COLM)](https://www.youtube.com/watch?v=qMTzor0j418)  :clapper:

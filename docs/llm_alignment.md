@@ -12,6 +12,13 @@
 
 ## LLM Alignment
 
+- [Meta’s Post-Training Pipeline for Llama 3.1](https://medium.com/@jkabrit/metas-post-training-pipeline-for-llama-3-1-e6777801c0a1) 
+- [WizardArena: Post-training Large Language Models via Simulated Offline Chatbot Aren](https://openreview.net/forum?id=VHva3d836i) 
+
+	 · ([arxiv](https://arxiv.org/abs/2407.10627v1))
+- **Rewarding Chatbots for Real-World Engagement with Millions of Users**, `arXiv, 2303.06135`, [arxiv](http://arxiv.org/abs/2303.06135v2), [pdf](http://arxiv.org/pdf/2303.06135v2.pdf), cication: [**-1**](None) 
+
+	 *Robert Irvine, Douglas Boubert, Vyas Raina, ..., Thomas Rialan, William Beauchamp*
 - **IOPO: Empowering LLMs with Complex Instruction Following via 
   Input-Output Preference Optimization**, `arXiv, 2411.06208`, [arxiv](http://arxiv.org/abs/2411.06208v1), [pdf](http://arxiv.org/pdf/2411.06208v1.pdf), cication: [**-1**](None) 
 
