@@ -13,7 +13,7 @@
 
 ## LLM Security
 
-- **Llama Guard 3 Vision: Safeguarding Human-AI Image Understanding
+- **Llama Guard 3 Vision: Safeguarding Human-AI Image Understanding 
   Conversations**, `arXiv, 2411.10414`, [arxiv](http://arxiv.org/abs/2411.10414v1), [pdf](http://arxiv.org/pdf/2411.10414v1.pdf), cication: [**-1**](None) 
 
 	 *Jianfeng Chi, Ujjwal Karn, Hongyuan Zhan, ..., Kartikeya Upasani, Mahesh Pasupuleti* · ([llama](https://www.llama.com/trust-and-safety/)) · ([llama-recipes](https://github.com/meta-llama/llama-recipes/tree/main/recipes/responsible_ai/llama_guard) - meta-llama) ![Star](https://img.shields.io/github/stars/meta-llama/llama-recipes.svg?style=social&label=Star)

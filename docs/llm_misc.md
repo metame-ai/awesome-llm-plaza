@@ -25,7 +25,7 @@
 - **Multilingual Large Language Models: A Systematic Survey**, `arXiv, 2411.11072`, [arxiv](http://arxiv.org/abs/2411.11072v2), [pdf](http://arxiv.org/pdf/2411.11072v2.pdf), cication: [**-1**](None) 
 
 	 *Shaolin Zhu, Supryadi, Shaoyang Xu, ..., António Branco, Deyi Xiong* · ([Awesome-Multilingual-LLMs-Papers](https://github.com/tjunlp-lab/Awesome-Multilingual-LLMs-Papers) - tjunlp-lab) ![Star](https://img.shields.io/github/stars/tjunlp-lab/Awesome-Multilingual-LLMs-Papers.svg?style=social&label=Star)
-- [**awesome-discrete-diffusion-models**](https://github.com/kuleshov-group/awesome-discrete-diffusion-models) - kuleshov-group ![Star](https://img.shields.io/github/stars/kuleshov-group/awesome-discrete-diffusion-models.svg?style=social&label=Star)
+- [**awesome-discrete-diffusion-models**](https://github.com/kuleshov-group/awesome-discrete-diffusion-models) - kuleshov-group ![Star](https://img.shields.io/github/stars/kuleshov-group/awesome-discrete-diffusion-models.svg?style=social&label=Star) 
 - **Survey of Cultural Awareness in Language Models: Text and Beyond**, `arXiv, 2411.00860`, [arxiv](http://arxiv.org/abs/2411.00860v1), [pdf](http://arxiv.org/pdf/2411.00860v1.pdf), cication: [**-1**](None) 
 
 	 *Siddhesh Pawar, Junyeong Park, Jiho Jin, ..., Alice Oh, Isabelle Augenstein*
@@ -40,7 +40,7 @@
 
 ## Interpretability
 
-- [Dario Amodei: Anthropic CEO on Claude, AGI & the Future of AI & Humanity | Lex Fridman Podcast #452](https://www.youtube.com/)  :clapper:
+- [Dario Amodei: Anthropic CEO on Claude, AGI & the Future of AI & Humanity | Lex Fridman Podcast #452](https://www.youtube.com/)  :clapper: 
 - [The Rate Distortion Dance of Sparse Autoencoders](https://tilderesearch.com/blog) 
 
 	 · ([𝕏](https://x.com/tilderesearch/status/1856404543808131334))

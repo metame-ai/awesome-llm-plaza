@@ -20,13 +20,13 @@
 
 ## LLM Data
 
-- [**dolma**](https://github.com/allenai/dolma) - allenai ![Star](https://img.shields.io/github/stars/allenai/dolma.svg?style=social&label=Star)
+- [**dolma**](https://github.com/allenai/dolma) - allenai ![Star](https://img.shields.io/github/stars/allenai/dolma.svg?style=social&label=Star) 
 
 	 *an open dataset of 3 trillion tokens from a diverse mix of web content, academic publications, code, books, and encyclopedic materials.*
 - 🌟 **RedPajama: an Open Dataset for Training Large Language Models**, `arXiv, 2411.12372`, [arxiv](http://arxiv.org/abs/2411.12372v1), [pdf](http://arxiv.org/pdf/2411.12372v1.pdf), cication: [**-1**](None) 
 
 	 *Maurice Weber, Daniel Fu, Quentin Anthony, ..., Irina Rish, Ce Zhang*
-- 🌟 [**smollm**](https://github.com/huggingface/smollm) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/smollm.svg?style=social&label=Star)
+- 🌟 [**smollm**](https://github.com/huggingface/smollm) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/smollm.svg?style=social&label=Star) 
 
 	 *135M, 360M, and 1.7B parameters.* · ([smollm](https://github.com/huggingface/smollm) - huggingface) ![Star](https://img.shields.io/github/stars/huggingface/smollm.svg?style=social&label=Star) · ([𝕏](https://x.com/_philschmid/status/1859598525723488478)) · ([huggingface](https://huggingface.co/datasets/HuggingFaceTB/smoltalk))
 - [Zyda-2 is a 5 trillion token language modeling dataset created by collecting open and high quality datasets and combining them and cross-deduplication and model-based quality filtering.](https://huggingface.co/datasets/Zyphra/Zyda-2)  🤗 
@@ -56,9 +56,9 @@
 
 ## Alignment
 
-- [Tulu V2.5 Suite  updated			6 days ago A suite of models trained using DPO and PPO across a wide variety (up to 14) of preference datasets.](https://huggingface.co/collections/allenai/tulu-v25-suite-66676520fd578080e126f618)  🤗
-- [Llama 3.1 Tulu 3 70B Preference Mixture](https://huggingface.co/datasets/allenai/llama-3.1-tulu-3-70b-preference-mixture)  🤗
-- [Tulu 3 SFT Mixture](https://huggingface.co/datasets/allenai/tulu-3-sft-mixture)  🤗
+- [Tulu V2.5 Suite  updated			6 days ago A suite of models trained using DPO and PPO across a wide variety (up to 14) of preference datasets.](https://huggingface.co/collections/allenai/tulu-v25-suite-66676520fd578080e126f618)  🤗 
+- [Llama 3.1 Tulu 3 70B Preference Mixture](https://huggingface.co/datasets/allenai/llama-3.1-tulu-3-70b-preference-mixture)  🤗 
+- [Tulu 3 SFT Mixture](https://huggingface.co/datasets/allenai/tulu-3-sft-mixture)  🤗 
 - **LongReward: Improving Long-context Large Language Models with AI 
   Feedback**, `arXiv, 2410.21252`, [arxiv](http://arxiv.org/abs/2410.21252v1), [pdf](http://arxiv.org/pdf/2410.21252v1.pdf), cication: [**-1**](None)
 
@@ -97,7 +97,7 @@
 
 ## Toolkits
 
-- [**dolma**](https://github.com/allenai/dolma) - allenai ![Star](https://img.shields.io/github/stars/allenai/dolma.svg?style=social&label=Star)
+- [**dolma**](https://github.com/allenai/dolma) - allenai ![Star](https://img.shields.io/github/stars/allenai/dolma.svg?style=social&label=Star) 
 - [**docling**](https://github.com/DS4SD/docling) - DS4SD ![Star](https://img.shields.io/github/stars/DS4SD/docling.svg?style=social&label=Star) 
 - [**maxun**](https://github.com/getmaxun/maxun) - getmaxun ![Star](https://img.shields.io/github/stars/getmaxun/maxun.svg?style=social&label=Star) 
 

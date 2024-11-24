@@ -67,11 +67,11 @@
 
 ## UI Agent
 
-- **The Dawn of GUI Agent: A Preliminary Case Study with Claude 3.5 Computer
+- **The Dawn of GUI Agent: A Preliminary Case Study with Claude 3.5 Computer 
   Use**, `arXiv, 2411.10323`, [arxiv](http://arxiv.org/abs/2411.10323v1), [pdf](http://arxiv.org/pdf/2411.10323v1.pdf), cication: [**-1**](None) 
 
 	 *Siyuan Hu, Mingyu Ouyang, Difei Gao, ..., Mike Zheng Shou* · ([computer_use_ootb](https://github.com/showlab/computer_use_ootb) - showlab) ![Star](https://img.shields.io/github/stars/showlab/computer_use_ootb.svg?style=social&label=Star)
-- **Is Your LLM Secretly a World Model of the Internet? Model-Based Planning
+- **Is Your LLM Secretly a World Model of the Internet? Model-Based Planning 
   for Web Agents**, `arXiv, 2411.06559`, [arxiv](http://arxiv.org/abs/2411.06559v1), [pdf](http://arxiv.org/pdf/2411.06559v1.pdf), cication: [**-1**](None) 
 
 	 *Yu Gu, Boyuan Zheng, Boyu Gou, ..., Huan Sun, Yu Su* · ([WebDreamer](https://github.com/OSU-NLP-Group/WebDreamer) - OSU-NLP-Group) ![Star](https://img.shields.io/github/stars/OSU-NLP-Group/WebDreamer.svg?style=social&label=Star)
@@ -163,7 +163,7 @@
 - **Generative Agent Simulations of 1,000 People**, `arXiv, 2411.10109`, [arxiv](http://arxiv.org/abs/2411.10109v1), [pdf](http://arxiv.org/pdf/2411.10109v1.pdf), cication: [**-1**](None) 
 
 	 *Joon Sung Park, Carolyn Q. Zou, Aaron Shaw, ..., Percy Liang, Michael S. Bernstein* · ([𝕏](https://x.com/joon_s_pk/status/1858546483785760869)) · ([genagents](https://github.com/joonspk-research/genagents) - joonspk-research) ![Star](https://img.shields.io/github/stars/joonspk-research/genagents.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652541727&idx=1&sn=85153d3f653b0957701ec0b1b199d930&chksm=f0a23e9c4f40f27122d276378a4d34b18478d8ca4472062ca5876d6287b987e60a14f125f0d9&scene=0&xtrack=1))
-- [**multi-agent-orchestrator**](https://github.com/awslabs/multi-agent-orchestrator) - awslabs ![Star](https://img.shields.io/github/stars/awslabs/multi-agent-orchestrator.svg?style=social&label=Star)
+- [**multi-agent-orchestrator**](https://github.com/awslabs/multi-agent-orchestrator) - awslabs ![Star](https://img.shields.io/github/stars/awslabs/multi-agent-orchestrator.svg?style=social&label=Star) 
 - [The Virtual Lab: AI Agents Design New SARS-CoV-2 Nanobodies with Experimental Validation](https://www.biorxiv.org/content/10.1101/2024.11.11.623004v1) 
 
 	 · ([𝕏](https://x.com/james_y_zou/status/1856729107045982607))

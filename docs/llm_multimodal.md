@@ -12,7 +12,7 @@
 
 ## Omni
 
-- [**AnyModal**](https://github.com/ritabratamaiti/AnyModal) - ritabratamaiti ![Star](https://img.shields.io/github/stars/ritabratamaiti/AnyModal.svg?style=social&label=Star)
+- [**AnyModal**](https://github.com/ritabratamaiti/AnyModal) - ritabratamaiti ![Star](https://img.shields.io/github/stars/ritabratamaiti/AnyModal.svg?style=social&label=Star) 
 
 	 *A Flexible Multimodal Language Model Framework*
 - **Everything is a Video: Unifying Modalities through Next-Frame Prediction**, `arXiv, 2411.10503`, [arxiv](http://arxiv.org/abs/2411.10503v1), [pdf](http://arxiv.org/pdf/2411.10503v1.pdf), cication: [**-1**](None) 

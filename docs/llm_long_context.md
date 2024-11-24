@@ -13,7 +13,7 @@
 
 ## Long Context
 
-- **When Precision Meets Position: BFloat16 Breaks Down RoPE in Long-Context
+- **When Precision Meets Position: BFloat16 Breaks Down RoPE in Long-Context 
   Training**, `arXiv, 2411.13476`, [arxiv](http://arxiv.org/abs/2411.13476v1), [pdf](http://arxiv.org/pdf/2411.13476v1.pdf), cication: [**-1**](None) 
 
 	 *Haonan Wang, Qian Liu, Chao Du, ..., Kenji Kawaguchi, Tianyu Pang* · ([AnchorContext](https://github.com/haonan3/AnchorContext) - haonan3) ![Star](https://img.shields.io/github/stars/haonan3/AnchorContext.svg?style=social&label=Star)

@@ -47,7 +47,7 @@
 
 ## Quantization
 
-- **PrefixQuant: Static Quantization Beats Dynamic through Prefixed Outliers
+- **PrefixQuant: Static Quantization Beats Dynamic through Prefixed Outliers 
   in LLMs**, `arXiv, 2410.05265`, [arxiv](http://arxiv.org/abs/2410.05265v1), [pdf](http://arxiv.org/pdf/2410.05265v1.pdf), cication: [**-1**](None) 
 
 	 *Mengzhao Chen, Yi Liu, Jiahao Wang, ..., Wenqi Shao, Ping Luo* · ([PrefixQuant](https://github.com/ChenMnZ/PrefixQuant) - ChenMnZ) ![Star](https://img.shields.io/github/stars/ChenMnZ/PrefixQuant.svg?style=social&label=Star) · ([arxiv](https://arxiv.org/abs/2410.05265v1))
@@ -96,11 +96,11 @@
 - **FastDraft: How to Train Your Draft**, `arXiv, 2411.11055`, [arxiv](http://arxiv.org/abs/2411.11055v1), [pdf](http://arxiv.org/pdf/2411.11055v1.pdf), cication: [**-1**](None) 
 
 	 *Ofir Zafrir, Igor Margulis, Dorin Shteyman, ..., Guy Boudoukh*
-- **SageAttention2 Technical Report: Accurate 4 Bit Attention for
+- **SageAttention2 Technical Report: Accurate 4 Bit Attention for 
   Plug-and-play Inference Acceleration**, `arXiv, 2411.10958`, [arxiv](http://arxiv.org/abs/2411.10958v1), [pdf](http://arxiv.org/pdf/2411.10958v1.pdf), cication: [**-1**](None) 
 
 	 *Jintao Zhang, Haofeng Huang, Pengle Zhang, ..., Jun Zhu, Jianfei Chen* · ([SageAttention](https://github.com/thu-ml/SageAttention) - thu-ml) ![Star](https://img.shields.io/github/stars/thu-ml/SageAttention.svg?style=social&label=Star)
-- [Faster Text Generation with Self-Speculative Decoding](https://huggingface.co/blog/layerskip)  🤗
+- [Faster Text Generation with Self-Speculative Decoding](https://huggingface.co/blog/layerskip)  🤗 
 - [**distributed-llama**](https://github.com/b4rtaz/distributed-llama) - b4rtaz ![Star](https://img.shields.io/github/stars/b4rtaz/distributed-llama.svg?style=social&label=Star) 
 - [SGLang: Fast Serving Framework for Large Language and Vision-Language Models on AMD GPUs](https://rocm.blogs.amd.com/artificial-intelligence/sglang/README.html) 
 - [OpenAI beats Anthropic and Fireworks to releasing Speculative Decoding](https://buttondown.com/ainews/archive/ainews-openai-beats-anthropic-and-fireworks-to/) 
@@ -129,7 +129,7 @@
 
 ## Small Language Models
 
-- **SlimLM: An Efficient Small Language Model for On-Device Document
+- **SlimLM: An Efficient Small Language Model for On-Device Document 
   Assistance**, `arXiv, 2411.09944`, [arxiv](http://arxiv.org/abs/2411.09944v1), [pdf](http://arxiv.org/pdf/2411.09944v1.pdf), cication: [**-1**](None) 
 
 	 *Thang M. Pham, Phat T. Nguyen, Seunghyun Yoon, ..., Franck Dernoncourt, Trung Bui*
@@ -142,7 +142,7 @@
 
 ## Transformer
 
-- 🌟 **SageAttention2 Technical Report: Accurate 4 Bit Attention for
+- 🌟 **SageAttention2 Technical Report: Accurate 4 Bit Attention for 
   Plug-and-play Inference Acceleration**, `arXiv, 2411.10958`, [arxiv](http://arxiv.org/abs/2411.10958v1), [pdf](http://arxiv.org/pdf/2411.10958v1.pdf), cication: [**-1**](None) 
 
 	 *Jintao Zhang, Haofeng Huang, Pengle Zhang, ..., Jun Zhu, Jianfei Chen* · ([SageAttention.](https://github.com/thu-ml/SageAttention.) - thu-ml) ![Star](https://img.shields.io/github/stars/thu-ml/SageAttention..svg?style=social&label=Star)
@@ -168,10 +168,10 @@
 
 ## Projects
 
-- [**nano-sparse-attention**](https://github.com/PiotrNawrot/nano-sparse-attention) - PiotrNawrot ![Star](https://img.shields.io/github/stars/PiotrNawrot/nano-sparse-attention.svg?style=social&label=Star)
+- [**nano-sparse-attention**](https://github.com/PiotrNawrot/nano-sparse-attention) - PiotrNawrot ![Star](https://img.shields.io/github/stars/PiotrNawrot/nano-sparse-attention.svg?style=social&label=Star) 
 
 	 · ([𝕏](https://x.com/p_nawrot/status/1858903361858265460))
-- [**sgl-learning-materials**](https://github.com/sgl-project/sgl-learning-materials) - sgl-project ![Star](https://img.shields.io/github/stars/sgl-project/sgl-learning-materials.svg?style=social&label=Star)
+- [**sgl-learning-materials**](https://github.com/sgl-project/sgl-learning-materials) - sgl-project ![Star](https://img.shields.io/github/stars/sgl-project/sgl-learning-materials.svg?style=social&label=Star) 
 - [**exo**](https://github.com/exo-explore/exo) - exo-explore ![Star](https://img.shields.io/github/stars/exo-explore/exo.svg?style=social&label=Star) 
 
 	 *Run your own AI cluster at home with everyday devices.*

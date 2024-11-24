@@ -37,11 +37,11 @@
 
 ## Science
 
-- **That Chip Has Sailed: A Critique of Unfounded Skepticism Around AI for
+- **That Chip Has Sailed: A Critique of Unfounded Skepticism Around AI for 
   Chip Design**, `arXiv, 2411.10053`, [arxiv](http://arxiv.org/abs/2411.10053v1), [pdf](http://arxiv.org/pdf/2411.10053v1.pdf), cication: [**-1**](None) 
 
 	 *Anna Goldie, Azalia Mirhoseini, Jeff Dean*
-- [AlphaQubit: our AI-based system that can more accurately identify errors inside quantum computers](https://x.com/GoogleDeepMind/status/1859273133234192598)  𝕏
+- [AlphaQubit: our AI-based system that can more accurately identify errors inside quantum computers](https://x.com/GoogleDeepMind/status/1859273133234192598)  𝕏 
 - [The Virtual Lab: AI Agents Design New SARS-CoV-2 Nanobodies with Experimental Validation](https://www.biorxiv.org/content/10.1101/2024.11.11.623004v1) 
 
 	 · ([𝕏](https://x.com/james_y_zou/status/1856729107045982607))
@@ -79,7 +79,7 @@
 - **Generative Agent Simulations of 1,000 People**, `arXiv, 2411.10109`, [arxiv](http://arxiv.org/abs/2411.10109v1), [pdf](http://arxiv.org/pdf/2411.10109v1.pdf), cication: [**-1**](None) 
 
 	 *Joon Sung Park, Carolyn Q. Zou, Aaron Shaw, ..., Percy Liang, Michael S. Bernstein* · ([𝕏](https://x.com/joon_s_pk/status/1858546483785760869)) · ([genagents](https://github.com/joonspk-research/genagents) - joonspk-research) ![Star](https://img.shields.io/github/stars/joonspk-research/genagents.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652541727&idx=1&sn=85153d3f653b0957701ec0b1b199d930&chksm=f0a23e9c4f40f27122d276378a4d34b18478d8ca4472062ca5876d6287b987e60a14f125f0d9&scene=0&xtrack=1))
-- [**RPBench-Auto**](https://github.com/boson-ai/RPBench-Auto) - boson-ai ![Star](https://img.shields.io/github/stars/boson-ai/RPBench-Auto.svg?style=social&label=Star)
+- [**RPBench-Auto**](https://github.com/boson-ai/RPBench-Auto) - boson-ai ![Star](https://img.shields.io/github/stars/boson-ai/RPBench-Auto.svg?style=social&label=Star) 
 
 	 · ([boson](https://boson.ai/rpbench-blog/))
 - [Emotional Intelligence Benchmark for LLMs](https://eqbench.com/judgemark.html) 
@@ -159,7 +159,7 @@
 
 ## Game
 
-- [Building an AI-Powered Game – a new short course on @deeplearningai,](https://x.com/togethercompute/status/1859315685974999413)  𝕏
+- [Building an AI-Powered Game – a new short course on @deeplearningai,](https://x.com/togethercompute/status/1859315685974999413)  𝕏 
 - [**HEP-LLM-play-StarCraftII**](https://github.com/NKAI-Decision-Team/HEP-LLM-play-StarCraftII) - NKAI-Decision-Team ![Star](https://img.shields.io/github/stars/NKAI-Decision-Team/HEP-LLM-play-StarCraftII.svg?style=social&label=Star) 
 
 	 *An Approch Defeat Elite AI in TextStarCraft-II for the First Time*
@@ -193,14 +193,14 @@
 
 ## Projects
 
-- [**Automated-AI-Web-Researcher-Ollama**](https://github.com/TheBlewish/Automated-AI-Web-Researcher-Ollama) - TheBlewish ![Star](https://img.shields.io/github/stars/TheBlewish/Automated-AI-Web-Researcher-Ollama.svg?style=social&label=Star)
+- [**Automated-AI-Web-Researcher-Ollama**](https://github.com/TheBlewish/Automated-AI-Web-Researcher-Ollama) - TheBlewish ![Star](https://img.shields.io/github/stars/TheBlewish/Automated-AI-Web-Researcher-Ollama.svg?style=social&label=Star) 
 
 	 · ([reddit](https://www.reddit.com/r/LocalLLaMA/comments/1gvlzug/i_created_an_ai_research_assistant_that_actually/))
-- [**Medical-Vision-and-Language-Tasks-and-Methodologies-A-Survey**](https://github.com/YtongXie/Medical-Vision-and-Language-Tasks-and-Methodologies-A-Survey) - YtongXie ![Star](https://img.shields.io/github/stars/YtongXie/Medical-Vision-and-Language-Tasks-and-Methodologies-A-Survey.svg?style=social&label=Star)
+- [**Medical-Vision-and-Language-Tasks-and-Methodologies-A-Survey**](https://github.com/YtongXie/Medical-Vision-and-Language-Tasks-and-Methodologies-A-Survey) - YtongXie ![Star](https://img.shields.io/github/stars/YtongXie/Medical-Vision-and-Language-Tasks-and-Methodologies-A-Survey.svg?style=social&label=Star) 
 
 	 *A Survey*
-- [**pensieve**](https://github.com/arkohut/pensieve) - arkohut ![Star](https://img.shields.io/github/stars/arkohut/pensieve.svg?style=social&label=Star)
-- [**chatbox**](https://github.com/Bin-Huang/chatbox) - Bin-Huang ![Star](https://img.shields.io/github/stars/Bin-Huang/chatbox.svg?style=social&label=Star)
+- [**pensieve**](https://github.com/arkohut/pensieve) - arkohut ![Star](https://img.shields.io/github/stars/arkohut/pensieve.svg?style=social&label=Star) 
+- [**chatbox**](https://github.com/Bin-Huang/chatbox) - Bin-Huang ![Star](https://img.shields.io/github/stars/Bin-Huang/chatbox.svg?style=social&label=Star) 
 - [**HK-O1aw**](https://github.com/HKAIR-Lab/HK-O1aw) - HKAIR-Lab ![Star](https://img.shields.io/github/stars/HKAIR-Lab/HK-O1aw.svg?style=social&label=Star) 
 - [**dsRAG**](https://github.com/D-Star-AI/dsRAG) - D-Star-AI ![Star](https://img.shields.io/github/stars/D-Star-AI/dsRAG.svg?style=social&label=Star) 
 - [**eliza**](https://github.com/ai16z/eliza) - ai16z ![Star](https://img.shields.io/github/stars/ai16z/eliza.svg?style=social&label=Star) 
@@ -221,7 +221,7 @@
 - 🌟 [Synthesizing 1M+ open access computer science papers](https://openscholar.allen.ai/) 
 
 	 · ([𝕏](https://x.com/AkariAsai/status/1858875730068738051)) · ([OpenScholar](https://github.com/AkariAsai/OpenScholar) - AkariAsai) ![Star](https://img.shields.io/github/stars/AkariAsai/OpenScholar.svg?style=social&label=Star)
-- [Halo: Open Source Health Tracking with Wearables](https://huggingface.co/blog/cyrilzakka/halo-introduction)  🤗
+- [Halo: Open Source Health Tracking with Wearables](https://huggingface.co/blog/cyrilzakka/halo-introduction)  🤗 
 
 	 · ([𝕏](https://x.com/cyrilzakka/status/1858937683487412704))
 - **LLaMA-Mesh: Unifying 3D Mesh Generation with Language Models**, `arXiv, 2411.09595`, [arxiv](http://arxiv.org/abs/2411.09595v1), [pdf](http://arxiv.org/pdf/2411.09595v1.pdf), cication: [**-1**](None) 
@@ -230,9 +230,9 @@
 
 ## Products
 
-- [Perplexity Shopping: a one-stop solution to  both research and buy products.](https://x.com/AravSrinivas/status/1858560970223911122)  𝕏
+- [Perplexity Shopping: a one-stop solution to  both research and buy products.](https://x.com/AravSrinivas/status/1858560970223911122)  𝕏 
 - [Learn About](https://learning.google.com/experiments/learn-about/signup) 
 
 ## Misc
 ## Misc
-- [The State of Generative AI in the Enterprise](https://x.com/maximelabonne/status/1859591100475888123)  𝕏
+- [The State of Generative AI in the Enterprise](https://x.com/maximelabonne/status/1859591100475888123)  𝕏 

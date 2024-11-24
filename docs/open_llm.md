@@ -19,7 +19,7 @@
 
 ## English Models
 
-- [Mistral-Large-Instruct-2411 is an advanced dense Large Language Model (LLM) of 123B parameters with state-of-the-art reasoning](https://huggingface.co/mistralai/Mistral-Large-Instruct-2411)  🤗
+- [Mistral-Large-Instruct-2411 is an advanced dense Large Language Model (LLM) of 123B parameters with state-of-the-art reasoning](https://huggingface.co/mistralai/Mistral-Large-Instruct-2411)  🤗 
 - 🌟 [Athene-V2-Chat-72B, an open-weights LLM on-par with GPT-4o across benchmarks](https://huggingface.co/Nexusflow/Athene-V2-Chat)  🤗 
 
 	 · ([nexusflow](https://nexusflow.ai/blogs/athene-v2))
@@ -40,7 +40,7 @@
 
 ## Small Language Models
 
-- 🌟 [**smollm**](https://github.com/huggingface/smollm) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/smollm.svg?style=social&label=Star)
+- 🌟 [**smollm**](https://github.com/huggingface/smollm) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/smollm.svg?style=social&label=Star) 
 
 	 *135M, 360M, and 1.7B parameters.* · ([smollm](https://github.com/huggingface/smollm) - huggingface) ![Star](https://img.shields.io/github/stars/huggingface/smollm.svg?style=social&label=Star) · ([𝕏](https://x.com/_philschmid/status/1859598525723488478)) · ([huggingface](https://huggingface.co/datasets/HuggingFaceTB/smoltalk))
 - [State-of-the-art compact LLMs for on-device applications: 1.7B, 360M, 135M    Upvote 107   +97](https://huggingface.co/collections/HuggingFaceTB/smollm2-6723884218bcda64b34d7db9)  🤗 

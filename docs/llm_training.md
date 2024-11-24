@@ -20,7 +20,7 @@
 
 ## LLM Training
 
-- 🌟 **Observational Scaling Laws and the Predictability of Language Model
+- 🌟 **Observational Scaling Laws and the Predictability of Language Model 
   Performance**, `arXiv, 2405.10938`, [arxiv](http://arxiv.org/abs/2405.10938v3), [pdf](http://arxiv.org/pdf/2405.10938v3.pdf), cication: [**-1**](None) 
 
 	 *Yangjun Ruan, Chris J. Maddison, Tatsunori Hashimoto*
@@ -59,11 +59,11 @@
 
 ## Optimization
 
-- **MARS: Unleashing the Power of Variance Reduction for Training Large
+- **MARS: Unleashing the Power of Variance Reduction for Training Large 
   Models**, `arXiv, 2411.10438`, [arxiv](http://arxiv.org/abs/2411.10438v1), [pdf](http://arxiv.org/pdf/2411.10438v1.pdf), cication: [**-1**](None) 
 
 	 *Huizhuo Yuan, Yifeng Liu, Shuang Wu, ..., Xun Zhou, Quanquan Gu* · ([MARS.](https://github.com/AGI-Arena/MARS.) - AGI-Arena) ![Star](https://img.shields.io/github/stars/AGI-Arena/MARS..svg?style=social&label=Star)
-- **nGPT: Normalized Transformer with Representation Learning on the
+- **nGPT: Normalized Transformer with Representation Learning on the 
   Hypersphere**, `arXiv, 2410.01131`, [arxiv](http://arxiv.org/abs/2410.01131v1), [pdf](http://arxiv.org/pdf/2410.01131v1.pdf), cication: [**-1**](None) 
 
 	 *Ilya Loshchilov, Cheng-Ping Hsieh, Simeng Sun, ..., Boris Ginsburg* · ([ngpt](https://github.com/NVIDIA/ngpt?tab=readme-ov-file) - NVIDIA) ![Star](https://img.shields.io/github/stars/NVIDIA/ngpt.svg?style=social&label=Star)
@@ -90,7 +90,7 @@
 
 ## Mixture Of Experts
 
-- **MoE Jetpack: From Dense Checkpoints to Adaptive Mixture of Experts for
+- **MoE Jetpack: From Dense Checkpoints to Adaptive Mixture of Experts for 
   Vision Tasks**, `arXiv, 2406.04801`, [arxiv](http://arxiv.org/abs/2406.04801v1), [pdf](http://arxiv.org/pdf/2406.04801v1.pdf), cication: [**-1**](None) 
 
 	 *Xingkui Zhu, Yiran Guan, Dingkang Liang, ..., Yuliang Liu, Xiang Bai* · ([MoE-Jetpack](https://github.com/Adlith/MoE-Jetpack) - Adlith) ![Star](https://img.shields.io/github/stars/Adlith/MoE-Jetpack.svg?style=social&label=Star)
@@ -145,7 +145,7 @@
 
 ## Misc
 
-- 🌟 [**modded-nanogpt**](https://github.com/KellerJordan/modded-nanogpt) - KellerJordan ![Star](https://img.shields.io/github/stars/KellerJordan/modded-nanogpt.svg?style=social&label=Star)
+- 🌟 [**modded-nanogpt**](https://github.com/KellerJordan/modded-nanogpt) - KellerJordan ![Star](https://img.shields.io/github/stars/KellerJordan/modded-nanogpt.svg?style=social&label=Star) 
 - **Pretraining on the Test Set Is All You Need**, `arXiv, 2309.08632`, [arxiv](http://arxiv.org/abs/2309.08632v1), [pdf](http://arxiv.org/pdf/2309.08632v1.pdf), cication: [**14**](https://scholar.google.com/scholar?cites=12205479803973588820&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII) 
 
 	 *Rylan Schaeffer*

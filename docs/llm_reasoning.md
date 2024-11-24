@@ -21,7 +21,7 @@
 
 ## Reasoning
 
-- [DeepSeek-R1-Lite-Preview is now live: unleashing supercharged reasoning power](https://x.com/deepseek_ai/status/1859200145037869485)  𝕏
+- [DeepSeek-R1-Lite-Preview is now live: unleashing supercharged reasoning power](https://x.com/deepseek_ai/status/1859200145037869485)  𝕏 
 - **BALROG: Benchmarking Agentic LLM and VLM Reasoning On Games**, `arXiv, 2411.13543`, [arxiv](http://arxiv.org/abs/2411.13543v1), [pdf](http://arxiv.org/pdf/2411.13543v1.pdf), cication: [**-1**](None) 
 
 	 *Davide Paglieri, Bartłomiej Cupiał, Samuel Coward, ..., Jack Parker-Holder, Tim Rocktäschel*
@@ -80,12 +80,12 @@
 - [Beyond Decoding: Meta-Generation Algorithms for Large Language Models](https://neurips.cc/virtual/2024/tutorial/99522) 
 
 	 · ([simons.berkeley](https://simons.berkeley.edu/talks/sean-welleck-carnegie-mellon-university-2024-11-19))
-- 🌟 **From Decoding to Meta-Generation: Inference-time Algorithms for Large
+- 🌟 **From Decoding to Meta-Generation: Inference-time Algorithms for Large 
   Language Models**, `arXiv, 2406.16838`, [arxiv](http://arxiv.org/abs/2406.16838v2), [pdf](http://arxiv.org/pdf/2406.16838v2.pdf), cication: [**-1**](None) 
 
 	 *Sean Welleck, Amanda Bertsch, Matthew Finlayson, ..., Ilia Kulikov, Zaid Harchaoui* · ([cmu-l3.github](https://cmu-l3.github.io/neurips2024-inference-tutorial/))
 - [honorable mentions to Nous Forge Reasoning API and Fireworks f1, DeepSeek appear to have made the first convincing attempt](https://buttondown.com/ainews/archive/ainews-deepseek-r1-claims-to-beat-o1-preview-and/) 
-- [DeepSeek-R1-Lite-Preview is now live: unleashing supercharged reasoning power!](https://x.com/deepseek_ai/status/1859200141355536422)  𝕏
+- [DeepSeek-R1-Lite-Preview is now live: unleashing supercharged reasoning power!](https://x.com/deepseek_ai/status/1859200141355536422)  𝕏 
 
 	 · ([t](https://t.co/v1TFy7LHNy))
 - 🌟 **Marco-o1: Towards Open Reasoning Models for Open-Ended Solutions**, `arXiv, 2411.14405`, [arxiv](http://arxiv.org/abs/2411.14405v1), [pdf](http://arxiv.org/pdf/2411.14405v1.pdf), cication: [**-1**](None) 
