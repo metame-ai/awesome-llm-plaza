@@ -17,6 +17,7 @@
 
 ## LLM Evaluation
 
+- [Enhancing Evaluation Coverage and Validation with Language Models](https://www.youtube.com/watch?v=Gp6Na2mdKDs&list=PLWRU-w8UhT6jNg64UfBB0VtlvI4Upe914&index=7)  :clapper:
 - [Emotional Intelligence Benchmark for LLMs](https://eqbench.com/judgemark.html) 
 - **Adding Error Bars to Evals: A Statistical Approach to Language Model 
   Evaluations**, `arXiv, 2411.00640`, [arxiv](http://arxiv.org/abs/2411.00640v1), [pdf](http://arxiv.org/pdf/2411.00640v1.pdf), cication: [**-1**](None) 
@@ -86,6 +87,8 @@
 
 ## Misc
 
+- [Crisp and fuzzy tasks](https://aligned.substack.com/p/crisp-and-fuzzy-tasks) 
+- [Letting Large Models Debate: The First Multilingual LLM Debate Competition](https://huggingface.co/blog/debate)  🤗
 - [Say What You Mean: A Response to 'Let Me Speak Freely'](https://blog.dottxt.co/say-what-you-mean.html) 
 - [Chatbot Arena Categories](https://lmarena.github.io/blog/2024/arena-category/) 
 

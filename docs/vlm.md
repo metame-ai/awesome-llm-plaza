@@ -56,6 +56,10 @@
 
 ## Image
 
+- **DINO-X: A Unified Vision Model for Open-World Object Detection and
+  Understanding**, `arXiv, 2411.14347`, [arxiv](http://arxiv.org/abs/2411.14347v1), [pdf](http://arxiv.org/pdf/2411.14347v1.pdf), cication: [**-1**](None) 
+
+	 *Tianhe Ren, Yihao Chen, Qing Jiang, ..., Kent Yu, Lei Zhang*
 - **Teach Multimodal LLMs to Comprehend Electrocardiographic Images**, `arXiv, 2410.19008`, [arxiv](http://arxiv.org/abs/2410.19008v1), [pdf](http://arxiv.org/pdf/2410.19008v1.pdf), cication: [**-1**](None) 
 
 	 *Ruoqi Liu, Yuelin Bai, Xiang Yue, ..., Ping Zhang*

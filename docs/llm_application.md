@@ -37,6 +37,9 @@
 
 ## Science
 
+- **AIGS: Generating Science from AI-Powered Automated Falsification**, `arXiv, 2411.11910`, [arxiv](http://arxiv.org/abs/2411.11910v1), [pdf](http://arxiv.org/pdf/2411.11910v1.pdf), cication: [**-1**](None) 
+
+	 *Zijun Liu, Kaiming Liu, Yiqi Zhu, ..., Peng Li, Yang Liu* · ([agent-force.github](https://agent-force.github.io/AIGS/))
 - **That Chip Has Sailed: A Critique of Unfounded Skepticism Around AI for 
   Chip Design**, `arXiv, 2411.10053`, [arxiv](http://arxiv.org/abs/2411.10053v1), [pdf](http://arxiv.org/pdf/2411.10053v1.pdf), cication: [**-1**](None) 
 

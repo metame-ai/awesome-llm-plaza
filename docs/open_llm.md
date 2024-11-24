@@ -19,6 +19,7 @@
 
 ## English Models
 
+- [INTELLECT-1 is the world's first decentralized training of a 10B parameter model, enabling anyone to contribute compute and participate.](https://app.primeintellect.ai/intelligence) 
 - [Mistral-Large-Instruct-2411 is an advanced dense Large Language Model (LLM) of 123B parameters with state-of-the-art reasoning](https://huggingface.co/mistralai/Mistral-Large-Instruct-2411)  🤗 
 - 🌟 [Athene-V2-Chat-72B, an open-weights LLM on-par with GPT-4o across benchmarks](https://huggingface.co/Nexusflow/Athene-V2-Chat)  🤗 
 

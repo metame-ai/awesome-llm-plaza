@@ -40,6 +40,10 @@
 
 ## Interpretability
 
+- **Procedural Knowledge in Pretraining Drives Reasoning in Large Language
+  Models**, `arXiv, 2411.12580`, [arxiv](http://arxiv.org/abs/2411.12580v1), [pdf](http://arxiv.org/pdf/2411.12580v1.pdf), cication: [**-1**](None) 
+
+	 *Laura Ruis, Maximilian Mozes, Juhan Bae, ..., Edward Grefenstette, Max Bartolo*
 - [Dario Amodei: Anthropic CEO on Claude, AGI & the Future of AI & Humanity | Lex Fridman Podcast #452](https://www.youtube.com/)  :clapper: 
 - [The Rate Distortion Dance of Sparse Autoencoders](https://tilderesearch.com/blog) 
 
@@ -138,6 +142,7 @@
 
 ## Tokenization
 
+- [added a few lines of code to the base Llama 3 tokenizer and got a free boost in arithmetic performance](https://x.com/garrethleee/status/1860039446311371132)  𝕏
 - **Counting Ability of Large Language Models and Impact of Tokenization**, `arXiv, 2410.19730`, [arxiv](http://arxiv.org/abs/2410.19730v2), [pdf](http://arxiv.org/pdf/2410.19730v2.pdf), cication: [**-1**](None) 
 
 	 *Xiang Zhang, Juntai Cao, Chenyu You*

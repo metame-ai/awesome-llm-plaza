@@ -19,6 +19,11 @@
 
 ## Survey
 
+- **A Comprehensive Survey of Small Language Models in the Era of Large
+  Language Models: Techniques, Enhancements, Applications, Collaboration with
+  LLMs, and Trustworthiness**, `arXiv, 2411.03350`, [arxiv](http://arxiv.org/abs/2411.03350v1), [pdf](http://arxiv.org/pdf/2411.03350v1.pdf), cication: [**-1**](None) 
+
+	 *Fali Wang, Zhiwei Zhang, Xianren Zhang, ..., Ming Huang, Suhang Wang* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650944101&idx=5&sn=3a152e75e79b5564a7e9431c343cfbfd&chksm=85dcf1f7161fc8c550369473d6d519fe84f962e2772d920667f1fa32b27263069f8ab1047a18&scene=0&xtrack=1))
 - **A Comprehensive Survey of Small Language Models in the Era of Large 
   Language Models: Techniques, Enhancements, Applications, Collaboration with
   LLMs, and Trustworthiness**, `arXiv, 2411.03350`, [arxiv](http://arxiv.org/abs/2411.03350v1), [pdf](http://arxiv.org/pdf/2411.03350v1.pdf), cication: [**-1**](None) 

@@ -52,6 +52,9 @@
 
 ## Tool GPT
 
+- 🌟 [**xgrammar**](https://github.com/mlc-ai/xgrammar) - mlc-ai ![Star](https://img.shields.io/github/stars/mlc-ai/xgrammar.svg?style=social&label=Star)
+
+	 · ([blog](https://github.com/mlc-ai/blog/blob/main/pdf/xgrammar-paper.pdf) - mlc-ai) ![Star](https://img.shields.io/github/stars/mlc-ai/blog.svg?style=social&label=Star)
 - [**outlines**](https://github.com/dottxt-ai/outlines) - dottxt-ai ![Star](https://img.shields.io/github/stars/dottxt-ai/outlines.svg?style=social&label=Star) 
 - [cfahlgren1 / qwen-2.5-code-interpreter](https://huggingface.co/spaces/cfahlgren1/qwen-2.5-code-interpreter/tree/main)  🤗 
 

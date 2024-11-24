@@ -17,6 +17,9 @@
 
 ## Embodied AI
 
+- **Embodied Agent Interface: Benchmarking LLMs for Embodied Decision Making**, `arXiv, 2410.07166`, [arxiv](http://arxiv.org/abs/2410.07166v2), [pdf](http://arxiv.org/pdf/2410.07166v2.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=2488405281591567279&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII) 
+
+	 *Manling Li, Shiyu Zhao, Qineng Wang, ..., Jiayuan Mao, Jiajun Wu* · ([embodied-agent-interface.github](https://embodied-agent-interface.github.io/)) · ([embodied-agent-eval](https://github.com/embodied-agent-eval/embodied-agent-eval) - embodied-agent-eval) ![Star](https://img.shields.io/github/stars/embodied-agent-eval/embodied-agent-eval.svg?style=social&label=Star) · ([𝕏](https://x.com/manlingli_/status/1854041025146404897?s=46))
 - [foundation models for the physical world.](https://perceptron.inc/) 
 - **DeeR-VLA: Dynamic Inference of Multimodal Large Language Models for 
   Efficient Robot Execution**, `arXiv, 2411.02359`, [arxiv](http://arxiv.org/abs/2411.02359v1), [pdf](http://arxiv.org/pdf/2411.02359v1.pdf), cication: [**-1**](None) 
