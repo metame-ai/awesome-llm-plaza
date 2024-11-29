@@ -19,6 +19,9 @@
 
 ## Survey
 
+- [Papers I've read this week: vision language models](https://www.artfintel.com/p/papers-ive-read-this-week-vision) 
+
+	 · ([𝕏](https://x.com/finbarrtimbers/status/1861443335841575282))
 - [short survey of trends in VLMs since Llava 1.0 came out](https://x.com/mervenoyann/status/1851708916729798799)  𝕏 
 
 	 · ([huggingface](https://huggingface.co/collections/merve/mit-talk-31-10-papers-671f6a16e156f77739820c89)) · ([youtube](https://www.youtube.com/watch?v=_TlhKHTgWjY))
@@ -32,6 +35,10 @@
 
 ## Vision-Language Models
 
+- **FINECAPTION: Compositional Image Captioning Focusing on Wherever You
+  Want at Any Granularity**, `arXiv, 2411.15411`, [arxiv](http://arxiv.org/abs/2411.15411v1), [pdf](http://arxiv.org/pdf/2411.15411v1.pdf), cication: [**-1**](None) 
+
+	 *Hang Hua, Qing Liu, Lingzhi Zhang, ..., Jianming Zhang, Jiebo Luo*
 - **Llama Guard 3 Vision: Safeguarding Human-AI Image Understanding 
   Conversations**, `arXiv, 2411.10414`, [arxiv](http://arxiv.org/abs/2411.10414v1), [pdf](http://arxiv.org/pdf/2411.10414v1.pdf), cication: [**-1**](None) 
 
@@ -56,7 +63,7 @@
 
 ## Image
 
-- **DINO-X: A Unified Vision Model for Open-World Object Detection and
+- **DINO-X: A Unified Vision Model for Open-World Object Detection and 
   Understanding**, `arXiv, 2411.14347`, [arxiv](http://arxiv.org/abs/2411.14347v1), [pdf](http://arxiv.org/pdf/2411.14347v1.pdf), cication: [**-1**](None) 
 
 	 *Tianhe Ren, Yihao Chen, Qing Jiang, ..., Kent Yu, Lei Zhang*
@@ -66,6 +73,14 @@
 
 ## Video
 
+- **VideoEspresso: A Large-Scale Chain-of-Thought Dataset for Fine-Grained
+  Video Reasoning via Core Frame Selection**, `arXiv, 2411.14794`, [arxiv](http://arxiv.org/abs/2411.14794v1), [pdf](http://arxiv.org/pdf/2411.14794v1.pdf), cication: [**-1**](None) 
+
+	 *Songhao Han, Wei Huang, Hairong Shi, ..., Yue Liao, Si Liu* · ([VideoEspresso](https://github.com/hshjerry/VideoEspresso) - hshjerry) ![Star](https://img.shields.io/github/stars/hshjerry/VideoEspresso.svg?style=social&label=Star)
+- **TimeMarker: A Versatile Video-LLM for Long and Short Video Understanding
+  with Superior Temporal Localization Ability**, `arXiv, 2411.18211`, [arxiv](http://arxiv.org/abs/2411.18211v1), [pdf](http://arxiv.org/pdf/2411.18211v1.pdf), cication: [**-1**](None) 
+
+	 *Shimin Chen, Xiaohan Lan, Yitian Yuan, ..., Zequn Jie, Lin Ma* · ([TimeMarker](https://github.com/TimeMarker-LLM/TimeMarker/) - TimeMarker-LLM) ![Star](https://img.shields.io/github/stars/TimeMarker-LLM/TimeMarker.svg?style=social&label=Star)
 - **Number it: Temporal Grounding Videos like Flipping Manga**, `arXiv, 2411.10332`, [arxiv](http://arxiv.org/abs/2411.10332v1), [pdf](http://arxiv.org/pdf/2411.10332v1.pdf), cication: [**-1**](None) 
 
 	 *Yongliang Wu, Xinting Hu, Yuyang Sun, ..., Bernt Schiele, Xu Yang* · ([NumPro.](https://github.com/yongliang-wu/NumPro.) - yongliang-wu) ![Star](https://img.shields.io/github/stars/yongliang-wu/NumPro..svg?style=social&label=Star)
@@ -101,6 +116,17 @@
 
 ## Encoder
 
+- **FocusLLaVA: A Coarse-to-Fine Approach for Efficient and Effective Visual
+  Token Compression**, `arXiv, 2411.14228`, [arxiv](http://arxiv.org/abs/2411.14228v1), [pdf](http://arxiv.org/pdf/2411.14228v1.pdf), cication: [**-1**](None) 
+
+	 *Yuke Zhu, Chi Xie, Shuang Liang, ..., Bo Zheng, Sheng Guo*
+- **DyCoke: Dynamic Compression of Tokens for Fast Video Large Language
+  Models**, `arXiv, 2411.15024`, [arxiv](http://arxiv.org/abs/2411.15024v1), [pdf](http://arxiv.org/pdf/2411.15024v1.pdf), cication: [**-1**](None) 
+
+	 *Keda Tao, Can Qin, Haoxuan You, ..., Yang Sui, Huan Wang*
+- **Factorized Visual Tokenization and Generation**, `arXiv, 2411.16681`, [arxiv](http://arxiv.org/abs/2411.16681v2), [pdf](http://arxiv.org/pdf/2411.16681v2.pdf), cication: [**-1**](None) 
+
+	 *Zechen Bai, Jianxiong Gao, Ziteng Gao, ..., Tong He, Mike Zheng Shou* · ([showlab.github](https://showlab.github.io/FQGAN/))
 - **REDUCIO! Generating 1024$\times$1024 Video within 16 Seconds using 
   Extremely Compressed Motion Latents**, `arXiv, 2411.13552`, [arxiv](http://arxiv.org/abs/2411.13552v1), [pdf](http://arxiv.org/pdf/2411.13552v1.pdf), cication: [**-1**](None) 
 
@@ -133,6 +159,10 @@
 
 ## Alignment
 
+- 🌟 **Enhancing the Reasoning Ability of Multimodal Large Language Models via
+  Mixed Preference Optimization**, `arXiv, 2411.10442`, [arxiv](http://arxiv.org/abs/2411.10442v1), [pdf](http://arxiv.org/pdf/2411.10442v1.pdf), cication: [**-1**](None) 
+
+	 *Weiyun Wang, Zhe Chen, Wenhai Wang, ..., Yu Qiao, Jifeng Dai* · ([internvl.github](https://internvl.github.io/blog/2024-11-14-InternVL-2.0-MPO/))
 - **SymDPO: Boosting In-Context Learning of Large Multimodal Models with 
   Symbol Demonstration Direct Preference Optimization**, `arXiv, 2411.11909`, [arxiv](http://arxiv.org/abs/2411.11909v1), [pdf](http://arxiv.org/pdf/2411.11909v1.pdf), cication: [**-1**](None) 
 
@@ -225,6 +255,13 @@
 
 ## Efficient
 
+- 🌟 [SmolVLM - small yet mighty Vision Language Model](https://huggingface.co/blog/smolvlm)  🤗
+
+	 · ([𝕏](https://x.com/andi_marafioti/status/1861437314351632662)) · ([huggingface](https://huggingface.co/HuggingFaceTB/SmolVLM-Instruct))
+- **Treat Visual Tokens as Text? But Your MLLM Only Needs Fewer Efforts to
+  See**, `arXiv, 2410.06169`, [arxiv](http://arxiv.org/abs/2410.06169v2), [pdf](http://arxiv.org/pdf/2410.06169v2.pdf), cication: [**-1**](None) 
+
+	 *Zeliang Zhang, Phu Pham, Wentian Zhao, ..., Ajinkya Kale, Chenliang Xu* · ([YOPO_MLLM_Pruning](https://github.com/ZhangAIPI/YOPO_MLLM_Pruning/tree/main?tab=readme-ov-file) - ZhangAIPI) ![Star](https://img.shields.io/github/stars/ZhangAIPI/YOPO_MLLM_Pruning.svg?style=social&label=Star)
 - 🌟 **BlueLM-V-3B: Algorithm and System Co-Design for Multimodal Large 
   Language Models on Mobile Devices**, `arXiv, 2411.10640`, [arxiv](http://arxiv.org/abs/2411.10640v1), [pdf](http://arxiv.org/pdf/2411.10640v1.pdf), cication: [**-1**](None) 
 
@@ -241,6 +278,9 @@
 
 ## Generation
 
+- [**qwen2vl-flux**](https://github.com/erwold/qwen2vl-flux) - erwold ![Star](https://img.shields.io/github/stars/erwold/qwen2vl-flux.svg?style=social&label=Star)
+
+	 *Unifying Image and Text Guidance for Controllable Image Generation* · ([qwen2vl-flux](https://github.com/erwold/qwen2vl-flux/blob/main/technical-report.pdf) - erwold) ![Star](https://img.shields.io/github/stars/erwold/qwen2vl-flux.svg?style=social&label=Star)
 - 🌟 **JanusFlow: Harmonizing Autoregression and Rectified Flow for Unified 
   Multimodal Understanding and Generation**, `arXiv, 2411.07975`, [arxiv](http://arxiv.org/abs/2411.07975v1), [pdf](http://arxiv.org/pdf/2411.07975v1.pdf), cication: [**-1**](None) 
 

@@ -17,13 +17,13 @@
   Paradigm of Foundation Models via Verifier Engineering**, `arXiv, 2411.11504`, [arxiv](http://arxiv.org/abs/2411.11504v1), [pdf](http://arxiv.org/pdf/2411.11504v1.pdf), cication: [**-1**](None) 
 
 	 *Xinyan Guan, Yanjiang Liu, Xinyu Lu, ..., Yaojie Lu, Hongyu Lin*
-- **Evaluating the role of `Constitutions' for learning from AI feedback**, `arXiv, 2411.10168`, [arxiv](http://arxiv.org/abs/2411.10168v1), [pdf](http://arxiv.org/pdf/2411.10168v1.pdf), cication: [**-1**](None) 
+- **Evaluating the role of `Constitutions` for learning from AI feedback**, `arXiv, 2411.10168`, [arxiv](http://arxiv.org/abs/2411.10168v1), [pdf](http://arxiv.org/pdf/2411.10168v1.pdf), cication: [**-1**](None) 
 
 	 *Saskia Redgate, Andrew M. Bean, Adam Mahdi*
 - 🌟 **Unpacking DPO and PPO: Disentangling Best Practices for Learning from 
   Preference Feedback**, `arXiv, 2406.09279`, [arxiv](http://arxiv.org/abs/2406.09279v2), [pdf](http://arxiv.org/pdf/2406.09279v2.pdf), cication: [**-1**](None) 
 
-	 *Hamish Ivison, Yizhong Wang, Jiacheng Liu, ..., Yejin Choi, Hannaneh Hajishirzi* · ([EasyLM)](https://github.com/hamishivi/EasyLM)) - hamishivi) ![Star](https://img.shields.io/github/stars/hamishivi/EasyLM).svg?style=social&label=Star) · ([open-instruct)](https://github.com/allenai/open-instruct)) - allenai) ![Star](https://img.shields.io/github/stars/allenai/open-instruct).svg?style=social&label=Star) · ([huggingface](https://huggingface.co/collections/allenai/tulu-v25-suite-66676520fd578080e126f618).))
+	 *Hamish Ivison, Yizhong Wang, Jiacheng Liu, ..., Yejin Choi, Hannaneh Hajishirzi* · ([EasyLM)](https://github.com/hamishivi/EasyLM)) - hamishivi) ![Star](https://img.shields.io/github/stars/hamishivi/EasyLM)· ([open-instruct)](https://github.com/allenai/open-instruct)) - allenai) ![Star](https://img.shields.io/github/stars/allenai/open-instruct)· ([huggingface](https://huggingface.co/collections/allenai/tulu-v25-suite-66676520fd578080e126f618).))
 - 🌟 [Tülu 3: The next era in open post-training](https://allenai.org/blog/tulu-3-technical) 
 
 	 · ([hf](https://hf.co/allenai/Llama-3.1-Tulu-3-70B)) · ([hf](https://hf.co/allenai/Llama-3.1-Tulu-3-8B)) · ([hf](https://hf.co/collections/allenai/tulu-3-datasets673b8df14442393f7213f372)) · ([open-instruct](https://github.com/allenai/open-instruct) - allenai) ![Star](https://img.shields.io/github/stars/allenai/open-instruct.svg?style=social&label=Star) · ([olmes](https://github.com/allenai/olmes) - allenai) ![Star](https://img.shields.io/github/stars/allenai/olmes.svg?style=social&label=Star) · ([playground.allenai](https://playground.allenai.org/))

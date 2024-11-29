@@ -60,6 +60,9 @@
 
 ## Projects
 
+- [**MPLSandbox**](https://github.com/Ablustrund/MPLSandbox) - Ablustrund ![Star](https://img.shields.io/github/stars/Ablustrund/MPLSandbox.svg?style=social&label=Star)
+
+	 · ([arxiv](https://arxiv.org/abs/2410.23074))
 - [**Lingma-SWE-GPT**](https://github.com/LingmaTongyi/Lingma-SWE-GPT) - LingmaTongyi ![Star](https://img.shields.io/github/stars/LingmaTongyi/Lingma-SWE-GPT.svg?style=social&label=Star) 
 
 	 *SoftWare Engineering Process Data Synthesis and Inference Workflow for Lingma SWE-GPT*
@@ -76,6 +79,7 @@
 
 ## Products
 
+- [PearAI: The Open Source AI Code Editor](https://trypear.ai/) 
 - [NEO A fully autonomousMachine Learning Engineer](https://heyneo.so/blog) 
 - [The first agentic IDE, and then some. The Windsurf Editor is where the work of developers and AI truly flow together, allowing for a coding experience that feels like literal magic](https://codeium.com/) 
 - [Edit your codebase and run commands quicklywith natural language in your terminal.](https://www.codebuff.com/) 

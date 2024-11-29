@@ -10,6 +10,9 @@
 
 ## Survey
 
+- **A Survey on LLM-as-a-Judge**, `arXiv, 2411.15594`, [arxiv](http://arxiv.org/abs/2411.15594v1), [pdf](http://arxiv.org/pdf/2411.15594v1.pdf), cication: [**-1**](None) 
+
+	 *Jiawei Gu, Xuhui Jiang, Zhichao Shi, ..., Yuanzhuo Wang, Jian Guo*
 - **When Benchmarks are Targets: Revealing the Sensitivity of Large Language 
   Model Leaderboards**, `arXiv, 2402.01781`, [arxiv](http://arxiv.org/abs/2402.01781v2), [pdf](http://arxiv.org/pdf/2402.01781v2.pdf), cication: [**-1**](None) 
 
@@ -17,7 +20,19 @@
 
 ## LLM Evaluation
 
-- [Enhancing Evaluation Coverage and Validation with Language Models](https://www.youtube.com/watch?v=Gp6Na2mdKDs&list=PLWRU-w8UhT6jNg64UfBB0VtlvI4Upe914&index=7)  :clapper:
+- **Multi-IF: Benchmarking LLMs on Multi-Turn and Multilingual Instructions
+  Following**, `arXiv, 2410.15553`, [arxiv](http://arxiv.org/abs/2410.15553v2), [pdf](http://arxiv.org/pdf/2410.15553v2.pdf), cication: [**-1**](None) 
+
+	 *Yun He, Di Jin, Chaoqi Wang, ..., Han Fang, Sinong Wang*
+- **From Generation to Judgment: Opportunities and Challenges of
+  LLM-as-a-judge**, `arXiv, 2411.16594`, [arxiv](http://arxiv.org/abs/2411.16594v1), [pdf](http://arxiv.org/pdf/2411.16594v1.pdf), cication: [**-1**](None) 
+
+	 *Dawei Li, Bohan Jiang, Liangjie Huang, ..., Lu Cheng, Huan Liu* · ([llm-as-a-judge.github](https://llm-as-a-judge.github.io)) · ([Awesome-LLM-as-a-judge](https://github.com/llm-as-a-judge/Awesome-LLM-as-a-judge) - llm-as-a-judge) ![Star](https://img.shields.io/github/stars/llm-as-a-judge/Awesome-LLM-as-a-judge.svg?style=social&label=Star)
+- **All Languages Matter: Evaluating LMMs on Culturally Diverse 100
+  Languages**, `arXiv, 2411.16508`, [arxiv](http://arxiv.org/abs/2411.16508v2), [pdf](http://arxiv.org/pdf/2411.16508v2.pdf), cication: [**-1**](None) 
+
+	 *Ashmal Vayani, Dinura Dissanayake, Hasindri Watawana, ..., Salman Khan, Fahad Khan*
+- [Enhancing Evaluation Coverage and Validation with Language Models](https://www.youtube.com/watch?v=Gp6Na2mdKDs&list=PLWRU-w8UhT6jNg64UfBB0VtlvI4Upe914&index=7)  :clapper: 
 - [Emotional Intelligence Benchmark for LLMs](https://eqbench.com/judgemark.html) 
 - **Adding Error Bars to Evals: A Statistical Approach to Language Model 
   Evaluations**, `arXiv, 2411.00640`, [arxiv](http://arxiv.org/abs/2411.00640v1), [pdf](http://arxiv.org/pdf/2411.00640v1.pdf), cication: [**-1**](None) 
@@ -76,6 +91,10 @@
 
 ## Projects
 
+- [**evaluation-guidebook**](https://github.com/huggingface/evaluation-guidebook/blob/main/contents/automated-benchmarks/some-evaluation-datasets.md) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/evaluation-guidebook.svg?style=social&label=Star)
+
+	 · ([𝕏](https://x.com/clefourrier/status/1861487337936388448))
+- [**CS-Eval**](https://github.com/CS-EVAL/CS-Eval) - CS-EVAL ![Star](https://img.shields.io/github/stars/CS-EVAL/CS-Eval.svg?style=social&label=Star)
 - [**RPBench-Auto**](https://github.com/boson-ai/RPBench-Auto) - boson-ai ![Star](https://img.shields.io/github/stars/boson-ai/RPBench-Auto.svg?style=social&label=Star) 
 
 	 · ([boson](https://boson.ai/rpbench-blog/))
@@ -88,7 +107,7 @@
 ## Misc
 
 - [Crisp and fuzzy tasks](https://aligned.substack.com/p/crisp-and-fuzzy-tasks) 
-- [Letting Large Models Debate: The First Multilingual LLM Debate Competition](https://huggingface.co/blog/debate)  🤗
+- [Letting Large Models Debate: The First Multilingual LLM Debate Competition](https://huggingface.co/blog/debate)  🤗 
 - [Say What You Mean: A Response to 'Let Me Speak Freely'](https://blog.dottxt.co/say-what-you-mean.html) 
 - [Chatbot Arena Categories](https://lmarena.github.io/blog/2024/arena-category/) 
 

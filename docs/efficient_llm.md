@@ -19,7 +19,7 @@
 
 ## Survey
 
-- **A Comprehensive Survey of Small Language Models in the Era of Large
+- **A Comprehensive Survey of Small Language Models in the Era of Large 
   Language Models: Techniques, Enhancements, Applications, Collaboration with
   LLMs, and Trustworthiness**, `arXiv, 2411.03350`, [arxiv](http://arxiv.org/abs/2411.03350v1), [pdf](http://arxiv.org/pdf/2411.03350v1.pdf), cication: [**-1**](None) 
 
@@ -52,6 +52,13 @@
 
 ## Quantization
 
+- [**auto-round**](https://github.com/intel/auto-round) - intel ![Star](https://img.shields.io/github/stars/intel/auto-round.svg?style=social&label=Star)
+
+	 · ([reddit](https://www.reddit.com/r/LocalLLaMA/comments/1h0aev6/lossless_4bit_quantization_for_large_models_are/))
+- **Low-Bit Quantization Favors Undertrained LLMs: Scaling Laws for
+  Quantized LLMs with 100T Training Tokens**, `arXiv, 2411.17691`, [arxiv](http://arxiv.org/abs/2411.17691v2), [pdf](http://arxiv.org/pdf/2411.17691v2.pdf), cication: [**-1**](None) 
+
+	 *Xu Ouyang, Tao Ge, Thomas Hartvigsen, ..., Haitao Mi, Dong Yu* · ([huggingface](https://huggingface.co/Xu-Ouyang))
 - **PrefixQuant: Static Quantization Beats Dynamic through Prefixed Outliers 
   in LLMs**, `arXiv, 2410.05265`, [arxiv](http://arxiv.org/abs/2410.05265v1), [pdf](http://arxiv.org/pdf/2410.05265v1.pdf), cication: [**-1**](None) 
 
@@ -95,6 +102,16 @@
 
 ## Inference
 
+- **Star Attention: Efficient LLM Inference over Long Sequences**, `arXiv, 2411.17116`, [arxiv](http://arxiv.org/abs/2411.17116v1), [pdf](http://arxiv.org/pdf/2411.17116v1.pdf), cication: [**-1**](None) 
+
+	 *Shantanu Acharya, Fei Jia, Boris Ginsburg* · ([Star-Attention](https://github.com/NVIDIA/Star-Attention?tab=readme-ov-file) - NVIDIA) ![Star](https://img.shields.io/github/stars/NVIDIA/Star-Attention.svg?style=social&label=Star)
+- [**Mooncake**](https://github.com/kvcache-ai/Mooncake) - kvcache-ai ![Star](https://img.shields.io/github/stars/kvcache-ai/Mooncake.svg?style=social&label=Star)
+
+	 *A KVCache-centric Disaggregated Architecture for LLM Serving*
+- **Draft Model Knows When to Stop: A Self-Verification Length Policy for
+  Speculative Decoding**, `arXiv, 2411.18462`, [arxiv](http://arxiv.org/abs/2411.18462v1), [pdf](http://arxiv.org/pdf/2411.18462v1.pdf), cication: [**-1**](None) 
+
+	 *Ziyin Zhang, Jiahao Xu, Tian Liang, ..., Rui Wang, Zhaopeng Tu*
 - **SAM Decoding: Speculative Decoding via Suffix Automaton**, `arXiv, 2411.10666`, [arxiv](http://arxiv.org/abs/2411.10666v1), [pdf](http://arxiv.org/pdf/2411.10666v1.pdf), cication: [**-1**](None) 
 
 	 *Yuxuan Hu, Ke Wang, Jing Zhang, ..., Cuiping Li, Hong Chen* · ([SAM-Decoding](https://github.com/hyx1999/SAM-Decoding?tab=readme-ov-file) - hyx1999) ![Star](https://img.shields.io/github/stars/hyx1999/SAM-Decoding.svg?style=social&label=Star)

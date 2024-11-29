@@ -33,6 +33,7 @@
 
 ## Projects
 
+- [**CS-Eval**](https://github.com/CS-EVAL/CS-Eval) - CS-EVAL ![Star](https://img.shields.io/github/stars/CS-EVAL/CS-Eval.svg?style=social&label=Star)
 - [**garak**](https://github.com/NVIDIA/garak) - NVIDIA ![Star](https://img.shields.io/github/stars/NVIDIA/garak.svg?style=social&label=Star) 
 - [**arch**](https://github.com/katanemo/arch) - katanemo ![Star](https://img.shields.io/github/stars/katanemo/arch.svg?style=social&label=Star) 
 

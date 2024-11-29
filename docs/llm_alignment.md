@@ -12,6 +12,10 @@
 
 ## LLM Alignment
 
+- **Does your data spark joy? Performance gains from domain upsampling at
+  the end of training**, `arXiv, 2406.03476`, [arxiv](http://arxiv.org/abs/2406.03476v1), [pdf](http://arxiv.org/pdf/2406.03476v1.pdf), cication: [**-1**](None) 
+
+	 *Cody Blakeney, Mansheej Paul, Brett W. Larsen, ..., Sean Owen, Jonathan Frankle*
 - [Meta’s Post-Training Pipeline for Llama 3.1](https://medium.com/@jkabrit/metas-post-training-pipeline-for-llama-3-1-e6777801c0a1) 
 - [WizardArena: Post-training Large Language Models via Simulated Offline Chatbot Aren](https://openreview.net/forum?id=VHva3d836i) 
 

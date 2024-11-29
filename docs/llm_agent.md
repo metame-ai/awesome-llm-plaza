@@ -16,6 +16,9 @@
 
 ## Survey
 
+- **Large Language Model-Brained GUI Agents: A Survey**, `arXiv, 2411.18279`, [arxiv](http://arxiv.org/abs/2411.18279v1), [pdf](http://arxiv.org/pdf/2411.18279v1.pdf), cication: [**-1**](None) 
+
+	 *Chaoyun Zhang, Shilin He, Jiaxu Qian, ..., Dongmei Zhang, Qi Zhang*
 - **Foundations and Recent Trends in Multimodal Mobile Agents: A Survey**, `arXiv, 2411.02006`, [arxiv](http://arxiv.org/abs/2411.02006v1), [pdf](http://arxiv.org/pdf/2411.02006v1.pdf), cication: [**-1**](None) 
 
 	 *Biao Wu, Yanda Li, Meng Fang, ..., Yunchao Wei, Ling Chen* · ([awesome-mobile-agents](https://github.com/aialt/awesome-mobile-agents) - aialt) ![Star](https://img.shields.io/github/stars/aialt/awesome-mobile-agents.svg?style=social&label=Star)
@@ -25,6 +28,7 @@
 
 ## Agents
 
+- [voyage-3 & voyage-3-lite: A new generation of small yet mighty general-purpose embedding models](https://blog.voyageai.com/2024/09/18/voyage-3/) 
 - **DynaSaur: Large Language Agents Beyond Predefined Actions**, `arXiv, 2411.01747`, [arxiv](http://arxiv.org/abs/2411.01747v1), [pdf](http://arxiv.org/pdf/2411.01747v1.pdf), cication: [**-1**](None) 
 
 	 *Dang Nguyen, Viet Dac Lai, Seunghyun Yoon, ..., Franck Dernoncourt, Tianyi Zhou* · ([dynasaur](https://github.com/adobe-research/dynasaur) - adobe-research) ![Star](https://img.shields.io/github/stars/adobe-research/dynasaur.svg?style=social&label=Star)
@@ -52,7 +56,8 @@
 
 ## Tool GPT
 
-- 🌟 [**xgrammar**](https://github.com/mlc-ai/xgrammar) - mlc-ai ![Star](https://img.shields.io/github/stars/mlc-ai/xgrammar.svg?style=social&label=Star)
+- [Introducing the Model Context Protocol (MCP)](https://x.com/alexalbert__/status/1861079762506252723)  𝕏
+- 🌟 [**xgrammar**](https://github.com/mlc-ai/xgrammar) - mlc-ai ![Star](https://img.shields.io/github/stars/mlc-ai/xgrammar.svg?style=social&label=Star) 
 
 	 · ([blog](https://github.com/mlc-ai/blog/blob/main/pdf/xgrammar-paper.pdf) - mlc-ai) ![Star](https://img.shields.io/github/stars/mlc-ai/blog.svg?style=social&label=Star)
 - [**outlines**](https://github.com/dottxt-ai/outlines) - dottxt-ai ![Star](https://img.shields.io/github/stars/dottxt-ai/outlines.svg?style=social&label=Star) 
@@ -70,6 +75,9 @@
 
 ## UI Agent
 
+- [PTA-1: Controlling Computers with Small Models](https://huggingface.co/AskUI/PTA-1)  🤗
+
+	 · ([huggingface](https://huggingface.co/spaces/AskUI/PTA-1))
 - **The Dawn of GUI Agent: A Preliminary Case Study with Claude 3.5 Computer 
   Use**, `arXiv, 2411.10323`, [arxiv](http://arxiv.org/abs/2411.10323v1), [pdf](http://arxiv.org/pdf/2411.10323v1.pdf), cication: [**-1**](None) 
 
@@ -142,6 +150,8 @@
 
 ## Projects
 
+- [**Qwen-Agent**](https://github.com/QwenLM/Qwen-Agent) - QwenLM ![Star](https://img.shields.io/github/stars/QwenLM/Qwen-Agent.svg?style=social&label=Star)
+- [**postbot3000**](https://github.com/ahmad2b/postbot3000) - ahmad2b ![Star](https://img.shields.io/github/stars/ahmad2b/postbot3000.svg?style=social&label=Star)
 - 🌟 [LLM agent memory frameworks are compared across multiple GitHub projects](https://buttondown.com/ainews/archive/ainews-deepseek-r1-claims-to-beat-o1-preview-and/) 
 
 	 · ([reddit](https://www.reddit.com/r/LocalLLaMA/comments/1gvhpjj/agent_memory/))
@@ -157,6 +167,7 @@
 
 ## Products
 
+- [Common Sense Agents, a new backbone for agentic creative computing](https://x.com/CSM_ai/status/1861177717489561778)  𝕏
 
 ## Misc
 

@@ -13,6 +13,9 @@
 
 ## LLM Models
 
+- **Ultra-Sparse Memory Network**, `arXiv, 2411.12364`, [arxiv](http://arxiv.org/abs/2411.12364v1), [pdf](http://arxiv.org/pdf/2411.12364v1.pdf), cication: [**-1**](None) 
+
+	 *Zihao Huang, Qiyang Min, Hongzhi Huang, ..., Ran Guo, Xun Zhou*
 - **Bi-Mamba: Towards Accurate 1-Bit State Space Models**, `arXiv, 2411.11843`, [arxiv](http://arxiv.org/abs/2411.11843v1), [pdf](http://arxiv.org/pdf/2411.11843v1.pdf), cication: [**-1**](None) 
 
 	 *Shengkun Tang, Liqun Ma, Haonan Li, ..., Mingjie Sun, Zhiqiang Shen* · ([𝕏](https://x.com/omarsar0/status/1858878654736199850))

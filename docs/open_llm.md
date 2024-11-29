@@ -19,6 +19,10 @@
 
 ## English Models
 
+- [A replication attempt of Tulu 3 on the Qwen 2.5 base models.](https://huggingface.co/allura-org/Teleut-7b)  🤗
+- 🌟 [OLMo 2: The best fully open language model to date](https://allenai.org/blog/olmo2) 
+
+	 · ([𝕏](https://x.com/natolambert/status/1861511563125096593))
 - [INTELLECT-1 is the world's first decentralized training of a 10B parameter model, enabling anyone to contribute compute and participate.](https://app.primeintellect.ai/intelligence) 
 - [Mistral-Large-Instruct-2411 is an advanced dense Large Language Model (LLM) of 123B parameters with state-of-the-art reasoning](https://huggingface.co/mistralai/Mistral-Large-Instruct-2411)  🤗 
 - 🌟 [Athene-V2-Chat-72B, an open-weights LLM on-par with GPT-4o across benchmarks](https://huggingface.co/Nexusflow/Athene-V2-Chat)  🤗 
@@ -34,6 +38,10 @@
 
 ## Chinese Models
 
+- **BayLing 2: A Multilingual Large Language Model with Efficient Language
+  Alignment**, `arXiv, 2411.16300`, [arxiv](http://arxiv.org/abs/2411.16300v1), [pdf](http://arxiv.org/pdf/2411.16300v1.pdf), cication: [**-1**](None) 
+
+	 *Shaolei Zhang, Kehao Zhang, Qingkai Fang, ..., Xiaodong Liu, Yang Feng* · ([BayLing](https://github.com/ictnlp/BayLing) - ictnlp) ![Star](https://img.shields.io/github/stars/ictnlp/BayLing.svg?style=social&label=Star)
 - **Hunyuan-Large: An Open-Source MoE Model with 52 Billion Activated 
   Parameters by Tencent**, `arXiv, 2411.02265`, [arxiv](http://arxiv.org/abs/2411.02265v3), [pdf](http://arxiv.org/pdf/2411.02265v3.pdf), cication: [**-1**](None) 
 
@@ -41,6 +49,9 @@
 
 ## Small Language Models
 
+- [Hybrid Small Language Models.](https://huggingface.co/collections/nvidia/hymba-673c35516c12c4b98b5e845f)  🤗
+
+	 · ([𝕏](https://x.com/reach_vb/status/1861492854293459423))
 - 🌟 [**smollm**](https://github.com/huggingface/smollm) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/smollm.svg?style=social&label=Star) 
 
 	 *135M, 360M, and 1.7B parameters.* · ([smollm](https://github.com/huggingface/smollm) - huggingface) ![Star](https://img.shields.io/github/stars/huggingface/smollm.svg?style=social&label=Star) · ([𝕏](https://x.com/_philschmid/status/1859598525723488478)) · ([huggingface](https://huggingface.co/datasets/HuggingFaceTB/smoltalk))

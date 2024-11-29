@@ -22,6 +22,9 @@
 
 ## Survey
 
+- **A Survey on Human-Centric LLMs**, `arXiv, 2411.14491`, [arxiv](http://arxiv.org/abs/2411.14491v2), [pdf](http://arxiv.org/pdf/2411.14491v2.pdf), cication: [**-1**](None) 
+
+	 *Jing Yi Wang, Nicholas Sukiennik, Tong Li, ..., Fengli Xu, Yong Li*
 - **Multilingual Large Language Models: A Systematic Survey**, `arXiv, 2411.11072`, [arxiv](http://arxiv.org/abs/2411.11072v2), [pdf](http://arxiv.org/pdf/2411.11072v2.pdf), cication: [**-1**](None) 
 
 	 *Shaolin Zhu, Supryadi, Shaoyang Xu, ..., António Branco, Deyi Xiong* · ([Awesome-Multilingual-LLMs-Papers](https://github.com/tjunlp-lab/Awesome-Multilingual-LLMs-Papers) - tjunlp-lab) ![Star](https://img.shields.io/github/stars/tjunlp-lab/Awesome-Multilingual-LLMs-Papers.svg?style=social&label=Star)
@@ -40,7 +43,15 @@
 
 ## Interpretability
 
-- **Procedural Knowledge in Pretraining Drives Reasoning in Large Language
+- **Large Multi-modal Models Can Interpret Features in Large Multi-modal
+  Models**, `arXiv, 2411.14982`, [arxiv](http://arxiv.org/abs/2411.14982v1), [pdf](http://arxiv.org/pdf/2411.14982v1.pdf), cication: [**-1**](None) 
+
+	 *Kaichen Zhang, Yifei Shen, Bo Li, ..., Ziwei Liu* · ([multimodal-sae](https://github.com/EvolvingLMMs-Lab/multimodal-sae) - EvolvingLMMs-Lab) ![Star](https://img.shields.io/github/stars/EvolvingLMMs-Lab/multimodal-sae.svg?style=social&label=Star)
+- **Do Large Language Models Perform Latent Multi-Hop Reasoning without
+  Exploiting Shortcuts?**, `arXiv, 2411.16679`, [arxiv](http://arxiv.org/abs/2411.16679v1), [pdf](http://arxiv.org/pdf/2411.16679v1.pdf), cication: [**-1**](None) 
+
+	 *Sohee Yang, Nora Kassner, Elena Gribovskaya, ..., Sebastian Riedel, Mor Geva* · ([𝕏](https://x.com/soheeyang_/status/1861822094289367415))
+- **Procedural Knowledge in Pretraining Drives Reasoning in Large Language 
   Models**, `arXiv, 2411.12580`, [arxiv](http://arxiv.org/abs/2411.12580v1), [pdf](http://arxiv.org/pdf/2411.12580v1.pdf), cication: [**-1**](None) 
 
 	 *Laura Ruis, Maximilian Mozes, Juhan Bae, ..., Edward Grefenstette, Max Bartolo*
@@ -142,7 +153,7 @@
 
 ## Tokenization
 
-- [added a few lines of code to the base Llama 3 tokenizer and got a free boost in arithmetic performance](https://x.com/garrethleee/status/1860039446311371132)  𝕏
+- [added a few lines of code to the base Llama 3 tokenizer and got a free boost in arithmetic performance](https://x.com/garrethleee/status/1860039446311371132)  𝕏 
 - **Counting Ability of Large Language Models and Impact of Tokenization**, `arXiv, 2410.19730`, [arxiv](http://arxiv.org/abs/2410.19730v2), [pdf](http://arxiv.org/pdf/2410.19730v2.pdf), cication: [**-1**](None) 
 
 	 *Xiang Zhang, Juntai Cao, Chenyu You*
@@ -165,6 +176,7 @@
 
 ## Tutorials
 
+- [Understanding LLMs from Scratch Using Middle School Math](https://towardsdatascience.com/understanding-llms-from-scratch-using-middle-school-math-e602d27ec876) 
 - [An attempt to reconstruct Ilya Sutskever's 2020 AI reading list](https://tensorlabbet.com/2024/11/11/lost-reading-items/) 
 
 ## Toolkits

@@ -20,6 +20,9 @@
 
 ## LLM Training
 
+- 🌟 **Predicting Emergent Capabilities by Finetuning**, `arXiv, 2411.16035`, [arxiv](http://arxiv.org/abs/2411.16035v1), [pdf](http://arxiv.org/pdf/2411.16035v1.pdf), cication: [**-1**](None) 
+
+	 *Charlie Snell, Eric Wallace, Dan Klein, ..., Sergey Levine* · ([𝕏](https://x.com/sea_snell/status/1861538504024416365))
 - 🌟 **Observational Scaling Laws and the Predictability of Language Model 
   Performance**, `arXiv, 2405.10938`, [arxiv](http://arxiv.org/abs/2405.10938v3), [pdf](http://arxiv.org/pdf/2405.10938v3.pdf), cication: [**-1**](None) 
 
@@ -59,6 +62,12 @@
 
 ## Optimization
 
+- **Natural Language Reinforcement Learning**, `arXiv, 2411.14251`, [arxiv](http://arxiv.org/abs/2411.14251v1), [pdf](http://arxiv.org/pdf/2411.14251v1.pdf), cication: [**-1**](None) 
+
+	 *Xidong Feng, Ziyu Wan, Haotian Fu, ..., Ying Wen, Jun Wang* · ([Natural-language-RL](https://github.com/waterhorse1/Natural-language-RL) - waterhorse1) ![Star](https://img.shields.io/github/stars/waterhorse1/Natural-language-RL.svg?style=social&label=Star)
+- **Cautious Optimizers: Improving Training with One Line of Code**, `arXiv, 2411.16085`, [arxiv](http://arxiv.org/abs/2411.16085v1), [pdf](http://arxiv.org/pdf/2411.16085v1.pdf), cication: [**-1**](None) 
+
+	 *Kaizhao Liang, Lizhang Chen, Bo Liu, ..., Qiang Liu* · ([C-Optim](https://github.com/kyleliang919/C-Optim) - kyleliang919) ![Star](https://img.shields.io/github/stars/kyleliang919/C-Optim.svg?style=social&label=Star) · ([qbitai](https://www.qbitai.com/2024/11/224904.html))
 - **MARS: Unleashing the Power of Variance Reduction for Training Large 
   Models**, `arXiv, 2411.10438`, [arxiv](http://arxiv.org/abs/2411.10438v1), [pdf](http://arxiv.org/pdf/2411.10438v1.pdf), cication: [**-1**](None) 
 
@@ -90,6 +99,12 @@
 
 ## Mixture Of Experts
 
+- **MoDEM: Mixture of Domain Expert Models**, `arXiv, 2410.07490`, [arxiv](http://arxiv.org/abs/2410.07490v1), [pdf](http://arxiv.org/pdf/2410.07490v1.pdf), cication: [**-1**](None) 
+
+	 *Toby Simonds, Kemal Kurniawan, Jey Han Lau* · ([reddit](https://www.reddit.com/r/LocalLLaMA/comments/1h06abs/modem_mixture_of_domain_expert_models/))
+- **MH-MoE: Multi-Head Mixture-of-Experts**, `arXiv, 2411.16205`, [arxiv](http://arxiv.org/abs/2411.16205v2), [pdf](http://arxiv.org/pdf/2411.16205v2.pdf), cication: [**-1**](None) 
+
+	 *Shaohan Huang, Xun Wu, Shuming Ma, ..., Furu Wei*
 - **MoE Jetpack: From Dense Checkpoints to Adaptive Mixture of Experts for 
   Vision Tasks**, `arXiv, 2406.04801`, [arxiv](http://arxiv.org/abs/2406.04801v1), [pdf](http://arxiv.org/pdf/2406.04801v1.pdf), cication: [**-1**](None) 
 
@@ -123,6 +138,7 @@
 
 ## Toolkits
 
+- [Supercharging Training using float8 and FSDP2](https://pytorch.org/blog/training-using-float8-fsdp2/) 
 - [**unsloth**](https://github.com/unslothai/unsloth) - unslothai ![Star](https://img.shields.io/github/stars/unslothai/unsloth.svg?style=social&label=Star) 
 - [**cohere-finetune**](https://github.com/cohere-ai/cohere-finetune) - cohere-ai ![Star](https://img.shields.io/github/stars/cohere-ai/cohere-finetune.svg?style=social&label=Star) 
 - 🌟 [**open-instruct**](https://github.com/allenai/open-instruct) - allenai ![Star](https://img.shields.io/github/stars/allenai/open-instruct.svg?style=social&label=Star) 
@@ -145,6 +161,8 @@
 
 ## Misc
 
+- [Fixing bugs in Gemma, Llama, & Phi 3: Daniel Han](https://www.youtube.com/watch?v=TKmfBnW0mQA)  :clapper:
+- [OLMo 2 and building effective teams for training language models](https://www.interconnects.ai/p/olmo-2-and-building-language-model-training) 
 - 🌟 [**modded-nanogpt**](https://github.com/KellerJordan/modded-nanogpt) - KellerJordan ![Star](https://img.shields.io/github/stars/KellerJordan/modded-nanogpt.svg?style=social&label=Star) 
 - **Pretraining on the Test Set Is All You Need**, `arXiv, 2309.08632`, [arxiv](http://arxiv.org/abs/2309.08632v1), [pdf](http://arxiv.org/pdf/2309.08632v1.pdf), cication: [**14**](https://scholar.google.com/scholar?cites=12205479803973588820&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII) 
 

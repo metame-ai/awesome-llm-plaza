@@ -77,7 +77,24 @@
 
 ## O1 Reasoning
 
-- 🌟 [**O1-Journey**](https://github.com/GAIR-NLP/O1-Journey) - GAIR-NLP ![Star](https://img.shields.io/github/stars/GAIR-NLP/O1-Journey.svg?style=social&label=Star)
+- **Patience Is The Key to Large Language Model Reasoning**, `arXiv, 2411.13082`, [arxiv](http://arxiv.org/abs/2411.13082v2), [pdf](http://arxiv.org/pdf/2411.13082v2.pdf), cication: [**-1**](None) 
+
+	 *Yijiong Yu*
+
+	 · ([huggingface](https://huggingface.co/datasets/yuyijiong/patient-math-cot))
+- 🌟 **O1 Replication Journey -- Part 2: Surpassing O1-preview through Simple
+  Distillation, Big Progress or Bitter Lesson?**, `arXiv, 2411.16489`, [arxiv](http://arxiv.org/abs/2411.16489v1), [pdf](http://arxiv.org/pdf/2411.16489v1.pdf), cication: [**-1**](None) 
+
+	 *Zhen Huang, Haoyang Zou, Xuefeng Li, ..., Weizhe Yuan, Pengfei Liu* · ([O1-Journey](https://github.com/GAIR-NLP/O1-Journey) - GAIR-NLP) ![Star](https://img.shields.io/github/stars/GAIR-NLP/O1-Journey.svg?style=social&label=Star)
+- **Enhancing LLM Reasoning via Critique Models with Test-Time and
+  Training-Time Supervision**, `arXiv, 2411.16579`, [arxiv](http://arxiv.org/abs/2411.16579v1), [pdf](http://arxiv.org/pdf/2411.16579v1.pdf), cication: [**-1**](None) 
+
+	 *Zhiheng Xi, Dingwen Yang, Jixuan Huang, ..., Xuanjing Huang, Yu-Gang Jiang* · ([mathcritique.github](https://mathcritique.github.io/))
+- [QwQ: Reflect Deeply on the Boundaries of the Unknown](http://qwenlm.github.io/blog/qwq-32b-preview/) 
+
+	 · ([huggingface](https://huggingface.co/Qwen/QwQ-32B-Preview))
+- [Skywork o1 Open model series](https://huggingface.co/Skywork/Skywork-o1-Open-Llama-3.1-8B)  🤗
+- 🌟 [**O1-Journey**](https://github.com/GAIR-NLP/O1-Journey) - GAIR-NLP ![Star](https://img.shields.io/github/stars/GAIR-NLP/O1-Journey.svg?style=social&label=Star) 
 - [Beyond Decoding: Meta-Generation Algorithms for Large Language Models](https://neurips.cc/virtual/2024/tutorial/99522) 
 
 	 · ([simons.berkeley](https://simons.berkeley.edu/talks/sean-welleck-carnegie-mellon-university-2024-11-19))
@@ -141,6 +158,7 @@
 
 ## Prompt
 
+- [Prompt Design at Character.AI](https://research.character.ai/prompt-design-at-character-ai/) 
 - **Does Prompt Formatting Have Any Impact on LLM Performance?**, `arXiv, 2411.10541`, [arxiv](http://arxiv.org/abs/2411.10541v1), [pdf](http://arxiv.org/pdf/2411.10541v1.pdf), cication: [**-1**](None) 
 
 	 *Jia He, Mukund Rungta, David Koleczek, ..., Franklin X Wang, Sadid Hasan*
@@ -154,13 +172,15 @@
 
 ## Projects
 
-- [**V0-system-prompt**](https://github.com/2-fly-4-ai/V0-system-prompt) - 2-fly-4-ai ![Star](https://img.shields.io/github/stars/2-fly-4-ai/V0-system-prompt.svg?style=social&label=Star)
+- [**prompt-poet**](https://github.com/character-ai/prompt-poet) - character-ai ![Star](https://img.shields.io/github/stars/character-ai/prompt-poet.svg?style=social&label=Star)
+- [**V0-system-prompt**](https://github.com/2-fly-4-ai/V0-system-prompt) - 2-fly-4-ai ![Star](https://img.shields.io/github/stars/2-fly-4-ai/V0-system-prompt.svg?style=social&label=Star) 
 
 	 · ([reddit](https://www.reddit.com/r/LocalLLaMA/comments/1gwwyia/leaked_system_prompts_from_v0_vercels_ai/))
 - [steiner-preview  updated			3 days ago Reasoning models trained on synthetic data using reinforcement learning.](https://huggingface.co/collections/peakji/steiner-preview-6712c6987110ce932a44e9a6)  🤗 
 
 ## Misc
 
+- [The Problem with Reasoners](https://aidanmclaughlin.notion.site/reasoners-problem) 
 
 
 ## Planning

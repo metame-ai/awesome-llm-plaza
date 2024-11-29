@@ -20,6 +20,9 @@
 
 ## LLM Data
 
+- **Zyda-2: a 5 Trillion Token High-Quality Dataset**, `arXiv, 2411.06068`, [arxiv](http://arxiv.org/abs/2411.06068v1), [pdf](http://arxiv.org/pdf/2411.06068v1.pdf), cication: [**-1**](None) 
+
+	 *Yury Tokpanov, Paolo Glorioso, Quentin Anthony, ..., Beren Millidge* · ([huggingface](https://huggingface.co/datasets/Zyphra/Zyda-2))
 - [**dolma**](https://github.com/allenai/dolma) - allenai ![Star](https://img.shields.io/github/stars/allenai/dolma.svg?style=social&label=Star) 
 
 	 *an open dataset of 3 trillion tokens from a diverse mix of web content, academic publications, code, books, and encyclopedic materials.*
@@ -50,13 +53,18 @@
 
 ## Multi Modal
 
+- 🌟 [A set of vision-language datasets built by Ai2 and used to train the Molmo family of models.](https://huggingface.co/collections/allenai/pixmo-674746ea613028006285687b)  🤗
 - [PangeaIns is a 6M multilingual multicultural multimodal instruction tuning dataset spanning 39 languages.](https://huggingface.co/datasets/neulab/PangeaInstruct)  🤗 
 
 	 · ([Pangea](https://github.com/neulab/Pangea/tree/main) - neulab) ![Star](https://img.shields.io/github/stars/neulab/Pangea.svg?style=social&label=Star)
 
 ## Alignment
 
-- [Tulu V2.5 Suite  updated			6 days ago A suite of models trained using DPO and PPO across a wide variety (up to 14) of preference datasets.](https://huggingface.co/collections/allenai/tulu-v25-suite-66676520fd578080e126f618)  🤗 
+- 🌟 **Magpie: Alignment Data Synthesis from Scratch by Prompting Aligned LLMs
+  with Nothing**, `arXiv, 2406.08464`, [arxiv](http://arxiv.org/abs/2406.08464v2), [pdf](http://arxiv.org/pdf/2406.08464v2.pdf), cication: [**-1**](None) 
+
+	 *Zhangchen Xu, Fengqing Jiang, Luyao Niu, ..., Yejin Choi, Bill Yuchen Lin* · ([huggingface](https://huggingface.co/Magpie-Align)) · ([magpie](https://github.com/magpie-align/magpie) - magpie-align) ![Star](https://img.shields.io/github/stars/magpie-align/magpie.svg?style=social&label=Star)
+- [Tulu V2.5 Suite  updated 6 days ago A suite of models trained using DPO and PPO across a wide variety (up to 14) of preference datasets.](https://huggingface.co/collections/allenai/tulu-v25-suite-66676520fd578080e126f618)  🤗 
 - [Llama 3.1 Tulu 3 70B Preference Mixture](https://huggingface.co/datasets/allenai/llama-3.1-tulu-3-70b-preference-mixture)  🤗 
 - [Tulu 3 SFT Mixture](https://huggingface.co/datasets/allenai/tulu-3-sft-mixture)  🤗 
 - **LongReward: Improving Long-context Large Language Models with AI 

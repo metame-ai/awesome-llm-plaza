@@ -13,6 +13,9 @@
 
 ## Long Context
 
+- **Star Attention: Efficient LLM Inference over Long Sequences**, `arXiv, 2411.17116`, [arxiv](http://arxiv.org/abs/2411.17116v1), [pdf](http://arxiv.org/pdf/2411.17116v1.pdf), cication: [**-1**](None) 
+
+	 *Shantanu Acharya, Fei Jia, Boris Ginsburg* · ([Star-Attention](https://github.com/NVIDIA/Star-Attention?tab=readme-ov-file) - NVIDIA) ![Star](https://img.shields.io/github/stars/NVIDIA/Star-Attention.svg?style=social&label=Star)
 - **When Precision Meets Position: BFloat16 Breaks Down RoPE in Long-Context 
   Training**, `arXiv, 2411.13476`, [arxiv](http://arxiv.org/abs/2411.13476v1), [pdf](http://arxiv.org/pdf/2411.13476v1.pdf), cication: [**-1**](None) 
 
@@ -70,6 +73,7 @@
 
 ## Projects
 
+- [**KVCache-Factory**](https://github.com/Zefan-Cai/KVCache-Factory) - Zefan-Cai ![Star](https://img.shields.io/github/stars/Zefan-Cai/KVCache-Factory.svg?style=social&label=Star)
 - [**Awesome-LLM-Long-Context-Modeling**](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling) - Xnhyacinth ![Star](https://img.shields.io/github/stars/Xnhyacinth/Awesome-LLM-Long-Context-Modeling.svg?style=social&label=Star) 
 
 ## Misc
