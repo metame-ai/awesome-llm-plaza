@@ -19,7 +19,7 @@
 
 ## English Models
 
-- [A replication attempt of Tulu 3 on the Qwen 2.5 base models.](https://huggingface.co/allura-org/Teleut-7b)  🤗
+- [A replication attempt of Tulu 3 on the Qwen 2.5 base models.](https://huggingface.co/allura-org/Teleut-7b)  🤗 
 - 🌟 [OLMo 2: The best fully open language model to date](https://allenai.org/blog/olmo2) 
 
 	 · ([𝕏](https://x.com/natolambert/status/1861511563125096593))
@@ -38,7 +38,7 @@
 
 ## Chinese Models
 
-- **BayLing 2: A Multilingual Large Language Model with Efficient Language
+- **BayLing 2: A Multilingual Large Language Model with Efficient Language 
   Alignment**, `arXiv, 2411.16300`, [arxiv](http://arxiv.org/abs/2411.16300v1), [pdf](http://arxiv.org/pdf/2411.16300v1.pdf), cication: [**-1**](None) 
 
 	 *Shaolei Zhang, Kehao Zhang, Qingkai Fang, ..., Xiaodong Liu, Yang Feng* · ([BayLing](https://github.com/ictnlp/BayLing) - ictnlp) ![Star](https://img.shields.io/github/stars/ictnlp/BayLing.svg?style=social&label=Star)
@@ -49,7 +49,7 @@
 
 ## Small Language Models
 
-- [Hybrid Small Language Models.](https://huggingface.co/collections/nvidia/hymba-673c35516c12c4b98b5e845f)  🤗
+- [Hybrid Small Language Models.](https://huggingface.co/collections/nvidia/hymba-673c35516c12c4b98b5e845f)  🤗 
 
 	 · ([𝕏](https://x.com/reach_vb/status/1861492854293459423))
 - 🌟 [**smollm**](https://github.com/huggingface/smollm) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/smollm.svg?style=social&label=Star) 

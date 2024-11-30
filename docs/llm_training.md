@@ -161,7 +161,7 @@
 
 ## Misc
 
-- [Fixing bugs in Gemma, Llama, & Phi 3: Daniel Han](https://www.youtube.com/watch?v=TKmfBnW0mQA)  :clapper:
+- [Fixing bugs in Gemma, Llama, & Phi 3: Daniel Han](https://www.youtube.com/watch?v=TKmfBnW0mQA)  :clapper: 
 - [OLMo 2 and building effective teams for training language models](https://www.interconnects.ai/p/olmo-2-and-building-language-model-training) 
 - 🌟 [**modded-nanogpt**](https://github.com/KellerJordan/modded-nanogpt) - KellerJordan ![Star](https://img.shields.io/github/stars/KellerJordan/modded-nanogpt.svg?style=social&label=Star) 
 - **Pretraining on the Test Set Is All You Need**, `arXiv, 2309.08632`, [arxiv](http://arxiv.org/abs/2309.08632v1), [pdf](http://arxiv.org/pdf/2309.08632v1.pdf), cication: [**14**](https://scholar.google.com/scholar?cites=12205479803973588820&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII) 

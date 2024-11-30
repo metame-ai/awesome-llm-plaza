@@ -60,7 +60,7 @@
 
 ## Projects
 
-- [**MPLSandbox**](https://github.com/Ablustrund/MPLSandbox) - Ablustrund ![Star](https://img.shields.io/github/stars/Ablustrund/MPLSandbox.svg?style=social&label=Star)
+- [**MPLSandbox**](https://github.com/Ablustrund/MPLSandbox) - Ablustrund ![Star](https://img.shields.io/github/stars/Ablustrund/MPLSandbox.svg?style=social&label=Star) 
 
 	 · ([arxiv](https://arxiv.org/abs/2410.23074))
 - [**Lingma-SWE-GPT**](https://github.com/LingmaTongyi/Lingma-SWE-GPT) - LingmaTongyi ![Star](https://img.shields.io/github/stars/LingmaTongyi/Lingma-SWE-GPT.svg?style=social&label=Star) 

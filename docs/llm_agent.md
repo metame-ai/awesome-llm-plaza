@@ -56,7 +56,7 @@
 
 ## Tool GPT
 
-- [Introducing the Model Context Protocol (MCP)](https://x.com/alexalbert__/status/1861079762506252723)  𝕏
+- [Introducing the Model Context Protocol (MCP)](https://x.com/alexalbert__/status/1861079762506252723)  𝕏 
 - 🌟 [**xgrammar**](https://github.com/mlc-ai/xgrammar) - mlc-ai ![Star](https://img.shields.io/github/stars/mlc-ai/xgrammar.svg?style=social&label=Star) 
 
 	 · ([blog](https://github.com/mlc-ai/blog/blob/main/pdf/xgrammar-paper.pdf) - mlc-ai) ![Star](https://img.shields.io/github/stars/mlc-ai/blog.svg?style=social&label=Star)
@@ -75,7 +75,7 @@
 
 ## UI Agent
 
-- [PTA-1: Controlling Computers with Small Models](https://huggingface.co/AskUI/PTA-1)  🤗
+- [PTA-1: Controlling Computers with Small Models](https://huggingface.co/AskUI/PTA-1)  🤗 
 
 	 · ([huggingface](https://huggingface.co/spaces/AskUI/PTA-1))
 - **The Dawn of GUI Agent: A Preliminary Case Study with Claude 3.5 Computer 
@@ -150,8 +150,8 @@
 
 ## Projects
 
-- [**Qwen-Agent**](https://github.com/QwenLM/Qwen-Agent) - QwenLM ![Star](https://img.shields.io/github/stars/QwenLM/Qwen-Agent.svg?style=social&label=Star)
-- [**postbot3000**](https://github.com/ahmad2b/postbot3000) - ahmad2b ![Star](https://img.shields.io/github/stars/ahmad2b/postbot3000.svg?style=social&label=Star)
+- [**Qwen-Agent**](https://github.com/QwenLM/Qwen-Agent) - QwenLM ![Star](https://img.shields.io/github/stars/QwenLM/Qwen-Agent.svg?style=social&label=Star) 
+- [**postbot3000**](https://github.com/ahmad2b/postbot3000) - ahmad2b ![Star](https://img.shields.io/github/stars/ahmad2b/postbot3000.svg?style=social&label=Star) 
 - 🌟 [LLM agent memory frameworks are compared across multiple GitHub projects](https://buttondown.com/ainews/archive/ainews-deepseek-r1-claims-to-beat-o1-preview-and/) 
 
 	 · ([reddit](https://www.reddit.com/r/LocalLLaMA/comments/1gvhpjj/agent_memory/))
@@ -167,7 +167,7 @@
 
 ## Products
 
-- [Common Sense Agents, a new backbone for agentic creative computing](https://x.com/CSM_ai/status/1861177717489561778)  𝕏
+- [Common Sense Agents, a new backbone for agentic creative computing](https://x.com/CSM_ai/status/1861177717489561778)  𝕏 
 
 ## Misc
 

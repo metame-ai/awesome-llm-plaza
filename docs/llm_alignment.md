@@ -12,7 +12,7 @@
 
 ## LLM Alignment
 
-- **Does your data spark joy? Performance gains from domain upsampling at
+- **Does your data spark joy? Performance gains from domain upsampling at 
   the end of training**, `arXiv, 2406.03476`, [arxiv](http://arxiv.org/abs/2406.03476v1), [pdf](http://arxiv.org/pdf/2406.03476v1.pdf), cication: [**-1**](None) 
 
 	 *Cody Blakeney, Mansheej Paul, Brett W. Larsen, ..., Sean Owen, Jonathan Frankle*

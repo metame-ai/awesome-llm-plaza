@@ -43,11 +43,11 @@
 
 ## Interpretability
 
-- **Large Multi-modal Models Can Interpret Features in Large Multi-modal
+- **Large Multi-modal Models Can Interpret Features in Large Multi-modal 
   Models**, `arXiv, 2411.14982`, [arxiv](http://arxiv.org/abs/2411.14982v1), [pdf](http://arxiv.org/pdf/2411.14982v1.pdf), cication: [**-1**](None) 
 
 	 *Kaichen Zhang, Yifei Shen, Bo Li, ..., Ziwei Liu* · ([multimodal-sae](https://github.com/EvolvingLMMs-Lab/multimodal-sae) - EvolvingLMMs-Lab) ![Star](https://img.shields.io/github/stars/EvolvingLMMs-Lab/multimodal-sae.svg?style=social&label=Star)
-- **Do Large Language Models Perform Latent Multi-Hop Reasoning without
+- **Do Large Language Models Perform Latent Multi-Hop Reasoning without 
   Exploiting Shortcuts?**, `arXiv, 2411.16679`, [arxiv](http://arxiv.org/abs/2411.16679v1), [pdf](http://arxiv.org/pdf/2411.16679v1.pdf), cication: [**-1**](None) 
 
 	 *Sohee Yang, Nora Kassner, Elena Gribovskaya, ..., Sebastian Riedel, Mor Geva* · ([𝕏](https://x.com/soheeyang_/status/1861822094289367415))

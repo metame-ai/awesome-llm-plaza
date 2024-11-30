@@ -53,14 +53,17 @@
 
 ## Multi Modal
 
-- 🌟 [A set of vision-language datasets built by Ai2 and used to train the Molmo family of models.](https://huggingface.co/collections/allenai/pixmo-674746ea613028006285687b)  🤗
+- 🌟 [A set of vision-language datasets built by Ai2 and used to train the Molmo family of models.](https://huggingface.co/collections/allenai/pixmo-674746ea613028006285687b)  🤗 
 - [PangeaIns is a 6M multilingual multicultural multimodal instruction tuning dataset spanning 39 languages.](https://huggingface.co/datasets/neulab/PangeaInstruct)  🤗 
 
 	 · ([Pangea](https://github.com/neulab/Pangea/tree/main) - neulab) ![Star](https://img.shields.io/github/stars/neulab/Pangea.svg?style=social&label=Star)
 
 ## Alignment
 
-- 🌟 **Magpie: Alignment Data Synthesis from Scratch by Prompting Aligned LLMs
+- [**Open-O1**](https://github.com/Open-Source-O1/Open-O1) - Open-Source-O1 ![Star](https://img.shields.io/github/stars/Open-Source-O1/Open-O1.svg?style=social&label=Star)
+
+	 *A Model Matching Proprietary Power with Open-Source Innovation*
+- 🌟 **Magpie: Alignment Data Synthesis from Scratch by Prompting Aligned LLMs 
   with Nothing**, `arXiv, 2406.08464`, [arxiv](http://arxiv.org/abs/2406.08464v2), [pdf](http://arxiv.org/pdf/2406.08464v2.pdf), cication: [**-1**](None) 
 
 	 *Zhangchen Xu, Fengqing Jiang, Luyao Niu, ..., Yejin Choi, Bill Yuchen Lin* · ([huggingface](https://huggingface.co/Magpie-Align)) · ([magpie](https://github.com/magpie-align/magpie) - magpie-align) ![Star](https://img.shields.io/github/stars/magpie-align/magpie.svg?style=social&label=Star)

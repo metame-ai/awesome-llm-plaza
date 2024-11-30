@@ -37,8 +37,8 @@
 
 ## Science
 
-- [**semikong**](https://github.com/aitomatic/semikong) - aitomatic ![Star](https://img.shields.io/github/stars/aitomatic/semikong.svg?style=social&label=Star)
-- **Reflections from the 2024 Large Language Model (LLM) Hackathon for
+- [**semikong**](https://github.com/aitomatic/semikong) - aitomatic ![Star](https://img.shields.io/github/stars/aitomatic/semikong.svg?style=social&label=Star) 
+- **Reflections from the 2024 Large Language Model (LLM) Hackathon for 
   Applications in Materials Science and Chemistry**, `arXiv, 2411.15221`, [arxiv](http://arxiv.org/abs/2411.15221v1), [pdf](http://arxiv.org/pdf/2411.15221v1.pdf), cication: [**-1**](None) 
 
 	 *Yoel Zimmermann, Adib Bazgir, Zartashia Afzal, ..., Ian Foster, Ben Blaiszik*
@@ -201,14 +201,14 @@
 
 ## Toolkits
 
-- [**aisuite**](https://github.com/andrewyng/aisuite) - andrewyng ![Star](https://img.shields.io/github/stars/andrewyng/aisuite.svg?style=social&label=Star)
+- [**aisuite**](https://github.com/andrewyng/aisuite) - andrewyng ![Star](https://img.shields.io/github/stars/andrewyng/aisuite.svg?style=social&label=Star) 
 
 ## Projects
 
-- [**ai-rd-tasks**](https://github.com/METR/ai-rd-tasks) - METR ![Star](https://img.shields.io/github/stars/METR/ai-rd-tasks.svg?style=social&label=Star)
+- [**ai-rd-tasks**](https://github.com/METR/ai-rd-tasks) - METR ![Star](https://img.shields.io/github/stars/METR/ai-rd-tasks.svg?style=social&label=Star) 
 
 	 · ([metr](https://metr.org/AI_R_D_Evaluation_Report.pdf))
-- 🌟 [**agent**](https://github.com/0xfreysa/agent) - 0xfreysa ![Star](https://img.shields.io/github/stars/0xfreysa/agent.svg?style=social&label=Star)
+- 🌟 [**agent**](https://github.com/0xfreysa/agent) - 0xfreysa ![Star](https://img.shields.io/github/stars/0xfreysa/agent.svg?style=social&label=Star) 
 - [**Automated-AI-Web-Researcher-Ollama**](https://github.com/TheBlewish/Automated-AI-Web-Researcher-Ollama) - TheBlewish ![Star](https://img.shields.io/github/stars/TheBlewish/Automated-AI-Web-Researcher-Ollama.svg?style=social&label=Star) 
 
 	 · ([reddit](https://www.reddit.com/r/LocalLLaMA/comments/1gvlzug/i_created_an_ai_research_assistant_that_actually/))
