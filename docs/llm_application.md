@@ -27,6 +27,10 @@
 
 ## Survey
 
+- **LLMs as Research Tools: A Large Scale Survey of Researchers' Usage and
+  Perceptions**, `arXiv, 2411.05025`, [arxiv](http://arxiv.org/abs/2411.05025v1), [pdf](http://arxiv.org/pdf/2411.05025v1.pdf), cication: [**-1**](None) 
+
+	 *Zhehui Liao, Maria Antoniak, Inyoung Cheong, ..., Joseph Chee Chang, Amy X. Zhang* · ([𝕏](https://x.com/SimonaLiao/status/1863673761377161300))
 - **Towards Next-Generation LLM-based Recommender Systems: A Survey and 
   Beyond**, `arXiv, 2410.19744`, [arxiv](http://arxiv.org/abs/2410.19744v1), [pdf](http://arxiv.org/pdf/2410.19744v1.pdf), cication: [**-1**](None)
 
@@ -234,6 +238,7 @@
 
 ## LLM Applications
 
+- [A curated knowledge base of real-world LLMOps implementations, with detailed summaries and technical notes.](https://www.zenml.io/llmops-database) 
 - 🌟 [Synthesizing 1M+ open access computer science papers](https://openscholar.allen.ai/) 
 
 	 · ([𝕏](https://x.com/AkariAsai/status/1858875730068738051)) · ([OpenScholar](https://github.com/AkariAsai/OpenScholar) - AkariAsai) ![Star](https://img.shields.io/github/stars/AkariAsai/OpenScholar.svg?style=social&label=Star)

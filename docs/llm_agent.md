@@ -50,6 +50,7 @@
 
 ## LLM OS
 
+- [/dev/agents came out of stealth with $56M to build an OS for AI agents](https://x.com/adcock_brett/status/1863267756243652972)  𝕏
 
 ## Auto GPT
 
@@ -75,6 +76,9 @@
 
 ## UI Agent
 
+- **ShowUI: One Vision-Language-Action Model for GUI Visual Agent**, `arXiv, 2411.17465`, [arxiv](http://arxiv.org/abs/2411.17465v1), [pdf](http://arxiv.org/pdf/2411.17465v1.pdf), cication: [**-1**](None) 
+
+	 *Kevin Qinghong Lin, Linjie Li, Difei Gao, ..., Lijuan Wang, Mike Zheng Shou*
 - [PTA-1: Controlling Computers with Small Models](https://huggingface.co/AskUI/PTA-1)  🤗 
 
 	 · ([huggingface](https://huggingface.co/spaces/AskUI/PTA-1))
@@ -89,7 +93,7 @@
 - **Sharingan: Extract User Action Sequence from Desktop Recordings**, `arXiv, 2411.08768`, [arxiv](http://arxiv.org/abs/2411.08768v1), [pdf](http://arxiv.org/pdf/2411.08768v1.pdf), cication: [**-1**](None) 
 
 	 *Yanting Chen, Yi Ren, Xiaoting Qin, ..., Saravan Rajmohan, Qi Zhang*
-- **WebRL: Training LLM Web Agents via Self-Evolving Online Curriculum 
+- 🌟 **WebRL: Training LLM Web Agents via Self-Evolving Online Curriculum 
   Reinforcement Learning**, `arXiv, 2411.02337`, [arxiv](http://arxiv.org/abs/2411.02337v1), [pdf](http://arxiv.org/pdf/2411.02337v1.pdf), cication: [**-1**](None) 
 
 	 *Zehan Qi, Xiao Liu, Iat Long Iong, ..., Jie Tang, Yuxiao Dong*
@@ -150,6 +154,7 @@
 
 ## Projects
 
+- [**steel-browser**](https://github.com/steel-dev/steel-browser) - steel-dev ![Star](https://img.shields.io/github/stars/steel-dev/steel-browser.svg?style=social&label=Star)
 - [**Qwen-Agent**](https://github.com/QwenLM/Qwen-Agent) - QwenLM ![Star](https://img.shields.io/github/stars/QwenLM/Qwen-Agent.svg?style=social&label=Star) 
 - [**postbot3000**](https://github.com/ahmad2b/postbot3000) - ahmad2b ![Star](https://img.shields.io/github/stars/ahmad2b/postbot3000.svg?style=social&label=Star) 
 - 🌟 [LLM agent memory frameworks are compared across multiple GitHub projects](https://buttondown.com/ainews/archive/ainews-deepseek-r1-claims-to-beat-o1-preview-and/) 

@@ -21,6 +21,13 @@
 
 ## Reasoning
 
+- **Reverse Thinking Makes LLMs Stronger Reasoners**, `arXiv, 2411.19865`, [arxiv](http://arxiv.org/abs/2411.19865v1), [pdf](http://arxiv.org/pdf/2411.19865v1.pdf), cication: [**-1**](None) 
+
+	 *Justin Chih-Yao Chen, Zifeng Wang, Hamid Palangi, ..., Chen-Yu Lee, Tomas Pfister*
+- 🌟 **Beyond Examples: High-level Automated Reasoning Paradigm in In-Context
+  Learning via MCTS**, `arXiv, 2411.18478`, [arxiv](http://arxiv.org/abs/2411.18478v1), [pdf](http://arxiv.org/pdf/2411.18478v1.pdf), cication: [**-1**](None) 
+
+	 *Jinyang Wu, Mingkuan Feng, Shuai Zhang, ..., Zengqi Wen, Jianhua Tao* · ([arxiv](https://arxiv.org/pdf/2411.18478)) · ([jinyangwu.github](https://jinyangwu.github.io/hiar-icl/))
 - [DeepSeek-R1-Lite-Preview is now live: unleashing supercharged reasoning power](https://x.com/deepseek_ai/status/1859200145037869485)  𝕏 
 - **BALROG: Benchmarking Agentic LLM and VLM Reasoning On Games**, `arXiv, 2411.13543`, [arxiv](http://arxiv.org/abs/2411.13543v1), [pdf](http://arxiv.org/pdf/2411.13543v1.pdf), cication: [**-1**](None) 
 
@@ -77,8 +84,15 @@
 
 ## O1 Reasoning
 
+- [OpenAI o1开启「后训练」时代强化学习新范式](https://mp.weixin.qq.com/s/FXGdJA8OyZvLl89rXJiyAQ) 
+
+	 · ([bilibili](https://www.bilibili.com/video/BV15Rx5eXEnW/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=63e5fa02f07bfd58e74de3c6d149e31f))
+- **Inference Scaling fLaws: The Limits of LLM Resampling with Imperfect
+  Verifiers**, `arXiv, 2411.17501`, [arxiv](http://arxiv.org/abs/2411.17501v2), [pdf](http://arxiv.org/pdf/2411.17501v2.pdf), cication: [**-1**](None) 
+
+	 *Benedikt Stroebl, Sayash Kapoor, Arvind Narayanan* · ([𝕏](https://x.com/benediktstroebl/status/1861764215947903208)) · ([𝕏](https://x.com/TheAITimeline/status/1863350162849997113))
 - [Exploring OpenAI O1 Model Replication](https://hijkzzz.notion.site/exploring-openai-o1-model-replication) 
-- [**Open-O1**](https://github.com/Open-Source-O1/Open-O1) - Open-Source-O1 ![Star](https://img.shields.io/github/stars/Open-Source-O1/Open-O1.svg?style=social&label=Star)
+- [**Open-O1**](https://github.com/Open-Source-O1/Open-O1) - Open-Source-O1 ![Star](https://img.shields.io/github/stars/Open-Source-O1/Open-O1.svg?style=social&label=Star) 
 
 	 *A Model Matching Proprietary Power with Open-Source Innovation*
 - **Patience Is The Key to Large Language Model Reasoning**, `arXiv, 2411.13082`, [arxiv](http://arxiv.org/abs/2411.13082v2), [pdf](http://arxiv.org/pdf/2411.13082v2.pdf), cication: [**-1**](None) 
@@ -151,6 +165,11 @@
 
 ## Chain Of Thought
 
+- **LLMs Do Not Think Step-by-step In Implicit Reasoning**, `arXiv, 2411.15862`, [arxiv](http://arxiv.org/abs/2411.15862v1), [pdf](http://arxiv.org/pdf/2411.15862v1.pdf), cication: [**-1**](None) 
+
+	 *Yijiong Yu*
+
+	 · ([𝕏](https://x.com/TheAITimeline/status/1863350188019949808))
 - **A Theoretical Understanding of Chain-of-Thought: Coherent Reasoning and 
   Error-Aware Demonstration**, `arXiv, 2410.16540`, [arxiv](http://arxiv.org/abs/2410.16540v1), [pdf](http://arxiv.org/pdf/2410.16540v1.pdf), cication: [**-1**](None) 
 
@@ -184,7 +203,7 @@
 
 ## Misc
 
-- [【北大对齐团队独家解读：OpenAI o1开启「后训练」时代强化学习新范式】](https://www.bilibili.com/list/watchlater?oid=113201647719044&bvid=BV15Rx5eXEnW)  :clapper:
+- [【北大对齐团队独家解读：OpenAI o1开启「后训练」时代强化学习新范式】](https://www.bilibili.com/list/watchlater?oid=113201647719044&bvid=BV15Rx5eXEnW)  :clapper: 
 - [The Problem with Reasoners](https://aidanmclaughlin.notion.site/reasoners-problem) 
 
 

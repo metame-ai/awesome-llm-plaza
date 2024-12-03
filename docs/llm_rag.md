@@ -18,6 +18,10 @@
 
 ## RAG
 
+- **Auto-RAG: Autonomous Retrieval-Augmented Generation for Large Language
+  Models**, `arXiv, 2411.19443`, [arxiv](http://arxiv.org/abs/2411.19443v1), [pdf](http://arxiv.org/pdf/2411.19443v1.pdf), cication: [**-1**](None) 
+
+	 *Tian Yu, Shaolei Zhang, Yang Feng* · ([Auto-RAG](https://github.com/ictnlp/Auto-RAG) - ictnlp) ![Star](https://img.shields.io/github/stars/ictnlp/Auto-RAG.svg?style=social&label=Star)
 - [NV-Embed-v2, a generalist embedding model that ranks No. 1 on the Massive Text Embedding Benchmark (MTEB benchmark)](https://huggingface.co/nvidia/NV-Embed-v2)  🤗 
 
 	 · ([arxiv](https://arxiv.org/pdf/2405.17428))

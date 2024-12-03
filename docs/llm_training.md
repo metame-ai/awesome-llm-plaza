@@ -20,6 +20,9 @@
 
 ## LLM Training
 
+- **Q-SFT: Q-Learning for Language Models via Supervised Fine-Tuning**, `arXiv, 2411.05193`, [arxiv](http://arxiv.org/abs/2411.05193v2), [pdf](http://arxiv.org/pdf/2411.05193v2.pdf), cication: [**-1**](None) 
+
+	 *Joey Hong, Anca Dragan, Sergey Levine* · ([𝕏](https://x.com/svlevine/status/1860874248166027683))
 - 🌟 **Predicting Emergent Capabilities by Finetuning**, `arXiv, 2411.16035`, [arxiv](http://arxiv.org/abs/2411.16035v1), [pdf](http://arxiv.org/pdf/2411.16035v1.pdf), cication: [**-1**](None) 
 
 	 *Charlie Snell, Eric Wallace, Dan Klein, ..., Sergey Levine* · ([𝕏](https://x.com/sea_snell/status/1861538504024416365))
@@ -62,6 +65,7 @@
 
 ## Optimization
 
+- [**unit-scaling**](https://github.com/graphcore-research/unit-scaling) - graphcore-research ![Star](https://img.shields.io/github/stars/graphcore-research/unit-scaling.svg?style=social&label=Star)
 - **Natural Language Reinforcement Learning**, `arXiv, 2411.14251`, [arxiv](http://arxiv.org/abs/2411.14251v1), [pdf](http://arxiv.org/pdf/2411.14251v1.pdf), cication: [**-1**](None) 
 
 	 *Xidong Feng, Ziyu Wan, Haotian Fu, ..., Ying Wen, Jun Wang* · ([Natural-language-RL](https://github.com/waterhorse1/Natural-language-RL) - waterhorse1) ![Star](https://img.shields.io/github/stars/waterhorse1/Natural-language-RL.svg?style=social&label=Star)

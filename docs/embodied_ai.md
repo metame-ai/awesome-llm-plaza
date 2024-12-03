@@ -44,6 +44,9 @@
 
 ## Robotics
 
+- **GRAPE: Generalizing Robot Policy via Preference Alignment**, `arXiv, 2411.19309`, [arxiv](http://arxiv.org/abs/2411.19309v1), [pdf](http://arxiv.org/pdf/2411.19309v1.pdf), cication: [**-1**](None) 
+
+	 *Zijian Zhang, Kaiyuan Zheng, Zhaorun Chen, ..., Dieter Fox, Huaxiu Yao* · ([grape-vla.github](https://grape-vla.github.io/))
 - **Soft Robotic Dynamic In-Hand Pen Spinning**, `arXiv, 2411.12734`, [arxiv](http://arxiv.org/abs/2411.12734v1), [pdf](http://arxiv.org/pdf/2411.12734v1.pdf), cication: [**-1**](None) 
 
 	 *Yunchao Yao, Uksang Yoo, Jean Oh, ..., Christopher G. Atkeson, Jeffrey Ichnowski* · ([soft-spin.github](https://soft-spin.github.io/))

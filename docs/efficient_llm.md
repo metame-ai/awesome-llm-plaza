@@ -35,6 +35,7 @@
 
 ## Efficient LLM
 
+- [Paper page - Yi-Lightning Technical Report](https://huggingface.co/papers/2412.01253)
 
 ## Finetune
 
@@ -79,6 +80,9 @@
 
 ## Distillation
 
+- **Active Data Curation Effectively Distills Large-Scale Multimodal Models**, `arXiv, 2411.18674`, [arxiv](http://arxiv.org/abs/2411.18674v1), [pdf](http://arxiv.org/pdf/2411.18674v1.pdf), cication: [**-1**](None) 
+
+	 *Vishaal Udandarao, Nikhil Parthasarathy, Muhammad Ferjad Naeem, ..., Alessio Tonioni, Olivier J. Hénaff* · ([𝕏](https://x.com/nikparth1/status/1863633339950813691))
 - **Stronger Models are NOT Stronger Teachers for Instruction Tuning**, `arXiv, 2411.07133`, [arxiv](http://arxiv.org/abs/2411.07133v2), [pdf](http://arxiv.org/pdf/2411.07133v2.pdf), cication: [**-1**](None) 
 
 	 *Zhangchen Xu, Fengqing Jiang, Luyao Niu, ..., Bill Yuchen Lin, Radha Poovendran*
@@ -102,6 +106,9 @@
 
 ## Inference
 
+- **Puzzle: Distillation-Based NAS for Inference-Optimized LLMs**, `arXiv, 2411.19146`, [arxiv](http://arxiv.org/abs/2411.19146v1), [pdf](http://arxiv.org/pdf/2411.19146v1.pdf), cication: [**-1**](None) 
+
+	 *Akhiad Bercovich, Tomer Ronen, Talor Abramovich, ..., Ran Zilberstein, Ran El-Yaniv*
 - **Star Attention: Efficient LLM Inference over Long Sequences**, `arXiv, 2411.17116`, [arxiv](http://arxiv.org/abs/2411.17116v1), [pdf](http://arxiv.org/pdf/2411.17116v1.pdf), cication: [**-1**](None) 
 
 	 *Shantanu Acharya, Fei Jia, Boris Ginsburg* · ([Star-Attention](https://github.com/NVIDIA/Star-Attention?tab=readme-ov-file) - NVIDIA) ![Star](https://img.shields.io/github/stars/NVIDIA/Star-Attention.svg?style=social&label=Star)
@@ -203,5 +210,6 @@
 
 ## Misc
 
+- [JPEG compress your LLM weights](http://pepijndevos.nl/2024/12/01/jpeg-compress-your-llm-weights.html) 
 - :clapper: [How FlashAttention Accelerates the Generative AI Revolution](https://www.youtube.com/watch?v=gBMO1JZav44) 
 - [k-mktr / gpu-poor-llm-arena](https://huggingface.co/spaces/k-mktr/gpu-poor-llm-arena/tree/main)  🤗 

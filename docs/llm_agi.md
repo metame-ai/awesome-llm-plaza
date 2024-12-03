@@ -13,6 +13,9 @@
 
 ## World Model
 
+- [AI system to generate 3D worlds from a single image](https://x.com/theworldlabs/status/1863617989549109328)  𝕏
+
+	 · ([t](https://t.co/ASD6ZHMwxI))
 - 🌟 **Generative World Explorer**, `arXiv, 2411.11844`, [arxiv](http://arxiv.org/abs/2411.11844v2), [pdf](http://arxiv.org/pdf/2411.11844v2.pdf), cication: [**-1**](None) 
 
 	 *Taiming Lu, Tianmin Shu, Alan Yuille, ..., Daniel Khashabi, Jieneng Chen* · ([generative-world-explorer.github](https://generative-world-explorer.github.io/)) · ([𝕏](https://x.com/jieneng_chen/status/1858754157697790210)) · ([youtube](https://www.youtube.com/watch?v=_1YMpI-oHWU&ab_channel=JienengChen))

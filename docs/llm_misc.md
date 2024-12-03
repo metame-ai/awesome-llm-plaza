@@ -43,6 +43,11 @@
 
 ## Interpretability
 
+- **LLMs Do Not Think Step-by-step In Implicit Reasoning**, `arXiv, 2411.15862`, [arxiv](http://arxiv.org/abs/2411.15862v1), [pdf](http://arxiv.org/pdf/2411.15862v1.pdf), cication: [**-1**](None) 
+
+	 *Yijiong Yu*
+
+	 · ([𝕏](https://x.com/TheAITimeline/status/1863350188019949808))
 - **Large Multi-modal Models Can Interpret Features in Large Multi-modal 
   Models**, `arXiv, 2411.14982`, [arxiv](http://arxiv.org/abs/2411.14982v1), [pdf](http://arxiv.org/pdf/2411.14982v1.pdf), cication: [**-1**](None) 
 

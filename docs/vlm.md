@@ -63,6 +63,9 @@
 
 ## Image
 
+- **ChatRex: Taming Multimodal LLM for Joint Perception and Understanding**, `arXiv, 2411.18363`, [arxiv](http://arxiv.org/abs/2411.18363v2), [pdf](http://arxiv.org/pdf/2411.18363v2.pdf), cication: [**-1**](None) 
+
+	 *Qing Jiang, Gen Luo, Yuqin Yang, ..., Tianhe Ren, Lei Zhang* · ([chatrex](https://github.com/idea-research/chatrex?tab=readme-ov-file) - idea-research) ![Star](https://img.shields.io/github/stars/idea-research/chatrex.svg?style=social&label=Star)
 - **DINO-X: A Unified Vision Model for Open-World Object Detection and 
   Understanding**, `arXiv, 2411.14347`, [arxiv](http://arxiv.org/abs/2411.14347v1), [pdf](http://arxiv.org/pdf/2411.14347v1.pdf), cication: [**-1**](None) 
 
@@ -159,6 +162,9 @@
 
 ## Alignment
 
+- **On Domain-Specific Post-Training for Multimodal Large Language Models**, `arXiv, 2411.19930`, [arxiv](http://arxiv.org/abs/2411.19930v1), [pdf](http://arxiv.org/pdf/2411.19930v1.pdf), cication: [**-1**](None) 
+
+	 *Daixuan Cheng, Shaohan Huang, Ziyu Zhu, ..., Bo Dai, Zhenliang Zhang* · ([huggingface](https://huggingface.co/AdaptLLM/Adapt-MLLM-to-Domains))
 - 🌟 **Enhancing the Reasoning Ability of Multimodal Large Language Models via 
   Mixed Preference Optimization**, `arXiv, 2411.10442`, [arxiv](http://arxiv.org/abs/2411.10442v1), [pdf](http://arxiv.org/pdf/2411.10442v1.pdf), cication: [**-1**](None) 
 
@@ -347,7 +353,7 @@
 
 ## Misc
 
-- [SigLIP from timm are interpretable right out-of-the-box](https://x.com/rgilman33/status/1862523581948629413)  𝕏
+- [SigLIP from timm are interpretable right out-of-the-box](https://x.com/rgilman33/status/1862523581948629413)  𝕏 
 
 	 · ([darkspark](https://darkspark.dev/models/?model=vit_base_patch16_siglip_224-microscope))
 - [Understanding Multimodal LLMs](https://magazine.sebastianraschka.com/p/understanding-multimodal-llms) 

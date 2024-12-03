@@ -20,6 +20,7 @@
 
 ## LLM Evaluation
 
+- [Finetuning LLM Judges for Evaluation](https://substack.com/home/post/p-151216391) 
 - **Multi-IF: Benchmarking LLMs on Multi-Turn and Multilingual Instructions 
   Following**, `arXiv, 2410.15553`, [arxiv](http://arxiv.org/abs/2410.15553v2), [pdf](http://arxiv.org/pdf/2410.15553v2.pdf), cication: [**-1**](None) 
 
