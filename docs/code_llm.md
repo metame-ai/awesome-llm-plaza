@@ -15,6 +15,9 @@
 
 ## Code LLM
 
+- 🌟 **o1-Coder: an o1 Replication for Coding**, `arXiv, 2412.00154`, [arxiv](http://arxiv.org/abs/2412.00154v1), [pdf](http://arxiv.org/pdf/2412.00154v1.pdf), cication: [**-1**](None) 
+
+	 *Yuxiang Zhang, Shangxi Wu, Yuqi Yang, ..., Chao Kong, Jitao Sang* · ([O1-CODER](https://github.com/ADaM-BJTU/O1-CODER) - ADaM-BJTU) ![Star](https://img.shields.io/github/stars/ADaM-BJTU/O1-CODER.svg?style=social&label=Star)
 - [Leveraging training and search for better software engineering agents](https://nebius.com/blog/posts/training-and-search-for-software-engineering-agents) 
 
 	 · ([𝕏](https://x.com/hr0nix/status/1857416444830425515))
@@ -48,6 +51,7 @@
 
 ## Evaluation
 
+- [KernelBench, a new code generation benchmark for evaluating models' ability to generate correct and efficient CUDA kernels.](https://x.com/Azaliamirh/status/1864026403597103495)  𝕏
 - [Copilot Arena](https://lmarena.github.io/blog/2024/copilot-arena/) 
 - **Can Language Models Replace Programmers? REPOCOD Says 'Not Yet'**, `arXiv, 2410.21647`, [arxiv](http://arxiv.org/abs/2410.21647v2), [pdf](http://arxiv.org/pdf/2410.21647v2.pdf), cication: [**-1**](None) 
 
@@ -87,7 +91,10 @@
 
 ## Misc
 
-- [**repomix**](https://github.com/yamadashy/repomix) - yamadashy ![Star](https://img.shields.io/github/stars/yamadashy/repomix.svg?style=social&label=Star)
+- [Windsurf Cascade Leaked System prompt](https://buttondown.com/ainews/archive/ainews-meta-llama-33-405bnova-pro-performance-at/) 
+
+	 · ([reddit](https://www.reddit.com/r/LocalLLaMA/comments/1h7sjyt/windsurf_cascade_leaked_system_prompt/))
+- [**repomix**](https://github.com/yamadashy/repomix) - yamadashy ![Star](https://img.shields.io/github/stars/yamadashy/repomix.svg?style=social&label=Star) 
 - [Qwen / Qwen2.5-Coder-Artifacts](https://huggingface.co/spaces/Qwen/Qwen2.5-Coder-Artifacts/tree/main)  🤗 
 - [Using Large Language Models To Catch Vulnerabilities In Real-World Code](https://googleprojectzero.blogspot.com/2024/10/from-naptime-to-big-sleep.html) 
 

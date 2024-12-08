@@ -13,7 +13,10 @@
 
 ## World Model
 
-- [AI system to generate 3D worlds from a single image](https://x.com/theworldlabs/status/1863617989549109328)  𝕏
+- [Genie 2: A large-scale foundation world model](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/) 
+
+	 · ([𝕏](https://x.com/GoogleDeepMind/status/1864367798132039836))
+- [AI system to generate 3D worlds from a single image](https://x.com/theworldlabs/status/1863617989549109328)  𝕏 
 
 	 · ([t](https://t.co/ASD6ZHMwxI))
 - 🌟 **Generative World Explorer**, `arXiv, 2411.11844`, [arxiv](http://arxiv.org/abs/2411.11844v2), [pdf](http://arxiv.org/pdf/2411.11844v2.pdf), cication: [**-1**](None) 

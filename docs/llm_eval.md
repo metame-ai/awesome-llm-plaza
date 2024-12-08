@@ -20,6 +20,10 @@
 
 ## LLM Evaluation
 
+- **INCLUDE: Evaluating Multilingual Language Understanding with Regional
+  Knowledge**, `arXiv, 2411.19799`, [arxiv](http://arxiv.org/abs/2411.19799v1), [pdf](http://arxiv.org/pdf/2411.19799v1.pdf), cication: [**-1**](None) 
+
+	 *Angelika Romanou, Negar Foroutan, Anna Sotnikova, ..., Sara Hooker, Antoine Bosselut* · ([𝕏](https://x.com/agromanou/status/1863604966180479187))
 - [Finetuning LLM Judges for Evaluation](https://substack.com/home/post/p-151216391) 
 - **Multi-IF: Benchmarking LLMs on Multi-Turn and Multilingual Instructions 
   Following**, `arXiv, 2410.15553`, [arxiv](http://arxiv.org/abs/2410.15553v2), [pdf](http://arxiv.org/pdf/2410.15553v2.pdf), cication: [**-1**](None) 
@@ -107,6 +111,7 @@
 
 ## Misc
 
+- [LLM LeaderboardsA trusted source for real-world AI model performance and insights](https://llm-stats.com/) 
 - [Crisp and fuzzy tasks](https://aligned.substack.com/p/crisp-and-fuzzy-tasks) 
 - [Letting Large Models Debate: The First Multilingual LLM Debate Competition](https://huggingface.co/blog/debate)  🤗 
 - [Say What You Mean: A Response to 'Let Me Speak Freely'](https://blog.dottxt.co/say-what-you-mean.html) 

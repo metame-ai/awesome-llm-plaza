@@ -50,7 +50,7 @@
 
 ## LLM OS
 
-- [/dev/agents came out of stealth with $56M to build an OS for AI agents](https://x.com/adcock_brett/status/1863267756243652972)  𝕏
+- [/dev/agents came out of stealth with $56M to build an OS for AI agents](https://x.com/adcock_brett/status/1863267756243652972)  𝕏 
 
 ## Auto GPT
 
@@ -154,7 +154,8 @@
 
 ## Projects
 
-- [**steel-browser**](https://github.com/steel-dev/steel-browser) - steel-dev ![Star](https://img.shields.io/github/stars/steel-dev/steel-browser.svg?style=social&label=Star)
+- [**dynasaur**](https://github.com/adobe-research/dynasaur) - adobe-research ![Star](https://img.shields.io/github/stars/adobe-research/dynasaur.svg?style=social&label=Star)
+- [**steel-browser**](https://github.com/steel-dev/steel-browser) - steel-dev ![Star](https://img.shields.io/github/stars/steel-dev/steel-browser.svg?style=social&label=Star) 
 - [**Qwen-Agent**](https://github.com/QwenLM/Qwen-Agent) - QwenLM ![Star](https://img.shields.io/github/stars/QwenLM/Qwen-Agent.svg?style=social&label=Star) 
 - [**postbot3000**](https://github.com/ahmad2b/postbot3000) - ahmad2b ![Star](https://img.shields.io/github/stars/ahmad2b/postbot3000.svg?style=social&label=Star) 
 - 🌟 [LLM agent memory frameworks are compared across multiple GitHub projects](https://buttondown.com/ainews/archive/ainews-deepseek-r1-claims-to-beat-o1-preview-and/) 
@@ -179,6 +180,9 @@
 
 ## Multi Agent
 
+- **MALT: Improving Reasoning with Multi-Agent LLM Training**, `arXiv, 2412.01928`, [arxiv](http://arxiv.org/abs/2412.01928v1), [pdf](http://arxiv.org/pdf/2412.01928v1.pdf), cication: [**-1**](None) 
+
+	 *Sumeet Ramesh Motwani, Chandler Smith, Rocktim Jyoti Das, ..., Ronald Clark, Christian Schroeder de Witt*
 - **Generative Agent Simulations of 1,000 People**, `arXiv, 2411.10109`, [arxiv](http://arxiv.org/abs/2411.10109v1), [pdf](http://arxiv.org/pdf/2411.10109v1.pdf), cication: [**-1**](None) 
 
 	 *Joon Sung Park, Carolyn Q. Zou, Aaron Shaw, ..., Percy Liang, Michael S. Bernstein* · ([𝕏](https://x.com/joon_s_pk/status/1858546483785760869)) · ([genagents](https://github.com/joonspk-research/genagents) - joonspk-research) ![Star](https://img.shields.io/github/stars/joonspk-research/genagents.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652541727&idx=1&sn=85153d3f653b0957701ec0b1b199d930&chksm=f0a23e9c4f40f27122d276378a4d34b18478d8ca4472062ca5876d6287b987e60a14f125f0d9&scene=0&xtrack=1))

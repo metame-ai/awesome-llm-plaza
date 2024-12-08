@@ -35,7 +35,9 @@
 
 ## Efficient LLM
 
-- [Paper page - Yi-Lightning Technical Report](https://huggingface.co/papers/2412.01253)
+- **Yi-Lightning Technical Report**, `arXiv, 2412.01253`, [arxiv](http://arxiv.org/abs/2412.01253v3), [pdf](http://arxiv.org/pdf/2412.01253v3.pdf), cication: [**-1**](None) 
+
+	 *01. AI, :, Alan Wake, ..., Zhiyuan Liu, Zirui Zhang*
 
 ## Finetune
 
@@ -53,6 +55,9 @@
 
 ## Quantization
 
+- [Unsloth - Dynamic 4-bit Quantization](https://unsloth.ai/blog/dynamic-4bit) 
+
+	 · ([𝕏](https://x.com/UnslothAI/status/1864384960666456535))
 - [**auto-round**](https://github.com/intel/auto-round) - intel ![Star](https://img.shields.io/github/stars/intel/auto-round.svg?style=social&label=Star) 
 
 	 · ([reddit](https://www.reddit.com/r/LocalLLaMA/comments/1h0aev6/lossless_4bit_quantization_for_large_models_are/))
@@ -106,6 +111,7 @@
 
 ## Inference
 
+- [Introducing SGLang Router: a cache-aware router for LLM Inference in SGLang v0.4](https://x.com/hsu_byron/status/1864449841239347341)  𝕏
 - **Puzzle: Distillation-Based NAS for Inference-Optimized LLMs**, `arXiv, 2411.19146`, [arxiv](http://arxiv.org/abs/2411.19146v1), [pdf](http://arxiv.org/pdf/2411.19146v1.pdf), cication: [**-1**](None) 
 
 	 *Akhiad Bercovich, Tomer Ronen, Talor Abramovich, ..., Ran Zilberstein, Ran El-Yaniv*

@@ -65,7 +65,14 @@
 
 ## Optimization
 
-- [**unit-scaling**](https://github.com/graphcore-research/unit-scaling) - graphcore-research ![Star](https://img.shields.io/github/stars/graphcore-research/unit-scaling.svg?style=social&label=Star)
+- **DeMo: Decoupled Momentum Optimization**, `arXiv, 2411.19870`, [arxiv](http://arxiv.org/abs/2411.19870v1), [pdf](http://arxiv.org/pdf/2411.19870v1.pdf), cication: [**-1**](None) 
+
+	 *Bowen Peng, Jeffrey Quesnelle, Diederik P. Kingma* · ([DeMo](https://github.com/bloc97/DeMo) - bloc97) ![Star](https://img.shields.io/github/stars/bloc97/DeMo.svg?style=social&label=Star)
+- **ADOPT: Modified Adam Can Converge with Any $β_2$ with the Optimal
+  Rate**, `arXiv, 2411.02853`, [arxiv](http://arxiv.org/abs/2411.02853v3), [pdf](http://arxiv.org/pdf/2411.02853v3.pdf), cication: [**-1**](None) 
+
+	 *Shohei Taniguchi, Keno Harada, Gouki Minegishi, ..., Yusuke Iwasawa, Yutaka Matsuo* · ([adopt](https://github.com/iShohei220/adopt) - iShohei220) ![Star](https://img.shields.io/github/stars/iShohei220/adopt.svg?style=social&label=Star)
+- [**unit-scaling**](https://github.com/graphcore-research/unit-scaling) - graphcore-research ![Star](https://img.shields.io/github/stars/graphcore-research/unit-scaling.svg?style=social&label=Star) 
 - **Natural Language Reinforcement Learning**, `arXiv, 2411.14251`, [arxiv](http://arxiv.org/abs/2411.14251v1), [pdf](http://arxiv.org/pdf/2411.14251v1.pdf), cication: [**-1**](None) 
 
 	 *Xidong Feng, Ziyu Wan, Haotian Fu, ..., Ying Wen, Jun Wang* · ([Natural-language-RL](https://github.com/waterhorse1/Natural-language-RL) - waterhorse1) ![Star](https://img.shields.io/github/stars/waterhorse1/Natural-language-RL.svg?style=social&label=Star)

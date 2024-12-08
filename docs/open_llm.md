@@ -65,6 +65,9 @@
 
 ## Multilingual Models
 
+- [Sailor2: Sailing in South-East Asia with Inclusive Multilingual LLMs](http://sea-sailor.github.io/blog/sailor2/) 
+
+	 · ([𝕏](https://x.com/sivil_taram/status/1863989432170484008)) · ([sailor2](https://github.com/sail-sg/sailor2) - sail-sg) ![Star](https://img.shields.io/github/stars/sail-sg/sailor2.svg?style=social&label=Star)
 - **Xmodel-1.5: An 1B-scale Multilingual LLM**, `arXiv, 2411.10083`, [arxiv](http://arxiv.org/abs/2411.10083v1), [pdf](http://arxiv.org/pdf/2411.10083v1.pdf), cication: [**-1**](None) 
 
 	 *Wang Qun, Liu Yang, Lin Qingquan, ..., Jiang Ling* · ([XmodelLM](https://github.com/XiaoduoAILab/XmodelLM) - XiaoduoAILab) ![Star](https://img.shields.io/github/stars/XiaoduoAILab/XmodelLM.svg?style=social&label=Star)

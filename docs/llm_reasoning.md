@@ -21,10 +21,14 @@
 
 ## Reasoning
 
+- 🌟 [Paper page - Critical Tokens Matter: Token-Level Contrastive Estimation Enhence LLM's  Reasoning Capability](https://huggingface.co/papers/2411.19943)
+- **MALT: Improving Reasoning with Multi-Agent LLM Training**, `arXiv, 2412.01928`, [arxiv](http://arxiv.org/abs/2412.01928v1), [pdf](http://arxiv.org/pdf/2412.01928v1.pdf), cication: [**-1**](None) 
+
+	 *Sumeet Ramesh Motwani, Chandler Smith, Rocktim Jyoti Das, ..., Ronald Clark, Christian Schroeder de Witt*
 - **Reverse Thinking Makes LLMs Stronger Reasoners**, `arXiv, 2411.19865`, [arxiv](http://arxiv.org/abs/2411.19865v1), [pdf](http://arxiv.org/pdf/2411.19865v1.pdf), cication: [**-1**](None) 
 
 	 *Justin Chih-Yao Chen, Zifeng Wang, Hamid Palangi, ..., Chen-Yu Lee, Tomas Pfister*
-- 🌟 **Beyond Examples: High-level Automated Reasoning Paradigm in In-Context
+- 🌟 **Beyond Examples: High-level Automated Reasoning Paradigm in In-Context 
   Learning via MCTS**, `arXiv, 2411.18478`, [arxiv](http://arxiv.org/abs/2411.18478v1), [pdf](http://arxiv.org/pdf/2411.18478v1.pdf), cication: [**-1**](None) 
 
 	 *Jinyang Wu, Mingkuan Feng, Shuai Zhang, ..., Zengqi Wen, Jianhua Tao* · ([arxiv](https://arxiv.org/pdf/2411.18478)) · ([jinyangwu.github](https://jinyangwu.github.io/hiar-icl/))
@@ -84,10 +88,22 @@
 
 ## O1 Reasoning
 
+- [uncensored version of Qwen/QwQ-32B-Preview created with abliteration](https://huggingface.co/huihui-ai/QwQ-32B-Preview-abliterated)  🤗
+
+	 · ([remove-refusals-with-transformers](https://github.com/Sumandora/remove-refusals-with-transformers) - Sumandora) ![Star](https://img.shields.io/github/stars/Sumandora/remove-refusals-with-transformers.svg?style=social&label=Star)
+- [OpenAI's o1 using "search" was a PSYOP](https://www.interconnects.ai/p/openais-o1-using-search-was-a-psyop) 
+- [Inference Time Compute](https://www.youtube.com/watch?v=_Bw5o55SRL8)  :clapper:
+- **Free Process Rewards without Process Labels**, `arXiv, 2412.01981`, [arxiv](http://arxiv.org/abs/2412.01981v1), [pdf](http://arxiv.org/pdf/2412.01981v1.pdf), cication: [**-1**](None) 
+
+	 *Lifan Yuan, Wendi Li, Huayu Chen, ..., Zhiyuan Liu, Hao Peng*
+- **Natural Language Reinforcement Learning**, `arXiv, 2411.14251`, [arxiv](http://arxiv.org/abs/2411.14251v1), [pdf](http://arxiv.org/pdf/2411.14251v1.pdf), cication: [**-1**](None) 
+
+	 *Xidong Feng, Ziyu Wan, Haotian Fu, ..., Ying Wen, Jun Wang* · ([arxiv](https://arxiv.org/abs/2411.14251)) · ([Natural-language-RL](https://github.com/waterhorse1/Natural-language-RL) - waterhorse1) ![Star](https://img.shields.io/github/stars/waterhorse1/Natural-language-RL.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650946144&idx=4&sn=4460db77bcb06cfbd62b2cd023211654&chksm=858b9489f4ce7b11539b33373d489ca004cbcddbe6fa787ba11461b6adf907c132336878169e&scene=0&xtrack=1))
+- [Can we make any smaller opensource LLM models smarter than human?](https://medium.com/@harishhacker3010/can-we-make-any-smaller-opensource-ai-models-smarter-than-human-1ea507e644a0) 
 - [OpenAI o1开启「后训练」时代强化学习新范式](https://mp.weixin.qq.com/s/FXGdJA8OyZvLl89rXJiyAQ) 
 
 	 · ([bilibili](https://www.bilibili.com/video/BV15Rx5eXEnW/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=63e5fa02f07bfd58e74de3c6d149e31f))
-- **Inference Scaling fLaws: The Limits of LLM Resampling with Imperfect
+- **Inference Scaling fLaws: The Limits of LLM Resampling with Imperfect 
   Verifiers**, `arXiv, 2411.17501`, [arxiv](http://arxiv.org/abs/2411.17501v2), [pdf](http://arxiv.org/pdf/2411.17501v2.pdf), cication: [**-1**](None) 
 
 	 *Benedikt Stroebl, Sayash Kapoor, Arvind Narayanan* · ([𝕏](https://x.com/benediktstroebl/status/1861764215947903208)) · ([𝕏](https://x.com/TheAITimeline/status/1863350162849997113))
@@ -165,6 +181,9 @@
 
 ## Chain Of Thought
 
+- [**Internalize_CoT_Step_by_Step**](https://github.com/da03/Internalize_CoT_Step_by_Step) - da03 ![Star](https://img.shields.io/github/stars/da03/Internalize_CoT_Step_by_Step.svg?style=social&label=Star)
+
+	 · ([huggingface](https://huggingface.co/spaces/yuntian-deng/gpt2-multiplication))
 - **LLMs Do Not Think Step-by-step In Implicit Reasoning**, `arXiv, 2411.15862`, [arxiv](http://arxiv.org/abs/2411.15862v1), [pdf](http://arxiv.org/pdf/2411.15862v1.pdf), cication: [**-1**](None) 
 
 	 *Yijiong Yu*

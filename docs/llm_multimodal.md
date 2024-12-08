@@ -12,6 +12,9 @@
 
 ## Omni
 
+- **OmniFlow: Any-to-Any Generation with Multi-Modal Rectified Flows**, `arXiv, 2412.01169`, [arxiv](http://arxiv.org/abs/2412.01169v1), [pdf](http://arxiv.org/pdf/2412.01169v1.pdf), cication: [**-1**](None) 
+
+	 *Shufan Li, Konstantinos Kallidromitis, Akash Gokul, ..., Kazuki Kozuka, Aditya Grover* · ([OmniFlows](https://github.com/jacklishufan/OmniFlows) - jacklishufan) ![Star](https://img.shields.io/github/stars/jacklishufan/OmniFlows.svg?style=social&label=Star)
 - [**AnyModal**](https://github.com/ritabratamaiti/AnyModal) - ritabratamaiti ![Star](https://img.shields.io/github/stars/ritabratamaiti/AnyModal.svg?style=social&label=Star) 
 
 	 *A Flexible Multimodal Language Model Framework*

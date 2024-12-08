@@ -19,6 +19,13 @@
 
 ## Survey
 
+- **Explainable and Interpretable Multimodal Large Language Models: A
+  Comprehensive Survey**, `arXiv, 2412.02104`, [arxiv](http://arxiv.org/abs/2412.02104v1), [pdf](http://arxiv.org/pdf/2412.02104v1.pdf), cication: [**-1**](None) 
+
+	 *Yunkai Dang, Kaichen Huang, Jiahao Huo, ..., Hui Xiong, Xuming Hu*
+- **Personalized Multimodal Large Language Models: A Survey**, `arXiv, 2412.02142`, [arxiv](http://arxiv.org/abs/2412.02142v1), [pdf](http://arxiv.org/pdf/2412.02142v1.pdf), cication: [**-1**](None) 
+
+	 *Junda Wu, Hanjia Lyu, Yu Xia, ..., Jiebo Luo, Julian McAuley*
 - [Papers I've read this week: vision language models](https://www.artfintel.com/p/papers-ive-read-this-week-vision) 
 
 	 · ([𝕏](https://x.com/finbarrtimbers/status/1861443335841575282))
@@ -35,6 +42,9 @@
 
 ## Vision-Language Models
 
+- [Welcome PaliGemma 2 – New vision language models by Google](https://huggingface.co/blog/paligemma2)  🤗
+
+	 · ([𝕏](https://x.com/mervenoyann/status/1864724906409177365))
 - **FINECAPTION: Compositional Image Captioning Focusing on Wherever You 
   Want at Any Granularity**, `arXiv, 2411.15411`, [arxiv](http://arxiv.org/abs/2411.15411v1), [pdf](http://arxiv.org/pdf/2411.15411v1.pdf), cication: [**-1**](None) 
 

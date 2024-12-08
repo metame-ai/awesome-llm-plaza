@@ -27,7 +27,7 @@
 
 ## Survey
 
-- **LLMs as Research Tools: A Large Scale Survey of Researchers' Usage and
+- **LLMs as Research Tools: A Large Scale Survey of Researchers' Usage and 
   Perceptions**, `arXiv, 2411.05025`, [arxiv](http://arxiv.org/abs/2411.05025v1), [pdf](http://arxiv.org/pdf/2411.05025v1.pdf), cication: [**-1**](None) 
 
 	 *Zhehui Liao, Maria Antoniak, Inyoung Cheong, ..., Joseph Chee Chang, Amy X. Zhang* · ([𝕏](https://x.com/SimonaLiao/status/1863673761377161300))
@@ -88,6 +88,11 @@
 
 ## Role Play
 
+- [Oxy 1 Small is a fine-tuned version of the Qwen/Qwen2.5-14B-Instruct language model, specialized for role-play scenarios.](https://huggingface.co/oxyapi/oxy-1-small)  🤗
+- **From Individual to Society: A Survey on Social Simulation Driven by
+  Large Language Model-based Agents**, `arXiv, 2412.03563`, [arxiv](http://arxiv.org/abs/2412.03563v1), [pdf](http://arxiv.org/pdf/2412.03563v1.pdf), cication: [**-1**](None) 
+
+	 *Xinyi Mou, Xuanwen Ding, Qi He, ..., Xuanjing Huang, Zhongyu Wei* · ([SocialAgent](https://github.com/FudanDISC/SocialAgent) - FudanDISC) ![Star](https://img.shields.io/github/stars/FudanDISC/SocialAgent.svg?style=social&label=Star)
 - **Generative Agent Simulations of 1,000 People**, `arXiv, 2411.10109`, [arxiv](http://arxiv.org/abs/2411.10109v1), [pdf](http://arxiv.org/pdf/2411.10109v1.pdf), cication: [**-1**](None) 
 
 	 *Joon Sung Park, Carolyn Q. Zou, Aaron Shaw, ..., Percy Liang, Michael S. Bernstein* · ([𝕏](https://x.com/joon_s_pk/status/1858546483785760869)) · ([genagents](https://github.com/joonspk-research/genagents) - joonspk-research) ![Star](https://img.shields.io/github/stars/joonspk-research/genagents.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652541727&idx=1&sn=85153d3f653b0957701ec0b1b199d930&chksm=f0a23e9c4f40f27122d276378a4d34b18478d8ca4472062ca5876d6287b987e60a14f125f0d9&scene=0&xtrack=1))

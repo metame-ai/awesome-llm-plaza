@@ -20,7 +20,7 @@
 
 ## LLM Data
 
-- [**MultimodalUniverse**](https://github.com/MultimodalUniverse/MultimodalUniverse) - MultimodalUniverse ![Star](https://img.shields.io/github/stars/MultimodalUniverse/MultimodalUniverse.svg?style=social&label=Star)
+- [**MultimodalUniverse**](https://github.com/MultimodalUniverse/MultimodalUniverse) - MultimodalUniverse ![Star](https://img.shields.io/github/stars/MultimodalUniverse/MultimodalUniverse.svg?style=social&label=Star) 
 
 	 *Enabling Large-Scale Machine Learning with 100TBs of Astronomical Scientific Data* · ([𝕏](https://x.com/MilesCranmer/status/1863668192519839793))
 - **Zyda-2: a 5 Trillion Token High-Quality Dataset**, `arXiv, 2411.06068`, [arxiv](http://arxiv.org/abs/2411.06068v1), [pdf](http://arxiv.org/pdf/2411.06068v1.pdf), cication: [**-1**](None) 
