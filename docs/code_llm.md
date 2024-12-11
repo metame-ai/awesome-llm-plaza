@@ -51,7 +51,7 @@
 
 ## Evaluation
 
-- [KernelBench, a new code generation benchmark for evaluating models' ability to generate correct and efficient CUDA kernels.](https://x.com/Azaliamirh/status/1864026403597103495)  𝕏
+- [KernelBench, a new code generation benchmark for evaluating models' ability to generate correct and efficient CUDA kernels.](https://x.com/Azaliamirh/status/1864026403597103495)  𝕏 
 - [Copilot Arena](https://lmarena.github.io/blog/2024/copilot-arena/) 
 - **Can Language Models Replace Programmers? REPOCOD Says 'Not Yet'**, `arXiv, 2410.21647`, [arxiv](http://arxiv.org/abs/2410.21647v2), [pdf](http://arxiv.org/pdf/2410.21647v2.pdf), cication: [**-1**](None) 
 

@@ -20,6 +20,9 @@
 
 ## LLM Data
 
+- 🌟 [**fineweb-2**](https://github.com/huggingface/fineweb-2) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/fineweb-2.svg?style=social&label=Star)
+
+	 · ([huggingface](https://huggingface.co/datasets/HuggingFaceFW/fineweb-2))
 - [**MultimodalUniverse**](https://github.com/MultimodalUniverse/MultimodalUniverse) - MultimodalUniverse ![Star](https://img.shields.io/github/stars/MultimodalUniverse/MultimodalUniverse.svg?style=social&label=Star) 
 
 	 *Enabling Large-Scale Machine Learning with 100TBs of Astronomical Scientific Data* · ([𝕏](https://x.com/MilesCranmer/status/1863668192519839793))
@@ -80,6 +83,9 @@
 
 ## Synthetic
 
+- **Evaluating Language Models as Synthetic Data Generators**, `arXiv, 2412.03679`, [arxiv](http://arxiv.org/abs/2412.03679v1), [pdf](http://arxiv.org/pdf/2412.03679v1.pdf), cication: [**-1**](None) 
+
+	 *Seungone Kim, Juyoung Suk, Xiang Yue, ..., Sean Welleck, Graham Neubig*
 - [WizardArena: Post-training Large Language Models via Simulated Offline Chatbot Aren](https://openreview.net/forum?id=VHva3d836i) 
 
 	 · ([arxiv](https://arxiv.org/abs/2407.10627v1))
@@ -111,6 +117,7 @@
 
 ## Toolkits
 
+- [**fastText**](https://github.com/facebookresearch/fastText) - facebookresearch ![Star](https://img.shields.io/github/stars/facebookresearch/fastText.svg?style=social&label=Star)
 - [**dolma**](https://github.com/allenai/dolma) - allenai ![Star](https://img.shields.io/github/stars/allenai/dolma.svg?style=social&label=Star) 
 - [**docling**](https://github.com/DS4SD/docling) - DS4SD ![Star](https://img.shields.io/github/stars/DS4SD/docling.svg?style=social&label=Star) 
 - [**maxun**](https://github.com/getmaxun/maxun) - getmaxun ![Star](https://img.shields.io/github/stars/getmaxun/maxun.svg?style=social&label=Star) 

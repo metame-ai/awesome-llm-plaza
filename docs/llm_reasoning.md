@@ -21,7 +21,21 @@
 
 ## Reasoning
 
-- 🌟 [Paper page - Critical Tokens Matter: Token-Level Contrastive Estimation Enhence LLM's  Reasoning Capability](https://huggingface.co/papers/2411.19943)
+- **RARE: Retrieval-Augmented Reasoning Enhancement for Large Language
+  Models**, `arXiv, 2412.02830`, [arxiv](http://arxiv.org/abs/2412.02830v3), [pdf](http://arxiv.org/pdf/2412.02830v3.pdf), cication: [**-1**](None) 
+
+	 *Hieu Tran, Zonghai Yao, Junda Wang, ..., Zhichao Yang, Hong Yu*
+- **Mind the Gap: Examining the Self-Improvement Capabilities of Large
+  Language Models**, `arXiv, 2412.02674`, [arxiv](http://arxiv.org/abs/2412.02674v1), [pdf](http://arxiv.org/pdf/2412.02674v1.pdf), cication: [**-1**](None) 
+
+	 *Yuda Song, Hanlin Zhang, Carson Eisenach, ..., Dean Foster, Udaya Ghai* · ([𝕏](https://x.com/yus167/status/1865091023778779479))
+- **Frontier Models are Capable of In-context Scheming**, `arXiv, 2412.04984`, [arxiv](http://arxiv.org/abs/2412.04984v1), [pdf](http://arxiv.org/pdf/2412.04984v1.pdf), cication: [**-1**](None) 
+
+	 *Alexander Meinke, Bronson Schoen, Jérémy Scheurer, ..., Rusheb Shah, Marius Hobbhahn*
+- 🌟 **Training Large Language Models to Reason in a Continuous Latent Space**, `arXiv, 2412.06769`, [arxiv](http://arxiv.org/abs/2412.06769v1), [pdf](http://arxiv.org/pdf/2412.06769v1.pdf), cication: [**-1**](None) 
+
+	 *Shibo Hao, Sainbayar Sukhbaatar, DiJia Su, ..., Jason Weston, Yuandong Tian* · ([𝕏](https://x.com/Ber18791531/status/1866561188664087017))
+- 🌟 [Paper page - Critical Tokens Matter: Token-Level Contrastive Estimation Enhence LLM's  Reasoning Capability](https://huggingface.co/papers/2411.19943) 
 - **MALT: Improving Reasoning with Multi-Agent LLM Training**, `arXiv, 2412.01928`, [arxiv](http://arxiv.org/abs/2412.01928v1), [pdf](http://arxiv.org/pdf/2412.01928v1.pdf), cication: [**-1**](None) 
 
 	 *Sumeet Ramesh Motwani, Chandler Smith, Rocktim Jyoti Das, ..., Ronald Clark, Christian Schroeder de Witt*
@@ -69,6 +83,13 @@
 
 ## Math Reasoning
 
+- **U-MATH: A University-Level Benchmark for Evaluating Mathematical Skills
+  in LLMs**, `arXiv, 2412.03205`, [arxiv](http://arxiv.org/abs/2412.03205v2), [pdf](http://arxiv.org/pdf/2412.03205v2.pdf), cication: [**-1**](None) 
+
+	 *Konstantin Chernyshev, Vitaliy Polshkov, Ekaterina Artemova, ..., Alexei Miasnikov, Sergei Tilga* · ([u-math](https://github.com/Toloka/u-math/) - Toloka) ![Star](https://img.shields.io/github/stars/Toloka/u-math.svg?style=social&label=Star)
+- **ProcessBench: Identifying Process Errors in Mathematical Reasoning**, `arXiv, 2412.06559`, [arxiv](http://arxiv.org/abs/2412.06559v2), [pdf](http://arxiv.org/pdf/2412.06559v2.pdf), cication: [**-1**](None) 
+
+	 *Chujie Zheng, Zhenru Zhang, Beichen Zhang, ..., Jingren Zhou, Junyang Lin*
 - **FrontierMath: A Benchmark for Evaluating Advanced Mathematical Reasoning 
   in AI**, `arXiv, 2411.04872`, [arxiv](http://arxiv.org/abs/2411.04872v1), [pdf](http://arxiv.org/pdf/2411.04872v1.pdf), cication: [**-1**](None) 
 
@@ -88,11 +109,13 @@
 
 ## O1 Reasoning
 
-- [uncensored version of Qwen/QwQ-32B-Preview created with abliteration](https://huggingface.co/huihui-ai/QwQ-32B-Preview-abliterated)  🤗
+- [Beyond Decoding: Meta-Generation Algorithms for Large Language Models](https://cmu-l3.github.io/neurips2024-inference-tutorial/) 
+- [Beyond Decoding: Meta-Generation Algorithmsfor Large Language Models](https://cmu-l3.github.io/neurips2024-inference-tutorial/static/slides/neurips2024metageneration-tutorial-all.pdf) 
+- [uncensored version of Qwen/QwQ-32B-Preview created with abliteration](https://huggingface.co/huihui-ai/QwQ-32B-Preview-abliterated)  🤗 
 
 	 · ([remove-refusals-with-transformers](https://github.com/Sumandora/remove-refusals-with-transformers) - Sumandora) ![Star](https://img.shields.io/github/stars/Sumandora/remove-refusals-with-transformers.svg?style=social&label=Star)
 - [OpenAI's o1 using "search" was a PSYOP](https://www.interconnects.ai/p/openais-o1-using-search-was-a-psyop) 
-- [Inference Time Compute](https://www.youtube.com/watch?v=_Bw5o55SRL8)  :clapper:
+- [Inference Time Compute](https://www.youtube.com/watch?v=_Bw5o55SRL8)  :clapper: 
 - **Free Process Rewards without Process Labels**, `arXiv, 2412.01981`, [arxiv](http://arxiv.org/abs/2412.01981v1), [pdf](http://arxiv.org/pdf/2412.01981v1.pdf), cication: [**-1**](None) 
 
 	 *Lifan Yuan, Wendi Li, Huayu Chen, ..., Zhiyuan Liu, Hao Peng*
@@ -178,10 +201,13 @@
 
 ## Context Learning
 
+- **The broader spectrum of in-context learning**, `arXiv, 2412.03782`, [arxiv](http://arxiv.org/abs/2412.03782v2), [pdf](http://arxiv.org/pdf/2412.03782v2.pdf), cication: [**-1**](None) 
+
+	 *Andrew Kyle Lampinen, Stephanie C. Y. Chan, Aaditya K. Singh, ..., Murray Shanahan* · ([𝕏](https://x.com/AndrewLampinen/status/1866546723210011077))
 
 ## Chain Of Thought
 
-- [**Internalize_CoT_Step_by_Step**](https://github.com/da03/Internalize_CoT_Step_by_Step) - da03 ![Star](https://img.shields.io/github/stars/da03/Internalize_CoT_Step_by_Step.svg?style=social&label=Star)
+- [**Internalize_CoT_Step_by_Step**](https://github.com/da03/Internalize_CoT_Step_by_Step) - da03 ![Star](https://img.shields.io/github/stars/da03/Internalize_CoT_Step_by_Step.svg?style=social&label=Star) 
 
 	 · ([huggingface](https://huggingface.co/spaces/yuntian-deng/gpt2-multiplication))
 - **LLMs Do Not Think Step-by-step In Implicit Reasoning**, `arXiv, 2411.15862`, [arxiv](http://arxiv.org/abs/2411.15862v1), [pdf](http://arxiv.org/pdf/2411.15862v1.pdf), cication: [**-1**](None) 

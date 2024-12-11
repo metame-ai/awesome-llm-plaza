@@ -88,8 +88,8 @@
 
 ## Role Play
 
-- [Oxy 1 Small is a fine-tuned version of the Qwen/Qwen2.5-14B-Instruct language model, specialized for role-play scenarios.](https://huggingface.co/oxyapi/oxy-1-small)  🤗
-- **From Individual to Society: A Survey on Social Simulation Driven by
+- [Oxy 1 Small is a fine-tuned version of the Qwen/Qwen2.5-14B-Instruct language model, specialized for role-play scenarios.](https://huggingface.co/oxyapi/oxy-1-small)  🤗 
+- **From Individual to Society: A Survey on Social Simulation Driven by 
   Large Language Model-based Agents**, `arXiv, 2412.03563`, [arxiv](http://arxiv.org/abs/2412.03563v1), [pdf](http://arxiv.org/pdf/2412.03563v1.pdf), cication: [**-1**](None) 
 
 	 *Xinyi Mou, Xuanwen Ding, Qi He, ..., Xuanjing Huang, Zhongyu Wei* · ([SocialAgent](https://github.com/FudanDISC/SocialAgent) - FudanDISC) ![Star](https://img.shields.io/github/stars/FudanDISC/SocialAgent.svg?style=social&label=Star)
@@ -214,6 +214,7 @@
 
 ## Projects
 
+- [**amurex**](https://github.com/thepersonalaicompany/amurex) - thepersonalaicompany ![Star](https://img.shields.io/github/stars/thepersonalaicompany/amurex.svg?style=social&label=Star)
 - [**ai-rd-tasks**](https://github.com/METR/ai-rd-tasks) - METR ![Star](https://img.shields.io/github/stars/METR/ai-rd-tasks.svg?style=social&label=Star) 
 
 	 · ([metr](https://metr.org/AI_R_D_Evaluation_Report.pdf))

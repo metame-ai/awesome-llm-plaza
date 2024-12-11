@@ -20,7 +20,11 @@
 
 ## LLM Evaluation
 
-- **INCLUDE: Evaluating Multilingual Language Understanding with Regional
+- **OmniDocBench: Benchmarking Diverse PDF Document Parsing with
+  Comprehensive Annotations**, `arXiv, 2412.07626`, [arxiv](http://arxiv.org/abs/2412.07626v1), [pdf](http://arxiv.org/pdf/2412.07626v1.pdf), cication: [**-1**](None) 
+
+	 *Linke Ouyang, Yuan Qu, Hongbin Zhou, ..., Zhongying Tu, Conghui He* · ([OmniDocBench.](https://github.com/opendatalab/OmniDocBench.) - opendatalab) ![Star](https://img.shields.io/github/stars/opendatalab/OmniDocBench..svg?style=social&label=Star)
+- **INCLUDE: Evaluating Multilingual Language Understanding with Regional 
   Knowledge**, `arXiv, 2411.19799`, [arxiv](http://arxiv.org/abs/2411.19799v1), [pdf](http://arxiv.org/pdf/2411.19799v1.pdf), cication: [**-1**](None) 
 
 	 *Angelika Romanou, Negar Foroutan, Anna Sotnikova, ..., Sara Hooker, Antoine Bosselut* · ([𝕏](https://x.com/agromanou/status/1863604966180479187))
@@ -111,6 +115,7 @@
 
 ## Misc
 
+- [AI Model Comparison](https://countless.dev/) 
 - [LLM LeaderboardsA trusted source for real-world AI model performance and insights](https://llm-stats.com/) 
 - [Crisp and fuzzy tasks](https://aligned.substack.com/p/crisp-and-fuzzy-tasks) 
 - [Letting Large Models Debate: The First Multilingual LLM Debate Competition](https://huggingface.co/blog/debate)  🤗 

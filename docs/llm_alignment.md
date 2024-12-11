@@ -12,6 +12,12 @@
 
 ## LLM Alignment
 
+- [[10 Dec 2024, NeurIPS // Infer] Post-training for applications](https://docs.google.com/presentation/d/1LWHbtz74GwKSGYZKyBVUtcyvp8lgYOi5EVpMnVDXBPs/edit) 
+
+	 · ([𝕏](https://x.com/natolambert/status/1866197250239541350))
+- 🌟 **KTO: Model Alignment as Prospect Theoretic Optimization**, `arXiv, 2402.01306`, [arxiv](http://arxiv.org/abs/2402.01306v4), [pdf](http://arxiv.org/pdf/2402.01306v4.pdf), cication: [**-1**](None) 
+
+	 *Kawin Ethayarajh, Winnie Xu, Niklas Muennighoff, ..., Dan Jurafsky, Douwe Kiela*
 - **Does your data spark joy? Performance gains from domain upsampling at 
   the end of training**, `arXiv, 2406.03476`, [arxiv](http://arxiv.org/abs/2406.03476v1), [pdf](http://arxiv.org/pdf/2406.03476v1.pdf), cication: [**-1**](None) 
 

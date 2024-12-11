@@ -76,6 +76,9 @@
 
 ## UI Agent
 
+- 🌟 **Aguvis: Unified Pure Vision Agents for Autonomous GUI Interaction**, `arXiv, 2412.04454`, [arxiv](http://arxiv.org/abs/2412.04454v1), [pdf](http://arxiv.org/pdf/2412.04454v1.pdf), cication: [**-1**](None) 
+
+	 *Yiheng Xu, Zekun Wang, Junli Wang, ..., Tao Yu, Caiming Xiong* · ([aguvis-project.github](https://aguvis-project.github.io))
 - **ShowUI: One Vision-Language-Action Model for GUI Visual Agent**, `arXiv, 2411.17465`, [arxiv](http://arxiv.org/abs/2411.17465v1), [pdf](http://arxiv.org/pdf/2411.17465v1.pdf), cication: [**-1**](None) 
 
 	 *Kevin Qinghong Lin, Linjie Li, Difei Gao, ..., Lijuan Wang, Mike Zheng Shou*
@@ -154,7 +157,7 @@
 
 ## Projects
 
-- [**dynasaur**](https://github.com/adobe-research/dynasaur) - adobe-research ![Star](https://img.shields.io/github/stars/adobe-research/dynasaur.svg?style=social&label=Star)
+- [**dynasaur**](https://github.com/adobe-research/dynasaur) - adobe-research ![Star](https://img.shields.io/github/stars/adobe-research/dynasaur.svg?style=social&label=Star) 
 - [**steel-browser**](https://github.com/steel-dev/steel-browser) - steel-dev ![Star](https://img.shields.io/github/stars/steel-dev/steel-browser.svg?style=social&label=Star) 
 - [**Qwen-Agent**](https://github.com/QwenLM/Qwen-Agent) - QwenLM ![Star](https://img.shields.io/github/stars/QwenLM/Qwen-Agent.svg?style=social&label=Star) 
 - [**postbot3000**](https://github.com/ahmad2b/postbot3000) - ahmad2b ![Star](https://img.shields.io/github/stars/ahmad2b/postbot3000.svg?style=social&label=Star) 
@@ -180,6 +183,10 @@
 
 ## Multi Agent
 
+- **GenMAC: Compositional Text-to-Video Generation with Multi-Agent
+  Collaboration**, `arXiv, 2412.04440`, [arxiv](http://arxiv.org/abs/2412.04440v1), [pdf](http://arxiv.org/pdf/2412.04440v1.pdf), cication: [**-1**](None) 
+
+	 *Kaiyi Huang, Yukun Huang, Xuefei Ning, ..., Yu Wang, Xihui Liu* · ([karine-h.github](https://karine-h.github.io/GenMAC/)) · ([arxiv](https://arxiv.org/pdf/2412.04440))
 - **MALT: Improving Reasoning with Multi-Agent LLM Training**, `arXiv, 2412.01928`, [arxiv](http://arxiv.org/abs/2412.01928v1), [pdf](http://arxiv.org/pdf/2412.01928v1.pdf), cication: [**-1**](None) 
 
 	 *Sumeet Ramesh Motwani, Chandler Smith, Rocktim Jyoti Das, ..., Ronald Clark, Christian Schroeder de Witt*

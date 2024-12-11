@@ -17,9 +17,16 @@
 
 ## Survey
 
+- [**awesome-open-source-lms**](https://github.com/allenai/awesome-open-source-lms) - allenai ![Star](https://img.shields.io/github/stars/allenai/awesome-open-source-lms.svg?style=social&label=Star)
+
+	 · ([docs.google](https://docs.google.com/presentation/d/179dpzWSQ9G7EAUlvaJdeE0av9PLuk9Rl33nfhHSJ4xI/edit?usp=sharing))
 
 ## LLM Training
 
+- [[10 December 2024, NeurIPs] Tutorial on Language Modeling](https://docs.google.com/presentation/d/179dpzWSQ9G7EAUlvaJdeE0av9PLuk9Rl33nfhHSJ4xI/edit) 
+- **Establishing Task Scaling Laws via Compute-Efficient Model Ladders**, `arXiv, 2412.04403`, [arxiv](http://arxiv.org/abs/2412.04403v1), [pdf](http://arxiv.org/pdf/2412.04403v1.pdf), cication: [**-1**](None) 
+
+	 *Akshita Bhagia, Jiacheng Liu, Alexander Wettig, ..., Jesse Dodge, Hannaneh Hajishirzi* · ([𝕏](https://x.com/liujc1998/status/1866161269012873312))
 - **Q-SFT: Q-Learning for Language Models via Supervised Fine-Tuning**, `arXiv, 2411.05193`, [arxiv](http://arxiv.org/abs/2411.05193v2), [pdf](http://arxiv.org/pdf/2411.05193v2.pdf), cication: [**-1**](None) 
 
 	 *Joey Hong, Anca Dragan, Sergey Levine* · ([𝕏](https://x.com/svlevine/status/1860874248166027683))
@@ -65,10 +72,14 @@
 
 ## Optimization
 
+- 🌟 [Muon scaling again](https://x.com/Yuchenj_UW/status/1846964136204173318)  𝕏
+- **APOLLO: SGD-like Memory, AdamW-level Performance**, `arXiv, 2412.05270`, [arxiv](http://arxiv.org/abs/2412.05270v2), [pdf](http://arxiv.org/pdf/2412.05270v2.pdf), cication: [**-1**](None) 
+
+	 *Hanqing Zhu, Zhenyu Zhang, Wenyan Cong, ..., Zhangyang Wang, Jinwon Lee* · ([zhuhanqing.github](https://zhuhanqing.github.io/APOLLO/))
 - **DeMo: Decoupled Momentum Optimization**, `arXiv, 2411.19870`, [arxiv](http://arxiv.org/abs/2411.19870v1), [pdf](http://arxiv.org/pdf/2411.19870v1.pdf), cication: [**-1**](None) 
 
 	 *Bowen Peng, Jeffrey Quesnelle, Diederik P. Kingma* · ([DeMo](https://github.com/bloc97/DeMo) - bloc97) ![Star](https://img.shields.io/github/stars/bloc97/DeMo.svg?style=social&label=Star)
-- **ADOPT: Modified Adam Can Converge with Any $β_2$ with the Optimal
+- **ADOPT: Modified Adam Can Converge with Any $β_2$ with the Optimal 
   Rate**, `arXiv, 2411.02853`, [arxiv](http://arxiv.org/abs/2411.02853v3), [pdf](http://arxiv.org/pdf/2411.02853v3.pdf), cication: [**-1**](None) 
 
 	 *Shohei Taniguchi, Keno Harada, Gouki Minegishi, ..., Yusuke Iwasawa, Yutaka Matsuo* · ([adopt](https://github.com/iShohei220/adopt) - iShohei220) ![Star](https://img.shields.io/github/stars/iShohei220/adopt.svg?style=social&label=Star)
@@ -149,6 +160,7 @@
 
 ## Toolkits
 
+- [**lingua**](https://github.com/facebookresearch/lingua) - facebookresearch ![Star](https://img.shields.io/github/stars/facebookresearch/lingua.svg?style=social&label=Star)
 - [Supercharging Training using float8 and FSDP2](https://pytorch.org/blog/training-using-float8-fsdp2/) 
 - [**unsloth**](https://github.com/unslothai/unsloth) - unslothai ![Star](https://img.shields.io/github/stars/unslothai/unsloth.svg?style=social&label=Star) 
 - [**cohere-finetune**](https://github.com/cohere-ai/cohere-finetune) - cohere-ai ![Star](https://img.shields.io/github/stars/cohere-ai/cohere-finetune.svg?style=social&label=Star) 

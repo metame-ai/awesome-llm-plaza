@@ -19,7 +19,10 @@
 
 ## Survey
 
-- **Explainable and Interpretable Multimodal Large Language Models: A
+- **Personalized Multimodal Large Language Models: A Survey**, `arXiv, 2412.02142`, [arxiv](http://arxiv.org/abs/2412.02142v1), [pdf](http://arxiv.org/pdf/2412.02142v1.pdf), cication: [**-1**](None) 
+
+	 *Junda Wu, Hanjia Lyu, Yu Xia, ..., Jiebo Luo, Julian McAuley*
+- **Explainable and Interpretable Multimodal Large Language Models: A 
   Comprehensive Survey**, `arXiv, 2412.02104`, [arxiv](http://arxiv.org/abs/2412.02104v1), [pdf](http://arxiv.org/pdf/2412.02104v1.pdf), cication: [**-1**](None) 
 
 	 *Yunkai Dang, Kaichen Huang, Jiahao Huo, ..., Hui Xiong, Xuming Hu*
@@ -42,7 +45,37 @@
 
 ## Vision-Language Models
 
-- [Welcome PaliGemma 2 – New vision language models by Google](https://huggingface.co/blog/paligemma2)  🤗
+- 🌟 **NVILA: Efficient Frontier Visual Language Models**, `arXiv, 2412.04468`, [arxiv](http://arxiv.org/abs/2412.04468v1), [pdf](http://arxiv.org/pdf/2412.04468v1.pdf), cication: [**-1**](None) 
+
+	 *Zhijian Liu, Ligeng Zhu, Baifeng Shi, ..., Song Han, Yao Lu*
+- [moondream is a small vision language model designed to run efficiently on edge devices.](https://huggingface.co/vikhyatk/moondream2)  🤗
+- 🌟 **Expanding Performance Boundaries of Open-Source Multimodal Models with
+  Model, Data, and Test-Time Scaling**, `arXiv, 2412.05271`, [arxiv](http://arxiv.org/abs/2412.05271v1), [pdf](http://arxiv.org/pdf/2412.05271v1.pdf), cication: [**-1**](None) 
+
+	 *Zhe Chen, Weiyun Wang, Yue Cao, ..., Jifeng Dai, Wenhai Wang*
+- 🌟 **MAmmoTH-VL: Eliciting Multimodal Reasoning with Instruction Tuning at
+  Scale**, `arXiv, 2412.05237`, [arxiv](http://arxiv.org/abs/2412.05237v1), [pdf](http://arxiv.org/pdf/2412.05237v1.pdf), cication: [**-1**](None) 
+
+	 *Jarvis Guo, Tuney Zheng, Yuelin Bai, ..., Wenhu Chen, Xiang Yue* · ([𝕏](https://x.com/xiangyue96/status/1866305201550114948))
+- 🌟 **Molmo and PixMo: Open Weights and Open Data for State-of-the-Art
+  Vision-Language Models**, `arXiv, 2409.17146`, [arxiv](http://arxiv.org/abs/2409.17146v2), [pdf](http://arxiv.org/pdf/2409.17146v2.pdf), cication: [**-1**](None) 
+
+	 *Matt Deitke, Christopher Clark, Sangho Lee, ..., Ali Farhadi, Aniruddha Kembhavi* · ([molmo](https://github.com/allenai/molmo) - allenai) ![Star](https://img.shields.io/github/stars/allenai/molmo.svg?style=social&label=Star)
+- 🌟 **Florence-VL: Enhancing Vision-Language Models with Generative Vision
+  Encoder and Depth-Breadth Fusion**, `arXiv, 2412.04424`, [arxiv](http://arxiv.org/abs/2412.04424v1), [pdf](http://arxiv.org/pdf/2412.04424v1.pdf), cication: [**-1**](None) 
+
+	 *Jiuhai Chen, Jianwei Yang, Haiping Wu, ..., Tianyi Zhou, Bin Xiao* · ([huggingface](https://huggingface.co/spaces/jiuhai/Florence-VL-8B))
+- **Discriminative Fine-tuning of LVLMs**, `arXiv, 2412.04378`, [arxiv](http://arxiv.org/abs/2412.04378v2), [pdf](http://arxiv.org/pdf/2412.04378v2.pdf), cication: [**-1**](None) 
+
+	 *Yassine Ouali, Adrian Bulat, Alexandros Xenos, ..., Brais Martinez, Georgios Tzimiropoulos*
+- **CompCap: Improving Multimodal Large Language Models with Composite
+  Captions**, `arXiv, 2412.05243`, [arxiv](http://arxiv.org/abs/2412.05243v1), [pdf](http://arxiv.org/pdf/2412.05243v1.pdf), cication: [**-1**](None) 
+
+	 *Xiaohui Chen, Satya Narayan Shukla, Mahmoud Azab, ..., Xuewen Zhang, Baosheng He*
+- **Maya: An Instruction Finetuned Multilingual Multimodal Model**, `arXiv, 2412.07112`, [arxiv](http://arxiv.org/abs/2412.07112v1), [pdf](http://arxiv.org/pdf/2412.07112v1.pdf), cication: [**-1**](None) 
+
+	 *Nahid Alam, Karthik Reddy Kanjula, Surya Guthikonda, ..., Snehanshu Mukherjee, Alham Fikri Aji* · ([maya](https://github.com/nahidalam/maya) - nahidalam) ![Star](https://img.shields.io/github/stars/nahidalam/maya.svg?style=social&label=Star)
+- [Welcome PaliGemma 2 – New vision language models by Google](https://huggingface.co/blog/paligemma2)  🤗 
 
 	 · ([𝕏](https://x.com/mervenoyann/status/1864724906409177365))
 - **FINECAPTION: Compositional Image Captioning Focusing on Wherever You 
@@ -86,6 +119,13 @@
 
 ## Video
 
+- **VideoICL: Confidence-based Iterative In-context Learning for
+  Out-of-Distribution Video Understanding**, `arXiv, 2412.02186`, [arxiv](http://arxiv.org/abs/2412.02186v1), [pdf](http://arxiv.org/pdf/2412.02186v1.pdf), cication: [**-1**](None) 
+
+	 *Kangsan Kim, Geon Park, Youngwan Lee, ..., Woongyeong Yeo, Sung Ju Hwang*
+- **Towards Universal Soccer Video Understanding**, `arXiv, 2412.01820`, [arxiv](http://arxiv.org/abs/2412.01820v2), [pdf](http://arxiv.org/pdf/2412.01820v2.pdf), cication: [**-1**](None) 
+
+	 *Jiayuan Rao, Haoning Wu, Hao Jiang, ..., Yanfeng Wang, Weidi Xie* · ([jyrao.github](https://jyrao.github.io/UniSoccer/)) · ([arxiv](https://arxiv.org/abs/2412.01820)) · ([UniSoccer](https://github.com/jyrao/UniSoccer) - jyrao) ![Star](https://img.shields.io/github/stars/jyrao/UniSoccer.svg?style=social&label=Star)
 - **VideoEspresso: A Large-Scale Chain-of-Thought Dataset for Fine-Grained 
   Video Reasoning via Core Frame Selection**, `arXiv, 2411.14794`, [arxiv](http://arxiv.org/abs/2411.14794v1), [pdf](http://arxiv.org/pdf/2411.14794v1.pdf), cication: [**-1**](None) 
 
@@ -129,6 +169,12 @@
 
 ## Encoder
 
+- 🌟 **VisionZip: Longer is Better but Not Necessary in Vision Language Models**, `arXiv, 2412.04467`, [arxiv](http://arxiv.org/abs/2412.04467v1), [pdf](http://arxiv.org/pdf/2412.04467v1.pdf), cication: [**-1**](None) 
+
+	 *Senqiao Yang, Yukang Chen, Zhuotao Tian, ..., Bei Yu, Jiaya Jia* · ([202.104.135](http://202.104.135.156:7860/)) · ([youtu](https://youtu.be/sytaAzmxxpo?si=IieArmQ7YNf2dVyM)) · ([VisionZip](https://github.com/dvlab-research/VisionZip) - dvlab-research) ![Star](https://img.shields.io/github/stars/dvlab-research/VisionZip.svg?style=social&label=Star)
+- **[CLS] Token Tells Everything Needed for Training-free Efficient MLLMs**, `arXiv, 2412.05819`, [arxiv](http://arxiv.org/abs/2412.05819v1), [pdf](http://arxiv.org/pdf/2412.05819v1.pdf), cication: [**-1**](None) 
+
+	 *Ao Wang, Fengyuan Sun, Hui Chen, ..., Jungong Han, Guiguang Ding* · ([VTC-CLS](https://github.com/THU-MIG/VTC-CLS) - THU-MIG) ![Star](https://img.shields.io/github/stars/THU-MIG/VTC-CLS.svg?style=social&label=Star)
 - **FocusLLaVA: A Coarse-to-Fine Approach for Efficient and Effective Visual 
   Token Compression**, `arXiv, 2411.14228`, [arxiv](http://arxiv.org/abs/2411.14228v1), [pdf](http://arxiv.org/pdf/2411.14228v1.pdf), cication: [**-1**](None) 
 
@@ -194,6 +240,10 @@
 
 ## Reasoning
 
+- **TACO: Learning Multi-modal Action Models with Synthetic
+  Chains-of-Thought-and-Action**, `arXiv, 2412.05479`, [arxiv](http://arxiv.org/abs/2412.05479v2), [pdf](http://arxiv.org/pdf/2412.05479v2.pdf), cication: [**-1**](None) 
+
+	 *Zixian Ma, Jianguo Zhang, Zhiwei Liu, ..., Ranjay Krishna, Silvio Savarese* · ([taco-project.github](https://taco-project.github.io)) · ([TACO](https://github.com/SalesforceAIResearch/TACO) - SalesforceAIResearch) ![Star](https://img.shields.io/github/stars/SalesforceAIResearch/TACO.svg?style=social&label=Star)
 - 🌟 **LLaVA-o1: Let Vision Language Models Reason Step-by-Step**, `arXiv, 2411.10440`, [arxiv](http://arxiv.org/abs/2411.10440v1), [pdf](http://arxiv.org/pdf/2411.10440v1.pdf), cication: [**-1**](None) 
 
 	 *Guowei Xu, Peng Jin, Li Hao, ..., Lichao Sun, Li Yuan* · ([LLaVA-o1](https://github.com/PKU-YuanGroup/LLaVA-o1) - PKU-YuanGroup) ![Star](https://img.shields.io/github/stars/PKU-YuanGroup/LLaVA-o1.svg?style=social&label=Star)
@@ -294,6 +344,16 @@
 
 ## Generation
 
+- **TokenFlow: Unified Image Tokenizer for Multimodal Understanding and
+  Generation**, `arXiv, 2412.03069`, [arxiv](http://arxiv.org/abs/2412.03069v1), [pdf](http://arxiv.org/pdf/2412.03069v1.pdf), cication: [**-1**](None) 
+
+	 *Liao Qu, Huichao Zhang, Yiheng Liu, ..., Zehuan Yuan, Xinglong Wu* · ([byteflow-ai.github](https://byteflow-ai.github.io/TokenFlow/)) · ([TokenFlow](https://github.com/ByteFlow-AI/TokenFlow) - ByteFlow-AI) ![Star](https://img.shields.io/github/stars/ByteFlow-AI/TokenFlow.svg?style=social&label=Star)
+- **Divot: Diffusion Powers Video Tokenizer for Comprehension and Generation**, `arXiv, 2412.04432`, [arxiv](http://arxiv.org/abs/2412.04432v1), [pdf](http://arxiv.org/pdf/2412.04432v1.pdf), cication: [**-1**](None) 
+
+	 *Yuying Ge, Yizhuo Li, Yixiao Ge, ..., Ying Shan* · ([huggingface](https://huggingface.co/TencentARC/Divot)) · ([Divot](https://github.com/TencentARC/Divot) - TencentARC) ![Star](https://img.shields.io/github/stars/TencentARC/Divot.svg?style=social&label=Star)
+- **ILLUME: Illuminating Your LLMs to See, Draw, and Self-Enhance**, `arXiv, 2412.06673`, [arxiv](http://arxiv.org/abs/2412.06673v1), [pdf](http://arxiv.org/pdf/2412.06673v1.pdf), cication: [**-1**](None) 
+
+	 *Chunwei Wang, Guansong Lu, Junwei Yang, ..., Wei Zhang, Hang Xu*
 - [**qwen2vl-flux**](https://github.com/erwold/qwen2vl-flux) - erwold ![Star](https://img.shields.io/github/stars/erwold/qwen2vl-flux.svg?style=social&label=Star) 
 
 	 *Unifying Image and Text Guidance for Controllable Image Generation* · ([qwen2vl-flux](https://github.com/erwold/qwen2vl-flux/blob/main/technical-report.pdf) - erwold) ![Star](https://img.shields.io/github/stars/erwold/qwen2vl-flux.svg?style=social&label=Star)
@@ -318,6 +378,10 @@
 
 ## Dataset
 
+- **BigDocs: An Open and Permissively-Licensed Dataset for Training
+  Multimodal Models on Document and Code Tasks**, `arXiv, 2412.04626`, [arxiv](http://arxiv.org/abs/2412.04626v1), [pdf](http://arxiv.org/pdf/2412.04626v1.pdf), cication: [**-1**](None) 
+
+	 *Juan Rodriguez, Xiangru Jian, Siba Smarak Panigrahi, ..., David Vazquez, Sai Rajeswar* · ([bigdocs.github](https://bigdocs.github.io/))
 - **BLIP3-KALE: Knowledge Augmented Large-Scale Dense Captions**, `arXiv, 2411.07461`, [arxiv](http://arxiv.org/abs/2411.07461v1), [pdf](http://arxiv.org/pdf/2411.07461v1.pdf), cication: [**-1**](None) 
 
 	 *Anas Awadalla, Le Xue, Manli Shu, ..., Caiming Xiong, Ran Xu* · ([huggingface](https://huggingface.co/datasets/Salesforce/blip3-kale))

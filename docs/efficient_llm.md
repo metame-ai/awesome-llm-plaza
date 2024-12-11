@@ -111,7 +111,9 @@
 
 ## Inference
 
-- [Introducing SGLang Router: a cache-aware router for LLM Inference in SGLang v0.4](https://x.com/hsu_byron/status/1864449841239347341)  𝕏
+- [Efficient LLM Inference with SGLang, Lianmin Zheng, xAI](https://www.youtube.com/watch?v=Ny4xxErgFgQ)  :clapper:
+- [**ZhiLight**](https://github.com/zhihu/ZhiLight) - zhihu ![Star](https://img.shields.io/github/stars/zhihu/ZhiLight.svg?style=social&label=Star)
+- [Introducing SGLang Router: a cache-aware router for LLM Inference in SGLang v0.4](https://x.com/hsu_byron/status/1864449841239347341)  𝕏 
 - **Puzzle: Distillation-Based NAS for Inference-Optimized LLMs**, `arXiv, 2411.19146`, [arxiv](http://arxiv.org/abs/2411.19146v1), [pdf](http://arxiv.org/pdf/2411.19146v1.pdf), cication: [**-1**](None) 
 
 	 *Akhiad Bercovich, Tomer Ronen, Talor Abramovich, ..., Ran Zilberstein, Ran El-Yaniv*
@@ -216,6 +218,9 @@
 
 ## Misc
 
+- [Ways to use torch.compile](http://blog.ezyang.com/2024/11/ways-to-use-torch-compile/) 
+
+	 · ([𝕏](https://x.com/ezyang/status/1866131758862721453))
 - [JPEG compress your LLM weights](http://pepijndevos.nl/2024/12/01/jpeg-compress-your-llm-weights.html) 
 - :clapper: [How FlashAttention Accelerates the Generative AI Revolution](https://www.youtube.com/watch?v=gBMO1JZav44) 
 - [k-mktr / gpu-poor-llm-arena](https://huggingface.co/spaces/k-mktr/gpu-poor-llm-arena/tree/main)  🤗 

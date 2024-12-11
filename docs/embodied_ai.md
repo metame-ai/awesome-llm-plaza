@@ -17,6 +17,18 @@
 
 ## Embodied AI
 
+- **Code-as-Monitor: Constraint-aware Visual Programming for Reactive and
+  Proactive Robotic Failure Detection**, `arXiv, 2412.04455`, [arxiv](http://arxiv.org/abs/2412.04455v2), [pdf](http://arxiv.org/pdf/2412.04455v2.pdf), cication: [**-1**](None) 
+
+	 *Enshen Zhou, Qi Su, Cheng Chi, ..., Lu Sheng, He Wang* · ([zhoues.github](https://zhoues.github.io/Code-as-Monitor/))
+- **Moto: Latent Motion Token as the Bridging Language for Robot
+  Manipulation**, `arXiv, 2412.04445`, [arxiv](http://arxiv.org/abs/2412.04445v1), [pdf](http://arxiv.org/pdf/2412.04445v1.pdf), cication: [**-1**](None) 
+
+	 *Yi Chen, Yuying Ge, Yizhuo Li, ..., Ying Shan, Xihui Liu* · ([chenyi99.github](https://chenyi99.github.io/moto/)) · ([Moto](https://github.com/TencentARC/Moto) - TencentARC) ![Star](https://img.shields.io/github/stars/TencentARC/Moto.svg?style=social&label=Star)
+- 🌟 **Unraveling the Complexity of Memory in RL Agents: an Approach for
+  Classification and Evaluation**, `arXiv, 2412.06531`, [arxiv](http://arxiv.org/abs/2412.06531v1), [pdf](http://arxiv.org/pdf/2412.06531v1.pdf), cication: [**-1**](None) 
+
+	 *Egor Cherepanov, Nikita Kachaev, Artem Zholus, ..., Alexey K. Kovalev, Aleksandr I. Panov*
 - **Embodied Agent Interface: Benchmarking LLMs for Embodied Decision Making**, `arXiv, 2410.07166`, [arxiv](http://arxiv.org/abs/2410.07166v2), [pdf](http://arxiv.org/pdf/2410.07166v2.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=2488405281591567279&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII) 
 
 	 *Manling Li, Shiyu Zhao, Qineng Wang, ..., Jiayuan Mao, Jiajun Wu* · ([embodied-agent-interface.github](https://embodied-agent-interface.github.io/)) · ([embodied-agent-eval](https://github.com/embodied-agent-eval/embodied-agent-eval) - embodied-agent-eval) ![Star](https://img.shields.io/github/stars/embodied-agent-eval/embodied-agent-eval.svg?style=social&label=Star) · ([𝕏](https://x.com/manlingli_/status/1854041025146404897?s=46))

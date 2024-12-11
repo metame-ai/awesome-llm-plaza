@@ -22,7 +22,7 @@
 
 ## Survey
 
-- **Survey of different Large Language Model Architectures: Trends,
+- **Survey of different Large Language Model Architectures: Trends, 
   Benchmarks, and Challenges**, `ieee access, 2024`, [arxiv](http://arxiv.org/abs/2412.03220v1), [pdf](http://arxiv.org/pdf/2412.03220v1.pdf), cication: [**-1**](None) 
 
 	 *Minghao Shao, Abdul Basit, Ramesh Karri, ..., Muhammad Shafique*
@@ -47,11 +47,11 @@
 
 ## Interpretability
 
-- 🌟 **Critical Tokens Matter: Token-Level Contrastive Estimation Enhances
+- 🌟 **Critical Tokens Matter: Token-Level Contrastive Estimation Enhances 
   LLM's Reasoning Capability**, `arXiv, 2411.19943`, [arxiv](http://arxiv.org/abs/2411.19943v2), [pdf](http://arxiv.org/pdf/2411.19943v2.pdf), cication: [**-1**](None) 
 
 	 *Zicheng Lin, Tian Liang, Jiahao Xu, ..., Yujiu Yang, Zhaopeng Tu*
-- **Large Multi-modal Models Can Interpret Features in Large Multi-modal
+- **Large Multi-modal Models Can Interpret Features in Large Multi-modal 
   Models**, `arXiv, 2411.14982`, [arxiv](http://arxiv.org/abs/2411.14982v1), [pdf](http://arxiv.org/pdf/2411.14982v1.pdf), cication: [**-1**](None) 
 
 	 *Kaichen Zhang, Yifei Shen, Bo Li, ..., Ziwei Liu*
@@ -159,7 +159,7 @@
 
 ## Editing
 
-- [uncensored version of Qwen/QwQ-32B-Preview created with abliteration](https://huggingface.co/huihui-ai/QwQ-32B-Preview-abliterated)  🤗
+- [uncensored version of Qwen/QwQ-32B-Preview created with abliteration](https://huggingface.co/huihui-ai/QwQ-32B-Preview-abliterated)  🤗 
 
 	 · ([remove-refusals-with-transformers](https://github.com/Sumandora/remove-refusals-with-transformers) - Sumandora) ![Star](https://img.shields.io/github/stars/Sumandora/remove-refusals-with-transformers.svg?style=social&label=Star)
 - **Can Knowledge Editing Really Correct Hallucinations?**, `arXiv, 2410.16251`, [arxiv](http://arxiv.org/abs/2410.16251v2), [pdf](http://arxiv.org/pdf/2410.16251v2.pdf), cication: [**-1**](None) 
@@ -196,7 +196,7 @@
 
 ## Tutorials
 
-- [**smol-course**](https://github.com/huggingface/smol-course) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/smol-course.svg?style=social&label=Star)
+- [**smol-course**](https://github.com/huggingface/smol-course) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/smol-course.svg?style=social&label=Star) 
 - [Understanding LLMs from Scratch Using Middle School Math](https://towardsdatascience.com/understanding-llms-from-scratch-using-middle-school-math-e602d27ec876) 
 - [An attempt to reconstruct Ilya Sutskever's 2020 AI reading list](https://tensorlabbet.com/2024/11/11/lost-reading-items/) 
 
