@@ -214,7 +214,7 @@
 
 ## Projects
 
-- [**amurex**](https://github.com/thepersonalaicompany/amurex) - thepersonalaicompany ![Star](https://img.shields.io/github/stars/thepersonalaicompany/amurex.svg?style=social&label=Star)
+- [**amurex**](https://github.com/thepersonalaicompany/amurex) - thepersonalaicompany ![Star](https://img.shields.io/github/stars/thepersonalaicompany/amurex.svg?style=social&label=Star) 
 - [**ai-rd-tasks**](https://github.com/METR/ai-rd-tasks) - METR ![Star](https://img.shields.io/github/stars/METR/ai-rd-tasks.svg?style=social&label=Star) 
 
 	 · ([metr](https://metr.org/AI_R_D_Evaluation_Report.pdf))

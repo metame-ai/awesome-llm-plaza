@@ -48,27 +48,27 @@
 - 🌟 **NVILA: Efficient Frontier Visual Language Models**, `arXiv, 2412.04468`, [arxiv](http://arxiv.org/abs/2412.04468v1), [pdf](http://arxiv.org/pdf/2412.04468v1.pdf), cication: [**-1**](None) 
 
 	 *Zhijian Liu, Ligeng Zhu, Baifeng Shi, ..., Song Han, Yao Lu*
-- [moondream is a small vision language model designed to run efficiently on edge devices.](https://huggingface.co/vikhyatk/moondream2)  🤗
-- 🌟 **Expanding Performance Boundaries of Open-Source Multimodal Models with
+- [moondream is a small vision language model designed to run efficiently on edge devices.](https://huggingface.co/vikhyatk/moondream2)  🤗 
+- 🌟 **Expanding Performance Boundaries of Open-Source Multimodal Models with 
   Model, Data, and Test-Time Scaling**, `arXiv, 2412.05271`, [arxiv](http://arxiv.org/abs/2412.05271v1), [pdf](http://arxiv.org/pdf/2412.05271v1.pdf), cication: [**-1**](None) 
 
 	 *Zhe Chen, Weiyun Wang, Yue Cao, ..., Jifeng Dai, Wenhai Wang*
-- 🌟 **MAmmoTH-VL: Eliciting Multimodal Reasoning with Instruction Tuning at
+- 🌟 **MAmmoTH-VL: Eliciting Multimodal Reasoning with Instruction Tuning at 
   Scale**, `arXiv, 2412.05237`, [arxiv](http://arxiv.org/abs/2412.05237v1), [pdf](http://arxiv.org/pdf/2412.05237v1.pdf), cication: [**-1**](None) 
 
 	 *Jarvis Guo, Tuney Zheng, Yuelin Bai, ..., Wenhu Chen, Xiang Yue* · ([𝕏](https://x.com/xiangyue96/status/1866305201550114948))
-- 🌟 **Molmo and PixMo: Open Weights and Open Data for State-of-the-Art
+- 🌟 **Molmo and PixMo: Open Weights and Open Data for State-of-the-Art 
   Vision-Language Models**, `arXiv, 2409.17146`, [arxiv](http://arxiv.org/abs/2409.17146v2), [pdf](http://arxiv.org/pdf/2409.17146v2.pdf), cication: [**-1**](None) 
 
 	 *Matt Deitke, Christopher Clark, Sangho Lee, ..., Ali Farhadi, Aniruddha Kembhavi* · ([molmo](https://github.com/allenai/molmo) - allenai) ![Star](https://img.shields.io/github/stars/allenai/molmo.svg?style=social&label=Star)
-- 🌟 **Florence-VL: Enhancing Vision-Language Models with Generative Vision
+- 🌟 **Florence-VL: Enhancing Vision-Language Models with Generative Vision 
   Encoder and Depth-Breadth Fusion**, `arXiv, 2412.04424`, [arxiv](http://arxiv.org/abs/2412.04424v1), [pdf](http://arxiv.org/pdf/2412.04424v1.pdf), cication: [**-1**](None) 
 
 	 *Jiuhai Chen, Jianwei Yang, Haiping Wu, ..., Tianyi Zhou, Bin Xiao* · ([huggingface](https://huggingface.co/spaces/jiuhai/Florence-VL-8B))
 - **Discriminative Fine-tuning of LVLMs**, `arXiv, 2412.04378`, [arxiv](http://arxiv.org/abs/2412.04378v2), [pdf](http://arxiv.org/pdf/2412.04378v2.pdf), cication: [**-1**](None) 
 
 	 *Yassine Ouali, Adrian Bulat, Alexandros Xenos, ..., Brais Martinez, Georgios Tzimiropoulos*
-- **CompCap: Improving Multimodal Large Language Models with Composite
+- **CompCap: Improving Multimodal Large Language Models with Composite 
   Captions**, `arXiv, 2412.05243`, [arxiv](http://arxiv.org/abs/2412.05243v1), [pdf](http://arxiv.org/pdf/2412.05243v1.pdf), cication: [**-1**](None) 
 
 	 *Xiaohui Chen, Satya Narayan Shukla, Mahmoud Azab, ..., Xuewen Zhang, Baosheng He*
@@ -119,7 +119,7 @@
 
 ## Video
 
-- **VideoICL: Confidence-based Iterative In-context Learning for
+- **VideoICL: Confidence-based Iterative In-context Learning for 
   Out-of-Distribution Video Understanding**, `arXiv, 2412.02186`, [arxiv](http://arxiv.org/abs/2412.02186v1), [pdf](http://arxiv.org/pdf/2412.02186v1.pdf), cication: [**-1**](None) 
 
 	 *Kangsan Kim, Geon Park, Youngwan Lee, ..., Woongyeong Yeo, Sung Ju Hwang*
@@ -240,7 +240,7 @@
 
 ## Reasoning
 
-- **TACO: Learning Multi-modal Action Models with Synthetic
+- **TACO: Learning Multi-modal Action Models with Synthetic 
   Chains-of-Thought-and-Action**, `arXiv, 2412.05479`, [arxiv](http://arxiv.org/abs/2412.05479v2), [pdf](http://arxiv.org/pdf/2412.05479v2.pdf), cication: [**-1**](None) 
 
 	 *Zixian Ma, Jianguo Zhang, Zhiwei Liu, ..., Ranjay Krishna, Silvio Savarese* · ([taco-project.github](https://taco-project.github.io)) · ([TACO](https://github.com/SalesforceAIResearch/TACO) - SalesforceAIResearch) ![Star](https://img.shields.io/github/stars/SalesforceAIResearch/TACO.svg?style=social&label=Star)
@@ -344,7 +344,7 @@
 
 ## Generation
 
-- **TokenFlow: Unified Image Tokenizer for Multimodal Understanding and
+- **TokenFlow: Unified Image Tokenizer for Multimodal Understanding and 
   Generation**, `arXiv, 2412.03069`, [arxiv](http://arxiv.org/abs/2412.03069v1), [pdf](http://arxiv.org/pdf/2412.03069v1.pdf), cication: [**-1**](None) 
 
 	 *Liao Qu, Huichao Zhang, Yiheng Liu, ..., Zehuan Yuan, Xinglong Wu* · ([byteflow-ai.github](https://byteflow-ai.github.io/TokenFlow/)) · ([TokenFlow](https://github.com/ByteFlow-AI/TokenFlow) - ByteFlow-AI) ![Star](https://img.shields.io/github/stars/ByteFlow-AI/TokenFlow.svg?style=social&label=Star)
@@ -378,7 +378,7 @@
 
 ## Dataset
 
-- **BigDocs: An Open and Permissively-Licensed Dataset for Training
+- **BigDocs: An Open and Permissively-Licensed Dataset for Training 
   Multimodal Models on Document and Code Tasks**, `arXiv, 2412.04626`, [arxiv](http://arxiv.org/abs/2412.04626v1), [pdf](http://arxiv.org/pdf/2412.04626v1.pdf), cication: [**-1**](None) 
 
 	 *Juan Rodriguez, Xiangru Jian, Siba Smarak Panigrahi, ..., David Vazquez, Sai Rajeswar* · ([bigdocs.github](https://bigdocs.github.io/))

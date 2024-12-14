@@ -21,11 +21,11 @@
 
 ## Reasoning
 
-- **RARE: Retrieval-Augmented Reasoning Enhancement for Large Language
+- **RARE: Retrieval-Augmented Reasoning Enhancement for Large Language 
   Models**, `arXiv, 2412.02830`, [arxiv](http://arxiv.org/abs/2412.02830v3), [pdf](http://arxiv.org/pdf/2412.02830v3.pdf), cication: [**-1**](None) 
 
 	 *Hieu Tran, Zonghai Yao, Junda Wang, ..., Zhichao Yang, Hong Yu*
-- **Mind the Gap: Examining the Self-Improvement Capabilities of Large
+- **Mind the Gap: Examining the Self-Improvement Capabilities of Large 
   Language Models**, `arXiv, 2412.02674`, [arxiv](http://arxiv.org/abs/2412.02674v1), [pdf](http://arxiv.org/pdf/2412.02674v1.pdf), cication: [**-1**](None) 
 
 	 *Yuda Song, Hanlin Zhang, Carson Eisenach, ..., Dean Foster, Udaya Ghai* · ([𝕏](https://x.com/yus167/status/1865091023778779479))
@@ -83,7 +83,7 @@
 
 ## Math Reasoning
 
-- **U-MATH: A University-Level Benchmark for Evaluating Mathematical Skills
+- **U-MATH: A University-Level Benchmark for Evaluating Mathematical Skills 
   in LLMs**, `arXiv, 2412.03205`, [arxiv](http://arxiv.org/abs/2412.03205v2), [pdf](http://arxiv.org/pdf/2412.03205v2.pdf), cication: [**-1**](None) 
 
 	 *Konstantin Chernyshev, Vitaliy Polshkov, Ekaterina Artemova, ..., Alexei Miasnikov, Sergei Tilga* · ([u-math](https://github.com/Toloka/u-math/) - Toloka) ![Star](https://img.shields.io/github/stars/Toloka/u-math.svg?style=social&label=Star)

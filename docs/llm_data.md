@@ -20,7 +20,7 @@
 
 ## LLM Data
 
-- 🌟 [**fineweb-2**](https://github.com/huggingface/fineweb-2) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/fineweb-2.svg?style=social&label=Star)
+- 🌟 [**fineweb-2**](https://github.com/huggingface/fineweb-2) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/fineweb-2.svg?style=social&label=Star) 
 
 	 · ([huggingface](https://huggingface.co/datasets/HuggingFaceFW/fineweb-2))
 - [**MultimodalUniverse**](https://github.com/MultimodalUniverse/MultimodalUniverse) - MultimodalUniverse ![Star](https://img.shields.io/github/stars/MultimodalUniverse/MultimodalUniverse.svg?style=social&label=Star) 
@@ -117,7 +117,7 @@
 
 ## Toolkits
 
-- [**fastText**](https://github.com/facebookresearch/fastText) - facebookresearch ![Star](https://img.shields.io/github/stars/facebookresearch/fastText.svg?style=social&label=Star)
+- [**fastText**](https://github.com/facebookresearch/fastText) - facebookresearch ![Star](https://img.shields.io/github/stars/facebookresearch/fastText.svg?style=social&label=Star) 
 - [**dolma**](https://github.com/allenai/dolma) - allenai ![Star](https://img.shields.io/github/stars/allenai/dolma.svg?style=social&label=Star) 
 - [**docling**](https://github.com/DS4SD/docling) - DS4SD ![Star](https://img.shields.io/github/stars/DS4SD/docling.svg?style=social&label=Star) 
 - [**maxun**](https://github.com/getmaxun/maxun) - getmaxun ![Star](https://img.shields.io/github/stars/getmaxun/maxun.svg?style=social&label=Star) 

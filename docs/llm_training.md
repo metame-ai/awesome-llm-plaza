@@ -17,7 +17,7 @@
 
 ## Survey
 
-- [**awesome-open-source-lms**](https://github.com/allenai/awesome-open-source-lms) - allenai ![Star](https://img.shields.io/github/stars/allenai/awesome-open-source-lms.svg?style=social&label=Star)
+- [**awesome-open-source-lms**](https://github.com/allenai/awesome-open-source-lms) - allenai ![Star](https://img.shields.io/github/stars/allenai/awesome-open-source-lms.svg?style=social&label=Star) 
 
 	 · ([docs.google](https://docs.google.com/presentation/d/179dpzWSQ9G7EAUlvaJdeE0av9PLuk9Rl33nfhHSJ4xI/edit?usp=sharing))
 
@@ -72,7 +72,7 @@
 
 ## Optimization
 
-- 🌟 [Muon scaling again](https://x.com/Yuchenj_UW/status/1846964136204173318)  𝕏
+- 🌟 [Muon scaling again](https://x.com/Yuchenj_UW/status/1846964136204173318)  𝕏 
 - **APOLLO: SGD-like Memory, AdamW-level Performance**, `arXiv, 2412.05270`, [arxiv](http://arxiv.org/abs/2412.05270v2), [pdf](http://arxiv.org/pdf/2412.05270v2.pdf), cication: [**-1**](None) 
 
 	 *Hanqing Zhu, Zhenyu Zhang, Wenyan Cong, ..., Zhangyang Wang, Jinwon Lee* · ([zhuhanqing.github](https://zhuhanqing.github.io/APOLLO/))
@@ -160,7 +160,7 @@
 
 ## Toolkits
 
-- [**lingua**](https://github.com/facebookresearch/lingua) - facebookresearch ![Star](https://img.shields.io/github/stars/facebookresearch/lingua.svg?style=social&label=Star)
+- [**lingua**](https://github.com/facebookresearch/lingua) - facebookresearch ![Star](https://img.shields.io/github/stars/facebookresearch/lingua.svg?style=social&label=Star) 
 - [Supercharging Training using float8 and FSDP2](https://pytorch.org/blog/training-using-float8-fsdp2/) 
 - [**unsloth**](https://github.com/unslothai/unsloth) - unslothai ![Star](https://img.shields.io/github/stars/unslothai/unsloth.svg?style=social&label=Star) 
 - [**cohere-finetune**](https://github.com/cohere-ai/cohere-finetune) - cohere-ai ![Star](https://img.shields.io/github/stars/cohere-ai/cohere-finetune.svg?style=social&label=Star) 

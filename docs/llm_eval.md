@@ -20,7 +20,7 @@
 
 ## LLM Evaluation
 
-- **OmniDocBench: Benchmarking Diverse PDF Document Parsing with
+- **OmniDocBench: Benchmarking Diverse PDF Document Parsing with 
   Comprehensive Annotations**, `arXiv, 2412.07626`, [arxiv](http://arxiv.org/abs/2412.07626v1), [pdf](http://arxiv.org/pdf/2412.07626v1.pdf), cication: [**-1**](None) 
 
 	 *Linke Ouyang, Yuan Qu, Hongbin Zhou, ..., Zhongying Tu, Conghui He* · ([OmniDocBench.](https://github.com/opendatalab/OmniDocBench.) - opendatalab) ![Star](https://img.shields.io/github/stars/opendatalab/OmniDocBench..svg?style=social&label=Star)

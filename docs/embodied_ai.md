@@ -17,15 +17,15 @@
 
 ## Embodied AI
 
-- **Code-as-Monitor: Constraint-aware Visual Programming for Reactive and
+- **Code-as-Monitor: Constraint-aware Visual Programming for Reactive and 
   Proactive Robotic Failure Detection**, `arXiv, 2412.04455`, [arxiv](http://arxiv.org/abs/2412.04455v2), [pdf](http://arxiv.org/pdf/2412.04455v2.pdf), cication: [**-1**](None) 
 
 	 *Enshen Zhou, Qi Su, Cheng Chi, ..., Lu Sheng, He Wang* · ([zhoues.github](https://zhoues.github.io/Code-as-Monitor/))
-- **Moto: Latent Motion Token as the Bridging Language for Robot
+- **Moto: Latent Motion Token as the Bridging Language for Robot 
   Manipulation**, `arXiv, 2412.04445`, [arxiv](http://arxiv.org/abs/2412.04445v1), [pdf](http://arxiv.org/pdf/2412.04445v1.pdf), cication: [**-1**](None) 
 
 	 *Yi Chen, Yuying Ge, Yizhuo Li, ..., Ying Shan, Xihui Liu* · ([chenyi99.github](https://chenyi99.github.io/moto/)) · ([Moto](https://github.com/TencentARC/Moto) - TencentARC) ![Star](https://img.shields.io/github/stars/TencentARC/Moto.svg?style=social&label=Star)
-- 🌟 **Unraveling the Complexity of Memory in RL Agents: an Approach for
+- 🌟 **Unraveling the Complexity of Memory in RL Agents: an Approach for 
   Classification and Evaluation**, `arXiv, 2412.06531`, [arxiv](http://arxiv.org/abs/2412.06531v1), [pdf](http://arxiv.org/pdf/2412.06531v1.pdf), cication: [**-1**](None) 
 
 	 *Egor Cherepanov, Nikita Kachaev, Artem Zholus, ..., Alexey K. Kovalev, Aleksandr I. Panov*

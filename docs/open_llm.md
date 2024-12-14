@@ -13,7 +13,7 @@
 
 ## Survey
 
-- [**awesome-open-source-lms**](https://github.com/allenai/awesome-open-source-lms) - allenai ![Star](https://img.shields.io/github/stars/allenai/awesome-open-source-lms.svg?style=social&label=Star)
+- [**awesome-open-source-lms**](https://github.com/allenai/awesome-open-source-lms) - allenai ![Star](https://img.shields.io/github/stars/allenai/awesome-open-source-lms.svg?style=social&label=Star) 
 
 	 · ([docs.google](https://docs.google.com/presentation/d/179dpzWSQ9G7EAUlvaJdeE0av9PLuk9Rl33nfhHSJ4xI/edit?usp=sharing))
 
@@ -25,7 +25,7 @@
 - 🌟 **EXAONE 3.5: Series of Large Language Models for Real-world Use Cases**, `arXiv, 2412.04862`, [arxiv](http://arxiv.org/abs/2412.04862v2), [pdf](http://arxiv.org/pdf/2412.04862v2.pdf), cication: [**-1**](None) 
 
 	 *LG AI Research, Soyoung An, Kyunghoon Bae, ..., Heuiyeen Yeen, Hyeongu Yun* · ([huggingface](https://huggingface.co/LGAI-EXAON))
-- [Deepthought-8B is a small and capable reasoning model built on LLaMA-3.1 8B, designed to make AI reasoning more transparent and controllable.](https://huggingface.co/ruliad/deepthought-8b-llama-v0.01-alpha)  🤗
+- [Deepthought-8B is a small and capable reasoning model built on LLaMA-3.1 8B, designed to make AI reasoning more transparent and controllable.](https://huggingface.co/ruliad/deepthought-8b-llama-v0.01-alpha)  🤗 
 - **Fully Open Source Moxin-7B Technical Report**, `arXiv, 2412.06845`, [arxiv](http://arxiv.org/abs/2412.06845v1), [pdf](http://arxiv.org/pdf/2412.06845v1.pdf), cication: [**-1**](None) 
 
 	 *Pu Zhao, Xuan Shen, Zhenglun Kong, ..., Yong He, Yanzhi Wang* · ([Moxin-LLM](https://github.com/moxin-org/Moxin-LLM) - moxin-org) ![Star](https://img.shields.io/github/stars/moxin-org/Moxin-LLM.svg?style=social&label=Star)
@@ -48,7 +48,7 @@
 
 ## Chinese Models
 
-- [DeepSeek-V2.5-1210 is an upgraded version of DeepSeek-V2.5, with improvements across various capabilities:](https://huggingface.co/deepseek-ai/DeepSeek-V2.5-1210)  🤗
+- [DeepSeek-V2.5-1210 is an upgraded version of DeepSeek-V2.5, with improvements across various capabilities:](https://huggingface.co/deepseek-ai/DeepSeek-V2.5-1210)  🤗 
 - **BayLing 2: A Multilingual Large Language Model with Efficient Language 
   Alignment**, `arXiv, 2411.16300`, [arxiv](http://arxiv.org/abs/2411.16300v1), [pdf](http://arxiv.org/pdf/2411.16300v1.pdf), cication: [**-1**](None) 
 
@@ -76,7 +76,7 @@
 
 ## Multilingual Models
 
-- **Marco-LLM: Bridging Languages via Massive Multilingual Training for
+- **Marco-LLM: Bridging Languages via Massive Multilingual Training for 
   Cross-Lingual Enhancement**, `arXiv, 2412.04003`, [arxiv](http://arxiv.org/abs/2412.04003v1), [pdf](http://arxiv.org/pdf/2412.04003v1.pdf), cication: [**-1**](None) 
 
 	 *Lingfeng Ming, Bo Zeng, Chenyang Lyu, ..., Weihua Luo, Kaifu Zhang*

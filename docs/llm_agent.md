@@ -183,7 +183,7 @@
 
 ## Multi Agent
 
-- **GenMAC: Compositional Text-to-Video Generation with Multi-Agent
+- **GenMAC: Compositional Text-to-Video Generation with Multi-Agent 
   Collaboration**, `arXiv, 2412.04440`, [arxiv](http://arxiv.org/abs/2412.04440v1), [pdf](http://arxiv.org/pdf/2412.04440v1.pdf), cication: [**-1**](None) 
 
 	 *Kaiyi Huang, Yukun Huang, Xuefei Ning, ..., Yu Wang, Xihui Liu* · ([karine-h.github](https://karine-h.github.io/GenMAC/)) · ([arxiv](https://arxiv.org/pdf/2412.04440))
