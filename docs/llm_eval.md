@@ -100,6 +100,7 @@
 
 ## Projects
 
+- [**Awesome-LLMs-as-Judges**](https://github.com/CSHaitao/Awesome-LLMs-as-Judges) - CSHaitao ![Star](https://img.shields.io/github/stars/CSHaitao/Awesome-LLMs-as-Judges.svg?style=social&label=Star)
 - [**evaluation-guidebook**](https://github.com/huggingface/evaluation-guidebook/blob/main/contents/automated-benchmarks/some-evaluation-datasets.md) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/evaluation-guidebook.svg?style=social&label=Star) 
 
 	 · ([𝕏](https://x.com/clefourrier/status/1861487337936388448))

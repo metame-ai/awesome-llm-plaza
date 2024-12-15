@@ -12,6 +12,13 @@
 
 ## Omni
 
+- 🌟 **InternLM-XComposer2.5-OmniLive: A Comprehensive Multimodal System for
+  Long-term Streaming Video and Audio Interactions**, `arXiv, 2412.09596`, [arxiv](http://arxiv.org/abs/2412.09596v1), [pdf](http://arxiv.org/pdf/2412.09596v1.pdf), cication: [**-1**](None) 
+
+	 *Pan Zhang, Xiaoyi Dong, Yuhang Cao, ..., Dahua Lin, Jiaqi Wang* · ([InternLM-XComposer](https://github.com/InternLM/InternLM-XComposer/tree/main/InternLM-XComposer-2.5-OmniLive) - InternLM) ![Star](https://img.shields.io/github/stars/InternLM/InternLM-XComposer.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/internlm/internlm-xcomposer2d5-ol-7b))
+- **Lyra: An Efficient and Speech-Centric Framework for Omni-Cognition**, `arXiv, 2412.09501`, [arxiv](http://arxiv.org/abs/2412.09501v1), [pdf](http://arxiv.org/pdf/2412.09501v1.pdf), cication: [**-1**](None) 
+
+	 *Zhisheng Zhong, Chengyao Wang, Yuqi Liu, ..., Shu Liu, Jiaya Jia* · ([lyra-omni.github](https://lyra-omni.github.io/)) · ([103.170.5](https://103.170.5.190:17860/)) · ([Lyra](https://github.com/dvlab-research/Lyra) - dvlab-research) ![Star](https://img.shields.io/github/stars/dvlab-research/Lyra.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/collections/zszhong/lyra-model-674ea5bb3b39ff8f15de75fc))
 - **OmniFlow: Any-to-Any Generation with Multi-Modal Rectified Flows**, `arXiv, 2412.01169`, [arxiv](http://arxiv.org/abs/2412.01169v1), [pdf](http://arxiv.org/pdf/2412.01169v1.pdf), cication: [**-1**](None) 
 
 	 *Shufan Li, Konstantinos Kallidromitis, Akash Gokul, ..., Kazuki Kozuka, Aditya Grover* · ([OmniFlows](https://github.com/jacklishufan/OmniFlows) - jacklishufan) ![Star](https://img.shields.io/github/stars/jacklishufan/OmniFlows.svg?style=social&label=Star)

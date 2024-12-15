@@ -13,6 +13,9 @@
 
 ## LLM Models
 
+- [QRWKV6 32B Instruct Preview is one of the largest and strongest RWKV model to date.](https://huggingface.co/recursal/QRWKV6-32B-Instruct-Preview-v0.1)  🤗
+- [RWKV Flock of Finches 37B-A11B v0.1 Mixture of Experts Model](https://huggingface.co/recursal/Finch-MoE-37B-A11B-v0.1-HF)  🤗
+- [This xLSTM-7B was pre-trained on the DCLM and selected high-quality data for in a total of approx. 2.3 T tokens using the xlstm-jax framework.](https://huggingface.co/NX-AI/xLSTM-7b)  🤗
 - **Ultra-Sparse Memory Network**, `arXiv, 2411.12364`, [arxiv](http://arxiv.org/abs/2411.12364v1), [pdf](http://arxiv.org/pdf/2411.12364v1.pdf), cication: [**-1**](None) 
 
 	 *Zihao Huang, Qiyang Min, Hongzhi Huang, ..., Ran Guo, Xun Zhou*

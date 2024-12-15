@@ -45,6 +45,14 @@
 
 ## Vision-Language Models
 
+- **POINTS1.5: Building a Vision-Language Model towards Real World
+  Applications**, `arXiv, 2412.08443`, [arxiv](http://arxiv.org/abs/2412.08443v1), [pdf](http://arxiv.org/pdf/2412.08443v1.pdf), cication: [**-1**](None) 
+
+	 *Yuan Liu, Le Tian, Xiao Zhou, ..., Yang Yu, Jie Zhou*
+- **OLA-VLM: Elevating Visual Perception in Multimodal LLMs with Auxiliary
+  Embedding Distillation**, `arXiv, 2412.09585`, [arxiv](http://arxiv.org/abs/2412.09585v1), [pdf](http://arxiv.org/pdf/2412.09585v1.pdf), cication: [**-1**](None) 
+
+	 *Jitesh Jain, Zhengyuan Yang, Humphrey Shi, ..., Jianfeng Gao, Jianwei Yang* · ([OLA-VLM;](https://github.com/SHI-Labs/OLA-VLM;) - SHI-Labs) ![Star](https://img.shields.io/github/stars/SHI-Labs/OLA-VLM;.svg?style=social&label=Star) · ([praeclarumjj3.github](https://praeclarumjj3.github.io/ola_vlm/))
 - 🌟 **NVILA: Efficient Frontier Visual Language Models**, `arXiv, 2412.04468`, [arxiv](http://arxiv.org/abs/2412.04468v1), [pdf](http://arxiv.org/pdf/2412.04468v1.pdf), cication: [**-1**](None) 
 
 	 *Zhijian Liu, Ligeng Zhu, Baifeng Shi, ..., Song Han, Yao Lu*
@@ -119,6 +127,9 @@
 
 ## Video
 
+- **StreamChat: Chatting with Streaming Video**, `arXiv, 2412.08646`, [arxiv](http://arxiv.org/abs/2412.08646v1), [pdf](http://arxiv.org/pdf/2412.08646v1.pdf), cication: [**-1**](None) 
+
+	 *Jihao Liu, Zhiding Yu, Shiyi Lan, ..., Hongsheng Li, Jose M. Alvare* · ([jihaonew.github](https://jihaonew.github.io/projects/streamchat.html))
 - **VideoICL: Confidence-based Iterative In-context Learning for 
   Out-of-Distribution Video Understanding**, `arXiv, 2412.02186`, [arxiv](http://arxiv.org/abs/2412.02186v1), [pdf](http://arxiv.org/pdf/2412.02186v1.pdf), cication: [**-1**](None) 
 
@@ -254,6 +265,10 @@
 
 ## Evaluation
 
+- **VisionArena: 230K Real World User-VLM Conversations with Preference
+  Labels**, `arXiv, 2412.08687`, [arxiv](http://arxiv.org/abs/2412.08687v1), [pdf](http://arxiv.org/pdf/2412.08687v1.pdf), cication: [**-1**](None) 
+
+	 *Christopher Chou, Lisa Dunlap, Koki Mashita, ..., Joseph E. Gonzalez, Wei-Lin Chiang* · ([huggingface](https://huggingface.co/lmarena-ai))
 - **VideoAutoArena: An Automated Arena for Evaluating Large Multimodal 
   Models in Video Analysis through User Simulation**, `arXiv, 2411.13281`, [arxiv](http://arxiv.org/abs/2411.13281v1), [pdf](http://arxiv.org/pdf/2411.13281v1.pdf), cication: [**-1**](None) 
 
@@ -344,6 +359,17 @@
 
 ## Generation
 
+- **DiffSensei: Bridging Multi-Modal LLMs and Diffusion Models for
+  Customized Manga Generation**, `arXiv, 2412.07589`, [arxiv](http://arxiv.org/abs/2412.07589v1), [pdf](http://arxiv.org/pdf/2412.07589v1.pdf), cication: [**-1**](None) 
+
+	 *Jianzong Wu, Chao Tang, Jingbo Wang, ..., Xiangtai Li, Yunhai Tong* · ([jianzongwu.github](https://jianzongwu.github.io/projects/diffsensei/)) · ([arxiv](https://arxiv.org/abs/2412.07589)) · ([DiffSensei](https://github.com/jianzongwu/DiffSensei) - jianzongwu) ![Star](https://img.shields.io/github/stars/jianzongwu/DiffSensei.svg?style=social&label=Star)
+- **Multimodal Latent Language Modeling with Next-Token Diffusion**, `arXiv, 2412.08635`, [arxiv](http://arxiv.org/abs/2412.08635v1), [pdf](http://arxiv.org/pdf/2412.08635v1.pdf), cication: [**-1**](None) 
+
+	 *Yutao Sun, Hangbo Bao, Wenhui Wang, ..., Jianyong Wang, Furu Wei*
+- **EasyRef: Omni-Generalized Group Image Reference for Diffusion Models via
+  Multimodal LLM**, `arXiv, 2412.09618`, [arxiv](http://arxiv.org/abs/2412.09618v1), [pdf](http://arxiv.org/pdf/2412.09618v1.pdf), cication: [**-1**](None) 
+
+	 *Zhuofan Zong, Dongzhi Jiang, Bingqi Ma, ..., Yu Liu, Hongsheng Li* · ([easyref-gen.github](https://easyref-gen.github.io/))
 - **TokenFlow: Unified Image Tokenizer for Multimodal Understanding and 
   Generation**, `arXiv, 2412.03069`, [arxiv](http://arxiv.org/abs/2412.03069v1), [pdf](http://arxiv.org/pdf/2412.03069v1.pdf), cication: [**-1**](None) 
 
@@ -378,6 +404,14 @@
 
 ## Dataset
 
+- 🌟 **LAION-SG: An Enhanced Large-Scale Dataset for Training Complex
+  Image-Text Models with Structural Annotations**, `arXiv, 2412.08580`, [arxiv](http://arxiv.org/abs/2412.08580v1), [pdf](http://arxiv.org/pdf/2412.08580v1.pdf), cication: [**-1**](None) 
+
+	 *Zejian Li, Chenye Meng, Yize Li, ..., Jinxiong Chang, Lingyun Sun* · ([LAION-SG](https://github.com/mengcye/LAION-SG) - mengcye) ![Star](https://img.shields.io/github/stars/mengcye/LAION-SG.svg?style=social&label=Star)
+- **Euclid: Supercharging Multimodal LLMs with Synthetic High-Fidelity
+  Visual Descriptions**, `arXiv, 2412.08737`, [arxiv](http://arxiv.org/abs/2412.08737v1), [pdf](http://arxiv.org/pdf/2412.08737v1.pdf), cication: [**-1**](None) 
+
+	 *Jiarui Zhang, Ollie Liu, Tianyu Yu, ..., Jinyi Hu, Willie Neiswanger*
 - **BigDocs: An Open and Permissively-Licensed Dataset for Training 
   Multimodal Models on Document and Code Tasks**, `arXiv, 2412.04626`, [arxiv](http://arxiv.org/abs/2412.04626v1), [pdf](http://arxiv.org/pdf/2412.04626v1.pdf), cication: [**-1**](None) 
 
@@ -410,6 +444,9 @@
 
 ## Projects
 
+- 🌟 [**DeepSeek-VL2**](https://github.com/deepseek-ai/DeepSeek-VL2) - deepseek-ai ![Star](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-VL2.svg?style=social&label=Star)
+
+	 · ([𝕏](https://x.com/deepseek_ai/status/1867545550910017563))
 - [Pixtral Large](https://mistral.ai/news/pixtral-large/) 
 
 	 · ([huggingface](https://huggingface.co/mistralai/Pixtral-Large-Instruct-2411))

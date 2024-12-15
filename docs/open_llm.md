@@ -22,6 +22,12 @@
 
 ## English Models
 
+- [Hermes 3 3B is a full parameter fine-tune of the Llama-3.2 3B foundation model](https://huggingface.co/NousResearch/Hermes-3-Llama-3.2-3B)  🤗
+- [Introducing Phi-4: Microsoft’s Newest Small Language Model Specializing in Complex Reasoning](https://techcommunity.microsoft.com/blog/aiplatformblog/introducing-phi-4-microsoft%e2%80%99s-newest-small-language-model-specializing-in-comple/4357090) 
+- **Phi-4 Technical Report**, `arXiv, 2412.08905`, [arxiv](http://arxiv.org/abs/2412.08905v1), [pdf](http://arxiv.org/pdf/2412.08905v1.pdf), cication: [**-1**](None) 
+
+	 *Marah Abdin, Jyoti Aneja, Harkirat Behl, ..., Cyril Zhang, Yi Zhang*
+- [C4AI Command R7B is an open weights research release of a 7B billion parameter model](https://huggingface.co/CohereForAI/c4ai-command-r7b-12-2024)  🤗
 - 🌟 **EXAONE 3.5: Series of Large Language Models for Real-world Use Cases**, `arXiv, 2412.04862`, [arxiv](http://arxiv.org/abs/2412.04862v2), [pdf](http://arxiv.org/pdf/2412.04862v2.pdf), cication: [**-1**](None) 
 
 	 *LG AI Research, Soyoung An, Kyunghoon Bae, ..., Heuiyeen Yeen, Hyeongu Yun* · ([huggingface](https://huggingface.co/LGAI-EXAON))
@@ -48,6 +54,7 @@
 
 ## Chinese Models
 
+- [T-lite-it-1.0 is a model built upon the Qwen 2.5 model family and incorporates both continual pre-training and alignment techniques.](https://huggingface.co/t-tech/T-lite-it-1.0)  🤗
 - [DeepSeek-V2.5-1210 is an upgraded version of DeepSeek-V2.5, with improvements across various capabilities:](https://huggingface.co/deepseek-ai/DeepSeek-V2.5-1210)  🤗 
 - **BayLing 2: A Multilingual Large Language Model with Efficient Language 
   Alignment**, `arXiv, 2411.16300`, [arxiv](http://arxiv.org/abs/2411.16300v1), [pdf](http://arxiv.org/pdf/2411.16300v1.pdf), cication: [**-1**](None) 

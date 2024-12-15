@@ -76,6 +76,11 @@
 
 ## UI Agent
 
+- [**helium**](https://github.com/mherrmann/helium) - mherrmann ![Star](https://img.shields.io/github/stars/mherrmann/helium.svg?style=social&label=Star)
+- **AgentTrek: Agent Trajectory Synthesis via Guiding Replay with Web
+  Tutorials**, `arXiv, 2412.09605`, [arxiv](http://arxiv.org/abs/2412.09605v1), [pdf](http://arxiv.org/pdf/2412.09605v1.pdf), cication: [**-1**](None) 
+
+	 *Yiheng Xu, Dunjie Lu, Zhennan Shen, ..., Caiming Xiong, Tao Yu* · ([easyref-gen.github](https://easyref-gen.github.io/))
 - 🌟 **Aguvis: Unified Pure Vision Agents for Autonomous GUI Interaction**, `arXiv, 2412.04454`, [arxiv](http://arxiv.org/abs/2412.04454v1), [pdf](http://arxiv.org/pdf/2412.04454v1.pdf), cication: [**-1**](None) 
 
 	 *Yiheng Xu, Zekun Wang, Junli Wang, ..., Tao Yu, Caiming Xiong* · ([aguvis-project.github](https://aguvis-project.github.io))

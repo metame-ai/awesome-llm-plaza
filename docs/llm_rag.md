@@ -90,6 +90,7 @@
 
 ## Projects
 
+- [**onyx**](https://github.com/onyx-dot-app/onyx) - onyx-dot-app ![Star](https://img.shields.io/github/stars/onyx-dot-app/onyx.svg?style=social&label=Star)
 - [**fast-graphrag**](https://github.com/circlemind-ai/fast-graphrag) - circlemind-ai ![Star](https://img.shields.io/github/stars/circlemind-ai/fast-graphrag.svg?style=social&label=Star) 
 - [**txtai**](https://github.com/neuml/txtai) - neuml ![Star](https://img.shields.io/github/stars/neuml/txtai.svg?style=social&label=Star) 
 - [**Perplexica**](https://github.com/ItzCrazyKns/Perplexica) - ItzCrazyKns ![Star](https://img.shields.io/github/stars/ItzCrazyKns/Perplexica.svg?style=social&label=Star) 

@@ -51,6 +51,9 @@
 
 ## Evaluation
 
+- **Evaluating and Aligning CodeLLMs on Human Preference**, `arXiv, 2412.05210`, [arxiv](http://arxiv.org/abs/2412.05210v1), [pdf](http://arxiv.org/pdf/2412.05210v1.pdf), cication: [**-1**](None) 
+
+	 *Jian Yang, Jiaxi Yang, Ke Jin, ..., Binyuan Hui, Junyang Lin* · ([Qwen2.5-Coder](https://github.com/QwenLM/Qwen2.5-Coder/tree/main/qwencoder-eval/instruct/CodeArena) - QwenLM) ![Star](https://img.shields.io/github/stars/QwenLM/Qwen2.5-Coder.svg?style=social&label=Star) · ([arxiv](https://arxiv.org/abs/2412.05210)) · ([huggingface](https://huggingface.co/datasets/CSJianYang/CodeArena))
 - [KernelBench, a new code generation benchmark for evaluating models' ability to generate correct and efficient CUDA kernels.](https://x.com/Azaliamirh/status/1864026403597103495)  𝕏 
 - [Copilot Arena](https://lmarena.github.io/blog/2024/copilot-arena/) 
 - **Can Language Models Replace Programmers? REPOCOD Says 'Not Yet'**, `arXiv, 2410.21647`, [arxiv](http://arxiv.org/abs/2410.21647v2), [pdf](http://arxiv.org/pdf/2410.21647v2.pdf), cication: [**-1**](None) 
@@ -64,6 +67,7 @@
 
 ## Projects
 
+- [**llamacoder**](https://github.com/Nutlope/llamacoder) - Nutlope ![Star](https://img.shields.io/github/stars/Nutlope/llamacoder.svg?style=social&label=Star)
 - [**MPLSandbox**](https://github.com/Ablustrund/MPLSandbox) - Ablustrund ![Star](https://img.shields.io/github/stars/Ablustrund/MPLSandbox.svg?style=social&label=Star) 
 
 	 · ([arxiv](https://arxiv.org/abs/2410.23074))

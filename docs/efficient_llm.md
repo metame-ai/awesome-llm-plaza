@@ -111,6 +111,9 @@
 
 ## Inference
 
+- [TGI v3 overview](https://huggingface.co/docs/text-generation-inference/conceptual/chunking)  🤗
+
+	 · ([𝕏](https://x.com/narsilou/status/1866423560799158775))
 - [Efficient LLM Inference with SGLang, Lianmin Zheng, xAI](https://www.youtube.com/watch?v=Ny4xxErgFgQ)  :clapper: 
 - [**ZhiLight**](https://github.com/zhihu/ZhiLight) - zhihu ![Star](https://img.shields.io/github/stars/zhihu/ZhiLight.svg?style=social&label=Star) 
 - [Introducing SGLang Router: a cache-aware router for LLM Inference in SGLang v0.4](https://x.com/hsu_byron/status/1864449841239347341)  𝕏 

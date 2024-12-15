@@ -47,6 +47,10 @@
 
 ## Interpretability
 
+- **Frame Representation Hypothesis: Multi-Token LLM Interpretability and
+  Concept-Guided Text Generation**, `arXiv, 2412.07334`, [arxiv](http://arxiv.org/abs/2412.07334v2), [pdf](http://arxiv.org/pdf/2412.07334v2.pdf), cication: [**-1**](None) 
+
+	 *Pedro H. V. Valois, Lincon S. Souza, Erica K. Shimomoto, ..., Kazuhiro Fukui* · ([frame-representation-hypothesis.git](https://github.com/phvv-me/frame-representation-hypothesis.git) - phvv-me) ![Star](https://img.shields.io/github/stars/phvv-me/frame-representation-hypothesis.git.svg?style=social&label=Star)
 - 🌟 **Critical Tokens Matter: Token-Level Contrastive Estimation Enhances 
   LLM's Reasoning Capability**, `arXiv, 2411.19943`, [arxiv](http://arxiv.org/abs/2411.19943v2), [pdf](http://arxiv.org/pdf/2411.19943v2.pdf), cication: [**-1**](None) 
 
@@ -173,6 +177,7 @@
 
 ## Tokenization
 
+- [Byte Latent Transformer: Patches Scale Better Than Tokens](https://ai.meta.com/research/publications/byte-latent-transformer-patches-scale-better-than-tokens/) 
 - [added a few lines of code to the base Llama 3 tokenizer and got a free boost in arithmetic performance](https://x.com/garrethleee/status/1860039446311371132)  𝕏 
 - **Counting Ability of Large Language Models and Impact of Tokenization**, `arXiv, 2410.19730`, [arxiv](http://arxiv.org/abs/2410.19730v2), [pdf](http://arxiv.org/pdf/2410.19730v2.pdf), cication: [**-1**](None) 
 

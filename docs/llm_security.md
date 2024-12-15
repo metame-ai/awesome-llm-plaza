@@ -13,6 +13,12 @@
 
 ## LLM Security
 
+- [Best-of-N Jailbreaking](https://jplhughes.github.io/bon-jailbreaking/) 
+
+	 · ([𝕏](https://x.com/AnthropicAI/status/1867608917595107443))
+- **Granite Guardian**, `arXiv, 2412.07724`, [arxiv](http://arxiv.org/abs/2412.07724v1), [pdf](http://arxiv.org/pdf/2412.07724v1.pdf), cication: [**-1**](None) 
+
+	 *Inkit Padhi, Manish Nagireddy, Giandomenico Cornacchia, ..., Kush R. Varshney, Prasanna Sattigeri* · ([granite-guardian](https://github.com/ibm-granite/granite-guardian) - ibm-granite) ![Star](https://img.shields.io/github/stars/ibm-granite/granite-guardian.svg?style=social&label=Star)
 - **Llama Guard 3 Vision: Safeguarding Human-AI Image Understanding 
   Conversations**, `arXiv, 2411.10414`, [arxiv](http://arxiv.org/abs/2411.10414v1), [pdf](http://arxiv.org/pdf/2411.10414v1.pdf), cication: [**-1**](None) 
 

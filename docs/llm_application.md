@@ -214,6 +214,7 @@
 
 ## Projects
 
+- [**awesome-llm-apps**](https://github.com/Shubhamsaboo/awesome-llm-apps) - Shubhamsaboo ![Star](https://img.shields.io/github/stars/Shubhamsaboo/awesome-llm-apps.svg?style=social&label=Star)
 - [**amurex**](https://github.com/thepersonalaicompany/amurex) - thepersonalaicompany ![Star](https://img.shields.io/github/stars/thepersonalaicompany/amurex.svg?style=social&label=Star) 
 - [**ai-rd-tasks**](https://github.com/METR/ai-rd-tasks) - METR ![Star](https://img.shields.io/github/stars/METR/ai-rd-tasks.svg?style=social&label=Star) 
 
@@ -244,6 +245,7 @@
 
 ## LLM Applications
 
+- [Clio: A system for privacy-preserving insights into real-world AI use](https://www.anthropic.com/research/clio) 
 - [A curated knowledge base of real-world LLMOps implementations, with detailed summaries and technical notes.](https://www.zenml.io/llmops-database) 
 - 🌟 [Synthesizing 1M+ open access computer science papers](https://openscholar.allen.ai/) 
 
