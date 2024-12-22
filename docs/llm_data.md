@@ -20,6 +20,9 @@
 
 ## LLM Data
 
+- [FineMath consists of 34B tokens (FineMath-3+) and 54B tokens (FineMath-3+ with InfiMM-WebMath-3+) of mathematical educational content filtered from CommonCrawl.](https://huggingface.co/datasets/HuggingFaceTB/finemath)  🤗
+
+	 · ([𝕏](https://x.com/anton_lozhkov/status/1869771053146464507))
 - 🌟 [**fineweb-2**](https://github.com/huggingface/fineweb-2) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/fineweb-2.svg?style=social&label=Star) 
 
 	 · ([huggingface](https://huggingface.co/datasets/HuggingFaceFW/fineweb-2))

@@ -13,9 +13,12 @@
 
 ## LLM Models
 
-- [QRWKV6 32B Instruct Preview is one of the largest and strongest RWKV model to date.](https://huggingface.co/recursal/QRWKV6-32B-Instruct-Preview-v0.1)  🤗
-- [RWKV Flock of Finches 37B-A11B v0.1 Mixture of Experts Model](https://huggingface.co/recursal/Finch-MoE-37B-A11B-v0.1-HF)  🤗
-- [This xLSTM-7B was pre-trained on the DCLM and selected high-quality data for in a total of approx. 2.3 T tokens using the xlstm-jax framework.](https://huggingface.co/NX-AI/xLSTM-7b)  🤗
+- [Bamba: Inference-Efficient Hybrid Mamba2 Model](https://huggingface.co/blog/bamba)  🤗
+
+	 · ([bamba](https://github.com/foundation-model-stack/bamba) - foundation-model-stack) ![Star](https://img.shields.io/github/stars/foundation-model-stack/bamba.svg?style=social&label=Star)
+- [QRWKV6 32B Instruct Preview is one of the largest and strongest RWKV model to date.](https://huggingface.co/recursal/QRWKV6-32B-Instruct-Preview-v0.1)  🤗 
+- [RWKV Flock of Finches 37B-A11B v0.1 Mixture of Experts Model](https://huggingface.co/recursal/Finch-MoE-37B-A11B-v0.1-HF)  🤗 
+- [This xLSTM-7B was pre-trained on the DCLM and selected high-quality data for in a total of approx. 2.3 T tokens using the xlstm-jax framework.](https://huggingface.co/NX-AI/xLSTM-7b)  🤗 
 - **Ultra-Sparse Memory Network**, `arXiv, 2411.12364`, [arxiv](http://arxiv.org/abs/2411.12364v1), [pdf](http://arxiv.org/pdf/2411.12364v1.pdf), cication: [**-1**](None) 
 
 	 *Zihao Huang, Qiyang Min, Hongzhi Huang, ..., Ran Guo, Xun Zhou*
@@ -47,5 +50,8 @@
 
 ## Projects
 
+- [**large_concept_model**](https://github.com/facebookresearch/large_concept_model) - facebookresearch ![Star](https://img.shields.io/github/stars/facebookresearch/large_concept_model.svg?style=social&label=Star)
+
+	 · ([ai.meta](https://ai.meta.com/blog/meta-fair-updates-agents-robustness-safety-architecture/)) · ([ai.meta](https://ai.meta.com/research/publications/large-concept-models-language-modeling-in-a-sentence-representation-space/)) · ([𝕏](https://x.com/melbayad/status/1867689627189952956))
 
 ## Misc

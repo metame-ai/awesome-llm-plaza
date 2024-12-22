@@ -35,6 +35,10 @@
 
 ## Efficient LLM
 
+- **SepLLM: Accelerate Large Language Models by Compressing One Segment into
+  One Separator**, `arXiv, 2412.12094`, [arxiv](http://arxiv.org/abs/2412.12094v2), [pdf](http://arxiv.org/pdf/2412.12094v2.pdf), cication: [**-1**](None) 
+
+	 *Guoxuan Chen, Han Shi, Jiawei Li, ..., Weiyang Liu, Chao Huang*
 - **Yi-Lightning Technical Report**, `arXiv, 2412.01253`, [arxiv](http://arxiv.org/abs/2412.01253v3), [pdf](http://arxiv.org/pdf/2412.01253v3.pdf), cication: [**-1**](None) 
 
 	 *01. AI, :, Alan Wake, ..., Zhiyuan Liu, Zirui Zhang*
@@ -111,7 +115,10 @@
 
 ## Inference
 
-- [TGI v3 overview](https://huggingface.co/docs/text-generation-inference/conceptual/chunking)  🤗
+- [FlashInfer 0.2 - Efficient and Customizable Kernels for LLM Inference Serving](https://flashinfer.ai/2024/12/16/flashinfer-v02-release.html) 
+
+	 · ([𝕏](https://x.com/ye_combinator/status/1869823582261653787))
+- [TGI v3 overview](https://huggingface.co/docs/text-generation-inference/conceptual/chunking)  🤗 
 
 	 · ([𝕏](https://x.com/narsilou/status/1866423560799158775))
 - [Efficient LLM Inference with SGLang, Lianmin Zheng, xAI](https://www.youtube.com/watch?v=Ny4xxErgFgQ)  :clapper: 

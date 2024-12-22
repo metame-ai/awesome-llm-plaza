@@ -18,6 +18,11 @@
 
 ## RAG
 
+- [GemmaEmbed is a dense-vector embedding model, trained especially for retrieval.](https://huggingface.co/google/Gemma-Embeddings-v1.0)  🤗
+- 🌟 **Smarter, Better, Faster, Longer: A Modern Bidirectional Encoder for
+  Fast, Memory Efficient, and Long Context Finetuning and Inference**, `arXiv, 2412.13663`, [arxiv](http://arxiv.org/abs/2412.13663v2), [pdf](http://arxiv.org/pdf/2412.13663v2.pdf), cication: [**-1**](None) 
+
+	 *Benjamin Warner, Antoine Chaffin, Benjamin Clavié, ..., Jeremy Howard, Iacopo Poli* · ([huggingface](https://huggingface.co/blog/modernbert)) · ([𝕏](https://x.com/jeremyphoward/status/1869786023963832509?s=46))
 - **Auto-RAG: Autonomous Retrieval-Augmented Generation for Large Language 
   Models**, `arXiv, 2411.19443`, [arxiv](http://arxiv.org/abs/2411.19443v1), [pdf](http://arxiv.org/pdf/2411.19443v1.pdf), cication: [**-1**](None) 
 
@@ -77,6 +82,10 @@
 
 ## Evaluation
 
+- **OmniEval: An Omnidirectional and Automatic RAG Evaluation Benchmark in
+  Financial Domain**, `arXiv, 2412.13018`, [arxiv](http://arxiv.org/abs/2412.13018v1), [pdf](http://arxiv.org/pdf/2412.13018v1.pdf), cication: [**-1**](None) 
+
+	 *Shuting Wang, Jiejun Tan, Zhicheng Dou, ..., Ji-Rong Wen* · ([OmniEval](https://github.com/RUC-NLPIR/OmniEval) - RUC-NLPIR) ![Star](https://img.shields.io/github/stars/RUC-NLPIR/OmniEval.svg?style=social&label=Star)
 - **Long Context RAG Performance of Large Language Models**, `arXiv, 2411.03538`, [arxiv](http://arxiv.org/abs/2411.03538v1), [pdf](http://arxiv.org/pdf/2411.03538v1.pdf), cication: [**-1**](None) 
 
 	 *Quinn Leng, Jacob Portes, Sam Havens, ..., Matei Zaharia, Michael Carbin*
@@ -90,7 +99,7 @@
 
 ## Projects
 
-- [**onyx**](https://github.com/onyx-dot-app/onyx) - onyx-dot-app ![Star](https://img.shields.io/github/stars/onyx-dot-app/onyx.svg?style=social&label=Star)
+- [**onyx**](https://github.com/onyx-dot-app/onyx) - onyx-dot-app ![Star](https://img.shields.io/github/stars/onyx-dot-app/onyx.svg?style=social&label=Star) 
 - [**fast-graphrag**](https://github.com/circlemind-ai/fast-graphrag) - circlemind-ai ![Star](https://img.shields.io/github/stars/circlemind-ai/fast-graphrag.svg?style=social&label=Star) 
 - [**txtai**](https://github.com/neuml/txtai) - neuml ![Star](https://img.shields.io/github/stars/neuml/txtai.svg?style=social&label=Star) 
 - [**Perplexica**](https://github.com/ItzCrazyKns/Perplexica) - ItzCrazyKns ![Star](https://img.shields.io/github/stars/ItzCrazyKns/Perplexica.svg?style=social&label=Star) 

@@ -13,6 +13,10 @@
 
 ## LLM Security
 
+- [Alignment faking in large language models](https://www.anthropic.com/research/alignment-faking) 
+
+	 · ([assets.anthropic](https://assets.anthropic.com/m/983c85a201a962f/original/Alignment-Faking-in-Large-Language-Models-full-paper.pdf))
+- [Deliberative alignment: reasoning enables safer language models](https://openai.com/index/deliberative-alignment/) 
 - [Best-of-N Jailbreaking](https://jplhughes.github.io/bon-jailbreaking/) 
 
 	 · ([𝕏](https://x.com/AnthropicAI/status/1867608917595107443))

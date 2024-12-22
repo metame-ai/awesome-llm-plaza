@@ -17,6 +17,11 @@
 
 ## Hallucination
 
+- [FACTS Grounding: A new benchmark for evaluating the factuality of large language models](https://deepmind.google/discover/blog/facts-grounding-a-new-benchmark-for-evaluating-the-factuality-of-large-language-models/) 
+- 🌟 **RetroLLM: Empowering Large Language Models to Retrieve Fine-grained
+  Evidence within Generation**, `arXiv, 2412.11919`, [arxiv](http://arxiv.org/abs/2412.11919v1), [pdf](http://arxiv.org/pdf/2412.11919v1.pdf), cication: [**-1**](None) 
+
+	 *Xiaoxi Li, Jiajie Jin, Yujia Zhou, ..., Qi Ye, Zhicheng Dou* · ([RetroLLM.](https://github.com/sunnynexus/RetroLLM.) - sunnynexus) ![Star](https://img.shields.io/github/stars/sunnynexus/RetroLLM..svg?style=social&label=Star)
 - **Distinguishing Ignorance from Error in LLM Hallucinations**, `arXiv, 2410.22071`, [arxiv](http://arxiv.org/abs/2410.22071v1), [pdf](http://arxiv.org/pdf/2410.22071v1.pdf), cication: [**-1**](None) 
 
 	 *Adi Simhi, Jonathan Herzig, Idan Szpektor, ..., Yonatan Belinkov* · ([hallucination-mitigation](https://github.com/technion-cs-nlp/hallucination-mitigation) - technion-cs-nlp) ![Star](https://img.shields.io/github/stars/technion-cs-nlp/hallucination-mitigation.svg?style=social&label=Star) · ([x](https://x.com/AdiSimhi/status/1851650371615125563))

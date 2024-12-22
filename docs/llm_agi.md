@@ -13,6 +13,9 @@
 
 ## World Model
 
+- **GenEx: Generating an Explorable World**, `arXiv, 2412.09624`, [arxiv](http://arxiv.org/abs/2412.09624v3), [pdf](http://arxiv.org/pdf/2412.09624v3.pdf), cication: [**-1**](None) 
+
+	 *Taiming Lu, Tianmin Shu, Junfei Xiao, ..., Alan Yuille, Jieneng Chen* · ([𝕏](https://x.com/jieneng_chen/status/1868521544252830072?s=46&t=0K8BJ9zWR0CDK56td_JoRg))
 - [Genie 2: A large-scale foundation world model](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/) 
 
 	 · ([𝕏](https://x.com/GoogleDeepMind/status/1864367798132039836))

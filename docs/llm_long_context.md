@@ -13,6 +13,9 @@
 
 ## Long Context
 
+- **SCBench: A KV Cache-Centric Analysis of Long-Context Methods**, `arXiv, 2412.10319`, [arxiv](http://arxiv.org/abs/2412.10319v1), [pdf](http://arxiv.org/pdf/2412.10319v1.pdf), cication: [**-1**](None) 
+
+	 *Yucheng Li, Huiqiang Jiang, Qianhui Wu, ..., Yuqing Yang, Lili Qiu* · ([aka](https://aka.ms/SCBench))
 - **Star Attention: Efficient LLM Inference over Long Sequences**, `arXiv, 2411.17116`, [arxiv](http://arxiv.org/abs/2411.17116v1), [pdf](http://arxiv.org/pdf/2411.17116v1.pdf), cication: [**-1**](None) 
 
 	 *Shantanu Acharya, Fei Jia, Boris Ginsburg* · ([Star-Attention](https://github.com/NVIDIA/Star-Attention?tab=readme-ov-file) - NVIDIA) ![Star](https://img.shields.io/github/stars/NVIDIA/Star-Attention.svg?style=social&label=Star)
@@ -73,6 +76,7 @@
 
 ## Projects
 
+- [**LLMTest_NeedleInAHaystack**](https://github.com/gkamradt/LLMTest_NeedleInAHaystack) - gkamradt ![Star](https://img.shields.io/github/stars/gkamradt/LLMTest_NeedleInAHaystack.svg?style=social&label=Star)
 - [**KVCache-Factory**](https://github.com/Zefan-Cai/KVCache-Factory) - Zefan-Cai ![Star](https://img.shields.io/github/stars/Zefan-Cai/KVCache-Factory.svg?style=social&label=Star) 
 - [**Awesome-LLM-Long-Context-Modeling**](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling) - Xnhyacinth ![Star](https://img.shields.io/github/stars/Xnhyacinth/Awesome-LLM-Long-Context-Modeling.svg?style=social&label=Star) 
 

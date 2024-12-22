@@ -18,9 +18,27 @@
 
 ## Survey
 
+- **A Survey on LLM Inference-Time Self-Improvement**, `arXiv, 2412.14352`, [arxiv](http://arxiv.org/abs/2412.14352v1), [pdf](http://arxiv.org/pdf/2412.14352v1.pdf), cication: [**-1**](None) 
+
+	 *Xiangjue Dong, Maria Teleki, James Caverlee*
 
 ## Reasoning
 
+- **SPaR: Self-Play with Tree-Search Refinement to Improve
+  Instruction-Following in Large Language Models**, `arXiv, 2412.11605`, [arxiv](http://arxiv.org/abs/2412.11605v1), [pdf](http://arxiv.org/pdf/2412.11605v1.pdf), cication: [**-1**](None) 
+
+	 *Jiale Cheng, Xiao Liu, Cunxiang Wang, ..., Hongning Wang, Minlie Huang* · ([SPaR](https://github.com/thu-coai/SPaR) - thu-coai) ![Star](https://img.shields.io/github/stars/thu-coai/SPaR.svg?style=social&label=Star)
+- 🌟 **Are Your LLMs Capable of Stable Reasoning?**, `arXiv, 2412.13147`, [arxiv](http://arxiv.org/abs/2412.13147v2), [pdf](http://arxiv.org/pdf/2412.13147v2.pdf), cication: [**-1**](None) 
+
+	 *Junnan Liu, Hongwei Liu, Linchen Xiao, ..., Songyang Zhang, Kai Chen* · ([GPassK.](https://github.com/open-compass/GPassK.) - open-compass) ![Star](https://img.shields.io/github/stars/open-compass/GPassK..svg?style=social&label=Star)
+- **Compressed Chain of Thought: Efficient Reasoning Through Dense
+  Representations**, `arXiv, 2412.13171`, [arxiv](http://arxiv.org/abs/2412.13171v1), [pdf](http://arxiv.org/pdf/2412.13171v1.pdf), cication: [**-1**](None) 
+
+	 *Jeffrey Cheng, Benjamin Van Durme*
+- **LongBench v2: Towards Deeper Understanding and Reasoning on Realistic
+  Long-context Multitasks**, `arXiv, 2412.15204`, [arxiv](http://arxiv.org/abs/2412.15204v1), [pdf](http://arxiv.org/pdf/2412.15204v1.pdf), cication: [**-1**](None) 
+
+	 *Yushi Bai, Shangqing Tu, Jiajie Zhang, ..., Jie Tang, Juanzi Li* · ([longbench2.github](https://longbench2.github.io))
 - **RARE: Retrieval-Augmented Reasoning Enhancement for Large Language 
   Models**, `arXiv, 2412.02830`, [arxiv](http://arxiv.org/abs/2412.02830v3), [pdf](http://arxiv.org/pdf/2412.02830v3.pdf), cication: [**-1**](None) 
 
@@ -83,6 +101,9 @@
 
 ## Math Reasoning
 
+- [FineMath consists of 34B tokens (FineMath-3+) and 54B tokens (FineMath-3+ with InfiMM-WebMath-3+) of mathematical educational content filtered from CommonCrawl.](https://huggingface.co/datasets/HuggingFaceTB/finemath)  🤗
+
+	 · ([𝕏](https://x.com/anton_lozhkov/status/1869771053146464507))
 - **U-MATH: A University-Level Benchmark for Evaluating Mathematical Skills 
   in LLMs**, `arXiv, 2412.03205`, [arxiv](http://arxiv.org/abs/2412.03205v2), [pdf](http://arxiv.org/pdf/2412.03205v2.pdf), cication: [**-1**](None) 
 
@@ -109,6 +130,9 @@
 
 ## O1 Reasoning
 
+- 🌟 [**search-and-learn**](https://github.com/huggingface/search-and-learn) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/search-and-learn.svg?style=social&label=Star)
+
+	 · ([huggingface](https://huggingface.co/spaces/HuggingFaceH4/blogpost-scaling-test-time-compute)) · ([𝕏](https://x.com/_lewtun/status/1868703456602865880))
 - [Beyond Decoding: Meta-Generation Algorithms for Large Language Models](https://cmu-l3.github.io/neurips2024-inference-tutorial/) 
 - [Beyond Decoding: Meta-Generation Algorithmsfor Large Language Models](https://cmu-l3.github.io/neurips2024-inference-tutorial/static/slides/neurips2024metageneration-tutorial-all.pdf) 
 - [uncensored version of Qwen/QwQ-32B-Preview created with abliteration](https://huggingface.co/huihui-ai/QwQ-32B-Preview-abliterated)  🤗 

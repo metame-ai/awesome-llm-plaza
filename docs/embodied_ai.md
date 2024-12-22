@@ -86,6 +86,7 @@
 
 ## Humanoids
 
+- [**unitree_rl_gym**](https://github.com/unitreerobotics/unitree_rl_gym) - unitreerobotics ![Star](https://img.shields.io/github/stars/unitreerobotics/unitree_rl_gym.svg?style=social&label=Star)
 - [Boston Dynamics showcased Atlas autonomously transferring engine covers using ML vision for object detection and localization](https://x.com/adcock_brett/status/1853120940651024503)  𝕏 
 - [EngineAI unveiled SE01, a humanoid robot achieving natural walking through advanced joint modules and neural networks.](https://x.com/adcock_brett/status/1850569193365676202)  𝕏 
 - [Introducing Torso, a bimanual android actuated with artificial muscles.](https://x.com/clonerobotics/status/1849181515022053845)  𝕏 
@@ -97,5 +98,6 @@
 
 ## Projects
 
+- [**Genesis**](https://github.com/Genesis-Embodied-AI/Genesis) - Genesis-Embodied-AI ![Star](https://img.shields.io/github/stars/Genesis-Embodied-AI/Genesis.svg?style=social&label=Star)
 
 ## Misc

@@ -19,6 +19,10 @@
 
 ## Survey
 
+- **A Survey of Mathematical Reasoning in the Era of Multimodal Large
+  Language Model: Benchmark, Method & Challenges**, `arXiv, 2412.11936`, [arxiv](http://arxiv.org/abs/2412.11936v1), [pdf](http://arxiv.org/pdf/2412.11936v1.pdf), cication: [**-1**](None) 
+
+	 *Yibo Yan, Jiamin Su, Jianxiang He, ..., Qingsong Wen, Xuming Hu*
 - **Personalized Multimodal Large Language Models: A Survey**, `arXiv, 2412.02142`, [arxiv](http://arxiv.org/abs/2412.02142v1), [pdf](http://arxiv.org/pdf/2412.02142v1.pdf), cication: [**-1**](None) 
 
 	 *Junda Wu, Hanjia Lyu, Yu Xia, ..., Jiebo Luo, Julian McAuley*
@@ -45,11 +49,15 @@
 
 ## Vision-Language Models
 
-- **POINTS1.5: Building a Vision-Language Model towards Real World
+- **SynerGen-VL: Towards Synergistic Image Understanding and Generation with
+  Vision Experts and Token Folding**, `arXiv, 2412.09604`, [arxiv](http://arxiv.org/abs/2412.09604v1), [pdf](http://arxiv.org/pdf/2412.09604v1.pdf), cication: [**-1**](None) 
+
+	 *Hao Li, Changyao Tian, Jie Shao, ..., Lewei Lu, Jifeng Dai*
+- **POINTS1.5: Building a Vision-Language Model towards Real World 
   Applications**, `arXiv, 2412.08443`, [arxiv](http://arxiv.org/abs/2412.08443v1), [pdf](http://arxiv.org/pdf/2412.08443v1.pdf), cication: [**-1**](None) 
 
 	 *Yuan Liu, Le Tian, Xiao Zhou, ..., Yang Yu, Jie Zhou*
-- **OLA-VLM: Elevating Visual Perception in Multimodal LLMs with Auxiliary
+- **OLA-VLM: Elevating Visual Perception in Multimodal LLMs with Auxiliary 
   Embedding Distillation**, `arXiv, 2412.09585`, [arxiv](http://arxiv.org/abs/2412.09585v1), [pdf](http://arxiv.org/pdf/2412.09585v1.pdf), cication: [**-1**](None) 
 
 	 *Jitesh Jain, Zhengyuan Yang, Humphrey Shi, ..., Jianfeng Gao, Jianwei Yang* · ([OLA-VLM;](https://github.com/SHI-Labs/OLA-VLM;) - SHI-Labs) ![Star](https://img.shields.io/github/stars/SHI-Labs/OLA-VLM;.svg?style=social&label=Star) · ([praeclarumjj3.github](https://praeclarumjj3.github.io/ola_vlm/))
@@ -127,6 +135,9 @@
 
 ## Video
 
+- 🌟 **Apollo: An Exploration of Video Understanding in Large Multimodal Models**, `arXiv, 2412.10360`, [arxiv](http://arxiv.org/abs/2412.10360v1), [pdf](http://arxiv.org/pdf/2412.10360v1.pdf), cication: [**-1**](None) 
+
+	 *Orr Zohar, Xiaohan Wang, Yann Dubois, ..., Serena Yeung-Levy, Xide Xia* · ([apollo-lmms.github](https://apollo-lmms.github.io)) · ([huggingface](https://huggingface.co/spaces/Apollo-LMMs/Apollo-3B)) · ([Apollo](https://github.com/Apollo-LMMs/Apollo/) - Apollo-LMMs) ![Star](https://img.shields.io/github/stars/Apollo-LMMs/Apollo.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/Apollo-LMMs))
 - **StreamChat: Chatting with Streaming Video**, `arXiv, 2412.08646`, [arxiv](http://arxiv.org/abs/2412.08646v1), [pdf](http://arxiv.org/pdf/2412.08646v1.pdf), cication: [**-1**](None) 
 
 	 *Jihao Liu, Zhiding Yu, Shiyi Lan, ..., Hongsheng Li, Jose M. Alvare* · ([jihaonew.github](https://jihaonew.github.io/projects/streamchat.html))
@@ -265,7 +276,11 @@
 
 ## Evaluation
 
-- **VisionArena: 230K Real World User-VLM Conversations with Preference
+- **Multi-Dimensional Insights: Benchmarking Real-World Personalization in
+  Large Multimodal Models**, `arXiv, 2412.12606`, [arxiv](http://arxiv.org/abs/2412.12606v1), [pdf](http://arxiv.org/pdf/2412.12606v1.pdf), cication: [**-1**](None) 
+
+	 *YiFan Zhang, Shanglin Lei, Runqi Qiao, ..., Xiaofei Wang, Honggang Zhang* · ([mdi-benchmark.github](https://mdi-benchmark.github.io/))
+- **VisionArena: 230K Real World User-VLM Conversations with Preference 
   Labels**, `arXiv, 2412.08687`, [arxiv](http://arxiv.org/abs/2412.08687v1), [pdf](http://arxiv.org/pdf/2412.08687v1.pdf), cication: [**-1**](None) 
 
 	 *Christopher Chou, Lisa Dunlap, Koki Mashita, ..., Joseph E. Gonzalez, Wei-Lin Chiang* · ([huggingface](https://huggingface.co/lmarena-ai))
@@ -336,6 +351,10 @@
 
 ## Efficient
 
+- **Feather the Throttle: Revisiting Visual Token Pruning for
+  Vision-Language Model Acceleration**, `arXiv, 2412.13180`, [arxiv](http://arxiv.org/abs/2412.13180v1), [pdf](http://arxiv.org/pdf/2412.13180v1.pdf), cication: [**-1**](None) 
+
+	 *Mark Endo, Xiaohan Wang, Serena Yeung-Levy* · ([web.stanford](https://web.stanford.edu/))
 - 🌟 [SmolVLM - small yet mighty Vision Language Model](https://huggingface.co/blog/smolvlm)  🤗 
 
 	 · ([𝕏](https://x.com/andi_marafioti/status/1861437314351632662)) · ([huggingface](https://huggingface.co/HuggingFaceTB/SmolVLM-Instruct))
@@ -359,14 +378,22 @@
 
 ## Generation
 
-- **DiffSensei: Bridging Multi-Modal LLMs and Diffusion Models for
+- **MetaMorph: Multimodal Understanding and Generation via Instruction
+  Tuning**, `arXiv, 2412.14164`, [arxiv](http://arxiv.org/abs/2412.14164v1), [pdf](http://arxiv.org/pdf/2412.14164v1.pdf), cication: [**-1**](None) 
+
+	 *Shengbang Tong, David Fan, Jiachen Zhu, ..., Saining Xie, Zhuang Liu* · ([𝕏](https://x.com/liuzhuang1234/status/1869576013707084184))
+- **LlamaFusion: Adapting Pretrained Language Models for Multimodal
+  Generation**, `arXiv, 2412.15188`, [arxiv](http://arxiv.org/abs/2412.15188v1), [pdf](http://arxiv.org/pdf/2412.15188v1.pdf), cication: [**-1**](None) 
+
+	 *Weijia Shi, Xiaochuang Han, Chunting Zhou, ..., Luke Zettlemoyer, Lili Yu*
+- **DiffSensei: Bridging Multi-Modal LLMs and Diffusion Models for 
   Customized Manga Generation**, `arXiv, 2412.07589`, [arxiv](http://arxiv.org/abs/2412.07589v1), [pdf](http://arxiv.org/pdf/2412.07589v1.pdf), cication: [**-1**](None) 
 
 	 *Jianzong Wu, Chao Tang, Jingbo Wang, ..., Xiangtai Li, Yunhai Tong* · ([jianzongwu.github](https://jianzongwu.github.io/projects/diffsensei/)) · ([arxiv](https://arxiv.org/abs/2412.07589)) · ([DiffSensei](https://github.com/jianzongwu/DiffSensei) - jianzongwu) ![Star](https://img.shields.io/github/stars/jianzongwu/DiffSensei.svg?style=social&label=Star)
 - **Multimodal Latent Language Modeling with Next-Token Diffusion**, `arXiv, 2412.08635`, [arxiv](http://arxiv.org/abs/2412.08635v1), [pdf](http://arxiv.org/pdf/2412.08635v1.pdf), cication: [**-1**](None) 
 
 	 *Yutao Sun, Hangbo Bao, Wenhui Wang, ..., Jianyong Wang, Furu Wei*
-- **EasyRef: Omni-Generalized Group Image Reference for Diffusion Models via
+- **EasyRef: Omni-Generalized Group Image Reference for Diffusion Models via 
   Multimodal LLM**, `arXiv, 2412.09618`, [arxiv](http://arxiv.org/abs/2412.09618v1), [pdf](http://arxiv.org/pdf/2412.09618v1.pdf), cication: [**-1**](None) 
 
 	 *Zhuofan Zong, Dongzhi Jiang, Bingqi Ma, ..., Yu Liu, Hongsheng Li* · ([easyref-gen.github](https://easyref-gen.github.io/))
@@ -404,11 +431,11 @@
 
 ## Dataset
 
-- 🌟 **LAION-SG: An Enhanced Large-Scale Dataset for Training Complex
+- 🌟 **LAION-SG: An Enhanced Large-Scale Dataset for Training Complex 
   Image-Text Models with Structural Annotations**, `arXiv, 2412.08580`, [arxiv](http://arxiv.org/abs/2412.08580v1), [pdf](http://arxiv.org/pdf/2412.08580v1.pdf), cication: [**-1**](None) 
 
 	 *Zejian Li, Chenye Meng, Yize Li, ..., Jinxiong Chang, Lingyun Sun* · ([LAION-SG](https://github.com/mengcye/LAION-SG) - mengcye) ![Star](https://img.shields.io/github/stars/mengcye/LAION-SG.svg?style=social&label=Star)
-- **Euclid: Supercharging Multimodal LLMs with Synthetic High-Fidelity
+- **Euclid: Supercharging Multimodal LLMs with Synthetic High-Fidelity 
   Visual Descriptions**, `arXiv, 2412.08737`, [arxiv](http://arxiv.org/abs/2412.08737v1), [pdf](http://arxiv.org/pdf/2412.08737v1.pdf), cication: [**-1**](None) 
 
 	 *Jiarui Zhang, Ollie Liu, Tianyu Yu, ..., Jinyi Hu, Willie Neiswanger*
@@ -444,7 +471,7 @@
 
 ## Projects
 
-- 🌟 [**DeepSeek-VL2**](https://github.com/deepseek-ai/DeepSeek-VL2) - deepseek-ai ![Star](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-VL2.svg?style=social&label=Star)
+- 🌟 [**DeepSeek-VL2**](https://github.com/deepseek-ai/DeepSeek-VL2) - deepseek-ai ![Star](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-VL2.svg?style=social&label=Star) 
 
 	 · ([𝕏](https://x.com/deepseek_ai/status/1867545550910017563))
 - [Pixtral Large](https://mistral.ai/news/pixtral-large/) 

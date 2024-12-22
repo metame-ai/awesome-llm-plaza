@@ -12,7 +12,8 @@
 
 ## Omni
 
-- 🌟 **InternLM-XComposer2.5-OmniLive: A Comprehensive Multimodal System for
+- [**Infini-Megrez**](https://github.com/infinigence/Infini-Megrez) - infinigence ![Star](https://img.shields.io/github/stars/infinigence/Infini-Megrez.svg?style=social&label=Star)
+- 🌟 **InternLM-XComposer2.5-OmniLive: A Comprehensive Multimodal System for 
   Long-term Streaming Video and Audio Interactions**, `arXiv, 2412.09596`, [arxiv](http://arxiv.org/abs/2412.09596v1), [pdf](http://arxiv.org/pdf/2412.09596v1.pdf), cication: [**-1**](None) 
 
 	 *Pan Zhang, Xiaoyi Dong, Yuhang Cao, ..., Dahua Lin, Jiaqi Wang* · ([InternLM-XComposer](https://github.com/InternLM/InternLM-XComposer/tree/main/InternLM-XComposer-2.5-OmniLive) - InternLM) ![Star](https://img.shields.io/github/stars/InternLM/InternLM-XComposer.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/internlm/internlm-xcomposer2d5-ol-7b))

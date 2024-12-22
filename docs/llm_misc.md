@@ -47,7 +47,15 @@
 
 ## Interpretability
 
-- **Frame Representation Hypothesis: Multi-Token LLM Interpretability and
+- **Refusal Tokens: A Simple Way to Calibrate Refusals in Large Language
+  Models**, `arXiv, 2412.06748`, [arxiv](http://arxiv.org/abs/2412.06748v1), [pdf](http://arxiv.org/pdf/2412.06748v1.pdf), cication: [**-1**](None) 
+
+	 *Neel Jain, Aditya Shrivastava, Chenyang Zhu, ..., Micah Goldblum, Tom Goldstein*
+- **Emergence of Abstractions: Concept Encoding and Decoding Mechanism for
+  In-Context Learning in Transformers**, `arXiv, 2412.12276`, [arxiv](http://arxiv.org/abs/2412.12276v2), [pdf](http://arxiv.org/pdf/2412.12276v2.pdf), cication: [**-1**](None) 
+
+	 *Seungwook Han, Jinyeop Song, Jeff Gore, ..., Pulkit Agrawal*
+- **Frame Representation Hypothesis: Multi-Token LLM Interpretability and 
   Concept-Guided Text Generation**, `arXiv, 2412.07334`, [arxiv](http://arxiv.org/abs/2412.07334v2), [pdf](http://arxiv.org/pdf/2412.07334v2.pdf), cication: [**-1**](None) 
 
 	 *Pedro H. V. Valois, Lincon S. Souza, Erica K. Shimomoto, ..., Kazuhiro Fukui* · ([frame-representation-hypothesis.git](https://github.com/phvv-me/frame-representation-hypothesis.git) - phvv-me) ![Star](https://img.shields.io/github/stars/phvv-me/frame-representation-hypothesis.git.svg?style=social&label=Star)

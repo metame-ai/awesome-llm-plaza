@@ -38,6 +38,7 @@
 
 ## Education
 
+- [**gemini-teacher**](https://github.com/nishuzumi/gemini-teacher) - nishuzumi ![Star](https://img.shields.io/github/stars/nishuzumi/gemini-teacher.svg?style=social&label=Star)
 
 ## Science
 
@@ -88,6 +89,7 @@
 
 ## Role Play
 
+- [EVA Llama 3.33 70b is a roleplay and storywriting specialist model.](https://openrouter.ai/eva-unit-01/eva-llama-3.33-70b) 
 - [Oxy 1 Small is a fine-tuned version of the Qwen/Qwen2.5-14B-Instruct language model, specialized for role-play scenarios.](https://huggingface.co/oxyapi/oxy-1-small)  🤗 
 - **From Individual to Society: A Survey on Social Simulation Driven by 
   Large Language Model-based Agents**, `arXiv, 2412.03563`, [arxiv](http://arxiv.org/abs/2412.03563v1), [pdf](http://arxiv.org/pdf/2412.03563v1.pdf), cication: [**-1**](None) 
@@ -214,7 +216,7 @@
 
 ## Projects
 
-- [**awesome-llm-apps**](https://github.com/Shubhamsaboo/awesome-llm-apps) - Shubhamsaboo ![Star](https://img.shields.io/github/stars/Shubhamsaboo/awesome-llm-apps.svg?style=social&label=Star)
+- [**awesome-llm-apps**](https://github.com/Shubhamsaboo/awesome-llm-apps) - Shubhamsaboo ![Star](https://img.shields.io/github/stars/Shubhamsaboo/awesome-llm-apps.svg?style=social&label=Star) 
 - [**amurex**](https://github.com/thepersonalaicompany/amurex) - thepersonalaicompany ![Star](https://img.shields.io/github/stars/thepersonalaicompany/amurex.svg?style=social&label=Star) 
 - [**ai-rd-tasks**](https://github.com/METR/ai-rd-tasks) - METR ![Star](https://img.shields.io/github/stars/METR/ai-rd-tasks.svg?style=social&label=Star) 
 

@@ -67,7 +67,7 @@
 
 ## Projects
 
-- [**llamacoder**](https://github.com/Nutlope/llamacoder) - Nutlope ![Star](https://img.shields.io/github/stars/Nutlope/llamacoder.svg?style=social&label=Star)
+- [**llamacoder**](https://github.com/Nutlope/llamacoder) - Nutlope ![Star](https://img.shields.io/github/stars/Nutlope/llamacoder.svg?style=social&label=Star) 
 - [**MPLSandbox**](https://github.com/Ablustrund/MPLSandbox) - Ablustrund ![Star](https://img.shields.io/github/stars/Ablustrund/MPLSandbox.svg?style=social&label=Star) 
 
 	 · ([arxiv](https://arxiv.org/abs/2410.23074))

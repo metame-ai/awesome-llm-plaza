@@ -20,6 +20,7 @@
 
 ## LLM Evaluation
 
+- [FACTS Grounding: A new benchmark for evaluating the factuality of large language models](https://deepmind.google/discover/blog/facts-grounding-a-new-benchmark-for-evaluating-the-factuality-of-large-language-models/) 
 - **OmniDocBench: Benchmarking Diverse PDF Document Parsing with 
   Comprehensive Annotations**, `arXiv, 2412.07626`, [arxiv](http://arxiv.org/abs/2412.07626v1), [pdf](http://arxiv.org/pdf/2412.07626v1.pdf), cication: [**-1**](None) 
 
@@ -100,7 +101,10 @@
 
 ## Projects
 
-- [**Awesome-LLMs-as-Judges**](https://github.com/CSHaitao/Awesome-LLMs-as-Judges) - CSHaitao ![Star](https://img.shields.io/github/stars/CSHaitao/Awesome-LLMs-as-Judges.svg?style=social&label=Star)
+- [**mini_dev**](https://github.com/bird-bench/mini_dev) - bird-bench ![Star](https://img.shields.io/github/stars/bird-bench/mini_dev.svg?style=social&label=Star)
+
+	 · ([𝕏](https://x.com/Subhash_Peshwa/status/1869204331372888513))
+- [**Awesome-LLMs-as-Judges**](https://github.com/CSHaitao/Awesome-LLMs-as-Judges) - CSHaitao ![Star](https://img.shields.io/github/stars/CSHaitao/Awesome-LLMs-as-Judges.svg?style=social&label=Star) 
 - [**evaluation-guidebook**](https://github.com/huggingface/evaluation-guidebook/blob/main/contents/automated-benchmarks/some-evaluation-datasets.md) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/evaluation-guidebook.svg?style=social&label=Star) 
 
 	 · ([𝕏](https://x.com/clefourrier/status/1861487337936388448))

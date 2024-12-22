@@ -12,6 +12,13 @@
 
 ## LLM Alignment
 
+- **SmolTulu: Higher Learning Rate to Batch Size Ratios Can Lead to Better
+  Reasoning in SLMs**, `arXiv, 2412.08347`, [arxiv](http://arxiv.org/abs/2412.08347v1), [pdf](http://arxiv.org/pdf/2412.08347v1.pdf), cication: [**-1**](None) 
+
+	 *Sultan Alrashed*
+- [Alignment faking in large language models](https://www.anthropic.com/research/alignment-faking) 
+
+	 · ([assets.anthropic](https://assets.anthropic.com/m/983c85a201a962f/original/Alignment-Faking-in-Large-Language-Models-full-paper.pdf))
 - [[10 Dec 2024, NeurIPS // Infer] Post-training for applications](https://docs.google.com/presentation/d/1LWHbtz74GwKSGYZKyBVUtcyvp8lgYOi5EVpMnVDXBPs/edit) 
 
 	 · ([𝕏](https://x.com/natolambert/status/1866197250239541350))

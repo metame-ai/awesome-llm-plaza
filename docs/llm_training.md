@@ -151,6 +151,9 @@
 
 ## Merge
 
+- **How to Merge Your Multimodal Models Over Time?**, `arXiv, 2412.06712`, [arxiv](http://arxiv.org/abs/2412.06712v1), [pdf](http://arxiv.org/pdf/2412.06712v1.pdf), cication: [**-1**](None) 
+
+	 *Sebastian Dziadzio, Vishaal Udandarao, Karsten Roth, ..., Samuel Albanie, Matthias Bethge* · ([𝕏](https://x.com/vishaal_urao/status/1867238865918189934))
 - **Exploring Model Kinship for Merging Large Language Models**, `arXiv, 2410.12613`, [arxiv](http://arxiv.org/abs/2410.12613v1), [pdf](http://arxiv.org/pdf/2410.12613v1.pdf), cication: [**-1**](None) 
 
 	 *Yedi Hu, Yunzhi Yao, Ningyu Zhang, ..., Shumin Deng, Huajun Chen* · ([ModelKinship](https://github.com/zjunlp/ModelKinship) - zjunlp) ![Star](https://img.shields.io/github/stars/zjunlp/ModelKinship.svg?style=social&label=Star)

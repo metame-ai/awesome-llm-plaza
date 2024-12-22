@@ -16,6 +16,9 @@
 
 ## Survey
 
+- 🌟 **GUI Agents: A Survey**, `arXiv, 2412.13501`, [arxiv](http://arxiv.org/abs/2412.13501v1), [pdf](http://arxiv.org/pdf/2412.13501v1.pdf), cication: [**-1**](None) 
+
+	 *Dang Nguyen, Jian Chen, Yu Wang, ..., Ryan A. Rossi, Franck Dernoncourt*
 - **Large Language Model-Brained GUI Agents: A Survey**, `arXiv, 2411.18279`, [arxiv](http://arxiv.org/abs/2411.18279v1), [pdf](http://arxiv.org/pdf/2411.18279v1.pdf), cication: [**-1**](None) 
 
 	 *Chaoyun Zhang, Shilin He, Jiaxu Qian, ..., Dongmei Zhang, Qi Zhang*
@@ -76,8 +79,22 @@
 
 ## UI Agent
 
-- [**helium**](https://github.com/mherrmann/helium) - mherrmann ![Star](https://img.shields.io/github/stars/mherrmann/helium.svg?style=social&label=Star)
-- **AgentTrek: Agent Trajectory Synthesis via Guiding Replay with Web
+- [**SeleniumBase**](https://github.com/seleniumbase/SeleniumBase) - seleniumbase ![Star](https://img.shields.io/github/stars/seleniumbase/SeleniumBase.svg?style=social&label=Star)
+
+	 *Web Crawling / Testing / Scraping / Stealth*
+- **Proposer-Agent-Evaluator(PAE): Autonomous Skill Discovery For Foundation
+  Model Internet Agents**, `arXiv, 2412.13194`, [arxiv](http://arxiv.org/abs/2412.13194v1), [pdf](http://arxiv.org/pdf/2412.13194v1.pdf), cication: [**-1**](None) 
+
+	 *Yifei Zhou, Qianlan Yang, Kaixiang Lin, ..., Sergey Levine, Erran Li* · ([yanqval.github](https://yanqval.github.io/PAE/))
+- **Attention-driven GUI Grounding: Leveraging Pretrained Multimodal Large
+  Language Models without Fine-Tuning**, `arXiv, 2412.10840`, [arxiv](http://arxiv.org/abs/2412.10840v1), [pdf](http://arxiv.org/pdf/2412.10840v1.pdf), cication: [**-1**](None) 
+
+	 *Hai-Ming Xu, Qi Chen, Lei Wang, ..., Lingqiao Liu*
+- **Large Action Models: From Inception to Implementation**, `arXiv, 2412.10047`, [arxiv](http://arxiv.org/abs/2412.10047v1), [pdf](http://arxiv.org/pdf/2412.10047v1.pdf), cication: [**-1**](None) 
+
+	 *Lu Wang, Fangkai Yang, Chaoyun Zhang, ..., Dongmei Zhang, Qi Zhang* · ([microsoft.github](https://microsoft.github.io/UFO/dataflow/overview/))
+- [**helium**](https://github.com/mherrmann/helium) - mherrmann ![Star](https://img.shields.io/github/stars/mherrmann/helium.svg?style=social&label=Star) 
+- **AgentTrek: Agent Trajectory Synthesis via Guiding Replay with Web 
   Tutorials**, `arXiv, 2412.09605`, [arxiv](http://arxiv.org/abs/2412.09605v1), [pdf](http://arxiv.org/pdf/2412.09605v1.pdf), cication: [**-1**](None) 
 
 	 *Yiheng Xu, Dunjie Lu, Zhennan Shen, ..., Caiming Xiong, Tao Yu* · ([easyref-gen.github](https://easyref-gen.github.io/))
