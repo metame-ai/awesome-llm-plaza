@@ -12,7 +12,14 @@
 
 ## LLM Alignment
 
-- **SmolTulu: Higher Learning Rate to Batch Size Ratios Can Lead to Better
+- **Alignment faking in large language models**, `arXiv, 2412.14093`, [arxiv](http://arxiv.org/abs/2412.14093v2), [pdf](http://arxiv.org/pdf/2412.14093v2.pdf), cication: [**-1**](None) 
+
+	 *Ryan Greenblatt, Carson Denison, Benjamin Wright, ..., Samuel R. Bowman, Evan Hubinger* · ([alignment_faking_public](https://github.com/redwoodresearch/alignment_faking_public) - redwoodresearch) ![Star](https://img.shields.io/github/stars/redwoodresearch/alignment_faking_public.svg?style=social&label=Star)
+- 🌟 **RobustFT: Robust Supervised Fine-tuning for Large Language Models under
+  Noisy Response**, `arXiv, 2412.14922`, [arxiv](http://arxiv.org/abs/2412.14922v1), [pdf](http://arxiv.org/pdf/2412.14922v1.pdf), cication: [**-1**](None) 
+
+	 *Junyu Luo, Xiao Luo, Kaize Ding, ..., Zhiping Xiao, Ming Zhang* · ([RobustFT](https://github.com/luo-junyu/RobustFT) - luo-junyu) ![Star](https://img.shields.io/github/stars/luo-junyu/RobustFT.svg?style=social&label=Star)
+- **SmolTulu: Higher Learning Rate to Batch Size Ratios Can Lead to Better 
   Reasoning in SLMs**, `arXiv, 2412.08347`, [arxiv](http://arxiv.org/abs/2412.08347v1), [pdf](http://arxiv.org/pdf/2412.08347v1.pdf), cication: [**-1**](None) 
 
 	 *Sultan Alrashed*

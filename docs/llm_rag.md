@@ -18,8 +18,12 @@
 
 ## RAG
 
-- [GemmaEmbed is a dense-vector embedding model, trained especially for retrieval.](https://huggingface.co/google/Gemma-Embeddings-v1.0)  🤗
-- 🌟 **Smarter, Better, Faster, Longer: A Modern Bidirectional Encoder for
+- **SKETCH: Structured Knowledge Enhanced Text Comprehension for Holistic
+  Retrieval**, `arXiv, 2412.15443`, [arxiv](http://arxiv.org/abs/2412.15443v1), [pdf](http://arxiv.org/pdf/2412.15443v1.pdf), cication: [**-1**](None) 
+
+	 *Aakash Mahalingam, Vinesh Kumar Gande, Aman Chadha, ..., Vinija Jain, Divya Chaudhary*
+- [GemmaEmbed is a dense-vector embedding model, trained especially for retrieval.](https://huggingface.co/google/Gemma-Embeddings-v1.0)  🤗 
+- 🌟 **Smarter, Better, Faster, Longer: A Modern Bidirectional Encoder for 
   Fast, Memory Efficient, and Long Context Finetuning and Inference**, `arXiv, 2412.13663`, [arxiv](http://arxiv.org/abs/2412.13663v2), [pdf](http://arxiv.org/pdf/2412.13663v2.pdf), cication: [**-1**](None) 
 
 	 *Benjamin Warner, Antoine Chaffin, Benjamin Clavié, ..., Jeremy Howard, Iacopo Poli* · ([huggingface](https://huggingface.co/blog/modernbert)) · ([𝕏](https://x.com/jeremyphoward/status/1869786023963832509?s=46))
@@ -82,7 +86,7 @@
 
 ## Evaluation
 
-- **OmniEval: An Omnidirectional and Automatic RAG Evaluation Benchmark in
+- **OmniEval: An Omnidirectional and Automatic RAG Evaluation Benchmark in 
   Financial Domain**, `arXiv, 2412.13018`, [arxiv](http://arxiv.org/abs/2412.13018v1), [pdf](http://arxiv.org/pdf/2412.13018v1.pdf), cication: [**-1**](None) 
 
 	 *Shuting Wang, Jiejun Tan, Zhicheng Dou, ..., Ji-Rong Wen* · ([OmniEval](https://github.com/RUC-NLPIR/OmniEval) - RUC-NLPIR) ![Star](https://img.shields.io/github/stars/RUC-NLPIR/OmniEval.svg?style=social&label=Star)

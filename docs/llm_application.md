@@ -38,7 +38,10 @@
 
 ## Education
 
-- [**gemini-teacher**](https://github.com/nishuzumi/gemini-teacher) - nishuzumi ![Star](https://img.shields.io/github/stars/nishuzumi/gemini-teacher.svg?style=social&label=Star)
+- **LearnLM: Improving Gemini for Learning**, `arXiv, 2412.16429`, [arxiv](http://arxiv.org/abs/2412.16429v1), [pdf](http://arxiv.org/pdf/2412.16429v1.pdf), cication: [**-1**](None) 
+
+	 *LearnLM Team, Abhinit Modi, Aditya Srikanth Veerubhotla, ..., Viknesh Sounderajah, Yannis Assael*
+- [**gemini-teacher**](https://github.com/nishuzumi/gemini-teacher) - nishuzumi ![Star](https://img.shields.io/github/stars/nishuzumi/gemini-teacher.svg?style=social&label=Star) 
 
 ## Science
 
@@ -166,6 +169,9 @@
 
 ## Translation
 
+- **DRT-o1: Optimized Deep Reasoning Translation via Long Chain-of-Thought**, `arXiv, 2412.17498`, [arxiv](http://arxiv.org/abs/2412.17498v1), [pdf](http://arxiv.org/pdf/2412.17498v1.pdf), cication: [**-1**](None) 
+
+	 *Jiaan Wang, Fandong Meng, Yunlong Liang, ..., Jie Zhou* · ([DRT-o1](https://github.com/krystalan/DRT-o1) - krystalan) ![Star](https://img.shields.io/github/stars/krystalan/DRT-o1.svg?style=social&label=Star)
 
 ## Design
 
@@ -216,6 +222,8 @@
 
 ## Projects
 
+- [**helicone**](https://github.com/Helicone/helicone) - Helicone ![Star](https://img.shields.io/github/stars/Helicone/helicone.svg?style=social&label=Star)
+- [**video-analyzer**](https://github.com/byjlw/video-analyzer) - byjlw ![Star](https://img.shields.io/github/stars/byjlw/video-analyzer.svg?style=social&label=Star)
 - [**awesome-llm-apps**](https://github.com/Shubhamsaboo/awesome-llm-apps) - Shubhamsaboo ![Star](https://img.shields.io/github/stars/Shubhamsaboo/awesome-llm-apps.svg?style=social&label=Star) 
 - [**amurex**](https://github.com/thepersonalaicompany/amurex) - thepersonalaicompany ![Star](https://img.shields.io/github/stars/thepersonalaicompany/amurex.svg?style=social&label=Star) 
 - [**ai-rd-tasks**](https://github.com/METR/ai-rd-tasks) - METR ![Star](https://img.shields.io/github/stars/METR/ai-rd-tasks.svg?style=social&label=Star) 
@@ -247,6 +255,8 @@
 
 ## LLM Applications
 
+- [百川新模型超GPT-4o近20%，首创自约束训练方案突破瓶颈，主打「领域增强」](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247768608&idx=1&sn=ee29ba3fb8ef9b40f03fcc7914b72daa&chksm=e979e23cf03cd2fd60909c632b4eba03d1ef265038dbed406a4478c1f8b979dbc5fd95a732f0&scene=0&xtrack=1) 
+- [Automating the Search for Artificial Life with Foundation Models](http://distill.pub/) 
 - [Clio: A system for privacy-preserving insights into real-world AI use](https://www.anthropic.com/research/clio) 
 - [A curated knowledge base of real-world LLMOps implementations, with detailed summaries and technical notes.](https://www.zenml.io/llmops-database) 
 - 🌟 [Synthesizing 1M+ open access computer science papers](https://openscholar.allen.ai/) 

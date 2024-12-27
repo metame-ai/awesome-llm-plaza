@@ -19,7 +19,7 @@
 
 ## Survey
 
-- **A Survey of Mathematical Reasoning in the Era of Multimodal Large
+- **A Survey of Mathematical Reasoning in the Era of Multimodal Large 
   Language Model: Benchmark, Method & Challenges**, `arXiv, 2412.11936`, [arxiv](http://arxiv.org/abs/2412.11936v1), [pdf](http://arxiv.org/pdf/2412.11936v1.pdf), cication: [**-1**](None) 
 
 	 *Yibo Yan, Jiamin Su, Jianxiang He, ..., Qingsong Wen, Xuming Hu*
@@ -49,7 +49,8 @@
 
 ## Vision-Language Models
 
-- **SynerGen-VL: Towards Synergistic Image Understanding and Generation with
+- 🌟 [QVQ-72B-Preview is an experimental research model developed by the Qwen team, focusing on enhancing visual reasoning capabilities.](https://huggingface.co/Qwen/QVQ-72B-Preview)  🤗
+- **SynerGen-VL: Towards Synergistic Image Understanding and Generation with 
   Vision Experts and Token Folding**, `arXiv, 2412.09604`, [arxiv](http://arxiv.org/abs/2412.09604v1), [pdf](http://arxiv.org/pdf/2412.09604v1.pdf), cication: [**-1**](None) 
 
 	 *Hao Li, Changyao Tian, Jie Shao, ..., Lewei Lu, Jifeng Dai*
@@ -191,6 +192,22 @@
 
 ## Encoder
 
+- **LLaVA-UHD v2: an MLLM Integrating High-Resolution Feature Pyramid via
+  Hierarchical Window Transformer**, `arXiv, 2412.13871`, [arxiv](http://arxiv.org/abs/2412.13871v1), [pdf](http://arxiv.org/pdf/2412.13871v1.pdf), cication: [**-1**](None) 
+
+	 *Yipeng Zhang, Yifan Liu, Zonghao Guo, ..., Tat-Seng Chua, Maosong Sun* · ([LLaVA-UHD](https://github.com/thunlp/LLaVA-UHD) - thunlp) ![Star](https://img.shields.io/github/stars/thunlp/LLaVA-UHD.svg?style=social&label=Star)
+- **FastVLM: Efficient Vision Encoding for Vision Language Models**, `arXiv, 2412.13303`, [arxiv](http://arxiv.org/abs/2412.13303v1), [pdf](http://arxiv.org/pdf/2412.13303v1.pdf), cication: [**-1**](None) 
+
+	 *Pavan Kumar Anasosalu Vasu, Fartash Faghri, Chun-Liang Li, ..., Oncel Tuzel, Hadi Pouransari*
+- **TRecViT: A Recurrent Video Transformer**, `arXiv, 2412.14294`, [arxiv](http://arxiv.org/abs/2412.14294v1), [pdf](http://arxiv.org/pdf/2412.14294v1.pdf), cication: [**-1**](None) 
+
+	 *Viorica Pătrăucean, Xu Owen He, Joseph Heyward, ..., João Carreira, Razvan Pascanu* · ([trecvit](https://github.com/google-deepmind/trecvit) - google-deepmind) ![Star](https://img.shields.io/github/stars/google-deepmind/trecvit.svg?style=social&label=Star)
+- **PruneVid: Visual Token Pruning for Efficient Video Large Language Models**, `arXiv, 2412.16117`, [arxiv](http://arxiv.org/abs/2412.16117v1), [pdf](http://arxiv.org/pdf/2412.16117v1.pdf), cication: [**-1**](None) 
+
+	 *Xiaohu Huang, Hao Zhou, Kai Han* · ([PruneVid](https://github.com/Visual-AI/PruneVid) - Visual-AI) ![Star](https://img.shields.io/github/stars/Visual-AI/PruneVid.svg?style=social&label=Star)
+- **Large Motion Video Autoencoding with Cross-modal Video VAE**, `arXiv, 2412.17805`, [arxiv](http://arxiv.org/abs/2412.17805v1), [pdf](http://arxiv.org/pdf/2412.17805v1.pdf), cication: [**-1**](None) 
+
+	 *Yazhou Xing, Yang Fei, Yingqing He, ..., Xiaowei Chi, Qifeng Chen* · ([VideoVAEPlus](https://github.com/VideoVerses/VideoVAEPlus) - VideoVerses) ![Star](https://img.shields.io/github/stars/VideoVerses/VideoVAEPlus.svg?style=social&label=Star)
 - 🌟 **VisionZip: Longer is Better but Not Necessary in Vision Language Models**, `arXiv, 2412.04467`, [arxiv](http://arxiv.org/abs/2412.04467v1), [pdf](http://arxiv.org/pdf/2412.04467v1.pdf), cication: [**-1**](None) 
 
 	 *Senqiao Yang, Yukang Chen, Zhuotao Tian, ..., Bei Yu, Jiaya Jia* · ([202.104.135](http://202.104.135.156:7860/)) · ([youtu](https://youtu.be/sytaAzmxxpo?si=IieArmQ7YNf2dVyM)) · ([VisionZip](https://github.com/dvlab-research/VisionZip) - dvlab-research) ![Star](https://img.shields.io/github/stars/dvlab-research/VisionZip.svg?style=social&label=Star)
@@ -240,6 +257,7 @@
 
 ## Alignment
 
+- [Preference Optimization for Vision Language Models with TRL](https://huggingface.co/blog/dpo_vlm)  🤗
 - **On Domain-Specific Post-Training for Multimodal Large Language Models**, `arXiv, 2411.19930`, [arxiv](http://arxiv.org/abs/2411.19930v1), [pdf](http://arxiv.org/pdf/2411.19930v1.pdf), cication: [**-1**](None) 
 
 	 *Daixuan Cheng, Shaohan Huang, Ziyu Zhu, ..., Bo Dai, Zhenliang Zhang* · ([huggingface](https://huggingface.co/AdaptLLM/Adapt-MLLM-to-Domains))
@@ -262,6 +280,16 @@
 
 ## Reasoning
 
+- 🌟 **Thinking in Space: How Multimodal Large Language Models See, Remember,
+  and Recall Spaces**, `arXiv, 2412.14171`, [arxiv](http://arxiv.org/abs/2412.14171v1), [pdf](http://arxiv.org/pdf/2412.14171v1.pdf), cication: [**-1**](None) 
+
+	 *Jihan Yang, Shusheng Yang, Anjali W. Gupta, ..., Li Fei-Fei, Saining Xie* · ([vision-x-nyu.github](https://vision-x-nyu.github.io/thinking-in-space.github.io/)) · ([thinking-in-space.git](https://github.com/vision-x-nyu/thinking-in-space.git) - vision-x-nyu) ![Star](https://img.shields.io/github/stars/vision-x-nyu/thinking-in-space.git.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/datasets/nyu-visionx/VSI-Bench))
+- 🌟 **Progressive Multimodal Reasoning via Active Retrieval**, `arXiv, 2412.14835`, [arxiv](http://arxiv.org/abs/2412.14835v1), [pdf](http://arxiv.org/pdf/2412.14835v1.pdf), cication: [**-1**](None) 
+
+	 *Guanting Dong, Chenghao Zhang, Mengjie Deng, ..., Zhicheng Dou, Ji-Rong Wen*
+- 🌟 **Diving into Self-Evolving Training for Multimodal Reasoning**, `arXiv, 2412.17451`, [arxiv](http://arxiv.org/abs/2412.17451v1), [pdf](http://arxiv.org/pdf/2412.17451v1.pdf), cication: [**-1**](None) 
+
+	 *Wei Liu, Junlong Li, Xiwen Zhang, ..., Yu Cheng, Junxian He* · ([mstar-lmm.github](https://mstar-lmm.github.io/))
 - **TACO: Learning Multi-modal Action Models with Synthetic 
   Chains-of-Thought-and-Action**, `arXiv, 2412.05479`, [arxiv](http://arxiv.org/abs/2412.05479v2), [pdf](http://arxiv.org/pdf/2412.05479v2.pdf), cication: [**-1**](None) 
 
@@ -276,7 +304,7 @@
 
 ## Evaluation
 
-- **Multi-Dimensional Insights: Benchmarking Real-World Personalization in
+- **Multi-Dimensional Insights: Benchmarking Real-World Personalization in 
   Large Multimodal Models**, `arXiv, 2412.12606`, [arxiv](http://arxiv.org/abs/2412.12606v1), [pdf](http://arxiv.org/pdf/2412.12606v1.pdf), cication: [**-1**](None) 
 
 	 *YiFan Zhang, Shanglin Lei, Runqi Qiao, ..., Xiaofei Wang, Honggang Zhang* · ([mdi-benchmark.github](https://mdi-benchmark.github.io/))
@@ -351,7 +379,7 @@
 
 ## Efficient
 
-- **Feather the Throttle: Revisiting Visual Token Pruning for
+- **Feather the Throttle: Revisiting Visual Token Pruning for 
   Vision-Language Model Acceleration**, `arXiv, 2412.13180`, [arxiv](http://arxiv.org/abs/2412.13180v1), [pdf](http://arxiv.org/pdf/2412.13180v1.pdf), cication: [**-1**](None) 
 
 	 *Mark Endo, Xiaohan Wang, Serena Yeung-Levy* · ([web.stanford](https://web.stanford.edu/))
@@ -378,11 +406,14 @@
 
 ## Generation
 
-- **MetaMorph: Multimodal Understanding and Generation via Instruction
+- **Flowing from Words to Pixels: A Framework for Cross-Modality Evolution**, `arXiv, 2412.15213`, [arxiv](http://arxiv.org/abs/2412.15213v1), [pdf](http://arxiv.org/pdf/2412.15213v1.pdf), cication: [**-1**](None) 
+
+	 *Qihao Liu, Xi Yin, Alan Yuille, ..., Andrew Brown, Mannat Singh* · ([cross-flow.github](https://cross-flow.github.io/))
+- **MetaMorph: Multimodal Understanding and Generation via Instruction 
   Tuning**, `arXiv, 2412.14164`, [arxiv](http://arxiv.org/abs/2412.14164v1), [pdf](http://arxiv.org/pdf/2412.14164v1.pdf), cication: [**-1**](None) 
 
 	 *Shengbang Tong, David Fan, Jiachen Zhu, ..., Saining Xie, Zhuang Liu* · ([𝕏](https://x.com/liuzhuang1234/status/1869576013707084184))
-- **LlamaFusion: Adapting Pretrained Language Models for Multimodal
+- **LlamaFusion: Adapting Pretrained Language Models for Multimodal 
   Generation**, `arXiv, 2412.15188`, [arxiv](http://arxiv.org/abs/2412.15188v1), [pdf](http://arxiv.org/pdf/2412.15188v1.pdf), cication: [**-1**](None) 
 
 	 *Weijia Shi, Xiaochuang Han, Chunting Zhou, ..., Luke Zettlemoyer, Lili Yu*
@@ -431,6 +462,10 @@
 
 ## Dataset
 
+- **MegaPairs: Massive Data Synthesis For Universal Multimodal Retrieval**, `arXiv, 2412.14475`, [arxiv](http://arxiv.org/abs/2412.14475v1), [pdf](http://arxiv.org/pdf/2412.14475v1.pdf), cication: [**-1**](None) 
+
+	 *Junjie Zhou, Zheng Liu, Ze Liu, ..., Defu Lian, Yongping Xiong*
+- [MMPR, which includes additional data sources to enhance the data diversity and improves the performance of InternVL2.5](https://huggingface.co/datasets/OpenGVLab/MMPR-v1.1)  🤗
 - 🌟 **LAION-SG: An Enhanced Large-Scale Dataset for Training Complex 
   Image-Text Models with Structural Annotations**, `arXiv, 2412.08580`, [arxiv](http://arxiv.org/abs/2412.08580v1), [pdf](http://arxiv.org/pdf/2412.08580v1.pdf), cication: [**-1**](None) 
 

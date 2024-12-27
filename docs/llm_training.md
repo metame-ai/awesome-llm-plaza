@@ -63,6 +63,10 @@
 
 ## Finetuning
 
+- **Let the Expert Stick to His Last: Expert-Specialized Fine-Tuning for
+  Sparse Architectural Large Language Models**, `arXiv, 2407.01906`, [arxiv](http://arxiv.org/abs/2407.01906v2), [pdf](http://arxiv.org/pdf/2407.01906v2.pdf), cication: [**-1**](None) 
+
+	 *Zihan Wang, Deli Chen, Damai Dai, ..., Zhuoshu Li, Y. Wu* · ([𝕏](https://x.com/wzihanw/status/1809089857320521899))
 - **DELIFT: Data Efficient Language model Instruction Fine Tuning**, `arXiv, 2411.04425`, [arxiv](http://arxiv.org/abs/2411.04425v2), [pdf](http://arxiv.org/pdf/2411.04425v2.pdf), cication: [**-1**](None) 
 
 	 *Ishika Agarwal, Krishnateja Killamsetty, Lucian Popa, ..., Marina Danilevksy* · ([𝕏](https://x.com/wonderingishika/status/1854770402590851119))
@@ -72,6 +76,13 @@
 
 ## Optimization
 
+- **No More Adam: Learning Rate Scaling at Initialization is All You Need**, `arXiv, 2412.11768`, [arxiv](http://arxiv.org/abs/2412.11768v2), [pdf](http://arxiv.org/pdf/2412.11768v2.pdf), cication: [**-1**](None) 
+
+	 *Minghao Xu, Lichuan Xiang, Xu Cai, ..., Hongkai Wen* · ([SGD_SaI](https://github.com/AnonymousAlethiometer/SGD_SaI) - AnonymousAlethiometer) ![Star](https://img.shields.io/github/stars/AnonymousAlethiometer/SGD_SaI.svg?style=social&label=Star)
+- **Mix-LN: Unleashing the Power of Deeper Layers by Combining Pre-LN and
+  Post-LN**, `arXiv, 2412.13795`, [arxiv](http://arxiv.org/abs/2412.13795v1), [pdf](http://arxiv.org/pdf/2412.13795v1.pdf), cication: [**-1**](None) 
+
+	 *Pengxiang Li, Lu Yin, Shiwei Liu* · ([MixLN.](https://github.com/pixeli99/MixLN.) - pixeli99) ![Star](https://img.shields.io/github/stars/pixeli99/MixLN..svg?style=social&label=Star)
 - 🌟 [Muon scaling again](https://x.com/Yuchenj_UW/status/1846964136204173318)  𝕏 
 - **APOLLO: SGD-like Memory, AdamW-level Performance**, `arXiv, 2412.05270`, [arxiv](http://arxiv.org/abs/2412.05270v2), [pdf](http://arxiv.org/pdf/2412.05270v2.pdf), cication: [**-1**](None) 
 
@@ -121,6 +132,12 @@
 
 ## Mixture Of Experts
 
+- **ReMoE: Fully Differentiable Mixture-of-Experts with ReLU Routing**, `arXiv, 2412.14711`, [arxiv](http://arxiv.org/abs/2412.14711v1), [pdf](http://arxiv.org/pdf/2412.14711v1.pdf), cication: [**-1**](None) 
+
+	 *Ziteng Wang, Jianfei Chen, Jun Zhu* · ([ReMoE](https://github.com/thu-ml/ReMoE) - thu-ml) ![Star](https://img.shields.io/github/stars/thu-ml/ReMoE.svg?style=social&label=Star)
+- **ReMoE: Fully Differentiable Mixture-of-Experts with ReLU Routing**, `arXiv, 2412.14711`, [arxiv](http://arxiv.org/abs/2412.14711v1), [pdf](http://arxiv.org/pdf/2412.14711v1.pdf), cication: [**-1**](None) 
+
+	 *Ziteng Wang, Jianfei Chen, Jun Zhu* · ([ReMoE](https://github.com/thu-ml/ReMoE) - thu-ml) ![Star](https://img.shields.io/github/stars/thu-ml/ReMoE.svg?style=social&label=Star)
 - **MoDEM: Mixture of Domain Expert Models**, `arXiv, 2410.07490`, [arxiv](http://arxiv.org/abs/2410.07490v1), [pdf](http://arxiv.org/pdf/2410.07490v1.pdf), cication: [**-1**](None) 
 
 	 *Toby Simonds, Kemal Kurniawan, Jey Han Lau* · ([reddit](https://www.reddit.com/r/LocalLLaMA/comments/1h06abs/modem_mixture_of_domain_expert_models/))

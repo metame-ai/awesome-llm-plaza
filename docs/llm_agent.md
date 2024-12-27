@@ -31,6 +31,13 @@
 
 ## Agents
 
+- [Building effective agents](https://www.anthropic.com/research/building-effective-agents) 
+- **StateFlow: Enhancing LLM Task-Solving through State-Driven Workflows**, `arXiv, 2403.11322`, [arxiv](http://arxiv.org/abs/2403.11322v5), [pdf](http://arxiv.org/pdf/2403.11322v5.pdf), cication: [**-1**](None) 
+
+	 *Yiran Wu, Tianwei Yue, Shaokun Zhang, ..., Chi Wang, Qingyun Wu* · ([stateflow](https://github.com/yiranwu0/stateflow?tab=readme-ov-file) - yiranwu0) ![Star](https://img.shields.io/github/stars/yiranwu0/stateflow.svg?style=social&label=Star)
+- **AI PERSONA: Towards Life-long Personalization of LLMs**, `arXiv, 2412.13103`, [arxiv](http://arxiv.org/abs/2412.13103v1), [pdf](http://arxiv.org/pdf/2412.13103v1.pdf), cication: [**-1**](None) 
+
+	 *Tiannan Wang, Meiling Tao, Ruoyu Fang, ..., Yuchen Eleanor Jiang, Wangchunshu Zhou*
 - [voyage-3 & voyage-3-lite: A new generation of small yet mighty general-purpose embedding models](https://blog.voyageai.com/2024/09/18/voyage-3/) 
 - **DynaSaur: Large Language Agents Beyond Predefined Actions**, `arXiv, 2411.01747`, [arxiv](http://arxiv.org/abs/2411.01747v1), [pdf](http://arxiv.org/pdf/2411.01747v1.pdf), cication: [**-1**](None) 
 
@@ -79,14 +86,27 @@
 
 ## UI Agent
 
-- [**SeleniumBase**](https://github.com/seleniumbase/SeleniumBase) - seleniumbase ![Star](https://img.shields.io/github/stars/seleniumbase/SeleniumBase.svg?style=social&label=Star)
+- **PC Agent: While You Sleep, AI Works -- A Cognitive Journey into Digital
+  World**, `arXiv, 2412.17589`, [arxiv](http://arxiv.org/abs/2412.17589v1), [pdf](http://arxiv.org/pdf/2412.17589v1.pdf), cication: [**-1**](None) 
+
+	 *Yanheng He, Jiahe Jin, Shijie Xia, ..., Xiangkun Hu, Pengfei Liu* · ([gair-nlp.github](https://gair-nlp.github.io/PC-Agent/)) · ([PC-Agent](https://github.com/GAIR-NLP/PC-Agent) - GAIR-NLP) ![Star](https://img.shields.io/github/stars/GAIR-NLP/PC-Agent.svg?style=social&label=Star)
+- **Aria-UI: Visual Grounding for GUI Instructions**, `arXiv, 2412.16256`, [arxiv](http://arxiv.org/abs/2412.16256v1), [pdf](http://arxiv.org/pdf/2412.16256v1.pdf), cication: [**-1**](None) 
+
+	 *Yuhao Yang, Yue Wang, Dongxu Li, ..., Chao Huang, Junnan Li* · ([ariaui.github](https://ariaui.github.io)) · ([Aria-UI](https://github.com/AriaUI/Aria-UI) - AriaUI) ![Star](https://img.shields.io/github/stars/AriaUI/Aria-UI.svg?style=social&label=Star)
+- 🌟 [**CogAgent**](https://github.com/THUDM/CogAgent) - THUDM ![Star](https://img.shields.io/github/stars/THUDM/CogAgent.svg?style=social&label=Star)
+
+	 · ([cogagent.aminer](https://cogagent.aminer.cn/blog))
+- **AutoDroid-V2: Boosting SLM-based GUI Agents via Code Generation**, `arXiv, 2412.18116`, [arxiv](http://arxiv.org/abs/2412.18116v1), [pdf](http://arxiv.org/pdf/2412.18116v1.pdf), cication: [**-1**](None) 
+
+	 *Hao Wen, Shizuo Tian, Borislav Pavlov, ..., Ya-Qin Zhang, Yuanchun Li*
+- [**SeleniumBase**](https://github.com/seleniumbase/SeleniumBase) - seleniumbase ![Star](https://img.shields.io/github/stars/seleniumbase/SeleniumBase.svg?style=social&label=Star) 
 
 	 *Web Crawling / Testing / Scraping / Stealth*
-- **Proposer-Agent-Evaluator(PAE): Autonomous Skill Discovery For Foundation
+- **Proposer-Agent-Evaluator(PAE): Autonomous Skill Discovery For Foundation 
   Model Internet Agents**, `arXiv, 2412.13194`, [arxiv](http://arxiv.org/abs/2412.13194v1), [pdf](http://arxiv.org/pdf/2412.13194v1.pdf), cication: [**-1**](None) 
 
 	 *Yifei Zhou, Qianlan Yang, Kaixiang Lin, ..., Sergey Levine, Erran Li* · ([yanqval.github](https://yanqval.github.io/PAE/))
-- **Attention-driven GUI Grounding: Leveraging Pretrained Multimodal Large
+- **Attention-driven GUI Grounding: Leveraging Pretrained Multimodal Large 
   Language Models without Fine-Tuning**, `arXiv, 2412.10840`, [arxiv](http://arxiv.org/abs/2412.10840v1), [pdf](http://arxiv.org/pdf/2412.10840v1.pdf), cication: [**-1**](None) 
 
 	 *Hai-Ming Xu, Qi Chen, Lei Wang, ..., Lingqiao Liu*
@@ -169,6 +189,10 @@
 
 ## Evaluation
 
+- **TheAgentCompany: Benchmarking LLM Agents on Consequential Real World
+  Tasks**, `arXiv, 2412.14161`, [arxiv](http://arxiv.org/abs/2412.14161v1), [pdf](http://arxiv.org/pdf/2412.14161v1.pdf), cication: [**-1**](None) 
+
+	 *Frank F. Xu, Yufan Song, Boxuan Li, ..., Shuyan Zhou, Graham Neubig*
 - **AndroidLab: Training and Systematic Benchmarking of Android Autonomous 
   Agents**, `arXiv, 2410.24024`, [arxiv](http://arxiv.org/abs/2410.24024v2), [pdf](http://arxiv.org/pdf/2410.24024v2.pdf), cication: [**-1**](None) 
 
@@ -179,6 +203,7 @@
 
 ## Projects
 
+- [**python-sdk**](https://github.com/modelcontextprotocol/python-sdk) - modelcontextprotocol ![Star](https://img.shields.io/github/stars/modelcontextprotocol/python-sdk.svg?style=social&label=Star)
 - [**dynasaur**](https://github.com/adobe-research/dynasaur) - adobe-research ![Star](https://img.shields.io/github/stars/adobe-research/dynasaur.svg?style=social&label=Star) 
 - [**steel-browser**](https://github.com/steel-dev/steel-browser) - steel-dev ![Star](https://img.shields.io/github/stars/steel-dev/steel-browser.svg?style=social&label=Star) 
 - [**Qwen-Agent**](https://github.com/QwenLM/Qwen-Agent) - QwenLM ![Star](https://img.shields.io/github/stars/QwenLM/Qwen-Agent.svg?style=social&label=Star) 

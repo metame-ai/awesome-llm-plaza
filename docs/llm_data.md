@@ -20,7 +20,10 @@
 
 ## LLM Data
 
-- [FineMath consists of 34B tokens (FineMath-3+) and 54B tokens (FineMath-3+ with InfiMM-WebMath-3+) of mathematical educational content filtered from CommonCrawl.](https://huggingface.co/datasets/HuggingFaceTB/finemath)  🤗
+- **Bridging the Data Provenance Gap Across Text, Speech and Video**, `arXiv, 2412.17847`, [arxiv](http://arxiv.org/abs/2412.17847v1), [pdf](http://arxiv.org/pdf/2412.17847v1.pdf), cication: [**-1**](None) 
+
+	 *Shayne Longpre, Nikhil Singh, Manuel Cherep, ..., Sara Hooker, Jad Kabbara*
+- [FineMath consists of 34B tokens (FineMath-3+) and 54B tokens (FineMath-3+ with InfiMM-WebMath-3+) of mathematical educational content filtered from CommonCrawl.](https://huggingface.co/datasets/HuggingFaceTB/finemath)  🤗 
 
 	 · ([𝕏](https://x.com/anton_lozhkov/status/1869771053146464507))
 - 🌟 [**fineweb-2**](https://github.com/huggingface/fineweb-2) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/fineweb-2.svg?style=social&label=Star) 
@@ -86,6 +89,9 @@
 
 ## Synthetic
 
+- **How to Synthesize Text Data without Model Collapse?**, `arXiv, 2412.14689`, [arxiv](http://arxiv.org/abs/2412.14689v1), [pdf](http://arxiv.org/pdf/2412.14689v1.pdf), cication: [**-1**](None) 
+
+	 *Xuekai Zhu, Daixuan Cheng, Hengli Li, ..., Zilong Zheng, Bowen Zhou*
 - **Evaluating Language Models as Synthetic Data Generators**, `arXiv, 2412.03679`, [arxiv](http://arxiv.org/abs/2412.03679v1), [pdf](http://arxiv.org/pdf/2412.03679v1.pdf), cication: [**-1**](None) 
 
 	 *Seungone Kim, Juyoung Suk, Xiang Yue, ..., Sean Welleck, Graham Neubig*

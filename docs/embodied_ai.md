@@ -56,6 +56,9 @@
 
 ## Robotics
 
+- [**openpilot**](https://github.com/commaai/openpilot) - commaai ![Star](https://img.shields.io/github/stars/commaai/openpilot.svg?style=social&label=Star)
+- [**flow_matching**](https://github.com/HRI-EU/flow_matching) - HRI-EU ![Star](https://img.shields.io/github/stars/HRI-EU/flow_matching.svg?style=social&label=Star)
+- [fastest, most precise, and most capable hand control setup](https://x.com/RemiCadene/status/1868210029985513959)  𝕏
 - **GRAPE: Generalizing Robot Policy via Preference Alignment**, `arXiv, 2411.19309`, [arxiv](http://arxiv.org/abs/2411.19309v1), [pdf](http://arxiv.org/pdf/2411.19309v1.pdf), cication: [**-1**](None) 
 
 	 *Zijian Zhang, Kaiyuan Zheng, Zhaorun Chen, ..., Dieter Fox, Huaxiu Yao* · ([grape-vla.github](https://grape-vla.github.io/))
@@ -86,7 +89,7 @@
 
 ## Humanoids
 
-- [**unitree_rl_gym**](https://github.com/unitreerobotics/unitree_rl_gym) - unitreerobotics ![Star](https://img.shields.io/github/stars/unitreerobotics/unitree_rl_gym.svg?style=social&label=Star)
+- [**unitree_rl_gym**](https://github.com/unitreerobotics/unitree_rl_gym) - unitreerobotics ![Star](https://img.shields.io/github/stars/unitreerobotics/unitree_rl_gym.svg?style=social&label=Star) 
 - [Boston Dynamics showcased Atlas autonomously transferring engine covers using ML vision for object detection and localization](https://x.com/adcock_brett/status/1853120940651024503)  𝕏 
 - [EngineAI unveiled SE01, a humanoid robot achieving natural walking through advanced joint modules and neural networks.](https://x.com/adcock_brett/status/1850569193365676202)  𝕏 
 - [Introducing Torso, a bimanual android actuated with artificial muscles.](https://x.com/clonerobotics/status/1849181515022053845)  𝕏 
@@ -98,6 +101,6 @@
 
 ## Projects
 
-- [**Genesis**](https://github.com/Genesis-Embodied-AI/Genesis) - Genesis-Embodied-AI ![Star](https://img.shields.io/github/stars/Genesis-Embodied-AI/Genesis.svg?style=social&label=Star)
+- [**Genesis**](https://github.com/Genesis-Embodied-AI/Genesis) - Genesis-Embodied-AI ![Star](https://img.shields.io/github/stars/Genesis-Embodied-AI/Genesis.svg?style=social&label=Star) 
 
 ## Misc

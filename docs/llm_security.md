@@ -43,6 +43,7 @@
 
 ## Projects
 
+- [**Awesome-LLM-Safety-Papers**](https://github.com/tjunlp-lab/Awesome-LLM-Safety-Papers) - tjunlp-lab ![Star](https://img.shields.io/github/stars/tjunlp-lab/Awesome-LLM-Safety-Papers.svg?style=social&label=Star)
 - [**PromptJailbreakManual**](https://github.com/Acmesec/PromptJailbreakManual) - Acmesec ![Star](https://img.shields.io/github/stars/Acmesec/PromptJailbreakManual.svg?style=social&label=Star) 
 - [**CS-Eval**](https://github.com/CS-EVAL/CS-Eval) - CS-EVAL ![Star](https://img.shields.io/github/stars/CS-EVAL/CS-Eval.svg?style=social&label=Star) 
 - [**garak**](https://github.com/NVIDIA/garak) - NVIDIA ![Star](https://img.shields.io/github/stars/NVIDIA/garak.svg?style=social&label=Star) 

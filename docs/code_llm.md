@@ -15,6 +15,9 @@
 
 ## Code LLM
 
+- **Outcome-Refining Process Supervision for Code Generation**, `arXiv, 2412.15118`, [arxiv](http://arxiv.org/abs/2412.15118v1), [pdf](http://arxiv.org/pdf/2412.15118v1.pdf), cication: [**-1**](None) 
+
+	 *Zhuohao Yu, Weizheng Gu, Yidong Wang, ..., Wei Ye, Shikun Zhang* · ([ORPS](https://github.com/zhuohaoyu/ORPS) - zhuohaoyu) ![Star](https://img.shields.io/github/stars/zhuohaoyu/ORPS.svg?style=social&label=Star)
 - 🌟 **o1-Coder: an o1 Replication for Coding**, `arXiv, 2412.00154`, [arxiv](http://arxiv.org/abs/2412.00154v1), [pdf](http://arxiv.org/pdf/2412.00154v1.pdf), cication: [**-1**](None) 
 
 	 *Yuxiang Zhang, Shangxi Wu, Yuqi Yang, ..., Chao Kong, Jitao Sang* · ([O1-CODER](https://github.com/ADaM-BJTU/O1-CODER) - ADaM-BJTU) ![Star](https://img.shields.io/github/stars/ADaM-BJTU/O1-CODER.svg?style=social&label=Star)
@@ -67,6 +70,8 @@
 
 ## Projects
 
+- [**SWE-Gym**](https://github.com/SWE-Gym/SWE-Gym) - SWE-Gym ![Star](https://img.shields.io/github/stars/SWE-Gym/SWE-Gym.svg?style=social&label=Star)
+- [**gitingest**](https://github.com/cyclotruc/gitingest) - cyclotruc ![Star](https://img.shields.io/github/stars/cyclotruc/gitingest.svg?style=social&label=Star)
 - [**llamacoder**](https://github.com/Nutlope/llamacoder) - Nutlope ![Star](https://img.shields.io/github/stars/Nutlope/llamacoder.svg?style=social&label=Star) 
 - [**MPLSandbox**](https://github.com/Ablustrund/MPLSandbox) - Ablustrund ![Star](https://img.shields.io/github/stars/Ablustrund/MPLSandbox.svg?style=social&label=Star) 
 
@@ -95,6 +100,8 @@
 
 ## Misc
 
+- [Best of 2024 in Agents (from #1 on SWE-Bench Full, Prof. Graham Neubig of OpenHands/AllHands)](https://www.youtube.com/watch?v=B6PKVZq2qqo&list=PLWEAb1SXhjlfG63F03R52DZXpHzVB1_5j&index=7)  :clapper:
+- [**geminiCoder**](https://github.com/osanseviero/geminiCoder) - osanseviero ![Star](https://img.shields.io/github/stars/osanseviero/geminiCoder.svg?style=social&label=Star)
 - [Windsurf Cascade Leaked System prompt](https://buttondown.com/ainews/archive/ainews-meta-llama-33-405bnova-pro-performance-at/) 
 
 	 · ([reddit](https://www.reddit.com/r/LocalLLaMA/comments/1h7sjyt/windsurf_cascade_leaked_system_prompt/))

@@ -12,7 +12,11 @@
 
 ## Omni
 
-- [**Infini-Megrez**](https://github.com/infinigence/Infini-Megrez) - infinigence ![Star](https://img.shields.io/github/stars/infinigence/Infini-Megrez.svg?style=social&label=Star)
+- **From Specific-MLLM to Omni-MLLM: A Survey about the MLLMs alligned with
+  Multi-Modality**, `arXiv, 2412.11694`, [arxiv](http://arxiv.org/abs/2412.11694v1), [pdf](http://arxiv.org/pdf/2412.11694v1.pdf), cication: [**-1**](None) 
+
+	 *Shixin Jiang, Jiafeng Liang, Ming Liu, ..., Bing Qin*
+- [**Infini-Megrez**](https://github.com/infinigence/Infini-Megrez) - infinigence ![Star](https://img.shields.io/github/stars/infinigence/Infini-Megrez.svg?style=social&label=Star) 
 - 🌟 **InternLM-XComposer2.5-OmniLive: A Comprehensive Multimodal System for 
   Long-term Streaming Video and Audio Interactions**, `arXiv, 2412.09596`, [arxiv](http://arxiv.org/abs/2412.09596v1), [pdf](http://arxiv.org/pdf/2412.09596v1.pdf), cication: [**-1**](None) 
 
@@ -51,6 +55,10 @@
 
 ## Multimodal
 
+- **3DGraphLLM: Combining Semantic Graphs and Large Language Models for 3D
+  Scene Understanding**, `arXiv, 2412.18450`, [arxiv](http://arxiv.org/abs/2412.18450v1), [pdf](http://arxiv.org/pdf/2412.18450v1.pdf), cication: [**-1**](None) 
+
+	 *Tatiana Zemskova, Dmitry Yudin* · ([3DGraphLLM](https://github.com/CognitiveAISystems/3DGraphLLM) - CognitiveAISystems) ![Star](https://img.shields.io/github/stars/CognitiveAISystems/3DGraphLLM.svg?style=social&label=Star)
 - 🌟 **Mixture-of-Transformers: A Sparse and Scalable Architecture for 
   Multi-Modal Foundation Models**, `arXiv, 2411.04996`, [arxiv](http://arxiv.org/abs/2411.04996v1), [pdf](http://arxiv.org/pdf/2411.04996v1.pdf), cication: [**-1**](None) 
 

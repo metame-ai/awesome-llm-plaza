@@ -25,8 +25,8 @@
 
 ## English Models
 
-- [SmolLM2 1.7b Instruction Tuned & DPO Aligned through Tulu 3](https://huggingface.co/SultanR/SmolTulu-1.7b-Instruct)  🤗
-- [Granite 3.1 Language Models](https://huggingface.co/collections/ibm-granite/granite-31-language-models-6751dbbf2f3389bec5c6f02d)  🤗
+- [SmolLM2 1.7b Instruction Tuned & DPO Aligned through Tulu 3](https://huggingface.co/SultanR/SmolTulu-1.7b-Instruct)  🤗 
+- [Granite 3.1 Language Models](https://huggingface.co/collections/ibm-granite/granite-31-language-models-6751dbbf2f3389bec5c6f02d)  🤗 
 - [Hermes 3 3B is a full parameter fine-tune of the Llama-3.2 3B foundation model](https://huggingface.co/NousResearch/Hermes-3-Llama-3.2-3B)  🤗 
 - [Introducing Phi-4: Microsoft’s Newest Small Language Model Specializing in Complex Reasoning](https://techcommunity.microsoft.com/blog/aiplatformblog/introducing-phi-4-microsoft%e2%80%99s-newest-small-language-model-specializing-in-comple/4357090) 
 - **Phi-4 Technical Report**, `arXiv, 2412.08905`, [arxiv](http://arxiv.org/abs/2412.08905v1), [pdf](http://arxiv.org/pdf/2412.08905v1.pdf), cication: [**-1**](None) 
@@ -59,6 +59,8 @@
 
 ## Chinese Models
 
+- [deepseek-ai  / DeepSeek-V3-Base](https://huggingface.co/deepseek-ai/DeepSeek-V3-Base/tree/main)  🤗
+- 🌟 [**DeepSeek-V3**](https://github.com/deepseek-ai/DeepSeek-V3) - deepseek-ai ![Star](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-V3.svg?style=social&label=Star)
 - **Qwen2.5 Technical Report**, `arXiv, 2412.15115`, [arxiv](http://arxiv.org/abs/2412.15115v1), [pdf](http://arxiv.org/pdf/2412.15115v1.pdf), cication: [**-1**](None) 
 
 	 *Qwen, :, An Yang, ..., Zhenru Zhang, Zihan Qiu*

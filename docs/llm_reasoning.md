@@ -24,18 +24,32 @@
 
 ## Reasoning
 
-- **SPaR: Self-Play with Tree-Search Refinement to Improve
+- 🌟 **B-STaR: Monitoring and Balancing Exploration and Exploitation in
+  Self-Taught Reasoners**, `arXiv, 2412.17256`, [arxiv](http://arxiv.org/abs/2412.17256v1), [pdf](http://arxiv.org/pdf/2412.17256v1.pdf), cication: [**-1**](None) 
+
+	 *Weihao Zeng, Yuzhen Huang, Lulu Zhao, ..., Zifei Shan, Junxian He*
+- **Deliberation in Latent Space via Differentiable Cache Augmentation**, `arXiv, 2412.17747`, [arxiv](http://arxiv.org/abs/2412.17747v1), [pdf](http://arxiv.org/pdf/2412.17747v1.pdf), cication: [**-1**](None) 
+
+	 *Luyang Liu, Jonas Pfeiffer, Jiaxing Wu, ..., Jun Xie, Arthur Szlam*
+- **Ensembling Large Language Models with Process Reward-Guided Tree Search
+  for Better Complex Reasoning**, `arXiv, 2412.15797`, [arxiv](http://arxiv.org/abs/2412.15797v1), [pdf](http://arxiv.org/pdf/2412.15797v1.pdf), cication: [**-1**](None) 
+
+	 *Sungjin Park, Xiao Liu, Yeyun Gong, ..., Edward Choi*
+- 🌟 **Chain-of-Thought Reasoning Without Prompting**, `arXiv, 2402.10200`, [arxiv](http://arxiv.org/abs/2402.10200v2), [pdf](http://arxiv.org/pdf/2402.10200v2.pdf), cication: [**-1**](None) 
+
+	 *Xuezhi Wang, Denny Zhou* · ([𝕏](https://x.com/denny_zhou/status/1872366450020659483))
+- **SPaR: Self-Play with Tree-Search Refinement to Improve 
   Instruction-Following in Large Language Models**, `arXiv, 2412.11605`, [arxiv](http://arxiv.org/abs/2412.11605v1), [pdf](http://arxiv.org/pdf/2412.11605v1.pdf), cication: [**-1**](None) 
 
 	 *Jiale Cheng, Xiao Liu, Cunxiang Wang, ..., Hongning Wang, Minlie Huang* · ([SPaR](https://github.com/thu-coai/SPaR) - thu-coai) ![Star](https://img.shields.io/github/stars/thu-coai/SPaR.svg?style=social&label=Star)
 - 🌟 **Are Your LLMs Capable of Stable Reasoning?**, `arXiv, 2412.13147`, [arxiv](http://arxiv.org/abs/2412.13147v2), [pdf](http://arxiv.org/pdf/2412.13147v2.pdf), cication: [**-1**](None) 
 
 	 *Junnan Liu, Hongwei Liu, Linchen Xiao, ..., Songyang Zhang, Kai Chen* · ([GPassK.](https://github.com/open-compass/GPassK.) - open-compass) ![Star](https://img.shields.io/github/stars/open-compass/GPassK..svg?style=social&label=Star)
-- **Compressed Chain of Thought: Efficient Reasoning Through Dense
+- **Compressed Chain of Thought: Efficient Reasoning Through Dense 
   Representations**, `arXiv, 2412.13171`, [arxiv](http://arxiv.org/abs/2412.13171v1), [pdf](http://arxiv.org/pdf/2412.13171v1.pdf), cication: [**-1**](None) 
 
 	 *Jeffrey Cheng, Benjamin Van Durme*
-- **LongBench v2: Towards Deeper Understanding and Reasoning on Realistic
+- **LongBench v2: Towards Deeper Understanding and Reasoning on Realistic 
   Long-context Multitasks**, `arXiv, 2412.15204`, [arxiv](http://arxiv.org/abs/2412.15204v1), [pdf](http://arxiv.org/pdf/2412.15204v1.pdf), cication: [**-1**](None) 
 
 	 *Yushi Bai, Shangqing Tu, Jiajie Zhang, ..., Jie Tang, Juanzi Li* · ([longbench2.github](https://longbench2.github.io))
@@ -101,7 +115,14 @@
 
 ## Math Reasoning
 
-- [FineMath consists of 34B tokens (FineMath-3+) and 54B tokens (FineMath-3+ with InfiMM-WebMath-3+) of mathematical educational content filtered from CommonCrawl.](https://huggingface.co/datasets/HuggingFaceTB/finemath)  🤗
+- **AceMath: Advancing Frontier Math Reasoning with Post-Training and Reward
+  Modeling**, `arXiv, 2412.15084`, [arxiv](http://arxiv.org/abs/2412.15084v1), [pdf](http://arxiv.org/pdf/2412.15084v1.pdf), cication: [**-1**](None) 
+
+	 *Zihan Liu, Yang Chen, Mohammad Shoeybi, ..., Bryan Catanzaro, Wei Ping* · ([research.nvidia](https://research.nvidia.com/labs/adlr/acemath))
+- **Formal Mathematical Reasoning: A New Frontier in AI**, `arXiv, 2412.16075`, [arxiv](http://arxiv.org/abs/2412.16075v1), [pdf](http://arxiv.org/pdf/2412.16075v1.pdf), cication: [**-1**](None) 
+
+	 *Kaiyu Yang, Gabriel Poesia, Jingxuan He, ..., Swarat Chaudhuri, Dawn Song*
+- [FineMath consists of 34B tokens (FineMath-3+) and 54B tokens (FineMath-3+ with InfiMM-WebMath-3+) of mathematical educational content filtered from CommonCrawl.](https://huggingface.co/datasets/HuggingFaceTB/finemath)  🤗 
 
 	 · ([𝕏](https://x.com/anton_lozhkov/status/1869771053146464507))
 - **U-MATH: A University-Level Benchmark for Evaluating Mathematical Skills 
@@ -130,7 +151,17 @@
 
 ## O1 Reasoning
 
-- 🌟 [**search-and-learn**](https://github.com/huggingface/search-and-learn) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/search-and-learn.svg?style=social&label=Star)
+- [distill its thinking capacities into a smaller model, enhancing their reasoning performances](https://x.com/ADarmouni/status/1871257176733556849)  𝕏
+
+	 · ([t](https://t.co/i9FfvkTEg1))
+- **OpenAI o1 System Card**, `arXiv, 2412.16720`, [arxiv](http://arxiv.org/abs/2412.16720v1), [pdf](http://arxiv.org/pdf/2412.16720v1.pdf), cication: [**-1**](None) 
+
+	 *OpenAI, :, Aaron Jaech, ..., Zheng Shao, Zhuohan Li*
+- **Imitate, Explore, and Self-Improve: A Reproduction Report on
+  Slow-thinking Reasoning Systems**, `arXiv, 2412.09413`, [arxiv](http://arxiv.org/abs/2412.09413v2), [pdf](http://arxiv.org/pdf/2412.09413v2.pdf), cication: [**-1**](None) 
+
+	 *Yingqian Min, Zhipeng Chen, Jinhao Jiang, ..., Zhongyuan Wang, Ji-Rong Wen* · ([Slow_Thinking_with_LLMs](https://github.com/RUCAIBox/Slow_Thinking_with_LLMs?tab=readme-ov-file) - RUCAIBox) ![Star](https://img.shields.io/github/stars/RUCAIBox/Slow_Thinking_with_LLMs.svg?style=social&label=Star)
+- 🌟 [**search-and-learn**](https://github.com/huggingface/search-and-learn) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/search-and-learn.svg?style=social&label=Star) 
 
 	 · ([huggingface](https://huggingface.co/spaces/HuggingFaceH4/blogpost-scaling-test-time-compute)) · ([𝕏](https://x.com/_lewtun/status/1868703456602865880))
 - [Beyond Decoding: Meta-Generation Algorithms for Large Language Models](https://cmu-l3.github.io/neurips2024-inference-tutorial/) 

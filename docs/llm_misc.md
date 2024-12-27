@@ -47,11 +47,19 @@
 
 ## Interpretability
 
-- **Refusal Tokens: A Simple Way to Calibrate Refusals in Large Language
+- [Goodfire Ember: Scaling Interpretability for Frontier Model Alignment](https://www.goodfire.ai/blog/announcing-goodfire-ember/) 
+
+	 · ([𝕏](https://x.com/GoodfireAI/status/1871241896942612518))
+- [Understanding Transformer reasoning capabilities via graph algorithms](https://research.google/blog/understanding-transformer-reasoning-capabilities-via-graph-algorithms/) 
+- **Towards scientific discovery with dictionary learning: Extracting
+  biological concepts from microscopy foundation models**, `arXiv, 2412.16247`, [arxiv](http://arxiv.org/abs/2412.16247v1), [pdf](http://arxiv.org/pdf/2412.16247v1.pdf), cication: [**-1**](None) 
+
+	 *Konstantin Donhauser, Kristina Ulicna, Gemma Elyse Moran, ..., Cian Eastwood, Jason Hartford*
+- **Refusal Tokens: A Simple Way to Calibrate Refusals in Large Language 
   Models**, `arXiv, 2412.06748`, [arxiv](http://arxiv.org/abs/2412.06748v1), [pdf](http://arxiv.org/pdf/2412.06748v1.pdf), cication: [**-1**](None) 
 
 	 *Neel Jain, Aditya Shrivastava, Chenyang Zhu, ..., Micah Goldblum, Tom Goldstein*
-- **Emergence of Abstractions: Concept Encoding and Decoding Mechanism for
+- **Emergence of Abstractions: Concept Encoding and Decoding Mechanism for 
   In-Context Learning in Transformers**, `arXiv, 2412.12276`, [arxiv](http://arxiv.org/abs/2412.12276v2), [pdf](http://arxiv.org/pdf/2412.12276v2.pdf), cication: [**-1**](None) 
 
 	 *Seungwook Han, Jinyeop Song, Jeff Gore, ..., Pulkit Agrawal*

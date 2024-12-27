@@ -13,7 +13,8 @@
 
 ## LLM Models
 
-- [Bamba: Inference-Efficient Hybrid Mamba2 Model](https://huggingface.co/blog/bamba)  🤗
+- [2024 in Post-Transformer Architectures: State Space Models, RWKV [Latent Space LIVE! @ NeurIPS 2024]](http://www.youtube.com/playlist?list=PLWEAb1SXhjlfG63F03R52DZXpHzVB1_5j)  :clapper:
+- [Bamba: Inference-Efficient Hybrid Mamba2 Model](https://huggingface.co/blog/bamba)  🤗 
 
 	 · ([bamba](https://github.com/foundation-model-stack/bamba) - foundation-model-stack) ![Star](https://img.shields.io/github/stars/foundation-model-stack/bamba.svg?style=social&label=Star)
 - [QRWKV6 32B Instruct Preview is one of the largest and strongest RWKV model to date.](https://huggingface.co/recursal/QRWKV6-32B-Instruct-Preview-v0.1)  🤗 
@@ -50,7 +51,7 @@
 
 ## Projects
 
-- [**large_concept_model**](https://github.com/facebookresearch/large_concept_model) - facebookresearch ![Star](https://img.shields.io/github/stars/facebookresearch/large_concept_model.svg?style=social&label=Star)
+- [**large_concept_model**](https://github.com/facebookresearch/large_concept_model) - facebookresearch ![Star](https://img.shields.io/github/stars/facebookresearch/large_concept_model.svg?style=social&label=Star) 
 
 	 · ([ai.meta](https://ai.meta.com/blog/meta-fair-updates-agents-robustness-safety-architecture/)) · ([ai.meta](https://ai.meta.com/research/publications/large-concept-models-language-modeling-in-a-sentence-representation-space/)) · ([𝕏](https://x.com/melbayad/status/1867689627189952956))
 

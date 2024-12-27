@@ -35,7 +35,10 @@
 
 ## Efficient LLM
 
-- **SepLLM: Accelerate Large Language Models by Compressing One Segment into
+- 🌟 **Better & Faster Large Language Models via Multi-token Prediction**, `arXiv, 2404.19737`, [arxiv](http://arxiv.org/abs/2404.19737v1), [pdf](http://arxiv.org/pdf/2404.19737v1.pdf), cication: [**-1**](None) 
+
+	 *Fabian Gloeckle, Badr Youbi Idrissi, Baptiste Rozière, ..., David Lopez-Paz, Gabriel Synnaeve*
+- **SepLLM: Accelerate Large Language Models by Compressing One Segment into 
   One Separator**, `arXiv, 2412.12094`, [arxiv](http://arxiv.org/abs/2412.12094v2), [pdf](http://arxiv.org/pdf/2412.12094v2.pdf), cication: [**-1**](None) 
 
 	 *Guoxuan Chen, Han Shi, Jiawei Li, ..., Weiyang Liu, Chao Huang*
@@ -115,6 +118,7 @@
 
 ## Inference
 
+- 🌟 [**sglang**](https://github.com/sgl-project/sglang) - sgl-project ![Star](https://img.shields.io/github/stars/sgl-project/sglang.svg?style=social&label=Star)
 - [FlashInfer 0.2 - Efficient and Customizable Kernels for LLM Inference Serving](https://flashinfer.ai/2024/12/16/flashinfer-v02-release.html) 
 
 	 · ([𝕏](https://x.com/ye_combinator/status/1869823582261653787))

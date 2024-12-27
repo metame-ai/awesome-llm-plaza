@@ -13,6 +13,10 @@
 
 ## RLHF
 
+- [Spurious Correlation, Shortcut Learning, and Reward Hacking](https://yihe-deng.notion.site/Spurious-Correlation-Shortcut-Learning-and-Reward-Hacking-163ab2d2c1fb808bbfd7c6a17b01a39d) 
+- **Offline Reinforcement Learning for LLM Multi-Step Reasoning**, `arXiv, 2412.16145`, [arxiv](http://arxiv.org/abs/2412.16145v1), [pdf](http://arxiv.org/pdf/2412.16145v1.pdf), cication: [**-1**](None) 
+
+	 *Huaijie Wang, Shibo Hao, Hanze Dong, ..., Ziran Yang, Yi Wu* · ([OREO](https://github.com/jwhj/OREO) - jwhj) ![Star](https://img.shields.io/github/stars/jwhj/OREO.svg?style=social&label=Star)
 - **Search, Verify and Feedback: Towards Next Generation Post-training 
   Paradigm of Foundation Models via Verifier Engineering**, `arXiv, 2411.11504`, [arxiv](http://arxiv.org/abs/2411.11504v1), [pdf](http://arxiv.org/pdf/2411.11504v1.pdf), cication: [**-1**](None) 
 

@@ -13,6 +13,9 @@
 
 ## World Model
 
+- **ZeroHSI: Zero-Shot 4D Human-Scene Interaction by Video Generation**, `arXiv, 2412.18600`, [arxiv](http://arxiv.org/abs/2412.18600v1), [pdf](http://arxiv.org/pdf/2412.18600v1.pdf), cication: [**-1**](None) 
+
+	 *Hongjie Li, Hong-Xing Yu, Jiaman Li, ..., Jiajun Wu* · ([awfuact.github](https://awfuact.github.io/zerohsi/))
 - **GenEx: Generating an Explorable World**, `arXiv, 2412.09624`, [arxiv](http://arxiv.org/abs/2412.09624v3), [pdf](http://arxiv.org/pdf/2412.09624v3.pdf), cication: [**-1**](None) 
 
 	 *Taiming Lu, Tianmin Shu, Junfei Xiao, ..., Alan Yuille, Jieneng Chen* · ([𝕏](https://x.com/jieneng_chen/status/1868521544252830072?s=46&t=0K8BJ9zWR0CDK56td_JoRg))
