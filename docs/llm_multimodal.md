@@ -9,10 +9,14 @@
 
 ## Survey
 
+- **Next Token Prediction Towards Multimodal Intelligence: A Comprehensive
+  Survey**, `arXiv, 2412.18619`, [arxiv](http://arxiv.org/abs/2412.18619v2), [pdf](http://arxiv.org/pdf/2412.18619v2.pdf), cication: [**-1**](None) 
+
+	 *Liang Chen, Zekun Wang, Shuhuai Ren, ..., Tianyu Liu, Baobao Chang* · ([Awesome-Multimodal-Next-Token-Prediction](https://github.com/LMM101/Awesome-Multimodal-Next-Token-Prediction) - LMM101) ![Star](https://img.shields.io/github/stars/LMM101/Awesome-Multimodal-Next-Token-Prediction.svg?style=social&label=Star)
 
 ## Omni
 
-- **From Specific-MLLM to Omni-MLLM: A Survey about the MLLMs alligned with
+- **From Specific-MLLM to Omni-MLLM: A Survey about the MLLMs alligned with 
   Multi-Modality**, `arXiv, 2412.11694`, [arxiv](http://arxiv.org/abs/2412.11694v1), [pdf](http://arxiv.org/pdf/2412.11694v1.pdf), cication: [**-1**](None) 
 
 	 *Shixin Jiang, Jiafeng Liang, Ming Liu, ..., Bing Qin*
@@ -55,7 +59,7 @@
 
 ## Multimodal
 
-- **3DGraphLLM: Combining Semantic Graphs and Large Language Models for 3D
+- **3DGraphLLM: Combining Semantic Graphs and Large Language Models for 3D 
   Scene Understanding**, `arXiv, 2412.18450`, [arxiv](http://arxiv.org/abs/2412.18450v1), [pdf](http://arxiv.org/pdf/2412.18450v1.pdf), cication: [**-1**](None) 
 
 	 *Tatiana Zemskova, Dmitry Yudin* · ([3DGraphLLM](https://github.com/CognitiveAISystems/3DGraphLLM) - CognitiveAISystems) ![Star](https://img.shields.io/github/stars/CognitiveAISystems/3DGraphLLM.svg?style=social&label=Star)

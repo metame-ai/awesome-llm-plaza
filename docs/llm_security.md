@@ -13,6 +13,9 @@
 
 ## LLM Security
 
+- **Safeguard Fine-Tuned LLMs Through Pre- and Post-Tuning Model Merging**, `arXiv, 2412.19512`, [arxiv](http://arxiv.org/abs/2412.19512v1), [pdf](http://arxiv.org/pdf/2412.19512v1.pdf), cication: [**-1**](None) 
+
+	 *Hua Farn, Hsuan Su, Shachi H Kumar, ..., Shang-Tse Chen, Hung-yi Lee*
 - [Alignment faking in large language models](https://www.anthropic.com/research/alignment-faking) 
 
 	 · ([assets.anthropic](https://assets.anthropic.com/m/983c85a201a962f/original/Alignment-Faking-in-Large-Language-Models-full-paper.pdf))
@@ -43,7 +46,7 @@
 
 ## Projects
 
-- [**Awesome-LLM-Safety-Papers**](https://github.com/tjunlp-lab/Awesome-LLM-Safety-Papers) - tjunlp-lab ![Star](https://img.shields.io/github/stars/tjunlp-lab/Awesome-LLM-Safety-Papers.svg?style=social&label=Star)
+- [**Awesome-LLM-Safety-Papers**](https://github.com/tjunlp-lab/Awesome-LLM-Safety-Papers) - tjunlp-lab ![Star](https://img.shields.io/github/stars/tjunlp-lab/Awesome-LLM-Safety-Papers.svg?style=social&label=Star) 
 - [**PromptJailbreakManual**](https://github.com/Acmesec/PromptJailbreakManual) - Acmesec ![Star](https://img.shields.io/github/stars/Acmesec/PromptJailbreakManual.svg?style=social&label=Star) 
 - [**CS-Eval**](https://github.com/CS-EVAL/CS-Eval) - CS-EVAL ![Star](https://img.shields.io/github/stars/CS-EVAL/CS-Eval.svg?style=social&label=Star) 
 - [**garak**](https://github.com/NVIDIA/garak) - NVIDIA ![Star](https://img.shields.io/github/stars/NVIDIA/garak.svg?style=social&label=Star) 

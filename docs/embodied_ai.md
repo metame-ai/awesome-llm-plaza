@@ -56,9 +56,9 @@
 
 ## Robotics
 
-- [**openpilot**](https://github.com/commaai/openpilot) - commaai ![Star](https://img.shields.io/github/stars/commaai/openpilot.svg?style=social&label=Star)
-- [**flow_matching**](https://github.com/HRI-EU/flow_matching) - HRI-EU ![Star](https://img.shields.io/github/stars/HRI-EU/flow_matching.svg?style=social&label=Star)
-- [fastest, most precise, and most capable hand control setup](https://x.com/RemiCadene/status/1868210029985513959)  𝕏
+- [**openpilot**](https://github.com/commaai/openpilot) - commaai ![Star](https://img.shields.io/github/stars/commaai/openpilot.svg?style=social&label=Star) 
+- [**flow_matching**](https://github.com/HRI-EU/flow_matching) - HRI-EU ![Star](https://img.shields.io/github/stars/HRI-EU/flow_matching.svg?style=social&label=Star) 
+- [fastest, most precise, and most capable hand control setup](https://x.com/RemiCadene/status/1868210029985513959)  𝕏 
 - **GRAPE: Generalizing Robot Policy via Preference Alignment**, `arXiv, 2411.19309`, [arxiv](http://arxiv.org/abs/2411.19309v1), [pdf](http://arxiv.org/pdf/2411.19309v1.pdf), cication: [**-1**](None) 
 
 	 *Zijian Zhang, Kaiyuan Zheng, Zhaorun Chen, ..., Dieter Fox, Huaxiu Yao* · ([grape-vla.github](https://grape-vla.github.io/))

@@ -24,14 +24,17 @@
 
 ## Reasoning
 
-- 🌟 **B-STaR: Monitoring and Balancing Exploration and Exploitation in
+- 🌟 **Token-Budget-Aware LLM Reasoning**, `arXiv, 2412.18547`, [arxiv](http://arxiv.org/abs/2412.18547v2), [pdf](http://arxiv.org/pdf/2412.18547v2.pdf), cication: [**-1**](None) 
+
+	 *Tingxu Han, Chunrong Fang, Shiyu Zhao, ..., Zhenyu Chen, Zhenting Wang* · ([TALE](https://github.com/GeniusHTX/TALE) - GeniusHTX) ![Star](https://img.shields.io/github/stars/GeniusHTX/TALE.svg?style=social&label=Star) · ([𝕏](https://x.com/wang1999_zt/status/1871967246685557130))
+- 🌟 **B-STaR: Monitoring and Balancing Exploration and Exploitation in 
   Self-Taught Reasoners**, `arXiv, 2412.17256`, [arxiv](http://arxiv.org/abs/2412.17256v1), [pdf](http://arxiv.org/pdf/2412.17256v1.pdf), cication: [**-1**](None) 
 
 	 *Weihao Zeng, Yuzhen Huang, Lulu Zhao, ..., Zifei Shan, Junxian He*
 - **Deliberation in Latent Space via Differentiable Cache Augmentation**, `arXiv, 2412.17747`, [arxiv](http://arxiv.org/abs/2412.17747v1), [pdf](http://arxiv.org/pdf/2412.17747v1.pdf), cication: [**-1**](None) 
 
 	 *Luyang Liu, Jonas Pfeiffer, Jiaxing Wu, ..., Jun Xie, Arthur Szlam*
-- **Ensembling Large Language Models with Process Reward-Guided Tree Search
+- **Ensembling Large Language Models with Process Reward-Guided Tree Search 
   for Better Complex Reasoning**, `arXiv, 2412.15797`, [arxiv](http://arxiv.org/abs/2412.15797v1), [pdf](http://arxiv.org/pdf/2412.15797v1.pdf), cication: [**-1**](None) 
 
 	 *Sungjin Park, Xiao Liu, Yeyun Gong, ..., Edward Choi*
@@ -115,7 +118,7 @@
 
 ## Math Reasoning
 
-- **AceMath: Advancing Frontier Math Reasoning with Post-Training and Reward
+- **AceMath: Advancing Frontier Math Reasoning with Post-Training and Reward 
   Modeling**, `arXiv, 2412.15084`, [arxiv](http://arxiv.org/abs/2412.15084v1), [pdf](http://arxiv.org/pdf/2412.15084v1.pdf), cication: [**-1**](None) 
 
 	 *Zihan Liu, Yang Chen, Mohammad Shoeybi, ..., Bryan Catanzaro, Wei Ping* · ([research.nvidia](https://research.nvidia.com/labs/adlr/acemath))
@@ -151,13 +154,14 @@
 
 ## O1 Reasoning
 
-- [distill its thinking capacities into a smaller model, enhancing their reasoning performances](https://x.com/ADarmouni/status/1871257176733556849)  𝕏
+- [SmallThinker-3B-preview, a new model fine-tuned from the Qwen2.5-3b-Instruct model.](https://huggingface.co/PowerInfer/SmallThinker-3B-Preview)  🤗
+- [distill its thinking capacities into a smaller model, enhancing their reasoning performances](https://x.com/ADarmouni/status/1871257176733556849)  𝕏 
 
 	 · ([t](https://t.co/i9FfvkTEg1))
 - **OpenAI o1 System Card**, `arXiv, 2412.16720`, [arxiv](http://arxiv.org/abs/2412.16720v1), [pdf](http://arxiv.org/pdf/2412.16720v1.pdf), cication: [**-1**](None) 
 
 	 *OpenAI, :, Aaron Jaech, ..., Zheng Shao, Zhuohan Li*
-- **Imitate, Explore, and Self-Improve: A Reproduction Report on
+- **Imitate, Explore, and Self-Improve: A Reproduction Report on 
   Slow-thinking Reasoning Systems**, `arXiv, 2412.09413`, [arxiv](http://arxiv.org/abs/2412.09413v2), [pdf](http://arxiv.org/pdf/2412.09413v2.pdf), cication: [**-1**](None) 
 
 	 *Yingqian Min, Zhipeng Chen, Jinhao Jiang, ..., Zhongyuan Wang, Ji-Rong Wen* · ([Slow_Thinking_with_LLMs](https://github.com/RUCAIBox/Slow_Thinking_with_LLMs?tab=readme-ov-file) - RUCAIBox) ![Star](https://img.shields.io/github/stars/RUCAIBox/Slow_Thinking_with_LLMs.svg?style=social&label=Star)

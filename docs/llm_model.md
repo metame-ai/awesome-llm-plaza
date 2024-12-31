@@ -13,7 +13,7 @@
 
 ## LLM Models
 
-- [2024 in Post-Transformer Architectures: State Space Models, RWKV [Latent Space LIVE! @ NeurIPS 2024]](http://www.youtube.com/playlist?list=PLWEAb1SXhjlfG63F03R52DZXpHzVB1_5j)  :clapper:
+- [2024 in Post-Transformer Architectures: State Space Models, RWKV [Latent Space LIVE! @ NeurIPS 2024]](http://www.youtube.com/playlist?list=PLWEAb1SXhjlfG63F03R52DZXpHzVB1_5j)  :clapper: 
 - [Bamba: Inference-Efficient Hybrid Mamba2 Model](https://huggingface.co/blog/bamba)  🤗 
 
 	 · ([bamba](https://github.com/foundation-model-stack/bamba) - foundation-model-stack) ![Star](https://img.shields.io/github/stars/foundation-model-stack/bamba.svg?style=social&label=Star)

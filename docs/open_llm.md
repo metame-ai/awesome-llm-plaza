@@ -59,8 +59,14 @@
 
 ## Chinese Models
 
-- [deepseek-ai  / DeepSeek-V3-Base](https://huggingface.co/deepseek-ai/DeepSeek-V3-Base/tree/main)  🤗
-- 🌟 [**DeepSeek-V3**](https://github.com/deepseek-ai/DeepSeek-V3) - deepseek-ai ![Star](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-V3.svg?style=social&label=Star)
+- 🌟 **YuLan-Mini: An Open Data-efficient Language Model**, `arXiv, 2412.17743`, [arxiv](http://arxiv.org/abs/2412.17743v2), [pdf](http://arxiv.org/pdf/2412.17743v2.pdf), cication: [**-1**](None) 
+
+	 *Yiwen Hu, Huatong Song, Jia Deng, ..., Wayne Xin Zhao, Ji-Rong Wen* · ([YuLan-Mini](https://github.com/RUC-GSAI/YuLan-Mini) - RUC-GSAI) ![Star](https://img.shields.io/github/stars/RUC-GSAI/YuLan-Mini.svg?style=social&label=Star)
+- 🌟 **DeepSeek-V3 Technical Report**, `arXiv, 2412.19437`, [arxiv](http://arxiv.org/abs/2412.19437v1), [pdf](http://arxiv.org/pdf/2412.19437v1.pdf), cication: [**-1**](None) 
+
+	 *DeepSeek-AI, Aixin Liu, Bei Feng, ..., Ziyi Gao, Zizheng Pan* · ([DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - deepseek-ai) ![Star](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-V3.svg?style=social&label=Star)
+- [deepseek-ai  / DeepSeek-V3-Base](https://huggingface.co/deepseek-ai/DeepSeek-V3-Base/tree/main)  🤗 
+- 🌟 [**DeepSeek-V3**](https://github.com/deepseek-ai/DeepSeek-V3) - deepseek-ai ![Star](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-V3.svg?style=social&label=Star) 
 - **Qwen2.5 Technical Report**, `arXiv, 2412.15115`, [arxiv](http://arxiv.org/abs/2412.15115v1), [pdf](http://arxiv.org/pdf/2412.15115v1.pdf), cication: [**-1**](None) 
 
 	 *Qwen, :, An Yang, ..., Zhenru Zhang, Zihan Qiu*

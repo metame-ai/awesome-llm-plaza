@@ -13,6 +13,10 @@
 
 ## RLHF
 
+- **Enhancing Multi-Step Reasoning Abilities of Language Models through
+  Direct Q-Function Optimization**, `arXiv, 2410.09302`, [arxiv](http://arxiv.org/abs/2410.09302v1), [pdf](http://arxiv.org/pdf/2410.09302v1.pdf), cication: [**-1**](None) 
+
+	 *Guanlin Liu, Kaixuan Ji, Renjie Zheng, ..., Quanquan Gu, Lin Yan*
 - [Spurious Correlation, Shortcut Learning, and Reward Hacking](https://yihe-deng.notion.site/Spurious-Correlation-Shortcut-Learning-and-Reward-Hacking-163ab2d2c1fb808bbfd7c6a17b01a39d) 
 - **Offline Reinforcement Learning for LLM Multi-Step Reasoning**, `arXiv, 2412.16145`, [arxiv](http://arxiv.org/abs/2412.16145v1), [pdf](http://arxiv.org/pdf/2412.16145v1.pdf), cication: [**-1**](None) 
 

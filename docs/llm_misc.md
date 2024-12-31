@@ -47,11 +47,12 @@
 
 ## Interpretability
 
+- [The Dark Matter of AI [Mechanistic Interpretability]](https://www.youtube.com/watch?v=UGO_Ehywuxc)  :clapper:
 - [Goodfire Ember: Scaling Interpretability for Frontier Model Alignment](https://www.goodfire.ai/blog/announcing-goodfire-ember/) 
 
 	 · ([𝕏](https://x.com/GoodfireAI/status/1871241896942612518))
 - [Understanding Transformer reasoning capabilities via graph algorithms](https://research.google/blog/understanding-transformer-reasoning-capabilities-via-graph-algorithms/) 
-- **Towards scientific discovery with dictionary learning: Extracting
+- **Towards scientific discovery with dictionary learning: Extracting 
   biological concepts from microscopy foundation models**, `arXiv, 2412.16247`, [arxiv](http://arxiv.org/abs/2412.16247v1), [pdf](http://arxiv.org/pdf/2412.16247v1.pdf), cication: [**-1**](None) 
 
 	 *Konstantin Donhauser, Kristina Ulicna, Gemma Elyse Moran, ..., Cian Eastwood, Jason Hartford*

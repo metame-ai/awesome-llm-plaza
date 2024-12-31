@@ -70,8 +70,9 @@
 
 ## Projects
 
-- [**SWE-Gym**](https://github.com/SWE-Gym/SWE-Gym) - SWE-Gym ![Star](https://img.shields.io/github/stars/SWE-Gym/SWE-Gym.svg?style=social&label=Star)
-- [**gitingest**](https://github.com/cyclotruc/gitingest) - cyclotruc ![Star](https://img.shields.io/github/stars/cyclotruc/gitingest.svg?style=social&label=Star)
+- [**deepseek-engineer**](https://github.com/Doriandarko/deepseek-engineer) - Doriandarko ![Star](https://img.shields.io/github/stars/Doriandarko/deepseek-engineer.svg?style=social&label=Star)
+- [**SWE-Gym**](https://github.com/SWE-Gym/SWE-Gym) - SWE-Gym ![Star](https://img.shields.io/github/stars/SWE-Gym/SWE-Gym.svg?style=social&label=Star) 
+- [**gitingest**](https://github.com/cyclotruc/gitingest) - cyclotruc ![Star](https://img.shields.io/github/stars/cyclotruc/gitingest.svg?style=social&label=Star) 
 - [**llamacoder**](https://github.com/Nutlope/llamacoder) - Nutlope ![Star](https://img.shields.io/github/stars/Nutlope/llamacoder.svg?style=social&label=Star) 
 - [**MPLSandbox**](https://github.com/Ablustrund/MPLSandbox) - Ablustrund ![Star](https://img.shields.io/github/stars/Ablustrund/MPLSandbox.svg?style=social&label=Star) 
 
@@ -100,8 +101,8 @@
 
 ## Misc
 
-- [Best of 2024 in Agents (from #1 on SWE-Bench Full, Prof. Graham Neubig of OpenHands/AllHands)](https://www.youtube.com/watch?v=B6PKVZq2qqo&list=PLWEAb1SXhjlfG63F03R52DZXpHzVB1_5j&index=7)  :clapper:
-- [**geminiCoder**](https://github.com/osanseviero/geminiCoder) - osanseviero ![Star](https://img.shields.io/github/stars/osanseviero/geminiCoder.svg?style=social&label=Star)
+- [Best of 2024 in Agents (from #1 on SWE-Bench Full, Prof. Graham Neubig of OpenHands/AllHands)](https://www.youtube.com/watch?v=B6PKVZq2qqo&list=PLWEAb1SXhjlfG63F03R52DZXpHzVB1_5j&index=7)  :clapper: 
+- [**geminiCoder**](https://github.com/osanseviero/geminiCoder) - osanseviero ![Star](https://img.shields.io/github/stars/osanseviero/geminiCoder.svg?style=social&label=Star) 
 - [Windsurf Cascade Leaked System prompt](https://buttondown.com/ainews/archive/ainews-meta-llama-33-405bnova-pro-performance-at/) 
 
 	 · ([reddit](https://www.reddit.com/r/LocalLLaMA/comments/1h7sjyt/windsurf_cascade_leaked_system_prompt/))

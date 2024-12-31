@@ -63,7 +63,7 @@
 
 ## Finetuning
 
-- **Let the Expert Stick to His Last: Expert-Specialized Fine-Tuning for
+- **Let the Expert Stick to His Last: Expert-Specialized Fine-Tuning for 
   Sparse Architectural Large Language Models**, `arXiv, 2407.01906`, [arxiv](http://arxiv.org/abs/2407.01906v2), [pdf](http://arxiv.org/pdf/2407.01906v2.pdf), cication: [**-1**](None) 
 
 	 *Zihan Wang, Deli Chen, Damai Dai, ..., Zhuoshu Li, Y. Wu* · ([𝕏](https://x.com/wzihanw/status/1809089857320521899))
@@ -79,7 +79,7 @@
 - **No More Adam: Learning Rate Scaling at Initialization is All You Need**, `arXiv, 2412.11768`, [arxiv](http://arxiv.org/abs/2412.11768v2), [pdf](http://arxiv.org/pdf/2412.11768v2.pdf), cication: [**-1**](None) 
 
 	 *Minghao Xu, Lichuan Xiang, Xu Cai, ..., Hongkai Wen* · ([SGD_SaI](https://github.com/AnonymousAlethiometer/SGD_SaI) - AnonymousAlethiometer) ![Star](https://img.shields.io/github/stars/AnonymousAlethiometer/SGD_SaI.svg?style=social&label=Star)
-- **Mix-LN: Unleashing the Power of Deeper Layers by Combining Pre-LN and
+- **Mix-LN: Unleashing the Power of Deeper Layers by Combining Pre-LN and 
   Post-LN**, `arXiv, 2412.13795`, [arxiv](http://arxiv.org/abs/2412.13795v1), [pdf](http://arxiv.org/pdf/2412.13795v1.pdf), cication: [**-1**](None) 
 
 	 *Pengxiang Li, Lu Yin, Shiwei Liu* · ([MixLN.](https://github.com/pixeli99/MixLN.) - pixeli99) ![Star](https://img.shields.io/github/stars/pixeli99/MixLN..svg?style=social&label=Star)
@@ -129,6 +129,9 @@
 
 ## Architecture
 
+- **Memory Layers at Scale**, `arXiv, 2412.09764`, [arxiv](http://arxiv.org/abs/2412.09764v2), [pdf](http://arxiv.org/pdf/2412.09764v2.pdf), cication: [**-1**](None) 
+
+	 *Vincent-Pierre Berges, Barlas Oğuz, Daniel Haziza, ..., Luke Zettlemoyer, Gargi Ghosh*
 
 ## Mixture Of Experts
 
@@ -168,6 +171,9 @@
 
 ## Merge
 
+- **Safeguard Fine-Tuned LLMs Through Pre- and Post-Tuning Model Merging**, `arXiv, 2412.19512`, [arxiv](http://arxiv.org/abs/2412.19512v1), [pdf](http://arxiv.org/pdf/2412.19512v1.pdf), cication: [**-1**](None) 
+
+	 *Hua Farn, Hsuan Su, Shachi H Kumar, ..., Shang-Tse Chen, Hung-yi Lee*
 - **How to Merge Your Multimodal Models Over Time?**, `arXiv, 2412.06712`, [arxiv](http://arxiv.org/abs/2412.06712v1), [pdf](http://arxiv.org/pdf/2412.06712v1.pdf), cication: [**-1**](None) 
 
 	 *Sebastian Dziadzio, Vishaal Udandarao, Karsten Roth, ..., Samuel Albanie, Matthias Bethge* · ([𝕏](https://x.com/vishaal_urao/status/1867238865918189934))
@@ -204,6 +210,7 @@
 
 ## Misc
 
+- [Cool things from DeepSeek v3's paper](https://x.com/danielhanchen/status/1872719599029850391)  𝕏
 - [Fixing bugs in Gemma, Llama, & Phi 3: Daniel Han](https://www.youtube.com/watch?v=TKmfBnW0mQA)  :clapper: 
 - [OLMo 2 and building effective teams for training language models](https://www.interconnects.ai/p/olmo-2-and-building-language-model-training) 
 - 🌟 [**modded-nanogpt**](https://github.com/KellerJordan/modded-nanogpt) - KellerJordan ![Star](https://img.shields.io/github/stars/KellerJordan/modded-nanogpt.svg?style=social&label=Star) 

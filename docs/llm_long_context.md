@@ -19,7 +19,7 @@
 - **Revisiting In-Context Learning with Long Context Language Models**, `arXiv, 2412.16926`, [arxiv](http://arxiv.org/abs/2412.16926v1), [pdf](http://arxiv.org/pdf/2412.16926v1.pdf), cication: [**-1**](None) 
 
 	 *Jinheon Baek, Sun Jae Lee, Prakhar Gupta, ..., Siddharth Dalmia, Prateek Kolhar*
-- **Fourier Position Embedding: Enhancing Attention's Periodic Extension for
+- **Fourier Position Embedding: Enhancing Attention's Periodic Extension for 
   Length Generalization**, `arXiv, 2412.17739`, [arxiv](http://arxiv.org/abs/2412.17739v1), [pdf](http://arxiv.org/pdf/2412.17739v1.pdf), cication: [**-1**](None) 
 
 	 *Ermo Hua, Che Jiang, Xingtai Lv, ..., Xue Kai Zhu, Bowen Zhou*

@@ -20,6 +20,9 @@
 - **Improving Factuality with Explicit Working Memory**, `arXiv, 2412.18069`, [arxiv](http://arxiv.org/abs/2412.18069v1), [pdf](http://arxiv.org/pdf/2412.18069v1.pdf), cication: [**-1**](None) 
 
 	 *Mingda Chen, Yang Li, Karthik Padthe, ..., Gargi Gosh, Wen-tau Yih*
+- **Improving Factuality with Explicit Working Memory**, `arXiv, 2412.18069`, [arxiv](http://arxiv.org/abs/2412.18069v1), [pdf](http://arxiv.org/pdf/2412.18069v1.pdf), cication: [**-1**](None) 
+
+	 *Mingda Chen, Yang Li, Karthik Padthe, ..., Gargi Gosh, Wen-tau Yih*
 - [FACTS Grounding: A new benchmark for evaluating the factuality of large language models](https://deepmind.google/discover/blog/facts-grounding-a-new-benchmark-for-evaluating-the-factuality-of-large-language-models/) 
 - 🌟 **RetroLLM: Empowering Large Language Models to Retrieve Fine-grained 
   Evidence within Generation**, `arXiv, 2412.11919`, [arxiv](http://arxiv.org/abs/2412.11919v1), [pdf](http://arxiv.org/pdf/2412.11919v1.pdf), cication: [**-1**](None) 

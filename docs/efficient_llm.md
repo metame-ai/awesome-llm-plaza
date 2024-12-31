@@ -19,6 +19,14 @@
 
 ## Survey
 
+- **A Silver Bullet or a Compromise for Full Attention? A Comprehensive
+  Study of Gist Token-based Context Compression**, `arXiv, 2412.17483`, [arxiv](http://arxiv.org/abs/2412.17483v1), [pdf](http://arxiv.org/pdf/2412.17483v1.pdf), cication: [**-1**](None) 
+
+	 *Chenlong Deng, Zhisong Zhang, Kelong Mao, ..., Dong Yu, Zhicheng Dou*
+- **A Survey on Large Language Model Acceleration based on KV Cache
+  Management**, `arXiv, 2412.19442`, [arxiv](http://arxiv.org/abs/2412.19442v1), [pdf](http://arxiv.org/pdf/2412.19442v1.pdf), cication: [**-1**](None) 
+
+	 *Haoyang Li, Yiming Li, Anxin Tian, ..., Qing Li, Lei Chen* · ([Awesome-KV-Cache-Management](https://github.com/TreeAI-Lab/Awesome-KV-Cache-Management) - TreeAI-Lab) ![Star](https://img.shields.io/github/stars/TreeAI-Lab/Awesome-KV-Cache-Management.svg?style=social&label=Star)
 - **A Comprehensive Survey of Small Language Models in the Era of Large 
   Language Models: Techniques, Enhancements, Applications, Collaboration with
   LLMs, and Trustworthiness**, `arXiv, 2411.03350`, [arxiv](http://arxiv.org/abs/2411.03350v1), [pdf](http://arxiv.org/pdf/2411.03350v1.pdf), cication: [**-1**](None) 
@@ -118,7 +126,7 @@
 
 ## Inference
 
-- 🌟 [**sglang**](https://github.com/sgl-project/sglang) - sgl-project ![Star](https://img.shields.io/github/stars/sgl-project/sglang.svg?style=social&label=Star)
+- 🌟 [**sglang**](https://github.com/sgl-project/sglang) - sgl-project ![Star](https://img.shields.io/github/stars/sgl-project/sglang.svg?style=social&label=Star) 
 - [FlashInfer 0.2 - Efficient and Customizable Kernels for LLM Inference Serving](https://flashinfer.ai/2024/12/16/flashinfer-v02-release.html) 
 
 	 · ([𝕏](https://x.com/ye_combinator/status/1869823582261653787))

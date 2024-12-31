@@ -19,6 +19,10 @@
 
 ## Survey
 
+- **Next Token Prediction Towards Multimodal Intelligence: A Comprehensive
+  Survey**, `arXiv, 2412.18619`, [arxiv](http://arxiv.org/abs/2412.18619v2), [pdf](http://arxiv.org/pdf/2412.18619v2.pdf), cication: [**-1**](None) 
+
+	 *Liang Chen, Zekun Wang, Shuhuai Ren, ..., Tianyu Liu, Baobao Chang* · ([Awesome-Multimodal-Next-Token-Prediction](https://github.com/LMM101/Awesome-Multimodal-Next-Token-Prediction) - LMM101) ![Star](https://img.shields.io/github/stars/LMM101/Awesome-Multimodal-Next-Token-Prediction.svg?style=social&label=Star)
 - **A Survey of Mathematical Reasoning in the Era of Multimodal Large 
   Language Model: Benchmark, Method & Challenges**, `arXiv, 2412.11936`, [arxiv](http://arxiv.org/abs/2412.11936v1), [pdf](http://arxiv.org/pdf/2412.11936v1.pdf), cication: [**-1**](None) 
 
@@ -49,7 +53,7 @@
 
 ## Vision-Language Models
 
-- 🌟 [QVQ-72B-Preview is an experimental research model developed by the Qwen team, focusing on enhancing visual reasoning capabilities.](https://huggingface.co/Qwen/QVQ-72B-Preview)  🤗
+- 🌟 [QVQ-72B-Preview is an experimental research model developed by the Qwen team, focusing on enhancing visual reasoning capabilities.](https://huggingface.co/Qwen/QVQ-72B-Preview)  🤗 
 - **SynerGen-VL: Towards Synergistic Image Understanding and Generation with 
   Vision Experts and Token Folding**, `arXiv, 2412.09604`, [arxiv](http://arxiv.org/abs/2412.09604v1), [pdf](http://arxiv.org/pdf/2412.09604v1.pdf), cication: [**-1**](None) 
 
@@ -136,6 +140,10 @@
 
 ## Video
 
+- **Video-Panda: Parameter-efficient Alignment for Encoder-free
+  Video-Language Models**, `arXiv, 2412.18609`, [arxiv](http://arxiv.org/abs/2412.18609v1), [pdf](http://arxiv.org/pdf/2412.18609v1.pdf), cication: [**-1**](None) 
+
+	 *Jinhui Yi, Syed Talal Wasim, Yanan Luo, ..., Muzammal Naseer, Juergen Gall* · ([Video-Panda](https://github.com/jh-yi/Video-Panda) - jh-yi) ![Star](https://img.shields.io/github/stars/jh-yi/Video-Panda.svg?style=social&label=Star)
 - 🌟 **Apollo: An Exploration of Video Understanding in Large Multimodal Models**, `arXiv, 2412.10360`, [arxiv](http://arxiv.org/abs/2412.10360v1), [pdf](http://arxiv.org/pdf/2412.10360v1.pdf), cication: [**-1**](None) 
 
 	 *Orr Zohar, Xiaohan Wang, Yann Dubois, ..., Serena Yeung-Levy, Xide Xia* · ([apollo-lmms.github](https://apollo-lmms.github.io)) · ([huggingface](https://huggingface.co/spaces/Apollo-LMMs/Apollo-3B)) · ([Apollo](https://github.com/Apollo-LMMs/Apollo/) - Apollo-LMMs) ![Star](https://img.shields.io/github/stars/Apollo-LMMs/Apollo.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/Apollo-LMMs))
@@ -192,7 +200,7 @@
 
 ## Encoder
 
-- **LLaVA-UHD v2: an MLLM Integrating High-Resolution Feature Pyramid via
+- **LLaVA-UHD v2: an MLLM Integrating High-Resolution Feature Pyramid via 
   Hierarchical Window Transformer**, `arXiv, 2412.13871`, [arxiv](http://arxiv.org/abs/2412.13871v1), [pdf](http://arxiv.org/pdf/2412.13871v1.pdf), cication: [**-1**](None) 
 
 	 *Yipeng Zhang, Yifan Liu, Zonghao Guo, ..., Tat-Seng Chua, Maosong Sun* · ([LLaVA-UHD](https://github.com/thunlp/LLaVA-UHD) - thunlp) ![Star](https://img.shields.io/github/stars/thunlp/LLaVA-UHD.svg?style=social&label=Star)
@@ -257,7 +265,11 @@
 
 ## Alignment
 
-- [Preference Optimization for Vision Language Models with TRL](https://huggingface.co/blog/dpo_vlm)  🤗
+- **Task Preference Optimization: Improving Multimodal Large Language Models
+  with Vision Task Alignment**, `arXiv, 2412.19326`, [arxiv](http://arxiv.org/abs/2412.19326v1), [pdf](http://arxiv.org/pdf/2412.19326v1.pdf), cication: [**-1**](None) 
+
+	 *Ziang Yan, Zhilin Li, Yinan He, ..., Limin Wang, Yi Wang* · ([TPO](https://github.com/OpenGVLab/TPO) - OpenGVLab) ![Star](https://img.shields.io/github/stars/OpenGVLab/TPO.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/OpenGVLab/VideoChat-TPO))
+- [Preference Optimization for Vision Language Models with TRL](https://huggingface.co/blog/dpo_vlm)  🤗 
 - **On Domain-Specific Post-Training for Multimodal Large Language Models**, `arXiv, 2411.19930`, [arxiv](http://arxiv.org/abs/2411.19930v1), [pdf](http://arxiv.org/pdf/2411.19930v1.pdf), cication: [**-1**](None) 
 
 	 *Daixuan Cheng, Shaohan Huang, Ziyu Zhu, ..., Bo Dai, Zhenliang Zhang* · ([huggingface](https://huggingface.co/AdaptLLM/Adapt-MLLM-to-Domains))
@@ -280,7 +292,11 @@
 
 ## Reasoning
 
-- 🌟 **Thinking in Space: How Multimodal Large Language Models See, Remember,
+- 🌟 **Mulberry: Empowering MLLM with o1-like Reasoning and Reflection via
+  Collective Monte Carlo Tree Search**, `arXiv, 2412.18319`, [arxiv](http://arxiv.org/abs/2412.18319v1), [pdf](http://arxiv.org/pdf/2412.18319v1.pdf), cication: [**-1**](None) 
+
+	 *Huanjin Yao, Jiaxing Huang, Wenhao Wu, ..., Li Shen, Dacheng Tao* · ([Mulberry](https://github.com/HJYao00/Mulberry) - HJYao00) ![Star](https://img.shields.io/github/stars/HJYao00/Mulberry.svg?style=social&label=Star)
+- 🌟 **Thinking in Space: How Multimodal Large Language Models See, Remember, 
   and Recall Spaces**, `arXiv, 2412.14171`, [arxiv](http://arxiv.org/abs/2412.14171v1), [pdf](http://arxiv.org/pdf/2412.14171v1.pdf), cication: [**-1**](None) 
 
 	 *Jihan Yang, Shusheng Yang, Anjali W. Gupta, ..., Li Fei-Fei, Saining Xie* · ([vision-x-nyu.github](https://vision-x-nyu.github.io/thinking-in-space.github.io/)) · ([thinking-in-space.git](https://github.com/vision-x-nyu/thinking-in-space.git) - vision-x-nyu) ![Star](https://img.shields.io/github/stars/vision-x-nyu/thinking-in-space.git.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/datasets/nyu-visionx/VSI-Bench))
@@ -465,7 +481,7 @@
 - **MegaPairs: Massive Data Synthesis For Universal Multimodal Retrieval**, `arXiv, 2412.14475`, [arxiv](http://arxiv.org/abs/2412.14475v1), [pdf](http://arxiv.org/pdf/2412.14475v1.pdf), cication: [**-1**](None) 
 
 	 *Junjie Zhou, Zheng Liu, Ze Liu, ..., Defu Lian, Yongping Xiong*
-- [MMPR, which includes additional data sources to enhance the data diversity and improves the performance of InternVL2.5](https://huggingface.co/datasets/OpenGVLab/MMPR-v1.1)  🤗
+- [MMPR, which includes additional data sources to enhance the data diversity and improves the performance of InternVL2.5](https://huggingface.co/datasets/OpenGVLab/MMPR-v1.1)  🤗 
 - 🌟 **LAION-SG: An Enhanced Large-Scale Dataset for Training Complex 
   Image-Text Models with Structural Annotations**, `arXiv, 2412.08580`, [arxiv](http://arxiv.org/abs/2412.08580v1), [pdf](http://arxiv.org/pdf/2412.08580v1.pdf), cication: [**-1**](None) 
 

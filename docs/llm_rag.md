@@ -18,7 +18,7 @@
 
 ## RAG
 
-- **SKETCH: Structured Knowledge Enhanced Text Comprehension for Holistic
+- **SKETCH: Structured Knowledge Enhanced Text Comprehension for Holistic 
   Retrieval**, `arXiv, 2412.15443`, [arxiv](http://arxiv.org/abs/2412.15443v1), [pdf](http://arxiv.org/pdf/2412.15443v1.pdf), cication: [**-1**](None) 
 
 	 *Aakash Mahalingam, Vinesh Kumar Gande, Aman Chadha, ..., Vinija Jain, Divya Chaudhary*

@@ -138,6 +138,9 @@
 
 ## Medical
 
+- 🌟 **HuatuoGPT-o1, Towards Medical Complex Reasoning with LLMs**, `arXiv, 2412.18925`, [arxiv](http://arxiv.org/abs/2412.18925v1), [pdf](http://arxiv.org/pdf/2412.18925v1.pdf), cication: [**-1**](None) 
+
+	 *Junying Chen, Zhenyang Cai, Ke Ji, ..., Jianye Hou, Benyou Wang* · ([HuatuoGPT-o1](https://github.com/FreedomIntelligence/HuatuoGPT-o1) - FreedomIntelligence) ![Star](https://img.shields.io/github/stars/FreedomIntelligence/HuatuoGPT-o1.svg?style=social&label=Star)
 - **BianCang: A Traditional Chinese Medicine Large Language Model**, `arXiv, 2411.11027`, [arxiv](http://arxiv.org/abs/2411.11027v1), [pdf](http://arxiv.org/pdf/2411.11027v1.pdf), cication: [**-1**](None) 
 
 	 *Sibo Wei, Xueping Peng, Yi-fei Wang, ..., Xiaoming Wu, Yinglong Wang* · ([BianCang](https://github.com/QLU-NLP/BianCang?tab=readme-ov-file) - QLU-NLP) ![Star](https://img.shields.io/github/stars/QLU-NLP/BianCang.svg?style=social&label=Star)
@@ -178,6 +181,10 @@
 
 ## Recommendation
 
+- **Molar: Multimodal LLMs with Collaborative Filtering Alignment for
+  Enhanced Sequential Recommendation**, `arXiv, 2412.18176`, [arxiv](http://arxiv.org/abs/2412.18176v2), [pdf](http://arxiv.org/pdf/2412.18176v2.pdf), cication: [**-1**](None) 
+
+	 *Yucong Luo, Qitao Qin, Hao Zhang, ..., Kefan Wang, Jie Ouyang* · ([anonymous.4open](https://anonymous.4open.science/r/Molar-8B06/))
 - **VisualLens: Personalization through Visual History**, `arXiv, 2411.16034`, [arxiv](http://arxiv.org/abs/2411.16034v1), [pdf](http://arxiv.org/pdf/2411.16034v1.pdf), cication: [**-1**](None) 
 
 	 *Wang Bill Zhu, Deqing Fu, Kai Sun, ..., Anuj Kumar, Xin Luna Dong*
@@ -222,8 +229,8 @@
 
 ## Projects
 
-- [**helicone**](https://github.com/Helicone/helicone) - Helicone ![Star](https://img.shields.io/github/stars/Helicone/helicone.svg?style=social&label=Star)
-- [**video-analyzer**](https://github.com/byjlw/video-analyzer) - byjlw ![Star](https://img.shields.io/github/stars/byjlw/video-analyzer.svg?style=social&label=Star)
+- [**helicone**](https://github.com/Helicone/helicone) - Helicone ![Star](https://img.shields.io/github/stars/Helicone/helicone.svg?style=social&label=Star) 
+- [**video-analyzer**](https://github.com/byjlw/video-analyzer) - byjlw ![Star](https://img.shields.io/github/stars/byjlw/video-analyzer.svg?style=social&label=Star) 
 - [**awesome-llm-apps**](https://github.com/Shubhamsaboo/awesome-llm-apps) - Shubhamsaboo ![Star](https://img.shields.io/github/stars/Shubhamsaboo/awesome-llm-apps.svg?style=social&label=Star) 
 - [**amurex**](https://github.com/thepersonalaicompany/amurex) - thepersonalaicompany ![Star](https://img.shields.io/github/stars/thepersonalaicompany/amurex.svg?style=social&label=Star) 
 - [**ai-rd-tasks**](https://github.com/METR/ai-rd-tasks) - METR ![Star](https://img.shields.io/github/stars/METR/ai-rd-tasks.svg?style=social&label=Star) 

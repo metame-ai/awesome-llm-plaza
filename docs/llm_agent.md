@@ -86,14 +86,18 @@
 
 ## UI Agent
 
-- **PC Agent: While You Sleep, AI Works -- A Cognitive Journey into Digital
+- **OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real
+  Computer Environments**, `arXiv, 2404.07972`, [arxiv](http://arxiv.org/abs/2404.07972v2), [pdf](http://arxiv.org/pdf/2404.07972v2.pdf), cication: [**-1**](None) 
+
+	 *Tianbao Xie, Danyang Zhang, Jixuan Chen, ..., Victor Zhong, Tao Yu* · ([os-world.github](https://os-world.github.io/)) · ([OSWorld](https://github.com/xlang-ai/OSWorld) - xlang-ai) ![Star](https://img.shields.io/github/stars/xlang-ai/OSWorld.svg?style=social&label=Star)
+- **PC Agent: While You Sleep, AI Works -- A Cognitive Journey into Digital 
   World**, `arXiv, 2412.17589`, [arxiv](http://arxiv.org/abs/2412.17589v1), [pdf](http://arxiv.org/pdf/2412.17589v1.pdf), cication: [**-1**](None) 
 
 	 *Yanheng He, Jiahe Jin, Shijie Xia, ..., Xiangkun Hu, Pengfei Liu* · ([gair-nlp.github](https://gair-nlp.github.io/PC-Agent/)) · ([PC-Agent](https://github.com/GAIR-NLP/PC-Agent) - GAIR-NLP) ![Star](https://img.shields.io/github/stars/GAIR-NLP/PC-Agent.svg?style=social&label=Star)
 - **Aria-UI: Visual Grounding for GUI Instructions**, `arXiv, 2412.16256`, [arxiv](http://arxiv.org/abs/2412.16256v1), [pdf](http://arxiv.org/pdf/2412.16256v1.pdf), cication: [**-1**](None) 
 
 	 *Yuhao Yang, Yue Wang, Dongxu Li, ..., Chao Huang, Junnan Li* · ([ariaui.github](https://ariaui.github.io)) · ([Aria-UI](https://github.com/AriaUI/Aria-UI) - AriaUI) ![Star](https://img.shields.io/github/stars/AriaUI/Aria-UI.svg?style=social&label=Star)
-- 🌟 [**CogAgent**](https://github.com/THUDM/CogAgent) - THUDM ![Star](https://img.shields.io/github/stars/THUDM/CogAgent.svg?style=social&label=Star)
+- 🌟 [**CogAgent**](https://github.com/THUDM/CogAgent) - THUDM ![Star](https://img.shields.io/github/stars/THUDM/CogAgent.svg?style=social&label=Star) 
 
 	 · ([cogagent.aminer](https://cogagent.aminer.cn/blog))
 - **AutoDroid-V2: Boosting SLM-based GUI Agents via Code Generation**, `arXiv, 2412.18116`, [arxiv](http://arxiv.org/abs/2412.18116v1), [pdf](http://arxiv.org/pdf/2412.18116v1.pdf), cication: [**-1**](None) 
@@ -189,7 +193,7 @@
 
 ## Evaluation
 
-- **TheAgentCompany: Benchmarking LLM Agents on Consequential Real World
+- **TheAgentCompany: Benchmarking LLM Agents on Consequential Real World 
   Tasks**, `arXiv, 2412.14161`, [arxiv](http://arxiv.org/abs/2412.14161v1), [pdf](http://arxiv.org/pdf/2412.14161v1.pdf), cication: [**-1**](None) 
 
 	 *Frank F. Xu, Yufan Song, Boxuan Li, ..., Shuyan Zhou, Graham Neubig*
@@ -203,7 +207,8 @@
 
 ## Projects
 
-- [**python-sdk**](https://github.com/modelcontextprotocol/python-sdk) - modelcontextprotocol ![Star](https://img.shields.io/github/stars/modelcontextprotocol/python-sdk.svg?style=social&label=Star)
+- [**smolagents**](https://github.com/huggingface/smolagents) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/smolagents.svg?style=social&label=Star)
+- [**python-sdk**](https://github.com/modelcontextprotocol/python-sdk) - modelcontextprotocol ![Star](https://img.shields.io/github/stars/modelcontextprotocol/python-sdk.svg?style=social&label=Star) 
 - [**dynasaur**](https://github.com/adobe-research/dynasaur) - adobe-research ![Star](https://img.shields.io/github/stars/adobe-research/dynasaur.svg?style=social&label=Star) 
 - [**steel-browser**](https://github.com/steel-dev/steel-browser) - steel-dev ![Star](https://img.shields.io/github/stars/steel-dev/steel-browser.svg?style=social&label=Star) 
 - [**Qwen-Agent**](https://github.com/QwenLM/Qwen-Agent) - QwenLM ![Star](https://img.shields.io/github/stars/QwenLM/Qwen-Agent.svg?style=social&label=Star) 
