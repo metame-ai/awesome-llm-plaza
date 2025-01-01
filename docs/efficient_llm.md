@@ -19,11 +19,11 @@
 
 ## Survey
 
-- **A Silver Bullet or a Compromise for Full Attention? A Comprehensive
+- **A Silver Bullet or a Compromise for Full Attention? A Comprehensive 
   Study of Gist Token-based Context Compression**, `arXiv, 2412.17483`, [arxiv](http://arxiv.org/abs/2412.17483v1), [pdf](http://arxiv.org/pdf/2412.17483v1.pdf), cication: [**-1**](None) 
 
 	 *Chenlong Deng, Zhisong Zhang, Kelong Mao, ..., Dong Yu, Zhicheng Dou*
-- **A Survey on Large Language Model Acceleration based on KV Cache
+- **A Survey on Large Language Model Acceleration based on KV Cache 
   Management**, `arXiv, 2412.19442`, [arxiv](http://arxiv.org/abs/2412.19442v1), [pdf](http://arxiv.org/pdf/2412.19442v1.pdf), cication: [**-1**](None) 
 
 	 *Haoyang Li, Yiming Li, Anxin Tian, ..., Qing Li, Lei Chen* · ([Awesome-KV-Cache-Management](https://github.com/TreeAI-Lab/Awesome-KV-Cache-Management) - TreeAI-Lab) ![Star](https://img.shields.io/github/stars/TreeAI-Lab/Awesome-KV-Cache-Management.svg?style=social&label=Star)

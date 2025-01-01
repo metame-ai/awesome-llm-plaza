@@ -86,7 +86,7 @@
 
 ## UI Agent
 
-- **OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real
+- **OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real 
   Computer Environments**, `arXiv, 2404.07972`, [arxiv](http://arxiv.org/abs/2404.07972v2), [pdf](http://arxiv.org/pdf/2404.07972v2.pdf), cication: [**-1**](None) 
 
 	 *Tianbao Xie, Danyang Zhang, Jixuan Chen, ..., Victor Zhong, Tao Yu* · ([os-world.github](https://os-world.github.io/)) · ([OSWorld](https://github.com/xlang-ai/OSWorld) - xlang-ai) ![Star](https://img.shields.io/github/stars/xlang-ai/OSWorld.svg?style=social&label=Star)
@@ -207,7 +207,7 @@
 
 ## Projects
 
-- [**smolagents**](https://github.com/huggingface/smolagents) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/smolagents.svg?style=social&label=Star)
+- [**smolagents**](https://github.com/huggingface/smolagents) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/smolagents.svg?style=social&label=Star) 
 - [**python-sdk**](https://github.com/modelcontextprotocol/python-sdk) - modelcontextprotocol ![Star](https://img.shields.io/github/stars/modelcontextprotocol/python-sdk.svg?style=social&label=Star) 
 - [**dynasaur**](https://github.com/adobe-research/dynasaur) - adobe-research ![Star](https://img.shields.io/github/stars/adobe-research/dynasaur.svg?style=social&label=Star) 
 - [**steel-browser**](https://github.com/steel-dev/steel-browser) - steel-dev ![Star](https://img.shields.io/github/stars/steel-dev/steel-browser.svg?style=social&label=Star) 

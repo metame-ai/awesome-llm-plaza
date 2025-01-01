@@ -47,7 +47,7 @@
 
 ## Interpretability
 
-- [The Dark Matter of AI [Mechanistic Interpretability]](https://www.youtube.com/watch?v=UGO_Ehywuxc)  :clapper:
+- [The Dark Matter of AI [Mechanistic Interpretability]](https://www.youtube.com/watch?v=UGO_Ehywuxc)  :clapper: 
 - [Goodfire Ember: Scaling Interpretability for Frontier Model Alignment](https://www.goodfire.ai/blog/announcing-goodfire-ember/) 
 
 	 · ([𝕏](https://x.com/GoodfireAI/status/1871241896942612518))

@@ -154,7 +154,7 @@
 
 ## O1 Reasoning
 
-- [SmallThinker-3B-preview, a new model fine-tuned from the Qwen2.5-3b-Instruct model.](https://huggingface.co/PowerInfer/SmallThinker-3B-Preview)  🤗
+- [SmallThinker-3B-preview, a new model fine-tuned from the Qwen2.5-3b-Instruct model.](https://huggingface.co/PowerInfer/SmallThinker-3B-Preview)  🤗 
 - [distill its thinking capacities into a smaller model, enhancing their reasoning performances](https://x.com/ADarmouni/status/1871257176733556849)  𝕏 
 
 	 · ([t](https://t.co/i9FfvkTEg1))

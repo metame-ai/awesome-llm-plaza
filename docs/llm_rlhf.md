@@ -13,7 +13,7 @@
 
 ## RLHF
 
-- **Enhancing Multi-Step Reasoning Abilities of Language Models through
+- **Enhancing Multi-Step Reasoning Abilities of Language Models through 
   Direct Q-Function Optimization**, `arXiv, 2410.09302`, [arxiv](http://arxiv.org/abs/2410.09302v1), [pdf](http://arxiv.org/pdf/2410.09302v1.pdf), cication: [**-1**](None) 
 
 	 *Guanlin Liu, Kaixuan Ji, Renjie Zheng, ..., Quanquan Gu, Lin Yan*

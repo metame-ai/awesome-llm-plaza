@@ -210,7 +210,7 @@
 
 ## Misc
 
-- [Cool things from DeepSeek v3's paper](https://x.com/danielhanchen/status/1872719599029850391)  𝕏
+- [Cool things from DeepSeek v3's paper](https://x.com/danielhanchen/status/1872719599029850391)  𝕏 
 - [Fixing bugs in Gemma, Llama, & Phi 3: Daniel Han](https://www.youtube.com/watch?v=TKmfBnW0mQA)  :clapper: 
 - [OLMo 2 and building effective teams for training language models](https://www.interconnects.ai/p/olmo-2-and-building-language-model-training) 
 - 🌟 [**modded-nanogpt**](https://github.com/KellerJordan/modded-nanogpt) - KellerJordan ![Star](https://img.shields.io/github/stars/KellerJordan/modded-nanogpt.svg?style=social&label=Star) 

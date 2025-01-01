@@ -19,7 +19,7 @@
 
 ## Survey
 
-- **Next Token Prediction Towards Multimodal Intelligence: A Comprehensive
+- **Next Token Prediction Towards Multimodal Intelligence: A Comprehensive 
   Survey**, `arXiv, 2412.18619`, [arxiv](http://arxiv.org/abs/2412.18619v2), [pdf](http://arxiv.org/pdf/2412.18619v2.pdf), cication: [**-1**](None) 
 
 	 *Liang Chen, Zekun Wang, Shuhuai Ren, ..., Tianyu Liu, Baobao Chang* · ([Awesome-Multimodal-Next-Token-Prediction](https://github.com/LMM101/Awesome-Multimodal-Next-Token-Prediction) - LMM101) ![Star](https://img.shields.io/github/stars/LMM101/Awesome-Multimodal-Next-Token-Prediction.svg?style=social&label=Star)
@@ -140,7 +140,7 @@
 
 ## Video
 
-- **Video-Panda: Parameter-efficient Alignment for Encoder-free
+- **Video-Panda: Parameter-efficient Alignment for Encoder-free 
   Video-Language Models**, `arXiv, 2412.18609`, [arxiv](http://arxiv.org/abs/2412.18609v1), [pdf](http://arxiv.org/pdf/2412.18609v1.pdf), cication: [**-1**](None) 
 
 	 *Jinhui Yi, Syed Talal Wasim, Yanan Luo, ..., Muzammal Naseer, Juergen Gall* · ([Video-Panda](https://github.com/jh-yi/Video-Panda) - jh-yi) ![Star](https://img.shields.io/github/stars/jh-yi/Video-Panda.svg?style=social&label=Star)
@@ -265,7 +265,7 @@
 
 ## Alignment
 
-- **Task Preference Optimization: Improving Multimodal Large Language Models
+- **Task Preference Optimization: Improving Multimodal Large Language Models 
   with Vision Task Alignment**, `arXiv, 2412.19326`, [arxiv](http://arxiv.org/abs/2412.19326v1), [pdf](http://arxiv.org/pdf/2412.19326v1.pdf), cication: [**-1**](None) 
 
 	 *Ziang Yan, Zhilin Li, Yinan He, ..., Limin Wang, Yi Wang* · ([TPO](https://github.com/OpenGVLab/TPO) - OpenGVLab) ![Star](https://img.shields.io/github/stars/OpenGVLab/TPO.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/OpenGVLab/VideoChat-TPO))
@@ -292,7 +292,7 @@
 
 ## Reasoning
 
-- 🌟 **Mulberry: Empowering MLLM with o1-like Reasoning and Reflection via
+- 🌟 **Mulberry: Empowering MLLM with o1-like Reasoning and Reflection via 
   Collective Monte Carlo Tree Search**, `arXiv, 2412.18319`, [arxiv](http://arxiv.org/abs/2412.18319v1), [pdf](http://arxiv.org/pdf/2412.18319v1.pdf), cication: [**-1**](None) 
 
 	 *Huanjin Yao, Jiaxing Huang, Wenhao Wu, ..., Li Shen, Dacheng Tao* · ([Mulberry](https://github.com/HJYao00/Mulberry) - HJYao00) ![Star](https://img.shields.io/github/stars/HJYao00/Mulberry.svg?style=social&label=Star)

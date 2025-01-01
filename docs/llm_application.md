@@ -181,7 +181,7 @@
 
 ## Recommendation
 
-- **Molar: Multimodal LLMs with Collaborative Filtering Alignment for
+- **Molar: Multimodal LLMs with Collaborative Filtering Alignment for 
   Enhanced Sequential Recommendation**, `arXiv, 2412.18176`, [arxiv](http://arxiv.org/abs/2412.18176v2), [pdf](http://arxiv.org/pdf/2412.18176v2.pdf), cication: [**-1**](None) 
 
 	 *Yucong Luo, Qitao Qin, Hao Zhang, ..., Kefan Wang, Jie Ouyang* · ([anonymous.4open](https://anonymous.4open.science/r/Molar-8B06/))

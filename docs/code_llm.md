@@ -70,7 +70,7 @@
 
 ## Projects
 
-- [**deepseek-engineer**](https://github.com/Doriandarko/deepseek-engineer) - Doriandarko ![Star](https://img.shields.io/github/stars/Doriandarko/deepseek-engineer.svg?style=social&label=Star)
+- [**deepseek-engineer**](https://github.com/Doriandarko/deepseek-engineer) - Doriandarko ![Star](https://img.shields.io/github/stars/Doriandarko/deepseek-engineer.svg?style=social&label=Star) 
 - [**SWE-Gym**](https://github.com/SWE-Gym/SWE-Gym) - SWE-Gym ![Star](https://img.shields.io/github/stars/SWE-Gym/SWE-Gym.svg?style=social&label=Star) 
 - [**gitingest**](https://github.com/cyclotruc/gitingest) - cyclotruc ![Star](https://img.shields.io/github/stars/cyclotruc/gitingest.svg?style=social&label=Star) 
 - [**llamacoder**](https://github.com/Nutlope/llamacoder) - Nutlope ![Star](https://img.shields.io/github/stars/Nutlope/llamacoder.svg?style=social&label=Star) 
