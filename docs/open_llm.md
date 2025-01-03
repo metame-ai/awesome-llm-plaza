@@ -59,6 +59,9 @@
 
 ## Chinese Models
 
+- **Xmodel-2 Technical Report**, `arXiv, 2412.19638`, [arxiv](http://arxiv.org/abs/2412.19638v1), [pdf](http://arxiv.org/pdf/2412.19638v1.pdf), cication: [**-1**](None) 
+
+	 *Wang Qun, Liu Yang, Lin Qingquan, ..., Qu Zhijiu, Jiang Ling* · ([Xmodel-2](https://github.com/XiaoduoAILab/Xmodel-2) - XiaoduoAILab) ![Star](https://img.shields.io/github/stars/XiaoduoAILab/Xmodel-2.svg?style=social&label=Star)
 - 🌟 **YuLan-Mini: An Open Data-efficient Language Model**, `arXiv, 2412.17743`, [arxiv](http://arxiv.org/abs/2412.17743v2), [pdf](http://arxiv.org/pdf/2412.17743v2.pdf), cication: [**-1**](None) 
 
 	 *Yiwen Hu, Huatong Song, Jia Deng, ..., Wayne Xin Zhao, Ji-Rong Wen* · ([YuLan-Mini](https://github.com/RUC-GSAI/YuLan-Mini) - RUC-GSAI) ![Star](https://img.shields.io/github/stars/RUC-GSAI/YuLan-Mini.svg?style=social&label=Star)

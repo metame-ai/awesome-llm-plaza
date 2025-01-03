@@ -17,6 +17,10 @@
 
 ## Embodied AI
 
+- **Towards Generalist Robot Policies: What Matters in Building
+  Vision-Language-Action Models**, `arXiv, 2412.14058`, [arxiv](http://arxiv.org/abs/2412.14058v3), [pdf](http://arxiv.org/pdf/2412.14058v3.pdf), cication: [**-1**](None) 
+
+	 *Xinghang Li, Peiyan Li, Minghuan Liu, ..., Hanbo Zhang, Huaping Liu*
 - **Code-as-Monitor: Constraint-aware Visual Programming for Reactive and 
   Proactive Robotic Failure Detection**, `arXiv, 2412.04455`, [arxiv](http://arxiv.org/abs/2412.04455v2), [pdf](http://arxiv.org/pdf/2412.04455v2.pdf), cication: [**-1**](None) 
 
@@ -56,6 +60,9 @@
 
 ## Robotics
 
+- [Introducing AgiBot World, the first large-scale robotic learning dataset designed to advance multi-purpose robotic policies.](https://agibot-world.com/) 
+
+	 · ([Agibot-World](https://github.com/OpenDriveLab/Agibot-World) - OpenDriveLab) ![Star](https://img.shields.io/github/stars/OpenDriveLab/Agibot-World.svg?style=social&label=Star)
 - [**openpilot**](https://github.com/commaai/openpilot) - commaai ![Star](https://img.shields.io/github/stars/commaai/openpilot.svg?style=social&label=Star) 
 - [**flow_matching**](https://github.com/HRI-EU/flow_matching) - HRI-EU ![Star](https://img.shields.io/github/stars/HRI-EU/flow_matching.svg?style=social&label=Star) 
 - [fastest, most precise, and most capable hand control setup](https://x.com/RemiCadene/status/1868210029985513959)  𝕏 

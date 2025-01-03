@@ -13,6 +13,7 @@
 
 ## RLHF
 
+- [Analyzing OpenAI’s Reinforcement Fine-Tuning: Less Data, Better Results](https://openpipe.ai/blog/openai-rft) 
 - **Enhancing Multi-Step Reasoning Abilities of Language Models through 
   Direct Q-Function Optimization**, `arXiv, 2410.09302`, [arxiv](http://arxiv.org/abs/2410.09302v1), [pdf](http://arxiv.org/pdf/2410.09302v1.pdf), cication: [**-1**](None) 
 

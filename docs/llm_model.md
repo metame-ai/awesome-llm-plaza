@@ -13,6 +13,7 @@
 
 ## LLM Models
 
+- [RWKV (pronounced RwaKuv) is an RNN with great LLM performance,            which can also be directly trained like a GPT transformer            (parallelizable).](https://www.rwkv.com/) 
 - [2024 in Post-Transformer Architectures: State Space Models, RWKV [Latent Space LIVE! @ NeurIPS 2024]](http://www.youtube.com/playlist?list=PLWEAb1SXhjlfG63F03R52DZXpHzVB1_5j)  :clapper: 
 - [Bamba: Inference-Efficient Hybrid Mamba2 Model](https://huggingface.co/blog/bamba)  🤗 
 

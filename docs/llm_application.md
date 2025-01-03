@@ -45,6 +45,9 @@
 
 ## Science
 
+- **Aviary: training language agents on challenging scientific tasks**, `arXiv, 2412.21154`, [arxiv](http://arxiv.org/abs/2412.21154v1), [pdf](http://arxiv.org/pdf/2412.21154v1.pdf), cication: [**-1**](None) 
+
+	 *Siddharth Narayanan, James D. Braza, Ryan-Rhys Griffiths, ..., Samuel G. Rodriques, Andrew D. White*
 - [**semikong**](https://github.com/aitomatic/semikong) - aitomatic ![Star](https://img.shields.io/github/stars/aitomatic/semikong.svg?style=social&label=Star) 
 - **Reflections from the 2024 Large Language Model (LLM) Hackathon for 
   Applications in Materials Science and Chemistry**, `arXiv, 2411.15221`, [arxiv](http://arxiv.org/abs/2411.15221v1), [pdf](http://arxiv.org/pdf/2411.15221v1.pdf), cication: [**-1**](None) 
@@ -138,6 +141,10 @@
 
 ## Medical
 
+- **On the Compositional Generalization of Multimodal LLMs for Medical
+  Imaging**, `arXiv, 2412.20070`, [arxiv](http://arxiv.org/abs/2412.20070v1), [pdf](http://arxiv.org/pdf/2412.20070v1.pdf), cication: [**-1**](None) 
+
+	 *Zhenyang Cai, Junying Chen, Rongsheng Wang, ..., Zixu Zhang, Benyou Wang* · ([Med-MAT](https://github.com/FreedomIntelligence/Med-MAT) - FreedomIntelligence) ![Star](https://img.shields.io/github/stars/FreedomIntelligence/Med-MAT.svg?style=social&label=Star)
 - 🌟 **HuatuoGPT-o1, Towards Medical Complex Reasoning with LLMs**, `arXiv, 2412.18925`, [arxiv](http://arxiv.org/abs/2412.18925v1), [pdf](http://arxiv.org/pdf/2412.18925v1.pdf), cication: [**-1**](None) 
 
 	 *Junying Chen, Zhenyang Cai, Ke Ji, ..., Jianye Hou, Benyou Wang* · ([HuatuoGPT-o1](https://github.com/FreedomIntelligence/HuatuoGPT-o1) - FreedomIntelligence) ![Star](https://img.shields.io/github/stars/FreedomIntelligence/HuatuoGPT-o1.svg?style=social&label=Star)
@@ -210,6 +217,7 @@
 
 ## UI
 
+- [**cherry-studio**](https://github.com/CherryHQ/cherry-studio) - CherryHQ ![Star](https://img.shields.io/github/stars/CherryHQ/cherry-studio.svg?style=social&label=Star)
 - [**coai**](https://github.com/coaidev/coai) - coaidev ![Star](https://img.shields.io/github/stars/coaidev/coai.svg?style=social&label=Star) 
 - [gabrielchua / gradio-canvas](https://huggingface.co/spaces/gabrielchua/gradio-canvas/tree/main)  🤗 
 
@@ -229,6 +237,7 @@
 
 ## Projects
 
+- [**NarratoAI**](https://github.com/linyqh/NarratoAI) - linyqh ![Star](https://img.shields.io/github/stars/linyqh/NarratoAI.svg?style=social&label=Star)
 - [**helicone**](https://github.com/Helicone/helicone) - Helicone ![Star](https://img.shields.io/github/stars/Helicone/helicone.svg?style=social&label=Star) 
 - [**video-analyzer**](https://github.com/byjlw/video-analyzer) - byjlw ![Star](https://img.shields.io/github/stars/byjlw/video-analyzer.svg?style=social&label=Star) 
 - [**awesome-llm-apps**](https://github.com/Shubhamsaboo/awesome-llm-apps) - Shubhamsaboo ![Star](https://img.shields.io/github/stars/Shubhamsaboo/awesome-llm-apps.svg?style=social&label=Star) 
@@ -262,6 +271,8 @@
 
 ## LLM Applications
 
+- [Gemini Deep Research](https://x.com/Francis_YAO_/status/1874169582686265425)  𝕏
+- [阿里前端第一人AI创业首秀，要做全球内容创作者的GitHub！公司俩月估值过亿，5k人排队内测](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247770518&idx=1&sn=89175b55fcd449812465de30c01b5694&chksm=e9008b1ab2a629d7a75ef55310411da0851420920f1084d5adfb36f9f52e14b2a338e3aec285&scene=0&xtrack=1) 
 - [百川新模型超GPT-4o近20%，首创自约束训练方案突破瓶颈，主打「领域增强」](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247768608&idx=1&sn=ee29ba3fb8ef9b40f03fcc7914b72daa&chksm=e979e23cf03cd2fd60909c632b4eba03d1ef265038dbed406a4478c1f8b979dbc5fd95a732f0&scene=0&xtrack=1) 
 - [Automating the Search for Artificial Life with Foundation Models](http://distill.pub/) 
 - [Clio: A system for privacy-preserving insights into real-world AI use](https://www.anthropic.com/research/clio) 

@@ -20,6 +20,10 @@
 
 ## LLM Evaluation
 
+- **LongDocURL: a Comprehensive Multimodal Long Document Benchmark
+  Integrating Understanding, Reasoning, and Locating**, `arXiv, 2412.18424`, [arxiv](http://arxiv.org/abs/2412.18424v2), [pdf](http://arxiv.org/pdf/2412.18424v2.pdf), cication: [**-1**](None) 
+
+	 *Chao Deng, Jiale Yuan, Pi Bu, ..., Bo Zheng, Cheng-Lin Liu*
 - **Smaller Language Models Are Better Instruction Evolvers**, `arXiv, 2412.11231`, [arxiv](http://arxiv.org/abs/2412.11231v1), [pdf](http://arxiv.org/pdf/2412.11231v1.pdf), cication: [**-1**](None) 
 
 	 *Tingfeng Hui, Lulu Zhao, Guanting Dong, ..., Hua Zhou, Sen Su* · ([Evolution-Analysis](https://github.com/HypherX/Evolution-Analysis) - HypherX) ![Star](https://img.shields.io/github/stars/HypherX/Evolution-Analysis.svg?style=social&label=Star) · ([𝕏](https://x.com/kakakbibibi/status/1868867253594472804))

@@ -126,6 +126,9 @@
 
 ## Inference
 
+- **Efficiently Serving LLM Reasoning Programs with Certaindex**, `arXiv, 2412.20993`, [arxiv](http://arxiv.org/abs/2412.20993v1), [pdf](http://arxiv.org/pdf/2412.20993v1.pdf), cication: [**-1**](None) 
+
+	 *Yichao Fu, Junda Chen, Siqi Zhu, ..., Aurick Qiao, Hao Zhang*
 - 🌟 [**sglang**](https://github.com/sgl-project/sglang) - sgl-project ![Star](https://img.shields.io/github/stars/sgl-project/sglang.svg?style=social&label=Star) 
 - [FlashInfer 0.2 - Efficient and Customizable Kernels for LLM Inference Serving](https://flashinfer.ai/2024/12/16/flashinfer-v02-release.html) 
 

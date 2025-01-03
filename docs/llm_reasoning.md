@@ -118,6 +118,13 @@
 
 ## Math Reasoning
 
+- **Slow Perception: Let's Perceive Geometric Figures Step-by-step**, `arXiv, 2412.20631`, [arxiv](http://arxiv.org/abs/2412.20631v1), [pdf](http://arxiv.org/pdf/2412.20631v1.pdf), cication: [**-1**](None) 
+
+	 *Haoran Wei, Youyang Yin, Yumeng Li, ..., Zheng Ge, Xiangyu Zhang* · ([Slow-Perception](https://github.com/Ucas-HaoranWei/Slow-Perception) - Ucas-HaoranWei) ![Star](https://img.shields.io/github/stars/Ucas-HaoranWei/Slow-Perception.svg?style=social&label=Star)
+- **HUNYUANPROVER: A Scalable Data Synthesis Framework and Guided Tree
+  Search for Automated Theorem Proving**, `arXiv, 2412.20735`, [arxiv](http://arxiv.org/abs/2412.20735v2), [pdf](http://arxiv.org/pdf/2412.20735v2.pdf), cication: [**-1**](None) 
+
+	 *Yang Li, Dong Du, Linfeng Song, ..., Tao Yang, Haitao Mi*
 - **AceMath: Advancing Frontier Math Reasoning with Post-Training and Reward 
   Modeling**, `arXiv, 2412.15084`, [arxiv](http://arxiv.org/abs/2412.15084v1), [pdf](http://arxiv.org/pdf/2412.15084v1.pdf), cication: [**-1**](None) 
 
@@ -154,6 +161,14 @@
 
 ## O1 Reasoning
 
+- **Do NOT Think That Much for 2+3=? On the Overthinking of o1-Like LLMs**, `arXiv, 2412.21187`, [arxiv](http://arxiv.org/abs/2412.21187v1), [pdf](http://arxiv.org/pdf/2412.21187v1.pdf), cication: [**-1**](None) 
+
+	 *Xingyu Chen, Jiahao Xu, Tian Liang, ..., Haitao Mi, Dong Yu*
+- [Reasoning with o1](https://www.deeplearning.ai/short-courses/reasoning-with-o1/) 
+- [Reasoning with o1](https://www.bilibili.com/video/BV1M1kCYnETm/)  :clapper:
+- [**PRIME**](https://github.com/PRIME-RL/PRIME) - PRIME-RL ![Star](https://img.shields.io/github/stars/PRIME-RL/PRIME.svg?style=social&label=Star)
+
+	 · ([curvy-check-498.notion](https://curvy-check-498.notion.site/Process-Reinforcement-through-Implicit-Rewards-15f4fcb9c42180f1b498cc9b2eaf896f)) · ([𝕏](https://x.com/lifan__yuan/status/1874867809983033649))
 - [SmallThinker-3B-preview, a new model fine-tuned from the Qwen2.5-3b-Instruct model.](https://huggingface.co/PowerInfer/SmallThinker-3B-Preview)  🤗 
 - [distill its thinking capacities into a smaller model, enhancing their reasoning performances](https://x.com/ADarmouni/status/1871257176733556849)  𝕏 
 
@@ -169,7 +184,8 @@
 
 	 · ([huggingface](https://huggingface.co/spaces/HuggingFaceH4/blogpost-scaling-test-time-compute)) · ([𝕏](https://x.com/_lewtun/status/1868703456602865880))
 - [Beyond Decoding: Meta-Generation Algorithms for Large Language Models](https://cmu-l3.github.io/neurips2024-inference-tutorial/) 
-- [Beyond Decoding: Meta-Generation Algorithmsfor Large Language Models](https://cmu-l3.github.io/neurips2024-inference-tutorial/static/slides/neurips2024metageneration-tutorial-all.pdf) 
+
+	 · ([cmu-l3.github](https://cmu-l3.github.io/neurips2024-inference-tutorial/static/slides/neurips2024metageneration-tutorial-all.pdf))
 - [uncensored version of Qwen/QwQ-32B-Preview created with abliteration](https://huggingface.co/huihui-ai/QwQ-32B-Preview-abliterated)  🤗 
 
 	 · ([remove-refusals-with-transformers](https://github.com/Sumandora/remove-refusals-with-transformers) - Sumandora) ![Star](https://img.shields.io/github/stars/Sumandora/remove-refusals-with-transformers.svg?style=social&label=Star)
@@ -260,6 +276,10 @@
 
 ## Context Learning
 
+- 🌟 **Explanatory Instructions: Towards Unified Vision Tasks Understanding and
+  Zero-shot Generalization**, `arXiv, 2412.18525`, [arxiv](http://arxiv.org/abs/2412.18525v2), [pdf](http://arxiv.org/pdf/2412.18525v2.pdf), cication: [**-1**](None) 
+
+	 *Yang Shen, Xiu-Shen Wei, Yifan Sun, ..., Yazhou Yao, Errui Ding*
 - **The broader spectrum of in-context learning**, `arXiv, 2412.03782`, [arxiv](http://arxiv.org/abs/2412.03782v2), [pdf](http://arxiv.org/pdf/2412.03782v2.pdf), cication: [**-1**](None) 
 
 	 *Andrew Kyle Lampinen, Stephanie C. Y. Chan, Aaditya K. Singh, ..., Murray Shanahan* · ([𝕏](https://x.com/AndrewLampinen/status/1866546723210011077))
@@ -307,6 +327,10 @@
 
 ## Misc
 
+- [智谱版o1终于也来了：直接拿下考研数学，一句话就能做小游戏！](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247770241&idx=1&sn=fd6fb22d91ca671905f8ff8a338f7662&chksm=e9ba73fe67399d9a51136457259305a5005bcc02ee12913d9c33515743e7668528772b93fe50&scene=0&xtrack=1) 
+- [Quick recap on the state of reasoning -- can LMs reason?](https://x.com/interconnectsai/status/1874850900352840129)  𝕏
+
+	 · ([youtube](https://www.youtube.com/watch?v=2pHE9L4ZZXM&ab_channel=InterconnectsAI))
 - [【北大对齐团队独家解读：OpenAI o1开启「后训练」时代强化学习新范式】](https://www.bilibili.com/list/watchlater?oid=113201647719044&bvid=BV15Rx5eXEnW)  :clapper: 
 - [The Problem with Reasoners](https://aidanmclaughlin.notion.site/reasoners-problem) 
 

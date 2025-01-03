@@ -53,6 +53,9 @@
 
 ## Vision-Language Models
 
+- **Are Vision-Language Models Truly Understanding Multi-vision Sensor?**, `arXiv, 2412.20750`, [arxiv](http://arxiv.org/abs/2412.20750v1), [pdf](http://arxiv.org/pdf/2412.20750v1.pdf), cication: [**-1**](None) 
+
+	 *Sangyun Chung, Youngjoon Yu, Youngchae Chee, ..., Byung-Kwan Lee, Yong Man Ro*
 - 🌟 [QVQ-72B-Preview is an experimental research model developed by the Qwen team, focusing on enhancing visual reasoning capabilities.](https://huggingface.co/Qwen/QVQ-72B-Preview)  🤗 
 - **SynerGen-VL: Towards Synergistic Image Understanding and Generation with 
   Vision Experts and Token Folding**, `arXiv, 2412.09604`, [arxiv](http://arxiv.org/abs/2412.09604v1), [pdf](http://arxiv.org/pdf/2412.09604v1.pdf), cication: [**-1**](None) 

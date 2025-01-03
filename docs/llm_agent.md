@@ -31,6 +31,9 @@
 
 ## Agents
 
+- [Introducing smolagents, a simple library to build agents](https://huggingface.co/blog/smolagents)  🤗
+
+	 · ([smolagents](https://github.com/huggingface/smolagents) - huggingface) ![Star](https://img.shields.io/github/stars/huggingface/smolagents.svg?style=social&label=Star)
 - [Building effective agents](https://www.anthropic.com/research/building-effective-agents) 
 - **StateFlow: Enhancing LLM Task-Solving through State-Driven Workflows**, `arXiv, 2403.11322`, [arxiv](http://arxiv.org/abs/2403.11322v5), [pdf](http://arxiv.org/pdf/2403.11322v5.pdf), cication: [**-1**](None) 
 
@@ -86,6 +89,10 @@
 
 ## UI Agent
 
+- 🌟 **OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse
+  Task Synthesis**, `arXiv, 2412.19723`, [arxiv](http://arxiv.org/abs/2412.19723v1), [pdf](http://arxiv.org/pdf/2412.19723v1.pdf), cication: [**-1**](None) 
+
+	 *Qiushi Sun, Kanzhi Cheng, Zichen Ding, ..., Yu Qiao, Zhiyong Wu* · ([qiushisun.github](https://qiushisun.github.io/OS-Genesis-Home/))
 - **OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real 
   Computer Environments**, `arXiv, 2404.07972`, [arxiv](http://arxiv.org/abs/2404.07972v2), [pdf](http://arxiv.org/pdf/2404.07972v2.pdf), cication: [**-1**](None) 
 
@@ -207,6 +214,8 @@
 
 ## Projects
 
+- [**Agentarium**](https://github.com/Thytu/Agentarium) - Thytu ![Star](https://img.shields.io/github/stars/Thytu/Agentarium.svg?style=social&label=Star)
+- [**PraisonAI**](https://github.com/MervinPraison/PraisonAI) - MervinPraison ![Star](https://img.shields.io/github/stars/MervinPraison/PraisonAI.svg?style=social&label=Star)
 - [**smolagents**](https://github.com/huggingface/smolagents) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/smolagents.svg?style=social&label=Star) 
 - [**python-sdk**](https://github.com/modelcontextprotocol/python-sdk) - modelcontextprotocol ![Star](https://img.shields.io/github/stars/modelcontextprotocol/python-sdk.svg?style=social&label=Star) 
 - [**dynasaur**](https://github.com/adobe-research/dynasaur) - adobe-research ![Star](https://img.shields.io/github/stars/adobe-research/dynasaur.svg?style=social&label=Star) 
@@ -232,6 +241,7 @@
 
 ## Misc
 
+- [Anthropic总结智能体年度经验：最成功的≠最复杂的](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650949769&idx=3&sn=4108a7288e67fbafd3b28a8f3529c8c1&chksm=853c2ced6c02fbac07c008c489ee3b5f6888f77c36e6d48adbdeb1d232a7cc8d1c6a58b9a1c1&scene=0&xtrack=1) 
 
 ## Multi Agent
 

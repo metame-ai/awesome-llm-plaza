@@ -15,6 +15,9 @@
 
 ## Code LLM
 
+- **Training Software Engineering Agents and Verifiers with SWE-Gym**, `arXiv, 2412.21139`, [arxiv](http://arxiv.org/abs/2412.21139v1), [pdf](http://arxiv.org/pdf/2412.21139v1.pdf), cication: [**-1**](None) 
+
+	 *Jiayi Pan, Xingyao Wang, Graham Neubig, ..., Alane Suhr, Yizhe Zhang* · ([SWE-Gym](https://github.com/SWE-Gym/SWE-Gym) - SWE-Gym) ![Star](https://img.shields.io/github/stars/SWE-Gym/SWE-Gym.svg?style=social&label=Star)
 - **Outcome-Refining Process Supervision for Code Generation**, `arXiv, 2412.15118`, [arxiv](http://arxiv.org/abs/2412.15118v1), [pdf](http://arxiv.org/pdf/2412.15118v1.pdf), cication: [**-1**](None) 
 
 	 *Zhuohao Yu, Weizheng Gu, Yidong Wang, ..., Wei Ye, Shikun Zhang* · ([ORPS](https://github.com/zhuohaoyu/ORPS) - zhuohaoyu) ![Star](https://img.shields.io/github/stars/zhuohaoyu/ORPS.svg?style=social&label=Star)
@@ -54,6 +57,10 @@
 
 ## Evaluation
 
+- **HumanEval Pro and MBPP Pro: Evaluating Large Language Models on
+  Self-invoking Code Generation**, `arXiv, 2412.21199`, [arxiv](http://arxiv.org/abs/2412.21199v2), [pdf](http://arxiv.org/pdf/2412.21199v2.pdf), cication: [**-1**](None) 
+
+	 *Zhaojian Yu, Yilun Zhao, Arman Cohan, ..., Xiao-Ping Zhang* · ([CodeEval-Pro](https://github.com/CodeEval-Pro/CodeEval-Pro) - CodeEval-Pro) ![Star](https://img.shields.io/github/stars/CodeEval-Pro/CodeEval-Pro.svg?style=social&label=Star) · ([answers111.github](https://answers111.github.io/evalpro.github.io/))
 - **Evaluating and Aligning CodeLLMs on Human Preference**, `arXiv, 2412.05210`, [arxiv](http://arxiv.org/abs/2412.05210v1), [pdf](http://arxiv.org/pdf/2412.05210v1.pdf), cication: [**-1**](None) 
 
 	 *Jian Yang, Jiaxi Yang, Ke Jin, ..., Binyuan Hui, Junyang Lin* · ([Qwen2.5-Coder](https://github.com/QwenLM/Qwen2.5-Coder/tree/main/qwencoder-eval/instruct/CodeArena) - QwenLM) ![Star](https://img.shields.io/github/stars/QwenLM/Qwen2.5-Coder.svg?style=social&label=Star) · ([arxiv](https://arxiv.org/abs/2412.05210)) · ([huggingface](https://huggingface.co/datasets/CSJianYang/CodeArena))
