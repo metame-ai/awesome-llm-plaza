@@ -24,6 +24,10 @@
 
 ## Reasoning
 
+- 🌟 **Quiet-STaR: Language Models Can Teach Themselves to Think Before
+  Speaking**, `arXiv, 2403.09629`, [arxiv](http://arxiv.org/abs/2403.09629v2), [pdf](http://arxiv.org/pdf/2403.09629v2.pdf), cication: [**-1**](None) 
+
+	 *Eric Zelikman, Georges Harik, Yijia Shao, ..., Nick Haber, Noah D. Goodman*
 - 🌟 **Token-Budget-Aware LLM Reasoning**, `arXiv, 2412.18547`, [arxiv](http://arxiv.org/abs/2412.18547v2), [pdf](http://arxiv.org/pdf/2412.18547v2.pdf), cication: [**-1**](None) 
 
 	 *Tingxu Han, Chunrong Fang, Shiyu Zhao, ..., Zhenyu Chen, Zhenting Wang* · ([TALE](https://github.com/GeniusHTX/TALE) - GeniusHTX) ![Star](https://img.shields.io/github/stars/GeniusHTX/TALE.svg?style=social&label=Star) · ([𝕏](https://x.com/wang1999_zt/status/1871967246685557130))
@@ -121,7 +125,7 @@
 - **Slow Perception: Let's Perceive Geometric Figures Step-by-step**, `arXiv, 2412.20631`, [arxiv](http://arxiv.org/abs/2412.20631v1), [pdf](http://arxiv.org/pdf/2412.20631v1.pdf), cication: [**-1**](None) 
 
 	 *Haoran Wei, Youyang Yin, Yumeng Li, ..., Zheng Ge, Xiangyu Zhang* · ([Slow-Perception](https://github.com/Ucas-HaoranWei/Slow-Perception) - Ucas-HaoranWei) ![Star](https://img.shields.io/github/stars/Ucas-HaoranWei/Slow-Perception.svg?style=social&label=Star)
-- **HUNYUANPROVER: A Scalable Data Synthesis Framework and Guided Tree
+- **HUNYUANPROVER: A Scalable Data Synthesis Framework and Guided Tree 
   Search for Automated Theorem Proving**, `arXiv, 2412.20735`, [arxiv](http://arxiv.org/abs/2412.20735v2), [pdf](http://arxiv.org/pdf/2412.20735v2.pdf), cication: [**-1**](None) 
 
 	 *Yang Li, Dong Du, Linfeng Song, ..., Tao Yang, Haitao Mi*
@@ -165,8 +169,8 @@
 
 	 *Xingyu Chen, Jiahao Xu, Tian Liang, ..., Haitao Mi, Dong Yu*
 - [Reasoning with o1](https://www.deeplearning.ai/short-courses/reasoning-with-o1/) 
-- [Reasoning with o1](https://www.bilibili.com/video/BV1M1kCYnETm/)  :clapper:
-- [**PRIME**](https://github.com/PRIME-RL/PRIME) - PRIME-RL ![Star](https://img.shields.io/github/stars/PRIME-RL/PRIME.svg?style=social&label=Star)
+- [Reasoning with o1](https://www.bilibili.com/video/BV1M1kCYnETm/)  :clapper: 
+- [**PRIME**](https://github.com/PRIME-RL/PRIME) - PRIME-RL ![Star](https://img.shields.io/github/stars/PRIME-RL/PRIME.svg?style=social&label=Star) 
 
 	 · ([curvy-check-498.notion](https://curvy-check-498.notion.site/Process-Reinforcement-through-Implicit-Rewards-15f4fcb9c42180f1b498cc9b2eaf896f)) · ([𝕏](https://x.com/lifan__yuan/status/1874867809983033649))
 - [SmallThinker-3B-preview, a new model fine-tuned from the Qwen2.5-3b-Instruct model.](https://huggingface.co/PowerInfer/SmallThinker-3B-Preview)  🤗 
@@ -276,7 +280,7 @@
 
 ## Context Learning
 
-- 🌟 **Explanatory Instructions: Towards Unified Vision Tasks Understanding and
+- 🌟 **Explanatory Instructions: Towards Unified Vision Tasks Understanding and 
   Zero-shot Generalization**, `arXiv, 2412.18525`, [arxiv](http://arxiv.org/abs/2412.18525v2), [pdf](http://arxiv.org/pdf/2412.18525v2.pdf), cication: [**-1**](None) 
 
 	 *Yang Shen, Xiu-Shen Wei, Yifan Sun, ..., Yazhou Yao, Errui Ding*
@@ -327,8 +331,9 @@
 
 ## Misc
 
+- [Jason Wei: Scaling Paradigms for Large Language Models](https://www.youtube.com/watch?v=yhpjpNXJDco)  :clapper:
 - [智谱版o1终于也来了：直接拿下考研数学，一句话就能做小游戏！](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247770241&idx=1&sn=fd6fb22d91ca671905f8ff8a338f7662&chksm=e9ba73fe67399d9a51136457259305a5005bcc02ee12913d9c33515743e7668528772b93fe50&scene=0&xtrack=1) 
-- [Quick recap on the state of reasoning -- can LMs reason?](https://x.com/interconnectsai/status/1874850900352840129)  𝕏
+- [Quick recap on the state of reasoning -- can LMs reason?](https://x.com/interconnectsai/status/1874850900352840129)  𝕏 
 
 	 · ([youtube](https://www.youtube.com/watch?v=2pHE9L4ZZXM&ab_channel=InterconnectsAI))
 - [【北大对齐团队独家解读：OpenAI o1开启「后训练」时代强化学习新范式】](https://www.bilibili.com/list/watchlater?oid=113201647719044&bvid=BV15Rx5eXEnW)  :clapper: 

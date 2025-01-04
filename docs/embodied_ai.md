@@ -17,7 +17,7 @@
 
 ## Embodied AI
 
-- **Towards Generalist Robot Policies: What Matters in Building
+- **Towards Generalist Robot Policies: What Matters in Building 
   Vision-Language-Action Models**, `arXiv, 2412.14058`, [arxiv](http://arxiv.org/abs/2412.14058v3), [pdf](http://arxiv.org/pdf/2412.14058v3.pdf), cication: [**-1**](None) 
 
 	 *Xinghang Li, Peiyan Li, Minghuan Liu, ..., Hanbo Zhang, Huaping Liu*

@@ -20,7 +20,7 @@
 
 ## LLM Evaluation
 
-- **LongDocURL: a Comprehensive Multimodal Long Document Benchmark
+- **LongDocURL: a Comprehensive Multimodal Long Document Benchmark 
   Integrating Understanding, Reasoning, and Locating**, `arXiv, 2412.18424`, [arxiv](http://arxiv.org/abs/2412.18424v2), [pdf](http://arxiv.org/pdf/2412.18424v2.pdf), cication: [**-1**](None) 
 
 	 *Chao Deng, Jiale Yuan, Pi Bu, ..., Bo Zheng, Cheng-Lin Liu*

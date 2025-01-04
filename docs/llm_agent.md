@@ -31,7 +31,7 @@
 
 ## Agents
 
-- [Introducing smolagents, a simple library to build agents](https://huggingface.co/blog/smolagents)  🤗
+- [Introducing smolagents, a simple library to build agents](https://huggingface.co/blog/smolagents)  🤗 
 
 	 · ([smolagents](https://github.com/huggingface/smolagents) - huggingface) ![Star](https://img.shields.io/github/stars/huggingface/smolagents.svg?style=social&label=Star)
 - [Building effective agents](https://www.anthropic.com/research/building-effective-agents) 
@@ -89,7 +89,7 @@
 
 ## UI Agent
 
-- 🌟 **OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse
+- 🌟 **OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse 
   Task Synthesis**, `arXiv, 2412.19723`, [arxiv](http://arxiv.org/abs/2412.19723v1), [pdf](http://arxiv.org/pdf/2412.19723v1.pdf), cication: [**-1**](None) 
 
 	 *Qiushi Sun, Kanzhi Cheng, Zichen Ding, ..., Yu Qiao, Zhiyong Wu* · ([qiushisun.github](https://qiushisun.github.io/OS-Genesis-Home/))
@@ -214,8 +214,8 @@
 
 ## Projects
 
-- [**Agentarium**](https://github.com/Thytu/Agentarium) - Thytu ![Star](https://img.shields.io/github/stars/Thytu/Agentarium.svg?style=social&label=Star)
-- [**PraisonAI**](https://github.com/MervinPraison/PraisonAI) - MervinPraison ![Star](https://img.shields.io/github/stars/MervinPraison/PraisonAI.svg?style=social&label=Star)
+- [**Agentarium**](https://github.com/Thytu/Agentarium) - Thytu ![Star](https://img.shields.io/github/stars/Thytu/Agentarium.svg?style=social&label=Star) 
+- [**PraisonAI**](https://github.com/MervinPraison/PraisonAI) - MervinPraison ![Star](https://img.shields.io/github/stars/MervinPraison/PraisonAI.svg?style=social&label=Star) 
 - [**smolagents**](https://github.com/huggingface/smolagents) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/smolagents.svg?style=social&label=Star) 
 - [**python-sdk**](https://github.com/modelcontextprotocol/python-sdk) - modelcontextprotocol ![Star](https://img.shields.io/github/stars/modelcontextprotocol/python-sdk.svg?style=social&label=Star) 
 - [**dynasaur**](https://github.com/adobe-research/dynasaur) - adobe-research ![Star](https://img.shields.io/github/stars/adobe-research/dynasaur.svg?style=social&label=Star) 

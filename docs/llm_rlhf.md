@@ -13,6 +13,10 @@
 
 ## RLHF
 
+- 🌟 **VinePPO: Unlocking RL Potential For LLM Reasoning Through Refined Credit
+  Assignment**, `arXiv, 2410.01679`, [arxiv](http://arxiv.org/abs/2410.01679v1), [pdf](http://arxiv.org/pdf/2410.01679v1.pdf), cication: [**-1**](None) 
+
+	 *Amirhossein Kazemnejad, Milad Aghajohari, Eva Portelance, ..., Aaron Courville, Nicolas Le Roux* · ([VinePPO](https://github.com/McGill-NLP/VinePPO) - McGill-NLP) ![Star](https://img.shields.io/github/stars/McGill-NLP/VinePPO.svg?style=social&label=Star)
 - [Analyzing OpenAI’s Reinforcement Fine-Tuning: Less Data, Better Results](https://openpipe.ai/blog/openai-rft) 
 - **Enhancing Multi-Step Reasoning Abilities of Language Models through 
   Direct Q-Function Optimization**, `arXiv, 2410.09302`, [arxiv](http://arxiv.org/abs/2410.09302v1), [pdf](http://arxiv.org/pdf/2410.09302v1.pdf), cication: [**-1**](None) 

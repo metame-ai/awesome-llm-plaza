@@ -76,6 +76,9 @@
 
 ## Optimization
 
+- **Spike No More: Stabilizing the Pre-training of Large Language Models**, `arXiv, 2312.16903`, [arxiv](http://arxiv.org/abs/2312.16903v3), [pdf](http://arxiv.org/pdf/2312.16903v3.pdf), cication: [**-1**](None) 
+
+	 *Sho Takase, Shun Kiyono, Sosuke Kobayashi, ..., Jun Suzuki*
 - **No More Adam: Learning Rate Scaling at Initialization is All You Need**, `arXiv, 2412.11768`, [arxiv](http://arxiv.org/abs/2412.11768v2), [pdf](http://arxiv.org/pdf/2412.11768v2.pdf), cication: [**-1**](None) 
 
 	 *Minghao Xu, Lichuan Xiang, Xu Cai, ..., Hongkai Wen* · ([SGD_SaI](https://github.com/AnonymousAlethiometer/SGD_SaI) - AnonymousAlethiometer) ![Star](https://img.shields.io/github/stars/AnonymousAlethiometer/SGD_SaI.svg?style=social&label=Star)
