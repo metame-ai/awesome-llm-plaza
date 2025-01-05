@@ -24,7 +24,7 @@
 
 ## Reasoning
 
-- 🌟 **Quiet-STaR: Language Models Can Teach Themselves to Think Before
+- 🌟 **Quiet-STaR: Language Models Can Teach Themselves to Think Before 
   Speaking**, `arXiv, 2403.09629`, [arxiv](http://arxiv.org/abs/2403.09629v2), [pdf](http://arxiv.org/pdf/2403.09629v2.pdf), cication: [**-1**](None) 
 
 	 *Eric Zelikman, Georges Harik, Yijia Shao, ..., Nick Haber, Noah D. Goodman*
@@ -331,7 +331,7 @@
 
 ## Misc
 
-- [Jason Wei: Scaling Paradigms for Large Language Models](https://www.youtube.com/watch?v=yhpjpNXJDco)  :clapper:
+- [Jason Wei: Scaling Paradigms for Large Language Models](https://www.youtube.com/watch?v=yhpjpNXJDco)  :clapper: 
 - [智谱版o1终于也来了：直接拿下考研数学，一句话就能做小游戏！](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247770241&idx=1&sn=fd6fb22d91ca671905f8ff8a338f7662&chksm=e9ba73fe67399d9a51136457259305a5005bcc02ee12913d9c33515743e7668528772b93fe50&scene=0&xtrack=1) 
 - [Quick recap on the state of reasoning -- can LMs reason?](https://x.com/interconnectsai/status/1874850900352840129)  𝕏 
 

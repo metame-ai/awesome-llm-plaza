@@ -13,7 +13,9 @@
 
 ## RLHF
 
-- 🌟 **VinePPO: Unlocking RL Potential For LLM Reasoning Through Refined Credit
+- [REINFORCE++: A SIMPLE AND EFFICIENT APPROACH FOR ALIGNING LARGE LANGUAGE MODELS](https://www.researchgate.net/publication/387487679_REINFORCE_A_SIMPLE_AND_EFFICIENT_APPROACH_FOR_ALIGNING_LARGE_LANGUAGE_MODELS) 
+- [如何正确复现 Instruct GPT / RLHF?](https://zhuanlan.zhihu.com/p/622134699) 
+- 🌟 **VinePPO: Unlocking RL Potential For LLM Reasoning Through Refined Credit 
   Assignment**, `arXiv, 2410.01679`, [arxiv](http://arxiv.org/abs/2410.01679v1), [pdf](http://arxiv.org/pdf/2410.01679v1.pdf), cication: [**-1**](None) 
 
 	 *Amirhossein Kazemnejad, Milad Aghajohari, Eva Portelance, ..., Aaron Courville, Nicolas Le Roux* · ([VinePPO](https://github.com/McGill-NLP/VinePPO) - McGill-NLP) ![Star](https://img.shields.io/github/stars/McGill-NLP/VinePPO.svg?style=social&label=Star)
@@ -96,5 +98,6 @@
 
 ## Misc
 
+- [Advanced Tricks for Training Large Language Models with Proximal Policy Optimization](https://hijkzzz.notion.site/rlhf-implementation-tricks?v=158d9a33ecc98132bf9e000c39227361) 
 - [Tulu 3: Exploring Frontiers in Open Language Model Post-Training - Nathan Lambert (AI2)](https://www.youtube.com/watch?v=ltSzUIJ9m6s&list=PLWRU-w8UhT6jNg64UfBB0VtlvI4Upe914&index=6)  :clapper: 
 - :clapper: [Generative Reward Models: Merging the Power of RLHF and RLAIF for Smarter AI](https://www.youtube.com/watch?v=Ak0vkBKOz0U) 
