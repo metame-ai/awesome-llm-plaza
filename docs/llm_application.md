@@ -45,6 +45,10 @@
 
 ## Science
 
+- **Superhuman performance of a large language model on the reasoning tasks
+  of a physician**, `arXiv, 2412.10849`, [arxiv](http://arxiv.org/abs/2412.10849v1), [pdf](http://arxiv.org/pdf/2412.10849v1.pdf), cication: [**-1**](None) 
+
+	 *Peter G. Brodeur, Thomas A. Buckley, Zahir Kanjee, ..., Arjun K. Manrai, Adam Rodman*
 - **Aviary: training language agents on challenging scientific tasks**, `arXiv, 2412.21154`, [arxiv](http://arxiv.org/abs/2412.21154v1), [pdf](http://arxiv.org/pdf/2412.21154v1.pdf), cication: [**-1**](None) 
 
 	 *Siddharth Narayanan, James D. Braza, Ryan-Rhys Griffiths, ..., Samuel G. Rodriques, Andrew D. White*

@@ -17,6 +17,9 @@
 
 ## Embodied AI
 
+- 🌟 **EnerVerse: Envisioning Embodied Future Space for Robotics Manipulation**, `arXiv, 2501.01895`, [arxiv](http://arxiv.org/abs/2501.01895v1), [pdf](http://arxiv.org/pdf/2501.01895v1.pdf), cication: [**-1**](None) 
+
+	 *Siyuan Huang, Liliang Chen, Pengfei Zhou, ..., Maoqing Yao, Guanghui Ren* · ([sites.google](https://sites.google.com/view/enerverse))
 - **Towards Generalist Robot Policies: What Matters in Building 
   Vision-Language-Action Models**, `arXiv, 2412.14058`, [arxiv](http://arxiv.org/abs/2412.14058v3), [pdf](http://arxiv.org/pdf/2412.14058v3.pdf), cication: [**-1**](None) 
 
@@ -60,6 +63,7 @@
 
 ## Robotics
 
+- [CS 294-277, Robots That Learn (Fall 2024)](http://robots-that-learn.github.io/) 
 - [Introducing AgiBot World, the first large-scale robotic learning dataset designed to advance multi-purpose robotic policies.](https://agibot-world.com/) 
 
 	 · ([Agibot-World](https://github.com/OpenDriveLab/Agibot-World) - OpenDriveLab) ![Star](https://img.shields.io/github/stars/OpenDriveLab/Agibot-World.svg?style=social&label=Star)

@@ -31,6 +31,12 @@
 
 ## Agents
 
+- **Agents Are Not Enough**, `arXiv, 2412.16241`, [arxiv](http://arxiv.org/abs/2412.16241v1), [pdf](http://arxiv.org/pdf/2412.16241v1.pdf), cication: [**-1**](None) 
+
+	 *Chirag Shah, Ryen W. White* · ([𝕏](https://x.com/chirag_shah/status/1871400497292435459))
+- **Can Large Language Models Adapt to Other Agents In-Context?**, `arXiv, 2412.19726`, [arxiv](http://arxiv.org/abs/2412.19726v1), [pdf](http://arxiv.org/pdf/2412.19726v1.pdf), cication: [**-1**](None) 
+
+	 *Matthew Riemer, Zahra Ashktorab, Djallel Bouneffouf, ..., Justin D. Weisz, Murray Campbell*
 - [Introducing smolagents, a simple library to build agents](https://huggingface.co/blog/smolagents)  🤗 
 
 	 · ([smolagents](https://github.com/huggingface/smolagents) - huggingface) ![Star](https://img.shields.io/github/stars/huggingface/smolagents.svg?style=social&label=Star)
@@ -89,6 +95,7 @@
 
 ## UI Agent
 
+- [**browser-use-webui**](https://github.com/warmshao/browser-use-webui) - warmshao ![Star](https://img.shields.io/github/stars/warmshao/browser-use-webui.svg?style=social&label=Star)
 - 🌟 **OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse 
   Task Synthesis**, `arXiv, 2412.19723`, [arxiv](http://arxiv.org/abs/2412.19723v1), [pdf](http://arxiv.org/pdf/2412.19723v1.pdf), cication: [**-1**](None) 
 
@@ -241,10 +248,12 @@
 
 ## Misc
 
+- [Agents](https://www.kaggle.com/whitepaper-agents) 
 - [Anthropic总结智能体年度经验：最成功的≠最复杂的](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650949769&idx=3&sn=4108a7288e67fbafd3b28a8f3529c8c1&chksm=853c2ced6c02fbac07c008c489ee3b5f6888f77c36e6d48adbdeb1d232a7cc8d1c6a58b9a1c1&scene=0&xtrack=1) 
 
 ## Multi Agent
 
+- [**swarms**](https://github.com/kyegomez/swarms) - kyegomez ![Star](https://img.shields.io/github/stars/kyegomez/swarms.svg?style=social&label=Star)
 - **GenMAC: Compositional Text-to-Video Generation with Multi-Agent 
   Collaboration**, `arXiv, 2412.04440`, [arxiv](http://arxiv.org/abs/2412.04440v1), [pdf](http://arxiv.org/pdf/2412.04440v1.pdf), cication: [**-1**](None) 
 

@@ -13,6 +13,10 @@
 
 ## RLHF
 
+- 🌟 **DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open
+  Language Models**, `arXiv, 2402.03300`, [arxiv](http://arxiv.org/abs/2402.03300v3), [pdf](http://arxiv.org/pdf/2402.03300v3.pdf), cication: [**155**](https://scholar.google.com/scholar?cites=10831144174319627990&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII) 
+
+	 *Zhihong Shao, Peiyi Wang, Qihao Zhu, ..., Y. Wu, Daya Guo* · ([𝕏](https://x.com/_philschmid/status/1875084210110599334))
 - [REINFORCE++: A SIMPLE AND EFFICIENT APPROACH FOR ALIGNING LARGE LANGUAGE MODELS](https://www.researchgate.net/publication/387487679_REINFORCE_A_SIMPLE_AND_EFFICIENT_APPROACH_FOR_ALIGNING_LARGE_LANGUAGE_MODELS) 
 - [如何正确复现 Instruct GPT / RLHF?](https://zhuanlan.zhihu.com/p/622134699) 
 - 🌟 **VinePPO: Unlocking RL Potential For LLM Reasoning Through Refined Credit 

@@ -57,6 +57,10 @@
 
 ## Evaluation
 
+- 🌟 **CodeElo: Benchmarking Competition-level Code Generation of LLMs with
+  Human-comparable Elo Ratings**, `arXiv, 2501.01257`, [arxiv](http://arxiv.org/abs/2501.01257v2), [pdf](http://arxiv.org/pdf/2501.01257v2.pdf), cication: [**-1**](None) 
+
+	 *Shanghaoran Quan, Jiaxi Yang, Bowen Yu, ..., Binyuan Hui, Junyang Lin* · ([codeelo-bench.github](https://codeelo-bench.github.io/))
 - **HumanEval Pro and MBPP Pro: Evaluating Large Language Models on 
   Self-invoking Code Generation**, `arXiv, 2412.21199`, [arxiv](http://arxiv.org/abs/2412.21199v2), [pdf](http://arxiv.org/pdf/2412.21199v2.pdf), cication: [**-1**](None) 
 

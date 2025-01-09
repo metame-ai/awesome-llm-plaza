@@ -25,6 +25,9 @@
 
 ## English Models
 
+- **2 OLMo 2 Furious**, `arXiv, 2501.00656`, [arxiv](http://arxiv.org/abs/2501.00656v1), [pdf](http://arxiv.org/pdf/2501.00656v1.pdf), cication: [**-1**](None) 
+
+	 *Team OLMo, Pete Walsh, Luca Soldaini, ..., Noah A. Smith, Hannaneh Hajishirzi* · ([𝕏](https://x.com/kylelostat/status/1875209445950804114)) · ([t](https://t.co/JR0tKbBgWz))
 - [SmolLM2 1.7b Instruction Tuned & DPO Aligned through Tulu 3](https://huggingface.co/SultanR/SmolTulu-1.7b-Instruct)  🤗 
 - [Granite 3.1 Language Models](https://huggingface.co/collections/ibm-granite/granite-31-language-models-6751dbbf2f3389bec5c6f02d)  🤗 
 - [Hermes 3 3B is a full parameter fine-tune of the Llama-3.2 3B foundation model](https://huggingface.co/NousResearch/Hermes-3-Llama-3.2-3B)  🤗 

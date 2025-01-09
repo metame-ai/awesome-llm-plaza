@@ -53,6 +53,12 @@
 
 ## Vision-Language Models
 
+- **The Illusion-Illusion: Vision Language Models See Illusions Where There
+  are None**, `arXiv, 2412.18613`, [arxiv](http://arxiv.org/abs/2412.18613v1), [pdf](http://arxiv.org/pdf/2412.18613v1.pdf), cication: [**-1**](None) 
+
+	 *Tomer Ullman*
+
+	 · ([𝕏](https://x.com/TomerUllman/status/1869742224524861836))
 - **Are Vision-Language Models Truly Understanding Multi-vision Sensor?**, `arXiv, 2412.20750`, [arxiv](http://arxiv.org/abs/2412.20750v1), [pdf](http://arxiv.org/pdf/2412.20750v1.pdf), cication: [**-1**](None) 
 
 	 *Sangyun Chung, Youngjoon Yu, Youngchae Chee, ..., Byung-Kwan Lee, Yong Man Ro*
@@ -143,6 +149,10 @@
 
 ## Video
 
+- **VideoRefer Suite: Advancing Spatial-Temporal Object Understanding with
+  Video LLM**, `arXiv, 2501.00599`, [arxiv](http://arxiv.org/abs/2501.00599v2), [pdf](http://arxiv.org/pdf/2501.00599v2.pdf), cication: [**-1**](None) 
+
+	 *Yuqian Yuan, Hang Zhang, Wentong Li, ..., Jianke Zhu, Lidong Bing*
 - **Video-Panda: Parameter-efficient Alignment for Encoder-free 
   Video-Language Models**, `arXiv, 2412.18609`, [arxiv](http://arxiv.org/abs/2412.18609v1), [pdf](http://arxiv.org/pdf/2412.18609v1.pdf), cication: [**-1**](None) 
 
@@ -481,6 +491,10 @@
 
 ## Dataset
 
+- 🌟 **2.5 Years in Class: A Multimodal Textbook for Vision-Language
+  Pretraining**, `arXiv, 2501.00958`, [arxiv](http://arxiv.org/abs/2501.00958v2), [pdf](http://arxiv.org/pdf/2501.00958v2.pdf), cication: [**-1**](None) 
+
+	 *Wenqi Zhang, Hang Zhang, Xin Li, ..., Yueting Zhuang, Lidong Bing* · ([multimodal-interleaved-textbook.github](https://multimodal-interleaved-textbook.github.io/)) · ([multimodal_textbook](https://github.com/DAMO-NLP-SG/multimodal_textbook) - DAMO-NLP-SG) ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/multimodal_textbook.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/datasets/DAMO-NLP-SG/multimodal_textbook)) · ([zhuanlan.zhihu](https://zhuanlan.zhihu.com/p/16512014215))
 - **MegaPairs: Massive Data Synthesis For Universal Multimodal Retrieval**, `arXiv, 2412.14475`, [arxiv](http://arxiv.org/abs/2412.14475v1), [pdf](http://arxiv.org/pdf/2412.14475v1.pdf), cication: [**-1**](None) 
 
 	 *Junjie Zhou, Zheng Liu, Ze Liu, ..., Defu Lian, Yongping Xiong*

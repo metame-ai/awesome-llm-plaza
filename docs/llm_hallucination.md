@@ -17,6 +17,12 @@
 
 ## Hallucination
 
+- **The Illusion-Illusion: Vision Language Models See Illusions Where There
+  are None**, `arXiv, 2412.18613`, [arxiv](http://arxiv.org/abs/2412.18613v1), [pdf](http://arxiv.org/pdf/2412.18613v1.pdf), cication: [**-1**](None) 
+
+	 *Tomer Ullman*
+
+	 · ([𝕏](https://x.com/TomerUllman/status/1869742224524861836))
 - **Improving Factuality with Explicit Working Memory**, `arXiv, 2412.18069`, [arxiv](http://arxiv.org/abs/2412.18069v1), [pdf](http://arxiv.org/pdf/2412.18069v1.pdf), cication: [**-1**](None) 
 
 	 *Mingda Chen, Yang Li, Karthik Padthe, ..., Gargi Gosh, Wen-tau Yih*

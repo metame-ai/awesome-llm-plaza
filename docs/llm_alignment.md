@@ -61,3 +61,5 @@
 
 
 ## Misc
+## Misc
+- [How language model post-training is done today](https://www.youtube.com/)  :clapper:

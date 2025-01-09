@@ -59,6 +59,9 @@
 
 ## Multimodal
 
+- **VITA-1.5: Towards GPT-4o Level Real-Time Vision and Speech Interaction**, `arXiv, 2501.01957`, [arxiv](http://arxiv.org/abs/2501.01957v1), [pdf](http://arxiv.org/pdf/2501.01957v1.pdf), cication: [**-1**](None) 
+
+	 *Chaoyou Fu, Haojia Lin, Xiong Wang, ..., Caifeng Shan, Ran He* · ([VITA](https://github.com/VITA-MLLM/VITA) - VITA-MLLM) ![Star](https://img.shields.io/github/stars/VITA-MLLM/VITA.svg?style=social&label=Star)
 - **3DGraphLLM: Combining Semantic Graphs and Large Language Models for 3D 
   Scene Understanding**, `arXiv, 2412.18450`, [arxiv](http://arxiv.org/abs/2412.18450v1), [pdf](http://arxiv.org/pdf/2412.18450v1.pdf), cication: [**-1**](None) 
 

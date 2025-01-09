@@ -23,6 +23,18 @@
 
 ## LLM Training
 
+- **Metadata Conditioning Accelerates Language Model Pre-training**, `arXiv, 2501.01956`, [arxiv](http://arxiv.org/abs/2501.01956v1), [pdf](http://arxiv.org/pdf/2501.01956v1.pdf), cication: [**-1**](None) 
+
+	 *Tianyu Gao, Alexander Wettig, Luxi He, ..., Sadhika Malladi, Danqi Chen* · ([MeCo](https://github.com/princeton-pli/MeCo) - princeton-pli) ![Star](https://img.shields.io/github/stars/princeton-pli/MeCo.svg?style=social&label=Star)
+- 🌟 [**picotron**](https://github.com/huggingface/picotron) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/picotron.svg?style=social&label=Star)
+
+	 *The minimalist & most-hackable repository for pre-training Llama-like models with 4D Parallelism* · ([youtube](https://www.youtube.com/playlist?list=PL-_armZiJvAnhcRr6yTJ0__f3Oi-LLi9S))
+- **Multi-matrix Factorization Attention**, `arXiv, 2412.19255`, [arxiv](http://arxiv.org/abs/2412.19255v1), [pdf](http://arxiv.org/pdf/2412.19255v1.pdf), cication: [**-1**](None) 
+
+	 *Jingcheng Hu, Houyi Li, Yinmin Zhang, ..., Xiangyu Zhang, Heung-Yeung Shum*
+- **Rate of Model Collapse in Recursive Training**, `arXiv, 2412.17646`, [arxiv](http://arxiv.org/abs/2412.17646v1), [pdf](http://arxiv.org/pdf/2412.17646v1.pdf), cication: [**-1**](None) 
+
+	 *Ananda Theertha Suresh, Andrew Thangaraj, Aditya Nanda Kishore Khandavally*
 - [[10 December 2024, NeurIPs] Tutorial on Language Modeling](https://docs.google.com/presentation/d/179dpzWSQ9G7EAUlvaJdeE0av9PLuk9Rl33nfhHSJ4xI/edit) 
 - **Establishing Task Scaling Laws via Compute-Efficient Model Ladders**, `arXiv, 2412.04403`, [arxiv](http://arxiv.org/abs/2412.04403v1), [pdf](http://arxiv.org/pdf/2412.04403v1.pdf), cication: [**-1**](None) 
 
@@ -213,6 +225,9 @@
 
 ## Misc
 
+- [What's the deal with mid-training?](https://vintagedata.org/blog/posts/what-is-mid-training) 
+
+	 · ([𝕏](https://x.com/Dorialexander/status/1875955536912691694))
 - [Cool things from DeepSeek v3's paper](https://x.com/danielhanchen/status/1872719599029850391)  𝕏 
 - [Fixing bugs in Gemma, Llama, & Phi 3: Daniel Han](https://www.youtube.com/watch?v=TKmfBnW0mQA)  :clapper: 
 - [OLMo 2 and building effective teams for training language models](https://www.interconnects.ai/p/olmo-2-and-building-language-model-training) 

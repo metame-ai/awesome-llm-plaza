@@ -13,6 +13,9 @@
 
 ## Long Context
 
+- **Long Context vs. RAG for LLMs: An Evaluation and Revisits**, `arXiv, 2501.01880`, [arxiv](http://arxiv.org/abs/2501.01880v1), [pdf](http://arxiv.org/pdf/2501.01880v1.pdf), cication: [**-1**](None) 
+
+	 *Xinze Li, Yixin Cao, Yubo Ma, ..., Aixin Sun*
 - **SCOPE: Optimizing Key-Value Cache Compression in Long-context Generation**, `arXiv, 2412.13649`, [arxiv](http://arxiv.org/abs/2412.13649v1), [pdf](http://arxiv.org/pdf/2412.13649v1.pdf), cication: [**-1**](None) 
 
 	 *Jialong Wu, Zhenglin Wang, Linhai Zhang, ..., Yulan He, Deyu Zhou* · ([SCOPE.](https://github.com/Linking-ai/SCOPE.) - Linking-ai) ![Star](https://img.shields.io/github/stars/Linking-ai/SCOPE..svg?style=social&label=Star)

@@ -24,6 +24,10 @@
 
 ## Reasoning
 
+- **Aligning with Logic: Measuring, Evaluating and Improving Logical
+  Consistency in Large Language Models**, `arXiv, 2410.02205`, [arxiv](http://arxiv.org/abs/2410.02205v2), [pdf](http://arxiv.org/pdf/2410.02205v2.pdf), cication: [**-1**](None) 
+
+	 *Yinhong Liu, Zhijiang Guo, Tianya Liang, ..., Ivan Vulić, Nigel Collier*
 - 🌟 **Quiet-STaR: Language Models Can Teach Themselves to Think Before 
   Speaking**, `arXiv, 2403.09629`, [arxiv](http://arxiv.org/abs/2403.09629v2), [pdf](http://arxiv.org/pdf/2403.09629v2.pdf), cication: [**-1**](None) 
 
@@ -122,6 +126,11 @@
 
 ## Math Reasoning
 
+- 🌟 **DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open
+  Language Models**, `arXiv, 2402.03300`, [arxiv](http://arxiv.org/abs/2402.03300v3), [pdf](http://arxiv.org/pdf/2402.03300v3.pdf), cication: [**155**](https://scholar.google.com/scholar?cites=10831144174319627990&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII) 
+
+	 *Zhihong Shao, Peiyi Wang, Qihao Zhu, ..., Y. Wu, Daya Guo* · ([𝕏](https://x.com/_philschmid/status/1875084210110599334))
+- [continual-pre-training of Llama-3.2-3B on a mix of  📐 FineMath (our new high quality math dataset) and FineWeb-Edu.](https://huggingface.co/HuggingFaceTB/FineMath-Llama-3B)  🤗
 - **Slow Perception: Let's Perceive Geometric Figures Step-by-step**, `arXiv, 2412.20631`, [arxiv](http://arxiv.org/abs/2412.20631v1), [pdf](http://arxiv.org/pdf/2412.20631v1.pdf), cication: [**-1**](None) 
 
 	 *Haoran Wei, Youyang Yin, Yumeng Li, ..., Zheng Ge, Xiangyu Zhang* · ([Slow-Perception](https://github.com/Ucas-HaoranWei/Slow-Perception) - Ucas-HaoranWei) ![Star](https://img.shields.io/github/stars/Ucas-HaoranWei/Slow-Perception.svg?style=social&label=Star)
@@ -165,6 +174,10 @@
 
 ## O1 Reasoning
 
+- **Inference-Aware Fine-Tuning for Best-of-N Sampling in Large Language
+  Models**, `arXiv, 2412.15287`, [arxiv](http://arxiv.org/abs/2412.15287v1), [pdf](http://arxiv.org/pdf/2412.15287v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=10740790454342887028&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII) 
+
+	 *Yinlam Chow, Guy Tennenholtz, Izzeddin Gur, ..., Aviral Kumar, Aleksandra Faust* · ([𝕏](https://x.com/papers_anon/status/1871202582045356159))
 - **Do NOT Think That Much for 2+3=? On the Overthinking of o1-Like LLMs**, `arXiv, 2412.21187`, [arxiv](http://arxiv.org/abs/2412.21187v1), [pdf](http://arxiv.org/pdf/2412.21187v1.pdf), cication: [**-1**](None) 
 
 	 *Xingyu Chen, Jiahao Xu, Tian Liang, ..., Haitao Mi, Dong Yu*
@@ -290,6 +303,10 @@
 
 ## Chain Of Thought
 
+- **To CoT or not to CoT? Chain-of-thought helps mainly on math and symbolic
+  reasoning**, `arXiv, 2409.12183`, [arxiv](http://arxiv.org/abs/2409.12183v2), [pdf](http://arxiv.org/pdf/2409.12183v2.pdf), cication: [**24**](https://scholar.google.com/scholar?cites=15167469291991704150&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII) 
+
+	 *Zayne Sprague, Fangcong Yin, Juan Diego Rodriguez, ..., Kyle Mahowald, Greg Durrett* · ([To-CoT-or-not-to-CoT](https://github.com/Zayne-sprague/To-CoT-or-not-to-CoT) - Zayne-sprague) ![Star](https://img.shields.io/github/stars/Zayne-sprague/To-CoT-or-not-to-CoT.svg?style=social&label=Star) · ([𝕏](https://x.com/_jasonwei/status/1875268874859344349))
 - [**Internalize_CoT_Step_by_Step**](https://github.com/da03/Internalize_CoT_Step_by_Step) - da03 ![Star](https://img.shields.io/github/stars/da03/Internalize_CoT_Step_by_Step.svg?style=social&label=Star) 
 
 	 · ([huggingface](https://huggingface.co/spaces/yuntian-deng/gpt2-multiplication))

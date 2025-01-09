@@ -18,6 +18,13 @@
 
 ## RAG
 
+- **Don't Do RAG: When Cache-Augmented Generation is All You Need for
+  Knowledge Tasks**, `arXiv, 2412.15605`, [arxiv](http://arxiv.org/abs/2412.15605v1), [pdf](http://arxiv.org/pdf/2412.15605v1.pdf), cication: [**-1**](None) 
+
+	 *Brian J Chan, Chao-Ting Chen, Jui-Hung Cheng, ..., Hen-Hsen Huang* · ([cag](https://github.com/hhhuang/cag?tab=readme-ov-file) - hhhuang) ![Star](https://img.shields.io/github/stars/hhhuang/cag.svg?style=social&label=Star)
+- **Long Context vs. RAG for LLMs: An Evaluation and Revisits**, `arXiv, 2501.01880`, [arxiv](http://arxiv.org/abs/2501.01880v1), [pdf](http://arxiv.org/pdf/2501.01880v1.pdf), cication: [**-1**](None) 
+
+	 *Xinze Li, Yixin Cao, Yubo Ma, ..., Aixin Sun*
 - **SKETCH: Structured Knowledge Enhanced Text Comprehension for Holistic 
   Retrieval**, `arXiv, 2412.15443`, [arxiv](http://arxiv.org/abs/2412.15443v1), [pdf](http://arxiv.org/pdf/2412.15443v1.pdf), cication: [**-1**](None) 
 
