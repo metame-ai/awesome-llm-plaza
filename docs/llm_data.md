@@ -20,6 +20,7 @@
 
 ## LLM Data
 
+- [Improving Foundation Models Using Expert Human Data](https://llm-class.github.io/speakers.html) 
 - **Bridging the Data Provenance Gap Across Text, Speech and Video**, `arXiv, 2412.17847`, [arxiv](http://arxiv.org/abs/2412.17847v1), [pdf](http://arxiv.org/pdf/2412.17847v1.pdf), cication: [**-1**](None) 
 
 	 *Shayne Longpre, Nikhil Singh, Manuel Cherep, ..., Sara Hooker, Jad Kabbara*

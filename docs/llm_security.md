@@ -13,6 +13,10 @@
 
 ## LLM Security
 
+- **Auto-RT: Automatic Jailbreak Strategy Exploration for Red-Teaming Large
+  Language Models**, `arXiv, 2501.01830`, [arxiv](http://arxiv.org/abs/2501.01830v1), [pdf](http://arxiv.org/pdf/2501.01830v1.pdf), cication: [**-1**](None) 
+
+	 *Yanjiang Liu, Shuhen Zhou, Yaojie Lu, ..., Xianpei Han, Le Sun*
 - **Safeguard Fine-Tuned LLMs Through Pre- and Post-Tuning Model Merging**, `arXiv, 2412.19512`, [arxiv](http://arxiv.org/abs/2412.19512v1), [pdf](http://arxiv.org/pdf/2412.19512v1.pdf), cication: [**-1**](None) 
 
 	 *Hua Farn, Hsuan Su, Shachi H Kumar, ..., Shang-Tse Chen, Hung-yi Lee*

@@ -13,7 +13,14 @@
 
 ## RLHF
 
-- 🌟 **DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open
+- [Preference Optimization for Large Language Models](https://llm-class.github.io/speakers.html) 
+- 🌟 **REINFORCE++: A Simple and Efficient Approach for Aligning Large Language
+  Models**, `arXiv, 2501.03262`, [arxiv](http://arxiv.org/abs/2501.03262v1), [pdf](http://arxiv.org/pdf/2501.03262v1.pdf), cication: [**-1**](None) 
+
+	 *Jian Hu*
+
+	 · ([OpenRLHF](https://github.com/OpenRLHF/OpenRLHF/blob/main/examples/scripts/train_reinforce_llama_ray.sh) - OpenRLHF) ![Star](https://img.shields.io/github/stars/OpenRLHF/OpenRLHF.svg?style=social&label=Star)
+- 🌟 **DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open 
   Language Models**, `arXiv, 2402.03300`, [arxiv](http://arxiv.org/abs/2402.03300v3), [pdf](http://arxiv.org/pdf/2402.03300v3.pdf), cication: [**155**](https://scholar.google.com/scholar?cites=10831144174319627990&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII) 
 
 	 *Zhihong Shao, Peiyi Wang, Qihao Zhu, ..., Y. Wu, Daya Guo* · ([𝕏](https://x.com/_philschmid/status/1875084210110599334))
@@ -102,6 +109,7 @@
 
 ## Misc
 
+- [Why RLHF (and Other RL-Like Methods) Don’t Bring “True RL” to LLMs—and Why It Matters                                                                                                                                                                                                                                                                                                                        Report this article](https://www.linkedin.com/pulse/why-rlhf-other-rl-like-methods-dont-bring-true-rl-llmsand-atlas-wang-s1efc) 
 - [Advanced Tricks for Training Large Language Models with Proximal Policy Optimization](https://hijkzzz.notion.site/rlhf-implementation-tricks?v=158d9a33ecc98132bf9e000c39227361) 
 - [Tulu 3: Exploring Frontiers in Open Language Model Post-Training - Nathan Lambert (AI2)](https://www.youtube.com/watch?v=ltSzUIJ9m6s&list=PLWRU-w8UhT6jNg64UfBB0VtlvI4Upe914&index=6)  :clapper: 
 - :clapper: [Generative Reward Models: Merging the Power of RLHF and RLAIF for Smarter AI](https://www.youtube.com/watch?v=Ak0vkBKOz0U) 

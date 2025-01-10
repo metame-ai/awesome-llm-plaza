@@ -18,7 +18,14 @@
 
 ## RAG
 
-- **Don't Do RAG: When Cache-Augmented Generation is All You Need for
+- [Knowledge Models Combine Retrieval with Generation: An Introduction to RAG](https://llm-class.github.io/speakers.html) 
+- **Personalized Graph-Based Retrieval for Large Language Models**, `arXiv, 2501.02157`, [arxiv](http://arxiv.org/abs/2501.02157v1), [pdf](http://arxiv.org/pdf/2501.02157v1.pdf), cication: [**-1**](None) 
+
+	 *Steven Au, Cameron J. Dimacali, Ojasmitha Pedirappagari, ..., Ryan A. Rossi, Nesreen K. Ahmed*
+- **GeAR: Generation Augmented Retrieval**, `arXiv, 2501.02772`, [arxiv](http://arxiv.org/abs/2501.02772v1), [pdf](http://arxiv.org/pdf/2501.02772v1.pdf), cication: [**-1**](None) 
+
+	 *Haoyu Liu, Shaohan Huang, Jianfeng Liu, ..., Furu Wei, Qi Zhang*
+- **Don't Do RAG: When Cache-Augmented Generation is All You Need for 
   Knowledge Tasks**, `arXiv, 2412.15605`, [arxiv](http://arxiv.org/abs/2412.15605v1), [pdf](http://arxiv.org/pdf/2412.15605v1.pdf), cication: [**-1**](None) 
 
 	 *Brian J Chan, Chao-Ting Chen, Jui-Hung Cheng, ..., Hen-Hsen Huang* · ([cag](https://github.com/hhhuang/cag?tab=readme-ov-file) - hhhuang) ![Star](https://img.shields.io/github/stars/hhhuang/cag.svg?style=social&label=Star)

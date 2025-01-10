@@ -18,13 +18,19 @@
 
 ## Survey
 
+- 🌟 **Test-time Computing: from System-1 Thinking to System-2 Thinking**, `arXiv, 2501.02497`, [arxiv](http://arxiv.org/abs/2501.02497v1), [pdf](http://arxiv.org/pdf/2501.02497v1.pdf), cication: [**-1**](None) 
+
+	 *Yixin Ji, Juntao Li, Hai Ye, ..., Linjian Mo, Min Zhang* · ([Awesome_Test_Time_LLMs](https://github.com/Dereck0602/Awesome_Test_Time_LLMs) - Dereck0602) ![Star](https://img.shields.io/github/stars/Dereck0602/Awesome_Test_Time_LLMs.svg?style=social&label=Star)
 - **A Survey on LLM Inference-Time Self-Improvement**, `arXiv, 2412.14352`, [arxiv](http://arxiv.org/abs/2412.14352v1), [pdf](http://arxiv.org/pdf/2412.14352v1.pdf), cication: [**-1**](None) 
 
 	 *Xiangjue Dong, Maria Teleki, James Caverlee*
 
 ## Reasoning
 
-- **Aligning with Logic: Measuring, Evaluating and Improving Logical
+- [Towards AI Superhuman Reasoning for Math and beyond](https://llm-class.github.io/speakers.html) 
+
+	 · ([youtu](https://youtu.be/y5qEFrZv-2Q))
+- **Aligning with Logic: Measuring, Evaluating and Improving Logical 
   Consistency in Large Language Models**, `arXiv, 2410.02205`, [arxiv](http://arxiv.org/abs/2410.02205v2), [pdf](http://arxiv.org/pdf/2410.02205v2.pdf), cication: [**-1**](None) 
 
 	 *Yinhong Liu, Zhijiang Guo, Tianya Liang, ..., Ivan Vulić, Nigel Collier*
@@ -126,11 +132,19 @@
 
 ## Math Reasoning
 
-- 🌟 **DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open
+- 🌟 **BoostStep: Boosting mathematical capability of Large Language Models via
+  improved single-step reasoning**, `arXiv, 2501.03226`, [arxiv](http://arxiv.org/abs/2501.03226v1), [pdf](http://arxiv.org/pdf/2501.03226v1.pdf), cication: [**-1**](None) 
+
+	 *Beichen Zhang, Yuhong Liu, Xiaoyi Dong, ..., Dahua Lin, Jiaqi Wang* · ([BoostStep](https://github.com/beichenzbc/BoostStep) - beichenzbc) ![Star](https://img.shields.io/github/stars/beichenzbc/BoostStep.svg?style=social&label=Star)
+- **URSA: Understanding and Verifying Chain-of-thought Reasoning in
+  Multimodal Mathematics**, `arXiv, 2501.04686`, [arxiv](http://arxiv.org/abs/2501.04686v1), [pdf](http://arxiv.org/pdf/2501.04686v1.pdf), cication: [**-1**](None) 
+
+	 *Ruilin Luo, Zhuofan Zheng, Yifan Wang, ..., Jin Zeng, Yujiu Yang* · ([ursa-math.github](https://ursa-math.github.io/))
+- 🌟 **DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open 
   Language Models**, `arXiv, 2402.03300`, [arxiv](http://arxiv.org/abs/2402.03300v3), [pdf](http://arxiv.org/pdf/2402.03300v3.pdf), cication: [**155**](https://scholar.google.com/scholar?cites=10831144174319627990&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII) 
 
 	 *Zhihong Shao, Peiyi Wang, Qihao Zhu, ..., Y. Wu, Daya Guo* · ([𝕏](https://x.com/_philschmid/status/1875084210110599334))
-- [continual-pre-training of Llama-3.2-3B on a mix of  📐 FineMath (our new high quality math dataset) and FineWeb-Edu.](https://huggingface.co/HuggingFaceTB/FineMath-Llama-3B)  🤗
+- [continual-pre-training of Llama-3.2-3B on a mix of  📐 FineMath (our new high quality math dataset) and FineWeb-Edu.](https://huggingface.co/HuggingFaceTB/FineMath-Llama-3B)  🤗 
 - **Slow Perception: Let's Perceive Geometric Figures Step-by-step**, `arXiv, 2412.20631`, [arxiv](http://arxiv.org/abs/2412.20631v1), [pdf](http://arxiv.org/pdf/2412.20631v1.pdf), cication: [**-1**](None) 
 
 	 *Haoran Wei, Youyang Yin, Yumeng Li, ..., Zheng Ge, Xiangyu Zhang* · ([Slow-Perception](https://github.com/Ucas-HaoranWei/Slow-Perception) - Ucas-HaoranWei) ![Star](https://img.shields.io/github/stars/Ucas-HaoranWei/Slow-Perception.svg?style=social&label=Star)
@@ -174,7 +188,26 @@
 
 ## O1 Reasoning
 
-- **Inference-Aware Fine-Tuning for Best-of-N Sampling in Large Language
+- 🌟 **rStar-Math: Small LLMs Can Master Math Reasoning with Self-Evolved Deep
+  Thinking**, `arXiv, 2501.04519`, [arxiv](http://arxiv.org/abs/2501.04519v1), [pdf](http://arxiv.org/pdf/2501.04519v1.pdf), cication: [**-1**](None) 
+
+	 *Xinyu Guan, Li Lyna Zhang, Yifei Liu, ..., Fan Yang, Mao Yang* · ([rStar](https://github.com/microsoft/rStar) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/rStar.svg?style=social&label=Star)
+- 🌟 **Towards System 2 Reasoning in LLMs: Learning How to Think With Meta
+  Chain-of-Thought**, `arXiv, 2501.04682`, [arxiv](http://arxiv.org/abs/2501.04682v1), [pdf](http://arxiv.org/pdf/2501.04682v1.pdf), cication: [**-1**](None) 
+
+	 *Violet Xiang, Charlie Snell, Kanishk Gandhi, ..., Nick Haber, Chelsea Finn*
+- **PRMBench: A Fine-grained and Challenging Benchmark for Process-Level
+  Reward Models**, `arXiv, 2501.03124`, [arxiv](http://arxiv.org/abs/2501.03124v2), [pdf](http://arxiv.org/pdf/2501.03124v2.pdf), cication: [**-1**](None) 
+
+	 *Mingyang Song, Zhaochen Su, Xiaoye Qu, ..., Jiawei Zhou, Yu Cheng* · ([prmbench.github](https://prmbench.github.io/)) · ([PRMBench](https://github.com/ssmisya/PRMBench) - ssmisya) ![Star](https://img.shields.io/github/stars/ssmisya/PRMBench.svg?style=social&label=Star) · ([arxiv](https://arxiv.org/abs/2501.03124)) · ([huggingface](https://huggingface.co/datasets/hitsmy/PRMBench_Preview))
+- **Dolphin: Closed-loop Open-ended Auto-research through Thinking,
+  Practice, and Feedback**, `arXiv, 2501.03916`, [arxiv](http://arxiv.org/abs/2501.03916v1), [pdf](http://arxiv.org/pdf/2501.03916v1.pdf), cication: [**-1**](None) 
+
+	 *Jiakang Yuan, Xiangchao Yan, Botian Shi, ..., Yu Qiao, Bowen Zhou*
+- **Search-o1: Agentic Search-Enhanced Large Reasoning Models**, `arXiv, 2501.05366`, [arxiv](http://arxiv.org/abs/2501.05366v1), [pdf](http://arxiv.org/pdf/2501.05366v1.pdf), cication: [**-1**](None) 
+
+	 *Xiaoxi Li, Guanting Dong, Jiajie Jin, ..., Peitian Zhang, Zhicheng Dou* · ([Search-o1](https://github.com/sunnynexus/Search-o1) - sunnynexus) ![Star](https://img.shields.io/github/stars/sunnynexus/Search-o1.svg?style=social&label=Star)
+- **Inference-Aware Fine-Tuning for Best-of-N Sampling in Large Language 
   Models**, `arXiv, 2412.15287`, [arxiv](http://arxiv.org/abs/2412.15287v1), [pdf](http://arxiv.org/pdf/2412.15287v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=10740790454342887028&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII) 
 
 	 *Yinlam Chow, Guy Tennenholtz, Izzeddin Gur, ..., Aviral Kumar, Aleksandra Faust* · ([𝕏](https://x.com/papers_anon/status/1871202582045356159))
@@ -287,6 +320,9 @@
 
 ## Self Correction
 
+- **ProgCo: Program Helps Self-Correction of Large Language Models**, `arXiv, 2501.01264`, [arxiv](http://arxiv.org/abs/2501.01264v1), [pdf](http://arxiv.org/pdf/2501.01264v1.pdf), cication: [**-1**](None) 
+
+	 *Xiaoshuai Song, Yanan Wu, Weixun Wang, ..., Wenbo Su, Bo Zheng*
 
 ## Knowledge
 
@@ -303,7 +339,7 @@
 
 ## Chain Of Thought
 
-- **To CoT or not to CoT? Chain-of-thought helps mainly on math and symbolic
+- **To CoT or not to CoT? Chain-of-thought helps mainly on math and symbolic 
   reasoning**, `arXiv, 2409.12183`, [arxiv](http://arxiv.org/abs/2409.12183v2), [pdf](http://arxiv.org/pdf/2409.12183v2.pdf), cication: [**24**](https://scholar.google.com/scholar?cites=15167469291991704150&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII) 
 
 	 *Zayne Sprague, Fangcong Yin, Juan Diego Rodriguez, ..., Kyle Mahowald, Greg Durrett* · ([To-CoT-or-not-to-CoT](https://github.com/Zayne-sprague/To-CoT-or-not-to-CoT) - Zayne-sprague) ![Star](https://img.shields.io/github/stars/Zayne-sprague/To-CoT-or-not-to-CoT.svg?style=social&label=Star) · ([𝕏](https://x.com/_jasonwei/status/1875268874859344349))
@@ -348,6 +384,7 @@
 
 ## Misc
 
+- [Denny Zhou: LLM Reasoning: Key Ideas and Limitations](https://www.youtube.com/watch?v=-SZAciVbswk)  :clapper:
 - [Jason Wei: Scaling Paradigms for Large Language Models](https://www.youtube.com/watch?v=yhpjpNXJDco)  :clapper: 
 - [智谱版o1终于也来了：直接拿下考研数学，一句话就能做小游戏！](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247770241&idx=1&sn=fd6fb22d91ca671905f8ff8a338f7662&chksm=e9ba73fe67399d9a51136457259305a5005bcc02ee12913d9c33515743e7668528772b93fe50&scene=0&xtrack=1) 
 - [Quick recap on the state of reasoning -- can LMs reason?](https://x.com/interconnectsai/status/1874850900352840129)  𝕏 

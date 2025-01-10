@@ -31,6 +31,12 @@
 
 ## Agents
 
+- **Agent Laboratory: Using LLM Agents as Research Assistants**, `arXiv, 2501.04227`, [arxiv](http://arxiv.org/abs/2501.04227v1), [pdf](http://arxiv.org/pdf/2501.04227v1.pdf), cication: [**-1**](None) 
+
+	 *Samuel Schmidgall, Yusheng Su, Ze Wang, ..., Zicheng Liu, Emad Barsoum* · ([agentlaboratory.github](https://agentlaboratory.github.io/))
+- [Agents](https://huyenchip.com/2025/01/07/agents.html) 
+
+	 · ([𝕏](https://x.com/chipro/status/1876681640505901266))
 - **Agents Are Not Enough**, `arXiv, 2412.16241`, [arxiv](http://arxiv.org/abs/2412.16241v1), [pdf](http://arxiv.org/pdf/2412.16241v1.pdf), cication: [**-1**](None) 
 
 	 *Chirag Shah, Ryen W. White* · ([𝕏](https://x.com/chirag_shah/status/1871400497292435459))
@@ -95,7 +101,20 @@
 
 ## UI Agent
 
-- [**browser-use-webui**](https://github.com/warmshao/browser-use-webui) - warmshao ![Star](https://img.shields.io/github/stars/warmshao/browser-use-webui.svg?style=social&label=Star)
+- [**browserless**](https://github.com/browserless/browserless) - browserless ![Star](https://img.shields.io/github/stars/browserless/browserless.svg?style=social&label=Star)
+- **InfiGUIAgent: A Multimodal Generalist GUI Agent with Native Reasoning
+  and Reflection**, `arXiv, 2501.04575`, [arxiv](http://arxiv.org/abs/2501.04575v1), [pdf](http://arxiv.org/pdf/2501.04575v1.pdf), cication: [**-1**](None) 
+
+	 *Yuhang Liu, Pengxiang Li, Zishu Wei, ..., Hongxia Yang, Fei Wu* · ([InfiGUIAgent](https://github.com/Reallm-Labs/InfiGUIAgent) - Reallm-Labs) ![Star](https://img.shields.io/github/stars/Reallm-Labs/InfiGUIAgent.svg?style=social&label=Star)
+- [**web-ui**](https://github.com/browser-use/web-ui) - browser-use ![Star](https://img.shields.io/github/stars/browser-use/web-ui.svg?style=social&label=Star)
+- **Navigating the Digital World as Humans Do: Universal Visual Grounding
+  for GUI Agents**, `arXiv, 2410.05243`, [arxiv](http://arxiv.org/abs/2410.05243v1), [pdf](http://arxiv.org/pdf/2410.05243v1.pdf), cication: [**-1**](None) 
+
+	 *Boyu Gou, Ruohan Wang, Boyuan Zheng, ..., Huan Sun, Yu Su* · ([osu-nlp-group.github](https://osu-nlp-group.github.io/UGround/)) · ([UGround](https://github.com/OSU-NLP-Group/UGround) - OSU-NLP-Group) ![Star](https://img.shields.io/github/stars/OSU-NLP-Group/UGround.svg?style=social&label=Star) · ([arxiv](https://arxiv.org/abs/2410.05243)) · ([huggingface](https://huggingface.co/spaces/orby-osu/UGround))
+- **A3: Android Agent Arena for Mobile GUI Agents**, `arXiv, 2501.01149`, [arxiv](http://arxiv.org/abs/2501.01149v1), [pdf](http://arxiv.org/pdf/2501.01149v1.pdf), cication: [**-1**](None) 
+
+	 *Yuxiang Chai, Hanhao Li, Jiayu Zhang, ..., Siyuan Huang, Hongsheng Li* · ([yuxiangchai.github](https://yuxiangchai.github.io/Android-Agent-Arena/.))
+- [**browser-use-webui**](https://github.com/warmshao/browser-use-webui) - warmshao ![Star](https://img.shields.io/github/stars/warmshao/browser-use-webui.svg?style=social&label=Star) 
 - 🌟 **OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse 
   Task Synthesis**, `arXiv, 2412.19723`, [arxiv](http://arxiv.org/abs/2412.19723v1), [pdf](http://arxiv.org/pdf/2412.19723v1.pdf), cication: [**-1**](None) 
 
@@ -221,6 +240,9 @@
 
 ## Projects
 
+- [**crewAI**](https://github.com/crewAIInc/crewAI) - crewAIInc ![Star](https://img.shields.io/github/stars/crewAIInc/crewAI.svg?style=social&label=Star)
+
+	 *Production-grade framework for orchestrating sophisticated AI agent systems.*
 - [**Agentarium**](https://github.com/Thytu/Agentarium) - Thytu ![Star](https://img.shields.io/github/stars/Thytu/Agentarium.svg?style=social&label=Star) 
 - [**PraisonAI**](https://github.com/MervinPraison/PraisonAI) - MervinPraison ![Star](https://img.shields.io/github/stars/MervinPraison/PraisonAI.svg?style=social&label=Star) 
 - [**smolagents**](https://github.com/huggingface/smolagents) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/smolagents.svg?style=social&label=Star) 
@@ -253,7 +275,7 @@
 
 ## Multi Agent
 
-- [**swarms**](https://github.com/kyegomez/swarms) - kyegomez ![Star](https://img.shields.io/github/stars/kyegomez/swarms.svg?style=social&label=Star)
+- [**swarms**](https://github.com/kyegomez/swarms) - kyegomez ![Star](https://img.shields.io/github/stars/kyegomez/swarms.svg?style=social&label=Star) 
 - **GenMAC: Compositional Text-to-Video Generation with Multi-Agent 
   Collaboration**, `arXiv, 2412.04440`, [arxiv](http://arxiv.org/abs/2412.04440v1), [pdf](http://arxiv.org/pdf/2412.04440v1.pdf), cication: [**-1**](None) 
 

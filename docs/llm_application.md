@@ -27,6 +27,9 @@
 
 ## Survey
 
+- **LLM4SR: A Survey on Large Language Models for Scientific Research**, `arXiv, 2501.04306`, [arxiv](http://arxiv.org/abs/2501.04306v1), [pdf](http://arxiv.org/pdf/2501.04306v1.pdf), cication: [**-1**](None) 
+
+	 *Ziming Luo, Zonglin Yang, Zexin Xu, ..., Wei Yang, Xinya Du* · ([LLM4SR](https://github.com/du-nlp-lab/LLM4SR) - du-nlp-lab) ![Star](https://img.shields.io/github/stars/du-nlp-lab/LLM4SR.svg?style=social&label=Star)
 - **LLMs as Research Tools: A Large Scale Survey of Researchers' Usage and 
   Perceptions**, `arXiv, 2411.05025`, [arxiv](http://arxiv.org/abs/2411.05025v1), [pdf](http://arxiv.org/pdf/2411.05025v1.pdf), cication: [**-1**](None) 
 
@@ -45,7 +48,10 @@
 
 ## Science
 
-- **Superhuman performance of a large language model on the reasoning tasks
+- **Agent Laboratory: Using LLM Agents as Research Assistants**, `arXiv, 2501.04227`, [arxiv](http://arxiv.org/abs/2501.04227v1), [pdf](http://arxiv.org/pdf/2501.04227v1.pdf), cication: [**-1**](None) 
+
+	 *Samuel Schmidgall, Yusheng Su, Ze Wang, ..., Zicheng Liu, Emad Barsoum* · ([agentlaboratory.github](https://agentlaboratory.github.io/))
+- **Superhuman performance of a large language model on the reasoning tasks 
   of a physician**, `arXiv, 2412.10849`, [arxiv](http://arxiv.org/abs/2412.10849v1), [pdf](http://arxiv.org/pdf/2412.10849v1.pdf), cication: [**-1**](None) 
 
 	 *Peter G. Brodeur, Thomas A. Buckley, Zahir Kanjee, ..., Arjun K. Manrai, Adam Rodman*
@@ -241,6 +247,7 @@
 
 ## Projects
 
+- [**WrenAI**](https://github.com/Canner/WrenAI) - Canner ![Star](https://img.shields.io/github/stars/Canner/WrenAI.svg?style=social&label=Star)
 - [**NarratoAI**](https://github.com/linyqh/NarratoAI) - linyqh ![Star](https://img.shields.io/github/stars/linyqh/NarratoAI.svg?style=social&label=Star) 
 - [**helicone**](https://github.com/Helicone/helicone) - Helicone ![Star](https://img.shields.io/github/stars/Helicone/helicone.svg?style=social&label=Star) 
 - [**video-analyzer**](https://github.com/byjlw/video-analyzer) - byjlw ![Star](https://img.shields.io/github/stars/byjlw/video-analyzer.svg?style=social&label=Star) 
@@ -275,6 +282,12 @@
 
 ## LLM Applications
 
+- **MLLM-as-a-Judge for Image Safety without Human Labeling**, `arXiv, 2501.00192`, [arxiv](http://arxiv.org/abs/2501.00192v1), [pdf](http://arxiv.org/pdf/2501.00192v1.pdf), cication: [**-1**](None) 
+
+	 *Zhenting Wang, Shuming Hu, Shiyu Zhao, ..., Dimitris N. Metaxas, Ankit Jain*
+- **PPTAgent: Generating and Evaluating Presentations Beyond Text-to-Slides**, `arXiv, 2501.03936`, [arxiv](http://arxiv.org/abs/2501.03936v1), [pdf](http://arxiv.org/pdf/2501.03936v1.pdf), cication: [**-1**](None) 
+
+	 *Hao Zheng, Xinyan Guan, Hao Kong, ..., Xianpei Han, Le Sun* · ([PPTAgent.](https://github.com/icip-cas/PPTAgent.) - icip-cas) ![Star](https://img.shields.io/github/stars/icip-cas/PPTAgent..svg?style=social&label=Star)
 - [Gemini Deep Research](https://x.com/Francis_YAO_/status/1874169582686265425)  𝕏 
 - [阿里前端第一人AI创业首秀，要做全球内容创作者的GitHub！公司俩月估值过亿，5k人排队内测](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247770518&idx=1&sn=89175b55fcd449812465de30c01b5694&chksm=e9008b1ab2a629d7a75ef55310411da0851420920f1084d5adfb36f9f52e14b2a338e3aec285&scene=0&xtrack=1) 
 - [百川新模型超GPT-4o近20%，首创自约束训练方案突破瓶颈，主打「领域增强」](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247768608&idx=1&sn=ee29ba3fb8ef9b40f03fcc7914b72daa&chksm=e979e23cf03cd2fd60909c632b4eba03d1ef265038dbed406a4478c1f8b979dbc5fd95a732f0&scene=0&xtrack=1) 

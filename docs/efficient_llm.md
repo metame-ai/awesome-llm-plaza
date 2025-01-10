@@ -126,6 +126,8 @@
 
 ## Inference
 
+- [Efficient Large Language Model Deployment with Quantization](https://llm-class.github.io/speakers.html) 
+- [Sparsity for Efficient LLM Inference](https://llm-class.github.io/speakers.html) 
 - **Efficiently Serving LLM Reasoning Programs with Certaindex**, `arXiv, 2412.20993`, [arxiv](http://arxiv.org/abs/2412.20993v1), [pdf](http://arxiv.org/pdf/2412.20993v1.pdf), cication: [**-1**](None) 
 
 	 *Yichao Fu, Junda Chen, Siqi Zhu, ..., Aurick Qiao, Hao Zhang*

@@ -230,4 +230,5 @@
 
 ## Misc
 
+- [CIS 7000 - Large Language Models](https://llm-class.github.io/) 
 - [WHAT LLM PROVIDER?](https://whatllm.vercel.app/) 

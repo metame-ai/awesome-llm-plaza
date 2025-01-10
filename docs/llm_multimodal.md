@@ -59,6 +59,10 @@
 
 ## Multimodal
 
+- **OpenOmni: Large Language Models Pivot Zero-shot Omnimodal Alignment
+  across Language with Real-time Self-Aware Emotional Speech Synthesis**, `arXiv, 2501.04561`, [arxiv](http://arxiv.org/abs/2501.04561v2), [pdf](http://arxiv.org/pdf/2501.04561v2.pdf), cication: [**-1**](None) 
+
+	 *Run Luo, Ting-En Lin, Haonan Zhang, ..., Hamid Alinejad-Rokny, Fei Huang*
 - **VITA-1.5: Towards GPT-4o Level Real-Time Vision and Speech Interaction**, `arXiv, 2501.01957`, [arxiv](http://arxiv.org/abs/2501.01957v1), [pdf](http://arxiv.org/pdf/2501.01957v1.pdf), cication: [**-1**](None) 
 
 	 *Chaoyou Fu, Haojia Lin, Xiong Wang, ..., Caifeng Shan, Ran He* · ([VITA](https://github.com/VITA-MLLM/VITA) - VITA-MLLM) ![Star](https://img.shields.io/github/stars/VITA-MLLM/VITA.svg?style=social&label=Star)

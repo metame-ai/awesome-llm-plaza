@@ -15,6 +15,12 @@
 
 ## Code LLM
 
+- **ProgCo: Program Helps Self-Correction of Large Language Models**, `arXiv, 2501.01264`, [arxiv](http://arxiv.org/abs/2501.01264v1), [pdf](http://arxiv.org/pdf/2501.01264v1.pdf), cication: [**-1**](None) 
+
+	 *Xiaoshuai Song, Yanan Wu, Weixun Wang, ..., Wenbo Su, Bo Zheng*
+- **Dynamic Scaling of Unit Tests for Code Reward Modeling**, `arXiv, 2501.01054`, [arxiv](http://arxiv.org/abs/2501.01054v1), [pdf](http://arxiv.org/pdf/2501.01054v1.pdf), cication: [**-1**](None) 
+
+	 *Zeyao Ma, Xiaokang Zhang, Jing Zhang, ..., Sijia Luo, Jie Tang*
 - **Training Software Engineering Agents and Verifiers with SWE-Gym**, `arXiv, 2412.21139`, [arxiv](http://arxiv.org/abs/2412.21139v1), [pdf](http://arxiv.org/pdf/2412.21139v1.pdf), cication: [**-1**](None) 
 
 	 *Jiayi Pan, Xingyao Wang, Graham Neubig, ..., Alane Suhr, Yizhe Zhang* · ([SWE-Gym](https://github.com/SWE-Gym/SWE-Gym) - SWE-Gym) ![Star](https://img.shields.io/github/stars/SWE-Gym/SWE-Gym.svg?style=social&label=Star)
@@ -57,7 +63,7 @@
 
 ## Evaluation
 
-- 🌟 **CodeElo: Benchmarking Competition-level Code Generation of LLMs with
+- 🌟 **CodeElo: Benchmarking Competition-level Code Generation of LLMs with 
   Human-comparable Elo Ratings**, `arXiv, 2501.01257`, [arxiv](http://arxiv.org/abs/2501.01257v2), [pdf](http://arxiv.org/pdf/2501.01257v2.pdf), cication: [**-1**](None) 
 
 	 *Shanghaoran Quan, Jiaxi Yang, Bowen Yu, ..., Binyuan Hui, Junyang Lin* · ([codeelo-bench.github](https://codeelo-bench.github.io/))

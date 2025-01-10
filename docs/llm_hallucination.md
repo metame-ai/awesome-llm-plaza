@@ -17,7 +17,11 @@
 
 ## Hallucination
 
-- **The Illusion-Illusion: Vision Language Models See Illusions Where There
+- **The FACTS Grounding Leaderboard: Benchmarking LLMs' Ability to Ground
+  Responses to Long-Form Input**, `arXiv, 2501.03200`, [arxiv](http://arxiv.org/abs/2501.03200v1), [pdf](http://arxiv.org/pdf/2501.03200v1.pdf), cication: [**-1**](None) 
+
+	 *Alon Jacovi, Andrew Wang, Chris Alberti, ..., Sasha Goldshtein, Dipanjan Das* · ([kaggle](https://www.kaggle.com/facts-leaderboard))
+- **The Illusion-Illusion: Vision Language Models See Illusions Where There 
   are None**, `arXiv, 2412.18613`, [arxiv](http://arxiv.org/abs/2412.18613v1), [pdf](http://arxiv.org/pdf/2412.18613v1.pdf), cication: [**-1**](None) 
 
 	 *Tomer Ullman*

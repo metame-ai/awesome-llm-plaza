@@ -20,11 +20,17 @@
 
 ## LLM Evaluation
 
-- **MMLU-CF: A Contamination-free Multi-task Language Understanding
+- [Holistic Evaluation of Vision-Language Models](https://crfm.stanford.edu/helm/vhelm/v2.1.1/) 
+- **The FACTS Grounding Leaderboard: Benchmarking LLMs' Ability to Ground
+  Responses to Long-Form Input**, `arXiv, 2501.03200`, [arxiv](http://arxiv.org/abs/2501.03200v1), [pdf](http://arxiv.org/pdf/2501.03200v1.pdf), cication: [**-1**](None) 
+
+	 *Alon Jacovi, Andrew Wang, Chris Alberti, ..., Sasha Goldshtein, Dipanjan Das* · ([kaggle](https://www.kaggle.com/facts-leaderboard))
+- [Scalable Evaluation of Large Language Models](https://llm-class.github.io/speakers.html) 
+- **MMLU-CF: A Contamination-free Multi-task Language Understanding 
   Benchmark**, `arXiv, 2412.15194`, [arxiv](http://arxiv.org/abs/2412.15194v1), [pdf](http://arxiv.org/pdf/2412.15194v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=7641613824716151032&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII) 
 
 	 *Qihao Zhao, Yangyu Huang, Tengchao Lv, ..., Scarlett Li, Furu Wei* · ([MMLU-CF](https://github.com/microsoft/MMLU-CF) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/MMLU-CF.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/datasets/microsoft/MMLU-CF.))
-- **LLM-as-an-Interviewer: Beyond Static Testing Through Dynamic LLM
+- **LLM-as-an-Interviewer: Beyond Static Testing Through Dynamic LLM 
   Evaluation**, `arXiv, 2412.10424`, [arxiv](http://arxiv.org/abs/2412.10424v2), [pdf](http://arxiv.org/pdf/2412.10424v2.pdf), cication: [**-1**](None) 
 
 	 *Eunsu Kim, Juyoung Suk, Seungone Kim, ..., Dongkwan Kim, Alice Oh* · ([𝕏](https://x.com/euns0o_kim/status/1874653915771539744))

@@ -53,7 +53,10 @@
 
 ## Vision-Language Models
 
-- **The Illusion-Illusion: Vision Language Models See Illusions Where There
+- [Moondream 2025-01-09 Release: Structured Text, Enhanced OCR, Gaze Detection](https://moondream.ai/blog/introducing-a-new-moondream-1-9b-and-gpu-support) 
+
+	 · ([𝕏](https://x.com/vikhyatk/status/1877407680228143370)) · ([docs.moondream](https://docs.moondream.ai/quick-start))
+- **The Illusion-Illusion: Vision Language Models See Illusions Where There 
   are None**, `arXiv, 2412.18613`, [arxiv](http://arxiv.org/abs/2412.18613v1), [pdf](http://arxiv.org/pdf/2412.18613v1.pdf), cication: [**-1**](None) 
 
 	 *Tomer Ullman*
@@ -149,7 +152,22 @@
 
 ## Video
 
-- **VideoRefer Suite: Advancing Spatial-Temporal Object Understanding with
+- **An Empirical Study of Autoregressive Pre-training from Videos**, `arXiv, 2501.05453`, [arxiv](http://arxiv.org/abs/2501.05453v1), [pdf](http://arxiv.org/pdf/2501.05453v1.pdf), cication: [**-1**](None) 
+
+	 *Jathushan Rajasegaran, Ilija Radosavovic, Rahul Ravishankar, ..., Christoph Feichtenhofer, Jitendra Malik* · ([brjathu.github](https://brjathu.github.io/toto/))
+- **Dispider: Enabling Video LLMs with Active Real-Time Interaction via
+  Disentangled Perception, Decision, and Reaction**, `arXiv, 2501.03218`, [arxiv](http://arxiv.org/abs/2501.03218v1), [pdf](http://arxiv.org/pdf/2501.03218v1.pdf), cication: [**-1**](None) 
+
+	 *Rui Qian, Shuangrui Ding, Xiaoyi Dong, ..., Dahua Lin, Jiaqi Wang* · ([Dispider](https://github.com/Mark12Ding/Dispider) - Mark12Ding) ![Star](https://img.shields.io/github/stars/Mark12Ding/Dispider.svg?style=social&label=Star)
+- **MotionBench: Benchmarking and Improving Fine-grained Video Motion
+  Understanding for Vision Language Models**, `arXiv, 2501.02955`, [arxiv](http://arxiv.org/abs/2501.02955v1), [pdf](http://arxiv.org/pdf/2501.02955v1.pdf), cication: [**-1**](None) 
+
+	 *Wenyi Hong, Yean Cheng, Zhuoyi Yang, ..., Yuxiao Dong, Jie Tang* · ([motion-bench.github](https://motion-bench.github.io))
+- **Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of
+  Images and Videos**, `arXiv, 2501.04001`, [arxiv](http://arxiv.org/abs/2501.04001v1), [pdf](http://arxiv.org/pdf/2501.04001v1.pdf), cication: [**-1**](None) 
+
+	 *Haobo Yuan, Xiangtai Li, Tao Zhang, ..., Jiashi Feng, Ming-Hsuan Yang* · ([Sa2VA](https://github.com/magic-research/Sa2VA) - magic-research) ![Star](https://img.shields.io/github/stars/magic-research/Sa2VA.svg?style=social&label=Star) · ([arxiv](https://arxiv.org/abs/2501.04001)) · ([huggingface](https://huggingface.co/ByteDance/Sa2VA-4B)) · ([lxtgh.github](https://lxtgh.github.io/project/sa2va/))
+- **VideoRefer Suite: Advancing Spatial-Temporal Object Understanding with 
   Video LLM**, `arXiv, 2501.00599`, [arxiv](http://arxiv.org/abs/2501.00599v2), [pdf](http://arxiv.org/pdf/2501.00599v2.pdf), cication: [**-1**](None) 
 
 	 *Yuqian Yuan, Hang Zhang, Wentong Li, ..., Jianke Zhu, Lidong Bing*
@@ -213,6 +231,9 @@
 
 ## Encoder
 
+- **Unifying Specialized Visual Encoders for Video Language Models**, `arXiv, 2501.01426`, [arxiv](http://arxiv.org/abs/2501.01426v1), [pdf](http://arxiv.org/pdf/2501.01426v1.pdf), cication: [**-1**](None) 
+
+	 *Jihoon Chung, Tyler Zhu, Max Gonzalez Saez-Diez, ..., Honglu Zhou, Olga Russakovsky* · ([tylerzhu](https://tylerzhu.com/merv)) · ([merv](https://github.com/princetonvisualai/merv) - princetonvisualai) ![Star](https://img.shields.io/github/stars/princetonvisualai/merv.svg?style=social&label=Star)
 - **LLaVA-UHD v2: an MLLM Integrating High-Resolution Feature Pyramid via 
   Hierarchical Window Transformer**, `arXiv, 2412.13871`, [arxiv](http://arxiv.org/abs/2412.13871v1), [pdf](http://arxiv.org/pdf/2412.13871v1.pdf), cication: [**-1**](None) 
 
@@ -305,6 +326,14 @@
 
 ## Reasoning
 
+- [Multimodal Reasoning and its Applications to Computer Use and Robotics](https://www.youtube.com/watch?v=YdqJSjfi4iw)  :clapper:
+- 🌟 **Virgo: A Preliminary Exploration on Reproducing o1-like MLLM**, `arXiv, 2501.01904`, [arxiv](http://arxiv.org/abs/2501.01904v1), [pdf](http://arxiv.org/pdf/2501.01904v1.pdf), cication: [**-1**](None) 
+
+	 *Yifan Du, Zikang Liu, Yifan Li, ..., Zhongyuan Wang, Ji-Rong Wen* · ([Virgo](https://github.com/RUCAIBox/Virgo) - RUCAIBox) ![Star](https://img.shields.io/github/stars/RUCAIBox/Virgo.svg?style=social&label=Star)
+- **URSA: Understanding and Verifying Chain-of-thought Reasoning in
+  Multimodal Mathematics**, `arXiv, 2501.04686`, [arxiv](http://arxiv.org/abs/2501.04686v1), [pdf](http://arxiv.org/pdf/2501.04686v1.pdf), cication: [**-1**](None) 
+
+	 *Ruilin Luo, Zhuofan Zheng, Yifan Wang, ..., Jin Zeng, Yujiu Yang* · ([ursa-math.github](https://ursa-math.github.io/))
 - 🌟 **Mulberry: Empowering MLLM with o1-like Reasoning and Reflection via 
   Collective Monte Carlo Tree Search**, `arXiv, 2412.18319`, [arxiv](http://arxiv.org/abs/2412.18319v1), [pdf](http://arxiv.org/pdf/2412.18319v1.pdf), cication: [**-1**](None) 
 
@@ -408,6 +437,10 @@
 
 ## Efficient
 
+- **LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One
+  Vision Token**, `arXiv, 2501.03895`, [arxiv](http://arxiv.org/abs/2501.03895v1), [pdf](http://arxiv.org/pdf/2501.03895v1.pdf), cication: [**-1**](None) 
+
+	 *Shaolei Zhang, Qingkai Fang, Zhe Yang, ..., Yang Feng*
 - **Feather the Throttle: Revisiting Visual Token Pruning for 
   Vision-Language Model Acceleration**, `arXiv, 2412.13180`, [arxiv](http://arxiv.org/abs/2412.13180v1), [pdf](http://arxiv.org/pdf/2412.13180v1.pdf), cication: [**-1**](None) 
 
@@ -491,7 +524,7 @@
 
 ## Dataset
 
-- 🌟 **2.5 Years in Class: A Multimodal Textbook for Vision-Language
+- 🌟 **2.5 Years in Class: A Multimodal Textbook for Vision-Language 
   Pretraining**, `arXiv, 2501.00958`, [arxiv](http://arxiv.org/abs/2501.00958v2), [pdf](http://arxiv.org/pdf/2501.00958v2.pdf), cication: [**-1**](None) 
 
 	 *Wenqi Zhang, Hang Zhang, Xin Li, ..., Yueting Zhuang, Lidong Bing* · ([multimodal-interleaved-textbook.github](https://multimodal-interleaved-textbook.github.io/)) · ([multimodal_textbook](https://github.com/DAMO-NLP-SG/multimodal_textbook) - DAMO-NLP-SG) ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/multimodal_textbook.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/datasets/DAMO-NLP-SG/multimodal_textbook)) · ([zhuanlan.zhihu](https://zhuanlan.zhihu.com/p/16512014215))
