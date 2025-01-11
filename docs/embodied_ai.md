@@ -17,7 +17,7 @@
 
 ## Embodied AI
 
-- **Beyond Sight: Finetuning Generalist Robot Policies with Heterogeneous
+- **Beyond Sight: Finetuning Generalist Robot Policies with Heterogeneous 
   Sensors via Language Grounding**, `arXiv, 2501.04693`, [arxiv](http://arxiv.org/abs/2501.04693v1), [pdf](http://arxiv.org/pdf/2501.04693v1.pdf), cication: [**-1**](None) 
 
 	 *Joshua Jones, Oier Mees, Carmelo Sferrazza, ..., Pieter Abbeel, Sergey Levine*

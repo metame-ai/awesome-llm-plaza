@@ -25,7 +25,7 @@
 
 ## English Models
 
-- [Dolphin 3.0 is the next generation of the Dolphin series of instruct-tuned models](https://huggingface.co/cognitivecomputations/Dolphin3.0-Llama3.1-8B)  🤗
+- [Dolphin 3.0 is the next generation of the Dolphin series of instruct-tuned models](https://huggingface.co/cognitivecomputations/Dolphin3.0-Llama3.1-8B)  🤗 
 - **2 OLMo 2 Furious**, `arXiv, 2501.00656`, [arxiv](http://arxiv.org/abs/2501.00656v1), [pdf](http://arxiv.org/pdf/2501.00656v1.pdf), cication: [**-1**](None) 
 
 	 *Team OLMo, Pete Walsh, Luca Soldaini, ..., Noah A. Smith, Hannaneh Hajishirzi* · ([𝕏](https://x.com/kylelostat/status/1875209445950804114)) · ([t](https://t.co/JR0tKbBgWz))

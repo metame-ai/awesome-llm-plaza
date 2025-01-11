@@ -132,11 +132,11 @@
 
 ## Math Reasoning
 
-- 🌟 **BoostStep: Boosting mathematical capability of Large Language Models via
+- 🌟 **BoostStep: Boosting mathematical capability of Large Language Models via 
   improved single-step reasoning**, `arXiv, 2501.03226`, [arxiv](http://arxiv.org/abs/2501.03226v1), [pdf](http://arxiv.org/pdf/2501.03226v1.pdf), cication: [**-1**](None) 
 
 	 *Beichen Zhang, Yuhong Liu, Xiaoyi Dong, ..., Dahua Lin, Jiaqi Wang* · ([BoostStep](https://github.com/beichenzbc/BoostStep) - beichenzbc) ![Star](https://img.shields.io/github/stars/beichenzbc/BoostStep.svg?style=social&label=Star)
-- **URSA: Understanding and Verifying Chain-of-thought Reasoning in
+- **URSA: Understanding and Verifying Chain-of-thought Reasoning in 
   Multimodal Mathematics**, `arXiv, 2501.04686`, [arxiv](http://arxiv.org/abs/2501.04686v1), [pdf](http://arxiv.org/pdf/2501.04686v1.pdf), cication: [**-1**](None) 
 
 	 *Ruilin Luo, Zhuofan Zheng, Yifan Wang, ..., Jin Zeng, Yujiu Yang* · ([ursa-math.github](https://ursa-math.github.io/))
@@ -188,19 +188,19 @@
 
 ## O1 Reasoning
 
-- 🌟 **rStar-Math: Small LLMs Can Master Math Reasoning with Self-Evolved Deep
+- 🌟 **rStar-Math: Small LLMs Can Master Math Reasoning with Self-Evolved Deep 
   Thinking**, `arXiv, 2501.04519`, [arxiv](http://arxiv.org/abs/2501.04519v1), [pdf](http://arxiv.org/pdf/2501.04519v1.pdf), cication: [**-1**](None) 
 
 	 *Xinyu Guan, Li Lyna Zhang, Yifei Liu, ..., Fan Yang, Mao Yang* · ([rStar](https://github.com/microsoft/rStar) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/rStar.svg?style=social&label=Star)
-- 🌟 **Towards System 2 Reasoning in LLMs: Learning How to Think With Meta
+- 🌟 **Towards System 2 Reasoning in LLMs: Learning How to Think With Meta 
   Chain-of-Thought**, `arXiv, 2501.04682`, [arxiv](http://arxiv.org/abs/2501.04682v1), [pdf](http://arxiv.org/pdf/2501.04682v1.pdf), cication: [**-1**](None) 
 
 	 *Violet Xiang, Charlie Snell, Kanishk Gandhi, ..., Nick Haber, Chelsea Finn*
-- **PRMBench: A Fine-grained and Challenging Benchmark for Process-Level
+- **PRMBench: A Fine-grained and Challenging Benchmark for Process-Level 
   Reward Models**, `arXiv, 2501.03124`, [arxiv](http://arxiv.org/abs/2501.03124v2), [pdf](http://arxiv.org/pdf/2501.03124v2.pdf), cication: [**-1**](None) 
 
 	 *Mingyang Song, Zhaochen Su, Xiaoye Qu, ..., Jiawei Zhou, Yu Cheng* · ([prmbench.github](https://prmbench.github.io/)) · ([PRMBench](https://github.com/ssmisya/PRMBench) - ssmisya) ![Star](https://img.shields.io/github/stars/ssmisya/PRMBench.svg?style=social&label=Star) · ([arxiv](https://arxiv.org/abs/2501.03124)) · ([huggingface](https://huggingface.co/datasets/hitsmy/PRMBench_Preview))
-- **Dolphin: Closed-loop Open-ended Auto-research through Thinking,
+- **Dolphin: Closed-loop Open-ended Auto-research through Thinking, 
   Practice, and Feedback**, `arXiv, 2501.03916`, [arxiv](http://arxiv.org/abs/2501.03916v1), [pdf](http://arxiv.org/pdf/2501.03916v1.pdf), cication: [**-1**](None) 
 
 	 *Jiakang Yuan, Xiangchao Yan, Botian Shi, ..., Yu Qiao, Bowen Zhou*
@@ -384,7 +384,7 @@
 
 ## Misc
 
-- [Denny Zhou: LLM Reasoning: Key Ideas and Limitations](https://www.youtube.com/watch?v=-SZAciVbswk)  :clapper:
+- [Denny Zhou: LLM Reasoning: Key Ideas and Limitations](https://www.youtube.com/watch?v=-SZAciVbswk)  :clapper: 
 - [Jason Wei: Scaling Paradigms for Large Language Models](https://www.youtube.com/watch?v=yhpjpNXJDco)  :clapper: 
 - [智谱版o1终于也来了：直接拿下考研数学，一句话就能做小游戏！](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247770241&idx=1&sn=fd6fb22d91ca671905f8ff8a338f7662&chksm=e9ba73fe67399d9a51136457259305a5005bcc02ee12913d9c33515743e7668528772b93fe50&scene=0&xtrack=1) 
 - [Quick recap on the state of reasoning -- can LMs reason?](https://x.com/interconnectsai/status/1874850900352840129)  𝕏 

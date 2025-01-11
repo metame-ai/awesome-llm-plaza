@@ -247,7 +247,7 @@
 
 ## Projects
 
-- [**WrenAI**](https://github.com/Canner/WrenAI) - Canner ![Star](https://img.shields.io/github/stars/Canner/WrenAI.svg?style=social&label=Star)
+- [**WrenAI**](https://github.com/Canner/WrenAI) - Canner ![Star](https://img.shields.io/github/stars/Canner/WrenAI.svg?style=social&label=Star) 
 - [**NarratoAI**](https://github.com/linyqh/NarratoAI) - linyqh ![Star](https://img.shields.io/github/stars/linyqh/NarratoAI.svg?style=social&label=Star) 
 - [**helicone**](https://github.com/Helicone/helicone) - Helicone ![Star](https://img.shields.io/github/stars/Helicone/helicone.svg?style=social&label=Star) 
 - [**video-analyzer**](https://github.com/byjlw/video-analyzer) - byjlw ![Star](https://img.shields.io/github/stars/byjlw/video-analyzer.svg?style=social&label=Star) 

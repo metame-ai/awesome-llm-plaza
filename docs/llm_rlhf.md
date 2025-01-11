@@ -14,7 +14,7 @@
 ## RLHF
 
 - [Preference Optimization for Large Language Models](https://llm-class.github.io/speakers.html) 
-- 🌟 **REINFORCE++: A Simple and Efficient Approach for Aligning Large Language
+- 🌟 **REINFORCE++: A Simple and Efficient Approach for Aligning Large Language 
   Models**, `arXiv, 2501.03262`, [arxiv](http://arxiv.org/abs/2501.03262v1), [pdf](http://arxiv.org/pdf/2501.03262v1.pdf), cication: [**-1**](None) 
 
 	 *Jian Hu*

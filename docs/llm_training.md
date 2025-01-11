@@ -26,8 +26,8 @@
 - **Scaling Laws for Floating Point Quantization Training**, `arXiv, 2501.02423`, [arxiv](http://arxiv.org/abs/2501.02423v1), [pdf](http://arxiv.org/pdf/2501.02423v1.pdf), cication: [**-1**](None) 
 
 	 *Xingwu Sun, Shuaipeng Li, Ruobing Xie, ..., Di Wang, Jie Jiang*
-- [Flash LLMs: Pipeline Parallel](https://www.youtube.com/watch?v=76gulNlhiE4&list=PLO45-80-XKkT6BUKCYeBMTEqnlcpYavxq&index=1)  :clapper:
-- [**360-LLaMA-Factory**](https://github.com/Qihoo360/360-LLaMA-Factory) - Qihoo360 ![Star](https://img.shields.io/github/stars/Qihoo360/360-LLaMA-Factory.svg?style=social&label=Star)
+- [Flash LLMs: Pipeline Parallel](https://www.youtube.com/watch?v=76gulNlhiE4&list=PLO45-80-XKkT6BUKCYeBMTEqnlcpYavxq&index=1)  :clapper: 
+- [**360-LLaMA-Factory**](https://github.com/Qihoo360/360-LLaMA-Factory) - Qihoo360 ![Star](https://img.shields.io/github/stars/Qihoo360/360-LLaMA-Factory.svg?style=social&label=Star) 
 - **Metadata Conditioning Accelerates Language Model Pre-training**, `arXiv, 2501.01956`, [arxiv](http://arxiv.org/abs/2501.01956v1), [pdf](http://arxiv.org/pdf/2501.01956v1.pdf), cication: [**-1**](None) 
 
 	 *Tianyu Gao, Alexander Wettig, Luxi He, ..., Sadhika Malladi, Danqi Chen* · ([MeCo](https://github.com/princeton-pli/MeCo) - princeton-pli) ![Star](https://img.shields.io/github/stars/princeton-pli/MeCo.svg?style=social&label=Star)

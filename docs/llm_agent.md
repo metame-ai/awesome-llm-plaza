@@ -101,13 +101,13 @@
 
 ## UI Agent
 
-- [**browserless**](https://github.com/browserless/browserless) - browserless ![Star](https://img.shields.io/github/stars/browserless/browserless.svg?style=social&label=Star)
-- **InfiGUIAgent: A Multimodal Generalist GUI Agent with Native Reasoning
+- [**browserless**](https://github.com/browserless/browserless) - browserless ![Star](https://img.shields.io/github/stars/browserless/browserless.svg?style=social&label=Star) 
+- **InfiGUIAgent: A Multimodal Generalist GUI Agent with Native Reasoning 
   and Reflection**, `arXiv, 2501.04575`, [arxiv](http://arxiv.org/abs/2501.04575v1), [pdf](http://arxiv.org/pdf/2501.04575v1.pdf), cication: [**-1**](None) 
 
 	 *Yuhang Liu, Pengxiang Li, Zishu Wei, ..., Hongxia Yang, Fei Wu* · ([InfiGUIAgent](https://github.com/Reallm-Labs/InfiGUIAgent) - Reallm-Labs) ![Star](https://img.shields.io/github/stars/Reallm-Labs/InfiGUIAgent.svg?style=social&label=Star)
-- [**web-ui**](https://github.com/browser-use/web-ui) - browser-use ![Star](https://img.shields.io/github/stars/browser-use/web-ui.svg?style=social&label=Star)
-- **Navigating the Digital World as Humans Do: Universal Visual Grounding
+- [**web-ui**](https://github.com/browser-use/web-ui) - browser-use ![Star](https://img.shields.io/github/stars/browser-use/web-ui.svg?style=social&label=Star) 
+- **Navigating the Digital World as Humans Do: Universal Visual Grounding 
   for GUI Agents**, `arXiv, 2410.05243`, [arxiv](http://arxiv.org/abs/2410.05243v1), [pdf](http://arxiv.org/pdf/2410.05243v1.pdf), cication: [**-1**](None) 
 
 	 *Boyu Gou, Ruohan Wang, Boyuan Zheng, ..., Huan Sun, Yu Su* · ([osu-nlp-group.github](https://osu-nlp-group.github.io/UGround/)) · ([UGround](https://github.com/OSU-NLP-Group/UGround) - OSU-NLP-Group) ![Star](https://img.shields.io/github/stars/OSU-NLP-Group/UGround.svg?style=social&label=Star) · ([arxiv](https://arxiv.org/abs/2410.05243)) · ([huggingface](https://huggingface.co/spaces/orby-osu/UGround))
@@ -240,7 +240,7 @@
 
 ## Projects
 
-- [**crewAI**](https://github.com/crewAIInc/crewAI) - crewAIInc ![Star](https://img.shields.io/github/stars/crewAIInc/crewAI.svg?style=social&label=Star)
+- [**crewAI**](https://github.com/crewAIInc/crewAI) - crewAIInc ![Star](https://img.shields.io/github/stars/crewAIInc/crewAI.svg?style=social&label=Star) 
 
 	 *Production-grade framework for orchestrating sophisticated AI agent systems.*
 - [**Agentarium**](https://github.com/Thytu/Agentarium) - Thytu ![Star](https://img.shields.io/github/stars/Thytu/Agentarium.svg?style=social&label=Star) 

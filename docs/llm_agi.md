@@ -13,7 +13,7 @@
 
 ## World Model
 
-- 🌟 [**Cosmos**](https://github.com/NVIDIA/Cosmos) - NVIDIA ![Star](https://img.shields.io/github/stars/NVIDIA/Cosmos.svg?style=social&label=Star)
+- 🌟 [**Cosmos**](https://github.com/NVIDIA/Cosmos) - NVIDIA ![Star](https://img.shields.io/github/stars/NVIDIA/Cosmos.svg?style=social&label=Star) 
 - **ZeroHSI: Zero-Shot 4D Human-Scene Interaction by Video Generation**, `arXiv, 2412.18600`, [arxiv](http://arxiv.org/abs/2412.18600v1), [pdf](http://arxiv.org/pdf/2412.18600v1.pdf), cication: [**-1**](None) 
 
 	 *Hongjie Li, Hong-Xing Yu, Jiaman Li, ..., Jiajun Wu* · ([awfuact.github](https://awfuact.github.io/zerohsi/))

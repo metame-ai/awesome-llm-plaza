@@ -155,15 +155,15 @@
 - **An Empirical Study of Autoregressive Pre-training from Videos**, `arXiv, 2501.05453`, [arxiv](http://arxiv.org/abs/2501.05453v1), [pdf](http://arxiv.org/pdf/2501.05453v1.pdf), cication: [**-1**](None) 
 
 	 *Jathushan Rajasegaran, Ilija Radosavovic, Rahul Ravishankar, ..., Christoph Feichtenhofer, Jitendra Malik* · ([brjathu.github](https://brjathu.github.io/toto/))
-- **Dispider: Enabling Video LLMs with Active Real-Time Interaction via
+- **Dispider: Enabling Video LLMs with Active Real-Time Interaction via 
   Disentangled Perception, Decision, and Reaction**, `arXiv, 2501.03218`, [arxiv](http://arxiv.org/abs/2501.03218v1), [pdf](http://arxiv.org/pdf/2501.03218v1.pdf), cication: [**-1**](None) 
 
 	 *Rui Qian, Shuangrui Ding, Xiaoyi Dong, ..., Dahua Lin, Jiaqi Wang* · ([Dispider](https://github.com/Mark12Ding/Dispider) - Mark12Ding) ![Star](https://img.shields.io/github/stars/Mark12Ding/Dispider.svg?style=social&label=Star)
-- **MotionBench: Benchmarking and Improving Fine-grained Video Motion
+- **MotionBench: Benchmarking and Improving Fine-grained Video Motion 
   Understanding for Vision Language Models**, `arXiv, 2501.02955`, [arxiv](http://arxiv.org/abs/2501.02955v1), [pdf](http://arxiv.org/pdf/2501.02955v1.pdf), cication: [**-1**](None) 
 
 	 *Wenyi Hong, Yean Cheng, Zhuoyi Yang, ..., Yuxiao Dong, Jie Tang* · ([motion-bench.github](https://motion-bench.github.io))
-- **Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of
+- **Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of 
   Images and Videos**, `arXiv, 2501.04001`, [arxiv](http://arxiv.org/abs/2501.04001v1), [pdf](http://arxiv.org/pdf/2501.04001v1.pdf), cication: [**-1**](None) 
 
 	 *Haobo Yuan, Xiangtai Li, Tao Zhang, ..., Jiashi Feng, Ming-Hsuan Yang* · ([Sa2VA](https://github.com/magic-research/Sa2VA) - magic-research) ![Star](https://img.shields.io/github/stars/magic-research/Sa2VA.svg?style=social&label=Star) · ([arxiv](https://arxiv.org/abs/2501.04001)) · ([huggingface](https://huggingface.co/ByteDance/Sa2VA-4B)) · ([lxtgh.github](https://lxtgh.github.io/project/sa2va/))
@@ -326,11 +326,11 @@
 
 ## Reasoning
 
-- [Multimodal Reasoning and its Applications to Computer Use and Robotics](https://www.youtube.com/watch?v=YdqJSjfi4iw)  :clapper:
+- [Multimodal Reasoning and its Applications to Computer Use and Robotics](https://www.youtube.com/watch?v=YdqJSjfi4iw)  :clapper: 
 - 🌟 **Virgo: A Preliminary Exploration on Reproducing o1-like MLLM**, `arXiv, 2501.01904`, [arxiv](http://arxiv.org/abs/2501.01904v1), [pdf](http://arxiv.org/pdf/2501.01904v1.pdf), cication: [**-1**](None) 
 
 	 *Yifan Du, Zikang Liu, Yifan Li, ..., Zhongyuan Wang, Ji-Rong Wen* · ([Virgo](https://github.com/RUCAIBox/Virgo) - RUCAIBox) ![Star](https://img.shields.io/github/stars/RUCAIBox/Virgo.svg?style=social&label=Star)
-- **URSA: Understanding and Verifying Chain-of-thought Reasoning in
+- **URSA: Understanding and Verifying Chain-of-thought Reasoning in 
   Multimodal Mathematics**, `arXiv, 2501.04686`, [arxiv](http://arxiv.org/abs/2501.04686v1), [pdf](http://arxiv.org/pdf/2501.04686v1.pdf), cication: [**-1**](None) 
 
 	 *Ruilin Luo, Zhuofan Zheng, Yifan Wang, ..., Jin Zeng, Yujiu Yang* · ([ursa-math.github](https://ursa-math.github.io/))
@@ -437,7 +437,7 @@
 
 ## Efficient
 
-- **LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One
+- **LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One 
   Vision Token**, `arXiv, 2501.03895`, [arxiv](http://arxiv.org/abs/2501.03895v1), [pdf](http://arxiv.org/pdf/2501.03895v1.pdf), cication: [**-1**](None) 
 
 	 *Shaolei Zhang, Qingkai Fang, Zhe Yang, ..., Yang Feng*

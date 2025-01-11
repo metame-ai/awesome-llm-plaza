@@ -13,7 +13,7 @@
 
 ## LLM Security
 
-- **Auto-RT: Automatic Jailbreak Strategy Exploration for Red-Teaming Large
+- **Auto-RT: Automatic Jailbreak Strategy Exploration for Red-Teaming Large 
   Language Models**, `arXiv, 2501.01830`, [arxiv](http://arxiv.org/abs/2501.01830v1), [pdf](http://arxiv.org/pdf/2501.01830v1.pdf), cication: [**-1**](None) 
 
 	 *Yanjiang Liu, Shuhen Zhou, Yaojie Lu, ..., Xianpei Han, Le Sun*
