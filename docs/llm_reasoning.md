@@ -188,6 +188,9 @@
 
 ## O1 Reasoning
 
+- 🌟 [Sky-T1: Train your own O1 preview model within $450](https://novasky-ai.github.io/posts/sky-t1/) 
+
+	 · ([SkyThought](https://github.com/NovaSky-AI/SkyThought) - NovaSky-AI) ![Star](https://img.shields.io/github/stars/NovaSky-AI/SkyThought.svg?style=social&label=Star)
 - 🌟 **rStar-Math: Small LLMs Can Master Math Reasoning with Self-Evolved Deep 
   Thinking**, `arXiv, 2501.04519`, [arxiv](http://arxiv.org/abs/2501.04519v1), [pdf](http://arxiv.org/pdf/2501.04519v1.pdf), cication: [**-1**](None) 
 

@@ -80,6 +80,9 @@
 
 ## Multi Modal
 
+- [Visual Document Retrieval Goes Multilingual](https://huggingface.co/blog/vdr-2b-multilingual)  🤗
+
+	 · ([𝕏](https://x.com/_philschmid/status/1877778889566494843))
 - [MM-Embed, an extension of NV-Embed-v1 with multimodal retrieval capability.](https://huggingface.co/nvidia/MM-Embed)  🤗 
 - **Beyond Text: Optimizing RAG with Multimodal Inputs for Industrial 
   Applications**, `arXiv, 2410.21943`, [arxiv](http://arxiv.org/abs/2410.21943v1), [pdf](http://arxiv.org/pdf/2410.21943v1.pdf), cication: [**-1**](None)

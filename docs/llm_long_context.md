@@ -13,6 +13,9 @@
 
 ## Long Context
 
+- [Stick-breaking Attention](https://openreview.net/forum?id=r8J3DSD5kF) 
+
+	 · ([𝕏](https://x.com/_arohan_/status/1877795996815728987))
 - **Long Context vs. RAG for LLMs: An Evaluation and Revisits**, `arXiv, 2501.01880`, [arxiv](http://arxiv.org/abs/2501.01880v1), [pdf](http://arxiv.org/pdf/2501.01880v1.pdf), cication: [**-1**](None) 
 
 	 *Xinze Li, Yixin Cao, Yubo Ma, ..., Aixin Sun*

@@ -592,6 +592,7 @@
 
 ## Misc
 
+- [Best of 2024 in Vision](https://www.youtube.com/watch?v=76EL7YVAwVo)  :clapper:
 - [SigLIP from timm are interpretable right out-of-the-box](https://x.com/rgilman33/status/1862523581948629413)  𝕏 
 
 	 · ([darkspark](https://darkspark.dev/models/?model=vit_base_patch16_siglip_224-microscope))

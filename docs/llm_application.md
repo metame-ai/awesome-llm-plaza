@@ -282,6 +282,7 @@
 
 ## LLM Applications
 
+- [Beating Google at Search with Neural PageRank and $5M of H200s — with Will Bryk of Exa.ai](https://www.latent.space/p/exa) 
 - **MLLM-as-a-Judge for Image Safety without Human Labeling**, `arXiv, 2501.00192`, [arxiv](http://arxiv.org/abs/2501.00192v1), [pdf](http://arxiv.org/pdf/2501.00192v1.pdf), cication: [**-1**](None) 
 
 	 *Zhenting Wang, Shuming Hu, Shiyu Zhao, ..., Dimitris N. Metaxas, Ankit Jain*
