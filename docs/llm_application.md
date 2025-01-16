@@ -105,6 +105,9 @@
 
 ## Role Play
 
+- 🌟 **Enhancing Human-Like Responses in Large Language Models**, `arXiv, 2501.05032`, [arxiv](http://arxiv.org/abs/2501.05032v1), [pdf](http://arxiv.org/pdf/2501.05032v1.pdf), cication: [**-1**](None) 
+
+	 *Ethem Yağız Çalık, Talha Rüzgar Akkuş* · ([𝕏](https://x.com/Weyaxi/status/1877763008257986846))
 - [EVA Llama 3.33 70b is a roleplay and storywriting specialist model.](https://openrouter.ai/eva-unit-01/eva-llama-3.33-70b) 
 - [Oxy 1 Small is a fine-tuned version of the Qwen/Qwen2.5-14B-Instruct language model, specialized for role-play scenarios.](https://huggingface.co/oxyapi/oxy-1-small)  🤗 
 - **From Individual to Society: A Survey on Social Simulation Driven by 

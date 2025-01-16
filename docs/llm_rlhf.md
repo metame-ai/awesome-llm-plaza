@@ -13,6 +13,9 @@
 
 ## RLHF
 
+- **Enabling Scalable Oversight via Self-Evolving Critic**, `arXiv, 2501.05727`, [arxiv](http://arxiv.org/abs/2501.05727v1), [pdf](http://arxiv.org/pdf/2501.05727v1.pdf), cication: [**-1**](None) 
+
+	 *Zhengyang Tang, Ziniu Li, Zhenyang Xiao, ..., Bowen Yu, Junyang Lin*
 - [Preference Optimization for Large Language Models](https://llm-class.github.io/speakers.html) 
 - 🌟 **REINFORCE++: A Simple and Efficient Approach for Aligning Large Language 
   Models**, `arXiv, 2501.03262`, [arxiv](http://arxiv.org/abs/2501.03262v1), [pdf](http://arxiv.org/pdf/2501.03262v1.pdf), cication: [**-1**](None) 

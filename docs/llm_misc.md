@@ -47,6 +47,9 @@
 
 ## Interpretability
 
+- [Announcing Open-Source SAEs for Llama 3.3 70B and Llama 3.1 8B](https://www.goodfire.ai/blog/sae-open-source-announcement/) 
+
+	 · ([𝕏](https://x.com/GoodfireAI/status/1877777694936694962))
 - [The Dark Matter of AI [Mechanistic Interpretability]](https://www.youtube.com/watch?v=UGO_Ehywuxc)  :clapper: 
 - [Goodfire Ember: Scaling Interpretability for Frontier Model Alignment](https://www.goodfire.ai/blog/announcing-goodfire-ember/) 
 

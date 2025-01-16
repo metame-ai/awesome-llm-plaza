@@ -240,6 +240,7 @@
 
 ## Projects
 
+- [**eliza**](https://github.com/elizaOS/eliza) - elizaOS ![Star](https://img.shields.io/github/stars/elizaOS/eliza.svg?style=social&label=Star)
 - [**crewAI**](https://github.com/crewAIInc/crewAI) - crewAIInc ![Star](https://img.shields.io/github/stars/crewAIInc/crewAI.svg?style=social&label=Star) 
 
 	 *Production-grade framework for orchestrating sophisticated AI agent systems.*
@@ -275,6 +276,9 @@
 
 ## Multi Agent
 
+- **Multiagent Finetuning: Self Improvement with Diverse Reasoning Chains**, `arXiv, 2501.05707`, [arxiv](http://arxiv.org/abs/2501.05707v1), [pdf](http://arxiv.org/pdf/2501.05707v1.pdf), cication: [**-1**](None) 
+
+	 *Vighnesh Subramaniam, Yilun Du, Joshua B. Tenenbaum, ..., Shuang Li, Igor Mordatch* · ([llm-multiagent-ft.github](https://llm-multiagent-ft.github.io/))
 - [**swarms**](https://github.com/kyegomez/swarms) - kyegomez ![Star](https://img.shields.io/github/stars/kyegomez/swarms.svg?style=social&label=Star) 
 - **GenMAC: Compositional Text-to-Video Generation with Multi-Agent 
   Collaboration**, `arXiv, 2412.04440`, [arxiv](http://arxiv.org/abs/2412.04440v1), [pdf](http://arxiv.org/pdf/2412.04440v1.pdf), cication: [**-1**](None) 

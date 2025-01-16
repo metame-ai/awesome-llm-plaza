@@ -25,6 +25,7 @@
 
 ## English Models
 
+- [Helium-1 preview is a lightweight language model with 2B parameters, targeting edge and mobile devices.](https://huggingface.co/kyutai/helium-1-preview-2b)  🤗
 - [Dolphin 3.0 is the next generation of the Dolphin series of instruct-tuned models](https://huggingface.co/cognitivecomputations/Dolphin3.0-Llama3.1-8B)  🤗 
 - **2 OLMo 2 Furious**, `arXiv, 2501.00656`, [arxiv](http://arxiv.org/abs/2501.00656v1), [pdf](http://arxiv.org/pdf/2501.00656v1.pdf), cication: [**-1**](None) 
 
@@ -129,6 +130,5 @@
 
 
 ## Misc
-## Misc
-- [OLMo: Everything You Need to Train an Open Source LLM](https://twimlai.com/podcast/twimlai/olmo-everything-you-need-to-train-an-open-source-llm/) 
-- [Opening the Language Model Pipeline: A Tutorial on Data Preparation, Model Training, and Adaptation](https://neurips.cc/virtual/2024/tutorial/99526) 
+
+- [Phi-4 bug fixes](https://x.com/danielhanchen/status/1877781452818968615)  𝕏

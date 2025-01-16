@@ -13,6 +13,9 @@
 
 ## Long Context
 
+- **Titans: Learning to Memorize at Test Time**, `arXiv, 2501.00663`, [arxiv](http://arxiv.org/abs/2501.00663v1), [pdf](http://arxiv.org/pdf/2501.00663v1.pdf), cication: [**-1**](None) 
+
+	 *Ali Behrouz, Peilin Zhong, Vahab Mirrokni*
 - [Stick-breaking Attention](https://openreview.net/forum?id=r8J3DSD5kF) 
 
 	 · ([𝕏](https://x.com/_arohan_/status/1877795996815728987))

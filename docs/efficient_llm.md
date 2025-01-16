@@ -43,6 +43,9 @@
 
 ## Efficient LLM
 
+- 🌟 **Tensor Product Attention Is All You Need**, `arXiv, 2501.06425`, [arxiv](http://arxiv.org/abs/2501.06425v1), [pdf](http://arxiv.org/pdf/2501.06425v1.pdf), cication: [**-1**](None) 
+
+	 *Yifan Zhang, Yifeng Liu, Huizhuo Yuan, ..., Quanquan Gu, Andrew Chi-Chih Yao* · ([tensorgi.github](https://tensorgi.github.io/T6/)) · ([T6](https://github.com/tensorgi/T6) - tensorgi) ![Star](https://img.shields.io/github/stars/tensorgi/T6.svg?style=social&label=Star)
 - 🌟 **Better & Faster Large Language Models via Multi-token Prediction**, `arXiv, 2404.19737`, [arxiv](http://arxiv.org/abs/2404.19737v1), [pdf](http://arxiv.org/pdf/2404.19737v1.pdf), cication: [**-1**](None) 
 
 	 *Fabian Gloeckle, Badr Youbi Idrissi, Baptiste Rozière, ..., David Lopez-Paz, Gabriel Synnaeve*

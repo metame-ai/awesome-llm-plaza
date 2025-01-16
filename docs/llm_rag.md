@@ -80,7 +80,10 @@
 
 ## Multi Modal
 
-- [Visual Document Retrieval Goes Multilingual](https://huggingface.co/blog/vdr-2b-multilingual)  🤗
+- 🌟 **VideoRAG: Retrieval-Augmented Generation over Video Corpus**, `arXiv, 2501.05874`, [arxiv](http://arxiv.org/abs/2501.05874v1), [pdf](http://arxiv.org/pdf/2501.05874v1.pdf), cication: [**-1**](None) 
+
+	 *Soyeong Jeong, Kangsan Kim, Jinheon Baek, ..., Sung Ju Hwang* · ([huggingface](https://huggingface.co/blog/Kseniase/html-multimodal-agentic-rag)) · ([𝕏](https://x.com/TheTuringPost/status/1878932305177453037))
+- [Visual Document Retrieval Goes Multilingual](https://huggingface.co/blog/vdr-2b-multilingual)  🤗 
 
 	 · ([𝕏](https://x.com/_philschmid/status/1877778889566494843))
 - [MM-Embed, an extension of NV-Embed-v1 with multimodal retrieval capability.](https://huggingface.co/nvidia/MM-Embed)  🤗 

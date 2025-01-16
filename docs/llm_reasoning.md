@@ -27,6 +27,9 @@
 
 ## Reasoning
 
+- **Multiagent Finetuning: Self Improvement with Diverse Reasoning Chains**, `arXiv, 2501.05707`, [arxiv](http://arxiv.org/abs/2501.05707v1), [pdf](http://arxiv.org/pdf/2501.05707v1.pdf), cication: [**-1**](None) 
+
+	 *Vighnesh Subramaniam, Yilun Du, Joshua B. Tenenbaum, ..., Shuang Li, Igor Mordatch* · ([llm-multiagent-ft.github](https://llm-multiagent-ft.github.io/))
 - [Towards AI Superhuman Reasoning for Math and beyond](https://llm-class.github.io/speakers.html) 
 
 	 · ([youtu](https://youtu.be/y5qEFrZv-2Q))
@@ -132,6 +135,10 @@
 
 ## Math Reasoning
 
+- 🌟 **The Lessons of Developing Process Reward Models in Mathematical
+  Reasoning**, `arXiv, 2501.07301`, [arxiv](http://arxiv.org/abs/2501.07301v1), [pdf](http://arxiv.org/pdf/2501.07301v1.pdf), cication: [**-1**](None) 
+
+	 *Zhenru Zhang, Chujie Zheng, Yangzhen Wu, ..., Jingren Zhou, Junyang Lin*
 - 🌟 **BoostStep: Boosting mathematical capability of Large Language Models via 
   improved single-step reasoning**, `arXiv, 2501.03226`, [arxiv](http://arxiv.org/abs/2501.03226v1), [pdf](http://arxiv.org/pdf/2501.03226v1.pdf), cication: [**-1**](None) 
 
@@ -342,6 +349,10 @@
 
 ## Chain Of Thought
 
+- **Audio-CoT: Exploring Chain-of-Thought Reasoning in Large Audio Language
+  Model**, `arXiv, 2501.07246`, [arxiv](http://arxiv.org/abs/2501.07246v1), [pdf](http://arxiv.org/pdf/2501.07246v1.pdf), cication: [**-1**](None) 
+
+	 *Ziyang Ma, Zhuo Chen, Yuping Wang, ..., Eng Siong Chng, Xie Chen*
 - **To CoT or not to CoT? Chain-of-thought helps mainly on math and symbolic 
   reasoning**, `arXiv, 2409.12183`, [arxiv](http://arxiv.org/abs/2409.12183v2), [pdf](http://arxiv.org/pdf/2409.12183v2.pdf), cication: [**24**](https://scholar.google.com/scholar?cites=15167469291991704150&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII) 
 

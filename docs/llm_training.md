@@ -23,6 +23,9 @@
 
 ## LLM Training
 
+- **Grokking at the Edge of Numerical Stability**, `arXiv, 2501.04697`, [arxiv](http://arxiv.org/abs/2501.04697v1), [pdf](http://arxiv.org/pdf/2501.04697v1.pdf), cication: [**-1**](None) 
+
+	 *Lucas Prieto, Melih Barsbey, Pedro A. M. Mediano, ..., Tolga Birdal* · ([grokking-at-the-edge-of-numerical-stability.](https://github.com/LucasPrietoAl/grokking-at-the-edge-of-numerical-stability.) - LucasPrietoAl) ![Star](https://img.shields.io/github/stars/LucasPrietoAl/grokking-at-the-edge-of-numerical-stability..svg?style=social&label=Star)
 - **Scaling Laws for Floating Point Quantization Training**, `arXiv, 2501.02423`, [arxiv](http://arxiv.org/abs/2501.02423v1), [pdf](http://arxiv.org/pdf/2501.02423v1.pdf), cication: [**-1**](None) 
 
 	 *Xingwu Sun, Shuaipeng Li, Ruobing Xie, ..., Di Wang, Jie Jiang*
@@ -80,6 +83,9 @@
 
 ## Finetuning
 
+- **$\text{Transformer}^2$: Self-adaptive LLMs**, `arXiv, 2501.06252`, [arxiv](http://arxiv.org/abs/2501.06252v2), [pdf](http://arxiv.org/pdf/2501.06252v2.pdf), cication: [**-1**](None) 
+
+	 *Qi Sun, Edoardo Cetin, Yujin Tang*
 - **Let the Expert Stick to His Last: Expert-Specialized Fine-Tuning for 
   Sparse Architectural Large Language Models**, `arXiv, 2407.01906`, [arxiv](http://arxiv.org/abs/2407.01906v2), [pdf](http://arxiv.org/pdf/2407.01906v2.pdf), cication: [**-1**](None) 
 
