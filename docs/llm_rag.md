@@ -103,6 +103,9 @@
 
 ## Embedding
 
+- [Train 400x faster Static Embedding Models with Sentence Transformers](https://huggingface.co/blog/static-embeddings)  🤗
+
+	 · ([𝕏](https://x.com/tomaarsen/status/1879547342346666450))
 
 ## Evaluation
 

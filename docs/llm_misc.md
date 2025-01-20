@@ -233,6 +233,7 @@
 
 ## Misc
 
+- [Advanced Natural Language Processing](https://cmu-l3.github.io/anlp-spring2025/) 
 - [Speech and Language Processing(3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/) 
 - [CIS 7000 - Large Language Models](https://llm-class.github.io/) 
 - [WHAT LLM PROVIDER?](https://whatllm.vercel.app/) 

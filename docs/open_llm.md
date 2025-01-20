@@ -25,7 +25,7 @@
 
 ## English Models
 
-- [Helium-1 preview is a lightweight language model with 2B parameters, targeting edge and mobile devices.](https://huggingface.co/kyutai/helium-1-preview-2b)  🤗
+- [Helium-1 preview is a lightweight language model with 2B parameters, targeting edge and mobile devices.](https://huggingface.co/kyutai/helium-1-preview-2b)  🤗 
 - [Dolphin 3.0 is the next generation of the Dolphin series of instruct-tuned models](https://huggingface.co/cognitivecomputations/Dolphin3.0-Llama3.1-8B)  🤗 
 - **2 OLMo 2 Furious**, `arXiv, 2501.00656`, [arxiv](http://arxiv.org/abs/2501.00656v1), [pdf](http://arxiv.org/pdf/2501.00656v1.pdf), cication: [**-1**](None) 
 
@@ -64,6 +64,10 @@
 
 ## Chinese Models
 
+- [InternLM3 has open-sourced an 8-billion parameter instruction model, InternLM3-8B-Instruct, designed for general-purpose usage and advanced reasoning.](https://huggingface.co/internlm/internlm3-8b-instruct)  🤗
+- [Diving into MiniMax01 405B MoE](https://huggingface.co/blog/eliebak/minimax01-deepdive)  🤗
+
+	 · ([𝕏](https://x.com/eliebakouch/status/1879458716455759908))
 - **Xmodel-2 Technical Report**, `arXiv, 2412.19638`, [arxiv](http://arxiv.org/abs/2412.19638v1), [pdf](http://arxiv.org/pdf/2412.19638v1.pdf), cication: [**-1**](None) 
 
 	 *Wang Qun, Liu Yang, Lin Qingquan, ..., Qu Zhijiu, Jiang Ling* · ([Xmodel-2](https://github.com/XiaoduoAILab/Xmodel-2) - XiaoduoAILab) ![Star](https://img.shields.io/github/stars/XiaoduoAILab/Xmodel-2.svg?style=social&label=Star)
@@ -131,4 +135,4 @@
 
 ## Misc
 
-- [Phi-4 bug fixes](https://x.com/danielhanchen/status/1877781452818968615)  𝕏
+- [Phi-4 bug fixes](https://x.com/danielhanchen/status/1877781452818968615)  𝕏 

@@ -154,6 +154,10 @@
 
 ## Medical
 
+- **From Medprompt to o1: Exploration of Run-Time Strategies for Medical
+  Challenge Problems and Beyond**, `arXiv, 2411.03590`, [arxiv](http://arxiv.org/abs/2411.03590v1), [pdf](http://arxiv.org/pdf/2411.03590v1.pdf), cication: [**-1**](None) 
+
+	 *Harsha Nori, Naoto Usuyama, Nicholas King, ..., Sheng Zhang, Eric Horvitz*
 - **On the Compositional Generalization of Multimodal LLMs for Medical 
   Imaging**, `arXiv, 2412.20070`, [arxiv](http://arxiv.org/abs/2412.20070v1), [pdf](http://arxiv.org/pdf/2412.20070v1.pdf), cication: [**-1**](None) 
 

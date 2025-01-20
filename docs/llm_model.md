@@ -49,6 +49,7 @@
 
 ## State Space Model
 
+- [What’s Next for Mamba? Towards More Expressive Recurrent Update Rules”](https://sustcsonglin.github.io/) 
 
 ## Projects
 

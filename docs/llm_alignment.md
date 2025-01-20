@@ -12,6 +12,9 @@
 
 ## LLM Alignment
 
+- **Aligning Instruction Tuning with Pre-training**, `arXiv, 2501.09368`, [arxiv](http://arxiv.org/abs/2501.09368v2), [pdf](http://arxiv.org/pdf/2501.09368v2.pdf), cication: [**-1**](None) 
+
+	 *Yiming Liang, Tianyu Zheng, Xinrun Du, ..., Wenhao Huang, Jiajun Zhang*
 - **Alignment faking in large language models**, `arXiv, 2412.14093`, [arxiv](http://arxiv.org/abs/2412.14093v2), [pdf](http://arxiv.org/pdf/2412.14093v2.pdf), cication: [**-1**](None) 
 
 	 *Ryan Greenblatt, Carson Denison, Benjamin Wright, ..., Samuel R. Bowman, Evan Hubinger* · ([alignment_faking_public](https://github.com/redwoodresearch/alignment_faking_public) - redwoodresearch) ![Star](https://img.shields.io/github/stars/redwoodresearch/alignment_faking_public.svg?style=social&label=Star)
@@ -61,5 +64,5 @@
 
 
 ## Misc
-## Misc
-- [How language model post-training is done today](https://www.youtube.com/)  :clapper: 
+
+- [How to approach post-training for AI applications](https://www.youtube.com/watch?v=grpc-Wyy-Zg)  :clapper:

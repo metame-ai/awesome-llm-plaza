@@ -53,11 +53,11 @@
 
 ## Vision-Language Models
 
-- **Migician: Revealing the Magic of Free-Form Multi-Image Grounding in
+- **Migician: Revealing the Magic of Free-Form Multi-Image Grounding in 
   Multimodal Large Language Models**, `arXiv, 2501.05767`, [arxiv](http://arxiv.org/abs/2501.05767v2), [pdf](http://arxiv.org/pdf/2501.05767v2.pdf), cication: [**-1**](None) 
 
 	 *You Li, Heyu Huang, Chi Chen, ..., Ruixuan Li, Maosong Sun* · ([migician-vg.github](https://migician-vg.github.io)) · ([arxiv](https://arxiv.org/abs/2501.05767)) · ([Migician](https://github.com/thunlp/Migician) - thunlp) ![Star](https://img.shields.io/github/stars/thunlp/Migician.svg?style=social&label=Star)
-- [SAIL-VL is a state-of-the-art vision-language model (VLM) developed by the Bytedance Douyin Content Team.](https://huggingface.co/BytedanceDouyinContent/SAIL-VL-2B)  🤗
+- [SAIL-VL is a state-of-the-art vision-language model (VLM) developed by the Bytedance Douyin Content Team.](https://huggingface.co/BytedanceDouyinContent/SAIL-VL-2B)  🤗 
 - [Moondream 2025-01-09 Release: Structured Text, Enhanced OCR, Gaze Detection](https://moondream.ai/blog/introducing-a-new-moondream-1-9b-and-gpu-support) 
 
 	 · ([𝕏](https://x.com/vikhyatk/status/1877407680228143370)) · ([docs.moondream](https://docs.moondream.ai/quick-start))
@@ -370,7 +370,7 @@
 
 ## Evaluation
 
-- **OVO-Bench: How Far is Your Video-LLMs from Real-World Online Video
+- **OVO-Bench: How Far is Your Video-LLMs from Real-World Online Video 
   Understanding?**, `arXiv, 2501.05510`, [arxiv](http://arxiv.org/abs/2501.05510v1), [pdf](http://arxiv.org/pdf/2501.05510v1.pdf), cication: [**-1**](None) 
 
 	 *Yifei Li, Junbo Niu, Ziyang Miao, ..., Conghui He, Jiaqi Wang* · ([OVO-Bench](https://github.com/JoeLeelyf/OVO-Bench) - JoeLeelyf) ![Star](https://img.shields.io/github/stars/JoeLeelyf/OVO-Bench.svg?style=social&label=Star)

@@ -135,7 +135,7 @@
 
 ## Math Reasoning
 
-- 🌟 **The Lessons of Developing Process Reward Models in Mathematical
+- 🌟 **The Lessons of Developing Process Reward Models in Mathematical 
   Reasoning**, `arXiv, 2501.07301`, [arxiv](http://arxiv.org/abs/2501.07301v1), [pdf](http://arxiv.org/pdf/2501.07301v1.pdf), cication: [**-1**](None) 
 
 	 *Zhenru Zhang, Chujie Zheng, Yangzhen Wu, ..., Jingren Zhou, Junyang Lin*
@@ -195,6 +195,17 @@
 
 ## O1 Reasoning
 
+- 🌟 [Meta Chain-of-Thought: Unlocking System 2 Reasoning in LLMs](https://www.synthlabs.ai/) 
+
+	 · ([𝕏](https://x.com/synth_labs/status/1879277225977209113))
+- **O1 Replication Journey -- Part 3: Inference-time Scaling for Medical
+  Reasoning**, `arXiv, 2501.06458`, [arxiv](http://arxiv.org/abs/2501.06458v1), [pdf](http://arxiv.org/pdf/2501.06458v1.pdf), cication: [**-1**](None) 
+
+	 *Zhongzhen Huang, Gui Geng, Shengyi Hua, ..., Pengfei Liu, Xiaofan Zhang*
+- 🌟 [**DeepSeek-R1**](https://github.com/deepseek-ai/DeepSeek-R1) - deepseek-ai ![Star](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-R1.svg?style=social&label=Star)
+- [**Kimi-k1.5**](https://github.com/MoonshotAI/Kimi-k1.5) - MoonshotAI ![Star](https://img.shields.io/github/stars/MoonshotAI/Kimi-k1.5.svg?style=social&label=Star)
+
+	 *Scaling Reinforcement Learning with LLMs*
 - 🌟 [Sky-T1: Train your own O1 preview model within $450](https://novasky-ai.github.io/posts/sky-t1/) 
 
 	 · ([SkyThought](https://github.com/NovaSky-AI/SkyThought) - NovaSky-AI) ![Star](https://img.shields.io/github/stars/NovaSky-AI/SkyThought.svg?style=social&label=Star)
@@ -349,7 +360,7 @@
 
 ## Chain Of Thought
 
-- **Audio-CoT: Exploring Chain-of-Thought Reasoning in Large Audio Language
+- **Audio-CoT: Exploring Chain-of-Thought Reasoning in Large Audio Language 
   Model**, `arXiv, 2501.07246`, [arxiv](http://arxiv.org/abs/2501.07246v1), [pdf](http://arxiv.org/pdf/2501.07246v1.pdf), cication: [**-1**](None) 
 
 	 *Ziyang Ma, Zhuo Chen, Yuping Wang, ..., Eng Siong Chng, Xie Chen*

@@ -20,6 +20,9 @@
 
 ## LLM Data
 
+- 🌟 **Towards Best Practices for Open Datasets for LLM Training**, `arXiv, 2501.08365`, [arxiv](http://arxiv.org/abs/2501.08365v1), [pdf](http://arxiv.org/pdf/2501.08365v1.pdf), cication: [**-1**](None) 
+
+	 *Stefan Baack, Stella Biderman, Kasia Odrozek, ..., Lee White, Thomas Wolf*
 - [Improving Foundation Models Using Expert Human Data](https://llm-class.github.io/speakers.html) 
 - **Bridging the Data Provenance Gap Across Text, Speech and Video**, `arXiv, 2412.17847`, [arxiv](http://arxiv.org/abs/2412.17847v1), [pdf](http://arxiv.org/pdf/2412.17847v1.pdf), cication: [**-1**](None) 
 

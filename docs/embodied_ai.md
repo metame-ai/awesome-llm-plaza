@@ -17,7 +17,7 @@
 
 ## Embodied AI
 
-- **OmniManip: Towards General Robotic Manipulation via Object-Centric
+- **OmniManip: Towards General Robotic Manipulation via Object-Centric 
   Interaction Primitives as Spatial Constraints**, `arXiv, 2501.03841`, [arxiv](http://arxiv.org/abs/2501.03841v1), [pdf](http://arxiv.org/pdf/2501.03841v1.pdf), cication: [**-1**](None) 
 
 	 *Mingjie Pan, Jiyao Zhang, Tianshu Wu, ..., Wenlong Gao, Hao Dong* · ([omnimanip.github](https://omnimanip.github.io/))

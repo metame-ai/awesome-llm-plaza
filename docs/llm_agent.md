@@ -219,6 +219,7 @@
 
 ## Multi Modal
 
+- [**OmAgent**](https://github.com/om-ai-lab/OmAgent) - om-ai-lab ![Star](https://img.shields.io/github/stars/om-ai-lab/OmAgent.svg?style=social&label=Star)
 - **Vision Search Assistant: Empower Vision-Language Models as Multimodal 
   Search Engines**, `arXiv, 2410.21220`, [arxiv](http://arxiv.org/abs/2410.21220v1), [pdf](http://arxiv.org/pdf/2410.21220v1.pdf), cication: [**-1**](None) 
 
@@ -240,7 +241,7 @@
 
 ## Projects
 
-- [**eliza**](https://github.com/elizaOS/eliza) - elizaOS ![Star](https://img.shields.io/github/stars/elizaOS/eliza.svg?style=social&label=Star)
+- [**eliza**](https://github.com/elizaOS/eliza) - elizaOS ![Star](https://img.shields.io/github/stars/elizaOS/eliza.svg?style=social&label=Star) 
 - [**crewAI**](https://github.com/crewAIInc/crewAI) - crewAIInc ![Star](https://img.shields.io/github/stars/crewAIInc/crewAI.svg?style=social&label=Star) 
 
 	 *Production-grade framework for orchestrating sophisticated AI agent systems.*
