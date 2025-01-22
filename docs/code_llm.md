@@ -63,6 +63,10 @@
 
 ## Evaluation
 
+- **The Heap: A Contamination-Free Multilingual Code Dataset for Evaluating
+  Large Language Models**, `arXiv, 2501.09653`, [arxiv](http://arxiv.org/abs/2501.09653v1), [pdf](http://arxiv.org/pdf/2501.09653v1.pdf), cication: [**-1**](None) 
+
+	 *Jonathan Katzy, Razvan Mihai Popescu, Arie van Deursen, ..., Maliheh Izadi*
 - 🌟 **CodeElo: Benchmarking Competition-level Code Generation of LLMs with 
   Human-comparable Elo Ratings**, `arXiv, 2501.01257`, [arxiv](http://arxiv.org/abs/2501.01257v2), [pdf](http://arxiv.org/pdf/2501.01257v2.pdf), cication: [**-1**](None) 
 

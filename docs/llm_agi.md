@@ -13,6 +13,9 @@
 
 ## World Model
 
+- **GameFactory: Creating New Games with Generative Interactive Videos**, `arXiv, 2501.08325`, [arxiv](http://arxiv.org/abs/2501.08325v1), [pdf](http://arxiv.org/pdf/2501.08325v1.pdf), cication: [**-1**](None) 
+
+	 *Jiwen Yu, Yiran Qin, Xintao Wang, ..., Di Zhang, Xihui Liu* · ([vvictoryuki.github](https://vvictoryuki.github.io/gamefactory/)) · ([huggingface](https://huggingface.co/datasets/KwaiVGI/GameFactory-Dataset)) · ([GameFactory](https://github.com/KwaiVGI/GameFactory) - KwaiVGI) ![Star](https://img.shields.io/github/stars/KwaiVGI/GameFactory.svg?style=social&label=Star)
 - 🌟 [**Cosmos**](https://github.com/NVIDIA/Cosmos) - NVIDIA ![Star](https://img.shields.io/github/stars/NVIDIA/Cosmos.svg?style=social&label=Star) 
 - **ZeroHSI: Zero-Shot 4D Human-Scene Interaction by Video Generation**, `arXiv, 2412.18600`, [arxiv](http://arxiv.org/abs/2412.18600v1), [pdf](http://arxiv.org/pdf/2412.18600v1.pdf), cication: [**-1**](None) 
 

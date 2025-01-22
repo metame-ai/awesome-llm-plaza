@@ -17,6 +17,9 @@
 
 ## Hallucination
 
+- **HALoGEN: Fantastic LLM Hallucinations and Where to Find Them**, `arXiv, 2501.08292`, [arxiv](http://arxiv.org/abs/2501.08292v1), [pdf](http://arxiv.org/pdf/2501.08292v1.pdf), cication: [**-1**](None) 
+
+	 *Abhilasha Ravichander, Shrusti Ghela, David Wadden, ..., Yejin Choi*
 - **The FACTS Grounding Leaderboard: Benchmarking LLMs' Ability to Ground 
   Responses to Long-Form Input**, `arXiv, 2501.03200`, [arxiv](http://arxiv.org/abs/2501.03200v1), [pdf](http://arxiv.org/pdf/2501.03200v1.pdf), cication: [**-1**](None) 
 

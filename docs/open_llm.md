@@ -64,8 +64,12 @@
 
 ## Chinese Models
 
-- [InternLM3 has open-sourced an 8-billion parameter instruction model, InternLM3-8B-Instruct, designed for general-purpose usage and advanced reasoning.](https://huggingface.co/internlm/internlm3-8b-instruct)  🤗
-- [Diving into MiniMax01 405B MoE](https://huggingface.co/blog/eliebak/minimax01-deepdive)  🤗
+- **MiniMax-01: Scaling Foundation Models with Lightning Attention**, `arXiv, 2501.08313`, [arxiv](http://arxiv.org/abs/2501.08313v1), [pdf](http://arxiv.org/pdf/2501.08313v1.pdf), cication: [**-1**](None) 
+
+	 *MiniMax, Aonian Li, Bangwei Gong, ..., Zhuo Jiang, Zijia Wu*
+- [github.com](https://github.com/MiniMax-AI)
+- [InternLM3 has open-sourced an 8-billion parameter instruction model, InternLM3-8B-Instruct, designed for general-purpose usage and advanced reasoning.](https://huggingface.co/internlm/internlm3-8b-instruct)  🤗 
+- [Diving into MiniMax01 405B MoE](https://huggingface.co/blog/eliebak/minimax01-deepdive)  🤗 
 
 	 · ([𝕏](https://x.com/eliebakouch/status/1879458716455759908))
 - **Xmodel-2 Technical Report**, `arXiv, 2412.19638`, [arxiv](http://arxiv.org/abs/2412.19638v1), [pdf](http://arxiv.org/pdf/2412.19638v1.pdf), cication: [**-1**](None) 

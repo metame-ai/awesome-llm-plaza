@@ -18,6 +18,10 @@
 
 ## RAG
 
+- 🌟 **OmniThink: Expanding Knowledge Boundaries in Machine Writing through
+  Thinking**, `arXiv, 2501.09751`, [arxiv](http://arxiv.org/abs/2501.09751v1), [pdf](http://arxiv.org/pdf/2501.09751v1.pdf), cication: [**-1**](None) 
+
+	 *Zekun Xi, Wenbiao Yin, Jizhan Fang, ..., Fei Huang, Huajun Chen* · ([zjunlp.github](https://zjunlp.github.io/project/OmniThink/))
 - [Knowledge Models Combine Retrieval with Generation: An Introduction to RAG](https://llm-class.github.io/speakers.html) 
 - **Personalized Graph-Based Retrieval for Large Language Models**, `arXiv, 2501.02157`, [arxiv](http://arxiv.org/abs/2501.02157v1), [pdf](http://arxiv.org/pdf/2501.02157v1.pdf), cication: [**-1**](None) 
 
@@ -103,12 +107,18 @@
 
 ## Embedding
 
-- [Train 400x faster Static Embedding Models with Sentence Transformers](https://huggingface.co/blog/static-embeddings)  🤗
+- [Train 400x faster Static Embedding Models with Sentence Transformers](https://huggingface.co/blog/static-embeddings)  🤗 
 
 	 · ([𝕏](https://x.com/tomaarsen/status/1879547342346666450))
 
 ## Evaluation
 
+- **WebWalker: Benchmarking LLMs in Web Traversal**, `arXiv, 2501.07572`, [arxiv](http://arxiv.org/abs/2501.07572v2), [pdf](http://arxiv.org/pdf/2501.07572v2.pdf), cication: [**-1**](None) 
+
+	 *Jialong Wu, Wenbiao Yin, Yong Jiang, ..., Pengjun Xie, Fei Huang* · ([WebWalker](https://github.com/Alibaba-NLP/WebWalker) - Alibaba-NLP) ![Star](https://img.shields.io/github/stars/Alibaba-NLP/WebWalker.svg?style=social&label=Star)
+- 🌟 **MMDocIR: Benchmarking Multi-Modal Retrieval for Long Documents**, `arXiv, 2501.08828`, [arxiv](http://arxiv.org/abs/2501.08828v1), [pdf](http://arxiv.org/pdf/2501.08828v1.pdf), cication: [**-1**](None) 
+
+	 *Kuicai Dong, Yujing Chang, Xin Deik Goh, ..., Ruiming Tang, Yong Liu*
 - **OmniEval: An Omnidirectional and Automatic RAG Evaluation Benchmark in 
   Financial Domain**, `arXiv, 2412.13018`, [arxiv](http://arxiv.org/abs/2412.13018v1), [pdf](http://arxiv.org/pdf/2412.13018v1.pdf), cication: [**-1**](None) 
 

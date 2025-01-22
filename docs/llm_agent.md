@@ -219,7 +219,7 @@
 
 ## Multi Modal
 
-- [**OmAgent**](https://github.com/om-ai-lab/OmAgent) - om-ai-lab ![Star](https://img.shields.io/github/stars/om-ai-lab/OmAgent.svg?style=social&label=Star)
+- [**OmAgent**](https://github.com/om-ai-lab/OmAgent) - om-ai-lab ![Star](https://img.shields.io/github/stars/om-ai-lab/OmAgent.svg?style=social&label=Star) 
 - **Vision Search Assistant: Empower Vision-Language Models as Multimodal 
   Search Engines**, `arXiv, 2410.21220`, [arxiv](http://arxiv.org/abs/2410.21220v1), [pdf](http://arxiv.org/pdf/2410.21220v1.pdf), cication: [**-1**](None) 
 

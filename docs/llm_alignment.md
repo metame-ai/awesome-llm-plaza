@@ -65,4 +65,4 @@
 
 ## Misc
 
-- [How to approach post-training for AI applications](https://www.youtube.com/watch?v=grpc-Wyy-Zg)  :clapper:
+- [How to approach post-training for AI applications](https://www.youtube.com/watch?v=grpc-Wyy-Zg)  :clapper: 

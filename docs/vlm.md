@@ -157,6 +157,14 @@
 
 ## Video
 
+- **Omni-RGPT: Unifying Image and Video Region-level Understanding via Token
+  Marks**, `arXiv, 2501.08326`, [arxiv](http://arxiv.org/abs/2501.08326v1), [pdf](http://arxiv.org/pdf/2501.08326v1.pdf), cication: [**-1**](None) 
+
+	 *Miran Heo, Min-Hung Chen, De-An Huang, ..., Yu-Chiang Frank Wang, Ryo Hachiuma* · ([miranheo.github](https://miranheo.github.io/omni-rgpt/))
+- **Tarsier2: Advancing Large Vision-Language Models from Detailed Video
+  Description to Comprehensive Video Understanding**, `arXiv, 2501.07888`, [arxiv](http://arxiv.org/abs/2501.07888v2), [pdf](http://arxiv.org/pdf/2501.07888v2.pdf), cication: [**-1**](None) 
+
+	 *Liping Yuan, Jiawei Wang, Haomiao Sun, ..., Yuchen Zhang, Yuan Lin*
 - **An Empirical Study of Autoregressive Pre-training from Videos**, `arXiv, 2501.05453`, [arxiv](http://arxiv.org/abs/2501.05453v1), [pdf](http://arxiv.org/pdf/2501.05453v1.pdf), cication: [**-1**](None) 
 
 	 *Jathushan Rajasegaran, Ilija Radosavovic, Rahul Ravishankar, ..., Christoph Feichtenhofer, Jitendra Malik* · ([brjathu.github](https://brjathu.github.io/toto/))
@@ -236,6 +244,10 @@
 
 ## Encoder
 
+- **Learnings from Scaling Visual Tokenizers for Reconstruction and
+  Generation**, `arXiv, 2501.09755`, [arxiv](http://arxiv.org/abs/2501.09755v1), [pdf](http://arxiv.org/pdf/2501.09755v1.pdf), cication: [**-1**](None) 
+
+	 *Philippe Hansen-Estruch, David Yan, Ching-Yao Chung, ..., Peter Vajda, Xinlei Chen* · ([vitok.github](https://vitok.github.io/))
 - **Unifying Specialized Visual Encoders for Video Language Models**, `arXiv, 2501.01426`, [arxiv](http://arxiv.org/abs/2501.01426v1), [pdf](http://arxiv.org/pdf/2501.01426v1.pdf), cication: [**-1**](None) 
 
 	 *Jihoon Chung, Tyler Zhu, Max Gonzalez Saez-Diez, ..., Honglu Zhou, Olga Russakovsky* · ([tylerzhu](https://tylerzhu.com/merv)) · ([merv](https://github.com/princetonvisualai/merv) - princetonvisualai) ![Star](https://img.shields.io/github/stars/princetonvisualai/merv.svg?style=social&label=Star)
@@ -331,6 +343,9 @@
 
 ## Reasoning
 
+- **Imagine while Reasoning in Space: Multimodal Visualization-of-Thought**, `arXiv, 2501.07542`, [arxiv](http://arxiv.org/abs/2501.07542v1), [pdf](http://arxiv.org/pdf/2501.07542v1.pdf), cication: [**-1**](None) 
+
+	 *Chengzu Li, Wenshan Wu, Huanyu Zhang, ..., Ivan Vulić, Furu Wei*
 - 🌟 **LlamaV-o1: Rethinking Step-by-step Visual Reasoning in LLMs**, `arXiv, 2501.06186`, [arxiv](http://arxiv.org/abs/2501.06186v1), [pdf](http://arxiv.org/pdf/2501.06186v1.pdf), cication: [**-1**](None) 
 
 	 *Omkar Thawakar, Dinura Dissanayake, Ketan More, ..., Fahad Shahbaz Khan, Salman Khan*

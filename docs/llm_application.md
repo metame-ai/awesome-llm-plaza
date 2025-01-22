@@ -48,6 +48,13 @@
 
 ## Science
 
+- **ChemAgent: Self-updating Library in Large Language Models Improves
+  Chemical Reasoning**, `arXiv, 2501.06590`, [arxiv](http://arxiv.org/abs/2501.06590v1), [pdf](http://arxiv.org/pdf/2501.06590v1.pdf), cication: [**-1**](None) 
+
+	 *Xiangru Tang, Tianyu Hu, Muyang Ye, ..., Arman Cohan, Mark Gerstein* · ([chemagent](https://github.com/gersteinlab/chemagent) - gersteinlab) ![Star](https://img.shields.io/github/stars/gersteinlab/chemagent.svg?style=social&label=Star)
+- 🌟 **PaSa: An LLM Agent for Comprehensive Academic Paper Search**, `arXiv, 2501.10120`, [arxiv](http://arxiv.org/abs/2501.10120v1), [pdf](http://arxiv.org/pdf/2501.10120v1.pdf), cication: [**-1**](None) 
+
+	 *Yichen He, Guanhua Huang, Peiyuan Feng, ..., Hang Li, Weinan E* · ([pasa](https://github.com/bytedance/pasa) - bytedance) ![Star](https://img.shields.io/github/stars/bytedance/pasa.svg?style=social&label=Star)
 - **Agent Laboratory: Using LLM Agents as Research Assistants**, `arXiv, 2501.04227`, [arxiv](http://arxiv.org/abs/2501.04227v1), [pdf](http://arxiv.org/pdf/2501.04227v1.pdf), cication: [**-1**](None) 
 
 	 *Samuel Schmidgall, Yusheng Su, Ze Wang, ..., Zicheng Liu, Emad Barsoum* · ([agentlaboratory.github](https://agentlaboratory.github.io/))
@@ -151,10 +158,14 @@
 
 ## Writing
 
+- 🌟 **OmniThink: Expanding Knowledge Boundaries in Machine Writing through
+  Thinking**, `arXiv, 2501.09751`, [arxiv](http://arxiv.org/abs/2501.09751v1), [pdf](http://arxiv.org/pdf/2501.09751v1.pdf), cication: [**-1**](None) 
+
+	 *Zekun Xi, Wenbiao Yin, Jizhan Fang, ..., Fei Huang, Huajun Chen* · ([zjunlp.github](https://zjunlp.github.io/project/OmniThink/))
 
 ## Medical
 
-- **From Medprompt to o1: Exploration of Run-Time Strategies for Medical
+- **From Medprompt to o1: Exploration of Run-Time Strategies for Medical 
   Challenge Problems and Beyond**, `arXiv, 2411.03590`, [arxiv](http://arxiv.org/abs/2411.03590v1), [pdf](http://arxiv.org/pdf/2411.03590v1.pdf), cication: [**-1**](None) 
 
 	 *Harsha Nori, Naoto Usuyama, Nicholas King, ..., Sheng Zhang, Eric Horvitz*

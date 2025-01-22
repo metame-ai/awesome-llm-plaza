@@ -18,6 +18,10 @@
 
 ## Survey
 
+- 🌟 **Towards Large Reasoning Models: A Survey on Scaling LLM Reasoning
+  Capabilities**, `arXiv, 2501.09686`, [arxiv](http://arxiv.org/abs/2501.09686v2), [pdf](http://arxiv.org/pdf/2501.09686v2.pdf), cication: [**-1**](None) 
+
+	 *Fengli Xu, Qianyue Hao, Zefang Zong, ..., Chen Gao, Yong Li*
 - 🌟 **Test-time Computing: from System-1 Thinking to System-2 Thinking**, `arXiv, 2501.02497`, [arxiv](http://arxiv.org/abs/2501.02497v1), [pdf](http://arxiv.org/pdf/2501.02497v1.pdf), cication: [**-1**](None) 
 
 	 *Yixin Ji, Juntao Li, Hai Ye, ..., Linjian Mo, Min Zhang* · ([Awesome_Test_Time_LLMs](https://github.com/Dereck0602/Awesome_Test_Time_LLMs) - Dereck0602) ![Star](https://img.shields.io/github/stars/Dereck0602/Awesome_Test_Time_LLMs.svg?style=social&label=Star)
@@ -27,6 +31,21 @@
 
 ## Reasoning
 
+- **PokerBench: Training Large Language Models to become Professional Poker
+  Players**, `arXiv, 2501.08328`, [arxiv](http://arxiv.org/abs/2501.08328v1), [pdf](http://arxiv.org/pdf/2501.08328v1.pdf), cication: [**-1**](None) 
+
+	 *Richard Zhuang, Akshat Gupta, Richard Yang, ..., Zhengyu Li, Gopala Anumanchipalli* · ([pokerbench](https://github.com/pokerllm/pokerbench) - pokerllm) ![Star](https://img.shields.io/github/stars/pokerllm/pokerbench.svg?style=social&label=Star)
+- 🌟 **OmniThink: Expanding Knowledge Boundaries in Machine Writing through
+  Thinking**, `arXiv, 2501.09751`, [arxiv](http://arxiv.org/abs/2501.09751v1), [pdf](http://arxiv.org/pdf/2501.09751v1.pdf), cication: [**-1**](None) 
+
+	 *Zekun Xi, Wenbiao Yin, Jizhan Fang, ..., Fei Huang, Huajun Chen* · ([zjunlp.github](https://zjunlp.github.io/project/OmniThink/))
+- 🌟 **Evolving Deeper LLM Thinking**, `arXiv, 2501.09891`, [arxiv](http://arxiv.org/abs/2501.09891v1), [pdf](http://arxiv.org/pdf/2501.09891v1.pdf), cication: [**-1**](None) 
+
+	 *Kuang-Huei Lee, Ian Fischer, Yueh-Hua Wu, ..., Dale Schuurmans, Xinyun Chen*
+- **Multiple Choice Questions: Reasoning Makes Large Language Models (LLMs)
+  More Self-Confident Even When They Are Wrong**, `arXiv, 2501.09775`, [arxiv](http://arxiv.org/abs/2501.09775v1), [pdf](http://arxiv.org/pdf/2501.09775v1.pdf), cication: [**-1**](None) 
+
+	 *Tairan Fu, Javier Conde, Gonzalo Martínez, ..., María Grandury, Pedro Reviriego*
 - **Multiagent Finetuning: Self Improvement with Diverse Reasoning Chains**, `arXiv, 2501.05707`, [arxiv](http://arxiv.org/abs/2501.05707v1), [pdf](http://arxiv.org/pdf/2501.05707v1.pdf), cication: [**-1**](None) 
 
 	 *Vighnesh Subramaniam, Yilun Du, Joshua B. Tenenbaum, ..., Shuang Li, Igor Mordatch* · ([llm-multiagent-ft.github](https://llm-multiagent-ft.github.io/))
@@ -198,12 +217,12 @@
 - 🌟 [Meta Chain-of-Thought: Unlocking System 2 Reasoning in LLMs](https://www.synthlabs.ai/) 
 
 	 · ([𝕏](https://x.com/synth_labs/status/1879277225977209113))
-- **O1 Replication Journey -- Part 3: Inference-time Scaling for Medical
+- **O1 Replication Journey -- Part 3: Inference-time Scaling for Medical 
   Reasoning**, `arXiv, 2501.06458`, [arxiv](http://arxiv.org/abs/2501.06458v1), [pdf](http://arxiv.org/pdf/2501.06458v1.pdf), cication: [**-1**](None) 
 
 	 *Zhongzhen Huang, Gui Geng, Shengyi Hua, ..., Pengfei Liu, Xiaofan Zhang*
-- 🌟 [**DeepSeek-R1**](https://github.com/deepseek-ai/DeepSeek-R1) - deepseek-ai ![Star](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-R1.svg?style=social&label=Star)
-- [**Kimi-k1.5**](https://github.com/MoonshotAI/Kimi-k1.5) - MoonshotAI ![Star](https://img.shields.io/github/stars/MoonshotAI/Kimi-k1.5.svg?style=social&label=Star)
+- 🌟 [**DeepSeek-R1**](https://github.com/deepseek-ai/DeepSeek-R1) - deepseek-ai ![Star](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-R1.svg?style=social&label=Star) 
+- [**Kimi-k1.5**](https://github.com/MoonshotAI/Kimi-k1.5) - MoonshotAI ![Star](https://img.shields.io/github/stars/MoonshotAI/Kimi-k1.5.svg?style=social&label=Star) 
 
 	 *Scaling Reinforcement Learning with LLMs*
 - 🌟 [Sky-T1: Train your own O1 preview model within $450](https://novasky-ai.github.io/posts/sky-t1/) 

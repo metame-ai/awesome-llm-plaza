@@ -92,6 +92,9 @@
 
 ## Evaluation
 
+- 🌟 **MMDocIR: Benchmarking Multi-Modal Retrieval for Long Documents**, `arXiv, 2501.08828`, [arxiv](http://arxiv.org/abs/2501.08828v1), [pdf](http://arxiv.org/pdf/2501.08828v1.pdf), cication: [**-1**](None) 
+
+	 *Kuicai Dong, Yujing Chang, Xin Deik Goh, ..., Ruiming Tang, Yong Liu*
 
 ## Projects
 

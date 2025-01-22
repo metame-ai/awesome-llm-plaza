@@ -93,6 +93,9 @@
 
 ## Synthetic
 
+- [**curator**](https://github.com/bespokelabsai/curator) - bespokelabsai ![Star](https://img.shields.io/github/stars/bespokelabsai/curator.svg?style=social&label=Star)
+
+	 · ([𝕏](https://x.com/madiator/status/1879579213554147665))
 - [Best of 2024: Synthetic Data / Smol Models, Loubna Ben Allal, HuggingFace [LS Live! @ NeurIPS 2024]](https://www.youtube.com/watch?v=AjmdDy7Rzx0)  :clapper: 
 - **How to Synthesize Text Data without Model Collapse?**, `arXiv, 2412.14689`, [arxiv](http://arxiv.org/abs/2412.14689v1), [pdf](http://arxiv.org/pdf/2412.14689v1.pdf), cication: [**-1**](None) 
 

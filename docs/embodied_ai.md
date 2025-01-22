@@ -17,6 +17,9 @@
 
 ## Embodied AI
 
+- **FAST: Efficient Action Tokenization for Vision-Language-Action Models**, `arXiv, 2501.09747`, [arxiv](http://arxiv.org/abs/2501.09747v1), [pdf](http://arxiv.org/pdf/2501.09747v1.pdf), cication: [**-1**](None) 
+
+	 *Karl Pertsch, Kyle Stachowicz, Brian Ichter, ..., Chelsea Finn, Sergey Levine* · ([𝕏](https://x.com/KarlPertsch/status/1879960952042660063)) · ([pi](https://www.pi.website/research/fast))
 - **OmniManip: Towards General Robotic Manipulation via Object-Centric 
   Interaction Primitives as Spatial Constraints**, `arXiv, 2501.03841`, [arxiv](http://arxiv.org/abs/2501.03841v1), [pdf](http://arxiv.org/pdf/2501.03841v1.pdf), cication: [**-1**](None) 
 
