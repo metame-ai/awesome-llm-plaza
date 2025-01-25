@@ -31,6 +31,10 @@
 
 ## Agents
 
+- **Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in
+  Realistic Environments**, `arXiv, 2501.10893`, [arxiv](http://arxiv.org/abs/2501.10893v1), [pdf](http://arxiv.org/pdf/2501.10893v1.pdf), cication: [**-1**](None) 
+
+	 *Hongjin Su, Ruoxi Sun, Jinsung Yoon, ..., Tao Yu, Sercan Ö. Arık*
 - **Agent Laboratory: Using LLM Agents as Research Assistants**, `arXiv, 2501.04227`, [arxiv](http://arxiv.org/abs/2501.04227v1), [pdf](http://arxiv.org/pdf/2501.04227v1.pdf), cication: [**-1**](None) 
 
 	 *Samuel Schmidgall, Yusheng Su, Ze Wang, ..., Zicheng Liu, Emad Barsoum* · ([agentlaboratory.github](https://agentlaboratory.github.io/))
@@ -101,6 +105,14 @@
 
 ## UI Agent
 
+- 🌟 [CogAgent-9B-20241220 技术报告](https://cogagent.aminer.cn/blog) 
+- [Introducing Operator](https://openai.com/index/introducing-operator/) 
+- 🌟 **UI-TARS: Pioneering Automated GUI Interaction with Native Agents**, `arXiv, 2501.12326`, [arxiv](http://arxiv.org/abs/2501.12326v1), [pdf](http://arxiv.org/pdf/2501.12326v1.pdf), cication: [**-1**](None) 
+
+	 *Yujia Qin, Yining Ye, Junjie Fang, ..., Xin Liu, Guang Shi*
+- **Mobile-Agent-E: Self-Evolving Mobile Assistant for Complex Tasks**, `arXiv, 2501.11733`, [arxiv](http://arxiv.org/abs/2501.11733v1), [pdf](http://arxiv.org/pdf/2501.11733v1.pdf), cication: [**-1**](None) 
+
+	 *Zhenhailong Wang, Haiyang Xu, Junyang Wang, ..., Fei Huang, Heng Ji* · ([x-plug.github](https://x-plug.github.io/MobileAgent/))
 - [**browserless**](https://github.com/browserless/browserless) - browserless ![Star](https://img.shields.io/github/stars/browserless/browserless.svg?style=social&label=Star) 
 - **InfiGUIAgent: A Multimodal Generalist GUI Agent with Native Reasoning 
   and Reflection**, `arXiv, 2501.04575`, [arxiv](http://arxiv.org/abs/2501.04575v1), [pdf](http://arxiv.org/pdf/2501.04575v1.pdf), cication: [**-1**](None) 
@@ -241,6 +253,7 @@
 
 ## Projects
 
+- [**agent-service-toolkit**](https://github.com/JoshuaC215/agent-service-toolkit) - JoshuaC215 ![Star](https://img.shields.io/github/stars/JoshuaC215/agent-service-toolkit.svg?style=social&label=Star)
 - [**eliza**](https://github.com/elizaOS/eliza) - elizaOS ![Star](https://img.shields.io/github/stars/elizaOS/eliza.svg?style=social&label=Star) 
 - [**crewAI**](https://github.com/crewAIInc/crewAI) - crewAIInc ![Star](https://img.shields.io/github/stars/crewAIInc/crewAI.svg?style=social&label=Star) 
 
@@ -268,10 +281,12 @@
 
 ## Products
 
+- [Computer-Using Agent](https://openai.com/index/computer-using-agent/) 
 - [Common Sense Agents, a new backbone for agentic creative computing](https://x.com/CSM_ai/status/1861177717489561778)  𝕏 
 
 ## Misc
 
+- [Language Agents (Shunyu Yao PhD Defense)](https://www.youtube.com/watch?v=zwfE6J2BIR4)  :clapper:
 - [Agents](https://www.kaggle.com/whitepaper-agents) 
 - [Anthropic总结智能体年度经验：最成功的≠最复杂的](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650949769&idx=3&sn=4108a7288e67fbafd3b28a8f3529c8c1&chksm=853c2ced6c02fbac07c008c489ee3b5f6888f77c36e6d48adbdeb1d232a7cc8d1c6a58b9a1c1&scene=0&xtrack=1) 
 

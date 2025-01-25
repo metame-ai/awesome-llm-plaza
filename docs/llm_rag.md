@@ -18,7 +18,10 @@
 
 ## RAG
 
-- 🌟 **OmniThink: Expanding Knowledge Boundaries in Machine Writing through
+- **MiniRAG: Towards Extremely Simple Retrieval-Augmented Generation**, `arXiv, 2501.06713`, [arxiv](http://arxiv.org/abs/2501.06713v2), [pdf](http://arxiv.org/pdf/2501.06713v2.pdf), cication: [**-1**](None) 
+
+	 *Tianyu Fan, Jingyuan Wang, Xubin Ren, ..., Chao Huang* · ([MiniRAG](https://github.com/HKUDS/MiniRAG) - HKUDS) ![Star](https://img.shields.io/github/stars/HKUDS/MiniRAG.svg?style=social&label=Star)
+- 🌟 **OmniThink: Expanding Knowledge Boundaries in Machine Writing through 
   Thinking**, `arXiv, 2501.09751`, [arxiv](http://arxiv.org/abs/2501.09751v1), [pdf](http://arxiv.org/pdf/2501.09751v1.pdf), cication: [**-1**](None) 
 
 	 *Zekun Xi, Wenbiao Yin, Jizhan Fang, ..., Fei Huang, Huajun Chen* · ([zjunlp.github](https://zjunlp.github.io/project/OmniThink/))
@@ -156,6 +159,7 @@
 
 ## Products
 
+- [Introducing Citations on the Anthropic API](https://www.anthropic.com/news/introducing-citations-api) 
 
 ## Misc
 

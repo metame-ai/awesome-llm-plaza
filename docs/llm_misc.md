@@ -233,6 +233,13 @@
 
 ## Misc
 
+- **Model Equality Testing: Which Model Is This API Serving?**, `arXiv, 2410.20247`, [arxiv](http://arxiv.org/abs/2410.20247v1), [pdf](http://arxiv.org/pdf/2410.20247v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=3413611661521382563&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII) 
+
+	 *Irena Gao, Percy Liang, Carlos Guestrin* · ([𝕏](https://x.com/irena_gao/status/1851273717504159911))
+- **Can LLMs Design Good Questions Based on Context?**, `arXiv, 2501.03491`, [arxiv](http://arxiv.org/abs/2501.03491v1), [pdf](http://arxiv.org/pdf/2501.03491v1.pdf), cication: [**-1**](None) 
+
+	 *Yueheng Zhang, Xiaoyuan Liu, Yiyou Sun, ..., Basel Alomair, Dawn Song*
+- [**awesome-generative-ai**](https://github.com/steven2358/awesome-generative-ai) - steven2358 ![Star](https://img.shields.io/github/stars/steven2358/awesome-generative-ai.svg?style=social&label=Star)
 - [Advanced Natural Language Processing](https://cmu-l3.github.io/anlp-spring2025/) 
 - [Speech and Language Processing(3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/) 
 - [CIS 7000 - Large Language Models](https://llm-class.github.io/) 

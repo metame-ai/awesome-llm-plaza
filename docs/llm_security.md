@@ -13,6 +13,9 @@
 
 ## LLM Security
 
+- [Trading Inference-Time Compute for Adversarial Robustness](https://openai.com/index/trading-inference-time-compute-for-adversarial-robustness/) 
+
+	 · ([cdn.openai](https://cdn.openai.com/papers/trading-inference-time-compute-for-adversarial-robustness-20250121_1.pdf))
 - **Lessons From Red Teaming 100 Generative AI Products**, `arXiv, 2501.07238`, [arxiv](http://arxiv.org/abs/2501.07238v1), [pdf](http://arxiv.org/pdf/2501.07238v1.pdf), cication: [**-1**](None) 
 
 	 *Blake Bullwinkel, Amanda Minnich, Shiven Chawla, ..., Chang Kawaguchi, Mark Russinovich*

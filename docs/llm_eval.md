@@ -20,6 +20,9 @@
 
 ## LLM Evaluation
 
+- 🌟 [Humanity's Last Exam](https://lastexam.ai/) 
+
+	 · ([hle](https://github.com/centerforaisafety/hle) - centerforaisafety) ![Star](https://img.shields.io/github/stars/centerforaisafety/hle.svg?style=social&label=Star)
 - [Holistic Evaluation of Vision-Language Models](https://crfm.stanford.edu/helm/vhelm/v2.1.1/) 
 - **The FACTS Grounding Leaderboard: Benchmarking LLMs' Ability to Ground 
   Responses to Long-Form Input**, `arXiv, 2501.03200`, [arxiv](http://arxiv.org/abs/2501.03200v1), [pdf](http://arxiv.org/pdf/2501.03200v1.pdf), cication: [**-1**](None) 

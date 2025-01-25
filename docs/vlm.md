@@ -157,11 +157,15 @@
 
 ## Video
 
-- **Omni-RGPT: Unifying Image and Video Region-level Understanding via Token
+- 🌟 **VideoLLaMA 3: Frontier Multimodal Foundation Models for Image and Video
+  Understanding**, `arXiv, 2501.13106`, [arxiv](http://arxiv.org/abs/2501.13106v2), [pdf](http://arxiv.org/pdf/2501.13106v2.pdf), cication: [**-1**](None) 
+
+	 *Boqiang Zhang, Kehan Li, Zesen Cheng, ..., Lidong Bing, Deli Zhao* · ([VideoLLaMA3](https://github.com/DAMO-NLP-SG/VideoLLaMA3) - DAMO-NLP-SG) ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/VideoLLaMA3.svg?style=social&label=Star)
+- **Omni-RGPT: Unifying Image and Video Region-level Understanding via Token 
   Marks**, `arXiv, 2501.08326`, [arxiv](http://arxiv.org/abs/2501.08326v1), [pdf](http://arxiv.org/pdf/2501.08326v1.pdf), cication: [**-1**](None) 
 
 	 *Miran Heo, Min-Hung Chen, De-An Huang, ..., Yu-Chiang Frank Wang, Ryo Hachiuma* · ([miranheo.github](https://miranheo.github.io/omni-rgpt/))
-- **Tarsier2: Advancing Large Vision-Language Models from Detailed Video
+- **Tarsier2: Advancing Large Vision-Language Models from Detailed Video 
   Description to Comprehensive Video Understanding**, `arXiv, 2501.07888`, [arxiv](http://arxiv.org/abs/2501.07888v2), [pdf](http://arxiv.org/pdf/2501.07888v2.pdf), cication: [**-1**](None) 
 
 	 *Liping Yuan, Jiawei Wang, Haomiao Sun, ..., Yuchen Zhang, Yuan Lin*
@@ -244,7 +248,7 @@
 
 ## Encoder
 
-- **Learnings from Scaling Visual Tokenizers for Reconstruction and
+- **Learnings from Scaling Visual Tokenizers for Reconstruction and 
   Generation**, `arXiv, 2501.09755`, [arxiv](http://arxiv.org/abs/2501.09755v1), [pdf](http://arxiv.org/pdf/2501.09755v1.pdf), cication: [**-1**](None) 
 
 	 *Philippe Hansen-Estruch, David Yan, Ching-Yao Chung, ..., Peter Vajda, Xinlei Chen* · ([vitok.github](https://vitok.github.io/))
@@ -464,6 +468,7 @@
 
 ## Efficient
 
+- [SmolVLM Grows Smaller – Introducing the 250M & 500M Models!](https://huggingface.co/blog/smolervlm)  🤗
 - **LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One 
   Vision Token**, `arXiv, 2501.03895`, [arxiv](http://arxiv.org/abs/2501.03895v1), [pdf](http://arxiv.org/pdf/2501.03895v1.pdf), cication: [**-1**](None) 
 

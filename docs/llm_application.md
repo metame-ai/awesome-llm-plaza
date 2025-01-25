@@ -48,7 +48,7 @@
 
 ## Science
 
-- **ChemAgent: Self-updating Library in Large Language Models Improves
+- **ChemAgent: Self-updating Library in Large Language Models Improves 
   Chemical Reasoning**, `arXiv, 2501.06590`, [arxiv](http://arxiv.org/abs/2501.06590v1), [pdf](http://arxiv.org/pdf/2501.06590v1.pdf), cication: [**-1**](None) 
 
 	 *Xiangru Tang, Tianyu Hu, Muyang Ye, ..., Arman Cohan, Mark Gerstein* · ([chemagent](https://github.com/gersteinlab/chemagent) - gersteinlab) ![Star](https://img.shields.io/github/stars/gersteinlab/chemagent.svg?style=social&label=Star)
@@ -158,7 +158,7 @@
 
 ## Writing
 
-- 🌟 **OmniThink: Expanding Knowledge Boundaries in Machine Writing through
+- 🌟 **OmniThink: Expanding Knowledge Boundaries in Machine Writing through 
   Thinking**, `arXiv, 2501.09751`, [arxiv](http://arxiv.org/abs/2501.09751v1), [pdf](http://arxiv.org/pdf/2501.09751v1.pdf), cication: [**-1**](None) 
 
 	 *Zekun Xi, Wenbiao Yin, Jizhan Fang, ..., Fei Huang, Huajun Chen* · ([zjunlp.github](https://zjunlp.github.io/project/OmniThink/))
@@ -245,6 +245,8 @@
 
 ## UI
 
+- [**fullmoon-ios**](https://github.com/mainframecomputer/fullmoon-ios) - mainframecomputer ![Star](https://img.shields.io/github/stars/mainframecomputer/fullmoon-ios.svg?style=social&label=Star)
+- [**chainlit**](https://github.com/Chainlit/chainlit) - Chainlit ![Star](https://img.shields.io/github/stars/Chainlit/chainlit.svg?style=social&label=Star)
 - [**cherry-studio**](https://github.com/CherryHQ/cherry-studio) - CherryHQ ![Star](https://img.shields.io/github/stars/CherryHQ/cherry-studio.svg?style=social&label=Star) 
 - [**coai**](https://github.com/coaidev/coai) - coaidev ![Star](https://img.shields.io/github/stars/coaidev/coai.svg?style=social&label=Star) 
 - [gabrielchua / gradio-canvas](https://huggingface.co/spaces/gabrielchua/gradio-canvas/tree/main)  🤗 
@@ -265,6 +267,8 @@
 
 ## Projects
 
+- [**Baichuan-M1-14B**](https://github.com/baichuan-inc/Baichuan-M1-14B) - baichuan-inc ![Star](https://img.shields.io/github/stars/baichuan-inc/Baichuan-M1-14B.svg?style=social&label=Star)
+- [**awesome-deepseek-integration**](https://github.com/deepseek-ai/awesome-deepseek-integration) - deepseek-ai ![Star](https://img.shields.io/github/stars/deepseek-ai/awesome-deepseek-integration.svg?style=social&label=Star)
 - [**WrenAI**](https://github.com/Canner/WrenAI) - Canner ![Star](https://img.shields.io/github/stars/Canner/WrenAI.svg?style=social&label=Star) 
 - [**NarratoAI**](https://github.com/linyqh/NarratoAI) - linyqh ![Star](https://img.shields.io/github/stars/linyqh/NarratoAI.svg?style=social&label=Star) 
 - [**helicone**](https://github.com/Helicone/helicone) - Helicone ![Star](https://img.shields.io/github/stars/Helicone/helicone.svg?style=social&label=Star) 

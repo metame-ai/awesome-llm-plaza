@@ -18,7 +18,7 @@
 
 ## Survey
 
-- 🌟 **Towards Large Reasoning Models: A Survey on Scaling LLM Reasoning
+- 🌟 **Towards Large Reasoning Models: A Survey on Scaling LLM Reasoning 
   Capabilities**, `arXiv, 2501.09686`, [arxiv](http://arxiv.org/abs/2501.09686v2), [pdf](http://arxiv.org/pdf/2501.09686v2.pdf), cication: [**-1**](None) 
 
 	 *Fengli Xu, Qianyue Hao, Zefang Zong, ..., Chen Gao, Yong Li*
@@ -31,18 +31,18 @@
 
 ## Reasoning
 
-- **PokerBench: Training Large Language Models to become Professional Poker
+- **PokerBench: Training Large Language Models to become Professional Poker 
   Players**, `arXiv, 2501.08328`, [arxiv](http://arxiv.org/abs/2501.08328v1), [pdf](http://arxiv.org/pdf/2501.08328v1.pdf), cication: [**-1**](None) 
 
 	 *Richard Zhuang, Akshat Gupta, Richard Yang, ..., Zhengyu Li, Gopala Anumanchipalli* · ([pokerbench](https://github.com/pokerllm/pokerbench) - pokerllm) ![Star](https://img.shields.io/github/stars/pokerllm/pokerbench.svg?style=social&label=Star)
-- 🌟 **OmniThink: Expanding Knowledge Boundaries in Machine Writing through
+- 🌟 **OmniThink: Expanding Knowledge Boundaries in Machine Writing through 
   Thinking**, `arXiv, 2501.09751`, [arxiv](http://arxiv.org/abs/2501.09751v1), [pdf](http://arxiv.org/pdf/2501.09751v1.pdf), cication: [**-1**](None) 
 
 	 *Zekun Xi, Wenbiao Yin, Jizhan Fang, ..., Fei Huang, Huajun Chen* · ([zjunlp.github](https://zjunlp.github.io/project/OmniThink/))
 - 🌟 **Evolving Deeper LLM Thinking**, `arXiv, 2501.09891`, [arxiv](http://arxiv.org/abs/2501.09891v1), [pdf](http://arxiv.org/pdf/2501.09891v1.pdf), cication: [**-1**](None) 
 
 	 *Kuang-Huei Lee, Ian Fischer, Yueh-Hua Wu, ..., Dale Schuurmans, Xinyun Chen*
-- **Multiple Choice Questions: Reasoning Makes Large Language Models (LLMs)
+- **Multiple Choice Questions: Reasoning Makes Large Language Models (LLMs) 
   More Self-Confident Even When They Are Wrong**, `arXiv, 2501.09775`, [arxiv](http://arxiv.org/abs/2501.09775v1), [pdf](http://arxiv.org/pdf/2501.09775v1.pdf), cication: [**-1**](None) 
 
 	 *Tairan Fu, Javier Conde, Gonzalo Martínez, ..., María Grandury, Pedro Reviriego*
@@ -214,6 +214,7 @@
 
 ## O1 Reasoning
 
+- [DeepSeek R1's recipe to replicate o1 and the future of reasoning LMs](https://www.interconnects.ai/p/deepseek-r1-recipe-for-o1) 
 - 🌟 [Meta Chain-of-Thought: Unlocking System 2 Reasoning in LLMs](https://www.synthlabs.ai/) 
 
 	 · ([𝕏](https://x.com/synth_labs/status/1879277225977209113))
@@ -379,6 +380,10 @@
 
 ## Chain Of Thought
 
+- **Can We Generate Images with CoT? Let's Verify and Reinforce Image
+  Generation Step by Step**, `arXiv, 2501.13926`, [arxiv](http://arxiv.org/abs/2501.13926v1), [pdf](http://arxiv.org/pdf/2501.13926v1.pdf), cication: [**-1**](None) 
+
+	 *Ziyu Guo, Renrui Zhang, Chengzhuo Tong, ..., Hongsheng Li, Pheng-Ann Heng* · ([Image-Generation-CoT](https://github.com/ZiyuGuo99/Image-Generation-CoT) - ZiyuGuo99) ![Star](https://img.shields.io/github/stars/ZiyuGuo99/Image-Generation-CoT.svg?style=social&label=Star)
 - **Audio-CoT: Exploring Chain-of-Thought Reasoning in Large Audio Language 
   Model**, `arXiv, 2501.07246`, [arxiv](http://arxiv.org/abs/2501.07246v1), [pdf](http://arxiv.org/pdf/2501.07246v1.pdf), cication: [**-1**](None) 
 
@@ -426,6 +431,14 @@
 	 · ([reddit](https://www.reddit.com/r/LocalLLaMA/comments/1gwwyia/leaked_system_prompts_from_v0_vercels_ai/))
 - [steiner-preview  updated			3 days ago Reasoning models trained on synthetic data using reinforcement learning.](https://huggingface.co/collections/peakji/steiner-preview-6712c6987110ce932a44e9a6)  🤗 
 
+## Planning
+
+- **Revealing the Barriers of Language Agents in Planning**, `arXiv, 2410.12409`, [arxiv](http://arxiv.org/abs/2410.12409v1), [pdf](http://arxiv.org/pdf/2410.12409v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=3286664752846199&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII) 
+
+	 *Jian Xie, Kexun Zhang, Jiangjie Chen, ..., Lei Li, Yanghua Xiao*
+
+	 *Jian Xie, Kexun Zhang, Jiangjie Chen, ..., Lei Li, Yanghua Xiao*
+
 ## Misc
 
 - [Denny Zhou: LLM Reasoning: Key Ideas and Limitations](https://www.youtube.com/watch?v=-SZAciVbswk)  :clapper: 
@@ -436,9 +449,3 @@
 	 · ([youtube](https://www.youtube.com/watch?v=2pHE9L4ZZXM&ab_channel=InterconnectsAI))
 - [【北大对齐团队独家解读：OpenAI o1开启「后训练」时代强化学习新范式】](https://www.bilibili.com/list/watchlater?oid=113201647719044&bvid=BV15Rx5eXEnW)  :clapper: 
 - [The Problem with Reasoners](https://aidanmclaughlin.notion.site/reasoners-problem) 
-
-
-## Planning
-- **Revealing the Barriers of Language Agents in Planning**, `arXiv, 2410.12409`, [arxiv](http://arxiv.org/abs/2410.12409v1), [pdf](http://arxiv.org/pdf/2410.12409v1.pdf), cication: [**-1**](None) 
-
-	 *Jian Xie, Kexun Zhang, Jiangjie Chen, ..., Lei Li, Yanghua Xiao*
