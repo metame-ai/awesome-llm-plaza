@@ -239,7 +239,7 @@
 - **Can LLMs Design Good Questions Based on Context?**, `arXiv, 2501.03491`, [arxiv](http://arxiv.org/abs/2501.03491v1), [pdf](http://arxiv.org/pdf/2501.03491v1.pdf), cication: [**-1**](None) 
 
 	 *Yueheng Zhang, Xiaoyuan Liu, Yiyou Sun, ..., Basel Alomair, Dawn Song*
-- [**awesome-generative-ai**](https://github.com/steven2358/awesome-generative-ai) - steven2358 ![Star](https://img.shields.io/github/stars/steven2358/awesome-generative-ai.svg?style=social&label=Star)
+- [**awesome-generative-ai**](https://github.com/steven2358/awesome-generative-ai) - steven2358 ![Star](https://img.shields.io/github/stars/steven2358/awesome-generative-ai.svg?style=social&label=Star) 
 - [Advanced Natural Language Processing](https://cmu-l3.github.io/anlp-spring2025/) 
 - [Speech and Language Processing(3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/) 
 - [CIS 7000 - Large Language Models](https://llm-class.github.io/) 

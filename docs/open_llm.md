@@ -64,7 +64,8 @@
 
 ## Chinese Models
 
-- **LLM360 K2: Building a 65B 360-Open-Source Large Language Model from
+- [Qwen2.5-1M: Deploy Your Own Qwen with Context Length up to 1M Tokens](https://qwenlm.github.io/blog/qwen2.5-1m/) 
+- **LLM360 K2: Building a 65B 360-Open-Source Large Language Model from 
   Scratch**, `arXiv, 2501.07124`, [arxiv](http://arxiv.org/abs/2501.07124v3), [pdf](http://arxiv.org/pdf/2501.07124v3.pdf), cication: [**-1**](None) 
 
 	 *Zhengzhong Liu, Bowen Tan, Hongyi Wang, ..., Preslav Nakov, Eric Xing*
@@ -143,5 +144,5 @@
 
 ## Misc
 
-- [OLMo leads on the secrets of training language models (w Dirk Groeneveld, Kyle Lo, & Luca Soldaini)](https://www.youtube.com/watch?v=dS7QI99uJVc)  :clapper:
+- [OLMo leads on the secrets of training language models (w Dirk Groeneveld, Kyle Lo, & Luca Soldaini)](https://www.youtube.com/watch?v=dS7QI99uJVc)  :clapper: 
 - [Phi-4 bug fixes](https://x.com/danielhanchen/status/1877781452818968615)  𝕏 

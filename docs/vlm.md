@@ -157,7 +157,18 @@
 
 ## Video
 
-- 🌟 **VideoLLaMA 3: Frontier Multimodal Foundation Models for Image and Video
+- **InternVideo2.5: Empowering Video MLLMs with Long and Rich Context
+  Modeling**, `arXiv, 2501.12386`, [arxiv](http://arxiv.org/abs/2501.12386v2), [pdf](http://arxiv.org/pdf/2501.12386v2.pdf), cication: [**-1**](None) 
+
+	 *Yi Wang, Xinhao Li, Ziang Yan, ..., Yali Wang, Limin Wang* · ([InternVideo](https://github.com/OpenGVLab/InternVideo/tree/main/InternVideo2.5) - OpenGVLab) ![Star](https://img.shields.io/github/stars/OpenGVLab/InternVideo.svg?style=social&label=Star)
+- **MMVU: Measuring Expert-Level Multi-Discipline Video Understanding**, `arXiv, 2501.12380`, [arxiv](http://arxiv.org/abs/2501.12380v1), [pdf](http://arxiv.org/pdf/2501.12380v1.pdf), cication: [**-1**](None) 
+
+	 *Yilun Zhao, Lujing Xie, Haowei Zhang, ..., Chen Zhao, Arman Cohan* · ([mmvu-benchmark.github](https://mmvu-benchmark.github.io)) · ([MMVU](https://github.com/yale-nlp/MMVU) - yale-nlp) ![Star](https://img.shields.io/github/stars/yale-nlp/MMVU.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/datasets/yale-nlp/MMVU)) · ([mmvu-benchmark.github](https://mmvu-benchmark.github.io/))
+- **Video-MMMU: Evaluating Knowledge Acquisition from Multi-Discipline
+  Professional Videos**, `arXiv, 2501.13826`, [arxiv](http://arxiv.org/abs/2501.13826v1), [pdf](http://arxiv.org/pdf/2501.13826v1.pdf), cication: [**-1**](None) 
+
+	 *Kairui Hu, Penghao Wu, Fanyi Pu, ..., Bo Li, Ziwei Liu*
+- 🌟 **VideoLLaMA 3: Frontier Multimodal Foundation Models for Image and Video 
   Understanding**, `arXiv, 2501.13106`, [arxiv](http://arxiv.org/abs/2501.13106v2), [pdf](http://arxiv.org/pdf/2501.13106v2.pdf), cication: [**-1**](None) 
 
 	 *Boqiang Zhang, Kehan Li, Zesen Cheng, ..., Lidong Bing, Deli Zhao* · ([VideoLLaMA3](https://github.com/DAMO-NLP-SG/VideoLLaMA3) - DAMO-NLP-SG) ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/VideoLLaMA3.svg?style=social&label=Star)
@@ -320,6 +331,10 @@
 
 ## Alignment
 
+- **InternLM-XComposer2.5-Reward: A Simple Yet Effective Multi-Modal Reward
+  Model**, `arXiv, 2501.12368`, [arxiv](http://arxiv.org/abs/2501.12368v1), [pdf](http://arxiv.org/pdf/2501.12368v1.pdf), cication: [**-1**](None) 
+
+	 *Yuhang Zang, Xiaoyi Dong, Pan Zhang, ..., Dahua Lin, Jiaqi Wang* · ([InternLM-XComposer](https://github.com/InternLM/InternLM-XComposer) - InternLM) ![Star](https://img.shields.io/github/stars/InternLM/InternLM-XComposer.svg?style=social&label=Star)
 - **Task Preference Optimization: Improving Multimodal Large Language Models 
   with Vision Task Alignment**, `arXiv, 2412.19326`, [arxiv](http://arxiv.org/abs/2412.19326v1), [pdf](http://arxiv.org/pdf/2412.19326v1.pdf), cication: [**-1**](None) 
 
@@ -468,7 +483,10 @@
 
 ## Efficient
 
-- [SmolVLM Grows Smaller – Introducing the 250M & 500M Models!](https://huggingface.co/blog/smolervlm)  🤗
+- **HiMix: Reducing Computational Complexity in Large Vision-Language Models**, `arXiv, 2501.10318`, [arxiv](http://arxiv.org/abs/2501.10318v1), [pdf](http://arxiv.org/pdf/2501.10318v1.pdf), cication: [**-1**](None) 
+
+	 *Xuange Zhang, Dengjie Li, Bo Liu, ..., Zheng Zhao, Tongtong Yuan* · ([xuange923.github](https://xuange923.github.io/HiMix))
+- [SmolVLM Grows Smaller – Introducing the 250M & 500M Models!](https://huggingface.co/blog/smolervlm)  🤗 
 - **LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One 
   Vision Token**, `arXiv, 2501.03895`, [arxiv](http://arxiv.org/abs/2501.03895v1), [pdf](http://arxiv.org/pdf/2501.03895v1.pdf), cication: [**-1**](None) 
 
@@ -500,6 +518,10 @@
 
 ## Generation
 
+- **VARGPT: Unified Understanding and Generation in a Visual Autoregressive
+  Multimodal Large Language Model**, `arXiv, 2501.12327`, [arxiv](http://arxiv.org/abs/2501.12327v1), [pdf](http://arxiv.org/pdf/2501.12327v1.pdf), cication: [**-1**](None) 
+
+	 *Xianwei Zhuang, Yuxin Xie, Yufan Deng, ..., Yuguo Yin, Yuexian Zou* · ([vargpt-1.github](https://vargpt-1.github.io/))
 - **Flowing from Words to Pixels: A Framework for Cross-Modality Evolution**, `arXiv, 2412.15213`, [arxiv](http://arxiv.org/abs/2412.15213v1), [pdf](http://arxiv.org/pdf/2412.15213v1.pdf), cication: [**-1**](None) 
 
 	 *Qihao Liu, Xi Yin, Alan Yuille, ..., Andrew Brown, Mannat Singh* · ([cross-flow.github](https://cross-flow.github.io/))

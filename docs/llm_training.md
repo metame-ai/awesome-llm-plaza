@@ -99,7 +99,7 @@
 
 ## Optimization
 
-- [**C-Optim**](https://github.com/kyleliang919/C-Optim) - kyleliang919 ![Star](https://img.shields.io/github/stars/kyleliang919/C-Optim.svg?style=social&label=Star)
+- [**C-Optim**](https://github.com/kyleliang919/C-Optim) - kyleliang919 ![Star](https://img.shields.io/github/stars/kyleliang919/C-Optim.svg?style=social&label=Star) 
 
 	 *Improving Training with One Line of Code*
 - **Spike No More: Stabilizing the Pre-training of Large Language Models**, `arXiv, 2312.16903`, [arxiv](http://arxiv.org/abs/2312.16903v3), [pdf](http://arxiv.org/pdf/2312.16903v3.pdf), cication: [**-1**](None) 
@@ -164,7 +164,10 @@
 
 ## Mixture Of Experts
 
-- 🌟 **Demons in the Detail: On Implementing Load Balancing Loss for Training
+- **Autonomy-of-Experts Models**, `arXiv, 2501.13074`, [arxiv](http://arxiv.org/abs/2501.13074v1), [pdf](http://arxiv.org/pdf/2501.13074v1.pdf), cication: [**-1**](None) 
+
+	 *Ang Lv, Ruobing Xie, Yining Qian, ..., Di Wang, Rui Yan*
+- 🌟 **Demons in the Detail: On Implementing Load Balancing Loss for Training 
   Specialized Mixture-of-Expert Models**, `arXiv, 2501.11873`, [arxiv](http://arxiv.org/abs/2501.11873v1), [pdf](http://arxiv.org/pdf/2501.11873v1.pdf), cication: [**-1**](None) 
 
 	 *Zihan Qiu, Zeyu Huang, Bo Zheng, ..., Jingren Zhou, Junyang Lin* · ([𝕏](https://x.com/Alibaba_Qwen/status/1882064440159596725))

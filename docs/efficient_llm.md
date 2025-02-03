@@ -43,6 +43,10 @@
 
 ## Efficient LLM
 
+- **Sigma: Differential Rescaling of Query, Key and Value for Efficient
+  Language Models**, `arXiv, 2501.13629`, [arxiv](http://arxiv.org/abs/2501.13629v1), [pdf](http://arxiv.org/pdf/2501.13629v1.pdf), cication: [**-1**](None) 
+
+	 *Zhenghao Lin, Zihao Tang, Xiao Liu, ..., Peng Cheng, Mao Yang*
 - 🌟 **Tensor Product Attention Is All You Need**, `arXiv, 2501.06425`, [arxiv](http://arxiv.org/abs/2501.06425v1), [pdf](http://arxiv.org/pdf/2501.06425v1.pdf), cication: [**-1**](None) 
 
 	 *Yifan Zhang, Yifeng Liu, Huizhuo Yuan, ..., Quanquan Gu, Andrew Chi-Chih Yao* · ([tensorgi.github](https://tensorgi.github.io/T6/)) · ([T6](https://github.com/tensorgi/T6) - tensorgi) ![Star](https://img.shields.io/github/stars/tensorgi/T6.svg?style=social&label=Star)
@@ -103,6 +107,9 @@
 
 ## Distillation
 
+- **Distillation Quantification for Large Language Models**, `arXiv, 2501.12619`, [arxiv](http://arxiv.org/abs/2501.12619v2), [pdf](http://arxiv.org/pdf/2501.12619v2.pdf), cication: [**-1**](None) 
+
+	 *Sunbowen Lee, Junting Zhou, Chang Ao, ..., Zhoufutu Wen, Shiwen Ni* · ([LLMs-Distillation-Quantification](https://github.com/Aegis1863/LLMs-Distillation-Quantification) - Aegis1863) ![Star](https://img.shields.io/github/stars/Aegis1863/LLMs-Distillation-Quantification.svg?style=social&label=Star)
 - **Active Data Curation Effectively Distills Large-Scale Multimodal Models**, `arXiv, 2411.18674`, [arxiv](http://arxiv.org/abs/2411.18674v1), [pdf](http://arxiv.org/pdf/2411.18674v1.pdf), cication: [**-1**](None) 
 
 	 *Vishaal Udandarao, Nikhil Parthasarathy, Muhammad Ferjad Naeem, ..., Alessio Tonioni, Olivier J. Hénaff* · ([𝕏](https://x.com/nikparth1/status/1863633339950813691))

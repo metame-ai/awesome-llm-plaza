@@ -245,8 +245,8 @@
 
 ## UI
 
-- [**fullmoon-ios**](https://github.com/mainframecomputer/fullmoon-ios) - mainframecomputer ![Star](https://img.shields.io/github/stars/mainframecomputer/fullmoon-ios.svg?style=social&label=Star)
-- [**chainlit**](https://github.com/Chainlit/chainlit) - Chainlit ![Star](https://img.shields.io/github/stars/Chainlit/chainlit.svg?style=social&label=Star)
+- [**fullmoon-ios**](https://github.com/mainframecomputer/fullmoon-ios) - mainframecomputer ![Star](https://img.shields.io/github/stars/mainframecomputer/fullmoon-ios.svg?style=social&label=Star) 
+- [**chainlit**](https://github.com/Chainlit/chainlit) - Chainlit ![Star](https://img.shields.io/github/stars/Chainlit/chainlit.svg?style=social&label=Star) 
 - [**cherry-studio**](https://github.com/CherryHQ/cherry-studio) - CherryHQ ![Star](https://img.shields.io/github/stars/CherryHQ/cherry-studio.svg?style=social&label=Star) 
 - [**coai**](https://github.com/coaidev/coai) - coaidev ![Star](https://img.shields.io/github/stars/coaidev/coai.svg?style=social&label=Star) 
 - [gabrielchua / gradio-canvas](https://huggingface.co/spaces/gabrielchua/gradio-canvas/tree/main)  🤗 
@@ -267,8 +267,8 @@
 
 ## Projects
 
-- [**Baichuan-M1-14B**](https://github.com/baichuan-inc/Baichuan-M1-14B) - baichuan-inc ![Star](https://img.shields.io/github/stars/baichuan-inc/Baichuan-M1-14B.svg?style=social&label=Star)
-- [**awesome-deepseek-integration**](https://github.com/deepseek-ai/awesome-deepseek-integration) - deepseek-ai ![Star](https://img.shields.io/github/stars/deepseek-ai/awesome-deepseek-integration.svg?style=social&label=Star)
+- [**Baichuan-M1-14B**](https://github.com/baichuan-inc/Baichuan-M1-14B) - baichuan-inc ![Star](https://img.shields.io/github/stars/baichuan-inc/Baichuan-M1-14B.svg?style=social&label=Star) 
+- [**awesome-deepseek-integration**](https://github.com/deepseek-ai/awesome-deepseek-integration) - deepseek-ai ![Star](https://img.shields.io/github/stars/deepseek-ai/awesome-deepseek-integration.svg?style=social&label=Star) 
 - [**WrenAI**](https://github.com/Canner/WrenAI) - Canner ![Star](https://img.shields.io/github/stars/Canner/WrenAI.svg?style=social&label=Star) 
 - [**NarratoAI**](https://github.com/linyqh/NarratoAI) - linyqh ![Star](https://img.shields.io/github/stars/linyqh/NarratoAI.svg?style=social&label=Star) 
 - [**helicone**](https://github.com/Helicone/helicone) - Helicone ![Star](https://img.shields.io/github/stars/Helicone/helicone.svg?style=social&label=Star) 

@@ -31,6 +31,9 @@
 
 ## Reasoning
 
+- **Reasoning Language Models: A Blueprint**, `arXiv, 2501.11223`, [arxiv](http://arxiv.org/abs/2501.11223v3), [pdf](http://arxiv.org/pdf/2501.11223v3.pdf), cication: [**-1**](None) 
+
+	 *Maciej Besta, Julia Barth, Eric Schreiber, ..., Hubert Niewiadomski, Torsten Hoefler*
 - **PokerBench: Training Large Language Models to become Professional Poker 
   Players**, `arXiv, 2501.08328`, [arxiv](http://arxiv.org/abs/2501.08328v1), [pdf](http://arxiv.org/pdf/2501.08328v1.pdf), cication: [**-1**](None) 
 
@@ -154,6 +157,10 @@
 
 ## Math Reasoning
 
+- **Step-KTO: Optimizing Mathematical Reasoning through Stepwise Binary
+  Feedback**, `arXiv, 2501.10799`, [arxiv](http://arxiv.org/abs/2501.10799v1), [pdf](http://arxiv.org/pdf/2501.10799v1.pdf), cication: [**-1**](None) 
+
+	 *Yen-Ting Lin, Di Jin, Tengyu Xu, ..., Hao Ma, Han Fang*
 - 🌟 **The Lessons of Developing Process Reward Models in Mathematical 
   Reasoning**, `arXiv, 2501.07301`, [arxiv](http://arxiv.org/abs/2501.07301v1), [pdf](http://arxiv.org/pdf/2501.07301v1.pdf), cication: [**-1**](None) 
 
@@ -214,6 +221,18 @@
 
 ## O1 Reasoning
 
+- [o1复现的一点点心得](https://zhuanlan.zhihu.com/p/13872128423) 
+- 🌟 [**simpleRL-reason**](https://github.com/hkust-nlp/simpleRL-reason) - hkust-nlp ![Star](https://img.shields.io/github/stars/hkust-nlp/simpleRL-reason.svg?style=social&label=Star)
+
+	 *Emerging Reasoning with Reinforcement Learning is Both Effective and Efficient* · ([hkust-nlp.notion](https://hkust-nlp.notion.site/simplerl-reason))
+- 🌟 [**open-r1**](https://github.com/huggingface/open-r1) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/open-r1.svg?style=social&label=Star)
+- [**TinyZero**](https://github.com/Jiayi-Pan/TinyZero) - Jiayi-Pan ![Star](https://img.shields.io/github/stars/Jiayi-Pan/TinyZero.svg?style=social&label=Star)
+
+	 · ([𝕏](https://x.com/jiayi_pirate/status/1882839370505621655)) · ([wandb](https://wandb.ai/jiayipan/TinyZero))
+- [With R1, a lot of people have been asking “how come we didn't discover this 2 years ago?”](https://x.com/its_dibya/status/1883595705736163727)  𝕏
+- **O1-Pruner: Length-Harmonizing Fine-Tuning for O1-Like Reasoning Pruning**, `arXiv, 2501.12570`, [arxiv](http://arxiv.org/abs/2501.12570v2), [pdf](http://arxiv.org/pdf/2501.12570v2.pdf), cication: [**-1**](None) 
+
+	 *Haotian Luo, Li Shen, Haiying He, ..., Xiaochun Cao, Dacheng Tao* · ([O1-Pruner](https://github.com/StarDewXXX/O1-Pruner) - StarDewXXX) ![Star](https://img.shields.io/github/stars/StarDewXXX/O1-Pruner.svg?style=social&label=Star)
 - [DeepSeek R1's recipe to replicate o1 and the future of reasoning LMs](https://www.interconnects.ai/p/deepseek-r1-recipe-for-o1) 
 - 🌟 [Meta Chain-of-Thought: Unlocking System 2 Reasoning in LLMs](https://www.synthlabs.ai/) 
 
@@ -380,7 +399,7 @@
 
 ## Chain Of Thought
 
-- **Can We Generate Images with CoT? Let's Verify and Reinforce Image
+- **Can We Generate Images with CoT? Let's Verify and Reinforce Image 
   Generation Step by Step**, `arXiv, 2501.13926`, [arxiv](http://arxiv.org/abs/2501.13926v1), [pdf](http://arxiv.org/pdf/2501.13926v1.pdf), cication: [**-1**](None) 
 
 	 *Ziyu Guo, Renrui Zhang, Chengzhuo Tong, ..., Hongsheng Li, Pheng-Ann Heng* · ([Image-Generation-CoT](https://github.com/ZiyuGuo99/Image-Generation-CoT) - ZiyuGuo99) ![Star](https://img.shields.io/github/stars/ZiyuGuo99/Image-Generation-CoT.svg?style=social&label=Star)
@@ -425,6 +444,7 @@
 
 ## Projects
 
+- [**Open-Reasoning-Tasks**](https://github.com/NousResearch/Open-Reasoning-Tasks) - NousResearch ![Star](https://img.shields.io/github/stars/NousResearch/Open-Reasoning-Tasks.svg?style=social&label=Star)
 - [**prompt-poet**](https://github.com/character-ai/prompt-poet) - character-ai ![Star](https://img.shields.io/github/stars/character-ai/prompt-poet.svg?style=social&label=Star) 
 - [**V0-system-prompt**](https://github.com/2-fly-4-ai/V0-system-prompt) - 2-fly-4-ai ![Star](https://img.shields.io/github/stars/2-fly-4-ai/V0-system-prompt.svg?style=social&label=Star) 
 
@@ -433,6 +453,17 @@
 
 ## Planning
 
+- **Dynamic Planning with a LLM**, `arXiv, 2308.06391`, [arxiv](http://arxiv.org/abs/2308.06391v1), [pdf](http://arxiv.org/pdf/2308.06391v1.pdf), cication: [**-1**](None) 
+
+	 *Gautier Dagan, Frank Keller, Alex Lascarides*
+- **On the Planning Abilities of Large Language Models (A Critical
+  Investigation with a Proposed Benchmark)**, `arXiv, 2302.06706`, [arxiv](http://arxiv.org/abs/2302.06706v1), [pdf](http://arxiv.org/pdf/2302.06706v1.pdf), cication: [**-1**](None) 
+
+	 *Karthik Valmeekam, Sarath Sreedharan, Matthew Marquez, ..., Alberto Olmo, Subbarao Kambhampati*
+- **Phenomenal Yet Puzzling: Testing Inductive Reasoning Capabilities of
+  Language Models with Hypothesis Refinement**, `arXiv, 2310.08559`, [arxiv](http://arxiv.org/abs/2310.08559v4), [pdf](http://arxiv.org/pdf/2310.08559v4.pdf), cication: [**-1**](None) 
+
+	 *Linlu Qiu, Liwei Jiang, Ximing Lu, ..., Nouha Dziri, Xiang Ren*
 - **Revealing the Barriers of Language Agents in Planning**, `arXiv, 2410.12409`, [arxiv](http://arxiv.org/abs/2410.12409v1), [pdf](http://arxiv.org/pdf/2410.12409v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=3286664752846199&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII) 
 
 	 *Jian Xie, Kexun Zhang, Jiangjie Chen, ..., Lei Li, Yanghua Xiao*

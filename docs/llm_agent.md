@@ -16,6 +16,9 @@
 
 ## Survey
 
+- **A Survey on the Memory Mechanism of Large Language Model based Agents**, `arXiv, 2404.13501`, [arxiv](http://arxiv.org/abs/2404.13501v1), [pdf](http://arxiv.org/pdf/2404.13501v1.pdf), cication: [**-1**](None) 
+
+	 *Zeyu Zhang, Xiaohe Bo, Chen Ma, ..., Zhenhua Dong, Ji-Rong Wen*
 - 🌟 **GUI Agents: A Survey**, `arXiv, 2412.13501`, [arxiv](http://arxiv.org/abs/2412.13501v1), [pdf](http://arxiv.org/pdf/2412.13501v1.pdf), cication: [**-1**](None) 
 
 	 *Dang Nguyen, Jian Chen, Yu Wang, ..., Ryan A. Rossi, Franck Dernoncourt*
@@ -31,7 +34,7 @@
 
 ## Agents
 
-- **Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in
+- **Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in 
   Realistic Environments**, `arXiv, 2501.10893`, [arxiv](http://arxiv.org/abs/2501.10893v1), [pdf](http://arxiv.org/pdf/2501.10893v1.pdf), cication: [**-1**](None) 
 
 	 *Hongjin Su, Ruoxi Sun, Jinsung Yoon, ..., Tao Yu, Sercan Ö. Arık*
@@ -253,7 +256,8 @@
 
 ## Projects
 
-- [**agent-service-toolkit**](https://github.com/JoshuaC215/agent-service-toolkit) - JoshuaC215 ![Star](https://img.shields.io/github/stars/JoshuaC215/agent-service-toolkit.svg?style=social&label=Star)
+- [**awesome-llm-agents**](https://github.com/kaushikb11/awesome-llm-agents) - kaushikb11 ![Star](https://img.shields.io/github/stars/kaushikb11/awesome-llm-agents.svg?style=social&label=Star)
+- [**agent-service-toolkit**](https://github.com/JoshuaC215/agent-service-toolkit) - JoshuaC215 ![Star](https://img.shields.io/github/stars/JoshuaC215/agent-service-toolkit.svg?style=social&label=Star) 
 - [**eliza**](https://github.com/elizaOS/eliza) - elizaOS ![Star](https://img.shields.io/github/stars/elizaOS/eliza.svg?style=social&label=Star) 
 - [**crewAI**](https://github.com/crewAIInc/crewAI) - crewAIInc ![Star](https://img.shields.io/github/stars/crewAIInc/crewAI.svg?style=social&label=Star) 
 
@@ -286,12 +290,17 @@
 
 ## Misc
 
-- [Language Agents (Shunyu Yao PhD Defense)](https://www.youtube.com/watch?v=zwfE6J2BIR4)  :clapper:
+- [Language Agents (Shunyu Yao PhD Defense)](https://www.youtube.com/watch?v=zwfE6J2BIR4)  :clapper: 
 - [Agents](https://www.kaggle.com/whitepaper-agents) 
 - [Anthropic总结智能体年度经验：最成功的≠最复杂的](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650949769&idx=3&sn=4108a7288e67fbafd3b28a8f3529c8c1&chksm=853c2ced6c02fbac07c008c489ee3b5f6888f77c36e6d48adbdeb1d232a7cc8d1c6a58b9a1c1&scene=0&xtrack=1) 
 
 ## Multi Agent
 
+- [Chain of Agents: Large language models collaborating on long-context tasks](https://research.google/blog/chain-of-agents-large-language-models-collaborating-on-long-context-tasks/) 
+- **FilmAgent: A Multi-Agent Framework for End-to-End Film Automation in
+  Virtual 3D Spaces**, `arXiv, 2501.12909`, [arxiv](http://arxiv.org/abs/2501.12909v1), [pdf](http://arxiv.org/pdf/2501.12909v1.pdf), cication: [**-1**](None) 
+
+	 *Zhenran Xu, Longyue Wang, Jifang Wang, ..., Jun Yu, Min Zhang* · ([filmagent.github](https://filmagent.github.io/))
 - **Multiagent Finetuning: Self Improvement with Diverse Reasoning Chains**, `arXiv, 2501.05707`, [arxiv](http://arxiv.org/abs/2501.05707v1), [pdf](http://arxiv.org/pdf/2501.05707v1.pdf), cication: [**-1**](None) 
 
 	 *Vighnesh Subramaniam, Yilun Du, Joshua B. Tenenbaum, ..., Shuang Li, Igor Mordatch* · ([llm-multiagent-ft.github](https://llm-multiagent-ft.github.io/))

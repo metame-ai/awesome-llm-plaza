@@ -15,6 +15,10 @@
 
 ## Code LLM
 
+- **ChartCoder: Advancing Multimodal Large Language Model for Chart-to-Code
+  Generation**, `arXiv, 2501.06598`, [arxiv](http://arxiv.org/abs/2501.06598v1), [pdf](http://arxiv.org/pdf/2501.06598v1.pdf), cication: [**-1**](None) 
+
+	 *Xuanle Zhao, Xianzhen Luo, Qi Shi, ..., Zhiyuan Liu, Maosong Sun* · ([ChartCoder](https://github.com/thunlp/ChartCoder) - thunlp) ![Star](https://img.shields.io/github/stars/thunlp/ChartCoder.svg?style=social&label=Star)
 - **ProgCo: Program Helps Self-Correction of Large Language Models**, `arXiv, 2501.01264`, [arxiv](http://arxiv.org/abs/2501.01264v1), [pdf](http://arxiv.org/pdf/2501.01264v1.pdf), cication: [**-1**](None) 
 
 	 *Xiaoshuai Song, Yanan Wu, Weixun Wang, ..., Wenbo Su, Bo Zheng*
@@ -114,6 +118,7 @@
 
 ## Products
 
+- [HeyBoss, backed by OpenAI startup fund, launched an AI engineer to take on Cognition's Devin](https://x.com/adcock_brett/status/1883561542295175241)  𝕏
 - [PearAI: The Open Source AI Code Editor](https://trypear.ai/) 
 - [NEO A fully autonomousMachine Learning Engineer](https://heyneo.so/blog) 
 - [The first agentic IDE, and then some. The Windsurf Editor is where the work of developers and AI truly flow together, allowing for a coding experience that feels like literal magic](https://codeium.com/) 

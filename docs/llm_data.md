@@ -20,7 +20,7 @@
 
 ## LLM Data
 
-- [**nv-ingest**](https://github.com/NVIDIA/nv-ingest) - NVIDIA ![Star](https://img.shields.io/github/stars/NVIDIA/nv-ingest.svg?style=social&label=Star)
+- [**nv-ingest**](https://github.com/NVIDIA/nv-ingest) - NVIDIA ![Star](https://img.shields.io/github/stars/NVIDIA/nv-ingest.svg?style=social&label=Star) 
 
 	 *Multi-modal data extraction*
 - 🌟 **Towards Best Practices for Open Datasets for LLM Training**, `arXiv, 2501.08365`, [arxiv](http://arxiv.org/abs/2501.08365v1), [pdf](http://arxiv.org/pdf/2501.08365v1.pdf), cication: [**-1**](None) 
@@ -96,7 +96,7 @@
 
 ## Synthetic
 
-- **Condor: Enhance LLM Alignment with Knowledge-Driven Data Synthesis and
+- **Condor: Enhance LLM Alignment with Knowledge-Driven Data Synthesis and 
   Refinement**, `arXiv, 2501.12273`, [arxiv](http://arxiv.org/abs/2501.12273v1), [pdf](http://arxiv.org/pdf/2501.12273v1.pdf), cication: [**-1**](None) 
 
 	 *Maosong Cao, Taolin Zhang, Mo Li, ..., Songyang Zhang, Kai Chen* · ([Condor](https://github.com/InternLM/Condor) - InternLM) ![Star](https://img.shields.io/github/stars/InternLM/Condor.svg?style=social&label=Star) · ([hf](https://hf.co/datasets/internlm/Condor-SFT-20K))

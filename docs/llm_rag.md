@@ -18,6 +18,9 @@
 
 ## RAG
 
+- **Chain-of-Retrieval Augmented Generation**, `arXiv, 2501.14342`, [arxiv](http://arxiv.org/abs/2501.14342v1), [pdf](http://arxiv.org/pdf/2501.14342v1.pdf), cication: [**-1**](None) 
+
+	 *Liang Wang, Haonan Chen, Nan Yang, ..., Zhicheng Dou, Furu Wei*
 - **MiniRAG: Towards Extremely Simple Retrieval-Augmented Generation**, `arXiv, 2501.06713`, [arxiv](http://arxiv.org/abs/2501.06713v2), [pdf](http://arxiv.org/pdf/2501.06713v2.pdf), cication: [**-1**](None) 
 
 	 *Tianyu Fan, Jingyuan Wang, Xubin Ren, ..., Chao Huang* · ([MiniRAG](https://github.com/HKUDS/MiniRAG) - HKUDS) ![Star](https://img.shields.io/github/stars/HKUDS/MiniRAG.svg?style=social&label=Star)
