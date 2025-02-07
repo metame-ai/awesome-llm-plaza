@@ -43,7 +43,7 @@
 
 ## Efficient LLM
 
-- **Sigma: Differential Rescaling of Query, Key and Value for Efficient
+- **Sigma: Differential Rescaling of Query, Key and Value for Efficient 
   Language Models**, `arXiv, 2501.13629`, [arxiv](http://arxiv.org/abs/2501.13629v1), [pdf](http://arxiv.org/pdf/2501.13629v1.pdf), cication: [**-1**](None) 
 
 	 *Zhenghao Lin, Zihao Tang, Xiao Liu, ..., Peng Cheng, Mao Yang*

@@ -23,6 +23,10 @@
 
 ## LLM Training
 
+- **Streaming DiLoCo with overlapping communication: Towards a Distributed
+  Free Lunch**, `arXiv, 2501.18512`, [arxiv](http://arxiv.org/abs/2501.18512v1), [pdf](http://arxiv.org/pdf/2501.18512v1.pdf), cication: [**-1**](None) 
+
+	 *Arthur Douillard, Yanislav Donchev, Keith Rush, ..., Marc'Aurelio Ranzato, Paul Barham*
 - **Grokking at the Edge of Numerical Stability**, `arXiv, 2501.04697`, [arxiv](http://arxiv.org/abs/2501.04697v1), [pdf](http://arxiv.org/pdf/2501.04697v1.pdf), cication: [**-1**](None) 
 
 	 *Lucas Prieto, Melih Barsbey, Pedro A. M. Mediano, ..., Tolga Birdal* · ([grokking-at-the-edge-of-numerical-stability.](https://github.com/LucasPrietoAl/grokking-at-the-edge-of-numerical-stability.) - LucasPrietoAl) ![Star](https://img.shields.io/github/stars/LucasPrietoAl/grokking-at-the-edge-of-numerical-stability..svg?style=social&label=Star)

@@ -31,6 +31,10 @@
 
 ## Reasoning
 
+- **Critique Fine-Tuning: Learning to Critique is More Effective than
+  Learning to Imitate**, `arXiv, 2501.17703`, [arxiv](http://arxiv.org/abs/2501.17703v3), [pdf](http://arxiv.org/pdf/2501.17703v3.pdf), cication: [**-1**](None) 
+
+	 *Yubo Wang, Xiang Yue, Wenhu Chen* · ([CritiqueFineTuning](https://github.com/TIGER-AI-Lab/CritiqueFineTuning) - TIGER-AI-Lab) ![Star](https://img.shields.io/github/stars/TIGER-AI-Lab/CritiqueFineTuning.svg?style=social&label=Star)
 - **Reasoning Language Models: A Blueprint**, `arXiv, 2501.11223`, [arxiv](http://arxiv.org/abs/2501.11223v3), [pdf](http://arxiv.org/pdf/2501.11223v3.pdf), cication: [**-1**](None) 
 
 	 *Maciej Besta, Julia Barth, Eric Schreiber, ..., Hubert Niewiadomski, Torsten Hoefler*
@@ -157,7 +161,7 @@
 
 ## Math Reasoning
 
-- **Step-KTO: Optimizing Mathematical Reasoning through Stepwise Binary
+- **Step-KTO: Optimizing Mathematical Reasoning through Stepwise Binary 
   Feedback**, `arXiv, 2501.10799`, [arxiv](http://arxiv.org/abs/2501.10799v1), [pdf](http://arxiv.org/pdf/2501.10799v1.pdf), cication: [**-1**](None) 
 
 	 *Yen-Ting Lin, Di Jin, Tengyu Xu, ..., Hao Ma, Han Fang*
@@ -221,15 +225,23 @@
 
 ## O1 Reasoning
 
+- 🌟 **s1: Simple test-time scaling**, `arXiv, 2501.19393`, [arxiv](http://arxiv.org/abs/2501.19393v2), [pdf](http://arxiv.org/pdf/2501.19393v2.pdf), cication: [**-1**](None) 
+
+	 *Niklas Muennighoff, Zitong Yang, Weijia Shi, ..., Emmanuel Candès, Tatsunori Hashimoto* · ([s1](https://github.com/simplescaling/s1) - simplescaling) ![Star](https://img.shields.io/github/stars/simplescaling/s1.svg?style=social&label=Star)
+- [a fine-tuned version of Qwen/Qwen2.5-32B-Instruct on the Bespoke-Stratos-17k dataset.](https://huggingface.co/bespokelabs/Bespoke-Stratos-32B)  🤗
+- 🌟 **Thoughts Are All Over the Place: On the Underthinking of o1-Like LLMs**, `arXiv, 2501.18585`, [arxiv](http://arxiv.org/abs/2501.18585v1), [pdf](http://arxiv.org/pdf/2501.18585v1.pdf), cication: [**-1**](None) 
+
+	 *Yue Wang, Qiuzhi Liu, Jiahao Xu, ..., Haitao Mi, Dong Yu*
+- [How DeepSeek Changes the LLM Story](https://www.youtube.com/watch?v=0eMzc-WnBfQ)  :clapper:
 - [o1复现的一点点心得](https://zhuanlan.zhihu.com/p/13872128423) 
-- 🌟 [**simpleRL-reason**](https://github.com/hkust-nlp/simpleRL-reason) - hkust-nlp ![Star](https://img.shields.io/github/stars/hkust-nlp/simpleRL-reason.svg?style=social&label=Star)
+- 🌟 [**simpleRL-reason**](https://github.com/hkust-nlp/simpleRL-reason) - hkust-nlp ![Star](https://img.shields.io/github/stars/hkust-nlp/simpleRL-reason.svg?style=social&label=Star) 
 
 	 *Emerging Reasoning with Reinforcement Learning is Both Effective and Efficient* · ([hkust-nlp.notion](https://hkust-nlp.notion.site/simplerl-reason))
-- 🌟 [**open-r1**](https://github.com/huggingface/open-r1) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/open-r1.svg?style=social&label=Star)
-- [**TinyZero**](https://github.com/Jiayi-Pan/TinyZero) - Jiayi-Pan ![Star](https://img.shields.io/github/stars/Jiayi-Pan/TinyZero.svg?style=social&label=Star)
+- 🌟 [**open-r1**](https://github.com/huggingface/open-r1) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/open-r1.svg?style=social&label=Star) 
+- [**TinyZero**](https://github.com/Jiayi-Pan/TinyZero) - Jiayi-Pan ![Star](https://img.shields.io/github/stars/Jiayi-Pan/TinyZero.svg?style=social&label=Star) 
 
 	 · ([𝕏](https://x.com/jiayi_pirate/status/1882839370505621655)) · ([wandb](https://wandb.ai/jiayipan/TinyZero))
-- [With R1, a lot of people have been asking “how come we didn't discover this 2 years ago?”](https://x.com/its_dibya/status/1883595705736163727)  𝕏
+- [With R1, a lot of people have been asking “how come we didn't discover this 2 years ago?”](https://x.com/its_dibya/status/1883595705736163727)  𝕏 
 - **O1-Pruner: Length-Harmonizing Fine-Tuning for O1-Like Reasoning Pruning**, `arXiv, 2501.12570`, [arxiv](http://arxiv.org/abs/2501.12570v2), [pdf](http://arxiv.org/pdf/2501.12570v2.pdf), cication: [**-1**](None) 
 
 	 *Haotian Luo, Li Shen, Haiying He, ..., Xiaochun Cao, Dacheng Tao* · ([O1-Pruner](https://github.com/StarDewXXX/O1-Pruner) - StarDewXXX) ![Star](https://img.shields.io/github/stars/StarDewXXX/O1-Pruner.svg?style=social&label=Star)
@@ -444,7 +456,7 @@
 
 ## Projects
 
-- [**Open-Reasoning-Tasks**](https://github.com/NousResearch/Open-Reasoning-Tasks) - NousResearch ![Star](https://img.shields.io/github/stars/NousResearch/Open-Reasoning-Tasks.svg?style=social&label=Star)
+- [**Open-Reasoning-Tasks**](https://github.com/NousResearch/Open-Reasoning-Tasks) - NousResearch ![Star](https://img.shields.io/github/stars/NousResearch/Open-Reasoning-Tasks.svg?style=social&label=Star) 
 - [**prompt-poet**](https://github.com/character-ai/prompt-poet) - character-ai ![Star](https://img.shields.io/github/stars/character-ai/prompt-poet.svg?style=social&label=Star) 
 - [**V0-system-prompt**](https://github.com/2-fly-4-ai/V0-system-prompt) - 2-fly-4-ai ![Star](https://img.shields.io/github/stars/2-fly-4-ai/V0-system-prompt.svg?style=social&label=Star) 
 
@@ -453,14 +465,17 @@
 
 ## Planning
 
+- **Learning to Plan & Reason for Evaluation with Thinking-LLM-as-a-Judge**, `arXiv, 2501.18099`, [arxiv](http://arxiv.org/abs/2501.18099v1), [pdf](http://arxiv.org/pdf/2501.18099v1.pdf), cication: [**-1**](None) 
+
+	 *Swarnadeep Saha, Xian Li, Marjan Ghazvininejad, ..., Jason Weston, Tianlu Wang* · ([𝕏](https://x.com/jaseweston/status/1885153770662760472))
 - **Dynamic Planning with a LLM**, `arXiv, 2308.06391`, [arxiv](http://arxiv.org/abs/2308.06391v1), [pdf](http://arxiv.org/pdf/2308.06391v1.pdf), cication: [**-1**](None) 
 
 	 *Gautier Dagan, Frank Keller, Alex Lascarides*
-- **On the Planning Abilities of Large Language Models (A Critical
+- **On the Planning Abilities of Large Language Models (A Critical 
   Investigation with a Proposed Benchmark)**, `arXiv, 2302.06706`, [arxiv](http://arxiv.org/abs/2302.06706v1), [pdf](http://arxiv.org/pdf/2302.06706v1.pdf), cication: [**-1**](None) 
 
 	 *Karthik Valmeekam, Sarath Sreedharan, Matthew Marquez, ..., Alberto Olmo, Subbarao Kambhampati*
-- **Phenomenal Yet Puzzling: Testing Inductive Reasoning Capabilities of
+- **Phenomenal Yet Puzzling: Testing Inductive Reasoning Capabilities of 
   Language Models with Hypothesis Refinement**, `arXiv, 2310.08559`, [arxiv](http://arxiv.org/abs/2310.08559v4), [pdf](http://arxiv.org/pdf/2310.08559v4.pdf), cication: [**-1**](None) 
 
 	 *Linlu Qiu, Liwei Jiang, Ximing Lu, ..., Nouha Dziri, Xiang Ren*

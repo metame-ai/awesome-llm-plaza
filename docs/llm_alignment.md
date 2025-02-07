@@ -12,11 +12,11 @@
 
 ## LLM Alignment
 
-- **Test-Time Preference Optimization: On-the-Fly Alignment via Iterative
+- **Test-Time Preference Optimization: On-the-Fly Alignment via Iterative 
   Textual Feedback**, `arXiv, 2501.12895`, [arxiv](http://arxiv.org/abs/2501.12895v1), [pdf](http://arxiv.org/pdf/2501.12895v1.pdf), cication: [**-1**](None) 
 
 	 *Yafu Li, Xuyang Hu, Xiaoye Qu, ..., Linjie Li, Yu Cheng* · ([TPO](https://github.com/yafuly/TPO) - yafuly) ![Star](https://img.shields.io/github/stars/yafuly/TPO.svg?style=social&label=Star)
-- **Step-KTO: Optimizing Mathematical Reasoning through Stepwise Binary
+- **Step-KTO: Optimizing Mathematical Reasoning through Stepwise Binary 
   Feedback**, `arXiv, 2501.10799`, [arxiv](http://arxiv.org/abs/2501.10799v1), [pdf](http://arxiv.org/pdf/2501.10799v1.pdf), cication: [**-1**](None) 
 
 	 *Yen-Ting Lin, Di Jin, Tengyu Xu, ..., Hao Ma, Han Fang*

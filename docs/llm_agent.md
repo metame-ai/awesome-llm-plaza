@@ -256,7 +256,7 @@
 
 ## Projects
 
-- [**awesome-llm-agents**](https://github.com/kaushikb11/awesome-llm-agents) - kaushikb11 ![Star](https://img.shields.io/github/stars/kaushikb11/awesome-llm-agents.svg?style=social&label=Star)
+- [**awesome-llm-agents**](https://github.com/kaushikb11/awesome-llm-agents) - kaushikb11 ![Star](https://img.shields.io/github/stars/kaushikb11/awesome-llm-agents.svg?style=social&label=Star) 
 - [**agent-service-toolkit**](https://github.com/JoshuaC215/agent-service-toolkit) - JoshuaC215 ![Star](https://img.shields.io/github/stars/JoshuaC215/agent-service-toolkit.svg?style=social&label=Star) 
 - [**eliza**](https://github.com/elizaOS/eliza) - elizaOS ![Star](https://img.shields.io/github/stars/elizaOS/eliza.svg?style=social&label=Star) 
 - [**crewAI**](https://github.com/crewAIInc/crewAI) - crewAIInc ![Star](https://img.shields.io/github/stars/crewAIInc/crewAI.svg?style=social&label=Star) 
@@ -297,7 +297,7 @@
 ## Multi Agent
 
 - [Chain of Agents: Large language models collaborating on long-context tasks](https://research.google/blog/chain-of-agents-large-language-models-collaborating-on-long-context-tasks/) 
-- **FilmAgent: A Multi-Agent Framework for End-to-End Film Automation in
+- **FilmAgent: A Multi-Agent Framework for End-to-End Film Automation in 
   Virtual 3D Spaces**, `arXiv, 2501.12909`, [arxiv](http://arxiv.org/abs/2501.12909v1), [pdf](http://arxiv.org/pdf/2501.12909v1.pdf), cication: [**-1**](None) 
 
 	 *Zhenran Xu, Longyue Wang, Jifang Wang, ..., Jun Yu, Min Zhang* · ([filmagent.github](https://filmagent.github.io/))

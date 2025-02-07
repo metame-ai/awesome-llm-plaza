@@ -25,6 +25,9 @@
 
 ## English Models
 
+- [Mistral Small 3](https://mistral.ai/news/mistral-small-3/) 
+- [Llama-3.1-Tulu-3-405B](https://huggingface.co/allenai/Llama-3.1-Tulu-3-405B)  🤗
+- [Virtuoso-Medium-v2 (32B) is our next-generation, 32-billion-parameter language model that builds upon the original Virtuoso-Medium architecture.](https://huggingface.co/arcee-ai/Virtuoso-Medium-v2)  🤗
 - [Helium-1 preview is a lightweight language model with 2B parameters, targeting edge and mobile devices.](https://huggingface.co/kyutai/helium-1-preview-2b)  🤗 
 - [Dolphin 3.0 is the next generation of the Dolphin series of instruct-tuned models](https://huggingface.co/cognitivecomputations/Dolphin3.0-Llama3.1-8B)  🤗 
 - **2 OLMo 2 Furious**, `arXiv, 2501.00656`, [arxiv](http://arxiv.org/abs/2501.00656v1), [pdf](http://arxiv.org/pdf/2501.00656v1.pdf), cication: [**-1**](None) 

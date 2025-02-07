@@ -17,7 +17,7 @@
 
 ## Embodied AI
 
-- **LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large
+- **LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large 
   Language Models**, `ICCV, 2023`, [arxiv](http://arxiv.org/abs/2212.04088v3), [pdf](http://arxiv.org/pdf/2212.04088v3.pdf), cication: [**-1**](None) 
 
 	 *Chan Hee Song, Jiaman Wu, Clayton Washington, ..., Wei-Lun Chao, Yu Su* · ([dki-lab.github](https://dki-lab.github.io/LLM-Planner))
@@ -78,7 +78,7 @@
 
 ## Robotics
 
-- [Deep Robotics shared a video of its Lynx robot dog parkouring on snow and crossing streams](https://x.com/adcock_brett/status/1883561429963243849)  𝕏
+- [Deep Robotics shared a video of its Lynx robot dog parkouring on snow and crossing streams](https://x.com/adcock_brett/status/1883561429963243849)  𝕏 
 - [CS 294-277, Robots That Learn (Fall 2024)](http://robots-that-learn.github.io/) 
 - [Introducing AgiBot World, the first large-scale robotic learning dataset designed to advance multi-purpose robotic policies.](https://agibot-world.com/) 
 

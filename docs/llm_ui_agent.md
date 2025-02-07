@@ -26,7 +26,7 @@
 
 ## Mobile
 
-- **CoCo-Agent: A Comprehensive Cognitive MLLM Agent for Smartphone GUI
+- **CoCo-Agent: A Comprehensive Cognitive MLLM Agent for Smartphone GUI 
   Automation**, `arXiv, 2402.11941`, [arxiv](http://arxiv.org/abs/2402.11941v3), [pdf](http://arxiv.org/pdf/2402.11941v3.pdf), cication: [**-1**](None) 
 
 	 *Xinbei Ma, Zhuosheng Zhang, Hai Zhao* · ([CoCo-Agent](https://github.com/xbmxb/CoCo-Agent) - xbmxb) ![Star](https://img.shields.io/github/stars/xbmxb/CoCo-Agent.svg?style=social&label=Star)
@@ -45,6 +45,10 @@
 
 ## Evaluation
 
+- **VisualAgentBench: Towards Large Multimodal Models as Visual Foundation
+  Agents**, `arXiv, 2408.06327`, [arxiv](http://arxiv.org/abs/2408.06327v1), [pdf](http://arxiv.org/pdf/2408.06327v1.pdf), cication: [**-1**](None) 
+
+	 *Xiao Liu, Tianjie Zhang, Yu Gu, ..., Yuxiao Dong, Jie Tang* · ([VisualAgentBench](https://github.com/THUDM/VisualAgentBench) - THUDM) ![Star](https://img.shields.io/github/stars/THUDM/VisualAgentBench.svg?style=social&label=Star)
 - **AndroidWorld: A Dynamic Benchmarking Environment for Autonomous Agents**, `arXiv, 2405.14573`, [arxiv](http://arxiv.org/abs/2405.14573v4), [pdf](http://arxiv.org/pdf/2405.14573v4.pdf), cication: [**-1**](None) 
 
 	 *Christopher Rawles, Sarah Clinckemaillie, Yifan Chang, ..., Timothy Lillicrap, Oriana Riva* · ([android_world](http://github.com/google-research/android_world) - google-research) ![Star](https://img.shields.io/github/stars/google-research/android_world.svg?style=social&label=Star)
@@ -60,17 +64,17 @@
 
 ## Misc
 
-- [a collection of algorithmic agents for user interfaces/interactions and program synthesis    Upvote 43   +33](https://huggingface.co/collections/yihaopeng/ui-agent-665fac501140dbe4562da21c)  🤗
+- [a collection of algorithmic agents for user interfaces/interactions and program synthesis    Upvote 43   +33](https://huggingface.co/collections/yihaopeng/ui-agent-665fac501140dbe4562da21c)  🤗 
 
 ## Datasets
-- **GUI Odyssey: A Comprehensive Dataset for Cross-App GUI Navigation on
+- **GUI Odyssey: A Comprehensive Dataset for Cross-App GUI Navigation on 
   Mobile Devices**, `arXiv, 2406.08451`, [arxiv](http://arxiv.org/abs/2406.08451v1), [pdf](http://arxiv.org/pdf/2406.08451v1.pdf), cication: [**-1**](None) 
 
 	 *Quanfeng Lu, Wenqi Shao, Zitao Liu, ..., Yu Qiao, Ping Luo* · ([GUI-Odyssey](https://github.com/OpenGVLab/GUI-Odyssey) - OpenGVLab) ![Star](https://img.shields.io/github/stars/OpenGVLab/GUI-Odyssey.svg?style=social&label=Star)
 - **AMEX: Android Multi-annotation Expo Dataset for Mobile GUI Agents**, `arXiv, 2407.17490`, [arxiv](http://arxiv.org/abs/2407.17490v1), [pdf](http://arxiv.org/pdf/2407.17490v1.pdf), cication: [**-1**](None) 
 
 	 *Yuxiang Chai, Siyuan Huang, Yazhe Niu, ..., Shuai Ren, Hongsheng Li* · ([yuxiangchai.github](https://yuxiangchai.github.io/AMEX/))
-- **OSCAR: Operating System Control via State-Aware Reasoning and
+- **OSCAR: Operating System Control via State-Aware Reasoning and 
   Re-Planning**, `arXiv, 2410.18963`, [arxiv](http://arxiv.org/abs/2410.18963v1), [pdf](http://arxiv.org/pdf/2410.18963v1.pdf), cication: [**-1**](None) 
 
 	 *Xiaoqiang Wang, Bang Liu*
@@ -90,7 +94,7 @@
 - **Dynamic Planning with a LLM**, `arXiv, 2308.06391`, [arxiv](http://arxiv.org/abs/2308.06391v1), [pdf](http://arxiv.org/pdf/2308.06391v1.pdf), cication: [**-1**](None) 
 
 	 *Gautier Dagan, Frank Keller, Alex Lascarides*
-- **Agent-R: Training Language Model Agents to Reflect via Iterative
+- **Agent-R: Training Language Model Agents to Reflect via Iterative 
   Self-Training**, `arXiv, 2501.11425`, [arxiv](http://arxiv.org/abs/2501.11425v1), [pdf](http://arxiv.org/pdf/2501.11425v1.pdf), cication: [**-1**](None) 
 
 	 *Siyu Yuan, Zehui Chen, Zhiheng Xi, ..., Zhengyin Du, Jiecao Chen* · ([Agent-R](https://github.com/bytedance/Agent-R) - bytedance) ![Star](https://img.shields.io/github/stars/bytedance/Agent-R.svg?style=social&label=Star)
@@ -100,15 +104,15 @@
 - **LLMs Can't Plan, But Can Help Planning in LLM-Modulo Frameworks**, `arXiv, 2402.01817`, [arxiv](http://arxiv.org/abs/2402.01817v3), [pdf](http://arxiv.org/pdf/2402.01817v3.pdf), cication: [**-1**](None) 
 
 	 *Subbarao Kambhampati, Karthik Valmeekam, Lin Guan, ..., Lucas Saldyt, Anil Murthy*
-- **On the Planning Abilities of Large Language Models (A Critical
+- **On the Planning Abilities of Large Language Models (A Critical 
   Investigation with a Proposed Benchmark)**, `arXiv, 2302.06706`, [arxiv](http://arxiv.org/abs/2302.06706v1), [pdf](http://arxiv.org/pdf/2302.06706v1.pdf), cication: [**-1**](None) 
 
 	 *Karthik Valmeekam, Sarath Sreedharan, Matthew Marquez, ..., Alberto Olmo, Subbarao Kambhampati*
-- **Phenomenal Yet Puzzling: Testing Inductive Reasoning Capabilities of
+- **Phenomenal Yet Puzzling: Testing Inductive Reasoning Capabilities of 
   Language Models with Hypothesis Refinement**, `arXiv, 2310.08559`, [arxiv](http://arxiv.org/abs/2310.08559v4), [pdf](http://arxiv.org/pdf/2310.08559v4.pdf), cication: [**-1**](None) 
 
 	 *Linlu Qiu, Liwei Jiang, Ximing Lu, ..., Nouha Dziri, Xiang Ren*
 ## Projects
-- [**Awesome-GUI-Agent**](https://github.com/showlab/Awesome-GUI-Agent) - showlab ![Star](https://img.shields.io/github/stars/showlab/Awesome-GUI-Agent.svg?style=social&label=Star)
+- [**Awesome-GUI-Agent**](https://github.com/showlab/Awesome-GUI-Agent) - showlab ![Star](https://img.shields.io/github/stars/showlab/Awesome-GUI-Agent.svg?style=social&label=Star) 
 ## Toolkits
-- 🌟 [**UI-TARS-desktop**](https://github.com/bytedance/UI-TARS-desktop) - bytedance ![Star](https://img.shields.io/github/stars/bytedance/UI-TARS-desktop.svg?style=social&label=Star)
+- 🌟 [**UI-TARS-desktop**](https://github.com/bytedance/UI-TARS-desktop) - bytedance ![Star](https://img.shields.io/github/stars/bytedance/UI-TARS-desktop.svg?style=social&label=Star) 

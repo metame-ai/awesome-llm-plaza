@@ -157,14 +157,14 @@
 
 ## Video
 
-- **InternVideo2.5: Empowering Video MLLMs with Long and Rich Context
+- **InternVideo2.5: Empowering Video MLLMs with Long and Rich Context 
   Modeling**, `arXiv, 2501.12386`, [arxiv](http://arxiv.org/abs/2501.12386v2), [pdf](http://arxiv.org/pdf/2501.12386v2.pdf), cication: [**-1**](None) 
 
 	 *Yi Wang, Xinhao Li, Ziang Yan, ..., Yali Wang, Limin Wang* · ([InternVideo](https://github.com/OpenGVLab/InternVideo/tree/main/InternVideo2.5) - OpenGVLab) ![Star](https://img.shields.io/github/stars/OpenGVLab/InternVideo.svg?style=social&label=Star)
 - **MMVU: Measuring Expert-Level Multi-Discipline Video Understanding**, `arXiv, 2501.12380`, [arxiv](http://arxiv.org/abs/2501.12380v1), [pdf](http://arxiv.org/pdf/2501.12380v1.pdf), cication: [**-1**](None) 
 
 	 *Yilun Zhao, Lujing Xie, Haowei Zhang, ..., Chen Zhao, Arman Cohan* · ([mmvu-benchmark.github](https://mmvu-benchmark.github.io)) · ([MMVU](https://github.com/yale-nlp/MMVU) - yale-nlp) ![Star](https://img.shields.io/github/stars/yale-nlp/MMVU.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/datasets/yale-nlp/MMVU)) · ([mmvu-benchmark.github](https://mmvu-benchmark.github.io/))
-- **Video-MMMU: Evaluating Knowledge Acquisition from Multi-Discipline
+- **Video-MMMU: Evaluating Knowledge Acquisition from Multi-Discipline 
   Professional Videos**, `arXiv, 2501.13826`, [arxiv](http://arxiv.org/abs/2501.13826v1), [pdf](http://arxiv.org/pdf/2501.13826v1.pdf), cication: [**-1**](None) 
 
 	 *Kairui Hu, Penghao Wu, Fanyi Pu, ..., Bo Li, Ziwei Liu*
@@ -331,7 +331,7 @@
 
 ## Alignment
 
-- **InternLM-XComposer2.5-Reward: A Simple Yet Effective Multi-Modal Reward
+- **InternLM-XComposer2.5-Reward: A Simple Yet Effective Multi-Modal Reward 
   Model**, `arXiv, 2501.12368`, [arxiv](http://arxiv.org/abs/2501.12368v1), [pdf](http://arxiv.org/pdf/2501.12368v1.pdf), cication: [**-1**](None) 
 
 	 *Yuhang Zang, Xiaoyi Dong, Pan Zhang, ..., Dahua Lin, Jiaqi Wang* · ([InternLM-XComposer](https://github.com/InternLM/InternLM-XComposer) - InternLM) ![Star](https://img.shields.io/github/stars/InternLM/InternLM-XComposer.svg?style=social&label=Star)
@@ -518,7 +518,8 @@
 
 ## Generation
 
-- **VARGPT: Unified Understanding and Generation in a Visual Autoregressive
+- 🌟 [Janus-Pro is a novel autoregressive framework that unifies multimodal understanding and generation.](https://huggingface.co/deepseek-ai/Janus-Pro-7B)  🤗
+- **VARGPT: Unified Understanding and Generation in a Visual Autoregressive 
   Multimodal Large Language Model**, `arXiv, 2501.12327`, [arxiv](http://arxiv.org/abs/2501.12327v1), [pdf](http://arxiv.org/pdf/2501.12327v1.pdf), cication: [**-1**](None) 
 
 	 *Xianwei Zhuang, Yuxin Xie, Yufan Deng, ..., Yuguo Yin, Yuexian Zou* · ([vargpt-1.github](https://vargpt-1.github.io/))
@@ -626,6 +627,12 @@
 
 ## Projects
 
+- 🌟 [**R1-V**](https://github.com/Deep-Agent/R1-V) - Deep-Agent ![Star](https://img.shields.io/github/stars/Deep-Agent/R1-V.svg?style=social&label=Star)
+
+	 *Reinforcing Super Generalization Ability in Vision Language Models with Less Than $3*
+- 🌟 [**Qwen2.5-VL**](https://github.com/QwenLM/Qwen2.5-VL) - QwenLM ![Star](https://img.shields.io/github/stars/QwenLM/Qwen2.5-VL.svg?style=social&label=Star)
+
+	 · ([qwenlm.github](https://qwenlm.github.io/blog/qwen2.5-vl/))
 - 🌟 [**DeepSeek-VL2**](https://github.com/deepseek-ai/DeepSeek-VL2) - deepseek-ai ![Star](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-VL2.svg?style=social&label=Star) 
 
 	 · ([𝕏](https://x.com/deepseek_ai/status/1867545550910017563))

@@ -13,6 +13,10 @@
 
 ## LLM Security
 
+- **Constitutional Classifiers: Defending against Universal Jailbreaks
+  across Thousands of Hours of Red Teaming**, `arXiv, 2501.18837`, [arxiv](http://arxiv.org/abs/2501.18837v1), [pdf](http://arxiv.org/pdf/2501.18837v1.pdf), cication: [**-1**](None) 
+
+	 *Mrinank Sharma, Meg Tong, Jesse Mu, ..., Jared Kaplan, Ethan Perez*
 - [Trading Inference-Time Compute for Adversarial Robustness](https://openai.com/index/trading-inference-time-compute-for-adversarial-robustness/) 
 
 	 · ([cdn.openai](https://cdn.openai.com/papers/trading-inference-time-compute-for-adversarial-robustness-20250121_1.pdf))

@@ -233,6 +233,7 @@
 
 ## Misc
 
+- 🌟 [Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI)  :clapper:
 - **Model Equality Testing: Which Model Is This API Serving?**, `arXiv, 2410.20247`, [arxiv](http://arxiv.org/abs/2410.20247v1), [pdf](http://arxiv.org/pdf/2410.20247v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=3413611661521382563&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII) 
 
 	 *Irena Gao, Percy Liang, Carlos Guestrin* · ([𝕏](https://x.com/irena_gao/status/1851273717504159911))

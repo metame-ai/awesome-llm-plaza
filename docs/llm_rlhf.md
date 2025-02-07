@@ -13,6 +13,13 @@
 
 ## RLHF
 
+- **SFT Memorizes, RL Generalizes: A Comparative Study of Foundation Model
+  Post-training**, `arXiv, 2501.17161`, [arxiv](http://arxiv.org/abs/2501.17161v1), [pdf](http://arxiv.org/pdf/2501.17161v1.pdf), cication: [**-1**](None) 
+
+	 *Tianzhe Chu, Yuexiang Zhai, Jihan Yang, ..., Sergey Levine, Yi Ma* · ([tianzhechu](https://tianzhechu.com/SFTvsRL))
+- **Diverse Preference Optimization**, `arXiv, 2501.18101`, [arxiv](http://arxiv.org/abs/2501.18101v2), [pdf](http://arxiv.org/pdf/2501.18101v2.pdf), cication: [**-1**](None) 
+
+	 *Jack Lanchantin, Angelica Chen, Shehzaad Dhuliawala, ..., Sainbayar Sukhbaatar, Ilia Kulikov* · ([𝕏](https://x.com/jaseweston/status/1885399530419450257))
 - **Enabling Scalable Oversight via Self-Evolving Critic**, `arXiv, 2501.05727`, [arxiv](http://arxiv.org/abs/2501.05727v1), [pdf](http://arxiv.org/pdf/2501.05727v1.pdf), cication: [**-1**](None) 
 
 	 *Zhengyang Tang, Ziniu Li, Zhenyang Xiao, ..., Bowen Yu, Junyang Lin*
