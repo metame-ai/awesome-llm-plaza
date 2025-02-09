@@ -67,7 +67,7 @@
 
 ## Evaluation
 
-- [SWE Arena: An Open Evaluation Platform for Vibe Coding](https://x.com/BigComProject/status/1886448143455453544)  𝕏
+- [SWE Arena: An Open Evaluation Platform for Vibe Coding](https://x.com/BigComProject/status/1886448143455453544)  𝕏 
 - **The Heap: A Contamination-Free Multilingual Code Dataset for Evaluating 
   Large Language Models**, `arXiv, 2501.09653`, [arxiv](http://arxiv.org/abs/2501.09653v1), [pdf](http://arxiv.org/pdf/2501.09653v1.pdf), cication: [**-1**](None) 
 

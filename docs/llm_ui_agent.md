@@ -45,7 +45,7 @@
 
 ## Evaluation
 
-- **VisualAgentBench: Towards Large Multimodal Models as Visual Foundation
+- **VisualAgentBench: Towards Large Multimodal Models as Visual Foundation 
   Agents**, `arXiv, 2408.06327`, [arxiv](http://arxiv.org/abs/2408.06327v1), [pdf](http://arxiv.org/pdf/2408.06327v1.pdf), cication: [**-1**](None) 
 
 	 *Xiao Liu, Tianjie Zhang, Yu Gu, ..., Yuxiao Dong, Jie Tang* · ([VisualAgentBench](https://github.com/THUDM/VisualAgentBench) - THUDM) ![Star](https://img.shields.io/github/stars/THUDM/VisualAgentBench.svg?style=social&label=Star)

@@ -23,7 +23,7 @@
 
 ## LLM Training
 
-- **Streaming DiLoCo with overlapping communication: Towards a Distributed
+- **Streaming DiLoCo with overlapping communication: Towards a Distributed 
   Free Lunch**, `arXiv, 2501.18512`, [arxiv](http://arxiv.org/abs/2501.18512v1), [pdf](http://arxiv.org/pdf/2501.18512v1.pdf), cication: [**-1**](None) 
 
 	 *Arthur Douillard, Yanislav Donchev, Keith Rush, ..., Marc'Aurelio Ranzato, Paul Barham*

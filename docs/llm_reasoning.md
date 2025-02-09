@@ -31,7 +31,14 @@
 
 ## Reasoning
 
-- **Critique Fine-Tuning: Learning to Critique is More Effective than
+- **Token Assorted: Mixing Latent and Text Tokens for Improved Language
+  Model Reasoning**, `arXiv, 2502.03275`, [arxiv](http://arxiv.org/abs/2502.03275v1), [pdf](http://arxiv.org/pdf/2502.03275v1.pdf), cication: [**-1**](None) 
+
+	 *DiJia Su, Hanlin Zhu, Yingchen Xu, ..., Yuandong Tian, Qinqing Zheng*
+- 🌟 **LIMO: Less is More for Reasoning**, `arXiv, 2502.03387`, [arxiv](http://arxiv.org/abs/2502.03387v1), [pdf](http://arxiv.org/pdf/2502.03387v1.pdf), cication: [**-1**](None) 
+
+	 *Yixin Ye, Zhen Huang, Yang Xiao, ..., Shijie Xia, Pengfei Liu* · ([LIMO](https://github.com/GAIR-NLP/LIMO) - GAIR-NLP) ![Star](https://img.shields.io/github/stars/GAIR-NLP/LIMO.svg?style=social&label=Star)
+- **Critique Fine-Tuning: Learning to Critique is More Effective than 
   Learning to Imitate**, `arXiv, 2501.17703`, [arxiv](http://arxiv.org/abs/2501.17703v3), [pdf](http://arxiv.org/pdf/2501.17703v3.pdf), cication: [**-1**](None) 
 
 	 *Yubo Wang, Xiang Yue, Wenhu Chen* · ([CritiqueFineTuning](https://github.com/TIGER-AI-Lab/CritiqueFineTuning) - TIGER-AI-Lab) ![Star](https://img.shields.io/github/stars/TIGER-AI-Lab/CritiqueFineTuning.svg?style=social&label=Star)
@@ -228,11 +235,11 @@
 - 🌟 **s1: Simple test-time scaling**, `arXiv, 2501.19393`, [arxiv](http://arxiv.org/abs/2501.19393v2), [pdf](http://arxiv.org/pdf/2501.19393v2.pdf), cication: [**-1**](None) 
 
 	 *Niklas Muennighoff, Zitong Yang, Weijia Shi, ..., Emmanuel Candès, Tatsunori Hashimoto* · ([s1](https://github.com/simplescaling/s1) - simplescaling) ![Star](https://img.shields.io/github/stars/simplescaling/s1.svg?style=social&label=Star)
-- [a fine-tuned version of Qwen/Qwen2.5-32B-Instruct on the Bespoke-Stratos-17k dataset.](https://huggingface.co/bespokelabs/Bespoke-Stratos-32B)  🤗
+- [a fine-tuned version of Qwen/Qwen2.5-32B-Instruct on the Bespoke-Stratos-17k dataset.](https://huggingface.co/bespokelabs/Bespoke-Stratos-32B)  🤗 
 - 🌟 **Thoughts Are All Over the Place: On the Underthinking of o1-Like LLMs**, `arXiv, 2501.18585`, [arxiv](http://arxiv.org/abs/2501.18585v1), [pdf](http://arxiv.org/pdf/2501.18585v1.pdf), cication: [**-1**](None) 
 
 	 *Yue Wang, Qiuzhi Liu, Jiahao Xu, ..., Haitao Mi, Dong Yu*
-- [How DeepSeek Changes the LLM Story](https://www.youtube.com/watch?v=0eMzc-WnBfQ)  :clapper:
+- [How DeepSeek Changes the LLM Story](https://www.youtube.com/watch?v=0eMzc-WnBfQ)  :clapper: 
 - [o1复现的一点点心得](https://zhuanlan.zhihu.com/p/13872128423) 
 - 🌟 [**simpleRL-reason**](https://github.com/hkust-nlp/simpleRL-reason) - hkust-nlp ![Star](https://img.shields.io/github/stars/hkust-nlp/simpleRL-reason.svg?style=social&label=Star) 
 
@@ -411,6 +418,9 @@
 
 ## Chain Of Thought
 
+- 🌟 **Demystifying Long Chain-of-Thought Reasoning in LLMs**, `arXiv, 2502.03373`, [arxiv](http://arxiv.org/abs/2502.03373v1), [pdf](http://arxiv.org/pdf/2502.03373v1.pdf), cication: [**-1**](None) 
+
+	 *Edward Yeo, Yuxuan Tong, Morry Niu, ..., Graham Neubig, Xiang Yue* · ([𝕏](https://x.com/xiangyue96/status/1887332772198371514)) · ([demystify-long-cot](https://github.com/eddycmu/demystify-long-cot) - eddycmu) ![Star](https://img.shields.io/github/stars/eddycmu/demystify-long-cot.svg?style=social&label=Star)
 - **Can We Generate Images with CoT? Let's Verify and Reinforce Image 
   Generation Step by Step**, `arXiv, 2501.13926`, [arxiv](http://arxiv.org/abs/2501.13926v1), [pdf](http://arxiv.org/pdf/2501.13926v1.pdf), cication: [**-1**](None) 
 

@@ -53,6 +53,9 @@
 
 ## Vision-Language Models
 
+- [granite-vision-3.1-2b-preview is a compact and efficient vision-language model](https://huggingface.co/ibm-granite/granite-vision-3.1-2b-preview)  🤗
+
+	 · ([𝕏](https://x.com/mervenoyann/status/1887521464292614382))
 - **Migician: Revealing the Magic of Free-Form Multi-Image Grounding in 
   Multimodal Large Language Models**, `arXiv, 2501.05767`, [arxiv](http://arxiv.org/abs/2501.05767v2), [pdf](http://arxiv.org/pdf/2501.05767v2.pdf), cication: [**-1**](None) 
 
@@ -518,7 +521,7 @@
 
 ## Generation
 
-- 🌟 [Janus-Pro is a novel autoregressive framework that unifies multimodal understanding and generation.](https://huggingface.co/deepseek-ai/Janus-Pro-7B)  🤗
+- 🌟 [Janus-Pro is a novel autoregressive framework that unifies multimodal understanding and generation.](https://huggingface.co/deepseek-ai/Janus-Pro-7B)  🤗 
 - **VARGPT: Unified Understanding and Generation in a Visual Autoregressive 
   Multimodal Large Language Model**, `arXiv, 2501.12327`, [arxiv](http://arxiv.org/abs/2501.12327v1), [pdf](http://arxiv.org/pdf/2501.12327v1.pdf), cication: [**-1**](None) 
 
@@ -627,10 +630,10 @@
 
 ## Projects
 
-- 🌟 [**R1-V**](https://github.com/Deep-Agent/R1-V) - Deep-Agent ![Star](https://img.shields.io/github/stars/Deep-Agent/R1-V.svg?style=social&label=Star)
+- 🌟 [**R1-V**](https://github.com/Deep-Agent/R1-V) - Deep-Agent ![Star](https://img.shields.io/github/stars/Deep-Agent/R1-V.svg?style=social&label=Star) 
 
 	 *Reinforcing Super Generalization Ability in Vision Language Models with Less Than $3*
-- 🌟 [**Qwen2.5-VL**](https://github.com/QwenLM/Qwen2.5-VL) - QwenLM ![Star](https://img.shields.io/github/stars/QwenLM/Qwen2.5-VL.svg?style=social&label=Star)
+- 🌟 [**Qwen2.5-VL**](https://github.com/QwenLM/Qwen2.5-VL) - QwenLM ![Star](https://img.shields.io/github/stars/QwenLM/Qwen2.5-VL.svg?style=social&label=Star) 
 
 	 · ([qwenlm.github](https://qwenlm.github.io/blog/qwen2.5-vl/))
 - 🌟 [**DeepSeek-VL2**](https://github.com/deepseek-ai/DeepSeek-VL2) - deepseek-ai ![Star](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-VL2.svg?style=social&label=Star) 

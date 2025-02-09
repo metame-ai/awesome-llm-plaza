@@ -13,7 +13,7 @@
 
 ## LLM Security
 
-- **Constitutional Classifiers: Defending against Universal Jailbreaks
+- **Constitutional Classifiers: Defending against Universal Jailbreaks 
   across Thousands of Hours of Red Teaming**, `arXiv, 2501.18837`, [arxiv](http://arxiv.org/abs/2501.18837v1), [pdf](http://arxiv.org/pdf/2501.18837v1.pdf), cication: [**-1**](None) 
 
 	 *Mrinank Sharma, Meg Tong, Jesse Mu, ..., Jared Kaplan, Ethan Perez*

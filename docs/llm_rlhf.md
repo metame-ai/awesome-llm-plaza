@@ -13,7 +13,8 @@
 
 ## RLHF
 
-- **SFT Memorizes, RL Generalizes: A Comparative Study of Foundation Model
+- 🌟 [Train your own R1 reasoning model with UnslothFeb 6, 2025 • By Daniel & Michael](https://unsloth.ai/blog/r1-reasoning) 
+- **SFT Memorizes, RL Generalizes: A Comparative Study of Foundation Model 
   Post-training**, `arXiv, 2501.17161`, [arxiv](http://arxiv.org/abs/2501.17161v1), [pdf](http://arxiv.org/pdf/2501.17161v1.pdf), cication: [**-1**](None) 
 
 	 *Tianzhe Chu, Yuexiang Zhai, Jihan Yang, ..., Sergey Levine, Yi Ma* · ([tianzhechu](https://tianzhechu.com/SFTvsRL))

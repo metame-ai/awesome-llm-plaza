@@ -197,6 +197,9 @@
 
 ## Tokenization
 
+- **Over-Tokenized Transformer: Vocabulary is Generally Worth Scaling**, `arXiv, 2501.16975`, [arxiv](http://arxiv.org/abs/2501.16975v1), [pdf](http://arxiv.org/pdf/2501.16975v1.pdf), cication: [**-1**](None) 
+
+	 *Hongzhi Huang, Defa Zhu, Banggu Wu, ..., Qiyang Min, Xun Zhou*
 - [Byte Latent Transformer: Patches Scale Better Than Tokens](https://ai.meta.com/research/publications/byte-latent-transformer-patches-scale-better-than-tokens/) 
 - [added a few lines of code to the base Llama 3 tokenizer and got a free boost in arithmetic performance](https://x.com/garrethleee/status/1860039446311371132)  𝕏 
 - **Counting Ability of Large Language Models and Impact of Tokenization**, `arXiv, 2410.19730`, [arxiv](http://arxiv.org/abs/2410.19730v2), [pdf](http://arxiv.org/pdf/2410.19730v2.pdf), cication: [**-1**](None) 
@@ -233,7 +236,7 @@
 
 ## Misc
 
-- 🌟 [Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI)  :clapper:
+- 🌟 [Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI)  :clapper: 
 - **Model Equality Testing: Which Model Is This API Serving?**, `arXiv, 2410.20247`, [arxiv](http://arxiv.org/abs/2410.20247v1), [pdf](http://arxiv.org/pdf/2410.20247v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=3413611661521382563&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII) 
 
 	 *Irena Gao, Percy Liang, Carlos Guestrin* · ([𝕏](https://x.com/irena_gao/status/1851273717504159911))
