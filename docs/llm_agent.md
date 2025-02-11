@@ -34,6 +34,13 @@
 
 ## Agents
 
+- [DABStep: Data Agent Benchmark for Multi-step Reasoning](https://huggingface.co/blog/dabstep)  🤗
+
+	 · ([𝕏](https://x.com/AymericRoucher/status/1887841993885168042))
+- **Rethinking Mixture-of-Agents: Is Mixing Different Large Language Models
+  Beneficial?**, `arXiv, 2502.00674`, [arxiv](http://arxiv.org/abs/2502.00674v1), [pdf](http://arxiv.org/pdf/2502.00674v1.pdf), cication: [**-1**](None) 
+
+	 *Wenzhe Li, Yong Lin, Mengzhou Xia, ..., Chi Jin*
 - **Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in 
   Realistic Environments**, `arXiv, 2501.10893`, [arxiv](http://arxiv.org/abs/2501.10893v1), [pdf](http://arxiv.org/pdf/2501.10893v1.pdf), cication: [**-1**](None) 
 

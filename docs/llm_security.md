@@ -13,6 +13,10 @@
 
 ## LLM Security
 
+- [Constitutional Classifiers: Defending against universal jailbreaks](https://www.anthropic.com/research/constitutional-classifiers) 
+
+	 · ([𝕏](https://x.com/AnthropicAI/status/1886452489681023333))
+- [Updating the Frontier Safety Framework](https://deepmind.google/discover/blog/updating-the-frontier-safety-framework/) 
 - **Constitutional Classifiers: Defending against Universal Jailbreaks 
   across Thousands of Hours of Red Teaming**, `arXiv, 2501.18837`, [arxiv](http://arxiv.org/abs/2501.18837v1), [pdf](http://arxiv.org/pdf/2501.18837v1.pdf), cication: [**-1**](None) 
 
@@ -69,5 +73,5 @@
 	 · ([x](https://x.com/salman_paracha/status/1848374304196719047))
 
 ## Misc
-## Misc
-- [Open Source AI Can Help America Lead in AI and Strengthen Global Security](https://about.fb.com/news/2024/11/open-source-ai-america-global-security/) 
+
+- [DeepSeek Fails Researchers' Safety Tests](https://www.pcmag.com/news/deepseek-fails-every-safety-test-thrown-at-it-by-researchers) 

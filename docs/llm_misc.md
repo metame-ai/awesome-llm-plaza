@@ -224,6 +224,7 @@
 
 ## Tutorials
 
+- [How Transformer LLMs Work](https://www.deeplearning.ai/short-courses/how-transformer-llms-work/?utm_campaign=handsonllm-launch&utm_medium=partner) 
 - [**smol-course**](https://github.com/huggingface/smol-course) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/smol-course.svg?style=social&label=Star) 
 - [Understanding LLMs from Scratch Using Middle School Math](https://towardsdatascience.com/understanding-llms-from-scratch-using-middle-school-math-e602d27ec876) 
 - [An attempt to reconstruct Ilya Sutskever's 2020 AI reading list](https://tensorlabbet.com/2024/11/11/lost-reading-items/) 

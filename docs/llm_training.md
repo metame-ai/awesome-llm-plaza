@@ -23,6 +23,7 @@
 
 ## LLM Training
 
+- 🌟 [How to Scale Your Model](https://jax-ml.github.io/scaling-book/) 
 - **Streaming DiLoCo with overlapping communication: Towards a Distributed 
   Free Lunch**, `arXiv, 2501.18512`, [arxiv](http://arxiv.org/abs/2501.18512v1), [pdf](http://arxiv.org/pdf/2501.18512v1.pdf), cication: [**-1**](None) 
 
@@ -103,6 +104,9 @@
 
 ## Optimization
 
+- **Harmonic Loss Trains Interpretable AI Models**, `arXiv, 2502.01628`, [arxiv](http://arxiv.org/abs/2502.01628v1), [pdf](http://arxiv.org/pdf/2502.01628v1.pdf), cication: [**-1**](None) 
+
+	 *David D. Baek, Ziming Liu, Riya Tyagi, ..., Max Tegmark*
 - [**C-Optim**](https://github.com/kyleliang919/C-Optim) - kyleliang919 ![Star](https://img.shields.io/github/stars/kyleliang919/C-Optim.svg?style=social&label=Star) 
 
 	 *Improving Training with One Line of Code*
@@ -168,6 +172,7 @@
 
 ## Mixture Of Experts
 
+- [详细谈谈DeepSeek MoE相关的技术发展](https://mp.weixin.qq.com/s/WFJxnTF9fGIIXPA7GQ5V2w) 
 - **Autonomy-of-Experts Models**, `arXiv, 2501.13074`, [arxiv](http://arxiv.org/abs/2501.13074v1), [pdf](http://arxiv.org/pdf/2501.13074v1.pdf), cication: [**-1**](None) 
 
 	 *Ang Lv, Ruobing Xie, Yining Qian, ..., Di Wang, Rui Yan*
@@ -226,6 +231,7 @@
 
 ## Toolkits
 
+- [**dolomite-engine**](https://github.com/IBM/dolomite-engine) - IBM ![Star](https://img.shields.io/github/stars/IBM/dolomite-engine.svg?style=social&label=Star)
 - [**lingua**](https://github.com/facebookresearch/lingua) - facebookresearch ![Star](https://img.shields.io/github/stars/facebookresearch/lingua.svg?style=social&label=Star) 
 - [Supercharging Training using float8 and FSDP2](https://pytorch.org/blog/training-using-float8-fsdp2/) 
 - [**unsloth**](https://github.com/unslothai/unsloth) - unslothai ![Star](https://img.shields.io/github/stars/unslothai/unsloth.svg?style=social&label=Star) 
@@ -250,6 +256,9 @@
 
 ## Misc
 
+- [**9a567910c1a8663f7aa04520075e0ba8**](https://gist.github.com/abacaj/9a567910c1a8663f7aa04520075e0ba8) - abacaj ![Star](https://img.shields.io/github/stars/abacaj/9a567910c1a8663f7aa04520075e0ba8.svg?style=social&label=Star)
+
+	 · ([𝕏](https://x.com/abacaj/status/1887206493700645300))
 - [What's the deal with mid-training?](https://vintagedata.org/blog/posts/what-is-mid-training) 
 
 	 · ([𝕏](https://x.com/Dorialexander/status/1875955536912691694))

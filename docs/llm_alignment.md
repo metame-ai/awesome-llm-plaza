@@ -70,7 +70,9 @@
 
 ## Projects
 
+- [**oat**](https://github.com/sail-sg/oat) - sail-sg ![Star](https://img.shields.io/github/stars/sail-sg/oat.svg?style=social&label=Star)
 
 ## Misc
 
+- [Scaling the Tülu 3 post-training recipes to surpass the performance of DeepSeek V3](https://allenai.org/blog/tulu-3-405B) 
 - [How to approach post-training for AI applications](https://www.youtube.com/watch?v=grpc-Wyy-Zg)  :clapper: 

@@ -53,7 +53,7 @@
 
 ## Vision-Language Models
 
-- [granite-vision-3.1-2b-preview is a compact and efficient vision-language model](https://huggingface.co/ibm-granite/granite-vision-3.1-2b-preview)  🤗
+- [granite-vision-3.1-2b-preview is a compact and efficient vision-language model](https://huggingface.co/ibm-granite/granite-vision-3.1-2b-preview)  🤗 
 
 	 · ([𝕏](https://x.com/mervenoyann/status/1887521464292614382))
 - **Migician: Revealing the Magic of Free-Form Multi-Image Grounding in 
@@ -365,6 +365,7 @@
 
 ## Reasoning
 
+- [**open-r1-multimodal**](https://github.com/EvolvingLMMs-Lab/open-r1-multimodal) - EvolvingLMMs-Lab ![Star](https://img.shields.io/github/stars/EvolvingLMMs-Lab/open-r1-multimodal.svg?style=social&label=Star)
 - **Imagine while Reasoning in Space: Multimodal Visualization-of-Thought**, `arXiv, 2501.07542`, [arxiv](http://arxiv.org/abs/2501.07542v1), [pdf](http://arxiv.org/pdf/2501.07542v1.pdf), cication: [**-1**](None) 
 
 	 *Chengzu Li, Wenshan Wu, Huanyu Zhang, ..., Ivan Vulić, Furu Wei*
@@ -656,6 +657,9 @@
 
 ## Misc
 
+- [deepseek-ai  / deepseek-vl2-small](https://huggingface.co/spaces/deepseek-ai/deepseek-vl2-small)  🤗
+
+	 · ([𝕏](https://x.com/reach_vb/status/1887094223469515121))
 - [Best of 2024 in Vision](https://www.youtube.com/watch?v=76EL7YVAwVo)  :clapper: 
 - [SigLIP from timm are interpretable right out-of-the-box](https://x.com/rgilman33/status/1862523581948629413)  𝕏 
 

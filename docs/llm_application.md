@@ -165,7 +165,7 @@
 
 ## Medical
 
-- [**open-health**](https://github.com/OpenHealthForAll/open-health) - OpenHealthForAll ![Star](https://img.shields.io/github/stars/OpenHealthForAll/open-health.svg?style=social&label=Star)
+- [**open-health**](https://github.com/OpenHealthForAll/open-health) - OpenHealthForAll ![Star](https://img.shields.io/github/stars/OpenHealthForAll/open-health.svg?style=social&label=Star) 
 
 	 · ([reddit](https://www.reddit.com/r/OpenAI/comments/1ij6619/how_i_built_an_open_source_ai_tool_to_find_my/))
 - **From Medprompt to o1: Exploration of Run-Time Strategies for Medical 
@@ -248,7 +248,7 @@
 
 ## UI
 
-- [**open-webui**](https://github.com/open-webui/open-webui) - open-webui ![Star](https://img.shields.io/github/stars/open-webui/open-webui.svg?style=social&label=Star)
+- [**open-webui**](https://github.com/open-webui/open-webui) - open-webui ![Star](https://img.shields.io/github/stars/open-webui/open-webui.svg?style=social&label=Star) 
 - [**fullmoon-ios**](https://github.com/mainframecomputer/fullmoon-ios) - mainframecomputer ![Star](https://img.shields.io/github/stars/mainframecomputer/fullmoon-ios.svg?style=social&label=Star) 
 - [**chainlit**](https://github.com/Chainlit/chainlit) - Chainlit ![Star](https://img.shields.io/github/stars/Chainlit/chainlit.svg?style=social&label=Star) 
 - [**cherry-studio**](https://github.com/CherryHQ/cherry-studio) - CherryHQ ![Star](https://img.shields.io/github/stars/CherryHQ/cherry-studio.svg?style=social&label=Star) 
@@ -308,7 +308,8 @@
 
 ## LLM Applications
 
-- [Open-source DeepResearch – Freeing our search agents](https://huggingface.co/blog/open-deep-research)  🤗
+- [LlamaReport Preview: Transform any Documents into Structured Reports](https://www.llamaindex.ai/blog/llamareport-preview-transform-any-documents-into-structured-reports) 
+- [Open-source DeepResearch – Freeing our search agents](https://huggingface.co/blog/open-deep-research)  🤗 
 
 	 · ([smolagents](https://github.com/huggingface/smolagents/tree/gaia-submission-r1/examples/open_deep_research) - huggingface) ![Star](https://img.shields.io/github/stars/huggingface/smolagents.svg?style=social&label=Star)
 - [Beating Google at Search with Neural PageRank and $5M of H200s — with Will Bryk of Exa.ai](https://www.latent.space/p/exa) 

@@ -20,6 +20,7 @@
 
 ## LLM Evaluation
 
+- [MathArena: Evaluating LLMs on Uncontaminated Math Competitions](https://matharena.ai/) 
 - 🌟 [Humanity's Last Exam](https://lastexam.ai/) 
 
 	 · ([hle](https://github.com/centerforaisafety/hle) - centerforaisafety) ![Star](https://img.shields.io/github/stars/centerforaisafety/hle.svg?style=social&label=Star)
@@ -128,6 +129,7 @@
 
 ## Projects
 
+- [**generalization**](https://github.com/lechmazur/generalization) - lechmazur ![Star](https://img.shields.io/github/stars/lechmazur/generalization.svg?style=social&label=Star)
 - [**MisguidedAttention**](https://github.com/cpldcpu/MisguidedAttention) - cpldcpu ![Star](https://img.shields.io/github/stars/cpldcpu/MisguidedAttention.svg?style=social&label=Star) 
 - [**mini_dev**](https://github.com/bird-bench/mini_dev) - bird-bench ![Star](https://img.shields.io/github/stars/bird-bench/mini_dev.svg?style=social&label=Star) 
 

@@ -31,7 +31,13 @@
 
 ## Reasoning
 
-- **Token Assorted: Mixing Latent and Text Tokens for Improved Language
+- **Iterate to Accelerate: A Unified Framework for Iterative Reasoning and
+  Feedback Convergence**, `arXiv, 2502.03787`, [arxiv](http://arxiv.org/abs/2502.03787v1), [pdf](http://arxiv.org/pdf/2502.03787v1.pdf), cication: [**-1**](None) 
+
+	 *Jacob Fein-Ashley*
+
+	 · ([reddit](https://www.reddit.com/r/MachineLearning/comments/1ijjq5y/r_it_turns_out_we_really_did_need_rnns/))
+- **Token Assorted: Mixing Latent and Text Tokens for Improved Language 
   Model Reasoning**, `arXiv, 2502.03275`, [arxiv](http://arxiv.org/abs/2502.03275v1), [pdf](http://arxiv.org/pdf/2502.03275v1.pdf), cication: [**-1**](None) 
 
 	 *DiJia Su, Hanlin Zhu, Yingchen Xu, ..., Yuandong Tian, Qinqing Zheng*
@@ -168,6 +174,11 @@
 
 ## Math Reasoning
 
+- [MathArena: Evaluating LLMs on Uncontaminated Math Competitions](https://matharena.ai/) 
+- 🌟 **Gold-medalist Performance in Solving Olympiad Geometry with
+  AlphaGeometry2**, `arXiv, 2502.03544`, [arxiv](http://arxiv.org/abs/2502.03544v1), [pdf](http://arxiv.org/pdf/2502.03544v1.pdf), cication: [**-1**](None) 
+
+	 *Yuri Chervonyi, Trieu H. Trinh, Miroslav Olšák, ..., Quoc V. Le, Thang Luong* · ([𝕏](https://x.com/lmthang/status/1887928665100665111))
 - **Step-KTO: Optimizing Mathematical Reasoning through Stepwise Binary 
   Feedback**, `arXiv, 2501.10799`, [arxiv](http://arxiv.org/abs/2501.10799v1), [pdf](http://arxiv.org/pdf/2501.10799v1.pdf), cication: [**-1**](None) 
 
@@ -232,6 +243,12 @@
 
 ## O1 Reasoning
 
+- [7B Model and 8K Examples: Emerging Reasoning with Reinforcement Learning is Both Effective and Efficient](https://hkust-nlp.notion.site/simplerl-reason) 
+- [There May Not be Aha Moment in R1-Zero-like Training — A Pilot Study](https://oatllm.notion.site/oat-zero) 
+- [Qwen 0.5b on GRPO](https://colab.research.google.com/drive/1bfhs1FMLW3FGa8ydvkOZyBNxLYOu0Hev?usp=sharing) 
+- [DeepScaleR: Surpassing O1-Preview with a 1.5B Model by Scaling RL](https://pretty-radio-b75.notion.site/DeepScaleR-Surpassing-O1-Preview-with-a-1-5B-Model-by-Scaling-RL-19681902c1468005bed8ca303013a4e2) 
+
+	 · ([𝕏](https://x.com/agentica_)) · ([deepscaler](https://github.com/agentica-project/deepscaler) - agentica-project) ![Star](https://img.shields.io/github/stars/agentica-project/deepscaler.svg?style=social&label=Star)
 - 🌟 **s1: Simple test-time scaling**, `arXiv, 2501.19393`, [arxiv](http://arxiv.org/abs/2501.19393v2), [pdf](http://arxiv.org/pdf/2501.19393v2.pdf), cication: [**-1**](None) 
 
 	 *Niklas Muennighoff, Zitong Yang, Weijia Shi, ..., Emmanuel Candès, Tatsunori Hashimoto* · ([s1](https://github.com/simplescaling/s1) - simplescaling) ![Star](https://img.shields.io/github/stars/simplescaling/s1.svg?style=social&label=Star)

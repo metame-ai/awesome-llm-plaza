@@ -25,7 +25,8 @@
 
 ## English Models
 
-- 🌟 **SmolLM2: When Smol Goes Big -- Data-Centric Training of a Small Language
+- [Dolphin 3.0 R1 is the next generation of the Dolphin series of instruct-tuned models.](https://huggingface.co/cognitivecomputations/Dolphin3.0-R1-Mistral-24B)  🤗
+- 🌟 **SmolLM2: When Smol Goes Big -- Data-Centric Training of a Small Language 
   Model**, `arXiv, 2502.02737`, [arxiv](http://arxiv.org/abs/2502.02737v1), [pdf](http://arxiv.org/pdf/2502.02737v1.pdf), cication: [**-1**](None) 
 
 	 *Loubna Ben Allal, Anton Lozhkov, Elie Bakouch, ..., Leandro von Werra, Thomas Wolf* · ([huggingface](https://huggingface.co/collections/HuggingFaceTB/smollm2-6723884218bcda64b34d7db9)) · ([𝕏](https://x.com/LoubnaBenAllal1/status/1887500167055560922))
