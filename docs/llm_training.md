@@ -231,7 +231,7 @@
 
 ## Toolkits
 
-- [**dolomite-engine**](https://github.com/IBM/dolomite-engine) - IBM ![Star](https://img.shields.io/github/stars/IBM/dolomite-engine.svg?style=social&label=Star)
+- [**dolomite-engine**](https://github.com/IBM/dolomite-engine) - IBM ![Star](https://img.shields.io/github/stars/IBM/dolomite-engine.svg?style=social&label=Star) 
 - [**lingua**](https://github.com/facebookresearch/lingua) - facebookresearch ![Star](https://img.shields.io/github/stars/facebookresearch/lingua.svg?style=social&label=Star) 
 - [Supercharging Training using float8 and FSDP2](https://pytorch.org/blog/training-using-float8-fsdp2/) 
 - [**unsloth**](https://github.com/unslothai/unsloth) - unslothai ![Star](https://img.shields.io/github/stars/unslothai/unsloth.svg?style=social&label=Star) 
@@ -256,7 +256,7 @@
 
 ## Misc
 
-- [**9a567910c1a8663f7aa04520075e0ba8**](https://gist.github.com/abacaj/9a567910c1a8663f7aa04520075e0ba8) - abacaj ![Star](https://img.shields.io/github/stars/abacaj/9a567910c1a8663f7aa04520075e0ba8.svg?style=social&label=Star)
+- [**9a567910c1a8663f7aa04520075e0ba8**](https://gist.github.com/abacaj/9a567910c1a8663f7aa04520075e0ba8) - abacaj ![Star](https://img.shields.io/github/stars/abacaj/9a567910c1a8663f7aa04520075e0ba8.svg?style=social&label=Star) 
 
 	 · ([𝕏](https://x.com/abacaj/status/1887206493700645300))
 - [What's the deal with mid-training?](https://vintagedata.org/blog/posts/what-is-mid-training) 

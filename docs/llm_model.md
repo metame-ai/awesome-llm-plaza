@@ -13,6 +13,13 @@
 
 ## LLM Models
 
+- **It's All in The [MASK]: Simple Instruction-Tuning Enables BERT-like
+  Masked Language Models As Generative Classifiers**, `arXiv, 2502.03793`, [arxiv](http://arxiv.org/abs/2502.03793v2), [pdf](http://arxiv.org/pdf/2502.03793v2.pdf), cication: [**-1**](None) 
+
+	 *Benjamin Clavié, Nathan Cooper, Benjamin Warner* · ([𝕏](https://x.com/bclavie/status/1888963894296936616))
+- **Enabling Autoregressive Models to Fill In Masked Tokens**, `arXiv, 2502.06901`, [arxiv](http://arxiv.org/abs/2502.06901v1), [pdf](http://arxiv.org/pdf/2502.06901v1.pdf), cication: [**-1**](None) 
+
+	 *Daniel Israel, Aditya Grover, Guy Van den Broeck*
 - [RWKV (pronounced RwaKuv) is an RNN with great LLM performance,            which can also be directly trained like a GPT transformer            (parallelizable).](https://www.rwkv.com/) 
 - [2024 in Post-Transformer Architectures: State Space Models, RWKV [Latent Space LIVE! @ NeurIPS 2024]](http://www.youtube.com/playlist?list=PLWEAb1SXhjlfG63F03R52DZXpHzVB1_5j)  :clapper: 
 - [Bamba: Inference-Efficient Hybrid Mamba2 Model](https://huggingface.co/blog/bamba)  🤗 

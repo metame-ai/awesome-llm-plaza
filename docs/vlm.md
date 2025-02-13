@@ -365,7 +365,7 @@
 
 ## Reasoning
 
-- [**open-r1-multimodal**](https://github.com/EvolvingLMMs-Lab/open-r1-multimodal) - EvolvingLMMs-Lab ![Star](https://img.shields.io/github/stars/EvolvingLMMs-Lab/open-r1-multimodal.svg?style=social&label=Star)
+- [**open-r1-multimodal**](https://github.com/EvolvingLMMs-Lab/open-r1-multimodal) - EvolvingLMMs-Lab ![Star](https://img.shields.io/github/stars/EvolvingLMMs-Lab/open-r1-multimodal.svg?style=social&label=Star) 
 - **Imagine while Reasoning in Space: Multimodal Visualization-of-Thought**, `arXiv, 2501.07542`, [arxiv](http://arxiv.org/abs/2501.07542v1), [pdf](http://arxiv.org/pdf/2501.07542v1.pdf), cication: [**-1**](None) 
 
 	 *Chengzu Li, Wenshan Wu, Huanyu Zhang, ..., Ivan Vulić, Furu Wei*
@@ -583,6 +583,10 @@
 
 ## Dataset
 
+- **Scaling Pre-training to One Hundred Billion Data for Vision Language
+  Models**, `arXiv, 2502.07617`, [arxiv](http://arxiv.org/abs/2502.07617v1), [pdf](http://arxiv.org/pdf/2502.07617v1.pdf), cication: [**-1**](None) 
+
+	 *Xiao Wang, Ibrahim Alabdulmohsin, Daniel Salz, ..., Keran Rong, Xiaohua Zhai*
 - 🌟 **2.5 Years in Class: A Multimodal Textbook for Vision-Language 
   Pretraining**, `arXiv, 2501.00958`, [arxiv](http://arxiv.org/abs/2501.00958v2), [pdf](http://arxiv.org/pdf/2501.00958v2.pdf), cication: [**-1**](None) 
 
@@ -657,7 +661,7 @@
 
 ## Misc
 
-- [deepseek-ai  / deepseek-vl2-small](https://huggingface.co/spaces/deepseek-ai/deepseek-vl2-small)  🤗
+- [deepseek-ai  / deepseek-vl2-small](https://huggingface.co/spaces/deepseek-ai/deepseek-vl2-small)  🤗 
 
 	 · ([𝕏](https://x.com/reach_vb/status/1887094223469515121))
 - [Best of 2024 in Vision](https://www.youtube.com/watch?v=76EL7YVAwVo)  :clapper: 

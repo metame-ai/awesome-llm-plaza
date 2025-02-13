@@ -31,7 +31,11 @@
 
 ## Reasoning
 
-- **Iterate to Accelerate: A Unified Framework for Iterative Reasoning and
+- 🌟 **Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth
+  Approach**, `arXiv, 2502.05171`, [arxiv](http://arxiv.org/abs/2502.05171v1), [pdf](http://arxiv.org/pdf/2502.05171v1.pdf), cication: [**-1**](None) 
+
+	 *Jonas Geiping, Sean McLeish, Neel Jain, ..., Abhinav Bhatele, Tom Goldstein* · ([huggingface](https://huggingface.co/tomg-group-umd/huginn-0125)) · ([𝕏](https://x.com/tomgoldsteincs/status/1888980680790393085))
+- **Iterate to Accelerate: A Unified Framework for Iterative Reasoning and 
   Feedback Convergence**, `arXiv, 2502.03787`, [arxiv](http://arxiv.org/abs/2502.03787v1), [pdf](http://arxiv.org/pdf/2502.03787v1.pdf), cication: [**-1**](None) 
 
 	 *Jacob Fein-Ashley*
@@ -174,8 +178,9 @@
 
 ## Math Reasoning
 
+- [OpenR1-Math-220k is a large-scale dataset for mathematical reasoning.](https://huggingface.co/datasets/open-r1/OpenR1-Math-220k)  🤗
 - [MathArena: Evaluating LLMs on Uncontaminated Math Competitions](https://matharena.ai/) 
-- 🌟 **Gold-medalist Performance in Solving Olympiad Geometry with
+- 🌟 **Gold-medalist Performance in Solving Olympiad Geometry with 
   AlphaGeometry2**, `arXiv, 2502.03544`, [arxiv](http://arxiv.org/abs/2502.03544v1), [pdf](http://arxiv.org/pdf/2502.03544v1.pdf), cication: [**-1**](None) 
 
 	 *Yuri Chervonyi, Trieu H. Trinh, Miroslav Olšák, ..., Quoc V. Le, Thang Luong* · ([𝕏](https://x.com/lmthang/status/1887928665100665111))
@@ -243,6 +248,11 @@
 
 ## O1 Reasoning
 
+- [Reasoning LLM using REINFORCE](https://charm-octagon-74d.notion.site/Reasoning-LLM-using-REINFORCE-194e4301cb9980e7b73dd8c2f0fdc6a0) 
+- **On the Emergence of Thinking in LLMs I: Searching for the Right
+  Intuition**, `arXiv, 2502.06773`, [arxiv](http://arxiv.org/abs/2502.06773v1), [pdf](http://arxiv.org/pdf/2502.06773v1.pdf), cication: [**-1**](None) 
+
+	 *Guanghao Ye, Khiem Duc Pham, Xinzhi Zhang, ..., Janardhan Kulkarni, Huseyin A. Inan*
 - [7B Model and 8K Examples: Emerging Reasoning with Reinforcement Learning is Both Effective and Efficient](https://hkust-nlp.notion.site/simplerl-reason) 
 - [There May Not be Aha Moment in R1-Zero-like Training — A Pilot Study](https://oatllm.notion.site/oat-zero) 
 - [Qwen 0.5b on GRPO](https://colab.research.google.com/drive/1bfhs1FMLW3FGa8ydvkOZyBNxLYOu0Hev?usp=sharing) 
@@ -483,6 +493,9 @@
 
 ## Projects
 
+- [**open-thoughts**](https://github.com/open-thoughts/open-thoughts) - open-thoughts ![Star](https://img.shields.io/github/stars/open-thoughts/open-thoughts.svg?style=social&label=Star)
+
+	 · ([𝕏](https://x.com/madiator/status/1884284103354376283))
 - [**Open-Reasoning-Tasks**](https://github.com/NousResearch/Open-Reasoning-Tasks) - NousResearch ![Star](https://img.shields.io/github/stars/NousResearch/Open-Reasoning-Tasks.svg?style=social&label=Star) 
 - [**prompt-poet**](https://github.com/character-ai/prompt-poet) - character-ai ![Star](https://img.shields.io/github/stars/character-ai/prompt-poet.svg?style=social&label=Star) 
 - [**V0-system-prompt**](https://github.com/2-fly-4-ai/V0-system-prompt) - 2-fly-4-ai ![Star](https://img.shields.io/github/stars/2-fly-4-ai/V0-system-prompt.svg?style=social&label=Star) 

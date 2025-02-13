@@ -13,6 +13,12 @@
 
 ## LLM Security
 
+- [J2: Jailbreaking to Jailbreak](https://scale.com/research/j2) 
+
+	 · ([𝕏](https://x.com/_zifan_wang/status/1889353245761638512))
+- [first-ever International AI Safety Report](https://x.com/Yoshua_Bengio/status/1884593469265502482)  𝕏
+
+	 · ([assets.publishing.service.gov](https://assets.publishing.service.gov.uk/media/679a0c48a77d250007d313ee/International_AI_Safety_Report_2025_accessible_f.pdf))
 - [Constitutional Classifiers: Defending against universal jailbreaks](https://www.anthropic.com/research/constitutional-classifiers) 
 
 	 · ([𝕏](https://x.com/AnthropicAI/status/1886452489681023333))
@@ -74,4 +80,5 @@
 
 ## Misc
 
+- [The Rise of AI Hackbots | Joseph Thacker | TEDxUKY](https://www.youtube.com/watch?v=Y_x6KXV1y_0)  :clapper:
 - [DeepSeek Fails Researchers' Safety Tests](https://www.pcmag.com/news/deepseek-fails-every-safety-test-thrown-at-it-by-researchers) 

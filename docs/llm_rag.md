@@ -119,7 +119,7 @@
 
 ## Evaluation
 
-- [How to Evaluate Document Extraction](https://x.com/LangChainAI/status/1885012449352704123)  𝕏
+- [How to Evaluate Document Extraction](https://x.com/LangChainAI/status/1885012449352704123)  𝕏 
 - **WebWalker: Benchmarking LLMs in Web Traversal**, `arXiv, 2501.07572`, [arxiv](http://arxiv.org/abs/2501.07572v2), [pdf](http://arxiv.org/pdf/2501.07572v2.pdf), cication: [**-1**](None) 
 
 	 *Jialong Wu, Wenbiao Yin, Yong Jiang, ..., Pengjun Xie, Fei Huang* · ([WebWalker](https://github.com/Alibaba-NLP/WebWalker) - Alibaba-NLP) ![Star](https://img.shields.io/github/stars/Alibaba-NLP/WebWalker.svg?style=social&label=Star)

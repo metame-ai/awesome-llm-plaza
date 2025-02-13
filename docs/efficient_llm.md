@@ -107,7 +107,8 @@
 
 ## Distillation
 
-- **TAID: Temporally Adaptive Interpolated Distillation for Efficient
+- [TAID: Temporally Adaptive Interpolated Distillation for Efficient Knowledge Transfer in Language Models](https://openreview.net/forum?id=cqsw28DuMW) 
+- **TAID: Temporally Adaptive Interpolated Distillation for Efficient 
   Knowledge Transfer in Language Models**, `arXiv, 2501.16937`, [arxiv](http://arxiv.org/abs/2501.16937v2), [pdf](http://arxiv.org/pdf/2501.16937v2.pdf), cication: [**-1**](None) 
 
 	 *Makoto Shing, Kou Misaki, Han Bao, ..., Sho Yokoi, Takuya Akiba* · ([TAID](https://github.com/SakanaAI/TAID) - SakanaAI) ![Star](https://img.shields.io/github/stars/SakanaAI/TAID.svg?style=social&label=Star)
@@ -237,7 +238,7 @@
 
 ## Hardware
 
-- **Ladder-residual: parallelism-aware architecture for accelerating large
+- **Ladder-residual: parallelism-aware architecture for accelerating large 
   model inference with communication overlapping**, `arXiv, 2501.06589`, [arxiv](http://arxiv.org/abs/2501.06589v4), [pdf](http://arxiv.org/pdf/2501.06589v4.pdf), cication: [**-1**](None) 
 
 	 *Muru Zhang, Mayank Mishra, Zhongzhu Zhou, ..., Ben Athiwaratkun, Tri Dao* · ([ladder-residual-inference](https://github.com/mayank31398/ladder-residual-inference) - mayank31398) ![Star](https://img.shields.io/github/stars/mayank31398/ladder-residual-inference.svg?style=social&label=Star) · ([𝕏](https://x.com/zhang_muru/status/1886870194443968529))
@@ -250,6 +251,7 @@
 
 ## Projects
 
+- [**LLMcalc**](https://github.com/Raskoll2/LLMcalc) - Raskoll2 ![Star](https://img.shields.io/github/stars/Raskoll2/LLMcalc.svg?style=social&label=Star)
 - [**nano-sparse-attention**](https://github.com/PiotrNawrot/nano-sparse-attention) - PiotrNawrot ![Star](https://img.shields.io/github/stars/PiotrNawrot/nano-sparse-attention.svg?style=social&label=Star) 
 
 	 · ([𝕏](https://x.com/p_nawrot/status/1858903361858265460))

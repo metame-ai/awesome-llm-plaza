@@ -15,6 +15,13 @@
 
 ## Code LLM
 
+- **aiXcoder-7B: A Lightweight and Effective Large Language Model for Code
+  Processing**, `arXiv, 2410.13187`, [arxiv](http://arxiv.org/abs/2410.13187v3), [pdf](http://arxiv.org/pdf/2410.13187v3.pdf), cication: [**-1**](None) 
+
+	 *Siyuan Jiang, Jia Li, He Zong, ..., Kechi Zhang, Ge Li* · ([aiXcoder-7B](https://github.com/aixcoder-plugin/aiXcoder-7B) - aixcoder-plugin) ![Star](https://img.shields.io/github/stars/aixcoder-plugin/aiXcoder-7B.svg?style=social&label=Star)
+- **Competitive Programming with Large Reasoning Models**, `arXiv, 2502.06807`, [arxiv](http://arxiv.org/abs/2502.06807v1), [pdf](http://arxiv.org/pdf/2502.06807v1.pdf), cication: [**-1**](None) 
+
+	 *OpenAI, :, Ahmed El-Kishky, ..., Vineet Kosaraju, Wenda Zhou*
 - **ChartCoder: Advancing Multimodal Large Language Model for Chart-to-Code 
   Generation**, `arXiv, 2501.06598`, [arxiv](http://arxiv.org/abs/2501.06598v1), [pdf](http://arxiv.org/pdf/2501.06598v1.pdf), cication: [**-1**](None) 
 
@@ -63,6 +70,7 @@
 
 ## Datasets
 
+- [RepoChat Blog & Dataset Release](https://x.com/lmarena_ai/status/1889741525808193635)  𝕏
 - [CUDABench](https://docs.google.com/document/d/1ZNvShNH44zuy3LwbRdMigGsuCzO4i5Yl2fgAaSDynTg/edit?tab=t.0) 
 
 ## Evaluation

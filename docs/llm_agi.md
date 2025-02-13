@@ -59,6 +59,9 @@
 
 ## AGI Insights
 
+- **Automated Capability Discovery via Model Self-Exploration**, `arXiv, 2502.07577`, [arxiv](http://arxiv.org/abs/2502.07577v2), [pdf](http://arxiv.org/pdf/2502.07577v2.pdf), cication: [**-1**](None) 
+
+	 *Cong Lu, Shengran Hu, Jeff Clune* · ([ACD](https://github.com/conglu1997/ACD?tab=readme-ov-file) - conglu1997) ![Star](https://img.shields.io/github/stars/conglu1997/ACD.svg?style=social&label=Star)
 
 ## Talks
 

@@ -20,6 +20,7 @@
 
 ## LLM Data
 
+- [OpenR1-Math-220k is a large-scale dataset for mathematical reasoning.](https://huggingface.co/datasets/open-r1/OpenR1-Math-220k)  🤗
 - [**nv-ingest**](https://github.com/NVIDIA/nv-ingest) - NVIDIA ![Star](https://img.shields.io/github/stars/NVIDIA/nv-ingest.svg?style=social&label=Star) 
 
 	 *Multi-modal data extraction*
@@ -135,12 +136,18 @@
 
 ## Reasoning
 
+- [**open-thoughts**](https://github.com/open-thoughts/open-thoughts) - open-thoughts ![Star](https://img.shields.io/github/stars/open-thoughts/open-thoughts.svg?style=social&label=Star)
+
+	 · ([𝕏](https://x.com/madiator/status/1884284103354376283))
 
 ## Action
 
 
 ## Toolkits
 
+- [**Dataset-Tools**](https://github.com/Ktiseos-Nyx/Dataset-Tools) - Ktiseos-Nyx ![Star](https://img.shields.io/github/stars/Ktiseos-Nyx/Dataset-Tools.svg?style=social&label=Star)
+
+	 *A Simple Viewer for EXIF and AI Metadata*
 - [**fastText**](https://github.com/facebookresearch/fastText) - facebookresearch ![Star](https://img.shields.io/github/stars/facebookresearch/fastText.svg?style=social&label=Star) 
 - [**dolma**](https://github.com/allenai/dolma) - allenai ![Star](https://img.shields.io/github/stars/allenai/dolma.svg?style=social&label=Star) 
 - [**docling**](https://github.com/DS4SD/docling) - DS4SD ![Star](https://img.shields.io/github/stars/DS4SD/docling.svg?style=social&label=Star) 

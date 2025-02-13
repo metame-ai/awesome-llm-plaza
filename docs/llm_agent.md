@@ -34,10 +34,10 @@
 
 ## Agents
 
-- [DABStep: Data Agent Benchmark for Multi-step Reasoning](https://huggingface.co/blog/dabstep)  🤗
+- [DABStep: Data Agent Benchmark for Multi-step Reasoning](https://huggingface.co/blog/dabstep)  🤗 
 
 	 · ([𝕏](https://x.com/AymericRoucher/status/1887841993885168042))
-- **Rethinking Mixture-of-Agents: Is Mixing Different Large Language Models
+- **Rethinking Mixture-of-Agents: Is Mixing Different Large Language Models 
   Beneficial?**, `arXiv, 2502.00674`, [arxiv](http://arxiv.org/abs/2502.00674v1), [pdf](http://arxiv.org/pdf/2502.00674v1.pdf), cication: [**-1**](None) 
 
 	 *Wenzhe Li, Yong Lin, Mengzhou Xia, ..., Chi Jin*
@@ -263,6 +263,9 @@
 
 ## Projects
 
+- [**MetaChain**](https://github.com/HKUDS/MetaChain) - HKUDS ![Star](https://img.shields.io/github/stars/HKUDS/MetaChain.svg?style=social&label=Star)
+
+	 *Fully-Automated & Zero-Code LLM Agent Framework*
 - [**awesome-llm-agents**](https://github.com/kaushikb11/awesome-llm-agents) - kaushikb11 ![Star](https://img.shields.io/github/stars/kaushikb11/awesome-llm-agents.svg?style=social&label=Star) 
 - [**agent-service-toolkit**](https://github.com/JoshuaC215/agent-service-toolkit) - JoshuaC215 ![Star](https://img.shields.io/github/stars/JoshuaC215/agent-service-toolkit.svg?style=social&label=Star) 
 - [**eliza**](https://github.com/elizaOS/eliza) - elizaOS ![Star](https://img.shields.io/github/stars/elizaOS/eliza.svg?style=social&label=Star) 
@@ -292,6 +295,7 @@
 
 ## Products
 
+- [Glean introduces Glean Agents and advances Work AI platform with the most comprehensive access to work and world knowledge](https://www.glean.com/blog/glean-agents-launch-blog) 
 - [Computer-Using Agent](https://openai.com/index/computer-using-agent/) 
 - [Common Sense Agents, a new backbone for agentic creative computing](https://x.com/CSM_ai/status/1861177717489561778)  𝕏 
 

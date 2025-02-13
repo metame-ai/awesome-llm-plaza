@@ -70,7 +70,7 @@
 
 ## Projects
 
-- [**oat**](https://github.com/sail-sg/oat) - sail-sg ![Star](https://img.shields.io/github/stars/sail-sg/oat.svg?style=social&label=Star)
+- [**oat**](https://github.com/sail-sg/oat) - sail-sg ![Star](https://img.shields.io/github/stars/sail-sg/oat.svg?style=social&label=Star) 
 
 ## Misc
 

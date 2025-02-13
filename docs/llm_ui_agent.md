@@ -67,7 +67,10 @@
 - [a collection of algorithmic agents for user interfaces/interactions and program synthesis    Upvote 43   +33](https://huggingface.co/collections/yihaopeng/ui-agent-665fac501140dbe4562da21c)  🤗 
 
 ## Datasets
-- **GUI Odyssey: A Comprehensive Dataset for Cross-App GUI Navigation on 
+
+- **Towards Internet-Scale Training For Agents**, `arXiv, 2502.06776`, [arxiv](http://arxiv.org/abs/2502.06776v1), [pdf](http://arxiv.org/pdf/2502.06776v1.pdf), cication: [**-1**](None) 
+
+	 *Brandon Trabucco, Gunnar Sigurdsson, Robinson Piramuthu, ..., Ruslan Salakhutdinov* · ([data-for-agents.github](https://data-for-agents.github.io)) · ([environment](https://github.com/data-for-agents/environment) - data-for-agents) ![Star](https://img.shields.io/github/stars/data-for-agents/environment.svg?style=social&label=Star) · ([𝕏](https://x.com/brandontrabucco/status/1889390285530300528))
   Mobile Devices**, `arXiv, 2406.08451`, [arxiv](http://arxiv.org/abs/2406.08451v1), [pdf](http://arxiv.org/pdf/2406.08451v1.pdf), cication: [**-1**](None) 
 
 	 *Quanfeng Lu, Wenqi Shao, Zitao Liu, ..., Yu Qiao, Ping Luo* · ([GUI-Odyssey](https://github.com/OpenGVLab/GUI-Odyssey) - OpenGVLab) ![Star](https://img.shields.io/github/stars/OpenGVLab/GUI-Odyssey.svg?style=social&label=Star)

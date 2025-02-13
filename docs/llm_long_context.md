@@ -13,6 +13,9 @@
 
 ## Long Context
 
+- 🌟 **LM2: Large Memory Models**, `arXiv, 2502.06049`, [arxiv](http://arxiv.org/abs/2502.06049v1), [pdf](http://arxiv.org/pdf/2502.06049v1.pdf), cication: [**-1**](None) 
+
+	 *Jikun Kang, Wenqi Wu, Filippos Christianos, ..., Marvin Purtorab, Andy Toulis*
 - [Qwen2.5-1M: Deploy Your Own Qwen with Context Length up to 1M Tokens](https://qwenlm.github.io/blog/qwen2.5-1m/) 
 - **Titans: Learning to Memorize at Test Time**, `arXiv, 2501.00663`, [arxiv](http://arxiv.org/abs/2501.00663v1), [pdf](http://arxiv.org/pdf/2501.00663v1.pdf), cication: [**-1**](None) 
 

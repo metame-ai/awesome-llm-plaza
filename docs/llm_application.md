@@ -27,6 +27,9 @@
 
 ## Survey
 
+- [The Anthropic Economic Index](https://www.anthropic.com/news/the-anthropic-economic-index) 
+
+	 · ([𝕏](https://x.com/AnthropicAI/status/1888954156422992108))
 - **LLM4SR: A Survey on Large Language Models for Scientific Research**, `arXiv, 2501.04306`, [arxiv](http://arxiv.org/abs/2501.04306v1), [pdf](http://arxiv.org/pdf/2501.04306v1.pdf), cication: [**-1**](None) 
 
 	 *Ziming Luo, Zonglin Yang, Zexin Xu, ..., Wei Yang, Xinya Du* · ([LLM4SR](https://github.com/du-nlp-lab/LLM4SR) - du-nlp-lab) ![Star](https://img.shields.io/github/stars/du-nlp-lab/LLM4SR.svg?style=social&label=Star)
@@ -41,6 +44,7 @@
 
 ## Education
 
+- [2025年生成式AI在教育的8个趋势](https://36kr.com/p/3162939484274178) 
 - **LearnLM: Improving Gemini for Learning**, `arXiv, 2412.16429`, [arxiv](http://arxiv.org/abs/2412.16429v1), [pdf](http://arxiv.org/pdf/2412.16429v1.pdf), cication: [**-1**](None) 
 
 	 *LearnLM Team, Abhinit Modi, Aditya Srikanth Veerubhotla, ..., Viknesh Sounderajah, Yannis Assael*
@@ -165,6 +169,9 @@
 
 ## Medical
 
+- **NatureLM: Deciphering the Language of Nature for Scientific Discovery**, `arXiv, 2502.07527`, [arxiv](http://arxiv.org/abs/2502.07527v1), [pdf](http://arxiv.org/pdf/2502.07527v1.pdf), cication: [**-1**](None) 
+
+	 *Yingce Xia, Peiran Jin, Shufang Xie, ..., Haiguang Liu, Tao Qin*
 - [**open-health**](https://github.com/OpenHealthForAll/open-health) - OpenHealthForAll ![Star](https://img.shields.io/github/stars/OpenHealthForAll/open-health.svg?style=social&label=Star) 
 
 	 · ([reddit](https://www.reddit.com/r/OpenAI/comments/1ij6619/how_i_built_an_open_source_ai_tool_to_find_my/))
@@ -248,6 +255,9 @@
 
 ## UI
 
+- [MonsterUI: Beautiful Python Web Apps in Minutes](https://www.youtube.com/watch?v=EtZ4pEzPMcc)  :clapper:
+
+	 · ([𝕏](https://x.com/isaac_flath/status/1889409120580841865)) · ([monsterui.answer](https://monsterui.answer.ai/))
 - [**open-webui**](https://github.com/open-webui/open-webui) - open-webui ![Star](https://img.shields.io/github/stars/open-webui/open-webui.svg?style=social&label=Star) 
 - [**fullmoon-ios**](https://github.com/mainframecomputer/fullmoon-ios) - mainframecomputer ![Star](https://img.shields.io/github/stars/mainframecomputer/fullmoon-ios.svg?style=social&label=Star) 
 - [**chainlit**](https://github.com/Chainlit/chainlit) - Chainlit ![Star](https://img.shields.io/github/stars/Chainlit/chainlit.svg?style=social&label=Star) 
@@ -271,6 +281,9 @@
 
 ## Projects
 
+- [**MetaChain**](https://github.com/HKUDS/MetaChain) - HKUDS ![Star](https://img.shields.io/github/stars/HKUDS/MetaChain.svg?style=social&label=Star)
+
+	 *Fully-Automated & Zero-Code LLM Agent Framework*
 - [**Baichuan-M1-14B**](https://github.com/baichuan-inc/Baichuan-M1-14B) - baichuan-inc ![Star](https://img.shields.io/github/stars/baichuan-inc/Baichuan-M1-14B.svg?style=social&label=Star) 
 - [**awesome-deepseek-integration**](https://github.com/deepseek-ai/awesome-deepseek-integration) - deepseek-ai ![Star](https://img.shields.io/github/stars/deepseek-ai/awesome-deepseek-integration.svg?style=social&label=Star) 
 - [**WrenAI**](https://github.com/Canner/WrenAI) - Canner ![Star](https://img.shields.io/github/stars/Canner/WrenAI.svg?style=social&label=Star) 
