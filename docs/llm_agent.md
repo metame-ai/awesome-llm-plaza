@@ -263,7 +263,7 @@
 
 ## Projects
 
-- [**MetaChain**](https://github.com/HKUDS/MetaChain) - HKUDS ![Star](https://img.shields.io/github/stars/HKUDS/MetaChain.svg?style=social&label=Star)
+- [**MetaChain**](https://github.com/HKUDS/MetaChain) - HKUDS ![Star](https://img.shields.io/github/stars/HKUDS/MetaChain.svg?style=social&label=Star) 
 
 	 *Fully-Automated & Zero-Code LLM Agent Framework*
 - [**awesome-llm-agents**](https://github.com/kaushikb11/awesome-llm-agents) - kaushikb11 ![Star](https://img.shields.io/github/stars/kaushikb11/awesome-llm-agents.svg?style=social&label=Star) 

@@ -18,6 +18,10 @@
 
 ## RAG
 
+- **SelfCite: Self-Supervised Alignment for Context Attribution in Large
+  Language Models**, `arXiv, 2502.09604`, [arxiv](http://arxiv.org/abs/2502.09604v1), [pdf](http://arxiv.org/pdf/2502.09604v1.pdf), cication: [**-1**](None) 
+
+	 *Yung-Sung Chuang, Benjamin Cohen-Wang, Shannon Zejiang Shen, ..., Shang-Wen Li, Wen-tau Yih*
 - **Chain-of-Retrieval Augmented Generation**, `arXiv, 2501.14342`, [arxiv](http://arxiv.org/abs/2501.14342v1), [pdf](http://arxiv.org/pdf/2501.14342v1.pdf), cication: [**-1**](None) 
 
 	 *Liang Wang, Haonan Chen, Nan Yang, ..., Zhicheng Dou, Furu Wei*

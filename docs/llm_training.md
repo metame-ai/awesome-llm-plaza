@@ -172,6 +172,10 @@
 
 ## Mixture Of Experts
 
+- **Parameters vs FLOPs: Scaling Laws for Optimal Sparsity for
+  Mixture-of-Experts Language Models**, `arXiv, 2501.12370`, [arxiv](http://arxiv.org/abs/2501.12370v2), [pdf](http://arxiv.org/pdf/2501.12370v2.pdf), cication: [**-1**](None) 
+
+	 *Samira Abnar, Harshay Shah, Dan Busbridge, ..., Josh Susskind, Vimal Thilak*
 - [详细谈谈DeepSeek MoE相关的技术发展](https://mp.weixin.qq.com/s/WFJxnTF9fGIIXPA7GQ5V2w) 
 - **Autonomy-of-Experts Models**, `arXiv, 2501.13074`, [arxiv](http://arxiv.org/abs/2501.13074v1), [pdf](http://arxiv.org/pdf/2501.13074v1.pdf), cication: [**-1**](None) 
 

@@ -583,7 +583,7 @@
 
 ## Dataset
 
-- **Scaling Pre-training to One Hundred Billion Data for Vision Language
+- **Scaling Pre-training to One Hundred Billion Data for Vision Language 
   Models**, `arXiv, 2502.07617`, [arxiv](http://arxiv.org/abs/2502.07617v1), [pdf](http://arxiv.org/pdf/2502.07617v1.pdf), cication: [**-1**](None) 
 
 	 *Xiao Wang, Ibrahim Alabdulmohsin, Daniel Salz, ..., Keran Rong, Xiaohua Zhai*

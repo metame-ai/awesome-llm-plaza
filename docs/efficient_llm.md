@@ -43,6 +43,9 @@
 
 ## Efficient LLM
 
+- **Distillation Scaling Laws**, `arXiv, 2502.08606`, [arxiv](http://arxiv.org/abs/2502.08606v1), [pdf](http://arxiv.org/pdf/2502.08606v1.pdf), cication: [**-1**](None) 
+
+	 *Dan Busbridge, Amitis Shidani, Floris Weers, ..., Etai Littwin, Russ Webb*
 - **Sigma: Differential Rescaling of Query, Key and Value for Efficient 
   Language Models**, `arXiv, 2501.13629`, [arxiv](http://arxiv.org/abs/2501.13629v1), [pdf](http://arxiv.org/pdf/2501.13629v1.pdf), cication: [**-1**](None) 
 
@@ -251,7 +254,7 @@
 
 ## Projects
 
-- [**LLMcalc**](https://github.com/Raskoll2/LLMcalc) - Raskoll2 ![Star](https://img.shields.io/github/stars/Raskoll2/LLMcalc.svg?style=social&label=Star)
+- [**LLMcalc**](https://github.com/Raskoll2/LLMcalc) - Raskoll2 ![Star](https://img.shields.io/github/stars/Raskoll2/LLMcalc.svg?style=social&label=Star) 
 - [**nano-sparse-attention**](https://github.com/PiotrNawrot/nano-sparse-attention) - PiotrNawrot ![Star](https://img.shields.io/github/stars/PiotrNawrot/nano-sparse-attention.svg?style=social&label=Star) 
 
 	 · ([𝕏](https://x.com/p_nawrot/status/1858903361858265460))

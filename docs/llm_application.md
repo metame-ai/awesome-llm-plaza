@@ -255,7 +255,7 @@
 
 ## UI
 
-- [MonsterUI: Beautiful Python Web Apps in Minutes](https://www.youtube.com/watch?v=EtZ4pEzPMcc)  :clapper:
+- [MonsterUI: Beautiful Python Web Apps in Minutes](https://www.youtube.com/watch?v=EtZ4pEzPMcc)  :clapper: 
 
 	 · ([𝕏](https://x.com/isaac_flath/status/1889409120580841865)) · ([monsterui.answer](https://monsterui.answer.ai/))
 - [**open-webui**](https://github.com/open-webui/open-webui) - open-webui ![Star](https://img.shields.io/github/stars/open-webui/open-webui.svg?style=social&label=Star) 
@@ -281,7 +281,8 @@
 
 ## Projects
 
-- [**MetaChain**](https://github.com/HKUDS/MetaChain) - HKUDS ![Star](https://img.shields.io/github/stars/HKUDS/MetaChain.svg?style=social&label=Star)
+- [**node-DeepResearch**](https://github.com/jina-ai/node-DeepResearch) - jina-ai ![Star](https://img.shields.io/github/stars/jina-ai/node-DeepResearch.svg?style=social&label=Star)
+- [**MetaChain**](https://github.com/HKUDS/MetaChain) - HKUDS ![Star](https://img.shields.io/github/stars/HKUDS/MetaChain.svg?style=social&label=Star) 
 
 	 *Fully-Automated & Zero-Code LLM Agent Framework*
 - [**Baichuan-M1-14B**](https://github.com/baichuan-inc/Baichuan-M1-14B) - baichuan-inc ![Star](https://img.shields.io/github/stars/baichuan-inc/Baichuan-M1-14B.svg?style=social&label=Star) 

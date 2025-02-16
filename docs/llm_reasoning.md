@@ -18,6 +18,9 @@
 
 ## Survey
 
+- **Logical Reasoning in Large Language Models: A Survey**, `arXiv, 2502.09100`, [arxiv](http://arxiv.org/abs/2502.09100v1), [pdf](http://arxiv.org/pdf/2502.09100v1.pdf), cication: [**-1**](None) 
+
+	 *Hanmeng Liu, Zhizhang Fu, Mengru Ding, ..., Xiaozhang Liu, Yue Zhang*
 - 🌟 **Towards Large Reasoning Models: A Survey on Scaling LLM Reasoning 
   Capabilities**, `arXiv, 2501.09686`, [arxiv](http://arxiv.org/abs/2501.09686v2), [pdf](http://arxiv.org/pdf/2501.09686v2.pdf), cication: [**-1**](None) 
 
@@ -31,7 +34,7 @@
 
 ## Reasoning
 
-- 🌟 **Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth
+- 🌟 **Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth 
   Approach**, `arXiv, 2502.05171`, [arxiv](http://arxiv.org/abs/2502.05171v1), [pdf](http://arxiv.org/pdf/2502.05171v1.pdf), cication: [**-1**](None) 
 
 	 *Jonas Geiping, Sean McLeish, Neel Jain, ..., Abhinav Bhatele, Tom Goldstein* · ([huggingface](https://huggingface.co/tomg-group-umd/huginn-0125)) · ([𝕏](https://x.com/tomgoldsteincs/status/1888980680790393085))
@@ -178,7 +181,7 @@
 
 ## Math Reasoning
 
-- [OpenR1-Math-220k is a large-scale dataset for mathematical reasoning.](https://huggingface.co/datasets/open-r1/OpenR1-Math-220k)  🤗
+- [OpenR1-Math-220k is a large-scale dataset for mathematical reasoning.](https://huggingface.co/datasets/open-r1/OpenR1-Math-220k)  🤗 
 - [MathArena: Evaluating LLMs on Uncontaminated Math Competitions](https://matharena.ai/) 
 - 🌟 **Gold-medalist Performance in Solving Olympiad Geometry with 
   AlphaGeometry2**, `arXiv, 2502.03544`, [arxiv](http://arxiv.org/abs/2502.03544v1), [pdf](http://arxiv.org/pdf/2502.03544v1.pdf), cication: [**-1**](None) 
@@ -249,7 +252,7 @@
 ## O1 Reasoning
 
 - [Reasoning LLM using REINFORCE](https://charm-octagon-74d.notion.site/Reasoning-LLM-using-REINFORCE-194e4301cb9980e7b73dd8c2f0fdc6a0) 
-- **On the Emergence of Thinking in LLMs I: Searching for the Right
+- **On the Emergence of Thinking in LLMs I: Searching for the Right 
   Intuition**, `arXiv, 2502.06773`, [arxiv](http://arxiv.org/abs/2502.06773v1), [pdf](http://arxiv.org/pdf/2502.06773v1.pdf), cication: [**-1**](None) 
 
 	 *Guanghao Ye, Khiem Duc Pham, Xinzhi Zhang, ..., Janardhan Kulkarni, Huseyin A. Inan*
@@ -493,7 +496,7 @@
 
 ## Projects
 
-- [**open-thoughts**](https://github.com/open-thoughts/open-thoughts) - open-thoughts ![Star](https://img.shields.io/github/stars/open-thoughts/open-thoughts.svg?style=social&label=Star)
+- [**open-thoughts**](https://github.com/open-thoughts/open-thoughts) - open-thoughts ![Star](https://img.shields.io/github/stars/open-thoughts/open-thoughts.svg?style=social&label=Star) 
 
 	 · ([𝕏](https://x.com/madiator/status/1884284103354376283))
 - [**Open-Reasoning-Tasks**](https://github.com/NousResearch/Open-Reasoning-Tasks) - NousResearch ![Star](https://img.shields.io/github/stars/NousResearch/Open-Reasoning-Tasks.svg?style=social&label=Star) 

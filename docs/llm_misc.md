@@ -237,7 +237,7 @@
 
 ## Misc
 
-- [Jeff Dean & Noam Shazeer – 25 years at Google: from PageRank to AGI](https://www.youtube.com/watch?v=v0gjI__RyCY)  :clapper:
+- [Jeff Dean & Noam Shazeer – 25 years at Google: from PageRank to AGI](https://www.youtube.com/watch?v=v0gjI__RyCY)  :clapper: 
 - [Turning Up the Heat: Min-p Sampling for Creative and Coherent LLM Outputs](https://openreview.net/forum?id=FBkpCyujtS) 
 - 🌟 [Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI)  :clapper: 
 - **Model Equality Testing: Which Model Is This API Serving?**, `arXiv, 2410.20247`, [arxiv](http://arxiv.org/abs/2410.20247v1), [pdf](http://arxiv.org/pdf/2410.20247v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=3413611661521382563&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII) 

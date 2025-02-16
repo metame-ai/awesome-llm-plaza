@@ -112,11 +112,12 @@
 
 ## Reasoning
 
-- [This is a 32B reasoning model trained from Qwen2.5-32B-Instruct with 17K data.](https://huggingface.co/NovaSky-AI/Sky-T1-32B-Preview)  🤗
+- [DeepHermes 3 Preview is the latest version of our flagship Hermes series of LLMs by Nous Research](https://huggingface.co/NousResearch/DeepHermes-3-Llama-3-8B-Preview)  🤗
+- [This is a 32B reasoning model trained from Qwen2.5-32B-Instruct with 17K data.](https://huggingface.co/NovaSky-AI/Sky-T1-32B-Preview)  🤗 
 
 	 · ([𝕏](https://x.com/NovaSkyAI/status/1877793041957933347))
-- [Bespoke-Stratos-32B, our reasoning model distilled from DeepSeek-R1 using Berkeley NovaSky’s Sky-T1 recipe.](https://x.com/madiator/status/1882131706515525919)  𝕏
-- [OpenThinker-32B](https://huggingface.co/open-thoughts/OpenThinker-32B)  🤗
+- [Bespoke-Stratos-32B, our reasoning model distilled from DeepSeek-R1 using Berkeley NovaSky’s Sky-T1 recipe.](https://x.com/madiator/status/1882131706515525919)  𝕏 
+- [OpenThinker-32B](https://huggingface.co/open-thoughts/OpenThinker-32B)  🤗 
 
 	 · ([huggingface](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k)) · ([LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - hiyouga) ![Star](https://img.shields.io/github/stars/hiyouga/LLaMA-Factory.svg?style=social&label=Star)
 ## Small Language Models
