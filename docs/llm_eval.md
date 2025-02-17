@@ -20,6 +20,9 @@
 
 ## LLM Evaluation
 
+- **Atla Selene Mini: A General Purpose Evaluation Model**, `arXiv, 2501.17195`, [arxiv](http://arxiv.org/abs/2501.17195v1), [pdf](http://arxiv.org/pdf/2501.17195v1.pdf), cication: [**-1**](None) 
+
+	 *Andrei Alexandru, Antonia Calvi, Henry Broomfield, ..., Toby Drane, Young Sun Park* · ([huggingface](https://huggingface.co/AtlaAI/Selene-1-Mini-Llama-3.1-8B))
 - [MathArena: Evaluating LLMs on Uncontaminated Math Competitions](https://matharena.ai/) 
 - 🌟 [Humanity's Last Exam](https://lastexam.ai/) 
 

@@ -47,6 +47,13 @@
 
 ## Interpretability
 
+- **Open Problems in Mechanistic Interpretability**, `arXiv, 2501.16496`, [arxiv](http://arxiv.org/abs/2501.16496v1), [pdf](http://arxiv.org/pdf/2501.16496v1.pdf), cication: [**-1**](None) 
+
+	 *Lee Sharkey, Bilal Chughtai, Joshua Batson, ..., Daniel Murfet, Tom McGrath*
+- 🌟 **Analyze Feature Flow to Enhance Interpretation and Steering in Language
+  Models**, `arXiv, 2502.03032`, [arxiv](http://arxiv.org/abs/2502.03032v2), [pdf](http://arxiv.org/pdf/2502.03032v2.pdf), cication: [**-1**](None) 
+
+	 *Daniil Laptev, Nikita Balagansky, Yaroslav Aksenov, ..., Daniil Gavrilov*
 - [Announcing Open-Source SAEs for Llama 3.3 70B and Llama 3.1 8B](https://www.goodfire.ai/blog/sae-open-source-announcement/) 
 
 	 · ([𝕏](https://x.com/GoodfireAI/status/1877777694936694962))

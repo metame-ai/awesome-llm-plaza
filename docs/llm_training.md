@@ -23,6 +23,18 @@
 
 ## LLM Training
 
+- **Gemstones: A Model Suite for Multi-Faceted Scaling Laws**, `arXiv, 2502.06857`, [arxiv](http://arxiv.org/abs/2502.06857v1), [pdf](http://arxiv.org/pdf/2502.06857v1.pdf), cication: [**-1**](None) 
+
+	 *Sean McLeish, John Kirchenbauer, David Yu Miller, ..., Ashwinee Panda, Tom Goldstein* · ([huggingface](https://huggingface.co/collections/tomg-group-umd/gemstone-models-679408ee3f19f1d4d00e8b10)) · ([gemstone-scaling-laws](https://github.com/mcleish7/gemstone-scaling-laws) - mcleish7) ![Star](https://img.shields.io/github/stars/mcleish7/gemstone-scaling-laws.svg?style=social&label=Star)
+- **Optimizing Large Language Model Training Using FP4 Quantization**, `arXiv, 2501.17116`, [arxiv](http://arxiv.org/abs/2501.17116v1), [pdf](http://arxiv.org/pdf/2501.17116v1.pdf), cication: [**-1**](None) 
+
+	 *Ruizhe Wang, Yeyun Gong, Xiao Liu, ..., Zhengjun Zha, Peng Cheng*
+- **Scaling Embedding Layers in Language Models**, `arXiv, 2502.01637`, [arxiv](http://arxiv.org/abs/2502.01637v1), [pdf](http://arxiv.org/pdf/2502.01637v1.pdf), cication: [**-1**](None) 
+
+	 *Da Yu, Edith Cohen, Badih Ghazi, ..., Daogao Liu, Chiyuan Zhang*
+- **RandLoRA: Full-rank parameter-efficient fine-tuning of large models**, `arXiv, 2502.00987`, [arxiv](http://arxiv.org/abs/2502.00987v1), [pdf](http://arxiv.org/pdf/2502.00987v1.pdf), cication: [**-1**](None) 
+
+	 *Paul Albert, Frederic Z. Zhang, Hemanth Saratchandran, ..., Anton van den Hengel, Ehsan Abbasnejad*
 - 🌟 [How to Scale Your Model](https://jax-ml.github.io/scaling-book/) 
 - **Streaming DiLoCo with overlapping communication: Towards a Distributed 
   Free Lunch**, `arXiv, 2501.18512`, [arxiv](http://arxiv.org/abs/2501.18512v1), [pdf](http://arxiv.org/pdf/2501.18512v1.pdf), cication: [**-1**](None) 
@@ -172,7 +184,7 @@
 
 ## Mixture Of Experts
 
-- **Parameters vs FLOPs: Scaling Laws for Optimal Sparsity for
+- **Parameters vs FLOPs: Scaling Laws for Optimal Sparsity for 
   Mixture-of-Experts Language Models**, `arXiv, 2501.12370`, [arxiv](http://arxiv.org/abs/2501.12370v2), [pdf](http://arxiv.org/pdf/2501.12370v2.pdf), cication: [**-1**](None) 
 
 	 *Samira Abnar, Harshay Shah, Dan Busbridge, ..., Josh Susskind, Vimal Thilak*

@@ -43,6 +43,14 @@
 
 ## Efficient LLM
 
+- **iFormer: Integrating ConvNet and Transformer for Mobile Application**, `arXiv, 2501.15369`, [arxiv](http://arxiv.org/abs/2501.15369v1), [pdf](http://arxiv.org/pdf/2501.15369v1.pdf), cication: [**-1**](None) 
+
+	 *Chuanyang Zheng*
+
+	 · ([iFormer](https://github.com/ChuanyangZheng/iFormer) - ChuanyangZheng) ![Star](https://img.shields.io/github/stars/ChuanyangZheng/iFormer.svg?style=social&label=Star)
+- 🌟 **Reward-Guided Speculative Decoding for Efficient LLM Reasoning**, `arXiv, 2501.19324`, [arxiv](http://arxiv.org/abs/2501.19324v2), [pdf](http://arxiv.org/pdf/2501.19324v2.pdf), cication: [**-1**](None) 
+
+	 *Baohao Liao, Yuhui Xu, Hanze Dong, ..., Doyen Sahoo, Caiming Xiong*
 - **Distillation Scaling Laws**, `arXiv, 2502.08606`, [arxiv](http://arxiv.org/abs/2502.08606v1), [pdf](http://arxiv.org/pdf/2502.08606v1.pdf), cication: [**-1**](None) 
 
 	 *Dan Busbridge, Amitis Shidani, Floris Weers, ..., Etai Littwin, Russ Webb*
@@ -80,6 +88,12 @@
 
 ## Quantization
 
+- **Optimizing Large Language Model Training Using FP4 Quantization**, `arXiv, 2501.17116`, [arxiv](http://arxiv.org/abs/2501.17116v1), [pdf](http://arxiv.org/pdf/2501.17116v1.pdf), cication: [**-1**](None) 
+
+	 *Ruizhe Wang, Yeyun Gong, Xiao Liu, ..., Zhengjun Zha, Peng Cheng*
+- **QuEST: Stable Training of LLMs with 1-Bit Weights and Activations**, `arXiv, 2502.05003`, [arxiv](http://arxiv.org/abs/2502.05003v1), [pdf](http://arxiv.org/pdf/2502.05003v1.pdf), cication: [**-1**](None) 
+
+	 *Andrei Panferov, Jiale Chen, Soroush Tabesh, ..., Mahdi Nikdan, Dan Alistarh* · ([QuEST](https://github.com/IST-DASLab/QuEST) - IST-DASLab) ![Star](https://img.shields.io/github/stars/IST-DASLab/QuEST.svg?style=social&label=Star)
 - [Unsloth - Dynamic 4-bit Quantization](https://unsloth.ai/blog/dynamic-4bit) 
 
 	 · ([𝕏](https://x.com/UnslothAI/status/1864384960666456535))

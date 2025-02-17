@@ -53,6 +53,10 @@
 
 ## Vision-Language Models
 
+- **AlignVLM: Bridging Vision and Language Latent Spaces for Multimodal
+  Understanding**, `arXiv, 2502.01341`, [arxiv](http://arxiv.org/abs/2502.01341v1), [pdf](http://arxiv.org/pdf/2502.01341v1.pdf), cication: [**-1**](None) 
+
+	 *Ahmed Masry, Juan A. Rodriguez, Tianyu Zhang, ..., Spandana Gella, Sai Rajeswar*
 - [granite-vision-3.1-2b-preview is a compact and efficient vision-language model](https://huggingface.co/ibm-granite/granite-vision-3.1-2b-preview)  🤗 
 
 	 · ([𝕏](https://x.com/mervenoyann/status/1887521464292614382))
@@ -365,6 +369,13 @@
 
 ## Reasoning
 
+- **The Jumping Reasoning Curve? Tracking the Evolution of Reasoning
+  Performance in GPT-[n] and o-[n] Models on Multimodal Puzzles**, `arXiv, 2502.01081`, [arxiv](http://arxiv.org/abs/2502.01081v1), [pdf](http://arxiv.org/pdf/2502.01081v1.pdf), cication: [**-1**](None) 
+
+	 *Vernon Y. H. Toh, Yew Ken Chia, Deepanway Ghosal, ..., Soujanya Poria* · ([LLM-PuzzleTest](https://github.com/declare-lab/LLM-PuzzleTest) - declare-lab) ![Star](https://img.shields.io/github/stars/declare-lab/LLM-PuzzleTest.svg?style=social&label=Star)
+- **Boosting Multimodal Reasoning with MCTS-Automated Structured Thinking**, `arXiv, 2502.02339`, [arxiv](http://arxiv.org/abs/2502.02339v2), [pdf](http://arxiv.org/pdf/2502.02339v2.pdf), cication: [**-1**](None) 
+
+	 *Jinyang Wu, Mingkuan Feng, Shuai Zhang, ..., Zengqi Wen, Jianhua Tao*
 - [**open-r1-multimodal**](https://github.com/EvolvingLMMs-Lab/open-r1-multimodal) - EvolvingLMMs-Lab ![Star](https://img.shields.io/github/stars/EvolvingLMMs-Lab/open-r1-multimodal.svg?style=social&label=Star) 
 - **Imagine while Reasoning in Space: Multimodal Visualization-of-Thought**, `arXiv, 2501.07542`, [arxiv](http://arxiv.org/abs/2501.07542v1), [pdf](http://arxiv.org/pdf/2501.07542v1.pdf), cication: [**-1**](None) 
 
@@ -408,6 +419,14 @@
 
 ## Evaluation
 
+- **PhysBench: Benchmarking and Enhancing Vision-Language Models for
+  Physical World Understanding**, `arXiv, 2501.16411`, [arxiv](http://arxiv.org/abs/2501.16411v2), [pdf](http://arxiv.org/pdf/2501.16411v2.pdf), cication: [**-1**](None) 
+
+	 *Wei Chow, Jiageng Mao, Boyi Li, ..., Vitor Guizilini, Yue Wang*
+- **MM-IQ: Benchmarking Human-Like Abstraction and Reasoning in Multimodal
+  Models**, `arXiv, 2502.00698`, [arxiv](http://arxiv.org/abs/2502.00698v1), [pdf](http://arxiv.org/pdf/2502.00698v1.pdf), cication: [**-1**](None) 
+
+	 *Huanqia Cai, Yijun Yang, Winston Hu* · ([MMIQ](https://github.com/AceCHQ/MMIQ/tree/main) - AceCHQ) ![Star](https://img.shields.io/github/stars/AceCHQ/MMIQ.svg?style=social&label=Star) · ([acechq.github](https://acechq.github.io/MMIQ-benchmark/)) · ([acechq.github](https://acechq.github.io/MMIQ-benchmark/))
 - **OVO-Bench: How Far is Your Video-LLMs from Real-World Online Video 
   Understanding?**, `arXiv, 2501.05510`, [arxiv](http://arxiv.org/abs/2501.05510v1), [pdf](http://arxiv.org/pdf/2501.05510v1.pdf), cication: [**-1**](None) 
 
@@ -661,6 +680,9 @@
 
 ## Misc
 
+- **VideoRoPE: What Makes for Good Video Rotary Position Embedding?**, `arXiv, 2502.05173`, [arxiv](http://arxiv.org/abs/2502.05173v1), [pdf](http://arxiv.org/pdf/2502.05173v1.pdf), cication: [**-1**](None) 
+
+	 *Xilin Wei, Xiaoran Liu, Yuhang Zang, ..., Xipeng Qiu, Dahua Lin* · ([VideoRoPE](https://github.com/Wiselnn570/VideoRoPE) - Wiselnn570) ![Star](https://img.shields.io/github/stars/Wiselnn570/VideoRoPE.svg?style=social&label=Star)
 - [deepseek-ai  / deepseek-vl2-small](https://huggingface.co/spaces/deepseek-ai/deepseek-vl2-small)  🤗 
 
 	 · ([𝕏](https://x.com/reach_vb/status/1887094223469515121))

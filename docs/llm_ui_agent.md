@@ -17,6 +17,7 @@
 
 ## GUI Agent
 
+- [OmniParser is a general screen parsing tool, which interprets/converts UI screenshot to structured format, to improve existing LLM based UI agent.](https://huggingface.co/microsoft/OmniParser-v2.0)  🤗
 - **On the Effects of Data Scale on UI Control Agents**, `arXiv, 2406.03679`, [arxiv](http://arxiv.org/abs/2406.03679v6), [pdf](http://arxiv.org/pdf/2406.03679v6.pdf), cication: [**-1**](None) 
 
 	 *Wei Li, William Bishop, Alice Li, ..., Divya Tyamagundlu, Oriana Riva*
@@ -45,6 +46,9 @@
 
 ## Evaluation
 
+- **WorldGUI: Dynamic Testing for Comprehensive Desktop GUI Automation**, `arXiv, 2502.08047`, [arxiv](http://arxiv.org/abs/2502.08047v1), [pdf](http://arxiv.org/pdf/2502.08047v1.pdf), cication: [**-1**](None) 
+
+	 *Henry Hengyuan Zhao, Difei Gao, Mike Zheng Shou* · ([showlab.github](https://showlab.github.io/WorldGUI/))
 - **VisualAgentBench: Towards Large Multimodal Models as Visual Foundation 
   Agents**, `arXiv, 2408.06327`, [arxiv](http://arxiv.org/abs/2408.06327v1), [pdf](http://arxiv.org/pdf/2408.06327v1.pdf), cication: [**-1**](None) 
 

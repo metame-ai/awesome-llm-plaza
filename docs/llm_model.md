@@ -13,6 +13,14 @@
 
 ## LLM Models
 
+- **ARWKV: Pretrain is not what we need, an RNN-Attention-Based Language
+  Model Born from Transformer**, `arXiv, 2501.15570`, [arxiv](http://arxiv.org/abs/2501.15570v1), [pdf](http://arxiv.org/pdf/2501.15570v1.pdf), cication: [**-1**](None) 
+
+	 *Lin Yueyu, Li Zhiyuan, Peter Yue, ..., Liu Xiao* · ([huggingface](https://huggingface.co/RWKV-Red-Team/ARWKV-7B-Preview-0.1))
+- **Mixture-of-Mamba: Enhancing Multi-Modal State-Space Models with
+  Modality-Aware Sparsity**, `arXiv, 2501.16295`, [arxiv](http://arxiv.org/abs/2501.16295v1), [pdf](http://arxiv.org/pdf/2501.16295v1.pdf), cication: [**-1**](None) 
+
+	 *Weixin Liang, Junhong Shen, Genghan Zhang, ..., Luke Zettlemoyer, Lili Yu* · ([Mixture-of-Mamba](https://github.com/Weixin-Liang/Mixture-of-Mamba) - Weixin-Liang) ![Star](https://img.shields.io/github/stars/Weixin-Liang/Mixture-of-Mamba.svg?style=social&label=Star)
 - **It's All in The [MASK]: Simple Instruction-Tuning Enables BERT-like 
   Masked Language Models As Generative Classifiers**, `arXiv, 2502.03793`, [arxiv](http://arxiv.org/abs/2502.03793v2), [pdf](http://arxiv.org/pdf/2502.03793v2.pdf), cication: [**-1**](None) 
 

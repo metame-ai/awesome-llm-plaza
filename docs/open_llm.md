@@ -72,6 +72,9 @@
 
 ## Chinese Models
 
+- **Qwen2.5-1M Technical Report**, `arXiv, 2501.15383`, [arxiv](http://arxiv.org/abs/2501.15383v1), [pdf](http://arxiv.org/pdf/2501.15383v1.pdf), cication: [**-1**](None) 
+
+	 *An Yang, Bowen Yu, Chengyuan Li, ..., Zhiying Xu, Zipeng Zhang* · ([qwenlm.github](https://qwenlm.github.io/blog/qwen2.5-1m/))
 - [Qwen2.5-1M: Deploy Your Own Qwen with Context Length up to 1M Tokens](https://qwenlm.github.io/blog/qwen2.5-1m/) 
 - **LLM360 K2: Building a 65B 360-Open-Source Large Language Model from 
   Scratch**, `arXiv, 2501.07124`, [arxiv](http://arxiv.org/abs/2501.07124v3), [pdf](http://arxiv.org/pdf/2501.07124v3.pdf), cication: [**-1**](None) 
@@ -112,7 +115,7 @@
 
 ## Reasoning
 
-- [DeepHermes 3 Preview is the latest version of our flagship Hermes series of LLMs by Nous Research](https://huggingface.co/NousResearch/DeepHermes-3-Llama-3-8B-Preview)  🤗
+- [DeepHermes 3 Preview is the latest version of our flagship Hermes series of LLMs by Nous Research](https://huggingface.co/NousResearch/DeepHermes-3-Llama-3-8B-Preview)  🤗 
 - [This is a 32B reasoning model trained from Qwen2.5-32B-Instruct with 17K data.](https://huggingface.co/NovaSky-AI/Sky-T1-32B-Preview)  🤗 
 
 	 · ([𝕏](https://x.com/NovaSkyAI/status/1877793041957933347))
@@ -162,5 +165,6 @@
 
 ## Misc
 
+- [Models](https://app.hyperbolic.xyz/models/deepseek-r1) 
 - [OLMo leads on the secrets of training language models (w Dirk Groeneveld, Kyle Lo, & Luca Soldaini)](https://www.youtube.com/watch?v=dS7QI99uJVc)  :clapper: 
 - [Phi-4 bug fixes](https://x.com/danielhanchen/status/1877781452818968615)  𝕏 

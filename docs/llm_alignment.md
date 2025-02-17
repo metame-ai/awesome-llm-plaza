@@ -12,6 +12,9 @@
 
 ## LLM Alignment
 
+- 🌟 **The Differences Between Direct Alignment Algorithms are a Blur**, `arXiv, 2502.01237`, [arxiv](http://arxiv.org/abs/2502.01237v1), [pdf](http://arxiv.org/pdf/2502.01237v1.pdf), cication: [**-1**](None) 
+
+	 *Alexey Gorbatovski, Boris Shaposhnikov, Viacheslav Sinii, ..., Alexey Malakhov, Daniil Gavrilov*
 - **Test-Time Preference Optimization: On-the-Fly Alignment via Iterative 
   Textual Feedback**, `arXiv, 2501.12895`, [arxiv](http://arxiv.org/abs/2501.12895v1), [pdf](http://arxiv.org/pdf/2501.12895v1.pdf), cication: [**-1**](None) 
 

@@ -15,6 +15,12 @@
 
 ## Code LLM
 
+- **CodeMonkeys: Scaling Test-Time Compute for Software Engineering**, `arXiv, 2501.14723`, [arxiv](http://arxiv.org/abs/2501.14723v2), [pdf](http://arxiv.org/pdf/2501.14723v2.pdf), cication: [**-1**](None) 
+
+	 *Ryan Ehrlich, Bradley Brown, Jordan Juravsky, ..., Christopher Ré, Azalia Mirhoseini* · ([scalingintelligence.stanford](https://scalingintelligence.stanford.edu/pubs/codemonkeys/.))
+- **ACECODER: Acing Coder RL via Automated Test-Case Synthesis**, `arXiv, 2502.01718`, [arxiv](http://arxiv.org/abs/2502.01718v3), [pdf](http://arxiv.org/pdf/2502.01718v3.pdf), cication: [**-1**](None) 
+
+	 *Huaye Zeng, Dongfu Jiang, Haozhe Wang, ..., Xiaotong Chen, Wenhu Chen*
 - **aiXcoder-7B: A Lightweight and Effective Large Language Model for Code 
   Processing**, `arXiv, 2410.13187`, [arxiv](http://arxiv.org/abs/2410.13187v3), [pdf](http://arxiv.org/pdf/2410.13187v3.pdf), cication: [**-1**](None) 
 

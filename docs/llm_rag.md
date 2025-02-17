@@ -18,7 +18,11 @@
 
 ## RAG
 
-- **SelfCite: Self-Supervised Alignment for Context Attribution in Large
+- **SafeRAG: Benchmarking Security in Retrieval-Augmented Generation of
+  Large Language Model**, `arXiv, 2501.18636`, [arxiv](http://arxiv.org/abs/2501.18636v1), [pdf](http://arxiv.org/pdf/2501.18636v1.pdf), cication: [**-1**](None) 
+
+	 *Xun Liang, Simin Niu, Zhiyu Li, ..., Mengwei Wang, Jiawei Yang* · ([SafeRAG](https://github.com/IAAR-Shanghai/SafeRAG) - IAAR-Shanghai) ![Star](https://img.shields.io/github/stars/IAAR-Shanghai/SafeRAG.svg?style=social&label=Star)
+- **SelfCite: Self-Supervised Alignment for Context Attribution in Large 
   Language Models**, `arXiv, 2502.09604`, [arxiv](http://arxiv.org/abs/2502.09604v1), [pdf](http://arxiv.org/pdf/2502.09604v1.pdf), cication: [**-1**](None) 
 
 	 *Yung-Sung Chuang, Benjamin Cohen-Wang, Shannon Zejiang Shen, ..., Shang-Wen Li, Wen-tau Yih*

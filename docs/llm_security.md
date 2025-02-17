@@ -13,6 +13,21 @@
 
 ## LLM Security
 
+- [How to Backdoor Large Language Models](https://blog.sshh.io/p/how-to-backdoor-large-language-models) 
+- **Early External Safety Testing of OpenAI's o3-mini: Insights from the
+  Pre-Deployment Evaluation**, `arXiv, 2501.17749`, [arxiv](http://arxiv.org/abs/2501.17749v1), [pdf](http://arxiv.org/pdf/2501.17749v1.pdf), cication: [**-1**](None) 
+
+	 *Aitor Arrieta, Miriam Ugarte, Pablo Valle, ..., José Antonio Parejo, Sergio Segura*
+- 🌟 **GuardReasoner: Towards Reasoning-based LLM Safeguards**, `arXiv, 2501.18492`, [arxiv](http://arxiv.org/abs/2501.18492v1), [pdf](http://arxiv.org/pdf/2501.18492v1.pdf), cication: [**-1**](None) 
+
+	 *Yue Liu, Hongcheng Gao, Shengfang Zhai, ..., Jiaheng Zhang, Bryan Hooi* · ([GuardReasoner](https://github.com/yueliu1999/GuardReasoner/) - yueliu1999) ![Star](https://img.shields.io/github/stars/yueliu1999/GuardReasoner.svg?style=social&label=Star)
+- **o3-mini vs DeepSeek-R1: Which One is Safer?**, `arXiv, 2501.18438`, [arxiv](http://arxiv.org/abs/2501.18438v2), [pdf](http://arxiv.org/pdf/2501.18438v2.pdf), cication: [**-1**](None) 
+
+	 *Aitor Arrieta, Miriam Ugarte, Pablo Valle, ..., José Antonio Parejo, Sergio Segura*
+- **SafeRAG: Benchmarking Security in Retrieval-Augmented Generation of
+  Large Language Model**, `arXiv, 2501.18636`, [arxiv](http://arxiv.org/abs/2501.18636v1), [pdf](http://arxiv.org/pdf/2501.18636v1.pdf), cication: [**-1**](None) 
+
+	 *Xun Liang, Simin Niu, Zhiyu Li, ..., Mengwei Wang, Jiawei Yang* · ([SafeRAG](https://github.com/IAAR-Shanghai/SafeRAG) - IAAR-Shanghai) ![Star](https://img.shields.io/github/stars/IAAR-Shanghai/SafeRAG.svg?style=social&label=Star)
 - [J2: Jailbreaking to Jailbreak](https://scale.com/research/j2) 
 
 	 · ([𝕏](https://x.com/_zifan_wang/status/1889353245761638512))

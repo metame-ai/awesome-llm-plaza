@@ -97,6 +97,10 @@
 
 ## Synthetic
 
+- **WILDCHAT-50M: A Deep Dive Into the Role of Synthetic Data in
+  Post-Training**, `arXiv, 2501.18511`, [arxiv](http://arxiv.org/abs/2501.18511v1), [pdf](http://arxiv.org/pdf/2501.18511v1.pdf), cication: [**-1**](None) 
+
+	 *Benjamin Feuer, Chinmay Hegde*
 - **Condor: Enhance LLM Alignment with Knowledge-Driven Data Synthesis and 
   Refinement**, `arXiv, 2501.12273`, [arxiv](http://arxiv.org/abs/2501.12273v1), [pdf](http://arxiv.org/pdf/2501.12273v1.pdf), cication: [**-1**](None) 
 

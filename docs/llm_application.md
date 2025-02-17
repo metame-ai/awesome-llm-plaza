@@ -116,6 +116,10 @@
 
 ## Role Play
 
+- **OpenCharacter: Training Customizable Role-Playing LLMs with Large-Scale
+  Synthetic Personas**, `arXiv, 2501.15427`, [arxiv](http://arxiv.org/abs/2501.15427v1), [pdf](http://arxiv.org/pdf/2501.15427v1.pdf), cication: [**-1**](None) 
+
+	 *Xiaoyang Wang, Hongming Zhang, Tao Ge, ..., Dian Yu, Dong Yu* · ([huggingface](https://huggingface.co/datasets/xywang1/OpenCharacter))
 - 🌟 **Enhancing Human-Like Responses in Large Language Models**, `arXiv, 2501.05032`, [arxiv](http://arxiv.org/abs/2501.05032v1), [pdf](http://arxiv.org/pdf/2501.05032v1.pdf), cication: [**-1**](None) 
 
 	 *Ethem Yağız Çalık, Talha Rüzgar Akkuş* · ([𝕏](https://x.com/Weyaxi/status/1877763008257986846))
@@ -281,7 +285,7 @@
 
 ## Projects
 
-- [**node-DeepResearch**](https://github.com/jina-ai/node-DeepResearch) - jina-ai ![Star](https://img.shields.io/github/stars/jina-ai/node-DeepResearch.svg?style=social&label=Star)
+- [**node-DeepResearch**](https://github.com/jina-ai/node-DeepResearch) - jina-ai ![Star](https://img.shields.io/github/stars/jina-ai/node-DeepResearch.svg?style=social&label=Star) 
 - [**MetaChain**](https://github.com/HKUDS/MetaChain) - HKUDS ![Star](https://img.shields.io/github/stars/HKUDS/MetaChain.svg?style=social&label=Star) 
 
 	 *Fully-Automated & Zero-Code LLM Agent Framework*

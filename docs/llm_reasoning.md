@@ -34,6 +34,21 @@
 
 ## Reasoning
 
+- **Large Language Models Think Too Fast To Explore Effectively**, `arXiv, 2501.18009`, [arxiv](http://arxiv.org/abs/2501.18009v1), [pdf](http://arxiv.org/pdf/2501.18009v1.pdf), cication: [**-1**](None) 
+
+	 *Lan Pan, Hanbo Xie, Robert C. Wilson*
+- **Satori: Reinforcement Learning with Chain-of-Action-Thought Enhances LLM
+  Reasoning via Autoregressive Search**, `arXiv, 2502.02508`, [arxiv](http://arxiv.org/abs/2502.02508v1), [pdf](http://arxiv.org/pdf/2502.02508v1.pdf), cication: [**-1**](None) 
+
+	 *Maohao Shen, Guangtao Zeng, Zhenting Qi, ..., David Cox, Chuang Gan*
+- **BOLT: Bootstrap Long Chain-of-Thought in Language Models without
+  Distillation**, `arXiv, 2502.03860`, [arxiv](http://arxiv.org/abs/2502.03860v1), [pdf](http://arxiv.org/pdf/2502.03860v1.pdf), cication: [**-1**](None) 
+
+	 *Bo Pang, Hanze Dong, Jiacheng Xu, ..., Yingbo Zhou, Caiming Xiong*
+- **Step Back to Leap Forward: Self-Backtracking for Boosting Reasoning of
+  Language Models**, `arXiv, 2502.04404`, [arxiv](http://arxiv.org/abs/2502.04404v1), [pdf](http://arxiv.org/pdf/2502.04404v1.pdf), cication: [**-1**](None) 
+
+	 *Xiao-Wen Yang, Xuan-Yi Zhu, Wen-Da Wei, ..., Lan-Zhe Guo, Yu-Feng Li* · ([Self-Backtracking](https://github.com/LAMDASZ-ML/Self-Backtracking) - LAMDASZ-ML) ![Star](https://img.shields.io/github/stars/LAMDASZ-ML/Self-Backtracking.svg?style=social&label=Star)
 - 🌟 **Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth 
   Approach**, `arXiv, 2502.05171`, [arxiv](http://arxiv.org/abs/2502.05171v1), [pdf](http://arxiv.org/pdf/2502.05171v1.pdf), cication: [**-1**](None) 
 
@@ -251,6 +266,17 @@
 
 ## O1 Reasoning
 
+- 🌟 **Exploring the Limit of Outcome Reward for Learning Mathematical
+  Reasoning**, `arXiv, 2502.06781`, [arxiv](http://arxiv.org/abs/2502.06781v1), [pdf](http://arxiv.org/pdf/2502.06781v1.pdf), cication: [**-1**](None) 
+
+	 *Chengqi Lyu, Songyang Gao, Yuzhe Gu, ..., Dahua Lin, Kai Chen* · ([OREAL](https://github.com/InternLM/OREAL) - InternLM) ![Star](https://img.shields.io/github/stars/InternLM/OREAL.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s/o6csP1xSdg6gISXVmrnNcw))
+- **Process Reinforcement through Implicit Rewards**, `arXiv, 2502.01456`, [arxiv](http://arxiv.org/abs/2502.01456v1), [pdf](http://arxiv.org/pdf/2502.01456v1.pdf), cication: [**-1**](None) 
+
+	 *Ganqu Cui, Lifan Yuan, Zefan Wang, ..., Bowen Zhou, Ning Ding* · ([PRIME](https://github.com/PRIME-RL/PRIME) - PRIME-RL) ![Star](https://img.shields.io/github/stars/PRIME-RL/PRIME.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/PRIME-RL))
+- 🌟 **Can 1B LLM Surpass 405B LLM? Rethinking Compute-Optimal Test-Time
+  Scaling**, `arXiv, 2502.06703`, [arxiv](http://arxiv.org/abs/2502.06703v1), [pdf](http://arxiv.org/pdf/2502.06703v1.pdf), cication: [**-1**](None) 
+
+	 *Runze Liu, Junqi Gao, Jian Zhao, ..., Wanli Ouyang, Bowen Zhou* · ([ryanliu112.github](https://ryanliu112.github.io/compute-optimal-tts/))
 - [Reasoning LLM using REINFORCE](https://charm-octagon-74d.notion.site/Reasoning-LLM-using-REINFORCE-194e4301cb9980e7b73dd8c2f0fdc6a0) 
 - **On the Emergence of Thinking in LLMs I: Searching for the Right 
   Intuition**, `arXiv, 2502.06773`, [arxiv](http://arxiv.org/abs/2502.06773v1), [pdf](http://arxiv.org/pdf/2502.06773v1.pdf), cication: [**-1**](None) 

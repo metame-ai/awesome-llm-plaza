@@ -34,6 +34,9 @@
 
 ## Agents
 
+- **Agency Is Frame-Dependent**, `arXiv, 2502.04403`, [arxiv](http://arxiv.org/abs/2502.04403v1), [pdf](http://arxiv.org/pdf/2502.04403v1.pdf), cication: [**-1**](None) 
+
+	 *David Abel, André Barreto, Michael Bowling, ..., Tom Schaul, Satinder Singh*
 - [DABStep: Data Agent Benchmark for Multi-step Reasoning](https://huggingface.co/blog/dabstep)  🤗 
 
 	 · ([𝕏](https://x.com/AymericRoucher/status/1887841993885168042))
