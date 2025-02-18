@@ -88,6 +88,9 @@
 
 ## Quantization
 
+- **Matryoshka Quantization**, `arXiv, 2502.06786`, [arxiv](http://arxiv.org/abs/2502.06786v1), [pdf](http://arxiv.org/pdf/2502.06786v1.pdf), cication: [**-1**](None) 
+
+	 *Pranav Nair, Puranjay Datta, Jeff Dean, ..., Prateek Jain, Aditya Kusupati*
 - **Optimizing Large Language Model Training Using FP4 Quantization**, `arXiv, 2501.17116`, [arxiv](http://arxiv.org/abs/2501.17116v1), [pdf](http://arxiv.org/pdf/2501.17116v1.pdf), cication: [**-1**](None) 
 
 	 *Ruizhe Wang, Yeyun Gong, Xiao Liu, ..., Zhengjun Zha, Peng Cheng*

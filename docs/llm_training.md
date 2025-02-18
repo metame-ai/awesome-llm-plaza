@@ -178,12 +178,22 @@
 
 ## Architecture
 
+- **The Curse of Depth in Large Language Models**, `arXiv, 2502.05795`, [arxiv](http://arxiv.org/abs/2502.05795v1), [pdf](http://arxiv.org/pdf/2502.05795v1.pdf), cication: [**-1**](None) 
+
+	 *Wenfang Sun, Xinyuan Song, Pengxiang Li, ..., Yefeng Zheng, Shiwei Liu*
+- **TransMLA: Multi-Head Latent Attention Is All You Need**, `arXiv, 2502.07864`, [arxiv](http://arxiv.org/abs/2502.07864v2), [pdf](http://arxiv.org/pdf/2502.07864v2.pdf), cication: [**-1**](None) 
+
+	 *Fanxu Meng, Zengwei Yao, Muhan Zhang*
 - **Memory Layers at Scale**, `arXiv, 2412.09764`, [arxiv](http://arxiv.org/abs/2412.09764v2), [pdf](http://arxiv.org/pdf/2412.09764v2.pdf), cication: [**-1**](None) 
 
 	 *Vincent-Pierre Berges, Barlas Oğuz, Daniel Haziza, ..., Luke Zettlemoyer, Gargi Ghosh*
 
 ## Mixture Of Experts
 
+- **LASP-2: Rethinking Sequence Parallelism for Linear Attention and Its
+  Hybrid**, `arXiv, 2502.07563`, [arxiv](http://arxiv.org/abs/2502.07563v1), [pdf](http://arxiv.org/pdf/2502.07563v1.pdf), cication: [**-1**](None) 
+
+	 *Weigao Sun, Disen Lan, Yiran Zhong, ..., Xiaoye Qu, Yu Cheng* · ([Linear-MoE](https://github.com/OpenSparseLLMs/Linear-MoE) - OpenSparseLLMs) ![Star](https://img.shields.io/github/stars/OpenSparseLLMs/Linear-MoE.svg?style=social&label=Star)
 - **Parameters vs FLOPs: Scaling Laws for Optimal Sparsity for 
   Mixture-of-Experts Language Models**, `arXiv, 2501.12370`, [arxiv](http://arxiv.org/abs/2501.12370v2), [pdf](http://arxiv.org/pdf/2501.12370v2.pdf), cication: [**-1**](None) 
 
@@ -232,6 +242,10 @@
 
 ## Merge
 
+- **Adapting Language-Specific LLMs to a Reasoning Model in One Day via
+  Model Merging - An Open Recipe**, `arXiv, 2502.09056`, [arxiv](http://arxiv.org/abs/2502.09056v2), [pdf](http://arxiv.org/pdf/2502.09056v2.pdf), cication: [**-1**](None) 
+
+	 *Kunat Pipatanakul, Pittawat Taveekitworachai, Potsawee Manakul, ..., Kasima Tharnpipitchai*
 - **Safeguard Fine-Tuned LLMs Through Pre- and Post-Tuning Model Merging**, `arXiv, 2412.19512`, [arxiv](http://arxiv.org/abs/2412.19512v1), [pdf](http://arxiv.org/pdf/2412.19512v1.pdf), cication: [**-1**](None) 
 
 	 *Hua Farn, Hsuan Su, Shachi H Kumar, ..., Shang-Tse Chen, Hung-yi Lee*

@@ -20,6 +20,13 @@
 
 ## LLM Evaluation
 
+- 🌟 **Expect the Unexpected: FailSafe Long Context QA for Finance**, `arXiv, 2502.06329`, [arxiv](http://arxiv.org/abs/2502.06329v1), [pdf](http://arxiv.org/pdf/2502.06329v1.pdf), cication: [**-1**](None) 
+
+	 *Kiran Kamble, Melisa Russak, Dmytro Mozolevskyi, ..., Mateusz Russak, Waseem AlShikh* · ([huggingface](https://huggingface.co/datasets/Writer/FailSafeQA))
+- **BenchMAX: A Comprehensive Multilingual Evaluation Suite for Large
+  Language Models**, `arXiv, 2502.07346`, [arxiv](http://arxiv.org/abs/2502.07346v1), [pdf](http://arxiv.org/pdf/2502.07346v1.pdf), cication: [**-1**](None) 
+
+	 *Xu Huang, Wenhao Zhu, Hanxu Hu, ..., Shujian Huang, Fei Yuan* · ([huggingface](https://huggingface.co/collections/LLaMAX/benchmax-674d7a815a57baf97b5539f4))) · ([BenchMAX.git)](https://github.com/CONE-MT/BenchMAX.git)) - CONE-MT) ![Star](https://img.shields.io/github/stars/CONE-MT/BenchMAX.git).svg?style=social&label=Star)
 - **Atla Selene Mini: A General Purpose Evaluation Model**, `arXiv, 2501.17195`, [arxiv](http://arxiv.org/abs/2501.17195v1), [pdf](http://arxiv.org/pdf/2501.17195v1.pdf), cication: [**-1**](None) 
 
 	 *Andrei Alexandru, Antonia Calvi, Henry Broomfield, ..., Toby Drane, Young Sun Park* · ([huggingface](https://huggingface.co/AtlaAI/Selene-1-Mini-Llama-3.1-8B))

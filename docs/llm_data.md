@@ -97,7 +97,7 @@
 
 ## Synthetic
 
-- **WILDCHAT-50M: A Deep Dive Into the Role of Synthetic Data in
+- **WILDCHAT-50M: A Deep Dive Into the Role of Synthetic Data in 
   Post-Training**, `arXiv, 2501.18511`, [arxiv](http://arxiv.org/abs/2501.18511v1), [pdf](http://arxiv.org/pdf/2501.18511v1.pdf), cication: [**-1**](None) 
 
 	 *Benjamin Feuer, Chinmay Hegde*

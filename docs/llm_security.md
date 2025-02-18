@@ -13,8 +13,11 @@
 
 ## LLM Security
 
+- **Jailbreaking to Jailbreak**, `arXiv, 2502.09638`, [arxiv](http://arxiv.org/abs/2502.09638v1), [pdf](http://arxiv.org/pdf/2502.09638v1.pdf), cication: [**-1**](None) 
+
+	 *Jeremy Kritz, Vaughn Robinson, Robert Vacareanu, ..., Willow E. Primack, Zifan Wang* · ([scale](https://scale.com/research/j2))
 - [How to Backdoor Large Language Models](https://blog.sshh.io/p/how-to-backdoor-large-language-models) 
-- **Early External Safety Testing of OpenAI's o3-mini: Insights from the
+- **Early External Safety Testing of OpenAI's o3-mini: Insights from the 
   Pre-Deployment Evaluation**, `arXiv, 2501.17749`, [arxiv](http://arxiv.org/abs/2501.17749v1), [pdf](http://arxiv.org/pdf/2501.17749v1.pdf), cication: [**-1**](None) 
 
 	 *Aitor Arrieta, Miriam Ugarte, Pablo Valle, ..., José Antonio Parejo, Sergio Segura*
@@ -24,7 +27,7 @@
 - **o3-mini vs DeepSeek-R1: Which One is Safer?**, `arXiv, 2501.18438`, [arxiv](http://arxiv.org/abs/2501.18438v2), [pdf](http://arxiv.org/pdf/2501.18438v2.pdf), cication: [**-1**](None) 
 
 	 *Aitor Arrieta, Miriam Ugarte, Pablo Valle, ..., José Antonio Parejo, Sergio Segura*
-- **SafeRAG: Benchmarking Security in Retrieval-Augmented Generation of
+- **SafeRAG: Benchmarking Security in Retrieval-Augmented Generation of 
   Large Language Model**, `arXiv, 2501.18636`, [arxiv](http://arxiv.org/abs/2501.18636v1), [pdf](http://arxiv.org/pdf/2501.18636v1.pdf), cication: [**-1**](None) 
 
 	 *Xun Liang, Simin Niu, Zhiyu Li, ..., Mengwei Wang, Jiawei Yang* · ([SafeRAG](https://github.com/IAAR-Shanghai/SafeRAG) - IAAR-Shanghai) ![Star](https://img.shields.io/github/stars/IAAR-Shanghai/SafeRAG.svg?style=social&label=Star)

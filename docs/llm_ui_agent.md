@@ -17,7 +17,7 @@
 
 ## GUI Agent
 
-- [OmniParser is a general screen parsing tool, which interprets/converts UI screenshot to structured format, to improve existing LLM based UI agent.](https://huggingface.co/microsoft/OmniParser-v2.0)  🤗
+- [OmniParser is a general screen parsing tool, which interprets/converts UI screenshot to structured format, to improve existing LLM based UI agent.](https://huggingface.co/microsoft/OmniParser-v2.0)  🤗 
 - **On the Effects of Data Scale on UI Control Agents**, `arXiv, 2406.03679`, [arxiv](http://arxiv.org/abs/2406.03679v6), [pdf](http://arxiv.org/pdf/2406.03679v6.pdf), cication: [**-1**](None) 
 
 	 *Wei Li, William Bishop, Alice Li, ..., Divya Tyamagundlu, Oriana Riva*

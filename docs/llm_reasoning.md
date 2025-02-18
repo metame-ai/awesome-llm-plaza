@@ -34,18 +34,31 @@
 
 ## Reasoning
 
+- **CodeI/O: Condensing Reasoning Patterns via Code Input-Output Prediction**, `arXiv, 2502.07316`, [arxiv](http://arxiv.org/abs/2502.07316v3), [pdf](http://arxiv.org/pdf/2502.07316v3.pdf), cication: [**-1**](None) 
+
+	 *Junlong Li, Daya Guo, Dejian Yang, ..., Yu Wu, Junxian He* · ([codei-o.github](https://codei-o.github.io/))
+- **Teaching Language Models to Critique via Reinforcement Learning**, `arXiv, 2502.03492`, [arxiv](http://arxiv.org/abs/2502.03492v1), [pdf](http://arxiv.org/pdf/2502.03492v1.pdf), cication: [**-1**](None) 
+
+	 *Zhihui Xie, Jie chen, Liyu Chen, ..., Jingjing Xu, Lingpeng Kong* · ([critic-rl.github](https://critic-rl.github.io/)) · ([critic-rl](https://github.com/HKUNLP/critic-rl) - HKUNLP) ![Star](https://img.shields.io/github/stars/HKUNLP/critic-rl.svg?style=social&label=Star)
+- **MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for
+  Reasoning Quality, Robustness, and Efficiency**, `arXiv, 2502.09621`, [arxiv](http://arxiv.org/abs/2502.09621v1), [pdf](http://arxiv.org/pdf/2502.09621v1.pdf), cication: [**-1**](None) 
+
+	 *Dongzhi Jiang, Renrui Zhang, Ziyu Guo, ..., Peng Gao, Hongsheng Li* · ([mmecot.github](https://mmecot.github.io/))
+- **Diverse Inference and Verification for Advanced Reasoning**, `arXiv, 2502.09955`, [arxiv](http://arxiv.org/abs/2502.09955v1), [pdf](http://arxiv.org/pdf/2502.09955v1.pdf), cication: [**-1**](None) 
+
+	 *Iddo Drori, Gaston Longhitano, Mao Mao, ..., Alon Amit, Madeleine Udell*
 - **Large Language Models Think Too Fast To Explore Effectively**, `arXiv, 2501.18009`, [arxiv](http://arxiv.org/abs/2501.18009v1), [pdf](http://arxiv.org/pdf/2501.18009v1.pdf), cication: [**-1**](None) 
 
 	 *Lan Pan, Hanbo Xie, Robert C. Wilson*
-- **Satori: Reinforcement Learning with Chain-of-Action-Thought Enhances LLM
+- **Satori: Reinforcement Learning with Chain-of-Action-Thought Enhances LLM 
   Reasoning via Autoregressive Search**, `arXiv, 2502.02508`, [arxiv](http://arxiv.org/abs/2502.02508v1), [pdf](http://arxiv.org/pdf/2502.02508v1.pdf), cication: [**-1**](None) 
 
 	 *Maohao Shen, Guangtao Zeng, Zhenting Qi, ..., David Cox, Chuang Gan*
-- **BOLT: Bootstrap Long Chain-of-Thought in Language Models without
+- **BOLT: Bootstrap Long Chain-of-Thought in Language Models without 
   Distillation**, `arXiv, 2502.03860`, [arxiv](http://arxiv.org/abs/2502.03860v1), [pdf](http://arxiv.org/pdf/2502.03860v1.pdf), cication: [**-1**](None) 
 
 	 *Bo Pang, Hanze Dong, Jiacheng Xu, ..., Yingbo Zhou, Caiming Xiong*
-- **Step Back to Leap Forward: Self-Backtracking for Boosting Reasoning of
+- **Step Back to Leap Forward: Self-Backtracking for Boosting Reasoning of 
   Language Models**, `arXiv, 2502.04404`, [arxiv](http://arxiv.org/abs/2502.04404v1), [pdf](http://arxiv.org/pdf/2502.04404v1.pdf), cication: [**-1**](None) 
 
 	 *Xiao-Wen Yang, Xuan-Yi Zhu, Wen-Da Wei, ..., Lan-Zhe Guo, Yu-Feng Li* · ([Self-Backtracking](https://github.com/LAMDASZ-ML/Self-Backtracking) - LAMDASZ-ML) ![Star](https://img.shields.io/github/stars/LAMDASZ-ML/Self-Backtracking.svg?style=social&label=Star)
@@ -196,6 +209,13 @@
 
 ## Math Reasoning
 
+- **Goedel-Prover: A Frontier Model for Open-Source Automated Theorem
+  Proving**, `arXiv, 2502.07640`, [arxiv](http://arxiv.org/abs/2502.07640v2), [pdf](http://arxiv.org/pdf/2502.07640v2.pdf), cication: [**-1**](None) 
+
+	 *Yong Lin, Shange Tang, Bohan Lyu, ..., Sanjeev Arora, Chi Jin* · ([goedel-lm.github](https://goedel-lm.github.io/))
+- **PDE-Controller: LLMs for Autoformalization and Reasoning of PDEs**, `arXiv, 2502.00963`, [arxiv](http://arxiv.org/abs/2502.00963v1), [pdf](http://arxiv.org/pdf/2502.00963v1.pdf), cication: [**-1**](None) 
+
+	 *Mauricio Soroco, Jialin Song, Mengzhou Xia, ..., Weiran Sun, Wuyang Chen* · ([pde-controller.github](https://pde-controller.github.io/))
 - [OpenR1-Math-220k is a large-scale dataset for mathematical reasoning.](https://huggingface.co/datasets/open-r1/OpenR1-Math-220k)  🤗 
 - [MathArena: Evaluating LLMs on Uncontaminated Math Competitions](https://matharena.ai/) 
 - 🌟 **Gold-medalist Performance in Solving Olympiad Geometry with 
@@ -266,14 +286,22 @@
 
 ## O1 Reasoning
 
-- 🌟 **Exploring the Limit of Outcome Reward for Learning Mathematical
+- **LLMs Can Easily Learn to Reason from Demonstrations Structure, not
+  content, is what matters!**, `arXiv, 2502.07374`, [arxiv](http://arxiv.org/abs/2502.07374v1), [pdf](http://arxiv.org/pdf/2502.07374v1.pdf), cication: [**-1**](None) 
+
+	 *Dacheng Li, Shiyi Cao, Tyler Griggs, ..., Joseph E. Gonzalez, Ion Stoica* · ([SkyThought](https://github.com/NovaSky-AI/SkyThought) - NovaSky-AI) ![Star](https://img.shields.io/github/stars/NovaSky-AI/SkyThought.svg?style=social&label=Star)
+- **The Danger of Overthinking: Examining the Reasoning-Action Dilemma in
+  Agentic Tasks**, `arXiv, 2502.08235`, [arxiv](http://arxiv.org/abs/2502.08235v1), [pdf](http://arxiv.org/pdf/2502.08235v1.pdf), cication: [**-1**](None) 
+
+	 *Alejandro Cuadron, Dacheng Li, Wenjie Ma, ..., Graham Neubig, Joseph E. Gonzalez* · ([Overthinking](https://github.com/AlexCuadron/Overthinking) - AlexCuadron) ![Star](https://img.shields.io/github/stars/AlexCuadron/Overthinking.svg?style=social&label=Star)
+- 🌟 **Exploring the Limit of Outcome Reward for Learning Mathematical 
   Reasoning**, `arXiv, 2502.06781`, [arxiv](http://arxiv.org/abs/2502.06781v1), [pdf](http://arxiv.org/pdf/2502.06781v1.pdf), cication: [**-1**](None) 
 
 	 *Chengqi Lyu, Songyang Gao, Yuzhe Gu, ..., Dahua Lin, Kai Chen* · ([OREAL](https://github.com/InternLM/OREAL) - InternLM) ![Star](https://img.shields.io/github/stars/InternLM/OREAL.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s/o6csP1xSdg6gISXVmrnNcw))
 - **Process Reinforcement through Implicit Rewards**, `arXiv, 2502.01456`, [arxiv](http://arxiv.org/abs/2502.01456v1), [pdf](http://arxiv.org/pdf/2502.01456v1.pdf), cication: [**-1**](None) 
 
 	 *Ganqu Cui, Lifan Yuan, Zefan Wang, ..., Bowen Zhou, Ning Ding* · ([PRIME](https://github.com/PRIME-RL/PRIME) - PRIME-RL) ![Star](https://img.shields.io/github/stars/PRIME-RL/PRIME.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/PRIME-RL))
-- 🌟 **Can 1B LLM Surpass 405B LLM? Rethinking Compute-Optimal Test-Time
+- 🌟 **Can 1B LLM Surpass 405B LLM? Rethinking Compute-Optimal Test-Time 
   Scaling**, `arXiv, 2502.06703`, [arxiv](http://arxiv.org/abs/2502.06703v1), [pdf](http://arxiv.org/pdf/2502.06703v1.pdf), cication: [**-1**](None) 
 
 	 *Runze Liu, Junqi Gao, Jian Zhao, ..., Wanli Ouyang, Bowen Zhou* · ([ryanliu112.github](https://ryanliu112.github.io/compute-optimal-tts/))

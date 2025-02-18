@@ -53,7 +53,7 @@
 
 ## Vision-Language Models
 
-- **AlignVLM: Bridging Vision and Language Latent Spaces for Multimodal
+- **AlignVLM: Bridging Vision and Language Latent Spaces for Multimodal 
   Understanding**, `arXiv, 2502.01341`, [arxiv](http://arxiv.org/abs/2502.01341v1), [pdf](http://arxiv.org/pdf/2502.01341v1.pdf), cication: [**-1**](None) 
 
 	 *Ahmed Masry, Juan A. Rodriguez, Tianyu Zhang, ..., Spandana Gella, Sai Rajeswar*
@@ -338,6 +338,9 @@
 
 ## Alignment
 
+- **MM-RLHF: The Next Step Forward in Multimodal LLM Alignment**, `arXiv, 2502.10391`, [arxiv](http://arxiv.org/abs/2502.10391v1), [pdf](http://arxiv.org/pdf/2502.10391v1.pdf), cication: [**-1**](None) 
+
+	 *Yi-Fan Zhang, Tao Yu, Haochen Tian, ..., Rong Jin, Tieniu Tan* · ([mm-rlhf.github.io](https://mm-rlhf.github.io.))
 - **InternLM-XComposer2.5-Reward: A Simple Yet Effective Multi-Modal Reward 
   Model**, `arXiv, 2501.12368`, [arxiv](http://arxiv.org/abs/2501.12368v1), [pdf](http://arxiv.org/pdf/2501.12368v1.pdf), cication: [**-1**](None) 
 
@@ -369,7 +372,11 @@
 
 ## Reasoning
 
-- **The Jumping Reasoning Curve? Tracking the Evolution of Reasoning
+- **MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for
+  Reasoning Quality, Robustness, and Efficiency**, `arXiv, 2502.09621`, [arxiv](http://arxiv.org/abs/2502.09621v1), [pdf](http://arxiv.org/pdf/2502.09621v1.pdf), cication: [**-1**](None) 
+
+	 *Dongzhi Jiang, Renrui Zhang, Ziyu Guo, ..., Peng Gao, Hongsheng Li* · ([mmecot.github](https://mmecot.github.io/))
+- **The Jumping Reasoning Curve? Tracking the Evolution of Reasoning 
   Performance in GPT-[n] and o-[n] Models on Multimodal Puzzles**, `arXiv, 2502.01081`, [arxiv](http://arxiv.org/abs/2502.01081v1), [pdf](http://arxiv.org/pdf/2502.01081v1.pdf), cication: [**-1**](None) 
 
 	 *Vernon Y. H. Toh, Yew Ken Chia, Deepanway Ghosal, ..., Soujanya Poria* · ([LLM-PuzzleTest](https://github.com/declare-lab/LLM-PuzzleTest) - declare-lab) ![Star](https://img.shields.io/github/stars/declare-lab/LLM-PuzzleTest.svg?style=social&label=Star)
@@ -419,11 +426,19 @@
 
 ## Evaluation
 
-- **PhysBench: Benchmarking and Enhancing Vision-Language Models for
+- 🌟 **The Stochastic Parrot on LLM's Shoulder: A Summative Assessment of
+  Physical Concept Understanding**, `arXiv, 2502.08946`, [arxiv](http://arxiv.org/abs/2502.08946v1), [pdf](http://arxiv.org/pdf/2502.08946v1.pdf), cication: [**-1**](None) 
+
+	 *Mo Yu, Lemao Liu, Junjie Wu, ..., Dit-Yan Yeung, Jie Zhou* · ([physico-benchmark.github](https://physico-benchmark.github.io/leaderboard.html)) · ([huggingface](https://huggingface.co/datasets/ShunchiZhang/PhysiCo)) · ([physico](https://github.com/physico-benchmark/physico) - physico-benchmark) ![Star](https://img.shields.io/github/stars/physico-benchmark/physico.svg?style=social&label=Star)
+- **ZeroBench: An Impossible Visual Benchmark for Contemporary Large
+  Multimodal Models**, `arXiv, 2502.09696`, [arxiv](http://arxiv.org/abs/2502.09696v1), [pdf](http://arxiv.org/pdf/2502.09696v1.pdf), cication: [**-1**](None) 
+
+	 *Jonathan Roberts, Mohammad Reza Taesiri, Ansh Sharma, ..., Kai Han, Samuel Albanie*
+- **PhysBench: Benchmarking and Enhancing Vision-Language Models for 
   Physical World Understanding**, `arXiv, 2501.16411`, [arxiv](http://arxiv.org/abs/2501.16411v2), [pdf](http://arxiv.org/pdf/2501.16411v2.pdf), cication: [**-1**](None) 
 
 	 *Wei Chow, Jiageng Mao, Boyi Li, ..., Vitor Guizilini, Yue Wang*
-- **MM-IQ: Benchmarking Human-Like Abstraction and Reasoning in Multimodal
+- **MM-IQ: Benchmarking Human-Like Abstraction and Reasoning in Multimodal 
   Models**, `arXiv, 2502.00698`, [arxiv](http://arxiv.org/abs/2502.00698v1), [pdf](http://arxiv.org/pdf/2502.00698v1.pdf), cication: [**-1**](None) 
 
 	 *Huanqia Cai, Yijun Yang, Winston Hu* · ([MMIQ](https://github.com/AceCHQ/MMIQ/tree/main) - AceCHQ) ![Star](https://img.shields.io/github/stars/AceCHQ/MMIQ.svg?style=social&label=Star) · ([acechq.github](https://acechq.github.io/MMIQ-benchmark/)) · ([acechq.github](https://acechq.github.io/MMIQ-benchmark/))

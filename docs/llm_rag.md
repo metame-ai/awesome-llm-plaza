@@ -15,10 +15,18 @@
 
 ## Survey
 
+- **Towards Trustworthy Retrieval Augmented Generation for Large Language
+  Models: A Survey**, `arXiv, 2502.06872`, [arxiv](http://arxiv.org/abs/2502.06872v1), [pdf](http://arxiv.org/pdf/2502.06872v1.pdf), cication: [**-1**](None) 
+
+	 *Bo Ni, Zheyuan Liu, Leyao Wang, ..., Meng Jiang, Tyler Derr*
 
 ## RAG
 
-- **SafeRAG: Benchmarking Security in Retrieval-Augmented Generation of
+- **Enhancing Financial Time-Series Forecasting with Retrieval-Augmented
+  Large Language Models**, `arXiv, 2502.05878`, [arxiv](http://arxiv.org/abs/2502.05878v2), [pdf](http://arxiv.org/pdf/2502.05878v2.pdf), cication: [**-1**](None) 
+
+	 *Mengxi Xiao, Zihao Jiang, Lingfei Qian, ..., Sophia Ananiadou, Qianqian Xie* · ([huggingface](https://huggingface.co/TheFinAI.))
+- **SafeRAG: Benchmarking Security in Retrieval-Augmented Generation of 
   Large Language Model**, `arXiv, 2501.18636`, [arxiv](http://arxiv.org/abs/2501.18636v1), [pdf](http://arxiv.org/pdf/2501.18636v1.pdf), cication: [**-1**](None) 
 
 	 *Xun Liang, Simin Niu, Zhiyu Li, ..., Mengwei Wang, Jiawei Yang* · ([SafeRAG](https://github.com/IAAR-Shanghai/SafeRAG) - IAAR-Shanghai) ![Star](https://img.shields.io/github/stars/IAAR-Shanghai/SafeRAG.svg?style=social&label=Star)

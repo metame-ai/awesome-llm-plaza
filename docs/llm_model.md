@@ -13,11 +13,17 @@
 
 ## LLM Models
 
-- **ARWKV: Pretrain is not what we need, an RNN-Attention-Based Language
+- **LLM Pretraining with Continuous Concepts**, `arXiv, 2502.08524`, [arxiv](http://arxiv.org/abs/2502.08524v1), [pdf](http://arxiv.org/pdf/2502.08524v1.pdf), cication: [**-1**](None) 
+
+	 *Jihoon Tack, Jack Lanchantin, Jane Yu, ..., Jason Weston, Xian Li* · ([RAM](https://github.com/facebookresearch/RAM/tree/main/projects/cocomix) - facebookresearch) ![Star](https://img.shields.io/github/stars/facebookresearch/RAM.svg?style=social&label=Star)
+- 🌟 **Large Language Diffusion Models**, `arXiv, 2502.09992`, [arxiv](http://arxiv.org/abs/2502.09992v1), [pdf](http://arxiv.org/pdf/2502.09992v1.pdf), cication: [**-1**](None) 
+
+	 *Shen Nie, Fengqi Zhu, Zebin You, ..., Ji-Rong Wen, Chongxuan Li* · ([ml-gsai.github](https://ml-gsai.github.io/LLaDA-demo/))
+- **ARWKV: Pretrain is not what we need, an RNN-Attention-Based Language 
   Model Born from Transformer**, `arXiv, 2501.15570`, [arxiv](http://arxiv.org/abs/2501.15570v1), [pdf](http://arxiv.org/pdf/2501.15570v1.pdf), cication: [**-1**](None) 
 
 	 *Lin Yueyu, Li Zhiyuan, Peter Yue, ..., Liu Xiao* · ([huggingface](https://huggingface.co/RWKV-Red-Team/ARWKV-7B-Preview-0.1))
-- **Mixture-of-Mamba: Enhancing Multi-Modal State-Space Models with
+- **Mixture-of-Mamba: Enhancing Multi-Modal State-Space Models with 
   Modality-Aware Sparsity**, `arXiv, 2501.16295`, [arxiv](http://arxiv.org/abs/2501.16295v1), [pdf](http://arxiv.org/pdf/2501.16295v1.pdf), cication: [**-1**](None) 
 
 	 *Weixin Liang, Junhong Shen, Genghan Zhang, ..., Luke Zettlemoyer, Lili Yu* · ([Mixture-of-Mamba](https://github.com/Weixin-Liang/Mixture-of-Mamba) - Weixin-Liang) ![Star](https://img.shields.io/github/stars/Weixin-Liang/Mixture-of-Mamba.svg?style=social&label=Star)

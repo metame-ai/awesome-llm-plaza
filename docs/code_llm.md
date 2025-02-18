@@ -15,6 +15,9 @@
 
 ## Code LLM
 
+- **CodeI/O: Condensing Reasoning Patterns via Code Input-Output Prediction**, `arXiv, 2502.07316`, [arxiv](http://arxiv.org/abs/2502.07316v3), [pdf](http://arxiv.org/pdf/2502.07316v3.pdf), cication: [**-1**](None) 
+
+	 *Junlong Li, Daya Guo, Dejian Yang, ..., Yu Wu, Junxian He* · ([codei-o.github](https://codei-o.github.io/))
 - **CodeMonkeys: Scaling Test-Time Compute for Software Engineering**, `arXiv, 2501.14723`, [arxiv](http://arxiv.org/abs/2501.14723v2), [pdf](http://arxiv.org/pdf/2501.14723v2.pdf), cication: [**-1**](None) 
 
 	 *Ryan Ehrlich, Bradley Brown, Jordan Juravsky, ..., Christopher Ré, Azalia Mirhoseini* · ([scalingintelligence.stanford](https://scalingintelligence.stanford.edu/pubs/codemonkeys/.))

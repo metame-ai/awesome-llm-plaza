@@ -59,10 +59,13 @@
 
 ## Multimodal
 
+- **Exploring the Potential of Encoder-free Architectures in 3D LMMs**, `arXiv, 2502.09620`, [arxiv](http://arxiv.org/abs/2502.09620v1), [pdf](http://arxiv.org/pdf/2502.09620v1.pdf), cication: [**-1**](None) 
+
+	 *Yiwen Tang, Zoey Guo, Zhuhao Wang, ..., Xuelong Li, Bin Zhao* · ([ENEL](https://github.com/Ivan-Tang-3D/ENEL) - Ivan-Tang-3D) ![Star](https://img.shields.io/github/stars/Ivan-Tang-3D/ENEL.svg?style=social&label=Star)
 - **Baichuan-Omni-1.5 Technical Report**, `arXiv, 2501.15368`, [arxiv](http://arxiv.org/abs/2501.15368v1), [pdf](http://arxiv.org/pdf/2501.15368v1.pdf), cication: [**-1**](None) 
 
 	 *Yadong Li, Jun Liu, Tao Zhang, ..., Zenan Zhou, Weipeng Chen* · ([Baichuan-Omni-1.5](https://github.com/baichuan-inc/Baichuan-Omni-1.5) - baichuan-inc) ![Star](https://img.shields.io/github/stars/baichuan-inc/Baichuan-Omni-1.5.svg?style=social&label=Star)
-- **Ola: Pushing the Frontiers of Omni-Modal Language Model with Progressive
+- **Ola: Pushing the Frontiers of Omni-Modal Language Model with Progressive 
   Modality Alignment**, `arXiv, 2502.04328`, [arxiv](http://arxiv.org/abs/2502.04328v2), [pdf](http://arxiv.org/pdf/2502.04328v2.pdf), cication: [**-1**](None) 
 
 	 *Zuyan Liu, Yuhao Dong, Jiahui Wang, ..., Jiwen Lu, Yongming Rao* · ([ola-omni.github](https://ola-omni.github.io/)) · ([Ola](https://github.com/Ola-Omni/Ola) - Ola-Omni) ![Star](https://img.shields.io/github/stars/Ola-Omni/Ola.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/THUdyh/Ola-7b))

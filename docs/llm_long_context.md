@@ -13,7 +13,7 @@
 
 ## Long Context
 
-- 🌟 **InfiniteHiP: Extending Language Model Context Up to 3 Million Tokens on
+- 🌟 **InfiniteHiP: Extending Language Model Context Up to 3 Million Tokens on 
   a Single GPU**, `arXiv, 2502.08910`, [arxiv](http://arxiv.org/abs/2502.08910v1), [pdf](http://arxiv.org/pdf/2502.08910v1.pdf), cication: [**-1**](None) 
 
 	 *Heejun Lee, Geon Park, Jaduk Suh, ..., Sung Ju Hwang* · ([huggingface](https://huggingface.co/papers/2502.08910)) · ([hip-attention](https://github.com/DeepAuto-AI/hip-attention/) - DeepAuto-AI) ![Star](https://img.shields.io/github/stars/DeepAuto-AI/hip-attention.svg?style=social&label=Star) · ([sglang](https://github.com/DeepAuto-AI/sglang/) - DeepAuto-AI) ![Star](https://img.shields.io/github/stars/DeepAuto-AI/sglang.svg?style=social&label=Star)

@@ -17,6 +17,10 @@
 
 ## Embodied AI
 
+- **EmbodiedBench: Comprehensive Benchmarking Multi-modal Large Language
+  Models for Vision-Driven Embodied Agents**, `arXiv, 2502.09560`, [arxiv](http://arxiv.org/abs/2502.09560v1), [pdf](http://arxiv.org/pdf/2502.09560v1.pdf), cication: [**-1**](None) 
+
+	 *Rui Yang, Hanyang Chen, Junyu Zhang, ..., Huan Zhang, Tong Zhang* · ([embodiedbench.github](https://embodiedbench.github.io))
 - **LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large 
   Language Models**, `ICCV, 2023`, [arxiv](http://arxiv.org/abs/2212.04088v3), [pdf](http://arxiv.org/pdf/2212.04088v3.pdf), cication: [**-1**](None) 
 

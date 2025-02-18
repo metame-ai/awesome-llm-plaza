@@ -310,6 +310,10 @@
 
 ## Multi Agent
 
+- **Training Language Models for Social Deduction with Multi-Agent
+  Reinforcement Learning**, `arXiv, 2502.06060`, [arxiv](http://arxiv.org/abs/2502.06060v1), [pdf](http://arxiv.org/pdf/2502.06060v1.pdf), cication: [**-1**](None) 
+
+	 *Bidipta Sarkar, Warren Xia, C. Karen Liu, ..., Dorsa Sadigh* · ([socialdeductionllm.github](https://socialdeductionllm.github.io/))
 - [Chain of Agents: Large language models collaborating on long-context tasks](https://research.google/blog/chain-of-agents-large-language-models-collaborating-on-long-context-tasks/) 
 - **FilmAgent: A Multi-Agent Framework for End-to-End Film Automation in 
   Virtual 3D Spaces**, `arXiv, 2501.12909`, [arxiv](http://arxiv.org/abs/2501.12909v1), [pdf](http://arxiv.org/pdf/2501.12909v1.pdf), cication: [**-1**](None) 
