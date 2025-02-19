@@ -329,7 +329,7 @@
 - 🌟 **Expect the Unexpected: FailSafe Long Context QA for Finance**, `arXiv, 2502.06329`, [arxiv](http://arxiv.org/abs/2502.06329v1), [pdf](http://arxiv.org/pdf/2502.06329v1.pdf), cication: [**-1**](None) 
 
 	 *Kiran Kamble, Melisa Russak, Dmytro Mozolevskyi, ..., Mateusz Russak, Waseem AlShikh* · ([huggingface](https://huggingface.co/datasets/Writer/FailSafeQA))
-- **Enhancing Financial Time-Series Forecasting with Retrieval-Augmented
+- **Enhancing Financial Time-Series Forecasting with Retrieval-Augmented 
   Large Language Models**, `arXiv, 2502.05878`, [arxiv](http://arxiv.org/abs/2502.05878v2), [pdf](http://arxiv.org/pdf/2502.05878v2.pdf), cication: [**-1**](None) 
 
 	 *Mengxi Xiao, Zihao Jiang, Lingfei Qian, ..., Sophia Ananiadou, Qianqian Xie* · ([huggingface](https://huggingface.co/TheFinAI.))

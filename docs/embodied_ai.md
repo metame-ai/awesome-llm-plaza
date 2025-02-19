@@ -17,7 +17,7 @@
 
 ## Embodied AI
 
-- **EmbodiedBench: Comprehensive Benchmarking Multi-modal Large Language
+- **EmbodiedBench: Comprehensive Benchmarking Multi-modal Large Language 
   Models for Vision-Driven Embodied Agents**, `arXiv, 2502.09560`, [arxiv](http://arxiv.org/abs/2502.09560v1), [pdf](http://arxiv.org/pdf/2502.09560v1.pdf), cication: [**-1**](None) 
 
 	 *Rui Yang, Hanyang Chen, Junyu Zhang, ..., Huan Zhang, Tong Zhang* · ([embodiedbench.github](https://embodiedbench.github.io))

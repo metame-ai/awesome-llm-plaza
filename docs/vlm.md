@@ -372,7 +372,7 @@
 
 ## Reasoning
 
-- **MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for
+- **MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for 
   Reasoning Quality, Robustness, and Efficiency**, `arXiv, 2502.09621`, [arxiv](http://arxiv.org/abs/2502.09621v1), [pdf](http://arxiv.org/pdf/2502.09621v1.pdf), cication: [**-1**](None) 
 
 	 *Dongzhi Jiang, Renrui Zhang, Ziyu Guo, ..., Peng Gao, Hongsheng Li* · ([mmecot.github](https://mmecot.github.io/))
@@ -426,11 +426,11 @@
 
 ## Evaluation
 
-- 🌟 **The Stochastic Parrot on LLM's Shoulder: A Summative Assessment of
+- 🌟 **The Stochastic Parrot on LLM's Shoulder: A Summative Assessment of 
   Physical Concept Understanding**, `arXiv, 2502.08946`, [arxiv](http://arxiv.org/abs/2502.08946v1), [pdf](http://arxiv.org/pdf/2502.08946v1.pdf), cication: [**-1**](None) 
 
 	 *Mo Yu, Lemao Liu, Junjie Wu, ..., Dit-Yan Yeung, Jie Zhou* · ([physico-benchmark.github](https://physico-benchmark.github.io/leaderboard.html)) · ([huggingface](https://huggingface.co/datasets/ShunchiZhang/PhysiCo)) · ([physico](https://github.com/physico-benchmark/physico) - physico-benchmark) ![Star](https://img.shields.io/github/stars/physico-benchmark/physico.svg?style=social&label=Star)
-- **ZeroBench: An Impossible Visual Benchmark for Contemporary Large
+- **ZeroBench: An Impossible Visual Benchmark for Contemporary Large 
   Multimodal Models**, `arXiv, 2502.09696`, [arxiv](http://arxiv.org/abs/2502.09696v1), [pdf](http://arxiv.org/pdf/2502.09696v1.pdf), cication: [**-1**](None) 
 
 	 *Jonathan Roberts, Mohammad Reza Taesiri, Ansh Sharma, ..., Kai Han, Samuel Albanie*

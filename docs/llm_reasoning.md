@@ -40,7 +40,7 @@
 - **Teaching Language Models to Critique via Reinforcement Learning**, `arXiv, 2502.03492`, [arxiv](http://arxiv.org/abs/2502.03492v1), [pdf](http://arxiv.org/pdf/2502.03492v1.pdf), cication: [**-1**](None) 
 
 	 *Zhihui Xie, Jie chen, Liyu Chen, ..., Jingjing Xu, Lingpeng Kong* · ([critic-rl.github](https://critic-rl.github.io/)) · ([critic-rl](https://github.com/HKUNLP/critic-rl) - HKUNLP) ![Star](https://img.shields.io/github/stars/HKUNLP/critic-rl.svg?style=social&label=Star)
-- **MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for
+- **MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for 
   Reasoning Quality, Robustness, and Efficiency**, `arXiv, 2502.09621`, [arxiv](http://arxiv.org/abs/2502.09621v1), [pdf](http://arxiv.org/pdf/2502.09621v1.pdf), cication: [**-1**](None) 
 
 	 *Dongzhi Jiang, Renrui Zhang, Ziyu Guo, ..., Peng Gao, Hongsheng Li* · ([mmecot.github](https://mmecot.github.io/))
@@ -209,7 +209,7 @@
 
 ## Math Reasoning
 
-- **Goedel-Prover: A Frontier Model for Open-Source Automated Theorem
+- **Goedel-Prover: A Frontier Model for Open-Source Automated Theorem 
   Proving**, `arXiv, 2502.07640`, [arxiv](http://arxiv.org/abs/2502.07640v2), [pdf](http://arxiv.org/pdf/2502.07640v2.pdf), cication: [**-1**](None) 
 
 	 *Yong Lin, Shange Tang, Bohan Lyu, ..., Sanjeev Arora, Chi Jin* · ([goedel-lm.github](https://goedel-lm.github.io/))
@@ -286,11 +286,11 @@
 
 ## O1 Reasoning
 
-- **LLMs Can Easily Learn to Reason from Demonstrations Structure, not
+- **LLMs Can Easily Learn to Reason from Demonstrations Structure, not 
   content, is what matters!**, `arXiv, 2502.07374`, [arxiv](http://arxiv.org/abs/2502.07374v1), [pdf](http://arxiv.org/pdf/2502.07374v1.pdf), cication: [**-1**](None) 
 
 	 *Dacheng Li, Shiyi Cao, Tyler Griggs, ..., Joseph E. Gonzalez, Ion Stoica* · ([SkyThought](https://github.com/NovaSky-AI/SkyThought) - NovaSky-AI) ![Star](https://img.shields.io/github/stars/NovaSky-AI/SkyThought.svg?style=social&label=Star)
-- **The Danger of Overthinking: Examining the Reasoning-Action Dilemma in
+- **The Danger of Overthinking: Examining the Reasoning-Action Dilemma in 
   Agentic Tasks**, `arXiv, 2502.08235`, [arxiv](http://arxiv.org/abs/2502.08235v1), [pdf](http://arxiv.org/pdf/2502.08235v1.pdf), cication: [**-1**](None) 
 
 	 *Alejandro Cuadron, Dacheng Li, Wenjie Ma, ..., Graham Neubig, Joseph E. Gonzalez* · ([Overthinking](https://github.com/AlexCuadron/Overthinking) - AlexCuadron) ![Star](https://img.shields.io/github/stars/AlexCuadron/Overthinking.svg?style=social&label=Star)

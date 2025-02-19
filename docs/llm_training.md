@@ -190,7 +190,7 @@
 
 ## Mixture Of Experts
 
-- **LASP-2: Rethinking Sequence Parallelism for Linear Attention and Its
+- **LASP-2: Rethinking Sequence Parallelism for Linear Attention and Its 
   Hybrid**, `arXiv, 2502.07563`, [arxiv](http://arxiv.org/abs/2502.07563v1), [pdf](http://arxiv.org/pdf/2502.07563v1.pdf), cication: [**-1**](None) 
 
 	 *Weigao Sun, Disen Lan, Yiran Zhong, ..., Xiaoye Qu, Yu Cheng* · ([Linear-MoE](https://github.com/OpenSparseLLMs/Linear-MoE) - OpenSparseLLMs) ![Star](https://img.shields.io/github/stars/OpenSparseLLMs/Linear-MoE.svg?style=social&label=Star)
@@ -242,7 +242,7 @@
 
 ## Merge
 
-- **Adapting Language-Specific LLMs to a Reasoning Model in One Day via
+- **Adapting Language-Specific LLMs to a Reasoning Model in One Day via 
   Model Merging - An Open Recipe**, `arXiv, 2502.09056`, [arxiv](http://arxiv.org/abs/2502.09056v2), [pdf](http://arxiv.org/pdf/2502.09056v2.pdf), cication: [**-1**](None) 
 
 	 *Kunat Pipatanakul, Pittawat Taveekitworachai, Potsawee Manakul, ..., Kasima Tharnpipitchai*

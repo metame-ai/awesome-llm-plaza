@@ -310,7 +310,7 @@
 
 ## Multi Agent
 
-- **Training Language Models for Social Deduction with Multi-Agent
+- **Training Language Models for Social Deduction with Multi-Agent 
   Reinforcement Learning**, `arXiv, 2502.06060`, [arxiv](http://arxiv.org/abs/2502.06060v1), [pdf](http://arxiv.org/pdf/2502.06060v1.pdf), cication: [**-1**](None) 
 
 	 *Bidipta Sarkar, Warren Xia, C. Karen Liu, ..., Dorsa Sadigh* · ([socialdeductionllm.github](https://socialdeductionllm.github.io/))
