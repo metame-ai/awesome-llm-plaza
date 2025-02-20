@@ -15,6 +15,7 @@
 
 ## Code LLM
 
+- [Edit Prediction: Fine-Tuned from Qwen2.5-Coder-7B](https://huggingface.co/zed-industries/zeta)  🤗
 - **CodeI/O: Condensing Reasoning Patterns via Code Input-Output Prediction**, `arXiv, 2502.07316`, [arxiv](http://arxiv.org/abs/2502.07316v3), [pdf](http://arxiv.org/pdf/2502.07316v3.pdf), cication: [**-1**](None) 
 
 	 *Junlong Li, Daya Guo, Dejian Yang, ..., Yu Wu, Junxian He* · ([codei-o.github](https://codei-o.github.io/))
@@ -84,6 +85,10 @@
 
 ## Evaluation
 
+- 🌟 **SWE-Lancer: Can Frontier LLMs Earn $1 Million from Real-World Freelance
+  Software Engineering?**, `arXiv, 2502.12115`, [arxiv](http://arxiv.org/abs/2502.12115v2), [pdf](http://arxiv.org/pdf/2502.12115v2.pdf), cication: [**-1**](None) 
+
+	 *Samuel Miserendino, Michele Wang, Tejal Patwardhan, ..., Johannes Heidecke* · ([SWELancer-Benchmark](https://github.com/openai/SWELancer-Benchmark) - openai) ![Star](https://img.shields.io/github/stars/openai/SWELancer-Benchmark.svg?style=social&label=Star) · ([openai](https://openai.com/index/swe-lancer/))
 - [SWE Arena: An Open Evaluation Platform for Vibe Coding](https://x.com/BigComProject/status/1886448143455453544)  𝕏 
 - **The Heap: A Contamination-Free Multilingual Code Dataset for Evaluating 
   Large Language Models**, `arXiv, 2501.09653`, [arxiv](http://arxiv.org/abs/2501.09653v1), [pdf](http://arxiv.org/pdf/2501.09653v1.pdf), cication: [**-1**](None) 
@@ -113,6 +118,9 @@
 
 ## Projects
 
+- [**deepclaude**](https://github.com/getAsterisk/deepclaude) - getAsterisk ![Star](https://img.shields.io/github/stars/getAsterisk/deepclaude.svg?style=social&label=Star)
+
+	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s/vhv4Eb5XoA2d4LKRqVRQag))
 - [**deepseek-engineer**](https://github.com/Doriandarko/deepseek-engineer) - Doriandarko ![Star](https://img.shields.io/github/stars/Doriandarko/deepseek-engineer.svg?style=social&label=Star) 
 - [**SWE-Gym**](https://github.com/SWE-Gym/SWE-Gym) - SWE-Gym ![Star](https://img.shields.io/github/stars/SWE-Gym/SWE-Gym.svg?style=social&label=Star) 
 - [**gitingest**](https://github.com/cyclotruc/gitingest) - cyclotruc ![Star](https://img.shields.io/github/stars/cyclotruc/gitingest.svg?style=social&label=Star) 

@@ -47,6 +47,10 @@
 
 ## Interpretability
 
+- **How Do LLMs Acquire New Knowledge? A Knowledge Circuits Perspective on
+  Continual Pre-Training**, `arXiv, 2502.11196`, [arxiv](http://arxiv.org/abs/2502.11196v1), [pdf](http://arxiv.org/pdf/2502.11196v1.pdf), cication: [**-1**](None) 
+
+	 *Yixin Ou, Yunzhi Yao, Ningyu Zhang, ..., Zhenguo Li, Huajun Chen*
 - **Open Problems in Mechanistic Interpretability**, `arXiv, 2501.16496`, [arxiv](http://arxiv.org/abs/2501.16496v1), [pdf](http://arxiv.org/pdf/2501.16496v1.pdf), cication: [**-1**](None) 
 
 	 *Lee Sharkey, Bilal Chughtai, Joshua Batson, ..., Daniel Murfet, Tom McGrath*
@@ -148,6 +152,9 @@
 
 ## Unlearning
 
+- **ReLearn: Unlearning via Learning for Large Language Models**, `arXiv, 2502.11190`, [arxiv](http://arxiv.org/abs/2502.11190v1), [pdf](http://arxiv.org/pdf/2502.11190v1.pdf), cication: [**-1**](None) 
+
+	 *Haoming Xu, Ningyuan Zhao, Liming Yang, ..., Huajun Chen, Ningyu Zhang* · ([unlearn](https://github.com/zjunlp/unlearn) - zjunlp) ![Star](https://img.shields.io/github/stars/zjunlp/unlearn.svg?style=social&label=Star)
 - **Does your LLM truly unlearn? An embarrassingly simple approach to 
   recover unlearned knowledge**, `arXiv, 2410.16454`, [arxiv](http://arxiv.org/abs/2410.16454v1), [pdf](http://arxiv.org/pdf/2410.16454v1.pdf), cication: [**-1**](None) 
 
@@ -204,6 +211,11 @@
 
 ## Tokenization
 
+- [Whole words and Claude tokenization](https://tokencontributions.substack.com/p/whole-words-and-claude-tokenization) 
+- 🌟 **Cramming 1568 Tokens into a Single Vector and Back Again: Exploring the
+  Limits of Embedding Space Capacity**, `arXiv, 2502.13063`, [arxiv](http://arxiv.org/abs/2502.13063v1), [pdf](http://arxiv.org/pdf/2502.13063v1.pdf), cication: [**-1**](None) 
+
+	 *Yuri Kuratov, Mikhail Arkhipov, Aydar Bulatov, ..., Mikhail Burtsev*
 - **Over-Tokenized Transformer: Vocabulary is Generally Worth Scaling**, `arXiv, 2501.16975`, [arxiv](http://arxiv.org/abs/2501.16975v1), [pdf](http://arxiv.org/pdf/2501.16975v1.pdf), cication: [**-1**](None) 
 
 	 *Hongzhi Huang, Defa Zhu, Banggu Wu, ..., Qiyang Min, Xun Zhou*

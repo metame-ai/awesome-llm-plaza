@@ -19,6 +19,9 @@
 
 ## Survey
 
+- **Harnessing Vision Models for Time Series Analysis: A Survey**, `arXiv, 2502.08869`, [arxiv](http://arxiv.org/abs/2502.08869v1), [pdf](http://arxiv.org/pdf/2502.08869v1.pdf), cication: [**-1**](None) 
+
+	 *Jingchao Ni, Ziming Zhao, ChengAo Shen, ..., Dongsheng Luo, Haifeng Chen* · ([awesome-vision-time-series](https://github.com/D2I-Group/awesome-vision-time-series) - D2I-Group) ![Star](https://img.shields.io/github/stars/D2I-Group/awesome-vision-time-series.svg?style=social&label=Star)
 - **Next Token Prediction Towards Multimodal Intelligence: A Comprehensive 
   Survey**, `arXiv, 2412.18619`, [arxiv](http://arxiv.org/abs/2412.18619v2), [pdf](http://arxiv.org/pdf/2412.18619v2.pdf), cication: [**-1**](None) 
 
@@ -53,6 +56,19 @@
 
 ## Vision-Language Models
 
+- [Ovis2-34B](https://huggingface.co/AIDC-AI/Ovis2-34B)  🤗
+- **Long-VITA: Scaling Large Multi-modal Models to 1 Million Tokens with
+  Leading Short-Context Accuracy**, `arXiv, 2502.05177`, [arxiv](http://arxiv.org/abs/2502.05177v2), [pdf](http://arxiv.org/pdf/2502.05177v2.pdf), cication: [**-1**](None) 
+
+	 *Yunhang Shen, Chaoyou Fu, Shaoqi Dong, ..., Rongrong Ji, Xing Sun* · ([Long-VITA](https://github.com/VITA-MLLM/Long-VITA) - VITA-MLLM) ![Star](https://img.shields.io/github/stars/VITA-MLLM/Long-VITA.svg?style=social&label=Star)
+- [PaliGemma 2 mix: fine-tuned on a mix of vision language tasks, including OCR, long and short captioning and more](https://huggingface.co/blog/paligemma2mix)  🤗
+- **Multimodal Mamba: Decoder-only Multimodal State Space Model via
+  Quadratic to Linear Distillation**, `arXiv, 2502.13145`, [arxiv](http://arxiv.org/abs/2502.13145v1), [pdf](http://arxiv.org/pdf/2502.13145v1.pdf), cication: [**-1**](None) 
+
+	 *Bencheng Liao, Hongyuan Tao, Qian Zhang, ..., Wenyu Liu, Xinggang Wang* · ([mmMamba](https://github.com/hustvl/mmMamba) - hustvl) ![Star](https://img.shields.io/github/stars/hustvl/mmMamba.svg?style=social&label=Star)
+- 🌟 **Qwen2.5-VL Technical Report**, `arXiv, 2502.13923`, [arxiv](http://arxiv.org/abs/2502.13923v1), [pdf](http://arxiv.org/pdf/2502.13923v1.pdf), cication: [**-1**](None) 
+
+	 *Shuai Bai, Keqin Chen, Xuejing Liu, ..., Haiyang Xu, Junyang Lin*
 - **AlignVLM: Bridging Vision and Language Latent Spaces for Multimodal 
   Understanding**, `arXiv, 2502.01341`, [arxiv](http://arxiv.org/abs/2502.01341v1), [pdf](http://arxiv.org/pdf/2502.01341v1.pdf), cication: [**-1**](None) 
 
@@ -521,6 +537,9 @@
 
 ## Efficient
 
+- **Vision-Language Models for Edge Networks: A Comprehensive Survey**, `arXiv, 2502.07855`, [arxiv](http://arxiv.org/abs/2502.07855v1), [pdf](http://arxiv.org/pdf/2502.07855v1.pdf), cication: [**-1**](None) 
+
+	 *Ahmed Sharshar, Latif U. Khan, Waseem Ullah, ..., Mohsen Guizani*
 - **HiMix: Reducing Computational Complexity in Large Vision-Language Models**, `arXiv, 2501.10318`, [arxiv](http://arxiv.org/abs/2501.10318v1), [pdf](http://arxiv.org/pdf/2501.10318v1.pdf), cication: [**-1**](None) 
 
 	 *Xuange Zhang, Dengjie Li, Bo Liu, ..., Zheng Zhao, Tongtong Yuan* · ([xuange923.github](https://xuange923.github.io/HiMix))
@@ -556,6 +575,10 @@
 
 ## Generation
 
+- **HermesFlow: Seamlessly Closing the Gap in Multimodal Understanding and
+  Generation**, `arXiv, 2502.12148`, [arxiv](http://arxiv.org/abs/2502.12148v1), [pdf](http://arxiv.org/pdf/2502.12148v1.pdf), cication: [**-1**](None) 
+
+	 *Ling Yang, Xinchen Zhang, Ye Tian, ..., Wentao Zhang, Bin Cui* · ([HermesFlow](https://github.com/Gen-Verse/HermesFlow) - Gen-Verse) ![Star](https://img.shields.io/github/stars/Gen-Verse/HermesFlow.svg?style=social&label=Star)
 - 🌟 [Janus-Pro is a novel autoregressive framework that unifies multimodal understanding and generation.](https://huggingface.co/deepseek-ai/Janus-Pro-7B)  🤗 
 - **VARGPT: Unified Understanding and Generation in a Visual Autoregressive 
   Multimodal Large Language Model**, `arXiv, 2501.12327`, [arxiv](http://arxiv.org/abs/2501.12327v1), [pdf](http://arxiv.org/pdf/2501.12327v1.pdf), cication: [**-1**](None) 
@@ -617,6 +640,10 @@
 
 ## Dataset
 
+- **Eagle 2: Building Post-Training Data Strategies from Scratch for
+  Frontier Vision-Language Models**, `arXiv, 2501.14818`, [arxiv](http://arxiv.org/abs/2501.14818v1), [pdf](http://arxiv.org/pdf/2501.14818v1.pdf), cication: [**-1**](None) 
+
+	 *Zhiqi Li, Guo Chen, Shilong Liu, ..., Guilin Liu, Zhiding Yu*
 - **Scaling Pre-training to One Hundred Billion Data for Vision Language 
   Models**, `arXiv, 2502.07617`, [arxiv](http://arxiv.org/abs/2502.07617v1), [pdf](http://arxiv.org/pdf/2502.07617v1.pdf), cication: [**-1**](None) 
 

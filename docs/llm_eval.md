@@ -20,6 +20,9 @@
 
 ## LLM Evaluation
 
+- 🌟 [EnigmaEval, a benchmark derived from puzzle hunts—a repository of sophisticated problems from the global puzzle-solving community.](https://scale.com/leaderboard/enigma_eval) 
+
+	 · ([𝕏](https://x.com/alexandr_wang/status/1891208692751638939?s=46))
 - 🌟 **Expect the Unexpected: FailSafe Long Context QA for Finance**, `arXiv, 2502.06329`, [arxiv](http://arxiv.org/abs/2502.06329v1), [pdf](http://arxiv.org/pdf/2502.06329v1.pdf), cication: [**-1**](None) 
 
 	 *Kiran Kamble, Melisa Russak, Dmytro Mozolevskyi, ..., Mateusz Russak, Waseem AlShikh* · ([huggingface](https://huggingface.co/datasets/Writer/FailSafeQA))
@@ -139,6 +142,7 @@
 
 ## Projects
 
+- [**ZeroSumEval**](https://github.com/haidark/ZeroSumEval) - haidark ![Star](https://img.shields.io/github/stars/haidark/ZeroSumEval.svg?style=social&label=Star)
 - [**generalization**](https://github.com/lechmazur/generalization) - lechmazur ![Star](https://img.shields.io/github/stars/lechmazur/generalization.svg?style=social&label=Star) 
 - [**MisguidedAttention**](https://github.com/cpldcpu/MisguidedAttention) - cpldcpu ![Star](https://img.shields.io/github/stars/cpldcpu/MisguidedAttention.svg?style=social&label=Star) 
 - [**mini_dev**](https://github.com/bird-bench/mini_dev) - bird-bench ![Star](https://img.shields.io/github/stars/bird-bench/mini_dev.svg?style=social&label=Star) 

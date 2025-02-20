@@ -34,6 +34,10 @@
 
 ## Agents
 
+- **OctoTools: An Agentic Framework with Extensible Tools for Complex
+  Reasoning**, `arXiv, 2502.11271`, [arxiv](http://arxiv.org/abs/2502.11271v1), [pdf](http://arxiv.org/pdf/2502.11271v1.pdf), cication: [**-1**](None) 
+
+	 *Pan Lu, Bowen Chen, Sheng Liu, ..., Joseph Boen, James Zou* · ([octotools.github](https://octotools.github.io/)) · ([huggingface](https://huggingface.co/spaces/OctoTools/octotools)) · ([octotools](https://github.com/octotools/octotools) - octotools) ![Star](https://img.shields.io/github/stars/octotools/octotools.svg?style=social&label=Star) · ([octotools.github](https://octotools.github.io/)) · ([octotools.github](https://octotools.github.io/))
 - **Agency Is Frame-Dependent**, `arXiv, 2502.04403`, [arxiv](http://arxiv.org/abs/2502.04403v1), [pdf](http://arxiv.org/pdf/2502.04403v1.pdf), cication: [**-1**](None) 
 
 	 *David Abel, André Barreto, Michael Bowling, ..., Tom Schaul, Satinder Singh*
@@ -266,6 +270,7 @@
 
 ## Projects
 
+- [**vision-agent**](https://github.com/landing-ai/vision-agent) - landing-ai ![Star](https://img.shields.io/github/stars/landing-ai/vision-agent.svg?style=social&label=Star)
 - [**MetaChain**](https://github.com/HKUDS/MetaChain) - HKUDS ![Star](https://img.shields.io/github/stars/HKUDS/MetaChain.svg?style=social&label=Star) 
 
 	 *Fully-Automated & Zero-Code LLM Agent Framework*
@@ -310,6 +315,10 @@
 
 ## Multi Agent
 
+- **Talk Structurally, Act Hierarchically: A Collaborative Framework for LLM
+  Multi-Agent Systems**, `arXiv, 2502.11098`, [arxiv](http://arxiv.org/abs/2502.11098v1), [pdf](http://arxiv.org/pdf/2502.11098v1.pdf), cication: [**-1**](None) 
+
+	 *Zhao Wang, Sota Moriyama, Wei-Yao Wang, ..., Briti Gangopadhyay, Shingo Takamatsu* · ([talkhier](https://github.com/sony/talkhier) - sony) ![Star](https://img.shields.io/github/stars/sony/talkhier.svg?style=social&label=Star)
 - **Training Language Models for Social Deduction with Multi-Agent 
   Reinforcement Learning**, `arXiv, 2502.06060`, [arxiv](http://arxiv.org/abs/2502.06060v1), [pdf](http://arxiv.org/pdf/2502.06060v1.pdf), cication: [**-1**](None) 
 

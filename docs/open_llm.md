@@ -72,6 +72,9 @@
 
 ## Chinese Models
 
+- [R1 1776 is a DeepSeek-R1 reasoning model that has been post-trained by Perplexity AI to remove Chinese Communist Party censorship.](https://huggingface.co/perplexity-ai/r1-1776)  🤗
+
+	 · ([perplexity](https://perplexity.ai/hub/blog/open-sourcing-r1-1776)) · ([𝕏](https://x.com/perplexity_ai/status/1891916573713236248))
 - **Qwen2.5-1M Technical Report**, `arXiv, 2501.15383`, [arxiv](http://arxiv.org/abs/2501.15383v1), [pdf](http://arxiv.org/pdf/2501.15383v1.pdf), cication: [**-1**](None) 
 
 	 *An Yang, Bowen Yu, Chengyuan Li, ..., Zhiying Xu, Zipeng Zhang* · ([qwenlm.github](https://qwenlm.github.io/blog/qwen2.5-1m/))
@@ -115,6 +118,8 @@
 
 ## Reasoning
 
+- [Mistral-Small-Reasoning](https://huggingface.co/yentinglin/Mistral-Small-24B-Instruct-2501-reasoning)  🤗
+- 🌟 [**OpenSeek**](https://github.com/FlagAI-Open/OpenSeek) - FlagAI-Open ![Star](https://img.shields.io/github/stars/FlagAI-Open/OpenSeek.svg?style=social&label=Star)
 - [DeepHermes 3 Preview is the latest version of our flagship Hermes series of LLMs by Nous Research](https://huggingface.co/NousResearch/DeepHermes-3-Llama-3-8B-Preview)  🤗 
 - [This is a 32B reasoning model trained from Qwen2.5-32B-Instruct with 17K data.](https://huggingface.co/NovaSky-AI/Sky-T1-32B-Preview)  🤗 
 
@@ -141,6 +146,9 @@
 
 ## Multilingual Models
 
+- **Sailor2: Sailing in South-East Asia with Inclusive Multilingual LLMs**, `arXiv, 2502.12982`, [arxiv](http://arxiv.org/abs/2502.12982v1), [pdf](http://arxiv.org/pdf/2502.12982v1.pdf), cication: [**-1**](None) 
+
+	 *Longxu Dou, Qian Liu, Fan Zhou, ..., Wei Lu, Min Lin*
 - **Marco-LLM: Bridging Languages via Massive Multilingual Training for 
   Cross-Lingual Enhancement**, `arXiv, 2412.04003`, [arxiv](http://arxiv.org/abs/2412.04003v1), [pdf](http://arxiv.org/pdf/2412.04003v1.pdf), cication: [**-1**](None) 
 

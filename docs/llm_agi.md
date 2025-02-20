@@ -13,6 +13,9 @@
 
 ## World Model
 
+- [World and Human Action Model (WHAM)](https://huggingface.co/microsoft/wham)  🤗
+
+	 · ([nature](https://www.nature.com/articles/s41586-025-08600-3))
 - **GameFactory: Creating New Games with Generative Interactive Videos**, `arXiv, 2501.08325`, [arxiv](http://arxiv.org/abs/2501.08325v1), [pdf](http://arxiv.org/pdf/2501.08325v1.pdf), cication: [**-1**](None) 
 
 	 *Jiwen Yu, Yiran Qin, Xintao Wang, ..., Di Zhang, Xihui Liu* · ([vvictoryuki.github](https://vvictoryuki.github.io/gamefactory/)) · ([huggingface](https://huggingface.co/datasets/KwaiVGI/GameFactory-Dataset)) · ([GameFactory](https://github.com/KwaiVGI/GameFactory) - KwaiVGI) ![Star](https://img.shields.io/github/stars/KwaiVGI/GameFactory.svg?style=social&label=Star)

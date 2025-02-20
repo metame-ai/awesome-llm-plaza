@@ -59,6 +59,9 @@
 
 ## Multimodal
 
+- **video-SALMONN-o1: Reasoning-enhanced Audio-visual Large Language Model**, `arXiv, 2502.11775`, [arxiv](http://arxiv.org/abs/2502.11775v1), [pdf](http://arxiv.org/pdf/2502.11775v1.pdf), cication: [**-1**](None) 
+
+	 *Guangzhi Sun, Yudong Yang, Jimin Zhuang, ..., Zejun MA, Chao Zhang* · ([video-SALMONN-o1](https://github.com/BriansIDP/video-SALMONN-o1) - BriansIDP) ![Star](https://img.shields.io/github/stars/BriansIDP/video-SALMONN-o1.svg?style=social&label=Star)
 - **Exploring the Potential of Encoder-free Architectures in 3D LMMs**, `arXiv, 2502.09620`, [arxiv](http://arxiv.org/abs/2502.09620v1), [pdf](http://arxiv.org/pdf/2502.09620v1.pdf), cication: [**-1**](None) 
 
 	 *Yiwen Tang, Zoey Guo, Zhuhao Wang, ..., Xuelong Li, Bin Zhao* · ([ENEL](https://github.com/Ivan-Tang-3D/ENEL) - Ivan-Tang-3D) ![Star](https://img.shields.io/github/stars/Ivan-Tang-3D/ENEL.svg?style=social&label=Star)

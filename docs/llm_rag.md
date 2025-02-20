@@ -15,6 +15,10 @@
 
 ## Survey
 
+- **Ask in Any Modality: A Comprehensive Survey on Multimodal
+  Retrieval-Augmented Generation**, `arXiv, 2502.08826`, [arxiv](http://arxiv.org/abs/2502.08826v2), [pdf](http://arxiv.org/pdf/2502.08826v2.pdf), cication: [**-1**](None) 
+
+	 *Mohammad Mahdi Abootorabi, Amirhosein Zobeiri, Mahdi Dehghani, ..., Mahdieh Soleymani Baghshah, Ehsaneddin Asgari* · ([Multimodal-RAG-Survey](https://github.com/llm-lab-org/Multimodal-RAG-Survey) - llm-lab-org) ![Star](https://img.shields.io/github/stars/llm-lab-org/Multimodal-RAG-Survey.svg?style=social&label=Star)
 - **Towards Trustworthy Retrieval Augmented Generation for Large Language 
   Models: A Survey**, `arXiv, 2502.06872`, [arxiv](http://arxiv.org/abs/2502.06872v1), [pdf](http://arxiv.org/pdf/2502.06872v1.pdf), cication: [**-1**](None) 
 
@@ -129,6 +133,7 @@
 
 ## Embedding
 
+- [nomic-embed-text-v2-moe: Multilingual Mixture of Experts Text Embeddings](https://huggingface.co/nomic-ai/nomic-embed-text-v2-moe)  🤗
 - [Train 400x faster Static Embedding Models with Sentence Transformers](https://huggingface.co/blog/static-embeddings)  🤗 
 
 	 · ([𝕏](https://x.com/tomaarsen/status/1879547342346666450))
