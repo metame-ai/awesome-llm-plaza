@@ -43,7 +43,7 @@
 
 ## Efficient LLM
 
-- 🌟 **Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse
+- 🌟 **Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse 
   Attention**, `arXiv, 2502.11089`, [arxiv](http://arxiv.org/abs/2502.11089v1), [pdf](http://arxiv.org/pdf/2502.11089v1.pdf), cication: [**-1**](None) 
 
 	 *Jingyang Yuan, Huazuo Gao, Damai Dai, ..., Wenfeng Liang, Wangding Zeng* · ([𝕏](https://x.com/deepseek_ai/status/1891745487071609327))
@@ -275,7 +275,7 @@
 
 ## Projects
 
-- [**MoBA**](https://github.com/MoonshotAI/MoBA) - MoonshotAI ![Star](https://img.shields.io/github/stars/MoonshotAI/MoBA.svg?style=social&label=Star)
+- [**MoBA**](https://github.com/MoonshotAI/MoBA) - MoonshotAI ![Star](https://img.shields.io/github/stars/MoonshotAI/MoBA.svg?style=social&label=Star) 
 
 	 *Mixture of Block Attention for Long-Context LLMs* · ([MoBA](https://github.com/MoonshotAI/MoBA/blob/master/MoBA_Tech_Report.pdf) - MoonshotAI) ![Star](https://img.shields.io/github/stars/MoonshotAI/MoBA.svg?style=social&label=Star) · ([zhuanlan.zhihu](https://zhuanlan.zhihu.com/p/24642612039?utm_campaign=shareopn&utm_medium=social&utm_psn=1875312875339395072&utm_source=wechat_timeline&wechatShare=1&s_r=0&utm_id=0))
 - [**LLMcalc**](https://github.com/Raskoll2/LLMcalc) - Raskoll2 ![Star](https://img.shields.io/github/stars/Raskoll2/LLMcalc.svg?style=social&label=Star) 

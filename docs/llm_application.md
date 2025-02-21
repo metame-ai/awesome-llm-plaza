@@ -230,7 +230,7 @@
 
 ## Design
 
-- [**onlook**](https://github.com/onlook-dev/onlook) - onlook-dev ![Star](https://img.shields.io/github/stars/onlook-dev/onlook.svg?style=social&label=Star)
+- [**onlook**](https://github.com/onlook-dev/onlook) - onlook-dev ![Star](https://img.shields.io/github/stars/onlook-dev/onlook.svg?style=social&label=Star) 
 
 ## Recommendation
 
@@ -289,10 +289,10 @@
 
 ## Projects
 
-- [**chatgpt-on-wechat**](https://github.com/zhayujie/chatgpt-on-wechat) - zhayujie ![Star](https://img.shields.io/github/stars/zhayujie/chatgpt-on-wechat.svg?style=social&label=Star)
-- [**gpt-researcher**](https://github.com/assafelovic/gpt-researcher) - assafelovic ![Star](https://img.shields.io/github/stars/assafelovic/gpt-researcher.svg?style=social&label=Star)
-- [**llm-universe**](https://github.com/datawhalechina/llm-universe) - datawhalechina ![Star](https://img.shields.io/github/stars/datawhalechina/llm-universe.svg?style=social&label=Star)
-- [**Agentic-Reasoning**](https://github.com/theworldofagents/Agentic-Reasoning) - theworldofagents ![Star](https://img.shields.io/github/stars/theworldofagents/Agentic-Reasoning.svg?style=social&label=Star)
+- [**chatgpt-on-wechat**](https://github.com/zhayujie/chatgpt-on-wechat) - zhayujie ![Star](https://img.shields.io/github/stars/zhayujie/chatgpt-on-wechat.svg?style=social&label=Star) 
+- [**gpt-researcher**](https://github.com/assafelovic/gpt-researcher) - assafelovic ![Star](https://img.shields.io/github/stars/assafelovic/gpt-researcher.svg?style=social&label=Star) 
+- [**llm-universe**](https://github.com/datawhalechina/llm-universe) - datawhalechina ![Star](https://img.shields.io/github/stars/datawhalechina/llm-universe.svg?style=social&label=Star) 
+- [**Agentic-Reasoning**](https://github.com/theworldofagents/Agentic-Reasoning) - theworldofagents ![Star](https://img.shields.io/github/stars/theworldofagents/Agentic-Reasoning.svg?style=social&label=Star) 
 
 	 *Reasoning LLM with Agentic Tools*
 - [**node-DeepResearch**](https://github.com/jina-ai/node-DeepResearch) - jina-ai ![Star](https://img.shields.io/github/stars/jina-ai/node-DeepResearch.svg?style=social&label=Star) 
@@ -337,7 +337,7 @@
 ## LLM Applications
 
 - [Introducing Perplexity Deep Research](https://www.perplexity.ai/hub/blog/introducing-perplexity-deep-research) 
-- **FLAG-Trader: Fusion LLM-Agent with Gradient-based Reinforcement Learning
+- **FLAG-Trader: Fusion LLM-Agent with Gradient-based Reinforcement Learning 
   for Financial Trading**, `arXiv, 2502.11433`, [arxiv](http://arxiv.org/abs/2502.11433v3), [pdf](http://arxiv.org/pdf/2502.11433v3.pdf), cication: [**-1**](None) 
 
 	 *Guojun Xiong, Zhiyang Deng, Keyi Wang, ..., Sophia Ananiadou, Qianqian Xie* · ([huggingface](https://huggingface.co/TheFinAI))

@@ -56,13 +56,13 @@
 
 ## Vision-Language Models
 
-- [Ovis2-34B](https://huggingface.co/AIDC-AI/Ovis2-34B)  🤗
-- **Long-VITA: Scaling Large Multi-modal Models to 1 Million Tokens with
+- [Ovis2-34B](https://huggingface.co/AIDC-AI/Ovis2-34B)  🤗 
+- **Long-VITA: Scaling Large Multi-modal Models to 1 Million Tokens with 
   Leading Short-Context Accuracy**, `arXiv, 2502.05177`, [arxiv](http://arxiv.org/abs/2502.05177v2), [pdf](http://arxiv.org/pdf/2502.05177v2.pdf), cication: [**-1**](None) 
 
 	 *Yunhang Shen, Chaoyou Fu, Shaoqi Dong, ..., Rongrong Ji, Xing Sun* · ([Long-VITA](https://github.com/VITA-MLLM/Long-VITA) - VITA-MLLM) ![Star](https://img.shields.io/github/stars/VITA-MLLM/Long-VITA.svg?style=social&label=Star)
-- [PaliGemma 2 mix: fine-tuned on a mix of vision language tasks, including OCR, long and short captioning and more](https://huggingface.co/blog/paligemma2mix)  🤗
-- **Multimodal Mamba: Decoder-only Multimodal State Space Model via
+- [PaliGemma 2 mix: fine-tuned on a mix of vision language tasks, including OCR, long and short captioning and more](https://huggingface.co/blog/paligemma2mix)  🤗 
+- **Multimodal Mamba: Decoder-only Multimodal State Space Model via 
   Quadratic to Linear Distillation**, `arXiv, 2502.13145`, [arxiv](http://arxiv.org/abs/2502.13145v1), [pdf](http://arxiv.org/pdf/2502.13145v1.pdf), cication: [**-1**](None) 
 
 	 *Bencheng Liao, Hongyuan Tao, Qian Zhang, ..., Wenyu Liu, Xinggang Wang* · ([mmMamba](https://github.com/hustvl/mmMamba) - hustvl) ![Star](https://img.shields.io/github/stars/hustvl/mmMamba.svg?style=social&label=Star)
@@ -575,7 +575,7 @@
 
 ## Generation
 
-- **HermesFlow: Seamlessly Closing the Gap in Multimodal Understanding and
+- **HermesFlow: Seamlessly Closing the Gap in Multimodal Understanding and 
   Generation**, `arXiv, 2502.12148`, [arxiv](http://arxiv.org/abs/2502.12148v1), [pdf](http://arxiv.org/pdf/2502.12148v1.pdf), cication: [**-1**](None) 
 
 	 *Ling Yang, Xinchen Zhang, Ye Tian, ..., Wentao Zhang, Bin Cui* · ([HermesFlow](https://github.com/Gen-Verse/HermesFlow) - Gen-Verse) ![Star](https://img.shields.io/github/stars/Gen-Verse/HermesFlow.svg?style=social&label=Star)
@@ -640,7 +640,7 @@
 
 ## Dataset
 
-- **Eagle 2: Building Post-Training Data Strategies from Scratch for
+- **Eagle 2: Building Post-Training Data Strategies from Scratch for 
   Frontier Vision-Language Models**, `arXiv, 2501.14818`, [arxiv](http://arxiv.org/abs/2501.14818v1), [pdf](http://arxiv.org/pdf/2501.14818v1.pdf), cication: [**-1**](None) 
 
 	 *Zhiqi Li, Guo Chen, Shilong Liu, ..., Guilin Liu, Zhiding Yu*

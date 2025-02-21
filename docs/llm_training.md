@@ -23,7 +23,7 @@
 
 ## LLM Training
 
-- 🌟 [The Ultra-Scale Playbook: Training LLMs on GPU Clusters](https://huggingface.co/spaces/nanotron/ultrascale-playbook)  🤗
+- 🌟 [The Ultra-Scale Playbook: Training LLMs on GPU Clusters](https://huggingface.co/spaces/nanotron/ultrascale-playbook)  🤗 
 - **Gemstones: A Model Suite for Multi-Faceted Scaling Laws**, `arXiv, 2502.06857`, [arxiv](http://arxiv.org/abs/2502.06857v1), [pdf](http://arxiv.org/pdf/2502.06857v1.pdf), cication: [**-1**](None) 
 
 	 *Sean McLeish, John Kirchenbauer, David Yu Miller, ..., Ashwinee Panda, Tom Goldstein* · ([huggingface](https://huggingface.co/collections/tomg-group-umd/gemstone-models-679408ee3f19f1d4d00e8b10)) · ([gemstone-scaling-laws](https://github.com/mcleish7/gemstone-scaling-laws) - mcleish7) ![Star](https://img.shields.io/github/stars/mcleish7/gemstone-scaling-laws.svg?style=social&label=Star)
@@ -265,7 +265,7 @@
 
 ## Toolkits
 
-- [**oumi**](https://github.com/oumi-ai/oumi) - oumi-ai ![Star](https://img.shields.io/github/stars/oumi-ai/oumi.svg?style=social&label=Star)
+- [**oumi**](https://github.com/oumi-ai/oumi) - oumi-ai ![Star](https://img.shields.io/github/stars/oumi-ai/oumi.svg?style=social&label=Star) 
 - [**dolomite-engine**](https://github.com/IBM/dolomite-engine) - IBM ![Star](https://img.shields.io/github/stars/IBM/dolomite-engine.svg?style=social&label=Star) 
 - [**lingua**](https://github.com/facebookresearch/lingua) - facebookresearch ![Star](https://img.shields.io/github/stars/facebookresearch/lingua.svg?style=social&label=Star) 
 - [Supercharging Training using float8 and FSDP2](https://pytorch.org/blog/training-using-float8-fsdp2/) 

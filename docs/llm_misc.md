@@ -47,7 +47,7 @@
 
 ## Interpretability
 
-- **How Do LLMs Acquire New Knowledge? A Knowledge Circuits Perspective on
+- **How Do LLMs Acquire New Knowledge? A Knowledge Circuits Perspective on 
   Continual Pre-Training**, `arXiv, 2502.11196`, [arxiv](http://arxiv.org/abs/2502.11196v1), [pdf](http://arxiv.org/pdf/2502.11196v1.pdf), cication: [**-1**](None) 
 
 	 *Yixin Ou, Yunzhi Yao, Ningyu Zhang, ..., Zhenguo Li, Huajun Chen*
@@ -212,7 +212,7 @@
 ## Tokenization
 
 - [Whole words and Claude tokenization](https://tokencontributions.substack.com/p/whole-words-and-claude-tokenization) 
-- 🌟 **Cramming 1568 Tokens into a Single Vector and Back Again: Exploring the
+- 🌟 **Cramming 1568 Tokens into a Single Vector and Back Again: Exploring the 
   Limits of Embedding Space Capacity**, `arXiv, 2502.13063`, [arxiv](http://arxiv.org/abs/2502.13063v1), [pdf](http://arxiv.org/pdf/2502.13063v1.pdf), cication: [**-1**](None) 
 
 	 *Yuri Kuratov, Mikhail Arkhipov, Aydar Bulatov, ..., Mikhail Burtsev*

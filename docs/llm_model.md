@@ -16,7 +16,7 @@
 - **Continuous Diffusion Model for Language Modeling**, `arXiv, 2502.11564`, [arxiv](http://arxiv.org/abs/2502.11564v1), [pdf](http://arxiv.org/pdf/2502.11564v1.pdf), cication: [**-1**](None) 
 
 	 *Jaehyeong Jo, Sung Ju Hwang* · ([RDLM](https://github.com/harryjo97/RDLM) - harryjo97) ![Star](https://img.shields.io/github/stars/harryjo97/RDLM.svg?style=social&label=Star)
-- **Multimodal Mamba: Decoder-only Multimodal State Space Model via
+- **Multimodal Mamba: Decoder-only Multimodal State Space Model via 
   Quadratic to Linear Distillation**, `arXiv, 2502.13145`, [arxiv](http://arxiv.org/abs/2502.13145v1), [pdf](http://arxiv.org/pdf/2502.13145v1.pdf), cication: [**-1**](None) 
 
 	 *Bencheng Liao, Hongyuan Tao, Qian Zhang, ..., Wenyu Liu, Xinggang Wang* · ([mmMamba](https://github.com/hustvl/mmMamba) - hustvl) ![Star](https://img.shields.io/github/stars/hustvl/mmMamba.svg?style=social&label=Star)

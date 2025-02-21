@@ -21,7 +21,7 @@
 - **Towards Reasoning Ability of Small Language Models**, `arXiv, 2502.11569`, [arxiv](http://arxiv.org/abs/2502.11569v1), [pdf](http://arxiv.org/pdf/2502.11569v1.pdf), cication: [**-1**](None) 
 
 	 *Gaurav Srivastava, Shuxiang Cao, Xuan Wang*
-- **Advancing Reasoning in Large Language Models: Promising Methods and
+- **Advancing Reasoning in Large Language Models: Promising Methods and 
   Approaches**, `arXiv, 2502.03671`, [arxiv](http://arxiv.org/abs/2502.03671v1), [pdf](http://arxiv.org/pdf/2502.03671v1.pdf), cication: [**-1**](None) 
 
 	 *Avinash Patil*
@@ -222,7 +222,7 @@
 
 ## Math Reasoning
 
-- [**Math-Verify**](https://github.com/huggingface/Math-Verify) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/Math-Verify.svg?style=social&label=Star)
+- [**Math-Verify**](https://github.com/huggingface/Math-Verify) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/Math-Verify.svg?style=social&label=Star) 
 - **Goedel-Prover: A Frontier Model for Open-Source Automated Theorem 
   Proving**, `arXiv, 2502.07640`, [arxiv](http://arxiv.org/abs/2502.07640v2), [pdf](http://arxiv.org/pdf/2502.07640v2.pdf), cication: [**-1**](None) 
 
@@ -303,12 +303,12 @@
 - **Scaling Test-Time Compute Without Verification or RL is Suboptimal**, `arXiv, 2502.12118`, [arxiv](http://arxiv.org/abs/2502.12118v2), [pdf](http://arxiv.org/pdf/2502.12118v2.pdf), cication: [**-1**](None) 
 
 	 *Amrith Setlur, Nived Rajaraman, Sergey Levine, ..., Aviral Kumar*
-- [**simple_GRPO**](https://github.com/lsdefine/simple_GRPO) - lsdefine ![Star](https://img.shields.io/github/stars/lsdefine/simple_GRPO.svg?style=social&label=Star)
+- [**simple_GRPO**](https://github.com/lsdefine/simple_GRPO) - lsdefine ![Star](https://img.shields.io/github/stars/lsdefine/simple_GRPO.svg?style=social&label=Star) 
 
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s/hFArGyWTRTkQIMeStg279w))
 - [libraries that implement verifiers](https://www.interconnects.ai/p/artifacts-7) 
-- [**reasoning-gym**](https://github.com/open-thought/reasoning-gym) - open-thought ![Star](https://img.shields.io/github/stars/open-thought/reasoning-gym.svg?style=social&label=Star)
-- **Revisiting the Test-Time Scaling of o1-like Models: Do they Truly
+- [**reasoning-gym**](https://github.com/open-thought/reasoning-gym) - open-thought ![Star](https://img.shields.io/github/stars/open-thought/reasoning-gym.svg?style=social&label=Star) 
+- **Revisiting the Test-Time Scaling of o1-like Models: Do they Truly 
   Possess Test-Time Scaling Capabilities?**, `arXiv, 2502.12215`, [arxiv](http://arxiv.org/abs/2502.12215v1), [pdf](http://arxiv.org/pdf/2502.12215v1.pdf), cication: [**-1**](None) 
 
 	 *Zhiyuan Zeng, Qinyuan Cheng, Zhangyue Yin, ..., Yunhua Zhou, Xipeng Qiu*

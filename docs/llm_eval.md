@@ -142,7 +142,7 @@
 
 ## Projects
 
-- [**ZeroSumEval**](https://github.com/haidark/ZeroSumEval) - haidark ![Star](https://img.shields.io/github/stars/haidark/ZeroSumEval.svg?style=social&label=Star)
+- [**ZeroSumEval**](https://github.com/haidark/ZeroSumEval) - haidark ![Star](https://img.shields.io/github/stars/haidark/ZeroSumEval.svg?style=social&label=Star) 
 - [**generalization**](https://github.com/lechmazur/generalization) - lechmazur ![Star](https://img.shields.io/github/stars/lechmazur/generalization.svg?style=social&label=Star) 
 - [**MisguidedAttention**](https://github.com/cpldcpu/MisguidedAttention) - cpldcpu ![Star](https://img.shields.io/github/stars/cpldcpu/MisguidedAttention.svg?style=social&label=Star) 
 - [**mini_dev**](https://github.com/bird-bench/mini_dev) - bird-bench ![Star](https://img.shields.io/github/stars/bird-bench/mini_dev.svg?style=social&label=Star) 

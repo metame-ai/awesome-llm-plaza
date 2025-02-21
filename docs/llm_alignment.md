@@ -12,10 +12,10 @@
 
 ## LLM Alignment
 
-- [post-training and our experience working together on ChatGPT](https://x.com/johnschulman2/status/1891539960743743756)  𝕏
+- [post-training and our experience working together on ChatGPT](https://x.com/johnschulman2/status/1891539960743743756)  𝕏 
 
 	 · ([docs.google](https://docs.google.com/presentation/d/11KWCKUORnPpVMSY6vXgBeFSWo7fJcuGQ9yuR6vC1pzE/edit))
-- **Rethinking Diverse Human Preference Learning through Principal Component
+- **Rethinking Diverse Human Preference Learning through Principal Component 
   Analysis**, `arXiv, 2502.13131`, [arxiv](http://arxiv.org/abs/2502.13131v1), [pdf](http://arxiv.org/pdf/2502.13131v1.pdf), cication: [**-1**](None) 
 
 	 *Feng Luo, Rui Yang, Hao Sun, ..., Huan Zhang, Hanjie Chen*
