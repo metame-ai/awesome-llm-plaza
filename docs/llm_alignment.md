@@ -12,6 +12,9 @@
 
 ## LLM Alignment
 
+- **Thinking Preference Optimization**, `arXiv, 2502.13173`, [arxiv](http://arxiv.org/abs/2502.13173v1), [pdf](http://arxiv.org/pdf/2502.13173v1.pdf), cication: [**-1**](None) 
+
+	 *Wang Yang, Hongye Jin, Jingfeng Yang, ..., Vipin Chaudhary, Xiaotian Han*
 - [post-training and our experience working together on ChatGPT](https://x.com/johnschulman2/status/1891539960743743756)  𝕏 
 
 	 · ([docs.google](https://docs.google.com/presentation/d/11KWCKUORnPpVMSY6vXgBeFSWo7fJcuGQ9yuR6vC1pzE/edit))

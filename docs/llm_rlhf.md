@@ -13,6 +13,10 @@
 
 ## RLHF
 
+- [ByteDance's Platform for Reinforcement Learning from Human Feedback | Ray Summit 2024](https://www.youtube.com/watch?v=MrhMcXkXvJU&list=PLzTswPQNepXntmT8jr9WaNfqQ60QwW7-U&index=37)  :clapper:
+- 🌟 **Self-Play Preference Optimization for Language Model Alignment**, `arXiv, 2405.00675`, [arxiv](http://arxiv.org/abs/2405.00675v5), [pdf](http://arxiv.org/pdf/2405.00675v5.pdf), cication: [**76**](https://scholar.google.com/scholar?cites=14552805419899502113&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII) 
+
+	 *Yue Wu, Zhiqing Sun, Huizhuo Yuan, ..., Yiming Yang, Quanquan Gu* · ([𝕏](https://x.com/FrankYueWu1/status/1893850023919505534))
 - 🌟 [Train your own R1 reasoning model with UnslothFeb 6, 2025 • By Daniel & Michael](https://unsloth.ai/blog/r1-reasoning) 
 - **SFT Memorizes, RL Generalizes: A Comparative Study of Foundation Model 
   Post-training**, `arXiv, 2501.17161`, [arxiv](http://arxiv.org/abs/2501.17161v1), [pdf](http://arxiv.org/pdf/2501.17161v1.pdf), cication: [**-1**](None) 

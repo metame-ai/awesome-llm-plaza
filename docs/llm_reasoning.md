@@ -41,6 +41,20 @@
 
 ## Reasoning
 
+- **LightThinker: Thinking Step-by-Step Compression**, `arXiv, 2502.15589`, [arxiv](http://arxiv.org/abs/2502.15589v1), [pdf](http://arxiv.org/pdf/2502.15589v1.pdf), cication: [**-1**](None) 
+
+	 *Jintian Zhang, Yuqi Zhu, Mengshu Sun, ..., Huajun Chen, Ningyu Zhang* · ([LightThinker](https://github.com/zjunlp/LightThinker) - zjunlp) ![Star](https://img.shields.io/github/stars/zjunlp/LightThinker.svg?style=social&label=Star)
+- **Big-Math: A Large-Scale, High-Quality Math Dataset for Reinforcement
+  Learning in Language Models**, `arXiv, 2502.17387`, [arxiv](http://arxiv.org/abs/2502.17387v1), [pdf](http://arxiv.org/pdf/2502.17387v1.pdf), cication: [**-1**](None) 
+
+	 *Alon Albalak, Duy Phung, Nathan Lile, ..., Dakota Mahan, Nick Haber*
+- **AlphaMaze: Enhancing Large Language Models' Spatial Intelligence via
+  GRPO**, `arXiv, 2502.14669`, [arxiv](http://arxiv.org/abs/2502.14669v3), [pdf](http://arxiv.org/pdf/2502.14669v3.pdf), cication: [**-1**](None) 
+
+	 *Alan Dao, Dinh Bach Vu*
+- **Small Models Struggle to Learn from Strong Reasoners**, `arXiv, 2502.12143`, [arxiv](http://arxiv.org/abs/2502.12143v2), [pdf](http://arxiv.org/pdf/2502.12143v2.pdf), cication: [**-1**](None) 
+
+	 *Yuetai Li, Xiang Yue, Zhangchen Xu, ..., Bhaskar Ramasubramanian, Radha Poovendran*
 - **CRANE: Reasoning with constrained LLM generation**, `arXiv, 2502.09061`, [arxiv](http://arxiv.org/abs/2502.09061v1), [pdf](http://arxiv.org/pdf/2502.09061v1.pdf), cication: [**-1**](None) 
 
 	 *Debangshu Banerjee, Tarun Suresh, Shubham Ugare, ..., Sasa Misailovic, Gagandeep Singh*
@@ -300,6 +314,9 @@
 
 ## O1 Reasoning
 
+- [**EasyR1**](https://github.com/hiyouga/EasyR1) - hiyouga ![Star](https://img.shields.io/github/stars/hiyouga/EasyR1.svg?style=social&label=Star)
+
+	 *An Efficient, Scalable, Multi-Modality RL Training Framework*
 - **Scaling Test-Time Compute Without Verification or RL is Suboptimal**, `arXiv, 2502.12118`, [arxiv](http://arxiv.org/abs/2502.12118v2), [pdf](http://arxiv.org/pdf/2502.12118v2.pdf), cication: [**-1**](None) 
 
 	 *Amrith Setlur, Nived Rajaraman, Sergey Levine, ..., Aviral Kumar*

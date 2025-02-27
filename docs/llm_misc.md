@@ -256,6 +256,9 @@
 
 ## Misc
 
+- **Idiosyncrasies in Large Language Models**, `arXiv, 2502.12150`, [arxiv](http://arxiv.org/abs/2502.12150v1), [pdf](http://arxiv.org/pdf/2502.12150v1.pdf), cication: [**-1**](None) 
+
+	 *Mingjie Sun, Yida Yin, Zhiqiu Xu, ..., J. Zico Kolter, Zhuang Liu* · ([eric-mingjie.github](https://eric-mingjie.github.io/llm-idiosyncrasies/)) · ([𝕏](https://x.com/liuzhuang1234/status/1892430119395873015))
 - [Jeff Dean & Noam Shazeer – 25 years at Google: from PageRank to AGI](https://www.youtube.com/watch?v=v0gjI__RyCY)  :clapper: 
 - [Turning Up the Heat: Min-p Sampling for Creative and Coherent LLM Outputs](https://openreview.net/forum?id=FBkpCyujtS) 
 - 🌟 [Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI)  :clapper: 

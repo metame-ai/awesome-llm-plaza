@@ -17,6 +17,10 @@
 
 ## GUI Agent
 
+- **VEM: Environment-Free Exploration for Training GUI Agent with Value
+  Environment Model**, `arXiv, 2502.18906`, [arxiv](http://arxiv.org/abs/2502.18906v1), [pdf](http://arxiv.org/pdf/2502.18906v1.pdf), cication: [**-1**](None) 
+
+	 *Jiani Zheng, Lu Wang, Fangkai Yang, ..., Saravan Rajmohan, Qi Zhang*
 - [OmniParser is a general screen parsing tool, which interprets/converts UI screenshot to structured format, to improve existing LLM based UI agent.](https://huggingface.co/microsoft/OmniParser-v2.0)  🤗 
 - **On the Effects of Data Scale on UI Control Agents**, `arXiv, 2406.03679`, [arxiv](http://arxiv.org/abs/2406.03679v6), [pdf](http://arxiv.org/pdf/2406.03679v6.pdf), cication: [**-1**](None) 
 
@@ -72,6 +76,10 @@
 
 ## Datasets
 
+- **Explorer: Scaling Exploration-driven Web Trajectory Synthesis for
+  Multimodal Web Agents**, `arXiv, 2502.11357`, [arxiv](http://arxiv.org/abs/2502.11357v2), [pdf](http://arxiv.org/pdf/2502.11357v2.pdf), cication: [**-1**](None) 
+
+	 *Vardaan Pahuja, Yadong Lu, Corby Rosset, ..., Yu Su, Ahmed Awadallah*
 - **Towards Internet-Scale Training For Agents**, `arXiv, 2502.06776`, [arxiv](http://arxiv.org/abs/2502.06776v1), [pdf](http://arxiv.org/pdf/2502.06776v1.pdf), cication: [**-1**](None) 
 
 	 *Brandon Trabucco, Gunnar Sigurdsson, Robinson Piramuthu, ..., Ruslan Salakhutdinov* · ([data-for-agents.github](https://data-for-agents.github.io)) · ([environment](https://github.com/data-for-agents/environment) - data-for-agents) ![Star](https://img.shields.io/github/stars/data-for-agents/environment.svg?style=social&label=Star) · ([𝕏](https://x.com/brandontrabucco/status/1889390285530300528))
@@ -120,6 +128,7 @@
 
 	 *Linlu Qiu, Liwei Jiang, Ximing Lu, ..., Nouha Dziri, Xiang Ren*
 ## Projects
-- [**Awesome-GUI-Agent**](https://github.com/showlab/Awesome-GUI-Agent) - showlab ![Star](https://img.shields.io/github/stars/showlab/Awesome-GUI-Agent.svg?style=social&label=Star) 
+
+- [Tell your MacBook what to do, and it's done—across ANY app.](https://github.com/browser-use/macOS-use)- [**Awesome-GUI-Agent**](https://github.com/showlab/Awesome-GUI-Agent) - showlab ![Star](https://img.shields.io/github/stars/showlab/Awesome-GUI-Agent.svg?style=social&label=Star) 
 ## Toolkits
 - 🌟 [**UI-TARS-desktop**](https://github.com/bytedance/UI-TARS-desktop) - bytedance ![Star](https://img.shields.io/github/stars/bytedance/UI-TARS-desktop.svg?style=social&label=Star) 

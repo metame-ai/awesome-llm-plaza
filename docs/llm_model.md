@@ -13,6 +13,10 @@
 
 ## LLM Models
 
+- **Test-time regression: a unifying framework for designing sequence models
+  with associative memory**, `arXiv, 2501.12352`, [arxiv](http://arxiv.org/abs/2501.12352v1), [pdf](http://arxiv.org/pdf/2501.12352v1.pdf), cication: [**-1**](None) 
+
+	 *Ke Alexander Wang, Jiaxin Shi, Emily B. Fox* · ([youtube](https://www.youtube.com/watch?v=C7KnW8VFp4U&ab_channel=ASAPSeminarSeries))
 - **Continuous Diffusion Model for Language Modeling**, `arXiv, 2502.11564`, [arxiv](http://arxiv.org/abs/2502.11564v1), [pdf](http://arxiv.org/pdf/2502.11564v1.pdf), cication: [**-1**](None) 
 
 	 *Jaehyeong Jo, Sung Ju Hwang* · ([RDLM](https://github.com/harryjo97/RDLM) - harryjo97) ![Star](https://img.shields.io/github/stars/harryjo97/RDLM.svg?style=social&label=Star)

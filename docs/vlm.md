@@ -388,6 +388,9 @@
 
 ## Reasoning
 
+- [**EasyR1**](https://github.com/hiyouga/EasyR1) - hiyouga ![Star](https://img.shields.io/github/stars/hiyouga/EasyR1.svg?style=social&label=Star)
+
+	 *An Efficient, Scalable, Multi-Modality RL Training Framework*
 - **MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for 
   Reasoning Quality, Robustness, and Efficiency**, `arXiv, 2502.09621`, [arxiv](http://arxiv.org/abs/2502.09621v1), [pdf](http://arxiv.org/pdf/2502.09621v1.pdf), cication: [**-1**](None) 
 
@@ -640,6 +643,10 @@
 
 ## Dataset
 
+- **Scaling Text-Rich Image Understanding via Code-Guided Synthetic
+  Multimodal Data Generation**, `arXiv, 2502.14846`, [arxiv](http://arxiv.org/abs/2502.14846v1), [pdf](http://arxiv.org/pdf/2502.14846v1.pdf), cication: [**-1**](None) 
+
+	 *Yue Yang, Ajay Patel, Matt Deitke, ..., Aniruddha Kembhavi, Christopher Clark* · ([yueyang1996.github](https://yueyang1996.github.io/cosyn/)) · ([𝕏](https://x.com/YueYangAI/status/1894091986144997621))
 - **Eagle 2: Building Post-Training Data Strategies from Scratch for 
   Frontier Vision-Language Models**, `arXiv, 2501.14818`, [arxiv](http://arxiv.org/abs/2501.14818v1), [pdf](http://arxiv.org/pdf/2501.14818v1.pdf), cication: [**-1**](None) 
 
