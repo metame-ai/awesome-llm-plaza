@@ -18,6 +18,9 @@
 
 ## Survey
 
+- **LLM Post-Training: A Deep Dive into Reasoning Large Language Models**, `arXiv, 2502.21321`, [arxiv](http://arxiv.org/abs/2502.21321v1), [pdf](http://arxiv.org/pdf/2502.21321v1.pdf), cication: [**-1**](None) 
+
+	 *Komal Kumar, Tajamul Ashraf, Omkar Thawakar, ..., Salman Khan, Fahad Shahbaz Khan*
 - **Towards Reasoning Ability of Small Language Models**, `arXiv, 2502.11569`, [arxiv](http://arxiv.org/abs/2502.11569v1), [pdf](http://arxiv.org/pdf/2502.11569v1.pdf), cication: [**-1**](None) 
 
 	 *Gaurav Srivastava, Shuxiang Cao, Xuan Wang*
@@ -41,14 +44,29 @@
 
 ## Reasoning
 
+- **Learning to Reason from Feedback at Test-Time**, `arXiv, 2502.15771`, [arxiv](http://arxiv.org/abs/2502.15771v1), [pdf](http://arxiv.org/pdf/2502.15771v1.pdf), cication: [**-1**](None) 
+
+	 *Yanyang Li, Michael Lyu, Liwei Wang* · ([FTTT](https://github.com/LaVi-Lab/FTTT) - LaVi-Lab) ![Star](https://img.shields.io/github/stars/LaVi-Lab/FTTT.svg?style=social&label=Star)
+- **SIFT: Grounding LLM Reasoning in Contexts via Stickers**, `arXiv, 2502.14922`, [arxiv](http://arxiv.org/abs/2502.14922v1), [pdf](http://arxiv.org/pdf/2502.14922v1.pdf), cication: [**-1**](None) 
+
+	 *Zihao Zeng, Xuyao Huang, Boxiu Li, ..., Zhijie Deng* · ([SIFT](https://github.com/zhijie-group/SIFT) - zhijie-group) ![Star](https://img.shields.io/github/stars/zhijie-group/SIFT.svg?style=social&label=Star)
+- **Thinking Slow, Fast: Scaling Inference Compute with Distilled Reasoners**, `arXiv, 2502.20339`, [arxiv](http://arxiv.org/abs/2502.20339v1), [pdf](http://arxiv.org/pdf/2502.20339v1.pdf), cication: [**-1**](None) 
+
+	 *Daniele Paliotta, Junxiong Wang, Matteo Pagliardini, ..., François Fleuret, Tri Dao*
+- **Reasoning with Latent Thoughts: On the Power of Looped Transformers**, `arXiv, 2502.17416`, [arxiv](http://arxiv.org/abs/2502.17416v1), [pdf](http://arxiv.org/pdf/2502.17416v1.pdf), cication: [**-1**](None) 
+
+	 *Nikunj Saunshi, Nishanth Dikkala, Zhiyuan Li, ..., Sanjiv Kumar, Sashank J. Reddi*
+- [DeepSeek关键RL算法GRPO，有人从头跑通了，贡献完整代码                                                                                                                          机器之心                                           机器之心 机器之心(北京)科技有限公司 专业的人工智能媒体和产业服务平台 2298篇原创内容                                                  2025年03月02日 11:54              北京](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650957407&idx=1&sn=7b66bc74e7cce716c303a655175b3bd3&chksm=85efd656fe38ec1c3d2b5513ac81fb1bb9ba91801a1796e4561fb4e5339377afa2664a89ebe0&scene=0&xtrack=1) 
+
+	 · ([theLMbook](https://github.com/aburkov/theLMbook/blob/main/GRPO_From_Scratch_Multi_GPU_DataParallel_Qwen_2_5_1_5B_Instruct.ipynb) - aburkov) ![Star](https://img.shields.io/github/stars/aburkov/theLMbook.svg?style=social&label=Star)
 - **LightThinker: Thinking Step-by-Step Compression**, `arXiv, 2502.15589`, [arxiv](http://arxiv.org/abs/2502.15589v1), [pdf](http://arxiv.org/pdf/2502.15589v1.pdf), cication: [**-1**](None) 
 
 	 *Jintian Zhang, Yuqi Zhu, Mengshu Sun, ..., Huajun Chen, Ningyu Zhang* · ([LightThinker](https://github.com/zjunlp/LightThinker) - zjunlp) ![Star](https://img.shields.io/github/stars/zjunlp/LightThinker.svg?style=social&label=Star)
-- **Big-Math: A Large-Scale, High-Quality Math Dataset for Reinforcement
+- **Big-Math: A Large-Scale, High-Quality Math Dataset for Reinforcement 
   Learning in Language Models**, `arXiv, 2502.17387`, [arxiv](http://arxiv.org/abs/2502.17387v1), [pdf](http://arxiv.org/pdf/2502.17387v1.pdf), cication: [**-1**](None) 
 
 	 *Alon Albalak, Duy Phung, Nathan Lile, ..., Dakota Mahan, Nick Haber*
-- **AlphaMaze: Enhancing Large Language Models' Spatial Intelligence via
+- **AlphaMaze: Enhancing Large Language Models' Spatial Intelligence via 
   GRPO**, `arXiv, 2502.14669`, [arxiv](http://arxiv.org/abs/2502.14669v3), [pdf](http://arxiv.org/pdf/2502.14669v3.pdf), cication: [**-1**](None) 
 
 	 *Alan Dao, Dinh Bach Vu*
@@ -236,6 +254,32 @@
 
 ## Math Reasoning
 
+- **Big-Math: A Large-Scale, High-Quality Math Dataset for Reinforcement
+  Learning in Language Models**, `arXiv, 2502.17387`, [arxiv](http://arxiv.org/abs/2502.17387v1), [pdf](http://arxiv.org/pdf/2502.17387v1.pdf), cication: [**-1**](None) 
+
+	 *Alon Albalak, Duy Phung, Nathan Lile, ..., Dakota Mahan, Nick Haber*
+- **Multi-Agent Verification: Scaling Test-Time Compute with Multiple
+  Verifiers**, `arXiv, 2502.20379`, [arxiv](http://arxiv.org/abs/2502.20379v1), [pdf](http://arxiv.org/pdf/2502.20379v1.pdf), cication: [**-1**](None) 
+
+	 *Shalev Lifshitz, Sheila A. McIlraith, Yilun Du* · ([𝕏](https://x.com/Shalev_lif/status/1895615162570162213))
+- 🌟 **Self-rewarding correction for mathematical reasoning**, `arXiv, 2502.19613`, [arxiv](http://arxiv.org/abs/2502.19613v1), [pdf](http://arxiv.org/pdf/2502.19613v1.pdf), cication: [**-1**](None) 
+
+	 *Wei Xiong, Hanning Zhang, Chenlu Ye, ..., Nan Jiang, Tong Zhang* · ([𝕏](https://x.com/weixiong_1/status/1895498017446171019)) · ([Self-rewarding-reasoning-LLM](https://github.com/RLHFlow/Self-rewarding-reasoning-LLM) - RLHFlow) ![Star](https://img.shields.io/github/stars/RLHFlow/Self-rewarding-reasoning-LLM.svg?style=social&label=Star)
+- **Linguistic Generalizability of Test-Time Scaling in Mathematical
+  Reasoning**, `arXiv, 2502.17407`, [arxiv](http://arxiv.org/abs/2502.17407v1), [pdf](http://arxiv.org/pdf/2502.17407v1.pdf), cication: [**-1**](None) 
+
+	 *Guijin Son, Jiwoo Hong, Hyunwoo Ko, ..., James Thorne* · ([huggingface](https://huggingface.co/datasets/amphora/MCLM)) · ([huggingface](https://huggingface.co/datasets/amphora/Open-R1-Mulitlingual-SFT))
+- **STP: Self-play LLM Theorem Provers with Iterative Conjecturing and
+  Proving**, `arXiv, 2502.00212`, [arxiv](http://arxiv.org/abs/2502.00212v3), [pdf](http://arxiv.org/pdf/2502.00212v3.pdf), cication: [**-1**](None) 
+
+	 *Kefan Dong, Tengyu Ma*
+- [**Light-R1**](https://github.com/Qihoo360/Light-R1) - Qihoo360 ![Star](https://img.shields.io/github/stars/Qihoo360/Light-R1.svg?style=social&label=Star)
+
+	 *Surpassing R1-Distill in Math from Scratch* with $1000 through Curriculum SFT & DPO*
+- **BFS-Prover: Scalable Best-First Tree Search for LLM-based Automatic
+  Theorem Proving**, `arXiv, 2502.03438`, [arxiv](http://arxiv.org/abs/2502.03438v2), [pdf](http://arxiv.org/pdf/2502.03438v2.pdf), cication: [**-1**](None) 
+
+	 *Ran Xin, Chenguang Xi, Jie Yang, ..., Shen Zheng, Kai Shen*
 - [**Math-Verify**](https://github.com/huggingface/Math-Verify) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/Math-Verify.svg?style=social&label=Star) 
 - **Goedel-Prover: A Frontier Model for Open-Source Automated Theorem 
   Proving**, `arXiv, 2502.07640`, [arxiv](http://arxiv.org/abs/2502.07640v2), [pdf](http://arxiv.org/pdf/2502.07640v2.pdf), cication: [**-1**](None) 
@@ -314,7 +358,27 @@
 
 ## O1 Reasoning
 
-- [**EasyR1**](https://github.com/hiyouga/EasyR1) - hiyouga ![Star](https://img.shields.io/github/stars/hiyouga/EasyR1.svg?style=social&label=Star)
+- **Logic-RL: Unleashing LLM Reasoning with Rule-Based Reinforcement
+  Learning**, `arXiv, 2502.14768`, [arxiv](http://arxiv.org/abs/2502.14768v1), [pdf](http://arxiv.org/pdf/2502.14768v1.pdf), cication: [**-1**](None) 
+
+	 *Tian Xie, Zitian Gao, Qingnan Ren, ..., Zhirong Wu, Chong Luo*
+- **Is That Your Final Answer? Test-Time Scaling Improves Selective Question
+  Answering**, `arXiv, 2502.13962`, [arxiv](http://arxiv.org/abs/2502.13962v1), [pdf](http://arxiv.org/pdf/2502.13962v1.pdf), cication: [**-1**](None) 
+
+	 *William Jurayj, Jeffrey Cheng, Benjamin Van Durme*
+- **S$^2$R: Teaching LLMs to Self-verify and Self-correct via Reinforcement
+  Learning**, `arXiv, 2502.12853`, [arxiv](http://arxiv.org/abs/2502.12853v1), [pdf](http://arxiv.org/pdf/2502.12853v1.pdf), cication: [**-1**](None) 
+
+	 *Ruotian Ma, Peisong Wang, Cheng Liu, ..., Nan Du, Jia Li* · ([S2R](https://github.com/NineAbyss/S2R) - NineAbyss) ![Star](https://img.shields.io/github/stars/NineAbyss/S2R.svg?style=social&label=Star)
+- [Recreating DeepSeek’s ‘Wait!/Aha Moment’ for Under $10: A Breakthrough in Affordable AI Reasoning-> Reinforce-Lite⚡️](https://medium.com/@rjusnba/overnight-end-to-end-rl-training-a-3b-model-on-a-grade-school-math-dataset-leads-to-reasoning-df61410c04c6) 
+- [**RAGEN**](https://github.com/ZihanWang314/RAGEN) - ZihanWang314 ![Star](https://img.shields.io/github/stars/ZihanWang314/RAGEN.svg?style=social&label=Star)
+
+	 *Training Agents by Reinforcing Reasoning*
+- **Cognitive Behaviors that Enable Self-Improving Reasoners, or, Four
+  Habits of Highly Effective STaRs**, `arXiv, 2503.01307`, [arxiv](http://arxiv.org/abs/2503.01307v1), [pdf](http://arxiv.org/pdf/2503.01307v1.pdf), cication: [**-1**](None) 
+
+	 *Kanishk Gandhi, Ayush Chakravarthy, Anikait Singh, ..., Nathan Lile, Noah D. Goodman* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650957896&idx=1&sn=ab5eee154993c31cb11b3878f9a05532&chksm=85d98be69fbe10dee879837095d93753937bcd06a8a7fb0694f888a6da503d17a340517eee33&scene=0&xtrack=1)) · ([cognitive-behaviors](https://github.com/kanishkg/cognitive-behaviors) - kanishkg) ![Star](https://img.shields.io/github/stars/kanishkg/cognitive-behaviors.svg?style=social&label=Star)
+- [**EasyR1**](https://github.com/hiyouga/EasyR1) - hiyouga ![Star](https://img.shields.io/github/stars/hiyouga/EasyR1.svg?style=social&label=Star) 
 
 	 *An Efficient, Scalable, Multi-Modality RL Training Framework*
 - **Scaling Test-Time Compute Without Verification or RL is Suboptimal**, `arXiv, 2502.12118`, [arxiv](http://arxiv.org/abs/2502.12118v2), [pdf](http://arxiv.org/pdf/2502.12118v2.pdf), cication: [**-1**](None) 
@@ -545,6 +609,9 @@
 
 ## Chain Of Thought
 
+- 🌟 **Chain of Draft: Thinking Faster by Writing Less**, `arXiv, 2502.18600`, [arxiv](http://arxiv.org/abs/2502.18600v2), [pdf](http://arxiv.org/pdf/2502.18600v2.pdf), cication: [**-1**](None) 
+
+	 *Silei Xu, Wenhao Xie, Lingxiao Zhao, ..., Pengcheng He*
 - 🌟 **Demystifying Long Chain-of-Thought Reasoning in LLMs**, `arXiv, 2502.03373`, [arxiv](http://arxiv.org/abs/2502.03373v1), [pdf](http://arxiv.org/pdf/2502.03373v1.pdf), cication: [**-1**](None) 
 
 	 *Edward Yeo, Yuxuan Tong, Morry Niu, ..., Graham Neubig, Xiang Yue* · ([𝕏](https://x.com/xiangyue96/status/1887332772198371514)) · ([demystify-long-cot](https://github.com/eddycmu/demystify-long-cot) - eddycmu) ![Star](https://img.shields.io/github/stars/eddycmu/demystify-long-cot.svg?style=social&label=Star)
@@ -593,6 +660,7 @@
 
 ## Projects
 
+- [**Awesome-RL-based-LLM-Reasoning**](https://github.com/bruno686/Awesome-RL-based-LLM-Reasoning) - bruno686 ![Star](https://img.shields.io/github/stars/bruno686/Awesome-RL-based-LLM-Reasoning.svg?style=social&label=Star)
 - [**open-thoughts**](https://github.com/open-thoughts/open-thoughts) - open-thoughts ![Star](https://img.shields.io/github/stars/open-thoughts/open-thoughts.svg?style=social&label=Star) 
 
 	 · ([𝕏](https://x.com/madiator/status/1884284103354376283))
@@ -627,6 +695,7 @@
 
 ## Misc
 
+- [How Do Agents Plan and Reason?](https://huggingface.co/blog/Kseniase/reasonplan)  🤗
 - [Denny Zhou: LLM Reasoning: Key Ideas and Limitations](https://www.youtube.com/watch?v=-SZAciVbswk)  :clapper: 
 - [Jason Wei: Scaling Paradigms for Large Language Models](https://www.youtube.com/watch?v=yhpjpNXJDco)  :clapper: 
 - [智谱版o1终于也来了：直接拿下考研数学，一句话就能做小游戏！](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247770241&idx=1&sn=fd6fb22d91ca671905f8ff8a338f7662&chksm=e9ba73fe67399d9a51136457259305a5005bcc02ee12913d9c33515743e7668528772b93fe50&scene=0&xtrack=1) 

@@ -56,6 +56,10 @@
 
 ## Vision-Language Models
 
+- **LongWriter-V: Enabling Ultra-Long and High-Fidelity Generation in
+  Vision-Language Models**, `arXiv, 2502.14834`, [arxiv](http://arxiv.org/abs/2502.14834v1), [pdf](http://arxiv.org/pdf/2502.14834v1.pdf), cication: [**-1**](None) 
+
+	 *Shangqing Tu, Yucheng Wang, Daniel Zhang-Li, ..., Bin Xu, Juanzi Li*
 - [Ovis2-34B](https://huggingface.co/AIDC-AI/Ovis2-34B)  🤗 
 - **Long-VITA: Scaling Large Multi-modal Models to 1 Million Tokens with 
   Leading Short-Context Accuracy**, `arXiv, 2502.05177`, [arxiv](http://arxiv.org/abs/2502.05177v2), [pdf](http://arxiv.org/pdf/2502.05177v2.pdf), cication: [**-1**](None) 
@@ -180,6 +184,7 @@
 
 ## Video
 
+- [SmolVLM2: Bringing Video Understanding to Every Device](https://huggingface.co/blog/smolvlm2)  🤗
 - **InternVideo2.5: Empowering Video MLLMs with Long and Rich Context 
   Modeling**, `arXiv, 2501.12386`, [arxiv](http://arxiv.org/abs/2501.12386v2), [pdf](http://arxiv.org/pdf/2501.12386v2.pdf), cication: [**-1**](None) 
 
@@ -282,6 +287,10 @@
 
 ## Encoder
 
+- 🌟 **SigLIP 2: Multilingual Vision-Language Encoders with Improved Semantic
+  Understanding, Localization, and Dense Features**, `arXiv, 2502.14786`, [arxiv](http://arxiv.org/abs/2502.14786v1), [pdf](http://arxiv.org/pdf/2502.14786v1.pdf), cication: [**-1**](None) 
+
+	 *Michael Tschannen, Alexey Gritsenko, Xiao Wang, ..., Andreas Steiner, Xiaohua Zhai* · ([big_vision](https://github.com/google-research/big_vision/blob/main/big_vision/configs/proj/image_text/README_siglip2.md) - google-research) ![Star](https://img.shields.io/github/stars/google-research/big_vision.svg?style=social&label=Star)
 - **Learnings from Scaling Visual Tokenizers for Reconstruction and 
   Generation**, `arXiv, 2501.09755`, [arxiv](http://arxiv.org/abs/2501.09755v1), [pdf](http://arxiv.org/pdf/2501.09755v1.pdf), cication: [**-1**](None) 
 
@@ -354,6 +363,9 @@
 
 ## Alignment
 
+- 🌟 **OmniAlign-V: Towards Enhanced Alignment of MLLMs with Human Preference**, `arXiv, 2502.18411`, [arxiv](http://arxiv.org/abs/2502.18411v2), [pdf](http://arxiv.org/pdf/2502.18411v2.pdf), cication: [**-1**](None) 
+
+	 *Xiangyu Zhao, Shengyuan Ding, Zicheng Zhang, ..., Hua Yang, Kai Chen* · ([OmniAlign-V](https://github.com/PhoenixZ810/OmniAlign-V) - PhoenixZ810) ![Star](https://img.shields.io/github/stars/PhoenixZ810/OmniAlign-V.svg?style=social&label=Star)
 - **MM-RLHF: The Next Step Forward in Multimodal LLM Alignment**, `arXiv, 2502.10391`, [arxiv](http://arxiv.org/abs/2502.10391v1), [pdf](http://arxiv.org/pdf/2502.10391v1.pdf), cication: [**-1**](None) 
 
 	 *Yi-Fan Zhang, Tao Yu, Haochen Tian, ..., Rong Jin, Tieniu Tan* · ([mm-rlhf.github.io](https://mm-rlhf.github.io.))
@@ -388,7 +400,26 @@
 
 ## Reasoning
 
-- [**EasyR1**](https://github.com/hiyouga/EasyR1) - hiyouga ![Star](https://img.shields.io/github/stars/hiyouga/EasyR1.svg?style=social&label=Star)
+- [RLVR in Vision Language Models: Findings, Questions and Directions](https://deepagent.notion.site/rlvr-in-vlms) 
+- 🌟 [**VLM-R1**](https://github.com/om-ai-lab/VLM-R1) - om-ai-lab ![Star](https://img.shields.io/github/stars/om-ai-lab/VLM-R1.svg?style=social&label=Star)
+
+	 *A stable and generalizable R1-style Large Vision-Language Model*
+- 🌟 **R2-T2: Re-Routing in Test-Time for Multimodal Mixture-of-Experts**, `arXiv, 2502.20395`, [arxiv](http://arxiv.org/abs/2502.20395v2), [pdf](http://arxiv.org/pdf/2502.20395v2.pdf), cication: [**-1**](None) 
+
+	 *Zhongyang Li, Ziyue Li, Tianyi Zhou* · ([R2-T2](https://github.com/tianyi-lab/R2-T2) - tianyi-lab) ![Star](https://img.shields.io/github/stars/tianyi-lab/R2-T2.svg?style=social&label=Star)
+- **Multimodal Inconsistency Reasoning (MMIR): A New Benchmark for
+  Multimodal Reasoning Models**, `arXiv, 2502.16033`, [arxiv](http://arxiv.org/abs/2502.16033v2), [pdf](http://arxiv.org/pdf/2502.16033v2.pdf), cication: [**-1**](None) 
+
+	 *Qianqi Yan, Yue Fan, Hongquan Li, ..., Ching-Chen Kuo, Xin Eric Wang* · ([arxiv](https://arxiv.org/abs/2502.16033)) · ([MMIR](https://github.com/eric-ai-lab/MMIR) - eric-ai-lab) ![Star](https://img.shields.io/github/stars/eric-ai-lab/MMIR.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/datasets/rippleripple/MMIR))
+- **MedVLM-R1: Incentivizing Medical Reasoning Capability of Vision-Language
+  Models (VLMs) via Reinforcement Learning**, `arXiv, 2502.19634`, [arxiv](http://arxiv.org/abs/2502.19634v1), [pdf](http://arxiv.org/pdf/2502.19634v1.pdf), cication: [**-1**](None) 
+
+	 *Jiazhen Pan, Che Liu, Junde Wu, ..., Cheng Ouyang, Daniel Rueckert*
+- **Visual-RFT: Visual Reinforcement Fine-Tuning**, `arXiv, 2503.01785`, [arxiv](http://arxiv.org/abs/2503.01785v1), [pdf](http://arxiv.org/pdf/2503.01785v1.pdf), cication: [**-1**](None) 
+
+	 *Ziyu Liu, Zeyi Sun, Yuhang Zang, ..., Dahua Lin, Jiaqi Wang* · ([Visual-RFT](https://github.com/Liuziyu77/Visual-RFT) - Liuziyu77) ![Star](https://img.shields.io/github/stars/Liuziyu77/Visual-RFT.svg?style=social&label=Star)
+- [R1-Zero’s “Aha Moment” in Visual Reasoning on a 2B Non-SFT Model](https://turningpointai.notion.site/the-multimodal-aha-moment-on-2b-model) 
+- [**EasyR1**](https://github.com/hiyouga/EasyR1) - hiyouga ![Star](https://img.shields.io/github/stars/hiyouga/EasyR1.svg?style=social&label=Star) 
 
 	 *An Efficient, Scalable, Multi-Modality RL Training Framework*
 - **MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for 
@@ -445,6 +476,10 @@
 
 ## Evaluation
 
+- **VLM$^2$-Bench: A Closer Look at How Well VLMs Implicitly Link Explicit
+  Matching Visual Cues**, `arXiv, 2502.12084`, [arxiv](http://arxiv.org/abs/2502.12084v2), [pdf](http://arxiv.org/pdf/2502.12084v2.pdf), cication: [**-1**](None) 
+
+	 *Jianshu Zhang, Dongyu Yao, Renjie Pi, ..., Paul Pu Liang, Yi R. Fung* · ([vlm2-bench.github](https://vlm2-bench.github.io/)) · ([huggingface](https://huggingface.co/datasets/Sterzhang/vlm2-bench)) · ([VLM2-Bench](https://github.com/vlm2-bench/VLM2-Bench) - vlm2-bench) ![Star](https://img.shields.io/github/stars/vlm2-bench/VLM2-Bench.svg?style=social&label=Star)
 - 🌟 **The Stochastic Parrot on LLM's Shoulder: A Summative Assessment of 
   Physical Concept Understanding**, `arXiv, 2502.08946`, [arxiv](http://arxiv.org/abs/2502.08946v1), [pdf](http://arxiv.org/pdf/2502.08946v1.pdf), cication: [**-1**](None) 
 
@@ -578,6 +613,9 @@
 
 ## Generation
 
+- **UniTok: A Unified Tokenizer for Visual Generation and Understanding**, `arXiv, 2502.20321`, [arxiv](http://arxiv.org/abs/2502.20321v1), [pdf](http://arxiv.org/pdf/2502.20321v1.pdf), cication: [**-1**](None) 
+
+	 *Chuofan Ma, Yi Jiang, Junfeng Wu, ..., Bingyue Peng, Xiaojuan Qi* · ([UniTok](https://github.com/FoundationVision/UniTok) - FoundationVision) ![Star](https://img.shields.io/github/stars/FoundationVision/UniTok.svg?style=social&label=Star)
 - **HermesFlow: Seamlessly Closing the Gap in Multimodal Understanding and 
   Generation**, `arXiv, 2502.12148`, [arxiv](http://arxiv.org/abs/2502.12148v1), [pdf](http://arxiv.org/pdf/2502.12148v1.pdf), cication: [**-1**](None) 
 
@@ -643,7 +681,7 @@
 
 ## Dataset
 
-- **Scaling Text-Rich Image Understanding via Code-Guided Synthetic
+- **Scaling Text-Rich Image Understanding via Code-Guided Synthetic 
   Multimodal Data Generation**, `arXiv, 2502.14846`, [arxiv](http://arxiv.org/abs/2502.14846v1), [pdf](http://arxiv.org/pdf/2502.14846v1.pdf), cication: [**-1**](None) 
 
 	 *Yue Yang, Ajay Patel, Matt Deitke, ..., Aniruddha Kembhavi, Christopher Clark* · ([yueyang1996.github](https://yueyang1996.github.io/cosyn/)) · ([𝕏](https://x.com/YueYangAI/status/1894091986144997621))

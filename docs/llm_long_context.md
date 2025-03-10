@@ -13,6 +13,19 @@
 
 ## Long Context
 
+- **LongWriter-V: Enabling Ultra-Long and High-Fidelity Generation in
+  Vision-Language Models**, `arXiv, 2502.14834`, [arxiv](http://arxiv.org/abs/2502.14834v1), [pdf](http://arxiv.org/pdf/2502.14834v1.pdf), cication: [**-1**](None) 
+
+	 *Shangqing Tu, Yucheng Wang, Daniel Zhang-Li, ..., Bin Xu, Juanzi Li*
+- **MoBA: Mixture of Block Attention for Long-Context LLMs**, `arXiv, 2502.13189`, [arxiv](http://arxiv.org/abs/2502.13189v1), [pdf](http://arxiv.org/pdf/2502.13189v1.pdf), cication: [**-1**](None) 
+
+	 *Enzhe Lu, Zhejun Jiang, Jingyuan Liu, ..., Mingxing Zhang, Jiezhong Qiu* · ([MoBA](https://github.com/MoonshotAI/MoBA) - MoonshotAI) ![Star](https://img.shields.io/github/stars/MoonshotAI/MoBA.svg?style=social&label=Star)
+- **LongRoPE2: Near-Lossless LLM Context Window Scaling**, `arXiv, 2502.20082`, [arxiv](http://arxiv.org/abs/2502.20082v1), [pdf](http://arxiv.org/pdf/2502.20082v1.pdf), cication: [**-1**](None) 
+
+	 *Ning Shang, Li Lyna Zhang, Siyuan Wang, ..., Weizhu Chen, Mao Yang* · ([LongRoPE](https://github.com/microsoft/LongRoPE) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/LongRoPE.svg?style=social&label=Star) · ([𝕏](https://x.com/LynaZhang/status/1896111430837158042))
+- **Thus Spake Long-Context Large Language Model**, `arXiv, 2502.17129`, [arxiv](http://arxiv.org/abs/2502.17129v1), [pdf](http://arxiv.org/pdf/2502.17129v1.pdf), cication: [**-1**](None) 
+
+	 *Xiaoran Liu, Ruixiao Li, Mianqiu Huang, ..., Xuanjing Huang, Xipeng Qiu* · ([Thus-Spake-Long-Context-LLM](https://github.com/OpenMOSS/Thus-Spake-Long-Context-LLM) - OpenMOSS) ![Star](https://img.shields.io/github/stars/OpenMOSS/Thus-Spake-Long-Context-LLM.svg?style=social&label=Star) · ([bilibili](https://www.bilibili.com/video/BV11h9AYoEY))
 - 🌟 **InfiniteHiP: Extending Language Model Context Up to 3 Million Tokens on 
   a Single GPU**, `arXiv, 2502.08910`, [arxiv](http://arxiv.org/abs/2502.08910v1), [pdf](http://arxiv.org/pdf/2502.08910v1.pdf), cication: [**-1**](None) 
 

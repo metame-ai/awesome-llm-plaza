@@ -26,6 +26,9 @@
 
 ## RAG
 
+- **RouterRetriever: Routing over a Mixture of Expert Embedding Models**, `arXiv, 2409.02685`, [arxiv](http://arxiv.org/abs/2409.02685v2), [pdf](http://arxiv.org/pdf/2409.02685v2.pdf), cication: [**-1**](None) 
+
+	 *Hyunji Lee, Luca Soldaini, Arman Cohan, ..., Minjoon Seo, Kyle Lo* · ([𝕏](https://x.com/hyunji_amy_lee/status/1895880862375559641))
 - **Enhancing Financial Time-Series Forecasting with Retrieval-Augmented 
   Large Language Models**, `arXiv, 2502.05878`, [arxiv](http://arxiv.org/abs/2502.05878v2), [pdf](http://arxiv.org/pdf/2502.05878v2.pdf), cication: [**-1**](None) 
 

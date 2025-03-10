@@ -13,7 +13,10 @@
 
 ## LLM Models
 
-- **Test-time regression: a unifying framework for designing sequence models
+- [Introducing Mercury, the first commercial-scale diffusion large language model](https://www.inceptionlabs.ai/news) 
+
+	 · ([𝕏](https://x.com/InceptionAILabs/status/1894847919624462794))
+- **Test-time regression: a unifying framework for designing sequence models 
   with associative memory**, `arXiv, 2501.12352`, [arxiv](http://arxiv.org/abs/2501.12352v1), [pdf](http://arxiv.org/pdf/2501.12352v1.pdf), cication: [**-1**](None) 
 
 	 *Ke Alexander Wang, Jiaxin Shi, Emily B. Fox* · ([youtube](https://www.youtube.com/watch?v=C7KnW8VFp4U&ab_channel=ASAPSeminarSeries))
@@ -90,3 +93,5 @@
 	 · ([ai.meta](https://ai.meta.com/blog/meta-fair-updates-agents-robustness-safety-architecture/)) · ([ai.meta](https://ai.meta.com/research/publications/large-concept-models-language-modeling-in-a-sentence-representation-space/)) · ([𝕏](https://x.com/melbayad/status/1867689627189952956))
 
 ## Misc
+## Misc
+- [why don't people build transformers with recursive blocks?](https://x.com/jxmnop/status/1894567121793028158)  𝕏

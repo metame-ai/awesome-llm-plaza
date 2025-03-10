@@ -13,6 +13,11 @@
 
 ## LLM Security
 
+- [Forecasting rare language model behaviors](https://www.anthropic.com/research/forecasting-rare-behaviors) 
+- **Superintelligent Agents Pose Catastrophic Risks: Can Scientist AI Offer
+  a Safer Path?**, `arXiv, 2502.15657`, [arxiv](http://arxiv.org/abs/2502.15657v2), [pdf](http://arxiv.org/pdf/2502.15657v2.pdf), cication: [**-1**](None) 
+
+	 *Yoshua Bengio, Michael Cohen, Damiano Fornasiere, ..., Pierre-Luc St-Charles, David Williams-King*
 - **Jailbreaking to Jailbreak**, `arXiv, 2502.09638`, [arxiv](http://arxiv.org/abs/2502.09638v1), [pdf](http://arxiv.org/pdf/2502.09638v1.pdf), cication: [**-1**](None) 
 
 	 *Jeremy Kritz, Vaughn Robinson, Robert Vacareanu, ..., Willow E. Primack, Zifan Wang* · ([scale](https://scale.com/research/j2))

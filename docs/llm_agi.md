@@ -13,6 +13,13 @@
 
 ## World Model
 
+- **MaskGWM: A Generalizable Driving World Model with Video Mask
+  Reconstruction**, `arXiv, 2502.11663`, [arxiv](http://arxiv.org/abs/2502.11663v1), [pdf](http://arxiv.org/pdf/2502.11663v1.pdf), cication: [**-1**](None) 
+
+	 *Jingcheng Ni, Yuxin Guo, Yichen Liu, ..., Lewei Lu, Zehuan Wu* · ([sensetime-fvg.github](https://sensetime-fvg.github.io/MaskGWM)) · ([OpenDWM](https://github.com/SenseTime-FVG/OpenDWM) - SenseTime-FVG) ![Star](https://img.shields.io/github/stars/SenseTime-FVG/OpenDWM.svg?style=social&label=Star)
+- **Improving Transformer World Models for Data-Efficient RL**, `arXiv, 2502.01591`, [arxiv](http://arxiv.org/abs/2502.01591v1), [pdf](http://arxiv.org/pdf/2502.01591v1.pdf), cication: [**-1**](None) 
+
+	 *Antoine Dedieu, Joseph Ortiz, Xinghua Lou, ..., Miguel Lazaro-Gredilla, Kevin Patrick Murphy*
 - [World and Human Action Model (WHAM)](https://huggingface.co/microsoft/wham)  🤗 
 
 	 · ([nature](https://www.nature.com/articles/s41586-025-08600-3))

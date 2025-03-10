@@ -43,6 +43,13 @@
 
 ## Efficient LLM
 
+- **How Much Knowledge Can You Pack into a LoRA Adapter without Harming LLM?**, `arXiv, 2502.14502`, [arxiv](http://arxiv.org/abs/2502.14502v2), [pdf](http://arxiv.org/pdf/2502.14502v2.pdf), cication: [**-1**](None) 
+
+	 *Sergey Pletenev, Maria Marina, Daniil Moskovskiy, ..., Alexander Panchenko, Mikhail Salnikov*
+- **Make LoRA Great Again: Boosting LoRA with Adaptive Singular Values and
+  Mixture-of-Experts Optimization Alignment**, `arXiv, 2502.16894`, [arxiv](http://arxiv.org/abs/2502.16894v2), [pdf](http://arxiv.org/pdf/2502.16894v2.pdf), cication: [**-1**](None) 
+
+	 *Chenghao Fan, Zhenyi Lu, Sichen Liu, ..., Chengfeng Gu, Yu Cheng*
 - 🌟 **Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse 
   Attention**, `arXiv, 2502.11089`, [arxiv](http://arxiv.org/abs/2502.11089v1), [pdf](http://arxiv.org/pdf/2502.11089v1.pdf), cication: [**-1**](None) 
 
@@ -165,6 +172,12 @@
 
 ## Inference
 
+- **SpargeAttn: Accurate Sparse Attention Accelerating Any Model Inference**, `arXiv, 2502.18137`, [arxiv](http://arxiv.org/abs/2502.18137v1), [pdf](http://arxiv.org/pdf/2502.18137v1.pdf), cication: [**-1**](None) 
+
+	 *Jintao Zhang, Chendong Xiang, Haofeng Huang, ..., Jun Zhu, Jianfei Chen* · ([SpargeAttn](https://github.com/thu-ml/SpargeAttn) - thu-ml) ![Star](https://img.shields.io/github/stars/thu-ml/SpargeAttn.svg?style=social&label=Star)
+- **Autellix: An Efficient Serving Engine for LLM Agents as General Programs**, `arXiv, 2502.13965`, [arxiv](http://arxiv.org/abs/2502.13965v1), [pdf](http://arxiv.org/pdf/2502.13965v1.pdf), cication: [**-1**](None) 
+
+	 *Michael Luo, Xiaoxiang Shi, Colin Cai, ..., Joseph E. Gonzalez, Ion Stoica*
 - [Efficient Large Language Model Deployment with Quantization](https://llm-class.github.io/speakers.html) 
 - [Sparsity for Efficient LLM Inference](https://llm-class.github.io/speakers.html) 
 - **Efficiently Serving LLM Reasoning Programs with Certaindex**, `arXiv, 2412.20993`, [arxiv](http://arxiv.org/abs/2412.20993v1), [pdf](http://arxiv.org/pdf/2412.20993v1.pdf), cication: [**-1**](None) 

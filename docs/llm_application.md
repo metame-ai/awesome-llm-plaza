@@ -27,6 +27,12 @@
 
 ## Survey
 
+- **SurveyX: Academic Survey Automation via Large Language Models**, `arXiv, 2502.14776`, [arxiv](http://arxiv.org/abs/2502.14776v2), [pdf](http://arxiv.org/pdf/2502.14776v2.pdf), cication: [**-1**](None) 
+
+	 *Xun Liang, Jiawei Yang, Yezhaohui Wang, ..., Keming Mao, Zhiyu li* · ([SurveyX](https://github.com/IAAR-Shanghai/SurveyX) - IAAR-Shanghai) ![Star](https://img.shields.io/github/stars/IAAR-Shanghai/SurveyX.svg?style=social&label=Star)
+- **An Overview of Large Language Models for Statisticians**, `arXiv, 2502.17814`, [arxiv](http://arxiv.org/abs/2502.17814v1), [pdf](http://arxiv.org/pdf/2502.17814v1.pdf), cication: [**-1**](None) 
+
+	 *Wenlong Ji, Weizhe Yuan, Emily Getzen, ..., Jing Xu, Linjun Zhang*
 - [The Anthropic Economic Index](https://www.anthropic.com/news/the-anthropic-economic-index) 
 
 	 · ([𝕏](https://x.com/AnthropicAI/status/1888954156422992108))
@@ -44,6 +50,10 @@
 
 ## Education
 
+- **TheoremExplainAgent: Towards Multimodal Explanations for LLM Theorem
+  Understanding**, `arXiv, 2502.19400`, [arxiv](http://arxiv.org/abs/2502.19400v1), [pdf](http://arxiv.org/pdf/2502.19400v1.pdf), cication: [**-1**](None) 
+
+	 *Max Ku, Thomas Chong, Jonathan Leung, ..., Alvin Yu, Wenhu Chen* · ([tiger-ai-lab.github](https://tiger-ai-lab.github.io/TheoremExplainAgent/))
 - [2025年生成式AI在教育的8个趋势](https://36kr.com/p/3162939484274178) 
 - **LearnLM: Improving Gemini for Learning**, `arXiv, 2412.16429`, [arxiv](http://arxiv.org/abs/2412.16429v1), [pdf](http://arxiv.org/pdf/2412.16429v1.pdf), cication: [**-1**](None) 
 
@@ -52,6 +62,17 @@
 
 ## Science
 
+- **Towards an AI co-scientist**, `arXiv, 2502.18864`, [arxiv](http://arxiv.org/abs/2502.18864v1), [pdf](http://arxiv.org/pdf/2502.18864v1.pdf), cication: [**-1**](None) 
+
+	 *Juraj Gottweis, Wei-Hung Weng, Alexander Daryin, ..., Alan Karthikesalingam, Vivek Natarajan* · ([𝕏](https://x.com/TheTuringPost/status/1895075839970324663))
+- **Mol-LLaMA: Towards General Understanding of Molecules in Large Molecular
+  Language Model**, `arXiv, 2502.13449`, [arxiv](http://arxiv.org/abs/2502.13449v2), [pdf](http://arxiv.org/pdf/2502.13449v2.pdf), cication: [**-1**](None) 
+
+	 *Dongki Kim, Wonbin Lee, Sung Ju Hwang* · ([mol-llama.github](https://mol-llama.github.io/))
+- **Curie: Toward Rigorous and Automated Scientific Experimentation with AI
+  Agents**, `arXiv, 2502.16069`, [arxiv](http://arxiv.org/abs/2502.16069v2), [pdf](http://arxiv.org/pdf/2502.16069v2.pdf), cication: [**-1**](None) 
+
+	 *Patrick Tser Jern Kon, Jiachen Liu, Qiuyi Ding, ..., Mosharaf Chowdhury, Ang Chen* · ([Curie.](https://github.com/Just-Curieous/Curie.) - Just-Curieous) ![Star](https://img.shields.io/github/stars/Just-Curieous/Curie..svg?style=social&label=Star)
 - **ChemAgent: Self-updating Library in Large Language Models Improves 
   Chemical Reasoning**, `arXiv, 2501.06590`, [arxiv](http://arxiv.org/abs/2501.06590v1), [pdf](http://arxiv.org/pdf/2501.06590v1.pdf), cication: [**-1**](None) 
 
@@ -234,6 +255,9 @@
 
 ## Recommendation
 
+- **TALKPLAY: Multimodal Music Recommendation with Large Language Models**, `arXiv, 2502.13713`, [arxiv](http://arxiv.org/abs/2502.13713v3), [pdf](http://arxiv.org/pdf/2502.13713v3.pdf), cication: [**-1**](None) 
+
+	 *Seungheon Doh, Keunwoo Choi, Juhan Nam* · ([talkpl-ai.github](https://talkpl-ai.github.io/talkplay-demo/)) · ([huggingface](https://huggingface.co/datasets/talkpl-ai/talkplay-db-v1))
 - **Molar: Multimodal LLMs with Collaborative Filtering Alignment for 
   Enhanced Sequential Recommendation**, `arXiv, 2412.18176`, [arxiv](http://arxiv.org/abs/2412.18176v2), [pdf](http://arxiv.org/pdf/2412.18176v2.pdf), cication: [**-1**](None) 
 
@@ -289,6 +313,9 @@
 
 ## Projects
 
+- [**introspect**](https://github.com/defog-ai/introspect) - defog-ai ![Star](https://img.shields.io/github/stars/defog-ai/introspect.svg?style=social&label=Star)
+
+	 *Deep Research for your internal data* · ([𝕏](https://x.com/rishdotblog/status/1896628318268731718))
 - [**chatgpt-on-wechat**](https://github.com/zhayujie/chatgpt-on-wechat) - zhayujie ![Star](https://img.shields.io/github/stars/zhayujie/chatgpt-on-wechat.svg?style=social&label=Star) 
 - [**gpt-researcher**](https://github.com/assafelovic/gpt-researcher) - assafelovic ![Star](https://img.shields.io/github/stars/assafelovic/gpt-researcher.svg?style=social&label=Star) 
 - [**llm-universe**](https://github.com/datawhalechina/llm-universe) - datawhalechina ![Star](https://img.shields.io/github/stars/datawhalechina/llm-universe.svg?style=social&label=Star) 
@@ -336,6 +363,11 @@
 
 ## LLM Applications
 
+- **R1-T1: Fully Incentivizing Translation Capability in LLMs via Reasoning
+  Learning**, `arXiv, 2502.19735`, [arxiv](http://arxiv.org/abs/2502.19735v2), [pdf](http://arxiv.org/pdf/2502.19735v2.pdf), cication: [**-1**](None) 
+
+	 *Minggui He, Yilun Liu, Shimin Tao, ..., Boxing Chen, Osamu Yoshie*
+- [19岁退学哈佛CS，这个00后两年打造百亿独角兽！月收入5000万，AI招聘官杀疯了](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652571878&idx=1&sn=eb3ebdd105f85db151eae1ff98e2ef39&chksm=f039556639051f7f72e901acbd7a1fc550f60a0e26caa02c14b8b4346c904122785689c9ec13&scene=0&xtrack=1) 
 - [Introducing Perplexity Deep Research](https://www.perplexity.ai/hub/blog/introducing-perplexity-deep-research) 
 - **FLAG-Trader: Fusion LLM-Agent with Gradient-based Reinforcement Learning 
   for Financial Trading**, `arXiv, 2502.11433`, [arxiv](http://arxiv.org/abs/2502.11433v3), [pdf](http://arxiv.org/pdf/2502.11433v3.pdf), cication: [**-1**](None) 

@@ -47,6 +47,13 @@
 
 ## Interpretability
 
+- **Are Sparse Autoencoders Useful? A Case Study in Sparse Probing**, `arXiv, 2502.16681`, [arxiv](http://arxiv.org/abs/2502.16681v1), [pdf](http://arxiv.org/pdf/2502.16681v1.pdf), cication: [**-1**](None) 
+
+	 *Subhash Kantamneni, Joshua Engels, Senthooran Rajamanoharan, ..., Max Tegmark, Neel Nanda* · ([𝕏](https://x.com/JoshAEngels/status/1894385838487642346)) · ([SAE-Probes](https://github.com/JoshEngels/SAE-Probes) - JoshEngels) ![Star](https://img.shields.io/github/stars/JoshEngels/SAE-Probes.svg?style=social&label=Star)
+- 🌟 **LLM-Microscope: Uncovering the Hidden Role of Punctuation in Context
+  Memory of Transformers**, `arXiv, 2502.15007`, [arxiv](http://arxiv.org/abs/2502.15007v1), [pdf](http://arxiv.org/pdf/2502.15007v1.pdf), cication: [**-1**](None) 
+
+	 *Anton Razzhigaev, Matvey Mikhalchuk, Temurbek Rahmatullaev, ..., Ivan Oseledets, Andrey Kuznetsov*
 - **How Do LLMs Acquire New Knowledge? A Knowledge Circuits Perspective on 
   Continual Pre-Training**, `arXiv, 2502.11196`, [arxiv](http://arxiv.org/abs/2502.11196v1), [pdf](http://arxiv.org/pdf/2502.11196v1.pdf), cication: [**-1**](None) 
 
@@ -256,6 +263,8 @@
 
 ## Misc
 
+- [【生成式AI時代下的機器學習(2025)】第一講：一堂課搞懂生成式人工智慧的技術突破與未來發展](https://www.youtube.com/watch?v=QLiKmca4kzI)  :clapper:
+- [How I use LLMs](https://www.youtube.com/watch?v=EWvNQjAaOHw)  :clapper:
 - **Idiosyncrasies in Large Language Models**, `arXiv, 2502.12150`, [arxiv](http://arxiv.org/abs/2502.12150v1), [pdf](http://arxiv.org/pdf/2502.12150v1.pdf), cication: [**-1**](None) 
 
 	 *Mingjie Sun, Yida Yin, Zhiqiu Xu, ..., J. Zico Kolter, Zhuang Liu* · ([eric-mingjie.github](https://eric-mingjie.github.io/llm-idiosyncrasies/)) · ([𝕏](https://x.com/liuzhuang1234/status/1892430119395873015))

@@ -20,6 +20,12 @@
 
 ## LLM Data
 
+- **GneissWeb: Preparing High Quality Data for LLMs at Scale**, `arXiv, 2502.14907`, [arxiv](http://arxiv.org/abs/2502.14907v1), [pdf](http://arxiv.org/pdf/2502.14907v1.pdf), cication: [**-1**](None) 
+
+	 *Hajar Emami Gohari, Swanand Ravindra Kadhe, Syed Yousaf Shah. Constantin Adam, ..., Yi Zhou, Bishwaranjan Bhattacharjee*
+- **Craw4LLM: Efficient Web Crawling for LLM Pretraining**, `arXiv, 2502.13347`, [arxiv](http://arxiv.org/abs/2502.13347v2), [pdf](http://arxiv.org/pdf/2502.13347v2.pdf), cication: [**-1**](None) 
+
+	 *Shi Yu, Zhiyuan Liu, Chenyan Xiong* · ([Craw4LLM.](https://github.com/cxcscmu/Craw4LLM.) - cxcscmu) ![Star](https://img.shields.io/github/stars/cxcscmu/Craw4LLM..svg?style=social&label=Star)
 - [OpenR1-Math-220k is a large-scale dataset for mathematical reasoning.](https://huggingface.co/datasets/open-r1/OpenR1-Math-220k)  🤗 
 - [**nv-ingest**](https://github.com/NVIDIA/nv-ingest) - NVIDIA ![Star](https://img.shields.io/github/stars/NVIDIA/nv-ingest.svg?style=social&label=Star) 
 
@@ -97,6 +103,9 @@
 
 ## Synthetic
 
+- **Improving the Scaling Laws of Synthetic Data with Deliberate Practice**, `arXiv, 2502.15588`, [arxiv](http://arxiv.org/abs/2502.15588v1), [pdf](http://arxiv.org/pdf/2502.15588v1.pdf), cication: [**-1**](None) 
+
+	 *Reyhane Askari-Hemmat, Mohammad Pezeshki, Elvis Dohmatob, ..., Michal Drozdzal, Adriana Romero-Soriano*
 - **WILDCHAT-50M: A Deep Dive Into the Role of Synthetic Data in 
   Post-Training**, `arXiv, 2501.18511`, [arxiv](http://arxiv.org/abs/2501.18511v1), [pdf](http://arxiv.org/pdf/2501.18511v1.pdf), cication: [**-1**](None) 
 
@@ -140,6 +149,9 @@
 
 ## Reasoning
 
+- **NaturalReasoning: Reasoning in the Wild with 2.8M Challenging Questions**, `arXiv, 2502.13124`, [arxiv](http://arxiv.org/abs/2502.13124v2), [pdf](http://arxiv.org/pdf/2502.13124v2.pdf), cication: [**-1**](None) 
+
+	 *Weizhe Yuan, Jane Yu, Song Jiang, ..., Jason E Weston, Xian Li*
 - [NuminaMath-1.5 by AI-MO](https://www.interconnects.ai/p/artifacts-7) 
 
 	 · ([huggingface](https://huggingface.co/datasets/AI-MO/NuminaMath-1.5))

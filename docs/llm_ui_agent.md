@@ -14,10 +14,20 @@
 
 ## Survey
 
+- [UI Agents（智能体）技术综述](https://www.breezedeus.com/article/ui-agent) 
 
 ## GUI Agent
 
+- **PC-Agent: A Hierarchical Multi-Agent Collaboration Framework for Complex
+  Task Automation on PC**, `arXiv, 2502.14282`, [arxiv](http://arxiv.org/abs/2502.14282v2), [pdf](http://arxiv.org/pdf/2502.14282v2.pdf), cication: [**-1**](None) 
+
+	 *Haowei Liu, Xi Zhang, Haiyang Xu, ..., Weiming Hu, Fei Huang* · ([MobileAgent](https://github.com/X-PLUG/MobileAgent/tree/main/PC-Agent.) - X-PLUG) ![Star](https://img.shields.io/github/stars/X-PLUG/MobileAgent.svg?style=social&label=Star)
 - **VEM: Environment-Free Exploration for Training GUI Agent with Value
+  Environment Model**, `arXiv, 2502.18906`, [arxiv](http://arxiv.org/abs/2502.18906v1), [pdf](http://arxiv.org/pdf/2502.18906v1.pdf), cication: [**-1**](None) 
+
+	 *Jiani Zheng, Lu Wang, Fangkai Yang, ..., Saravan Rajmohan, Qi Zhang*
+- [让大模型成为能够操控计算机的智能体，作者带来OmniParser V2详解](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650957542&idx=3&sn=296ca7cd6284f1d32a8af500cacd3c86&chksm=8531f7fd4899b161b28da5aebbc35f7007fa1929c027e505dd425c1eab56d3e2b7d99207fcbe&scene=0&xtrack=1) 
+- **VEM: Environment-Free Exploration for Training GUI Agent with Value 
   Environment Model**, `arXiv, 2502.18906`, [arxiv](http://arxiv.org/abs/2502.18906v1), [pdf](http://arxiv.org/pdf/2502.18906v1.pdf), cication: [**-1**](None) 
 
 	 *Jiani Zheng, Lu Wang, Fangkai Yang, ..., Saravan Rajmohan, Qi Zhang*
@@ -50,6 +60,9 @@
 
 ## Evaluation
 
+- **WebGames: Challenging General-Purpose Web-Browsing AI Agents**, `arXiv, 2502.18356`, [arxiv](http://arxiv.org/abs/2502.18356v1), [pdf](http://arxiv.org/pdf/2502.18356v1.pdf), cication: [**-1**](None) 
+
+	 *George Thomas, Alex J. Chan, Jikun Kang, ..., Andy Toulis, Marvin Purtorab* · ([webgames.convergence](https://webgames.convergence.ai/))
 - **WorldGUI: Dynamic Testing for Comprehensive Desktop GUI Automation**, `arXiv, 2502.08047`, [arxiv](http://arxiv.org/abs/2502.08047v1), [pdf](http://arxiv.org/pdf/2502.08047v1.pdf), cication: [**-1**](None) 
 
 	 *Henry Hengyuan Zhao, Difei Gao, Mike Zheng Shou* · ([showlab.github](https://showlab.github.io/WorldGUI/))
@@ -72,11 +85,12 @@
 
 ## Misc
 
+- [UI Agents（智能体）最新论文](https://www.breezedeus.com/article/awesome-ui-agents) 
 - [a collection of algorithmic agents for user interfaces/interactions and program synthesis    Upvote 43   +33](https://huggingface.co/collections/yihaopeng/ui-agent-665fac501140dbe4562da21c)  🤗 
 
 ## Datasets
 
-- **Explorer: Scaling Exploration-driven Web Trajectory Synthesis for
+- **Explorer: Scaling Exploration-driven Web Trajectory Synthesis for 
   Multimodal Web Agents**, `arXiv, 2502.11357`, [arxiv](http://arxiv.org/abs/2502.11357v2), [pdf](http://arxiv.org/pdf/2502.11357v2.pdf), cication: [**-1**](None) 
 
 	 *Vardaan Pahuja, Yadong Lu, Corby Rosset, ..., Yu Su, Ahmed Awadallah*
@@ -129,6 +143,8 @@
 	 *Linlu Qiu, Liwei Jiang, Ximing Lu, ..., Nouha Dziri, Xiang Ren*
 ## Projects
 
+- [**GamingAgent**](https://github.com/lmgame-org/GamingAgent) - lmgame-org ![Star](https://img.shields.io/github/stars/lmgame-org/GamingAgent.svg?style=social&label=Star)
+- [**GUI-Agents-Paper-List**](https://github.com/OSU-NLP-Group/GUI-Agents-Paper-List) - OSU-NLP-Group ![Star](https://img.shields.io/github/stars/OSU-NLP-Group/GUI-Agents-Paper-List.svg?style=social&label=Star)
 - [Tell your MacBook what to do, and it's done—across ANY app.](https://github.com/browser-use/macOS-use)- [**Awesome-GUI-Agent**](https://github.com/showlab/Awesome-GUI-Agent) - showlab ![Star](https://img.shields.io/github/stars/showlab/Awesome-GUI-Agent.svg?style=social&label=Star) 
 ## Toolkits
 - 🌟 [**UI-TARS-desktop**](https://github.com/bytedance/UI-TARS-desktop) - bytedance ![Star](https://img.shields.io/github/stars/bytedance/UI-TARS-desktop.svg?style=social&label=Star) 

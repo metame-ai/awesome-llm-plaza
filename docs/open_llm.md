@@ -25,6 +25,7 @@
 
 ## English Models
 
+- [Phi-4-mini-instruct is a lightweight open model built upon synthetic data and filtered publicly available websites](https://huggingface.co/microsoft/Phi-4-mini-instruct)  🤗
 - [Dolphin 3.0 R1 is the next generation of the Dolphin series of instruct-tuned models.](https://huggingface.co/cognitivecomputations/Dolphin3.0-R1-Mistral-24B)  🤗 
 - 🌟 **SmolLM2: When Smol Goes Big -- Data-Centric Training of a Small Language 
   Model**, `arXiv, 2502.02737`, [arxiv](http://arxiv.org/abs/2502.02737v1), [pdf](http://arxiv.org/pdf/2502.02737v1.pdf), cication: [**-1**](None) 
@@ -118,6 +119,8 @@
 
 ## Reasoning
 
+- [Tiny-R1-32B-Preview, which outperforms the 70B model Deepseek-R1-Distill-Llama-70B and nearly matches the full R1](https://huggingface.co/qihoo360/TinyR1-32B-Preview)  🤗
+- 🌟 [QwQ-32B: Embracing the Power of Reinforcement Learning](https://qwenlm.github.io/blog/qwq-32b/) 
 - [Mistral-Small-Reasoning](https://huggingface.co/yentinglin/Mistral-Small-24B-Instruct-2501-reasoning)  🤗 
 - 🌟 [**OpenSeek**](https://github.com/FlagAI-Open/OpenSeek) - FlagAI-Open ![Star](https://img.shields.io/github/stars/FlagAI-Open/OpenSeek.svg?style=social&label=Star) 
 - [DeepHermes 3 Preview is the latest version of our flagship Hermes series of LLMs by Nous Research](https://huggingface.co/NousResearch/DeepHermes-3-Llama-3-8B-Preview)  🤗 
@@ -146,6 +149,9 @@
 
 ## Multilingual Models
 
+- **Kanana: Compute-efficient Bilingual Language Models**, `arXiv, 2502.18934`, [arxiv](http://arxiv.org/abs/2502.18934v3), [pdf](http://arxiv.org/pdf/2502.18934v3.pdf), cication: [**-1**](None) 
+
+	 *Kanana LLM Team, Yunju Bak, Hojin Lee, ..., Shinbok Lee, Gaeun Seo* · ([huggingface](https://huggingface.co/collections/kakaocorp/kanana-nano-21b-67a326cda1c449c8d4172259)) · ([kanana](https://github.com/kakao/kanana) - kakao) ![Star](https://img.shields.io/github/stars/kakao/kanana.svg?style=social&label=Star)
 - **Sailor2: Sailing in South-East Asia with Inclusive Multilingual LLMs**, `arXiv, 2502.12982`, [arxiv](http://arxiv.org/abs/2502.12982v1), [pdf](http://arxiv.org/pdf/2502.12982v1.pdf), cication: [**-1**](None) 
 
 	 *Longxu Dou, Qian Liu, Fan Zhou, ..., Wei Lu, Min Lin*

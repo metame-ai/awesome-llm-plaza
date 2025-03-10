@@ -34,6 +34,20 @@
 
 ## Agents
 
+- **Magma: A Foundation Model for Multimodal AI Agents**, `arXiv, 2502.13130`, [arxiv](http://arxiv.org/abs/2502.13130v1), [pdf](http://arxiv.org/pdf/2502.13130v1.pdf), cication: [**-1**](None) 
+
+	 *Jianwei Yang, Reuben Tan, Qianhui Wu, ..., Lars Liden, Jianfeng Gao* · ([microsoft.github](https://microsoft.github.io/Magma))
+- **Magma: A Foundation Model for Multimodal AI Agents**, `arXiv, 2502.13130`, [arxiv](http://arxiv.org/abs/2502.13130v1), [pdf](http://arxiv.org/pdf/2502.13130v1.pdf), cication: [**-1**](None) 
+
+	 *Jianwei Yang, Reuben Tan, Qianhui Wu, ..., Lars Liden, Jianfeng Gao* · ([microsoft.github](https://microsoft.github.io/Magma))
+- [AI Engineer Summit 2025: Agent Engineering (Day 2)](https://www.youtube.com/watch?v=D7BzTxVVMuw)  :clapper:
+- 🌟 **MLGym: A New Framework and Benchmark for Advancing AI Research Agents**, `arXiv, 2502.14499`, [arxiv](http://arxiv.org/abs/2502.14499v1), [pdf](http://arxiv.org/pdf/2502.14499v1.pdf), cication: [**-1**](None) 
+
+	 *Deepak Nathani, Lovish Madaan, Nicholas Roberts, ..., William Yang Wang, Roberta Raileanu* · ([MLGym](https://github.com/facebookresearch/MLGym) - facebookresearch) ![Star](https://img.shields.io/github/stars/facebookresearch/MLGym.svg?style=social&label=Star)
+- [Trace & Evaluate your Agent with Arize Phoenix](https://huggingface.co/blog/smolagents-phoenix)  🤗
+- **ATLaS: Agent Tuning via Learning Critical Steps**, `arXiv, 2503.02197`, [arxiv](http://arxiv.org/abs/2503.02197v1), [pdf](http://arxiv.org/pdf/2503.02197v1.pdf), cication: [**-1**](None) 
+
+	 *Zhixun Chen, Ming Li, Yuxuan Huang, ..., Meng Fang, Tianyi Zhou*
 - **OctoTools: An Agentic Framework with Extensible Tools for Complex 
   Reasoning**, `arXiv, 2502.11271`, [arxiv](http://arxiv.org/abs/2502.11271v1), [pdf](http://arxiv.org/pdf/2502.11271v1.pdf), cication: [**-1**](None) 
 
@@ -315,6 +329,12 @@
 
 ## Multi Agent
 
+- **Towards an AI co-scientist**, `arXiv, 2502.18864`, [arxiv](http://arxiv.org/abs/2502.18864v1), [pdf](http://arxiv.org/pdf/2502.18864v1.pdf), cication: [**-1**](None) 
+
+	 *Juraj Gottweis, Wei-Hung Weng, Alexander Daryin, ..., Alan Karthikesalingam, Vivek Natarajan* · ([𝕏](https://x.com/TheTuringPost/status/1895075839970324663))
+- **Optimizing Model Selection for Compound AI Systems**, `arXiv, 2502.14815`, [arxiv](http://arxiv.org/abs/2502.14815v1), [pdf](http://arxiv.org/pdf/2502.14815v1.pdf), cication: [**-1**](None) 
+
+	 *Lingjiao Chen, Jared Quincy Davis, Boris Hanin, ..., James Zou, Ion Stoica*
 - **Talk Structurally, Act Hierarchically: A Collaborative Framework for LLM 
   Multi-Agent Systems**, `arXiv, 2502.11098`, [arxiv](http://arxiv.org/abs/2502.11098v1), [pdf](http://arxiv.org/pdf/2502.11098v1.pdf), cication: [**-1**](None) 
 

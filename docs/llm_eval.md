@@ -20,6 +20,15 @@
 
 ## LLM Evaluation
 
+- [Quickly Start Evaluating LLMs With OpenEvals](https://blog.langchain.dev/evaluating-llms-with-openevals/) 
+
+	 · ([openevals](https://github.com/langchain-ai/openevals) - langchain-ai) ![Star](https://img.shields.io/github/stars/langchain-ai/openevals.svg?style=social&label=Star) · ([𝕏](https://x.com/LangChainAI/status/1894821108018262297))
+- **BIG-Bench Extra Hard**, `arXiv, 2502.19187`, [arxiv](http://arxiv.org/abs/2502.19187v1), [pdf](http://arxiv.org/pdf/2502.19187v1.pdf), cication: [**-1**](None) 
+
+	 *Mehran Kazemi, Bahare Fatemi, Hritik Bansal, ..., Quoc V. Le, Orhan Firat* · ([𝕏](https://x.com/kazemi_sm/status/1894935166952349955)) · ([bbeh](https://github.com/google-deepmind/bbeh) - google-deepmind) ![Star](https://img.shields.io/github/stars/google-deepmind/bbeh.svg?style=social&label=Star)
+- **SuperGPQA: Scaling LLM Evaluation across 285 Graduate Disciplines**, `arXiv, 2502.14739`, [arxiv](http://arxiv.org/abs/2502.14739v3), [pdf](http://arxiv.org/pdf/2502.14739v3.pdf), cication: [**-1**](None) 
+
+	 *M-A-P Team, Xinrun Du, Yifan Yao, ..., Wenhao Huang, Ge Zhang* · ([supergpqa.github](https://supergpqa.github.io/))
 - 🌟 [EnigmaEval, a benchmark derived from puzzle hunts—a repository of sophisticated problems from the global puzzle-solving community.](https://scale.com/leaderboard/enigma_eval) 
 
 	 · ([𝕏](https://x.com/alexandr_wang/status/1891208692751638939?s=46))
@@ -135,6 +144,9 @@
 
 ## Leaderboard
 
+- **Prompt-to-Leaderboard**, `arXiv, 2502.14855`, [arxiv](http://arxiv.org/abs/2502.14855v1), [pdf](http://arxiv.org/pdf/2502.14855v1.pdf), cication: [**-1**](None) 
+
+	 *Evan Frick, Connor Chen, Joseph Tennyson, ..., Anastasios N. Angelopoulos, Ion Stoica* · ([𝕏](https://x.com/lmarena_ai/status/1894767022791438490)) · ([p2l](https://github.com/lmarena/p2l) - lmarena) ![Star](https://img.shields.io/github/stars/lmarena/p2l.svg?style=social&label=Star)
 - [Judge Arena: Benchmarking LLMs as Evaluators](https://huggingface.co/blog/arena-atla)  🤗 
 
 	 · ([huggingface](https://huggingface.co/spaces/AtlaAI/judge-arena))
@@ -142,6 +154,7 @@
 
 ## Projects
 
+- [**GamingAgent**](https://github.com/lmgame-org/GamingAgent) - lmgame-org ![Star](https://img.shields.io/github/stars/lmgame-org/GamingAgent.svg?style=social&label=Star)
 - [**ZeroSumEval**](https://github.com/haidark/ZeroSumEval) - haidark ![Star](https://img.shields.io/github/stars/haidark/ZeroSumEval.svg?style=social&label=Star) 
 - [**generalization**](https://github.com/lechmazur/generalization) - lechmazur ![Star](https://img.shields.io/github/stars/lechmazur/generalization.svg?style=social&label=Star) 
 - [**MisguidedAttention**](https://github.com/cpldcpu/MisguidedAttention) - cpldcpu ![Star](https://img.shields.io/github/stars/cpldcpu/MisguidedAttention.svg?style=social&label=Star) 
@@ -164,6 +177,7 @@
 
 ## Misc
 
+- [AIME 2025 performance of Grok and OpenAI models](https://x.com/teortaxesTex/status/1892471638534303946)  𝕏
 - [AI Model Comparison](https://countless.dev/) 
 - [LLM LeaderboardsA trusted source for real-world AI model performance and insights](https://llm-stats.com/) 
 - [Crisp and fuzzy tasks](https://aligned.substack.com/p/crisp-and-fuzzy-tasks) 
