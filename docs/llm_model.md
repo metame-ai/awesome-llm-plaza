@@ -84,6 +84,7 @@
 
 ## State Space Model
 
+- [AI21 Jamba 1.6 family of models is state-of-the-art, hybrid SSM-Transformer instruction following foundation models.](https://huggingface.co/ai21labs/AI21-Jamba-Large-1.6)  🤗
 - [What’s Next for Mamba? Towards More Expressive Recurrent Update Rules”](https://sustcsonglin.github.io/) 
 
 ## Projects
@@ -94,4 +95,4 @@
 
 ## Misc
 ## Misc
-- [why don't people build transformers with recursive blocks?](https://x.com/jxmnop/status/1894567121793028158)  𝕏
+- [why don't people build transformers with recursive blocks?](https://x.com/jxmnop/status/1894567121793028158)  𝕏 

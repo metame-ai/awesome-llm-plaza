@@ -34,17 +34,39 @@
 
 ## Agents
 
+- [Manus火到国外？网友实测惊呆！00后博士生0天复刻霸榜开源第一                                                                                                                            新智元                                                                                                                              新智元                                           新智元 北京中经智元科技发展有限公司 智能+中国主平台，致力于推动中国从互联网+迈向智能+新纪元。重点关注人工智能、机器人等前沿领域发展，关注人机融合、人工智能和机器人革命对人类社会与文明进化的影响，领航中国新智能时代。 2396篇原创内容                                                  2025年03月08日 20:10              北京](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652573699&idx=1&sn=ceacd991bd69e7d7a6ee900834fba7c0&chksm=f031ac4dae7aace929201c67c3ca872afdd9c55d5f75c99c8a647bbf878fa7be06bb8404d173&scene=0&xtrack=1) 
+
+	 · ([𝕏](https://x.com/rowancheung/status/1898093008601395380)) · ([zhihu](https://www.zhihu.com/question/14321968965/answer/118909642460?utm_psn=1881718882974277756)) · ([zhihu](https://www.zhihu.com/question/14321968965/answer/119354825165?utm_psn=1881718964490576322)) · ([zhihu](https://www.zhihu.com/question/14321968965/answer/119439606999))
+- [smolagents  / smolagents-leaderboard](https://huggingface.co/spaces/smolagents/smolagents-leaderboard)  🤗
+- **PokéChamp: an Expert-level Minimax Language Agent**, `arXiv, 2503.04094`, [arxiv](http://arxiv.org/abs/2503.04094v1), [pdf](http://arxiv.org/pdf/2503.04094v1.pdf), cication: [**-1**](None) 
+
+	 *Seth Karten, Andy Luu Nguyen, Chi Jin* · ([sites.google](https://sites.google.com/view/pokechamp-llm)) · ([𝕏](https://x.com/sethkarten/status/1898035116674285718))
+- 🌟 **Executable Code Actions Elicit Better LLM Agents**, `arXiv, 2402.01030`, [arxiv](http://arxiv.org/abs/2402.01030v4), [pdf](http://arxiv.org/pdf/2402.01030v4.pdf), cication: [**-1**](None) 
+
+	 *Xingyao Wang, Yangyi Chen, Lifan Yuan, ..., Hao Peng, Heng Ji*
+- **Search-R1: Training LLMs to Reason and Leverage Search Engines with
+  Reinforcement Learning**, `arXiv, 2503.09516`, [arxiv](http://arxiv.org/abs/2503.09516v1), [pdf](http://arxiv.org/pdf/2503.09516v1.pdf), cication: [**-1**](None) 
+
+	 *Bowen Jin, Hansi Zeng, Zhenrui Yue, ..., Hamed Zamani, Jiawei Han* · ([Search-R1](https://github.com/PeterGriffinJin/Search-R1) - PeterGriffinJin) ![Star](https://img.shields.io/github/stars/PeterGriffinJin/Search-R1.svg?style=social&label=Star)
+- **R1-Searcher: Incentivizing the Search Capability in LLMs via
+  Reinforcement Learning**, `arXiv, 2503.05592`, [arxiv](http://arxiv.org/abs/2503.05592v1), [pdf](http://arxiv.org/pdf/2503.05592v1.pdf), cication: [**-1**](None) 
+
+	 *Huatong Song, Jinhao Jiang, Yingqian Min, ..., Lei Fang, Ji-Rong Wen*
+- 🌟 **DeepSolution: Boosting Complex Engineering Solution Design via
+  Tree-based Exploration and Bi-point Thinking**, `arXiv, 2502.20730`, [arxiv](http://arxiv.org/abs/2502.20730v1), [pdf](http://arxiv.org/pdf/2502.20730v1.pdf), cication: [**-1**](None) 
+
+	 *Zhuoqun Li, Haiyang Yu, Xuanang Chen, ..., Yongbin Li, Le Sun* · ([DeepSolution](https://github.com/Li-Z-Q/DeepSolution) - Li-Z-Q) ![Star](https://img.shields.io/github/stars/Li-Z-Q/DeepSolution.svg?style=social&label=Star)
 - **Magma: A Foundation Model for Multimodal AI Agents**, `arXiv, 2502.13130`, [arxiv](http://arxiv.org/abs/2502.13130v1), [pdf](http://arxiv.org/pdf/2502.13130v1.pdf), cication: [**-1**](None) 
 
 	 *Jianwei Yang, Reuben Tan, Qianhui Wu, ..., Lars Liden, Jianfeng Gao* · ([microsoft.github](https://microsoft.github.io/Magma))
 - **Magma: A Foundation Model for Multimodal AI Agents**, `arXiv, 2502.13130`, [arxiv](http://arxiv.org/abs/2502.13130v1), [pdf](http://arxiv.org/pdf/2502.13130v1.pdf), cication: [**-1**](None) 
 
 	 *Jianwei Yang, Reuben Tan, Qianhui Wu, ..., Lars Liden, Jianfeng Gao* · ([microsoft.github](https://microsoft.github.io/Magma))
-- [AI Engineer Summit 2025: Agent Engineering (Day 2)](https://www.youtube.com/watch?v=D7BzTxVVMuw)  :clapper:
+- [AI Engineer Summit 2025: Agent Engineering (Day 2)](https://www.youtube.com/watch?v=D7BzTxVVMuw)  :clapper: 
 - 🌟 **MLGym: A New Framework and Benchmark for Advancing AI Research Agents**, `arXiv, 2502.14499`, [arxiv](http://arxiv.org/abs/2502.14499v1), [pdf](http://arxiv.org/pdf/2502.14499v1.pdf), cication: [**-1**](None) 
 
 	 *Deepak Nathani, Lovish Madaan, Nicholas Roberts, ..., William Yang Wang, Roberta Raileanu* · ([MLGym](https://github.com/facebookresearch/MLGym) - facebookresearch) ![Star](https://img.shields.io/github/stars/facebookresearch/MLGym.svg?style=social&label=Star)
-- [Trace & Evaluate your Agent with Arize Phoenix](https://huggingface.co/blog/smolagents-phoenix)  🤗
+- [Trace & Evaluate your Agent with Arize Phoenix](https://huggingface.co/blog/smolagents-phoenix)  🤗 
 - **ATLaS: Agent Tuning via Learning Critical Steps**, `arXiv, 2503.02197`, [arxiv](http://arxiv.org/abs/2503.02197v1), [pdf](http://arxiv.org/pdf/2503.02197v1.pdf), cication: [**-1**](None) 
 
 	 *Zhixun Chen, Ming Li, Yuxuan Huang, ..., Meng Fang, Tianyi Zhou*
@@ -270,6 +292,10 @@
 
 ## Evaluation
 
+- **MultiAgentBench: Evaluating the Collaboration and Competition of LLM
+  agents**, `arXiv, 2503.01935`, [arxiv](http://arxiv.org/abs/2503.01935v1), [pdf](http://arxiv.org/pdf/2503.01935v1.pdf), cication: [**-1**](None) 
+
+	 *Kunlun Zhu, Hongyi Du, Zhaochen Hong, ..., Heng Ji, Jiaxuan You* · ([MARBLE.](https://github.com/MultiagentBench/MARBLE.) - MultiagentBench) ![Star](https://img.shields.io/github/stars/MultiagentBench/MARBLE..svg?style=social&label=Star)
 - **TheAgentCompany: Benchmarking LLM Agents on Consequential Real World 
   Tasks**, `arXiv, 2412.14161`, [arxiv](http://arxiv.org/abs/2412.14161v1), [pdf](http://arxiv.org/pdf/2412.14161v1.pdf), cication: [**-1**](None) 
 
@@ -284,6 +310,19 @@
 
 ## Projects
 
+- [**OpenManus**](https://github.com/mannaandpoem/OpenManus) - mannaandpoem ![Star](https://img.shields.io/github/stars/mannaandpoem/OpenManus.svg?style=social&label=Star)
+- 🌟 [**owl**](https://github.com/camel-ai/owl) - camel-ai ![Star](https://img.shields.io/github/stars/camel-ai/owl.svg?style=social&label=Star)
+
+	 *Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation*
+- [**OpenManus-RL**](https://github.com/OpenManus/OpenManus-RL) - OpenManus ![Star](https://img.shields.io/github/stars/OpenManus/OpenManus-RL.svg?style=social&label=Star)
+- 🌟 [**AutoDidact**](https://github.com/dCaples/AutoDidact) - dCaples ![Star](https://img.shields.io/github/stars/dCaples/AutoDidact.svg?style=social&label=Star)
+
+	 *Bootstrapping Search Through Self-Verification*
+- [**mcp-agent**](https://github.com/lastmile-ai/mcp-agent) - lastmile-ai ![Star](https://img.shields.io/github/stars/lastmile-ai/mcp-agent.svg?style=social&label=Star)
+- [**agno**](https://github.com/agno-agi/agno) - agno-agi ![Star](https://img.shields.io/github/stars/agno-agi/agno.svg?style=social&label=Star)
+- [**awesome-mcp-servers**](https://github.com/punkpeye/awesome-mcp-servers) - punkpeye ![Star](https://img.shields.io/github/stars/punkpeye/awesome-mcp-servers.svg?style=social&label=Star)
+- [**camel**](https://github.com/camel-ai/camel) - camel-ai ![Star](https://img.shields.io/github/stars/camel-ai/camel.svg?style=social&label=Star)
+- [**AgenticMemory**](https://github.com/WujiangXu/AgenticMemory) - WujiangXu ![Star](https://img.shields.io/github/stars/WujiangXu/AgenticMemory.svg?style=social&label=Star)
 - [**vision-agent**](https://github.com/landing-ai/vision-agent) - landing-ai ![Star](https://img.shields.io/github/stars/landing-ai/vision-agent.svg?style=social&label=Star) 
 - [**MetaChain**](https://github.com/HKUDS/MetaChain) - HKUDS ![Star](https://img.shields.io/github/stars/HKUDS/MetaChain.svg?style=social&label=Star) 
 

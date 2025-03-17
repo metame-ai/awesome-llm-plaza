@@ -43,10 +43,13 @@
 
 ## Efficient LLM
 
+- **Q-Filters: Leveraging QK Geometry for Efficient KV Cache Compression**, `arXiv, 2503.02812`, [arxiv](http://arxiv.org/abs/2503.02812v1), [pdf](http://arxiv.org/pdf/2503.02812v1.pdf), cication: [**-1**](None) 
+
+	 *Nathan Godey, Alessio Devoto, Yu Zhao, ..., Éric de la Clergerie, Benoît Sagot* · ([𝕏](https://x.com/nthngdy/status/1897301390470603245))
 - **How Much Knowledge Can You Pack into a LoRA Adapter without Harming LLM?**, `arXiv, 2502.14502`, [arxiv](http://arxiv.org/abs/2502.14502v2), [pdf](http://arxiv.org/pdf/2502.14502v2.pdf), cication: [**-1**](None) 
 
 	 *Sergey Pletenev, Maria Marina, Daniil Moskovskiy, ..., Alexander Panchenko, Mikhail Salnikov*
-- **Make LoRA Great Again: Boosting LoRA with Adaptive Singular Values and
+- **Make LoRA Great Again: Boosting LoRA with Adaptive Singular Values and 
   Mixture-of-Experts Optimization Alignment**, `arXiv, 2502.16894`, [arxiv](http://arxiv.org/abs/2502.16894v2), [pdf](http://arxiv.org/pdf/2502.16894v2.pdf), cication: [**-1**](None) 
 
 	 *Chenghao Fan, Zhenyi Lu, Sichen Liu, ..., Chengfeng Gu, Yu Cheng*
@@ -159,6 +162,10 @@
 
 ## Pruning
 
+- 🌟 **SEAP: Training-free Sparse Expert Activation Pruning Unlock the
+  Brainpower of Large Language Models**, `arXiv, 2503.07605`, [arxiv](http://arxiv.org/abs/2503.07605v1), [pdf](http://arxiv.org/pdf/2503.07605v1.pdf), cication: [**-1**](None) 
+
+	 *Xun Liang, Hanyu Wang, Huayi Lai, ..., Bo Tang, Zhiyu Li*
 - **The Super Weight in Large Language Models**, `arXiv, 2411.07191`, [arxiv](http://arxiv.org/abs/2411.07191v1), [pdf](http://arxiv.org/pdf/2411.07191v1.pdf), cication: [**-1**](None) 
 
 	 *Mengxia Yu, De Wang, Qi Shan, ..., Colorado Reed, Alvin Wan*
@@ -172,6 +179,14 @@
 
 ## Inference
 
+- **EAGLE-3: Scaling up Inference Acceleration of Large Language Models via
+  Training-Time Test**, `arXiv, 2503.01840`, [arxiv](http://arxiv.org/abs/2503.01840v1), [pdf](http://arxiv.org/pdf/2503.01840v1.pdf), cication: [**-1**](None) 
+
+	 *Yuhui Li, Fangyun Wei, Chao Zhang, ..., Hongyang Zhang* · ([EAGLE.](https://github.com/SafeAILab/EAGLE.) - SafeAILab) ![Star](https://img.shields.io/github/stars/SafeAILab/EAGLE..svg?style=social&label=Star)
+- **From Hours to Minutes: Lossless Acceleration of Ultra Long Sequence
+  Generation up to 100K Tokens**, `arXiv, 2502.18890`, [arxiv](http://arxiv.org/abs/2502.18890v1), [pdf](http://arxiv.org/pdf/2502.18890v1.pdf), cication: [**-1**](None) 
+
+	 *Tong Wu, Junzhe Shen, Zixia Jia, ..., Yuxuan Wang, Zilong Zheng* · ([TokenSwift](https://github.com/bigai-nlco/TokenSwift) - bigai-nlco) ![Star](https://img.shields.io/github/stars/bigai-nlco/TokenSwift.svg?style=social&label=Star) · ([arxiv](https://arxiv.org/abs/2502.18890)) · ([huggingface](https://huggingface.co/TokenSwift))
 - **SpargeAttn: Accurate Sparse Attention Accelerating Any Model Inference**, `arXiv, 2502.18137`, [arxiv](http://arxiv.org/abs/2502.18137v1), [pdf](http://arxiv.org/pdf/2502.18137v1.pdf), cication: [**-1**](None) 
 
 	 *Jintao Zhang, Chendong Xiang, Haofeng Huang, ..., Jun Zhu, Jianfei Chen* · ([SpargeAttn](https://github.com/thu-ml/SpargeAttn) - thu-ml) ![Star](https://img.shields.io/github/stars/thu-ml/SpargeAttn.svg?style=social&label=Star)
@@ -258,6 +273,13 @@
 
 ## Transformer
 
+- **Towards Economical Inference: Enabling DeepSeek's Multi-Head Latent
+  Attention in Any Transformer-based LLMs**, `arXiv, 2502.14837`, [arxiv](http://arxiv.org/abs/2502.14837v1), [pdf](http://arxiv.org/pdf/2502.14837v1.pdf), cication: [**-1**](None) 
+
+	 *Tao Ji, Bin Guo, Yuanbin Wu, ..., Qi Zhang, Tao Gui* · ([MHA2MLA](https://github.com/JT-Ushio/MHA2MLA) - JT-Ushio) ![Star](https://img.shields.io/github/stars/JT-Ushio/MHA2MLA.svg?style=social&label=Star)
+- 🌟 **Transformers without Normalization**, `arXiv, 2503.10622`, [arxiv](http://arxiv.org/abs/2503.10622v1), [pdf](http://arxiv.org/pdf/2503.10622v1.pdf), cication: [**-1**](None) 
+
+	 *Jiachen Zhu, Xinlei Chen, Kaiming He, ..., Yann LeCun, Zhuang Liu*
 - 🌟 **SageAttention2 Technical Report: Accurate 4 Bit Attention for 
   Plug-and-play Inference Acceleration**, `arXiv, 2411.10958`, [arxiv](http://arxiv.org/abs/2411.10958v1), [pdf](http://arxiv.org/pdf/2411.10958v1.pdf), cication: [**-1**](None) 
 
@@ -288,6 +310,7 @@
 
 ## Projects
 
+- [**flux**](https://github.com/bytedance/flux) - bytedance ![Star](https://img.shields.io/github/stars/bytedance/flux.svg?style=social&label=Star)
 - [**MoBA**](https://github.com/MoonshotAI/MoBA) - MoonshotAI ![Star](https://img.shields.io/github/stars/MoonshotAI/MoBA.svg?style=social&label=Star) 
 
 	 *Mixture of Block Attention for Long-Context LLMs* · ([MoBA](https://github.com/MoonshotAI/MoBA/blob/master/MoBA_Tech_Report.pdf) - MoonshotAI) ![Star](https://img.shields.io/github/stars/MoonshotAI/MoBA.svg?style=social&label=Star) · ([zhuanlan.zhihu](https://zhuanlan.zhihu.com/p/24642612039?utm_campaign=shareopn&utm_medium=social&utm_psn=1875312875339395072&utm_source=wechat_timeline&wechatShare=1&s_r=0&utm_id=0))

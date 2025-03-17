@@ -59,7 +59,7 @@
 
 ## Multimodal
 
-- 🌟 [Phi-4-multimodal-instruct is a lightweight open multimodal foundationmodel that leverages the language, vision, and speech research](https://huggingface.co/microsoft/Phi-4-multimodal-instruct)  🤗
+- 🌟 [Phi-4-multimodal-instruct is a lightweight open multimodal foundationmodel that leverages the language, vision, and speech research](https://huggingface.co/microsoft/Phi-4-multimodal-instruct)  🤗 
 
 	 · ([models](https://github.com/marketplace/models/azureml/Phi-4-multimodal-instruct/playground) - marketplace) ![Star](https://img.shields.io/github/stars/marketplace/models.svg?style=social&label=Star)
 - **video-SALMONN-o1: Reasoning-enhanced Audio-visual Large Language Model**, `arXiv, 2502.11775`, [arxiv](http://arxiv.org/abs/2502.11775v1), [pdf](http://arxiv.org/pdf/2502.11775v1.pdf), cication: [**-1**](None) 

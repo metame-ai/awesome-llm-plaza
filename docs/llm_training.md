@@ -117,7 +117,7 @@
 
 ## Optimization
 
-- [**dolphinflow-optimizer**](https://github.com/cognitivecomputations/dolphinflow-optimizer) - cognitivecomputations ![Star](https://img.shields.io/github/stars/cognitivecomputations/dolphinflow-optimizer.svg?style=social&label=Star)
+- [**dolphinflow-optimizer**](https://github.com/cognitivecomputations/dolphinflow-optimizer) - cognitivecomputations ![Star](https://img.shields.io/github/stars/cognitivecomputations/dolphinflow-optimizer.svg?style=social&label=Star) 
 - **Stable-SPAM: How to Train in 4-Bit More Stably than 16-Bit Adam**, `arXiv, 2502.17055`, [arxiv](http://arxiv.org/abs/2502.17055v1), [pdf](http://arxiv.org/pdf/2502.17055v1.pdf), cication: [**-1**](None) 
 
 	 *Tianjin Huang, Haotian Hu, Zhenyu Zhang, ..., Zhangyang Wang, Shiwei Liu* · ([StableSPAM.git.](https://github.com/TianjinYellow/StableSPAM.git.) - TianjinYellow) ![Star](https://img.shields.io/github/stars/TianjinYellow/StableSPAM.git..svg?style=social&label=Star)
@@ -198,13 +198,17 @@
 
 ## Mixture Of Experts
 
+- [**flux**](https://github.com/bytedance/flux) - bytedance ![Star](https://img.shields.io/github/stars/bytedance/flux.svg?style=social&label=Star)
+- **Mixture of Experts Made Intrinsically Interpretable**, `arXiv, 2503.07639`, [arxiv](http://arxiv.org/abs/2503.07639v1), [pdf](http://arxiv.org/pdf/2503.07639v1.pdf), cication: [**-1**](None) 
+
+	 *Xingyi Yang, Constantin Venhoff, Ashkan Khakzar, ..., Adel Bibi, Philip Torr*
 - **MoM: Linear Sequence Modeling with Mixture-of-Memories**, `arXiv, 2502.13685`, [arxiv](http://arxiv.org/abs/2502.13685v1), [pdf](http://arxiv.org/pdf/2502.13685v1.pdf), cication: [**-1**](None) 
 
 	 *Jusen Du, Weigao Sun, Disen Lan, ..., Jiaxi Hu, Yu Cheng* · ([Linear-MoE.](https://github.com/OpenSparseLLMs/Linear-MoE.) - OpenSparseLLMs) ![Star](https://img.shields.io/github/stars/OpenSparseLLMs/Linear-MoE..svg?style=social&label=Star)
 - 🌟 **R2-T2: Re-Routing in Test-Time for Multimodal Mixture-of-Experts**, `arXiv, 2502.20395`, [arxiv](http://arxiv.org/abs/2502.20395v2), [pdf](http://arxiv.org/pdf/2502.20395v2.pdf), cication: [**-1**](None) 
 
 	 *Zhongyang Li, Ziyue Li, Tianyi Zhou* · ([R2-T2](https://github.com/tianyi-lab/R2-T2) - tianyi-lab) ![Star](https://img.shields.io/github/stars/tianyi-lab/R2-T2.svg?style=social&label=Star)
-- [**CoE**](https://github.com/ZihanWang314/CoE) - ZihanWang314 ![Star](https://img.shields.io/github/stars/ZihanWang314/CoE.svg?style=social&label=Star)
+- [**CoE**](https://github.com/ZihanWang314/CoE) - ZihanWang314 ![Star](https://img.shields.io/github/stars/ZihanWang314/CoE.svg?style=social&label=Star) 
 
 	 *Unlocking the Communication Power of MoEs*
 - **LASP-2: Rethinking Sequence Parallelism for Linear Attention and Its 
@@ -278,8 +282,8 @@
 
 ## Toolkits
 
-- [**DeepGEMM**](https://github.com/deepseek-ai/DeepGEMM) - deepseek-ai ![Star](https://img.shields.io/github/stars/deepseek-ai/DeepGEMM.svg?style=social&label=Star)
-- [**DualPipe**](https://github.com/deepseek-ai/DualPipe) - deepseek-ai ![Star](https://img.shields.io/github/stars/deepseek-ai/DualPipe.svg?style=social&label=Star)
+- [**DeepGEMM**](https://github.com/deepseek-ai/DeepGEMM) - deepseek-ai ![Star](https://img.shields.io/github/stars/deepseek-ai/DeepGEMM.svg?style=social&label=Star) 
+- [**DualPipe**](https://github.com/deepseek-ai/DualPipe) - deepseek-ai ![Star](https://img.shields.io/github/stars/deepseek-ai/DualPipe.svg?style=social&label=Star) 
 - [**oumi**](https://github.com/oumi-ai/oumi) - oumi-ai ![Star](https://img.shields.io/github/stars/oumi-ai/oumi.svg?style=social&label=Star) 
 - [**dolomite-engine**](https://github.com/IBM/dolomite-engine) - IBM ![Star](https://img.shields.io/github/stars/IBM/dolomite-engine.svg?style=social&label=Star) 
 - [**lingua**](https://github.com/facebookresearch/lingua) - facebookresearch ![Star](https://img.shields.io/github/stars/facebookresearch/lingua.svg?style=social&label=Star) 

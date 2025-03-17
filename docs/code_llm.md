@@ -15,14 +15,18 @@
 
 ## Code LLM
 
-- **SWE-RL: Advancing LLM Reasoning via Reinforcement Learning on Open
+- [OlympicCoder](https://huggingface.co/blog/open-r1/update-3)  🤗
+- **Multi-Turn Code Generation Through Single-Step Rewards**, `arXiv, 2502.20380`, [arxiv](http://arxiv.org/abs/2502.20380v1), [pdf](http://arxiv.org/pdf/2502.20380v1.pdf), cication: [**-1**](None) 
+
+	 *Arnav Kumar Jain, Gonzalo Gonzalez-Pumariega, Wayne Chen, ..., Wenting Zhao, Sanjiban Choudhury* · ([portal-cornell.github](https://portal-cornell.github.io/muCode/))
+- **SWE-RL: Advancing LLM Reasoning via Reinforcement Learning on Open 
   Software Evolution**, `arXiv, 2502.18449`, [arxiv](http://arxiv.org/abs/2502.18449v1), [pdf](http://arxiv.org/pdf/2502.18449v1.pdf), cication: [**-1**](None) 
 
 	 *Yuxiang Wei, Olivier Duchenne, Jade Copet, ..., Rishabh Singh, Sida I. Wang* · ([swe-rl](https://github.com/facebookresearch/swe-rl) - facebookresearch) ![Star](https://img.shields.io/github/stars/facebookresearch/swe-rl.svg?style=social&label=Star)
 - **S*: Test Time Scaling for Code Generation**, `arXiv, 2502.14382`, [arxiv](http://arxiv.org/abs/2502.14382v1), [pdf](http://arxiv.org/pdf/2502.14382v1.pdf), cication: [**-1**](None) 
 
 	 *Dacheng Li, Shiyi Cao, Chengkun Cao, ..., Joseph E. Gonzalez, Ion Stoica* · ([SkyThought](https://github.com/NovaSky-AI/SkyThought) - NovaSky-AI) ![Star](https://img.shields.io/github/stars/NovaSky-AI/SkyThought.svg?style=social&label=Star)
-- **WarriorCoder: Learning from Expert Battles to Augment Code Large
+- **WarriorCoder: Learning from Expert Battles to Augment Code Large 
   Language Models**, `arXiv, 2412.17395`, [arxiv](http://arxiv.org/abs/2412.17395v3), [pdf](http://arxiv.org/pdf/2412.17395v3.pdf), cication: [**-1**](None) 
 
 	 *Huawen Feng, Pu Zhao, Qingfeng Sun, ..., Dongmei Zhang, Qi Zhang*
@@ -96,7 +100,10 @@
 
 ## Evaluation
 
-- **CodeCriticBench: A Holistic Code Critique Benchmark for Large Language
+- **CodeArena: A Collective Evaluation Platform for LLM Code Generation**, `arXiv, 2503.01295`, [arxiv](http://arxiv.org/abs/2503.01295v1), [pdf](http://arxiv.org/pdf/2503.01295v1.pdf), cication: [**-1**](None) 
+
+	 *Mingzhe Du, Anh Tuan Luu, Bin Ji, ..., Qian Liu, See-Kiong Ng*
+- **CodeCriticBench: A Holistic Code Critique Benchmark for Large Language 
   Models**, `arXiv, 2502.16614`, [arxiv](http://arxiv.org/abs/2502.16614v1), [pdf](http://arxiv.org/pdf/2502.16614v1.pdf), cication: [**-1**](None) 
 
 	 *Alexander Zhang, Marcus Dong, Jiaheng Liu, ..., Wenhao Huang, Zhaoxiang Zhang*
@@ -133,7 +140,8 @@
 
 ## Projects
 
-- [**claude-code**](https://github.com/dnakov/claude-code) - dnakov ![Star](https://img.shields.io/github/stars/dnakov/claude-code.svg?style=social&label=Star)
+- [**awesome-vibe-coding**](https://github.com/filipecalegario/awesome-vibe-coding) - filipecalegario ![Star](https://img.shields.io/github/stars/filipecalegario/awesome-vibe-coding.svg?style=social&label=Star)
+- [**claude-code**](https://github.com/dnakov/claude-code) - dnakov ![Star](https://img.shields.io/github/stars/dnakov/claude-code.svg?style=social&label=Star) 
 - [**deepclaude**](https://github.com/getAsterisk/deepclaude) - getAsterisk ![Star](https://img.shields.io/github/stars/getAsterisk/deepclaude.svg?style=social&label=Star) 
 
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s/vhv4Eb5XoA2d4LKRqVRQag))

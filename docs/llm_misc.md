@@ -47,10 +47,14 @@
 
 ## Interpretability
 
+- **Mixture of Experts Made Intrinsically Interpretable**, `arXiv, 2503.07639`, [arxiv](http://arxiv.org/abs/2503.07639v1), [pdf](http://arxiv.org/pdf/2503.07639v1.pdf), cication: [**-1**](None) 
+
+	 *Xingyi Yang, Constantin Venhoff, Ashkan Khakzar, ..., Adel Bibi, Philip Torr*
+- [Can lossless information compression by itself produce intelligent behavior?](https://iliao2345.github.io/blog_posts/arc_agi_without_pretraining/arc_agi_without_pretraining.html) 
 - **Are Sparse Autoencoders Useful? A Case Study in Sparse Probing**, `arXiv, 2502.16681`, [arxiv](http://arxiv.org/abs/2502.16681v1), [pdf](http://arxiv.org/pdf/2502.16681v1.pdf), cication: [**-1**](None) 
 
 	 *Subhash Kantamneni, Joshua Engels, Senthooran Rajamanoharan, ..., Max Tegmark, Neel Nanda* · ([𝕏](https://x.com/JoshAEngels/status/1894385838487642346)) · ([SAE-Probes](https://github.com/JoshEngels/SAE-Probes) - JoshEngels) ![Star](https://img.shields.io/github/stars/JoshEngels/SAE-Probes.svg?style=social&label=Star)
-- 🌟 **LLM-Microscope: Uncovering the Hidden Role of Punctuation in Context
+- 🌟 **LLM-Microscope: Uncovering the Hidden Role of Punctuation in Context 
   Memory of Transformers**, `arXiv, 2502.15007`, [arxiv](http://arxiv.org/abs/2502.15007v1), [pdf](http://arxiv.org/pdf/2502.15007v1.pdf), cication: [**-1**](None) 
 
 	 *Anton Razzhigaev, Matvey Mikhalchuk, Temurbek Rahmatullaev, ..., Ivan Oseledets, Andrey Kuznetsov*
@@ -181,6 +185,10 @@
 
 ## Detection
 
+- 🌟 **Feature-Level Insights into Artificial Text Detection with Sparse
+  Autoencoders**, `arXiv, 2503.03601`, [arxiv](http://arxiv.org/abs/2503.03601v1), [pdf](http://arxiv.org/pdf/2503.03601v1.pdf), cication: [**-1**](None) 
+
+	 *Kristian Kuznetsov, Laida Kushnareva, Polina Druzhinina, ..., Evgeny Burnaev, Serguei Barannikov*
 - **LLMmap: Fingerprinting For Large Language Models**, `arXiv, 2407.15847`, [arxiv](http://arxiv.org/abs/2407.15847v3), [pdf](http://arxiv.org/pdf/2407.15847v3.pdf), cication: [**-1**](None) 
 
 	 *Dario Pasquini, Evgenios M. Kornaropoulos, Giuseppe Ateniese*
@@ -263,8 +271,8 @@
 
 ## Misc
 
-- [【生成式AI時代下的機器學習(2025)】第一講：一堂課搞懂生成式人工智慧的技術突破與未來發展](https://www.youtube.com/watch?v=QLiKmca4kzI)  :clapper:
-- [How I use LLMs](https://www.youtube.com/watch?v=EWvNQjAaOHw)  :clapper:
+- [【生成式AI時代下的機器學習(2025)】第一講：一堂課搞懂生成式人工智慧的技術突破與未來發展](https://www.youtube.com/watch?v=QLiKmca4kzI)  :clapper: 
+- [How I use LLMs](https://www.youtube.com/watch?v=EWvNQjAaOHw)  :clapper: 
 - **Idiosyncrasies in Large Language Models**, `arXiv, 2502.12150`, [arxiv](http://arxiv.org/abs/2502.12150v1), [pdf](http://arxiv.org/pdf/2502.12150v1.pdf), cication: [**-1**](None) 
 
 	 *Mingjie Sun, Yida Yin, Zhiqiu Xu, ..., J. Zico Kolter, Zhuang Liu* · ([eric-mingjie.github](https://eric-mingjie.github.io/llm-idiosyncrasies/)) · ([𝕏](https://x.com/liuzhuang1234/status/1892430119395873015))

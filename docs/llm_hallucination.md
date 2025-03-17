@@ -17,7 +17,8 @@
 
 ## Hallucination
 
-- **On the Trustworthiness of Generative Foundation Models: Guideline,
+- [Detecting misbehavior in frontier reasoning models](https://openai.com/index/chain-of-thought-monitoring/) 
+- **On the Trustworthiness of Generative Foundation Models: Guideline, 
   Assessment, and Perspective**, `arXiv, 2502.14296`, [arxiv](http://arxiv.org/abs/2502.14296v1), [pdf](http://arxiv.org/pdf/2502.14296v1.pdf), cication: [**-1**](None) 
 
 	 *Yue Huang, Chujie Gao, Siyuan Wu, ..., Bo Li, Xiangliang Zhang* · ([trustgen.github](https://trustgen.github.io/)) · ([TrustEval-toolkit](https://github.com/TrustGen/TrustEval-toolkit) - TrustGen) ![Star](https://img.shields.io/github/stars/TrustGen/TrustEval-toolkit.svg?style=social&label=Star) · ([trusteval-docs.readthedocs](https://trusteval-docs.readthedocs.io/))

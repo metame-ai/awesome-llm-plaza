@@ -154,7 +154,10 @@
 
 ## Projects
 
-- [**GamingAgent**](https://github.com/lmgame-org/GamingAgent) - lmgame-org ![Star](https://img.shields.io/github/stars/lmgame-org/GamingAgent.svg?style=social&label=Star)
+- [**QwQ**](https://github.com/QwenLM/QwQ) - QwenLM ![Star](https://img.shields.io/github/stars/QwenLM/QwQ.svg?style=social&label=Star)
+
+	 · ([huggingface](https://huggingface.co/Qwen/QwQ-32B))
+- [**GamingAgent**](https://github.com/lmgame-org/GamingAgent) - lmgame-org ![Star](https://img.shields.io/github/stars/lmgame-org/GamingAgent.svg?style=social&label=Star) 
 - [**ZeroSumEval**](https://github.com/haidark/ZeroSumEval) - haidark ![Star](https://img.shields.io/github/stars/haidark/ZeroSumEval.svg?style=social&label=Star) 
 - [**generalization**](https://github.com/lechmazur/generalization) - lechmazur ![Star](https://img.shields.io/github/stars/lechmazur/generalization.svg?style=social&label=Star) 
 - [**MisguidedAttention**](https://github.com/cpldcpu/MisguidedAttention) - cpldcpu ![Star](https://img.shields.io/github/stars/cpldcpu/MisguidedAttention.svg?style=social&label=Star) 
@@ -177,7 +180,7 @@
 
 ## Misc
 
-- [AIME 2025 performance of Grok and OpenAI models](https://x.com/teortaxesTex/status/1892471638534303946)  𝕏
+- [AIME 2025 performance of Grok and OpenAI models](https://x.com/teortaxesTex/status/1892471638534303946)  𝕏 
 - [AI Model Comparison](https://countless.dev/) 
 - [LLM LeaderboardsA trusted source for real-world AI model performance and insights](https://llm-stats.com/) 
 - [Crisp and fuzzy tasks](https://aligned.substack.com/p/crisp-and-fuzzy-tasks) 

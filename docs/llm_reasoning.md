@@ -44,6 +44,14 @@
 
 ## Reasoning
 
+- [The State of LLM Reasoning Models](https://magazine.sebastianraschka.com/p/state-of-llm-reasoning-and-inference-scaling) 
+- **Sketch-of-Thought: Efficient LLM Reasoning with Adaptive
+  Cognitive-Inspired Sketching**, `arXiv, 2503.05179`, [arxiv](http://arxiv.org/abs/2503.05179v1), [pdf](http://arxiv.org/pdf/2503.05179v1.pdf), cication: [**-1**](None) 
+
+	 *Simon A. Aytes, Jinheon Baek, Sung Ju Hwang* · ([SoT.](https://www.github.com/SimonAytes/SoT.) - SimonAytes) ![Star](https://img.shields.io/github/stars/SimonAytes/SoT..svg?style=social&label=Star)
+- **Efficient Test-Time Scaling via Self-Calibration**, `arXiv, 2503.00031`, [arxiv](http://arxiv.org/abs/2503.00031v1), [pdf](http://arxiv.org/pdf/2503.00031v1.pdf), cication: [**-1**](None) 
+
+	 *Chengsong Huang, Langlin Huang, Jixuan Leng, ..., Jiacheng Liu, Jiaxin Huang*
 - **Learning to Reason from Feedback at Test-Time**, `arXiv, 2502.15771`, [arxiv](http://arxiv.org/abs/2502.15771v1), [pdf](http://arxiv.org/pdf/2502.15771v1.pdf), cication: [**-1**](None) 
 
 	 *Yanyang Li, Michael Lyu, Liwei Wang* · ([FTTT](https://github.com/LaVi-Lab/FTTT) - LaVi-Lab) ![Star](https://img.shields.io/github/stars/LaVi-Lab/FTTT.svg?style=social&label=Star)
@@ -254,29 +262,32 @@
 
 ## Math Reasoning
 
-- **Big-Math: A Large-Scale, High-Quality Math Dataset for Reinforcement
+- [**Online-DPO-R1**](https://github.com/RLHFlow/Online-DPO-R1) - RLHFlow ![Star](https://img.shields.io/github/stars/RLHFlow/Online-DPO-R1.svg?style=social&label=Star)
+
+	 *Unlocking Effective Reasoning Without the PPO Overhead*
+- **Big-Math: A Large-Scale, High-Quality Math Dataset for Reinforcement 
   Learning in Language Models**, `arXiv, 2502.17387`, [arxiv](http://arxiv.org/abs/2502.17387v1), [pdf](http://arxiv.org/pdf/2502.17387v1.pdf), cication: [**-1**](None) 
 
 	 *Alon Albalak, Duy Phung, Nathan Lile, ..., Dakota Mahan, Nick Haber*
-- **Multi-Agent Verification: Scaling Test-Time Compute with Multiple
+- **Multi-Agent Verification: Scaling Test-Time Compute with Multiple 
   Verifiers**, `arXiv, 2502.20379`, [arxiv](http://arxiv.org/abs/2502.20379v1), [pdf](http://arxiv.org/pdf/2502.20379v1.pdf), cication: [**-1**](None) 
 
 	 *Shalev Lifshitz, Sheila A. McIlraith, Yilun Du* · ([𝕏](https://x.com/Shalev_lif/status/1895615162570162213))
 - 🌟 **Self-rewarding correction for mathematical reasoning**, `arXiv, 2502.19613`, [arxiv](http://arxiv.org/abs/2502.19613v1), [pdf](http://arxiv.org/pdf/2502.19613v1.pdf), cication: [**-1**](None) 
 
 	 *Wei Xiong, Hanning Zhang, Chenlu Ye, ..., Nan Jiang, Tong Zhang* · ([𝕏](https://x.com/weixiong_1/status/1895498017446171019)) · ([Self-rewarding-reasoning-LLM](https://github.com/RLHFlow/Self-rewarding-reasoning-LLM) - RLHFlow) ![Star](https://img.shields.io/github/stars/RLHFlow/Self-rewarding-reasoning-LLM.svg?style=social&label=Star)
-- **Linguistic Generalizability of Test-Time Scaling in Mathematical
+- **Linguistic Generalizability of Test-Time Scaling in Mathematical 
   Reasoning**, `arXiv, 2502.17407`, [arxiv](http://arxiv.org/abs/2502.17407v1), [pdf](http://arxiv.org/pdf/2502.17407v1.pdf), cication: [**-1**](None) 
 
 	 *Guijin Son, Jiwoo Hong, Hyunwoo Ko, ..., James Thorne* · ([huggingface](https://huggingface.co/datasets/amphora/MCLM)) · ([huggingface](https://huggingface.co/datasets/amphora/Open-R1-Mulitlingual-SFT))
-- **STP: Self-play LLM Theorem Provers with Iterative Conjecturing and
+- **STP: Self-play LLM Theorem Provers with Iterative Conjecturing and 
   Proving**, `arXiv, 2502.00212`, [arxiv](http://arxiv.org/abs/2502.00212v3), [pdf](http://arxiv.org/pdf/2502.00212v3.pdf), cication: [**-1**](None) 
 
 	 *Kefan Dong, Tengyu Ma*
-- [**Light-R1**](https://github.com/Qihoo360/Light-R1) - Qihoo360 ![Star](https://img.shields.io/github/stars/Qihoo360/Light-R1.svg?style=social&label=Star)
+- [**Light-R1**](https://github.com/Qihoo360/Light-R1) - Qihoo360 ![Star](https://img.shields.io/github/stars/Qihoo360/Light-R1.svg?style=social&label=Star) 
 
 	 *Surpassing R1-Distill in Math from Scratch* with $1000 through Curriculum SFT & DPO*
-- **BFS-Prover: Scalable Best-First Tree Search for LLM-based Automatic
+- **BFS-Prover: Scalable Best-First Tree Search for LLM-based Automatic 
   Theorem Proving**, `arXiv, 2502.03438`, [arxiv](http://arxiv.org/abs/2502.03438v2), [pdf](http://arxiv.org/pdf/2502.03438v2.pdf), cication: [**-1**](None) 
 
 	 *Ran Xin, Chenguang Xi, Jie Yang, ..., Shen Zheng, Kai Shen*
@@ -358,23 +369,46 @@
 
 ## O1 Reasoning
 
-- **Logic-RL: Unleashing LLM Reasoning with Rule-Based Reinforcement
+- **L1: Controlling How Long A Reasoning Model Thinks With Reinforcement
+  Learning**, `arXiv, 2503.04697`, [arxiv](http://arxiv.org/abs/2503.04697v1), [pdf](http://arxiv.org/pdf/2503.04697v1.pdf), cication: [**-1**](None) 
+
+	 *Pranjal Aggarwal, Sean Welleck* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652573894&idx=1&sn=2d24175b65879c55e2af425873563c1a&chksm=f0df2473a8afedcd75bfa071db78451578c8743ab8d4f7cd1d7ce5bc8ad08a31a07505a0e48a&scene=0&xtrack=1)) · ([cmu-l3.github](https://www.cmu-l3.github.io/l1))
+- **Optimizing Test-Time Compute via Meta Reinforcement Fine-Tuning**, `arXiv, 2503.07572`, [arxiv](http://arxiv.org/abs/2503.07572v1), [pdf](http://arxiv.org/pdf/2503.07572v1.pdf), cication: [**-1**](None) 
+
+	 *Yuxiao Qu, Matthew Y. R. Yang, Amrith Setlur, ..., Ruslan Salakhutdinov, Aviral Kumar* · ([𝕏](https://x.com/QuYuxiao/status/1899510845543162129))
+- 🌟 **START: Self-taught Reasoner with Tools**, `arXiv, 2503.04625`, [arxiv](http://arxiv.org/abs/2503.04625v2), [pdf](http://arxiv.org/pdf/2503.04625v2.pdf), cication: [**-1**](None) 
+
+	 *Chengpeng Li, Mingfeng Xue, Zhenru Zhang, ..., Junyang Lin, Dayiheng Liu*
+- **Atom of Thoughts for Markov LLM Test-Time Scaling**, `arXiv, 2502.12018`, [arxiv](http://arxiv.org/abs/2502.12018v1), [pdf](http://arxiv.org/pdf/2502.12018v1.pdf), cication: [**-1**](None) 
+
+	 *Fengwei Teng, Zhaoyang Yu, Quan Shi, ..., Chenglin Wu, Yuyu Luo* · ([atom](https://github.com/qixucen/atom) - qixucen) ![Star](https://img.shields.io/github/stars/qixucen/atom.svg?style=social&label=Star)
+- **Light-R1: Curriculum SFT, DPO and RL for Long COT from Scratch and
+  Beyond**, `arXiv, 2503.10460`, [arxiv](http://arxiv.org/abs/2503.10460v1), [pdf](http://arxiv.org/pdf/2503.10460v1.pdf), cication: [**-1**](None) 
+
+	 *Liang Wen, Yunke Cai, Fenrui Xiao, ..., Shousheng Jia, Xiangzheng Zhang*
+- **SoS1: O1 and R1-Like Reasoning LLMs are Sum-of-Square Solvers**, `arXiv, 2502.20545`, [arxiv](http://arxiv.org/abs/2502.20545v1), [pdf](http://arxiv.org/pdf/2502.20545v1.pdf), cication: [**-1**](None) 
+
+	 *Kechen Li, Wenqi Zhu, Coralia Cartis, ..., Tianbo Ji, Shiwei Liu* · ([SoS1](https://github.com/Joe-2002/SoS1) - Joe-2002) ![Star](https://img.shields.io/github/stars/Joe-2002/SoS1.svg?style=social&label=Star)
+- 🌟 **Process-based Self-Rewarding Language Models**, `arXiv, 2503.03746`, [arxiv](http://arxiv.org/abs/2503.03746v1), [pdf](http://arxiv.org/pdf/2503.03746v1.pdf), cication: [**-1**](None) 
+
+	 *Shimao Zhang, Xiao Liu, Xin Zhang, ..., Shujian Huang, Yeyun Gong*
+- **Logic-RL: Unleashing LLM Reasoning with Rule-Based Reinforcement 
   Learning**, `arXiv, 2502.14768`, [arxiv](http://arxiv.org/abs/2502.14768v1), [pdf](http://arxiv.org/pdf/2502.14768v1.pdf), cication: [**-1**](None) 
 
 	 *Tian Xie, Zitian Gao, Qingnan Ren, ..., Zhirong Wu, Chong Luo*
-- **Is That Your Final Answer? Test-Time Scaling Improves Selective Question
+- **Is That Your Final Answer? Test-Time Scaling Improves Selective Question 
   Answering**, `arXiv, 2502.13962`, [arxiv](http://arxiv.org/abs/2502.13962v1), [pdf](http://arxiv.org/pdf/2502.13962v1.pdf), cication: [**-1**](None) 
 
 	 *William Jurayj, Jeffrey Cheng, Benjamin Van Durme*
-- **S$^2$R: Teaching LLMs to Self-verify and Self-correct via Reinforcement
+- **S$^2$R: Teaching LLMs to Self-verify and Self-correct via Reinforcement 
   Learning**, `arXiv, 2502.12853`, [arxiv](http://arxiv.org/abs/2502.12853v1), [pdf](http://arxiv.org/pdf/2502.12853v1.pdf), cication: [**-1**](None) 
 
 	 *Ruotian Ma, Peisong Wang, Cheng Liu, ..., Nan Du, Jia Li* · ([S2R](https://github.com/NineAbyss/S2R) - NineAbyss) ![Star](https://img.shields.io/github/stars/NineAbyss/S2R.svg?style=social&label=Star)
 - [Recreating DeepSeek’s ‘Wait!/Aha Moment’ for Under $10: A Breakthrough in Affordable AI Reasoning-> Reinforce-Lite⚡️](https://medium.com/@rjusnba/overnight-end-to-end-rl-training-a-3b-model-on-a-grade-school-math-dataset-leads-to-reasoning-df61410c04c6) 
-- [**RAGEN**](https://github.com/ZihanWang314/RAGEN) - ZihanWang314 ![Star](https://img.shields.io/github/stars/ZihanWang314/RAGEN.svg?style=social&label=Star)
+- [**RAGEN**](https://github.com/ZihanWang314/RAGEN) - ZihanWang314 ![Star](https://img.shields.io/github/stars/ZihanWang314/RAGEN.svg?style=social&label=Star) 
 
 	 *Training Agents by Reinforcing Reasoning*
-- **Cognitive Behaviors that Enable Self-Improving Reasoners, or, Four
+- **Cognitive Behaviors that Enable Self-Improving Reasoners, or, Four 
   Habits of Highly Effective STaRs**, `arXiv, 2503.01307`, [arxiv](http://arxiv.org/abs/2503.01307v1), [pdf](http://arxiv.org/pdf/2503.01307v1.pdf), cication: [**-1**](None) 
 
 	 *Kanishk Gandhi, Ayush Chakravarthy, Anikait Singh, ..., Nathan Lile, Noah D. Goodman* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650957896&idx=1&sn=ab5eee154993c31cb11b3878f9a05532&chksm=85d98be69fbe10dee879837095d93753937bcd06a8a7fb0694f888a6da503d17a340517eee33&scene=0&xtrack=1)) · ([cognitive-behaviors](https://github.com/kanishkg/cognitive-behaviors) - kanishkg) ![Star](https://img.shields.io/github/stars/kanishkg/cognitive-behaviors.svg?style=social&label=Star)
@@ -609,6 +643,9 @@
 
 ## Chain Of Thought
 
+- **Chain of Draft: Thinking Faster by Writing Less**, `arXiv, 2502.18600`, [arxiv](http://arxiv.org/abs/2502.18600v2), [pdf](http://arxiv.org/pdf/2502.18600v2.pdf), cication: [**-1**](None) 
+
+	 *Silei Xu, Wenhao Xie, Lingxiao Zhao, ..., Pengcheng He* · ([chain-of-draft](https://github.com/sileix/chain-of-draft) - sileix) ![Star](https://img.shields.io/github/stars/sileix/chain-of-draft.svg?style=social&label=Star)
 - 🌟 **Chain of Draft: Thinking Faster by Writing Less**, `arXiv, 2502.18600`, [arxiv](http://arxiv.org/abs/2502.18600v2), [pdf](http://arxiv.org/pdf/2502.18600v2.pdf), cication: [**-1**](None) 
 
 	 *Silei Xu, Wenhao Xie, Lingxiao Zhao, ..., Pengcheng He*
@@ -660,7 +697,8 @@
 
 ## Projects
 
-- [**Awesome-RL-based-LLM-Reasoning**](https://github.com/bruno686/Awesome-RL-based-LLM-Reasoning) - bruno686 ![Star](https://img.shields.io/github/stars/bruno686/Awesome-RL-based-LLM-Reasoning.svg?style=social&label=Star)
+- [**Awesome-System2-Reasoning-LLM**](https://github.com/zzli2022/Awesome-System2-Reasoning-LLM) - zzli2022 ![Star](https://img.shields.io/github/stars/zzli2022/Awesome-System2-Reasoning-LLM.svg?style=social&label=Star)
+- [**Awesome-RL-based-LLM-Reasoning**](https://github.com/bruno686/Awesome-RL-based-LLM-Reasoning) - bruno686 ![Star](https://img.shields.io/github/stars/bruno686/Awesome-RL-based-LLM-Reasoning.svg?style=social&label=Star) 
 - [**open-thoughts**](https://github.com/open-thoughts/open-thoughts) - open-thoughts ![Star](https://img.shields.io/github/stars/open-thoughts/open-thoughts.svg?style=social&label=Star) 
 
 	 · ([𝕏](https://x.com/madiator/status/1884284103354376283))
@@ -695,7 +733,8 @@
 
 ## Misc
 
-- [How Do Agents Plan and Reason?](https://huggingface.co/blog/Kseniase/reasonplan)  🤗
+- [GRPO on "Temporal Clue,"](https://x.com/corbtt/status/1897735437340627405)  𝕏
+- [How Do Agents Plan and Reason?](https://huggingface.co/blog/Kseniase/reasonplan)  🤗 
 - [Denny Zhou: LLM Reasoning: Key Ideas and Limitations](https://www.youtube.com/watch?v=-SZAciVbswk)  :clapper: 
 - [Jason Wei: Scaling Paradigms for Large Language Models](https://www.youtube.com/watch?v=yhpjpNXJDco)  :clapper: 
 - [智谱版o1终于也来了：直接拿下考研数学，一句话就能做小游戏！](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247770241&idx=1&sn=fd6fb22d91ca671905f8ff8a338f7662&chksm=e9ba73fe67399d9a51136457259305a5005bcc02ee12913d9c33515743e7668528772b93fe50&scene=0&xtrack=1) 

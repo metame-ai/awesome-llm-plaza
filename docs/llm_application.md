@@ -50,7 +50,7 @@
 
 ## Education
 
-- **TheoremExplainAgent: Towards Multimodal Explanations for LLM Theorem
+- **TheoremExplainAgent: Towards Multimodal Explanations for LLM Theorem 
   Understanding**, `arXiv, 2502.19400`, [arxiv](http://arxiv.org/abs/2502.19400v1), [pdf](http://arxiv.org/pdf/2502.19400v1.pdf), cication: [**-1**](None) 
 
 	 *Max Ku, Thomas Chong, Jonathan Leung, ..., Alvin Yu, Wenhu Chen* · ([tiger-ai-lab.github](https://tiger-ai-lab.github.io/TheoremExplainAgent/))
@@ -65,11 +65,11 @@
 - **Towards an AI co-scientist**, `arXiv, 2502.18864`, [arxiv](http://arxiv.org/abs/2502.18864v1), [pdf](http://arxiv.org/pdf/2502.18864v1.pdf), cication: [**-1**](None) 
 
 	 *Juraj Gottweis, Wei-Hung Weng, Alexander Daryin, ..., Alan Karthikesalingam, Vivek Natarajan* · ([𝕏](https://x.com/TheTuringPost/status/1895075839970324663))
-- **Mol-LLaMA: Towards General Understanding of Molecules in Large Molecular
+- **Mol-LLaMA: Towards General Understanding of Molecules in Large Molecular 
   Language Model**, `arXiv, 2502.13449`, [arxiv](http://arxiv.org/abs/2502.13449v2), [pdf](http://arxiv.org/pdf/2502.13449v2.pdf), cication: [**-1**](None) 
 
 	 *Dongki Kim, Wonbin Lee, Sung Ju Hwang* · ([mol-llama.github](https://mol-llama.github.io/))
-- **Curie: Toward Rigorous and Automated Scientific Experimentation with AI
+- **Curie: Toward Rigorous and Automated Scientific Experimentation with AI 
   Agents**, `arXiv, 2502.16069`, [arxiv](http://arxiv.org/abs/2502.16069v2), [pdf](http://arxiv.org/pdf/2502.16069v2.pdf), cication: [**-1**](None) 
 
 	 *Patrick Tser Jern Kon, Jiachen Liu, Qiuyi Ding, ..., Mosharaf Chowdhury, Ang Chen* · ([Curie.](https://github.com/Just-Curieous/Curie.) - Just-Curieous) ![Star](https://img.shields.io/github/stars/Just-Curieous/Curie..svg?style=social&label=Star)
@@ -287,6 +287,8 @@
 
 ## UI
 
+- [**AstrBot**](https://github.com/Soulter/AstrBot) - Soulter ![Star](https://img.shields.io/github/stars/Soulter/AstrBot.svg?style=social&label=Star)
+- [**wechat-bot**](https://github.com/wangrongding/wechat-bot) - wangrongding ![Star](https://img.shields.io/github/stars/wangrongding/wechat-bot.svg?style=social&label=Star)
 - [MonsterUI: Beautiful Python Web Apps in Minutes](https://www.youtube.com/watch?v=EtZ4pEzPMcc)  :clapper: 
 
 	 · ([𝕏](https://x.com/isaac_flath/status/1889409120580841865)) · ([monsterui.answer](https://monsterui.answer.ai/))
@@ -313,7 +315,10 @@
 
 ## Projects
 
-- [**introspect**](https://github.com/defog-ai/introspect) - defog-ai ![Star](https://img.shields.io/github/stars/defog-ai/introspect.svg?style=social&label=Star)
+- [**interview-coder**](https://github.com/ibttf/interview-coder) - ibttf ![Star](https://img.shields.io/github/stars/ibttf/interview-coder.svg?style=social&label=Star)
+- [**open_deep_research**](https://github.com/langchain-ai/open_deep_research) - langchain-ai ![Star](https://img.shields.io/github/stars/langchain-ai/open_deep_research.svg?style=social&label=Star)
+- [**llm-scraper**](https://github.com/mishushakov/llm-scraper) - mishushakov ![Star](https://img.shields.io/github/stars/mishushakov/llm-scraper.svg?style=social&label=Star)
+- [**introspect**](https://github.com/defog-ai/introspect) - defog-ai ![Star](https://img.shields.io/github/stars/defog-ai/introspect.svg?style=social&label=Star) 
 
 	 *Deep Research for your internal data* · ([𝕏](https://x.com/rishdotblog/status/1896628318268731718))
 - [**chatgpt-on-wechat**](https://github.com/zhayujie/chatgpt-on-wechat) - zhayujie ![Star](https://img.shields.io/github/stars/zhayujie/chatgpt-on-wechat.svg?style=social&label=Star) 
@@ -363,7 +368,8 @@
 
 ## LLM Applications
 
-- **R1-T1: Fully Incentivizing Translation Capability in LLMs via Reasoning
+- [新科研神器！这回读英文论文真跟读中文没两样了](https://www.qbitai.com/2025/03/263596.html) 
+- **R1-T1: Fully Incentivizing Translation Capability in LLMs via Reasoning 
   Learning**, `arXiv, 2502.19735`, [arxiv](http://arxiv.org/abs/2502.19735v2), [pdf](http://arxiv.org/pdf/2502.19735v2.pdf), cication: [**-1**](None) 
 
 	 *Minggui He, Yilun Liu, Shimin Tao, ..., Boxing Chen, Osamu Yoshie*

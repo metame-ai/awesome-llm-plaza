@@ -20,6 +20,11 @@
 
 ## LLM Data
 
+- [filtered version of DCLM dataset using FineWeb-Edu educational quality classifier.](https://huggingface.co/datasets/HuggingFaceTB/dclm-edu)  🤗
+- **Predictive Data Selection: The Data That Predicts Is the Data That
+  Teaches**, `arXiv, 2503.00808`, [arxiv](http://arxiv.org/abs/2503.00808v2), [pdf](http://arxiv.org/pdf/2503.00808v2.pdf), cication: [**-1**](None) 
+
+	 *Kashun Shum, Yuzhen Huang, Hongjian Zou, ..., Qian Liu, Junxian He* · ([PreSelect.](https://github.com/hkust-nlp/PreSelect.) - hkust-nlp) ![Star](https://img.shields.io/github/stars/hkust-nlp/PreSelect..svg?style=social&label=Star)
 - **GneissWeb: Preparing High Quality Data for LLMs at Scale**, `arXiv, 2502.14907`, [arxiv](http://arxiv.org/abs/2502.14907v1), [pdf](http://arxiv.org/pdf/2502.14907v1.pdf), cication: [**-1**](None) 
 
 	 *Hajar Emami Gohari, Swanand Ravindra Kadhe, Syed Yousaf Shah. Constantin Adam, ..., Yi Zhou, Bishwaranjan Bhattacharjee*
@@ -149,6 +154,7 @@
 
 ## Reasoning
 
+- [**Chinese-Data-Distill-From-R1**](https://github.com/YunwenTechnology/Chinese-Data-Distill-From-R1) - YunwenTechnology ![Star](https://img.shields.io/github/stars/YunwenTechnology/Chinese-Data-Distill-From-R1.svg?style=social&label=Star)
 - **NaturalReasoning: Reasoning in the Wild with 2.8M Challenging Questions**, `arXiv, 2502.13124`, [arxiv](http://arxiv.org/abs/2502.13124v2), [pdf](http://arxiv.org/pdf/2502.13124v2.pdf), cication: [**-1**](None) 
 
 	 *Weizhe Yuan, Jane Yu, Song Jiang, ..., Jason E Weston, Xian Li*

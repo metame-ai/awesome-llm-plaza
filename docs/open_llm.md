@@ -25,7 +25,19 @@
 
 ## English Models
 
-- [Phi-4-mini-instruct is a lightweight open model built upon synthetic data and filtered publicly available websites](https://huggingface.co/microsoft/Phi-4-mini-instruct)  🤗
+- [Gemma3 - 27B, 12B, 4B & 1B - 128K context, multimodal AND multilingual!](https://x.com/reach_vb/status/1899728796586025282)  𝕏
+
+	 · ([huggingface](https://huggingface.co/collections/google/gemma-3-release-67c6c6f89c4f76621268bb6d)) · ([developers.googleblog](https://developers.googleblog.com/en/introducing-gemma3/))
+- 🌟 [OLMo 2 32B: First fully open model to outperform GPT 3.5 and GPT 4o mini](https://allenai.org/blog/olmo2-32B) 
+
+	 · ([huggingface](https://huggingface.co/collections/allenai/olmo-2-674117b93ab84e98afc72edc))
+- [C4AI Command A is an open weights research release of a 111 billion parameter model](https://huggingface.co/CohereForAI/c4ai-command-a-03-2025)  🤗
+- [AI21 Jamba 1.6 family of models is state-of-the-art, hybrid SSM-Transformer instruction following foundation models.](https://huggingface.co/ai21labs/AI21-Jamba-Large-1.6)  🤗
+- **Phi-4-Mini Technical Report: Compact yet Powerful Multimodal Language
+  Models via Mixture-of-LoRAs**, `arXiv, 2503.01743`, [arxiv](http://arxiv.org/abs/2503.01743v2), [pdf](http://arxiv.org/pdf/2503.01743v2.pdf), cication: [**-1**](None) 
+
+	 *Microsoft, :, Abdelrahman Abouelenin, ..., Yunan Zhang, Xiren Zhou* · ([huggingface](https://huggingface.co/microsoft/Phi-4-multimodal-instruct)) · ([huggingface](https://huggingface.co/microsoft/Phi-4-mini-instruct)) · ([azure.microsoft](https://azure.microsoft.com/en-us/blog/empowering-innovation-the-next-generation-of-the-phi-family/))
+- [Phi-4-mini-instruct is a lightweight open model built upon synthetic data and filtered publicly available websites](https://huggingface.co/microsoft/Phi-4-mini-instruct)  🤗 
 - [Dolphin 3.0 R1 is the next generation of the Dolphin series of instruct-tuned models.](https://huggingface.co/cognitivecomputations/Dolphin3.0-R1-Mistral-24B)  🤗 
 - 🌟 **SmolLM2: When Smol Goes Big -- Data-Centric Training of a Small Language 
   Model**, `arXiv, 2502.02737`, [arxiv](http://arxiv.org/abs/2502.02737v1), [pdf](http://arxiv.org/pdf/2502.02737v1.pdf), cication: [**-1**](None) 
@@ -119,7 +131,11 @@
 
 ## Reasoning
 
-- [Tiny-R1-32B-Preview, which outperforms the 70B model Deepseek-R1-Distill-Llama-70B and nearly matches the full R1](https://huggingface.co/qihoo360/TinyR1-32B-Preview)  🤗
+- [**QwQ**](https://github.com/QwenLM/QwQ) - QwenLM ![Star](https://img.shields.io/github/stars/QwenLM/QwQ.svg?style=social&label=Star)
+
+	 · ([huggingface](https://huggingface.co/Qwen/QwQ-32B))
+- [Reka Flash 3 is a 21B general-purpose reasoning model that was trained from scratch.](https://huggingface.co/RekaAI/reka-flash-3)  🤗
+- [Tiny-R1-32B-Preview, which outperforms the 70B model Deepseek-R1-Distill-Llama-70B and nearly matches the full R1](https://huggingface.co/qihoo360/TinyR1-32B-Preview)  🤗 
 - 🌟 [QwQ-32B: Embracing the Power of Reinforcement Learning](https://qwenlm.github.io/blog/qwq-32b/) 
 - [Mistral-Small-Reasoning](https://huggingface.co/yentinglin/Mistral-Small-24B-Instruct-2501-reasoning)  🤗 
 - 🌟 [**OpenSeek**](https://github.com/FlagAI-Open/OpenSeek) - FlagAI-Open ![Star](https://img.shields.io/github/stars/FlagAI-Open/OpenSeek.svg?style=social&label=Star) 
@@ -149,6 +165,10 @@
 
 ## Multilingual Models
 
+- **Babel: Open Multilingual Large Language Models Serving Over 90% of
+  Global Speakers**, `arXiv, 2503.00865`, [arxiv](http://arxiv.org/abs/2503.00865v1), [pdf](http://arxiv.org/pdf/2503.00865v1.pdf), cication: [**-1**](None) 
+
+	 *Yiran Zhao, Chaoqun Liu, Yue Deng, ..., Deli Zhao, Wenxuan Zhang*
 - **Kanana: Compute-efficient Bilingual Language Models**, `arXiv, 2502.18934`, [arxiv](http://arxiv.org/abs/2502.18934v3), [pdf](http://arxiv.org/pdf/2502.18934v3.pdf), cication: [**-1**](None) 
 
 	 *Kanana LLM Team, Yunju Bak, Hojin Lee, ..., Shinbok Lee, Gaeun Seo* · ([huggingface](https://huggingface.co/collections/kakaocorp/kanana-nano-21b-67a326cda1c449c8d4172259)) · ([kanana](https://github.com/kakao/kanana) - kakao) ![Star](https://img.shields.io/github/stars/kakao/kanana.svg?style=social&label=Star)

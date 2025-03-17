@@ -13,7 +13,14 @@
 
 ## Long Context
 
-- **LongWriter-V: Enabling Ultra-Long and High-Fidelity Generation in
+- **Q-Filters: Leveraging QK Geometry for Efficient KV Cache Compression**, `arXiv, 2503.02812`, [arxiv](http://arxiv.org/abs/2503.02812v1), [pdf](http://arxiv.org/pdf/2503.02812v1.pdf), cication: [**-1**](None) 
+
+	 *Nathan Godey, Alessio Devoto, Yu Zhao, ..., Éric de la Clergerie, Benoît Sagot* · ([𝕏](https://x.com/nthngdy/status/1897301390470603245))
+- **From Hours to Minutes: Lossless Acceleration of Ultra Long Sequence
+  Generation up to 100K Tokens**, `arXiv, 2502.18890`, [arxiv](http://arxiv.org/abs/2502.18890v1), [pdf](http://arxiv.org/pdf/2502.18890v1.pdf), cication: [**-1**](None) 
+
+	 *Tong Wu, Junzhe Shen, Zixia Jia, ..., Yuxuan Wang, Zilong Zheng* · ([TokenSwift](https://github.com/bigai-nlco/TokenSwift) - bigai-nlco) ![Star](https://img.shields.io/github/stars/bigai-nlco/TokenSwift.svg?style=social&label=Star) · ([arxiv](https://arxiv.org/abs/2502.18890)) · ([huggingface](https://huggingface.co/TokenSwift))
+- **LongWriter-V: Enabling Ultra-Long and High-Fidelity Generation in 
   Vision-Language Models**, `arXiv, 2502.14834`, [arxiv](http://arxiv.org/abs/2502.14834v1), [pdf](http://arxiv.org/pdf/2502.14834v1.pdf), cication: [**-1**](None) 
 
 	 *Shangqing Tu, Yucheng Wang, Daniel Zhang-Li, ..., Bin Xu, Juanzi Li*

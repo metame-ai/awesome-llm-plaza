@@ -13,7 +13,7 @@
 
 ## World Model
 
-- **MaskGWM: A Generalizable Driving World Model with Video Mask
+- **MaskGWM: A Generalizable Driving World Model with Video Mask 
   Reconstruction**, `arXiv, 2502.11663`, [arxiv](http://arxiv.org/abs/2502.11663v1), [pdf](http://arxiv.org/pdf/2502.11663v1.pdf), cication: [**-1**](None) 
 
 	 *Jingcheng Ni, Yuxin Guo, Yichen Liu, ..., Lewei Lu, Zehuan Wu* · ([sensetime-fvg.github](https://sensetime-fvg.github.io/MaskGWM)) · ([OpenDWM](https://github.com/SenseTime-FVG/OpenDWM) - SenseTime-FVG) ![Star](https://img.shields.io/github/stars/SenseTime-FVG/OpenDWM.svg?style=social&label=Star)
@@ -69,6 +69,7 @@
 
 ## AGI Insights
 
+- [Can lossless information compression by itself produce intelligent behavior?](https://iliao2345.github.io/blog_posts/arc_agi_without_pretraining/arc_agi_without_pretraining.html) 
 - **Automated Capability Discovery via Model Self-Exploration**, `arXiv, 2502.07577`, [arxiv](http://arxiv.org/abs/2502.07577v2), [pdf](http://arxiv.org/pdf/2502.07577v2.pdf), cication: [**-1**](None) 
 
 	 *Cong Lu, Shengran Hu, Jeff Clune* · ([ACD](https://github.com/conglu1997/ACD?tab=readme-ov-file) - conglu1997) ![Star](https://img.shields.io/github/stars/conglu1997/ACD.svg?style=social&label=Star)

@@ -14,15 +14,16 @@
 
 ## Survey
 
+- 🌟 [WebAgentLab is building an open-source community focused on Web Agent and the broader GUI Agent field.](https://webagentlab.notion.site/homepage) 
 - [UI Agents（智能体）技术综述](https://www.breezedeus.com/article/ui-agent) 
 
 ## GUI Agent
 
-- **PC-Agent: A Hierarchical Multi-Agent Collaboration Framework for Complex
+- **PC-Agent: A Hierarchical Multi-Agent Collaboration Framework for Complex 
   Task Automation on PC**, `arXiv, 2502.14282`, [arxiv](http://arxiv.org/abs/2502.14282v2), [pdf](http://arxiv.org/pdf/2502.14282v2.pdf), cication: [**-1**](None) 
 
 	 *Haowei Liu, Xi Zhang, Haiyang Xu, ..., Weiming Hu, Fei Huang* · ([MobileAgent](https://github.com/X-PLUG/MobileAgent/tree/main/PC-Agent.) - X-PLUG) ![Star](https://img.shields.io/github/stars/X-PLUG/MobileAgent.svg?style=social&label=Star)
-- **VEM: Environment-Free Exploration for Training GUI Agent with Value
+- **VEM: Environment-Free Exploration for Training GUI Agent with Value 
   Environment Model**, `arXiv, 2502.18906`, [arxiv](http://arxiv.org/abs/2502.18906v1), [pdf](http://arxiv.org/pdf/2502.18906v1.pdf), cication: [**-1**](None) 
 
 	 *Jiani Zheng, Lu Wang, Fangkai Yang, ..., Saravan Rajmohan, Qi Zhang*
@@ -60,6 +61,9 @@
 
 ## Evaluation
 
+- **SafeArena: Evaluating the Safety of Autonomous Web Agents**, `arXiv, 2503.04957`, [arxiv](http://arxiv.org/abs/2503.04957v1), [pdf](http://arxiv.org/pdf/2503.04957v1.pdf), cication: [**-1**](None) 
+
+	 *Ada Defne Tur, Nicholas Meade, Xing Han Lù, ..., Karolina Stańczak, Siva Reddy* · ([safearena.github](https://safearena.github.io))
 - **WebGames: Challenging General-Purpose Web-Browsing AI Agents**, `arXiv, 2502.18356`, [arxiv](http://arxiv.org/abs/2502.18356v1), [pdf](http://arxiv.org/pdf/2502.18356v1.pdf), cication: [**-1**](None) 
 
 	 *George Thomas, Alex J. Chan, Jikun Kang, ..., Andy Toulis, Marvin Purtorab* · ([webgames.convergence](https://webgames.convergence.ai/))
@@ -143,8 +147,11 @@
 	 *Linlu Qiu, Liwei Jiang, Ximing Lu, ..., Nouha Dziri, Xiang Ren*
 ## Projects
 
-- [**GamingAgent**](https://github.com/lmgame-org/GamingAgent) - lmgame-org ![Star](https://img.shields.io/github/stars/lmgame-org/GamingAgent.svg?style=social&label=Star)
-- [**GUI-Agents-Paper-List**](https://github.com/OSU-NLP-Group/GUI-Agents-Paper-List) - OSU-NLP-Group ![Star](https://img.shields.io/github/stars/OSU-NLP-Group/GUI-Agents-Paper-List.svg?style=social&label=Star)
+- [**pydoll**](https://github.com/thalissonvs/pydoll) - thalissonvs ![Star](https://img.shields.io/github/stars/thalissonvs/pydoll.svg?style=social&label=Star)
+
+	 *Async Web Automation in Python!*
+- [**GamingAgent**](https://github.com/lmgame-org/GamingAgent) - lmgame-org ![Star](https://img.shields.io/github/stars/lmgame-org/GamingAgent.svg?style=social&label=Star) 
+- [**GUI-Agents-Paper-List**](https://github.com/OSU-NLP-Group/GUI-Agents-Paper-List) - OSU-NLP-Group ![Star](https://img.shields.io/github/stars/OSU-NLP-Group/GUI-Agents-Paper-List.svg?style=social&label=Star) 
 - [Tell your MacBook what to do, and it's done—across ANY app.](https://github.com/browser-use/macOS-use)- [**Awesome-GUI-Agent**](https://github.com/showlab/Awesome-GUI-Agent) - showlab ![Star](https://img.shields.io/github/stars/showlab/Awesome-GUI-Agent.svg?style=social&label=Star) 
 ## Toolkits
 - 🌟 [**UI-TARS-desktop**](https://github.com/bytedance/UI-TARS-desktop) - bytedance ![Star](https://img.shields.io/github/stars/bytedance/UI-TARS-desktop.svg?style=social&label=Star) 
