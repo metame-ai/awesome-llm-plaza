@@ -19,6 +19,7 @@
 
 ## GUI Agent
 
+- [CS 194/294-280 (Advanced LLM Agents) - Lecture 7, Caiming Xiong](https://www.youtube.com/watch?v=n__Tim8K2IY)  :clapper:
 - **PC-Agent: A Hierarchical Multi-Agent Collaboration Framework for Complex 
   Task Automation on PC**, `arXiv, 2502.14282`, [arxiv](http://arxiv.org/abs/2502.14282v2), [pdf](http://arxiv.org/pdf/2502.14282v2.pdf), cication: [**-1**](None) 
 
@@ -61,6 +62,7 @@
 
 ## Evaluation
 
+- [⚔️ Computer Agent Arena: Compare & Test AI Agents on Crowdsourced Real-World Computer Use Tasks](https://arena.xlang.ai/) 
 - **SafeArena: Evaluating the Safety of Autonomous Web Agents**, `arXiv, 2503.04957`, [arxiv](http://arxiv.org/abs/2503.04957v1), [pdf](http://arxiv.org/pdf/2503.04957v1.pdf), cication: [**-1**](None) 
 
 	 *Ada Defne Tur, Nicholas Meade, Xing Han Lù, ..., Karolina Stańczak, Siva Reddy* · ([safearena.github](https://safearena.github.io))
@@ -147,7 +149,10 @@
 	 *Linlu Qiu, Liwei Jiang, Ximing Lu, ..., Nouha Dziri, Xiang Ren*
 ## Projects
 
-- [**pydoll**](https://github.com/thalissonvs/pydoll) - thalissonvs ![Star](https://img.shields.io/github/stars/thalissonvs/pydoll.svg?style=social&label=Star)
+- [**computer-agent-arena-hub**](https://github.com/xlang-ai/computer-agent-arena-hub) - xlang-ai ![Star](https://img.shields.io/github/stars/xlang-ai/computer-agent-arena-hub.svg?style=social&label=Star)
+
+	 · ([arena.xlang](https://arena.xlang.ai/))
+- [**pydoll**](https://github.com/thalissonvs/pydoll) - thalissonvs ![Star](https://img.shields.io/github/stars/thalissonvs/pydoll.svg?style=social&label=Star) 
 
 	 *Async Web Automation in Python!*
 - [**GamingAgent**](https://github.com/lmgame-org/GamingAgent) - lmgame-org ![Star](https://img.shields.io/github/stars/lmgame-org/GamingAgent.svg?style=social&label=Star) 

@@ -34,25 +34,35 @@
 
 ## Agents
 
+- [Agent TARS](https://agent-tars.com/) 
+
+	 · ([UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop/blob/main/apps/agent-tars/README.md) - bytedance) ![Star](https://img.shields.io/github/stars/bytedance/UI-TARS-desktop.svg?style=social&label=Star)
+- **SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning
+  Tasks**, `arXiv, 2503.15478`, [arxiv](http://arxiv.org/abs/2503.15478v1), [pdf](http://arxiv.org/pdf/2503.15478v1.pdf), cication: [**-1**](None) 
+
+	 *Yifei Zhou, Song Jiang, Yuandong Tian, ..., Sainbayar Sukhbaatar, Xian Li* · ([sweet_rl](https://github.com/facebookresearch/sweet_rl?tab=readme-ov-file) - facebookresearch) ![Star](https://img.shields.io/github/stars/facebookresearch/sweet_rl.svg?style=social&label=Star)
+- **AgentRM: Enhancing Agent Generalization with Reward Modeling**, `arXiv, 2502.18407`, [arxiv](http://arxiv.org/abs/2502.18407v1), [pdf](http://arxiv.org/pdf/2502.18407v1.pdf), cication: [**-1**](None) 
+
+	 *Yu Xia, Jingru Fan, Weize Chen, ..., Zhiyuan Liu, Maosong Sun*
 - [Manus火到国外？网友实测惊呆！00后博士生0天复刻霸榜开源第一                                                                                                                            新智元                                                                                                                              新智元                                           新智元 北京中经智元科技发展有限公司 智能+中国主平台，致力于推动中国从互联网+迈向智能+新纪元。重点关注人工智能、机器人等前沿领域发展，关注人机融合、人工智能和机器人革命对人类社会与文明进化的影响，领航中国新智能时代。 2396篇原创内容                                                  2025年03月08日 20:10              北京](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652573699&idx=1&sn=ceacd991bd69e7d7a6ee900834fba7c0&chksm=f031ac4dae7aace929201c67c3ca872afdd9c55d5f75c99c8a647bbf878fa7be06bb8404d173&scene=0&xtrack=1) 
 
 	 · ([𝕏](https://x.com/rowancheung/status/1898093008601395380)) · ([zhihu](https://www.zhihu.com/question/14321968965/answer/118909642460?utm_psn=1881718882974277756)) · ([zhihu](https://www.zhihu.com/question/14321968965/answer/119354825165?utm_psn=1881718964490576322)) · ([zhihu](https://www.zhihu.com/question/14321968965/answer/119439606999))
-- [smolagents  / smolagents-leaderboard](https://huggingface.co/spaces/smolagents/smolagents-leaderboard)  🤗
+- [smolagents  / smolagents-leaderboard](https://huggingface.co/spaces/smolagents/smolagents-leaderboard)  🤗 
 - **PokéChamp: an Expert-level Minimax Language Agent**, `arXiv, 2503.04094`, [arxiv](http://arxiv.org/abs/2503.04094v1), [pdf](http://arxiv.org/pdf/2503.04094v1.pdf), cication: [**-1**](None) 
 
 	 *Seth Karten, Andy Luu Nguyen, Chi Jin* · ([sites.google](https://sites.google.com/view/pokechamp-llm)) · ([𝕏](https://x.com/sethkarten/status/1898035116674285718))
 - 🌟 **Executable Code Actions Elicit Better LLM Agents**, `arXiv, 2402.01030`, [arxiv](http://arxiv.org/abs/2402.01030v4), [pdf](http://arxiv.org/pdf/2402.01030v4.pdf), cication: [**-1**](None) 
 
 	 *Xingyao Wang, Yangyi Chen, Lifan Yuan, ..., Hao Peng, Heng Ji*
-- **Search-R1: Training LLMs to Reason and Leverage Search Engines with
+- **Search-R1: Training LLMs to Reason and Leverage Search Engines with 
   Reinforcement Learning**, `arXiv, 2503.09516`, [arxiv](http://arxiv.org/abs/2503.09516v1), [pdf](http://arxiv.org/pdf/2503.09516v1.pdf), cication: [**-1**](None) 
 
 	 *Bowen Jin, Hansi Zeng, Zhenrui Yue, ..., Hamed Zamani, Jiawei Han* · ([Search-R1](https://github.com/PeterGriffinJin/Search-R1) - PeterGriffinJin) ![Star](https://img.shields.io/github/stars/PeterGriffinJin/Search-R1.svg?style=social&label=Star)
-- **R1-Searcher: Incentivizing the Search Capability in LLMs via
+- **R1-Searcher: Incentivizing the Search Capability in LLMs via 
   Reinforcement Learning**, `arXiv, 2503.05592`, [arxiv](http://arxiv.org/abs/2503.05592v1), [pdf](http://arxiv.org/pdf/2503.05592v1.pdf), cication: [**-1**](None) 
 
 	 *Huatong Song, Jinhao Jiang, Yingqian Min, ..., Lei Fang, Ji-Rong Wen*
-- 🌟 **DeepSolution: Boosting Complex Engineering Solution Design via
+- 🌟 **DeepSolution: Boosting Complex Engineering Solution Design via 
   Tree-based Exploration and Bi-point Thinking**, `arXiv, 2502.20730`, [arxiv](http://arxiv.org/abs/2502.20730v1), [pdf](http://arxiv.org/pdf/2502.20730v1.pdf), cication: [**-1**](None) 
 
 	 *Zhuoqun Li, Haiyang Yu, Xuanang Chen, ..., Yongbin Li, Le Sun* · ([DeepSolution](https://github.com/Li-Z-Q/DeepSolution) - Li-Z-Q) ![Star](https://img.shields.io/github/stars/Li-Z-Q/DeepSolution.svg?style=social&label=Star)
@@ -292,7 +302,7 @@
 
 ## Evaluation
 
-- **MultiAgentBench: Evaluating the Collaboration and Competition of LLM
+- **MultiAgentBench: Evaluating the Collaboration and Competition of LLM 
   agents**, `arXiv, 2503.01935`, [arxiv](http://arxiv.org/abs/2503.01935v1), [pdf](http://arxiv.org/pdf/2503.01935v1.pdf), cication: [**-1**](None) 
 
 	 *Kunlun Zhu, Hongyi Du, Zhaochen Hong, ..., Heng Ji, Jiaxuan You* · ([MARBLE.](https://github.com/MultiagentBench/MARBLE.) - MultiagentBench) ![Star](https://img.shields.io/github/stars/MultiagentBench/MARBLE..svg?style=social&label=Star)
@@ -310,19 +320,19 @@
 
 ## Projects
 
-- [**OpenManus**](https://github.com/mannaandpoem/OpenManus) - mannaandpoem ![Star](https://img.shields.io/github/stars/mannaandpoem/OpenManus.svg?style=social&label=Star)
-- 🌟 [**owl**](https://github.com/camel-ai/owl) - camel-ai ![Star](https://img.shields.io/github/stars/camel-ai/owl.svg?style=social&label=Star)
+- [**OpenManus**](https://github.com/mannaandpoem/OpenManus) - mannaandpoem ![Star](https://img.shields.io/github/stars/mannaandpoem/OpenManus.svg?style=social&label=Star) 
+- 🌟 [**owl**](https://github.com/camel-ai/owl) - camel-ai ![Star](https://img.shields.io/github/stars/camel-ai/owl.svg?style=social&label=Star) 
 
 	 *Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation*
-- [**OpenManus-RL**](https://github.com/OpenManus/OpenManus-RL) - OpenManus ![Star](https://img.shields.io/github/stars/OpenManus/OpenManus-RL.svg?style=social&label=Star)
-- 🌟 [**AutoDidact**](https://github.com/dCaples/AutoDidact) - dCaples ![Star](https://img.shields.io/github/stars/dCaples/AutoDidact.svg?style=social&label=Star)
+- [**OpenManus-RL**](https://github.com/OpenManus/OpenManus-RL) - OpenManus ![Star](https://img.shields.io/github/stars/OpenManus/OpenManus-RL.svg?style=social&label=Star) 
+- 🌟 [**AutoDidact**](https://github.com/dCaples/AutoDidact) - dCaples ![Star](https://img.shields.io/github/stars/dCaples/AutoDidact.svg?style=social&label=Star) 
 
 	 *Bootstrapping Search Through Self-Verification*
-- [**mcp-agent**](https://github.com/lastmile-ai/mcp-agent) - lastmile-ai ![Star](https://img.shields.io/github/stars/lastmile-ai/mcp-agent.svg?style=social&label=Star)
-- [**agno**](https://github.com/agno-agi/agno) - agno-agi ![Star](https://img.shields.io/github/stars/agno-agi/agno.svg?style=social&label=Star)
-- [**awesome-mcp-servers**](https://github.com/punkpeye/awesome-mcp-servers) - punkpeye ![Star](https://img.shields.io/github/stars/punkpeye/awesome-mcp-servers.svg?style=social&label=Star)
-- [**camel**](https://github.com/camel-ai/camel) - camel-ai ![Star](https://img.shields.io/github/stars/camel-ai/camel.svg?style=social&label=Star)
-- [**AgenticMemory**](https://github.com/WujiangXu/AgenticMemory) - WujiangXu ![Star](https://img.shields.io/github/stars/WujiangXu/AgenticMemory.svg?style=social&label=Star)
+- [**mcp-agent**](https://github.com/lastmile-ai/mcp-agent) - lastmile-ai ![Star](https://img.shields.io/github/stars/lastmile-ai/mcp-agent.svg?style=social&label=Star) 
+- [**agno**](https://github.com/agno-agi/agno) - agno-agi ![Star](https://img.shields.io/github/stars/agno-agi/agno.svg?style=social&label=Star) 
+- [**awesome-mcp-servers**](https://github.com/punkpeye/awesome-mcp-servers) - punkpeye ![Star](https://img.shields.io/github/stars/punkpeye/awesome-mcp-servers.svg?style=social&label=Star) 
+- [**camel**](https://github.com/camel-ai/camel) - camel-ai ![Star](https://img.shields.io/github/stars/camel-ai/camel.svg?style=social&label=Star) 
+- [**AgenticMemory**](https://github.com/WujiangXu/AgenticMemory) - WujiangXu ![Star](https://img.shields.io/github/stars/WujiangXu/AgenticMemory.svg?style=social&label=Star) 
 - [**vision-agent**](https://github.com/landing-ai/vision-agent) - landing-ai ![Star](https://img.shields.io/github/stars/landing-ai/vision-agent.svg?style=social&label=Star) 
 - [**MetaChain**](https://github.com/HKUDS/MetaChain) - HKUDS ![Star](https://img.shields.io/github/stars/HKUDS/MetaChain.svg?style=social&label=Star) 
 
@@ -362,6 +372,9 @@
 
 ## Misc
 
+- [The "think" tool: Enabling Claude to stop and think in complex tool use situations](https://www.anthropic.com/engineering/claude-think-tool) 
+
+	 · ([𝕏](https://x.com/alexalbert__/status/1903130655564922911))
 - [Language Agents (Shunyu Yao PhD Defense)](https://www.youtube.com/watch?v=zwfE6J2BIR4)  :clapper: 
 - [Agents](https://www.kaggle.com/whitepaper-agents) 
 - [Anthropic总结智能体年度经验：最成功的≠最复杂的](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650949769&idx=3&sn=4108a7288e67fbafd3b28a8f3529c8c1&chksm=853c2ced6c02fbac07c008c489ee3b5f6888f77c36e6d48adbdeb1d232a7cc8d1c6a58b9a1c1&scene=0&xtrack=1) 

@@ -137,6 +137,9 @@
 
 ## Role Play
 
+- **CoSER: Coordinating LLM-Based Persona Simulation of Established Roles**, `arXiv, 2502.09082`, [arxiv](http://arxiv.org/abs/2502.09082v1), [pdf](http://arxiv.org/pdf/2502.09082v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=12696434920560813341&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII) 
+
+	 *Xintao Wang, Heng Wang, Yifei Zhang, ..., Yanghua Xiao, Shuchang Zhou* · ([arxiv](https://arxiv.org/pdf/2502.09082)) · ([COSER](https://github.com/Neph0s/COSER) - Neph0s) ![Star](https://img.shields.io/github/stars/Neph0s/COSER.svg?style=social&label=Star)
 - **OpenCharacter: Training Customizable Role-Playing LLMs with Large-Scale 
   Synthetic Personas**, `arXiv, 2501.15427`, [arxiv](http://arxiv.org/abs/2501.15427v1), [pdf](http://arxiv.org/pdf/2501.15427v1.pdf), cication: [**-1**](None) 
 
@@ -287,8 +290,8 @@
 
 ## UI
 
-- [**AstrBot**](https://github.com/Soulter/AstrBot) - Soulter ![Star](https://img.shields.io/github/stars/Soulter/AstrBot.svg?style=social&label=Star)
-- [**wechat-bot**](https://github.com/wangrongding/wechat-bot) - wangrongding ![Star](https://img.shields.io/github/stars/wangrongding/wechat-bot.svg?style=social&label=Star)
+- [**AstrBot**](https://github.com/Soulter/AstrBot) - Soulter ![Star](https://img.shields.io/github/stars/Soulter/AstrBot.svg?style=social&label=Star) 
+- [**wechat-bot**](https://github.com/wangrongding/wechat-bot) - wangrongding ![Star](https://img.shields.io/github/stars/wangrongding/wechat-bot.svg?style=social&label=Star) 
 - [MonsterUI: Beautiful Python Web Apps in Minutes](https://www.youtube.com/watch?v=EtZ4pEzPMcc)  :clapper: 
 
 	 · ([𝕏](https://x.com/isaac_flath/status/1889409120580841865)) · ([monsterui.answer](https://monsterui.answer.ai/))
@@ -315,9 +318,9 @@
 
 ## Projects
 
-- [**interview-coder**](https://github.com/ibttf/interview-coder) - ibttf ![Star](https://img.shields.io/github/stars/ibttf/interview-coder.svg?style=social&label=Star)
-- [**open_deep_research**](https://github.com/langchain-ai/open_deep_research) - langchain-ai ![Star](https://img.shields.io/github/stars/langchain-ai/open_deep_research.svg?style=social&label=Star)
-- [**llm-scraper**](https://github.com/mishushakov/llm-scraper) - mishushakov ![Star](https://img.shields.io/github/stars/mishushakov/llm-scraper.svg?style=social&label=Star)
+- [**interview-coder**](https://github.com/ibttf/interview-coder) - ibttf ![Star](https://img.shields.io/github/stars/ibttf/interview-coder.svg?style=social&label=Star) 
+- [**open_deep_research**](https://github.com/langchain-ai/open_deep_research) - langchain-ai ![Star](https://img.shields.io/github/stars/langchain-ai/open_deep_research.svg?style=social&label=Star) 
+- [**llm-scraper**](https://github.com/mishushakov/llm-scraper) - mishushakov ![Star](https://img.shields.io/github/stars/mishushakov/llm-scraper.svg?style=social&label=Star) 
 - [**introspect**](https://github.com/defog-ai/introspect) - defog-ai ![Star](https://img.shields.io/github/stars/defog-ai/introspect.svg?style=social&label=Star) 
 
 	 *Deep Research for your internal data* · ([𝕏](https://x.com/rishdotblog/status/1896628318268731718))

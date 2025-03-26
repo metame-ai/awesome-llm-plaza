@@ -56,10 +56,10 @@
 
 ## Vision-Language Models
 
-- [Gemma3 - 27B, 12B, 4B & 1B - 128K context, multimodal AND multilingual!](https://x.com/reach_vb/status/1899728796586025282)  𝕏
+- [Gemma3 - 27B, 12B, 4B & 1B - 128K context, multimodal AND multilingual!](https://x.com/reach_vb/status/1899728796586025282)  𝕏 
 
 	 · ([huggingface](https://huggingface.co/collections/google/gemma-3-release-67c6c6f89c4f76621268bb6d)) · ([developers.googleblog](https://developers.googleblog.com/en/introducing-gemma3/))
-- [Aya Vision is a state-of-the-art family of vision models that brings multimodal capabilities to 23 languages.    Upvote 64   +54](https://huggingface.co/collections/CohereForAI/c4ai-aya-vision-67c4ccd395ca064308ee1484)  🤗
+- [Aya Vision is a state-of-the-art family of vision models that brings multimodal capabilities to 23 languages.    Upvote 64   +54](https://huggingface.co/collections/CohereForAI/c4ai-aya-vision-67c4ccd395ca064308ee1484)  🤗 
 - **LongWriter-V: Enabling Ultra-Long and High-Fidelity Generation in 
   Vision-Language Models**, `arXiv, 2502.14834`, [arxiv](http://arxiv.org/abs/2502.14834v1), [pdf](http://arxiv.org/pdf/2502.14834v1.pdf), cication: [**-1**](None) 
 
@@ -191,7 +191,7 @@
 - 🌟 **Token-Efficient Long Video Understanding for Multimodal LLMs**, `arXiv, 2503.04130`, [arxiv](http://arxiv.org/abs/2503.04130v1), [pdf](http://arxiv.org/pdf/2503.04130v1.pdf), cication: [**-1**](None) 
 
 	 *Jindong Jiang, Xiuyu Li, Zhijian Liu, ..., Song Han, Wonmin Byeon*
-- **HumanOmni: A Large Vision-Speech Language Model for Human-Centric Video
+- **HumanOmni: A Large Vision-Speech Language Model for Human-Centric Video 
   Understanding**, `arXiv, 2501.15111`, [arxiv](http://arxiv.org/abs/2501.15111v1), [pdf](http://arxiv.org/pdf/2501.15111v1.pdf), cication: [**-1**](None) 
 
 	 *Jiaxing Zhao, Qize Yang, Yixing Peng, ..., Xihan Wei, Liefeng Bo* · ([HumanOmni](https://github.com/HumanMLLM/HumanOmni?tab=readme-ov-file) - HumanMLLM) ![Star](https://img.shields.io/github/stars/HumanMLLM/HumanOmni.svg?style=social&label=Star)
@@ -411,34 +411,37 @@
 
 ## Reasoning
 
+- [**Skywork-R1V**](https://github.com/SkyworkAI/Skywork-R1V) - SkyworkAI ![Star](https://img.shields.io/github/stars/SkyworkAI/Skywork-R1V.svg?style=social&label=Star)
+
+	 *Pioneering Multimodal Reasoning with CoT* · ([huggingface](https://huggingface.co/Skywork/Skywork-R1V-38B)) · ([Skywork-R1V](https://github.com/SkyworkAI/Skywork-R1V) - SkyworkAI) ![Star](https://img.shields.io/github/stars/SkyworkAI/Skywork-R1V.svg?style=social&label=Star)
 - **Tuning computer vision models with task rewards**, `arXiv, 2302.08242`, [arxiv](http://arxiv.org/abs/2302.08242v1), [pdf](http://arxiv.org/pdf/2302.08242v1.pdf), cication: [**-1**](None) 
 
 	 *André Susano Pinto, Alexander Kolesnikov, Yuge Shi, ..., Lucas Beyer, Xiaohua Zhai* · ([𝕏](https://x.com/__kolesnikov__/status/1626546150579879936))
-- **Vision-R1: Incentivizing Reasoning Capability in Multimodal Large
+- **Vision-R1: Incentivizing Reasoning Capability in Multimodal Large 
   Language Models**, `arXiv, 2503.06749`, [arxiv](http://arxiv.org/abs/2503.06749v2), [pdf](http://arxiv.org/pdf/2503.06749v2.pdf), cication: [**-1**](None) 
 
 	 *Wenxuan Huang, Bohan Jia, Zijie Zhai, ..., Yao Hu, Shaohui Lin* · ([Vision-R1](https://github.com/Osilly/Vision-R1) - Osilly) ![Star](https://img.shields.io/github/stars/Osilly/Vision-R1.svg?style=social&label=Star)
-- [**MMR1**](https://github.com/LengSicong/MMR1) - LengSicong ![Star](https://img.shields.io/github/stars/LengSicong/MMR1.svg?style=social&label=Star)
-- **R1-Omni: Explainable Omni-Multimodal Emotion Recognition with
+- [**MMR1**](https://github.com/LengSicong/MMR1) - LengSicong ![Star](https://img.shields.io/github/stars/LengSicong/MMR1.svg?style=social&label=Star) 
+- **R1-Omni: Explainable Omni-Multimodal Emotion Recognition with 
   Reinforcement Learning**, `arXiv, 2503.05379`, [arxiv](http://arxiv.org/abs/2503.05379v2), [pdf](http://arxiv.org/pdf/2503.05379v2.pdf), cication: [**-1**](None) 
 
 	 *Jiaxing Zhao, Xihan Wei, Liefeng Bo* · ([arxiv](https://arxiv.org/abs/2503.05379)) · ([R1-Omni](https://github.com/HumanMLLM/R1-Omni) - HumanMLLM) ![Star](https://img.shields.io/github/stars/HumanMLLM/R1-Omni.svg?style=social&label=Star)
-- 🌟 **LMM-R1: Empowering 3B LMMs with Strong Reasoning Abilities Through
+- 🌟 **LMM-R1: Empowering 3B LMMs with Strong Reasoning Abilities Through 
   Two-Stage Rule-Based RL**, `arXiv, 2503.07536`, [arxiv](http://arxiv.org/abs/2503.07536v2), [pdf](http://arxiv.org/pdf/2503.07536v2.pdf), cication: [**-1**](None) 
 
 	 *Yingzhe Peng, Gongrui Zhang, Miaosen Zhang, ..., Xin Geng, Xu Yang* · ([lmm-r1](https://github.com/TideDra/lmm-r1) - TideDra) ![Star](https://img.shields.io/github/stars/TideDra/lmm-r1.svg?style=social&label=Star)
-- **Seg-Zero: Reasoning-Chain Guided Segmentation via Cognitive
+- **Seg-Zero: Reasoning-Chain Guided Segmentation via Cognitive 
   Reinforcement**, `arXiv, 2503.06520`, [arxiv](http://arxiv.org/abs/2503.06520v1), [pdf](http://arxiv.org/pdf/2503.06520v1.pdf), cication: [**-1**](None) 
 
 	 *Yuqi Liu, Bohao Peng, Zhisheng Zhong, ..., Bei Yu, Jiaya Jia* · ([Seg-Zero.](https://github.com/dvlab-research/Seg-Zero.) - dvlab-research) ![Star](https://img.shields.io/github/stars/dvlab-research/Seg-Zero..svg?style=social&label=Star)
-- **R1-Onevision: Advancing Generalized Multimodal Reasoning through
+- **R1-Onevision: Advancing Generalized Multimodal Reasoning through 
   Cross-Modal Formalization**, `arXiv, 2503.10615`, [arxiv](http://arxiv.org/abs/2503.10615v1), [pdf](http://arxiv.org/pdf/2503.10615v1.pdf), cication: [**-1**](None) 
 
 	 *Yi Yang, Xiaoxuan He, Hongkun Pan, ..., Bo Zhang, Wei Chen* · ([R1-onevision](https://github.com/Fancy-MLLM/R1-onevision?tab=readme-ov-file) - Fancy-MLLM) ![Star](https://img.shields.io/github/stars/Fancy-MLLM/R1-onevision.svg?style=social&label=Star)
 - **VisualPRM: An Effective Process Reward Model for Multimodal Reasoning**, `arXiv, 2503.10291`, [arxiv](http://arxiv.org/abs/2503.10291v1), [pdf](http://arxiv.org/pdf/2503.10291v1.pdf), cication: [**-1**](None) 
 
 	 *Weiyun Wang, Zhangwei Gao, Lianjie Chen, ..., Jifeng Dai, Wenhai Wang* · ([internvl.github](https://internvl.github.io/blog/2025-03-13-VisualPRM/))
-- 🌟 **MM-Eureka: Exploring Visual Aha Moment with Rule-based Large-scale
+- 🌟 **MM-Eureka: Exploring Visual Aha Moment with Rule-based Large-scale 
   Reinforcement Learning**, `arXiv, 2503.07365`, [arxiv](http://arxiv.org/abs/2503.07365v1), [pdf](http://arxiv.org/pdf/2503.07365v1.pdf), cication: [**-1**](None) 
 
 	 *Fanqing Meng, Lingxiao Du, Zongkai Liu, ..., Qiaosheng Zhang, Wenqi Shao* · ([MM-EUREKA](https://github.com/ModalMinds/MM-EUREKA) - ModalMinds) ![Star](https://img.shields.io/github/stars/ModalMinds/MM-EUREKA.svg?style=social&label=Star)
@@ -658,11 +661,12 @@
 
 ## Generation
 
-- **GoT: Unleashing Reasoning Capability of Multimodal Large Language Model
+- [Introducing 4o Image Generation](https://openai.com/index/introducing-4o-image-generation/) 
+- **GoT: Unleashing Reasoning Capability of Multimodal Large Language Model 
   for Visual Generation and Editing**, `arXiv, 2503.10639`, [arxiv](http://arxiv.org/abs/2503.10639v1), [pdf](http://arxiv.org/pdf/2503.10639v1.pdf), cication: [**-1**](None) 
 
 	 *Rongyao Fang, Chengqi Duan, Kun Wang, ..., Xihui Liu, Hongsheng Li* · ([GoT.](https://github.com/rongyaofang/GoT.) - rongyaofang) ![Star](https://img.shields.io/github/stars/rongyaofang/GoT..svg?style=social&label=Star)
-- **OmniMamba: Efficient and Unified Multimodal Understanding and Generation
+- **OmniMamba: Efficient and Unified Multimodal Understanding and Generation 
   via State Space Models**, `arXiv, 2503.08686`, [arxiv](http://arxiv.org/abs/2503.08686v1), [pdf](http://arxiv.org/pdf/2503.08686v1.pdf), cication: [**-1**](None) 
 
 	 *Jialv Zou, Bencheng Liao, Qian Zhang, ..., Wenyu Liu, Xinggang Wang* · ([OmniMamba](https://github.com/hustvl/OmniMamba) - hustvl) ![Star](https://img.shields.io/github/stars/hustvl/OmniMamba.svg?style=social&label=Star)
@@ -737,11 +741,11 @@
 
 ## Dataset
 
-- **VisualWebInstruct: Scaling up Multimodal Instruction Data through Web
+- **VisualWebInstruct: Scaling up Multimodal Instruction Data through Web 
   Search**, `arXiv, 2503.10582`, [arxiv](http://arxiv.org/abs/2503.10582v1), [pdf](http://arxiv.org/pdf/2503.10582v1.pdf), cication: [**-1**](None) 
 
 	 *Yiming Jia, Jiachen Li, Xiang Yue, ..., Kai Zou, Wenhu Chen*
-- **Crowdsource, Crawl, or Generate? Creating SEA-VL, a Multicultural
+- **Crowdsource, Crawl, or Generate? Creating SEA-VL, a Multicultural 
   Vision-Language Dataset for Southeast Asia**, `arXiv, 2503.07920`, [arxiv](http://arxiv.org/abs/2503.07920v1), [pdf](http://arxiv.org/pdf/2503.07920v1.pdf), cication: [**-1**](None) 
 
 	 *Samuel Cahyawijaya, Holy Lovenia, Joel Ruben Antony Moniz, ..., Börje F. Karlsson, Peerat Limkonchotiwat*

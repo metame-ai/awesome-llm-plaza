@@ -13,6 +13,12 @@
 
 ## LLM Models
 
+- **xLSTM 7B: A Recurrent LLM for Fast and Efficient Inference**, `arXiv, 2503.13427`, [arxiv](http://arxiv.org/abs/2503.13427v1), [pdf](http://arxiv.org/pdf/2503.13427v1.pdf), cication: [**-1**](None) 
+
+	 *Maximilian Beck, Korbinian Pöppel, Phillip Lippe, ..., Sebastian Böck, Sepp Hochreiter* · ([xlstm](https://github.com/NX-AI/xlstm) - NX-AI) ![Star](https://img.shields.io/github/stars/NX-AI/xlstm.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/NX-AI/xLSTM-7b))
+- **FFN Fusion: Rethinking Sequential Computation in Large Language Models**, `arXiv, 2503.18908`, [arxiv](http://arxiv.org/abs/2503.18908v1), [pdf](http://arxiv.org/pdf/2503.18908v1.pdf), cication: [**-1**](None) 
+
+	 *Akhiad Bercovich, Mohammad Dabbah, Omri Puny, ..., Ran Zilberstein, Ran El-Yaniv*
 - [Introducing Mercury, the first commercial-scale diffusion large language model](https://www.inceptionlabs.ai/news) 
 
 	 · ([𝕏](https://x.com/InceptionAILabs/status/1894847919624462794))
@@ -84,7 +90,7 @@
 
 ## State Space Model
 
-- [AI21 Jamba 1.6 family of models is state-of-the-art, hybrid SSM-Transformer instruction following foundation models.](https://huggingface.co/ai21labs/AI21-Jamba-Large-1.6)  🤗
+- [AI21 Jamba 1.6 family of models is state-of-the-art, hybrid SSM-Transformer instruction following foundation models.](https://huggingface.co/ai21labs/AI21-Jamba-Large-1.6)  🤗 
 - [What’s Next for Mamba? Towards More Expressive Recurrent Update Rules”](https://sustcsonglin.github.io/) 
 
 ## Projects

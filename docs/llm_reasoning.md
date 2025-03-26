@@ -44,8 +44,9 @@
 
 ## Reasoning
 
+- [Reasoning in the Wild - Wenting Zhao](https://www.youtube.com/watch?v=F3bnOqjG28g)  :clapper:
 - [The State of LLM Reasoning Models](https://magazine.sebastianraschka.com/p/state-of-llm-reasoning-and-inference-scaling) 
-- **Sketch-of-Thought: Efficient LLM Reasoning with Adaptive
+- **Sketch-of-Thought: Efficient LLM Reasoning with Adaptive 
   Cognitive-Inspired Sketching**, `arXiv, 2503.05179`, [arxiv](http://arxiv.org/abs/2503.05179v1), [pdf](http://arxiv.org/pdf/2503.05179v1.pdf), cication: [**-1**](None) 
 
 	 *Simon A. Aytes, Jinheon Baek, Sung Ju Hwang* · ([SoT.](https://www.github.com/SimonAytes/SoT.) - SimonAytes) ![Star](https://img.shields.io/github/stars/SimonAytes/SoT..svg?style=social&label=Star)
@@ -262,7 +263,7 @@
 
 ## Math Reasoning
 
-- [**Online-DPO-R1**](https://github.com/RLHFlow/Online-DPO-R1) - RLHFlow ![Star](https://img.shields.io/github/stars/RLHFlow/Online-DPO-R1.svg?style=social&label=Star)
+- [**Online-DPO-R1**](https://github.com/RLHFlow/Online-DPO-R1) - RLHFlow ![Star](https://img.shields.io/github/stars/RLHFlow/Online-DPO-R1.svg?style=social&label=Star) 
 
 	 *Unlocking Effective Reasoning Without the PPO Overhead*
 - **Big-Math: A Large-Scale, High-Quality Math Dataset for Reinforcement 
@@ -369,7 +370,7 @@
 
 ## O1 Reasoning
 
-- **L1: Controlling How Long A Reasoning Model Thinks With Reinforcement
+- **L1: Controlling How Long A Reasoning Model Thinks With Reinforcement 
   Learning**, `arXiv, 2503.04697`, [arxiv](http://arxiv.org/abs/2503.04697v1), [pdf](http://arxiv.org/pdf/2503.04697v1.pdf), cication: [**-1**](None) 
 
 	 *Pranjal Aggarwal, Sean Welleck* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652573894&idx=1&sn=2d24175b65879c55e2af425873563c1a&chksm=f0df2473a8afedcd75bfa071db78451578c8743ab8d4f7cd1d7ce5bc8ad08a31a07505a0e48a&scene=0&xtrack=1)) · ([cmu-l3.github](https://www.cmu-l3.github.io/l1))
@@ -382,7 +383,7 @@
 - **Atom of Thoughts for Markov LLM Test-Time Scaling**, `arXiv, 2502.12018`, [arxiv](http://arxiv.org/abs/2502.12018v1), [pdf](http://arxiv.org/pdf/2502.12018v1.pdf), cication: [**-1**](None) 
 
 	 *Fengwei Teng, Zhaoyang Yu, Quan Shi, ..., Chenglin Wu, Yuyu Luo* · ([atom](https://github.com/qixucen/atom) - qixucen) ![Star](https://img.shields.io/github/stars/qixucen/atom.svg?style=social&label=Star)
-- **Light-R1: Curriculum SFT, DPO and RL for Long COT from Scratch and
+- **Light-R1: Curriculum SFT, DPO and RL for Long COT from Scratch and 
   Beyond**, `arXiv, 2503.10460`, [arxiv](http://arxiv.org/abs/2503.10460v1), [pdf](http://arxiv.org/pdf/2503.10460v1.pdf), cication: [**-1**](None) 
 
 	 *Liang Wen, Yunke Cai, Fenrui Xiao, ..., Shousheng Jia, Xiangzheng Zhang*
@@ -697,7 +698,7 @@
 
 ## Projects
 
-- [**Awesome-System2-Reasoning-LLM**](https://github.com/zzli2022/Awesome-System2-Reasoning-LLM) - zzli2022 ![Star](https://img.shields.io/github/stars/zzli2022/Awesome-System2-Reasoning-LLM.svg?style=social&label=Star)
+- [**Awesome-System2-Reasoning-LLM**](https://github.com/zzli2022/Awesome-System2-Reasoning-LLM) - zzli2022 ![Star](https://img.shields.io/github/stars/zzli2022/Awesome-System2-Reasoning-LLM.svg?style=social&label=Star) 
 - [**Awesome-RL-based-LLM-Reasoning**](https://github.com/bruno686/Awesome-RL-based-LLM-Reasoning) - bruno686 ![Star](https://img.shields.io/github/stars/bruno686/Awesome-RL-based-LLM-Reasoning.svg?style=social&label=Star) 
 - [**open-thoughts**](https://github.com/open-thoughts/open-thoughts) - open-thoughts ![Star](https://img.shields.io/github/stars/open-thoughts/open-thoughts.svg?style=social&label=Star) 
 
@@ -733,7 +734,7 @@
 
 ## Misc
 
-- [GRPO on "Temporal Clue,"](https://x.com/corbtt/status/1897735437340627405)  𝕏
+- [GRPO on "Temporal Clue,"](https://x.com/corbtt/status/1897735437340627405)  𝕏 
 - [How Do Agents Plan and Reason?](https://huggingface.co/blog/Kseniase/reasonplan)  🤗 
 - [Denny Zhou: LLM Reasoning: Key Ideas and Limitations](https://www.youtube.com/watch?v=-SZAciVbswk)  :clapper: 
 - [Jason Wei: Scaling Paradigms for Large Language Models](https://www.youtube.com/watch?v=yhpjpNXJDco)  :clapper: 

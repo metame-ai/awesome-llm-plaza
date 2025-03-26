@@ -185,7 +185,7 @@
 
 ## Detection
 
-- 🌟 **Feature-Level Insights into Artificial Text Detection with Sparse
+- 🌟 **Feature-Level Insights into Artificial Text Detection with Sparse 
   Autoencoders**, `arXiv, 2503.03601`, [arxiv](http://arxiv.org/abs/2503.03601v1), [pdf](http://arxiv.org/pdf/2503.03601v1.pdf), cication: [**-1**](None) 
 
 	 *Kristian Kuznetsov, Laida Kushnareva, Polina Druzhinina, ..., Evgeny Burnaev, Serguei Barannikov*

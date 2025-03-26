@@ -117,6 +117,7 @@
 
 ## Optimization
 
+- [explored further to EXTREME beta values like 0.2](https://x.com/cloneofsimo/status/1903080158627762234)  𝕏
 - [**dolphinflow-optimizer**](https://github.com/cognitivecomputations/dolphinflow-optimizer) - cognitivecomputations ![Star](https://img.shields.io/github/stars/cognitivecomputations/dolphinflow-optimizer.svg?style=social&label=Star) 
 - **Stable-SPAM: How to Train in 4-Bit More Stably than 16-Bit Adam**, `arXiv, 2502.17055`, [arxiv](http://arxiv.org/abs/2502.17055v1), [pdf](http://arxiv.org/pdf/2502.17055v1.pdf), cication: [**-1**](None) 
 
@@ -198,7 +199,7 @@
 
 ## Mixture Of Experts
 
-- [**flux**](https://github.com/bytedance/flux) - bytedance ![Star](https://img.shields.io/github/stars/bytedance/flux.svg?style=social&label=Star)
+- [**flux**](https://github.com/bytedance/flux) - bytedance ![Star](https://img.shields.io/github/stars/bytedance/flux.svg?style=social&label=Star) 
 - **Mixture of Experts Made Intrinsically Interpretable**, `arXiv, 2503.07639`, [arxiv](http://arxiv.org/abs/2503.07639v1), [pdf](http://arxiv.org/pdf/2503.07639v1.pdf), cication: [**-1**](None) 
 
 	 *Xingyi Yang, Constantin Venhoff, Ashkan Khakzar, ..., Adel Bibi, Philip Torr*

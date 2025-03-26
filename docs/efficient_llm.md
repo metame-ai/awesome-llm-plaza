@@ -162,7 +162,7 @@
 
 ## Pruning
 
-- 🌟 **SEAP: Training-free Sparse Expert Activation Pruning Unlock the
+- 🌟 **SEAP: Training-free Sparse Expert Activation Pruning Unlock the 
   Brainpower of Large Language Models**, `arXiv, 2503.07605`, [arxiv](http://arxiv.org/abs/2503.07605v1), [pdf](http://arxiv.org/pdf/2503.07605v1.pdf), cication: [**-1**](None) 
 
 	 *Xun Liang, Hanyu Wang, Huayi Lai, ..., Bo Tang, Zhiyu Li*
@@ -179,11 +179,11 @@
 
 ## Inference
 
-- **EAGLE-3: Scaling up Inference Acceleration of Large Language Models via
+- **EAGLE-3: Scaling up Inference Acceleration of Large Language Models via 
   Training-Time Test**, `arXiv, 2503.01840`, [arxiv](http://arxiv.org/abs/2503.01840v1), [pdf](http://arxiv.org/pdf/2503.01840v1.pdf), cication: [**-1**](None) 
 
 	 *Yuhui Li, Fangyun Wei, Chao Zhang, ..., Hongyang Zhang* · ([EAGLE.](https://github.com/SafeAILab/EAGLE.) - SafeAILab) ![Star](https://img.shields.io/github/stars/SafeAILab/EAGLE..svg?style=social&label=Star)
-- **From Hours to Minutes: Lossless Acceleration of Ultra Long Sequence
+- **From Hours to Minutes: Lossless Acceleration of Ultra Long Sequence 
   Generation up to 100K Tokens**, `arXiv, 2502.18890`, [arxiv](http://arxiv.org/abs/2502.18890v1), [pdf](http://arxiv.org/pdf/2502.18890v1.pdf), cication: [**-1**](None) 
 
 	 *Tong Wu, Junzhe Shen, Zixia Jia, ..., Yuxuan Wang, Zilong Zheng* · ([TokenSwift](https://github.com/bigai-nlco/TokenSwift) - bigai-nlco) ![Star](https://img.shields.io/github/stars/bigai-nlco/TokenSwift.svg?style=social&label=Star) · ([arxiv](https://arxiv.org/abs/2502.18890)) · ([huggingface](https://huggingface.co/TokenSwift))
@@ -273,7 +273,7 @@
 
 ## Transformer
 
-- **Towards Economical Inference: Enabling DeepSeek's Multi-Head Latent
+- **Towards Economical Inference: Enabling DeepSeek's Multi-Head Latent 
   Attention in Any Transformer-based LLMs**, `arXiv, 2502.14837`, [arxiv](http://arxiv.org/abs/2502.14837v1), [pdf](http://arxiv.org/pdf/2502.14837v1.pdf), cication: [**-1**](None) 
 
 	 *Tao Ji, Bin Guo, Yuanbin Wu, ..., Qi Zhang, Tao Gui* · ([MHA2MLA](https://github.com/JT-Ushio/MHA2MLA) - JT-Ushio) ![Star](https://img.shields.io/github/stars/JT-Ushio/MHA2MLA.svg?style=social&label=Star)
@@ -310,7 +310,7 @@
 
 ## Projects
 
-- [**flux**](https://github.com/bytedance/flux) - bytedance ![Star](https://img.shields.io/github/stars/bytedance/flux.svg?style=social&label=Star)
+- [**flux**](https://github.com/bytedance/flux) - bytedance ![Star](https://img.shields.io/github/stars/bytedance/flux.svg?style=social&label=Star) 
 - [**MoBA**](https://github.com/MoonshotAI/MoBA) - MoonshotAI ![Star](https://img.shields.io/github/stars/MoonshotAI/MoBA.svg?style=social&label=Star) 
 
 	 *Mixture of Block Attention for Long-Context LLMs* · ([MoBA](https://github.com/MoonshotAI/MoBA/blob/master/MoBA_Tech_Report.pdf) - MoonshotAI) ![Star](https://img.shields.io/github/stars/MoonshotAI/MoBA.svg?style=social&label=Star) · ([zhuanlan.zhihu](https://zhuanlan.zhihu.com/p/24642612039?utm_campaign=shareopn&utm_medium=social&utm_psn=1875312875339395072&utm_source=wechat_timeline&wechatShare=1&s_r=0&utm_id=0))

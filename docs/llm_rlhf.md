@@ -13,7 +13,7 @@
 
 ## RLHF
 
-- **Back to Basics: Revisiting REINFORCE Style Optimization for Learning
+- **Back to Basics: Revisiting REINFORCE Style Optimization for Learning 
   from Human Feedback in LLMs**, `arXiv, 2402.14740`, [arxiv](http://arxiv.org/abs/2402.14740v2), [pdf](http://arxiv.org/pdf/2402.14740v2.pdf), cication: [**-1**](None) 
 
 	 *Arash Ahmadian, Chris Cremer, Matthias Gallé, ..., Ahmet Üstün, Sara Hooker*

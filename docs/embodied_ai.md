@@ -21,7 +21,7 @@
 ## Embodied AI
 
 - [Gemini Robotics brings AI into the physical world](https://deepmind.google/discover/blog/gemini-robotics-brings-ai-into-the-physical-world/) 
-- **World Modeling Makes a Better Planner: Dual Preference Optimization for
+- **World Modeling Makes a Better Planner: Dual Preference Optimization for 
   Embodied Task Planning**, `arXiv, 2503.10480`, [arxiv](http://arxiv.org/abs/2503.10480v1), [pdf](http://arxiv.org/pdf/2503.10480v1.pdf), cication: [**-1**](None) 
 
 	 *Siyin Wang, Zhaoye Fei, Qinyuan Cheng, ..., Jinlan Fu, Xipeng Qiu*
@@ -149,6 +149,7 @@
 
 ## Projects
 
+- [**Isaac-GR00T**](https://github.com/NVIDIA/Isaac-GR00T) - NVIDIA ![Star](https://img.shields.io/github/stars/NVIDIA/Isaac-GR00T.svg?style=social&label=Star)
 - [**partnr-planner**](https://github.com/facebookresearch/partnr-planner) - facebookresearch ![Star](https://img.shields.io/github/stars/facebookresearch/partnr-planner.svg?style=social&label=Star) 
 
 	 *A Benchmark for Planning and Reasoning in Embodied Multi-Agent Tasks* · ([𝕏](https://x.com/AIatMeta/status/1894524602854117781))

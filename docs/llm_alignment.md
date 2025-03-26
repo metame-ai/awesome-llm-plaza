@@ -12,7 +12,10 @@
 
 ## LLM Alignment
 
-- **All Roads Lead to Likelihood: The Value of Reinforcement Learning in
+- [TAO: Using test-time compute to train efficient LLMs without labeled data](https://www.databricks.com/blog/tao-using-test-time-compute-train-efficient-llms-without-labeled-data) 
+
+	 · ([𝕏](https://x.com/jefrankle/status/1904590481222218176))
+- **All Roads Lead to Likelihood: The Value of Reinforcement Learning in 
   Fine-Tuning**, `arXiv, 2503.01067`, [arxiv](http://arxiv.org/abs/2503.01067v1), [pdf](http://arxiv.org/pdf/2503.01067v1.pdf), cication: [**-1**](None) 
 
 	 *Gokul Swamy, Sanjiban Choudhury, Wen Sun, ..., Zhiwei Steven Wu, J. Andrew Bagnell* · ([𝕏](https://x.com/g_k_swamy/status/1897027265793597815))

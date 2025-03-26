@@ -15,7 +15,7 @@
 
 ## Code LLM
 
-- [OlympicCoder](https://huggingface.co/blog/open-r1/update-3)  🤗
+- [OlympicCoder](https://huggingface.co/blog/open-r1/update-3)  🤗 
 - **Multi-Turn Code Generation Through Single-Step Rewards**, `arXiv, 2502.20380`, [arxiv](http://arxiv.org/abs/2502.20380v1), [pdf](http://arxiv.org/pdf/2502.20380v1.pdf), cication: [**-1**](None) 
 
 	 *Arnav Kumar Jain, Gonzalo Gonzalez-Pumariega, Wayne Chen, ..., Wenting Zhao, Sanjiban Choudhury* · ([portal-cornell.github](https://portal-cornell.github.io/muCode/))
@@ -140,7 +140,7 @@
 
 ## Projects
 
-- [**awesome-vibe-coding**](https://github.com/filipecalegario/awesome-vibe-coding) - filipecalegario ![Star](https://img.shields.io/github/stars/filipecalegario/awesome-vibe-coding.svg?style=social&label=Star)
+- [**awesome-vibe-coding**](https://github.com/filipecalegario/awesome-vibe-coding) - filipecalegario ![Star](https://img.shields.io/github/stars/filipecalegario/awesome-vibe-coding.svg?style=social&label=Star) 
 - [**claude-code**](https://github.com/dnakov/claude-code) - dnakov ![Star](https://img.shields.io/github/stars/dnakov/claude-code.svg?style=social&label=Star) 
 - [**deepclaude**](https://github.com/getAsterisk/deepclaude) - getAsterisk ![Star](https://img.shields.io/github/stars/getAsterisk/deepclaude.svg?style=social&label=Star) 
 
