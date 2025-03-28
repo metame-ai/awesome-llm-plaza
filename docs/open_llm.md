@@ -85,7 +85,7 @@
 
 ## Chinese Models
 
-- [DeepSeek-V3-0324 demonstrates notable improvements over its predecessor, DeepSeek-V3, in several key aspects.](https://huggingface.co/deepseek-ai/DeepSeek-V3-0324)  🤗
+- [DeepSeek-V3-0324 demonstrates notable improvements over its predecessor, DeepSeek-V3, in several key aspects.](https://huggingface.co/deepseek-ai/DeepSeek-V3-0324)  🤗 
 - [R1 1776 is a DeepSeek-R1 reasoning model that has been post-trained by Perplexity AI to remove Chinese Communist Party censorship.](https://huggingface.co/perplexity-ai/r1-1776)  🤗 
 
 	 · ([perplexity](https://perplexity.ai/hub/blog/open-sourcing-r1-1776)) · ([𝕏](https://x.com/perplexity_ai/status/1891916573713236248))
@@ -132,7 +132,7 @@
 
 ## Reasoning
 
-- [Llama-3.3-Nemotron-Super-49B-v1 is a large language model (LLM) which is a derivative of Meta Llama-3.3-70B-Instruct (AKA the reference model).](https://huggingface.co/nvidia/Llama-3_3-Nemotron-Super-49B-v1)  🤗
+- [Llama-3.3-Nemotron-Super-49B-v1 is a large language model (LLM) which is a derivative of Meta Llama-3.3-70B-Instruct (AKA the reference model).](https://huggingface.co/nvidia/Llama-3_3-Nemotron-Super-49B-v1)  🤗 
 - [**QwQ**](https://github.com/QwenLM/QwQ) - QwenLM ![Star](https://img.shields.io/github/stars/QwenLM/QwQ.svg?style=social&label=Star) 
 
 	 · ([huggingface](https://huggingface.co/Qwen/QwQ-32B))

@@ -44,7 +44,7 @@
 
 ## Reasoning
 
-- [Reasoning in the Wild - Wenting Zhao](https://www.youtube.com/watch?v=F3bnOqjG28g)  :clapper:
+- [Reasoning in the Wild - Wenting Zhao](https://www.youtube.com/watch?v=F3bnOqjG28g)  :clapper: 
 - [The State of LLM Reasoning Models](https://magazine.sebastianraschka.com/p/state-of-llm-reasoning-and-inference-scaling) 
 - **Sketch-of-Thought: Efficient LLM Reasoning with Adaptive 
   Cognitive-Inspired Sketching**, `arXiv, 2503.05179`, [arxiv](http://arxiv.org/abs/2503.05179v1), [pdf](http://arxiv.org/pdf/2503.05179v1.pdf), cication: [**-1**](None) 

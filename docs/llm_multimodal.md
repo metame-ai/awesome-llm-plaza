@@ -62,7 +62,7 @@
 - **Vision-Speech Models: Teaching Speech Models to Converse about Images**, `arXiv, 2503.15633`, [arxiv](http://arxiv.org/abs/2503.15633v1), [pdf](http://arxiv.org/pdf/2503.15633v1.pdf), cication: [**-1**](None) 
 
 	 *Amélie Royer, Moritz Böhle, Gabriel de Marmiesse, ..., Alexandre Défossez, Patrick Pérez* · ([kyutai](https://kyutai.org/moshivis)) · ([moshivis](https://github.com/kyutai-labs/moshivis) - kyutai-labs) ![Star](https://img.shields.io/github/stars/kyutai-labs/moshivis.svg?style=social&label=Star)
-- [**SpatialLM**](https://github.com/manycore-research/SpatialLM) - manycore-research ![Star](https://img.shields.io/github/stars/manycore-research/SpatialLM.svg?style=social&label=Star)
+- [**SpatialLM**](https://github.com/manycore-research/SpatialLM) - manycore-research ![Star](https://img.shields.io/github/stars/manycore-research/SpatialLM.svg?style=social&label=Star) 
 - 🌟 [Phi-4-multimodal-instruct is a lightweight open multimodal foundationmodel that leverages the language, vision, and speech research](https://huggingface.co/microsoft/Phi-4-multimodal-instruct)  🤗 
 
 	 · ([models](https://github.com/marketplace/models/azureml/Phi-4-multimodal-instruct/playground) - marketplace) ![Star](https://img.shields.io/github/stars/marketplace/models.svg?style=social&label=Star)

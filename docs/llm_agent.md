@@ -37,7 +37,7 @@
 - [Agent TARS](https://agent-tars.com/) 
 
 	 · ([UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop/blob/main/apps/agent-tars/README.md) - bytedance) ![Star](https://img.shields.io/github/stars/bytedance/UI-TARS-desktop.svg?style=social&label=Star)
-- **SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning
+- **SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning 
   Tasks**, `arXiv, 2503.15478`, [arxiv](http://arxiv.org/abs/2503.15478v1), [pdf](http://arxiv.org/pdf/2503.15478v1.pdf), cication: [**-1**](None) 
 
 	 *Yifei Zhou, Song Jiang, Yuandong Tian, ..., Sainbayar Sukhbaatar, Xian Li* · ([sweet_rl](https://github.com/facebookresearch/sweet_rl?tab=readme-ov-file) - facebookresearch) ![Star](https://img.shields.io/github/stars/facebookresearch/sweet_rl.svg?style=social&label=Star)

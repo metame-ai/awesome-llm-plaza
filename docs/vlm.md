@@ -411,7 +411,8 @@
 
 ## Reasoning
 
-- [**Skywork-R1V**](https://github.com/SkyworkAI/Skywork-R1V) - SkyworkAI ![Star](https://img.shields.io/github/stars/SkyworkAI/Skywork-R1V.svg?style=social&label=Star)
+- [Trials, Errors, and Breakthroughs: Our Rocky Road to OVD SOTA with Reinforcement Learning](https://om-ai-lab.github.io/2025_03_24.html) 
+- [**Skywork-R1V**](https://github.com/SkyworkAI/Skywork-R1V) - SkyworkAI ![Star](https://img.shields.io/github/stars/SkyworkAI/Skywork-R1V.svg?style=social&label=Star) 
 
 	 *Pioneering Multimodal Reasoning with CoT* · ([huggingface](https://huggingface.co/Skywork/Skywork-R1V-38B)) · ([Skywork-R1V](https://github.com/SkyworkAI/Skywork-R1V) - SkyworkAI) ![Star](https://img.shields.io/github/stars/SkyworkAI/Skywork-R1V.svg?style=social&label=Star)
 - **Tuning computer vision models with task rewards**, `arXiv, 2302.08242`, [arxiv](http://arxiv.org/abs/2302.08242v1), [pdf](http://arxiv.org/pdf/2302.08242v1.pdf), cication: [**-1**](None) 

@@ -149,7 +149,7 @@
 
 ## Projects
 
-- [**Isaac-GR00T**](https://github.com/NVIDIA/Isaac-GR00T) - NVIDIA ![Star](https://img.shields.io/github/stars/NVIDIA/Isaac-GR00T.svg?style=social&label=Star)
+- [**Isaac-GR00T**](https://github.com/NVIDIA/Isaac-GR00T) - NVIDIA ![Star](https://img.shields.io/github/stars/NVIDIA/Isaac-GR00T.svg?style=social&label=Star) 
 - [**partnr-planner**](https://github.com/facebookresearch/partnr-planner) - facebookresearch ![Star](https://img.shields.io/github/stars/facebookresearch/partnr-planner.svg?style=social&label=Star) 
 
 	 *A Benchmark for Planning and Reasoning in Embodied Multi-Agent Tasks* · ([𝕏](https://x.com/AIatMeta/status/1894524602854117781))
