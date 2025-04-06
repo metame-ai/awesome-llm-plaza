@@ -19,6 +19,10 @@
 
 ## GUI Agent
 
+- **Advancing Mobile GUI Agents: A Verifier-Driven Approach to Practical
+  Deployment**, `arXiv, 2503.15937`, [arxiv](http://arxiv.org/abs/2503.15937v2), [pdf](http://arxiv.org/pdf/2503.15937v2.pdf), cication: [**-1**](None) 
+
+	 *Gaole Dai, Shiqi Jiang, Ting Cao, ..., Mo Li, Lili Qiu*
 - [CS 194/294-280 (Advanced LLM Agents) - Lecture 7, Caiming Xiong](https://www.youtube.com/watch?v=n__Tim8K2IY)  :clapper: 
 - **PC-Agent: A Hierarchical Multi-Agent Collaboration Framework for Complex 
   Task Automation on PC**, `arXiv, 2502.14282`, [arxiv](http://arxiv.org/abs/2502.14282v2), [pdf](http://arxiv.org/pdf/2502.14282v2.pdf), cication: [**-1**](None) 
