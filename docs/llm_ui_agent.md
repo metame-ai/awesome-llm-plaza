@@ -19,7 +19,7 @@
 
 ## GUI Agent
 
-- **Advancing Mobile GUI Agents: A Verifier-Driven Approach to Practical
+- **Advancing Mobile GUI Agents: A Verifier-Driven Approach to Practical 
   Deployment**, `arXiv, 2503.15937`, [arxiv](http://arxiv.org/abs/2503.15937v2), [pdf](http://arxiv.org/pdf/2503.15937v2.pdf), cication: [**-1**](None) 
 
 	 *Gaole Dai, Shiqi Jiang, Ting Cao, ..., Mo Li, Lili Qiu*
