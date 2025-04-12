@@ -18,6 +18,10 @@
 
 ## Survey
 
+- 🌟 **A Survey of Efficient Reasoning for Large Reasoning Models: Language,
+  Multimodality, and Beyond**, `arXiv, 2503.21614`, [arxiv](http://arxiv.org/abs/2503.21614v1), [pdf](http://arxiv.org/pdf/2503.21614v1.pdf), cication: [**-1**](None) 
+
+	 *Xiaoye Qu, Yafu Li, Zhaochen Su, ..., Bowen Zhou, Yu Cheng* · ([Awesome_Efficient_LRM_Reasoning](https://github.com/XiaoYee/Awesome_Efficient_LRM_Reasoning) - XiaoYee) ![Star](https://img.shields.io/github/stars/XiaoYee/Awesome_Efficient_LRM_Reasoning.svg?style=social&label=Star)
 - **LLM Post-Training: A Deep Dive into Reasoning Large Language Models**, `arXiv, 2502.21321`, [arxiv](http://arxiv.org/abs/2502.21321v1), [pdf](http://arxiv.org/pdf/2502.21321v1.pdf), cication: [**-1**](None) 
 
 	 *Komal Kumar, Tajamul Ashraf, Omkar Thawakar, ..., Salman Khan, Fahad Shahbaz Khan*
@@ -370,6 +374,19 @@
 
 ## O1 Reasoning
 
+- **DAPO: An Open-Source LLM Reinforcement Learning System at Scale**, `arXiv, 2503.14476`, [arxiv](http://arxiv.org/abs/2503.14476v1), [pdf](http://arxiv.org/pdf/2503.14476v1.pdf), cication: [**-1**](None) 
+
+	 *Qiying Yu, Zheng Zhang, Ruofei Zhu, ..., Yonghui Wu, Mingxuan Wang*
+- [Training Reasoning Model with Dynamic Advantage Estimation on Reinforcement Learning](https://five-stetson-b51.notion.site/Training-Reasoning-Model-with-Dynamic-Advantage-Estimation-on-Reinforcement-Learning-1a830cc0904681fa9df3e076b6557a3e) 
+- [**AReaL**](https://github.com/inclusionAI/AReaL) - inclusionAI ![Star](https://img.shields.io/github/stars/inclusionAI/AReaL.svg?style=social&label=Star)
+
+	 *Ant Reasoning Reinforcement Learning for LLMs*
+- **Inference-Time Scaling for Generalist Reward Modeling**, `arXiv, 2504.02495`, [arxiv](http://arxiv.org/abs/2504.02495v2), [pdf](http://arxiv.org/pdf/2504.02495v2.pdf), cication: [**-1**](None) 
+
+	 *Zijun Liu, Peiyi Wang, Runxin Xu, ..., Yang Liu, Yu Wu*
+- 🌟 **Understanding R1-Zero-Like Training: A Critical Perspective**, `arXiv, 2503.20783`, [arxiv](http://arxiv.org/abs/2503.20783v1), [pdf](http://arxiv.org/pdf/2503.20783v1.pdf), cication: [**-1**](None) 
+
+	 *Zichen Liu, Changyu Chen, Wenjun Li, ..., Wee Sun Lee, Min Lin* · ([𝕏](https://x.com/zzlccc/status/1903162768083259703)) · ([𝕏](https://x.com/WenhuChen/status/1903464313391624668))
 - **L1: Controlling How Long A Reasoning Model Thinks With Reinforcement 
   Learning**, `arXiv, 2503.04697`, [arxiv](http://arxiv.org/abs/2503.04697v1), [pdf](http://arxiv.org/pdf/2503.04697v1.pdf), cication: [**-1**](None) 
 

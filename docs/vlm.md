@@ -19,6 +19,9 @@
 
 ## Survey
 
+- **Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey**, `arXiv, 2503.12605`, [arxiv](http://arxiv.org/abs/2503.12605v2), [pdf](http://arxiv.org/pdf/2503.12605v2.pdf), cication: [**-1**](None) 
+
+	 *Yaoting Wang, Shengqiong Wu, Yuecheng Zhang, ..., Jiebo Luo, Hao Fei* · ([Awesome-MCoT](https://github.com/yaotingwangofficial/Awesome-MCoT) - yaotingwangofficial) ![Star](https://img.shields.io/github/stars/yaotingwangofficial/Awesome-MCoT.svg?style=social&label=Star)
 - **Harnessing Vision Models for Time Series Analysis: A Survey**, `arXiv, 2502.08869`, [arxiv](http://arxiv.org/abs/2502.08869v1), [pdf](http://arxiv.org/pdf/2502.08869v1.pdf), cication: [**-1**](None) 
 
 	 *Jingchao Ni, Ziming Zhao, ChengAo Shen, ..., Dongsheng Luo, Haifeng Chen* · ([awesome-vision-time-series](https://github.com/D2I-Group/awesome-vision-time-series) - D2I-Group) ![Star](https://img.shields.io/github/stars/D2I-Group/awesome-vision-time-series.svg?style=social&label=Star)
@@ -411,6 +414,12 @@
 
 ## Reasoning
 
+- [MM-Eureka-Qwen](https://jagged-court-d9d.notion.site/MM-Eureka-Qwen-1c13cc5a384880ffbd2de24e1dee052d) 
+- **OThink-MR1: Stimulating multimodal generalized reasoning capabilities
+  via dynamic reinforcement learning**, `arXiv, 2503.16081`, [arxiv](http://arxiv.org/abs/2503.16081v2), [pdf](http://arxiv.org/pdf/2503.16081v2.pdf), cication: [**-1**](None) 
+
+	 *Zhiyuan Liu, Yuting Zhang, Feng Liu, ..., Ying Sun, Jun Wang*
+- [VAGEN: Training VLM Agents with Multi-Turn Reinforcement Learning](https://mll-lab.notion.site/vagen) 
 - [Trials, Errors, and Breakthroughs: Our Rocky Road to OVD SOTA with Reinforcement Learning](https://om-ai-lab.github.io/2025_03_24.html) 
 - [**Skywork-R1V**](https://github.com/SkyworkAI/Skywork-R1V) - SkyworkAI ![Star](https://img.shields.io/github/stars/SkyworkAI/Skywork-R1V.svg?style=social&label=Star) 
 

@@ -20,6 +20,7 @@
 
 ## LLM Evaluation
 
+- [Evaluating AI’s Ability to Replicate AI Research.](https://openai.com/index/paperbench/) 
 - [Quickly Start Evaluating LLMs With OpenEvals](https://blog.langchain.dev/evaluating-llms-with-openevals/) 
 
 	 · ([openevals](https://github.com/langchain-ai/openevals) - langchain-ai) ![Star](https://img.shields.io/github/stars/langchain-ai/openevals.svg?style=social&label=Star) · ([𝕏](https://x.com/LangChainAI/status/1894821108018262297))

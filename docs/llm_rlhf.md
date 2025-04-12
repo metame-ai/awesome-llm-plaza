@@ -104,6 +104,9 @@
 
 ## Reward Models
 
+- **What Makes a Reward Model a Good Teacher? An Optimization Perspective**, `arXiv, 2503.15477`, [arxiv](http://arxiv.org/abs/2503.15477v1), [pdf](http://arxiv.org/pdf/2503.15477v1.pdf), cication: [**-1**](None) 
+
+	 *Noam Razin, Zixuan Wang, Hubert Strauss, ..., Jason D. Lee, Sanjeev Arora*
 - **Skywork-Reward: Bag of Tricks for Reward Modeling in LLMs**, `arXiv, 2410.18451`, [arxiv](http://arxiv.org/abs/2410.18451v1), [pdf](http://arxiv.org/pdf/2410.18451v1.pdf), cication: [**-1**](None) 
 
 	 *Chris Yuhao Liu, Liang Zeng, Jiacai Liu, ..., Yang Liu, Yahui Zhou*

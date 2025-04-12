@@ -16,6 +16,9 @@
 
 ## Survey
 
+- **A Survey on the Optimization of Large Language Model-based Agents**, `arXiv, 2503.12434`, [arxiv](http://arxiv.org/abs/2503.12434v1), [pdf](http://arxiv.org/pdf/2503.12434v1.pdf), cication: [**-1**](None) 
+
+	 *Shangheng Du, Jiabao Zhao, Jinxin Shi, ..., Yanhong Bai, Liang He* · ([LLM-Agent-Optimization](https://github.com/YoungDubbyDu/LLM-Agent-Optimization) - YoungDubbyDu) ![Star](https://img.shields.io/github/stars/YoungDubbyDu/LLM-Agent-Optimization.svg?style=social&label=Star)
 - **A Survey on the Memory Mechanism of Large Language Model based Agents**, `arXiv, 2404.13501`, [arxiv](http://arxiv.org/abs/2404.13501v1), [pdf](http://arxiv.org/pdf/2404.13501v1.pdf), cication: [**-1**](None) 
 
 	 *Zeyu Zhang, Xiaohe Bo, Chen Ma, ..., Zhenhua Dong, Ji-Rong Wen*
