@@ -179,6 +179,9 @@
 
 ## Inference
 
+- **Hogwild! Inference: Parallel LLM Generation via Concurrent Attention**, `arXiv, 2504.06261`, [arxiv](http://arxiv.org/abs/2504.06261v2), [pdf](http://arxiv.org/pdf/2504.06261v2.pdf), cication: [**-1**](None) 
+
+	 *Gleb Rodionov, Roman Garipov, Alina Shutova, ..., Denis Kuznedelev, Dan Alistarh*
 - **EAGLE-3: Scaling up Inference Acceleration of Large Language Models via 
   Training-Time Test**, `arXiv, 2503.01840`, [arxiv](http://arxiv.org/abs/2503.01840v1), [pdf](http://arxiv.org/pdf/2503.01840v1.pdf), cication: [**-1**](None) 
 

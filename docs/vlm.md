@@ -59,6 +59,23 @@
 
 ## Vision-Language Models
 
+- **SmolDocling: An ultra-compact vision-language model for end-to-end
+  multi-modal document conversion**, `arXiv, 2503.11576`, [arxiv](http://arxiv.org/abs/2503.11576v1), [pdf](http://arxiv.org/pdf/2503.11576v1.pdf), cication: [**-1**](None) 
+
+	 *Ahmed Nassar, Andres Marafioti, Matteo Omenetti, ..., Miquel Farré, Peter W. J. Staar*
+- **Open-Qwen2VL: Compute-Efficient Pre-Training of Fully-Open Multimodal
+  LLMs on Academic Resources**, `arXiv, 2504.00595`, [arxiv](http://arxiv.org/abs/2504.00595v2), [pdf](http://arxiv.org/pdf/2504.00595v2.pdf), cication: [**-1**](None) 
+
+	 *Weizhi Wang, Yu Tian, Linjie Yang, ..., Heng Wang, Xifeng Yan* · ([huggingface](https://huggingface.co/weizhiwang/Open-Qwen2VL))
+- 🌟 **SmolVLM: Redefining small and efficient multimodal models**, `arXiv, 2504.05299`, [arxiv](http://arxiv.org/abs/2504.05299v1), [pdf](http://arxiv.org/pdf/2504.05299v1.pdf), cication: [**-1**](None) 
+
+	 *Andrés Marafioti, Orr Zohar, Miquel Farré, ..., Leandro von Werra, Thomas Wolf* · ([huggingface](https://huggingface.co/collections/HuggingFaceTB/smolvlm2-smallest-video-lm-ever-67ab6b5e84bf8aaa60cb17c7)) · ([huggingface](https://huggingface.co/collections/HuggingFaceTB/smolvlm-256m-and-500m-6791fafc5bb0ab8acc960fb0)) · ([smollm](https://github.com/huggingface/smollm) - huggingface) ![Star](https://img.shields.io/github/stars/huggingface/smollm.svg?style=social&label=Star)
+- 🌟 **Kimi-VL Technical Report**, `arXiv, 2504.07491`, [arxiv](http://arxiv.org/abs/2504.07491v1), [pdf](http://arxiv.org/pdf/2504.07491v1.pdf), cication: [**-1**](None) 
+
+	 *Kimi Team, Angang Du, Bohong Yin, ..., Zijia Zhao, Ziwei Chen* · ([Kimi-VL.](https://github.com/MoonshotAI/Kimi-VL.) - MoonshotAI) ![Star](https://img.shields.io/github/stars/MoonshotAI/Kimi-VL..svg?style=social&label=Star)
+- **Scaling Laws for Native Multimodal Models**, `arXiv, 2504.07951`, [arxiv](http://arxiv.org/abs/2504.07951v2), [pdf](http://arxiv.org/pdf/2504.07951v2.pdf), cication: [**-1**](None) 
+
+	 *Mustafa Shukor, Enrico Fini, Victor Guilherme Turrisi da Costa, ..., Joshua Susskind, Alaaeldin El-Nouby*
 - [Gemma3 - 27B, 12B, 4B & 1B - 128K context, multimodal AND multilingual!](https://x.com/reach_vb/status/1899728796586025282)  𝕏 
 
 	 · ([huggingface](https://huggingface.co/collections/google/gemma-3-release-67c6c6f89c4f76621268bb6d)) · ([developers.googleblog](https://developers.googleblog.com/en/introducing-gemma3/))
@@ -191,6 +208,10 @@
 
 ## Video
 
+- **Exploring Hallucination of Large Multimodal Models in Video
+  Understanding: Benchmark, Analysis and Mitigation**, `arXiv, 2503.19622`, [arxiv](http://arxiv.org/abs/2503.19622v1), [pdf](http://arxiv.org/pdf/2503.19622v1.pdf), cication: [**-1**](None) 
+
+	 *Hongcheng Gao, Jiashu Qu, Jingyi Tang, ..., Li Su, Qingming Huang* · ([HAVEN](https://github.com/Hongcheng-Gao/HAVEN/tree/main) - Hongcheng-Gao) ![Star](https://img.shields.io/github/stars/Hongcheng-Gao/HAVEN.svg?style=social&label=Star)
 - 🌟 **Token-Efficient Long Video Understanding for Multimodal LLMs**, `arXiv, 2503.04130`, [arxiv](http://arxiv.org/abs/2503.04130v1), [pdf](http://arxiv.org/pdf/2503.04130v1.pdf), cication: [**-1**](None) 
 
 	 *Jindong Jiang, Xiuyu Li, Zhijian Liu, ..., Song Han, Wonmin Byeon*
@@ -301,6 +322,10 @@
 
 ## Encoder
 
+- **When Less is Enough: Adaptive Token Reduction for Efficient Image
+  Representation**, `arXiv, 2503.16660`, [arxiv](http://arxiv.org/abs/2503.16660v1), [pdf](http://arxiv.org/pdf/2503.16660v1.pdf), cication: [**-1**](None) 
+
+	 *Eduard Allakhverdov, Elizaveta Goncharova, Andrey Kuznetsov*
 - 🌟 **SigLIP 2: Multilingual Vision-Language Encoders with Improved Semantic 
   Understanding, Localization, and Dense Features**, `arXiv, 2502.14786`, [arxiv](http://arxiv.org/abs/2502.14786v1), [pdf](http://arxiv.org/pdf/2502.14786v1.pdf), cication: [**-1**](None) 
 
@@ -414,8 +439,33 @@
 
 ## Reasoning
 
+- **R1-VL: Learning to Reason with Multimodal Large Language Models via
+  Step-wise Group Relative Policy Optimization**, `arXiv, 2503.12937`, [arxiv](http://arxiv.org/abs/2503.12937v1), [pdf](http://arxiv.org/pdf/2503.12937v1.pdf), cication: [**-1**](None) 
+
+	 *Jingyi Zhang, Jiaxing Huang, Huanjin Yao, ..., Shijian Lu, Dacheng Tao*
+- **Video-R1: Reinforcing Video Reasoning in MLLMs**, `arXiv, 2503.21776`, [arxiv](http://arxiv.org/abs/2503.21776v1), [pdf](http://arxiv.org/pdf/2503.21776v1.pdf), cication: [**-1**](None) 
+
+	 *Kaituo Feng, Kaixiong Gong, Bohao Li, ..., Benyou Wang, Xiangyu Yue* · ([Video-R1](https://github.com/tulerfeng/Video-R1) - tulerfeng) ![Star](https://img.shields.io/github/stars/tulerfeng/Video-R1.svg?style=social&label=Star)
+- **Vision-R1: Evolving Human-Free Alignment in Large Vision-Language Models
+  via Vision-Guided Reinforcement Learning**, `arXiv, 2503.18013`, [arxiv](http://arxiv.org/abs/2503.18013v1), [pdf](http://arxiv.org/pdf/2503.18013v1.pdf), cication: [**-1**](None) 
+
+	 *Yufei Zhan, Yousong Zhu, Shurong Zheng, ..., Ming Tang, Jinqiao Wang*
+- **Improved Visual-Spatial Reasoning via R1-Zero-Like Training**, `arXiv, 2504.00883`, [arxiv](http://arxiv.org/abs/2504.00883v1), [pdf](http://arxiv.org/pdf/2504.00883v1.pdf), cication: [**-1**](None) 
+
+	 *Zhenyi Liao, Qingsong Xie, Yanhao Zhang, ..., Zhenyu Yang, Zhijie Deng* · ([R1-Zero-VSI](https://github.com/zhijie-group/R1-Zero-VSI) - zhijie-group) ![Star](https://img.shields.io/github/stars/zhijie-group/R1-Zero-VSI.svg?style=social&label=Star)
+- **Exploring the Effect of Reinforcement Learning on Video Understanding:
+  Insights from SEED-Bench-R1**, `arXiv, 2503.24376`, [arxiv](http://arxiv.org/abs/2503.24376v1), [pdf](http://arxiv.org/pdf/2503.24376v1.pdf), cication: [**-1**](None) 
+
+	 *Yi Chen, Yuying Ge, Rui Wang, ..., Ying Shan, Xihui Liu* · ([SEED-Bench-R1](https://github.com/TencentARC/SEED-Bench-R1) - TencentARC) ![Star](https://img.shields.io/github/stars/TencentARC/SEED-Bench-R1.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/datasets/TencentARC/SEED-Bench-R1))
+- **Rethinking RL Scaling for Vision Language Models: A Transparent,
+  From-Scratch Framework and Comprehensive Evaluation Scheme**, `arXiv, 2504.02587`, [arxiv](http://arxiv.org/abs/2504.02587v2), [pdf](http://arxiv.org/pdf/2504.02587v2.pdf), cication: [**-1**](None) 
+
+	 *Yan Ma, Steffi Chern, Xuyang Shen, ..., Yiran Zhong, Pengfei Liu* · ([MAYE](https://github.com/GAIR-NLP/MAYE) - GAIR-NLP) ![Star](https://img.shields.io/github/stars/GAIR-NLP/MAYE.svg?style=social&label=Star)
+- 🌟 **Skywork R1V: Pioneering Multimodal Reasoning with Chain-of-Thought**, `arXiv, 2504.05599`, [arxiv](http://arxiv.org/abs/2504.05599v1), [pdf](http://arxiv.org/pdf/2504.05599v1.pdf), cication: [**-1**](None) 
+
+	 *Yi Peng, Chris, Xiaokun Wang, ..., Yang Liu, Yahui Zhou*
 - [MM-Eureka-Qwen](https://jagged-court-d9d.notion.site/MM-Eureka-Qwen-1c13cc5a384880ffbd2de24e1dee052d) 
-- **OThink-MR1: Stimulating multimodal generalized reasoning capabilities
+- **OThink-MR1: Stimulating multimodal generalized reasoning capabilities 
   via dynamic reinforcement learning**, `arXiv, 2503.16081`, [arxiv](http://arxiv.org/abs/2503.16081v2), [pdf](http://arxiv.org/pdf/2503.16081v2.pdf), cication: [**-1**](None) 
 
 	 *Zhiyuan Liu, Yuting Zhang, Feng Liu, ..., Ying Sun, Jun Wang*
@@ -633,6 +683,10 @@
 
 ## Efficient
 
+- **ShortV: Efficient Multimodal Large Language Models by Freezing Visual
+  Tokens in Ineffective Layers**, `arXiv, 2504.00502`, [arxiv](http://arxiv.org/abs/2504.00502v1), [pdf](http://arxiv.org/pdf/2504.00502v1.pdf), cication: [**-1**](None) 
+
+	 *Qianhao Yuan, Qingyu Zhang, Yanjiang Liu, ..., Xianpei Han, Le Sun* · ([ShortV](https://github.com/icip-cas/ShortV) - icip-cas) ![Star](https://img.shields.io/github/stars/icip-cas/ShortV.svg?style=social&label=Star)
 - **Vision-Language Models for Edge Networks: A Comprehensive Survey**, `arXiv, 2502.07855`, [arxiv](http://arxiv.org/abs/2502.07855v1), [pdf](http://arxiv.org/pdf/2502.07855v1.pdf), cication: [**-1**](None) 
 
 	 *Ahmed Sharshar, Latif U. Khan, Waseem Ullah, ..., Mohsen Guizani*
@@ -671,6 +725,16 @@
 
 ## Generation
 
+- **MergeVQ: A Unified Framework for Visual Generation and Representation
+  with Disentangled Token Merging and Quantization**, `arXiv, 2504.00999`, [arxiv](http://arxiv.org/abs/2504.00999v1), [pdf](http://arxiv.org/pdf/2504.00999v1.pdf), cication: [**-1**](None) 
+
+	 *Siyuan Li, Luyuan Zhang, Zedong Wang, ..., Haoqian Wang, Zhen Lei* · ([apexgen-x.github](https://apexgen-x.github.io/MergeVQ.))
+- **An Empirical Study of GPT-4o Image Generation Capabilities**, `arXiv, 2504.05979`, [arxiv](http://arxiv.org/abs/2504.05979v2), [pdf](http://arxiv.org/pdf/2504.05979v2.pdf), cication: [**-1**](None) 
+
+	 *Sixiang Chen, Jinbin Bai, Zhuoran Zhao, ..., Lei Zhu, Lu Qi*
+- **Transfer between Modalities with MetaQueries**, `arXiv, 2504.06256`, [arxiv](http://arxiv.org/abs/2504.06256v1), [pdf](http://arxiv.org/pdf/2504.06256v1.pdf), cication: [**-1**](None) 
+
+	 *Xichen Pan, Satya Narayan Shukla, Aashu Singh, ..., Ji Hou, Saining Xie*
 - [Introducing 4o Image Generation](https://openai.com/index/introducing-4o-image-generation/) 
 - **GoT: Unleashing Reasoning Capability of Multimodal Large Language Model 
   for Visual Generation and Editing**, `arXiv, 2503.10639`, [arxiv](http://arxiv.org/abs/2503.10639v1), [pdf](http://arxiv.org/pdf/2503.10639v1.pdf), cication: [**-1**](None) 

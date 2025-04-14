@@ -23,6 +23,9 @@
 
 ## LLM Training
 
+- 🌟 **ZClip: Adaptive Spike Mitigation for LLM Pre-Training**, `arXiv, 2504.02507`, [arxiv](http://arxiv.org/abs/2504.02507v1), [pdf](http://arxiv.org/pdf/2504.02507v1.pdf), cication: [**-1**](None) 
+
+	 *Abhay Kumar, Louis Owen, Nilabhra Roy Chowdhury, ..., Fabian Güra* · ([ZClip.](https://github.com/bluorion-com/ZClip.) - bluorion-com) ![Star](https://img.shields.io/github/stars/bluorion-com/ZClip..svg?style=social&label=Star)
 - 🌟 [The Ultra-Scale Playbook: Training LLMs on GPU Clusters](https://huggingface.co/spaces/nanotron/ultrascale-playbook)  🤗 
 - **Gemstones: A Model Suite for Multi-Faceted Scaling Laws**, `arXiv, 2502.06857`, [arxiv](http://arxiv.org/abs/2502.06857v1), [pdf](http://arxiv.org/pdf/2502.06857v1.pdf), cication: [**-1**](None) 
 

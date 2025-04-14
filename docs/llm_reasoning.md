@@ -18,7 +18,18 @@
 
 ## Survey
 
-- 🌟 **A Survey of Efficient Reasoning for Large Reasoning Models: Language,
+- **Stop Overthinking: A Survey on Efficient Reasoning for Large Language
+  Models**, `arXiv, 2503.16419`, [arxiv](http://arxiv.org/abs/2503.16419v2), [pdf](http://arxiv.org/pdf/2503.16419v2.pdf), cication: [**-1**](None) 
+
+	 *Yang Sui, Yu-Neng Chuang, Guanchu Wang, ..., Hanjie Chen, Xia Hu*
+- **Efficient Inference for Large Reasoning Models: A Survey**, `arXiv, 2503.23077`, [arxiv](http://arxiv.org/abs/2503.23077v1), [pdf](http://arxiv.org/pdf/2503.23077v1.pdf), cication: [**-1**](None) 
+
+	 *Yue Liu, Jiaying Wu, Yufei He, ..., Zhiqi Huang, Bryan Hooi* · ([Awesome-Efficient-Inference-for-LRMs.](https://github.com/yueliu1999/Awesome-Efficient-Inference-for-LRMs.) - yueliu1999) ![Star](https://img.shields.io/github/stars/yueliu1999/Awesome-Efficient-Inference-for-LRMs..svg?style=social&label=Star)
+- **What, How, Where, and How Well? A Survey on Test-Time Scaling in Large
+  Language Models**, `arXiv, 2503.24235`, [arxiv](http://arxiv.org/abs/2503.24235v1), [pdf](http://arxiv.org/pdf/2503.24235v1.pdf), cication: [**-1**](None) 
+
+	 *Qiyuan Zhang, Fuyuan Lyu, Zexu Sun, ..., Xue Liu, Chen Ma*
+- 🌟 **A Survey of Efficient Reasoning for Large Reasoning Models: Language, 
   Multimodality, and Beyond**, `arXiv, 2503.21614`, [arxiv](http://arxiv.org/abs/2503.21614v1), [pdf](http://arxiv.org/pdf/2503.21614v1.pdf), cication: [**-1**](None) 
 
 	 *Xiaoye Qu, Yafu Li, Zhaochen Su, ..., Bowen Zhou, Yu Cheng* · ([Awesome_Efficient_LRM_Reasoning](https://github.com/XiaoYee/Awesome_Efficient_LRM_Reasoning) - XiaoYee) ![Star](https://img.shields.io/github/stars/XiaoYee/Awesome_Efficient_LRM_Reasoning.svg?style=social&label=Star)
@@ -48,6 +59,10 @@
 
 ## Reasoning
 
+- **I Have Covered All the Bases Here: Interpreting Reasoning Features in
+  Large Language Models via Sparse Autoencoders**, `arXiv, 2503.18878`, [arxiv](http://arxiv.org/abs/2503.18878v1), [pdf](http://arxiv.org/pdf/2503.18878v1.pdf), cication: [**-1**](None) 
+
+	 *Andrey Galichin, Alexey Dontsov, Polina Druzhinina, ..., Elena Tutubalina, Ivan Oseledets* · ([SAE-Reasoning](https://github.com/AIRI-Institute/SAE-Reasoning) - AIRI-Institute) ![Star](https://img.shields.io/github/stars/AIRI-Institute/SAE-Reasoning.svg?style=social&label=Star)
 - [Reasoning in the Wild - Wenting Zhao](https://www.youtube.com/watch?v=F3bnOqjG28g)  :clapper: 
 - [The State of LLM Reasoning Models](https://magazine.sebastianraschka.com/p/state-of-llm-reasoning-and-inference-scaling) 
 - **Sketch-of-Thought: Efficient LLM Reasoning with Adaptive 
@@ -267,6 +282,9 @@
 
 ## Math Reasoning
 
+- [AI Mathematical Olympiad - Progress Prize 2](https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-2/discussion/572948) 
+
+	 · ([aimo2](https://github.com/imagination-research/aimo2) - imagination-research) ![Star](https://img.shields.io/github/stars/imagination-research/aimo2.svg?style=social&label=Star)
 - [**Online-DPO-R1**](https://github.com/RLHFlow/Online-DPO-R1) - RLHFlow ![Star](https://img.shields.io/github/stars/RLHFlow/Online-DPO-R1.svg?style=social&label=Star) 
 
 	 *Unlocking Effective Reasoning Without the PPO Overhead*
@@ -374,11 +392,52 @@
 
 ## O1 Reasoning
 
+- **Reinforcement Learning for Reasoning in Small LLMs: What Works and What
+  Doesn't**, `arXiv, 2503.16219`, [arxiv](http://arxiv.org/abs/2503.16219v1), [pdf](http://arxiv.org/pdf/2503.16219v1.pdf), cication: [**-1**](None) 
+
+	 *Quy-Anh Dang, Chris Ngo* · ([open-rs](https://github.com/knoveleng/open-rs) - knoveleng) ![Star](https://img.shields.io/github/stars/knoveleng/open-rs.svg?style=social&label=Star)
+- **SimpleRL-Zoo: Investigating and Taming Zero Reinforcement Learning for
+  Open Base Models in the Wild**, `arXiv, 2503.18892`, [arxiv](http://arxiv.org/abs/2503.18892v1), [pdf](http://arxiv.org/pdf/2503.18892v1.pdf), cication: [**-1**](None) 
+
+	 *Weihao Zeng, Yuzhen Huang, Qian Liu, ..., Zejun Ma, Junxian He*
+- **Think Twice: Enhancing LLM Reasoning by Scaling Multi-round Test-time
+  Thinking**, `arXiv, 2503.19855`, [arxiv](http://arxiv.org/abs/2503.19855v1), [pdf](http://arxiv.org/pdf/2503.19855v1.pdf), cication: [**-1**](None) 
+
+	 *Xiaoyu Tian, Sitong Zhao, Haotian Wang, ..., Han Zhao, Xiangang Li*
+- **Open-Reasoner-Zero: An Open Source Approach to Scaling Up Reinforcement
+  Learning on the Base Model**, `arXiv, 2503.24290`, [arxiv](http://arxiv.org/abs/2503.24290v1), [pdf](http://arxiv.org/pdf/2503.24290v1.pdf), cication: [**-1**](None) 
+
+	 *Jingcheng Hu, Yinmin Zhang, Qi Han, ..., Xiangyu Zhang, Heung-Yeung Shum*
+- **Crossing the Reward Bridge: Expanding RL with Verifiable Rewards Across
+  Diverse Domains**, `arXiv, 2503.23829`, [arxiv](http://arxiv.org/abs/2503.23829v2), [pdf](http://arxiv.org/pdf/2503.23829v2.pdf), cication: [**-1**](None) 
+
+	 *Yi Su, Dian Yu, Linfeng Song, ..., Min Zhang, Dong Yu*
+- **Rethinking Reflection in Pre-Training**, `arXiv, 2504.04022`, [arxiv](http://arxiv.org/abs/2504.04022v1), [pdf](http://arxiv.org/pdf/2504.04022v1.pdf), cication: [**-1**](None) 
+
+	 *Essential AI, :, Darsh J Shah, ..., Saurabh Srivastava, Tim Romanski*
+- **DeepSeek-R1 Thoughtology: Let's <think> about LLM Reasoning**, `arXiv, 2504.07128`, [arxiv](http://arxiv.org/abs/2504.07128v1), [pdf](http://arxiv.org/pdf/2504.07128v1.pdf), cication: [**-1**](None) 
+
+	 *Sara Vera Marjanović, Arkil Patel, Vaibhav Adlakha, ..., Karolina Stańczak, Siva Reddy*
+- **T1: Tool-integrated Self-verification for Test-time Compute Scaling in
+  Small Language Models**, `arXiv, 2504.04718`, [arxiv](http://arxiv.org/abs/2504.04718v1), [pdf](http://arxiv.org/pdf/2504.04718v1.pdf), cication: [**-1**](None) 
+
+	 *Minki Kang, Jongwon Jeong, Jaewoong Cho* · ([arxiv](https://arxiv.org/abs/2504.04718))
+- **VAPO: Efficient and Reliable Reinforcement Learning for Advanced
+  Reasoning Tasks**, `arXiv, 2504.05118`, [arxiv](http://arxiv.org/abs/2504.05118v3), [pdf](http://arxiv.org/pdf/2504.05118v3.pdf), cication: [**-1**](None) 
+
+	 *Yu Yue, Yufeng Yuan, Qiying Yu, ..., Yonghui Wu, Lin Yan*
+- [**Seed-Thinking-v1.5**](https://github.com/ByteDance-Seed/Seed-Thinking-v1.5) - ByteDance-Seed ![Star](https://img.shields.io/github/stars/ByteDance-Seed/Seed-Thinking-v1.5.svg?style=social&label=Star)
+
+	 *Advancing Superb Reasoning Models with Reinforcement Learning*
+- **A Sober Look at Progress in Language Model Reasoning: Pitfalls and Paths
+  to Reproducibility**, `arXiv, 2504.07086`, [arxiv](http://arxiv.org/abs/2504.07086v1), [pdf](http://arxiv.org/pdf/2504.07086v1.pdf), cication: [**-1**](None) 
+
+	 *Andreas Hochlehnert, Hardik Bhatnagar, Vishaal Udandarao, ..., Ameya Prabhu, Matthias Bethge*
 - **DAPO: An Open-Source LLM Reinforcement Learning System at Scale**, `arXiv, 2503.14476`, [arxiv](http://arxiv.org/abs/2503.14476v1), [pdf](http://arxiv.org/pdf/2503.14476v1.pdf), cication: [**-1**](None) 
 
 	 *Qiying Yu, Zheng Zhang, Ruofei Zhu, ..., Yonghui Wu, Mingxuan Wang*
 - [Training Reasoning Model with Dynamic Advantage Estimation on Reinforcement Learning](https://five-stetson-b51.notion.site/Training-Reasoning-Model-with-Dynamic-Advantage-Estimation-on-Reinforcement-Learning-1a830cc0904681fa9df3e076b6557a3e) 
-- [**AReaL**](https://github.com/inclusionAI/AReaL) - inclusionAI ![Star](https://img.shields.io/github/stars/inclusionAI/AReaL.svg?style=social&label=Star)
+- [**AReaL**](https://github.com/inclusionAI/AReaL) - inclusionAI ![Star](https://img.shields.io/github/stars/inclusionAI/AReaL.svg?style=social&label=Star) 
 
 	 *Ant Reasoning Reinforcement Learning for LLMs*
 - **Inference-Time Scaling for Generalist Reward Modeling**, `arXiv, 2504.02495`, [arxiv](http://arxiv.org/abs/2504.02495v2), [pdf](http://arxiv.org/pdf/2504.02495v2.pdf), cication: [**-1**](None) 
@@ -729,6 +788,9 @@
 
 ## Planning
 
+- **SPIN-Bench: How Well Do LLMs Plan Strategically and Reason Socially?**, `arXiv, 2503.12349`, [arxiv](http://arxiv.org/abs/2503.12349v3), [pdf](http://arxiv.org/pdf/2503.12349v3.pdf), cication: [**-1**](None) 
+
+	 *Jianzhu Yao, Kevin Wang, Ryan Hsieh, ..., Zhangyang Wang, Pramod Viswanath*
 - **Learning to Plan & Reason for Evaluation with Thinking-LLM-as-a-Judge**, `arXiv, 2501.18099`, [arxiv](http://arxiv.org/abs/2501.18099v1), [pdf](http://arxiv.org/pdf/2501.18099v1.pdf), cication: [**-1**](None) 
 
 	 *Swarnadeep Saha, Xian Li, Marjan Ghazvininejad, ..., Jason Weston, Tianlu Wang* · ([𝕏](https://x.com/jaseweston/status/1885153770662760472))

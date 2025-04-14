@@ -10,9 +10,16 @@
 
 ## Survey
 
+- **Technologies on Effectiveness and Efficiency: A Survey of State Spaces
+  Models**, `arXiv, 2503.11224`, [arxiv](http://arxiv.org/abs/2503.11224v1), [pdf](http://arxiv.org/pdf/2503.11224v1.pdf), cication: [**-1**](None) 
+
+	 *Xingtai Lv, Youbang Sun, Kaiyan Zhang, ..., Ning Ding, Bowen Zhou*
 
 ## LLM Models
 
+- **RWKV-7 "Goose" with Expressive Dynamic State Evolution**, `arXiv, 2503.14456`, [arxiv](http://arxiv.org/abs/2503.14456v2), [pdf](http://arxiv.org/pdf/2503.14456v2.pdf), cication: [**-1**](None) 
+
+	 *Bo Peng, Ruichong Zhang, Daniel Goldstein, ..., Daniel Wuttke, Christian Zhou-Zheng* · ([RWKV-LM](https://github.com/RWKV/RWKV-LM) - RWKV) ![Star](https://img.shields.io/github/stars/RWKV/RWKV-LM.svg?style=social&label=Star)
 - **xLSTM 7B: A Recurrent LLM for Fast and Efficient Inference**, `arXiv, 2503.13427`, [arxiv](http://arxiv.org/abs/2503.13427v1), [pdf](http://arxiv.org/pdf/2503.13427v1.pdf), cication: [**-1**](None) 
 
 	 *Maximilian Beck, Korbinian Pöppel, Phillip Lippe, ..., Sebastian Böck, Sepp Hochreiter* · ([xlstm](https://github.com/NX-AI/xlstm) - NX-AI) ![Star](https://img.shields.io/github/stars/NX-AI/xlstm.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/NX-AI/xLSTM-7b))

@@ -14,11 +14,25 @@
 
 ## Survey
 
+- **Towards Trustworthy GUI Agents: A Survey**, `arXiv, 2503.23434`, [arxiv](http://arxiv.org/abs/2503.23434v1), [pdf](http://arxiv.org/pdf/2503.23434v1.pdf), cication: [**-1**](None) 
+
+	 *Yucheng Shi, Wenhao Yu, Wenlin Yao, ..., Wenhu Chen, Ninghao Liu* · ([Awesome-Trustworthy-GUI-Agents](https://github.com/sycny/Awesome-Trustworthy-GUI-Agents) - sycny) ![Star](https://img.shields.io/github/stars/sycny/Awesome-Trustworthy-GUI-Agents.svg?style=social&label=Star)
 - 🌟 [WebAgentLab is building an open-source community focused on Web Agent and the broader GUI Agent field.](https://webagentlab.notion.site/homepage) 
 - [UI Agents（智能体）技术综述](https://www.breezedeus.com/article/ui-agent) 
 
 ## GUI Agent
 
+- **API Agents vs. GUI Agents: Divergence and Convergence**, `arXiv, 2503.11069`, [arxiv](http://arxiv.org/abs/2503.11069v1), [pdf](http://arxiv.org/pdf/2503.11069v1.pdf), cication: [**-1**](None) 
+
+	 *Chaoyun Zhang, Shilin He, Liqun Li, ..., Qingwei Lin, Dongmei Zhang*
+- **JARVIS-VLA: Post-Training Large-Scale Vision Language Models to Play
+  Visual Games with Keyboards and Mouse**, `arXiv, 2503.16365`, [arxiv](http://arxiv.org/abs/2503.16365v1), [pdf](http://arxiv.org/pdf/2503.16365v1.pdf), cication: [**-1**](None) 
+
+	 *Muyao Li, Zihao Wang, Kaichen He, ..., Xiaojian Ma, Yitao Liang* · ([craftjarvis.github](https://craftjarvis.github.io/JarvisVLA.))
+- **Agent S2: A Compositional Generalist-Specialist Framework for Computer
+  Use Agents**, `arXiv, 2504.00906`, [arxiv](http://arxiv.org/abs/2504.00906v1), [pdf](http://arxiv.org/pdf/2504.00906v1.pdf), cication: [**-1**](None) 
+
+	 *Saaket Agashe, Kyle Wong, Vincent Tu, ..., Ang Li, Xin Eric Wang* · ([Agent-S](https://github.com/simular-ai/Agent-S) - simular-ai) ![Star](https://img.shields.io/github/stars/simular-ai/Agent-S.svg?style=social&label=Star)
 - **Advancing Mobile GUI Agents: A Verifier-Driven Approach to Practical 
   Deployment**, `arXiv, 2503.15937`, [arxiv](http://arxiv.org/abs/2503.15937v2), [pdf](http://arxiv.org/pdf/2503.15937v2.pdf), cication: [**-1**](None) 
 

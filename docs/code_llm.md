@@ -15,6 +15,9 @@
 
 ## Code LLM
 
+- **Z1: Efficient Test-time Scaling with Code**, `arXiv, 2504.00810`, [arxiv](http://arxiv.org/abs/2504.00810v1), [pdf](http://arxiv.org/pdf/2504.00810v1.pdf), cication: [**-1**](None) 
+
+	 *Zhaojian Yu, Yinghao Wu, Yilun Zhao, ..., Arman Cohan, Xiao-Ping Zhang*
 - [OlympicCoder](https://huggingface.co/blog/open-r1/update-3)  🤗 
 - **Multi-Turn Code Generation Through Single-Step Rewards**, `arXiv, 2502.20380`, [arxiv](http://arxiv.org/abs/2502.20380v1), [pdf](http://arxiv.org/pdf/2502.20380v1.pdf), cication: [**-1**](None) 
 

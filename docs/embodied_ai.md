@@ -20,6 +20,12 @@
 
 ## Embodied AI
 
+- **Cosmos-Reason1: From Physical Common Sense To Embodied Reasoning**, `arXiv, 2503.15558`, [arxiv](http://arxiv.org/abs/2503.15558v2), [pdf](http://arxiv.org/pdf/2503.15558v2.pdf), cication: [**-1**](None) 
+
+	 *NVIDIA, :, Alisson Azzolini, ..., Xiaohui Zeng, Zhe Zhang* · ([cosmos-reason1.](https://github.com/nvidia-cosmos/cosmos-reason1.) - nvidia-cosmos) ![Star](https://img.shields.io/github/stars/nvidia-cosmos/cosmos-reason1..svg?style=social&label=Star)
+- **Gemini Robotics: Bringing AI into the Physical World**, `arXiv, 2503.20020`, [arxiv](http://arxiv.org/abs/2503.20020v1), [pdf](http://arxiv.org/pdf/2503.20020v1.pdf), cication: [**-1**](None) 
+
+	 *Gemini Robotics Team, Saminda Abeyruwan, Joshua Ainslie, ..., Allan Zhou, Yuxiang Zhou*
 - [Gemini Robotics brings AI into the physical world](https://deepmind.google/discover/blog/gemini-robotics-brings-ai-into-the-physical-world/) 
 - **World Modeling Makes a Better Planner: Dual Preference Optimization for 
   Embodied Task Planning**, `arXiv, 2503.10480`, [arxiv](http://arxiv.org/abs/2503.10480v1), [pdf](http://arxiv.org/pdf/2503.10480v1.pdf), cication: [**-1**](None) 

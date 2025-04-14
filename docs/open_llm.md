@@ -25,6 +25,12 @@
 
 ## English Models
 
+- **Gemma 3 Technical Report**, `arXiv, 2503.19786`, [arxiv](http://arxiv.org/abs/2503.19786v1), [pdf](http://arxiv.org/pdf/2503.19786v1.pdf), cication: [**-1**](None) 
+
+	 *Gemma Team, Aishwarya Kamath, Johan Ferret, ..., Robert Dadashi, Léonard Hussenot*
+- **Command A: An Enterprise-Ready Large Language Model**, `arXiv, 2504.00698`, [arxiv](http://arxiv.org/abs/2504.00698v1), [pdf](http://arxiv.org/pdf/2504.00698v1.pdf), cication: [**-1**](None) 
+
+	 *Team Cohere, Aakanksha, Arash Ahmadian, ..., Zhenyu Zhao, Zhoujie Zhao*
 - [Gemma3 - 27B, 12B, 4B & 1B - 128K context, multimodal AND multilingual!](https://x.com/reach_vb/status/1899728796586025282)  𝕏 
 
 	 · ([huggingface](https://huggingface.co/collections/google/gemma-3-release-67c6c6f89c4f76621268bb6d)) · ([developers.googleblog](https://developers.googleblog.com/en/introducing-gemma3/))

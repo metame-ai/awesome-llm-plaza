@@ -16,6 +16,17 @@
 
 ## Survey
 
+- **Survey on Evaluation of LLM-based Agents**, `arXiv, 2503.16416`, [arxiv](http://arxiv.org/abs/2503.16416v1), [pdf](http://arxiv.org/pdf/2503.16416v1.pdf), cication: [**-1**](None) 
+
+	 *Asaf Yehudai, Lilach Eden, Alan Li, ..., Arman Cohan, Michal Shmueli-Scheuer*
+- **Large Language Model Agent: A Survey on Methodology, Applications and
+  Challenges**, `arXiv, 2503.21460`, [arxiv](http://arxiv.org/abs/2503.21460v1), [pdf](http://arxiv.org/pdf/2503.21460v1.pdf), cication: [**-1**](None) 
+
+	 *Junyu Luo, Weizhi Zhang, Ye Yuan, ..., Philip S. Yu, Ming Zhang* · ([Awesome-Agent-Papers.](https://github.com/luo-junyu/Awesome-Agent-Papers.) - luo-junyu) ![Star](https://img.shields.io/github/stars/luo-junyu/Awesome-Agent-Papers..svg?style=social&label=Star)
+- 🌟 **Advances and Challenges in Foundation Agents: From Brain-Inspired
+  Intelligence to Evolutionary, Collaborative, and Safe Systems**, `arXiv, 2504.01990`, [arxiv](http://arxiv.org/abs/2504.01990v1), [pdf](http://arxiv.org/pdf/2504.01990v1.pdf), cication: [**-1**](None) 
+
+	 *Bang Liu, Xinfeng Li, Jiayi Zhang, ..., Xiaoliang Qi, Chenglin Wu*
 - **A Survey on the Optimization of Large Language Model-based Agents**, `arXiv, 2503.12434`, [arxiv](http://arxiv.org/abs/2503.12434v1), [pdf](http://arxiv.org/pdf/2503.12434v1.pdf), cication: [**-1**](None) 
 
 	 *Shangheng Du, Jiabao Zhao, Jinxin Shi, ..., Yanhong Bai, Liang He* · ([LLM-Agent-Optimization](https://github.com/YoungDubbyDu/LLM-Agent-Optimization) - YoungDubbyDu) ![Star](https://img.shields.io/github/stars/YoungDubbyDu/LLM-Agent-Optimization.svg?style=social&label=Star)
@@ -37,6 +48,9 @@
 
 ## Agents
 
+- **Open Deep Search: Democratizing Search with Open-source Reasoning Agents**, `arXiv, 2503.20201`, [arxiv](http://arxiv.org/abs/2503.20201v1), [pdf](http://arxiv.org/pdf/2503.20201v1.pdf), cication: [**-1**](None) 
+
+	 *Salaheddin Alzubi, Creston Brooks, Purva Chiniya, ..., Himanshu Tyagi, Pramod Viswanath*
 - [Agent TARS](https://agent-tars.com/) 
 
 	 · ([UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop/blob/main/apps/agent-tars/README.md) - bytedance) ![Star](https://img.shields.io/github/stars/bytedance/UI-TARS-desktop.svg?style=social&label=Star)
@@ -171,6 +185,9 @@
 
 ## UI Agent
 
+- **API Agents vs. GUI Agents: Divergence and Convergence**, `arXiv, 2503.11069`, [arxiv](http://arxiv.org/abs/2503.11069v1), [pdf](http://arxiv.org/pdf/2503.11069v1.pdf), cication: [**-1**](None) 
+
+	 *Chaoyun Zhang, Shilin He, Liqun Li, ..., Qingwei Lin, Dongmei Zhang*
 - 🌟 [CogAgent-9B-20241220 技术报告](https://cogagent.aminer.cn/blog) 
 - [Introducing Operator](https://openai.com/index/introducing-operator/) 
 - 🌟 **UI-TARS: Pioneering Automated GUI Interaction with Native Agents**, `arXiv, 2501.12326`, [arxiv](http://arxiv.org/abs/2501.12326v1), [pdf](http://arxiv.org/pdf/2501.12326v1.pdf), cication: [**-1**](None) 
