@@ -50,15 +50,15 @@
 - **Inside-Out: Hidden Factual Knowledge in LLMs**, `arXiv, 2503.15299`, [arxiv](http://arxiv.org/abs/2503.15299v2), [pdf](http://arxiv.org/pdf/2503.15299v2.pdf), cication: [**-1**](None) 
 
 	 *Zorik Gekhman, Eyal Ben David, Hadas Orgad, ..., Jonathan Herzig, Roi Reichart*
-- **I Have Covered All the Bases Here: Interpreting Reasoning Features in
+- **I Have Covered All the Bases Here: Interpreting Reasoning Features in 
   Large Language Models via Sparse Autoencoders**, `arXiv, 2503.18878`, [arxiv](http://arxiv.org/abs/2503.18878v1), [pdf](http://arxiv.org/pdf/2503.18878v1.pdf), cication: [**-1**](None) 
 
 	 *Andrey Galichin, Alexey Dontsov, Polina Druzhinina, ..., Elena Tutubalina, Ivan Oseledets* · ([SAE-Reasoning](https://github.com/AIRI-Institute/SAE-Reasoning) - AIRI-Institute) ![Star](https://img.shields.io/github/stars/AIRI-Institute/SAE-Reasoning.svg?style=social&label=Star)
-- **Landscape of Thoughts: Visualizing the Reasoning Process of Large
+- **Landscape of Thoughts: Visualizing the Reasoning Process of Large 
   Language Models**, `arXiv, 2503.22165`, [arxiv](http://arxiv.org/abs/2503.22165v1), [pdf](http://arxiv.org/pdf/2503.22165v1.pdf), cication: [**-1**](None) 
 
 	 *Zhanke Zhou, Zhaocheng Zhu, Xuan Li, ..., Jian Tang, Bo Han* · ([landscape-of-thoughts.](https://github.com/tmlr-group/landscape-of-thoughts.) - tmlr-group) ![Star](https://img.shields.io/github/stars/tmlr-group/landscape-of-thoughts..svg?style=social&label=Star)
-- **OLMoTrace: Tracing Language Model Outputs Back to Trillions of Training
+- **OLMoTrace: Tracing Language Model Outputs Back to Trillions of Training 
   Tokens**, `arXiv, 2504.07096`, [arxiv](http://arxiv.org/abs/2504.07096v1), [pdf](http://arxiv.org/pdf/2504.07096v1.pdf), cication: [**-1**](None) 
 
 	 *Jiacheng Liu, Taylor Blanton, Yanai Elazar, ..., Ali Farhadi, Jesse Dodge*

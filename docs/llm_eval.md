@@ -20,7 +20,7 @@
 
 ## LLM Evaluation
 
-- **Recitation over Reasoning: How Cutting-Edge Language Models Can Fail on
+- **Recitation over Reasoning: How Cutting-Edge Language Models Can Fail on 
   Elementary School-Level Reasoning Problems?**, `arXiv, 2504.00509`, [arxiv](http://arxiv.org/abs/2504.00509v2), [pdf](http://arxiv.org/pdf/2504.00509v2.pdf), cication: [**-1**](None) 
 
 	 *Kai Yan, Yufei Xu, Zhengyin Du, ..., Xiaowen Guo, Jiecao Chen*

@@ -10,7 +10,7 @@
 
 ## Survey
 
-- **Technologies on Effectiveness and Efficiency: A Survey of State Spaces
+- **Technologies on Effectiveness and Efficiency: A Survey of State Spaces 
   Models**, `arXiv, 2503.11224`, [arxiv](http://arxiv.org/abs/2503.11224v1), [pdf](http://arxiv.org/pdf/2503.11224v1.pdf), cication: [**-1**](None) 
 
 	 *Xingtai Lv, Youbang Sun, Kaiyan Zhang, ..., Ning Ding, Bowen Zhou*

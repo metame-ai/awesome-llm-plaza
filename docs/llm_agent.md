@@ -19,11 +19,11 @@
 - **Survey on Evaluation of LLM-based Agents**, `arXiv, 2503.16416`, [arxiv](http://arxiv.org/abs/2503.16416v1), [pdf](http://arxiv.org/pdf/2503.16416v1.pdf), cication: [**-1**](None) 
 
 	 *Asaf Yehudai, Lilach Eden, Alan Li, ..., Arman Cohan, Michal Shmueli-Scheuer*
-- **Large Language Model Agent: A Survey on Methodology, Applications and
+- **Large Language Model Agent: A Survey on Methodology, Applications and 
   Challenges**, `arXiv, 2503.21460`, [arxiv](http://arxiv.org/abs/2503.21460v1), [pdf](http://arxiv.org/pdf/2503.21460v1.pdf), cication: [**-1**](None) 
 
 	 *Junyu Luo, Weizhi Zhang, Ye Yuan, ..., Philip S. Yu, Ming Zhang* · ([Awesome-Agent-Papers.](https://github.com/luo-junyu/Awesome-Agent-Papers.) - luo-junyu) ![Star](https://img.shields.io/github/stars/luo-junyu/Awesome-Agent-Papers..svg?style=social&label=Star)
-- 🌟 **Advances and Challenges in Foundation Agents: From Brain-Inspired
+- 🌟 **Advances and Challenges in Foundation Agents: From Brain-Inspired 
   Intelligence to Evolutionary, Collaborative, and Safe Systems**, `arXiv, 2504.01990`, [arxiv](http://arxiv.org/abs/2504.01990v1), [pdf](http://arxiv.org/pdf/2504.01990v1.pdf), cication: [**-1**](None) 
 
 	 *Bang Liu, Xinfeng Li, Jiayi Zhang, ..., Xiaoliang Qi, Chenglin Wu*
