@@ -143,7 +143,7 @@
 
 ## Projects
 
-- [**codex**](https://github.com/openai/codex) - openai ![Star](https://img.shields.io/github/stars/openai/codex.svg?style=social&label=Star)
+- [**codex**](https://github.com/openai/codex) - openai ![Star](https://img.shields.io/github/stars/openai/codex.svg?style=social&label=Star) 
 - [**awesome-vibe-coding**](https://github.com/filipecalegario/awesome-vibe-coding) - filipecalegario ![Star](https://img.shields.io/github/stars/filipecalegario/awesome-vibe-coding.svg?style=social&label=Star) 
 - [**claude-code**](https://github.com/dnakov/claude-code) - dnakov ![Star](https://img.shields.io/github/stars/dnakov/claude-code.svg?style=social&label=Star) 
 - [**deepclaude**](https://github.com/getAsterisk/deepclaude) - getAsterisk ![Star](https://img.shields.io/github/stars/getAsterisk/deepclaude.svg?style=social&label=Star) 
