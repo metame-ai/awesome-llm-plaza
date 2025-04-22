@@ -17,6 +17,10 @@
 
 ## LLM Models
 
+- **Nemotron-H: A Family of Accurate and Efficient Hybrid Mamba-Transformer
+  Models**, `arXiv, 2504.03624`, [arxiv](http://arxiv.org/abs/2504.03624v3), [pdf](http://arxiv.org/pdf/2504.03624v3.pdf), cication: [**-1**](None) 
+
+	 *NVIDIA, :, Aaron Blakeman, ..., Zhuolin Yang, Zijia Chen*
 - **RWKV-7 "Goose" with Expressive Dynamic State Evolution**, `arXiv, 2503.14456`, [arxiv](http://arxiv.org/abs/2503.14456v2), [pdf](http://arxiv.org/pdf/2503.14456v2.pdf), cication: [**-1**](None) 
 
 	 *Bo Peng, Ruichong Zhang, Daniel Goldstein, ..., Daniel Wuttke, Christian Zhou-Zheng* · ([RWKV-LM](https://github.com/RWKV/RWKV-LM) - RWKV) ![Star](https://img.shields.io/github/stars/RWKV/RWKV-LM.svg?style=social&label=Star)

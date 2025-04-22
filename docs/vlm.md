@@ -439,6 +439,9 @@
 
 ## Reasoning
 
+- **Perception-R1: Pioneering Perception Policy with Reinforcement Learning**, `arXiv, 2504.07954`, [arxiv](http://arxiv.org/abs/2504.07954v1), [pdf](http://arxiv.org/pdf/2504.07954v1.pdf), cication: [**-1**](None) 
+
+	 *En Yu, Kangheng Lin, Liang Zhao, ..., Jingyu Wang, Wenbing Tao*
 - **R1-VL: Learning to Reason with Multimodal Large Language Models via 
   Step-wise Group Relative Policy Optimization**, `arXiv, 2503.12937`, [arxiv](http://arxiv.org/abs/2503.12937v1), [pdf](http://arxiv.org/pdf/2503.12937v1.pdf), cication: [**-1**](None) 
 
