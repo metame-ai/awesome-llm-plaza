@@ -25,7 +25,7 @@
 
 ## English Models
 
-- [Granite-3.3-8B-Instruct is a 8-billion parameter 128K context length language model fine-tuned for improved reasoning and instruction-following capabilities.](https://huggingface.co/ibm-granite/granite-3.3-8b-instruct)  🤗
+- [Granite-3.3-8B-Instruct is a 8-billion parameter 128K context length language model fine-tuned for improved reasoning and instruction-following capabilities.](https://huggingface.co/ibm-granite/granite-3.3-8b-instruct)  🤗 
 - **Gemma 3 Technical Report**, `arXiv, 2503.19786`, [arxiv](http://arxiv.org/abs/2503.19786v1), [pdf](http://arxiv.org/pdf/2503.19786v1.pdf), cication: [**-1**](None) 
 
 	 *Gemma Team, Aishwarya Kamath, Johan Ferret, ..., Robert Dadashi, Léonard Hussenot*
@@ -92,7 +92,7 @@
 
 ## Chinese Models
 
-- [MAI-DS-R1 is a DeepSeek-R1 reasoning model that has been post-trained by Microsoft AI team to fill in information gaps in the previous version of the model and to improve its risk profile, while maintaining R1 reasoning capabilities.](https://huggingface.co/microsoft/MAI-DS-R1)  🤗
+- [MAI-DS-R1 is a DeepSeek-R1 reasoning model that has been post-trained by Microsoft AI team to fill in information gaps in the previous version of the model and to improve its risk profile, while maintaining R1 reasoning capabilities.](https://huggingface.co/microsoft/MAI-DS-R1)  🤗 
 - [DeepSeek-V3-0324 demonstrates notable improvements over its predecessor, DeepSeek-V3, in several key aspects.](https://huggingface.co/deepseek-ai/DeepSeek-V3-0324)  🤗 
 - [R1 1776 is a DeepSeek-R1 reasoning model that has been post-trained by Perplexity AI to remove Chinese Communist Party censorship.](https://huggingface.co/perplexity-ai/r1-1776)  🤗 
 
@@ -140,7 +140,7 @@
 
 ## Reasoning
 
-- [**Skywork-OR1**](https://github.com/SkyworkAI/Skywork-OR1) - SkyworkAI ![Star](https://img.shields.io/github/stars/SkyworkAI/Skywork-OR1.svg?style=social&label=Star)
+- [**Skywork-OR1**](https://github.com/SkyworkAI/Skywork-OR1) - SkyworkAI ![Star](https://img.shields.io/github/stars/SkyworkAI/Skywork-OR1.svg?style=social&label=Star) 
 
 	 · ([capricious-hydrogen-41c.notion](https://capricious-hydrogen-41c.notion.site/Skywork-Open-Reaonser-Series-1d0bc9ae823a80459b46c149e4f51680))
 - [Llama-3.3-Nemotron-Super-49B-v1 is a large language model (LLM) which is a derivative of Meta Llama-3.3-70B-Instruct (AKA the reference model).](https://huggingface.co/nvidia/Llama-3_3-Nemotron-Super-49B-v1)  🤗 

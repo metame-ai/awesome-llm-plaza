@@ -398,7 +398,7 @@
 - **Concise Reasoning via Reinforcement Learning**, `arXiv, 2504.05185`, [arxiv](http://arxiv.org/abs/2504.05185v1), [pdf](http://arxiv.org/pdf/2504.05185v1.pdf), cication: [**-1**](None) 
 
 	 *Mehdi Fatemi, Banafsheh Rafiee, Mingjie Tang, ..., Kartik Talamadupula* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650964601&idx=2&sn=54693ad66d4d8a324fc155f1a3b26db8&chksm=851c356895eb9034829e88c1377fcf60be9cf580afc8eacd7ea67fff3f1f583dfd6a28080360&scene=0&xtrack=1))
-- [**Skywork-OR1**](https://github.com/SkyworkAI/Skywork-OR1) - SkyworkAI ![Star](https://img.shields.io/github/stars/SkyworkAI/Skywork-OR1.svg?style=social&label=Star)
+- [**Skywork-OR1**](https://github.com/SkyworkAI/Skywork-OR1) - SkyworkAI ![Star](https://img.shields.io/github/stars/SkyworkAI/Skywork-OR1.svg?style=social&label=Star) 
 
 	 · ([capricious-hydrogen-41c.notion](https://capricious-hydrogen-41c.notion.site/Skywork-Open-Reaonser-Series-1d0bc9ae823a80459b46c149e4f51680))
 - **Reinforcement Learning for Reasoning in Small LLMs: What Works and What 
