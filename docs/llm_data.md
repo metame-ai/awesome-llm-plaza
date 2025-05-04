@@ -20,6 +20,18 @@
 
 ## LLM Data
 
+- **CLIMB: CLustering-based Iterative Data Mixture Bootstrapping for
+  Language Model Pre-training**, `arXiv, 2504.13161`, [arxiv](http://arxiv.org/abs/2504.13161v1), [pdf](http://arxiv.org/pdf/2504.13161v1.pdf), cication: [**-1**](None) 
+
+	 *Shizhe Diao, Yu Yang, Yonggan Fu, ..., Jan Kautz, Pavlo Molchanov* · ([research.nvidia](https://research.nvidia.com/labs/lpr/climb/))
+- 🌟 **MIG: Automatic Data Selection for Instruction Tuning by Maximizing
+  Information Gain in Semantic Space**, `arXiv, 2504.13835`, [arxiv](http://arxiv.org/abs/2504.13835v1), [pdf](http://arxiv.org/pdf/2504.13835v1.pdf), cication: [**-1**](None) 
+
+	 *Yicheng Chen, Yining Li, Kai Hu, ..., Haochen Ye, Kai Chen* · ([yichengchen24.github](https://yichengchen24.github.io/projects/mig)) · ([MIG](https://github.com/yichengchen24/MIG) - yichengchen24) ![Star](https://img.shields.io/github/stars/yichengchen24/MIG.svg?style=social&label=Star)
+- **Pre-DPO: Improving Data Utilization in Direct Preference Optimization
+  Using a Guiding Reference Model**, `arXiv, 2504.15843`, [arxiv](http://arxiv.org/abs/2504.15843v2), [pdf](http://arxiv.org/pdf/2504.15843v2.pdf), cication: [**-1**](None) 
+
+	 *Junshu Pan, Wei Shen, Shulin Huang, ..., Qiji Zhou, Yue Zhang* · ([Pre-DPO](https://github.com/DtYXs/Pre-DPO) - DtYXs) ![Star](https://img.shields.io/github/stars/DtYXs/Pre-DPO.svg?style=social&label=Star)
 - [filtered version of DCLM dataset using FineWeb-Edu educational quality classifier.](https://huggingface.co/datasets/HuggingFaceTB/dclm-edu)  🤗 
 - **Predictive Data Selection: The Data That Predicts Is the Data That 
   Teaches**, `arXiv, 2503.00808`, [arxiv](http://arxiv.org/abs/2503.00808v2), [pdf](http://arxiv.org/pdf/2503.00808v2.pdf), cication: [**-1**](None) 
@@ -154,6 +166,10 @@
 
 ## Reasoning
 
+- **DeepMath-103K: A Large-Scale, Challenging, Decontaminated, and
+  Verifiable Mathematical Dataset for Advancing Reasoning**, `arXiv, 2504.11456`, [arxiv](http://arxiv.org/abs/2504.11456v1), [pdf](http://arxiv.org/pdf/2504.11456v1.pdf), cication: [**-1**](None) 
+
+	 *Zhiwei He, Tian Liang, Jiahao Xu, ..., Haitao Mi, Dong Yu* · ([DeepMath.](https://github.com/zwhe99/DeepMath.) - zwhe99) ![Star](https://img.shields.io/github/stars/zwhe99/DeepMath..svg?style=social&label=Star)
 - [**Chinese-Data-Distill-From-R1**](https://github.com/YunwenTechnology/Chinese-Data-Distill-From-R1) - YunwenTechnology ![Star](https://img.shields.io/github/stars/YunwenTechnology/Chinese-Data-Distill-From-R1.svg?style=social&label=Star) 
 - **NaturalReasoning: Reasoning in the Wild with 2.8M Challenging Questions**, `arXiv, 2502.13124`, [arxiv](http://arxiv.org/abs/2502.13124v2), [pdf](http://arxiv.org/pdf/2502.13124v2.pdf), cication: [**-1**](None) 
 

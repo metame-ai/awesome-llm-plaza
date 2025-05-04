@@ -20,6 +20,13 @@
 
 ## LLM Evaluation
 
+- 🌟 **The Bitter Lesson Learned from 2,000+ Multilingual Benchmarks**, `arXiv, 2504.15521`, [arxiv](http://arxiv.org/abs/2504.15521v1), [pdf](http://arxiv.org/pdf/2504.15521v1.pdf), cication: [**-1**](None) 
+
+	 *Minghao Wu, Weixuan Wang, Sinuo Liu, ..., Weihua Luo, Kaifu Zhang*
+- **PHYBench: Holistic Evaluation of Physical Perception and Reasoning in
+  Large Language Models**, `arXiv, 2504.16074`, [arxiv](http://arxiv.org/abs/2504.16074v1), [pdf](http://arxiv.org/pdf/2504.16074v1.pdf), cication: [**-1**](None) 
+
+	 *Shi Qiu, Shaoyang Guo, Zhuo-Yang Song, ..., Muhan Zhang, Hua Xing Zhu*
 - **Recitation over Reasoning: How Cutting-Edge Language Models Can Fail on 
   Elementary School-Level Reasoning Problems?**, `arXiv, 2504.00509`, [arxiv](http://arxiv.org/abs/2504.00509v2), [pdf](http://arxiv.org/pdf/2504.00509v2.pdf), cication: [**-1**](None) 
 

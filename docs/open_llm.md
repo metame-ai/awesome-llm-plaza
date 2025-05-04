@@ -25,6 +25,9 @@
 
 ## English Models
 
+- **Trillion 7B Technical Report**, `arXiv, 2504.15431`, [arxiv](http://arxiv.org/abs/2504.15431v1), [pdf](http://arxiv.org/pdf/2504.15431v1.pdf), cication: [**-1**](None) 
+
+	 *Sungjun Han, Juyoung Suk, Suyeong An, ..., Seungtaek Choi, Jamin Shin*
 - [Granite-3.3-8B-Instruct is a 8-billion parameter 128K context length language model fine-tuned for improved reasoning and instruction-following capabilities.](https://huggingface.co/ibm-granite/granite-3.3-8b-instruct)  🤗 
 - **Gemma 3 Technical Report**, `arXiv, 2503.19786`, [arxiv](http://arxiv.org/abs/2503.19786v1), [pdf](http://arxiv.org/pdf/2503.19786v1.pdf), cication: [**-1**](None) 
 
@@ -92,6 +95,9 @@
 
 ## Chinese Models
 
+- [Qwen3: Think Deeper, Act Faster](https://qwenlm.github.io/blog/qwen3/) 
+
+	 · ([Qwen3](https://github.com/QwenLM/Qwen3) - QwenLM) ![Star](https://img.shields.io/github/stars/QwenLM/Qwen3.svg?style=social&label=Star)
 - [MAI-DS-R1 is a DeepSeek-R1 reasoning model that has been post-trained by Microsoft AI team to fill in information gaps in the previous version of the model and to improve its risk profile, while maintaining R1 reasoning capabilities.](https://huggingface.co/microsoft/MAI-DS-R1)  🤗 
 - [DeepSeek-V3-0324 demonstrates notable improvements over its predecessor, DeepSeek-V3, in several key aspects.](https://huggingface.co/deepseek-ai/DeepSeek-V3-0324)  🤗 
 - [R1 1776 is a DeepSeek-R1 reasoning model that has been post-trained by Perplexity AI to remove Chinese Communist Party censorship.](https://huggingface.co/perplexity-ai/r1-1776)  🤗 

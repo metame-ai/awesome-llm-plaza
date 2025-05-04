@@ -18,6 +18,9 @@
 
 ## Survey
 
+- **Efficient Reasoning Models: A Survey**, `arXiv, 2504.10903`, [arxiv](http://arxiv.org/abs/2504.10903v1), [pdf](http://arxiv.org/pdf/2504.10903v1.pdf), cication: [**-1**](None) 
+
+	 *Sicheng Feng, Gongfan Fang, Xinyin Ma, ..., Xinchao Wang*
 - **Stop Overthinking: A Survey on Efficient Reasoning for Large Language 
   Models**, `arXiv, 2503.16419`, [arxiv](http://arxiv.org/abs/2503.16419v2), [pdf](http://arxiv.org/pdf/2503.16419v2.pdf), cication: [**-1**](None) 
 
@@ -282,6 +285,13 @@
 
 ## Math Reasoning
 
+- 🌟 [**DeepSeek-Prover-V2**](https://github.com/deepseek-ai/DeepSeek-Prover-V2) - deepseek-ai ![Star](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-Prover-V2.svg?style=social&label=Star)
+
+	 *Advancing Formal Mathematical Reasoning via Reinforcement Learning for Subgoal Decomposition*
+- **AIMO-2 Winning Solution: Building State-of-the-Art Mathematical
+  Reasoning Models with OpenMathReasoning dataset**, `arXiv, 2504.16891`, [arxiv](http://arxiv.org/abs/2504.16891v1), [pdf](http://arxiv.org/pdf/2504.16891v1.pdf), cication: [**-1**](None) 
+
+	 *Ivan Moshkov, Darragh Hanley, Ivan Sorokin, ..., Wei Du, Igor Gitman*
 - [AI Mathematical Olympiad - Progress Prize 2](https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-2/discussion/572948) 
 
 	 · ([aimo2](https://github.com/imagination-research/aimo2) - imagination-research) ![Star](https://img.shields.io/github/stars/imagination-research/aimo2.svg?style=social&label=Star)
@@ -392,6 +402,47 @@
 
 ## O1 Reasoning
 
+- 🌟 **Does Reinforcement Learning Really Incentivize Reasoning Capacity in
+  LLMs Beyond the Base Model?**, `arXiv, 2504.13837`, [arxiv](http://arxiv.org/abs/2504.13837v1), [pdf](http://arxiv.org/pdf/2504.13837v1.pdf), cication: [**-1**](None) 
+
+	 *Yang Yue, Zhiqi Chen, Rui Lu, ..., Shiji Song, Gao Huang* · ([limit-of-RLVR.github](https://limit-of-RLVR.github.io))
+- 🌟 **TTRL: Test-Time Reinforcement Learning**, `arXiv, 2504.16084`, [arxiv](http://arxiv.org/abs/2504.16084v1), [pdf](http://arxiv.org/pdf/2504.16084v1.pdf), cication: [**-1**](None) 
+
+	 *Yuxin Zuo, Kaiyan Zhang, Shang Qu, ..., Ning Ding, Bowen Zhou* · ([TTRL](https://github.com/PRIME-RL/TTRL) - PRIME-RL) ![Star](https://img.shields.io/github/stars/PRIME-RL/TTRL.svg?style=social&label=Star)
+- **SRPO: A Cross-Domain Implementation of Large-Scale Reinforcement
+  Learning on LLM**, `arXiv, 2504.14286`, [arxiv](http://arxiv.org/abs/2504.14286v2), [pdf](http://arxiv.org/pdf/2504.14286v2.pdf), cication: [**-1**](None) 
+
+	 *Xiaojiang Zhang, Jinghui Wang, Zifei Cheng, ..., Bin Chen, Bing Yu*
+- **xVerify: Efficient Answer Verifier for Reasoning Model Evaluations**, `arXiv, 2504.10481`, [arxiv](http://arxiv.org/abs/2504.10481v1), [pdf](http://arxiv.org/pdf/2504.10481v1.pdf), cication: [**-1**](None) 
+
+	 *Ding Chen, Qingchen Yu, Pengyuan Wang, ..., Minchuan Yang, Zhiyu Li* · ([xVerify](https://github.com/IAAR-Shanghai/xVerify) - IAAR-Shanghai) ![Star](https://img.shields.io/github/stars/IAAR-Shanghai/xVerify.svg?style=social&label=Star)
+- **Genius: A Generalizable and Purely Unsupervised Self-Training Framework
+  For Advanced Reasoning**, `arXiv, 2504.08672`, [arxiv](http://arxiv.org/abs/2504.08672v1), [pdf](http://arxiv.org/pdf/2504.08672v1.pdf), cication: [**-1**](None) 
+
+	 *Fangzhi Xu, Hang Yan, Chang Ma, ..., Jun Liu, Zhiyong Wu* · ([Genius.](https://github.com/xufangzhi/Genius.) - xufangzhi) ![Star](https://img.shields.io/github/stars/xufangzhi/Genius..svg?style=social&label=Star)
+- **Heimdall: test-time scaling on the generative verification**, `arXiv, 2504.10337`, [arxiv](http://arxiv.org/abs/2504.10337v2), [pdf](http://arxiv.org/pdf/2504.10337v2.pdf), cication: [**-1**](None) 
+
+	 *Wenlei Shi, Xing Jin*
+- 🌟 **Learning to Reason under Off-Policy Guidance**, `arXiv, 2504.14945`, [arxiv](http://arxiv.org/abs/2504.14945v2), [pdf](http://arxiv.org/pdf/2504.14945v2.pdf), cication: [**-1**](None) 
+
+	 *Jianhao Yan, Yafu Li, Zican Hu, ..., Yu Cheng, Yue Zhang*
+- **Tina: Tiny Reasoning Models via LoRA**, `arXiv, 2504.15777`, [arxiv](http://arxiv.org/abs/2504.15777v1), [pdf](http://arxiv.org/pdf/2504.15777v1.pdf), cication: [**-1**](None) 
+
+	 *Shangshang Wang, Julian Asilis, Ömer Faruk Akgül, ..., Ollie Liu, Willie Neiswanger*
+- **Learning Adaptive Parallel Reasoning with Language Models**, `arXiv, 2504.15466`, [arxiv](http://arxiv.org/abs/2504.15466v1), [pdf](http://arxiv.org/pdf/2504.15466v1.pdf), cication: [**-1**](None) 
+
+	 *Jiayi Pan, Xiuyu Li, Long Lian, ..., Kurt Keutzer, Alane Suhr*
+- **Could Thinking Multilingually Empower LLM Reasoning?**, `arXiv, 2504.11833`, [arxiv](http://arxiv.org/abs/2504.11833v1), [pdf](http://arxiv.org/pdf/2504.11833v1.pdf), cication: [**-1**](None) 
+
+	 *Changjiang Gao, Xu Huang, Wenhao Zhu, ..., Lei Li, Fei Yuan*
+- **THOUGHTTERMINATOR: Benchmarking, Calibrating, and Mitigating
+  Overthinking in Reasoning Models**, `arXiv, 2504.13367`, [arxiv](http://arxiv.org/abs/2504.13367v1), [pdf](http://arxiv.org/pdf/2504.13367v1.pdf), cication: [**-1**](None) 
+
+	 *Xiao Pu, Michael Saxon, Wenyue Hua, ..., William Yang Wang*
+- **Process Reward Models That Think**, `arXiv, 2504.16828`, [arxiv](http://arxiv.org/abs/2504.16828v1), [pdf](http://arxiv.org/pdf/2504.16828v1.pdf), cication: [**-1**](None) 
+
+	 *Muhammad Khalifa, Rishabh Agarwal, Lajanugen Logeswaran, ..., Honglak Lee, Lu Wang* · ([thinkprm.](https://github.com/mukhal/thinkprm.) - mukhal) ![Star](https://img.shields.io/github/stars/mukhal/thinkprm..svg?style=social&label=Star)
+- 🌟 [**rllm**](https://github.com/agentica-project/rllm) - agentica-project ![Star](https://img.shields.io/github/stars/agentica-project/rllm.svg?style=social&label=Star)
 - **Reasoning Models Can Be Effective Without Thinking**, `arXiv, 2504.09858`, [arxiv](http://arxiv.org/abs/2504.09858v1), [pdf](http://arxiv.org/pdf/2504.09858v1.pdf), cication: [**-1**](None) 
 
 	 *Wenjie Ma, Jingxuan He, Charlie Snell, ..., Sewon Min, Matei Zaharia*
@@ -783,6 +834,9 @@
 
 ## Projects
 
+- [**Awesome-LLM-Post-training**](https://github.com/mbzuai-oryx/Awesome-LLM-Post-training) - mbzuai-oryx ![Star](https://img.shields.io/github/stars/mbzuai-oryx/Awesome-LLM-Post-training.svg?style=social&label=Star)
+
+	 *A Deep Dive into Reasoning Large Language Models*
 - [**Awesome-System2-Reasoning-LLM**](https://github.com/zzli2022/Awesome-System2-Reasoning-LLM) - zzli2022 ![Star](https://img.shields.io/github/stars/zzli2022/Awesome-System2-Reasoning-LLM.svg?style=social&label=Star) 
 - [**Awesome-RL-based-LLM-Reasoning**](https://github.com/bruno686/Awesome-RL-based-LLM-Reasoning) - bruno686 ![Star](https://img.shields.io/github/stars/bruno686/Awesome-RL-based-LLM-Reasoning.svg?style=social&label=Star) 
 - [**open-thoughts**](https://github.com/open-thoughts/open-thoughts) - open-thoughts ![Star](https://img.shields.io/github/stars/open-thoughts/open-thoughts.svg?style=social&label=Star) 
@@ -822,6 +876,7 @@
 
 ## Misc
 
+- [通向AGI的四层阶梯](https://zhuanlan.zhihu.com/p/1896382036689810197) 
 - [GRPO on "Temporal Clue,"](https://x.com/corbtt/status/1897735437340627405)  𝕏 
 - [How Do Agents Plan and Reason?](https://huggingface.co/blog/Kseniase/reasonplan)  🤗 
 - [Denny Zhou: LLM Reasoning: Key Ideas and Limitations](https://www.youtube.com/watch?v=-SZAciVbswk)  :clapper: 

@@ -17,6 +17,10 @@
 
 ## Hallucination
 
+- **Generate, but Verify: Reducing Hallucination in Vision-Language Models
+  with Retrospective Resampling**, `arXiv, 2504.13169`, [arxiv](http://arxiv.org/abs/2504.13169v1), [pdf](http://arxiv.org/pdf/2504.13169v1.pdf), cication: [**-1**](None) 
+
+	 *Tsung-Han Wu, Heekyung Lee, Jiaxin Ge, ..., Trevor Darrell, David M. Chan*
 - [Detecting misbehavior in frontier reasoning models](https://openai.com/index/chain-of-thought-monitoring/) 
 - **On the Trustworthiness of Generative Foundation Models: Guideline, 
   Assessment, and Perspective**, `arXiv, 2502.14296`, [arxiv](http://arxiv.org/abs/2502.14296v1), [pdf](http://arxiv.org/pdf/2502.14296v1.pdf), cication: [**-1**](None) 

@@ -13,6 +13,10 @@
 
 ## World Model
 
+- **WALL-E 2.0: World Alignment by NeuroSymbolic Learning improves World
+  Model-based LLM Agents**, `arXiv, 2504.15785`, [arxiv](http://arxiv.org/abs/2504.15785v1), [pdf](http://arxiv.org/pdf/2504.15785v1.pdf), cication: [**-1**](None) 
+
+	 *Siyu Zhou, Tianyi Zhou, Yijun Yang, ..., Jing Jiang, Chengqi Zhang*
 - **MaskGWM: A Generalizable Driving World Model with Video Mask 
   Reconstruction**, `arXiv, 2502.11663`, [arxiv](http://arxiv.org/abs/2502.11663v1), [pdf](http://arxiv.org/pdf/2502.11663v1.pdf), cication: [**-1**](None) 
 

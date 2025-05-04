@@ -59,6 +59,18 @@
 
 ## Vision-Language Models
 
+- 🌟 **InternVL3: Exploring Advanced Training and Test-Time Recipes for
+  Open-Source Multimodal Models**, `arXiv, 2504.10479`, [arxiv](http://arxiv.org/abs/2504.10479v3), [pdf](http://arxiv.org/pdf/2504.10479v3.pdf), cication: [**-1**](None) 
+
+	 *Jinguo Zhu, Weiyun Wang, Zhe Chen, ..., Jifeng Dai, Wenhai Wang*
+- **Generate, but Verify: Reducing Hallucination in Vision-Language Models
+  with Retrospective Resampling**, `arXiv, 2504.13169`, [arxiv](http://arxiv.org/abs/2504.13169v1), [pdf](http://arxiv.org/pdf/2504.13169v1.pdf), cication: [**-1**](None) 
+
+	 *Tsung-Han Wu, Heekyung Lee, Jiaxin Ge, ..., Trevor Darrell, David M. Chan*
+- **Eagle 2.5: Boosting Long-Context Post-Training for Frontier
+  Vision-Language Models**, `arXiv, 2504.15271`, [arxiv](http://arxiv.org/abs/2504.15271v1), [pdf](http://arxiv.org/pdf/2504.15271v1.pdf), cication: [**-1**](None) 
+
+	 *Guo Chen, Zhiqi Li, Shihao Wang, ..., Zhiding Yu, Guilin Liu*
 - **SmolDocling: An ultra-compact vision-language model for end-to-end 
   multi-modal document conversion**, `arXiv, 2503.11576`, [arxiv](http://arxiv.org/abs/2503.11576v1), [pdf](http://arxiv.org/pdf/2503.11576v1.pdf), cication: [**-1**](None) 
 
@@ -208,6 +220,9 @@
 
 ## Video
 
+- **LiveCC: Learning Video LLM with Streaming Speech Transcription at Scale**, `arXiv, 2504.16030`, [arxiv](http://arxiv.org/abs/2504.16030v1), [pdf](http://arxiv.org/pdf/2504.16030v1.pdf), cication: [**-1**](None) 
+
+	 *Joya Chen, Ziyun Zeng, Yiqi Lin, ..., Zejun Ma, Mike Zheng Shou* · ([showlab.github](https://showlab.github.io/livecc)) · ([huggingface](https://huggingface.co/spaces/chenjoya/LiveCC)) · ([livecc](https://github.com/showlab/livecc) - showlab) ![Star](https://img.shields.io/github/stars/showlab/livecc.svg?style=social&label=Star)
 - **Exploring Hallucination of Large Multimodal Models in Video 
   Understanding: Benchmark, Analysis and Mitigation**, `arXiv, 2503.19622`, [arxiv](http://arxiv.org/abs/2503.19622v1), [pdf](http://arxiv.org/pdf/2503.19622v1.pdf), cication: [**-1**](None) 
 
@@ -439,6 +454,34 @@
 
 ## Reasoning
 
+- **SoTA with Less: MCTS-Guided Sample Selection for Data-Efficient Visual
+  Reasoning Self-Improvement**, `arXiv, 2504.07934`, [arxiv](http://arxiv.org/abs/2504.07934v1), [pdf](http://arxiv.org/pdf/2504.07934v1.pdf), cication: [**-1**](None) 
+
+	 *Xiyao Wang, Zhengyuan Yang, Chao Feng, ..., Furong Huang, Lijuan Wang* · ([ThinkLite-VL.](https://github.com/si0wang/ThinkLite-VL.) - si0wang) ![Star](https://img.shields.io/github/stars/si0wang/ThinkLite-VL..svg?style=social&label=Star)
+- 🌟 **Skywork R1V2: Multimodal Hybrid Reinforcement Learning for Reasoning**, `arXiv, 2504.16656`, [arxiv](http://arxiv.org/abs/2504.16656v2), [pdf](http://arxiv.org/pdf/2504.16656v2.pdf), cication: [**-1**](None) 
+
+	 *Chris, Yichen Wei, Yi Peng, ..., Yang Liu, Yahui Zhou* · ([Skywork-R1V](https://github.com/SkyworkAI/Skywork-R1V) - SkyworkAI) ![Star](https://img.shields.io/github/stars/SkyworkAI/Skywork-R1V.svg?style=social&label=Star)
+- **TinyLLaVA-Video-R1: Towards Smaller LMMs for Video Reasoning**, `arXiv, 2504.09641`, [arxiv](http://arxiv.org/abs/2504.09641v1), [pdf](http://arxiv.org/pdf/2504.09641v1.pdf), cication: [**-1**](None) 
+
+	 *Xingjian Zhang, Siwei Wen, Wenjun Wu, ..., Lei Huang* · ([TinyLLaVA-Video-R1.](https://github.com/ZhangXJ199/TinyLLaVA-Video-R1.) - ZhangXJ199) ![Star](https://img.shields.io/github/stars/ZhangXJ199/TinyLLaVA-Video-R1..svg?style=social&label=Star)
+- **Why Reasoning Matters? A Survey of Advancements in Multimodal Reasoning
+  (v1)**, `arXiv, 2504.03151`, [arxiv](http://arxiv.org/abs/2504.03151v1), [pdf](http://arxiv.org/pdf/2504.03151v1.pdf), cication: [**-1**](None) 
+
+	 *Jing Bi, Susan Liang, Xiaofei Zhou, ..., Jiebo Luo, Chenliang Xu*
+- **VL-Rethinker: Incentivizing Self-Reflection of Vision-Language Models
+  with Reinforcement Learning**, `arXiv, 2504.08837`, [arxiv](http://arxiv.org/abs/2504.08837v1), [pdf](http://arxiv.org/pdf/2504.08837v1.pdf), cication: [**-1**](None) 
+
+	 *Haozhe Wang, Chao Qu, Zuming Huang, ..., Fangzhen Lin, Wenhu Chen*
+- **VLM-R1: A Stable and Generalizable R1-style Large Vision-Language Model**, `arXiv, 2504.07615`, [arxiv](http://arxiv.org/abs/2504.07615v2), [pdf](http://arxiv.org/pdf/2504.07615v2.pdf), cication: [**-1**](None) 
+
+	 *Haozhan Shen, Peng Liu, Jingcheng Li, ..., Ruochen Xu, Tiancheng Zhao* · ([VLM-R1](https://github.com/om-ai-lab/VLM-R1) - om-ai-lab) ![Star](https://img.shields.io/github/stars/om-ai-lab/VLM-R1.svg?style=social&label=Star)
+- **SFT or RL? An Early Investigation into Training R1-Like Reasoning Large
+  Vision-Language Models**, `arXiv, 2504.11468`, [arxiv](http://arxiv.org/abs/2504.11468v1), [pdf](http://arxiv.org/pdf/2504.11468v1.pdf), cication: [**-1**](None) 
+
+	 *Hardy Chen, Haoqin Tu, Fali Wang, ..., Yuyin Zhou, Cihang Xie*
+- **NoisyRollout: Reinforcing Visual Reasoning with Data Augmentation**, `arXiv, 2504.13055`, [arxiv](http://arxiv.org/abs/2504.13055v1), [pdf](http://arxiv.org/pdf/2504.13055v1.pdf), cication: [**-1**](None) 
+
+	 *Xiangyan Liu, Jinjie Ni, Zijian Wu, ..., Tianyu Pang, Michael Qizhe Shieh* · ([NoisyRollout](https://github.com/John-AI-Lab/NoisyRollout) - John-AI-Lab) ![Star](https://img.shields.io/github/stars/John-AI-Lab/NoisyRollout.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/collections/xyliu6/noisyrollout-67ff992d1cf251087fe021a2))
 - **Perception-R1: Pioneering Perception Policy with Reinforcement Learning**, `arXiv, 2504.07954`, [arxiv](http://arxiv.org/abs/2504.07954v1), [pdf](http://arxiv.org/pdf/2504.07954v1.pdf), cication: [**-1**](None) 
 
 	 *En Yu, Kangheng Lin, Liang Zhao, ..., Jingyu Wang, Wenbing Tao*
@@ -587,6 +630,10 @@
 
 ## Evaluation
 
+- **VisuLogic: A Benchmark for Evaluating Visual Reasoning in Multi-modal
+  Large Language Models**, `arXiv, 2504.15279`, [arxiv](http://arxiv.org/abs/2504.15279v1), [pdf](http://arxiv.org/pdf/2504.15279v1.pdf), cication: [**-1**](None) 
+
+	 *Weiye Xu, Jiahao Wang, Weiyun Wang, ..., Jifeng Dai, Jinguo Zhu* · ([visulogic-benchmark.github](https://visulogic-benchmark.github.io/VisuLogic/.))
 - **VLM$^2$-Bench: A Closer Look at How Well VLMs Implicitly Link Explicit 
   Matching Visual Cues**, `arXiv, 2502.12084`, [arxiv](http://arxiv.org/abs/2502.12084v2), [pdf](http://arxiv.org/pdf/2502.12084v2.pdf), cication: [**-1**](None) 
 
@@ -728,6 +775,10 @@
 
 ## Generation
 
+- **Have we unified image generation and understanding yet? An empirical
+  study of GPT-4o's image generation ability**, `arXiv, 2504.08003`, [arxiv](http://arxiv.org/abs/2504.08003v1), [pdf](http://arxiv.org/pdf/2504.08003v1.pdf), cication: [**-1**](None) 
+
+	 *Ning Li, Jingran Zhang, Justin Cui*
 - **MergeVQ: A Unified Framework for Visual Generation and Representation 
   with Disentangled Token Merging and Quantization**, `arXiv, 2504.00999`, [arxiv](http://arxiv.org/abs/2504.00999v1), [pdf](http://arxiv.org/pdf/2504.00999v1.pdf), cication: [**-1**](None) 
 

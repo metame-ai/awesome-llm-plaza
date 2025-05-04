@@ -10,6 +10,10 @@
 
 ## Survey
 
+- **A Comprehensive Survey in LLM(-Agent) Full Stack Safety: Data, Training
+  and Deployment**, `arXiv, 2504.15585`, [arxiv](http://arxiv.org/abs/2504.15585v1), [pdf](http://arxiv.org/pdf/2504.15585v1.pdf), cication: [**-1**](None) 
+
+	 *Kun Wang, Guibin Zhang, Zhenhong Zhou, ..., Qingsong Wen, Yang Liu*
 
 ## LLM Security
 

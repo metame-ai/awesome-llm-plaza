@@ -141,6 +141,9 @@
 
 ## Distillation
 
+- **Antidistillation Sampling**, `arXiv, 2504.13146`, [arxiv](http://arxiv.org/abs/2504.13146v2), [pdf](http://arxiv.org/pdf/2504.13146v2.pdf), cication: [**-1**](None) 
+
+	 *Yash Savani, Asher Trockman, Zhili Feng, ..., Marc Finzi, J. Zico Kolter*
 - [TAID: Temporally Adaptive Interpolated Distillation for Efficient Knowledge Transfer in Language Models](https://openreview.net/forum?id=cqsw28DuMW) 
 - **TAID: Temporally Adaptive Interpolated Distillation for Efficient 
   Knowledge Transfer in Language Models**, `arXiv, 2501.16937`, [arxiv](http://arxiv.org/abs/2501.16937v2), [pdf](http://arxiv.org/pdf/2501.16937v2.pdf), cication: [**-1**](None) 
@@ -179,6 +182,15 @@
 
 ## Inference
 
+- **70% Size, 100% Accuracy: Lossless LLM Compression for Efficient GPU
+  Inference via Dynamic-Length Float**, `arXiv, 2504.11651`, [arxiv](http://arxiv.org/abs/2504.11651v1), [pdf](http://arxiv.org/pdf/2504.11651v1.pdf), cication: [**-1**](None) 
+
+	 *Tianyi Zhang, Yang Sui, Shaochen Zhong, ..., Xia Hu, Anshumali Shrivastava* · ([DFloat11](https://github.com/LeanModels/DFloat11) - LeanModels) ![Star](https://img.shields.io/github/stars/LeanModels/DFloat11.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/DFloat11))
+- 🌟 **PRIMA.CPP: Speeding Up 70B-Scale LLM Inference on Low-Resource Everyday
+  Home Clusters**, `arXiv, 2504.08791`, [arxiv](http://arxiv.org/abs/2504.08791v1), [pdf](http://arxiv.org/pdf/2504.08791v1.pdf), cication: [**-1**](None) 
+
+	 *Zonghang Li, Tao Li, Wenjiao Feng, ..., Mohsen Guizani, Hongfang Yu* · ([prima.cpp.](https://github.com/Lizonghang/prima.cpp.) - Lizonghang) ![Star](https://img.shields.io/github/stars/Lizonghang/prima.cpp..svg?style=social&label=Star)
+- [**skypilot**](https://github.com/skypilot-org/skypilot) - skypilot-org ![Star](https://img.shields.io/github/stars/skypilot-org/skypilot.svg?style=social&label=Star)
 - **Hogwild! Inference: Parallel LLM Generation via Concurrent Attention**, `arXiv, 2504.06261`, [arxiv](http://arxiv.org/abs/2504.06261v2), [pdf](http://arxiv.org/pdf/2504.06261v2.pdf), cication: [**-1**](None) 
 
 	 *Gleb Rodionov, Roman Garipov, Alina Shutova, ..., Denis Kuznedelev, Dan Alistarh*

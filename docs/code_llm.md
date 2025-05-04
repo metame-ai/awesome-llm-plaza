@@ -15,6 +15,10 @@
 
 ## Code LLM
 
+- **Iterative Self-Training for Code Generation via Reinforced Re-Ranking**, `arXiv, 2504.09643`, [arxiv](http://arxiv.org/abs/2504.09643v1), [pdf](http://arxiv.org/pdf/2504.09643v1.pdf), cication: [**-1**](None) 
+
+	 *Nikita Sorokin, Ivan Sedykh, Valentin Malykh*
+- [DeepCoder: A Fully Open-Source 14B Coder at O3-mini Level](https://pretty-radio-b75.notion.site/DeepCoder-A-Fully-Open-Source-14B-Coder-at-O3-mini-Level-1cf81902c14680b3bee5eb349a512a51) 
 - **Z1: Efficient Test-time Scaling with Code**, `arXiv, 2504.00810`, [arxiv](http://arxiv.org/abs/2504.00810v1), [pdf](http://arxiv.org/pdf/2504.00810v1.pdf), cication: [**-1**](None) 
 
 	 *Zhaojian Yu, Yinghao Wu, Yilun Zhao, ..., Arman Cohan, Xiao-Ping Zhang*
@@ -172,6 +176,7 @@
 
 ## Products
 
+- [Sign up forDevinto index a private repo](https://deepwiki.com/org/repo) 
 - [HeyBoss, backed by OpenAI startup fund, launched an AI engineer to take on Cognition's Devin](https://x.com/adcock_brett/status/1883561542295175241)  𝕏 
 - [PearAI: The Open Source AI Code Editor](https://trypear.ai/) 
 - [NEO A fully autonomousMachine Learning Engineer](https://heyneo.so/blog) 

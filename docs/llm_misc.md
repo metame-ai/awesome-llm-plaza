@@ -227,6 +227,10 @@
 
 ## Editing
 
+- **EasyEdit2: An Easy-to-use Steering Framework for Editing Large Language
+  Models**, `arXiv, 2504.15133`, [arxiv](http://arxiv.org/abs/2504.15133v1), [pdf](http://arxiv.org/pdf/2504.15133v1.pdf), cication: [**-1**](None) 
+
+	 *Ziwen Xu, Shuxun Wang, Kewei Xu, ..., Huajun Chen, Ningyu Zhang* · ([zjunlp.github](https://zjunlp.github.io/project/EasyEdit2/video))
 - [uncensored version of Qwen/QwQ-32B-Preview created with abliteration](https://huggingface.co/huihui-ai/QwQ-32B-Preview-abliterated)  🤗 
 
 	 · ([remove-refusals-with-transformers](https://github.com/Sumandora/remove-refusals-with-transformers) - Sumandora) ![Star](https://img.shields.io/github/stars/Sumandora/remove-refusals-with-transformers.svg?style=social&label=Star)

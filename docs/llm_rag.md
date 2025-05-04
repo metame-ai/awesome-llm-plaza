@@ -26,6 +26,9 @@
 
 ## RAG
 
+- 🌟 **NodeRAG: Structuring Graph-based RAG with Heterogeneous Nodes**, `arXiv, 2504.11544`, [arxiv](http://arxiv.org/abs/2504.11544v1), [pdf](http://arxiv.org/pdf/2504.11544v1.pdf), cication: [**-1**](None) 
+
+	 *Tianyang Xu, Haojie Zheng, Chengze Li, ..., Ruoxi Chen, Lichao Sun* · ([NodeRAG.](https://github.com/Terry-Xu-666/NodeRAG.) - Terry-Xu-666) ![Star](https://img.shields.io/github/stars/Terry-Xu-666/NodeRAG..svg?style=social&label=Star)
 - **RouterRetriever: Routing over a Mixture of Expert Embedding Models**, `arXiv, 2409.02685`, [arxiv](http://arxiv.org/abs/2409.02685v2), [pdf](http://arxiv.org/pdf/2409.02685v2.pdf), cication: [**-1**](None) 
 
 	 *Hyunji Lee, Luca Soldaini, Arman Cohan, ..., Minjoon Seo, Kyle Lo* · ([𝕏](https://x.com/hyunji_amy_lee/status/1895880862375559641))
@@ -136,6 +139,10 @@
 
 ## Embedding
 
+- **Breaking the Modality Barrier: Universal Embedding Learning with
+  Multimodal LLMs**, `arXiv, 2504.17432`, [arxiv](http://arxiv.org/abs/2504.17432v1), [pdf](http://arxiv.org/pdf/2504.17432v1.pdf), cication: [**-1**](None) 
+
+	 *Tiancheng Gu, Kaicheng Yang, Ziyong Feng, ..., Weidong Cai, Jiankang Deng*
 - [nomic-embed-text-v2-moe: Multilingual Mixture of Experts Text Embeddings](https://huggingface.co/nomic-ai/nomic-embed-text-v2-moe)  🤗 
 - [Train 400x faster Static Embedding Models with Sentence Transformers](https://huggingface.co/blog/static-embeddings)  🤗 
 
@@ -167,6 +174,14 @@
 
 ## Projects
 
+- [**chatwiki**](https://github.com/zhimaAi/chatwiki) - zhimaAi ![Star](https://img.shields.io/github/stars/zhimaAi/chatwiki.svg?style=social&label=Star)
+- [**graphiti**](https://github.com/getzep/graphiti) - getzep ![Star](https://img.shields.io/github/stars/getzep/graphiti.svg?style=social&label=Star)
+- [**RAG_Techniques**](https://github.com/NirDiamant/RAG_Techniques) - NirDiamant ![Star](https://img.shields.io/github/stars/NirDiamant/RAG_Techniques.svg?style=social&label=Star)
+
+	 *Elevating Your Retrieval-Augmented Generation Systems 🚀*
+- [**LightRAG**](https://github.com/HKUDS/LightRAG) - HKUDS ![Star](https://img.shields.io/github/stars/HKUDS/LightRAG.svg?style=social&label=Star)
+
+	 *Simple and Fast Retrieval-Augmented Generation*
 - [**pathway**](https://github.com/pathwaycom/pathway) - pathwaycom ![Star](https://img.shields.io/github/stars/pathwaycom/pathway.svg?style=social&label=Star) 
 - [**onyx**](https://github.com/onyx-dot-app/onyx) - onyx-dot-app ![Star](https://img.shields.io/github/stars/onyx-dot-app/onyx.svg?style=social&label=Star) 
 - [**fast-graphrag**](https://github.com/circlemind-ai/fast-graphrag) - circlemind-ai ![Star](https://img.shields.io/github/stars/circlemind-ai/fast-graphrag.svg?style=social&label=Star) 

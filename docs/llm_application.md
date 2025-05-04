@@ -371,6 +371,10 @@
 
 ## LLM Applications
 
+- 🌟 **Paper2Code: Automating Code Generation from Scientific Papers in Machine
+  Learning**, `arXiv, 2504.17192`, [arxiv](http://arxiv.org/abs/2504.17192v2), [pdf](http://arxiv.org/pdf/2504.17192v2.pdf), cication: [**-1**](None) 
+
+	 *Minju Seo, Jinheon Baek, Seongyun Lee, ..., Sung Ju Hwang*
 - [新科研神器！这回读英文论文真跟读中文没两样了](https://www.qbitai.com/2025/03/263596.html) 
 - **R1-T1: Fully Incentivizing Translation Capability in LLMs via Reasoning 
   Learning**, `arXiv, 2502.19735`, [arxiv](http://arxiv.org/abs/2502.19735v2), [pdf](http://arxiv.org/pdf/2502.19735v2.pdf), cication: [**-1**](None) 

@@ -16,6 +16,17 @@
 
 ## Long Context
 
+- **From 128K to 4M: Efficient Training of Ultra-Long Context Large Language
+  Models**, `arXiv, 2504.06214`, [arxiv](http://arxiv.org/abs/2504.06214v1), [pdf](http://arxiv.org/pdf/2504.06214v1.pdf), cication: [**-1**](None) 
+
+	 *Chejian Xu, Wei Ping, Peng Xu, ..., Bo Li, Bryan Catanzaro* · ([ultralong.github](https://ultralong.github.io/))
+- **Efficient Pretraining Length Scaling**, `arXiv, 2504.14992`, [arxiv](http://arxiv.org/abs/2504.14992v2), [pdf](http://arxiv.org/pdf/2504.14992v2.pdf), cication: [**-1**](None) 
+
+	 *Bohong Wu, Shen Yan, Sijun Zhang, ..., Ya Wang, Xun Zhou*
+- **Eagle 2.5: Boosting Long-Context Post-Training for Frontier
+  Vision-Language Models**, `arXiv, 2504.15271`, [arxiv](http://arxiv.org/abs/2504.15271v1), [pdf](http://arxiv.org/pdf/2504.15271v1.pdf), cication: [**-1**](None) 
+
+	 *Guo Chen, Zhiqi Li, Shihao Wang, ..., Zhiding Yu, Guilin Liu*
 - **Q-Filters: Leveraging QK Geometry for Efficient KV Cache Compression**, `arXiv, 2503.02812`, [arxiv](http://arxiv.org/abs/2503.02812v1), [pdf](http://arxiv.org/pdf/2503.02812v1.pdf), cication: [**-1**](None) 
 
 	 *Nathan Godey, Alessio Devoto, Yu Zhao, ..., Éric de la Clergerie, Benoît Sagot* · ([𝕏](https://x.com/nthngdy/status/1897301390470603245))
