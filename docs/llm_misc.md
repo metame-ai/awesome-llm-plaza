@@ -227,7 +227,7 @@
 
 ## Editing
 
-- **EasyEdit2: An Easy-to-use Steering Framework for Editing Large Language
+- **EasyEdit2: An Easy-to-use Steering Framework for Editing Large Language 
   Models**, `arXiv, 2504.15133`, [arxiv](http://arxiv.org/abs/2504.15133v1), [pdf](http://arxiv.org/pdf/2504.15133v1.pdf), cication: [**-1**](None) 
 
 	 *Ziwen Xu, Shuxun Wang, Kewei Xu, ..., Huajun Chen, Ningyu Zhang* · ([zjunlp.github](https://zjunlp.github.io/project/EasyEdit2/video))

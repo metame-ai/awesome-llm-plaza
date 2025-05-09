@@ -13,7 +13,7 @@
 
 ## World Model
 
-- **WALL-E 2.0: World Alignment by NeuroSymbolic Learning improves World
+- **WALL-E 2.0: World Alignment by NeuroSymbolic Learning improves World 
   Model-based LLM Agents**, `arXiv, 2504.15785`, [arxiv](http://arxiv.org/abs/2504.15785v1), [pdf](http://arxiv.org/pdf/2504.15785v1.pdf), cication: [**-1**](None) 
 
 	 *Siyu Zhou, Tianyi Zhou, Yijun Yang, ..., Jing Jiang, Chengqi Zhang*

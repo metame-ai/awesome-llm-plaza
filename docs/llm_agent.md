@@ -54,14 +54,14 @@
 - **ReTool: Reinforcement Learning for Strategic Tool Use in LLMs**, `arXiv, 2504.11536`, [arxiv](http://arxiv.org/abs/2504.11536v2), [pdf](http://arxiv.org/pdf/2504.11536v2.pdf), cication: [**-1**](None) 
 
 	 *Jiazhan Feng, Shijue Huang, Xingwei Qu, ..., Jinxin Chi, Wanjun Zhong*
-- **SQL-R1: Training Natural Language to SQL Reasoning Model By
+- **SQL-R1: Training Natural Language to SQL Reasoning Model By 
   Reinforcement Learning**, `arXiv, 2504.08600`, [arxiv](http://arxiv.org/abs/2504.08600v1), [pdf](http://arxiv.org/pdf/2504.08600v1.pdf), cication: [**-1**](None) 
 
 	 *Peixian Ma, Xialie Zhuang, Chengjin Xu, ..., Ran Chen, Jian Guo*
 - **OTC: Optimal Tool Calls via Reinforcement Learning**, `arXiv, 2504.14870`, [arxiv](http://arxiv.org/abs/2504.14870v1), [pdf](http://arxiv.org/pdf/2504.14870v1.pdf), cication: [**-1**](None) 
 
 	 *Hongru Wang, Cheng Qian, Wanjun Zhong, ..., Kam-Fai Wong, Heng Ji*
-- **LLMs are Greedy Agents: Effects of RL Fine-tuning on Decision-Making
+- **LLMs are Greedy Agents: Effects of RL Fine-tuning on Decision-Making 
   Abilities**, `arXiv, 2504.16078`, [arxiv](http://arxiv.org/abs/2504.16078v1), [pdf](http://arxiv.org/pdf/2504.16078v1.pdf), cication: [**-1**](None) 
 
 	 *Thomas Schmied, Jörg Bornschein, Jordi Grau-Moya, ..., Markus Wulfmeier, Razvan Pascanu*
@@ -360,8 +360,8 @@
 
 ## Projects
 
-- [**Awesome-AIAgent-Protocol**](https://github.com/zoe-yyx/Awesome-AIAgent-Protocol) - zoe-yyx ![Star](https://img.shields.io/github/stars/zoe-yyx/Awesome-AIAgent-Protocol.svg?style=social&label=Star)
-- [**suna**](https://github.com/kortix-ai/suna) - kortix-ai ![Star](https://img.shields.io/github/stars/kortix-ai/suna.svg?style=social&label=Star)
+- [**Awesome-AIAgent-Protocol**](https://github.com/zoe-yyx/Awesome-AIAgent-Protocol) - zoe-yyx ![Star](https://img.shields.io/github/stars/zoe-yyx/Awesome-AIAgent-Protocol.svg?style=social&label=Star) 
+- [**suna**](https://github.com/kortix-ai/suna) - kortix-ai ![Star](https://img.shields.io/github/stars/kortix-ai/suna.svg?style=social&label=Star) 
 - [**OpenManus**](https://github.com/mannaandpoem/OpenManus) - mannaandpoem ![Star](https://img.shields.io/github/stars/mannaandpoem/OpenManus.svg?style=social&label=Star) 
 - 🌟 [**owl**](https://github.com/camel-ai/owl) - camel-ai ![Star](https://img.shields.io/github/stars/camel-ai/owl.svg?style=social&label=Star) 
 

@@ -17,7 +17,7 @@
 
 ## Hallucination
 
-- **Generate, but Verify: Reducing Hallucination in Vision-Language Models
+- **Generate, but Verify: Reducing Hallucination in Vision-Language Models 
   with Retrospective Resampling**, `arXiv, 2504.13169`, [arxiv](http://arxiv.org/abs/2504.13169v1), [pdf](http://arxiv.org/pdf/2504.13169v1.pdf), cication: [**-1**](None) 
 
 	 *Tsung-Han Wu, Heekyung Lee, Jiaxin Ge, ..., Trevor Darrell, David M. Chan*

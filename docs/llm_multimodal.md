@@ -62,7 +62,7 @@
 - **Kimi-Audio Technical Report**, `arXiv, 2504.18425`, [arxiv](http://arxiv.org/abs/2504.18425v1), [pdf](http://arxiv.org/pdf/2504.18425v1.pdf), cication: [**-1**](None) 
 
 	 *KimiTeam, Ding Ding, Zeqian Ju, ..., Yutong Zhang, Zaida Zhou* · ([Kimi-Audio.](https://github.com/MoonshotAI/Kimi-Audio.) - MoonshotAI) ![Star](https://img.shields.io/github/stars/MoonshotAI/Kimi-Audio..svg?style=social&label=Star)
-- **Have we unified image generation and understanding yet? An empirical
+- **Have we unified image generation and understanding yet? An empirical 
   study of GPT-4o's image generation ability**, `arXiv, 2504.08003`, [arxiv](http://arxiv.org/abs/2504.08003v1), [pdf](http://arxiv.org/pdf/2504.08003v1.pdf), cication: [**-1**](None) 
 
 	 *Ning Li, Jingran Zhang, Justin Cui*

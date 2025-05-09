@@ -23,7 +23,7 @@
 - 🌟 **The Bitter Lesson Learned from 2,000+ Multilingual Benchmarks**, `arXiv, 2504.15521`, [arxiv](http://arxiv.org/abs/2504.15521v1), [pdf](http://arxiv.org/pdf/2504.15521v1.pdf), cication: [**-1**](None) 
 
 	 *Minghao Wu, Weixuan Wang, Sinuo Liu, ..., Weihua Luo, Kaifu Zhang*
-- **PHYBench: Holistic Evaluation of Physical Perception and Reasoning in
+- **PHYBench: Holistic Evaluation of Physical Perception and Reasoning in 
   Large Language Models**, `arXiv, 2504.16074`, [arxiv](http://arxiv.org/abs/2504.16074v1), [pdf](http://arxiv.org/pdf/2504.16074v1.pdf), cication: [**-1**](None) 
 
 	 *Shi Qiu, Shaoyang Guo, Zhuo-Yang Song, ..., Muhan Zhang, Hua Xing Zhu*

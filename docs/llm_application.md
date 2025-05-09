@@ -371,7 +371,7 @@
 
 ## LLM Applications
 
-- 🌟 **Paper2Code: Automating Code Generation from Scientific Papers in Machine
+- 🌟 **Paper2Code: Automating Code Generation from Scientific Papers in Machine 
   Learning**, `arXiv, 2504.17192`, [arxiv](http://arxiv.org/abs/2504.17192v2), [pdf](http://arxiv.org/pdf/2504.17192v2.pdf), cication: [**-1**](None) 
 
 	 *Minju Seo, Jinheon Baek, Seongyun Lee, ..., Sung Ju Hwang*

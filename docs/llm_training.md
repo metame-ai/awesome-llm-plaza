@@ -23,7 +23,7 @@
 
 ## LLM Training
 
-- **CLIMB: CLustering-based Iterative Data Mixture Bootstrapping for
+- **CLIMB: CLustering-based Iterative Data Mixture Bootstrapping for 
   Language Model Pre-training**, `arXiv, 2504.13161`, [arxiv](http://arxiv.org/abs/2504.13161v1), [pdf](http://arxiv.org/pdf/2504.13161v1.pdf), cication: [**-1**](None) 
 
 	 *Shizhe Diao, Yu Yang, Yonggan Fu, ..., Jan Kautz, Pavlo Molchanov* · ([research.nvidia](https://research.nvidia.com/labs/lpr/climb/))
@@ -318,7 +318,7 @@
 
 ## Misc
 
-- [cover how scaling laws have evolved since their inception](https://x.com/FeinbergVlad/status/1915847967313154400)  𝕏
+- [cover how scaling laws have evolved since their inception](https://x.com/FeinbergVlad/status/1915847967313154400)  𝕏 
 - [**9a567910c1a8663f7aa04520075e0ba8**](https://gist.github.com/abacaj/9a567910c1a8663f7aa04520075e0ba8) - abacaj ![Star](https://img.shields.io/github/stars/abacaj/9a567910c1a8663f7aa04520075e0ba8.svg?style=social&label=Star) 
 
 	 · ([𝕏](https://x.com/abacaj/status/1887206493700645300))

@@ -22,14 +22,14 @@
 
 ## GUI Agent
 
-- **LearnAct: Few-Shot Mobile GUI Agent with a Unified Demonstration
+- **LearnAct: Few-Shot Mobile GUI Agent with a Unified Demonstration 
   Benchmark**, `arXiv, 2504.13805`, [arxiv](http://arxiv.org/abs/2504.13805v1), [pdf](http://arxiv.org/pdf/2504.13805v1.pdf), cication: [**-1**](None) 
 
 	 *Guangyi Liu, Pengxiang Zhao, Liang Liu, ..., Shibo He, Wenchao Meng* · ([lgy0404.github](https://lgy0404.github.io/LearnAct/))
 - **GUICourse: From General Vision Language Models to Versatile GUI Agents**, `arXiv, 2406.11317`, [arxiv](http://arxiv.org/abs/2406.11317v1), [pdf](http://arxiv.org/pdf/2406.11317v1.pdf), cication: [**-1**](None) 
 
 	 *Wentong Chen, Junbo Cui, Jinyi Hu, ..., Zhiyuan Liu, Maosong Sun* · ([GUICourse.](https://github.com/yiye3/GUICourse.) - yiye3) ![Star](https://img.shields.io/github/stars/yiye3/GUICourse..svg?style=social&label=Star)
-- **AgentRewardBench: Evaluating Automatic Evaluations of Web Agent
+- **AgentRewardBench: Evaluating Automatic Evaluations of Web Agent 
   Trajectories**, `arXiv, 2504.08942`, [arxiv](http://arxiv.org/abs/2504.08942v1), [pdf](http://arxiv.org/pdf/2504.08942v1.pdf), cication: [**-1**](None) 
 
 	 *Xing Han Lù, Amirhossein Kazemnejad, Nicholas Meade, ..., Christopher J. Pal, Siva Reddy* · ([agent-reward-bench.github](https://agent-reward-bench.github.io)) · ([agent-reward-bench](https://github.com/McGill-NLP/agent-reward-bench) - McGill-NLP) ![Star](https://img.shields.io/github/stars/McGill-NLP/agent-reward-bench.svg?style=social&label=Star)
@@ -181,7 +181,7 @@
 	 *Linlu Qiu, Liwei Jiang, Ximing Lu, ..., Nouha Dziri, Xiang Ren*
 ## Projects
 
-- [**cua**](https://github.com/trycua/cua) - trycua ![Star](https://img.shields.io/github/stars/trycua/cua.svg?style=social&label=Star)
+- [**cua**](https://github.com/trycua/cua) - trycua ![Star](https://img.shields.io/github/stars/trycua/cua.svg?style=social&label=Star) 
 - [**computer-agent-arena-hub**](https://github.com/xlang-ai/computer-agent-arena-hub) - xlang-ai ![Star](https://img.shields.io/github/stars/xlang-ai/computer-agent-arena-hub.svg?style=social&label=Star) 
 
 	 · ([arena.xlang](https://arena.xlang.ai/))

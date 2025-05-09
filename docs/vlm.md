@@ -59,15 +59,15 @@
 
 ## Vision-Language Models
 
-- 🌟 **InternVL3: Exploring Advanced Training and Test-Time Recipes for
+- 🌟 **InternVL3: Exploring Advanced Training and Test-Time Recipes for 
   Open-Source Multimodal Models**, `arXiv, 2504.10479`, [arxiv](http://arxiv.org/abs/2504.10479v3), [pdf](http://arxiv.org/pdf/2504.10479v3.pdf), cication: [**-1**](None) 
 
 	 *Jinguo Zhu, Weiyun Wang, Zhe Chen, ..., Jifeng Dai, Wenhai Wang*
-- **Generate, but Verify: Reducing Hallucination in Vision-Language Models
+- **Generate, but Verify: Reducing Hallucination in Vision-Language Models 
   with Retrospective Resampling**, `arXiv, 2504.13169`, [arxiv](http://arxiv.org/abs/2504.13169v1), [pdf](http://arxiv.org/pdf/2504.13169v1.pdf), cication: [**-1**](None) 
 
 	 *Tsung-Han Wu, Heekyung Lee, Jiaxin Ge, ..., Trevor Darrell, David M. Chan*
-- **Eagle 2.5: Boosting Long-Context Post-Training for Frontier
+- **Eagle 2.5: Boosting Long-Context Post-Training for Frontier 
   Vision-Language Models**, `arXiv, 2504.15271`, [arxiv](http://arxiv.org/abs/2504.15271v1), [pdf](http://arxiv.org/pdf/2504.15271v1.pdf), cication: [**-1**](None) 
 
 	 *Guo Chen, Zhiqi Li, Shihao Wang, ..., Zhiding Yu, Guilin Liu*
@@ -454,7 +454,7 @@
 
 ## Reasoning
 
-- **SoTA with Less: MCTS-Guided Sample Selection for Data-Efficient Visual
+- **SoTA with Less: MCTS-Guided Sample Selection for Data-Efficient Visual 
   Reasoning Self-Improvement**, `arXiv, 2504.07934`, [arxiv](http://arxiv.org/abs/2504.07934v1), [pdf](http://arxiv.org/pdf/2504.07934v1.pdf), cication: [**-1**](None) 
 
 	 *Xiyao Wang, Zhengyuan Yang, Chao Feng, ..., Furong Huang, Lijuan Wang* · ([ThinkLite-VL.](https://github.com/si0wang/ThinkLite-VL.) - si0wang) ![Star](https://img.shields.io/github/stars/si0wang/ThinkLite-VL..svg?style=social&label=Star)
@@ -464,18 +464,18 @@
 - **TinyLLaVA-Video-R1: Towards Smaller LMMs for Video Reasoning**, `arXiv, 2504.09641`, [arxiv](http://arxiv.org/abs/2504.09641v1), [pdf](http://arxiv.org/pdf/2504.09641v1.pdf), cication: [**-1**](None) 
 
 	 *Xingjian Zhang, Siwei Wen, Wenjun Wu, ..., Lei Huang* · ([TinyLLaVA-Video-R1.](https://github.com/ZhangXJ199/TinyLLaVA-Video-R1.) - ZhangXJ199) ![Star](https://img.shields.io/github/stars/ZhangXJ199/TinyLLaVA-Video-R1..svg?style=social&label=Star)
-- **Why Reasoning Matters? A Survey of Advancements in Multimodal Reasoning
+- **Why Reasoning Matters? A Survey of Advancements in Multimodal Reasoning 
   (v1)**, `arXiv, 2504.03151`, [arxiv](http://arxiv.org/abs/2504.03151v1), [pdf](http://arxiv.org/pdf/2504.03151v1.pdf), cication: [**-1**](None) 
 
 	 *Jing Bi, Susan Liang, Xiaofei Zhou, ..., Jiebo Luo, Chenliang Xu*
-- **VL-Rethinker: Incentivizing Self-Reflection of Vision-Language Models
+- **VL-Rethinker: Incentivizing Self-Reflection of Vision-Language Models 
   with Reinforcement Learning**, `arXiv, 2504.08837`, [arxiv](http://arxiv.org/abs/2504.08837v1), [pdf](http://arxiv.org/pdf/2504.08837v1.pdf), cication: [**-1**](None) 
 
 	 *Haozhe Wang, Chao Qu, Zuming Huang, ..., Fangzhen Lin, Wenhu Chen*
 - **VLM-R1: A Stable and Generalizable R1-style Large Vision-Language Model**, `arXiv, 2504.07615`, [arxiv](http://arxiv.org/abs/2504.07615v2), [pdf](http://arxiv.org/pdf/2504.07615v2.pdf), cication: [**-1**](None) 
 
 	 *Haozhan Shen, Peng Liu, Jingcheng Li, ..., Ruochen Xu, Tiancheng Zhao* · ([VLM-R1](https://github.com/om-ai-lab/VLM-R1) - om-ai-lab) ![Star](https://img.shields.io/github/stars/om-ai-lab/VLM-R1.svg?style=social&label=Star)
-- **SFT or RL? An Early Investigation into Training R1-Like Reasoning Large
+- **SFT or RL? An Early Investigation into Training R1-Like Reasoning Large 
   Vision-Language Models**, `arXiv, 2504.11468`, [arxiv](http://arxiv.org/abs/2504.11468v1), [pdf](http://arxiv.org/pdf/2504.11468v1.pdf), cication: [**-1**](None) 
 
 	 *Hardy Chen, Haoqin Tu, Fali Wang, ..., Yuyin Zhou, Cihang Xie*
@@ -630,7 +630,7 @@
 
 ## Evaluation
 
-- **VisuLogic: A Benchmark for Evaluating Visual Reasoning in Multi-modal
+- **VisuLogic: A Benchmark for Evaluating Visual Reasoning in Multi-modal 
   Large Language Models**, `arXiv, 2504.15279`, [arxiv](http://arxiv.org/abs/2504.15279v1), [pdf](http://arxiv.org/pdf/2504.15279v1.pdf), cication: [**-1**](None) 
 
 	 *Weiye Xu, Jiahao Wang, Weiyun Wang, ..., Jifeng Dai, Jinguo Zhu* · ([visulogic-benchmark.github](https://visulogic-benchmark.github.io/VisuLogic/.))
@@ -775,7 +775,7 @@
 
 ## Generation
 
-- **Have we unified image generation and understanding yet? An empirical
+- **Have we unified image generation and understanding yet? An empirical 
   study of GPT-4o's image generation ability**, `arXiv, 2504.08003`, [arxiv](http://arxiv.org/abs/2504.08003v1), [pdf](http://arxiv.org/pdf/2504.08003v1.pdf), cication: [**-1**](None) 
 
 	 *Ning Li, Jingran Zhang, Justin Cui*

@@ -139,7 +139,7 @@
 
 ## Embedding
 
-- **Breaking the Modality Barrier: Universal Embedding Learning with
+- **Breaking the Modality Barrier: Universal Embedding Learning with 
   Multimodal LLMs**, `arXiv, 2504.17432`, [arxiv](http://arxiv.org/abs/2504.17432v1), [pdf](http://arxiv.org/pdf/2504.17432v1.pdf), cication: [**-1**](None) 
 
 	 *Tiancheng Gu, Kaicheng Yang, Ziyong Feng, ..., Weidong Cai, Jiankang Deng*
@@ -174,12 +174,12 @@
 
 ## Projects
 
-- [**chatwiki**](https://github.com/zhimaAi/chatwiki) - zhimaAi ![Star](https://img.shields.io/github/stars/zhimaAi/chatwiki.svg?style=social&label=Star)
-- [**graphiti**](https://github.com/getzep/graphiti) - getzep ![Star](https://img.shields.io/github/stars/getzep/graphiti.svg?style=social&label=Star)
-- [**RAG_Techniques**](https://github.com/NirDiamant/RAG_Techniques) - NirDiamant ![Star](https://img.shields.io/github/stars/NirDiamant/RAG_Techniques.svg?style=social&label=Star)
+- [**chatwiki**](https://github.com/zhimaAi/chatwiki) - zhimaAi ![Star](https://img.shields.io/github/stars/zhimaAi/chatwiki.svg?style=social&label=Star) 
+- [**graphiti**](https://github.com/getzep/graphiti) - getzep ![Star](https://img.shields.io/github/stars/getzep/graphiti.svg?style=social&label=Star) 
+- [**RAG_Techniques**](https://github.com/NirDiamant/RAG_Techniques) - NirDiamant ![Star](https://img.shields.io/github/stars/NirDiamant/RAG_Techniques.svg?style=social&label=Star) 
 
 	 *Elevating Your Retrieval-Augmented Generation Systems 🚀*
-- [**LightRAG**](https://github.com/HKUDS/LightRAG) - HKUDS ![Star](https://img.shields.io/github/stars/HKUDS/LightRAG.svg?style=social&label=Star)
+- [**LightRAG**](https://github.com/HKUDS/LightRAG) - HKUDS ![Star](https://img.shields.io/github/stars/HKUDS/LightRAG.svg?style=social&label=Star) 
 
 	 *Simple and Fast Retrieval-Augmented Generation*
 - [**pathway**](https://github.com/pathwaycom/pathway) - pathwaycom ![Star](https://img.shields.io/github/stars/pathwaycom/pathway.svg?style=social&label=Star) 
