@@ -59,6 +59,9 @@
 
 ## Vision-Language Models
 
+- 🌟 **Seed1.5-VL Technical Report**, `arXiv, 2505.07062`, [arxiv](http://arxiv.org/abs/2505.07062v1), [pdf](http://arxiv.org/pdf/2505.07062v1.pdf), cication: [**-1**](None) 
+
+	 *Dong Guo, Faming Wu, Feida Zhu, ..., Ziyu Zhu, Zuquan Song*
 - 🌟 **InternVL3: Exploring Advanced Training and Test-Time Recipes for 
   Open-Source Multimodal Models**, `arXiv, 2504.10479`, [arxiv](http://arxiv.org/abs/2504.10479v3), [pdf](http://arxiv.org/pdf/2504.10479v3.pdf), cication: [**-1**](None) 
 

@@ -181,6 +181,9 @@
 	 *Linlu Qiu, Liwei Jiang, Ximing Lu, ..., Nouha Dziri, Xiang Ren*
 ## Projects
 
+- 🌟 [**AgentCPM-GUI**](https://github.com/OpenBMB/AgentCPM-GUI) - OpenBMB ![Star](https://img.shields.io/github/stars/OpenBMB/AgentCPM-GUI.svg?style=social&label=Star)
+
+	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s/V8pPbh0rYSBcLZu_THb3bQ?from=singlemessage&scene=1&subscene=317&sessionid=1747100541&clicktime=1747148648&enterid=1747148648&ascene=1&fasttmpl_type=0&fasttmpl_fullversion=7730326-zh_CN-zip&fasttmpl_flag=0&realreporttime=1747148648671))
 - [**cua**](https://github.com/trycua/cua) - trycua ![Star](https://img.shields.io/github/stars/trycua/cua.svg?style=social&label=Star) 
 - [**computer-agent-arena-hub**](https://github.com/xlang-ai/computer-agent-arena-hub) - xlang-ai ![Star](https://img.shields.io/github/stars/xlang-ai/computer-agent-arena-hub.svg?style=social&label=Star) 
 
