@@ -27,6 +27,7 @@
 
 ## Survey
 
+- [**Awesome-LLM-Scientific-Discovery**](https://github.com/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery) - HKUST-KnowComp ![Star](https://img.shields.io/github/stars/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery.svg?style=social&label=Star)
 - **SurveyX: Academic Survey Automation via Large Language Models**, `arXiv, 2502.14776`, [arxiv](http://arxiv.org/abs/2502.14776v2), [pdf](http://arxiv.org/pdf/2502.14776v2.pdf), cication: [**-1**](None) 
 
 	 *Xun Liang, Jiawei Yang, Yezhaohui Wang, ..., Keming Mao, Zhiyu li* · ([SurveyX](https://github.com/IAAR-Shanghai/SurveyX) - IAAR-Shanghai) ![Star](https://img.shields.io/github/stars/IAAR-Shanghai/SurveyX.svg?style=social&label=Star)

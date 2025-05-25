@@ -16,6 +16,10 @@
 
 ## Long Context
 
+- **RetroInfer: A Vector-Storage Approach for Scalable Long-Context LLM
+  Inference**, `arXiv, 2505.02922`, [arxiv](http://arxiv.org/abs/2505.02922v1), [pdf](http://arxiv.org/pdf/2505.02922v1.pdf), cication: [**-1**](None) 
+
+	 *Yaoqi Chen, Jinkai Zhang, Baotong Lu, ..., Fan Yang, Mao Yang* · ([RetrievalAttention](https://github.com/microsoft/RetrievalAttention) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/RetrievalAttention.svg?style=social&label=Star)
 - **From 128K to 4M: Efficient Training of Ultra-Long Context Large Language 
   Models**, `arXiv, 2504.06214`, [arxiv](http://arxiv.org/abs/2504.06214v1), [pdf](http://arxiv.org/pdf/2504.06214v1.pdf), cication: [**-1**](None) 
 
@@ -140,6 +144,9 @@
 
 ## Projects
 
+- [**EM-LLM-model**](https://github.com/em-llm/EM-LLM-model) - em-llm ![Star](https://img.shields.io/github/stars/em-llm/EM-LLM-model.svg?style=social&label=Star)
+
+	 *Human-inspired Episodic Memory for Infinite Context LLMs*
 - [**360-LLaMA-Factory**](https://github.com/Qihoo360/360-LLaMA-Factory) - Qihoo360 ![Star](https://img.shields.io/github/stars/Qihoo360/360-LLaMA-Factory.svg?style=social&label=Star) 
 - [**LLMTest_NeedleInAHaystack**](https://github.com/gkamradt/LLMTest_NeedleInAHaystack) - gkamradt ![Star](https://img.shields.io/github/stars/gkamradt/LLMTest_NeedleInAHaystack.svg?style=social&label=Star) 
 - [**KVCache-Factory**](https://github.com/Zefan-Cai/KVCache-Factory) - Zefan-Cai ![Star](https://img.shields.io/github/stars/Zefan-Cai/KVCache-Factory.svg?style=social&label=Star) 

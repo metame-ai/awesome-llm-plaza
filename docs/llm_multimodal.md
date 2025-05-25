@@ -9,6 +9,10 @@
 
 ## Survey
 
+- **Unified Multimodal Understanding and Generation Models: Advances,
+  Challenges, and Opportunities**, `arXiv, 2505.02567`, [arxiv](http://arxiv.org/abs/2505.02567v3), [pdf](http://arxiv.org/pdf/2505.02567v3.pdf), cication: [**-1**](None) 
+
+	 *Xinjie Zhang, Jintao Guo, Shanshan Zhao, ..., Weihua Luo, Kaifu Zhang* · ([Awesome-Unified-Multimodal-Models](https://github.com/AIDC-AI/Awesome-Unified-Multimodal-Models) - AIDC-AI) ![Star](https://img.shields.io/github/stars/AIDC-AI/Awesome-Unified-Multimodal-Models.svg?style=social&label=Star)
 - **Next Token Prediction Towards Multimodal Intelligence: A Comprehensive 
   Survey**, `arXiv, 2412.18619`, [arxiv](http://arxiv.org/abs/2412.18619v2), [pdf](http://arxiv.org/pdf/2412.18619v2.pdf), cication: [**-1**](None) 
 
@@ -59,6 +63,9 @@
 
 ## Multimodal
 
+- 🌟 **Emerging Properties in Unified Multimodal Pretraining**, `arXiv, 2505.14683`, [arxiv](http://arxiv.org/abs/2505.14683v1), [pdf](http://arxiv.org/pdf/2505.14683v1.pdf), cication: [**-1**](None) 
+
+	 *Chaorui Deng, Deyao Zhu, Kunchang Li, ..., Guang Shi, Haoqi Fan*
 - **Kimi-Audio Technical Report**, `arXiv, 2504.18425`, [arxiv](http://arxiv.org/abs/2504.18425v1), [pdf](http://arxiv.org/pdf/2504.18425v1.pdf), cication: [**-1**](None) 
 
 	 *KimiTeam, Ding Ding, Zeqian Ju, ..., Yutong Zhang, Zaida Zhou* · ([Kimi-Audio.](https://github.com/MoonshotAI/Kimi-Audio.) - MoonshotAI) ![Star](https://img.shields.io/github/stars/MoonshotAI/Kimi-Audio..svg?style=social&label=Star)

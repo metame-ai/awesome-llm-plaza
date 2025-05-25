@@ -20,6 +20,12 @@
 
 ## LLM Evaluation
 
+- **KORGym: A Dynamic Game Platform for LLM Reasoning Evaluation**, `arXiv, 2505.14552`, [arxiv](http://arxiv.org/abs/2505.14552v2), [pdf](http://arxiv.org/pdf/2505.14552v2.pdf), cication: [**-1**](None) 
+
+	 *Jiajun Shi, Jian Yang, Jiaheng Liu, ..., Wenhao Huang, Ge Zhang*
+- **The Leaderboard Illusion**, `arXiv, 2504.20879`, [arxiv](http://arxiv.org/abs/2504.20879v2), [pdf](http://arxiv.org/pdf/2504.20879v2.pdf), cication: [**-1**](None) 
+
+	 *Shivalika Singh, Yiyang Nan, Alex Wang, ..., Marzieh Fadaee, Sara Hooker*
 - 🌟 **The Bitter Lesson Learned from 2,000+ Multilingual Benchmarks**, `arXiv, 2504.15521`, [arxiv](http://arxiv.org/abs/2504.15521v1), [pdf](http://arxiv.org/pdf/2504.15521v1.pdf), cication: [**-1**](None) 
 
 	 *Minghao Wu, Weixuan Wang, Sinuo Liu, ..., Weihua Luo, Kaifu Zhang*

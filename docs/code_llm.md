@@ -147,6 +147,8 @@
 
 ## Projects
 
+- [**void**](https://github.com/voideditor/void) - voideditor ![Star](https://img.shields.io/github/stars/voideditor/void.svg?style=social&label=Star)
+- [**claude-code**](https://github.com/anthropics/claude-code) - anthropics ![Star](https://img.shields.io/github/stars/anthropics/claude-code.svg?style=social&label=Star)
 - [**codex**](https://github.com/openai/codex) - openai ![Star](https://img.shields.io/github/stars/openai/codex.svg?style=social&label=Star) 
 - [**awesome-vibe-coding**](https://github.com/filipecalegario/awesome-vibe-coding) - filipecalegario ![Star](https://img.shields.io/github/stars/filipecalegario/awesome-vibe-coding.svg?style=social&label=Star) 
 - [**claude-code**](https://github.com/dnakov/claude-code) - dnakov ![Star](https://img.shields.io/github/stars/dnakov/claude-code.svg?style=social&label=Star) 
@@ -176,6 +178,7 @@
 
 ## Products
 
+- [Code like a pro with our AI Code Agents!](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt) 
 - [Sign up forDevinto index a private repo](https://deepwiki.com/org/repo) 
 - [HeyBoss, backed by OpenAI startup fund, launched an AI engineer to take on Cognition's Devin](https://x.com/adcock_brett/status/1883561542295175241)  𝕏 
 - [PearAI: The Open Source AI Code Editor](https://trypear.ai/) 

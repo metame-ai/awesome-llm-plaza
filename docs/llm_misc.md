@@ -47,6 +47,10 @@
 
 ## Interpretability
 
+- **Massive Values in Self-Attention Modules are the Key to Contextual
+  Knowledge Understanding**, `arXiv, 2502.01563`, [arxiv](http://arxiv.org/abs/2502.01563v4), [pdf](http://arxiv.org/pdf/2502.01563v4.pdf), cication: [**-1**](None) 
+
+	 *Mingyu Jin, Kai Mei, Wujiang Xu, ..., Zirui Liu, Yongfeng Zhang*
 - **Inside-Out: Hidden Factual Knowledge in LLMs**, `arXiv, 2503.15299`, [arxiv](http://arxiv.org/abs/2503.15299v2), [pdf](http://arxiv.org/pdf/2503.15299v2.pdf), cication: [**-1**](None) 
 
 	 *Zorik Gekhman, Eyal Ben David, Hadas Orgad, ..., Jonathan Herzig, Roi Reichart*
@@ -290,6 +294,7 @@
 
 ## Misc
 
+- [**Foundations-of-LLMs**](https://github.com/ZJU-LLMs/Foundations-of-LLMs) - ZJU-LLMs ![Star](https://img.shields.io/github/stars/ZJU-LLMs/Foundations-of-LLMs.svg?style=social&label=Star)
 - [【生成式AI時代下的機器學習(2025)】第一講：一堂課搞懂生成式人工智慧的技術突破與未來發展](https://www.youtube.com/watch?v=QLiKmca4kzI)  :clapper: 
 - [How I use LLMs](https://www.youtube.com/watch?v=EWvNQjAaOHw)  :clapper: 
 - **Idiosyncrasies in Large Language Models**, `arXiv, 2502.12150`, [arxiv](http://arxiv.org/abs/2502.12150v1), [pdf](http://arxiv.org/pdf/2502.12150v1.pdf), cication: [**-1**](None) 

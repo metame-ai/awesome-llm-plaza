@@ -25,6 +25,17 @@
 
 ## English Models
 
+- [Announcing Gemma 3n preview: powerful, efficient, mobile-first AI](https://developers.googleblog.com/en/introducing-gemma-3n/) 
+- **Phi-4-reasoning Technical Report**, `arXiv, 2504.21318`, [arxiv](http://arxiv.org/abs/2504.21318v1), [pdf](http://arxiv.org/pdf/2504.21318v1.pdf), cication: [**-1**](None) 
+
+	 *Marah Abdin, Sahaj Agarwal, Ahmed Awadallah, ..., Safoora Yousefi, Guoqing Zheng*
+- **Phi-4-Mini-Reasoning: Exploring the Limits of Small Reasoning Language
+  Models in Math**, `arXiv, 2504.21233`, [arxiv](http://arxiv.org/abs/2504.21233v1), [pdf](http://arxiv.org/pdf/2504.21233v1.pdf), cication: [**-1**](None) 
+
+	 *Haoran Xu, Baolin Peng, Hany Awadalla, ..., Jianfeng Gao, Weizhu Chen*
+- **Bielik v3 Small: Technical Report**, `arXiv, 2505.02550`, [arxiv](http://arxiv.org/abs/2505.02550v2), [pdf](http://arxiv.org/pdf/2505.02550v2.pdf), cication: [**-1**](None) 
+
+	 *Krzysztof Ociepa, Łukasz Flis, Remigiusz Kinas, ..., Krzysztof Wróbel, Adrian Gwoździej*
 - **Trillion 7B Technical Report**, `arXiv, 2504.15431`, [arxiv](http://arxiv.org/abs/2504.15431v1), [pdf](http://arxiv.org/pdf/2504.15431v1.pdf), cication: [**-1**](None) 
 
 	 *Sungjun Han, Juyoung Suk, Suyeong An, ..., Seungtaek Choi, Jamin Shin*

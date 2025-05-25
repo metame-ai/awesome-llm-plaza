@@ -48,6 +48,17 @@
 
 ## Agent RL
 
+- **Agentic Reasoning and Tool Integration for LLMs via Reinforcement
+  Learning**, `arXiv, 2505.01441`, [arxiv](http://arxiv.org/abs/2505.01441v1), [pdf](http://arxiv.org/pdf/2505.01441v1.pdf), cication: [**-1**](None) 
+
+	 *Joykirat Singh, Raghav Magazine, Yash Pandya, ..., Akshay Nambi*
+- **Tool-Star: Empowering LLM-Brained Multi-Tool Reasoner via Reinforcement
+  Learning**, `arXiv, 2505.16410`, [arxiv](http://arxiv.org/abs/2505.16410v1), [pdf](http://arxiv.org/pdf/2505.16410v1.pdf), cication: [**-1**](None) 
+
+	 *Guanting Dong, Yifei Chen, Xiaoxi Li, ..., Zhicheng Dou, Ji-Rong Wen* · ([Tool-Star](https://github.com/dongguanting/Tool-Star) - dongguanting) ![Star](https://img.shields.io/github/stars/dongguanting/Tool-Star.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/datasets/dongguanting/Tool-Star-SFT-54K)) · ([Tool-Star](https://github.com/dongguanting/Tool-Star/tree/main/Tool_Star_RL/mix_grpo) - dongguanting) ![Star](https://img.shields.io/github/stars/dongguanting/Tool-Star.svg?style=social&label=Star)
+- **Reinforcement Learning for Long-Horizon Interactive LLM Agents**, `arXiv, 2502.01600`, [arxiv](http://arxiv.org/abs/2502.01600v3), [pdf](http://arxiv.org/pdf/2502.01600v3.pdf), cication: [**-1**](None) 
+
+	 *Kevin Chen, Marco Cusumano-Towner, Brody Huval, ..., Vladlen Koltun, Philipp Krähenbühl*
 - **ToolRL: Reward is All Tool Learning Needs**, `arXiv, 2504.13958`, [arxiv](http://arxiv.org/abs/2504.13958v1), [pdf](http://arxiv.org/pdf/2504.13958v1.pdf), cication: [**-1**](None) 
 
 	 *Cheng Qian, Emre Can Acikgoz, Qi He, ..., Gokhan Tur, Heng Ji* · ([ToolRL](https://github.com/qiancheng0/ToolRL) - qiancheng0) ![Star](https://img.shields.io/github/stars/qiancheng0/ToolRL.svg?style=social&label=Star)
@@ -68,6 +79,23 @@
 
 ## Agents
 
+- **Plan-and-Act: Improving Planning of Agents for Long-Horizon Tasks**, `arXiv, 2503.09572`, [arxiv](http://arxiv.org/abs/2503.09572v3), [pdf](http://arxiv.org/pdf/2503.09572v3.pdf), cication: [**-1**](None) 
+
+	 *Lutfi Eren Erdogan, Nicholas Lee, Sehoon Kim, ..., Kurt Keutzer, Amir Gholami*
+- **Group-in-Group Policy Optimization for LLM Agent Training**, `arXiv, 2505.10978`, [arxiv](http://arxiv.org/abs/2505.10978v1), [pdf](http://arxiv.org/pdf/2505.10978v1.pdf), cication: [**-1**](None) 
+
+	 *Lang Feng, Zhenghai Xue, Tingcong Liu, ..., Bo An* · ([verl-agent](https://github.com/langfengq/verl-agent?tab=readme-ov-file) - langfengq) ![Star](https://img.shields.io/github/stars/langfengq/verl-agent.svg?style=social&label=Star)
+- **Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory**, `arXiv, 2504.19413`, [arxiv](http://arxiv.org/abs/2504.19413v1), [pdf](http://arxiv.org/pdf/2504.19413v1.pdf), cication: [**-1**](None) 
+
+	 *Prateek Chhikara, Dev Khant, Saket Aryan, ..., Taranjeet Singh, Deshraj Yadav*
+- **RAGEN: Understanding Self-Evolution in LLM Agents via Multi-Turn
+  Reinforcement Learning**, `arXiv, 2504.20073`, [arxiv](http://arxiv.org/abs/2504.20073v1), [pdf](http://arxiv.org/pdf/2504.20073v1.pdf), cication: [**-1**](None) 
+
+	 *Zihan Wang, Kangrui Wang, Qineng Wang, ..., Yejin Choi, Manling Li* · ([ragen-ai.github](https://ragen-ai.github.io)) · ([RAGEN.](https://github.com/RAGEN-AI/RAGEN.) - RAGEN-AI) ![Star](https://img.shields.io/github/stars/RAGEN-AI/RAGEN..svg?style=social&label=Star)
+- 🌟 **NovelSeek: When Agent Becomes the Scientist -- Building Closed-Loop
+  System from Hypothesis to Verification**, `arXiv, 2505.16938`, [arxiv](http://arxiv.org/abs/2505.16938v1), [pdf](http://arxiv.org/pdf/2505.16938v1.pdf), cication: [**-1**](None) 
+
+	 *NovelSeek Team, Bo Zhang, Shiyang Feng, ..., Bowen Zhou, Lei Bai*
 - **Open Deep Search: Democratizing Search with Open-source Reasoning Agents**, `arXiv, 2503.20201`, [arxiv](http://arxiv.org/abs/2503.20201v1), [pdf](http://arxiv.org/pdf/2503.20201v1.pdf), cication: [**-1**](None) 
 
 	 *Salaheddin Alzubi, Creston Brooks, Purva Chiniya, ..., Himanshu Tyagi, Pramod Viswanath*
@@ -360,6 +388,10 @@
 
 ## Projects
 
+- [**agenticSeek**](https://github.com/Fosowl/agenticSeek) - Fosowl ![Star](https://img.shields.io/github/stars/Fosowl/agenticSeek.svg?style=social&label=Star)
+
+	 *Private, Local Manus Alternative.*
+- [**agents-course**](https://github.com/huggingface/agents-course) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/agents-course.svg?style=social&label=Star)
 - [**Awesome-AIAgent-Protocol**](https://github.com/zoe-yyx/Awesome-AIAgent-Protocol) - zoe-yyx ![Star](https://img.shields.io/github/stars/zoe-yyx/Awesome-AIAgent-Protocol.svg?style=social&label=Star) 
 - [**suna**](https://github.com/kortix-ai/suna) - kortix-ai ![Star](https://img.shields.io/github/stars/kortix-ai/suna.svg?style=social&label=Star) 
 - [**OpenManus**](https://github.com/mannaandpoem/OpenManus) - mannaandpoem ![Star](https://img.shields.io/github/stars/mannaandpoem/OpenManus.svg?style=social&label=Star) 
@@ -423,6 +455,14 @@
 
 ## Multi Agent
 
+- [**rowboat**](https://github.com/rowboatlabs/rowboat) - rowboatlabs ![Star](https://img.shields.io/github/stars/rowboatlabs/rowboat.svg?style=social&label=Star)
+- [**agent-squad**](https://github.com/awslabs/agent-squad) - awslabs ![Star](https://img.shields.io/github/stars/awslabs/agent-squad.svg?style=social&label=Star)
+- **Benchmarking LLMs' Swarm intelligence**, `arXiv, 2505.04364`, [arxiv](http://arxiv.org/abs/2505.04364v2), [pdf](http://arxiv.org/pdf/2505.04364v2.pdf), cication: [**-1**](None) 
+
+	 *Kai Ruan, Mowen Huang, Ji-Rong Wen, ..., Hao Sun*
+- **Learning from Peers in Reasoning Models**, `arXiv, 2505.07787`, [arxiv](http://arxiv.org/abs/2505.07787v1), [pdf](http://arxiv.org/pdf/2505.07787v1.pdf), cication: [**-1**](None) 
+
+	 *Tongxu Luo, Wenyu Du, Jiaxi Bi, ..., Min Zhang, Benyou Wang* · ([learning-from-peers.github](https://learning-from-peers.github.io/))
 - **Towards an AI co-scientist**, `arXiv, 2502.18864`, [arxiv](http://arxiv.org/abs/2502.18864v1), [pdf](http://arxiv.org/pdf/2502.18864v1.pdf), cication: [**-1**](None) 
 
 	 *Juraj Gottweis, Wei-Hung Weng, Alexander Daryin, ..., Alan Karthikesalingam, Vivek Natarajan* · ([𝕏](https://x.com/TheTuringPost/status/1895075839970324663))

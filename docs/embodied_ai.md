@@ -101,6 +101,7 @@
 
 ## Robotics
 
+- [**SO-ARM100**](https://github.com/TheRobotStudio/SO-ARM100) - TheRobotStudio ![Star](https://img.shields.io/github/stars/TheRobotStudio/SO-ARM100.svg?style=social&label=Star)
 - **Learning Getting-Up Policies for Real-World Humanoid Robots**, `arXiv, 2502.12152`, [arxiv](http://arxiv.org/abs/2502.12152v1), [pdf](http://arxiv.org/pdf/2502.12152v1.pdf), cication: [**-1**](None) 
 
 	 *Xialin He, Runpei Dong, Zixuan Chen, ..., Saurabh Gupta* · ([humanoid-getup.github](https://humanoid-getup.github.io))
@@ -155,6 +156,9 @@
 
 ## Projects
 
+- [**OpenHelix**](https://github.com/OpenHelix-robot/OpenHelix) - OpenHelix-robot ![Star](https://img.shields.io/github/stars/OpenHelix-robot/OpenHelix.svg?style=social&label=Star)
+
+	 *An Open-source Dual-System VLA Model for Robotic Manipulation*
 - [**Isaac-GR00T**](https://github.com/NVIDIA/Isaac-GR00T) - NVIDIA ![Star](https://img.shields.io/github/stars/NVIDIA/Isaac-GR00T.svg?style=social&label=Star) 
 - [**partnr-planner**](https://github.com/facebookresearch/partnr-planner) - facebookresearch ![Star](https://img.shields.io/github/stars/facebookresearch/partnr-planner.svg?style=social&label=Star) 
 

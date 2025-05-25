@@ -17,6 +17,17 @@
 
 ## LLM Models
 
+- [Gemini DiffusionOur state-of-the-art, experimental text diffusion model](https://deepmind.google/models/gemini-diffusion/) 
+- **Continuous Thought Machines**, `arXiv, 2505.05522`, [arxiv](http://arxiv.org/abs/2505.05522v2), [pdf](http://arxiv.org/pdf/2505.05522v2.pdf), cication: [**-1**](None) 
+
+	 *Luke Darlow, Ciaran Regan, Sebastian Risi, ..., Jeffrey Seely, Llion Jones* · ([pub.sakana](https://pub.sakana.ai/ctm/))
+- **Chain-of-Model Learning for Language Model**, `arXiv, 2505.11820`, [arxiv](http://arxiv.org/abs/2505.11820v1), [pdf](http://arxiv.org/pdf/2505.11820v1.pdf), cication: [**-1**](None) 
+
+	 *Kaitao Song, Xiaohua Wang, Xu Tan, ..., Dongsheng Li, Lili Qiu*
+- **Diffusion vs. Autoregressive Language Models: A Text Embedding
+  Perspective**, `arXiv, 2505.15045`, [arxiv](http://arxiv.org/abs/2505.15045v1), [pdf](http://arxiv.org/pdf/2505.15045v1.pdf), cication: [**-1**](None) 
+
+	 *Siyue Zhang, Yilun Zhao, Liyuan Geng, ..., Anh Tuan Luu, Chen Zhao*
 - **Nemotron-H: A Family of Accurate and Efficient Hybrid Mamba-Transformer 
   Models**, `arXiv, 2504.03624`, [arxiv](http://arxiv.org/abs/2504.03624v3), [pdf](http://arxiv.org/pdf/2504.03624v3.pdf), cication: [**-1**](None) 
 
@@ -106,6 +117,10 @@
 
 ## Projects
 
+- [**MMaDA**](https://github.com/Gen-Verse/MMaDA) - Gen-Verse ![Star](https://img.shields.io/github/stars/Gen-Verse/MMaDA.svg?style=social&label=Star)
+- [**dKV-Cache**](https://github.com/horseee/dKV-Cache) - horseee ![Star](https://img.shields.io/github/stars/horseee/dKV-Cache.svg?style=social&label=Star)
+
+	 *The Cache for Diffusion Language Models*
 - [**large_concept_model**](https://github.com/facebookresearch/large_concept_model) - facebookresearch ![Star](https://img.shields.io/github/stars/facebookresearch/large_concept_model.svg?style=social&label=Star) 
 
 	 · ([ai.meta](https://ai.meta.com/blog/meta-fair-updates-agents-robustness-safety-architecture/)) · ([ai.meta](https://ai.meta.com/research/publications/large-concept-models-language-modeling-in-a-sentence-representation-space/)) · ([𝕏](https://x.com/melbayad/status/1867689627189952956))

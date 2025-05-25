@@ -14,6 +14,10 @@
 
 ## Survey
 
+- **LLM-Powered GUI Agents in Phone Automation: Surveying Progress and
+  Prospects**, `arXiv, 2504.19838`, [arxiv](http://arxiv.org/abs/2504.19838v1), [pdf](http://arxiv.org/pdf/2504.19838v1.pdf), cication: [**-1**](None) 
+
+	 *Guangyi Liu, Pengxiang Zhao, Liang Liu, ..., Yong Liu, Hongsheng Li*
 - **Towards Trustworthy GUI Agents: A Survey**, `arXiv, 2503.23434`, [arxiv](http://arxiv.org/abs/2503.23434v1), [pdf](http://arxiv.org/pdf/2503.23434v1.pdf), cication: [**-1**](None) 
 
 	 *Yucheng Shi, Wenhao Yu, Wenlin Yao, ..., Wenhu Chen, Ninghao Liu* · ([Awesome-Trustworthy-GUI-Agents](https://github.com/sycny/Awesome-Trustworthy-GUI-Agents) - sycny) ![Star](https://img.shields.io/github/stars/sycny/Awesome-Trustworthy-GUI-Agents.svg?style=social&label=Star)
@@ -22,6 +26,41 @@
 
 ## GUI Agent
 
+- **GUI-G1: Understanding R1-Zero-Like Training for Visual Grounding in GUI
+  Agents**, `arXiv, 2505.15810`, [arxiv](http://arxiv.org/abs/2505.15810v2), [pdf](http://arxiv.org/pdf/2505.15810v2.pdf), cication: [**-1**](None) 
+
+	 *Yuqi Zhou, Sunhao Dai, Shuai Wang, ..., Qinglin Jia, Jun Xu*
+- **Web-Shepherd: Advancing PRMs for Reinforcing Web Agents**, `arXiv, 2505.15277`, [arxiv](http://arxiv.org/abs/2505.15277v1), [pdf](http://arxiv.org/pdf/2505.15277v1.pdf), cication: [**-1**](None) 
+
+	 *Hyungjoo Chae, Sunghwan Kim, Junhee Cho, ..., Dongjin Kang, Jinyoung Yeo* · ([Web-Shepherd](https://github.com/kyle8581/Web-Shepherd) - kyle8581) ![Star](https://img.shields.io/github/stars/kyle8581/Web-Shepherd.svg?style=social&label=Star)
+- **Efficient Agent Training for Computer Use**, `arXiv, 2505.13909`, [arxiv](http://arxiv.org/abs/2505.13909v1), [pdf](http://arxiv.org/pdf/2505.13909v1.pdf), cication: [**-1**](None) 
+
+	 *Yanheng He, Jiahe Jin, Pengfei Liu* · ([PC-Agent-E](https://github.com/GAIR-NLP/PC-Agent-E) - GAIR-NLP) ![Star](https://img.shields.io/github/stars/GAIR-NLP/PC-Agent-E.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/henryhe0123/PC-Agent-E)) · ([huggingface](https://huggingface.co/datasets/henryhe0123/PC-Agent-E))
+- **AndroidGen: Building an Android Language Agent under Data Scarcity**, `arXiv, 2504.19298`, [arxiv](http://arxiv.org/abs/2504.19298v1), [pdf](http://arxiv.org/pdf/2504.19298v1.pdf), cication: [**-1**](None) 
+
+	 *Hanyu Lai, Junjie Gao, Xiao Liu, ..., Yuxiao Dong, Jie Tang* · ([AndroidGen](https://github.com/THUDM/AndroidGen) - THUDM) ![Star](https://img.shields.io/github/stars/THUDM/AndroidGen.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s/0caopSXShM_ULpISih3B8w))
+- **Visual Agentic Reinforcement Fine-Tuning**, `arXiv, 2505.14246`, [arxiv](http://arxiv.org/abs/2505.14246v1), [pdf](http://arxiv.org/pdf/2505.14246v1.pdf), cication: [**-1**](None) 
+
+	 *Ziyu Liu, Yuhang Zang, Yushan Zou, ..., Dahua Lin, Jiaqi Wang*
+- **WebAgent-R1: Training Web Agents via End-to-End Multi-Turn Reinforcement
+  Learning**, `arXiv, 2505.16421`, [arxiv](http://arxiv.org/abs/2505.16421v1), [pdf](http://arxiv.org/pdf/2505.16421v1.pdf), cication: [**-1**](None) 
+
+	 *Zhepei Wei, Wenlin Yao, Yao Liu, ..., Hyokun Yun, Lihong Li*
+- **ARPO:End-to-End Policy Optimization for GUI Agents with Experience
+  Replay**, `arXiv, 2505.16282`, [arxiv](http://arxiv.org/abs/2505.16282v1), [pdf](http://arxiv.org/pdf/2505.16282v1.pdf), cication: [**-1**](None) 
+
+	 *Fanbin Lu, Zhisheng Zhong, Shu Liu, ..., Chi-Wing Fu, Jiaya Jia*
+- **Does Chain-of-Thought Reasoning Help Mobile GUI Agent? An Empirical
+  Study**, `arXiv, 2503.16788`, [arxiv](http://arxiv.org/abs/2503.16788v1), [pdf](http://arxiv.org/pdf/2503.16788v1.pdf), cication: [**-1**](None) 
+
+	 *Li Zhang, Longxi Gao, Mengwei Xu*
+- [Grounding Multimodal Large Language Model in GUI World](https://openreview.net/forum?id=M9iky9Ruhx) 
+- **Agent S: An Open Agentic Framework that Uses Computers Like a Human**, `arXiv, 2410.08164`, [arxiv](http://arxiv.org/abs/2410.08164v1), [pdf](http://arxiv.org/pdf/2410.08164v1.pdf), cication: [**-1**](None) 
+
+	 *Saaket Agashe, Jiuzhou Han, Shuyu Gan, ..., Ang Li, Xin Eric Wang*
+- **WinClick: GUI Grounding with Multimodal Large Language Models**, `arXiv, 2503.04730`, [arxiv](http://arxiv.org/abs/2503.04730v1), [pdf](http://arxiv.org/pdf/2503.04730v1.pdf), cication: [**-1**](None) 
+
+	 *Zheng Hui, Yinheng Li, Dan zhao, ..., Colby Banbury, Kazuhito Koishida* · ([WinSpot](https://github.com/zackhuiiiii/WinSpot) - zackhuiiiii) ![Star](https://img.shields.io/github/stars/zackhuiiiii/WinSpot.svg?style=social&label=Star)
 - **LearnAct: Few-Shot Mobile GUI Agent with a Unified Demonstration 
   Benchmark**, `arXiv, 2504.13805`, [arxiv](http://arxiv.org/abs/2504.13805v1), [pdf](http://arxiv.org/pdf/2504.13805v1.pdf), cication: [**-1**](None) 
 
@@ -94,6 +133,9 @@
 
 ## Evaluation
 
+- **OSUniverse: Benchmark for Multimodal GUI-navigation AI Agents**, `arXiv, 2505.03570`, [arxiv](http://arxiv.org/abs/2505.03570v1), [pdf](http://arxiv.org/pdf/2505.03570v1.pdf), cication: [**-1**](None) 
+
+	 *Mariya Davydova, Daniel Jeffries, Patrick Barker, ..., Arturo Márquez Flores, Sinéad Ryan* · ([osuniverse](https://github.com/agentsea/osuniverse) - agentsea) ![Star](https://img.shields.io/github/stars/agentsea/osuniverse.svg?style=social&label=Star) · ([arxiv](https://arxiv.org/abs/2505.03570)) · ([agentsea.github](https://agentsea.github.io/osuniverse/))
 - [⚔️ Computer Agent Arena: Compare & Test AI Agents on Crowdsourced Real-World Computer Use Tasks](https://arena.xlang.ai/) 
 - **SafeArena: Evaluating the Safety of Autonomous Web Agents**, `arXiv, 2503.04957`, [arxiv](http://arxiv.org/abs/2503.04957v1), [pdf](http://arxiv.org/pdf/2503.04957v1.pdf), cication: [**-1**](None) 
 

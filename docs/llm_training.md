@@ -23,6 +23,9 @@
 
 ## LLM Training
 
+- **Parallel Scaling Law for Language Models**, `arXiv, 2505.10475`, [arxiv](http://arxiv.org/abs/2505.10475v1), [pdf](http://arxiv.org/pdf/2505.10475v1.pdf), cication: [**-1**](None) 
+
+	 *Mouxiang Chen, Binyuan Hui, Zeyu Cui, ..., Junyang Lin, Zhongxin Liu* · ([ParScale](https://github.com/QwenLM/ParScale) - QwenLM) ![Star](https://img.shields.io/github/stars/QwenLM/ParScale.svg?style=social&label=Star)
 - **CLIMB: CLustering-based Iterative Data Mixture Bootstrapping for 
   Language Model Pre-training**, `arXiv, 2504.13161`, [arxiv](http://arxiv.org/abs/2504.13161v1), [pdf](http://arxiv.org/pdf/2504.13161v1.pdf), cication: [**-1**](None) 
 
@@ -124,6 +127,9 @@
 
 ## Optimization
 
+- **Practical Efficiency of Muon for Pretraining**, `arXiv, 2505.02222`, [arxiv](http://arxiv.org/abs/2505.02222v4), [pdf](http://arxiv.org/pdf/2505.02222v4.pdf), cication: [**-1**](None) 
+
+	 *Essential AI, :, Ishaan Shah, ..., Yash Vanjani, Ashish Vaswani*
 - [explored further to EXTREME beta values like 0.2](https://x.com/cloneofsimo/status/1903080158627762234)  𝕏 
 - [**dolphinflow-optimizer**](https://github.com/cognitivecomputations/dolphinflow-optimizer) - cognitivecomputations ![Star](https://img.shields.io/github/stars/cognitivecomputations/dolphinflow-optimizer.svg?style=social&label=Star) 
 - **Stable-SPAM: How to Train in 4-Bit More Stably than 16-Bit Adam**, `arXiv, 2502.17055`, [arxiv](http://arxiv.org/abs/2502.17055v1), [pdf](http://arxiv.org/pdf/2502.17055v1.pdf), cication: [**-1**](None) 

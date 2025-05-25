@@ -26,6 +26,13 @@
 
 ## RAG
 
+- **UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse
+  Modalities and Granularities**, `arXiv, 2504.20734`, [arxiv](http://arxiv.org/abs/2504.20734v2), [pdf](http://arxiv.org/pdf/2504.20734v2.pdf), cication: [**-1**](None) 
+
+	 *Woongyeong Yeo, Kangsan Kim, Soyeong Jeong, ..., Jinheon Baek, Sung Ju Hwang* · ([universalrag.github](https://universalrag.github.io/))
+- **ReasonIR: Training Retrievers for Reasoning Tasks**, `arXiv, 2504.20595`, [arxiv](http://arxiv.org/abs/2504.20595v1), [pdf](http://arxiv.org/pdf/2504.20595v1.pdf), cication: [**-1**](None) 
+
+	 *Rulin Shao, Rui Qiao, Varsha Kishore, ..., Pang Wei Koh, Luke Zettlemoyer*
 - 🌟 **NodeRAG: Structuring Graph-based RAG with Heterogeneous Nodes**, `arXiv, 2504.11544`, [arxiv](http://arxiv.org/abs/2504.11544v1), [pdf](http://arxiv.org/pdf/2504.11544v1.pdf), cication: [**-1**](None) 
 
 	 *Tianyang Xu, Haojie Zheng, Chengze Li, ..., Ruoxi Chen, Lichao Sun* · ([NodeRAG.](https://github.com/Terry-Xu-666/NodeRAG.) - Terry-Xu-666) ![Star](https://img.shields.io/github/stars/Terry-Xu-666/NodeRAG..svg?style=social&label=Star)
@@ -174,6 +181,9 @@
 
 ## Projects
 
+- [**Finetune-Bench-RAG**](https://github.com/Pints-AI/Finetune-Bench-RAG) - Pints-AI ![Star](https://img.shields.io/github/stars/Pints-AI/Finetune-Bench-RAG.svg?style=social&label=Star)
+
+	 *Fine-tuning Models to Tackle Retrieval-Augmented Generation (RAG) Hallucination*
 - [**chatwiki**](https://github.com/zhimaAi/chatwiki) - zhimaAi ![Star](https://img.shields.io/github/stars/zhimaAi/chatwiki.svg?style=social&label=Star) 
 - [**graphiti**](https://github.com/getzep/graphiti) - getzep ![Star](https://img.shields.io/github/stars/getzep/graphiti.svg?style=social&label=Star) 
 - [**RAG_Techniques**](https://github.com/NirDiamant/RAG_Techniques) - NirDiamant ![Star](https://img.shields.io/github/stars/NirDiamant/RAG_Techniques.svg?style=social&label=Star) 
