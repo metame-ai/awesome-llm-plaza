@@ -21,7 +21,7 @@
 - **Empowering LLMs with Logical Reasoning: A Comprehensive Survey**, `arXiv, 2502.15652`, [arxiv](http://arxiv.org/abs/2502.15652v2), [pdf](http://arxiv.org/pdf/2502.15652v2.pdf), cication: [**-1**](None) 
 
 	 *Fengxiang Cheng, Haoxuan Li, Fenrong Liu, ..., Kun Zhang, Zhouchen Lin*
-- **100 Days After DeepSeek-R1: A Survey on Replication Studies and More
+- **100 Days After DeepSeek-R1: A Survey on Replication Studies and More 
   Directions for Reasoning Language Models**, `arXiv, 2505.00551`, [arxiv](http://arxiv.org/abs/2505.00551v3), [pdf](http://arxiv.org/pdf/2505.00551v3.pdf), cication: [**-1**](None) 
 
 	 *Chong Zhang, Yue Deng, Xiang Lin, ..., Qi Zhang, Lidong Bing*
@@ -69,16 +69,19 @@
 
 ## Reasoning
 
-- [Stanford CS25: V5 I Large Language Model Reasoning, Denny Zhou of Google Deepmind](http://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)  :clapper:
-- **Scaling Reasoning, Losing Control: Evaluating Instruction Following in
+- **Reward Reasoning Model**, `arXiv, 2505.14674`, [arxiv](http://arxiv.org/abs/2505.14674v1), [pdf](http://arxiv.org/pdf/2505.14674v1.pdf), cication: [**-1**](None) 
+
+	 *Jiaxin Guo, Zewen Chi, Li Dong, ..., Shaohan Huang, Furu Wei*
+- [Stanford CS25: V5 I Large Language Model Reasoning, Denny Zhou of Google Deepmind](http://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)  :clapper: 
+- **Scaling Reasoning, Losing Control: Evaluating Instruction Following in 
   Large Reasoning Models**, `arXiv, 2505.14810`, [arxiv](http://arxiv.org/abs/2505.14810v1), [pdf](http://arxiv.org/pdf/2505.14810v1.pdf), cication: [**-1**](None) 
 
 	 *Tingchen Fu, Jiawei Gu, Yafu Li, ..., Xiaoye Qu, Yu Cheng* · ([MathIF](https://github.com/TingchenFu/MathIF) - TingchenFu) ![Star](https://img.shields.io/github/stars/TingchenFu/MathIF.svg?style=social&label=Star)
-- **Soft Thinking: Unlocking the Reasoning Potential of LLMs in Continuous
+- **Soft Thinking: Unlocking the Reasoning Potential of LLMs in Continuous 
   Concept Space**, `arXiv, 2505.15778`, [arxiv](http://arxiv.org/abs/2505.15778v1), [pdf](http://arxiv.org/pdf/2505.15778v1.pdf), cication: [**-1**](None) 
 
 	 *Zhen Zhang, Xuehai He, Weixiang Yan, ..., Yelong Shen, Xin Eric Wang* · ([soft-thinking.github](https://soft-thinking.github.io/)) · ([Soft-Thinking](https://github.com/eric-ai-lab/Soft-Thinking) - eric-ai-lab) ![Star](https://img.shields.io/github/stars/eric-ai-lab/Soft-Thinking.svg?style=social&label=Star)
-- **When Thinking Fails: The Pitfalls of Reasoning for Instruction-Following
+- **When Thinking Fails: The Pitfalls of Reasoning for Instruction-Following 
   in LLMs**, `arXiv, 2505.11423`, [arxiv](http://arxiv.org/abs/2505.11423v2), [pdf](http://arxiv.org/pdf/2505.11423v2.pdf), cication: [**-1**](None) 
 
 	 *Xiaomin Li, Zhou Yu, Zhiwei Zhang, ..., Narayanan Sadagopan, Anurag Beniwal*
@@ -428,7 +431,11 @@
 
 ## O1 Reasoning
 
-- **R1-Reward: Training Multimodal Reward Model Through Stable Reinforcement
+- **Reinforcement Learning Finetunes Small Subnetworks in Large Language
+  Models**, `arXiv, 2505.11711`, [arxiv](http://arxiv.org/abs/2505.11711v1), [pdf](http://arxiv.org/pdf/2505.11711v1.pdf), cication: [**-1**](None) 
+
+	 *Sagnik Mukherjee, Lifan Yuan, Dilek Hakkani-Tur, ..., Hao Peng*
+- **R1-Reward: Training Multimodal Reward Model Through Stable Reinforcement 
   Learning**, `arXiv, 2505.02835`, [arxiv](http://arxiv.org/abs/2505.02835v2), [pdf](http://arxiv.org/pdf/2505.02835v2.pdf), cication: [**-1**](None) 
 
 	 *Yi-Fan Zhang, Xingyu Lu, Xiao Hu, ..., Tingting Gao, Liang Wang*
@@ -449,32 +456,32 @@
 - **Thinkless: LLM Learns When to Think**, `arXiv, 2505.13379`, [arxiv](http://arxiv.org/abs/2505.13379v1), [pdf](http://arxiv.org/pdf/2505.13379v1.pdf), cication: [**-1**](None) 
 
 	 *Gongfan Fang, Xinyin Ma, Xinchao Wang* · ([Thinkless](https://github.com/VainF/Thinkless) - VainF) ![Star](https://img.shields.io/github/stars/VainF/Thinkless.svg?style=social&label=Star)
-- 🌟 **Reinforcement Learning for Reasoning in Large Language Models with One
+- 🌟 **Reinforcement Learning for Reasoning in Large Language Models with One 
   Training Example**, `arXiv, 2504.20571`, [arxiv](http://arxiv.org/abs/2504.20571v1), [pdf](http://arxiv.org/pdf/2504.20571v1.pdf), cication: [**-1**](None) 
 
 	 *Yiping Wang, Qing Yang, Zhiyuan Zeng, ..., Simon Shaolei Du, Yelong Shen* · ([One-Shot-RLVR](https://github.com/ypwang61/One-Shot-RLVR) - ypwang61) ![Star](https://img.shields.io/github/stars/ypwang61/One-Shot-RLVR.svg?style=social&label=Star)
 - **Phi-4-reasoning Technical Report**, `arXiv, 2504.21318`, [arxiv](http://arxiv.org/abs/2504.21318v1), [pdf](http://arxiv.org/pdf/2504.21318v1.pdf), cication: [**-1**](None) 
 
 	 *Marah Abdin, Sahaj Agarwal, Ahmed Awadallah, ..., Safoora Yousefi, Guoqing Zheng*
-- **Phi-4-Mini-Reasoning: Exploring the Limits of Small Reasoning Language
+- **Phi-4-Mini-Reasoning: Exploring the Limits of Small Reasoning Language 
   Models in Math**, `arXiv, 2504.21233`, [arxiv](http://arxiv.org/abs/2504.21233v1), [pdf](http://arxiv.org/pdf/2504.21233v1.pdf), cication: [**-1**](None) 
 
 	 *Haoran Xu, Baolin Peng, Hany Awadalla, ..., Jianfeng Gao, Weizhu Chen*
 - **Absolute Zero: Reinforced Self-play Reasoning with Zero Data**, `arXiv, 2505.03335`, [arxiv](http://arxiv.org/abs/2505.03335v2), [pdf](http://arxiv.org/pdf/2505.03335v2.pdf), cication: [**-1**](None) 
 
 	 *Andrew Zhao, Yiran Wu, Yang Yue, ..., Zilong Zheng, Gao Huang* · ([andrewzh112.github](https://andrewzh112.github.io/absolute-zero-reasoner/)) · ([Absolute-Zero-Reasoner](https://github.com/LeapLabTHU/Absolute-Zero-Reasoner) - LeapLabTHU) ![Star](https://img.shields.io/github/stars/LeapLabTHU/Absolute-Zero-Reasoner.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/collections/andrewzh/absolute-zero-reasoner-68139b2bca82afb00bc69e5b)) · ([wandb](https://wandb.ai/andrewzhao112/AbsoluteZeroReasoner)) · ([𝕏](https://x.com/AndrewZ45732491/status/1919920459748909288))
-- **Beyond 'Aha!': Toward Systematic Meta-Abilities Alignment in Large
+- **Beyond 'Aha!': Toward Systematic Meta-Abilities Alignment in Large 
   Reasoning Models**, `arXiv, 2505.10554`, [arxiv](http://arxiv.org/abs/2505.10554v1), [pdf](http://arxiv.org/pdf/2505.10554v1.pdf), cication: [**-1**](None) 
 
 	 *Zhiyuan Hu, Yibo Wang, Hanze Dong, ..., Bryan Hooi, Junnan Li* · ([Meta-Ability-Alignment](https://github.com/zhiyuanhubj/Meta-Ability-Alignment) - zhiyuanhubj) ![Star](https://img.shields.io/github/stars/zhiyuanhubj/Meta-Ability-Alignment.svg?style=social&label=Star)
 - **AM-Thinking-v1: Advancing the Frontier of Reasoning at 32B Scale**, `arXiv, 2505.08311`, [arxiv](http://arxiv.org/abs/2505.08311v1), [pdf](http://arxiv.org/pdf/2505.08311v1.pdf), cication: [**-1**](None) 
 
 	 *Yunjie Ji, Xiaoyu Tian, Sitong Zhao, ..., Han Zhao, Xiangang Li*
-- **INTELLECT-2: A Reasoning Model Trained Through Globally Decentralized
+- **INTELLECT-2: A Reasoning Model Trained Through Globally Decentralized 
   Reinforcement Learning**, `arXiv, 2505.07291`, [arxiv](http://arxiv.org/abs/2505.07291v1), [pdf](http://arxiv.org/pdf/2505.07291v1.pdf), cication: [**-1**](None) 
 
 	 *Prime Intellect Team, Sami Jaghouar, Justus Mattern, ..., Michael Keiblinger, Johannes Hagemann*
-- **CPGD: Toward Stable Rule-based Reinforcement Learning for Language
+- **CPGD: Toward Stable Rule-based Reinforcement Learning for Language 
   Models**, `arXiv, 2505.12504`, [arxiv](http://arxiv.org/abs/2505.12504v1), [pdf](http://arxiv.org/pdf/2505.12504v1.pdf), cication: [**-1**](None) 
 
 	 *Zongkai Liu, Fanqing Meng, Lingxiao Du, ..., Wenqi Shao, Qiaosheng Zhang* · ([MM-EUREKA](https://github.com/ModalMinds/MM-EUREKA) - ModalMinds) ![Star](https://img.shields.io/github/stars/ModalMinds/MM-EUREKA.svg?style=social&label=Star)
@@ -856,7 +863,7 @@
 
 ## Chain Of Thought
 
-- **Does Chain-of-Thought Reasoning Help Mobile GUI Agent? An Empirical
+- **Does Chain-of-Thought Reasoning Help Mobile GUI Agent? An Empirical 
   Study**, `arXiv, 2503.16788`, [arxiv](http://arxiv.org/abs/2503.16788v1), [pdf](http://arxiv.org/pdf/2503.16788v1.pdf), cication: [**-1**](None) 
 
 	 *Li Zhang, Longxi Gao, Mengwei Xu*
@@ -959,6 +966,7 @@
 
 ## Misc
 
+- [The Dafny Programming and Verification Language](https://dafny.org/) 
 - [Sebastian Raschka 新书《从头开始推理》抢先看](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650967541&idx=4&sn=b480e57a2347d81101f33260e3f5e6f2&chksm=859d51369468e46fd859b812de04e8c3a38ce974bd32d419f50e064c270464a5731c0f709328&scene=0&xtrack=1) 
 - [通向AGI的四层阶梯](https://zhuanlan.zhihu.com/p/1896382036689810197) 
 - [GRPO on "Temporal Clue,"](https://x.com/corbtt/status/1897735437340627405)  𝕏 

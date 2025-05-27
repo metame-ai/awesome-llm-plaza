@@ -147,8 +147,8 @@
 
 ## Projects
 
-- [**void**](https://github.com/voideditor/void) - voideditor ![Star](https://img.shields.io/github/stars/voideditor/void.svg?style=social&label=Star)
-- [**claude-code**](https://github.com/anthropics/claude-code) - anthropics ![Star](https://img.shields.io/github/stars/anthropics/claude-code.svg?style=social&label=Star)
+- [**void**](https://github.com/voideditor/void) - voideditor ![Star](https://img.shields.io/github/stars/voideditor/void.svg?style=social&label=Star) 
+- [**claude-code**](https://github.com/anthropics/claude-code) - anthropics ![Star](https://img.shields.io/github/stars/anthropics/claude-code.svg?style=social&label=Star) 
 - [**codex**](https://github.com/openai/codex) - openai ![Star](https://img.shields.io/github/stars/openai/codex.svg?style=social&label=Star) 
 - [**awesome-vibe-coding**](https://github.com/filipecalegario/awesome-vibe-coding) - filipecalegario ![Star](https://img.shields.io/github/stars/filipecalegario/awesome-vibe-coding.svg?style=social&label=Star) 
 - [**claude-code**](https://github.com/dnakov/claude-code) - dnakov ![Star](https://img.shields.io/github/stars/dnakov/claude-code.svg?style=social&label=Star) 

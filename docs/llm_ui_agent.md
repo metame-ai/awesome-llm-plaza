@@ -14,7 +14,7 @@
 
 ## Survey
 
-- **LLM-Powered GUI Agents in Phone Automation: Surveying Progress and
+- **LLM-Powered GUI Agents in Phone Automation: Surveying Progress and 
   Prospects**, `arXiv, 2504.19838`, [arxiv](http://arxiv.org/abs/2504.19838v1), [pdf](http://arxiv.org/pdf/2504.19838v1.pdf), cication: [**-1**](None) 
 
 	 *Guangyi Liu, Pengxiang Zhao, Liang Liu, ..., Yong Liu, Hongsheng Li*
@@ -26,7 +26,11 @@
 
 ## GUI Agent
 
-- **GUI-G1: Understanding R1-Zero-Like Training for Visual Grounding in GUI
+- **PC Agent: While You Sleep, AI Works -- A Cognitive Journey into Digital
+  World**, `arXiv, 2412.17589`, [arxiv](http://arxiv.org/abs/2412.17589v1), [pdf](http://arxiv.org/pdf/2412.17589v1.pdf), cication: [**-1**](None) 
+
+	 *Yanheng He, Jiahe Jin, Shijie Xia, ..., Xiangkun Hu, Pengfei Liu*
+- **GUI-G1: Understanding R1-Zero-Like Training for Visual Grounding in GUI 
   Agents**, `arXiv, 2505.15810`, [arxiv](http://arxiv.org/abs/2505.15810v2), [pdf](http://arxiv.org/pdf/2505.15810v2.pdf), cication: [**-1**](None) 
 
 	 *Yuqi Zhou, Sunhao Dai, Shuai Wang, ..., Qinglin Jia, Jun Xu*
@@ -42,15 +46,15 @@
 - **Visual Agentic Reinforcement Fine-Tuning**, `arXiv, 2505.14246`, [arxiv](http://arxiv.org/abs/2505.14246v1), [pdf](http://arxiv.org/pdf/2505.14246v1.pdf), cication: [**-1**](None) 
 
 	 *Ziyu Liu, Yuhang Zang, Yushan Zou, ..., Dahua Lin, Jiaqi Wang*
-- **WebAgent-R1: Training Web Agents via End-to-End Multi-Turn Reinforcement
+- **WebAgent-R1: Training Web Agents via End-to-End Multi-Turn Reinforcement 
   Learning**, `arXiv, 2505.16421`, [arxiv](http://arxiv.org/abs/2505.16421v1), [pdf](http://arxiv.org/pdf/2505.16421v1.pdf), cication: [**-1**](None) 
 
 	 *Zhepei Wei, Wenlin Yao, Yao Liu, ..., Hyokun Yun, Lihong Li*
-- **ARPO:End-to-End Policy Optimization for GUI Agents with Experience
+- **ARPO:End-to-End Policy Optimization for GUI Agents with Experience 
   Replay**, `arXiv, 2505.16282`, [arxiv](http://arxiv.org/abs/2505.16282v1), [pdf](http://arxiv.org/pdf/2505.16282v1.pdf), cication: [**-1**](None) 
 
 	 *Fanbin Lu, Zhisheng Zhong, Shu Liu, ..., Chi-Wing Fu, Jiaya Jia*
-- **Does Chain-of-Thought Reasoning Help Mobile GUI Agent? An Empirical
+- **Does Chain-of-Thought Reasoning Help Mobile GUI Agent? An Empirical 
   Study**, `arXiv, 2503.16788`, [arxiv](http://arxiv.org/abs/2503.16788v1), [pdf](http://arxiv.org/pdf/2503.16788v1.pdf), cication: [**-1**](None) 
 
 	 *Li Zhang, Longxi Gao, Mengwei Xu*
@@ -114,6 +118,9 @@
 
 ## Mobile
 
+- **Digi-Q: Learning Q-Value Functions for Training Device-Control Agents**, `arXiv, 2502.15760`, [arxiv](http://arxiv.org/abs/2502.15760v1), [pdf](http://arxiv.org/pdf/2502.15760v1.pdf), cication: [**-1**](None) 
+
+	 *Hao Bai, Yifei Zhou, Li Erran Li, ..., Sergey Levine, Aviral Kumar*
 - **CoCo-Agent: A Comprehensive Cognitive MLLM Agent for Smartphone GUI 
   Automation**, `arXiv, 2402.11941`, [arxiv](http://arxiv.org/abs/2402.11941v3), [pdf](http://arxiv.org/pdf/2402.11941v3.pdf), cication: [**-1**](None) 
 
@@ -223,6 +230,7 @@
 	 *Linlu Qiu, Liwei Jiang, Ximing Lu, ..., Nouha Dziri, Xiang Ren*
 ## Projects
 
+- [**digirl**](https://github.com/DigiRL-agent/digirl/blob/master/env_setup/README.md) - DigiRL-agent ![Star](https://img.shields.io/github/stars/DigiRL-agent/digirl.svg?style=social&label=Star)
 - 🌟 [**AgentCPM-GUI**](https://github.com/OpenBMB/AgentCPM-GUI) - OpenBMB ![Star](https://img.shields.io/github/stars/OpenBMB/AgentCPM-GUI.svg?style=social&label=Star) 
 
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s/V8pPbh0rYSBcLZu_THb3bQ?from=singlemessage&scene=1&subscene=317&sessionid=1747100541&clicktime=1747148648&enterid=1747148648&ascene=1&fasttmpl_type=0&fasttmpl_fullversion=7730326-zh_CN-zip&fasttmpl_flag=0&realreporttime=1747148648671))

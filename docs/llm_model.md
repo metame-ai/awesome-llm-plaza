@@ -24,7 +24,7 @@
 - **Chain-of-Model Learning for Language Model**, `arXiv, 2505.11820`, [arxiv](http://arxiv.org/abs/2505.11820v1), [pdf](http://arxiv.org/pdf/2505.11820v1.pdf), cication: [**-1**](None) 
 
 	 *Kaitao Song, Xiaohua Wang, Xu Tan, ..., Dongsheng Li, Lili Qiu*
-- **Diffusion vs. Autoregressive Language Models: A Text Embedding
+- **Diffusion vs. Autoregressive Language Models: A Text Embedding 
   Perspective**, `arXiv, 2505.15045`, [arxiv](http://arxiv.org/abs/2505.15045v1), [pdf](http://arxiv.org/pdf/2505.15045v1.pdf), cication: [**-1**](None) 
 
 	 *Siyue Zhang, Yilun Zhao, Liyuan Geng, ..., Anh Tuan Luu, Chen Zhao*
@@ -117,8 +117,8 @@
 
 ## Projects
 
-- [**MMaDA**](https://github.com/Gen-Verse/MMaDA) - Gen-Verse ![Star](https://img.shields.io/github/stars/Gen-Verse/MMaDA.svg?style=social&label=Star)
-- [**dKV-Cache**](https://github.com/horseee/dKV-Cache) - horseee ![Star](https://img.shields.io/github/stars/horseee/dKV-Cache.svg?style=social&label=Star)
+- [**MMaDA**](https://github.com/Gen-Verse/MMaDA) - Gen-Verse ![Star](https://img.shields.io/github/stars/Gen-Verse/MMaDA.svg?style=social&label=Star) 
+- [**dKV-Cache**](https://github.com/horseee/dKV-Cache) - horseee ![Star](https://img.shields.io/github/stars/horseee/dKV-Cache.svg?style=social&label=Star) 
 
 	 *The Cache for Diffusion Language Models*
 - [**large_concept_model**](https://github.com/facebookresearch/large_concept_model) - facebookresearch ![Star](https://img.shields.io/github/stars/facebookresearch/large_concept_model.svg?style=social&label=Star) 

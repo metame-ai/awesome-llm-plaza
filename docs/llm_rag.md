@@ -26,7 +26,7 @@
 
 ## RAG
 
-- **UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse
+- **UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse 
   Modalities and Granularities**, `arXiv, 2504.20734`, [arxiv](http://arxiv.org/abs/2504.20734v2), [pdf](http://arxiv.org/pdf/2504.20734v2.pdf), cication: [**-1**](None) 
 
 	 *Woongyeong Yeo, Kangsan Kim, Soyeong Jeong, ..., Jinheon Baek, Sung Ju Hwang* · ([universalrag.github](https://universalrag.github.io/))
@@ -181,7 +181,7 @@
 
 ## Projects
 
-- [**Finetune-Bench-RAG**](https://github.com/Pints-AI/Finetune-Bench-RAG) - Pints-AI ![Star](https://img.shields.io/github/stars/Pints-AI/Finetune-Bench-RAG.svg?style=social&label=Star)
+- [**Finetune-Bench-RAG**](https://github.com/Pints-AI/Finetune-Bench-RAG) - Pints-AI ![Star](https://img.shields.io/github/stars/Pints-AI/Finetune-Bench-RAG.svg?style=social&label=Star) 
 
 	 *Fine-tuning Models to Tackle Retrieval-Augmented Generation (RAG) Hallucination*
 - [**chatwiki**](https://github.com/zhimaAi/chatwiki) - zhimaAi ![Star](https://img.shields.io/github/stars/zhimaAi/chatwiki.svg?style=social&label=Star) 

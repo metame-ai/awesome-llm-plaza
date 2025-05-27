@@ -29,7 +29,7 @@
 - **Phi-4-reasoning Technical Report**, `arXiv, 2504.21318`, [arxiv](http://arxiv.org/abs/2504.21318v1), [pdf](http://arxiv.org/pdf/2504.21318v1.pdf), cication: [**-1**](None) 
 
 	 *Marah Abdin, Sahaj Agarwal, Ahmed Awadallah, ..., Safoora Yousefi, Guoqing Zheng*
-- **Phi-4-Mini-Reasoning: Exploring the Limits of Small Reasoning Language
+- **Phi-4-Mini-Reasoning: Exploring the Limits of Small Reasoning Language 
   Models in Math**, `arXiv, 2504.21233`, [arxiv](http://arxiv.org/abs/2504.21233v1), [pdf](http://arxiv.org/pdf/2504.21233v1.pdf), cication: [**-1**](None) 
 
 	 *Haoran Xu, Baolin Peng, Hany Awadalla, ..., Jianfeng Gao, Weizhu Chen*

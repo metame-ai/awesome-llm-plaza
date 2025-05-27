@@ -46,7 +46,7 @@
 
 ## Efficient LLM
 
-- **Insights into DeepSeek-V3: Scaling Challenges and Reflections on
+- **Insights into DeepSeek-V3: Scaling Challenges and Reflections on 
   Hardware for AI Architectures**, `arXiv, 2505.09343`, [arxiv](http://arxiv.org/abs/2505.09343v1), [pdf](http://arxiv.org/pdf/2505.09343v1.pdf), cication: [**-1**](None) 
 
 	 *Chenggang Zhao, Chengqi Deng, Chong Ruan, ..., Yuxuan Liu, Y. X. Wei*
@@ -190,11 +190,11 @@
 ## Inference
 
 - [Deploying DeepSeek with PD Disaggregation and Large-Scale Expert Parallelism on 96 H100 GPUs](https://lmsys.org/blog/2025-05-05-large-scale-ep/) 
-- **A Survey on Inference Engines for Large Language Models: Perspectives on
+- **A Survey on Inference Engines for Large Language Models: Perspectives on 
   Optimization and Efficiency**, `arXiv, 2505.01658`, [arxiv](http://arxiv.org/abs/2505.01658v2), [pdf](http://arxiv.org/pdf/2505.01658v2.pdf), cication: [**-1**](None) 
 
 	 *Sihyeong Park, Sungryeol Jeon, Chaelyn Lee, ..., Byung-Soo Kim, Jemin Lee* · ([Awesome-LLM-Inference-Engine](https://github.com/sihyeong/Awesome-LLM-Inference-Engine) - sihyeong) ![Star](https://img.shields.io/github/stars/sihyeong/Awesome-LLM-Inference-Engine.svg?style=social&label=Star)
-- **RetroInfer: A Vector-Storage Approach for Scalable Long-Context LLM
+- **RetroInfer: A Vector-Storage Approach for Scalable Long-Context LLM 
   Inference**, `arXiv, 2505.02922`, [arxiv](http://arxiv.org/abs/2505.02922v1), [pdf](http://arxiv.org/pdf/2505.02922v1.pdf), cication: [**-1**](None) 
 
 	 *Yaoqi Chen, Jinkai Zhang, Baotong Lu, ..., Fan Yang, Mao Yang* · ([RetrievalAttention](https://github.com/microsoft/RetrievalAttention) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/RetrievalAttention.svg?style=social&label=Star)

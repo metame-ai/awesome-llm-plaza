@@ -27,7 +27,7 @@
 
 ## Survey
 
-- [**Awesome-LLM-Scientific-Discovery**](https://github.com/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery) - HKUST-KnowComp ![Star](https://img.shields.io/github/stars/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery.svg?style=social&label=Star)
+- [**Awesome-LLM-Scientific-Discovery**](https://github.com/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery) - HKUST-KnowComp ![Star](https://img.shields.io/github/stars/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery.svg?style=social&label=Star) 
 - **SurveyX: Academic Survey Automation via Large Language Models**, `arXiv, 2502.14776`, [arxiv](http://arxiv.org/abs/2502.14776v2), [pdf](http://arxiv.org/pdf/2502.14776v2.pdf), cication: [**-1**](None) 
 
 	 *Xun Liang, Jiawei Yang, Yezhaohui Wang, ..., Keming Mao, Zhiyu li* · ([SurveyX](https://github.com/IAAR-Shanghai/SurveyX) - IAAR-Shanghai) ![Star](https://img.shields.io/github/stars/IAAR-Shanghai/SurveyX.svg?style=social&label=Star)
@@ -63,6 +63,9 @@
 
 ## Science
 
+- **Robin: A multi-agent system for automating scientific discovery**, `arXiv, 2505.13400`, [arxiv](http://arxiv.org/abs/2505.13400v1), [pdf](http://arxiv.org/pdf/2505.13400v1.pdf), cication: [**-1**](None) 
+
+	 *Ali Essam Ghareeb, Benjamin Chang, Ludovico Mitchener, ..., Michaela M. Hinks, Samuel G. Rodriques*
 - **Towards an AI co-scientist**, `arXiv, 2502.18864`, [arxiv](http://arxiv.org/abs/2502.18864v1), [pdf](http://arxiv.org/pdf/2502.18864v1.pdf), cication: [**-1**](None) 
 
 	 *Juraj Gottweis, Wei-Hung Weng, Alexander Daryin, ..., Alan Karthikesalingam, Vivek Natarajan* · ([𝕏](https://x.com/TheTuringPost/status/1895075839970324663))

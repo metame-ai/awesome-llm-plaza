@@ -343,7 +343,7 @@
 
 ## Encoder
 
-- **OpenVision: A Fully-Open, Cost-Effective Family of Advanced Vision
+- **OpenVision: A Fully-Open, Cost-Effective Family of Advanced Vision 
   Encoders for Multimodal Learning**, `arXiv, 2505.04601`, [arxiv](http://arxiv.org/abs/2505.04601v1), [pdf](http://arxiv.org/pdf/2505.04601v1.pdf), cication: [**-1**](None) 
 
 	 *Xianhang Li, Yanqing Liu, Haoqin Tu, ..., Hongru Zhu, Cihang Xie* · ([ucsc-vlaa.github](https://ucsc-vlaa.github.io/OpenVision/))
@@ -470,15 +470,15 @@
 - 🌟 **Visual Planning: Let's Think Only with Images**, `arXiv, 2505.11409`, [arxiv](http://arxiv.org/abs/2505.11409v1), [pdf](http://arxiv.org/pdf/2505.11409v1.pdf), cication: [**-1**](None) 
 
 	 *Yi Xu, Chengzu Li, Han Zhou, ..., Anna Korhonen, Ivan Vulić*
-- **OpenThinkIMG: Learning to Think with Images via Visual Tool
+- **OpenThinkIMG: Learning to Think with Images via Visual Tool 
   Reinforcement Learning**, `arXiv, 2505.08617`, [arxiv](http://arxiv.org/abs/2505.08617v1), [pdf](http://arxiv.org/pdf/2505.08617v1.pdf), cication: [**-1**](None) 
 
 	 *Zhaochen Su, Linjie Li, Mingyang Song, ..., Xiaoye Qu, Yu Cheng* · ([𝕏](https://x.com/SuZhaochen0110/status/1922481570453074070)) · ([OpenThinkIMG](https://github.com/zhaochen0110/OpenThinkIMG) - zhaochen0110) ![Star](https://img.shields.io/github/stars/zhaochen0110/OpenThinkIMG.svg?style=social&label=Star)
-- **MathCoder-VL: Bridging Vision and Code for Enhanced Multimodal
+- **MathCoder-VL: Bridging Vision and Code for Enhanced Multimodal 
   Mathematical Reasoning**, `arXiv, 2505.10557`, [arxiv](http://arxiv.org/abs/2505.10557v1), [pdf](http://arxiv.org/pdf/2505.10557v1.pdf), cication: [**-1**](None) 
 
 	 *Ke Wang, Junting Pan, Linda Wei, ..., Mingjie Zhan, Hongsheng Li* · ([MathCoder.](https://github.com/mathllm/MathCoder.) - mathllm) ![Star](https://img.shields.io/github/stars/mathllm/MathCoder..svg?style=social&label=Star)
-- **Skywork-VL Reward: An Effective Reward Model for Multimodal
+- **Skywork-VL Reward: An Effective Reward Model for Multimodal 
   Understanding and Reasoning**, `arXiv, 2505.07263`, [arxiv](http://arxiv.org/abs/2505.07263v1), [pdf](http://arxiv.org/pdf/2505.07263v1.pdf), cication: [**-1**](None) 
 
 	 *Xiaokun Wang, Chris, Jiangbo Pei, ..., Yang Liu, Yahui Zhou*
@@ -661,7 +661,7 @@
 - **On Path to Multimodal Generalist: General-Level and General-Bench**, `arXiv, 2505.04620`, [arxiv](http://arxiv.org/abs/2505.04620v1), [pdf](http://arxiv.org/pdf/2505.04620v1.pdf), cication: [**-1**](None) 
 
 	 *Hao Fei, Yuan Zhou, Juncheng Li, ..., Shuicheng Yan, Hanwang Zhang*
-- **MMLongBench: Benchmarking Long-Context Vision-Language Models
+- **MMLongBench: Benchmarking Long-Context Vision-Language Models 
   Effectively and Thoroughly**, `arXiv, 2505.10610`, [arxiv](http://arxiv.org/abs/2505.10610v1), [pdf](http://arxiv.org/pdf/2505.10610v1.pdf), cication: [**-1**](None) 
 
 	 *Zhaowei Wang, Wenhao Yu, Xiyu Ren, ..., Yangqiu Song, Mark Steedman*
@@ -813,16 +813,16 @@
 - 🌟 **Emerging Properties in Unified Multimodal Pretraining**, `arXiv, 2505.14683`, [arxiv](http://arxiv.org/abs/2505.14683v1), [pdf](http://arxiv.org/pdf/2505.14683v1.pdf), cication: [**-1**](None) 
 
 	 *Chaorui Deng, Deyao Zhu, Kunchang Li, ..., Guang Shi, Haoqi Fan*
-- 🌟 **BLIP3-o: A Family of Fully Open Unified Multimodal Models-Architecture,
+- 🌟 **BLIP3-o: A Family of Fully Open Unified Multimodal Models-Architecture, 
   Training and Dataset**, `arXiv, 2505.09568`, [arxiv](http://arxiv.org/abs/2505.09568v1), [pdf](http://arxiv.org/pdf/2505.09568v1.pdf), cication: [**-1**](None) 
 
 	 *Jiuhai Chen, Zhiyang Xu, Xichen Pan, ..., Caiming Xiong, Ran Xu* · ([BLIP3o](https://github.com/JiuhaiChen/BLIP3o) - JiuhaiChen) ![Star](https://img.shields.io/github/stars/JiuhaiChen/BLIP3o.svg?style=social&label=Star)
-- [**MMaDA**](https://github.com/Gen-Verse/MMaDA) - Gen-Verse ![Star](https://img.shields.io/github/stars/Gen-Verse/MMaDA.svg?style=social&label=Star)
-- **Nexus-Gen: A Unified Model for Image Understanding, Generation, and
+- [**MMaDA**](https://github.com/Gen-Verse/MMaDA) - Gen-Verse ![Star](https://img.shields.io/github/stars/Gen-Verse/MMaDA.svg?style=social&label=Star) 
+- **Nexus-Gen: A Unified Model for Image Understanding, Generation, and 
   Editing**, `arXiv, 2504.21356`, [arxiv](http://arxiv.org/abs/2504.21356v2), [pdf](http://arxiv.org/pdf/2504.21356v2.pdf), cication: [**-1**](None) 
 
 	 *Hong Zhang, Zhongjie Duan, Xingjun Wang, ..., Yingda Chen, Yu Zhang* · ([Nexus-Gen](https://github.com/modelscope/Nexus-Gen) - modelscope) ![Star](https://img.shields.io/github/stars/modelscope/Nexus-Gen.svg?style=social&label=Star)
-- **Unified Multimodal Understanding and Generation Models: Advances,
+- **Unified Multimodal Understanding and Generation Models: Advances, 
   Challenges, and Opportunities**, `arXiv, 2505.02567`, [arxiv](http://arxiv.org/abs/2505.02567v3), [pdf](http://arxiv.org/pdf/2505.02567v3.pdf), cication: [**-1**](None) 
 
 	 *Xinjie Zhang, Jintao Guo, Shanshan Zhao, ..., Weihua Luo, Kaifu Zhang* · ([Awesome-Unified-Multimodal-Models](https://github.com/AIDC-AI/Awesome-Unified-Multimodal-Models) - AIDC-AI) ![Star](https://img.shields.io/github/stars/AIDC-AI/Awesome-Unified-Multimodal-Models.svg?style=social&label=Star)
@@ -988,8 +988,8 @@
 
 ## Projects
 
-- [**nanoVLM**](https://github.com/huggingface/nanoVLM) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/nanoVLM.svg?style=social&label=Star)
-- [**ml-fastvlm**](https://github.com/apple/ml-fastvlm) - apple ![Star](https://img.shields.io/github/stars/apple/ml-fastvlm.svg?style=social&label=Star)
+- [**nanoVLM**](https://github.com/huggingface/nanoVLM) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/nanoVLM.svg?style=social&label=Star) 
+- [**ml-fastvlm**](https://github.com/apple/ml-fastvlm) - apple ![Star](https://img.shields.io/github/stars/apple/ml-fastvlm.svg?style=social&label=Star) 
 
 	 *Efficient Vision Encoding for Vision Language Models*
 - 🌟 [**R1-V**](https://github.com/Deep-Agent/R1-V) - Deep-Agent ![Star](https://img.shields.io/github/stars/Deep-Agent/R1-V.svg?style=social&label=Star) 

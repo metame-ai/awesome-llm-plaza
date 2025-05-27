@@ -16,7 +16,7 @@
 
 ## Long Context
 
-- **RetroInfer: A Vector-Storage Approach for Scalable Long-Context LLM
+- **RetroInfer: A Vector-Storage Approach for Scalable Long-Context LLM 
   Inference**, `arXiv, 2505.02922`, [arxiv](http://arxiv.org/abs/2505.02922v1), [pdf](http://arxiv.org/pdf/2505.02922v1.pdf), cication: [**-1**](None) 
 
 	 *Yaoqi Chen, Jinkai Zhang, Baotong Lu, ..., Fan Yang, Mao Yang* · ([RetrievalAttention](https://github.com/microsoft/RetrievalAttention) - microsoft) ![Star](https://img.shields.io/github/stars/microsoft/RetrievalAttention.svg?style=social&label=Star)
@@ -144,7 +144,7 @@
 
 ## Projects
 
-- [**EM-LLM-model**](https://github.com/em-llm/EM-LLM-model) - em-llm ![Star](https://img.shields.io/github/stars/em-llm/EM-LLM-model.svg?style=social&label=Star)
+- [**EM-LLM-model**](https://github.com/em-llm/EM-LLM-model) - em-llm ![Star](https://img.shields.io/github/stars/em-llm/EM-LLM-model.svg?style=social&label=Star) 
 
 	 *Human-inspired Episodic Memory for Infinite Context LLMs*
 - [**360-LLaMA-Factory**](https://github.com/Qihoo360/360-LLaMA-Factory) - Qihoo360 ![Star](https://img.shields.io/github/stars/Qihoo360/360-LLaMA-Factory.svg?style=social&label=Star) 

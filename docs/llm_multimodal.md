@@ -9,7 +9,7 @@
 
 ## Survey
 
-- **Unified Multimodal Understanding and Generation Models: Advances,
+- **Unified Multimodal Understanding and Generation Models: Advances, 
   Challenges, and Opportunities**, `arXiv, 2505.02567`, [arxiv](http://arxiv.org/abs/2505.02567v3), [pdf](http://arxiv.org/pdf/2505.02567v3.pdf), cication: [**-1**](None) 
 
 	 *Xinjie Zhang, Jintao Guo, Shanshan Zhao, ..., Weihua Luo, Kaifu Zhang* · ([Awesome-Unified-Multimodal-Models](https://github.com/AIDC-AI/Awesome-Unified-Multimodal-Models) - AIDC-AI) ![Star](https://img.shields.io/github/stars/AIDC-AI/Awesome-Unified-Multimodal-Models.svg?style=social&label=Star)
