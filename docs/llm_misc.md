@@ -47,11 +47,11 @@
 
 ## Interpretability
 
-- **Beyond Semantics: The Unreasonable Effectiveness of Reasonless
+- **Beyond Semantics: The Unreasonable Effectiveness of Reasonless 
   Intermediate Tokens**, `arXiv, 2505.13775`, [arxiv](http://arxiv.org/abs/2505.13775v1), [pdf](http://arxiv.org/pdf/2505.13775v1.pdf), cication: [**-1**](None) 
 
 	 *Kaya Stechly, Karthik Valmeekam, Atharva Gundawar, ..., Vardhan Palod, Subbarao Kambhampati*
-- **Reinforcement Learning Finetunes Small Subnetworks in Large Language
+- **Reinforcement Learning Finetunes Small Subnetworks in Large Language 
   Models**, `arXiv, 2505.11711`, [arxiv](http://arxiv.org/abs/2505.11711v1), [pdf](http://arxiv.org/pdf/2505.11711v1.pdf), cication: [**-1**](None) 
 
 	 *Sagnik Mukherjee, Lifan Yuan, Dilek Hakkani-Tur, ..., Hao Peng*

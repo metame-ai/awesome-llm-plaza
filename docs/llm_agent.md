@@ -51,7 +51,7 @@
 - **Digi-Q: Learning Q-Value Functions for Training Device-Control Agents**, `arXiv, 2502.15760`, [arxiv](http://arxiv.org/abs/2502.15760v1), [pdf](http://arxiv.org/pdf/2502.15760v1.pdf), cication: [**-1**](None) 
 
 	 *Hao Bai, Yifei Zhou, Li Erran Li, ..., Sergey Levine, Aviral Kumar*
-- [**digirl**](https://github.com/DigiRL-agent/digirl/blob/master/env_setup/README.md) - DigiRL-agent ![Star](https://img.shields.io/github/stars/DigiRL-agent/digirl.svg?style=social&label=Star)
+- [**digirl**](https://github.com/DigiRL-agent/digirl/blob/master/env_setup/README.md) - DigiRL-agent ![Star](https://img.shields.io/github/stars/DigiRL-agent/digirl.svg?style=social&label=Star) 
 - **Agentic Reasoning and Tool Integration for LLMs via Reinforcement 
   Learning**, `arXiv, 2505.01441`, [arxiv](http://arxiv.org/abs/2505.01441v1), [pdf](http://arxiv.org/pdf/2505.01441v1.pdf), cication: [**-1**](None) 
 

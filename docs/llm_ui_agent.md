@@ -26,7 +26,15 @@
 
 ## GUI Agent
 
-- **PC Agent: While You Sleep, AI Works -- A Cognitive Journey into Digital
+- **Scaling Computer-Use Grounding via User Interface Decomposition and
+  Synthesis**, `arXiv, 2505.13227`, [arxiv](http://arxiv.org/abs/2505.13227v1), [pdf](http://arxiv.org/pdf/2505.13227v1.pdf), cication: [**-1**](None) 
+
+	 *Tianbao Xie, Jiaqi Deng, Xiaochuan Li, ..., Tao Yu, Caiming Xiong*
+- **UI-Genie: A Self-Improving Approach for Iteratively Boosting MLLM-based
+  Mobile GUI Agents**, `arXiv, 2505.21496`, [arxiv](http://arxiv.org/abs/2505.21496v1), [pdf](http://arxiv.org/pdf/2505.21496v1.pdf), cication: [**-1**](None) 
+
+	 *Han Xiao, Guozhi Wang, Yuxiang Chai, ..., Aojun Zhou, Hongsheng Li* · ([UI-Genie.](https://github.com/Euphoria16/UI-Genie.) - Euphoria16) ![Star](https://img.shields.io/github/stars/Euphoria16/UI-Genie..svg?style=social&label=Star)
+- **PC Agent: While You Sleep, AI Works -- A Cognitive Journey into Digital 
   World**, `arXiv, 2412.17589`, [arxiv](http://arxiv.org/abs/2412.17589v1), [pdf](http://arxiv.org/pdf/2412.17589v1.pdf), cication: [**-1**](None) 
 
 	 *Yanheng He, Jiahe Jin, Shijie Xia, ..., Xiangkun Hu, Pengfei Liu*
@@ -230,7 +238,7 @@
 	 *Linlu Qiu, Liwei Jiang, Ximing Lu, ..., Nouha Dziri, Xiang Ren*
 ## Projects
 
-- [**digirl**](https://github.com/DigiRL-agent/digirl/blob/master/env_setup/README.md) - DigiRL-agent ![Star](https://img.shields.io/github/stars/DigiRL-agent/digirl.svg?style=social&label=Star)
+- [**digirl**](https://github.com/DigiRL-agent/digirl/blob/master/env_setup/README.md) - DigiRL-agent ![Star](https://img.shields.io/github/stars/DigiRL-agent/digirl.svg?style=social&label=Star) 
 - 🌟 [**AgentCPM-GUI**](https://github.com/OpenBMB/AgentCPM-GUI) - OpenBMB ![Star](https://img.shields.io/github/stars/OpenBMB/AgentCPM-GUI.svg?style=social&label=Star) 
 
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s/V8pPbh0rYSBcLZu_THb3bQ?from=singlemessage&scene=1&subscene=317&sessionid=1747100541&clicktime=1747148648&enterid=1747148648&ascene=1&fasttmpl_type=0&fasttmpl_fullversion=7730326-zh_CN-zip&fasttmpl_flag=0&realreporttime=1747148648671))
