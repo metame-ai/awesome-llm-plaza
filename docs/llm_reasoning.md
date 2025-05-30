@@ -938,6 +938,9 @@
 
 ## Planning
 
+- **NATURAL PLAN: Benchmarking LLMs on Natural Language Planning**, `arXiv, 2406.04520`, [arxiv](http://arxiv.org/abs/2406.04520v1), [pdf](http://arxiv.org/pdf/2406.04520v1.pdf), cication: [**-1**](None) 
+
+	 *Huaixiu Steven Zheng, Swaroop Mishra, Hugh Zhang, ..., Ed H. Chi, Denny Zhou*
 - **Plan-and-Act: Improving Planning of Agents for Long-Horizon Tasks**, `arXiv, 2503.09572`, [arxiv](http://arxiv.org/abs/2503.09572v3), [pdf](http://arxiv.org/pdf/2503.09572v3.pdf), cication: [**-1**](None) 
 
 	 *Lutfi Eren Erdogan, Nicholas Lee, Sehoon Kim, ..., Kurt Keutzer, Amir Gholami*

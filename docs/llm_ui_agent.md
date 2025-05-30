@@ -26,11 +26,11 @@
 
 ## GUI Agent
 
-- **Scaling Computer-Use Grounding via User Interface Decomposition and
+- **Scaling Computer-Use Grounding via User Interface Decomposition and 
   Synthesis**, `arXiv, 2505.13227`, [arxiv](http://arxiv.org/abs/2505.13227v1), [pdf](http://arxiv.org/pdf/2505.13227v1.pdf), cication: [**-1**](None) 
 
 	 *Tianbao Xie, Jiaqi Deng, Xiaochuan Li, ..., Tao Yu, Caiming Xiong*
-- **UI-Genie: A Self-Improving Approach for Iteratively Boosting MLLM-based
+- **UI-Genie: A Self-Improving Approach for Iteratively Boosting MLLM-based 
   Mobile GUI Agents**, `arXiv, 2505.21496`, [arxiv](http://arxiv.org/abs/2505.21496v1), [pdf](http://arxiv.org/pdf/2505.21496v1.pdf), cication: [**-1**](None) 
 
 	 *Han Xiao, Guozhi Wang, Yuxiang Chai, ..., Aojun Zhou, Hongsheng Li* · ([UI-Genie.](https://github.com/Euphoria16/UI-Genie.) - Euphoria16) ![Star](https://img.shields.io/github/stars/Euphoria16/UI-Genie..svg?style=social&label=Star)
