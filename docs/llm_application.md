@@ -63,6 +63,10 @@
 
 ## Science
 
+- **Paper2Poster: Towards Multimodal Poster Automation from Scientific
+  Papers**, `arXiv, 2505.21497`, [arxiv](http://arxiv.org/abs/2505.21497v1), [pdf](http://arxiv.org/pdf/2505.21497v1.pdf), cication: [**-1**](None) 
+
+	 *Wei Pang, Kevin Qinghong Lin, Xiangru Jian, ..., Xi He, Philip Torr* · ([Paper2Poster.](https://github.com/Paper2Poster/Paper2Poster.) - Paper2Poster) ![Star](https://img.shields.io/github/stars/Paper2Poster/Paper2Poster..svg?style=social&label=Star)
 - **Robin: A multi-agent system for automating scientific discovery**, `arXiv, 2505.13400`, [arxiv](http://arxiv.org/abs/2505.13400v1), [pdf](http://arxiv.org/pdf/2505.13400v1.pdf), cication: [**-1**](None) 
 
 	 *Ali Essam Ghareeb, Benjamin Chang, Ludovico Mitchener, ..., Michaela M. Hinks, Samuel G. Rodriques*

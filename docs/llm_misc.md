@@ -47,6 +47,7 @@
 
 ## Interpretability
 
+- [**circuit-tracer**](https://github.com/safety-research/circuit-tracer) - safety-research ![Star](https://img.shields.io/github/stars/safety-research/circuit-tracer.svg?style=social&label=Star)
 - **Beyond Semantics: The Unreasonable Effectiveness of Reasonless 
   Intermediate Tokens**, `arXiv, 2505.13775`, [arxiv](http://arxiv.org/abs/2505.13775v1), [pdf](http://arxiv.org/pdf/2505.13775v1.pdf), cication: [**-1**](None) 
 

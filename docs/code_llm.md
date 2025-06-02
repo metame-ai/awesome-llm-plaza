@@ -12,6 +12,10 @@
 
 ## Survey
 
+- **Code to Think, Think to Code: A Survey on Code-Enhanced Reasoning and
+  Reasoning-Driven Code Intelligence in LLMs**, `arXiv, 2502.19411`, [arxiv](http://arxiv.org/abs/2502.19411v1), [pdf](http://arxiv.org/pdf/2502.19411v1.pdf), cication: [**-1**](None) 
+
+	 *Dayu Yang, Tianyang Liu, Daoan Zhang, ..., Jiebo Luo, Julian McAuley* · ([Awesome-Code-Reasoning](https://github.com/dayuyang1999/Awesome-Code-Reasoning) - dayuyang1999) ![Star](https://img.shields.io/github/stars/dayuyang1999/Awesome-Code-Reasoning.svg?style=social&label=Star)
 
 ## Code LLM
 
@@ -107,6 +111,10 @@
 
 ## Evaluation
 
+- **SWE-rebench: An Automated Pipeline for Task Collection and
+  Decontaminated Evaluation of Software Engineering Agents**, `arXiv, 2505.20411`, [arxiv](http://arxiv.org/abs/2505.20411v1), [pdf](http://arxiv.org/pdf/2505.20411v1.pdf), cication: [**-1**](None) 
+
+	 *Ibragim Badertdinov, Alexander Golubev, Maksim Nekrashevich, ..., Daria Litvintseva, Boris Yangel* · ([huggingface](https://huggingface.co/datasets/nebius/SWE-rebench)) · ([swe-rebench](https://swe-rebench.com))
 - **CodeArena: A Collective Evaluation Platform for LLM Code Generation**, `arXiv, 2503.01295`, [arxiv](http://arxiv.org/abs/2503.01295v1), [pdf](http://arxiv.org/pdf/2503.01295v1.pdf), cication: [**-1**](None) 
 
 	 *Mingzhe Du, Anh Tuan Luu, Bin Ji, ..., Qian Liu, See-Kiong Ng*

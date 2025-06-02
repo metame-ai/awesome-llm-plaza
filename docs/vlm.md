@@ -467,6 +467,20 @@
 
 ## Reasoning
 
+- **DeepEyes: Incentivizing "Thinking with Images" via Reinforcement
+  Learning**, `arXiv, 2505.14362`, [arxiv](http://arxiv.org/abs/2505.14362v2), [pdf](http://arxiv.org/pdf/2505.14362v2.pdf), cication: [**-1**](None) 
+
+	 *Ziwei Zheng, Michael Yang, Jack Hong, ..., Chao Shen, Xing Yu* · ([DeepEyes](https://github.com/Visual-Agent/DeepEyes) - Visual-Agent) ![Star](https://img.shields.io/github/stars/Visual-Agent/DeepEyes.svg?style=social&label=Star)
+- **MME-Reasoning: A Comprehensive Benchmark for Logical Reasoning in MLLMs**, `arXiv, 2505.21327`, [arxiv](http://arxiv.org/abs/2505.21327v1), [pdf](http://arxiv.org/pdf/2505.21327v1.pdf), cication: [**-1**](None) 
+
+	 *Jiakang Yuan, Tianshuo Peng, Yilei Jiang, ..., Bo Zhang, Xiangyu Yue* · ([alpha-innovator.github](https://alpha-innovator.github.io/mmereasoning.github.io/)) · ([MME-Reasoning](https://github.com/Alpha-Innovator/MME-Reasoning) - Alpha-Innovator) ![Star](https://img.shields.io/github/stars/Alpha-Innovator/MME-Reasoning.svg?style=social&label=Star) · ([alpha-innovator.github](https://alpha-innovator.github.io/mmereasoning.github.io/))
+- **Sherlock: Self-Correcting Reasoning in Vision-Language Models**, `arXiv, 2505.22651`, [arxiv](http://arxiv.org/abs/2505.22651v1), [pdf](http://arxiv.org/pdf/2505.22651v1.pdf), cication: [**-1**](None) 
+
+	 *Yi Ding, Ruqi Zhang*
+- **Advancing Multimodal Reasoning via Reinforcement Learning with Cold
+  Start**, `arXiv, 2505.22334`, [arxiv](http://arxiv.org/abs/2505.22334v1), [pdf](http://arxiv.org/pdf/2505.22334v1.pdf), cication: [**-1**](None) 
+
+	 *Lai Wei, Yuting Li, Kaipeng Zheng, ..., Lichao Sun, Weiran Huang* · ([RL-with-Cold-Start.](https://github.com/waltonfuture/RL-with-Cold-Start.) - waltonfuture) ![Star](https://img.shields.io/github/stars/waltonfuture/RL-with-Cold-Start..svg?style=social&label=Star)
 - 🌟 **Visual Planning: Let's Think Only with Images**, `arXiv, 2505.11409`, [arxiv](http://arxiv.org/abs/2505.11409v1), [pdf](http://arxiv.org/pdf/2505.11409v1.pdf), cication: [**-1**](None) 
 
 	 *Yi Xu, Chengzu Li, Han Zhou, ..., Anna Korhonen, Ivan Vulić*
@@ -810,6 +824,10 @@
 
 ## Generation
 
+- **UniRL: Self-Improving Unified Multimodal Models via Supervised and
+  Reinforcement Learning**, `arXiv, 2505.23380`, [arxiv](http://arxiv.org/abs/2505.23380v1), [pdf](http://arxiv.org/pdf/2505.23380v1.pdf), cication: [**-1**](None) 
+
+	 *Weijia Mao, Zhenheng Yang, Mike Zheng Shou* · ([UniRL.](https://github.com/showlab/UniRL.) - showlab) ![Star](https://img.shields.io/github/stars/showlab/UniRL..svg?style=social&label=Star)
 - 🌟 **Emerging Properties in Unified Multimodal Pretraining**, `arXiv, 2505.14683`, [arxiv](http://arxiv.org/abs/2505.14683v1), [pdf](http://arxiv.org/pdf/2505.14683v1.pdf), cication: [**-1**](None) 
 
 	 *Chaorui Deng, Deyao Zhu, Kunchang Li, ..., Guang Shi, Haoqi Fan*

@@ -46,6 +46,12 @@
 
 ## Efficient LLM
 
+- **Hardware-Efficient Attention for Fast Decoding**, `arXiv, 2505.21487`, [arxiv](http://arxiv.org/abs/2505.21487v1), [pdf](http://arxiv.org/pdf/2505.21487v1.pdf), cication: [**-1**](None) 
+
+	 *Ted Zadouri, Hubert Strauss, Tri Dao*
+- **Shifting AI Efficiency From Model-Centric to Data-Centric Compression**, `arXiv, 2505.19147`, [arxiv](http://arxiv.org/abs/2505.19147v1), [pdf](http://arxiv.org/pdf/2505.19147v1.pdf), cication: [**-1**](None) 
+
+	 *Xuyang Liu, Zichen Wen, Shaobo Wang, ..., Conghui He, Linfeng Zhang*
 - **Insights into DeepSeek-V3: Scaling Challenges and Reflections on 
   Hardware for AI Architectures**, `arXiv, 2505.09343`, [arxiv](http://arxiv.org/abs/2505.09343v1), [pdf](http://arxiv.org/pdf/2505.09343v1.pdf), cication: [**-1**](None) 
 
@@ -148,6 +154,9 @@
 
 ## Distillation
 
+- **Distilling LLM Agent into Small Models with Retrieval and Code Tools**, `arXiv, 2505.17612`, [arxiv](http://arxiv.org/abs/2505.17612v1), [pdf](http://arxiv.org/pdf/2505.17612v1.pdf), cication: [**-1**](None) 
+
+	 *Minki Kang, Jongwon Jeong, Seanie Lee, ..., Jaewoong Cho, Sung Ju Hwang* · ([agent-distillation](https://github.com/Nardien/agent-distillation) - Nardien) ![Star](https://img.shields.io/github/stars/Nardien/agent-distillation.svg?style=social&label=Star)
 - **Antidistillation Sampling**, `arXiv, 2504.13146`, [arxiv](http://arxiv.org/abs/2504.13146v2), [pdf](http://arxiv.org/pdf/2504.13146v2.pdf), cication: [**-1**](None) 
 
 	 *Yash Savani, Asher Trockman, Zhili Feng, ..., Marc Finzi, J. Zico Kolter*
@@ -189,6 +198,7 @@
 
 ## Inference
 
+- [Look Ma, No Bubbles! Designing a Low-Latency Megakernel for Llama-1B](https://hazyresearch.stanford.edu/blog/2025-05-27-no-bubbles) 
 - [Deploying DeepSeek with PD Disaggregation and Large-Scale Expert Parallelism on 96 H100 GPUs](https://lmsys.org/blog/2025-05-05-large-scale-ep/) 
 - **A Survey on Inference Engines for Large Language Models: Perspectives on 
   Optimization and Efficiency**, `arXiv, 2505.01658`, [arxiv](http://arxiv.org/abs/2505.01658v2), [pdf](http://arxiv.org/pdf/2505.01658v2.pdf), cication: [**-1**](None) 

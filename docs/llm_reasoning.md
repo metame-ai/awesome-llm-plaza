@@ -69,6 +69,20 @@
 
 ## Reasoning
 
+- **Dynamic Early Exit in Reasoning Models**, `arXiv, 2504.15895`, [arxiv](http://arxiv.org/abs/2504.15895v2), [pdf](http://arxiv.org/pdf/2504.15895v2.pdf), cication: [**-1**](None) 
+
+	 *Chenxu Yang, Qingyi Si, Yongjie Duan, ..., Li Cao, Weiping Wang*
+- **R2R: Efficiently Navigating Divergent Reasoning Paths with Small-Large
+  Model Token Routing**, `arXiv, 2505.21600`, [arxiv](http://arxiv.org/abs/2505.21600v1), [pdf](http://arxiv.org/pdf/2505.21600v1.pdf), cication: [**-1**](None) 
+
+	 *Tianyu Fu, Yi Ge, Yichen You, ..., Huazhong Yang, Yu Wang* · ([R2R.](https://github.com/thu-nics/R2R.) - thu-nics) ![Star](https://img.shields.io/github/stars/thu-nics/R2R..svg?style=social&label=Star)
+- **Enigmata: Scaling Logical Reasoning in Large Language Models with
+  Synthetic Verifiable Puzzles**, `arXiv, 2505.19914`, [arxiv](http://arxiv.org/abs/2505.19914v1), [pdf](http://arxiv.org/pdf/2505.19914v1.pdf), cication: [**-1**](None) 
+
+	 *Jiangjie Chen, Qianyu He, Siyu Yuan, ..., Hao Zhou, Mingxuan Wang* · ([seed-enigmata.github.io](https://seed-enigmata.github.io.))
+- **Are Reasoning Models More Prone to Hallucination?**, `arXiv, 2505.23646`, [arxiv](http://arxiv.org/abs/2505.23646v1), [pdf](http://arxiv.org/pdf/2505.23646v1.pdf), cication: [**-1**](None) 
+
+	 *Zijun Yao, Yantao Liu, Yanxu Chen, ..., Juanzi Li, Tat-Seng Chua*
 - **Reward Reasoning Model**, `arXiv, 2505.14674`, [arxiv](http://arxiv.org/abs/2505.14674v1), [pdf](http://arxiv.org/pdf/2505.14674v1.pdf), cication: [**-1**](None) 
 
 	 *Jiaxin Guo, Zewen Chi, Li Dong, ..., Shaohan Huang, Furu Wei*
@@ -431,6 +445,39 @@
 
 ## O1 Reasoning
 
+- **QwenLong-L1: Towards Long-Context Large Reasoning Models with
+  Reinforcement Learning**, `arXiv, 2505.17667`, [arxiv](http://arxiv.org/abs/2505.17667v2), [pdf](http://arxiv.org/pdf/2505.17667v2.pdf), cication: [**-1**](None) 
+
+	 *Fanqi Wan, Weizhou Shen, Shengyi Liao, ..., Jingren Zhou, Ming Yan* · ([QwenLong-L1](https://github.com/Tongyi-Zhiwen/QwenLong-L1) - Tongyi-Zhiwen) ![Star](https://img.shields.io/github/stars/Tongyi-Zhiwen/QwenLong-L1.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/Tongyi-Zhiwen/QwenLong-L1-32B)) · ([modelscope](https://modelscope.cn/models/iic/QwenLong-L1-32B))
+- [Spurious Rewards: Rethinking Training Signals in RLVR](https://rethink-rlvr.notion.site/Spurious-Rewards-Rethinking-Training-Signals-in-RLVR-1f4df34dac1880948858f95aeb88872f) 
+
+	 · ([𝕏](https://x.com/StellaLisy/status/1927392717593526780)) · ([Rethink_RLVR](https://github.com/ruixin31/Rethink_RLVR/blob/main/paper/rethink-rlvr.pdf) - ruixin31) ![Star](https://img.shields.io/github/stars/ruixin31/Rethink_RLVR.svg?style=social&label=Star)
+- **Learning to Reason without External Rewards**, `arXiv, 2505.19590`, [arxiv](http://arxiv.org/abs/2505.19590v1), [pdf](http://arxiv.org/pdf/2505.19590v1.pdf), cication: [**-1**](None) 
+
+	 *Xuandong Zhao, Zhewei Kang, Aosong Feng, ..., Sergey Levine, Dawn Song*
+- **Learn to Reason Efficiently with Adaptive Length-based Reward Shaping**, `arXiv, 2505.15612`, [arxiv](http://arxiv.org/abs/2505.15612v1), [pdf](http://arxiv.org/pdf/2505.15612v1.pdf), cication: [**-1**](None) 
+
+	 *Wei Liu, Ruochen Zhou, Yiyun Deng, ..., Yizhe Zhang, Junxian He* · ([Laser.](https://github.com/hkust-nlp/Laser.) - hkust-nlp) ![Star](https://img.shields.io/github/stars/hkust-nlp/Laser..svg?style=social&label=Star)
+- **Maximizing Confidence Alone Improves Reasoning**, `arXiv, 2505.22660`, [arxiv](http://arxiv.org/abs/2505.22660v2), [pdf](http://arxiv.org/pdf/2505.22660v2.pdf), cication: [**-1**](None) 
+
+	 *Mihir Prabhudesai, Lili Chen, Alex Ippoliti, ..., Hao Liu, Deepak Pathak* · ([rent-rl.github](https://rent-rl.github.io/))
+- **Can Large Reasoning Models Self-Train?**, `arXiv, 2505.21444`, [arxiv](http://arxiv.org/abs/2505.21444v1), [pdf](http://arxiv.org/pdf/2505.21444v1.pdf), cication: [**-1**](None) 
+
+	 *Sheikh Shafayat, Fahim Tajwar, Ruslan Salakhutdinov, ..., Jeff Schneider, Andrea Zanette*
+- **One-shot Entropy Minimization**, `arXiv, 2505.20282`, [arxiv](http://arxiv.org/abs/2505.20282v2), [pdf](http://arxiv.org/pdf/2505.20282v2.pdf), cication: [**-1**](None) 
+
+	 *Zitian Gao, Lynx Chen, Joey Zhou, ..., Bryan Dai* · ([one-shot-em.](https://github.com/zitian-gao/one-shot-em.) - zitian-gao) ![Star](https://img.shields.io/github/stars/zitian-gao/one-shot-em..svg?style=social&label=Star) · ([zhuanlan.zhihu](https://zhuanlan.zhihu.com/p/1912216274370537364))
+- **The Entropy Mechanism of Reinforcement Learning for Reasoning Language
+  Models**, `arXiv, 2505.22617`, [arxiv](http://arxiv.org/abs/2505.22617v1), [pdf](http://arxiv.org/pdf/2505.22617v1.pdf), cication: [**-1**](None) 
+
+	 *Ganqu Cui, Yuchen Zhang, Jiacheng Chen, ..., Bowen Zhou, Ning Ding*
+- **Optimizing Anytime Reasoning via Budget Relative Policy Optimization**, `arXiv, 2505.13438`, [arxiv](http://arxiv.org/abs/2505.13438v1), [pdf](http://arxiv.org/pdf/2505.13438v1.pdf), cication: [**-1**](None) 
+
+	 *Penghui Qi, Zichen Liu, Tianyu Pang, ..., Wee Sun Lee, Min Lin*
+- **RL Tango: Reinforcing Generator and Verifier Together for Language
+  Reasoning**, `arXiv, 2505.15034`, [arxiv](http://arxiv.org/abs/2505.15034v1), [pdf](http://arxiv.org/pdf/2505.15034v1.pdf), cication: [**-1**](None) 
+
+	 *Kaiwen Zha, Zhengqi Gao, Maohao Shen, ..., Duane S. Boning, Dina Katabi* · ([rl-tango.](https://github.com/kaiwenzha/rl-tango.) - kaiwenzha) ![Star](https://img.shields.io/github/stars/kaiwenzha/rl-tango..svg?style=social&label=Star)
 - **Reinforcement Learning Finetunes Small Subnetworks in Large Language 
   Models**, `arXiv, 2505.11711`, [arxiv](http://arxiv.org/abs/2505.11711v1), [pdf](http://arxiv.org/pdf/2505.11711v1.pdf), cication: [**-1**](None) 
 

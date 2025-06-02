@@ -16,6 +16,13 @@
 
 ## Long Context
 
+- **QwenLong-L1: Towards Long-Context Large Reasoning Models with
+  Reinforcement Learning**, `arXiv, 2505.17667`, [arxiv](http://arxiv.org/abs/2505.17667v2), [pdf](http://arxiv.org/pdf/2505.17667v2.pdf), cication: [**-1**](None) 
+
+	 *Fanqi Wan, Weizhou Shen, Shengyi Liao, ..., Jingren Zhou, Ming Yan* · ([QwenLong-L1](https://github.com/Tongyi-Zhiwen/QwenLong-L1) - Tongyi-Zhiwen) ![Star](https://img.shields.io/github/stars/Tongyi-Zhiwen/QwenLong-L1.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/Tongyi-Zhiwen/QwenLong-L1-32B)) · ([modelscope](https://modelscope.cn/models/iic/QwenLong-L1-32B))
+- **QwenLong-CPRS: Towards $\infty$-LLMs with Dynamic Context Optimization**, `arXiv, 2505.18092`, [arxiv](http://arxiv.org/abs/2505.18092v2), [pdf](http://arxiv.org/pdf/2505.18092v2.pdf), cication: [**-1**](None) 
+
+	 *Weizhou Shen, Chenliang Li, Fanqi Wan, ..., Jingren Zhou, Ming Yan*
 - **RetroInfer: A Vector-Storage Approach for Scalable Long-Context LLM 
   Inference**, `arXiv, 2505.02922`, [arxiv](http://arxiv.org/abs/2505.02922v1), [pdf](http://arxiv.org/pdf/2505.02922v1.pdf), cication: [**-1**](None) 
 
