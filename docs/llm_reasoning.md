@@ -69,14 +69,20 @@
 
 ## Reasoning
 
+- **Reasoning LLMs are Wandering Solution Explorers**, `arXiv, 2505.20296`, [arxiv](http://arxiv.org/abs/2505.20296v1), [pdf](http://arxiv.org/pdf/2505.20296v1.pdf), cication: [**-1**](None) 
+
+	 *Jiahao Lu, Ziwei Xu, Mohan Kankanhalli*
+- **Reinforcing General Reasoning without Verifiers**, `arXiv, 2505.21493`, [arxiv](http://arxiv.org/abs/2505.21493v1), [pdf](http://arxiv.org/pdf/2505.21493v1.pdf), cication: [**-1**](None) 
+
+	 *Xiangxin Zhou, Zichen Liu, Anya Sims, ..., Min Lin, Chao Du* · ([𝕏](https://x.com/zzlccc/status/1927772139530133711))
 - **Dynamic Early Exit in Reasoning Models**, `arXiv, 2504.15895`, [arxiv](http://arxiv.org/abs/2504.15895v2), [pdf](http://arxiv.org/pdf/2504.15895v2.pdf), cication: [**-1**](None) 
 
 	 *Chenxu Yang, Qingyi Si, Yongjie Duan, ..., Li Cao, Weiping Wang*
-- **R2R: Efficiently Navigating Divergent Reasoning Paths with Small-Large
+- **R2R: Efficiently Navigating Divergent Reasoning Paths with Small-Large 
   Model Token Routing**, `arXiv, 2505.21600`, [arxiv](http://arxiv.org/abs/2505.21600v1), [pdf](http://arxiv.org/pdf/2505.21600v1.pdf), cication: [**-1**](None) 
 
 	 *Tianyu Fu, Yi Ge, Yichen You, ..., Huazhong Yang, Yu Wang* · ([R2R.](https://github.com/thu-nics/R2R.) - thu-nics) ![Star](https://img.shields.io/github/stars/thu-nics/R2R..svg?style=social&label=Star)
-- **Enigmata: Scaling Logical Reasoning in Large Language Models with
+- **Enigmata: Scaling Logical Reasoning in Large Language Models with 
   Synthetic Verifiable Puzzles**, `arXiv, 2505.19914`, [arxiv](http://arxiv.org/abs/2505.19914v1), [pdf](http://arxiv.org/pdf/2505.19914v1.pdf), cication: [**-1**](None) 
 
 	 *Jiangjie Chen, Qianyu He, Siyu Yuan, ..., Hao Zhou, Mingxuan Wang* · ([seed-enigmata.github.io](https://seed-enigmata.github.io.))
@@ -328,6 +334,10 @@
 
 ## Math Reasoning
 
+- **DeepTheorem: Advancing LLM Reasoning for Theorem Proving Through Natural
+  Language and Reinforcement Learning**, `arXiv, 2505.23754`, [arxiv](http://arxiv.org/abs/2505.23754v1), [pdf](http://arxiv.org/pdf/2505.23754v1.pdf), cication: [**-1**](None) 
+
+	 *Ziyin Zhang, Jiahao Xu, Zhiwei He, ..., Haitao Mi, Dong Yu*
 - 🌟 [**DeepSeek-Prover-V2**](https://github.com/deepseek-ai/DeepSeek-Prover-V2) - deepseek-ai ![Star](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-Prover-V2.svg?style=social&label=Star) 
 
 	 *Advancing Formal Mathematical Reasoning via Reinforcement Learning for Subgoal Decomposition*
@@ -445,7 +455,19 @@
 
 ## O1 Reasoning
 
-- **QwenLong-L1: Towards Long-Context Large Reasoning Models with
+- **Beyond Markovian: Reflective Exploration via Bayes-Adaptive RL for LLM
+  Reasoning**, `arXiv, 2505.20561`, [arxiv](http://arxiv.org/abs/2505.20561v1), [pdf](http://arxiv.org/pdf/2505.20561v1.pdf), cication: [**-1**](None) 
+
+	 *Shenao Zhang, Yaqing Wang, Yinxiao Liu, ..., Zhaoran Wang, Yunxuan Li* · ([BARL](https://github.com/shenao-zhang/BARL) - shenao-zhang) ![Star](https://img.shields.io/github/stars/shenao-zhang/BARL.svg?style=social&label=Star)
+- **On the Design of KL-Regularized Policy Gradient Algorithms for LLM
+  Reasoning**, `arXiv, 2505.17508`, [arxiv](http://arxiv.org/abs/2505.17508v1), [pdf](http://arxiv.org/pdf/2505.17508v1.pdf), cication: [**-1**](None) 
+
+	 *Yifan Zhang, Yifeng Liu, Huizhuo Yuan, ..., Quanquan Gu, Andrew C Yao* · ([RPG.](https://github.com/complex-reasoning/RPG.) - complex-reasoning) ![Star](https://img.shields.io/github/stars/complex-reasoning/RPG..svg?style=social&label=Star)
+- **Temporal Sampling for Forgotten Reasoning in LLMs**, `arXiv, 2505.20196`, [arxiv](http://arxiv.org/abs/2505.20196v1), [pdf](http://arxiv.org/pdf/2505.20196v1.pdf), cication: [**-1**](None) 
+
+	 *Yuetai Li, Zhangchen Xu, Fengqing Jiang, ..., Xiang Yue, Radha Poovendran*
+- [Paper page - Beyond the 80/20 Rule: High-Entropy Minority Tokens Drive Effective  Reinforcement Learning for LLM Reasoning](https://huggingface.co/papers/2506.01939)
+- **QwenLong-L1: Towards Long-Context Large Reasoning Models with 
   Reinforcement Learning**, `arXiv, 2505.17667`, [arxiv](http://arxiv.org/abs/2505.17667v2), [pdf](http://arxiv.org/pdf/2505.17667v2.pdf), cication: [**-1**](None) 
 
 	 *Fanqi Wan, Weizhou Shen, Shengyi Liao, ..., Jingren Zhou, Ming Yan* · ([QwenLong-L1](https://github.com/Tongyi-Zhiwen/QwenLong-L1) - Tongyi-Zhiwen) ![Star](https://img.shields.io/github/stars/Tongyi-Zhiwen/QwenLong-L1.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/Tongyi-Zhiwen/QwenLong-L1-32B)) · ([modelscope](https://modelscope.cn/models/iic/QwenLong-L1-32B))
@@ -467,14 +489,14 @@
 - **One-shot Entropy Minimization**, `arXiv, 2505.20282`, [arxiv](http://arxiv.org/abs/2505.20282v2), [pdf](http://arxiv.org/pdf/2505.20282v2.pdf), cication: [**-1**](None) 
 
 	 *Zitian Gao, Lynx Chen, Joey Zhou, ..., Bryan Dai* · ([one-shot-em.](https://github.com/zitian-gao/one-shot-em.) - zitian-gao) ![Star](https://img.shields.io/github/stars/zitian-gao/one-shot-em..svg?style=social&label=Star) · ([zhuanlan.zhihu](https://zhuanlan.zhihu.com/p/1912216274370537364))
-- **The Entropy Mechanism of Reinforcement Learning for Reasoning Language
+- **The Entropy Mechanism of Reinforcement Learning for Reasoning Language 
   Models**, `arXiv, 2505.22617`, [arxiv](http://arxiv.org/abs/2505.22617v1), [pdf](http://arxiv.org/pdf/2505.22617v1.pdf), cication: [**-1**](None) 
 
 	 *Ganqu Cui, Yuchen Zhang, Jiacheng Chen, ..., Bowen Zhou, Ning Ding*
 - **Optimizing Anytime Reasoning via Budget Relative Policy Optimization**, `arXiv, 2505.13438`, [arxiv](http://arxiv.org/abs/2505.13438v1), [pdf](http://arxiv.org/pdf/2505.13438v1.pdf), cication: [**-1**](None) 
 
 	 *Penghui Qi, Zichen Liu, Tianyu Pang, ..., Wee Sun Lee, Min Lin*
-- **RL Tango: Reinforcing Generator and Verifier Together for Language
+- **RL Tango: Reinforcing Generator and Verifier Together for Language 
   Reasoning**, `arXiv, 2505.15034`, [arxiv](http://arxiv.org/abs/2505.15034v1), [pdf](http://arxiv.org/pdf/2505.15034v1.pdf), cication: [**-1**](None) 
 
 	 *Kaiwen Zha, Zhengqi Gao, Maohao Shen, ..., Duane S. Boning, Dina Katabi* · ([rl-tango.](https://github.com/kaiwenzha/rl-tango.) - kaiwenzha) ![Star](https://img.shields.io/github/stars/kaiwenzha/rl-tango..svg?style=social&label=Star)
@@ -910,6 +932,9 @@
 
 ## Chain Of Thought
 
+- **Fractured Chain-of-Thought Reasoning**, `arXiv, 2505.12992`, [arxiv](http://arxiv.org/abs/2505.12992v2), [pdf](http://arxiv.org/pdf/2505.12992v2.pdf), cication: [**-1**](None) 
+
+	 *Baohao Liao, Hanze Dong, Yuhui Xu, ..., Junnan Li, Caiming Xiong*
 - **Does Chain-of-Thought Reasoning Help Mobile GUI Agent? An Empirical 
   Study**, `arXiv, 2503.16788`, [arxiv](http://arxiv.org/abs/2503.16788v1), [pdf](http://arxiv.org/pdf/2503.16788v1.pdf), cication: [**-1**](None) 
 

@@ -86,14 +86,14 @@
 
 ## Agents
 
-- **MaskSearch: A Universal Pre-Training Framework to Enhance Agentic Search
+- **MaskSearch: A Universal Pre-Training Framework to Enhance Agentic Search 
   Capability**, `arXiv, 2505.20285`, [arxiv](http://arxiv.org/abs/2505.20285v2), [pdf](http://arxiv.org/pdf/2505.20285v2.pdf), cication: [**-1**](None) 
 
 	 *Weiqi Wu, Xin Guan, Shen Huang, ..., Hai Zhao, Jingren Zhou* · ([MaskSearch](https://github.com/Alibaba-NLP/MaskSearch) - Alibaba-NLP) ![Star](https://img.shields.io/github/stars/Alibaba-NLP/MaskSearch.svg?style=social&label=Star)
 - **Distilling LLM Agent into Small Models with Retrieval and Code Tools**, `arXiv, 2505.17612`, [arxiv](http://arxiv.org/abs/2505.17612v1), [pdf](http://arxiv.org/pdf/2505.17612v1.pdf), cication: [**-1**](None) 
 
 	 *Minki Kang, Jongwon Jeong, Seanie Lee, ..., Jaewoong Cho, Sung Ju Hwang* · ([agent-distillation](https://github.com/Nardien/agent-distillation) - Nardien) ![Star](https://img.shields.io/github/stars/Nardien/agent-distillation.svg?style=social&label=Star)
-- **Embodied Agents Meet Personalization: Exploring Memory Utilization for
+- **Embodied Agents Meet Personalization: Exploring Memory Utilization for 
   Personalized Assistance**, `arXiv, 2505.16348`, [arxiv](http://arxiv.org/abs/2505.16348v1), [pdf](http://arxiv.org/pdf/2505.16348v1.pdf), cication: [**-1**](None) 
 
 	 *Taeyoon Kwon, Dongwook Choi, Sunghwan Kim, ..., Kuan-Hao Huang, Jinyoung Yeo* · ([connoriginal.github](https://connoriginal.github.io/MEMENTO/))
@@ -467,7 +467,7 @@
 
 ## Misc
 
-- [CodeAgents + Structure: A Better Way to Execute Actions](https://huggingface.co/blog/structured-codeagent)  🤗
+- [CodeAgents + Structure: A Better Way to Execute Actions](https://huggingface.co/blog/structured-codeagent)  🤗 
 - [The "think" tool: Enabling Claude to stop and think in complex tool use situations](https://www.anthropic.com/engineering/claude-think-tool) 
 
 	 · ([𝕏](https://x.com/alexalbert__/status/1903130655564922911))

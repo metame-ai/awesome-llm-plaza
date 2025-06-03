@@ -63,7 +63,7 @@
 
 ## Science
 
-- **Paper2Poster: Towards Multimodal Poster Automation from Scientific
+- **Paper2Poster: Towards Multimodal Poster Automation from Scientific 
   Papers**, `arXiv, 2505.21497`, [arxiv](http://arxiv.org/abs/2505.21497v1), [pdf](http://arxiv.org/pdf/2505.21497v1.pdf), cication: [**-1**](None) 
 
 	 *Wei Pang, Kevin Qinghong Lin, Xiangru Jian, ..., Xi He, Philip Torr* · ([Paper2Poster.](https://github.com/Paper2Poster/Paper2Poster.) - Paper2Poster) ![Star](https://img.shields.io/github/stars/Paper2Poster/Paper2Poster..svg?style=social&label=Star)
@@ -326,6 +326,7 @@
 
 ## Projects
 
+- [**gallery**](https://github.com/google-ai-edge/gallery) - google-ai-edge ![Star](https://img.shields.io/github/stars/google-ai-edge/gallery.svg?style=social&label=Star)
 - [**interview-coder**](https://github.com/ibttf/interview-coder) - ibttf ![Star](https://img.shields.io/github/stars/ibttf/interview-coder.svg?style=social&label=Star) 
 - [**open_deep_research**](https://github.com/langchain-ai/open_deep_research) - langchain-ai ![Star](https://img.shields.io/github/stars/langchain-ai/open_deep_research.svg?style=social&label=Star) 
 - [**llm-scraper**](https://github.com/mishushakov/llm-scraper) - mishushakov ![Star](https://img.shields.io/github/stars/mishushakov/llm-scraper.svg?style=social&label=Star) 

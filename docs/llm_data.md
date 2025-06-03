@@ -20,6 +20,10 @@
 
 ## LLM Data
 
+- **Estimating the Effects of Sample Training Orders for Large Language
+  Models without Retraining**, `arXiv, 2505.22042`, [arxiv](http://arxiv.org/abs/2505.22042v1), [pdf](http://arxiv.org/pdf/2505.22042v1.pdf), cication: [**-1**](None) 
+
+	 *Hao Yang, Haoxuan Li, Mengyue Yang, ..., Xu Chen, Mingming Gong*
 - **Overtrained Language Models Are Harder to Fine-Tune**, `arXiv, 2503.19206`, [arxiv](http://arxiv.org/abs/2503.19206v2), [pdf](http://arxiv.org/pdf/2503.19206v2.pdf), cication: [**-1**](None) 
 
 	 *Jacob Mitchell Springer, Sachin Goyal, Kaiyue Wen, ..., Graham Neubig, Aditi Raghunathan*

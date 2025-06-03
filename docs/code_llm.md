@@ -12,13 +12,16 @@
 
 ## Survey
 
-- **Code to Think, Think to Code: A Survey on Code-Enhanced Reasoning and
+- **Code to Think, Think to Code: A Survey on Code-Enhanced Reasoning and 
   Reasoning-Driven Code Intelligence in LLMs**, `arXiv, 2502.19411`, [arxiv](http://arxiv.org/abs/2502.19411v1), [pdf](http://arxiv.org/pdf/2502.19411v1.pdf), cication: [**-1**](None) 
 
 	 *Dayu Yang, Tianyang Liu, Daoan Zhang, ..., Jiebo Luo, Julian McAuley* · ([Awesome-Code-Reasoning](https://github.com/dayuyang1999/Awesome-Code-Reasoning) - dayuyang1999) ![Star](https://img.shields.io/github/stars/dayuyang1999/Awesome-Code-Reasoning.svg?style=social&label=Star)
 
 ## Code LLM
 
+- **Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents**, `arXiv, 2505.22954`, [arxiv](http://arxiv.org/abs/2505.22954v1), [pdf](http://arxiv.org/pdf/2505.22954v1.pdf), cication: [**-1**](None) 
+
+	 *Jenny Zhang, Shengran Hu, Cong Lu, ..., Robert Lange, Jeff Clune* · ([𝕏](https://x.com/SakanaAILabs/status/1928272612431646943))
 - **Iterative Self-Training for Code Generation via Reinforced Re-Ranking**, `arXiv, 2504.09643`, [arxiv](http://arxiv.org/abs/2504.09643v1), [pdf](http://arxiv.org/pdf/2504.09643v1.pdf), cication: [**-1**](None) 
 
 	 *Nikita Sorokin, Ivan Sedykh, Valentin Malykh*
@@ -111,7 +114,7 @@
 
 ## Evaluation
 
-- **SWE-rebench: An Automated Pipeline for Task Collection and
+- **SWE-rebench: An Automated Pipeline for Task Collection and 
   Decontaminated Evaluation of Software Engineering Agents**, `arXiv, 2505.20411`, [arxiv](http://arxiv.org/abs/2505.20411v1), [pdf](http://arxiv.org/pdf/2505.20411v1.pdf), cication: [**-1**](None) 
 
 	 *Ibragim Badertdinov, Alexander Golubev, Maksim Nekrashevich, ..., Daria Litvintseva, Boris Yangel* · ([huggingface](https://huggingface.co/datasets/nebius/SWE-rebench)) · ([swe-rebench](https://swe-rebench.com))

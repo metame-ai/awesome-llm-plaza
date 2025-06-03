@@ -29,7 +29,7 @@
 - **ZeroGUI: Automating Online GUI Learning at Zero Human Cost**, `arXiv, 2505.23762`, [arxiv](http://arxiv.org/abs/2505.23762v1), [pdf](http://arxiv.org/pdf/2505.23762v1.pdf), cication: [**-1**](None) 
 
 	 *Chenyu Yang, Shiqian Su, Shi Liu, ..., Xizhou Zhu, Jifeng Dai* · ([ZeroGUI.](https://github.com/OpenGVLab/ZeroGUI.) - OpenGVLab) ![Star](https://img.shields.io/github/stars/OpenGVLab/ZeroGUI..svg?style=social&label=Star)
-- **ScreenExplorer: Training a Vision-Language Model for Diverse Exploration
+- **ScreenExplorer: Training a Vision-Language Model for Diverse Exploration 
   in Open GUI World**, `arXiv, 2505.19095`, [arxiv](http://arxiv.org/abs/2505.19095v1), [pdf](http://arxiv.org/pdf/2505.19095v1.pdf), cication: [**-1**](None) 
 
 	 *Runliang Niu, Jinglong Ji, Yi Chang, ..., Qi Wang*

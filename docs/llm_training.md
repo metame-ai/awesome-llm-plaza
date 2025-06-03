@@ -23,6 +23,10 @@
 
 ## LLM Training
 
+- **Estimating the Effects of Sample Training Orders for Large Language
+  Models without Retraining**, `arXiv, 2505.22042`, [arxiv](http://arxiv.org/abs/2505.22042v1), [pdf](http://arxiv.org/pdf/2505.22042v1.pdf), cication: [**-1**](None) 
+
+	 *Hao Yang, Haoxuan Li, Mengyue Yang, ..., Xu Chen, Mingming Gong*
 - **Parallel Scaling Law for Language Models**, `arXiv, 2505.10475`, [arxiv](http://arxiv.org/abs/2505.10475v1), [pdf](http://arxiv.org/pdf/2505.10475v1.pdf), cication: [**-1**](None) 
 
 	 *Mouxiang Chen, Binyuan Hui, Zeyu Cui, ..., Junyang Lin, Zhongxin Liu* · ([ParScale](https://github.com/QwenLM/ParScale) - QwenLM) ![Star](https://img.shields.io/github/stars/QwenLM/ParScale.svg?style=social&label=Star)

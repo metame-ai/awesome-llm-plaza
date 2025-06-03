@@ -17,6 +17,9 @@
 
 ## LLM Models
 
+- **ATLAS: Learning to Optimally Memorize the Context at Test Time**, `arXiv, 2505.23735`, [arxiv](http://arxiv.org/abs/2505.23735v1), [pdf](http://arxiv.org/pdf/2505.23735v1.pdf), cication: [**-1**](None) 
+
+	 *Ali Behrouz, Zeman Li, Praneeth Kacham, ..., Meisam Razaviyayn, Vahab Mirrokni*
 - [Gemini DiffusionOur state-of-the-art, experimental text diffusion model](https://deepmind.google/models/gemini-diffusion/) 
 - **Continuous Thought Machines**, `arXiv, 2505.05522`, [arxiv](http://arxiv.org/abs/2505.05522v2), [pdf](http://arxiv.org/pdf/2505.05522v2.pdf), cication: [**-1**](None) 
 
