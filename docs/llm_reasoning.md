@@ -334,7 +334,7 @@
 
 ## Math Reasoning
 
-- **DeepTheorem: Advancing LLM Reasoning for Theorem Proving Through Natural
+- **DeepTheorem: Advancing LLM Reasoning for Theorem Proving Through Natural 
   Language and Reinforcement Learning**, `arXiv, 2505.23754`, [arxiv](http://arxiv.org/abs/2505.23754v1), [pdf](http://arxiv.org/pdf/2505.23754v1.pdf), cication: [**-1**](None) 
 
 	 *Ziyin Zhang, Jiahao Xu, Zhiwei He, ..., Haitao Mi, Dong Yu*
@@ -455,18 +455,21 @@
 
 ## O1 Reasoning
 
-- **Beyond Markovian: Reflective Exploration via Bayes-Adaptive RL for LLM
+- **Beyond Markovian: Reflective Exploration via Bayes-Adaptive RL for LLM 
   Reasoning**, `arXiv, 2505.20561`, [arxiv](http://arxiv.org/abs/2505.20561v1), [pdf](http://arxiv.org/pdf/2505.20561v1.pdf), cication: [**-1**](None) 
 
 	 *Shenao Zhang, Yaqing Wang, Yinxiao Liu, ..., Zhaoran Wang, Yunxuan Li* · ([BARL](https://github.com/shenao-zhang/BARL) - shenao-zhang) ![Star](https://img.shields.io/github/stars/shenao-zhang/BARL.svg?style=social&label=Star)
-- **On the Design of KL-Regularized Policy Gradient Algorithms for LLM
+- **On the Design of KL-Regularized Policy Gradient Algorithms for LLM 
   Reasoning**, `arXiv, 2505.17508`, [arxiv](http://arxiv.org/abs/2505.17508v1), [pdf](http://arxiv.org/pdf/2505.17508v1.pdf), cication: [**-1**](None) 
 
 	 *Yifan Zhang, Yifeng Liu, Huizhuo Yuan, ..., Quanquan Gu, Andrew C Yao* · ([RPG.](https://github.com/complex-reasoning/RPG.) - complex-reasoning) ![Star](https://img.shields.io/github/stars/complex-reasoning/RPG..svg?style=social&label=Star)
 - **Temporal Sampling for Forgotten Reasoning in LLMs**, `arXiv, 2505.20196`, [arxiv](http://arxiv.org/abs/2505.20196v1), [pdf](http://arxiv.org/pdf/2505.20196v1.pdf), cication: [**-1**](None) 
 
 	 *Yuetai Li, Zhangchen Xu, Fengqing Jiang, ..., Xiang Yue, Radha Poovendran*
-- [Paper page - Beyond the 80/20 Rule: High-Entropy Minority Tokens Drive Effective  Reinforcement Learning for LLM Reasoning](https://huggingface.co/papers/2506.01939)
+- **Beyond the 80/20 Rule: High-Entropy Minority Tokens Drive Effective
+  Reinforcement Learning for LLM Reasoning**, `arXiv, 2506.01939`, [arxiv](http://arxiv.org/abs/2506.01939v1), [pdf](http://arxiv.org/pdf/2506.01939v1.pdf), cication: [**-1**](None) 
+
+	 *Shenzhi Wang, Le Yu, Chang Gao, ..., Gao Huang, Junyang Lin*
 - **QwenLong-L1: Towards Long-Context Large Reasoning Models with 
   Reinforcement Learning**, `arXiv, 2505.17667`, [arxiv](http://arxiv.org/abs/2505.17667v2), [pdf](http://arxiv.org/pdf/2505.17667v2.pdf), cication: [**-1**](None) 
 

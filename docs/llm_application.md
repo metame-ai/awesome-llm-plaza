@@ -326,7 +326,7 @@
 
 ## Projects
 
-- [**gallery**](https://github.com/google-ai-edge/gallery) - google-ai-edge ![Star](https://img.shields.io/github/stars/google-ai-edge/gallery.svg?style=social&label=Star)
+- [**gallery**](https://github.com/google-ai-edge/gallery) - google-ai-edge ![Star](https://img.shields.io/github/stars/google-ai-edge/gallery.svg?style=social&label=Star) 
 - [**interview-coder**](https://github.com/ibttf/interview-coder) - ibttf ![Star](https://img.shields.io/github/stars/ibttf/interview-coder.svg?style=social&label=Star) 
 - [**open_deep_research**](https://github.com/langchain-ai/open_deep_research) - langchain-ai ![Star](https://img.shields.io/github/stars/langchain-ai/open_deep_research.svg?style=social&label=Star) 
 - [**llm-scraper**](https://github.com/mishushakov/llm-scraper) - mishushakov ![Star](https://img.shields.io/github/stars/mishushakov/llm-scraper.svg?style=social&label=Star) 

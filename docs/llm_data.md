@@ -20,7 +20,7 @@
 
 ## LLM Data
 
-- **Estimating the Effects of Sample Training Orders for Large Language
+- **Estimating the Effects of Sample Training Orders for Large Language 
   Models without Retraining**, `arXiv, 2505.22042`, [arxiv](http://arxiv.org/abs/2505.22042v1), [pdf](http://arxiv.org/pdf/2505.22042v1.pdf), cication: [**-1**](None) 
 
 	 *Hao Yang, Haoxuan Li, Mengyue Yang, ..., Xu Chen, Mingming Gong*

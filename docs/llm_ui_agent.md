@@ -26,6 +26,9 @@
 
 ## GUI Agent
 
+- **AgentCPM-GUI: Building Mobile-Use Agents with Reinforcement Fine-Tuning**, `arXiv, 2506.01391`, [arxiv](http://arxiv.org/abs/2506.01391v1), [pdf](http://arxiv.org/pdf/2506.01391v1.pdf), cication: [**-1**](None) 
+
+	 *Zhong Zhang, Yaxi Lu, Yikun Fu, ..., Zhiyuan Liu, Maosong Sun*
 - **ZeroGUI: Automating Online GUI Learning at Zero Human Cost**, `arXiv, 2505.23762`, [arxiv](http://arxiv.org/abs/2505.23762v1), [pdf](http://arxiv.org/pdf/2505.23762v1.pdf), cication: [**-1**](None) 
 
 	 *Chenyu Yang, Shiqian Su, Shi Liu, ..., Xizhou Zhu, Jifeng Dai* · ([ZeroGUI.](https://github.com/OpenGVLab/ZeroGUI.) - OpenGVLab) ![Star](https://img.shields.io/github/stars/OpenGVLab/ZeroGUI..svg?style=social&label=Star)
