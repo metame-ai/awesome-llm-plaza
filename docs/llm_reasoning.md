@@ -455,6 +455,13 @@
 
 ## O1 Reasoning
 
+- **Let LLMs Break Free from Overthinking via Self-Braking Tuning**, `arXiv, 2505.14604`, [arxiv](http://arxiv.org/abs/2505.14604v2), [pdf](http://arxiv.org/pdf/2505.14604v2.pdf), cication: [**-1**](None) 
+
+	 *Haoran Zhao, Yuchen Yan, Yongliang Shen, ..., Jun Xiao, Yueting Zhuang* · ([Self-Braking-Tuning](https://github.com/ZJU-REAL/Self-Braking-Tuning) - ZJU-REAL) ![Star](https://img.shields.io/github/stars/ZJU-REAL/Self-Braking-Tuning.svg?style=social&label=Star) · ([zju-real.github](https://zju-real.github.io/SBT))
+- **Segment Policy Optimization: Effective Segment-Level Credit Assignment
+  in RL for Large Language Models**, `arXiv, 2505.23564`, [arxiv](http://arxiv.org/abs/2505.23564v1), [pdf](http://arxiv.org/pdf/2505.23564v1.pdf), cication: [**-1**](None) 
+
+	 *Yiran Guo, Lijie Xu, Jie Liu, ..., Dan Ye, Shuang Qiu*
 - **Beyond Markovian: Reflective Exploration via Bayes-Adaptive RL for LLM 
   Reasoning**, `arXiv, 2505.20561`, [arxiv](http://arxiv.org/abs/2505.20561v1), [pdf](http://arxiv.org/pdf/2505.20561v1.pdf), cication: [**-1**](None) 
 
@@ -466,7 +473,7 @@
 - **Temporal Sampling for Forgotten Reasoning in LLMs**, `arXiv, 2505.20196`, [arxiv](http://arxiv.org/abs/2505.20196v1), [pdf](http://arxiv.org/pdf/2505.20196v1.pdf), cication: [**-1**](None) 
 
 	 *Yuetai Li, Zhangchen Xu, Fengqing Jiang, ..., Xiang Yue, Radha Poovendran*
-- **Beyond the 80/20 Rule: High-Entropy Minority Tokens Drive Effective
+- **Beyond the 80/20 Rule: High-Entropy Minority Tokens Drive Effective 
   Reinforcement Learning for LLM Reasoning**, `arXiv, 2506.01939`, [arxiv](http://arxiv.org/abs/2506.01939v1), [pdf](http://arxiv.org/pdf/2506.01939v1.pdf), cication: [**-1**](None) 
 
 	 *Shenzhi Wang, Le Yu, Chang Gao, ..., Gao Huang, Junyang Lin*
@@ -935,6 +942,9 @@
 
 ## Chain Of Thought
 
+- **Mind the Gap: Bridging Thought Leap for Improved Chain-of-Thought Tuning**, `arXiv, 2505.14684`, [arxiv](http://arxiv.org/abs/2505.14684v2), [pdf](http://arxiv.org/pdf/2505.14684v2.pdf), cication: [**-1**](None) 
+
+	 *Haolei Xu, Yuchen Yan, Yongliang Shen, ..., Jun Xiao, Yueting Zhuang* · ([zju-real.github](https://zju-real.github.io/CoT-Bridge/)) · ([Mind-the-Gap](https://github.com/ZJU-REAL/Mind-the-Gap) - ZJU-REAL) ![Star](https://img.shields.io/github/stars/ZJU-REAL/Mind-the-Gap.svg?style=social&label=Star)
 - **Fractured Chain-of-Thought Reasoning**, `arXiv, 2505.12992`, [arxiv](http://arxiv.org/abs/2505.12992v2), [pdf](http://arxiv.org/pdf/2505.12992v2.pdf), cication: [**-1**](None) 
 
 	 *Baohao Liao, Hanze Dong, Yuhui Xu, ..., Junnan Li, Caiming Xiong*
