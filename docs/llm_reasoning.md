@@ -458,7 +458,7 @@
 - **Let LLMs Break Free from Overthinking via Self-Braking Tuning**, `arXiv, 2505.14604`, [arxiv](http://arxiv.org/abs/2505.14604v2), [pdf](http://arxiv.org/pdf/2505.14604v2.pdf), cication: [**-1**](None) 
 
 	 *Haoran Zhao, Yuchen Yan, Yongliang Shen, ..., Jun Xiao, Yueting Zhuang* · ([Self-Braking-Tuning](https://github.com/ZJU-REAL/Self-Braking-Tuning) - ZJU-REAL) ![Star](https://img.shields.io/github/stars/ZJU-REAL/Self-Braking-Tuning.svg?style=social&label=Star) · ([zju-real.github](https://zju-real.github.io/SBT))
-- **Segment Policy Optimization: Effective Segment-Level Credit Assignment
+- **Segment Policy Optimization: Effective Segment-Level Credit Assignment 
   in RL for Large Language Models**, `arXiv, 2505.23564`, [arxiv](http://arxiv.org/abs/2505.23564v1), [pdf](http://arxiv.org/pdf/2505.23564v1.pdf), cication: [**-1**](None) 
 
 	 *Yiran Guo, Lijie Xu, Jie Liu, ..., Dan Ye, Shuang Qiu*

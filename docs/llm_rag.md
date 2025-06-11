@@ -181,7 +181,7 @@
 
 ## Projects
 
-- [**VRAG**](https://github.com/Alibaba-NLP/VRAG) - Alibaba-NLP ![Star](https://img.shields.io/github/stars/Alibaba-NLP/VRAG.svg?style=social&label=Star)
+- [**VRAG**](https://github.com/Alibaba-NLP/VRAG) - Alibaba-NLP ![Star](https://img.shields.io/github/stars/Alibaba-NLP/VRAG.svg?style=social&label=Star) 
 
 	 *Moving Towards Next-Generation RAG via Multi-Modal Agent RL*
 - [**Finetune-Bench-RAG**](https://github.com/Pints-AI/Finetune-Bench-RAG) - Pints-AI ![Star](https://img.shields.io/github/stars/Pints-AI/Finetune-Bench-RAG.svg?style=social&label=Star) 

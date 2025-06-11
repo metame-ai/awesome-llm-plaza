@@ -48,7 +48,7 @@
 
 ## Agent RL
 
-- [**VRAG**](https://github.com/Alibaba-NLP/VRAG) - Alibaba-NLP ![Star](https://img.shields.io/github/stars/Alibaba-NLP/VRAG.svg?style=social&label=Star)
+- [**VRAG**](https://github.com/Alibaba-NLP/VRAG) - Alibaba-NLP ![Star](https://img.shields.io/github/stars/Alibaba-NLP/VRAG.svg?style=social&label=Star) 
 
 	 *Moving Towards Next-Generation RAG via Multi-Modal Agent RL*
 - **s3: You Don't Need That Much Data to Train a Search Agent via RL**, `arXiv, 2505.14146`, [arxiv](http://arxiv.org/abs/2505.14146v1), [pdf](http://arxiv.org/pdf/2505.14146v1.pdf), cication: [**-1**](None) 
