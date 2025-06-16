@@ -20,6 +20,10 @@
 
 ## Embodied AI
 
+- 🌟 **SmolVLA: A Vision-Language-Action Model for Affordable and Efficient
+  Robotics**, `arXiv, 2506.01844`, [arxiv](http://arxiv.org/abs/2506.01844v1), [pdf](http://arxiv.org/pdf/2506.01844v1.pdf), cication: [**-1**](None) 
+
+	 *Mustafa Shukor, Dana Aubakirova, Francesco Capuano, ..., Thomas Wolf, Remi Cadene*
 - **Cosmos-Reason1: From Physical Common Sense To Embodied Reasoning**, `arXiv, 2503.15558`, [arxiv](http://arxiv.org/abs/2503.15558v2), [pdf](http://arxiv.org/pdf/2503.15558v2.pdf), cication: [**-1**](None) 
 
 	 *NVIDIA, :, Alisson Azzolini, ..., Xiaohui Zeng, Zhe Zhang* · ([cosmos-reason1.](https://github.com/nvidia-cosmos/cosmos-reason1.) - nvidia-cosmos) ![Star](https://img.shields.io/github/stars/nvidia-cosmos/cosmos-reason1..svg?style=social&label=Star)

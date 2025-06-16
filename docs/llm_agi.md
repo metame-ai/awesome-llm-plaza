@@ -13,6 +13,14 @@
 
 ## World Model
 
+- [No world model, no general AI](https://richardcsuwandi.github.io/blog/2025/agents-world-models/) 
+- **General agents need world models**, `arXiv, 2506.01622`, [arxiv](http://arxiv.org/abs/2506.01622v1), [pdf](http://arxiv.org/pdf/2506.01622v1.pdf), cication: [**-1**](None) 
+
+	 *Jonathan Richens, David Abel, Alexis Bellot, ..., Tom Everitt*
+- **V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction
+  and Planning**, `arXiv, 2506.09985`, [arxiv](http://arxiv.org/abs/2506.09985v1), [pdf](http://arxiv.org/pdf/2506.09985v1.pdf), cication: [**-1**](None) 
+
+	 *Mido Assran, Adrien Bardes, David Fan, ..., Michael Rabbat, Nicolas Ballas*
 - **WALL-E 2.0: World Alignment by NeuroSymbolic Learning improves World 
   Model-based LLM Agents**, `arXiv, 2504.15785`, [arxiv](http://arxiv.org/abs/2504.15785v1), [pdf](http://arxiv.org/pdf/2504.15785v1.pdf), cication: [**-1**](None) 
 

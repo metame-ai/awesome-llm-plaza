@@ -306,6 +306,9 @@
 
 ## Misc
 
+- [NUS120 Distinguished Speaker Series | Professor Richard Sutton](https://www.youtube.com/watch?v=f9KDMFZqu_Y)  :clapper:
+
+	 · ([youtu](https://youtu.be/f9KDMFZqu_Y?t=797))
 - [**Foundations-of-LLMs**](https://github.com/ZJU-LLMs/Foundations-of-LLMs) - ZJU-LLMs ![Star](https://img.shields.io/github/stars/ZJU-LLMs/Foundations-of-LLMs.svg?style=social&label=Star) 
 - [【生成式AI時代下的機器學習(2025)】第一講：一堂課搞懂生成式人工智慧的技術突破與未來發展](https://www.youtube.com/watch?v=QLiKmca4kzI)  :clapper: 
 - [How I use LLMs](https://www.youtube.com/watch?v=EWvNQjAaOHw)  :clapper: 

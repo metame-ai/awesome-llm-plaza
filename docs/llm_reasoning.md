@@ -455,6 +455,9 @@
 
 ## O1 Reasoning
 
+- 🌟 **Reflect, Retry, Reward: Self-Improving LLMs via Reinforcement Learning**, `arXiv, 2505.24726`, [arxiv](http://arxiv.org/abs/2505.24726v1), [pdf](http://arxiv.org/pdf/2505.24726v1.pdf), cication: [**-1**](None) 
+
+	 *Shelly Bensal, Umar Jamil, Christopher Bryant, ..., Muayad Ali, Waseem AlShikh*
 - **Let LLMs Break Free from Overthinking via Self-Braking Tuning**, `arXiv, 2505.14604`, [arxiv](http://arxiv.org/abs/2505.14604v2), [pdf](http://arxiv.org/pdf/2505.14604v2.pdf), cication: [**-1**](None) 
 
 	 *Haoran Zhao, Yuchen Yan, Yongliang Shen, ..., Jun Xiao, Yueting Zhuang* · ([Self-Braking-Tuning](https://github.com/ZJU-REAL/Self-Braking-Tuning) - ZJU-REAL) ![Star](https://img.shields.io/github/stars/ZJU-REAL/Self-Braking-Tuning.svg?style=social&label=Star) · ([zju-real.github](https://zju-real.github.io/SBT))

@@ -20,6 +20,10 @@
 
 ## LLM Data
 
+- **IDEAL: Data Equilibrium Adaptation for Multi-Capability Language Model
+  Alignment**, `arXiv, 2505.12762`, [arxiv](http://arxiv.org/abs/2505.12762v1), [pdf](http://arxiv.org/pdf/2505.12762v1.pdf), cication: [**-1**](None) 
+
+	 *Chenlin Ming, Chendi Qu, Mengzhang Cai, ..., Lijun Wu, Conghui He*
 - **Estimating the Effects of Sample Training Orders for Large Language 
   Models without Retraining**, `arXiv, 2505.22042`, [arxiv](http://arxiv.org/abs/2505.22042v1), [pdf](http://arxiv.org/pdf/2505.22042v1.pdf), cication: [**-1**](None) 
 

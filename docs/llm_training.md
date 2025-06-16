@@ -23,6 +23,9 @@
 
 ## LLM Training
 
+- 🌟 **Reinforcement Pre-Training**, `arXiv, 2506.08007`, [arxiv](http://arxiv.org/abs/2506.08007v1), [pdf](http://arxiv.org/pdf/2506.08007v1.pdf), cication: [**-1**](None) 
+
+	 *Qingxiu Dong, Li Dong, Yao Tang, ..., Zhifang Sui, Furu Wei*
 - **Estimating the Effects of Sample Training Orders for Large Language 
   Models without Retraining**, `arXiv, 2505.22042`, [arxiv](http://arxiv.org/abs/2505.22042v1), [pdf](http://arxiv.org/pdf/2505.22042v1.pdf), cication: [**-1**](None) 
 

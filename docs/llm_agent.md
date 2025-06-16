@@ -480,6 +480,7 @@
 
 ## Multi Agent
 
+- 🌟 [How we built our multi-agent research system](https://www.anthropic.com/engineering/built-multi-agent-research-system) 
 - [**rowboat**](https://github.com/rowboatlabs/rowboat) - rowboatlabs ![Star](https://img.shields.io/github/stars/rowboatlabs/rowboat.svg?style=social&label=Star) 
 - [**agent-squad**](https://github.com/awslabs/agent-squad) - awslabs ![Star](https://img.shields.io/github/stars/awslabs/agent-squad.svg?style=social&label=Star) 
 - **Benchmarking LLMs' Swarm intelligence**, `arXiv, 2505.04364`, [arxiv](http://arxiv.org/abs/2505.04364v2), [pdf](http://arxiv.org/pdf/2505.04364v2.pdf), cication: [**-1**](None) 
