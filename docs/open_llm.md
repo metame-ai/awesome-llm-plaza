@@ -106,10 +106,10 @@
 
 ## Chinese Models
 
-- [**MiniCPM**](https://github.com/OpenBMB/MiniCPM) - OpenBMB ![Star](https://img.shields.io/github/stars/OpenBMB/MiniCPM.svg?style=social&label=Star)
+- [**MiniCPM**](https://github.com/OpenBMB/MiniCPM) - OpenBMB ![Star](https://img.shields.io/github/stars/OpenBMB/MiniCPM.svg?style=social&label=Star) 
 
 	 *Ultra-Efficient LLMs on End Devices, achieving 5+ speedup on typical end-side chips          Resources*
-- [**dots.llm1**](https://github.com/rednote-hilab/dots.llm1) - rednote-hilab ![Star](https://img.shields.io/github/stars/rednote-hilab/dots.llm1.svg?style=social&label=Star)
+- [**dots.llm1**](https://github.com/rednote-hilab/dots.llm1) - rednote-hilab ![Star](https://img.shields.io/github/stars/rednote-hilab/dots.llm1.svg?style=social&label=Star) 
 - [Qwen3: Think Deeper, Act Faster](https://qwenlm.github.io/blog/qwen3/) 
 
 	 · ([Qwen3](https://github.com/QwenLM/Qwen3) - QwenLM) ![Star](https://img.shields.io/github/stars/QwenLM/Qwen3.svg?style=social&label=Star)

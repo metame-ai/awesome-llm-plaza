@@ -17,7 +17,7 @@
 - **General agents need world models**, `arXiv, 2506.01622`, [arxiv](http://arxiv.org/abs/2506.01622v1), [pdf](http://arxiv.org/pdf/2506.01622v1.pdf), cication: [**-1**](None) 
 
 	 *Jonathan Richens, David Abel, Alexis Bellot, ..., Tom Everitt*
-- **V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction
+- **V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction 
   and Planning**, `arXiv, 2506.09985`, [arxiv](http://arxiv.org/abs/2506.09985v1), [pdf](http://arxiv.org/pdf/2506.09985v1.pdf), cication: [**-1**](None) 
 
 	 *Mido Assran, Adrien Bardes, David Fan, ..., Michael Rabbat, Nicolas Ballas*

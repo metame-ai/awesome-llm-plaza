@@ -198,7 +198,7 @@
 
 ## Inference
 
-- [**nano-vllm**](https://github.com/GeeeekExplorer/nano-vllm) - GeeeekExplorer ![Star](https://img.shields.io/github/stars/GeeeekExplorer/nano-vllm.svg?style=social&label=Star)
+- [**nano-vllm**](https://github.com/GeeeekExplorer/nano-vllm) - GeeeekExplorer ![Star](https://img.shields.io/github/stars/GeeeekExplorer/nano-vllm.svg?style=social&label=Star) 
 - [Look Ma, No Bubbles! Designing a Low-Latency Megakernel for Llama-1B](https://hazyresearch.stanford.edu/blog/2025-05-27-no-bubbles) 
 - [Deploying DeepSeek with PD Disaggregation and Large-Scale Expert Parallelism on 96 H100 GPUs](https://lmsys.org/blog/2025-05-05-large-scale-ep/) 
 - **A Survey on Inference Engines for Large Language Models: Perspectives on 

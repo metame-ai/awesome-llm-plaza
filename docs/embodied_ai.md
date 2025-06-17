@@ -20,7 +20,7 @@
 
 ## Embodied AI
 
-- 🌟 **SmolVLA: A Vision-Language-Action Model for Affordable and Efficient
+- 🌟 **SmolVLA: A Vision-Language-Action Model for Affordable and Efficient 
   Robotics**, `arXiv, 2506.01844`, [arxiv](http://arxiv.org/abs/2506.01844v1), [pdf](http://arxiv.org/pdf/2506.01844v1.pdf), cication: [**-1**](None) 
 
 	 *Mustafa Shukor, Dana Aubakirova, Francesco Capuano, ..., Thomas Wolf, Remi Cadene*

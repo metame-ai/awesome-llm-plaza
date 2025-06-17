@@ -306,7 +306,7 @@
 
 ## Misc
 
-- [NUS120 Distinguished Speaker Series | Professor Richard Sutton](https://www.youtube.com/watch?v=f9KDMFZqu_Y)  :clapper:
+- [NUS120 Distinguished Speaker Series | Professor Richard Sutton](https://www.youtube.com/watch?v=f9KDMFZqu_Y)  :clapper: 
 
 	 · ([youtu](https://youtu.be/f9KDMFZqu_Y?t=797))
 - [**Foundations-of-LLMs**](https://github.com/ZJU-LLMs/Foundations-of-LLMs) - ZJU-LLMs ![Star](https://img.shields.io/github/stars/ZJU-LLMs/Foundations-of-LLMs.svg?style=social&label=Star) 
