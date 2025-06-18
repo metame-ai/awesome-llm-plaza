@@ -190,7 +190,7 @@
 
 ## Misc
 
-- [**digirl**](https://github.com/DigiRL-agent/digirl/tree/master/env_setup) - DigiRL-agent ![Star](https://img.shields.io/github/stars/DigiRL-agent/digirl.svg?style=social&label=Star)
+- [**digirl**](https://github.com/DigiRL-agent/digirl/tree/master/env_setup) - DigiRL-agent ![Star](https://img.shields.io/github/stars/DigiRL-agent/digirl.svg?style=social&label=Star) 
 - [UI Agents（智能体）最新论文](https://www.breezedeus.com/article/awesome-ui-agents) 
 - [a collection of algorithmic agents for user interfaces/interactions and program synthesis    Upvote 43   +33](https://huggingface.co/collections/yihaopeng/ui-agent-665fac501140dbe4562da21c)  🤗 
 
