@@ -59,6 +59,9 @@
 
 ## Vision-Language Models
 
+- **MiMo-VL Technical Report**, `arXiv, 2506.03569`, [arxiv](http://arxiv.org/abs/2506.03569v1), [pdf](http://arxiv.org/pdf/2506.03569v1.pdf), cication: [**-1**](None) 
+
+	 *Xiaomi LLM-Core Team, :, Zihao Yue, ..., Can Cai, Bingquan Xia*
 - 🌟 **Seed1.5-VL Technical Report**, `arXiv, 2505.07062`, [arxiv](http://arxiv.org/abs/2505.07062v1), [pdf](http://arxiv.org/pdf/2505.07062v1.pdf), cication: [**-1**](None) 
 
 	 *Dong Guo, Faming Wu, Feida Zhu, ..., Ziyu Zhu, Zuquan Song*
@@ -467,6 +470,9 @@
 
 ## Reasoning
 
+- **VGR: Visual Grounded Reasoning**, `arXiv, 2506.11991`, [arxiv](http://arxiv.org/abs/2506.11991v2), [pdf](http://arxiv.org/pdf/2506.11991v2.pdf), cication: [**-1**](None) 
+
+	 *Jiacong Wang, Zijian Kang, Haochen Wang, ..., Chao Feng, Jun Xiao*
 - **Grounded Reinforcement Learning for Visual Reasoning**, `arXiv, 2505.23678`, [arxiv](http://arxiv.org/abs/2505.23678v1), [pdf](http://arxiv.org/pdf/2505.23678v1.pdf), cication: [**-1**](None) 
 
 	 *Gabriel Sarch, Snigdha Saha, Naitik Khandelwal, ..., Aviral Kumar, Katerina Fragkiadaki* · ([𝕏](https://x.com/GabrielSarch/status/1928501142075396508)) · ([visually-grounded-rl.github](https://visually-grounded-rl.github.io/))
@@ -675,6 +681,16 @@
 
 ## Evaluation
 
+- **Time Blindness: Why Video-Language Models Can't See What Humans Can?**, `arXiv, 2505.24867`, [arxiv](http://arxiv.org/abs/2505.24867v1), [pdf](http://arxiv.org/pdf/2505.24867v1.pdf), cication: [**-1**](None) 
+
+	 *Ujjwal Upadhyay, Mukul Ranjan, Zhiqiang Shen, ..., Mohamed Elhoseiny*
+- **Vision Language Models are Biased**, `arXiv, 2505.23941`, [arxiv](http://arxiv.org/abs/2505.23941v1), [pdf](http://arxiv.org/pdf/2505.23941v1.pdf), cication: [**-1**](None) 
+
+	 *An Vo, Khai-Nguyen Nguyen, Mohammad Reza Taesiri, ..., Anh Totti Nguyen, Daeyoung Kim*
+- 🌟 **Will It Still Be True Tomorrow? Multilingual Evergreen Question
+  Classification to Improve Trustworthy QA**, `arXiv, 2505.21115`, [arxiv](http://arxiv.org/abs/2505.21115v1), [pdf](http://arxiv.org/pdf/2505.21115v1.pdf), cication: [**-1**](None) 
+
+	 *Sergey Pletenev, Maria Marina, Nikolay Ivanov, ..., Alexander Panchenko, Viktor Moskvoretskii*
 - **On Path to Multimodal Generalist: General-Level and General-Bench**, `arXiv, 2505.04620`, [arxiv](http://arxiv.org/abs/2505.04620v1), [pdf](http://arxiv.org/pdf/2505.04620v1.pdf), cication: [**-1**](None) 
 
 	 *Hao Fei, Yuan Zhou, Juncheng Li, ..., Shuicheng Yan, Hanwang Zhang*
@@ -827,6 +843,9 @@
 
 ## Generation
 
+- **Ming-Omni: A Unified Multimodal Model for Perception and Generation**, `arXiv, 2506.09344`, [arxiv](http://arxiv.org/abs/2506.09344v1), [pdf](http://arxiv.org/pdf/2506.09344v1.pdf), cication: [**-1**](None) 
+
+	 *Inclusion AI, Biao Gong, Cheng Zou, ..., Ziyuan Huang, Zhengyu He*
 - **UniRL: Self-Improving Unified Multimodal Models via Supervised and 
   Reinforcement Learning**, `arXiv, 2505.23380`, [arxiv](http://arxiv.org/abs/2505.23380v1), [pdf](http://arxiv.org/pdf/2505.23380v1.pdf), cication: [**-1**](None) 
 

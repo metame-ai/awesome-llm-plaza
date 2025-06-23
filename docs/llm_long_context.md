@@ -16,6 +16,9 @@
 
 ## Long Context
 
+- **LongLLaDA: Unlocking Long Context Capabilities in Diffusion LLMs**, `arXiv, 2506.14429`, [arxiv](http://arxiv.org/abs/2506.14429v1), [pdf](http://arxiv.org/pdf/2506.14429v1.pdf), cication: [**-1**](None) 
+
+	 *Xiaoran Liu, Zhigeng Liu, Zengfeng Huang, ..., Ziwei He, Xipeng Qiu*
 - **QwenLong-L1: Towards Long-Context Large Reasoning Models with 
   Reinforcement Learning**, `arXiv, 2505.17667`, [arxiv](http://arxiv.org/abs/2505.17667v2), [pdf](http://arxiv.org/pdf/2505.17667v2.pdf), cication: [**-1**](None) 
 

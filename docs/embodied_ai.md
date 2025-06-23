@@ -20,6 +20,18 @@
 
 ## Embodied AI
 
+- **Visual Embodied Brain: Let Multimodal Large Language Models See, Think,
+  and Control in Spaces**, `arXiv, 2506.00123`, [arxiv](http://arxiv.org/abs/2506.00123v1), [pdf](http://arxiv.org/pdf/2506.00123v1.pdf), cication: [**-1**](None) 
+
+	 *Gen Luo, Ganlin Yang, Ziyang Gong, ..., Rongrong Ji, Xizhou Zhu*
+- **Robot-R1: Reinforcement Learning for Enhanced Embodied Reasoning in
+  Robotics**, `arXiv, 2506.00070`, [arxiv](http://arxiv.org/abs/2506.00070v1), [pdf](http://arxiv.org/pdf/2506.00070v1.pdf), cication: [**-1**](None) 
+
+	 *Dongyoung Kim, Sumin Park, Huiwon Jang, ..., Jaehyung Kim, Younggyo Seo*
+- **Embodied Web Agents: Bridging Physical-Digital Realms for Integrated
+  Agent Intelligence**, `arXiv, 2506.15677`, [arxiv](http://arxiv.org/abs/2506.15677v2), [pdf](http://arxiv.org/pdf/2506.15677v2.pdf), cication: [**-1**](None) 
+
+	 *Yining Hong, Rui Sun, Bingxuan Li, ..., Zhecan James Wang, Kai-Wei Chang*
 - 🌟 **SmolVLA: A Vision-Language-Action Model for Affordable and Efficient 
   Robotics**, `arXiv, 2506.01844`, [arxiv](http://arxiv.org/abs/2506.01844v1), [pdf](http://arxiv.org/pdf/2506.01844v1.pdf), cication: [**-1**](None) 
 

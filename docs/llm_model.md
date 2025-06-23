@@ -17,6 +17,9 @@
 
 ## LLM Models
 
+- **The Diffusion Duality**, `arXiv, 2506.10892`, [arxiv](http://arxiv.org/abs/2506.10892v1), [pdf](http://arxiv.org/pdf/2506.10892v1.pdf), cication: [**-1**](None) 
+
+	 *Subham Sekhar Sahoo, Justin Deschenaux, Aaron Gokaslan, ..., Justin Chiu, Volodymyr Kuleshov*
 - **ATLAS: Learning to Optimally Memorize the Context at Test Time**, `arXiv, 2505.23735`, [arxiv](http://arxiv.org/abs/2505.23735v1), [pdf](http://arxiv.org/pdf/2505.23735v1.pdf), cication: [**-1**](None) 
 
 	 *Ali Behrouz, Zeman Li, Praneeth Kacham, ..., Meisam Razaviyayn, Vahab Mirrokni*

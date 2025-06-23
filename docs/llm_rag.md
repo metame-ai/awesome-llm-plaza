@@ -26,6 +26,9 @@
 
 ## RAG
 
+- **DoTA-RAG: Dynamic of Thought Aggregation RAG**, `arXiv, 2506.12571`, [arxiv](http://arxiv.org/abs/2506.12571v1), [pdf](http://arxiv.org/pdf/2506.12571v1.pdf), cication: [**-1**](None) 
+
+	 *Saksorn Ruangtanusak, Natthapath Rungseesiripak, Peerawat Rojratchadakorn, ..., Monthol Charattrakool, Natapong Nitarach*
 - **UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse 
   Modalities and Granularities**, `arXiv, 2504.20734`, [arxiv](http://arxiv.org/abs/2504.20734v2), [pdf](http://arxiv.org/pdf/2504.20734v2.pdf), cication: [**-1**](None) 
 
@@ -181,6 +184,9 @@
 
 ## Projects
 
+- [**all-rag-techniques**](https://github.com/FareedKhan-dev/all-rag-techniques) - FareedKhan-dev ![Star](https://img.shields.io/github/stars/FareedKhan-dev/all-rag-techniques.svg?style=social&label=Star)
+
+	 *A Simpler, Hands-On Approach ✨*
 - [**VRAG**](https://github.com/Alibaba-NLP/VRAG) - Alibaba-NLP ![Star](https://img.shields.io/github/stars/Alibaba-NLP/VRAG.svg?style=social&label=Star) 
 
 	 *Moving Towards Next-Generation RAG via Multi-Modal Agent RL*

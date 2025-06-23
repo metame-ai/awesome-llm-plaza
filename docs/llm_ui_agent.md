@@ -26,6 +26,21 @@
 
 ## GUI Agent
 
+- **GUI-Actor: Coordinate-Free Visual Grounding for GUI Agents**, `arXiv, 2506.03143`, [arxiv](http://arxiv.org/abs/2506.03143v1), [pdf](http://arxiv.org/pdf/2506.03143v1.pdf), cication: [**-1**](None) 
+
+	 *Qianhui Wu, Kanzhi Cheng, Rui Yang, ..., Dongmei Zhang, Jianfeng Gao*
+- **Mirage-1: Augmenting and Updating GUI Agent with Hierarchical Multimodal
+  Skills**, `arXiv, 2506.10387`, [arxiv](http://arxiv.org/abs/2506.10387v1), [pdf](http://arxiv.org/pdf/2506.10387v1.pdf), cication: [**-1**](None) 
+
+	 *Yuquan Xie, Zaijing Li, Rui Shao, ..., Dongmei Jiang, Liqiang Nie*
+- **Atomic-to-Compositional Generalization for Mobile Agents with A New
+  Benchmark and Scheduling System**, `arXiv, 2506.08972`, [arxiv](http://arxiv.org/abs/2506.08972v1), [pdf](http://arxiv.org/pdf/2506.08972v1.pdf), cication: [**-1**](None) 
+
+	 *Yuan Guo, Tingjia Miao, Zheng Wu, ..., Ming Zhou, Zhuosheng Zhang* · ([ui-nexus.github](https://ui-nexus.github.io/))
+- **GUIRoboTron-Speech: Towards Automated GUI Agents Based on Speech
+  Instructions**, `arXiv, 2506.11127`, [arxiv](http://arxiv.org/abs/2506.11127v1), [pdf](http://arxiv.org/pdf/2506.11127v1.pdf), cication: [**-1**](None) 
+
+	 *Wenkang Han, Zhixiong Zeng, Jing Huang, ..., Jingyuan Chen, Lin Ma* · ([GUIRoboTron-Speech](https://github.com/GUIRoboTron/GUIRoboTron-Speech) - GUIRoboTron) ![Star](https://img.shields.io/github/stars/GUIRoboTron/GUIRoboTron-Speech.svg?style=social&label=Star)
 - **AgentCPM-GUI: Building Mobile-Use Agents with Reinforcement Fine-Tuning**, `arXiv, 2506.01391`, [arxiv](http://arxiv.org/abs/2506.01391v1), [pdf](http://arxiv.org/pdf/2506.01391v1.pdf), cication: [**-1**](None) 
 
 	 *Zhong Zhang, Yaxi Lu, Yikun Fu, ..., Zhiyuan Liu, Maosong Sun*
@@ -196,6 +211,7 @@
 
 ## Datasets
 
+- [GUI Reflection SFT Training Data](https://huggingface.co/datasets/craigwu/GUI_Reflection_SFT_train)  🤗
 - **Explorer: Scaling Exploration-driven Web Trajectory Synthesis for 
   Multimodal Web Agents**, `arXiv, 2502.11357`, [arxiv](http://arxiv.org/abs/2502.11357v2), [pdf](http://arxiv.org/pdf/2502.11357v2.pdf), cication: [**-1**](None) 
 

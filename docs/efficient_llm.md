@@ -46,6 +46,13 @@
 
 ## Efficient LLM
 
+- **Multiverse: Your Language Models Secretly Decide How to Parallelize and
+  Merge Generation**, `arXiv, 2506.09991`, [arxiv](http://arxiv.org/abs/2506.09991v2), [pdf](http://arxiv.org/pdf/2506.09991v2.pdf), cication: [**-1**](None) 
+
+	 *Xinyu Yang, Yuwei An, Hongyi Liu, ..., Tianqi Chen, Beidi Chen*
+- **A Technical Study into 0.5B Reasoning Language Models**, `arXiv, 2506.13404`, [arxiv](http://arxiv.org/abs/2506.13404v2), [pdf](http://arxiv.org/pdf/2506.13404v2.pdf), cication: [**-1**](None) 
+
+	 *Xialie Zhuang, Peixian Ma, Zhikai Jia, ..., Shiwei Liu, Zheng Cao*
 - **Hardware-Efficient Attention for Fast Decoding**, `arXiv, 2505.21487`, [arxiv](http://arxiv.org/abs/2505.21487v1), [pdf](http://arxiv.org/pdf/2505.21487v1.pdf), cication: [**-1**](None) 
 
 	 *Ted Zadouri, Hubert Strauss, Tri Dao*

@@ -89,6 +89,12 @@
 
 ## Agents
 
+- **AutoAgent: A Fully-Automated and Zero-Code Framework for LLM Agents**, `arXiv, 2502.05957`, [arxiv](http://arxiv.org/abs/2502.05957v2), [pdf](http://arxiv.org/pdf/2502.05957v2.pdf), cication: [**-1**](None) 
+
+	 *Jiabin Tang, Tianyu Fan, Chao Huang* · ([AutoAgent](https://github.com/HKUDS/AutoAgent) - HKUDS) ![Star](https://img.shields.io/github/stars/HKUDS/AutoAgent.svg?style=social&label=Star)
+- **Scaling Test-time Compute for LLM Agents**, `arXiv, 2506.12928`, [arxiv](http://arxiv.org/abs/2506.12928v1), [pdf](http://arxiv.org/pdf/2506.12928v1.pdf), cication: [**-1**](None) 
+
+	 *King Zhu, Hanhao Li, Siwei Wu, ..., Ge Zhang, Wangchunshu Zhou*
 - **MaskSearch: A Universal Pre-Training Framework to Enhance Agentic Search 
   Capability**, `arXiv, 2505.20285`, [arxiv](http://arxiv.org/abs/2505.20285v2), [pdf](http://arxiv.org/pdf/2505.20285v2.pdf), cication: [**-1**](None) 
 
@@ -480,6 +486,13 @@
 
 ## Multi Agent
 
+- **VS-Bench: Evaluating VLMs for Strategic Reasoning and Decision-Making in
+  Multi-Agent Environments**, `arXiv, 2506.02387`, [arxiv](http://arxiv.org/abs/2506.02387v1), [pdf](http://arxiv.org/pdf/2506.02387v1.pdf), cication: [**-1**](None) 
+
+	 *Zelai Xu, Zhexuan Xu, Xiangmin Yi, ..., Chao Yu, Yu Wang*
+- [**MASLab**](https://github.com/MASWorks/MASLab) - MASWorks ![Star](https://img.shields.io/github/stars/MASWorks/MASLab.svg?style=social&label=Star)
+
+	 *A Unified and Comprehensive Codebase for LLM-based Multi-Agent Systems*
 - 🌟 [How we built our multi-agent research system](https://www.anthropic.com/engineering/built-multi-agent-research-system) 
 - [**rowboat**](https://github.com/rowboatlabs/rowboat) - rowboatlabs ![Star](https://img.shields.io/github/stars/rowboatlabs/rowboat.svg?style=social&label=Star) 
 - [**agent-squad**](https://github.com/awslabs/agent-squad) - awslabs ![Star](https://img.shields.io/github/stars/awslabs/agent-squad.svg?style=social&label=Star) 

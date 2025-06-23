@@ -14,12 +14,20 @@
 
 ## Survey
 
+- [**awesome-data-llm**](https://github.com/weAIDB/awesome-data-llm) - weAIDB ![Star](https://img.shields.io/github/stars/weAIDB/awesome-data-llm.svg?style=social&label=Star)
 - **A Survey on Data Synthesis and Augmentation for Large Language Models**, `arXiv, 2410.12896`, [arxiv](http://arxiv.org/abs/2410.12896v1), [pdf](http://arxiv.org/pdf/2410.12896v1.pdf), cication: [**-1**](None) 
 
 	 *Ke Wang, Jiahui Zhu, Minjie Ren, ..., Qingjie Liu, Yunhong Wang*
 
 ## LLM Data
 
+- **The Common Pile v0.1: An 8TB Dataset of Public Domain and Openly
+  Licensed Text**, `arXiv, 2506.05209`, [arxiv](http://arxiv.org/abs/2506.05209v1), [pdf](http://arxiv.org/pdf/2506.05209v1.pdf), cication: [**-1**](None) 
+
+	 *Nikhil Kandpal, Brian Lester, Colin Raffel, ..., Bhavya Kailkhura, Tyler Murray*
+- **DataRater: Meta-Learned Dataset Curation**, `arXiv, 2505.17895`, [arxiv](http://arxiv.org/abs/2505.17895v1), [pdf](http://arxiv.org/pdf/2505.17895v1.pdf), cication: [**-1**](None) 
+
+	 *Dan A. Calian, Gregory Farquhar, Iurii Kemaev, ..., Hado van Hasselt, David Silver*
 - **IDEAL: Data Equilibrium Adaptation for Multi-Capability Language Model 
   Alignment**, `arXiv, 2505.12762`, [arxiv](http://arxiv.org/abs/2505.12762v1), [pdf](http://arxiv.org/pdf/2505.12762v1.pdf), cication: [**-1**](None) 
 
@@ -131,6 +139,9 @@
 
 ## Synthetic
 
+- **LEMMA: Learning from Errors for MatheMatical Advancement in LLMs**, `arXiv, 2503.17439`, [arxiv](http://arxiv.org/abs/2503.17439v2), [pdf](http://arxiv.org/pdf/2503.17439v2.pdf), cication: [**-1**](None) 
+
+	 *Zhuoshi Pan, Yu Li, Honglin Lin, ..., Conghui He, Lijun Wu*
 - **Improving the Scaling Laws of Synthetic Data with Deliberate Practice**, `arXiv, 2502.15588`, [arxiv](http://arxiv.org/abs/2502.15588v1), [pdf](http://arxiv.org/pdf/2502.15588v1.pdf), cication: [**-1**](None) 
 
 	 *Reyhane Askari-Hemmat, Mohammad Pezeshki, Elvis Dohmatob, ..., Michal Drozdzal, Adriana Romero-Soriano*
@@ -177,6 +188,13 @@
 
 ## Reasoning
 
+- 🌟 **OpenThoughts: Data Recipes for Reasoning Models**, `arXiv, 2506.04178`, [arxiv](http://arxiv.org/abs/2506.04178v2), [pdf](http://arxiv.org/pdf/2506.04178v2.pdf), cication: [**-1**](None) 
+
+	 *Etash Guha, Ryan Marten, Sedrick Keh, ..., Alexandros G. Dimakis, Ludwig Schmidt*
+- **Revisiting Reinforcement Learning for LLM Reasoning from A Cross-Domain
+  Perspective**, `arXiv, 2506.14965`, [arxiv](http://arxiv.org/abs/2506.14965v1), [pdf](http://arxiv.org/pdf/2506.14965v1.pdf), cication: [**-1**](None) 
+
+	 *Zhoujun Cheng, Shibo Hao, Tianyang Liu, ..., Eric P. Xing, Zhiting Hu* · ([Reasoning360](https://github.com/LLM360/Reasoning360) - LLM360) ![Star](https://img.shields.io/github/stars/LLM360/Reasoning360.svg?style=social&label=Star)
 - **DeepMath-103K: A Large-Scale, Challenging, Decontaminated, and 
   Verifiable Mathematical Dataset for Advancing Reasoning**, `arXiv, 2504.11456`, [arxiv](http://arxiv.org/abs/2504.11456v1), [pdf](http://arxiv.org/pdf/2504.11456v1.pdf), cication: [**-1**](None) 
 

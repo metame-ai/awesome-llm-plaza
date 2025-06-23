@@ -63,6 +63,14 @@
 
 ## Science
 
+- **ML-Agent: Reinforcing LLM Agents for Autonomous Machine Learning
+  Engineering**, `arXiv, 2505.23723`, [arxiv](http://arxiv.org/abs/2505.23723v1), [pdf](http://arxiv.org/pdf/2505.23723v1.pdf), cication: [**-1**](None) 
+
+	 *Zexi Liu, Jingyi Chai, Xinyu Zhu, ..., Lei Bai, Siheng Chen*
+- **Scientists' First Exam: Probing Cognitive Abilities of MLLM via
+  Perception, Understanding, and Reasoning**, `arXiv, 2506.10521`, [arxiv](http://arxiv.org/abs/2506.10521v2), [pdf](http://arxiv.org/pdf/2506.10521v2.pdf), cication: [**-1**](None) 
+
+	 *Yuhao Zhou, Yiheng Wang, Xuming He, ..., Wenlong Zhang, Lei Bai*
 - **Paper2Poster: Towards Multimodal Poster Automation from Scientific 
   Papers**, `arXiv, 2505.21497`, [arxiv](http://arxiv.org/abs/2505.21497v1), [pdf](http://arxiv.org/pdf/2505.21497v1.pdf), cication: [**-1**](None) 
 
@@ -380,6 +388,10 @@
 
 ## LLM Applications
 
+- **MultiFinBen: A Multilingual, Multimodal, and Difficulty-Aware Benchmark
+  for Financial LLM Evaluation**, `arXiv, 2506.14028`, [arxiv](http://arxiv.org/abs/2506.14028v2), [pdf](http://arxiv.org/pdf/2506.14028v2.pdf), cication: [**-1**](None) 
+
+	 *Xueqing Peng, Lingfei Qian, Yan Wang, ..., Sophia Ananiadou, Qianqian Xie*
 - 🌟 **Paper2Code: Automating Code Generation from Scientific Papers in Machine 
   Learning**, `arXiv, 2504.17192`, [arxiv](http://arxiv.org/abs/2504.17192v2), [pdf](http://arxiv.org/pdf/2504.17192v2.pdf), cication: [**-1**](None) 
 

@@ -19,6 +19,10 @@
 
 ## Code LLM
 
+- **Co-Evolving LLM Coder and Unit Tester via Reinforcement Learning**, `arXiv, 2506.03136`, [arxiv](http://arxiv.org/abs/2506.03136v1), [pdf](http://arxiv.org/pdf/2506.03136v1.pdf), cication: [**-1**](None) 
+
+	 *Yinjie Wang, Ling Yang, Ye Tian, ..., Ke Shen, Mengdi Wang*
+- [Prompt-friendly                                codebase](https://gitingest.com/) 
 - **Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents**, `arXiv, 2505.22954`, [arxiv](http://arxiv.org/abs/2505.22954v1), [pdf](http://arxiv.org/pdf/2505.22954v1.pdf), cication: [**-1**](None) 
 
 	 *Jenny Zhang, Shengran Hu, Cong Lu, ..., Robert Lange, Jeff Clune* · ([𝕏](https://x.com/SakanaAILabs/status/1928272612431646943))
@@ -114,6 +118,10 @@
 
 ## Evaluation
 
+- **LiveCodeBench Pro: How Do Olympiad Medalists Judge LLMs in Competitive
+  Programming?**, `arXiv, 2506.11928`, [arxiv](http://arxiv.org/abs/2506.11928v1), [pdf](http://arxiv.org/pdf/2506.11928v1.pdf), cication: [**-1**](None) 
+
+	 *Zihan Zheng, Zerui Cheng, Zeyu Shen, ..., Jingbo Shang, Saining Xie*
 - **SWE-rebench: An Automated Pipeline for Task Collection and 
   Decontaminated Evaluation of Software Engineering Agents**, `arXiv, 2505.20411`, [arxiv](http://arxiv.org/abs/2505.20411v1), [pdf](http://arxiv.org/pdf/2505.20411v1.pdf), cication: [**-1**](None) 
 

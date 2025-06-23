@@ -63,6 +63,13 @@
 
 ## Multimodal
 
+- **Stream-Omni: Simultaneous Multimodal Interactions with Large
+  Language-Vision-Speech Model**, `arXiv, 2506.13642`, [arxiv](http://arxiv.org/abs/2506.13642v1), [pdf](http://arxiv.org/pdf/2506.13642v1.pdf), cication: [**-1**](None) 
+
+	 *Shaolei Zhang, Shoutao Guo, Qingkai Fang, ..., Yan Zhou, Yang Feng*
+- **Show-o2: Improved Native Unified Multimodal Models**, `arXiv, 2506.15564`, [arxiv](http://arxiv.org/abs/2506.15564v2), [pdf](http://arxiv.org/pdf/2506.15564v2.pdf), cication: [**-1**](None) 
+
+	 *Jinheng Xie, Zhenheng Yang, Mike Zheng Shou*
 - 🌟 **Emerging Properties in Unified Multimodal Pretraining**, `arXiv, 2505.14683`, [arxiv](http://arxiv.org/abs/2505.14683v1), [pdf](http://arxiv.org/pdf/2505.14683v1.pdf), cication: [**-1**](None) 
 
 	 *Chaorui Deng, Deyao Zhu, Kunchang Li, ..., Guang Shi, Haoqi Fan*

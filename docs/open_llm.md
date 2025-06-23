@@ -25,6 +25,9 @@
 
 ## English Models
 
+- **Magistral**, `arXiv, 2506.10910`, [arxiv](http://arxiv.org/abs/2506.10910v1), [pdf](http://arxiv.org/pdf/2506.10910v1.pdf), cication: [**-1**](None) 
+
+	 *Mistral-AI, :, Abhinav Rastogi, ..., Xuanyu Zhang, Yunhao Tang*
 - [Announcing Gemma 3n preview: powerful, efficient, mobile-first AI](https://developers.googleblog.com/en/introducing-gemma-3n/) 
 - **Phi-4-reasoning Technical Report**, `arXiv, 2504.21318`, [arxiv](http://arxiv.org/abs/2504.21318v1), [pdf](http://arxiv.org/pdf/2504.21318v1.pdf), cication: [**-1**](None) 
 
@@ -106,6 +109,10 @@
 
 ## Chinese Models
 
+- **MiniCPM4: Ultra-Efficient LLMs on End Devices**, `arXiv, 2506.07900`, [arxiv](http://arxiv.org/abs/2506.07900v1), [pdf](http://arxiv.org/pdf/2506.07900v1.pdf), cication: [**-1**](None) 
+
+	 *MiniCPM Team, Chaojun Xiao, Yuxuan Li, ..., Dahai Li, Maosong Sun*
+- [**MiniMax-M1**](https://github.com/MiniMax-AI/MiniMax-M1) - MiniMax-AI ![Star](https://img.shields.io/github/stars/MiniMax-AI/MiniMax-M1.svg?style=social&label=Star)
 - [**MiniCPM**](https://github.com/OpenBMB/MiniCPM) - OpenBMB ![Star](https://img.shields.io/github/stars/OpenBMB/MiniCPM.svg?style=social&label=Star) 
 
 	 *Ultra-Efficient LLMs on End Devices, achieving 5+ speedup on typical end-side chips          Resources*
