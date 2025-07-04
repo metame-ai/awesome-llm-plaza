@@ -687,7 +687,7 @@
 - **Vision Language Models are Biased**, `arXiv, 2505.23941`, [arxiv](http://arxiv.org/abs/2505.23941v1), [pdf](http://arxiv.org/pdf/2505.23941v1.pdf), cication: [**-1**](None) 
 
 	 *An Vo, Khai-Nguyen Nguyen, Mohammad Reza Taesiri, ..., Anh Totti Nguyen, Daeyoung Kim*
-- 🌟 **Will It Still Be True Tomorrow? Multilingual Evergreen Question
+- 🌟 **Will It Still Be True Tomorrow? Multilingual Evergreen Question 
   Classification to Improve Trustworthy QA**, `arXiv, 2505.21115`, [arxiv](http://arxiv.org/abs/2505.21115v1), [pdf](http://arxiv.org/pdf/2505.21115v1.pdf), cication: [**-1**](None) 
 
 	 *Sergey Pletenev, Maria Marina, Nikolay Ivanov, ..., Alexander Panchenko, Viktor Moskvoretskii*

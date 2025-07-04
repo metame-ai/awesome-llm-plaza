@@ -172,7 +172,7 @@
 
 ## Projects
 
-- [**deepeval**](https://github.com/confident-ai/deepeval) - confident-ai ![Star](https://img.shields.io/github/stars/confident-ai/deepeval.svg?style=social&label=Star)
+- [**deepeval**](https://github.com/confident-ai/deepeval) - confident-ai ![Star](https://img.shields.io/github/stars/confident-ai/deepeval.svg?style=social&label=Star) 
 - [**Sudoku-Bench**](https://github.com/SakanaAI/Sudoku-Bench) - SakanaAI ![Star](https://img.shields.io/github/stars/SakanaAI/Sudoku-Bench.svg?style=social&label=Star) 
 - [**QwQ**](https://github.com/QwenLM/QwQ) - QwenLM ![Star](https://img.shields.io/github/stars/QwenLM/QwQ.svg?style=social&label=Star) 
 

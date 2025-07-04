@@ -63,7 +63,7 @@
 
 ## Multimodal
 
-- **Stream-Omni: Simultaneous Multimodal Interactions with Large
+- **Stream-Omni: Simultaneous Multimodal Interactions with Large 
   Language-Vision-Speech Model**, `arXiv, 2506.13642`, [arxiv](http://arxiv.org/abs/2506.13642v1), [pdf](http://arxiv.org/pdf/2506.13642v1.pdf), cication: [**-1**](None) 
 
 	 *Shaolei Zhang, Shoutao Guo, Qingkai Fang, ..., Yan Zhou, Yang Feng*

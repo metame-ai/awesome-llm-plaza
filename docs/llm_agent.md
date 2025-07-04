@@ -486,11 +486,11 @@
 
 ## Multi Agent
 
-- **VS-Bench: Evaluating VLMs for Strategic Reasoning and Decision-Making in
+- **VS-Bench: Evaluating VLMs for Strategic Reasoning and Decision-Making in 
   Multi-Agent Environments**, `arXiv, 2506.02387`, [arxiv](http://arxiv.org/abs/2506.02387v1), [pdf](http://arxiv.org/pdf/2506.02387v1.pdf), cication: [**-1**](None) 
 
 	 *Zelai Xu, Zhexuan Xu, Xiangmin Yi, ..., Chao Yu, Yu Wang*
-- [**MASLab**](https://github.com/MASWorks/MASLab) - MASWorks ![Star](https://img.shields.io/github/stars/MASWorks/MASLab.svg?style=social&label=Star)
+- [**MASLab**](https://github.com/MASWorks/MASLab) - MASWorks ![Star](https://img.shields.io/github/stars/MASWorks/MASLab.svg?style=social&label=Star) 
 
 	 *A Unified and Comprehensive Codebase for LLM-based Multi-Agent Systems*
 - 🌟 [How we built our multi-agent research system](https://www.anthropic.com/engineering/built-multi-agent-research-system) 

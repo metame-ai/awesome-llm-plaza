@@ -112,7 +112,7 @@
 - **MiniCPM4: Ultra-Efficient LLMs on End Devices**, `arXiv, 2506.07900`, [arxiv](http://arxiv.org/abs/2506.07900v1), [pdf](http://arxiv.org/pdf/2506.07900v1.pdf), cication: [**-1**](None) 
 
 	 *MiniCPM Team, Chaojun Xiao, Yuxuan Li, ..., Dahai Li, Maosong Sun*
-- [**MiniMax-M1**](https://github.com/MiniMax-AI/MiniMax-M1) - MiniMax-AI ![Star](https://img.shields.io/github/stars/MiniMax-AI/MiniMax-M1.svg?style=social&label=Star)
+- [**MiniMax-M1**](https://github.com/MiniMax-AI/MiniMax-M1) - MiniMax-AI ![Star](https://img.shields.io/github/stars/MiniMax-AI/MiniMax-M1.svg?style=social&label=Star) 
 - [**MiniCPM**](https://github.com/OpenBMB/MiniCPM) - OpenBMB ![Star](https://img.shields.io/github/stars/OpenBMB/MiniCPM.svg?style=social&label=Star) 
 
 	 *Ultra-Efficient LLMs on End Devices, achieving 5+ speedup on typical end-side chips          Resources*

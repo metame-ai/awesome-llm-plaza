@@ -29,15 +29,15 @@
 - **GUI-Actor: Coordinate-Free Visual Grounding for GUI Agents**, `arXiv, 2506.03143`, [arxiv](http://arxiv.org/abs/2506.03143v1), [pdf](http://arxiv.org/pdf/2506.03143v1.pdf), cication: [**-1**](None) 
 
 	 *Qianhui Wu, Kanzhi Cheng, Rui Yang, ..., Dongmei Zhang, Jianfeng Gao*
-- **Mirage-1: Augmenting and Updating GUI Agent with Hierarchical Multimodal
+- **Mirage-1: Augmenting and Updating GUI Agent with Hierarchical Multimodal 
   Skills**, `arXiv, 2506.10387`, [arxiv](http://arxiv.org/abs/2506.10387v1), [pdf](http://arxiv.org/pdf/2506.10387v1.pdf), cication: [**-1**](None) 
 
 	 *Yuquan Xie, Zaijing Li, Rui Shao, ..., Dongmei Jiang, Liqiang Nie*
-- **Atomic-to-Compositional Generalization for Mobile Agents with A New
+- **Atomic-to-Compositional Generalization for Mobile Agents with A New 
   Benchmark and Scheduling System**, `arXiv, 2506.08972`, [arxiv](http://arxiv.org/abs/2506.08972v1), [pdf](http://arxiv.org/pdf/2506.08972v1.pdf), cication: [**-1**](None) 
 
 	 *Yuan Guo, Tingjia Miao, Zheng Wu, ..., Ming Zhou, Zhuosheng Zhang* · ([ui-nexus.github](https://ui-nexus.github.io/))
-- **GUIRoboTron-Speech: Towards Automated GUI Agents Based on Speech
+- **GUIRoboTron-Speech: Towards Automated GUI Agents Based on Speech 
   Instructions**, `arXiv, 2506.11127`, [arxiv](http://arxiv.org/abs/2506.11127v1), [pdf](http://arxiv.org/pdf/2506.11127v1.pdf), cication: [**-1**](None) 
 
 	 *Wenkang Han, Zhixiong Zeng, Jing Huang, ..., Jingyuan Chen, Lin Ma* · ([GUIRoboTron-Speech](https://github.com/GUIRoboTron/GUIRoboTron-Speech) - GUIRoboTron) ![Star](https://img.shields.io/github/stars/GUIRoboTron/GUIRoboTron-Speech.svg?style=social&label=Star)
@@ -211,7 +211,7 @@
 
 ## Datasets
 
-- [GUI Reflection SFT Training Data](https://huggingface.co/datasets/craigwu/GUI_Reflection_SFT_train)  🤗
+- [GUI Reflection SFT Training Data](https://huggingface.co/datasets/craigwu/GUI_Reflection_SFT_train)  🤗 
 - **Explorer: Scaling Exploration-driven Web Trajectory Synthesis for 
   Multimodal Web Agents**, `arXiv, 2502.11357`, [arxiv](http://arxiv.org/abs/2502.11357v2), [pdf](http://arxiv.org/pdf/2502.11357v2.pdf), cication: [**-1**](None) 
 
@@ -280,4 +280,7 @@
 - [**GUI-Agents-Paper-List**](https://github.com/OSU-NLP-Group/GUI-Agents-Paper-List) - OSU-NLP-Group ![Star](https://img.shields.io/github/stars/OSU-NLP-Group/GUI-Agents-Paper-List.svg?style=social&label=Star) 
 - [Tell your MacBook what to do, and it's done—across ANY app.](https://github.com/browser-use/macOS-use)- [**Awesome-GUI-Agent**](https://github.com/showlab/Awesome-GUI-Agent) - showlab ![Star](https://img.shields.io/github/stars/showlab/Awesome-GUI-Agent.svg?style=social&label=Star) 
 ## Toolkits
-- 🌟 [**UI-TARS-desktop**](https://github.com/bytedance/UI-TARS-desktop) - bytedance ![Star](https://img.shields.io/github/stars/bytedance/UI-TARS-desktop.svg?style=social&label=Star) 
+
+- 🌟 [**droidrun)- 🌟 [**UI-TARS-desktop**](https:**](https://github.com/droidrun/droidrun)- 🌟 [**UI-TARS-desktop**](https://github.com/bytedance/UI-TARS-desktop) - bytedance ![Star](https://img.shields.io/github/stars/bytedance/UI-TARS-desktop.svg?style=social&label=Star) - droidrun ![Star](https://img.shields.io/github/stars/droidrun/droidrun)- 🌟 [**UI-TARS-desktop**](https:.svg?style=social&label=Star)
+
+	 *//github.com/droidrun/droidrun)- 🌟 [**UI-TARS-desktop**](https://github.com/bytedance/UI-TARS-desktop) - bytedance ![Star*

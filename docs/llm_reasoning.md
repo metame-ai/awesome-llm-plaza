@@ -69,7 +69,7 @@
 
 ## Reasoning
 
-- **AReaL: A Large-Scale Asynchronous Reinforcement Learning System for
+- **AReaL: A Large-Scale Asynchronous Reinforcement Learning System for 
   Language Reasoning**, `arXiv, 2505.24298`, [arxiv](http://arxiv.org/abs/2505.24298v2), [pdf](http://arxiv.org/pdf/2505.24298v2.pdf), cication: [**-1**](None) 
 
 	 *Wei Fu, Jiaxuan Gao, Xujie Shen, ..., Binhang Yuan, Yi Wu*
@@ -462,22 +462,22 @@
 - 🌟 **AlphaOne: Reasoning Models Thinking Slow and Fast at Test Time**, `arXiv, 2505.24863`, [arxiv](http://arxiv.org/abs/2505.24863v1), [pdf](http://arxiv.org/pdf/2505.24863v1.pdf), cication: [**-1**](None) 
 
 	 *Junyu Zhang, Runpei Dong, Han Wang, ..., Saurabh Gupta, Huan Zhang*
-- **REASONING GYM: Reasoning Environments for Reinforcement Learning with
+- **REASONING GYM: Reasoning Environments for Reinforcement Learning with 
   Verifiable Rewards**, `arXiv, 2505.24760`, [arxiv](http://arxiv.org/abs/2505.24760v1), [pdf](http://arxiv.org/pdf/2505.24760v1.pdf), cication: [**-1**](None) 
 
 	 *Zafir Stojanovski, Oliver Stanley, Joe Sharratt, ..., Jean Kaddour, Andreas Köpf*
 - **Confidence Is All You Need: Few-Shot RL Fine-Tuning of Language Models**, `arXiv, 2506.06395`, [arxiv](http://arxiv.org/abs/2506.06395v3), [pdf](http://arxiv.org/pdf/2506.06395v3.pdf), cication: [**-1**](None) 
 
 	 *Pengyi Li, Matvey Skripkin, Alexander Zubrey, ..., Andrey Kuznetsov, Ivan Oseledets*
-- **Wait, We Don't Need to "Wait"! Removing Thinking Tokens Improves
+- **Wait, We Don't Need to "Wait"! Removing Thinking Tokens Improves 
   Reasoning Efficiency**, `arXiv, 2506.08343`, [arxiv](http://arxiv.org/abs/2506.08343v2), [pdf](http://arxiv.org/pdf/2506.08343v2.pdf), cication: [**-1**](None) 
 
 	 *Chenlong Wang, Yuanning Feng, Dongping Chen, ..., Ranjay Krishna, Tianyi Zhou*
-- **Reinforcement Learning with Verifiable Rewards Implicitly Incentivizes
+- **Reinforcement Learning with Verifiable Rewards Implicitly Incentivizes 
   Correct Reasoning in Base LLMs**, `arXiv, 2506.14245`, [arxiv](http://arxiv.org/abs/2506.14245v1), [pdf](http://arxiv.org/pdf/2506.14245v1.pdf), cication: [**-1**](None) 
 
 	 *Xumeng Wen, Zihan Liu, Shun Zheng, ..., Jiang Bian, Mao Yang*
-- 🌟 **ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in
+- 🌟 **ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in 
   Large Language Models**, `arXiv, 2505.24864`, [arxiv](http://arxiv.org/abs/2505.24864v1), [pdf](http://arxiv.org/pdf/2505.24864v1.pdf), cication: [**-1**](None) 
 
 	 *Mingjie Liu, Shizhe Diao, Ximing Lu, ..., Jan Kautz, Yi Dong*
@@ -1052,7 +1052,7 @@
 
 ## Planning
 
-- **ProtoReasoning: Prototypes as the Foundation for Generalizable Reasoning
+- **ProtoReasoning: Prototypes as the Foundation for Generalizable Reasoning 
   in LLMs**, `arXiv, 2506.15211`, [arxiv](http://arxiv.org/abs/2506.15211v1), [pdf](http://arxiv.org/pdf/2506.15211v1.pdf), cication: [**-1**](None) 
 
 	 *Feng He, Zijun Chen, Xinnian Liang, ..., Shuangzhi Wu, Junchi Yan*

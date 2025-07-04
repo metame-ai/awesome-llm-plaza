@@ -46,7 +46,7 @@
 
 ## Efficient LLM
 
-- **Multiverse: Your Language Models Secretly Decide How to Parallelize and
+- **Multiverse: Your Language Models Secretly Decide How to Parallelize and 
   Merge Generation**, `arXiv, 2506.09991`, [arxiv](http://arxiv.org/abs/2506.09991v2), [pdf](http://arxiv.org/pdf/2506.09991v2.pdf), cication: [**-1**](None) 
 
 	 *Xinyu Yang, Yuwei An, Hongyi Liu, ..., Tianqi Chen, Beidi Chen*

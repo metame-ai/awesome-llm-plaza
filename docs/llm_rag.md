@@ -184,7 +184,7 @@
 
 ## Projects
 
-- [**all-rag-techniques**](https://github.com/FareedKhan-dev/all-rag-techniques) - FareedKhan-dev ![Star](https://img.shields.io/github/stars/FareedKhan-dev/all-rag-techniques.svg?style=social&label=Star)
+- [**all-rag-techniques**](https://github.com/FareedKhan-dev/all-rag-techniques) - FareedKhan-dev ![Star](https://img.shields.io/github/stars/FareedKhan-dev/all-rag-techniques.svg?style=social&label=Star) 
 
 	 *A Simpler, Hands-On Approach ✨*
 - [**VRAG**](https://github.com/Alibaba-NLP/VRAG) - Alibaba-NLP ![Star](https://img.shields.io/github/stars/Alibaba-NLP/VRAG.svg?style=social&label=Star) 

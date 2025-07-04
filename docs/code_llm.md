@@ -118,7 +118,7 @@
 
 ## Evaluation
 
-- **LiveCodeBench Pro: How Do Olympiad Medalists Judge LLMs in Competitive
+- **LiveCodeBench Pro: How Do Olympiad Medalists Judge LLMs in Competitive 
   Programming?**, `arXiv, 2506.11928`, [arxiv](http://arxiv.org/abs/2506.11928v1), [pdf](http://arxiv.org/pdf/2506.11928v1.pdf), cication: [**-1**](None) 
 
 	 *Zihan Zheng, Zerui Cheng, Zeyu Shen, ..., Jingbo Shang, Saining Xie*
