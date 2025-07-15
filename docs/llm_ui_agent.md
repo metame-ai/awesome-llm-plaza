@@ -26,7 +26,11 @@
 
 ## GUI Agent
 
-- **Mobile-R1: Towards Interactive Reinforcement Learning for VLM-Based
+- **Mobile-Agent-V: A Video-Guided Approach for Effortless and Efficient
+  Operational Knowledge Injection in Mobile Automation**, `arXiv, 2502.17110`, [arxiv](http://arxiv.org/abs/2502.17110v3), [pdf](http://arxiv.org/pdf/2502.17110v3.pdf), cication: [**-1**](None) 
+
+	 *Junyang Wang, Haiyang Xu, Xi Zhang, ..., Fei Huang, Jitao Sang*
+- **Mobile-R1: Towards Interactive Reinforcement Learning for VLM-Based 
   Mobile Agent via Task-Level Rewards**, `arXiv, 2506.20332`, [arxiv](http://arxiv.org/abs/2506.20332v2), [pdf](http://arxiv.org/pdf/2506.20332v2.pdf), cication: [**-1**](None) 
 
 	 *Jihao Gu, Qihang Ai, Yingyao Wang, ..., Yuning Jiang, Bo Zheng*
