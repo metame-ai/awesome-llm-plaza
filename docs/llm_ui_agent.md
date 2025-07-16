@@ -26,7 +26,7 @@
 
 ## GUI Agent
 
-- **Mobile-Agent-V: A Video-Guided Approach for Effortless and Efficient
+- **Mobile-Agent-V: A Video-Guided Approach for Effortless and Efficient 
   Operational Knowledge Injection in Mobile Automation**, `arXiv, 2502.17110`, [arxiv](http://arxiv.org/abs/2502.17110v3), [pdf](http://arxiv.org/pdf/2502.17110v3.pdf), cication: [**-1**](None) 
 
 	 *Junyang Wang, Haiyang Xu, Xi Zhang, ..., Fei Huang, Jitao Sang*
