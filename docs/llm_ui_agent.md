@@ -26,6 +26,26 @@
 
 ## GUI Agent
 
+- **Universal Retrieval for Multimodal Trajectory Modeling**, `arXiv, 2506.22056`, [arxiv](http://arxiv.org/abs/2506.22056v1), [pdf](http://arxiv.org/pdf/2506.22056v1.pdf), cication: [**-1**](None) 
+
+	 *Xuan Zhang, Ziyan Jiang, Rui Meng, ..., Yanyi Shang, Dehan Kong*
+- **UIShift: Enhancing VLM-based GUI Agents through Self-supervised
+  Reinforcement Learning**, `arXiv, 2505.12493`, [arxiv](http://arxiv.org/abs/2505.12493v2), [pdf](http://arxiv.org/pdf/2505.12493v2.pdf), cication: [**-1**](None) 
+
+	 *Longxi Gao, Li Zhang, Mengwei Xu*
+- **AgentSynth: Scalable Task Generation for Generalist Computer-Use Agents**, `arXiv, 2506.14205`, [arxiv](http://arxiv.org/abs/2506.14205v1), [pdf](http://arxiv.org/pdf/2506.14205v1.pdf), cication: [**-1**](None) 
+
+	 *Jingxu Xie, Dylan Xu, Xuandong Zhao, ..., Dawn Song* · ([sunblaze-ucb.github](https://sunblaze-ucb.github.io/agentsynth_web/)) · ([arxiv](https://arxiv.org/abs/2506.14205)) · ([AgentSynth](https://github.com/sunblaze-ucb/AgentSynth) - sunblaze-ucb) ![Star](https://img.shields.io/github/stars/sunblaze-ucb/AgentSynth.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/datasets/sunblaze-ucb/AgentSynth))
+- **Chain-of-Memory: Enhancing GUI Agents for Cross-Application Navigation**, `arXiv, 2506.18158`, [arxiv](http://arxiv.org/abs/2506.18158v1), [pdf](http://arxiv.org/pdf/2506.18158v1.pdf), cication: [**-1**](None) 
+
+	 *Xinzge Gao, Chuanrui Hu, Bin Chen, ..., Teng Li*
+- **Agent-RewardBench: Towards a Unified Benchmark for Reward Modeling
+  across Perception, Planning, and Safety in Real-World Multimodal Agents**, `arXiv, 2506.21252`, [arxiv](http://arxiv.org/abs/2506.21252v1), [pdf](http://arxiv.org/pdf/2506.21252v1.pdf), cication: [**-1**](None) 
+
+	 *Tianyi Men, Zhuoran Jin, Pengfei Cao, ..., Kang Liu, Jun Zhao*
+- **OS-Kairos: Adaptive Interaction for MLLM-Powered GUI Agents**, `arXiv, 2503.16465`, [arxiv](http://arxiv.org/abs/2503.16465v3), [pdf](http://arxiv.org/pdf/2503.16465v3.pdf), cication: [**-1**](None) 
+
+	 *Pengzhou Cheng, Zheng Wu, Zongru Wu, ..., Zhuosheng Zhang, Gongshen Liu* · ([OS-Kairos](https://github.com/Wuzheng02/OS-Kairos) - Wuzheng02) ![Star](https://img.shields.io/github/stars/Wuzheng02/OS-Kairos.svg?style=social&label=Star)
 - **Mobile-Agent-V: A Video-Guided Approach for Effortless and Efficient 
   Operational Knowledge Injection in Mobile Automation**, `arXiv, 2502.17110`, [arxiv](http://arxiv.org/abs/2502.17110v3), [pdf](http://arxiv.org/pdf/2502.17110v3.pdf), cication: [**-1**](None) 
 
@@ -181,6 +201,10 @@
 
 ## Evaluation
 
+- **GUI-Robust: A Comprehensive Dataset for Testing GUI Agent Robustness in
+  Real-World Anomalies**, `arXiv, 2506.14477`, [arxiv](http://arxiv.org/abs/2506.14477v1), [pdf](http://arxiv.org/pdf/2506.14477v1.pdf), cication: [**-1**](None) 
+
+	 *Jingqi Yang, Zhilong Song, Jiawei Chen, ..., Chun Chen, Can Wang* · ([GUI-Robust..](https://github.com/chessbean1/GUI-Robust..) - chessbean1) ![Star](https://img.shields.io/github/stars/chessbean1/GUI-Robust...svg?style=social&label=Star)
 - **OSUniverse: Benchmark for Multimodal GUI-navigation AI Agents**, `arXiv, 2505.03570`, [arxiv](http://arxiv.org/abs/2505.03570v1), [pdf](http://arxiv.org/pdf/2505.03570v1.pdf), cication: [**-1**](None) 
 
 	 *Mariya Davydova, Daniel Jeffries, Patrick Barker, ..., Arturo Márquez Flores, Sinéad Ryan* · ([osuniverse](https://github.com/agentsea/osuniverse) - agentsea) ![Star](https://img.shields.io/github/stars/agentsea/osuniverse.svg?style=social&label=Star) · ([arxiv](https://arxiv.org/abs/2505.03570)) · ([agentsea.github](https://agentsea.github.io/osuniverse/))
@@ -220,6 +244,7 @@
 
 ## Datasets
 
+- [PG23  / Mobile-R1](https://huggingface.co/datasets/PG23/Mobile-R1)  🤗
 - [GUI Reflection SFT Training Data](https://huggingface.co/datasets/craigwu/GUI_Reflection_SFT_train)  🤗 
 - **Explorer: Scaling Exploration-driven Web Trajectory Synthesis for 
   Multimodal Web Agents**, `arXiv, 2502.11357`, [arxiv](http://arxiv.org/abs/2502.11357v2), [pdf](http://arxiv.org/pdf/2502.11357v2.pdf), cication: [**-1**](None) 

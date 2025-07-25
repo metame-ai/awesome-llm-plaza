@@ -48,6 +48,7 @@
 
 ## Agent RL
 
+- [rLLM: A Framework for Post-Training Language Agents](https://pretty-radio-b75.notion.site/rLLM-A-Framework-for-Post-Training-Language-Agents-21b81902c146819db63cd98a54ba5f31) 
 - [**VRAG**](https://github.com/Alibaba-NLP/VRAG) - Alibaba-NLP ![Star](https://img.shields.io/github/stars/Alibaba-NLP/VRAG.svg?style=social&label=Star) 
 
 	 *Moving Towards Next-Generation RAG via Multi-Modal Agent RL*
@@ -486,6 +487,11 @@
 
 ## Multi Agent
 
+- **Wider or Deeper? Scaling LLM Inference-Time Compute with Adaptive
+  Branching Tree Search**, `arXiv, 2503.04412`, [arxiv](http://arxiv.org/abs/2503.04412v3), [pdf](http://arxiv.org/pdf/2503.04412v3.pdf), cication: [**-1**](None) 
+
+	 *Yuichi Inoue, Kou Misaki, Yuki Imajuku, ..., Taishi Nakamura, Takuya Akiba* · ([arxiv](https://arxiv.org/abs/2503.04412)) · ([treequest](https://github.com/SakanaAI/treequest) - SakanaAI) ![Star](https://img.shields.io/github/stars/SakanaAI/treequest.svg?style=social&label=Star) · ([ab-mcts-arc2](https://github.com/SakanaAI/ab-mcts-arc2) - SakanaAI) ![Star](https://img.shields.io/github/stars/SakanaAI/ab-mcts-arc2.svg?style=social&label=Star)
+- [Multi-Agent 协作兴起，RAG 注定只是过渡方案？](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650980588&idx=1&sn=89a1a0c84ba5bbae0aec9019aa87fcd0&chksm=8550fdfbad23ae33fba08f8ee716278301f4a98a8aaed6192cb57ca4bd6c8340b96f496e7360&scene=0&xtrack=1) 
 - **VS-Bench: Evaluating VLMs for Strategic Reasoning and Decision-Making in 
   Multi-Agent Environments**, `arXiv, 2506.02387`, [arxiv](http://arxiv.org/abs/2506.02387v1), [pdf](http://arxiv.org/pdf/2506.02387v1.pdf), cication: [**-1**](None) 
 

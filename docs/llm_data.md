@@ -188,6 +188,9 @@
 
 ## Reasoning
 
+- **GThinker: Towards General Multimodal Reasoning via Cue-Guided Rethinking**, `arXiv, 2506.01078`, [arxiv](http://arxiv.org/abs/2506.01078v1), [pdf](http://arxiv.org/pdf/2506.01078v1.pdf), cication: [**-1**](None) 
+
+	 *Yufei Zhan, Ziheng Wu, Yousong Zhu, ..., Minghui Qiu, Jinqiao Wang* · ([GThinker](https://github.com/jefferyZhan/GThinker) - jefferyZhan) ![Star](https://img.shields.io/github/stars/jefferyZhan/GThinker.svg?style=social&label=Star)
 - 🌟 **OpenThoughts: Data Recipes for Reasoning Models**, `arXiv, 2506.04178`, [arxiv](http://arxiv.org/abs/2506.04178v2), [pdf](http://arxiv.org/pdf/2506.04178v2.pdf), cication: [**-1**](None) 
 
 	 *Etash Guha, Ryan Marten, Sedrick Keh, ..., Alexandros G. Dimakis, Ludwig Schmidt*

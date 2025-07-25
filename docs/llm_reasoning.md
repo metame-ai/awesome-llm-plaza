@@ -971,6 +971,9 @@
 
 ## Chain Of Thought
 
+- **Thought Anchors: Which LLM Reasoning Steps Matter?**, `arXiv, 2506.19143`, [arxiv](http://arxiv.org/abs/2506.19143v2), [pdf](http://arxiv.org/pdf/2506.19143v2.pdf), cication: [**-1**](None) 
+
+	 *Paul C. Bogdan, Uzay Macar, Neel Nanda, ..., Arthur Conmy*
 - **Mind the Gap: Bridging Thought Leap for Improved Chain-of-Thought Tuning**, `arXiv, 2505.14684`, [arxiv](http://arxiv.org/abs/2505.14684v2), [pdf](http://arxiv.org/pdf/2505.14684v2.pdf), cication: [**-1**](None) 
 
 	 *Haolei Xu, Yuchen Yan, Yongliang Shen, ..., Jun Xiao, Yueting Zhuang* · ([zju-real.github](https://zju-real.github.io/CoT-Bridge/)) · ([Mind-the-Gap](https://github.com/ZJU-REAL/Mind-the-Gap) - ZJU-REAL) ![Star](https://img.shields.io/github/stars/ZJU-REAL/Mind-the-Gap.svg?style=social&label=Star)

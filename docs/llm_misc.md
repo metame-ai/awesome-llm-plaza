@@ -47,6 +47,9 @@
 
 ## Interpretability
 
+- **Thought Anchors: Which LLM Reasoning Steps Matter?**, `arXiv, 2506.19143`, [arxiv](http://arxiv.org/abs/2506.19143v2), [pdf](http://arxiv.org/pdf/2506.19143v2.pdf), cication: [**-1**](None) 
+
+	 *Paul C. Bogdan, Uzay Macar, Neel Nanda, ..., Arthur Conmy*
 - **How much do language models memorize?**, `arXiv, 2505.24832`, [arxiv](http://arxiv.org/abs/2505.24832v2), [pdf](http://arxiv.org/pdf/2505.24832v2.pdf), cication: [**-1**](None) 
 
 	 *John X. Morris, Chawin Sitawarin, Chuan Guo, ..., Kamalika Chaudhuri, Saeed Mahloujifar*

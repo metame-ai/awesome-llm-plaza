@@ -19,6 +19,8 @@
 
 ## Code LLM
 
+- [rLLM: A Framework for Post-Training Language Agents](https://pretty-radio-b75.notion.site/rLLM-A-Framework-for-Post-Training-Language-Agents-21b81902c146819db63cd98a54ba5f31) 
+- [Upgrading agentic coding capabilities with the new Devstral models](https://mistral.ai/news/devstral-2507) 
 - **Co-Evolving LLM Coder and Unit Tester via Reinforcement Learning**, `arXiv, 2506.03136`, [arxiv](http://arxiv.org/abs/2506.03136v1), [pdf](http://arxiv.org/pdf/2506.03136v1.pdf), cication: [**-1**](None) 
 
 	 *Yinjie Wang, Ling Yang, Ye Tian, ..., Ke Shen, Mengdi Wang*

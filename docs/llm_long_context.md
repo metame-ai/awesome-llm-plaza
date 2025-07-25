@@ -16,6 +16,9 @@
 
 ## Long Context
 
+- **Understanding and Improving Length Generalization in Recurrent Models**, `arXiv, 2507.02782`, [arxiv](http://arxiv.org/abs/2507.02782v1), [pdf](http://arxiv.org/pdf/2507.02782v1.pdf), cication: [**-1**](None) 
+
+	 *Ricardo Buitrago Ruiz, Albert Gu*
 - **LongLLaDA: Unlocking Long Context Capabilities in Diffusion LLMs**, `arXiv, 2506.14429`, [arxiv](http://arxiv.org/abs/2506.14429v1), [pdf](http://arxiv.org/pdf/2506.14429v1.pdf), cication: [**-1**](None) 
 
 	 *Xiaoran Liu, Zhigeng Liu, Zengfeng Huang, ..., Ziwei He, Xipeng Qiu*

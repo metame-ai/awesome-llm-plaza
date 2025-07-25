@@ -359,6 +359,9 @@
 
 ## Projects
 
+- [**quack**](https://github.com/Dao-AILab/quack) - Dao-AILab ![Star](https://img.shields.io/github/stars/Dao-AILab/quack.svg?style=social&label=Star)
+
+	 *A Quirky Assortment of CuTe Kernels 🦆*
 - [**flux**](https://github.com/bytedance/flux) - bytedance ![Star](https://img.shields.io/github/stars/bytedance/flux.svg?style=social&label=Star) 
 - [**MoBA**](https://github.com/MoonshotAI/MoBA) - MoonshotAI ![Star](https://img.shields.io/github/stars/MoonshotAI/MoBA.svg?style=social&label=Star) 
 

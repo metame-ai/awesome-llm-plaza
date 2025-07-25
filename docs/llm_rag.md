@@ -26,6 +26,7 @@
 
 ## RAG
 
+- [Multi-Agent 协作兴起，RAG 注定只是过渡方案？](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650980588&idx=1&sn=89a1a0c84ba5bbae0aec9019aa87fcd0&chksm=8550fdfbad23ae33fba08f8ee716278301f4a98a8aaed6192cb57ca4bd6c8340b96f496e7360&scene=0&xtrack=1) 
 - **DoTA-RAG: Dynamic of Thought Aggregation RAG**, `arXiv, 2506.12571`, [arxiv](http://arxiv.org/abs/2506.12571v1), [pdf](http://arxiv.org/pdf/2506.12571v1.pdf), cication: [**-1**](None) 
 
 	 *Saksorn Ruangtanusak, Natthapath Rungseesiripak, Peerawat Rojratchadakorn, ..., Monthol Charattrakool, Natapong Nitarach*
@@ -184,6 +185,9 @@
 
 ## Projects
 
+- [**RAG-Anything**](https://github.com/HKUDS/RAG-Anything) - HKUDS ![Star](https://img.shields.io/github/stars/HKUDS/RAG-Anything.svg?style=social&label=Star)
+
+	 *All-in-One RAG System*
 - [**all-rag-techniques**](https://github.com/FareedKhan-dev/all-rag-techniques) - FareedKhan-dev ![Star](https://img.shields.io/github/stars/FareedKhan-dev/all-rag-techniques.svg?style=social&label=Star) 
 
 	 *A Simpler, Hands-On Approach ✨*
