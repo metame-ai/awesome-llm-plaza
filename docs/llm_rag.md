@@ -185,7 +185,7 @@
 
 ## Projects
 
-- [**RAG-Anything**](https://github.com/HKUDS/RAG-Anything) - HKUDS ![Star](https://img.shields.io/github/stars/HKUDS/RAG-Anything.svg?style=social&label=Star)
+- [**RAG-Anything**](https://github.com/HKUDS/RAG-Anything) - HKUDS ![Star](https://img.shields.io/github/stars/HKUDS/RAG-Anything.svg?style=social&label=Star) 
 
 	 *All-in-One RAG System*
 - [**all-rag-techniques**](https://github.com/FareedKhan-dev/all-rag-techniques) - FareedKhan-dev ![Star](https://img.shields.io/github/stars/FareedKhan-dev/all-rag-techniques.svg?style=social&label=Star) 

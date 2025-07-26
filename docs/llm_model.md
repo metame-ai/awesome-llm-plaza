@@ -18,7 +18,7 @@
 ## LLM Models
 
 - [The Big LLM Architecture Comparison](https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison) 
-- **Mixture-of-Recursions: Learning Dynamic Recursive Depths for Adaptive
+- **Mixture-of-Recursions: Learning Dynamic Recursive Depths for Adaptive 
   Token-Level Computation**, `arXiv, 2507.10524`, [arxiv](http://arxiv.org/abs/2507.10524v2), [pdf](http://arxiv.org/pdf/2507.10524v2.pdf), cication: [**-1**](None) 
 
 	 *Sangmin Bae, Yujin Kim, Reza Bayat, ..., Aaron Courville, Se-Young Yun* · ([mixture_of_recursions](https://github.com/raymin0223/mixture_of_recursions) - raymin0223) ![Star](https://img.shields.io/github/stars/raymin0223/mixture_of_recursions.svg?style=social&label=Star)

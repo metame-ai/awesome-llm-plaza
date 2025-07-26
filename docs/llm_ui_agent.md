@@ -29,7 +29,7 @@
 - **Universal Retrieval for Multimodal Trajectory Modeling**, `arXiv, 2506.22056`, [arxiv](http://arxiv.org/abs/2506.22056v1), [pdf](http://arxiv.org/pdf/2506.22056v1.pdf), cication: [**-1**](None) 
 
 	 *Xuan Zhang, Ziyan Jiang, Rui Meng, ..., Yanyi Shang, Dehan Kong*
-- **UIShift: Enhancing VLM-based GUI Agents through Self-supervised
+- **UIShift: Enhancing VLM-based GUI Agents through Self-supervised 
   Reinforcement Learning**, `arXiv, 2505.12493`, [arxiv](http://arxiv.org/abs/2505.12493v2), [pdf](http://arxiv.org/pdf/2505.12493v2.pdf), cication: [**-1**](None) 
 
 	 *Longxi Gao, Li Zhang, Mengwei Xu*
@@ -39,7 +39,7 @@
 - **Chain-of-Memory: Enhancing GUI Agents for Cross-Application Navigation**, `arXiv, 2506.18158`, [arxiv](http://arxiv.org/abs/2506.18158v1), [pdf](http://arxiv.org/pdf/2506.18158v1.pdf), cication: [**-1**](None) 
 
 	 *Xinzge Gao, Chuanrui Hu, Bin Chen, ..., Teng Li*
-- **Agent-RewardBench: Towards a Unified Benchmark for Reward Modeling
+- **Agent-RewardBench: Towards a Unified Benchmark for Reward Modeling 
   across Perception, Planning, and Safety in Real-World Multimodal Agents**, `arXiv, 2506.21252`, [arxiv](http://arxiv.org/abs/2506.21252v1), [pdf](http://arxiv.org/pdf/2506.21252v1.pdf), cication: [**-1**](None) 
 
 	 *Tianyi Men, Zhuoran Jin, Pengfei Cao, ..., Kang Liu, Jun Zhao*
@@ -201,7 +201,7 @@
 
 ## Evaluation
 
-- **GUI-Robust: A Comprehensive Dataset for Testing GUI Agent Robustness in
+- **GUI-Robust: A Comprehensive Dataset for Testing GUI Agent Robustness in 
   Real-World Anomalies**, `arXiv, 2506.14477`, [arxiv](http://arxiv.org/abs/2506.14477v1), [pdf](http://arxiv.org/pdf/2506.14477v1.pdf), cication: [**-1**](None) 
 
 	 *Jingqi Yang, Zhilong Song, Jiawei Chen, ..., Chun Chen, Can Wang* · ([GUI-Robust..](https://github.com/chessbean1/GUI-Robust..) - chessbean1) ![Star](https://img.shields.io/github/stars/chessbean1/GUI-Robust...svg?style=social&label=Star)
@@ -244,7 +244,7 @@
 
 ## Datasets
 
-- [PG23  / Mobile-R1](https://huggingface.co/datasets/PG23/Mobile-R1)  🤗
+- [PG23  / Mobile-R1](https://huggingface.co/datasets/PG23/Mobile-R1)  🤗 
 - [GUI Reflection SFT Training Data](https://huggingface.co/datasets/craigwu/GUI_Reflection_SFT_train)  🤗 
 - **Explorer: Scaling Exploration-driven Web Trajectory Synthesis for 
   Multimodal Web Agents**, `arXiv, 2502.11357`, [arxiv](http://arxiv.org/abs/2502.11357v2), [pdf](http://arxiv.org/pdf/2502.11357v2.pdf), cication: [**-1**](None) 

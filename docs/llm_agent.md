@@ -487,7 +487,7 @@
 
 ## Multi Agent
 
-- **Wider or Deeper? Scaling LLM Inference-Time Compute with Adaptive
+- **Wider or Deeper? Scaling LLM Inference-Time Compute with Adaptive 
   Branching Tree Search**, `arXiv, 2503.04412`, [arxiv](http://arxiv.org/abs/2503.04412v3), [pdf](http://arxiv.org/pdf/2503.04412v3.pdf), cication: [**-1**](None) 
 
 	 *Yuichi Inoue, Kou Misaki, Yuki Imajuku, ..., Taishi Nakamura, Takuya Akiba* · ([arxiv](https://arxiv.org/abs/2503.04412)) · ([treequest](https://github.com/SakanaAI/treequest) - SakanaAI) ![Star](https://img.shields.io/github/stars/SakanaAI/treequest.svg?style=social&label=Star) · ([ab-mcts-arc2](https://github.com/SakanaAI/ab-mcts-arc2) - SakanaAI) ![Star](https://img.shields.io/github/stars/SakanaAI/ab-mcts-arc2.svg?style=social&label=Star)

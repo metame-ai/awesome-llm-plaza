@@ -25,7 +25,7 @@
 
 ## English Models
 
-- [SmolLM3: smol, multilingual, long-context reasoner](https://huggingface.co/blog/smollm3)  🤗
+- [SmolLM3: smol, multilingual, long-context reasoner](https://huggingface.co/blog/smollm3)  🤗 
 - **Magistral**, `arXiv, 2506.10910`, [arxiv](http://arxiv.org/abs/2506.10910v1), [pdf](http://arxiv.org/pdf/2506.10910v1.pdf), cication: [**-1**](None) 
 
 	 *Mistral-AI, :, Abhinav Rastogi, ..., Xuanyu Zhang, Yunhao Tang*
@@ -110,7 +110,7 @@
 
 ## Chinese Models
 
-- [**Kimi-K2**](https://github.com/MoonshotAI/Kimi-K2) - MoonshotAI ![Star](https://img.shields.io/github/stars/MoonshotAI/Kimi-K2.svg?style=social&label=Star)
+- [**Kimi-K2**](https://github.com/MoonshotAI/Kimi-K2) - MoonshotAI ![Star](https://img.shields.io/github/stars/MoonshotAI/Kimi-K2.svg?style=social&label=Star) 
 - **MiniCPM4: Ultra-Efficient LLMs on End Devices**, `arXiv, 2506.07900`, [arxiv](http://arxiv.org/abs/2506.07900v1), [pdf](http://arxiv.org/pdf/2506.07900v1.pdf), cication: [**-1**](None) 
 
 	 *MiniCPM Team, Chaojun Xiao, Yuxuan Li, ..., Dahai Li, Maosong Sun*
