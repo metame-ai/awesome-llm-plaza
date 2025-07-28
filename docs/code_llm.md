@@ -19,6 +19,13 @@
 
 ## Code LLM
 
+- **Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving**, `arXiv, 2507.06229`, [arxiv](http://arxiv.org/abs/2507.06229v4), [pdf](http://arxiv.org/pdf/2507.06229v4.pdf), cication: [**-1**](None) 
+
+	 *Xiangru Tang, Tianrui Qin, Tianhao Peng, ..., Chi Wang, Wangchunshu Zhou*
+- **Skywork-SWE: Unveiling Data Scaling Laws for Software Engineering in
+  LLMs**, `arXiv, 2506.19290`, [arxiv](http://arxiv.org/abs/2506.19290v1), [pdf](http://arxiv.org/pdf/2506.19290v1.pdf), cication: [**-1**](None) 
+
+	 *Liang Zeng, Yongcong Li, Yuzhen Xiao, ..., Yang Liu, Yahui Zhou* · ([arxiv](https://arxiv.org/pdf/2506.19290)) · ([quixotic-sting-239.notion](https://quixotic-sting-239.notion.site/eb17f379610040ceb54da5d5d24065bd)) · ([huggingface](https://huggingface.co/Skywork/Skywork-SWE-32B))
 - [rLLM: A Framework for Post-Training Language Agents](https://pretty-radio-b75.notion.site/rLLM-A-Framework-for-Post-Training-Language-Agents-21b81902c146819db63cd98a54ba5f31) 
 - [Upgrading agentic coding capabilities with the new Devstral models](https://mistral.ai/news/devstral-2507) 
 - **Co-Evolving LLM Coder and Unit Tester via Reinforcement Learning**, `arXiv, 2506.03136`, [arxiv](http://arxiv.org/abs/2506.03136v1), [pdf](http://arxiv.org/pdf/2506.03136v1.pdf), cication: [**-1**](None) 
@@ -168,6 +175,9 @@
 
 ## Projects
 
+- [**Qwen3-Coder**](https://github.com/QwenLM/Qwen3-Coder) - QwenLM ![Star](https://img.shields.io/github/stars/QwenLM/Qwen3-Coder.svg?style=social&label=Star)
+
+	 *Agentic Coding in the World.*
 - [**void**](https://github.com/voideditor/void) - voideditor ![Star](https://img.shields.io/github/stars/voideditor/void.svg?style=social&label=Star) 
 - [**claude-code**](https://github.com/anthropics/claude-code) - anthropics ![Star](https://img.shields.io/github/stars/anthropics/claude-code.svg?style=social&label=Star) 
 - [**codex**](https://github.com/openai/codex) - openai ![Star](https://img.shields.io/github/stars/openai/codex.svg?style=social&label=Star) 

@@ -22,6 +22,9 @@
 
 ## Survey
 
+- 🌟 **A Survey of Context Engineering for Large Language Models**, `arXiv, 2507.13334`, [arxiv](http://arxiv.org/abs/2507.13334v2), [pdf](http://arxiv.org/pdf/2507.13334v2.pdf), cication: [**-1**](None) 
+
+	 *Lingrui Mei, Jiayu Yao, Yuyao Ge, ..., Jiafeng Guo, Shenghua Liu*
 - **Survey of different Large Language Model Architectures: Trends, 
   Benchmarks, and Challenges**, `ieee access, 2024`, [arxiv](http://arxiv.org/abs/2412.03220v1), [pdf](http://arxiv.org/pdf/2412.03220v1.pdf), cication: [**-1**](None) 
 
@@ -47,6 +50,13 @@
 
 ## Interpretability
 
+- 🌟 **Does Math Reasoning Improve General LLM Capabilities? Understanding
+  Transferability of LLM Reasoning**, `arXiv, 2507.00432`, [arxiv](http://arxiv.org/abs/2507.00432v1), [pdf](http://arxiv.org/pdf/2507.00432v1.pdf), cication: [**-1**](None) 
+
+	 *Maggie Huan, Yuetai Li, Tuney Zheng, ..., Graham Neubig, Xiang Yue*
+- **The Invisible Leash: Why RLVR May Not Escape Its Origin**, `arXiv, 2507.14843`, [arxiv](http://arxiv.org/abs/2507.14843v1), [pdf](http://arxiv.org/pdf/2507.14843v1.pdf), cication: [**-1**](None) 
+
+	 *Fang Wu, Weihao Xuan, Ximing Lu, ..., Zaid Harchaoui, Yejin Choi*
 - **Thought Anchors: Which LLM Reasoning Steps Matter?**, `arXiv, 2506.19143`, [arxiv](http://arxiv.org/abs/2506.19143v2), [pdf](http://arxiv.org/pdf/2506.19143v2.pdf), cication: [**-1**](None) 
 
 	 *Paul C. Bogdan, Uzay Macar, Neel Nanda, ..., Arthur Conmy*
@@ -309,6 +319,9 @@
 
 ## Misc
 
+- **Apple Intelligence Foundation Language Models: Tech Report 2025**, `arXiv, 2507.13575`, [arxiv](http://arxiv.org/abs/2507.13575v1), [pdf](http://arxiv.org/pdf/2507.13575v1.pdf), cication: [**-1**](None) 
+
+	 *Hanzhi Zhou, Erik Hornberger, Pengsheng Guo, ..., Xiujun Li, Shang-Chen Wu*
 - [NUS120 Distinguished Speaker Series | Professor Richard Sutton](https://www.youtube.com/watch?v=f9KDMFZqu_Y)  :clapper: 
 
 	 · ([youtu](https://youtu.be/f9KDMFZqu_Y?t=797))

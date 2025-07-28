@@ -23,6 +23,9 @@
 
 ## LLM Training
 
+- **Scaling Laws for Optimal Data Mixtures**, `arXiv, 2507.09404`, [arxiv](http://arxiv.org/abs/2507.09404v1), [pdf](http://arxiv.org/pdf/2507.09404v1.pdf), cication: [**-1**](None) 
+
+	 *Mustafa Shukor, Louis Bethune, Dan Busbridge, ..., Alaaeldin El-Nouby, Pierre Ablin*
 - 🌟 **Reinforcement Pre-Training**, `arXiv, 2506.08007`, [arxiv](http://arxiv.org/abs/2506.08007v1), [pdf](http://arxiv.org/pdf/2506.08007v1.pdf), cication: [**-1**](None) 
 
 	 *Qingxiu Dong, Li Dong, Yao Tang, ..., Zhifang Sui, Furu Wei*
@@ -219,6 +222,10 @@
 
 ## Mixture Of Experts
 
+- **Chain-of-Experts: Unlocking the Communication Power of
+  Mixture-of-Experts Models**, `arXiv, 2506.18945`, [arxiv](http://arxiv.org/abs/2506.18945v1), [pdf](http://arxiv.org/pdf/2506.18945v1.pdf), cication: [**-1**](None) 
+
+	 *Zihan Wang, Rui Pan, Jiarui Yao, ..., Manling Li, Shiwei Liu* · ([coe.](https://github.com/ZihanWang314/coe.) - ZihanWang314) ![Star](https://img.shields.io/github/stars/ZihanWang314/coe..svg?style=social&label=Star)
 - [**flux**](https://github.com/bytedance/flux) - bytedance ![Star](https://img.shields.io/github/stars/bytedance/flux.svg?style=social&label=Star) 
 - **Mixture of Experts Made Intrinsically Interpretable**, `arXiv, 2503.07639`, [arxiv](http://arxiv.org/abs/2503.07639v1), [pdf](http://arxiv.org/pdf/2503.07639v1.pdf), cication: [**-1**](None) 
 

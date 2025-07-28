@@ -14,6 +14,7 @@
 
 ## Survey
 
+- [OS Agents: A Survey on MLLM-based Agents            for Computer, Phone and Browser Use (ACL 2025 Oral)](https://os-agent-survey.github.io/) 
 - **LLM-Powered GUI Agents in Phone Automation: Surveying Progress and 
   Prospects**, `arXiv, 2504.19838`, [arxiv](http://arxiv.org/abs/2504.19838v1), [pdf](http://arxiv.org/pdf/2504.19838v1.pdf), cication: [**-1**](None) 
 
@@ -26,6 +27,16 @@
 
 ## GUI Agent
 
+- **GTA1: GUI Test-time Scaling Agent**, `arXiv, 2507.05791`, [arxiv](http://arxiv.org/abs/2507.05791v3), [pdf](http://arxiv.org/pdf/2507.05791v3.pdf), cication: [**-1**](None) 
+
+	 *Yan Yang, Dongxu Li, Yutong Dai, ..., Caiming Xiong, Junnan Li* · ([GTA1](https://github.com/Yan98/GTA1) - Yan98) ![Star](https://img.shields.io/github/stars/Yan98/GTA1.svg?style=social&label=Star)
+- **MobileUse: A GUI Agent with Hierarchical Reflection for Autonomous
+  Mobile Operation**, `arXiv, 2507.16853`, [arxiv](http://arxiv.org/abs/2507.16853v1), [pdf](http://arxiv.org/pdf/2507.16853v1.pdf), cication: [**-1**](None) 
+
+	 *Ning Li, Xiangmou Qu, Jiamu Zhou, ..., Jun Wang, Weinan Zhang*
+- **How to Train Your LLM Web Agent: A Statistical Diagnosis**, `arXiv, 2507.04103`, [arxiv](http://arxiv.org/abs/2507.04103v1), [pdf](http://arxiv.org/pdf/2507.04103v1.pdf), cication: [**-1**](None) 
+
+	 *Dheeraj Vattikonda, Santhoshi Ravichandran, Emiliano Penaloza, ..., Alexandre Lacoste, Massimo Caccia*
 - **Universal Retrieval for Multimodal Trajectory Modeling**, `arXiv, 2506.22056`, [arxiv](http://arxiv.org/abs/2506.22056v1), [pdf](http://arxiv.org/pdf/2506.22056v1.pdf), cication: [**-1**](None) 
 
 	 *Xuan Zhang, Ziyan Jiang, Rui Meng, ..., Yanyi Shang, Dehan Kong*
@@ -299,6 +310,10 @@
 	 *Linlu Qiu, Liwei Jiang, Ximing Lu, ..., Nouha Dziri, Xiang Ren*
 ## Projects
 
+- [**mobile-use**](https://github.com/MadeAgents/mobile-use) - MadeAgents ![Star](https://img.shields.io/github/stars/MadeAgents/mobile-use.svg?style=social&label=Star)
+
+	 *Your AI assistant for mobile - Any app, any task.*
+- [**MagicGUI**](https://github.com/MagicAgent-GUI/MagicGUI) - MagicAgent-GUI ![Star](https://img.shields.io/github/stars/MagicAgent-GUI/MagicGUI.svg?style=social&label=Star)
 - [**digirl**](https://github.com/DigiRL-agent/digirl/blob/master/env_setup/README.md) - DigiRL-agent ![Star](https://img.shields.io/github/stars/DigiRL-agent/digirl.svg?style=social&label=Star) 
 - 🌟 [**AgentCPM-GUI**](https://github.com/OpenBMB/AgentCPM-GUI) - OpenBMB ![Star](https://img.shields.io/github/stars/OpenBMB/AgentCPM-GUI.svg?style=social&label=Star) 
 
@@ -318,3 +333,20 @@
 - 🌟 [**droidrun)- 🌟 [**UI-TARS-desktop**](https:**](https://github.com/droidrun/droidrun)- 🌟 [**UI-TARS-desktop**](https://github.com/bytedance/UI-TARS-desktop) - bytedance ![Star](https://img.shields.io/github/stars/bytedance/UI-TARS-desktop.svg?style=social&label=Star) - droidrun ![Star](https://img.shields.io/github/stars/droidrun/droidrun)- 🌟 [**UI-TARS-desktop**](https:.svg?style=social&label=Star) 
 
 	 *//github.com/droidrun/droidrun)- 🌟 [**UI-TARS-desktop**](https://github.com/bytedance/UI-TARS-desktop) - bytedance ![Star*
+## Grounding
+- **ZonUI-3B: A Lightweight Vision-Language Model for Cross-Resolution GUI
+  Grounding**, `arXiv, 2506.23491`, [arxiv](http://arxiv.org/abs/2506.23491v3), [pdf](http://arxiv.org/pdf/2506.23491v3.pdf), cication: [**-1**](None) 
+
+	 *ZongHan Hsieh, Tzer-Jen Wei, ShengJing Yang*
+- **DiMo-GUI: Advancing Test-time Scaling in GUI Grounding via
+  Modality-Aware Visual Reasoning**, `arXiv, 2507.00008`, [arxiv](http://arxiv.org/abs/2507.00008v1), [pdf](http://arxiv.org/pdf/2507.00008v1.pdf), cication: [**-1**](None) 
+
+	 *Hang Wu, Hongkai Chen, Yujun Cai, ..., Ming-Hsuan Yang, Yiwei Wang*
+- 🌟 **GUI-G$^2$: Gaussian Reward Modeling for GUI Grounding**, `arXiv, 2507.15846`, [arxiv](http://arxiv.org/abs/2507.15846v2), [pdf](http://arxiv.org/pdf/2507.15846v2.pdf), cication: [**-1**](None) 
+
+	 *Fei Tang, Zhangxuan Gu, Zhengxi Lu, ..., Jun Xiao, Yueting Zhuang* · ([GUI-G2](https://github.com/zju-real/GUI-G2) - zju-real) ![Star](https://img.shields.io/github/stars/zju-real/GUI-G2.svg?style=social&label=Star) · ([zju-real.github](https://zju-real.github.io/GUI-G2))
+## Online RL
+- **MobileGUI-RL: Advancing Mobile GUI Agent through Reinforcement Learning
+  in Online Environment**, `arXiv, 2507.05720`, [arxiv](http://arxiv.org/abs/2507.05720v1), [pdf](http://arxiv.org/pdf/2507.05720v1.pdf), cication: [**-1**](None) 
+
+	 *Yucheng Shi, Wenhao Yu, Zaitang Li, ..., Haitao Mi, Dong Yu*

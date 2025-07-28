@@ -59,6 +59,9 @@
 
 ## Vision-Language Models
 
+- **Kwai Keye-VL Technical Report**, `arXiv, 2507.01949`, [arxiv](http://arxiv.org/abs/2507.01949v1), [pdf](http://arxiv.org/pdf/2507.01949v1.pdf), cication: [**-1**](None) 
+
+	 *Kwai Keye Team, Biao Yang, Bin Wen, ..., Zhuoran Yang, Zixing Zhang*
 - **MiMo-VL Technical Report**, `arXiv, 2506.03569`, [arxiv](http://arxiv.org/abs/2506.03569v1), [pdf](http://arxiv.org/pdf/2506.03569v1.pdf), cication: [**-1**](None) 
 
 	 *Xiaomi LLM-Core Team, :, Zihao Yue, ..., Can Cai, Bingquan Xia*
@@ -226,6 +229,7 @@
 
 ## Video
 
+- [TimeScope: How Long Can Your Video Large Multimodal Model Go?](https://huggingface.co/blog/timescope-video-lmm-benchmark)  🤗
 - 🌟 **Towards Understanding Camera Motions in Any Video**, `arXiv, 2504.15376`, [arxiv](http://arxiv.org/abs/2504.15376v1), [pdf](http://arxiv.org/pdf/2504.15376v1.pdf), cication: [**-1**](None) 
 
 	 *Zhiqiu Lin, Siyuan Cen, Daniel Jiang, ..., Chuang Gan, Deva Ramanan*
@@ -470,6 +474,10 @@
 
 ## Reasoning
 
+- 🌟 **Thinking with Images for Multimodal Reasoning: Foundations, Methods, and
+  Future Frontiers**, `arXiv, 2506.23918`, [arxiv](http://arxiv.org/abs/2506.23918v3), [pdf](http://arxiv.org/pdf/2506.23918v3.pdf), cication: [**-1**](None) 
+
+	 *Zhaochen Su, Peng Xia, Hangyu Guo, ..., Junxian He, Yi R. Fung* · ([𝕏](https://x.com/SuZhaochen0110/status/1940251163166986333)) · ([Awesome_Think_With_Images](https://github.com/zhaochen0110/Awesome_Think_With_Images) - zhaochen0110) ![Star](https://img.shields.io/github/stars/zhaochen0110/Awesome_Think_With_Images.svg?style=social&label=Star)
 - **VGR: Visual Grounded Reasoning**, `arXiv, 2506.11991`, [arxiv](http://arxiv.org/abs/2506.11991v2), [pdf](http://arxiv.org/pdf/2506.11991v2.pdf), cication: [**-1**](None) 
 
 	 *Jiacong Wang, Zijian Kang, Haochen Wang, ..., Chao Feng, Jun Xiao*
@@ -681,6 +689,9 @@
 
 ## Evaluation
 
+- **Pixels, Patterns, but No Poetry: To See The World like Humans**, `arXiv, 2507.16863`, [arxiv](http://arxiv.org/abs/2507.16863v1), [pdf](http://arxiv.org/pdf/2507.16863v1.pdf), cication: [**-1**](None) 
+
+	 *Hongcheng Gao, Zihao Huang, Lin Xu, ..., Hongyu Chen, Wentao Zhang* · ([turingeyetest.github](https://turingeyetest.github.io/))
 - **Time Blindness: Why Video-Language Models Can't See What Humans Can?**, `arXiv, 2505.24867`, [arxiv](http://arxiv.org/abs/2505.24867v1), [pdf](http://arxiv.org/pdf/2505.24867v1.pdf), cication: [**-1**](None) 
 
 	 *Ujjwal Upadhyay, Mukul Ranjan, Zhiqiang Shen, ..., Mohamed Elhoseiny*
@@ -843,6 +854,16 @@
 
 ## Generation
 
+- 🌟 **OmniGen2: Exploration to Advanced Multimodal Generation**, `arXiv, 2506.18871`, [arxiv](http://arxiv.org/abs/2506.18871v2), [pdf](http://arxiv.org/pdf/2506.18871v2.pdf), cication: [**-1**](None) 
+
+	 *Chenyuan Wu, Pengfei Zheng, Ruiran Yan, ..., Tiejun Huang, Zheng Liu* · ([OmniGen2](https://github.com/VectorSpaceLab/OmniGen2) - VectorSpaceLab) ![Star](https://img.shields.io/github/stars/VectorSpaceLab/OmniGen2.svg?style=social&label=Star)
+- **ShareGPT-4o-Image: Aligning Multimodal Models with GPT-4o-Level Image
+  Generation**, `arXiv, 2506.18095`, [arxiv](http://arxiv.org/abs/2506.18095v1), [pdf](http://arxiv.org/pdf/2506.18095v1.pdf), cication: [**-1**](None) 
+
+	 *Junying Chen, Zhenyang Cai, Pengcheng Chen, ..., Yunjin Yang, Benyou Wang*
+- **Ovis-U1 Technical Report**, `arXiv, 2506.23044`, [arxiv](http://arxiv.org/abs/2506.23044v2), [pdf](http://arxiv.org/pdf/2506.23044v2.pdf), cication: [**-1**](None) 
+
+	 *Guo-Hua Wang, Shanshan Zhao, Xinjie Zhang, ..., Yang Li, Qing-Guo Chen* · ([Ovis-U1](https://github.com/AIDC-AI/Ovis-U1) - AIDC-AI) ![Star](https://img.shields.io/github/stars/AIDC-AI/Ovis-U1.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/AIDC-AI/Ovis-U1-3B)) · ([huggingface](https://huggingface.co/spaces/AIDC-AI/Ovis-U1-3B))
 - **Ming-Omni: A Unified Multimodal Model for Perception and Generation**, `arXiv, 2506.09344`, [arxiv](http://arxiv.org/abs/2506.09344v1), [pdf](http://arxiv.org/pdf/2506.09344v1.pdf), cication: [**-1**](None) 
 
 	 *Inclusion AI, Biao Gong, Cheng Zou, ..., Ziyuan Huang, Zhengyu He*
@@ -960,6 +981,9 @@
 
 ## Dataset
 
+- **Zebra-CoT: A Dataset for Interleaved Vision Language Reasoning**, `arXiv, 2507.16746`, [arxiv](http://arxiv.org/abs/2507.16746v1), [pdf](http://arxiv.org/pdf/2507.16746v1.pdf), cication: [**-1**](None) 
+
+	 *Ang Li, Charles Wang, Kaiyu Yue, ..., Tom Goldstein, Micah Goldblum*
 - **VisualWebInstruct: Scaling up Multimodal Instruction Data through Web 
   Search**, `arXiv, 2503.10582`, [arxiv](http://arxiv.org/abs/2503.10582v1), [pdf](http://arxiv.org/pdf/2503.10582v1.pdf), cication: [**-1**](None) 
 

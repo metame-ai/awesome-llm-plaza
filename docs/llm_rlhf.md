@@ -13,6 +13,10 @@
 
 ## RLHF
 
+- **Inverse Reinforcement Learning Meets Large Language Model Post-Training:
+  Basics, Advances, and Opportunities**, `arXiv, 2507.13158`, [arxiv](http://arxiv.org/abs/2507.13158v1), [pdf](http://arxiv.org/pdf/2507.13158v1.pdf), cication: [**-1**](None) 
+
+	 *Hao Sun, Mihaela van der Schaar*
 - **WorldPM: Scaling Human Preference Modeling**, `arXiv, 2505.10527`, [arxiv](http://arxiv.org/abs/2505.10527v2), [pdf](http://arxiv.org/pdf/2505.10527v2.pdf), cication: [**-1**](None) 
 
 	 *Binghai Wang, Runji Lin, Keming Lu, ..., Jingren Zhou, Junyang Lin*

@@ -21,6 +21,13 @@
 
 ## LLM Data
 
+- 🌟 **FineWeb2: One Pipeline to Scale Them All -- Adapting Pre-Training Data
+  Processing to Every Language**, `arXiv, 2506.20920`, [arxiv](http://arxiv.org/abs/2506.20920v1), [pdf](http://arxiv.org/pdf/2506.20920v1.pdf), cication: [**-1**](None) 
+
+	 *Guilherme Penedo, Hynek Kydlíček, Vinko Sabolčec, ..., Leandro Von Werra, Thomas Wolf* · ([huggingface](https://huggingface.co/datasets/HuggingFaceFW/fineweb-2))
+- **Scaling Laws for Optimal Data Mixtures**, `arXiv, 2507.09404`, [arxiv](http://arxiv.org/abs/2507.09404v1), [pdf](http://arxiv.org/pdf/2507.09404v1.pdf), cication: [**-1**](None) 
+
+	 *Mustafa Shukor, Louis Bethune, Dan Busbridge, ..., Alaaeldin El-Nouby, Pierre Ablin*
 - **The Common Pile v0.1: An 8TB Dataset of Public Domain and Openly 
   Licensed Text**, `arXiv, 2506.05209`, [arxiv](http://arxiv.org/abs/2506.05209v1), [pdf](http://arxiv.org/pdf/2506.05209v1.pdf), cication: [**-1**](None) 
 
@@ -188,6 +195,13 @@
 
 ## Reasoning
 
+- [OpenReasoning-Nemotron-7B Overview](https://huggingface.co/nvidia/OpenReasoning-Nemotron-7B)  🤗
+- **OctoThinker: Mid-training Incentivizes Reinforcement Learning Scaling**, `arXiv, 2506.20512`, [arxiv](http://arxiv.org/abs/2506.20512v1), [pdf](http://arxiv.org/pdf/2506.20512v1.pdf), cication: [**-1**](None) 
+
+	 *Zengzhi Wang, Fan Zhou, Xuefeng Li, ..., Pengfei Liu*
+- **Zebra-CoT: A Dataset for Interleaved Vision Language Reasoning**, `arXiv, 2507.16746`, [arxiv](http://arxiv.org/abs/2507.16746v1), [pdf](http://arxiv.org/pdf/2507.16746v1.pdf), cication: [**-1**](None) 
+
+	 *Ang Li, Charles Wang, Kaiyu Yue, ..., Tom Goldstein, Micah Goldblum*
 - **GThinker: Towards General Multimodal Reasoning via Cue-Guided Rethinking**, `arXiv, 2506.01078`, [arxiv](http://arxiv.org/abs/2506.01078v1), [pdf](http://arxiv.org/pdf/2506.01078v1.pdf), cication: [**-1**](None) 
 
 	 *Yufei Zhan, Ziheng Wu, Yousong Zhu, ..., Minghui Qiu, Jinqiao Wang* · ([GThinker](https://github.com/jefferyZhan/GThinker) - jefferyZhan) ![Star](https://img.shields.io/github/stars/jefferyZhan/GThinker.svg?style=social&label=Star)

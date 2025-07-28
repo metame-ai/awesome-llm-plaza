@@ -11,6 +11,10 @@
 
 ## Survey
 
+- **A Survey on Vision-Language-Action Models: An Action Tokenization
+  Perspective**, `arXiv, 2507.01925`, [arxiv](http://arxiv.org/abs/2507.01925v1), [pdf](http://arxiv.org/pdf/2507.01925v1.pdf), cication: [**-1**](None) 
+
+	 *Yifan Zhong, Fengshuo Bai, Shaofei Cai, ..., Yuanpei Chen, Yaodong Yang*
 - **Large Language Models for Multi-Robot Systems: A Survey**, `arXiv, 2502.03814`, [arxiv](http://arxiv.org/abs/2502.03814v3), [pdf](http://arxiv.org/pdf/2502.03814v3.pdf), cication: [**-1**](None) 
 
 	 *Peihan Li, Zijian An, Shams Abrar, ..., Lifeng Zhou*
@@ -20,6 +24,7 @@
 
 ## Embodied AI
 
+- [Sporks of AGIWhy the Real Thing is better than the Next Best Thing](https://sergeylevine.substack.com/p/sporks-of-agi) 
 - **Visual Embodied Brain: Let Multimodal Large Language Models See, Think, 
   and Control in Spaces**, `arXiv, 2506.00123`, [arxiv](http://arxiv.org/abs/2506.00123v1), [pdf](http://arxiv.org/pdf/2506.00123v1.pdf), cication: [**-1**](None) 
 

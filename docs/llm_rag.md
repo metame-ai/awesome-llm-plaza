@@ -15,6 +15,10 @@
 
 ## Survey
 
+- **Towards Agentic RAG with Deep Reasoning: A Survey of RAG-Reasoning
+  Systems in LLMs**, `arXiv, 2507.09477`, [arxiv](http://arxiv.org/abs/2507.09477v2), [pdf](http://arxiv.org/pdf/2507.09477v2.pdf), cication: [**-1**](None) 
+
+	 *Yangning Li, Weizhi Zhang, Yuyao Yang, ..., Yangqiu Song, Philip S. Yu* · ([Awesome-RAG-Reasoning](https://github.com/DavidZWZ/Awesome-RAG-Reasoning) - DavidZWZ) ![Star](https://img.shields.io/github/stars/DavidZWZ/Awesome-RAG-Reasoning.svg?style=social&label=Star)
 - **Ask in Any Modality: A Comprehensive Survey on Multimodal 
   Retrieval-Augmented Generation**, `arXiv, 2502.08826`, [arxiv](http://arxiv.org/abs/2502.08826v2), [pdf](http://arxiv.org/pdf/2502.08826v2.pdf), cication: [**-1**](None) 
 
@@ -26,6 +30,10 @@
 
 ## RAG
 
+- 🌟 **Vision-Guided Chunking Is All You Need: Enhancing RAG with Multimodal
+  Document Understanding**, `arXiv, 2506.16035`, [arxiv](http://arxiv.org/abs/2506.16035v2), [pdf](http://arxiv.org/pdf/2506.16035v2.pdf), cication: [**-1**](None) 
+
+	 *Vishesh Tripathi, Tanmay Odapally, Indraneel Das, ..., Uday Allu, Biddwan Ahmed*
 - [Multi-Agent 协作兴起，RAG 注定只是过渡方案？](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650980588&idx=1&sn=89a1a0c84ba5bbae0aec9019aa87fcd0&chksm=8550fdfbad23ae33fba08f8ee716278301f4a98a8aaed6192cb57ca4bd6c8340b96f496e7360&scene=0&xtrack=1) 
 - **DoTA-RAG: Dynamic of Thought Aggregation RAG**, `arXiv, 2506.12571`, [arxiv](http://arxiv.org/abs/2506.12571v1), [pdf](http://arxiv.org/pdf/2506.12571v1.pdf), cication: [**-1**](None) 
 

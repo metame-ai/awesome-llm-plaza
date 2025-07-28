@@ -46,6 +46,12 @@
 
 ## Efficient LLM
 
+- 🌟 **Drag-and-Drop LLMs: Zero-Shot Prompt-to-Weights**, `arXiv, 2506.16406`, [arxiv](http://arxiv.org/abs/2506.16406v1), [pdf](http://arxiv.org/pdf/2506.16406v1.pdf), cication: [**-1**](None) 
+
+	 *Zhiyuan Liang, Dongwen Tang, Yuhao Zhou, ..., Zhangyang Wang, Kai Wang* · ([jerryliang24.github](https://jerryliang24.github.io/DnD))
+- **SingLoRA: Low Rank Adaptation Using a Single Matrix**, `arXiv, 2507.05566`, [arxiv](http://arxiv.org/abs/2507.05566v1), [pdf](http://arxiv.org/pdf/2507.05566v1.pdf), cication: [**-1**](None) 
+
+	 *David Bensaïd, Noam Rotstein, Roy Velich, ..., Daniel Bensaïd, Ron Kimmel* · ([SingLoRA](https://github.com/kyegomez/SingLoRA) - kyegomez) ![Star](https://img.shields.io/github/stars/kyegomez/SingLoRA.svg?style=social&label=Star)
 - **Multiverse: Your Language Models Secretly Decide How to Parallelize and 
   Merge Generation**, `arXiv, 2506.09991`, [arxiv](http://arxiv.org/abs/2506.09991v2), [pdf](http://arxiv.org/pdf/2506.09991v2.pdf), cication: [**-1**](None) 
 
@@ -205,6 +211,7 @@
 
 ## Inference
 
+- [SpecForge: Accelerating Speculative Decoding Training for SGLang](https://lmsys.org/blog/2025-07-25-spec-forge/) 
 - [**nano-vllm**](https://github.com/GeeeekExplorer/nano-vllm) - GeeeekExplorer ![Star](https://img.shields.io/github/stars/GeeeekExplorer/nano-vllm.svg?style=social&label=Star) 
 - [Look Ma, No Bubbles! Designing a Low-Latency Megakernel for Llama-1B](https://hazyresearch.stanford.edu/blog/2025-05-27-no-bubbles) 
 - [Deploying DeepSeek with PD Disaggregation and Large-Scale Expert Parallelism on 96 H100 GPUs](https://lmsys.org/blog/2025-05-05-large-scale-ep/) 

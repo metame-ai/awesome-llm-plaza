@@ -16,6 +16,9 @@
 
 ## Survey
 
+- **OAgents: An Empirical Study of Building Effective Agents**, `arXiv, 2506.15741`, [arxiv](http://arxiv.org/abs/2506.15741v2), [pdf](http://arxiv.org/pdf/2506.15741v2.pdf), cication: [**-1**](None) 
+
+	 *He Zhu, Tianrui Qin, King Zhu, ..., Jiaheng Liu, Wangchunshu Zhou*
 - **Survey on Evaluation of LLM-based Agents**, `arXiv, 2503.16416`, [arxiv](http://arxiv.org/abs/2503.16416v1), [pdf](http://arxiv.org/pdf/2503.16416v1.pdf), cication: [**-1**](None) 
 
 	 *Asaf Yehudai, Lilach Eden, Alan Li, ..., Arman Cohan, Michal Shmueli-Scheuer*
@@ -48,6 +51,12 @@
 
 ## Agent RL
 
+- **MMSearch-R1: Incentivizing LMMs to Search**, `arXiv, 2506.20670`, [arxiv](http://arxiv.org/abs/2506.20670v1), [pdf](http://arxiv.org/pdf/2506.20670v1.pdf), cication: [**-1**](None) 
+
+	 *Jinming Wu, Zihao Deng, Wei Li, ..., Zejun Ma, Ziwei Liu*
+- 🌟 **WebSailor: Navigating Super-human Reasoning for Web Agent**, `arXiv, 2507.02592`, [arxiv](http://arxiv.org/abs/2507.02592v1), [pdf](http://arxiv.org/pdf/2507.02592v1.pdf), cication: [**-1**](None) 
+
+	 *Kuan Li, Zhongwang Zhang, Huifeng Yin, ..., Fei Huang, Jingren Zhou*
 - [rLLM: A Framework for Post-Training Language Agents](https://pretty-radio-b75.notion.site/rLLM-A-Framework-for-Post-Training-Language-Agents-21b81902c146819db63cd98a54ba5f31) 
 - [**VRAG**](https://github.com/Alibaba-NLP/VRAG) - Alibaba-NLP ![Star](https://img.shields.io/github/stars/Alibaba-NLP/VRAG.svg?style=social&label=Star) 
 
@@ -487,6 +496,9 @@
 
 ## Multi Agent
 
+- **Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving**, `arXiv, 2507.06229`, [arxiv](http://arxiv.org/abs/2507.06229v4), [pdf](http://arxiv.org/pdf/2507.06229v4.pdf), cication: [**-1**](None) 
+
+	 *Xiangru Tang, Tianrui Qin, Tianhao Peng, ..., Chi Wang, Wangchunshu Zhou*
 - **Wider or Deeper? Scaling LLM Inference-Time Compute with Adaptive 
   Branching Tree Search**, `arXiv, 2503.04412`, [arxiv](http://arxiv.org/abs/2503.04412v3), [pdf](http://arxiv.org/pdf/2503.04412v3.pdf), cication: [**-1**](None) 
 

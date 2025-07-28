@@ -25,6 +25,7 @@
 
 ## English Models
 
+- [OpenReasoning-Nemotron-7B Overview](https://huggingface.co/nvidia/OpenReasoning-Nemotron-7B)  🤗
 - [SmolLM3: smol, multilingual, long-context reasoner](https://huggingface.co/blog/smollm3)  🤗 
 - **Magistral**, `arXiv, 2506.10910`, [arxiv](http://arxiv.org/abs/2506.10910v1), [pdf](http://arxiv.org/pdf/2506.10910v1.pdf), cication: [**-1**](None) 
 
@@ -110,6 +111,7 @@
 
 ## Chinese Models
 
+- [**Qwen3**](https://github.com/QwenLM/Qwen3) - QwenLM ![Star](https://img.shields.io/github/stars/QwenLM/Qwen3.svg?style=social&label=Star)
 - [**Kimi-K2**](https://github.com/MoonshotAI/Kimi-K2) - MoonshotAI ![Star](https://img.shields.io/github/stars/MoonshotAI/Kimi-K2.svg?style=social&label=Star) 
 - **MiniCPM4: Ultra-Efficient LLMs on End Devices**, `arXiv, 2506.07900`, [arxiv](http://arxiv.org/abs/2506.07900v1), [pdf](http://arxiv.org/pdf/2506.07900v1.pdf), cication: [**-1**](None) 
 

@@ -16,6 +16,13 @@
 
 ## Long Context
 
+- **LongWriter-Zero: Mastering Ultra-Long Text Generation via Reinforcement
+  Learning**, `arXiv, 2506.18841`, [arxiv](http://arxiv.org/abs/2506.18841v1), [pdf](http://arxiv.org/pdf/2506.18841v1.pdf), cication: [**-1**](None) 
+
+	 *Yuhao Wu, Yushi Bai, Zhiqiang Hu, ..., Roy Ka-Wei Lee, Juanzi Li* · ([huggingface](https://huggingface.co/THU-KEG/LongWriter-Zero-32B))
+- 🌟 **Beyond Context Limits: Subconscious Threads for Long-Horizon Reasoning**, `arXiv, 2507.16784`, [arxiv](http://arxiv.org/abs/2507.16784v1), [pdf](http://arxiv.org/pdf/2507.16784v1.pdf), cication: [**-1**](None) 
+
+	 *Hongyin Luo, Nathaniel Morgan, Tina Li, ..., Jack O'Brien, James Glass*
 - **Understanding and Improving Length Generalization in Recurrent Models**, `arXiv, 2507.02782`, [arxiv](http://arxiv.org/abs/2507.02782v1), [pdf](http://arxiv.org/pdf/2507.02782v1.pdf), cication: [**-1**](None) 
 
 	 *Ricardo Buitrago Ruiz, Albert Gu*
