@@ -12,6 +12,9 @@
 
 ## Survey
 
+- **A Survey on Code Generation with LLM-based Agents**, `arXiv, 2508.00083`, [arxiv](http://arxiv.org/abs/2508.00083v1), [pdf](http://arxiv.org/pdf/2508.00083v1.pdf), cication: [**-1**](None) 
+
+	 *Yihong Dong, Xue Jiang, Jiaru Qian, ..., Zhi Jin, Ge Li*
 - **Code to Think, Think to Code: A Survey on Code-Enhanced Reasoning and 
   Reasoning-Driven Code Intelligence in LLMs**, `arXiv, 2502.19411`, [arxiv](http://arxiv.org/abs/2502.19411v1), [pdf](http://arxiv.org/pdf/2502.19411v1.pdf), cication: [**-1**](None) 
 
@@ -19,10 +22,18 @@
 
 ## Code LLM
 
+- **ScreenCoder: Advancing Visual-to-Code Generation for Front-End
+  Automation via Modular Multimodal Agents**, `arXiv, 2507.22827`, [arxiv](http://arxiv.org/abs/2507.22827v1), [pdf](http://arxiv.org/pdf/2507.22827v1.pdf), cication: [**-1**](None) 
+
+	 *Yilei Jiang, Yaozhi Zheng, Yuxuan Wan, ..., Michael R. Lyu, Xiangyu Yue*
+- **Training Long-Context, Multi-Turn Software Engineering Agents with
+  Reinforcement Learning**, `arXiv, 2508.03501`, [arxiv](http://arxiv.org/abs/2508.03501v1), [pdf](http://arxiv.org/pdf/2508.03501v1.pdf), cication: [**-1**](None) 
+
+	 *Alexander Golubev, Maria Trofimova, Sergei Polezhaev, ..., Sergei Skvortsov, Boris Yangel*
 - **Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving**, `arXiv, 2507.06229`, [arxiv](http://arxiv.org/abs/2507.06229v4), [pdf](http://arxiv.org/pdf/2507.06229v4.pdf), cication: [**-1**](None) 
 
 	 *Xiangru Tang, Tianrui Qin, Tianhao Peng, ..., Chi Wang, Wangchunshu Zhou*
-- **Skywork-SWE: Unveiling Data Scaling Laws for Software Engineering in
+- **Skywork-SWE: Unveiling Data Scaling Laws for Software Engineering in 
   LLMs**, `arXiv, 2506.19290`, [arxiv](http://arxiv.org/abs/2506.19290v1), [pdf](http://arxiv.org/pdf/2506.19290v1.pdf), cication: [**-1**](None) 
 
 	 *Liang Zeng, Yongcong Li, Yuzhen Xiao, ..., Yang Liu, Yahui Zhou* · ([arxiv](https://arxiv.org/pdf/2506.19290)) · ([quixotic-sting-239.notion](https://quixotic-sting-239.notion.site/eb17f379610040ceb54da5d5d24065bd)) · ([huggingface](https://huggingface.co/Skywork/Skywork-SWE-32B))
@@ -175,7 +186,11 @@
 
 ## Projects
 
-- [**Qwen3-Coder**](https://github.com/QwenLM/Qwen3-Coder) - QwenLM ![Star](https://img.shields.io/github/stars/QwenLM/Qwen3-Coder.svg?style=social&label=Star)
+- [**awesome-claude-code**](https://github.com/hesreallyhim/awesome-claude-code) - hesreallyhim ![Star](https://img.shields.io/github/stars/hesreallyhim/awesome-claude-code.svg?style=social&label=Star)
+- [**SWE-Swiss**](https://github.com/zhenyuhe00/SWE-Swiss) - zhenyuhe00 ![Star](https://img.shields.io/github/stars/zhenyuhe00/SWE-Swiss.svg?style=social&label=Star)
+
+	 *A Multi-Task Fine-Tuning and RL Recipe for High-Performance Issue Resolution*
+- [**Qwen3-Coder**](https://github.com/QwenLM/Qwen3-Coder) - QwenLM ![Star](https://img.shields.io/github/stars/QwenLM/Qwen3-Coder.svg?style=social&label=Star) 
 
 	 *Agentic Coding in the World.*
 - [**void**](https://github.com/voideditor/void) - voideditor ![Star](https://img.shields.io/github/stars/voideditor/void.svg?style=social&label=Star) 

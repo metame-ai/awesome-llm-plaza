@@ -23,6 +23,10 @@
 
 ## LLM Training
 
+- **On the Generalization of SFT: A Reinforcement Learning Perspective with
+  Reward Rectification**, `arXiv, 2508.05629`, [arxiv](http://arxiv.org/abs/2508.05629v1), [pdf](http://arxiv.org/pdf/2508.05629v1.pdf), cication: [**-1**](None) 
+
+	 *Yongliang Wu, Yizhou Zhou, Zhou Ziheng, ..., Ming-Hsuan Yang, Xu Yang* · ([DFT.](https://github.com/yongliang-wu/DFT.) - yongliang-wu) ![Star](https://img.shields.io/github/stars/yongliang-wu/DFT..svg?style=social&label=Star)
 - **Scaling Laws for Optimal Data Mixtures**, `arXiv, 2507.09404`, [arxiv](http://arxiv.org/abs/2507.09404v1), [pdf](http://arxiv.org/pdf/2507.09404v1.pdf), cication: [**-1**](None) 
 
 	 *Mustafa Shukor, Louis Bethune, Dan Busbridge, ..., Alaaeldin El-Nouby, Pierre Ablin*
@@ -222,7 +226,7 @@
 
 ## Mixture Of Experts
 
-- **Chain-of-Experts: Unlocking the Communication Power of
+- **Chain-of-Experts: Unlocking the Communication Power of 
   Mixture-of-Experts Models**, `arXiv, 2506.18945`, [arxiv](http://arxiv.org/abs/2506.18945v1), [pdf](http://arxiv.org/pdf/2506.18945v1.pdf), cication: [**-1**](None) 
 
 	 *Zihan Wang, Rui Pan, Jiarui Yao, ..., Manling Li, Shiwei Liu* · ([coe.](https://github.com/ZihanWang314/coe.) - ZihanWang314) ![Star](https://img.shields.io/github/stars/ZihanWang314/coe..svg?style=social&label=Star)

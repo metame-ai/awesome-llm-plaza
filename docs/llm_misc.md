@@ -50,7 +50,10 @@
 
 ## Interpretability
 
-- 🌟 **Does Math Reasoning Improve General LLM Capabilities? Understanding
+- 🌟 **Is Chain-of-Thought Reasoning of LLMs a Mirage? A Data Distribution Lens**, `arXiv, 2508.01191`, [arxiv](http://arxiv.org/abs/2508.01191v3), [pdf](http://arxiv.org/pdf/2508.01191v3.pdf), cication: [**-1**](None) 
+
+	 *Chengshuai Zhao, Zhen Tan, Pingchuan Ma, ..., Yingzhen Yang, Huan Liu*
+- 🌟 **Does Math Reasoning Improve General LLM Capabilities? Understanding 
   Transferability of LLM Reasoning**, `arXiv, 2507.00432`, [arxiv](http://arxiv.org/abs/2507.00432v1), [pdf](http://arxiv.org/pdf/2507.00432v1.pdf), cication: [**-1**](None) 
 
 	 *Maggie Huan, Yuetai Li, Tuney Zheng, ..., Graham Neubig, Xiang Yue*

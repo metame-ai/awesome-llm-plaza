@@ -72,6 +72,12 @@
 
 ## Reasoning
 
+- **Self-Questioning Language Models**, `arXiv, 2508.03682`, [arxiv](http://arxiv.org/abs/2508.03682v3), [pdf](http://arxiv.org/pdf/2508.03682v3.pdf), cication: [**-1**](None) 
+
+	 *Lili Chen, Mihir Prabhudesai, Katerina Fragkiadaki, ..., Hao Liu, Deepak Pathak*
+- **R-Zero: Self-Evolving Reasoning LLM from Zero Data**, `arXiv, 2508.05004`, [arxiv](http://arxiv.org/abs/2508.05004v1), [pdf](http://arxiv.org/pdf/2508.05004v1.pdf), cication: [**-1**](None) 
+
+	 *Chengsong Huang, Wenhao Yu, Xiaoyang Wang, ..., Haitao Mi, Dong Yu*
 - 🌟 **Beyond Context Limits: Subconscious Threads for Long-Horizon Reasoning**, `arXiv, 2507.16784`, [arxiv](http://arxiv.org/abs/2507.16784v1), [pdf](http://arxiv.org/pdf/2507.16784v1.pdf), cication: [**-1**](None) 
 
 	 *Hongyin Luo, Nathaniel Morgan, Tina Li, ..., Jack O'Brien, James Glass*
@@ -344,8 +350,15 @@
 
 ## Math Reasoning
 
+- **CriticLean: Critic-Guided Reinforcement Learning for Mathematical
+  Formalization**, `arXiv, 2507.06181`, [arxiv](http://arxiv.org/abs/2507.06181v1), [pdf](http://arxiv.org/pdf/2507.06181v1.pdf), cication: [**-1**](None) 
+
+	 *Zhongyuan Peng, Yifan Yao, Kaijing Ma, ..., Jiaheng Liu, Ge Zhang*
+- 🌟 **Seed-Prover: Deep and Broad Reasoning for Automated Theorem Proving**, `arXiv, 2507.23726`, [arxiv](http://arxiv.org/abs/2507.23726v2), [pdf](http://arxiv.org/pdf/2507.23726v2.pdf), cication: [**-1**](None) 
+
+	 *Luoxin Chen, Jinming Gu, Liankai Huang, ..., Yichi Zhou, Thomas Hanwen Zhu*
 - [Goedel-Prover-V2](https://blog.goedel-prover.com/) 
-- 🌟 **Does Math Reasoning Improve General LLM Capabilities? Understanding
+- 🌟 **Does Math Reasoning Improve General LLM Capabilities? Understanding 
   Transferability of LLM Reasoning**, `arXiv, 2507.00432`, [arxiv](http://arxiv.org/abs/2507.00432v1), [pdf](http://arxiv.org/pdf/2507.00432v1.pdf), cication: [**-1**](None) 
 
 	 *Maggie Huan, Yuetai Li, Tuney Zheng, ..., Graham Neubig, Xiang Yue*
@@ -470,17 +483,23 @@
 
 ## O1 Reasoning
 
+- **Geometric-Mean Policy Optimization**, `arXiv, 2507.20673`, [arxiv](http://arxiv.org/abs/2507.20673v1), [pdf](http://arxiv.org/pdf/2507.20673v1.pdf), cication: [**-1**](None) 
+
+	 *Yuzhong Zhao, Yue Liu, Junpeng Liu, ..., Fang Wan, Furu Wei* · ([GMPO](https://github.com/callsys/GMPO) - callsys) ![Star](https://img.shields.io/github/stars/callsys/GMPO.svg?style=social&label=Star)
+- **First Return, Entropy-Eliciting Explore**, `arXiv, 2507.07017`, [arxiv](http://arxiv.org/abs/2507.07017v1), [pdf](http://arxiv.org/pdf/2507.07017v1.pdf), cication: [**-1**](None) 
+
+	 *Tianyu Zheng, Tianshun Xing, Qingshui Gu, ..., Ge Zhang, Zejun Ma*
 - **OctoThinker: Mid-training Incentivizes Reinforcement Learning Scaling**, `arXiv, 2506.20512`, [arxiv](http://arxiv.org/abs/2506.20512v1), [pdf](http://arxiv.org/pdf/2506.20512v1.pdf), cication: [**-1**](None) 
 
 	 *Zengzhi Wang, Fan Zhou, Xuefeng Li, ..., Pengfei Liu*
 - 🌟 **Test-Time Scaling with Reflective Generative Model**, `arXiv, 2507.01951`, [arxiv](http://arxiv.org/abs/2507.01951v2), [pdf](http://arxiv.org/pdf/2507.01951v2.pdf), cication: [**-1**](None) 
 
 	 *Zixiao Wang, Yuxin Wang, Xiaorui Wang, ..., Shengzhuo Zhang, Hongtao Xie*
-- 🌟 **Reasoning or Memorization? Unreliable Results of Reinforcement Learning
+- 🌟 **Reasoning or Memorization? Unreliable Results of Reinforcement Learning 
   Due to Data Contamination**, `arXiv, 2507.10532`, [arxiv](http://arxiv.org/abs/2507.10532v1), [pdf](http://arxiv.org/pdf/2507.10532v1.pdf), cication: [**-1**](None) 
 
 	 *Mingqi Wu, Zhihao Zhang, Qiaole Dong, ..., Songyang Zhang, Qi Zhang* · ([LLM-Math-Evaluation](https://github.com/wumingqi/LLM-Math-Evaluation) - wumingqi) ![Star](https://img.shields.io/github/stars/wumingqi/LLM-Math-Evaluation.svg?style=social&label=Star)
-- 🌟 **MiroMind-M1: An Open-Source Advancement in Mathematical Reasoning via
+- 🌟 **MiroMind-M1: An Open-Source Advancement in Mathematical Reasoning via 
   Context-Aware Multi-Stage Policy Optimization**, `arXiv, 2507.14683`, [arxiv](http://arxiv.org/abs/2507.14683v1), [pdf](http://arxiv.org/pdf/2507.14683v1.pdf), cication: [**-1**](None) 
 
 	 *Xingxuan Li, Yao Xiao, Dianwen Ng, ..., Feng Ji, Lidong Bing* · ([MiroMind-M1](https://github.com/MiroMindAsia/MiroMind-M1) - MiroMindAsia) ![Star](https://img.shields.io/github/stars/MiroMindAsia/MiroMind-M1.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/collections/miromind-ai/miromind-m1-686a2eaf1cb21609584aff82))
@@ -490,7 +509,7 @@
 - **The Invisible Leash: Why RLVR May Not Escape Its Origin**, `arXiv, 2507.14843`, [arxiv](http://arxiv.org/abs/2507.14843v1), [pdf](http://arxiv.org/pdf/2507.14843v1.pdf), cication: [**-1**](None) 
 
 	 *Fang Wu, Weihao Xuan, Ximing Lu, ..., Zaid Harchaoui, Yejin Choi*
-- **LAPO: Internalizing Reasoning Efficiency via Length-Adaptive Policy
+- **LAPO: Internalizing Reasoning Efficiency via Length-Adaptive Policy 
   Optimization**, `arXiv, 2507.15758`, [arxiv](http://arxiv.org/abs/2507.15758v1), [pdf](http://arxiv.org/pdf/2507.15758v1.pdf), cication: [**-1**](None) 
 
 	 *Xingyu Wu, Yuchen Yan, Shangke Lyu, ..., Jun Xiao, Yueting Zhuang* · ([LAPO](https://github.com/ZJU-REAL/LAPO) - ZJU-REAL) ![Star](https://img.shields.io/github/stars/ZJU-REAL/LAPO.svg?style=social&label=Star)
@@ -1009,6 +1028,9 @@
 
 ## Chain Of Thought
 
+- 🌟 **Is Chain-of-Thought Reasoning of LLMs a Mirage? A Data Distribution Lens**, `arXiv, 2508.01191`, [arxiv](http://arxiv.org/abs/2508.01191v3), [pdf](http://arxiv.org/pdf/2508.01191v3.pdf), cication: [**-1**](None) 
+
+	 *Chengshuai Zhao, Zhen Tan, Pingchuan Ma, ..., Yingzhen Yang, Huan Liu*
 - **Thought Anchors: Which LLM Reasoning Steps Matter?**, `arXiv, 2506.19143`, [arxiv](http://arxiv.org/abs/2506.19143v2), [pdf](http://arxiv.org/pdf/2506.19143v2.pdf), cication: [**-1**](None) 
 
 	 *Paul C. Bogdan, Uzay Macar, Neel Nanda, ..., Arthur Conmy*

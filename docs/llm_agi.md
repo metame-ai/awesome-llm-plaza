@@ -13,6 +13,7 @@
 
 ## World Model
 
+- [Genie 3: A new frontier for world models](https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/) 
 - [No world model, no general AI](https://richardcsuwandi.github.io/blog/2025/agents-world-models/) 
 - **General agents need world models**, `arXiv, 2506.01622`, [arxiv](http://arxiv.org/abs/2506.01622v1), [pdf](http://arxiv.org/pdf/2506.01622v1.pdf), cication: [**-1**](None) 
 

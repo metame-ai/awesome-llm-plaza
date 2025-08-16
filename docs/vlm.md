@@ -19,6 +19,9 @@
 
 ## Survey
 
+- **Discrete Tokenization for Multimodal LLMs: A Comprehensive Survey**, `arXiv, 2507.22920`, [arxiv](http://arxiv.org/abs/2507.22920v1), [pdf](http://arxiv.org/pdf/2507.22920v1.pdf), cication: [**-1**](None) 
+
+	 *Jindong Li, Yali Fu, Jiahong Liu, ..., Irwin King, Ming-Hsuan Yang* · ([LLM-Discrete-Tokenization-Survey.](https://github.com/jindongli-Ai/LLM-Discrete-Tokenization-Survey.) - jindongli-Ai) ![Star](https://img.shields.io/github/stars/jindongli-Ai/LLM-Discrete-Tokenization-Survey..svg?style=social&label=Star)
 - **Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey**, `arXiv, 2503.12605`, [arxiv](http://arxiv.org/abs/2503.12605v2), [pdf](http://arxiv.org/pdf/2503.12605v2.pdf), cication: [**-1**](None) 
 
 	 *Yaoting Wang, Shengqiong Wu, Yuecheng Zhang, ..., Jiebo Luo, Hao Fei* · ([Awesome-MCoT](https://github.com/yaotingwangofficial/Awesome-MCoT) - yaotingwangofficial) ![Star](https://img.shields.io/github/stars/yaotingwangofficial/Awesome-MCoT.svg?style=social&label=Star)
@@ -229,7 +232,7 @@
 
 ## Video
 
-- [TimeScope: How Long Can Your Video Large Multimodal Model Go?](https://huggingface.co/blog/timescope-video-lmm-benchmark)  🤗
+- [TimeScope: How Long Can Your Video Large Multimodal Model Go?](https://huggingface.co/blog/timescope-video-lmm-benchmark)  🤗 
 - 🌟 **Towards Understanding Camera Motions in Any Video**, `arXiv, 2504.15376`, [arxiv](http://arxiv.org/abs/2504.15376v1), [pdf](http://arxiv.org/pdf/2504.15376v1.pdf), cication: [**-1**](None) 
 
 	 *Zhiqiu Lin, Siyuan Cen, Daniel Jiang, ..., Chuang Gan, Deva Ramanan*
@@ -474,7 +477,7 @@
 
 ## Reasoning
 
-- 🌟 **Thinking with Images for Multimodal Reasoning: Foundations, Methods, and
+- 🌟 **Thinking with Images for Multimodal Reasoning: Foundations, Methods, and 
   Future Frontiers**, `arXiv, 2506.23918`, [arxiv](http://arxiv.org/abs/2506.23918v3), [pdf](http://arxiv.org/pdf/2506.23918v3.pdf), cication: [**-1**](None) 
 
 	 *Zhaochen Su, Peng Xia, Hangyu Guo, ..., Junxian He, Yi R. Fung* · ([𝕏](https://x.com/SuZhaochen0110/status/1940251163166986333)) · ([Awesome_Think_With_Images](https://github.com/zhaochen0110/Awesome_Think_With_Images) - zhaochen0110) ![Star](https://img.shields.io/github/stars/zhaochen0110/Awesome_Think_With_Images.svg?style=social&label=Star)
@@ -812,6 +815,10 @@
 
 ## Efficient
 
+- **When Tokens Talk Too Much: A Survey of Multimodal Long-Context Token
+  Compression across Images, Videos, and Audios**, `arXiv, 2507.20198`, [arxiv](http://arxiv.org/abs/2507.20198v3), [pdf](http://arxiv.org/pdf/2507.20198v3.pdf), cication: [**-1**](None) 
+
+	 *Kele Shao, Keda Tao, Kejia Zhang, ..., Yang Sui, Huan Wang*
 - **ShortV: Efficient Multimodal Large Language Models by Freezing Visual 
   Tokens in Ineffective Layers**, `arXiv, 2504.00502`, [arxiv](http://arxiv.org/abs/2504.00502v1), [pdf](http://arxiv.org/pdf/2504.00502v1.pdf), cication: [**-1**](None) 
 
@@ -854,10 +861,14 @@
 
 ## Generation
 
+- **Skywork UniPic: Unified Autoregressive Modeling for Visual Understanding
+  and Generation**, `arXiv, 2508.03320`, [arxiv](http://arxiv.org/abs/2508.03320v1), [pdf](http://arxiv.org/pdf/2508.03320v1.pdf), cication: [**-1**](None) 
+
+	 *Peiyu Wang, Yi Peng, Yimeng Gan, ..., Yang Liu, Yahui Zhou* · ([huggingface](https://huggingface.co/Skywork/Skywork-UniPic-1.5B.))
 - 🌟 **OmniGen2: Exploration to Advanced Multimodal Generation**, `arXiv, 2506.18871`, [arxiv](http://arxiv.org/abs/2506.18871v2), [pdf](http://arxiv.org/pdf/2506.18871v2.pdf), cication: [**-1**](None) 
 
 	 *Chenyuan Wu, Pengfei Zheng, Ruiran Yan, ..., Tiejun Huang, Zheng Liu* · ([OmniGen2](https://github.com/VectorSpaceLab/OmniGen2) - VectorSpaceLab) ![Star](https://img.shields.io/github/stars/VectorSpaceLab/OmniGen2.svg?style=social&label=Star)
-- **ShareGPT-4o-Image: Aligning Multimodal Models with GPT-4o-Level Image
+- **ShareGPT-4o-Image: Aligning Multimodal Models with GPT-4o-Level Image 
   Generation**, `arXiv, 2506.18095`, [arxiv](http://arxiv.org/abs/2506.18095v1), [pdf](http://arxiv.org/pdf/2506.18095v1.pdf), cication: [**-1**](None) 
 
 	 *Junying Chen, Zhenyang Cai, Pengcheng Chen, ..., Yunjin Yang, Benyou Wang*
@@ -1052,6 +1063,7 @@
 
 ## Projects
 
+- [**dots.vlm1**](https://github.com/rednote-hilab/dots.vlm1) - rednote-hilab ![Star](https://img.shields.io/github/stars/rednote-hilab/dots.vlm1.svg?style=social&label=Star)
 - [**nanoVLM**](https://github.com/huggingface/nanoVLM) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/nanoVLM.svg?style=social&label=Star) 
 - [**ml-fastvlm**](https://github.com/apple/ml-fastvlm) - apple ![Star](https://img.shields.io/github/stars/apple/ml-fastvlm.svg?style=social&label=Star) 
 

@@ -21,7 +21,7 @@
 
 ## LLM Data
 
-- 🌟 **FineWeb2: One Pipeline to Scale Them All -- Adapting Pre-Training Data
+- 🌟 **FineWeb2: One Pipeline to Scale Them All -- Adapting Pre-Training Data 
   Processing to Every Language**, `arXiv, 2506.20920`, [arxiv](http://arxiv.org/abs/2506.20920v1), [pdf](http://arxiv.org/pdf/2506.20920v1.pdf), cication: [**-1**](None) 
 
 	 *Guilherme Penedo, Hynek Kydlíček, Vinko Sabolčec, ..., Leandro Von Werra, Thomas Wolf* · ([huggingface](https://huggingface.co/datasets/HuggingFaceFW/fineweb-2))
@@ -195,7 +195,7 @@
 
 ## Reasoning
 
-- [OpenReasoning-Nemotron-7B Overview](https://huggingface.co/nvidia/OpenReasoning-Nemotron-7B)  🤗
+- [OpenReasoning-Nemotron-7B Overview](https://huggingface.co/nvidia/OpenReasoning-Nemotron-7B)  🤗 
 - **OctoThinker: Mid-training Incentivizes Reinforcement Learning Scaling**, `arXiv, 2506.20512`, [arxiv](http://arxiv.org/abs/2506.20512v1), [pdf](http://arxiv.org/pdf/2506.20512v1.pdf), cication: [**-1**](None) 
 
 	 *Zengzhi Wang, Fan Zhou, Xuefeng Li, ..., Pengfei Liu*

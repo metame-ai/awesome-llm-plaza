@@ -16,7 +16,7 @@
 
 ## Long Context
 
-- **LongWriter-Zero: Mastering Ultra-Long Text Generation via Reinforcement
+- **LongWriter-Zero: Mastering Ultra-Long Text Generation via Reinforcement 
   Learning**, `arXiv, 2506.18841`, [arxiv](http://arxiv.org/abs/2506.18841v1), [pdf](http://arxiv.org/pdf/2506.18841v1.pdf), cication: [**-1**](None) 
 
 	 *Yuhao Wu, Yushi Bai, Zhiqiang Hu, ..., Roy Ka-Wei Lee, Juanzi Li* · ([huggingface](https://huggingface.co/THU-KEG/LongWriter-Zero-32B))

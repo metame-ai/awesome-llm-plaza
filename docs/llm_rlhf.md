@@ -13,7 +13,7 @@
 
 ## RLHF
 
-- **Inverse Reinforcement Learning Meets Large Language Model Post-Training:
+- **Inverse Reinforcement Learning Meets Large Language Model Post-Training: 
   Basics, Advances, and Opportunities**, `arXiv, 2507.13158`, [arxiv](http://arxiv.org/abs/2507.13158v1), [pdf](http://arxiv.org/pdf/2507.13158v1.pdf), cication: [**-1**](None) 
 
 	 *Hao Sun, Mihaela van der Schaar*

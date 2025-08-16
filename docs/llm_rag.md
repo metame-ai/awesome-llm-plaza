@@ -15,7 +15,7 @@
 
 ## Survey
 
-- **Towards Agentic RAG with Deep Reasoning: A Survey of RAG-Reasoning
+- **Towards Agentic RAG with Deep Reasoning: A Survey of RAG-Reasoning 
   Systems in LLMs**, `arXiv, 2507.09477`, [arxiv](http://arxiv.org/abs/2507.09477v2), [pdf](http://arxiv.org/pdf/2507.09477v2.pdf), cication: [**-1**](None) 
 
 	 *Yangning Li, Weizhi Zhang, Yuyao Yang, ..., Yangqiu Song, Philip S. Yu* · ([Awesome-RAG-Reasoning](https://github.com/DavidZWZ/Awesome-RAG-Reasoning) - DavidZWZ) ![Star](https://img.shields.io/github/stars/DavidZWZ/Awesome-RAG-Reasoning.svg?style=social&label=Star)
@@ -30,7 +30,7 @@
 
 ## RAG
 
-- 🌟 **Vision-Guided Chunking Is All You Need: Enhancing RAG with Multimodal
+- 🌟 **Vision-Guided Chunking Is All You Need: Enhancing RAG with Multimodal 
   Document Understanding**, `arXiv, 2506.16035`, [arxiv](http://arxiv.org/abs/2506.16035v2), [pdf](http://arxiv.org/pdf/2506.16035v2.pdf), cication: [**-1**](None) 
 
 	 *Vishesh Tripathi, Tanmay Odapally, Indraneel Das, ..., Uday Allu, Biddwan Ahmed*

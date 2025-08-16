@@ -17,6 +17,10 @@
 
 ## LLM Models
 
+- **Beyond Fixed: Variable-Length Denoising for Diffusion Large Language
+  Models**, `arXiv, 2508.00819`, [arxiv](http://arxiv.org/abs/2508.00819v1), [pdf](http://arxiv.org/pdf/2508.00819v1.pdf), cication: [**-1**](None) 
+
+	 *Jinsong Li, Xiaoyi Dong, Yuhang Zang, ..., Jiaqi Wang, Dahua Lin* · ([DAEDAL](https://github.com/Li-Jinsong/DAEDAL) - Li-Jinsong) ![Star](https://img.shields.io/github/stars/Li-Jinsong/DAEDAL.svg?style=social&label=Star)
 - [The Big LLM Architecture Comparison](https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison) 
 - **Mixture-of-Recursions: Learning Dynamic Recursive Depths for Adaptive 
   Token-Level Computation**, `arXiv, 2507.10524`, [arxiv](http://arxiv.org/abs/2507.10524v2), [pdf](http://arxiv.org/pdf/2507.10524v2.pdf), cication: [**-1**](None) 

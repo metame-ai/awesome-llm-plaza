@@ -51,6 +51,12 @@
 
 ## Agent RL
 
+- 🌟 **Agentic Reinforced Policy Optimization**, `arXiv, 2507.19849`, [arxiv](http://arxiv.org/abs/2507.19849v1), [pdf](http://arxiv.org/pdf/2507.19849v1.pdf), cication: [**-1**](None) 
+
+	 *Guanting Dong, Hangyu Mao, Kai Ma, ..., Ji-Rong Wen, Zhicheng Dou*
+- **Agent Lightning: Train ANY AI Agents with Reinforcement Learning**, `arXiv, 2508.03680`, [arxiv](http://arxiv.org/abs/2508.03680v1), [pdf](http://arxiv.org/pdf/2508.03680v1.pdf), cication: [**-1**](None) 
+
+	 *Xufang Luo, Yuge Zhang, Zhiyuan He, ..., Luna K. Qiu, Yuqing Yang*
 - **MMSearch-R1: Incentivizing LMMs to Search**, `arXiv, 2506.20670`, [arxiv](http://arxiv.org/abs/2506.20670v1), [pdf](http://arxiv.org/pdf/2506.20670v1.pdf), cication: [**-1**](None) 
 
 	 *Jinming Wu, Zihao Deng, Wei Li, ..., Zejun Ma, Ziwei Liu*
@@ -99,6 +105,13 @@
 
 ## Agents
 
+- **Efficient Agents: Building Effective Agents While Reducing Cost**, `arXiv, 2508.02694`, [arxiv](http://arxiv.org/abs/2508.02694v1), [pdf](http://arxiv.org/pdf/2508.02694v1.pdf), cication: [**-1**](None) 
+
+	 *Ningning Wang, Xavier Hu, Pai Liu, ..., Yuchen Eleanor Jiang, Wangchunshu Zhou*
+- **AgentTTS: Large Language Model Agent for Test-time Compute-optimal
+  Scaling Strategy in Complex Tasks**, `arXiv, 2508.00890`, [arxiv](http://arxiv.org/abs/2508.00890v1), [pdf](http://arxiv.org/pdf/2508.00890v1.pdf), cication: [**-1**](None) 
+
+	 *Fali Wang, Hui Liu, Zhenwei Dai, ..., Qi He, Suhang Wang*
 - **AutoAgent: A Fully-Automated and Zero-Code Framework for LLM Agents**, `arXiv, 2502.05957`, [arxiv](http://arxiv.org/abs/2502.05957v2), [pdf](http://arxiv.org/pdf/2502.05957v2.pdf), cication: [**-1**](None) 
 
 	 *Jiabin Tang, Tianyu Fan, Chao Huang* · ([AutoAgent](https://github.com/HKUDS/AutoAgent) - HKUDS) ![Star](https://img.shields.io/github/stars/HKUDS/AutoAgent.svg?style=social&label=Star)
@@ -428,6 +441,7 @@
 
 ## Projects
 
+- [**12-factor-agents**](https://github.com/humanlayer/12-factor-agents) - humanlayer ![Star](https://img.shields.io/github/stars/humanlayer/12-factor-agents.svg?style=social&label=Star)
 - [**agenticSeek**](https://github.com/Fosowl/agenticSeek) - Fosowl ![Star](https://img.shields.io/github/stars/Fosowl/agenticSeek.svg?style=social&label=Star) 
 
 	 *Private, Local Manus Alternative.*
@@ -496,6 +510,9 @@
 
 ## Multi Agent
 
+- [**AWorld**](https://github.com/inclusionAI/AWorld) - inclusionAI ![Star](https://img.shields.io/github/stars/inclusionAI/AWorld.svg?style=social&label=Star)
+
+	 *The Agent Runtime for Self-Improvement*
 - **Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving**, `arXiv, 2507.06229`, [arxiv](http://arxiv.org/abs/2507.06229v4), [pdf](http://arxiv.org/pdf/2507.06229v4.pdf), cication: [**-1**](None) 
 
 	 *Xiangru Tang, Tianrui Qin, Tianhao Peng, ..., Chi Wang, Wangchunshu Zhou*

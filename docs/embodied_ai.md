@@ -11,7 +11,7 @@
 
 ## Survey
 
-- **A Survey on Vision-Language-Action Models: An Action Tokenization
+- **A Survey on Vision-Language-Action Models: An Action Tokenization 
   Perspective**, `arXiv, 2507.01925`, [arxiv](http://arxiv.org/abs/2507.01925v1), [pdf](http://arxiv.org/pdf/2507.01925v1.pdf), cication: [**-1**](None) 
 
 	 *Yifan Zhong, Fengshuo Bai, Shaofei Cai, ..., Yuanpei Chen, Yaodong Yang*
