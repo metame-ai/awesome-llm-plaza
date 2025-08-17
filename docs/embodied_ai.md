@@ -24,6 +24,9 @@
 
 ## Embodied AI
 
+- **MolmoAct: Action Reasoning Models that can Reason in Space**, `arXiv, 2508.07917`, [arxiv](http://arxiv.org/abs/2508.07917v2), [pdf](http://arxiv.org/pdf/2508.07917v2.pdf), cication: [**-1**](None) 
+
+	 *Jason Lee, Jiafei Duan, Haoquan Fang, ..., Dieter Fox, Ranjay Krishna*
 - [Sporks of AGIWhy the Real Thing is better than the Next Best Thing](https://sergeylevine.substack.com/p/sporks-of-agi) 
 - **Visual Embodied Brain: Let Multimodal Large Language Models See, Think, 
   and Control in Spaces**, `arXiv, 2506.00123`, [arxiv](http://arxiv.org/abs/2506.00123v1), [pdf](http://arxiv.org/pdf/2506.00123v1.pdf), cication: [**-1**](None) 

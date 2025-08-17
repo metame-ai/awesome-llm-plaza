@@ -10,6 +10,9 @@
 
 ## Survey
 
+- **A Survey on Diffusion Language Models**, `arXiv, 2508.10875`, [arxiv](http://arxiv.org/abs/2508.10875v1), [pdf](http://arxiv.org/pdf/2508.10875v1.pdf), cication: [**-1**](None) 
+
+	 *Tianyi Li, Mingda Chen, Bowei Guo, ..., Zhiqiang Shen* · ([Awesome-DLMs.](https://github.com/VILA-Lab/Awesome-DLMs.) - VILA-Lab) ![Star](https://img.shields.io/github/stars/VILA-Lab/Awesome-DLMs..svg?style=social&label=Star)
 - **Technologies on Effectiveness and Efficiency: A Survey of State Spaces 
   Models**, `arXiv, 2503.11224`, [arxiv](http://arxiv.org/abs/2503.11224v1), [pdf](http://arxiv.org/pdf/2503.11224v1.pdf), cication: [**-1**](None) 
 
@@ -17,7 +20,11 @@
 
 ## LLM Models
 
-- **Beyond Fixed: Variable-Length Denoising for Diffusion Large Language
+- **SONAR-LLM: Autoregressive Transformer that Thinks in Sentence Embeddings
+  and Speaks in Tokens**, `arXiv, 2508.05305`, [arxiv](http://arxiv.org/abs/2508.05305v1), [pdf](http://arxiv.org/pdf/2508.05305v1.pdf), cication: [**-1**](None) 
+
+	 *Nikita Dragunov, Temurbek Rahmatullaev, Elizaveta Goncharova, ..., Andrey Kuznetsov, Anton Razzhigaev*
+- **Beyond Fixed: Variable-Length Denoising for Diffusion Large Language 
   Models**, `arXiv, 2508.00819`, [arxiv](http://arxiv.org/abs/2508.00819v1), [pdf](http://arxiv.org/pdf/2508.00819v1.pdf), cication: [**-1**](None) 
 
 	 *Jinsong Li, Xiaoyi Dong, Yuhang Zang, ..., Jiaqi Wang, Dahua Lin* · ([DAEDAL](https://github.com/Li-Jinsong/DAEDAL) - Li-Jinsong) ![Star](https://img.shields.io/github/stars/Li-Jinsong/DAEDAL.svg?style=social&label=Star)

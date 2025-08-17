@@ -22,11 +22,11 @@
 
 ## Code LLM
 
-- **ScreenCoder: Advancing Visual-to-Code Generation for Front-End
+- **ScreenCoder: Advancing Visual-to-Code Generation for Front-End 
   Automation via Modular Multimodal Agents**, `arXiv, 2507.22827`, [arxiv](http://arxiv.org/abs/2507.22827v1), [pdf](http://arxiv.org/pdf/2507.22827v1.pdf), cication: [**-1**](None) 
 
 	 *Yilei Jiang, Yaozhi Zheng, Yuxuan Wan, ..., Michael R. Lyu, Xiangyu Yue*
-- **Training Long-Context, Multi-Turn Software Engineering Agents with
+- **Training Long-Context, Multi-Turn Software Engineering Agents with 
   Reinforcement Learning**, `arXiv, 2508.03501`, [arxiv](http://arxiv.org/abs/2508.03501v1), [pdf](http://arxiv.org/pdf/2508.03501v1.pdf), cication: [**-1**](None) 
 
 	 *Alexander Golubev, Maria Trofimova, Sergei Polezhaev, ..., Sergei Skvortsov, Boris Yangel*
@@ -186,8 +186,8 @@
 
 ## Projects
 
-- [**awesome-claude-code**](https://github.com/hesreallyhim/awesome-claude-code) - hesreallyhim ![Star](https://img.shields.io/github/stars/hesreallyhim/awesome-claude-code.svg?style=social&label=Star)
-- [**SWE-Swiss**](https://github.com/zhenyuhe00/SWE-Swiss) - zhenyuhe00 ![Star](https://img.shields.io/github/stars/zhenyuhe00/SWE-Swiss.svg?style=social&label=Star)
+- [**awesome-claude-code**](https://github.com/hesreallyhim/awesome-claude-code) - hesreallyhim ![Star](https://img.shields.io/github/stars/hesreallyhim/awesome-claude-code.svg?style=social&label=Star) 
+- [**SWE-Swiss**](https://github.com/zhenyuhe00/SWE-Swiss) - zhenyuhe00 ![Star](https://img.shields.io/github/stars/zhenyuhe00/SWE-Swiss.svg?style=social&label=Star) 
 
 	 *A Multi-Task Fine-Tuning and RL Recipe for High-Performance Issue Resolution*
 - [**Qwen3-Coder**](https://github.com/QwenLM/Qwen3-Coder) - QwenLM ![Star](https://img.shields.io/github/stars/QwenLM/Qwen3-Coder.svg?style=social&label=Star) 

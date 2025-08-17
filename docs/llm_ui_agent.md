@@ -14,7 +14,7 @@
 
 ## Survey
 
-- **A Survey of WebAgents: Towards Next-Generation AI Agents for Web
+- **A Survey of WebAgents: Towards Next-Generation AI Agents for Web 
   Automation with Large Foundation Models**, `arXiv, 2503.23350`, [arxiv](http://arxiv.org/abs/2503.23350v4), [pdf](http://arxiv.org/pdf/2503.23350v4.pdf), cication: [**-1**](None) 
 
 	 *Liangbo Ning, Ziran Liang, Zhuohang Jiang, ..., Philip S. Yu, Qing Li* · ([biglemon-ning.github](https://biglemon-ning.github.io/WebAgents/))
@@ -31,14 +31,25 @@
 
 ## GUI Agent
 
+- **InfiGUI-G1: Advancing GUI Grounding with Adaptive Exploration Policy
+  Optimization**, `arXiv, 2508.05731`, [arxiv](http://arxiv.org/abs/2508.05731v1), [pdf](http://arxiv.org/pdf/2508.05731v1.pdf), cication: [**-1**](None) 
+
+	 *Yuhang Liu, Zeyu Liu, Shuanghe Zhu, ..., Hongxia Yang, Fei Wu*
+- **UI-AGILE: Advancing GUI Agents with Effective Reinforcement Learning and
+  Precise Inference-Time Grounding**, `arXiv, 2507.22025`, [arxiv](http://arxiv.org/abs/2507.22025v3), [pdf](http://arxiv.org/pdf/2507.22025v3.pdf), cication: [**-1**](None) 
+
+	 *Shuquan Lian, Yuhang Wu, Jia Ma, ..., Xiawu Zheng, Hui Li*
+- 🌟 **UI-Venus Technical Report: Building High-performance UI Agents with RFT**, `arXiv, 2508.10833`, [arxiv](http://arxiv.org/abs/2508.10833v1), [pdf](http://arxiv.org/pdf/2508.10833v1.pdf), cication: [**-1**](None) 
+
+	 *Zhangxuan Gu, Zhengwen Zeng, Zhenyu Xu, ..., Liang Chen, Weiqiang Wang* · ([UI-Venus](https://github.com/inclusionAI/UI-Venus) - inclusionAI) ![Star](https://img.shields.io/github/stars/inclusionAI/UI-Venus.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/collections/inclusionAI/ui-venus-689f2fb01a4234cbce91c56a))
 - **Magentic-UI: Towards Human-in-the-loop Agentic Systems**, `arXiv, 2507.22358`, [arxiv](http://arxiv.org/abs/2507.22358v1), [pdf](http://arxiv.org/pdf/2507.22358v1.pdf), cication: [**-1**](None) 
 
 	 *Hussein Mozannar, Gagan Bansal, Cheng Tan, ..., Rafah Hosn, Saleema Amershi*
-- **MagicGUI: A Foundational Mobile GUI Agent with Scalable Data Pipeline
+- **MagicGUI: A Foundational Mobile GUI Agent with Scalable Data Pipeline 
   and Reinforcement Fine-tuning**, `arXiv, 2508.03700`, [arxiv](http://arxiv.org/abs/2508.03700v2), [pdf](http://arxiv.org/pdf/2508.03700v2.pdf), cication: [**-1**](None) 
 
 	 *Liujian Tang, Shaokang Dong, Yijia Huang, ..., Yunke Zhang, Yuran Wang*
-- **VisionTasker: Mobile Task Automation Using Vision Based UI Understanding
+- **VisionTasker: Mobile Task Automation Using Vision Based UI Understanding 
   and LLM Task Planning**, `arXiv, 2312.11190`, [arxiv](http://arxiv.org/abs/2312.11190v2), [pdf](http://arxiv.org/pdf/2312.11190v2.pdf), cication: [**-1**](None) 
 
 	 *Yunpeng Song, Yiheng Bian, Yongtao Tang, ..., Guiyu Ma, Zhongmin Cai*
@@ -356,11 +367,11 @@
 - **Phi-Ground Tech Report: Advancing Perception in GUI Grounding**, `arXiv, 2507.23779`, [arxiv](http://arxiv.org/abs/2507.23779v1), [pdf](http://arxiv.org/pdf/2507.23779v1.pdf), cication: [**-1**](None) 
 
 	 *Miaosen Zhang, Ziqiang Xu, Jialiang Zhu, ..., Tim Franklin, Baining Guo*
-- **GuirlVG: Incentivize GUI Visual Grounding via Empirical Exploration on
+- **GuirlVG: Incentivize GUI Visual Grounding via Empirical Exploration on 
   Reinforcement Learning**, `arXiv, 2508.04389`, [arxiv](http://arxiv.org/abs/2508.04389v1), [pdf](http://arxiv.org/pdf/2508.04389v1.pdf), cication: [**-1**](None) 
 
 	 *Weitai Kang, Bin Lei, Gaowen Liu, ..., Caiwen Ding, Yan Yan*
-- **Test-Time Reinforcement Learning for GUI Grounding via Region
+- **Test-Time Reinforcement Learning for GUI Grounding via Region 
   Consistency**, `arXiv, 2508.05615`, [arxiv](http://arxiv.org/abs/2508.05615v1), [pdf](http://arxiv.org/pdf/2508.05615v1.pdf), cication: [**-1**](None) 
 
 	 *Yong Du, Yuchen Yan, Fei Tang, ..., Shengpei Jiang, Yongliang Shen*

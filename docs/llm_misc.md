@@ -322,6 +322,9 @@
 
 ## Misc
 
+- 🌟 **ReasonRank: Empowering Passage Ranking with Strong Reasoning Ability**, `arXiv, 2508.07050`, [arxiv](http://arxiv.org/abs/2508.07050v1), [pdf](http://arxiv.org/pdf/2508.07050v1.pdf), cication: [**-1**](None) 
+
+	 *Wenhan Liu, Xinyu Ma, Weiwei Sun, ..., Dawei Yin, Zhicheng Dou*
 - **Apple Intelligence Foundation Language Models: Tech Report 2025**, `arXiv, 2507.13575`, [arxiv](http://arxiv.org/abs/2507.13575v1), [pdf](http://arxiv.org/pdf/2507.13575v1.pdf), cication: [**-1**](None) 
 
 	 *Hanzhi Zhou, Erik Hornberger, Pengsheng Guo, ..., Xiujun Li, Shang-Chen Wu*

@@ -350,7 +350,11 @@
 
 ## Math Reasoning
 
-- **CriticLean: Critic-Guided Reinforcement Learning for Mathematical
+- 🌟 **We-Math 2.0: A Versatile MathBook System for Incentivizing Visual
+  Mathematical Reasoning**, `arXiv, 2508.10433`, [arxiv](http://arxiv.org/abs/2508.10433v1), [pdf](http://arxiv.org/pdf/2508.10433v1.pdf), cication: [**-1**](None) 
+
+	 *Runqi Qiao, Qiuna Tan, Peiqing Yang, ..., Chen Li, Honggang Zhang*
+- **CriticLean: Critic-Guided Reinforcement Learning for Mathematical 
   Formalization**, `arXiv, 2507.06181`, [arxiv](http://arxiv.org/abs/2507.06181v1), [pdf](http://arxiv.org/pdf/2507.06181v1.pdf), cication: [**-1**](None) 
 
 	 *Zhongyuan Peng, Yifan Yao, Kaijing Ma, ..., Jiaheng Liu, Ge Zhang*
@@ -483,6 +487,24 @@
 
 ## O1 Reasoning
 
+- **Sample More to Think Less: Group Filtered Policy Optimization for
+  Concise Reasoning**, `arXiv, 2508.09726`, [arxiv](http://arxiv.org/abs/2508.09726v1), [pdf](http://arxiv.org/pdf/2508.09726v1.pdf), cication: [**-1**](None) 
+
+	 *Vaishnavi Shrivastava, Ahmed Awadallah, Vidhisha Balachandran, ..., Harkirat Behl, Dimitris Papailiopoulos*
+- **Post-Completion Learning for Language Models**, `arXiv, 2507.20252`, [arxiv](http://arxiv.org/abs/2507.20252v3), [pdf](http://arxiv.org/pdf/2507.20252v3.pdf), cication: [**-1**](None) 
+
+	 *Xiang Fei, Siqi Wang, Shu Wei, ..., Chao Feng, Can Huang*
+- **Part I: Tricks or Traps? A Deep Dive into RL for LLM Reasoning**, `arXiv, 2508.08221`, [arxiv](http://arxiv.org/abs/2508.08221v1), [pdf](http://arxiv.org/pdf/2508.08221v1.pdf), cication: [**-1**](None) 
+
+	 *Zihe Liu, Jiashun Liu, Yancheng He, ..., Wenbo Su, Bo Zheng*
+- **Klear-Reasoner: Advancing Reasoning Capability via Gradient-Preserving
+  Clipping Policy Optimization**, `arXiv, 2508.07629`, [arxiv](http://arxiv.org/abs/2508.07629v2), [pdf](http://arxiv.org/pdf/2508.07629v2.pdf), cication: [**-1**](None) 
+
+	 *Zhenpeng Su, Leiyu Pan, Xue Bai, ..., Kun Gai, Guorui Zhou*
+- **Pass@k Training for Adaptively Balancing Exploration and Exploitation of
+  Large Reasoning Models**, `arXiv, 2508.10751`, [arxiv](http://arxiv.org/abs/2508.10751v1), [pdf](http://arxiv.org/pdf/2508.10751v1.pdf), cication: [**-1**](None) 
+
+	 *Zhipeng Chen, Xiaobo Qin, Youbin Wu, ..., Wayne Xin Zhao, Guang Shi*
 - **Geometric-Mean Policy Optimization**, `arXiv, 2507.20673`, [arxiv](http://arxiv.org/abs/2507.20673v1), [pdf](http://arxiv.org/pdf/2507.20673v1.pdf), cication: [**-1**](None) 
 
 	 *Yuzhong Zhao, Yue Liu, Junpeng Liu, ..., Fang Wan, Furu Wei* · ([GMPO](https://github.com/callsys/GMPO) - callsys) ![Star](https://img.shields.io/github/stars/callsys/GMPO.svg?style=social&label=Star)

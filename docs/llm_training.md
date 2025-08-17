@@ -23,7 +23,7 @@
 
 ## LLM Training
 
-- **On the Generalization of SFT: A Reinforcement Learning Perspective with
+- **On the Generalization of SFT: A Reinforcement Learning Perspective with 
   Reward Rectification**, `arXiv, 2508.05629`, [arxiv](http://arxiv.org/abs/2508.05629v1), [pdf](http://arxiv.org/pdf/2508.05629v1.pdf), cication: [**-1**](None) 
 
 	 *Yongliang Wu, Yizhou Zhou, Zhou Ziheng, ..., Ming-Hsuan Yang, Xu Yang* · ([DFT.](https://github.com/yongliang-wu/DFT.) - yongliang-wu) ![Star](https://img.shields.io/github/stars/yongliang-wu/DFT..svg?style=social&label=Star)

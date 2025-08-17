@@ -232,6 +232,10 @@
 
 ## Video
 
+- **Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with
+  Long-Term Memory**, `arXiv, 2508.09736`, [arxiv](http://arxiv.org/abs/2508.09736v1), [pdf](http://arxiv.org/pdf/2508.09736v1.pdf), cication: [**-1**](None) 
+
+	 *Lin Long, Yichen He, Wentao Ye, ..., Junbo Zhao, Wei Li*
 - [TimeScope: How Long Can Your Video Large Multimodal Model Go?](https://huggingface.co/blog/timescope-video-lmm-benchmark)  🤗 
 - 🌟 **Towards Understanding Camera Motions in Any Video**, `arXiv, 2504.15376`, [arxiv](http://arxiv.org/abs/2504.15376v1), [pdf](http://arxiv.org/pdf/2504.15376v1.pdf), cication: [**-1**](None) 
 
@@ -815,7 +819,7 @@
 
 ## Efficient
 
-- **When Tokens Talk Too Much: A Survey of Multimodal Long-Context Token
+- **When Tokens Talk Too Much: A Survey of Multimodal Long-Context Token 
   Compression across Images, Videos, and Audios**, `arXiv, 2507.20198`, [arxiv](http://arxiv.org/abs/2507.20198v3), [pdf](http://arxiv.org/pdf/2507.20198v3.pdf), cication: [**-1**](None) 
 
 	 *Kele Shao, Keda Tao, Kejia Zhang, ..., Yang Sui, Huan Wang*
@@ -861,7 +865,7 @@
 
 ## Generation
 
-- **Skywork UniPic: Unified Autoregressive Modeling for Visual Understanding
+- **Skywork UniPic: Unified Autoregressive Modeling for Visual Understanding 
   and Generation**, `arXiv, 2508.03320`, [arxiv](http://arxiv.org/abs/2508.03320v1), [pdf](http://arxiv.org/pdf/2508.03320v1.pdf), cication: [**-1**](None) 
 
 	 *Peiyu Wang, Yi Peng, Yimeng Gan, ..., Yang Liu, Yahui Zhou* · ([huggingface](https://huggingface.co/Skywork/Skywork-UniPic-1.5B.))
@@ -1063,7 +1067,7 @@
 
 ## Projects
 
-- [**dots.vlm1**](https://github.com/rednote-hilab/dots.vlm1) - rednote-hilab ![Star](https://img.shields.io/github/stars/rednote-hilab/dots.vlm1.svg?style=social&label=Star)
+- [**dots.vlm1**](https://github.com/rednote-hilab/dots.vlm1) - rednote-hilab ![Star](https://img.shields.io/github/stars/rednote-hilab/dots.vlm1.svg?style=social&label=Star) 
 - [**nanoVLM**](https://github.com/huggingface/nanoVLM) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/nanoVLM.svg?style=social&label=Star) 
 - [**ml-fastvlm**](https://github.com/apple/ml-fastvlm) - apple ![Star](https://img.shields.io/github/stars/apple/ml-fastvlm.svg?style=social&label=Star) 
 

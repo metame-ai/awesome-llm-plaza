@@ -16,6 +16,14 @@
 
 ## Survey
 
+- **A Comprehensive Survey of Self-Evolving AI Agents: A New Paradigm
+  Bridging Foundation Models and Lifelong Agentic Systems**, `arXiv, 2508.07407`, [arxiv](http://arxiv.org/abs/2508.07407v1), [pdf](http://arxiv.org/pdf/2508.07407v1.pdf), cication: [**-1**](None) 
+
+	 *Jinyuan Fang, Yanwen Peng, Xi Zhang, ..., Han Zhou, Zaiqiao Meng*
+- **OS Agents: A Survey on MLLM-based Agents for General Computing Devices
+  Use**, `arXiv, 2508.04482`, [arxiv](http://arxiv.org/abs/2508.04482v1), [pdf](http://arxiv.org/pdf/2508.04482v1.pdf), cication: [**-1**](None) 
+
+	 *Xueyu Hu, Tao Xiong, Biao Yi, ..., Shengyu Zhang, Fei Wu*
 - **OAgents: An Empirical Study of Building Effective Agents**, `arXiv, 2506.15741`, [arxiv](http://arxiv.org/abs/2506.15741v2), [pdf](http://arxiv.org/pdf/2506.15741v2.pdf), cication: [**-1**](None) 
 
 	 *He Zhu, Tianrui Qin, King Zhu, ..., Jiaheng Liu, Wangchunshu Zhou*
@@ -51,6 +59,10 @@
 
 ## Agent RL
 
+- 🌟 **Beyond Ten Turns: Unlocking Long-Horizon Agentic Search with Large-Scale
+  Asynchronous RL**, `arXiv, 2508.07976`, [arxiv](http://arxiv.org/abs/2508.07976v2), [pdf](http://arxiv.org/pdf/2508.07976v2.pdf), cication: [**-1**](None) 
+
+	 *Jiaxuan Gao, Wei Fu, Minyang Xie, ..., Banghua Zhu, Yi Wu* · ([ASearcher](https://github.com/inclusionAI/ASearcher) - inclusionAI) ![Star](https://img.shields.io/github/stars/inclusionAI/ASearcher.svg?style=social&label=Star)
 - 🌟 **Agentic Reinforced Policy Optimization**, `arXiv, 2507.19849`, [arxiv](http://arxiv.org/abs/2507.19849v1), [pdf](http://arxiv.org/pdf/2507.19849v1.pdf), cication: [**-1**](None) 
 
 	 *Guanting Dong, Hangyu Mao, Kai Ma, ..., Ji-Rong Wen, Zhicheng Dou*
@@ -108,7 +120,7 @@
 - **Efficient Agents: Building Effective Agents While Reducing Cost**, `arXiv, 2508.02694`, [arxiv](http://arxiv.org/abs/2508.02694v1), [pdf](http://arxiv.org/pdf/2508.02694v1.pdf), cication: [**-1**](None) 
 
 	 *Ningning Wang, Xavier Hu, Pai Liu, ..., Yuchen Eleanor Jiang, Wangchunshu Zhou*
-- **AgentTTS: Large Language Model Agent for Test-time Compute-optimal
+- **AgentTTS: Large Language Model Agent for Test-time Compute-optimal 
   Scaling Strategy in Complex Tasks**, `arXiv, 2508.00890`, [arxiv](http://arxiv.org/abs/2508.00890v1), [pdf](http://arxiv.org/pdf/2508.00890v1.pdf), cication: [**-1**](None) 
 
 	 *Fali Wang, Hui Liu, Zhenwei Dai, ..., Qi He, Suhang Wang*
@@ -441,7 +453,7 @@
 
 ## Projects
 
-- [**12-factor-agents**](https://github.com/humanlayer/12-factor-agents) - humanlayer ![Star](https://img.shields.io/github/stars/humanlayer/12-factor-agents.svg?style=social&label=Star)
+- [**12-factor-agents**](https://github.com/humanlayer/12-factor-agents) - humanlayer ![Star](https://img.shields.io/github/stars/humanlayer/12-factor-agents.svg?style=social&label=Star) 
 - [**agenticSeek**](https://github.com/Fosowl/agenticSeek) - Fosowl ![Star](https://img.shields.io/github/stars/Fosowl/agenticSeek.svg?style=social&label=Star) 
 
 	 *Private, Local Manus Alternative.*
@@ -510,7 +522,7 @@
 
 ## Multi Agent
 
-- [**AWorld**](https://github.com/inclusionAI/AWorld) - inclusionAI ![Star](https://img.shields.io/github/stars/inclusionAI/AWorld.svg?style=social&label=Star)
+- [**AWorld**](https://github.com/inclusionAI/AWorld) - inclusionAI ![Star](https://img.shields.io/github/stars/inclusionAI/AWorld.svg?style=social&label=Star) 
 
 	 *The Agent Runtime for Self-Improvement*
 - **Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving**, `arXiv, 2507.06229`, [arxiv](http://arxiv.org/abs/2507.06229v4), [pdf](http://arxiv.org/pdf/2507.06229v4.pdf), cication: [**-1**](None) 
