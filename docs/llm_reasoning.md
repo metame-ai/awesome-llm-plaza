@@ -350,7 +350,7 @@
 
 ## Math Reasoning
 
-- 🌟 **We-Math 2.0: A Versatile MathBook System for Incentivizing Visual
+- 🌟 **We-Math 2.0: A Versatile MathBook System for Incentivizing Visual 
   Mathematical Reasoning**, `arXiv, 2508.10433`, [arxiv](http://arxiv.org/abs/2508.10433v1), [pdf](http://arxiv.org/pdf/2508.10433v1.pdf), cication: [**-1**](None) 
 
 	 *Runqi Qiao, Qiuna Tan, Peiqing Yang, ..., Chen Li, Honggang Zhang*
@@ -487,7 +487,7 @@
 
 ## O1 Reasoning
 
-- **Sample More to Think Less: Group Filtered Policy Optimization for
+- **Sample More to Think Less: Group Filtered Policy Optimization for 
   Concise Reasoning**, `arXiv, 2508.09726`, [arxiv](http://arxiv.org/abs/2508.09726v1), [pdf](http://arxiv.org/pdf/2508.09726v1.pdf), cication: [**-1**](None) 
 
 	 *Vaishnavi Shrivastava, Ahmed Awadallah, Vidhisha Balachandran, ..., Harkirat Behl, Dimitris Papailiopoulos*
@@ -497,11 +497,11 @@
 - **Part I: Tricks or Traps? A Deep Dive into RL for LLM Reasoning**, `arXiv, 2508.08221`, [arxiv](http://arxiv.org/abs/2508.08221v1), [pdf](http://arxiv.org/pdf/2508.08221v1.pdf), cication: [**-1**](None) 
 
 	 *Zihe Liu, Jiashun Liu, Yancheng He, ..., Wenbo Su, Bo Zheng*
-- **Klear-Reasoner: Advancing Reasoning Capability via Gradient-Preserving
+- **Klear-Reasoner: Advancing Reasoning Capability via Gradient-Preserving 
   Clipping Policy Optimization**, `arXiv, 2508.07629`, [arxiv](http://arxiv.org/abs/2508.07629v2), [pdf](http://arxiv.org/pdf/2508.07629v2.pdf), cication: [**-1**](None) 
 
 	 *Zhenpeng Su, Leiyu Pan, Xue Bai, ..., Kun Gai, Guorui Zhou*
-- **Pass@k Training for Adaptively Balancing Exploration and Exploitation of
+- **Pass@k Training for Adaptively Balancing Exploration and Exploitation of 
   Large Reasoning Models**, `arXiv, 2508.10751`, [arxiv](http://arxiv.org/abs/2508.10751v1), [pdf](http://arxiv.org/pdf/2508.10751v1.pdf), cication: [**-1**](None) 
 
 	 *Zhipeng Chen, Xiaobo Qin, Youbin Wu, ..., Wayne Xin Zhao, Guang Shi*

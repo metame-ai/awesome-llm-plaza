@@ -232,7 +232,7 @@
 
 ## Video
 
-- **Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with
+- **Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with 
   Long-Term Memory**, `arXiv, 2508.09736`, [arxiv](http://arxiv.org/abs/2508.09736v1), [pdf](http://arxiv.org/pdf/2508.09736v1.pdf), cication: [**-1**](None) 
 
 	 *Lin Long, Yichen He, Wentao Ye, ..., Junbo Zhao, Wei Li*

@@ -31,11 +31,11 @@
 
 ## GUI Agent
 
-- **InfiGUI-G1: Advancing GUI Grounding with Adaptive Exploration Policy
+- **InfiGUI-G1: Advancing GUI Grounding with Adaptive Exploration Policy 
   Optimization**, `arXiv, 2508.05731`, [arxiv](http://arxiv.org/abs/2508.05731v1), [pdf](http://arxiv.org/pdf/2508.05731v1.pdf), cication: [**-1**](None) 
 
 	 *Yuhang Liu, Zeyu Liu, Shuanghe Zhu, ..., Hongxia Yang, Fei Wu*
-- **UI-AGILE: Advancing GUI Agents with Effective Reinforcement Learning and
+- **UI-AGILE: Advancing GUI Agents with Effective Reinforcement Learning and 
   Precise Inference-Time Grounding**, `arXiv, 2507.22025`, [arxiv](http://arxiv.org/abs/2507.22025v3), [pdf](http://arxiv.org/pdf/2507.22025v3.pdf), cication: [**-1**](None) 
 
 	 *Shuquan Lian, Yuhang Wu, Jia Ma, ..., Xiawu Zheng, Hui Li*

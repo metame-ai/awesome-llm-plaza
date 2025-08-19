@@ -20,7 +20,7 @@
 
 ## LLM Models
 
-- **SONAR-LLM: Autoregressive Transformer that Thinks in Sentence Embeddings
+- **SONAR-LLM: Autoregressive Transformer that Thinks in Sentence Embeddings 
   and Speaks in Tokens**, `arXiv, 2508.05305`, [arxiv](http://arxiv.org/abs/2508.05305v1), [pdf](http://arxiv.org/pdf/2508.05305v1.pdf), cication: [**-1**](None) 
 
 	 *Nikita Dragunov, Temurbek Rahmatullaev, Elizaveta Goncharova, ..., Andrey Kuznetsov, Anton Razzhigaev*
