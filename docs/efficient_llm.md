@@ -211,6 +211,7 @@
 
 ## Inference
 
+- 🌟 [**EAGLE**](https://github.com/SafeAILab/EAGLE) - SafeAILab ![Star](https://img.shields.io/github/stars/SafeAILab/EAGLE.svg?style=social&label=Star)
 - [SpecForge: Accelerating Speculative Decoding Training for SGLang](https://lmsys.org/blog/2025-07-25-spec-forge/) 
 - [**nano-vllm**](https://github.com/GeeeekExplorer/nano-vllm) - GeeeekExplorer ![Star](https://img.shields.io/github/stars/GeeeekExplorer/nano-vllm.svg?style=social&label=Star) 
 - [Look Ma, No Bubbles! Designing a Low-Latency Megakernel for Llama-1B](https://hazyresearch.stanford.edu/blog/2025-05-27-no-bubbles) 
