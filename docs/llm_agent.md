@@ -512,7 +512,7 @@
 
 ## Misc
 
-- [Stanford CS25: V5 I The Advent of AGI, Div Garg](https://www.youtube.com/watch?v=vRQs7qfIDaU&list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM&index=38)  :clapper:
+- [Stanford CS25: V5 I The Advent of AGI, Div Garg](https://www.youtube.com/watch?v=vRQs7qfIDaU&list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM&index=38)  :clapper: 
 - [CodeAgents + Structure: A Better Way to Execute Actions](https://huggingface.co/blog/structured-codeagent)  🤗 
 - [The "think" tool: Enabling Claude to stop and think in complex tool use situations](https://www.anthropic.com/engineering/claude-think-tool) 
 

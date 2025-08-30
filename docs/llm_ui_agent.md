@@ -345,11 +345,11 @@
 	 *Linlu Qiu, Liwei Jiang, Ximing Lu, ..., Nouha Dziri, Xiang Ren*
 ## Projects
 
-- [**mobile-use**](https://github.com/minitap-ai/mobile-use) - minitap-ai ![Star](https://img.shields.io/github/stars/minitap-ai/mobile-use.svg?style=social&label=Star)
+- [**mobile-use**](https://github.com/minitap-ai/mobile-use) - minitap-ai ![Star](https://img.shields.io/github/stars/minitap-ai/mobile-use.svg?style=social&label=Star) 
 
 	 *automate your phone with natural language*
-- [**JT-GUIAgent**](https://github.com/JT-GUIAgent/JT-GUIAgent) - JT-GUIAgent ![Star](https://img.shields.io/github/stars/JT-GUIAgent/JT-GUIAgent.svg?style=social&label=Star)
-- [**ws-scrcpy**](https://github.com/NetrisTV/ws-scrcpy) - NetrisTV ![Star](https://img.shields.io/github/stars/NetrisTV/ws-scrcpy.svg?style=social&label=Star)
+- [**JT-GUIAgent**](https://github.com/JT-GUIAgent/JT-GUIAgent) - JT-GUIAgent ![Star](https://img.shields.io/github/stars/JT-GUIAgent/JT-GUIAgent.svg?style=social&label=Star) 
+- [**ws-scrcpy**](https://github.com/NetrisTV/ws-scrcpy) - NetrisTV ![Star](https://img.shields.io/github/stars/NetrisTV/ws-scrcpy.svg?style=social&label=Star) 
 - [**mobile-use**](https://github.com/MadeAgents/mobile-use) - MadeAgents ![Star](https://img.shields.io/github/stars/MadeAgents/mobile-use.svg?style=social&label=Star) 
 
 	 *Your AI assistant for mobile - Any app, any task.*
