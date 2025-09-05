@@ -345,6 +345,10 @@
 	 *Linlu Qiu, Liwei Jiang, Ximing Lu, ..., Nouha Dziri, Xiang Ren*
 ## Projects
 
+- [**finalrun-android-world-benchmark**](https://github.com/final-run/finalrun-android-world-benchmark) - final-run ![Star](https://img.shields.io/github/stars/final-run/finalrun-android-world-benchmark.svg?style=social&label=Star)
+- [**MobiAgent**](https://github.com/IPADS-SAI/MobiAgent) - IPADS-SAI ![Star](https://img.shields.io/github/stars/IPADS-SAI/MobiAgent.svg?style=social&label=Star)
+
+	 *A Systematic Framework for Customizable Mobile Agents*
 - [**mobile-use**](https://github.com/minitap-ai/mobile-use) - minitap-ai ![Star](https://img.shields.io/github/stars/minitap-ai/mobile-use.svg?style=social&label=Star) 
 
 	 *automate your phone with natural language*
