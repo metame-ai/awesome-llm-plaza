@@ -345,8 +345,8 @@
 	 *Linlu Qiu, Liwei Jiang, Ximing Lu, ..., Nouha Dziri, Xiang Ren*
 ## Projects
 
-- [**finalrun-android-world-benchmark**](https://github.com/final-run/finalrun-android-world-benchmark) - final-run ![Star](https://img.shields.io/github/stars/final-run/finalrun-android-world-benchmark.svg?style=social&label=Star)
-- [**MobiAgent**](https://github.com/IPADS-SAI/MobiAgent) - IPADS-SAI ![Star](https://img.shields.io/github/stars/IPADS-SAI/MobiAgent.svg?style=social&label=Star)
+- [**finalrun-android-world-benchmark**](https://github.com/final-run/finalrun-android-world-benchmark) - final-run ![Star](https://img.shields.io/github/stars/final-run/finalrun-android-world-benchmark.svg?style=social&label=Star) 
+- [**MobiAgent**](https://github.com/IPADS-SAI/MobiAgent) - IPADS-SAI ![Star](https://img.shields.io/github/stars/IPADS-SAI/MobiAgent.svg?style=social&label=Star) 
 
 	 *A Systematic Framework for Customizable Mobile Agents*
 - [**mobile-use**](https://github.com/minitap-ai/mobile-use) - minitap-ai ![Star](https://img.shields.io/github/stars/minitap-ai/mobile-use.svg?style=social&label=Star) 
@@ -374,6 +374,7 @@
 - [Tell your MacBook what to do, and it's done—across ANY app.](https://github.com/browser-use/macOS-use)- [**Awesome-GUI-Agent**](https://github.com/showlab/Awesome-GUI-Agent) - showlab ![Star](https://img.shields.io/github/stars/showlab/Awesome-GUI-Agent.svg?style=social&label=Star) 
 ## Toolkits
 
+- [**py-scrcpy-client**](https://github.com/leng-yue/py-scrcpy-client) - leng-yue ![Star](https://img.shields.io/github/stars/leng-yue/py-scrcpy-client.svg?style=social&label=Star)
 - 🌟 [**droidrun)- 🌟 [**UI-TARS-desktop**](https:**](https://github.com/droidrun/droidrun)- 🌟 [**UI-TARS-desktop**](https://github.com/bytedance/UI-TARS-desktop) - bytedance ![Star](https://img.shields.io/github/stars/bytedance/UI-TARS-desktop.svg?style=social&label=Star) - droidrun ![Star](https://img.shields.io/github/stars/droidrun/droidrun)- 🌟 [**UI-TARS-desktop**](https:.svg?style=social&label=Star) 
 
 	 *//github.com/droidrun/droidrun)- 🌟 [**UI-TARS-desktop**](https://github.com/bytedance/UI-TARS-desktop) - bytedance ![Star*
