@@ -374,7 +374,7 @@
 - [Tell your MacBook what to do, and it's done—across ANY app.](https://github.com/browser-use/macOS-use)- [**Awesome-GUI-Agent**](https://github.com/showlab/Awesome-GUI-Agent) - showlab ![Star](https://img.shields.io/github/stars/showlab/Awesome-GUI-Agent.svg?style=social&label=Star) 
 ## Toolkits
 
-- [**py-scrcpy-client**](https://github.com/leng-yue/py-scrcpy-client) - leng-yue ![Star](https://img.shields.io/github/stars/leng-yue/py-scrcpy-client.svg?style=social&label=Star)
+- [**py-scrcpy-client**](https://github.com/leng-yue/py-scrcpy-client) - leng-yue ![Star](https://img.shields.io/github/stars/leng-yue/py-scrcpy-client.svg?style=social&label=Star) 
 - 🌟 [**droidrun)- 🌟 [**UI-TARS-desktop**](https:**](https://github.com/droidrun/droidrun)- 🌟 [**UI-TARS-desktop**](https://github.com/bytedance/UI-TARS-desktop) - bytedance ![Star](https://img.shields.io/github/stars/bytedance/UI-TARS-desktop.svg?style=social&label=Star) - droidrun ![Star](https://img.shields.io/github/stars/droidrun/droidrun)- 🌟 [**UI-TARS-desktop**](https:.svg?style=social&label=Star) 
 
 	 *//github.com/droidrun/droidrun)- 🌟 [**UI-TARS-desktop**](https://github.com/bytedance/UI-TARS-desktop) - bytedance ![Star*
