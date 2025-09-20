@@ -62,8 +62,13 @@
 
 ## Vision-Language Models
 
-- [Paper page - Ovis2.5 Technical Report](https://huggingface.co/papers/2508.11737)
-- [Paper page - InternVL3.5: Advancing Open-Source Multimodal Models in Versatility,  Reasoning, and Efficiency](https://huggingface.co/papers/2508.18265)
+- **Ovis2.5 Technical Report**, `arXiv, 2508.11737`, [arxiv](http://arxiv.org/abs/2508.11737v1), [pdf](http://arxiv.org/pdf/2508.11737v1.pdf), cication: [**-1**](None) 
+
+	 *Shiyin Lu, Yang Li, Yu Xia, ..., Weihua Luo, Kaifu Zhang*
+- **InternVL3.5: Advancing Open-Source Multimodal Models in Versatility,
+  Reasoning, and Efficiency**, `arXiv, 2508.18265`, [arxiv](http://arxiv.org/abs/2508.18265v2), [pdf](http://arxiv.org/pdf/2508.18265v2.pdf), cication: [**-1**](None) 
+
+	 *Weiyun Wang, Zhangwei Gao, Lixin Gu, ..., Wenhai Wang, Gen Luo*
 - **Kwai Keye-VL Technical Report**, `arXiv, 2507.01949`, [arxiv](http://arxiv.org/abs/2507.01949v1), [pdf](http://arxiv.org/pdf/2507.01949v1.pdf), cication: [**-1**](None) 
 
 	 *Kwai Keye Team, Biao Yang, Bin Wen, ..., Zhuoran Yang, Zixing Zhang*
@@ -234,7 +239,9 @@
 
 ## Video
 
-- [Paper page - Kwai Keye-VL 1.5 Technical Report](https://huggingface.co/papers/2509.01563)
+- **Kwai Keye-VL 1.5 Technical Report**, `arXiv, 2509.01563`, [arxiv](http://arxiv.org/abs/2509.01563v3), [pdf](http://arxiv.org/pdf/2509.01563v3.pdf), cication: [**-1**](None) 
+
+	 *Biao Yang, Bin Wen, Boyang Ding, ..., Yuhang Hu, Zixing Zhang*
 - **Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with 
   Long-Term Memory**, `arXiv, 2508.09736`, [arxiv](http://arxiv.org/abs/2508.09736v1), [pdf](http://arxiv.org/pdf/2508.09736v1.pdf), cication: [**-1**](None) 
 
@@ -360,7 +367,9 @@
 
 ## Encoder
 
-- [Paper page - DINOv3](https://huggingface.co/papers/2508.10104)
+- **DINOv3**, `arXiv, 2508.10104`, [arxiv](http://arxiv.org/abs/2508.10104v1), [pdf](http://arxiv.org/pdf/2508.10104v1.pdf), cication: [**-1**](None) 
+
+	 *Oriane Siméoni, Huy V. Vo, Maximilian Seitzer, ..., Patrick Labatut, Piotr Bojanowski*
 - **OpenVision: A Fully-Open, Cost-Effective Family of Advanced Vision 
   Encoders for Multimodal Learning**, `arXiv, 2505.04601`, [arxiv](http://arxiv.org/abs/2505.04601v1), [pdf](http://arxiv.org/pdf/2505.04601v1.pdf), cication: [**-1**](None) 
 

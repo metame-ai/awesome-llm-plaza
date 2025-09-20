@@ -18,7 +18,9 @@
 
 ## Survey
 
-- [Paper page - A Survey of Reinforcement Learning for Large Reasoning Models](https://huggingface.co/papers/2509.08827)
+- **A Survey of Reinforcement Learning for Large Reasoning Models**, `arXiv, 2509.08827`, [arxiv](http://arxiv.org/abs/2509.08827v2), [pdf](http://arxiv.org/pdf/2509.08827v2.pdf), cication: [**-1**](None) 
+
+	 *Kaiyan Zhang, Yuxin Zuo, Bingxiang He, ..., Ning Ding, Bowen Zhou*
 - 🌟 **A Survey on Latent Reasoning**, `arXiv, 2507.06203`, [arxiv](http://arxiv.org/abs/2507.06203v2), [pdf](http://arxiv.org/pdf/2507.06203v2.pdf), cication: [**-1**](None) 
 
 	 *Rui-Jie Zhu, Tianhao Peng, Tianhao Cheng, ..., Wenhao Huang, Jason Eshraghian* · ([LatentCoT-Horizon](https://github.com/multimodal-art-projection/LatentCoT-Horizon/.) - multimodal-art-projection) ![Star](https://img.shields.io/github/stars/multimodal-art-projection/LatentCoT-Horizon.svg?style=social&label=Star)
@@ -488,15 +490,24 @@
 
 ## O1 Reasoning
 
-- [Paper page - Bootstrapping Task Spaces for Self-Improvement](https://huggingface.co/papers/2509.04575)
-- [**verifiers**](https://github.com/willccbb/verifiers) - willccbb ![Star](https://img.shields.io/github/stars/willccbb/verifiers.svg?style=social&label=Star)
-- 🌟 [Paper page - Deep Think with Confidence](https://huggingface.co/papers/2508.15260)
-- 🌟 [Paper page - Beyond Pass@1: Self-Play with Variational Problem Synthesis Sustains  RLVR](https://huggingface.co/papers/2508.14029)
-- [Paper page - TreePO: Bridging the Gap of Policy Optimization and Efficacy and  Inference Efficiency with Heuristic Tree-based Modeling](https://huggingface.co/papers/2508.17445)
-- [Paper page - Towards a Unified View of Large Language Model Post-Training](https://huggingface.co/papers/2509.04419)
-- 🌟 [Paper page - Sharing is Caring: Efficient LM Post-Training with Collective RL  Experience Sharing](https://huggingface.co/papers/2509.08721)
-- 🌟 [Paper page - Reverse-Engineered Reasoning for Open-Ended Generation](https://huggingface.co/papers/2509.06160)
-- [Paper page - Parallel-R1: Towards Parallel Thinking via Reinforcement Learning](https://huggingface.co/papers/2509.07980)
+- **Bootstrapping Task Spaces for Self-Improvement**, `arXiv, 2509.04575`, [arxiv](http://arxiv.org/abs/2509.04575v2), [pdf](http://arxiv.org/pdf/2509.04575v2.pdf), cication: [**-1**](None) 
+
+	 *Minqi Jiang, Andrei Lupu, Yoram Bachrach*
+- [**verifiers**](https://github.com/willccbb/verifiers) - willccbb ![Star](https://img.shields.io/github/stars/willccbb/verifiers.svg?style=social&label=Star) 
+- 🌟 [Paper page - Deep Think with Confidence](https://huggingface.co/papers/2508.15260) 
+- 🌟 [Paper page - Beyond Pass@1: Self-Play with Variational Problem Synthesis Sustains  RLVR](https://huggingface.co/papers/2508.14029) 
+- **TreePO: Bridging the Gap of Policy Optimization and Efficacy and
+  Inference Efficiency with Heuristic Tree-based Modeling**, `arXiv, 2508.17445`, [arxiv](http://arxiv.org/abs/2508.17445v1), [pdf](http://arxiv.org/pdf/2508.17445v1.pdf), cication: [**-1**](None) 
+
+	 *Yizhi Li, Qingshui Gu, Zhoufutu Wen, ..., Ge Zhang, Wenhao Huang*
+- **Towards a Unified View of Large Language Model Post-Training**, `arXiv, 2509.04419`, [arxiv](http://arxiv.org/abs/2509.04419v1), [pdf](http://arxiv.org/pdf/2509.04419v1.pdf), cication: [**-1**](None) 
+
+	 *Xingtai Lv, Yuxin Zuo, Youbang Sun, ..., Ning Ding, Bowen Zhou*
+- 🌟 [Paper page - Sharing is Caring: Efficient LM Post-Training with Collective RL  Experience Sharing](https://huggingface.co/papers/2509.08721) 
+- 🌟 [Paper page - Reverse-Engineered Reasoning for Open-Ended Generation](https://huggingface.co/papers/2509.06160) 
+- **Parallel-R1: Towards Parallel Thinking via Reinforcement Learning**, `arXiv, 2509.07980`, [arxiv](http://arxiv.org/abs/2509.07980v2), [pdf](http://arxiv.org/pdf/2509.07980v2.pdf), cication: [**-1**](None) 
+
+	 *Tong Zheng, Hongming Zhang, Wenhao Yu, ..., Heng Huang, Dong Yu*
 - **Sample More to Think Less: Group Filtered Policy Optimization for 
   Concise Reasoning**, `arXiv, 2508.09726`, [arxiv](http://arxiv.org/abs/2508.09726v1), [pdf](http://arxiv.org/pdf/2508.09726v1.pdf), cication: [**-1**](None) 
 

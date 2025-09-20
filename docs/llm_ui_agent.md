@@ -37,7 +37,7 @@
 - **MobiAgent: A Systematic Framework for Customizable Mobile Agents**, `arXiv, 2509.00531`, [arxiv](http://arxiv.org/abs/2509.00531v1), [pdf](http://arxiv.org/pdf/2509.00531v1.pdf), cication: [**-1**](None) 
 
 	 *Cheng Zhang, Erhu Feng, Xi Zhao, ..., Yubin Xia, Haibo Chen*
-- **SWIRL: A Staged Workflow for Interleaved Reinforcement Learning in
+- **SWIRL: A Staged Workflow for Interleaved Reinforcement Learning in 
   Mobile GUI Control**, `arXiv, 2508.20018`, [arxiv](http://arxiv.org/abs/2508.20018v1), [pdf](http://arxiv.org/pdf/2508.20018v1.pdf), cication: [**-1**](None) 
 
 	 *Quanfeng Lu, Zhantao Ma, Shuai Zhong, ..., Michael K. Ng, Ping Luo*
@@ -358,7 +358,7 @@
 	 *Linlu Qiu, Liwei Jiang, Ximing Lu, ..., Nouha Dziri, Xiang Ren*
 ## Projects
 
-- [**k2-agent**](https://github.com/k2-agent/k2-agent) - k2-agent ![Star](https://img.shields.io/github/stars/k2-agent/k2-agent.svg?style=social&label=Star)
+- [**k2-agent**](https://github.com/k2-agent/k2-agent) - k2-agent ![Star](https://img.shields.io/github/stars/k2-agent/k2-agent.svg?style=social&label=Star) 
 
 	 *Co-Evolving Know-What and Know-How for Hierarchical Mobile Device Control*
 - [**finalrun-android-world-benchmark**](https://github.com/final-run/finalrun-android-world-benchmark) - final-run ![Star](https://img.shields.io/github/stars/final-run/finalrun-android-world-benchmark.svg?style=social&label=Star) 
@@ -396,7 +396,7 @@
 	 *//github.com/droidrun/droidrun)- 🌟 [**UI-TARS-desktop**](https://github.com/bytedance/UI-TARS-desktop) - bytedance ![Star*
 ## Grounding
 
-- **SparkUI-Parser: Enhancing GUI Perception with Robust Grounding and
+- **SparkUI-Parser: Enhancing GUI Perception with Robust Grounding and 
   Parsing**, `arXiv, 2509.04908`, [arxiv](http://arxiv.org/abs/2509.04908v1), [pdf](http://arxiv.org/pdf/2509.04908v1.pdf), cication: [**-1**](None) 
 
 	 *Hongyi Jing, Jiafu Chen, Chen Rao, ..., Chenguang Ma, Lei Zhao*

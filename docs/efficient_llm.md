@@ -19,7 +19,7 @@
 
 ## Survey
 
-- **Speed Always Wins: A Survey on Efficient Architectures for Large
+- **Speed Always Wins: A Survey on Efficient Architectures for Large 
   Language Models**, `arXiv, 2508.09834`, [arxiv](http://arxiv.org/abs/2508.09834v1), [pdf](http://arxiv.org/pdf/2508.09834v1.pdf), cication: [**-1**](None) 
 
 	 *Weigao Sun, Jiaxi Hu, Yucheng Zhou, ..., Guoqi Li, Yu Cheng*
@@ -50,7 +50,7 @@
 
 ## Efficient LLM
 
-- 🌟 **VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action
+- 🌟 **VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action 
   Model**, `arXiv, 2509.09372`, [arxiv](http://arxiv.org/abs/2509.09372v1), [pdf](http://arxiv.org/pdf/2509.09372v1.pdf), cication: [**-1**](None) 
 
 	 *Yihao Wang, Pengxiang Ding, Lingxiao Li, ..., Jianyi Liu, Donglin Wang* · ([huggingface](https://huggingface.co/VLA-Adapter)) · ([vla-adapter.github](https://vla-adapter.github.io/))
@@ -222,7 +222,10 @@
 - **Set Block Decoding is a Language Model Inference Accelerator**, `arXiv, 2509.04185`, [arxiv](http://arxiv.org/abs/2509.04185v1), [pdf](http://arxiv.org/pdf/2509.04185v1.pdf), cication: [**-1**](None) 
 
 	 *Itai Gat, Heli Ben-Hamu, Marton Havasi, ..., Brian Karrer, Yaron Lipman*
-- [Paper page - XQuant: Breaking the Memory Wall for LLM Inference with KV Cache  Rematerialization](https://huggingface.co/papers/2508.10395)
+- **XQuant: Breaking the Memory Wall for LLM Inference with KV Cache
+  Rematerialization**, `arXiv, 2508.10395`, [arxiv](http://arxiv.org/abs/2508.10395v1), [pdf](http://arxiv.org/pdf/2508.10395v1.pdf), cication: [**-1**](None) 
+
+	 *Aditya Tomar, Coleman Hooper, Minjae Lee, ..., Kurt Keutzer, Amir Gholami*
 - 🌟 [**EAGLE**](https://github.com/SafeAILab/EAGLE) - SafeAILab ![Star](https://img.shields.io/github/stars/SafeAILab/EAGLE.svg?style=social&label=Star) 
 - [SpecForge: Accelerating Speculative Decoding Training for SGLang](https://lmsys.org/blog/2025-07-25-spec-forge/) 
 - [**nano-vllm**](https://github.com/GeeeekExplorer/nano-vllm) - GeeeekExplorer ![Star](https://img.shields.io/github/stars/GeeeekExplorer/nano-vllm.svg?style=social&label=Star) 

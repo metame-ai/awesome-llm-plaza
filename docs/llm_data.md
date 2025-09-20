@@ -146,7 +146,10 @@
 
 ## Synthetic
 
-- [Paper page - BeyondWeb: Lessons from Scaling Synthetic Data for Trillion-scale  Pretraining](https://huggingface.co/papers/2508.10975)
+- **BeyondWeb: Lessons from Scaling Synthetic Data for Trillion-scale
+  Pretraining**, `arXiv, 2508.10975`, [arxiv](http://arxiv.org/abs/2508.10975v2), [pdf](http://arxiv.org/pdf/2508.10975v2.pdf), cication: [**-1**](None) 
+
+	 *DatologyAI, :, Pratyush Maini, ..., Ari Morcos, Matthew Leavitt*
 - **LEMMA: Learning from Errors for MatheMatical Advancement in LLMs**, `arXiv, 2503.17439`, [arxiv](http://arxiv.org/abs/2503.17439v2), [pdf](http://arxiv.org/pdf/2503.17439v2.pdf), cication: [**-1**](None) 
 
 	 *Zhuoshi Pan, Yu Li, Honglin Lin, ..., Conghui He, Lijun Wu*

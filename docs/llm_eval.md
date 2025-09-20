@@ -10,7 +10,9 @@
 
 ## Survey
 
-- [Paper page - A Survey on Large Language Model Benchmarks](https://huggingface.co/papers/2508.15361)
+- **A Survey on Large Language Model Benchmarks**, `arXiv, 2508.15361`, [arxiv](http://arxiv.org/abs/2508.15361v1), [pdf](http://arxiv.org/pdf/2508.15361v1.pdf), cication: [**-1**](None) 
+
+	 *Shiwen Ni, Guhong Chen, Shuaimin Li, ..., Le Sun, Min Yang*
 - **A Survey on LLM-as-a-Judge**, `arXiv, 2411.15594`, [arxiv](http://arxiv.org/abs/2411.15594v1), [pdf](http://arxiv.org/pdf/2411.15594v1.pdf), cication: [**-1**](None) 
 
 	 *Jiawei Gu, Xuhui Jiang, Zhichao Shi, ..., Yuanzhuo Wang, Jian Guo*
@@ -21,7 +23,7 @@
 
 ## LLM Evaluation
 
-- 🌟 [Paper page - Drivel-ology: Challenging LLMs with Interpreting Nonsense with Depth](https://huggingface.co/papers/2509.03867)
+- 🌟 [Paper page - Drivel-ology: Challenging LLMs with Interpreting Nonsense with Depth](https://huggingface.co/papers/2509.03867) 
 - **KORGym: A Dynamic Game Platform for LLM Reasoning Evaluation**, `arXiv, 2505.14552`, [arxiv](http://arxiv.org/abs/2505.14552v2), [pdf](http://arxiv.org/pdf/2505.14552v2.pdf), cication: [**-1**](None) 
 
 	 *Jiajun Shi, Jian Yang, Jiaheng Liu, ..., Wenhao Huang, Ge Zhang*

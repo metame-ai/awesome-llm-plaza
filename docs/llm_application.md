@@ -27,8 +27,11 @@
 
 ## Survey
 
-- [Paper page - From AI for Science to Agentic Science: A Survey on Autonomous  Scientific Discovery](https://huggingface.co/papers/2508.14111)
-- 🌟 [Paper page - A Survey of Scientific Large Language Models: From Data Foundations to  Agent Frontiers](https://huggingface.co/papers/2508.21148)
+- **From AI for Science to Agentic Science: A Survey on Autonomous
+  Scientific Discovery**, `arXiv, 2508.14111`, [arxiv](http://arxiv.org/abs/2508.14111v1), [pdf](http://arxiv.org/pdf/2508.14111v1.pdf), cication: [**-1**](None) 
+
+	 *Jiaqi Wei, Yuejin Yang, Xiang Zhang, ..., Lei Bai, Bowen Zhou*
+- 🌟 [Paper page - A Survey of Scientific Large Language Models: From Data Foundations to  Agent Frontiers](https://huggingface.co/papers/2508.21148) 
 - [**Awesome-LLM-Scientific-Discovery**](https://github.com/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery) - HKUST-KnowComp ![Star](https://img.shields.io/github/stars/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery.svg?style=social&label=Star) 
 - **SurveyX: Academic Survey Automation via Large Language Models**, `arXiv, 2502.14776`, [arxiv](http://arxiv.org/abs/2502.14776v2), [pdf](http://arxiv.org/pdf/2502.14776v2.pdf), cication: [**-1**](None) 
 
@@ -65,7 +68,9 @@
 
 ## Science
 
-- [Paper page - Intern-S1: A Scientific Multimodal Foundation Model](https://huggingface.co/papers/2508.15763)
+- **Intern-S1: A Scientific Multimodal Foundation Model**, `arXiv, 2508.15763`, [arxiv](http://arxiv.org/abs/2508.15763v2), [pdf](http://arxiv.org/pdf/2508.15763v2.pdf), cication: [**-1**](None) 
+
+	 *Lei Bai, Zhongrui Cai, Yuhang Cao, ..., Lin Zhu, Yicheng Zou*
 - **ML-Agent: Reinforcing LLM Agents for Autonomous Machine Learning 
   Engineering**, `arXiv, 2505.23723`, [arxiv](http://arxiv.org/abs/2505.23723v1), [pdf](http://arxiv.org/pdf/2505.23723v1.pdf), cication: [**-1**](None) 
 
