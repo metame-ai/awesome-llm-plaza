@@ -65,7 +65,7 @@
 - **Ovis2.5 Technical Report**, `arXiv, 2508.11737`, [arxiv](http://arxiv.org/abs/2508.11737v1), [pdf](http://arxiv.org/pdf/2508.11737v1.pdf), cication: [**-1**](None) 
 
 	 *Shiyin Lu, Yang Li, Yu Xia, ..., Weihua Luo, Kaifu Zhang*
-- **InternVL3.5: Advancing Open-Source Multimodal Models in Versatility,
+- **InternVL3.5: Advancing Open-Source Multimodal Models in Versatility, 
   Reasoning, and Efficiency**, `arXiv, 2508.18265`, [arxiv](http://arxiv.org/abs/2508.18265v2), [pdf](http://arxiv.org/pdf/2508.18265v2.pdf), cication: [**-1**](None) 
 
 	 *Weiyun Wang, Zhangwei Gao, Lixin Gu, ..., Wenhai Wang, Gen Luo*

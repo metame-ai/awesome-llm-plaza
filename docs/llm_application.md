@@ -27,7 +27,7 @@
 
 ## Survey
 
-- **From AI for Science to Agentic Science: A Survey on Autonomous
+- **From AI for Science to Agentic Science: A Survey on Autonomous 
   Scientific Discovery**, `arXiv, 2508.14111`, [arxiv](http://arxiv.org/abs/2508.14111v1), [pdf](http://arxiv.org/pdf/2508.14111v1.pdf), cication: [**-1**](None) 
 
 	 *Jiaqi Wei, Yuejin Yang, Xiang Zhang, ..., Lei Bai, Bowen Zhou*

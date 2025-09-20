@@ -496,7 +496,7 @@
 - [**verifiers**](https://github.com/willccbb/verifiers) - willccbb ![Star](https://img.shields.io/github/stars/willccbb/verifiers.svg?style=social&label=Star) 
 - 🌟 [Paper page - Deep Think with Confidence](https://huggingface.co/papers/2508.15260) 
 - 🌟 [Paper page - Beyond Pass@1: Self-Play with Variational Problem Synthesis Sustains  RLVR](https://huggingface.co/papers/2508.14029) 
-- **TreePO: Bridging the Gap of Policy Optimization and Efficacy and
+- **TreePO: Bridging the Gap of Policy Optimization and Efficacy and 
   Inference Efficiency with Heuristic Tree-based Modeling**, `arXiv, 2508.17445`, [arxiv](http://arxiv.org/abs/2508.17445v1), [pdf](http://arxiv.org/pdf/2508.17445v1.pdf), cication: [**-1**](None) 
 
 	 *Yizhi Li, Qingshui Gu, Zhoufutu Wen, ..., Ge Zhang, Wenhao Huang*

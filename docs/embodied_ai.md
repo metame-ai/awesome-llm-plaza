@@ -24,7 +24,7 @@
 
 ## Embodied AI
 
-- **EmbodiedOneVision: Interleaved Vision-Text-Action Pretraining for
+- **EmbodiedOneVision: Interleaved Vision-Text-Action Pretraining for 
   General Robot Control**, `arXiv, 2508.21112`, [arxiv](http://arxiv.org/abs/2508.21112v3), [pdf](http://arxiv.org/pdf/2508.21112v3.pdf), cication: [**-1**](None) 
 
 	 *Delin Qu, Haoming Song, Qizhi Chen, ..., Bin Zhao, Dong Wang*
@@ -34,7 +34,7 @@
 - **SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning**, `arXiv, 2509.09674`, [arxiv](http://arxiv.org/abs/2509.09674v1), [pdf](http://arxiv.org/pdf/2509.09674v1.pdf), cication: [**-1**](None) 
 
 	 *Haozhan Li, Yuxin Zuo, Jiale Yu, ..., Bowen Zhou, Ning Ding*
-- **From Language to Action: A Review of Large Language Models as Autonomous
+- **From Language to Action: A Review of Large Language Models as Autonomous 
   Agents and Tool Users**, `arXiv, 2508.17281`, [arxiv](http://arxiv.org/abs/2508.17281v1), [pdf](http://arxiv.org/pdf/2508.17281v1.pdf), cication: [**-1**](None) 
 
 	 *Sadia Sultana Chowa, Riasad Alvi, Subhey Sadi Rahman, ..., Mukhtar Hussain, Sami Azam*

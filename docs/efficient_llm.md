@@ -222,7 +222,7 @@
 - **Set Block Decoding is a Language Model Inference Accelerator**, `arXiv, 2509.04185`, [arxiv](http://arxiv.org/abs/2509.04185v1), [pdf](http://arxiv.org/pdf/2509.04185v1.pdf), cication: [**-1**](None) 
 
 	 *Itai Gat, Heli Ben-Hamu, Marton Havasi, ..., Brian Karrer, Yaron Lipman*
-- **XQuant: Breaking the Memory Wall for LLM Inference with KV Cache
+- **XQuant: Breaking the Memory Wall for LLM Inference with KV Cache 
   Rematerialization**, `arXiv, 2508.10395`, [arxiv](http://arxiv.org/abs/2508.10395v1), [pdf](http://arxiv.org/pdf/2508.10395v1.pdf), cication: [**-1**](None) 
 
 	 *Aditya Tomar, Coleman Hooper, Minjae Lee, ..., Kurt Keutzer, Amir Gholami*

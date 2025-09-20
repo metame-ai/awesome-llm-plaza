@@ -146,7 +146,7 @@
 
 ## Synthetic
 
-- **BeyondWeb: Lessons from Scaling Synthetic Data for Trillion-scale
+- **BeyondWeb: Lessons from Scaling Synthetic Data for Trillion-scale 
   Pretraining**, `arXiv, 2508.10975`, [arxiv](http://arxiv.org/abs/2508.10975v2), [pdf](http://arxiv.org/pdf/2508.10975v2.pdf), cication: [**-1**](None) 
 
 	 *DatologyAI, :, Pratyush Maini, ..., Ari Morcos, Matthew Leavitt*

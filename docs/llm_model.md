@@ -20,7 +20,7 @@
 
 ## LLM Models
 
-- **NVIDIA Nemotron Nano 2: An Accurate and Efficient Hybrid
+- **NVIDIA Nemotron Nano 2: An Accurate and Efficient Hybrid 
   Mamba-Transformer Reasoning Model**, `arXiv, 2508.14444`, [arxiv](http://arxiv.org/abs/2508.14444v4), [pdf](http://arxiv.org/pdf/2508.14444v4.pdf), cication: [**-1**](None) 
 
 	 *NVIDIA, :, Aarti Basant, ..., Zhongbo Zhu, Zijia Chen*
