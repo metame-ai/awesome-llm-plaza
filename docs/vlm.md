@@ -62,6 +62,8 @@
 
 ## Vision-Language Models
 
+- [Paper page - Ovis2.5 Technical Report](https://huggingface.co/papers/2508.11737)
+- [Paper page - InternVL3.5: Advancing Open-Source Multimodal Models in Versatility,  Reasoning, and Efficiency](https://huggingface.co/papers/2508.18265)
 - **Kwai Keye-VL Technical Report**, `arXiv, 2507.01949`, [arxiv](http://arxiv.org/abs/2507.01949v1), [pdf](http://arxiv.org/pdf/2507.01949v1.pdf), cication: [**-1**](None) 
 
 	 *Kwai Keye Team, Biao Yang, Bin Wen, ..., Zhuoran Yang, Zixing Zhang*
@@ -232,6 +234,7 @@
 
 ## Video
 
+- [Paper page - Kwai Keye-VL 1.5 Technical Report](https://huggingface.co/papers/2509.01563)
 - **Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with 
   Long-Term Memory**, `arXiv, 2508.09736`, [arxiv](http://arxiv.org/abs/2508.09736v1), [pdf](http://arxiv.org/pdf/2508.09736v1.pdf), cication: [**-1**](None) 
 
@@ -357,6 +360,7 @@
 
 ## Encoder
 
+- [Paper page - DINOv3](https://huggingface.co/papers/2508.10104)
 - **OpenVision: A Fully-Open, Cost-Effective Family of Advanced Vision 
   Encoders for Multimodal Learning**, `arXiv, 2505.04601`, [arxiv](http://arxiv.org/abs/2505.04601v1), [pdf](http://arxiv.org/pdf/2505.04601v1.pdf), cication: [**-1**](None) 
 

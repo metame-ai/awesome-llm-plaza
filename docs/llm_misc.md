@@ -322,6 +322,7 @@
 
 ## Misc
 
+- [Defeating Nondeterminism in LLM Inference](https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/) 
 - 🌟 **ReasonRank: Empowering Passage Ranking with Strong Reasoning Ability**, `arXiv, 2508.07050`, [arxiv](http://arxiv.org/abs/2508.07050v1), [pdf](http://arxiv.org/pdf/2508.07050v1.pdf), cication: [**-1**](None) 
 
 	 *Wenhan Liu, Xinyu Ma, Weiwei Sun, ..., Dawei Yin, Zhicheng Dou*

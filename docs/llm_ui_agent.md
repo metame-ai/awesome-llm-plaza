@@ -31,6 +31,16 @@
 
 ## GUI Agent
 
+- **Instruction Agent: Enhancing Agent with Expert Demonstration**, `arXiv, 2509.07098`, [arxiv](http://arxiv.org/abs/2509.07098v1), [pdf](http://arxiv.org/pdf/2509.07098v1.pdf), cication: [**-1**](None) 
+
+	 *Yinheng Li, Hailey Hultquist, Justin Wagle, ..., Kazuhito Koishida*
+- **MobiAgent: A Systematic Framework for Customizable Mobile Agents**, `arXiv, 2509.00531`, [arxiv](http://arxiv.org/abs/2509.00531v1), [pdf](http://arxiv.org/pdf/2509.00531v1.pdf), cication: [**-1**](None) 
+
+	 *Cheng Zhang, Erhu Feng, Xi Zhao, ..., Yubin Xia, Haibo Chen*
+- **SWIRL: A Staged Workflow for Interleaved Reinforcement Learning in
+  Mobile GUI Control**, `arXiv, 2508.20018`, [arxiv](http://arxiv.org/abs/2508.20018v1), [pdf](http://arxiv.org/pdf/2508.20018v1.pdf), cication: [**-1**](None) 
+
+	 *Quanfeng Lu, Zhantao Ma, Shuai Zhong, ..., Michael K. Ng, Ping Luo*
 - **ScaleTrack: Scaling and back-tracking Automated GUI Agents**, `arXiv, 2505.00416`, [arxiv](http://arxiv.org/abs/2505.00416v1), [pdf](http://arxiv.org/pdf/2505.00416v1.pdf), cication: [**-1**](None) 
 
 	 *Jing Huang, Zhixiong Zeng, Wenkang Han, ..., Jingyuan Chen, Lin Ma*
@@ -222,6 +232,9 @@
 
 ## Mobile
 
+- **UItron: Foundational GUI Agent with Advanced Perception and Planning**, `arXiv, 2508.21767`, [arxiv](http://arxiv.org/abs/2508.21767v1), [pdf](http://arxiv.org/pdf/2508.21767v1.pdf), cication: [**-1**](None) 
+
+	 *Zhixiong Zeng, Jing Huang, Liming Zheng, ..., Yuzhi He, Lin Ma*
 - **Digi-Q: Learning Q-Value Functions for Training Device-Control Agents**, `arXiv, 2502.15760`, [arxiv](http://arxiv.org/abs/2502.15760v1), [pdf](http://arxiv.org/pdf/2502.15760v1.pdf), cication: [**-1**](None) 
 
 	 *Hao Bai, Yifei Zhou, Li Erran Li, ..., Sergey Levine, Aviral Kumar*
@@ -345,6 +358,9 @@
 	 *Linlu Qiu, Liwei Jiang, Ximing Lu, ..., Nouha Dziri, Xiang Ren*
 ## Projects
 
+- [**k2-agent**](https://github.com/k2-agent/k2-agent) - k2-agent ![Star](https://img.shields.io/github/stars/k2-agent/k2-agent.svg?style=social&label=Star)
+
+	 *Co-Evolving Know-What and Know-How for Hierarchical Mobile Device Control*
 - [**finalrun-android-world-benchmark**](https://github.com/final-run/finalrun-android-world-benchmark) - final-run ![Star](https://img.shields.io/github/stars/final-run/finalrun-android-world-benchmark.svg?style=social&label=Star) 
 - [**MobiAgent**](https://github.com/IPADS-SAI/MobiAgent) - IPADS-SAI ![Star](https://img.shields.io/github/stars/IPADS-SAI/MobiAgent.svg?style=social&label=Star) 
 
@@ -380,6 +396,13 @@
 	 *//github.com/droidrun/droidrun)- 🌟 [**UI-TARS-desktop**](https://github.com/bytedance/UI-TARS-desktop) - bytedance ![Star*
 ## Grounding
 
+- **SparkUI-Parser: Enhancing GUI Perception with Robust Grounding and
+  Parsing**, `arXiv, 2509.04908`, [arxiv](http://arxiv.org/abs/2509.04908v1), [pdf](http://arxiv.org/pdf/2509.04908v1.pdf), cication: [**-1**](None) 
+
+	 *Hongyi Jing, Jiafu Chen, Chen Rao, ..., Chenguang Ma, Lei Zhao*
+- **How Auxiliary Reasoning Unleashes GUI Grounding in VLMs**, `arXiv, 2509.11548`, [arxiv](http://arxiv.org/abs/2509.11548v1), [pdf](http://arxiv.org/pdf/2509.11548v1.pdf), cication: [**-1**](None) 
+
+	 *Weiming Li, Yan Shao, Jing Yang, ..., Yuhan Wang, Manni Duan*
 - **Phi-Ground Tech Report: Advancing Perception in GUI Grounding**, `arXiv, 2507.23779`, [arxiv](http://arxiv.org/abs/2507.23779v1), [pdf](http://arxiv.org/pdf/2507.23779v1.pdf), cication: [**-1**](None) 
 
 	 *Miaosen Zhang, Ziqiang Xu, Jialiang Zhu, ..., Tim Franklin, Baining Guo*

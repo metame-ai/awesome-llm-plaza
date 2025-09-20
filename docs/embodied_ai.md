@@ -24,6 +24,12 @@
 
 ## Embodied AI
 
+- [Paper page - EmbodiedOneVision: Interleaved Vision-Text-Action Pretraining for  General Robot Control](https://huggingface.co/papers/2508.21112)
+- 🌟 [Paper page - VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action  Model](https://huggingface.co/papers/2509.09372)
+
+	 · ([huggingface](https://huggingface.co/VLA-Adapter)) · ([vla-adapter.github](https://vla-adapter.github.io/))
+- [Paper page - SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning](https://huggingface.co/papers/2509.09674)
+- [From Language to Action: A Review of Large Language Models as Autonomous Agents and Tool Users](https://arxiv.org/abs/2508.17281)
 - **MolmoAct: Action Reasoning Models that can Reason in Space**, `arXiv, 2508.07917`, [arxiv](http://arxiv.org/abs/2508.07917v2), [pdf](http://arxiv.org/pdf/2508.07917v2.pdf), cication: [**-1**](None) 
 
 	 *Jason Lee, Jiafei Duan, Haoquan Fang, ..., Dieter Fox, Ranjay Krishna*

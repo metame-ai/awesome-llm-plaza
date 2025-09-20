@@ -16,6 +16,12 @@
 
 ## Survey
 
+- **The Landscape of Agentic Reinforcement Learning for LLMs: A Survey**, `arXiv, 2509.02547`, [arxiv](http://arxiv.org/abs/2509.02547v1), [pdf](http://arxiv.org/pdf/2509.02547v1.pdf), cication: [**-1**](None) 
+
+	 *Guibin Zhang, Hejia Geng, Xiaohang Yu, ..., Philip Torr, Lei Bai*
+- **Empowering Multimodal LLMs with External Tools: A Comprehensive Survey**, `arXiv, 2508.10955`, [arxiv](http://arxiv.org/abs/2508.10955v1), [pdf](http://arxiv.org/pdf/2508.10955v1.pdf), cication: [**-1**](None) 
+
+	 *Wenbin An, Jiahao Nie, Yaqiang Wu, ..., Shijian Lu, Qinghua Zheng*
 - **A Comprehensive Survey of Self-Evolving AI Agents: A New Paradigm 
   Bridging Foundation Models and Lifelong Agentic Systems**, `arXiv, 2508.07407`, [arxiv](http://arxiv.org/abs/2508.07407v1), [pdf](http://arxiv.org/pdf/2508.07407v1.pdf), cication: [**-1**](None) 
 
@@ -59,6 +65,43 @@
 
 ## Agent RL
 
+- [**ART**](https://github.com/OpenPipe/ART) - OpenPipe ![Star](https://img.shields.io/github/stars/OpenPipe/ART.svg?style=social&label=Star)
+- 🌟 **Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent
+  Distillation and Agentic RL**, `arXiv, 2508.13167`, [arxiv](http://arxiv.org/abs/2508.13167v1), [pdf](http://arxiv.org/pdf/2508.13167v1.pdf), cication: [**-1**](None) 
+
+	 *Weizhen Li, Jianbo Lin, Zhuosong Jiang, ..., Ge Zhang, Wangchunshu Zhou*
+- **SSRL: Self-Search Reinforcement Learning**, `arXiv, 2508.10874`, [arxiv](http://arxiv.org/abs/2508.10874v1), [pdf](http://arxiv.org/pdf/2508.10874v1.pdf), cication: [**-1**](None) 
+
+	 *Yuchen Fan, Kaiyan Zhang, Heng Zhou, ..., Ning Ding, Bowen Zhou*
+- 🌟 **Memento: Fine-tuning LLM Agents without Fine-tuning LLMs**, `arXiv, 2508.16153`, [arxiv](http://arxiv.org/abs/2508.16153v2), [pdf](http://arxiv.org/pdf/2508.16153v2.pdf), cication: [**-1**](None) 
+
+	 *Huichi Zhou, Yihang Chen, Siyuan Guo, ..., Linyi Yang, Jun Wang*
+- **rStar2-Agent: Agentic Reasoning Technical Report**, `arXiv, 2508.20722`, [arxiv](http://arxiv.org/abs/2508.20722v1), [pdf](http://arxiv.org/pdf/2508.20722v1.pdf), cication: [**-1**](None) 
+
+	 *Ning Shang, Yifei Liu, Yi Zhu, ..., Fan Yang, Mao Yang*
+- **AWorld: Orchestrating the Training Recipe for Agentic AI**, `arXiv, 2508.20404`, [arxiv](http://arxiv.org/abs/2508.20404v2), [pdf](http://arxiv.org/pdf/2508.20404v2.pdf), cication: [**-1**](None) 
+
+	 *Chengyue Yu, Siyuan Lu, Chenyi Zhuang, ..., David Tsai, Tao Lin*
+- 🌟 **SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn
+  Tool-Integrated Reasoning**, `arXiv, 2509.02479`, [arxiv](http://arxiv.org/abs/2509.02479v2), [pdf](http://arxiv.org/pdf/2509.02479v2.pdf), cication: [**-1**](None) 
+
+	 *Zhenghai Xue, Longtao Zheng, Qian Liu, ..., Zejun Ma, Bo An*
+- **VerlTool: Towards Holistic Agentic Reinforcement Learning with Tool Use**, `arXiv, 2509.01055`, [arxiv](http://arxiv.org/abs/2509.01055v1), [pdf](http://arxiv.org/pdf/2509.01055v1.pdf), cication: [**-1**](None) 
+
+	 *Dongfu Jiang, Yi Lu, Zhuofeng Li, ..., Tianyu Pang, Wenhu Chen* · ([verl-tool](https://github.com/TIGER-AI-Lab/verl-tool) - TIGER-AI-Lab) ![Star](https://img.shields.io/github/stars/TIGER-AI-Lab/verl-tool.svg?style=social&label=Star)
+- **Harnessing Uncertainty: Entropy-Modulated Policy Gradients for
+  Long-Horizon LLM Agents**, `arXiv, 2509.09265`, [arxiv](http://arxiv.org/abs/2509.09265v1), [pdf](http://arxiv.org/pdf/2509.09265v1.pdf), cication: [**-1**](None) 
+
+	 *Jiawei Wang, Jiacai Liu, Yuqian Fu, ..., Yang Wang, Ke Wang*
+- **AgentGym-RL: Training LLM Agents for Long-Horizon Decision Making
+  through Multi-Turn Reinforcement Learning**, `arXiv, 2509.08755`, [arxiv](http://arxiv.org/abs/2509.08755v1), [pdf](http://arxiv.org/pdf/2509.08755v1.pdf), cication: [**-1**](None) 
+
+	 *Zhiheng Xi, Jixuan Huang, Chenyang Liao, ..., Xuanjing Huang, Yu-Gang Jiang*
+- [**RL-Factory**](https://github.com/Simple-Efficient/RL-Factory) - Simple-Efficient ![Star](https://img.shields.io/github/stars/Simple-Efficient/RL-Factory.svg?style=social&label=Star)
+- **MUA-RL: Multi-turn User-interacting Agent Reinforcement Learning for
+  agentic tool use**, `arXiv, 2508.18669`, [arxiv](http://arxiv.org/abs/2508.18669v1), [pdf](http://arxiv.org/pdf/2508.18669v1.pdf), cication: [**-1**](None) 
+
+	 *Weikang Zhao, Xili Wang, Chengdi Ma, ..., Yitao Zhai, Xunliang Cai*
 - 🌟 **Beyond Ten Turns: Unlocking Long-Horizon Agentic Search with Large-Scale 
   Asynchronous RL**, `arXiv, 2508.07976`, [arxiv](http://arxiv.org/abs/2508.07976v2), [pdf](http://arxiv.org/pdf/2508.07976v2.pdf), cication: [**-1**](None) 
 
@@ -117,6 +160,14 @@
 
 ## Agents
 
+- **MCP-Bench: Benchmarking Tool-Using LLM Agents with Complex Real-World
+  Tasks via MCP Servers**, `arXiv, 2508.20453`, [arxiv](http://arxiv.org/abs/2508.20453v1), [pdf](http://arxiv.org/pdf/2508.20453v1.pdf), cication: [**-1**](None) 
+
+	 *Zhenting Wang, Qi Chang, Hemani Patel, ..., Yujia Bao, Eugene Siow*
+- **Memory-R1: Enhancing Large Language Model Agents to Manage and Utilize
+  Memories via Reinforcement Learning**, `arXiv, 2508.19828`, [arxiv](http://arxiv.org/abs/2508.19828v3), [pdf](http://arxiv.org/pdf/2508.19828v3.pdf), cication: [**-1**](None) 
+
+	 *Sikuan Yan, Xiufeng Yang, Zuchao Huang, ..., Volker Tresp, Yunpu Ma*
 - **Efficient Agents: Building Effective Agents While Reducing Cost**, `arXiv, 2508.02694`, [arxiv](http://arxiv.org/abs/2508.02694v1), [pdf](http://arxiv.org/pdf/2508.02694v1.pdf), cication: [**-1**](None) 
 
 	 *Ningning Wang, Xavier Hu, Pai Liu, ..., Yuchen Eleanor Jiang, Wangchunshu Zhou*
@@ -523,6 +574,7 @@
 
 ## Multi Agent
 
+- [**ROMA**](https://github.com/sentient-agi/ROMA) - sentient-agi ![Star](https://img.shields.io/github/stars/sentient-agi/ROMA.svg?style=social&label=Star)
 - [**AWorld**](https://github.com/inclusionAI/AWorld) - inclusionAI ![Star](https://img.shields.io/github/stars/inclusionAI/AWorld.svg?style=social&label=Star) 
 
 	 *The Agent Runtime for Self-Improvement*

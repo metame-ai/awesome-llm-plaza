@@ -25,6 +25,7 @@
 
 ## English Models
 
+- [gpt-oss-120b & gpt-oss-20b Model Card](https://arxiv.org/abs/2508.10925)
 - 🌟 [**gpt-oss**](https://github.com/openai/gpt-oss) - openai ![Star](https://img.shields.io/github/stars/openai/gpt-oss.svg?style=social&label=Star) 
 - [OpenReasoning-Nemotron-7B Overview](https://huggingface.co/nvidia/OpenReasoning-Nemotron-7B)  🤗 
 - [SmolLM3: smol, multilingual, long-context reasoner](https://huggingface.co/blog/smollm3)  🤗 
@@ -112,6 +113,8 @@
 
 ## Chinese Models
 
+- [Seed-OSS Open-Source Models](https://huggingface.co/ByteDance-Seed/Seed-OSS-36B-Instruct)  🤗
+- [LongCat-Flash Technical Report](https://arxiv.org/abs/2509.01322)
 - 🌟 **GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models**, `arXiv, 2508.06471`, [arxiv](http://arxiv.org/abs/2508.06471v1), [pdf](http://arxiv.org/pdf/2508.06471v1.pdf), cication: [**-1**](None) 
 
 	 *GLM-4. 5 Team, :, Aohan Zeng, ..., Yuxiao Dong, Jie Tang*

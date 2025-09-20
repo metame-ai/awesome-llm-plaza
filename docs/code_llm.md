@@ -138,6 +138,7 @@
 
 ## Evaluation
 
+- 🌟 [Paper page - A.S.E: A Repository-Level Benchmark for Evaluating Security in  AI-Generated Code](https://huggingface.co/papers/2508.18106)
 - **LiveCodeBench Pro: How Do Olympiad Medalists Judge LLMs in Competitive 
   Programming?**, `arXiv, 2506.11928`, [arxiv](http://arxiv.org/abs/2506.11928v1), [pdf](http://arxiv.org/pdf/2506.11928v1.pdf), cication: [**-1**](None) 
 

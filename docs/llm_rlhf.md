@@ -129,6 +129,9 @@
 
 ## Projects
 
+- [**RL**](https://github.com/NVIDIA-NeMo/RL) - NVIDIA-NeMo ![Star](https://img.shields.io/github/stars/NVIDIA-NeMo/RL.svg?style=social&label=Star)
+
+	 *A Scalable and Efficient Post-Training Library*
 - :star2: [**OpenRLHF**](https://github.com/OpenRLHF/OpenRLHF) - OpenRLHF ![Star](https://img.shields.io/github/stars/OpenRLHF/OpenRLHF.svg?style=social&label=Star) 
 
 	 · ([arxiv](https://arxiv.org/abs/2405.11143)) · ([docs.google](https://docs.google.com/presentation/d/1JRhB1d7csofx0PIZBmfyBdMluxNd5JLPpUHrrvVhGnk/edit?usp=sharing))
