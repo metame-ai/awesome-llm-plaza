@@ -68,6 +68,9 @@
 
 ## Science
 
+- **AI-Researcher: Autonomous Scientific Innovation**, `arXiv, 2505.18705`, [arxiv](http://arxiv.org/abs/2505.18705v1), [pdf](http://arxiv.org/pdf/2505.18705v1.pdf), cication: [**-1**](None) 
+
+	 *Jiabin Tang, Lianghao Xia, Zhonghang Li, ..., Chao Huang*
 - **Intern-S1: A Scientific Multimodal Foundation Model**, `arXiv, 2508.15763`, [arxiv](http://arxiv.org/abs/2508.15763v2), [pdf](http://arxiv.org/pdf/2508.15763v2.pdf), cication: [**-1**](None) 
 
 	 *Lei Bai, Zhongrui Cai, Yuhang Cao, ..., Lin Zhu, Yicheng Zou*

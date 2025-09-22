@@ -62,6 +62,10 @@
 
 ## Vision-Language Models
 
+- **SAIL-VL2 Technical Report**, `arXiv, 2509.14033`, [arxiv](http://arxiv.org/abs/2509.14033v2), [pdf](http://arxiv.org/pdf/2509.14033v2.pdf), cication: [**-1**](None) 
+
+	 *Weijie Yin, Yongjie Ye, Fangxun Shu, ..., Shuicheng Yan, Chao Feng*
+- [Qianfan-vl model series.](https://huggingface.co/collections/baidu/qianfan-vl-68d0b9b0be8575c17267c85c)  🤗
 - **Ovis2.5 Technical Report**, `arXiv, 2508.11737`, [arxiv](http://arxiv.org/abs/2508.11737v1), [pdf](http://arxiv.org/pdf/2508.11737v1.pdf), cication: [**-1**](None) 
 
 	 *Shiyin Lu, Yang Li, Yu Xia, ..., Weihua Luo, Kaifu Zhang*
