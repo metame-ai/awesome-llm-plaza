@@ -30,6 +30,10 @@
 
 ## RAG
 
+- **MetaEmbed: Scaling Multimodal Retrieval at Test-Time with Flexible Late
+  Interaction**, `arXiv, 2509.18095`, [arxiv](http://arxiv.org/abs/2509.18095v1), [pdf](http://arxiv.org/pdf/2509.18095v1.pdf), cication: [**-1**](None) 
+
+	 *Zilin Xiao, Qi Ma, Mengting Gu, ..., Vicente Ordonez, Vijai Mohan*
 - 🌟 **Vision-Guided Chunking Is All You Need: Enhancing RAG with Multimodal 
   Document Understanding**, `arXiv, 2506.16035`, [arxiv](http://arxiv.org/abs/2506.16035v2), [pdf](http://arxiv.org/pdf/2506.16035v2.pdf), cication: [**-1**](None) 
 

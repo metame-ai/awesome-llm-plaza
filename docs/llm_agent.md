@@ -163,14 +163,14 @@
 - **Scaling Agents via Continual Pre-training**, `arXiv, 2509.13310`, [arxiv](http://arxiv.org/abs/2509.13310v1), [pdf](http://arxiv.org/pdf/2509.13310v1.pdf), cication: [**-1**](None) 
 
 	 *Liangcai Su, Zhen Zhang, Guangyu Li, ..., Fei Huang, Jingren Zhou*
-- **WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic
+- **WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic 
   Data and Scalable Reinforcement Learning**, `arXiv, 2509.13305`, [arxiv](http://arxiv.org/abs/2509.13305v1), [pdf](http://arxiv.org/pdf/2509.13305v1.pdf), cication: [**-1**](None) 
 
 	 *Kuan Li, Zhongwang Zhang, Huifeng Yin, ..., Fei Huang, Jingren Zhou*
 - **Towards General Agentic Intelligence via Environment Scaling**, `arXiv, 2509.13311`, [arxiv](http://arxiv.org/abs/2509.13311v1), [pdf](http://arxiv.org/pdf/2509.13311v1.pdf), cication: [**-1**](None) 
 
 	 *Runnan Fang, Shihao Cai, Baixuan Li, ..., Fei Huang, Jingren Zhou*
-- **WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon
+- **WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon 
   Agents**, `arXiv, 2509.13309`, [arxiv](http://arxiv.org/abs/2509.13309v1), [pdf](http://arxiv.org/pdf/2509.13309v1.pdf), cication: [**-1**](None) 
 
 	 *Zile Qiao, Guoxin Chen, Xuanzhong Chen, ..., Fei Huang, Jingren Zhou*

@@ -16,11 +16,11 @@
 
 ## Long Context
 
-- **WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon
+- **WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon 
   Agents**, `arXiv, 2509.13309`, [arxiv](http://arxiv.org/abs/2509.13309v1), [pdf](http://arxiv.org/pdf/2509.13309v1.pdf), cication: [**-1**](None) 
 
 	 *Zile Qiao, Guoxin Chen, Xuanzhong Chen, ..., Fei Huang, Jingren Zhou*
-- **The Illusion of Diminishing Returns: Measuring Long Horizon Execution in
+- **The Illusion of Diminishing Returns: Measuring Long Horizon Execution in 
   LLMs**, `arXiv, 2509.09677`, [arxiv](http://arxiv.org/abs/2509.09677v1), [pdf](http://arxiv.org/pdf/2509.09677v1.pdf), cication: [**-1**](None) 
 
 	 *Akshit Sinha, Arvindh Arun, Shashwat Goel, ..., Steffen Staab, Jonas Geiping*
