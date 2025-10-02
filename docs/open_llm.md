@@ -25,6 +25,7 @@
 
 ## English Models
 
+- [DeepSeek-V3.1-Terminus](https://huggingface.co/deepseek-ai/DeepSeek-V3.1-Terminus)  🤗
 - **gpt-oss-120b & gpt-oss-20b Model Card**, `arXiv, 2508.10925`, [arxiv](http://arxiv.org/abs/2508.10925v1), [pdf](http://arxiv.org/pdf/2508.10925v1.pdf), cication: [**-1**](None) 
 
 	 *OpenAI, :, Sandhini Agarwal, ..., Eddie Zhang, Shengjia Zhao*
@@ -115,6 +116,10 @@
 
 ## Chinese Models
 
+- [Ring-1T-preview, Deep Thinking, No Waiting](https://huggingface.co/inclusionAI/Ring-1T-preview)  🤗
+- **LongCat-Flash-Thinking Technical Report**, `arXiv, 2509.18883`, [arxiv](http://arxiv.org/abs/2509.18883v1), [pdf](http://arxiv.org/pdf/2509.18883v1.pdf), cication: [**-1**](None) 
+
+	 *Meituan LongCat Team, Anchun Gui, Bei Li, ..., Zongyu Wang, Zunyuan Yang*
 - [Seed-OSS Open-Source Models](https://huggingface.co/ByteDance-Seed/Seed-OSS-36B-Instruct)  🤗 
 - **LongCat-Flash Technical Report**, `arXiv, 2509.01322`, [arxiv](http://arxiv.org/abs/2509.01322v1), [pdf](http://arxiv.org/pdf/2509.01322v1.pdf), cication: [**-1**](None) 
 

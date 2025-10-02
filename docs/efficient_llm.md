@@ -50,6 +50,7 @@
 
 ## Efficient LLM
 
+- 🌟 [LoRA Without Regret](https://bff531bb.connectionism.pages.dev/blog/lora/) 
 - 🌟 **VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action 
   Model**, `arXiv, 2509.09372`, [arxiv](http://arxiv.org/abs/2509.09372v1), [pdf](http://arxiv.org/pdf/2509.09372v1.pdf), cication: [**-1**](None) 
 

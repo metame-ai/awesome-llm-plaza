@@ -30,7 +30,7 @@
 
 ## RAG
 
-- **MetaEmbed: Scaling Multimodal Retrieval at Test-Time with Flexible Late
+- **MetaEmbed: Scaling Multimodal Retrieval at Test-Time with Flexible Late 
   Interaction**, `arXiv, 2509.18095`, [arxiv](http://arxiv.org/abs/2509.18095v1), [pdf](http://arxiv.org/pdf/2509.18095v1.pdf), cication: [**-1**](None) 
 
 	 *Zilin Xiao, Qi Ma, Mengting Gu, ..., Vicente Ordonez, Vijai Mohan*
@@ -197,6 +197,7 @@
 
 ## Projects
 
+- [**memvid**](https://github.com/Olow304/memvid) - Olow304 ![Star](https://img.shields.io/github/stars/Olow304/memvid.svg?style=social&label=Star)
 - [**RAG-Anything**](https://github.com/HKUDS/RAG-Anything) - HKUDS ![Star](https://img.shields.io/github/stars/HKUDS/RAG-Anything.svg?style=social&label=Star) 
 
 	 *All-in-One RAG System*

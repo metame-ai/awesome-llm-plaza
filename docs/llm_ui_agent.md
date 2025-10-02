@@ -14,6 +14,10 @@
 
 ## Survey
 
+- **Generalizability of Large Language Model-Based Agents: A Comprehensive
+  Survey**, `arXiv, 2509.16330`, [arxiv](http://arxiv.org/abs/2509.16330v1), [pdf](http://arxiv.org/pdf/2509.16330v1.pdf), cication: [**-1**](None) 
+
+	 *Minxing Zhang, Yi Yang, Roy Xie, ..., Shuyan Zhou, Jian Pei*
 - **A Survey of WebAgents: Towards Next-Generation AI Agents for Web 
   Automation with Large Foundation Models**, `arXiv, 2503.23350`, [arxiv](http://arxiv.org/abs/2503.23350v4), [pdf](http://arxiv.org/pdf/2503.23350v4.pdf), cication: [**-1**](None) 
 
@@ -31,6 +35,15 @@
 
 ## GUI Agent
 
+- **UIPro: Unleashing Superior Interaction Capability For GUI Agents**, `arXiv, 2509.17328`, [arxiv](http://arxiv.org/abs/2509.17328v1), [pdf](http://arxiv.org/pdf/2509.17328v1.pdf), cication: [**-1**](None) 
+
+	 *Hongxin Li, Jingran Su, Jingfan Chen, ..., Qing Li, Zhaoxiang Zhang*
+- **BTL-UI: Blink-Think-Link Reasoning Model for GUI Agent**, `arXiv, 2509.15566`, [arxiv](http://arxiv.org/abs/2509.15566v2), [pdf](http://arxiv.org/pdf/2509.15566v2.pdf), cication: [**-1**](None) 
+
+	 *Shaojie Zhang, Ruoceng Zhang, Pei Fu, ..., Zhenbo Luo, Jian Luan*
+- **Retrieval-augmented GUI Agents with Generative Guidelines**, `arXiv, 2509.24183`, [arxiv](http://arxiv.org/abs/2509.24183v1), [pdf](http://arxiv.org/pdf/2509.24183v1.pdf), cication: [**-1**](None) 
+
+	 *Ran Xu, Kaixin Ma, Wenhao Yu, ..., Carl Yang, Dong Yu*
 - **Instruction Agent: Enhancing Agent with Expert Demonstration**, `arXiv, 2509.07098`, [arxiv](http://arxiv.org/abs/2509.07098v1), [pdf](http://arxiv.org/pdf/2509.07098v1.pdf), cication: [**-1**](None) 
 
 	 *Yinheng Li, Hailey Hultquist, Justin Wagle, ..., Kazuhito Koishida*
@@ -293,6 +306,13 @@
 
 ## Misc
 
+- **UISim: An Interactive Image-Based UI Simulator for Dynamic Mobile
+  Environments**, `arXiv, 2509.21733`, [arxiv](http://arxiv.org/abs/2509.21733v1), [pdf](http://arxiv.org/pdf/2509.21733v1.pdf), cication: [**-1**](None) 
+
+	 *Jiannan Xiang, Yun Zhu, Lei Shu, ..., Srinivas Sunkara, Jindong Chen*
+- **UI-UG: A Unified MLLM for UI Understanding and Generation**, `arXiv, 2509.24361`, [arxiv](http://arxiv.org/abs/2509.24361v2), [pdf](http://arxiv.org/pdf/2509.24361v2.pdf), cication: [**-1**](None) 
+
+	 *Hao Yang, Weijie Qiu, Ru Zhang, ..., Shuoyang Liu, Hai Rao*
 - [基于 UI-TARS 的 Computer Use 实现](https://mp.weixin.qq.com/s/a6Rn9CHoE14KabNLLf_tZQ) 
 - [**digirl**](https://github.com/DigiRL-agent/digirl/tree/master/env_setup) - DigiRL-agent ![Star](https://img.shields.io/github/stars/DigiRL-agent/digirl.svg?style=social&label=Star) 
 - [UI Agents（智能体）最新论文](https://www.breezedeus.com/article/awesome-ui-agents) 
@@ -396,6 +416,9 @@
 	 *//github.com/droidrun/droidrun)- 🌟 [**UI-TARS-desktop**](https://github.com/bytedance/UI-TARS-desktop) - bytedance ![Star*
 ## Grounding
 
+- **Orcust: Stepwise-Feedback Reinforcement Learning for GUI Agent**, `arXiv, 2509.17917`, [arxiv](http://arxiv.org/abs/2509.17917v1), [pdf](http://arxiv.org/pdf/2509.17917v1.pdf), cication: [**-1**](None) 
+
+	 *Junyu Lu, Songxin Zhang, Zejian Xie, ..., Zhuoyang Song, Jiaxing Zhang*
 - **SparkUI-Parser: Enhancing GUI Perception with Robust Grounding and 
   Parsing**, `arXiv, 2509.04908`, [arxiv](http://arxiv.org/abs/2509.04908v1), [pdf](http://arxiv.org/pdf/2509.04908v1.pdf), cication: [**-1**](None) 
 
@@ -425,7 +448,11 @@
 
 	 *Fei Tang, Zhangxuan Gu, Zhengxi Lu, ..., Jun Xiao, Yueting Zhuang* · ([GUI-G2](https://github.com/zju-real/GUI-G2) - zju-real) ![Star](https://img.shields.io/github/stars/zju-real/GUI-G2.svg?style=social&label=Star) · ([zju-real.github](https://zju-real.github.io/GUI-G2))
 ## Online RL
-- **MobileGUI-RL: Advancing Mobile GUI Agent through Reinforcement Learning 
+
+- **GUI-Shepherd: Reliable Process Reward and Verification for Long-Sequence
+  GUI Tasks**, `arXiv, 2509.23738`, [arxiv](http://arxiv.org/abs/2509.23738v1), [pdf](http://arxiv.org/pdf/2509.23738v1.pdf), cication: [**-1**](None) 
+
+	 *Cong Chen, Kaixiang Ji, Hao Zhong, ..., Hao Chen, Chunhua Shen*
   in Online Environment**, `arXiv, 2507.05720`, [arxiv](http://arxiv.org/abs/2507.05720v1), [pdf](http://arxiv.org/pdf/2507.05720v1.pdf), cication: [**-1**](None) 
 
 	 *Yucheng Shi, Wenhao Yu, Zaitang Li, ..., Haitao Mi, Dong Yu*

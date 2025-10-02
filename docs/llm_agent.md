@@ -588,6 +588,10 @@
 
 ## Multi Agent
 
+- **Eigen-1: Adaptive Multi-Agent Refinement with Monitor-Based RAG for
+  Scientific Reasoning**, `arXiv, 2509.21193`, [arxiv](http://arxiv.org/abs/2509.21193v1), [pdf](http://arxiv.org/pdf/2509.21193v1.pdf), cication: [**-1**](None) 
+
+	 *Xiangru Tang, Wanghan Xu, Yujie Wang, ..., Hanrui Wang, Di Jin*
 - [**ROMA**](https://github.com/sentient-agi/ROMA) - sentient-agi ![Star](https://img.shields.io/github/stars/sentient-agi/ROMA.svg?style=social&label=Star) 
 - [**AWorld**](https://github.com/inclusionAI/AWorld) - inclusionAI ![Star](https://img.shields.io/github/stars/inclusionAI/AWorld.svg?style=social&label=Star) 
 

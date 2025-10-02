@@ -204,6 +204,7 @@
 
 ## Misc
 
+- [Measuring AI Ability to Complete Long Tasks](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/) 
 - [AIME 2025 performance of Grok and OpenAI models](https://x.com/teortaxesTex/status/1892471638534303946)  𝕏 
 - [AI Model Comparison](https://countless.dev/) 
 - [LLM LeaderboardsA trusted source for real-world AI model performance and insights](https://llm-stats.com/) 
