@@ -588,7 +588,7 @@
 
 ## Multi Agent
 
-- **Eigen-1: Adaptive Multi-Agent Refinement with Monitor-Based RAG for
+- **Eigen-1: Adaptive Multi-Agent Refinement with Monitor-Based RAG for 
   Scientific Reasoning**, `arXiv, 2509.21193`, [arxiv](http://arxiv.org/abs/2509.21193v1), [pdf](http://arxiv.org/pdf/2509.21193v1.pdf), cication: [**-1**](None) 
 
 	 *Xiangru Tang, Wanghan Xu, Yujie Wang, ..., Hanrui Wang, Di Jin*

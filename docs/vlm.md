@@ -62,11 +62,11 @@
 
 ## Vision-Language Models
 
-- **MiniCPM-V 4.5: Cooking Efficient MLLMs via Architecture, Data, and
+- **MiniCPM-V 4.5: Cooking Efficient MLLMs via Architecture, Data, and 
   Training Recipe**, `arXiv, 2509.18154`, [arxiv](http://arxiv.org/abs/2509.18154v1), [pdf](http://arxiv.org/pdf/2509.18154v1.pdf), cication: [**-1**](None) 
 
 	 *Tianyu Yu, Zefan Wang, Chongyi Wang, ..., Zhiyuan Liu, Maosong Sun*
-- **LLaVA-OneVision-1.5: Fully Open Framework for Democratized Multimodal
+- **LLaVA-OneVision-1.5: Fully Open Framework for Democratized Multimodal 
   Training**, `arXiv, 2509.23661`, [arxiv](http://arxiv.org/abs/2509.23661v1), [pdf](http://arxiv.org/pdf/2509.23661v1.pdf), cication: [**-1**](None) 
 
 	 *Xiang An, Yin Xie, Kaicheng Yang, ..., Bo Li, Jiankang Deng*
@@ -1092,7 +1092,7 @@
 
 ## Projects
 
-- [**Qianfan-VL**](https://github.com/baidubce/Qianfan-VL) - baidubce ![Star](https://img.shields.io/github/stars/baidubce/Qianfan-VL.svg?style=social&label=Star)
+- [**Qianfan-VL**](https://github.com/baidubce/Qianfan-VL) - baidubce ![Star](https://img.shields.io/github/stars/baidubce/Qianfan-VL.svg?style=social&label=Star) 
 - [**dots.vlm1**](https://github.com/rednote-hilab/dots.vlm1) - rednote-hilab ![Star](https://img.shields.io/github/stars/rednote-hilab/dots.vlm1.svg?style=social&label=Star) 
 - [**nanoVLM**](https://github.com/huggingface/nanoVLM) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/nanoVLM.svg?style=social&label=Star) 
 - [**ml-fastvlm**](https://github.com/apple/ml-fastvlm) - apple ![Star](https://img.shields.io/github/stars/apple/ml-fastvlm.svg?style=social&label=Star) 

@@ -14,7 +14,7 @@
 
 ## Survey
 
-- **Generalizability of Large Language Model-Based Agents: A Comprehensive
+- **Generalizability of Large Language Model-Based Agents: A Comprehensive 
   Survey**, `arXiv, 2509.16330`, [arxiv](http://arxiv.org/abs/2509.16330v1), [pdf](http://arxiv.org/pdf/2509.16330v1.pdf), cication: [**-1**](None) 
 
 	 *Minxing Zhang, Yi Yang, Roy Xie, ..., Shuyan Zhou, Jian Pei*
@@ -306,7 +306,7 @@
 
 ## Misc
 
-- **UISim: An Interactive Image-Based UI Simulator for Dynamic Mobile
+- **UISim: An Interactive Image-Based UI Simulator for Dynamic Mobile 
   Environments**, `arXiv, 2509.21733`, [arxiv](http://arxiv.org/abs/2509.21733v1), [pdf](http://arxiv.org/pdf/2509.21733v1.pdf), cication: [**-1**](None) 
 
 	 *Jiannan Xiang, Yun Zhu, Lei Shu, ..., Srinivas Sunkara, Jindong Chen*
@@ -449,7 +449,7 @@
 	 *Fei Tang, Zhangxuan Gu, Zhengxi Lu, ..., Jun Xiao, Yueting Zhuang* · ([GUI-G2](https://github.com/zju-real/GUI-G2) - zju-real) ![Star](https://img.shields.io/github/stars/zju-real/GUI-G2.svg?style=social&label=Star) · ([zju-real.github](https://zju-real.github.io/GUI-G2))
 ## Online RL
 
-- **GUI-Shepherd: Reliable Process Reward and Verification for Long-Sequence
+- **GUI-Shepherd: Reliable Process Reward and Verification for Long-Sequence 
   GUI Tasks**, `arXiv, 2509.23738`, [arxiv](http://arxiv.org/abs/2509.23738v1), [pdf](http://arxiv.org/pdf/2509.23738v1.pdf), cication: [**-1**](None) 
 
 	 *Cong Chen, Kaixiang Ji, Hao Zhong, ..., Hao Chen, Chunhua Shen*

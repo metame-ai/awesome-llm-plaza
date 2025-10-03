@@ -22,8 +22,8 @@
 
 ## Code LLM
 
-- [KAT-Dev-32B  is an open-source 32B-parameter model for software engineering tasks.](https://huggingface.co/Kwaipilot/KAT-Dev)  🤗
-- **Critique-Coder: Enhancing Coder Models by Critique Reinforcement
+- [KAT-Dev-32B  is an open-source 32B-parameter model for software engineering tasks.](https://huggingface.co/Kwaipilot/KAT-Dev)  🤗 
+- **Critique-Coder: Enhancing Coder Models by Critique Reinforcement 
   Learning**, `arXiv, 2509.22824`, [arxiv](http://arxiv.org/abs/2509.22824v1), [pdf](http://arxiv.org/pdf/2509.22824v1.pdf), cication: [**-1**](None) 
 
 	 *Chi Ruan, Dongfu Jiang, Yubo Wang, ..., Wenhu Chen* · ([𝕏](https://x.com/WenhuChen/status/1973149191309258795))
@@ -192,8 +192,8 @@
 
 ## Projects
 
-- [**cwm**](https://github.com/facebookresearch/cwm) - facebookresearch ![Star](https://img.shields.io/github/stars/facebookresearch/cwm.svg?style=social&label=Star)
-- [**DeepCode**](https://github.com/HKUDS/DeepCode) - HKUDS ![Star](https://img.shields.io/github/stars/HKUDS/DeepCode.svg?style=social&label=Star)
+- [**cwm**](https://github.com/facebookresearch/cwm) - facebookresearch ![Star](https://img.shields.io/github/stars/facebookresearch/cwm.svg?style=social&label=Star) 
+- [**DeepCode**](https://github.com/HKUDS/DeepCode) - HKUDS ![Star](https://img.shields.io/github/stars/HKUDS/DeepCode.svg?style=social&label=Star) 
 
 	 *Open Agentic Coding*
 - [**awesome-claude-code**](https://github.com/hesreallyhim/awesome-claude-code) - hesreallyhim ![Star](https://img.shields.io/github/stars/hesreallyhim/awesome-claude-code.svg?style=social&label=Star) 

@@ -197,7 +197,7 @@
 
 ## Projects
 
-- [**memvid**](https://github.com/Olow304/memvid) - Olow304 ![Star](https://img.shields.io/github/stars/Olow304/memvid.svg?style=social&label=Star)
+- [**memvid**](https://github.com/Olow304/memvid) - Olow304 ![Star](https://img.shields.io/github/stars/Olow304/memvid.svg?style=social&label=Star) 
 - [**RAG-Anything**](https://github.com/HKUDS/RAG-Anything) - HKUDS ![Star](https://img.shields.io/github/stars/HKUDS/RAG-Anything.svg?style=social&label=Star) 
 
 	 *All-in-One RAG System*
