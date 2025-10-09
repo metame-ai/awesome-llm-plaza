@@ -383,6 +383,9 @@
 
 ## Projects
 
+- [**Tora**](https://github.com/shangshang-wang/Tora) - shangshang-wang ![Star](https://img.shields.io/github/stars/shangshang-wang/Tora.svg?style=social&label=Star)
+
+	 *Torchtune-LoRA for RL*
 - [**quack**](https://github.com/Dao-AILab/quack) - Dao-AILab ![Star](https://img.shields.io/github/stars/Dao-AILab/quack.svg?style=social&label=Star) 
 
 	 *A Quirky Assortment of CuTe Kernels 🦆*
