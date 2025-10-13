@@ -75,6 +75,12 @@
 
 ## Reasoning
 
+- 🌟 **Agent Learning via Early Experience**, `arXiv, 2510.08558`, [arxiv](http://arxiv.org/abs/2510.08558v1), [pdf](http://arxiv.org/pdf/2510.08558v1.pdf), cication: [**-1**](None) 
+
+	 *Kai Zhang, Xiangchao Chen, Bo Liu, ..., Yu Su, Yifan Wu*
+- 🌟 **Agent Learning via Early Experience**, `arXiv, 2510.08558`, [arxiv](http://arxiv.org/abs/2510.08558v1), [pdf](http://arxiv.org/pdf/2510.08558v1.pdf), cication: [**-1**](None) 
+
+	 *Kai Zhang, Xiangchao Chen, Bo Liu, ..., Yu Su, Yifan Wu*
 - **Self-Questioning Language Models**, `arXiv, 2508.03682`, [arxiv](http://arxiv.org/abs/2508.03682v3), [pdf](http://arxiv.org/pdf/2508.03682v3.pdf), cication: [**-1**](None) 
 
 	 *Lili Chen, Mihir Prabhudesai, Katerina Fragkiadaki, ..., Hao Liu, Deepak Pathak*
