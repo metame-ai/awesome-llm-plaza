@@ -226,6 +226,10 @@
 
 ## Mixture Of Experts
 
+- **Stabilizing MoE Reinforcement Learning by Aligning Training and
+  Inference Routers**, `arXiv, 2510.11370`, [arxiv](http://arxiv.org/abs/2510.11370v1), [pdf](http://arxiv.org/pdf/2510.11370v1.pdf), cication: [**-1**](None) 
+
+	 *Wenhan Ma, Hailin Zhang, Liang Zhao, ..., Zhifang Sui, Fuli Luo*
 - **Chain-of-Experts: Unlocking the Communication Power of 
   Mixture-of-Experts Models**, `arXiv, 2506.18945`, [arxiv](http://arxiv.org/abs/2506.18945v1), [pdf](http://arxiv.org/pdf/2506.18945v1.pdf), cication: [**-1**](None) 
 

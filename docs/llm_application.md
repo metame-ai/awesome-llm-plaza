@@ -345,7 +345,7 @@
 
 ## Projects
 
-- 🌟 [**nanochat**](https://github.com/karpathy/nanochat) - karpathy ![Star](https://img.shields.io/github/stars/karpathy/nanochat.svg?style=social&label=Star)
+- 🌟 [**nanochat**](https://github.com/karpathy/nanochat) - karpathy ![Star](https://img.shields.io/github/stars/karpathy/nanochat.svg?style=social&label=Star) 
 - [**gallery**](https://github.com/google-ai-edge/gallery) - google-ai-edge ![Star](https://img.shields.io/github/stars/google-ai-edge/gallery.svg?style=social&label=Star) 
 - [**interview-coder**](https://github.com/ibttf/interview-coder) - ibttf ![Star](https://img.shields.io/github/stars/ibttf/interview-coder.svg?style=social&label=Star) 
 - [**open_deep_research**](https://github.com/langchain-ai/open_deep_research) - langchain-ai ![Star](https://img.shields.io/github/stars/langchain-ai/open_deep_research.svg?style=social&label=Star) 
@@ -463,4 +463,4 @@
 
 ## Misc
 
-- [**files-to-prompt**](https://github.com/simonw/files-to-prompt) - simonw ![Star](https://img.shields.io/github/stars/simonw/files-to-prompt.svg?style=social&label=Star)
+- [**files-to-prompt**](https://github.com/simonw/files-to-prompt) - simonw ![Star](https://img.shields.io/github/stars/simonw/files-to-prompt.svg?style=social&label=Star) 
