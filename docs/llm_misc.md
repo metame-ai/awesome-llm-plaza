@@ -322,7 +322,7 @@
 
 ## Misc
 
-- [The State of AI 2025: Insights from Nathan Benaich at Air Street Capital #stateofai #ai](https://www.youtube.com/watch?v=Ub-7bY4b3Hs)  :clapper:
+- [The State of AI 2025: Insights from Nathan Benaich at Air Street Capital #stateofai #ai](https://www.youtube.com/watch?v=Ub-7bY4b3Hs)  :clapper: 
 - [Defeating Nondeterminism in LLM Inference](https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/) 
 - 🌟 **ReasonRank: Empowering Passage Ranking with Strong Reasoning Ability**, `arXiv, 2508.07050`, [arxiv](http://arxiv.org/abs/2508.07050v1), [pdf](http://arxiv.org/pdf/2508.07050v1.pdf), cication: [**-1**](None) 
 
