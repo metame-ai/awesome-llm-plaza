@@ -50,6 +50,12 @@
 
 ## Interpretability
 
+- **Provable Scaling Laws of Feature Emergence from Learning Dynamics of
+  Grokking**, `arXiv, 2509.21519`, [arxiv](http://arxiv.org/abs/2509.21519v3), [pdf](http://arxiv.org/pdf/2509.21519v3.pdf), cication: [**-1**](None) 
+
+	 *Yuandong Tian*
+
+	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650993961&idx=2&sn=72cc6cee759d2313fdaaad55a842376f&chksm=858208e03983b11aa52899ccc2ec3063bdb39cc631e211cef549aa6994077944e02a444958c4&scene=0&xtrack=1))
 - 🌟 **Is Chain-of-Thought Reasoning of LLMs a Mirage? A Data Distribution Lens**, `arXiv, 2508.01191`, [arxiv](http://arxiv.org/abs/2508.01191v3), [pdf](http://arxiv.org/pdf/2508.01191v3.pdf), cication: [**-1**](None) 
 
 	 *Chengshuai Zhao, Zhen Tan, Pingchuan Ma, ..., Yingzhen Yang, Huan Liu*

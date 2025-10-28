@@ -62,6 +62,9 @@
 
 ## Vision-Language Models
 
+- **DeepSeek-OCR: Contexts Optical Compression**, `arXiv, 2510.18234`, [arxiv](http://arxiv.org/abs/2510.18234v1), [pdf](http://arxiv.org/pdf/2510.18234v1.pdf), cication: [**-1**](None) 
+
+	 *Haoran Wei, Yaofeng Sun, Yukun Li*
 - **MiniCPM-V 4.5: Cooking Efficient MLLMs via Architecture, Data, and 
   Training Recipe**, `arXiv, 2509.18154`, [arxiv](http://arxiv.org/abs/2509.18154v1), [pdf](http://arxiv.org/pdf/2509.18154v1.pdf), cication: [**-1**](None) 
 

@@ -176,6 +176,11 @@
 
 ## Distillation
 
+- **KDRL: Post-Training Reasoning LLMs via Unified Knowledge Distillation
+  and Reinforcement Learning**, `arXiv, 2506.02208`, [arxiv](http://arxiv.org/abs/2506.02208v1), [pdf](http://arxiv.org/pdf/2506.02208v1.pdf), cication: [**-1**](None) 
+
+	 *Hongling Xu, Qi Zhu, Heyuan Deng, ..., Ruifeng Xu, Fei Mi*
+- 🌟 [On-Policy Distillation](https://thinkingmachines.ai/blog/on-policy-distillation/) 
 - **Distilling LLM Agent into Small Models with Retrieval and Code Tools**, `arXiv, 2505.17612`, [arxiv](http://arxiv.org/abs/2505.17612v1), [pdf](http://arxiv.org/pdf/2505.17612v1.pdf), cication: [**-1**](None) 
 
 	 *Minki Kang, Jongwon Jeong, Seanie Lee, ..., Jaewoong Cho, Sung Ju Hwang* · ([agent-distillation](https://github.com/Nardien/agent-distillation) - Nardien) ![Star](https://img.shields.io/github/stars/Nardien/agent-distillation.svg?style=social&label=Star)
