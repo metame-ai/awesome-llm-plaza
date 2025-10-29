@@ -176,7 +176,7 @@
 
 ## Distillation
 
-- **KDRL: Post-Training Reasoning LLMs via Unified Knowledge Distillation
+- **KDRL: Post-Training Reasoning LLMs via Unified Knowledge Distillation 
   and Reinforcement Learning**, `arXiv, 2506.02208`, [arxiv](http://arxiv.org/abs/2506.02208v1), [pdf](http://arxiv.org/pdf/2506.02208v1.pdf), cication: [**-1**](None) 
 
 	 *Hongling Xu, Qi Zhu, Heyuan Deng, ..., Ruifeng Xu, Fei Mi*

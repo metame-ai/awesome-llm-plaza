@@ -50,7 +50,7 @@
 
 ## Interpretability
 
-- **Provable Scaling Laws of Feature Emergence from Learning Dynamics of
+- **Provable Scaling Laws of Feature Emergence from Learning Dynamics of 
   Grokking**, `arXiv, 2509.21519`, [arxiv](http://arxiv.org/abs/2509.21519v3), [pdf](http://arxiv.org/pdf/2509.21519v3.pdf), cication: [**-1**](None) 
 
 	 *Yuandong Tian*
