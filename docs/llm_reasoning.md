@@ -75,6 +75,7 @@
 
 ## Reasoning
 
+- [P1: Mastering Physics Olympiads with Reinforcement Learning](https://prime-rl.github.io/P1/) 
 - 🌟 **Agent Learning via Early Experience**, `arXiv, 2510.08558`, [arxiv](http://arxiv.org/abs/2510.08558v1), [pdf](http://arxiv.org/pdf/2510.08558v1.pdf), cication: [**-1**](None) 
 
 	 *Kai Zhang, Xiangchao Chen, Bo Liu, ..., Yu Su, Yifan Wu*

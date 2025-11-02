@@ -116,6 +116,7 @@
 
 ## Chinese Models
 
+- [**MiniMax-M2**](https://github.com/MiniMax-AI/MiniMax-M2) - MiniMax-AI ![Star](https://img.shields.io/github/stars/MiniMax-AI/MiniMax-M2.svg?style=social&label=Star)
 - [Ring-1T-preview, Deep Thinking, No Waiting](https://huggingface.co/inclusionAI/Ring-1T-preview)  🤗 
 - **LongCat-Flash-Thinking Technical Report**, `arXiv, 2509.18883`, [arxiv](http://arxiv.org/abs/2509.18883v1), [pdf](http://arxiv.org/pdf/2509.18883v1.pdf), cication: [**-1**](None) 
 

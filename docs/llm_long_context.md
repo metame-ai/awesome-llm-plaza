@@ -16,6 +16,9 @@
 
 ## Long Context
 
+- **Kimi Linear: An Expressive, Efficient Attention Architecture**, `arXiv, 2510.26692`, [arxiv](http://arxiv.org/abs/2510.26692v1), [pdf](http://arxiv.org/pdf/2510.26692v1.pdf), cication: [**-1**](None) 
+
+	 *Kimi Team, Yu Zhang, Zongyu Lin, ..., Zhilin Yang, Yulun Du*
 - **WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon 
   Agents**, `arXiv, 2509.13309`, [arxiv](http://arxiv.org/abs/2509.13309v1), [pdf](http://arxiv.org/pdf/2509.13309v1.pdf), cication: [**-1**](None) 
 
